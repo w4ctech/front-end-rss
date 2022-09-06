@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-05 23:45:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-06 01:22:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## CSS
 
@@ -12,3 +12,4 @@
 - [2022-07-21-超酷！CSS-font-palette与彩色字体显示](https://www.zhangxinxu.com/wordpress/2022/07/css-font-palette/) 
 - [2022-06-30-CSS排版为何强？瞧瞧多牛这换行](https://www.zhangxinxu.com/wordpress/2022/06/css-line-break-word-wrap-all/) 
 - [2022-09-05-笑尿我了这个叫-endless-screaming-的-twitter-帐号](https://www.v2ex.com/t/877959) 
+- [2022-09-06-设计稿生成代码（imgcook）居然还可以开发动画!](https://toutiao.io/k/62j9x1h) 

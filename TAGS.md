@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-09-06 08:50:15。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-06 09:15:44。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -159,7 +159,6 @@
 
 
 - [【V2EX】成都,需求-Java-游戏服务器开发.](https://www.v2ex.com/t/878093)
-- [【V2EX】开发了一个-golang-的游戏端框架，欢迎大家指导一下](https://www.v2ex.com/t/878068)
 - [......【查看更多】......](./details/tags/dev-game.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -186,6 +185,8 @@
 - [【张鑫旭-鑫空间-鑫生活】如何继承自定义元素及其他JS中扩展新方法](https://www.zhangxinxu.com/wordpress/2022/06/js-extend-class-custom-elements/)
 - [【张鑫旭-鑫空间-鑫生活】介绍一种CSS变量未定义语法也OK的小妙招](https://www.zhangxinxu.com/wordpress/2022/06/css-var-optional-empty-trick/)
 - [【张鑫旭-鑫空间-鑫生活】如何实现页面刷新后不定位到之前的滚动位置？](https://www.zhangxinxu.com/wordpress/2022/05/history-scrollrestoration/)
+- [【V2EX】@建设银行，你家的“建行生活”该适配安卓-13-了~~](https://www.v2ex.com/t/878120)
+- [【V2EX】怎样通过可以用-JSON-表示的数据结构来存储本地化内容的语言回退状态](https://www.v2ex.com/t/878119)
 - [【技术头条】JS-replaceAll-和-matchAll-使用指南不指北-www.zhangxinxu.com](https://blogread.cn/news/go.php?idItem=15365&url=https%3A%2F%2Fwww.zhangxinxu.com%2Fwordpress%2F2022%2F08%2Fjs-replaceall-matchall%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】货拉拉-Android-模块化路由框架：TheRouter](https://toutiao.io/k/41va9ok)
 - [......【查看更多】......](./details/tags/javascript.md)
@@ -244,7 +245,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】广州17岁男生在定点医院参加高考-特殊考场视频监考](https://m.caixin.com/m/2021-06-05/101723418.html)
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
 - [【V2EX】PHP-有办法实现调用客户摄像头进行扫码吗？](https://www.v2ex.com/t/878090)
-- [【V2EX】高分辩率-ai-图像生成-stable-diffusion](https://www.v2ex.com/t/878069)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -357,7 +357,6 @@
 
 
 - [【V2EX】（招聘/base-北京）可远程在家办公](https://www.v2ex.com/t/878082)
-- [【V2EX】小公司如何做个好面试官](https://www.v2ex.com/t/878067)
 - [【开发者头条】面试官：为什么-MySQL-索引要使用-B+树而不是其它树形结构？比如-B-树？](https://toutiao.io/k/4pu1idw)
 - [......【查看更多】......](./details/tags/job-interview.md)
 

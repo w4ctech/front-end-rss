@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-06 08:50:15。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-09-06 09:15:44。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,19 @@
 </summary>
 
 
+- [【V2EX】2022-09-06-有无-CLI-的翻译软件?](https://www.v2ex.com/t/878122) 
+- [【V2EX】2022-09-06-为什么感觉抖音有点洗脑的感觉](https://www.v2ex.com/t/878121) 
+- [【V2EX】2022-09-06-@建设银行，你家的“建行生活”该适配安卓-13-了~~](https://www.v2ex.com/t/878120) 
+- [【V2EX】2022-09-06-怎样通过可以用-JSON-表示的数据结构来存储本地化内容的语言回退状态](https://www.v2ex.com/t/878119) 
+- [【V2EX】2022-09-06-各位有熟悉-SSD-的能推荐个-1T-容量的型号吗？](https://www.v2ex.com/t/878118) 
+- [【V2EX】2022-09-06-来了，他来了，华为-Mate50，可惜不是俺的菜](https://www.v2ex.com/t/878117) 
+- [【V2EX】2022-09-06-有没有这样一个翻译软件客户端，可以快捷键弹出，然后自动光标到翻译文本框，然后软件越简洁越好，也不需要划词翻译，不习惯](https://www.v2ex.com/t/878116) 
+- [【V2EX】2022-09-06-iPhone-最近变卡了](https://www.v2ex.com/t/878115) 
+- [【V2EX】2022-09-06-大家怎么管理信用卡的](https://www.v2ex.com/t/878114) 
+- [【V2EX】2022-09-06-Movist-丢失-HDR-选项的问题](https://www.v2ex.com/t/878113) 
+- [【V2EX】2022-09-06-m5-ev-对标的是特斯拉-Y-吗](https://www.v2ex.com/t/878112) 
+- [【V2EX】2022-09-06-有对洋垃圾服务器感兴趣的吗？捡了个新的服务器](https://www.v2ex.com/t/878111) 
+- [【V2EX】2022-09-06-阿里云懒散的举报审查系统将逐渐成为诈骗分子的温床](https://www.v2ex.com/t/878110) 
 - [【V2EX】2022-09-06-mysql-怎么保证每次查出来的排名是一致的](https://www.v2ex.com/t/878109) 
 - [【V2EX】2022-09-06-网易云黑胶-VIP（7-天），共-5-张（9-月份）.](https://www.v2ex.com/t/878108) 
 - [【V2EX】2022-09-06-求推荐一个-2k-144hz-的显示器-价位-1000-以下](https://www.v2ex.com/t/878107) 
@@ -98,13 +111,6 @@
 - [【V2EX】2022-09-06-购买二手车时候有哪些可以用于查询真伪的-app-呀，还有哪些鉴定的方法。](https://www.v2ex.com/t/878077) 
 - [【V2EX】2022-09-06-不知道-Microsoft-Loop-啥时候发布](https://www.v2ex.com/t/878075) 
 - [【V2EX】2022-09-06-关于-ios16-的新功能的感受](https://www.v2ex.com/t/878074) 
-- [【V2EX】2022-09-06-MacOS-邮件.app-配置-exchange-的时候怎么手动设置服务器地址](https://www.v2ex.com/t/878070) 
-- [【V2EX】2022-09-06-高分辩率-ai-图像生成-stable-diffusion](https://www.v2ex.com/t/878069) 
-- [【V2EX】2022-09-06-开发了一个-golang-的游戏端框架，欢迎大家指导一下](https://www.v2ex.com/t/878068) 
-- [【V2EX】2022-09-06-小公司如何做个好面试官](https://www.v2ex.com/t/878067) 
-- [【V2EX】2022-09-06-求购-16-寸的-mbp，过渡使用；-m2-pro-看样子今年等不到了](https://www.v2ex.com/t/878064) 
-- [【V2EX】2022-09-06-BI-系统的分布式部署原理和技术实现](https://www.v2ex.com/t/878062) 
-- [【V2EX】2022-09-06-Apple-ID-家庭共享-&-转区问题](https://www.v2ex.com/t/878060) 
 - [【技术头条】2022-09-06-被误解的Event-Sourcing-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15379&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-use-event-sourcing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-06-向量数据库入坑指南：聊聊来自元宇宙大厂-Meta-的相似度检索技术-Faiss-soulteary.com](https://blogread.cn/news/go.php?idItem=15378&url=https%3A%2F%2Fsoulteary.com%2F2022%2F09%2F03%2Fvector-database-guide-talk-about-the-similarity-retrieval-technology-from-metaverse-big-company-faiss.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-06-啊哈，一道有趣的Go并发题-colobu.com](https://blogread.cn/news/go.php?idItem=15377&url=https%3A%2F%2Fcolobu.com%2F2022%2F09%2F01%2Ffizzbuzz-in-go%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -145,10 +151,10 @@
 - [【开发者头条】2022-09-06-专注效率提升「GitHub-热点速览-v.22.36」](https://toutiao.io/k/j00l7y7) 
 - [【开发者头条】2022-09-06-在生产环境中使用-Linkerd](https://toutiao.io/k/1ehxgcu) 
 - [【开发者头条】2022-09-06-从-Linux-内核角度探秘-JDK-NIO-文件读写本质](https://toutiao.io/k/1lrdqxx) 
-- [【开发者头条】2022-09-06-推荐-SpringBoot-官方强烈推荐，连接池，太快了！](https://toutiao.io/k/zumxh7v) 
-- [【开发者头条】2022-09-06-推荐-聊聊数据库建表的15个小技巧](https://toutiao.io/k/uym7cfr) 
 - [【开发者头条】2022-09-06-推荐-什么是顶级的思维？](https://toutiao.io/k/ulqvlcd) 
+- [【开发者头条】2022-09-06-推荐-SpringBoot-官方强烈推荐，连接池，太快了！](https://toutiao.io/k/zumxh7v) 
 - [【开发者头条】2022-09-06-推荐-丢弃掉那些BeanUtils工具类吧，MapStruct真香！！！](https://toutiao.io/k/6muqkam) 
+- [【开发者头条】2022-09-06-推荐-聊聊数据库建表的15个小技巧](https://toutiao.io/k/uym7cfr) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

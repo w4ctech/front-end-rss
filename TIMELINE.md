@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-06 14:25:17。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-09-06 14:42:55。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,9 @@
 </summary>
 
 
+- [【V2EX】2022-09-06-为啥-Dockerfile-的-RUN-mkdir-/foo/bar-创建出来的目录权限和宿主机的-umask-还有容器里面-root-的-umask-设置都对不上？](https://www.v2ex.com/t/878201) 
+- [【V2EX】2022-09-06-请教各位大神。能否看下这个-TRC20-地址是哪个交易所的](https://www.v2ex.com/t/878200) 
+- [【V2EX】2022-09-06-学区问题预测](https://www.v2ex.com/t/878199) 
 - [【V2EX】2022-09-06-为什么我代理已经用的日本-ip-访问-dmm-还是经常打不开](https://www.v2ex.com/t/878198) 
 - [【V2EX】2022-09-06-计算机和金融会不会即将成为下一个生化环材](https://www.v2ex.com/t/878196) 
 - [【V2EX】2022-09-06-微信频繁需要重新加载怎么解决？](https://www.v2ex.com/t/878195) 
@@ -100,8 +103,6 @@
 - [【V2EX】2022-09-06-Web-3-招聘-高级后端/初级后端工程师啦（本科以上-30-岁以下）](https://www.v2ex.com/t/878154) 
 - [【V2EX】2022-09-06-前端如何获得某个函数的完全实现?](https://www.v2ex.com/t/878153) 
 - [【V2EX】2022-09-06-油猴脚本-Github-增加辅助按钮-Web-VSCode-&-git-history-](https://www.v2ex.com/t/878152) 
-- [【V2EX】2022-09-06-求推薦-3.5mm-耳機，音質媲美或超越-EarPods。](https://www.v2ex.com/t/878151) 
-- [【V2EX】2022-09-06-Mac-mini-M1-睡眠后显示器无法唤醒怎么解决？](https://www.v2ex.com/t/878149) 
 - [【技术头条】2022-09-06-被误解的Event-Sourcing-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15379&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-use-event-sourcing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-06-向量数据库入坑指南：聊聊来自元宇宙大厂-Meta-的相似度检索技术-Faiss-soulteary.com](https://blogread.cn/news/go.php?idItem=15378&url=https%3A%2F%2Fsoulteary.com%2F2022%2F09%2F03%2Fvector-database-guide-talk-about-the-similarity-retrieval-technology-from-metaverse-big-company-faiss.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-06-啊哈，一道有趣的Go并发题-colobu.com](https://blogread.cn/news/go.php?idItem=15377&url=https%3A%2F%2Fcolobu.com%2F2022%2F09%2F01%2Ffizzbuzz-in-go%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -137,15 +138,15 @@
 - [【开发者头条】2022-09-06-Python爬虫：让“蜘蛛”帮我们工作](https://toutiao.io/k/xp4gqtq) 
 - [【开发者头条】2022-09-06-设计稿生成代码（imgcook）居然还可以开发动画!](https://toutiao.io/k/62j9x1h) 
 - [【开发者头条】2022-09-06-专注效率提升「GitHub-热点速览-v.22.36」](https://toutiao.io/k/j00l7y7) 
-- [【开发者头条】2022-09-06-谈谈打破网络攻击生命周期](https://toutiao.io/k/t6xckit) 
 - [【开发者头条】2022-09-06-【第2721期】React-Query的优化](https://toutiao.io/k/arnd1b0) 
+- [【开发者头条】2022-09-06-谈谈打破网络攻击生命周期](https://toutiao.io/k/t6xckit) 
 - [【开发者头条】2022-09-06-容器环境-JVM-内存配置最佳实践](https://toutiao.io/k/ss9eose) 
 - [【开发者头条】2022-09-06-在生产环境中使用-Linkerd](https://toutiao.io/k/1ehxgcu) 
 - [【开发者头条】2022-09-06-从-Linux-内核角度探秘-JDK-NIO-文件读写本质](https://toutiao.io/k/1lrdqxx) 
-- [【开发者头条】2022-09-06-推荐-什么是顶级的思维？](https://toutiao.io/k/ulqvlcd) 
+- [【开发者头条】2022-09-06-推荐-丢弃掉那些BeanUtils工具类吧，MapStruct真香！！！](https://toutiao.io/k/6muqkam) 
 - [【开发者头条】2022-09-06-推荐-聊聊数据库建表的15个小技巧](https://toutiao.io/k/uym7cfr) 
 - [【开发者头条】2022-09-06-推荐-SpringBoot-官方强烈推荐，连接池，太快了！](https://toutiao.io/k/zumxh7v) 
-- [【开发者头条】2022-09-06-推荐-丢弃掉那些BeanUtils工具类吧，MapStruct真香！！！](https://toutiao.io/k/6muqkam) 
+- [【开发者头条】2022-09-06-推荐-什么是顶级的思维？](https://toutiao.io/k/ulqvlcd) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

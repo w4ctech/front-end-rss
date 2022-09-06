@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2022-09-06 14:25:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-06 14:42:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-09-06-为啥-Dockerfile-的-RUN-mkdir-/foo/bar-创建出来的目录权限和宿主机的-umask-还有容器里面-root-的-umask-设置都对不上？](https://www.v2ex.com/t/878201) 
+- [2022-09-06-请教各位大神。能否看下这个-TRC20-地址是哪个交易所的](https://www.v2ex.com/t/878200) 
+- [2022-09-06-学区问题预测](https://www.v2ex.com/t/878199) 
 - [2022-09-06-为什么我代理已经用的日本-ip-访问-dmm-还是经常打不开](https://www.v2ex.com/t/878198) 
 - [2022-09-06-计算机和金融会不会即将成为下一个生化环材](https://www.v2ex.com/t/878196) 
 - [2022-09-06-微信频繁需要重新加载怎么解决？](https://www.v2ex.com/t/878195) 
@@ -37,5 +40,3 @@
 - [2022-09-06-Web-3-招聘-高级后端/初级后端工程师啦（本科以上-30-岁以下）](https://www.v2ex.com/t/878154) 
 - [2022-09-06-前端如何获得某个函数的完全实现?](https://www.v2ex.com/t/878153) 
 - [2022-09-06-油猴脚本-Github-增加辅助按钮-Web-VSCode-&-git-history-](https://www.v2ex.com/t/878152) 
-- [2022-09-06-求推薦-3.5mm-耳機，音質媲美或超越-EarPods。](https://www.v2ex.com/t/878151) 
-- [2022-09-06-Mac-mini-M1-睡眠后显示器无法唤醒怎么解决？](https://www.v2ex.com/t/878149) 

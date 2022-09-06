@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-06 21:40:46，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-06 22:14:56，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-09-06-Selenium-这种大型项目靠什么盈利？](https://www.v2ex.com/t/878227) ![](assets/new.png)  
 - [2022-09-06-♿说的道理♿-人人都可以用的古神语翻译器](https://www.v2ex.com/t/878226) ![](assets/new.png)  
 - [2022-09-06-Android-Studio-如何加载.tif-文件格式的图像](https://www.v2ex.com/t/878225) ![](assets/new.png)  
 - [2022-09-06-Python-程序后台运行，如何写在控制台与他交互啊。怎么自定义命令](https://www.v2ex.com/t/878224) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-09-06-内推码：-77572-22/23-届-Thoughtworks-校招](https://www.v2ex.com/t/878207) ![](assets/new.png)  
 - [2022-09-06-什么样的闭源开发者能获得你的信任？](https://www.v2ex.com/t/878206) ![](assets/new.png)  
 - [2022-09-06-除了-madvr，还有什么视频渲染器比较好？](https://www.v2ex.com/t/878205) ![](assets/new.png)  
-- [2022-09-06-为啥-Dockerfile-的-RUN-mkdir-/foo/bar-创建出来的目录权限和宿主机的-umask-还有容器里面-root-的-umask-设置都对不上？](https://www.v2ex.com/t/878201) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

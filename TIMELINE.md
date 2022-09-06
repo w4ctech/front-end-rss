@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-06 21:40:46。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-09-06 22:14:56。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,7 @@
 </summary>
 
 
+- [【V2EX】2022-09-06-Selenium-这种大型项目靠什么盈利？](https://www.v2ex.com/t/878227) 
 - [【V2EX】2022-09-06-♿说的道理♿-人人都可以用的古神语翻译器](https://www.v2ex.com/t/878226) 
 - [【V2EX】2022-09-06-Android-Studio-如何加载.tif-文件格式的图像](https://www.v2ex.com/t/878225) 
 - [【V2EX】2022-09-06-Python-程序后台运行，如何写在控制台与他交互啊。怎么自定义命令](https://www.v2ex.com/t/878224) 
@@ -106,7 +107,6 @@
 - [【V2EX】2022-09-06-Mac-加个内存真贵啊](https://www.v2ex.com/t/878180) 
 - [【V2EX】2022-09-06-配置完-gitlab-ssh-key-后，在-mac-下仍不能使用公钥访问](https://www.v2ex.com/t/878179) 
 - [【V2EX】2022-09-06-Tailchat-v1.0.0-已发布，欢迎尝试](https://www.v2ex.com/t/878178) 
-- [【V2EX】2022-09-06-shadowrocket-和-Quantumult-X-功能差别已经不大了](https://www.v2ex.com/t/878177) 
 - [【技术头条】2022-09-06-被误解的Event-Sourcing-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15379&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-use-event-sourcing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-06-向量数据库入坑指南：聊聊来自元宇宙大厂-Meta-的相似度检索技术-Faiss-soulteary.com](https://blogread.cn/news/go.php?idItem=15378&url=https%3A%2F%2Fsoulteary.com%2F2022%2F09%2F03%2Fvector-database-guide-talk-about-the-similarity-retrieval-technology-from-metaverse-big-company-faiss.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-06-啊哈，一道有趣的Go并发题-colobu.com](https://blogread.cn/news/go.php?idItem=15377&url=https%3A%2F%2Fcolobu.com%2F2022%2F09%2F01%2Ffizzbuzz-in-go%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -147,11 +147,11 @@
 - [【开发者头条】2022-09-06-容器环境-JVM-内存配置最佳实践](https://toutiao.io/k/ss9eose) 
 - [【开发者头条】2022-09-06-在生产环境中使用-Linkerd](https://toutiao.io/k/1ehxgcu) 
 - [【开发者头条】2022-09-06-从-Linux-内核角度探秘-JDK-NIO-文件读写本质](https://toutiao.io/k/1lrdqxx) 
-- [【开发者头条】2022-09-06-推荐-丢弃掉那些BeanUtils工具类吧，MapStruct真香！！！](https://toutiao.io/k/6muqkam) 
-- [【开发者头条】2022-09-06-推荐-公司40k招的架构师写的API网关选型总结，就是牛逼！](https://toutiao.io/k/kyi9yzt) 
 - [【开发者头条】2022-09-06-推荐-什么是顶级的思维？](https://toutiao.io/k/ulqvlcd) 
-- [【开发者头条】2022-09-06-推荐-SpringBoot-官方强烈推荐，连接池，太快了！](https://toutiao.io/k/zumxh7v) 
+- [【开发者头条】2022-09-06-推荐-丢弃掉那些BeanUtils工具类吧，MapStruct真香！！！](https://toutiao.io/k/6muqkam) 
 - [【开发者头条】2022-09-06-推荐-聊聊数据库建表的15个小技巧](https://toutiao.io/k/uym7cfr) 
+- [【开发者头条】2022-09-06-推荐-SpringBoot-官方强烈推荐，连接池，太快了！](https://toutiao.io/k/zumxh7v) 
+- [【开发者头条】2022-09-06-推荐-公司40k招的架构师写的API网关选型总结，就是牛逼！](https://toutiao.io/k/kyi9yzt) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

@@ -9953,6 +9953,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "今年的工作真难找",
+        "link": "https://www.v2ex.com/t/878218",
+        "date": "2022-09-06"
+      },
+      {
+        "title": "监控系统神器- 普罗米修斯 prometheus 快速入门",
+        "link": "https://www.v2ex.com/t/878216",
+        "date": "2022-09-06"
+      },
+      {
         "title": "20220906 午夜俱乐部",
         "link": "https://www.v2ex.com/t/878215",
         "date": "2022-09-06"
@@ -10126,16 +10136,6 @@
         "title": "试着找份远程工作 十年服务开发经验， 6 年 Go，第二语言 Python ， C/C++出身",
         "link": "https://www.v2ex.com/t/878169",
         "date": "2022-09-06"
-      },
-      {
-        "title": "苹果备忘录，有没有技巧玩双链？",
-        "link": "https://www.v2ex.com/t/878168",
-        "date": "2022-09-06"
-      },
-      {
-        "title": "运营商给用户发送的短信问题",
-        "link": "https://www.v2ex.com/t/878167",
-        "date": "2022-09-06"
       }
     ]
   },
@@ -10287,13 +10287,13 @@
         "date": "2022-09-06"
       },
       {
-        "title": "Java 19 的结构化并发，一种新的多线程编程模式",
-        "link": "https://toutiao.io/k/jpy37uk",
+        "title": "基于 Go 语言开发的监控系统",
+        "link": "https://toutiao.io/k/ea6idok",
         "date": "2022-09-06"
       },
       {
-        "title": "基于 Go 语言开发的监控系统",
-        "link": "https://toutiao.io/k/ea6idok",
+        "title": "Java 19 的结构化并发，一种新的多线程编程模式",
+        "link": "https://toutiao.io/k/jpy37uk",
         "date": "2022-09-06"
       },
       {
@@ -10352,18 +10352,8 @@
         "date": "2022-09-06"
       },
       {
-        "title": "[推荐] SpringBoot 官方强烈推荐，连接池，太快了！",
-        "link": "https://toutiao.io/k/zumxh7v",
-        "date": "2022-09-06"
-      },
-      {
-        "title": "[推荐] 丢弃掉那些BeanUtils工具类吧，MapStruct真香！！！",
-        "link": "https://toutiao.io/k/6muqkam",
-        "date": "2022-09-06"
-      },
-      {
-        "title": "[推荐] 什么是顶级的思维？",
-        "link": "https://toutiao.io/k/ulqvlcd",
+        "title": "[推荐] 公司40k招的架构师写的API网关选型总结，就是牛逼！",
+        "link": "https://toutiao.io/k/kyi9yzt",
         "date": "2022-09-06"
       },
       {
@@ -10372,8 +10362,18 @@
         "date": "2022-09-06"
       },
       {
-        "title": "[推荐] 公司40k招的架构师写的API网关选型总结，就是牛逼！",
-        "link": "https://toutiao.io/k/kyi9yzt",
+        "title": "[推荐] 丢弃掉那些BeanUtils工具类吧，MapStruct真香！！！",
+        "link": "https://toutiao.io/k/6muqkam",
+        "date": "2022-09-06"
+      },
+      {
+        "title": "[推荐] SpringBoot 官方强烈推荐，连接池，太快了！",
+        "link": "https://toutiao.io/k/zumxh7v",
+        "date": "2022-09-06"
+      },
+      {
+        "title": "[推荐] 什么是顶级的思维？",
+        "link": "https://toutiao.io/k/ulqvlcd",
         "date": "2022-09-06"
       }
     ]

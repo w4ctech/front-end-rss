@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-06 16:19:18，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-06 17:01:29，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-09-06-今年的工作真难找](https://www.v2ex.com/t/878218) ![](assets/new.png)  
+- [2022-09-06-监控系统神器--普罗米修斯-prometheus-快速入门](https://www.v2ex.com/t/878216) ![](assets/new.png)  
 - [2022-09-06-20220906-午夜俱乐部](https://www.v2ex.com/t/878215) ![](assets/new.png)  
 - [2022-09-06-入职的公司少，想问问各位就职公司平均多久一次会议？](https://www.v2ex.com/t/878213) ![](assets/new.png)  
 - [2022-09-06-求助最近使用-Redission-分布式锁遇到的坑](https://www.v2ex.com/t/878212) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-09-06-微信频繁需要重新加载怎么解决？](https://www.v2ex.com/t/878195) ![](assets/new.png)  
 - [2022-09-06-国内部分高校因不明原因-OneDrive-被锁（A1-订阅），求分析](https://www.v2ex.com/t/878194) ![](assets/new.png)  
 - [2022-09-06-国际-AI-医学大赛-最后关头努了把力，搞了个世界前三](https://www.v2ex.com/t/878193) ![](assets/new.png)  
-- [2022-09-06-网页监控-changedetection-的-xpath-怎么写？](https://www.v2ex.com/t/878192) ![](assets/new.png)  
-- [2022-09-06-微软为-Vue.js-推出-Power-BI-组件，三大前端开发框架齐了](https://www.v2ex.com/t/878191) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -560,8 +560,8 @@
 - [2022-09-06-这12款idea插件，能让你代码飞起来!](https://toutiao.io/k/fz64jos) ![](assets/new.png)  
 - [2022-09-06-得物云原生全链路追踪Trace2.0架构实践](https://toutiao.io/k/okz0hly) ![](assets/new.png)  
 - [2022-09-06-钱付了，订单还是未支付，用户炸了！——聊聊如何防止支付掉单！](https://toutiao.io/k/hkwl5e7) ![](assets/new.png)  
-- [2022-09-06-Java-19-的结构化并发，一种新的多线程编程模式](https://toutiao.io/k/jpy37uk) ![](assets/new.png)  
 - [2022-09-06-基于-Go-语言开发的监控系统](https://toutiao.io/k/ea6idok) ![](assets/new.png)  
+- [2022-09-06-Java-19-的结构化并发，一种新的多线程编程模式](https://toutiao.io/k/jpy37uk) ![](assets/new.png)  
 - [2022-09-06-货拉拉-Android-模块化路由框架：TheRouter](https://toutiao.io/k/41va9ok) ![](assets/new.png)  
 - [2022-09-06-Prometheus的四种指标类型，我终于搞懂了](https://toutiao.io/k/nph94wu) ![](assets/new.png)  
 - [2022-09-06-对-Go2-错误处理提案的批判](https://toutiao.io/k/xpozc4w) ![](assets/new.png)  

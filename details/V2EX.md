@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-09-06 20:42:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-06 21:13:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-09-06-♿说的道理♿-人人都可以用的古神语翻译器](https://www.v2ex.com/t/878226) 
 - [2022-09-06-Android-Studio-如何加载.tif-文件格式的图像](https://www.v2ex.com/t/878225) 
 - [2022-09-06-Python-程序后台运行，如何写在控制台与他交互啊。怎么自定义命令](https://www.v2ex.com/t/878224) 
 - [2022-09-06-PC-上复制文字出现乱码，是我的设置问题吗？](https://www.v2ex.com/t/878223) 

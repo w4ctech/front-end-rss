@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-06 15:16:18。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-09-06 15:45:37。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,10 @@
 </summary>
 
 
+- [【V2EX】2022-09-06-公司的电脑登录微信，发不出图片，剪贴板粘贴文本也不行，是什么实现原理](https://www.v2ex.com/t/878209) 
+- [【V2EX】2022-09-06-上海-米哈游-miHoYo-2022.9.6-最新招聘信息（社招、秋招可内推哦）](https://www.v2ex.com/t/878208) 
+- [【V2EX】2022-09-06-内推码：-77572-22/23-届-Thoughtworks-校招](https://www.v2ex.com/t/878207) 
+- [【V2EX】2022-09-06-什么样的闭源开发者能获得你的信任？](https://www.v2ex.com/t/878206) 
 - [【V2EX】2022-09-06-除了-madvr，还有什么视频渲染器比较好？](https://www.v2ex.com/t/878205) 
 - [【V2EX】2022-09-06-办理身份证的-ZF-部门居然用微信传身份信息和照片。。。](https://www.v2ex.com/t/878203) 
 - [【V2EX】2022-09-06-为啥-Dockerfile-的-RUN-mkdir-/foo/bar-创建出来的目录权限和宿主机的-umask-还有容器里面-root-的-umask-设置都对不上？](https://www.v2ex.com/t/878201) 
@@ -128,8 +132,8 @@
 - [【开发者头条】2022-09-06-这12款idea插件，能让你代码飞起来!](https://toutiao.io/k/fz64jos) 
 - [【开发者头条】2022-09-06-得物云原生全链路追踪Trace2.0架构实践](https://toutiao.io/k/okz0hly) 
 - [【开发者头条】2022-09-06-Java-19-的结构化并发，一种新的多线程编程模式](https://toutiao.io/k/jpy37uk) 
-- [【开发者头条】2022-09-06-基于-Go-语言开发的监控系统](https://toutiao.io/k/ea6idok) 
 - [【开发者头条】2022-09-06-钱付了，订单还是未支付，用户炸了！——聊聊如何防止支付掉单！](https://toutiao.io/k/hkwl5e7) 
+- [【开发者头条】2022-09-06-基于-Go-语言开发的监控系统](https://toutiao.io/k/ea6idok) 
 - [【开发者头条】2022-09-06-货拉拉-Android-模块化路由框架：TheRouter](https://toutiao.io/k/41va9ok) 
 - [【开发者头条】2022-09-06-Prometheus的四种指标类型，我终于搞懂了](https://toutiao.io/k/nph94wu) 
 - [【开发者头条】2022-09-06-对-Go2-错误处理提案的批判](https://toutiao.io/k/xpozc4w) 
@@ -141,10 +145,10 @@
 - [【开发者头条】2022-09-06-容器环境-JVM-内存配置最佳实践](https://toutiao.io/k/ss9eose) 
 - [【开发者头条】2022-09-06-在生产环境中使用-Linkerd](https://toutiao.io/k/1ehxgcu) 
 - [【开发者头条】2022-09-06-从-Linux-内核角度探秘-JDK-NIO-文件读写本质](https://toutiao.io/k/1lrdqxx) 
-- [【开发者头条】2022-09-06-推荐-什么是顶级的思维？](https://toutiao.io/k/ulqvlcd) 
 - [【开发者头条】2022-09-06-推荐-丢弃掉那些BeanUtils工具类吧，MapStruct真香！！！](https://toutiao.io/k/6muqkam) 
-- [【开发者头条】2022-09-06-推荐-SpringBoot-官方强烈推荐，连接池，太快了！](https://toutiao.io/k/zumxh7v) 
 - [【开发者头条】2022-09-06-推荐-聊聊数据库建表的15个小技巧](https://toutiao.io/k/uym7cfr) 
+- [【开发者头条】2022-09-06-推荐-什么是顶级的思维？](https://toutiao.io/k/ulqvlcd) 
+- [【开发者头条】2022-09-06-推荐-SpringBoot-官方强烈推荐，连接池，太快了！](https://toutiao.io/k/zumxh7v) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

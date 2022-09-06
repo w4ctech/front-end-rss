@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-06 15:16:18，:rocket: 更新条数: +2023， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-06 15:45:37，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-09-06-公司的电脑登录微信，发不出图片，剪贴板粘贴文本也不行，是什么实现原理](https://www.v2ex.com/t/878209) ![](assets/new.png)  
+- [2022-09-06-上海-米哈游-miHoYo-2022.9.6-最新招聘信息（社招、秋招可内推哦）](https://www.v2ex.com/t/878208) ![](assets/new.png)  
+- [2022-09-06-内推码：-77572-22/23-届-Thoughtworks-校招](https://www.v2ex.com/t/878207) ![](assets/new.png)  
+- [2022-09-06-什么样的闭源开发者能获得你的信任？](https://www.v2ex.com/t/878206) ![](assets/new.png)  
 - [2022-09-06-除了-madvr，还有什么视频渲染器比较好？](https://www.v2ex.com/t/878205) ![](assets/new.png)  
 - [2022-09-06-办理身份证的-ZF-部门居然用微信传身份信息和照片。。。](https://www.v2ex.com/t/878203) ![](assets/new.png)  
 - [2022-09-06-为啥-Dockerfile-的-RUN-mkdir-/foo/bar-创建出来的目录权限和宿主机的-umask-还有容器里面-root-的-umask-设置都对不上？](https://www.v2ex.com/t/878201) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-09-06-diban-安装-docker-yml-一直报错-zlib1g-dev-安装不上](https://www.v2ex.com/t/878189) ![](assets/new.png)  
 - [2022-09-06-关于-kafka-丢数据](https://www.v2ex.com/t/878185) ![](assets/new.png)  
 - [2022-09-06-除了-gv，有付费的国外号码吗？](https://www.v2ex.com/t/878184) ![](assets/new.png)  
-- [2022-09-06-后天凌晨一点苹果秋季发布会，大家期待吗？](https://www.v2ex.com/t/878183) ![](assets/new.png)  
-- [2022-09-06-公司电脑能升级-win11-么](https://www.v2ex.com/t/878182) ![](assets/new.png)  
-- [2022-09-06-Mac-加个内存真贵啊](https://www.v2ex.com/t/878180) ![](assets/new.png)  
-- [2022-09-06-配置完-gitlab-ssh-key-后，在-mac-下仍不能使用公钥访问](https://www.v2ex.com/t/878179) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -560,8 +560,8 @@
 - [2022-09-06-这12款idea插件，能让你代码飞起来!](https://toutiao.io/k/fz64jos) ![](assets/new.png)  
 - [2022-09-06-得物云原生全链路追踪Trace2.0架构实践](https://toutiao.io/k/okz0hly) ![](assets/new.png)  
 - [2022-09-06-Java-19-的结构化并发，一种新的多线程编程模式](https://toutiao.io/k/jpy37uk) ![](assets/new.png)  
-- [2022-09-06-基于-Go-语言开发的监控系统](https://toutiao.io/k/ea6idok) ![](assets/new.png)  
 - [2022-09-06-钱付了，订单还是未支付，用户炸了！——聊聊如何防止支付掉单！](https://toutiao.io/k/hkwl5e7) ![](assets/new.png)  
+- [2022-09-06-基于-Go-语言开发的监控系统](https://toutiao.io/k/ea6idok) ![](assets/new.png)  
 - [2022-09-06-货拉拉-Android-模块化路由框架：TheRouter](https://toutiao.io/k/41va9ok) ![](assets/new.png)  
 - [2022-09-06-Prometheus的四种指标类型，我终于搞懂了](https://toutiao.io/k/nph94wu) ![](assets/new.png)  
 - [2022-09-06-对-Go2-错误处理提案的批判](https://toutiao.io/k/xpozc4w) ![](assets/new.png)  

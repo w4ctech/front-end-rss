@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-09-06 15:16:18。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-06 15:45:37。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -356,6 +356,7 @@
 
 
 
+- [【V2EX】上海-米哈游-miHoYo-2022.9.6-最新招聘信息（社招、秋招可内推哦）](https://www.v2ex.com/t/878208)
 - [【开发者头条】面试官：为什么-MySQL-索引要使用-B+树而不是其它树形结构？比如-B-树？](https://toutiao.io/k/4pu1idw)
 - [......【查看更多】......](./details/tags/job-interview.md)
 

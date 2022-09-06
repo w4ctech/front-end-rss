@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-06 15:45:37，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-06 16:19:18，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,12 +491,16 @@
 </summary>
 
 
+- [2022-09-06-20220906-午夜俱乐部](https://www.v2ex.com/t/878215) ![](assets/new.png)  
+- [2022-09-06-入职的公司少，想问问各位就职公司平均多久一次会议？](https://www.v2ex.com/t/878213) ![](assets/new.png)  
+- [2022-09-06-求助最近使用-Redission-分布式锁遇到的坑](https://www.v2ex.com/t/878212) ![](assets/new.png)  
+- [2022-09-06-mbp16-求推荐个支架](https://www.v2ex.com/t/878211) ![](assets/new.png)  
+- [2022-09-06-无法进入默认-server，默认-server-不生效怎么破](https://www.v2ex.com/t/878210) ![](assets/new.png)  
 - [2022-09-06-公司的电脑登录微信，发不出图片，剪贴板粘贴文本也不行，是什么实现原理](https://www.v2ex.com/t/878209) ![](assets/new.png)  
 - [2022-09-06-上海-米哈游-miHoYo-2022.9.6-最新招聘信息（社招、秋招可内推哦）](https://www.v2ex.com/t/878208) ![](assets/new.png)  
 - [2022-09-06-内推码：-77572-22/23-届-Thoughtworks-校招](https://www.v2ex.com/t/878207) ![](assets/new.png)  
 - [2022-09-06-什么样的闭源开发者能获得你的信任？](https://www.v2ex.com/t/878206) ![](assets/new.png)  
 - [2022-09-06-除了-madvr，还有什么视频渲染器比较好？](https://www.v2ex.com/t/878205) ![](assets/new.png)  
-- [2022-09-06-办理身份证的-ZF-部门居然用微信传身份信息和照片。。。](https://www.v2ex.com/t/878203) ![](assets/new.png)  
 - [2022-09-06-为啥-Dockerfile-的-RUN-mkdir-/foo/bar-创建出来的目录权限和宿主机的-umask-还有容器里面-root-的-umask-设置都对不上？](https://www.v2ex.com/t/878201) ![](assets/new.png)  
 - [2022-09-06-请教各位大神。能否看下这个-TRC20-地址是哪个交易所的](https://www.v2ex.com/t/878200) ![](assets/new.png)  
 - [2022-09-06-学区问题预测](https://www.v2ex.com/t/878199) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-09-06-国际-AI-医学大赛-最后关头努了把力，搞了个世界前三](https://www.v2ex.com/t/878193) ![](assets/new.png)  
 - [2022-09-06-网页监控-changedetection-的-xpath-怎么写？](https://www.v2ex.com/t/878192) ![](assets/new.png)  
 - [2022-09-06-微软为-Vue.js-推出-Power-BI-组件，三大前端开发框架齐了](https://www.v2ex.com/t/878191) ![](assets/new.png)  
-- [2022-09-06-不用加速器,安卓热点加速-ns-为-natB](https://www.v2ex.com/t/878190) ![](assets/new.png)  
-- [2022-09-06-diban-安装-docker-yml-一直报错-zlib1g-dev-安装不上](https://www.v2ex.com/t/878189) ![](assets/new.png)  
-- [2022-09-06-关于-kafka-丢数据](https://www.v2ex.com/t/878185) ![](assets/new.png)  
-- [2022-09-06-除了-gv，有付费的国外号码吗？](https://www.v2ex.com/t/878184) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -559,8 +559,8 @@
 - [2022-09-06-关系型、非关系型数据库存储选型盘点大全](https://toutiao.io/k/ls0fy05) ![](assets/new.png)  
 - [2022-09-06-这12款idea插件，能让你代码飞起来!](https://toutiao.io/k/fz64jos) ![](assets/new.png)  
 - [2022-09-06-得物云原生全链路追踪Trace2.0架构实践](https://toutiao.io/k/okz0hly) ![](assets/new.png)  
-- [2022-09-06-Java-19-的结构化并发，一种新的多线程编程模式](https://toutiao.io/k/jpy37uk) ![](assets/new.png)  
 - [2022-09-06-钱付了，订单还是未支付，用户炸了！——聊聊如何防止支付掉单！](https://toutiao.io/k/hkwl5e7) ![](assets/new.png)  
+- [2022-09-06-Java-19-的结构化并发，一种新的多线程编程模式](https://toutiao.io/k/jpy37uk) ![](assets/new.png)  
 - [2022-09-06-基于-Go-语言开发的监控系统](https://toutiao.io/k/ea6idok) ![](assets/new.png)  
 - [2022-09-06-货拉拉-Android-模块化路由框架：TheRouter](https://toutiao.io/k/41va9ok) ![](assets/new.png)  
 - [2022-09-06-Prometheus的四种指标类型，我终于搞懂了](https://toutiao.io/k/nph94wu) ![](assets/new.png)  

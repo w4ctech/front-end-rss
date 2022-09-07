@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-07 21:42:20，:rocket: 更新条数: +2036， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-07 22:15:01，:rocket: 更新条数: +2036， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -570,8 +570,8 @@
 - [2022-09-07-前端监控系列2-｜聊聊-JS-错误监控那些事儿](https://toutiao.io/k/sweepd9) ![](assets/new.png)  
 - [2022-09-07-Linux-提权过程中需要关注哪些信息](https://toutiao.io/k/i3jgasp) ![](assets/new.png)  
 - [2022-09-07-看得懂又好看的数学书，万人亲测的硬核教程！](https://toutiao.io/k/wp40679) ![](assets/new.png)  
-- [2022-09-07-【第2725期】伊斯坦布尔测试覆盖率的实现原理](https://toutiao.io/k/ndkh02o) ![](assets/new.png)  
 - [2022-09-07-RVSC-2022-回顾-|-OpenPPL-高效推理“芯”体验](https://toutiao.io/k/s3gnuqw) ![](assets/new.png)  
+- [2022-09-07-【第2725期】伊斯坦布尔测试覆盖率的实现原理](https://toutiao.io/k/ndkh02o) ![](assets/new.png)  
 - [2022-09-07-学会-Go-中的时间处理](https://toutiao.io/k/0prubyv) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

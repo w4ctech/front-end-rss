@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-07 20:17:56，:rocket: 更新条数: +2036， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-07 20:46:25，:rocket: 更新条数: +2036， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-09-07-A16-牙膏挤爆](https://www.v2ex.com/t/878503) ![](assets/new.png)  
 - [2022-09-07-海外-iPhone14-不支持实体-sim-卡，外国人来中国手机都要变砖了，会不会强迫中国运营商开放-esim？](https://www.v2ex.com/t/878502) ![](assets/new.png)  
 - [2022-09-07-AirPods-Pro-第二代挂绳好像另外买-98-元](https://www.v2ex.com/t/878501) ![](assets/new.png)  
 - [2022-09-07-苹果-2022-年-9-月发布会---iPhone-14-Pro-和-Apple-Watch-Ultra](https://www.v2ex.com/t/878500) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-09-07-See-ya,-mini-size-iPhone](https://www.v2ex.com/t/878486) ![](assets/new.png)  
 - [2022-09-07-apple-tv-4k-6-代能否在国内直营店维修？](https://www.v2ex.com/t/878485) ![](assets/new.png)  
 - [2022-09-07-苹果发布会,还有人在吗](https://www.v2ex.com/t/878484) ![](assets/new.png)  
-- [2022-09-07-Apple-Event-—-September-7](https://www.v2ex.com/t/878483) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

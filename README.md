@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-07 21:14:37，:rocket: 更新条数: +2036， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-07 21:42:20，:rocket: 更新条数: +2036， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-09-07-Apple-picks-Globalstar-for-emergency-satellite-service-on-iPhone-14](https://www.v2ex.com/t/878505) ![](assets/new.png)  
+- [2022-09-07-一个简单的需求，竟然不会用-Java-写了。](https://www.v2ex.com/t/878504) ![](assets/new.png)  
 - [2022-09-07-A16-牙膏挤爆](https://www.v2ex.com/t/878503) ![](assets/new.png)  
 - [2022-09-07-海外-iPhone14-不支持实体-sim-卡，外国人来中国手机都要变砖了，会不会强迫中国运营商开放-esim？](https://www.v2ex.com/t/878502) ![](assets/new.png)  
 - [2022-09-07-AirPods-Pro-第二代挂绳好像另外买-98-元](https://www.v2ex.com/t/878501) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-09-07-所以，苹果最终还是自己打了自己-Human-Interface-Guidelines-的脸…](https://www.v2ex.com/t/878488) ![](assets/new.png)  
 - [2022-09-07-明年的-iPhone-一定是史无前例的大更新（雾）](https://www.v2ex.com/t/878487) ![](assets/new.png)  
 - [2022-09-07-See-ya,-mini-size-iPhone](https://www.v2ex.com/t/878486) ![](assets/new.png)  
-- [2022-09-07-apple-tv-4k-6-代能否在国内直营店维修？](https://www.v2ex.com/t/878485) ![](assets/new.png)  
-- [2022-09-07-苹果发布会,还有人在吗](https://www.v2ex.com/t/878484) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

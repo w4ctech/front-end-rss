@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2022-09-07 21:14:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-07 21:42:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-09-07-Apple-picks-Globalstar-for-emergency-satellite-service-on-iPhone-14](https://www.v2ex.com/t/878505) 
+- [2022-09-07-一个简单的需求，竟然不会用-Java-写了。](https://www.v2ex.com/t/878504) 
 - [2022-09-07-A16-牙膏挤爆](https://www.v2ex.com/t/878503) 
 - [2022-09-07-海外-iPhone14-不支持实体-sim-卡，外国人来中国手机都要变砖了，会不会强迫中国运营商开放-esim？](https://www.v2ex.com/t/878502) 
 - [2022-09-07-AirPods-Pro-第二代挂绳好像另外买-98-元](https://www.v2ex.com/t/878501) 
@@ -48,5 +50,3 @@
 - [2022-09-07-为什么路由器改了-host,B-站-app-里依然不生效呢](https://www.v2ex.com/t/878458) 
 - [2022-09-07-一起来看看这台神奇的手机](https://www.v2ex.com/t/878457) 
 - [2022-09-07-想做个有用的网站，不考虑赚钱，只想做个对人们有帮助的站](https://www.v2ex.com/t/878456) 
-- [2022-09-07-腾讯的服务器-阿里云备案的域名-请教下怎么能快速解析](https://www.v2ex.com/t/878455) 
-- [2022-09-07-请问有在-TikTok-上班的朋友吗？](https://www.v2ex.com/t/878454) 

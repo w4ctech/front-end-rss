@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-07 09:15:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-07 09:43:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## CSS
 
@@ -12,4 +12,3 @@
 - [2022-07-21-超酷！CSS-font-palette与彩色字体显示](https://www.zhangxinxu.com/wordpress/2022/07/css-font-palette/) 
 - [2022-06-30-CSS排版为何强？瞧瞧多牛这换行](https://www.zhangxinxu.com/wordpress/2022/06/css-line-break-word-wrap-all/) 
 - [2022-09-07-想问一下网页中常见-css-动画效果是用什么工具做的](https://www.v2ex.com/t/878382) 
-- [2022-09-07-前端-css-问题---safari-网页文本被奇怪的换行](https://www.v2ex.com/t/878352) 

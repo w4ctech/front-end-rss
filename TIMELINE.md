@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-07 19:38:53。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-09-07 20:17:56。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,8 @@
 </summary>
 
 
+- [【V2EX】2022-09-07-海外-iPhone14-不支持实体-sim-卡，外国人来中国手机都要变砖了，会不会强迫中国运营商开放-esim？](https://www.v2ex.com/t/878502) 
+- [【V2EX】2022-09-07-AirPods-Pro-第二代挂绳好像另外买-98-元](https://www.v2ex.com/t/878501) 
 - [【V2EX】2022-09-07-苹果-2022-年-9-月发布会---iPhone-14-Pro-和-Apple-Watch-Ultra](https://www.v2ex.com/t/878500) 
 - [【V2EX】2022-09-07-新-iPhone-发布前端又要骂街了](https://www.v2ex.com/t/878499) 
 - [【V2EX】2022-09-07-能否通过-iOS-16-的新的锁屏控件过滤国产-app-垃圾推送](https://www.v2ex.com/t/878498) 
@@ -111,8 +113,6 @@
 - [【V2EX】2022-09-07-腾讯的服务器-阿里云备案的域名-请教下怎么能快速解析](https://www.v2ex.com/t/878455) 
 - [【V2EX】2022-09-07-请问有在-TikTok-上班的朋友吗？](https://www.v2ex.com/t/878454) 
 - [【V2EX】2022-09-07-如第二张图所示，“请扫描屏幕下方的二维码”这句话是病句吗？为什么我觉得这句话一点毛病都没有？](https://www.v2ex.com/t/878453) 
-- [【V2EX】2022-09-07-如何评价这个视频呢？](https://www.v2ex.com/t/878452) 
-- [【V2EX】2022-09-07-如何找到性价比高的外国程序员](https://www.v2ex.com/t/878451) 
 - [【技术头条】2022-09-07-深度链接（Deeplinking）是什么？-www.zhihu.com](https://blogread.cn/news/go.php?idItem=15382&url=https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F51509486%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-07-Android-DeepLink介绍与使用-cloud.tencent.com](https://blogread.cn/news/go.php?idItem=15381&url=https%3A%2F%2Fcloud.tencent.com%2Fdeveloper%2Farticle%2F1368263%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-07-一文读懂深度链接deep-linking-mktbee.com](https://blogread.cn/news/go.php?idItem=15380&url=https%3A%2F%2Fmktbee.com%2F318.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -153,11 +153,11 @@
 - [【开发者头条】2022-09-07-【第2725期】伊斯坦布尔测试覆盖率的实现原理](https://toutiao.io/k/ndkh02o) 
 - [【开发者头条】2022-09-07-RVSC-2022-回顾-|-OpenPPL-高效推理“芯”体验](https://toutiao.io/k/s3gnuqw) 
 - [【开发者头条】2022-09-07-学会-Go-中的时间处理](https://toutiao.io/k/0prubyv) 
-- [【开发者头条】2022-09-07-推荐-什么是顶级的思维？](https://toutiao.io/k/ulqvlcd) 
-- [【开发者头条】2022-09-07-推荐-丢弃掉那些BeanUtils工具类吧，MapStruct真香！！！](https://toutiao.io/k/6muqkam) 
 - [【开发者头条】2022-09-07-推荐-公司40k招的架构师写的API网关选型总结，就是牛逼！](https://toutiao.io/k/kyi9yzt) 
-- [【开发者头条】2022-09-07-推荐-SpringBoot-官方强烈推荐，连接池，太快了！](https://toutiao.io/k/zumxh7v) 
+- [【开发者头条】2022-09-07-推荐-丢弃掉那些BeanUtils工具类吧，MapStruct真香！！！](https://toutiao.io/k/6muqkam) 
 - [【开发者头条】2022-09-07-推荐-聊聊数据库建表的15个小技巧](https://toutiao.io/k/uym7cfr) 
+- [【开发者头条】2022-09-07-推荐-SpringBoot-官方强烈推荐，连接池，太快了！](https://toutiao.io/k/zumxh7v) 
+- [【开发者头条】2022-09-07-推荐-什么是顶级的思维？](https://toutiao.io/k/ulqvlcd) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

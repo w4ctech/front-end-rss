@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-07 08:22:34，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-07 08:50:55，:rocket: 更新条数: +67， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
@@ -52,7 +52,7 @@
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)![](assets/dot.png)   
-- [技术头条](#技术头条)![](assets/dot.png)   
+- [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)  
 - [物联网智库](#物联网智库)  
@@ -65,26 +65,6 @@
 </summary>
 
 
-- [2022-03-11-新冠肺炎防疫全纪录（实时更新中）](https://mappv5.caixin.com/m_topic_detail/1696.html) ![](assets/new.png)  
-- [2022-03-10-吉林一校园现聚集性疫情-党委书记被免](https://m.caixin.com/m/2022-03-10/101853899.html) ![](assets/new.png)  
-- [2022-03-10-广州新增1例新冠确诊病例-疾控中心专家称防控形势严峻](https://m.caixin.com/m/2022-03-10/101853835.html) ![](assets/new.png)  
-- [2022-03-10-【境内疫情观察】全国新增402例本土病例、435例本土无症状感染者（3月9日）](https://database.caixin.com/m/2022-03-10/101853636.html) ![](assets/new.png)  
-- [2022-03-10-香港调整抗疫策略-辉瑞口服药确定在华合作伙伴｜大流行手记（3月9日）](https://m.caixin.com/m/2022-03-10/101853553.html) ![](assets/new.png)  
-- [2022-03-10-新加坡官员：本地奥密克戎疫情已过峰值开始消退](https://m.caixin.com/m/2022-03-10/101853827.html) ![](assets/new.png)  
-- [2022-03-09-一小学被列为中风险地区-上海加强线上教学资源](https://m.caixin.com/m/2022-03-09/101853329.html) ![](assets/new.png)  
-- [2022-03-09-香港调整抗疫策略-全民检测或将推迟](https://m.caixin.com/m/2022-03-09/101853319.html) ![](assets/new.png)  
-- [2022-03-09-字节跳动办公区现确诊病例-公司深夜组织员工回家](https://companies.caixin.com/m/2022-03-09/101852947.html) ![](assets/new.png)  
-- [2022-03-09-【境内疫情观察】全国新增322例本土无症状感染者（3月8日）](https://database.caixin.com/m/2022-03-09/101853141.html) ![](assets/new.png)  
-- [2022-03-09-研究称COVID-19或能导致脑异常-马来西亚4月将重新开放边境｜大流行手记（3月8日）](https://m.caixin.com/m/2022-03-09/101853036.html) ![](assets/new.png)  
-- [2022-03-08-北京新增7例本土确诊-一人曾赴上海团建](https://m.caixin.com/m/2022-03-08/101852668.html) ![](assets/new.png)  
-- [2022-03-08-香港日增病例呈回落趋势-港大预测5月降至两位数](https://m.caixin.com/m/2022-03-08/101852848.html) ![](assets/new.png)  
-- [2022-03-08-北京新增新冠病例涉字节跳动办公区-员工就地隔离过夜](https://m.caixin.com/m/2022-03-08/101852591.html) ![](assets/new.png)  
-- [2022-03-08-深港边境临时搭桥-内地援建香港河套应急医院](https://m.caixin.com/m/2022-03-08/101852776.html) ![](assets/new.png)  
-- [2022-03-08-【境内疫情观察】全国现有确诊病例超4000例（3月7日）](https://database.caixin.com/m/2022-03-08/101852579.html) ![](assets/new.png)  
-- [2022-03-08-研究发现新冠重症患者特殊基因-全球死亡病例超600万｜大流行手记（3月7日）](https://m.caixin.com/m/2022-03-08/101852426.html) ![](assets/new.png)  
-- [2022-03-07-广东惠州基层防疫扑杀宠物狗-街道致歉涉事者停职](https://m.caixin.com/m/2022-03-07/101851565.html) ![](assets/new.png)  
-- [2022-03-07-【境内疫情观察】全国新增214例本土病例（3月6日）](https://database.caixin.com/m/2022-03-07/101851858.html) ![](assets/new.png)  
-- [2022-03-07-苏格兰为弱势群体打第四针-印度尼西亚再放宽旅行限制｜大流行手记（3月6日）](https://m.caixin.com/m/2022-03-07/101851699.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -491,6 +471,16 @@
 </summary>
 
 
+- [2022-09-07-企业微信连设置自动回复都不支持吗？](https://www.v2ex.com/t/878393) ![](assets/new.png)  
+- [2022-09-07-Isight，您中奖了，请-24-小时内联系我，过期重新抽奖，原贴继续抽奖](https://www.v2ex.com/t/878392) ![](assets/new.png)  
+- [2022-09-07-前端仔深度使用-m1-mac-mini-15-天进行开发有感](https://www.v2ex.com/t/878390) ![](assets/new.png)  
+- [2022-09-07-你们小孩在深圳读小学了吗？](https://www.v2ex.com/t/878389) ![](assets/new.png)  
+- [2022-09-07-to-desk-现在是要登录才能用了？](https://www.v2ex.com/t/878388) ![](assets/new.png)  
+- [2022-09-07-在纠结手机-120W-快充功能要不要开启，对电池寿命有影响么](https://www.v2ex.com/t/878387) ![](assets/new.png)  
+- [2022-09-07-想做一个关于-etcd-故障演练，大家能提供一波思路吗？](https://www.v2ex.com/t/878386) ![](assets/new.png)  
+- [2022-09-07-请问用-Python-做数据集管理有没有可供参考的项目，或者怎么学习这方面](https://www.v2ex.com/t/878385) ![](assets/new.png)  
+- [2022-09-07-gitee-无法上传超过-1G-的-repo?](https://www.v2ex.com/t/878384) ![](assets/new.png)  
+- [2022-09-07-关于牙齿矫正的问题](https://www.v2ex.com/t/878383) ![](assets/new.png)  
 - [2022-09-07-想问一下网页中常见-css-动画效果是用什么工具做的](https://www.v2ex.com/t/878382) ![](assets/new.png)  
 - [2022-09-07-现在-ios-还有办法下载企业版的滴滴么](https://www.v2ex.com/t/878380) ![](assets/new.png)  
 - [2022-09-07-售楼处泄露个人信息应该怎么合理维权？](https://www.v2ex.com/t/878379) ![](assets/new.png)  
@@ -501,16 +491,6 @@
 - [2022-09-07-求教-WhatsApp-和-Telegram-群消息记录爬虫！](https://www.v2ex.com/t/878374) ![](assets/new.png)  
 - [2022-09-07-如何优雅的跨平台插入和显示图片](https://www.v2ex.com/t/878373) ![](assets/new.png)  
 - [2022-09-07-Bitwarden-融资一亿美元](https://www.v2ex.com/t/878372) ![](assets/new.png)  
-- [2022-09-07-payjs-跑路了吗？](https://www.v2ex.com/t/878369) ![](assets/new.png)  
-- [2022-09-07-手机充满电后充电器还插着对电池有影响么？](https://www.v2ex.com/t/878367) ![](assets/new.png)  
-- [2022-09-07-周围的声音越是嘈乱的时候，心里越乱然后就会出一身汗，这是啥情况~~](https://www.v2ex.com/t/878365) ![](assets/new.png)  
-- [2022-09-07-写了一个-SSH-会话批量生成工具，支持-xshell、MobaXterm、SecureCRT](https://www.v2ex.com/t/878364) ![](assets/new.png)  
-- [2022-09-07-请问升级了-iOS-16-的盆友，增强的-Live-Text-功能能从视觉小说游戏中提取日文台词吗？](https://www.v2ex.com/t/878363) ![](assets/new.png)  
-- [2022-09-07-“微信输入法”有人用了吗？体验怎么样？话说-500MB-的大小正常吗？](https://www.v2ex.com/t/878362) ![](assets/new.png)  
-- [2022-09-07-卖点老家大棚种植的沾化冬枣，欢迎-V-友品尝选购](https://www.v2ex.com/t/878361) ![](assets/new.png)  
-- [2022-09-07-（求助）请教一个-unbutu-删除大量文件的做法](https://www.v2ex.com/t/878359) ![](assets/new.png)  
-- [2022-09-07-vue3+vite-动态引入-SVG-ICON-的问题](https://www.v2ex.com/t/878355) ![](assets/new.png)  
-- [2022-09-07-前端-css-问题---safari-网页文本被奇怪的换行](https://www.v2ex.com/t/878352) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -522,26 +502,6 @@
 </summary>
 
 
-- [2022-09-07-深度链接（Deeplinking）是什么？-www.zhihu.com](https://blogread.cn/news/go.php?idItem=15382&url=https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F51509486%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-09-07-Android-DeepLink介绍与使用-cloud.tencent.com](https://blogread.cn/news/go.php?idItem=15381&url=https%3A%2F%2Fcloud.tencent.com%2Fdeveloper%2Farticle%2F1368263%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-09-07-一文读懂深度链接deep-linking-mktbee.com](https://blogread.cn/news/go.php?idItem=15380&url=https%3A%2F%2Fmktbee.com%2F318.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-09-07-被误解的Event-Sourcing-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15379&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-use-event-sourcing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-09-07-向量数据库入坑指南：聊聊来自元宇宙大厂-Meta-的相似度检索技术-Faiss-soulteary.com](https://blogread.cn/news/go.php?idItem=15378&url=https%3A%2F%2Fsoulteary.com%2F2022%2F09%2F03%2Fvector-database-guide-talk-about-the-similarity-retrieval-technology-from-metaverse-big-company-faiss.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-09-07-啊哈，一道有趣的Go并发题-colobu.com](https://blogread.cn/news/go.php?idItem=15377&url=https%3A%2F%2Fcolobu.com%2F2022%2F09%2F01%2Ffizzbuzz-in-go%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-09-07-Replication（下）：事务，一致性与共识-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15376&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F08%2F25%2Freplication-in-meituan-02.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-09-07-Replication（上）：常见复制模型&分布式系统挑战-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15375&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F08%2F25%2Freplication-in-meituan-01.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-09-07-路网中路径的储存-blog.codingnow.com](https://blogread.cn/news/go.php?idItem=15374&url=https%3A%2F%2Fblog.codingnow.com%2F2022%2F09%2Froutemap.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-09-07-5-款适用于-Linux-的笔记应用-linux.cn](https://blogread.cn/news/go.php?idItem=15373&url=https%3A%2F%2Flinux.cn%2Farticle-14990-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-09-07-美团搜索粗排优化的探索与实践-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15372&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F08%2F11%2Fcoarse-ranking-exploration-practice.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-09-07-美团搜索粗排优化的探索与实践-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15371&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F08%2F11%2Fcoarse-ranking-exploration-practice.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-09-07-使用上下游思维实现系统解耦-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15370&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-use-upstream-downstream-thinking-to-system-decoupling%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-09-07-Flutter动态化实践-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15369&url=https%3A%2F%2Ftech.meituan.com%2F2020%2F06%2F23%2Fmeituan-flutter-flap.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-09-07-Linux提权手法实战-blog.nsfocus.net](https://blogread.cn/news/go.php?idItem=15368&url=http%3A%2F%2Fblog.nsfocus.net%2Flinux%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-09-07-DevOps风险测绘之代码篇-blog.nsfocus.net](https://blogread.cn/news/go.php?idItem=15367&url=http%3A%2F%2Fblog.nsfocus.net%2Fdevops%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-09-07-Kafka在美团数据平台的实践-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15366&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F08%2F04%2Fthe-practice-of-kafka-in-the-meituan-data-platform.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-09-07-JS-replaceAll-和-matchAll-使用指南不指北-www.zhangxinxu.com](https://blogread.cn/news/go.php?idItem=15365&url=https%3A%2F%2Fwww.zhangxinxu.com%2Fwordpress%2F2022%2F08%2Fjs-replaceall-matchall%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-09-07-借助-Docker-来搭-Nginx-的积木：快速实现高性能二维码服务-soulteary.com](https://blogread.cn/news/go.php?idItem=15364&url=https%3A%2F%2Fsoulteary.com%2F2022%2F08%2F27%2Fbuilding-blocks-of-nginx-with-docker-quickly-implement-high-performance-qr-code-services.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-09-07-如何在-Linux-上使用-Bash-自动化任务-linux.cn](https://blogread.cn/news/go.php?idItem=15363&url=https%3A%2F%2Flinux.cn%2Farticle-14983-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -568,8 +528,8 @@
 - [2022-09-07-这-10-个-Python-机器学习库，你用过哪些？](https://toutiao.io/k/tl3kd28) ![](assets/new.png)  
 - [2022-09-07-Python模块-打包多个参数于一体](https://toutiao.io/k/rlbhi7l) ![](assets/new.png)  
 - [2022-09-07-Linux-提权过程中需要关注哪些信息](https://toutiao.io/k/i3jgasp) ![](assets/new.png)  
-- [2022-09-07-【第2725期】伊斯坦布尔测试覆盖率的实现原理](https://toutiao.io/k/ndkh02o) ![](assets/new.png)  
 - [2022-09-07-看得懂又好看的数学书，万人亲测的硬核教程！](https://toutiao.io/k/wp40679) ![](assets/new.png)  
+- [2022-09-07-【第2725期】伊斯坦布尔测试覆盖率的实现原理](https://toutiao.io/k/ndkh02o) ![](assets/new.png)  
 - [2022-09-07-RVSC-2022-回顾-|-OpenPPL-高效推理“芯”体验](https://toutiao.io/k/s3gnuqw) ![](assets/new.png)  
 - [2022-09-07-学会-Go-中的时间处理](https://toutiao.io/k/0prubyv) ![](assets/new.png)  
 - [2022-09-07-前端监控系列2-｜聊聊-JS-错误监控那些事儿](https://toutiao.io/k/sweepd9) ![](assets/new.png)  

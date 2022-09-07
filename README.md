@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-07 23:17:27，:rocket: 更新条数: +2036， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-07 23:46:59，:rocket: 更新条数: +2035， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-09-07-请问有前辈去过北京飞*信吗？？这家公司怎么样？？](https://www.v2ex.com/t/878509) ![](assets/new.png)  
+- [2022-09-07-DMZ-指向智能音箱-IP，-PC-端测试仍为-Full-Cone-NAT](https://www.v2ex.com/t/878507) ![](assets/new.png)  
+- [2022-09-07-RAM-涨没涨？](https://www.v2ex.com/t/878506) ![](assets/new.png)  
 - [2022-09-07-Apple-picks-Globalstar-for-emergency-satellite-service-on-iPhone-14](https://www.v2ex.com/t/878505) ![](assets/new.png)  
 - [2022-09-07-一个简单的需求，竟然不会用-Java-写了。](https://www.v2ex.com/t/878504) ![](assets/new.png)  
 - [2022-09-07-A16-牙膏挤爆](https://www.v2ex.com/t/878503) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-09-07-2022.09-发布会最后一秒闪过是预告-Severance-第二季吗？！](https://www.v2ex.com/t/878491) ![](assets/new.png)  
 - [2022-09-07-美区-iPhone-14-全系不含物理-sim-卡槽？](https://www.v2ex.com/t/878490) ![](assets/new.png)  
 - [2022-09-07-有史以来最给客户省钱的发布会-🐶](https://www.v2ex.com/t/878489) ![](assets/new.png)  
-- [2022-09-07-所以，苹果最终还是自己打了自己-Human-Interface-Guidelines-的脸…](https://www.v2ex.com/t/878488) ![](assets/new.png)  
-- [2022-09-07-明年的-iPhone-一定是史无前例的大更新（雾）](https://www.v2ex.com/t/878487) ![](assets/new.png)  
-- [2022-09-07-See-ya,-mini-size-iPhone](https://www.v2ex.com/t/878486) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

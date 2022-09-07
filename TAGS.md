@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-09-07 18:18:23。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-07 18:50:37。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -218,6 +218,7 @@
 
 
 
+- [【V2EX】所以，苹果最终还是自己打了自己-Human-Interface-Guidelines-的脸…](https://www.v2ex.com/t/878488)
 - [......【查看更多】......](./details/tags/canvas-image.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -238,7 +239,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
 - [【V2EX】微信打视频电话，你们的脸会被拉长吗？](https://www.v2ex.com/t/878461)
 - [【V2EX】如何评价这个视频呢？](https://www.v2ex.com/t/878452)
-- [【V2EX】iOS-微信视频聊天什么时候出的小窗模式？](https://www.v2ex.com/t/878438)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

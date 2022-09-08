@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-08 19:39:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-08 20:17:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,7 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-09-08-英女王伊丽莎白二世去世，享年九十六岁](https://www.v2ex.com/t/878775) 
 - [2022-09-08-苹果官网确认国行-iPhone-14-硬件阉割卫星紧急-SOS](https://www.v2ex.com/t/878774) 
 - [2022-09-08-英王驾崩,-跑个题吐槽下腾讯的人工智障图片识别](https://www.v2ex.com/t/878773) 
 - [2022-09-08-伦敦桥倒塌!](https://www.v2ex.com/t/878772) 
@@ -1974,7 +1975,7 @@
 - [2022-09-08-一个轻量的QUIC协议包实现](https://toutiao.io/k/x81xufg) 
 - [2022-09-08-来自《王者荣耀》制作人的一封信](https://toutiao.io/k/2rupmoj) 
 - [2022-09-08-被误解的Event-Sourcing](https://toutiao.io/k/praafr7) 
-- [2022-09-08-推荐-公司40k招的架构师写的API网关选型总结，就是牛逼！](https://toutiao.io/k/kyi9yzt) 
+- [2022-09-08-推荐-什么是顶级的思维？](https://toutiao.io/k/ulqvlcd) 
 - [2022-09-08-推荐-聊聊数据库建表的15个小技巧](https://toutiao.io/k/uym7cfr) 
 - [2022-09-08-推荐-SpringBoot-官方强烈推荐，连接池，太快了！](https://toutiao.io/k/zumxh7v) 
-- [2022-09-08-推荐-什么是顶级的思维？](https://toutiao.io/k/ulqvlcd) 
+- [2022-09-08-推荐-公司40k招的架构师写的API网关选型总结，就是牛逼！](https://toutiao.io/k/kyi9yzt) 

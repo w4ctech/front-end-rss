@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-08 19:39:36，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-08 20:17:44，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-09-08-英女王伊丽莎白二世去世，享年九十六岁](https://www.v2ex.com/t/878775) ![](assets/new.png)  
 - [2022-09-08-苹果官网确认国行-iPhone-14-硬件阉割卫星紧急-SOS](https://www.v2ex.com/t/878774) ![](assets/new.png)  
 - [2022-09-08-英王驾崩,-跑个题吐槽下腾讯的人工智障图片识别](https://www.v2ex.com/t/878773) ![](assets/new.png)  
 - [2022-09-08-伦敦桥倒塌!](https://www.v2ex.com/t/878772) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-09-08-工作目标迷茫，大家帮忙看看](https://www.v2ex.com/t/878753) ![](assets/new.png)  
 - [2022-09-08-请教一个-Springboot-bean-注入的问题？](https://www.v2ex.com/t/878749) ![](assets/new.png)  
 - [2022-09-08-突然想到一个很棒的-Android-平板设计思路，快来评价](https://www.v2ex.com/t/878748) ![](assets/new.png)  
-- [2022-09-08-电信推荐了个套餐，请帮忙看看](https://www.v2ex.com/t/878747) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

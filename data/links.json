@@ -9953,6 +9953,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "Parallels Desktop 18 PJ 版出来了",
+        "link": "https://www.v2ex.com/t/878776",
+        "date": "2022-09-08"
+      },
+      {
         "title": "英女王伊丽莎白二世去世，享年九十六岁",
         "link": "https://www.v2ex.com/t/878775",
         "date": "2022-09-08"
@@ -10145,11 +10150,6 @@
       {
         "title": "你们数据库 ORM 框架可选字段会设计成 Nullable 吗？",
         "link": "https://www.v2ex.com/t/878727",
-        "date": "2022-09-08"
-      },
-      {
-        "title": "alfred 对 app 搜索, 不支持中文词汇拆解",
-        "link": "https://www.v2ex.com/t/878726",
         "date": "2022-09-08"
       }
     ]
@@ -10372,8 +10372,8 @@
         "date": "2022-09-08"
       },
       {
-        "title": "[推荐] 聊聊数据库建表的15个小技巧",
-        "link": "https://toutiao.io/k/uym7cfr",
+        "title": "[推荐] 公司40k招的架构师写的API网关选型总结，就是牛逼！",
+        "link": "https://toutiao.io/k/kyi9yzt",
         "date": "2022-09-08"
       },
       {
@@ -10382,8 +10382,8 @@
         "date": "2022-09-08"
       },
       {
-        "title": "[推荐] 公司40k招的架构师写的API网关选型总结，就是牛逼！",
-        "link": "https://toutiao.io/k/kyi9yzt",
+        "title": "[推荐] 聊聊数据库建表的15个小技巧",
+        "link": "https://toutiao.io/k/uym7cfr",
         "date": "2022-09-08"
       }
     ]

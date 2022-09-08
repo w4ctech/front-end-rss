@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-08 20:17:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-08 20:45:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,7 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-09-08-Parallels-Desktop-18-PJ-版出来了](https://www.v2ex.com/t/878776) 
 - [2022-09-08-英女王伊丽莎白二世去世，享年九十六岁](https://www.v2ex.com/t/878775) 
 - [2022-09-08-苹果官网确认国行-iPhone-14-硬件阉割卫星紧急-SOS](https://www.v2ex.com/t/878774) 
 - [2022-09-08-英王驾崩,-跑个题吐槽下腾讯的人工智障图片识别](https://www.v2ex.com/t/878773) 
@@ -1945,7 +1946,6 @@
 - [2022-09-08-最近-google-返回很多结果都是头条搜索的，你们有注意到吗](https://www.v2ex.com/t/878730) 
 - [2022-09-08-"灵动岛"大概多久会登录-MacBook？](https://www.v2ex.com/t/878728) 
 - [2022-09-08-你们数据库-ORM-框架可选字段会设计成-Nullable-吗？](https://www.v2ex.com/t/878727) 
-- [2022-09-08-alfred-对-app-搜索,-不支持中文词汇拆解](https://www.v2ex.com/t/878726) 
 - [2022-09-08-深度链接（Deeplinking）是什么？-www.zhihu.com](https://blogread.cn/news/go.php?idItem=15382&url=https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F51509486%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-08-Android-DeepLink介绍与使用-cloud.tencent.com](https://blogread.cn/news/go.php?idItem=15381&url=https%3A%2F%2Fcloud.tencent.com%2Fdeveloper%2Farticle%2F1368263%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-08-一文读懂深度链接deep-linking-mktbee.com](https://blogread.cn/news/go.php?idItem=15380&url=https%3A%2F%2Fmktbee.com%2F318.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1976,6 +1976,6 @@
 - [2022-09-08-来自《王者荣耀》制作人的一封信](https://toutiao.io/k/2rupmoj) 
 - [2022-09-08-被误解的Event-Sourcing](https://toutiao.io/k/praafr7) 
 - [2022-09-08-推荐-什么是顶级的思维？](https://toutiao.io/k/ulqvlcd) 
-- [2022-09-08-推荐-聊聊数据库建表的15个小技巧](https://toutiao.io/k/uym7cfr) 
-- [2022-09-08-推荐-SpringBoot-官方强烈推荐，连接池，太快了！](https://toutiao.io/k/zumxh7v) 
 - [2022-09-08-推荐-公司40k招的架构师写的API网关选型总结，就是牛逼！](https://toutiao.io/k/kyi9yzt) 
+- [2022-09-08-推荐-SpringBoot-官方强烈推荐，连接池，太快了！](https://toutiao.io/k/zumxh7v) 
+- [2022-09-08-推荐-聊聊数据库建表的15个小技巧](https://toutiao.io/k/uym7cfr) 

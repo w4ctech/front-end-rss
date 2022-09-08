@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-08 11:13:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-08 11:40:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -20,6 +20,5 @@
 - [2022-09-08-想请教一下-js-如何获取<p-id="">中-id-的内容并请求指定地址获取返回数据赋值给-p-标签？](https://www.v2ex.com/t/878695) 
 - [2022-09-08-无奖竞猜-WeChat-什么时候适配-dynamic-island](https://www.v2ex.com/t/878687) 
 - [2022-09-08-ios-组件页面有没有办法移除](https://www.v2ex.com/t/878669) 
-- [2022-09-08-内卷时代下的前端技术-使用-JavaScript-在浏览器中生成-PDF-文档](https://www.v2ex.com/t/878664) 
 - [2022-09-08-JS-replaceAll-和-matchAll-使用指南不指北-www.zhangxinxu.com](https://blogread.cn/news/go.php?idItem=15365&url=https%3A%2F%2Fwww.zhangxinxu.com%2Fwordpress%2F2022%2F08%2Fjs-replaceall-matchall%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-08-如何使用-JS-实现一个-HTML-解析器](https://toutiao.io/k/co5gpjy) 

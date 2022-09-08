@@ -9953,6 +9953,26 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "Dynamic Island 灵动岛💊 软件放大硬件缺陷的典范之作",
+        "link": "https://www.v2ex.com/t/878717",
+        "date": "2022-09-08"
+      },
+      {
+        "title": "envd：配置深度学习炼丹环境的新选择（也是适合拿来学习 golang 的项目？）",
+        "link": "https://www.v2ex.com/t/878716",
+        "date": "2022-09-08"
+      },
+      {
+        "title": "给猎头发简历如何保护隐私",
+        "link": "https://www.v2ex.com/t/878715",
+        "date": "2022-09-08"
+      },
+      {
+        "title": "用 iPhone 用的不就是个系统吗，刘海、灵动岛都是被迫接受的",
+        "link": "https://www.v2ex.com/t/878713",
+        "date": "2022-09-08"
+      },
+      {
         "title": "iPhone 14 彻底取消 CDMA2000 网络制式的支持",
         "link": "https://www.v2ex.com/t/878711",
         "date": "2022-09-08"
@@ -10121,21 +10141,6 @@
         "title": "记一次 surface pro 7 维修记录",
         "link": "https://www.v2ex.com/t/878668",
         "date": "2022-09-08"
-      },
-      {
-        "title": "赴日软件开发-东京互联网创业公司",
-        "link": "https://www.v2ex.com/t/878666",
-        "date": "2022-09-08"
-      },
-      {
-        "title": "联通可以直连 v2 了呀",
-        "link": "https://www.v2ex.com/t/878665",
-        "date": "2022-09-08"
-      },
-      {
-        "title": "内卷时代下的前端技术-使用 JavaScript 在浏览器中生成 PDF 文档",
-        "link": "https://www.v2ex.com/t/878664",
-        "date": "2022-09-08"
       }
     ]
   },
@@ -10272,13 +10277,13 @@
         "date": "2022-09-08"
       },
       {
-        "title": "重写或替换jar中的类或方法两种方式",
-        "link": "https://toutiao.io/k/wuhbt9l",
+        "title": "Kafka 为什么那么快？",
+        "link": "https://toutiao.io/k/gsjlazv",
         "date": "2022-09-08"
       },
       {
-        "title": "Kafka 为什么那么快？",
-        "link": "https://toutiao.io/k/gsjlazv",
+        "title": "重写或替换jar中的类或方法两种方式",
+        "link": "https://toutiao.io/k/wuhbt9l",
         "date": "2022-09-08"
       },
       {
@@ -10352,18 +10357,8 @@
         "date": "2022-09-08"
       },
       {
-        "title": "[推荐] SpringBoot 官方强烈推荐，连接池，太快了！",
-        "link": "https://toutiao.io/k/zumxh7v",
-        "date": "2022-09-08"
-      },
-      {
         "title": "[推荐] 丢弃掉那些BeanUtils工具类吧，MapStruct真香！！！",
         "link": "https://toutiao.io/k/6muqkam",
-        "date": "2022-09-08"
-      },
-      {
-        "title": "[推荐] 什么是顶级的思维？",
-        "link": "https://toutiao.io/k/ulqvlcd",
         "date": "2022-09-08"
       },
       {
@@ -10374,6 +10369,16 @@
       {
         "title": "[推荐] 聊聊数据库建表的15个小技巧",
         "link": "https://toutiao.io/k/uym7cfr",
+        "date": "2022-09-08"
+      },
+      {
+        "title": "[推荐] 什么是顶级的思维？",
+        "link": "https://toutiao.io/k/ulqvlcd",
+        "date": "2022-09-08"
+      },
+      {
+        "title": "[推荐] SpringBoot 官方强烈推荐，连接池，太快了！",
+        "link": "https://toutiao.io/k/zumxh7v",
         "date": "2022-09-08"
       }
     ]

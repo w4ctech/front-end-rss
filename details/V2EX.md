@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2022-09-08 11:13:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-08 11:40:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-09-08-Dynamic-Island-灵动岛💊-软件放大硬件缺陷的典范之作](https://www.v2ex.com/t/878717) 
+- [2022-09-08-envd：配置深度学习炼丹环境的新选择（也是适合拿来学习-golang-的项目？）](https://www.v2ex.com/t/878716) 
+- [2022-09-08-给猎头发简历如何保护隐私](https://www.v2ex.com/t/878715) 
+- [2022-09-08-用-iPhone-用的不就是个系统吗，刘海、灵动岛都是被迫接受的](https://www.v2ex.com/t/878713) 
 - [2022-09-08-iPhone-14-彻底取消-CDMA2000-网络制式的支持](https://www.v2ex.com/t/878711) 
 - [2022-09-08-iPad-air4-撕钢化膜会破坏屏幕吗](https://www.v2ex.com/t/878710) 
 - [2022-09-08-广州-外企-内推-前端-Android-IOS](https://www.v2ex.com/t/878708) 
@@ -39,6 +43,3 @@
 - [2022-09-08-简单分享下我对-MVI-的理解](https://www.v2ex.com/t/878671) 
 - [2022-09-08-ios-组件页面有没有办法移除](https://www.v2ex.com/t/878669) 
 - [2022-09-08-记一次-surface-pro-7-维修记录](https://www.v2ex.com/t/878668) 
-- [2022-09-08-赴日软件开发-东京互联网创业公司](https://www.v2ex.com/t/878666) 
-- [2022-09-08-联通可以直连-v2-了呀](https://www.v2ex.com/t/878665) 
-- [2022-09-08-内卷时代下的前端技术-使用-JavaScript-在浏览器中生成-PDF-文档](https://www.v2ex.com/t/878664) 

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-09-08 14:39:30。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-08 15:16:48。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -301,7 +301,6 @@
 
 
 - [【V2EX】国产-GPU-独角兽摩尔线程校/社招，北上深成杭西安各-site](https://www.v2ex.com/t/878742)
-- [【V2EX】滴滴出行-北京、杭州、上海、广州、深圳、成都内推-Java-/Android/iOS/Android/前端/算法/前端/硬件/C/C++/嵌入式/Go/产品/运营等各类职位招聘，月-20k-80k，...](https://www.v2ex.com/t/878705)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

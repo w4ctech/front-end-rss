@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-09-08 20:45:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-08 21:15:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-09-08-亚马逊的组织设计](https://www.v2ex.com/t/878777) 
 - [2022-09-08-Parallels-Desktop-18-PJ-版出来了](https://www.v2ex.com/t/878776) 
 - [2022-09-08-英女王伊丽莎白二世去世，享年九十六岁](https://www.v2ex.com/t/878775) 
 - [2022-09-08-苹果官网确认国行-iPhone-14-硬件阉割卫星紧急-SOS](https://www.v2ex.com/t/878774) 
@@ -44,4 +45,3 @@
 - [2022-09-08-如何看待-Win11-的拨号连接、WSL、WSA-等大量应用不支持-IPv6](https://www.v2ex.com/t/878731) 
 - [2022-09-08-最近-google-返回很多结果都是头条搜索的，你们有注意到吗](https://www.v2ex.com/t/878730) 
 - [2022-09-08-"灵动岛"大概多久会登录-MacBook？](https://www.v2ex.com/t/878728) 
-- [2022-09-08-你们数据库-ORM-框架可选字段会设计成-Nullable-吗？](https://www.v2ex.com/t/878727) 

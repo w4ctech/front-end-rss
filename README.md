@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-08 20:45:57，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-08 21:15:11，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-09-08-亚马逊的组织设计](https://www.v2ex.com/t/878777) ![](assets/new.png)  
 - [2022-09-08-Parallels-Desktop-18-PJ-版出来了](https://www.v2ex.com/t/878776) ![](assets/new.png)  
 - [2022-09-08-英女王伊丽莎白二世去世，享年九十六岁](https://www.v2ex.com/t/878775) ![](assets/new.png)  
 - [2022-09-08-苹果官网确认国行-iPhone-14-硬件阉割卫星紧急-SOS](https://www.v2ex.com/t/878774) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-09-08-南山观海台花园三房招租](https://www.v2ex.com/t/878755) ![](assets/new.png)  
 - [2022-09-08-国庆前后一两天想找深圳回广西南宁的顺风车？](https://www.v2ex.com/t/878754) ![](assets/new.png)  
 - [2022-09-08-工作目标迷茫，大家帮忙看看](https://www.v2ex.com/t/878753) ![](assets/new.png)  
-- [2022-09-08-请教一个-Springboot-bean-注入的问题？](https://www.v2ex.com/t/878749) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

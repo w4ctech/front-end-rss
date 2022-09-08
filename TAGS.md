@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-09-08 09:45:19。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-08 10:16:48。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -182,6 +182,7 @@
 - [【张鑫旭-鑫空间-鑫生活】如何继承自定义元素及其他JS中扩展新方法](https://www.zhangxinxu.com/wordpress/2022/06/js-extend-class-custom-elements/)
 - [【张鑫旭-鑫空间-鑫生活】介绍一种CSS变量未定义语法也OK的小妙招](https://www.zhangxinxu.com/wordpress/2022/06/css-var-optional-empty-trick/)
 - [【张鑫旭-鑫空间-鑫生活】如何实现页面刷新后不定位到之前的滚动位置？](https://www.zhangxinxu.com/wordpress/2022/05/history-scrollrestoration/)
+- [【V2EX】想请教一下-js-如何获取<p-id="">中-id-的内容并请求指定地址获取返回数据赋值给-p-标签？](https://www.v2ex.com/t/878695)
 - [【V2EX】无奖竞猜-WeChat-什么时候适配-dynamic-island](https://www.v2ex.com/t/878687)
 - [【V2EX】ios-组件页面有没有办法移除](https://www.v2ex.com/t/878669)
 - [【V2EX】内卷时代下的前端技术-使用-JavaScript-在浏览器中生成-PDF-文档](https://www.v2ex.com/t/878664)
@@ -207,6 +208,7 @@
 - [【张鑫旭-鑫空间-鑫生活】万物皆可clip-path，纯CSS绘制0-9数字](https://www.zhangxinxu.com/wordpress/2022/07/clip-path-css-number/)
 - [【张鑫旭-鑫空间-鑫生活】超酷！CSS-font-palette与彩色字体显示](https://www.zhangxinxu.com/wordpress/2022/07/css-font-palette/)
 - [【张鑫旭-鑫空间-鑫生活】CSS排版为何强？瞧瞧多牛这换行](https://www.zhangxinxu.com/wordpress/2022/06/css-line-break-word-wrap-all/)
+- [【技术头条】整洁架构之CSS-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15383&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fclean-architecture-css%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/css.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-08 07:52:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-08 08:18:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,10 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-09-08-电脑突然黑屏是什么情况？](https://www.v2ex.com/t/878659) 
+- [2022-09-08-经常上线熬夜，如何尽可能降低对身体的伤害](https://www.v2ex.com/t/878658) 
+- [2022-09-08-诚聘赴日软件开发工程师--东京互联网创业公司](https://www.v2ex.com/t/878656) 
+- [2022-09-08-零基础使用-FPGA-开发板实现一个四口千兆以太网交换机有多难？](https://www.v2ex.com/t/878653) 
 - [2022-09-08-Sqlalchemy-如何实现-case-+-subquery-嵌套-subquery](https://www.v2ex.com/t/878651) 
 - [2022-09-08-14-Pro-电池史诗级更新,高达-4600-mah](https://www.v2ex.com/t/878650) 
 - [2022-09-08-有什么手环可以看微信呢？](https://www.v2ex.com/t/878649) 
@@ -1942,10 +1946,6 @@
 - [2022-09-08-现在的-iPhone-和当年的诺基亚也没啥区别吧？](https://www.v2ex.com/t/878613) 
 - [2022-09-08-纯吐槽，自从用了苹果全家桶，我再没能安安静静听会儿歌了。](https://www.v2ex.com/t/878611) 
 - [2022-09-08-如果买了-iPhone14-美版，无-sim-卡槽，是不是意味着在国内不能使用国内电话号码了？因为国内运营商不支持-esim，这样理解没错对吗？](https://www.v2ex.com/t/878610) 
-- [2022-09-08-有木有抢购指南](https://www.v2ex.com/t/878608) 
-- [2022-09-08-红米-AX6-刷-OpenWrt-之后，-Wifi-信号不稳定。](https://www.v2ex.com/t/878607) 
-- [2022-09-08-华为云存储-AS6020-的一些疑问](https://www.v2ex.com/t/878605) 
-- [2022-09-08-多少人喜欢灵动岛的？](https://www.v2ex.com/t/878603) 
 - [2022-09-08-深度链接（Deeplinking）是什么？-www.zhihu.com](https://blogread.cn/news/go.php?idItem=15382&url=https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F51509486%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-08-Android-DeepLink介绍与使用-cloud.tencent.com](https://blogread.cn/news/go.php?idItem=15381&url=https%3A%2F%2Fcloud.tencent.com%2Fdeveloper%2Farticle%2F1368263%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-08-一文读懂深度链接deep-linking-mktbee.com](https://blogread.cn/news/go.php?idItem=15380&url=https%3A%2F%2Fmktbee.com%2F318.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1976,8 +1976,8 @@
 - [2022-09-08-微服务架构的演进](https://toutiao.io/k/969du4s) 
 - [2022-09-08-深入理解Linux自旋锁](https://toutiao.io/k/c9vjiks) 
 - [2022-09-08-JVM问题分析调优经验](https://toutiao.io/k/gxyr2ko) 
-- [2022-09-08-推荐-公司40k招的架构师写的API网关选型总结，就是牛逼！](https://toutiao.io/k/kyi9yzt) 
-- [2022-09-08-推荐-丢弃掉那些BeanUtils工具类吧，MapStruct真香！！！](https://toutiao.io/k/6muqkam) 
 - [2022-09-08-推荐-聊聊数据库建表的15个小技巧](https://toutiao.io/k/uym7cfr) 
 - [2022-09-08-推荐-什么是顶级的思维？](https://toutiao.io/k/ulqvlcd) 
+- [2022-09-08-推荐-公司40k招的架构师写的API网关选型总结，就是牛逼！](https://toutiao.io/k/kyi9yzt) 
 - [2022-09-08-推荐-SpringBoot-官方强烈推荐，连接池，太快了！](https://toutiao.io/k/zumxh7v) 
+- [2022-09-08-推荐-丢弃掉那些BeanUtils工具类吧，MapStruct真香！！！](https://toutiao.io/k/6muqkam) 

@@ -1,10 +1,17 @@
-:alarm_clock: 更新时间: 2022-09-08 13:13:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-08 13:50:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-09-08-国产-GPU-独角兽摩尔线程校/社招，北上深成杭西安各-site](https://www.v2ex.com/t/878742) 
+- [2022-09-08-google-voice-谷歌语音-保号短信互发群组-大家互发下了](https://www.v2ex.com/t/878741) 
+- [2022-09-08-迷茫题：除了一直做技术，年轻人还有别人出路吗？从概率学上说](https://www.v2ex.com/t/878740) 
+- [2022-09-08-QUIC-协议游戏服务器](https://www.v2ex.com/t/878739) 
+- [2022-09-08-两年-py-后端值多少](https://www.v2ex.com/t/878738) 
+- [2022-09-08-去深圳益田-apple-天才吧需要携带什么？](https://www.v2ex.com/t/878736) 
+- [2022-09-08-小米-AX3000-的奇怪-LAN-口](https://www.v2ex.com/t/878735) 
 - [2022-09-08-显示器使用-dp-线，打开-uwp-版-netflix-会黑屏-2-秒](https://www.v2ex.com/t/878734) 
 - [2022-09-08-如何实现肉鸽（rogue）游戏中的随机地图](https://www.v2ex.com/t/878733) 
 - [2022-09-08-Amazon-Kindle-Store-买的没有汉化组翻译的日版漫画有什么低成本翻译成中/英文理解剧情的方法吗？](https://www.v2ex.com/t/878732) 
@@ -37,9 +44,3 @@
 - [2022-09-08-通过什么方式能测出宽带的-ipv4-公网是不是假公网](https://www.v2ex.com/t/878696) 
 - [2022-09-08-想请教一下-js-如何获取<p-id="">中-id-的内容并请求指定地址获取返回数据赋值给-p-标签？](https://www.v2ex.com/t/878695) 
 - [2022-09-08-app-的通知也会和灵动岛结合吗？](https://www.v2ex.com/t/878694) 
-- [2022-09-08-Windows-上使用-pthread.h-会有性能损失吗？](https://www.v2ex.com/t/878692) 
-- [2022-09-08-谷歌商店下载的-app，不打开如何激活的](https://www.v2ex.com/t/878690) 
-- [2022-09-08-请问本地环境连接-AWS-RDS-数据库慢有什么办法解决吗？](https://www.v2ex.com/t/878689) 
-- [2022-09-08-无奖竞猜-WeChat-什么时候适配-dynamic-island](https://www.v2ex.com/t/878687) 
-- [2022-09-08-天津联通上行有什么提速方法不？](https://www.v2ex.com/t/878686) 
-- [2022-09-08-netlify-和-render-部署编译时，-git-config-怎么自定义配置](https://www.v2ex.com/t/878685) 

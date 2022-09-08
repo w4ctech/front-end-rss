@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-08 13:13:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-08 13:50:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Git、SVN
 
@@ -8,4 +8,3 @@
 
 
 - [2022-08-31-gitee上撸了个类似飞书OKR输入框的@提及项目](https://www.zhangxinxu.com/wordpress/2022/08/gitee-feishu-okr-at-mention/) 
-- [2022-09-08-netlify-和-render-部署编译时，-git-config-怎么自定义配置](https://www.v2ex.com/t/878685) 

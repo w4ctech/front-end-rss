@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-08 13:13:17，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-08 13:50:54，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,13 @@
 </summary>
 
 
+- [2022-09-08-国产-GPU-独角兽摩尔线程校/社招，北上深成杭西安各-site](https://www.v2ex.com/t/878742) ![](assets/new.png)  
+- [2022-09-08-google-voice-谷歌语音-保号短信互发群组-大家互发下了](https://www.v2ex.com/t/878741) ![](assets/new.png)  
+- [2022-09-08-迷茫题：除了一直做技术，年轻人还有别人出路吗？从概率学上说](https://www.v2ex.com/t/878740) ![](assets/new.png)  
+- [2022-09-08-QUIC-协议游戏服务器](https://www.v2ex.com/t/878739) ![](assets/new.png)  
+- [2022-09-08-两年-py-后端值多少](https://www.v2ex.com/t/878738) ![](assets/new.png)  
+- [2022-09-08-去深圳益田-apple-天才吧需要携带什么？](https://www.v2ex.com/t/878736) ![](assets/new.png)  
+- [2022-09-08-小米-AX3000-的奇怪-LAN-口](https://www.v2ex.com/t/878735) ![](assets/new.png)  
 - [2022-09-08-显示器使用-dp-线，打开-uwp-版-netflix-会黑屏-2-秒](https://www.v2ex.com/t/878734) ![](assets/new.png)  
 - [2022-09-08-如何实现肉鸽（rogue）游戏中的随机地图](https://www.v2ex.com/t/878733) ![](assets/new.png)  
 - [2022-09-08-Amazon-Kindle-Store-买的没有汉化组翻译的日版漫画有什么低成本翻译成中/英文理解剧情的方法吗？](https://www.v2ex.com/t/878732) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-09-08-这个灵动岛有什么有趣的应用场景吗？](https://www.v2ex.com/t/878721) ![](assets/new.png)  
 - [2022-09-08-请问-ubuntu-22.04-live-server-把静态-IPv4-的配置设计成这样，是有什么原因吗？](https://www.v2ex.com/t/878719) ![](assets/new.png)  
 - [2022-09-08-Dynamic-Island-灵动岛💊-软件放大硬件缺陷的典范之作](https://www.v2ex.com/t/878717) ![](assets/new.png)  
-- [2022-09-08-envd：配置深度学习炼丹环境的新选择（也是适合拿来学习-golang-的项目？）](https://www.v2ex.com/t/878716) ![](assets/new.png)  
-- [2022-09-08-给猎头发简历如何保护隐私](https://www.v2ex.com/t/878715) ![](assets/new.png)  
-- [2022-09-08-用-iPhone-用的不就是个系统吗，刘海、灵动岛都是被迫接受的](https://www.v2ex.com/t/878713) ![](assets/new.png)  
-- [2022-09-08-iPhone-14-彻底取消-CDMA2000-网络制式的支持](https://www.v2ex.com/t/878711) ![](assets/new.png)  
-- [2022-09-08-iPad-air4-撕钢化膜会破坏屏幕吗](https://www.v2ex.com/t/878710) ![](assets/new.png)  
-- [2022-09-08-广州-外企-内推-前端-Android-IOS](https://www.v2ex.com/t/878708) ![](assets/new.png)  
-- [2022-09-08-是不是大多数人使用手机的时候都是用双手操控了](https://www.v2ex.com/t/878706) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -561,11 +561,11 @@
 - [2022-09-08-重写或替换jar中的类或方法两种方式](https://toutiao.io/k/wuhbt9l) ![](assets/new.png)  
 - [2022-09-08-揭秘字节跳动解决ClickHouse复杂查询问题的技术实践](https://toutiao.io/k/7z95txe) ![](assets/new.png)  
 - [2022-09-08-微服务架构的演进](https://toutiao.io/k/969du4s) ![](assets/new.png)  
+- [2022-09-08-JVM问题分析调优经验](https://toutiao.io/k/gxyr2ko) ![](assets/new.png)  
 - [2022-09-08-K8S-云原生应用开发小记-·-构建我的被动收入](https://toutiao.io/k/oqs69u0) ![](assets/new.png)  
 - [2022-09-08-使用-class-风格编写-composition-api，支持Vue2、Vue3](https://toutiao.io/k/nh4on4x) ![](assets/new.png)  
-- [2022-09-08-JVM问题分析调优经验](https://toutiao.io/k/gxyr2ko) ![](assets/new.png)  
-- [2022-09-08-一个轻量的QUIC协议包实现](https://toutiao.io/k/x81xufg) ![](assets/new.png)  
 - [2022-09-08-JRC-Flink流作业调优指南](https://toutiao.io/k/y51tr1l) ![](assets/new.png)  
+- [2022-09-08-一个轻量的QUIC协议包实现](https://toutiao.io/k/x81xufg) ![](assets/new.png)  
 - [2022-09-08-如何使用-JS-实现一个-HTML-解析器](https://toutiao.io/k/co5gpjy) ![](assets/new.png)  
 - [2022-09-08-深入理解Linux自旋锁](https://toutiao.io/k/c9vjiks) ![](assets/new.png)  
 - [2022-09-08-关于西北工业大学发现美国NSA网络攻击调查报告（之一）](https://toutiao.io/k/flgcm49) ![](assets/new.png)  

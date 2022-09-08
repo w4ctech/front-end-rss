@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-08 23:08:19。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-09-08 23:17:00。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -148,10 +148,10 @@
 - [【开发者头条】2022-09-08-来自《王者荣耀》制作人的一封信](https://toutiao.io/k/2rupmoj) 
 - [【开发者头条】2022-09-08-被误解的Event-Sourcing](https://toutiao.io/k/praafr7) 
 - [【开发者头条】2022-09-08-微信Windows端IM消息数据库的优化实践：查询慢、体积大、文件损坏等](https://toutiao.io/k/yzephmh) 
-- [【开发者头条】2022-09-08-推荐-什么是顶级的思维？](https://toutiao.io/k/ulqvlcd) 
 - [【开发者头条】2022-09-08-推荐-公司40k招的架构师写的API网关选型总结，就是牛逼！](https://toutiao.io/k/kyi9yzt) 
-- [【开发者头条】2022-09-08-推荐-SpringBoot-官方强烈推荐，连接池，太快了！](https://toutiao.io/k/zumxh7v) 
 - [【开发者头条】2022-09-08-推荐-聊聊数据库建表的15个小技巧](https://toutiao.io/k/uym7cfr) 
+- [【开发者头条】2022-09-08-推荐-什么是顶级的思维？](https://toutiao.io/k/ulqvlcd) 
+- [【开发者头条】2022-09-08-推荐-SpringBoot-官方强烈推荐，连接池，太快了！](https://toutiao.io/k/zumxh7v) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

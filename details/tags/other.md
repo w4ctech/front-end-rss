@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-08 10:46:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-08 11:13:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,9 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-09-08-iPhone-14-彻底取消-CDMA2000-网络制式的支持](https://www.v2ex.com/t/878711) 
+- [2022-09-08-iPad-air4-撕钢化膜会破坏屏幕吗](https://www.v2ex.com/t/878710) 
+- [2022-09-08-广州-外企-内推-前端-Android-IOS](https://www.v2ex.com/t/878708) 
 - [2022-09-08-是不是大多数人使用手机的时候都是用双手操控了](https://www.v2ex.com/t/878706) 
 - [2022-09-08-apple-watch-soc-都不挤牙膏了](https://www.v2ex.com/t/878704) 
 - [2022-09-08-内网-IP-下，如何正确进行端口映射？](https://www.v2ex.com/t/878703) 
@@ -1937,9 +1940,6 @@
 - [2022-09-08-记一次-surface-pro-7-维修记录](https://www.v2ex.com/t/878668) 
 - [2022-09-08-赴日软件开发-东京互联网创业公司](https://www.v2ex.com/t/878666) 
 - [2022-09-08-联通可以直连-v2-了呀](https://www.v2ex.com/t/878665) 
-- [2022-09-08-库克是不能、不愿还是不想-Face-ID-从-iPhone-正面消失？](https://www.v2ex.com/t/878660) 
-- [2022-09-08-电脑突然黑屏是什么情况？](https://www.v2ex.com/t/878659) 
-- [2022-09-08-经常上线熬夜，如何尽可能降低对身体的伤害](https://www.v2ex.com/t/878658) 
 - [2022-09-08-深度链接（Deeplinking）是什么？-www.zhihu.com](https://blogread.cn/news/go.php?idItem=15382&url=https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F51509486%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-08-Android-DeepLink介绍与使用-cloud.tencent.com](https://blogread.cn/news/go.php?idItem=15381&url=https%3A%2F%2Fcloud.tencent.com%2Fdeveloper%2Farticle%2F1368263%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-08-一文读懂深度链接deep-linking-mktbee.com](https://blogread.cn/news/go.php?idItem=15380&url=https%3A%2F%2Fmktbee.com%2F318.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1970,7 +1970,7 @@
 - [2022-09-08-深入理解Linux自旋锁](https://toutiao.io/k/c9vjiks) 
 - [2022-09-08-JVM问题分析调优经验](https://toutiao.io/k/gxyr2ko) 
 - [2022-09-08-推荐-SpringBoot-官方强烈推荐，连接池，太快了！](https://toutiao.io/k/zumxh7v) 
+- [2022-09-08-推荐-丢弃掉那些BeanUtils工具类吧，MapStruct真香！！！](https://toutiao.io/k/6muqkam) 
 - [2022-09-08-推荐-什么是顶级的思维？](https://toutiao.io/k/ulqvlcd) 
 - [2022-09-08-推荐-公司40k招的架构师写的API网关选型总结，就是牛逼！](https://toutiao.io/k/kyi9yzt) 
-- [2022-09-08-推荐-丢弃掉那些BeanUtils工具类吧，MapStruct真香！！！](https://toutiao.io/k/6muqkam) 
 - [2022-09-08-推荐-聊聊数据库建表的15个小技巧](https://toutiao.io/k/uym7cfr) 

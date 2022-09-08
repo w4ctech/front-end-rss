@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-08 10:46:56，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-08 11:13:55，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-09-08-iPhone-14-彻底取消-CDMA2000-网络制式的支持](https://www.v2ex.com/t/878711) ![](assets/new.png)  
+- [2022-09-08-iPad-air4-撕钢化膜会破坏屏幕吗](https://www.v2ex.com/t/878710) ![](assets/new.png)  
+- [2022-09-08-广州-外企-内推-前端-Android-IOS](https://www.v2ex.com/t/878708) ![](assets/new.png)  
 - [2022-09-08-是不是大多数人使用手机的时候都是用双手操控了](https://www.v2ex.com/t/878706) ![](assets/new.png)  
 - [2022-09-08-滴滴出行-北京、杭州、上海、广州、深圳、成都内推-Java-/Android/iOS/Android/前端/算法/前端/硬件/C/C++/嵌入式/Go/产品/运营等各类职位招聘，月-20k-80k，...](https://www.v2ex.com/t/878705) ![](assets/new.png)  
 - [2022-09-08-apple-watch-soc-都不挤牙膏了](https://www.v2ex.com/t/878704) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-09-08-谷歌商店下载的-app，不打开如何激活的](https://www.v2ex.com/t/878690) ![](assets/new.png)  
 - [2022-09-08-请问本地环境连接-AWS-RDS-数据库慢有什么办法解决吗？](https://www.v2ex.com/t/878689) ![](assets/new.png)  
 - [2022-09-08-无奖竞猜-WeChat-什么时候适配-dynamic-island](https://www.v2ex.com/t/878687) ![](assets/new.png)  
-- [2022-09-08-天津联通上行有什么提速方法不？](https://www.v2ex.com/t/878686) ![](assets/new.png)  
-- [2022-09-08-netlify-和-render-部署编译时，-git-config-怎么自定义配置](https://www.v2ex.com/t/878685) ![](assets/new.png)  
-- [2022-09-08-数据可视化分析工具如何在国内弯道超车，迅速崛起？](https://www.v2ex.com/t/878682) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

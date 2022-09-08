@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-08 10:46:56。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-09-08 11:13:55。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,9 @@
 </summary>
 
 
+- [【V2EX】2022-09-08-iPhone-14-彻底取消-CDMA2000-网络制式的支持](https://www.v2ex.com/t/878711) 
+- [【V2EX】2022-09-08-iPad-air4-撕钢化膜会破坏屏幕吗](https://www.v2ex.com/t/878710) 
+- [【V2EX】2022-09-08-广州-外企-内推-前端-Android-IOS](https://www.v2ex.com/t/878708) 
 - [【V2EX】2022-09-08-是不是大多数人使用手机的时候都是用双手操控了](https://www.v2ex.com/t/878706) 
 - [【V2EX】2022-09-08-滴滴出行-北京、杭州、上海、广州、深圳、成都内推-Java-/Android/iOS/Android/前端/算法/前端/硬件/C/C++/嵌入式/Go/产品/运营等各类职位招聘，月-20k-80k，...](https://www.v2ex.com/t/878705) 
 - [【V2EX】2022-09-08-apple-watch-soc-都不挤牙膏了](https://www.v2ex.com/t/878704) 
@@ -102,10 +105,6 @@
 - [【V2EX】2022-09-08-赴日软件开发-东京互联网创业公司](https://www.v2ex.com/t/878666) 
 - [【V2EX】2022-09-08-联通可以直连-v2-了呀](https://www.v2ex.com/t/878665) 
 - [【V2EX】2022-09-08-内卷时代下的前端技术-使用-JavaScript-在浏览器中生成-PDF-文档](https://www.v2ex.com/t/878664) 
-- [【V2EX】2022-09-08-如果是高频使用前置摄像头+灵动岛，需不需要随身带擦镜布或酒精棉？](https://www.v2ex.com/t/878662) 
-- [【V2EX】2022-09-08-库克是不能、不愿还是不想-Face-ID-从-iPhone-正面消失？](https://www.v2ex.com/t/878660) 
-- [【V2EX】2022-09-08-电脑突然黑屏是什么情况？](https://www.v2ex.com/t/878659) 
-- [【V2EX】2022-09-08-经常上线熬夜，如何尽可能降低对身体的伤害](https://www.v2ex.com/t/878658) 
 - [【技术头条】2022-09-08-整洁架构之CSS-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15383&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fclean-architecture-css%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-08-深度链接（Deeplinking）是什么？-www.zhihu.com](https://blogread.cn/news/go.php?idItem=15382&url=https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F51509486%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-08-Android-DeepLink介绍与使用-cloud.tencent.com](https://blogread.cn/news/go.php?idItem=15381&url=https%3A%2F%2Fcloud.tencent.com%2Fdeveloper%2Farticle%2F1368263%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -147,9 +146,9 @@
 - [【开发者头条】2022-09-08-JVM问题分析调优经验](https://toutiao.io/k/gxyr2ko) 
 - [【开发者头条】2022-09-08-微信Windows端IM消息数据库的优化实践：查询慢、体积大、文件损坏等](https://toutiao.io/k/yzephmh) 
 - [【开发者头条】2022-09-08-推荐-SpringBoot-官方强烈推荐，连接池，太快了！](https://toutiao.io/k/zumxh7v) 
+- [【开发者头条】2022-09-08-推荐-丢弃掉那些BeanUtils工具类吧，MapStruct真香！！！](https://toutiao.io/k/6muqkam) 
 - [【开发者头条】2022-09-08-推荐-什么是顶级的思维？](https://toutiao.io/k/ulqvlcd) 
 - [【开发者头条】2022-09-08-推荐-公司40k招的架构师写的API网关选型总结，就是牛逼！](https://toutiao.io/k/kyi9yzt) 
-- [【开发者头条】2022-09-08-推荐-丢弃掉那些BeanUtils工具类吧，MapStruct真香！！！](https://toutiao.io/k/6muqkam) 
 - [【开发者头条】2022-09-08-推荐-聊聊数据库建表的15个小技巧](https://toutiao.io/k/uym7cfr) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>

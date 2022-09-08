@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-08 18:17:36。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-09-08 18:51:29。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,9 @@
 </summary>
 
 
+- [【V2EX】2022-09-08-nginx-反代-前端-js-可以加载但是没反应（angular）求大佬指方向](https://www.v2ex.com/t/878771) 
+- [【V2EX】2022-09-08-London-Bridge-Is-Falling-Down](https://www.v2ex.com/t/878769) 
+- [【V2EX】2022-09-08-零基础怎么速成简单日语阅读和听力？不为考试，单纯为了阅读一些没有字幕的漫画和番剧。](https://www.v2ex.com/t/878767) 
 - [【V2EX】2022-09-08-入了-i5-12400-当影音为主的小服务器,-现在有点后悔](https://www.v2ex.com/t/878766) 
 - [【V2EX】2022-09-08-手持-13-pro-的有必要换-14pro-吗](https://www.v2ex.com/t/878765) 
 - [【V2EX】2022-09-08-近期秒控板蓝牙下出现飘移现象。有解嘛？](https://www.v2ex.com/t/878763) 
@@ -103,9 +106,6 @@
 - [【V2EX】2022-09-08-alfred-对-app-搜索,-不支持中文词汇拆解](https://www.v2ex.com/t/878726) 
 - [【V2EX】2022-09-08-小火箭/surge-模块集](https://www.v2ex.com/t/878723) 
 - [【V2EX】2022-09-08-这个帖子截图里的-V2EX-客户端叫啥？](https://www.v2ex.com/t/878722) 
-- [【V2EX】2022-09-08-这个灵动岛有什么有趣的应用场景吗？](https://www.v2ex.com/t/878721) 
-- [【V2EX】2022-09-08-请问-ubuntu-22.04-live-server-把静态-IPv4-的配置设计成这样，是有什么原因吗？](https://www.v2ex.com/t/878719) 
-- [【V2EX】2022-09-08-Dynamic-Island-灵动岛💊-软件放大硬件缺陷的典范之作](https://www.v2ex.com/t/878717) 
 - [【技术头条】2022-09-08-整洁架构之CSS-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15383&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fclean-architecture-css%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-08-深度链接（Deeplinking）是什么？-www.zhihu.com](https://blogread.cn/news/go.php?idItem=15382&url=https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F51509486%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-08-Android-DeepLink介绍与使用-cloud.tencent.com](https://blogread.cn/news/go.php?idItem=15381&url=https%3A%2F%2Fcloud.tencent.com%2Fdeveloper%2Farticle%2F1368263%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -146,10 +146,10 @@
 - [【开发者头条】2022-09-08-来自《王者荣耀》制作人的一封信](https://toutiao.io/k/2rupmoj) 
 - [【开发者头条】2022-09-08-被误解的Event-Sourcing](https://toutiao.io/k/praafr7) 
 - [【开发者头条】2022-09-08-微信Windows端IM消息数据库的优化实践：查询慢、体积大、文件损坏等](https://toutiao.io/k/yzephmh) 
-- [【开发者头条】2022-09-08-推荐-什么是顶级的思维？](https://toutiao.io/k/ulqvlcd) 
+- [【开发者头条】2022-09-08-推荐-聊聊数据库建表的15个小技巧](https://toutiao.io/k/uym7cfr) 
 - [【开发者头条】2022-09-08-推荐-公司40k招的架构师写的API网关选型总结，就是牛逼！](https://toutiao.io/k/kyi9yzt) 
 - [【开发者头条】2022-09-08-推荐-SpringBoot-官方强烈推荐，连接池，太快了！](https://toutiao.io/k/zumxh7v) 
-- [【开发者头条】2022-09-08-推荐-聊聊数据库建表的15个小技巧](https://toutiao.io/k/uym7cfr) 
+- [【开发者头条】2022-09-08-推荐-什么是顶级的思维？](https://toutiao.io/k/ulqvlcd) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

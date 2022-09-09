@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-09 16:19:40，:rocket: 更新条数: +2032， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-09 17:01:17，:rocket: 更新条数: +2031， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-09-09-你们的-gv-绑定了手机号没？用的哪家的？](https://www.v2ex.com/t/879041) ![](assets/new.png)  
+- [2022-09-09-小米灵动岛主题已就位。。](https://www.v2ex.com/t/879039) ![](assets/new.png)  
 - [2022-09-09-可以用-github-仓库当数据库吗](https://www.v2ex.com/t/879038) ![](assets/new.png)  
 - [2022-09-09-关于消息队列的延迟消息](https://www.v2ex.com/t/879036) ![](assets/new.png)  
 - [2022-09-09-各位老哥，群晖怎么选。新出的-1522+帖子很少](https://www.v2ex.com/t/879035) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-09-09-华为荣耀-ov-有什么-pd-充电快一点的机器吗](https://www.v2ex.com/t/879020) ![](assets/new.png)  
 - [2022-09-09-v2ex-这个绿色的条满了是什么意思？](https://www.v2ex.com/t/879019) ![](assets/new.png)  
 - [2022-09-09-OpenWrt-与-IPv6-求助](https://www.v2ex.com/t/879016) ![](assets/new.png)  
-- [2022-09-09-深圳-，-Java-后端-+前端开发-，工业互联网](https://www.v2ex.com/t/879015) ![](assets/new.png)  
-- [2022-09-09-简历上想写开源的经历和贡献-怎么组织好](https://www.v2ex.com/t/879014) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,16 +1,19 @@
-:alarm_clock: 更新时间: 2022-09-09 10:47:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-09 11:14:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-09-09-14-pro,-颜色-选择](https://www.v2ex.com/t/878978) 
+- [2022-09-09-请教一下关于视频采集卡的使用](https://www.v2ex.com/t/878977) 
+- [2022-09-09-有没有办法列出-Mac-中安装的非官方来源-App？](https://www.v2ex.com/t/878976) 
+- [2022-09-09-那个息屏显示-13PRO-系列可以做到吗？](https://www.v2ex.com/t/878975) 
 - [2022-09-09-今天到底八月十几？](https://www.v2ex.com/t/878973) 
 - [2022-09-09-galaxy-z-flip4-哪里买最划算？](https://www.v2ex.com/t/878972) 
 - [2022-09-09-请教如何在多个规律表名的表查询某个-id-最大值，并确认是哪个表](https://www.v2ex.com/t/878970) 
 - [2022-09-09-红米-k50-的充电头把-MacBook-air-的-usb-口干沉默了](https://www.v2ex.com/t/878969) 
 - [2022-09-09-95-折，出京东-e-卡，面值-200](https://www.v2ex.com/t/878968) 
-- [2022-09-09-Telegram-上的各类学习或则一些海外电影能够下载的群](https://www.v2ex.com/t/878967) 
 - [2022-09-09-怎样有效利用高分辨率大屏幕？](https://www.v2ex.com/t/878966) 
 - [2022-09-09-闲着没事写了个获取-PSN-游戏列表和奖杯进度的库](https://www.v2ex.com/t/878965) 
 - [2022-09-09-Authing-郑凌：我眼中的-Authing](https://www.v2ex.com/t/878964) 
@@ -40,7 +43,3 @@
 - [2022-09-09-有没有类似知网的音乐圈的“查重”工具](https://www.v2ex.com/t/878934) 
 - [2022-09-09-使用-Apple-TV-4K-无法同时关闭电视](https://www.v2ex.com/t/878932) 
 - [2022-09-09-好工具周刊（第-29-期）:-Squoosh,-AI-Background-Generator,-Background-Remover,-Motionity,-Privnote,-小鸡词典,-发音纠正器](https://www.v2ex.com/t/878929) 
-- [2022-09-09-分享-craft-实现-newsletter-的效果](https://www.v2ex.com/t/878928) 
-- [2022-09-09-一個簡單的函數式參數合併-helper](https://www.v2ex.com/t/878927) 
-- [2022-09-09-进入摸鱼时间,探讨个问题吧,如何实现完全分布式没有管理员的代码迭代?](https://www.v2ex.com/t/878926) 
-- [2022-09-09-那里能找到高德、知乎、京东金融等新版的-32-位安装包](https://www.v2ex.com/t/878925) 

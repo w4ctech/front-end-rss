@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2022-09-09 11:14:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-09 11:41:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-09-09-如果你的亲戚来到你所在的城市上学，你要请他吃饭，但他带了几个朋友，该怎么安排？](https://www.v2ex.com/t/878981) 
+- [2022-09-09-iOS-的-arcade-怎么样？](https://www.v2ex.com/t/878980) 
+- [2022-09-09-有没有可扩展的路径语言？](https://www.v2ex.com/t/878979) 
 - [2022-09-09-14-pro,-颜色-选择](https://www.v2ex.com/t/878978) 
 - [2022-09-09-请教一下关于视频采集卡的使用](https://www.v2ex.com/t/878977) 
 - [2022-09-09-有没有办法列出-Mac-中安装的非官方来源-App？](https://www.v2ex.com/t/878976) 
@@ -42,4 +45,3 @@
 - [2022-09-09-大家是怎么看待-Taio-的这种行为的](https://www.v2ex.com/t/878935) 
 - [2022-09-09-有没有类似知网的音乐圈的“查重”工具](https://www.v2ex.com/t/878934) 
 - [2022-09-09-使用-Apple-TV-4K-无法同时关闭电视](https://www.v2ex.com/t/878932) 
-- [2022-09-09-好工具周刊（第-29-期）:-Squoosh,-AI-Background-Generator,-Background-Remover,-Motionity,-Privnote,-小鸡词典,-发音纠正器](https://www.v2ex.com/t/878929) 

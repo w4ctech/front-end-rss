@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-09 19:14:31，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-09 19:38:45，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-09-09-如何评价在我校为数不多的注册设备中，（安卓）移动设备竟悉数为小米？（当然，没有-iOS-和-WP）](https://www.v2ex.com/t/879044) ![](assets/new.png)  
 - [2022-09-09-你们的-gv-绑定了手机号没？用的哪家的？](https://www.v2ex.com/t/879041) ![](assets/new.png)  
 - [2022-09-09-小米灵动岛主题已就位。。](https://www.v2ex.com/t/879039) ![](assets/new.png)  
 - [2022-09-09-可以用-github-仓库当数据库吗](https://www.v2ex.com/t/879038) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-09-09-求推荐-nas](https://www.v2ex.com/t/879021) ![](assets/new.png)  
 - [2022-09-09-华为荣耀-ov-有什么-pd-充电快一点的机器吗](https://www.v2ex.com/t/879020) ![](assets/new.png)  
 - [2022-09-09-v2ex-这个绿色的条满了是什么意思？](https://www.v2ex.com/t/879019) ![](assets/new.png)  
-- [2022-09-09-OpenWrt-与-IPv6-求助](https://www.v2ex.com/t/879016) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

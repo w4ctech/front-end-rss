@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-09 07:46:02。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-09-09 08:21:01。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,14 @@
 </summary>
 
 
+- [【V2EX】2022-09-09-使用-Apple-TV-4K-无法同时关闭电视](https://www.v2ex.com/t/878932) 
+- [【V2EX】2022-09-09-好工具周刊（第-29-期）:-Squoosh,-AI-Background-Generator,-Background-Remover,-Motionity,-Privnote,-小鸡词典,-发音纠正器](https://www.v2ex.com/t/878929) 
+- [【V2EX】2022-09-09-分享-craft-实现-newsletter-的效果](https://www.v2ex.com/t/878928) 
+- [【V2EX】2022-09-09-一個簡單的函數式參數合併-helper](https://www.v2ex.com/t/878927) 
+- [【V2EX】2022-09-09-进入摸鱼时间,探讨个问题吧,如何实现完全分布式没有管理员的代码迭代?](https://www.v2ex.com/t/878926) 
+- [【V2EX】2022-09-09-那里能找到高德、知乎、京东金融等新版的-32-位安装包](https://www.v2ex.com/t/878925) 
+- [【V2EX】2022-09-09-有没有类似小爱同学的，可以免费调用的-ai-接口，或者有没有办法直接调用小爱同学](https://www.v2ex.com/t/878924) 
+- [【V2EX】2022-09-09-iOS-上有没有能添加任意二维码到苹果钱包的、类似-Stocard-的卡包应用？](https://www.v2ex.com/t/878923) 
 - [【V2EX】2022-09-09-字节-Pico-自研-3D-渲染引擎有坑，职级-2-2，精通-OpenGL\Vulkan-以及效果-Shader，有中大型-C++开发经验](https://www.v2ex.com/t/878921) 
 - [【V2EX】2022-09-09-有个联通的光猫，闲置好久了，可以用来做路由器用吗？](https://www.v2ex.com/t/878920) 
 - [【V2EX】2022-09-09-儿童智能手表有什么推荐的？](https://www.v2ex.com/t/878919) 
@@ -99,16 +107,6 @@
 - [【V2EX】2022-09-09-ShellClash-的配置问题](https://www.v2ex.com/t/878888) 
 - [【V2EX】2022-09-09-专升本（函授）学历有用吗？](https://www.v2ex.com/t/878887) 
 - [【V2EX】2022-09-09-求大佬们推荐个卡](https://www.v2ex.com/t/878885) 
-- [【V2EX】2022-09-09-为什么无线网卡不存在-USB-Type-C-版本？](https://www.v2ex.com/t/878883) 
-- [【V2EX】2022-09-09-⛑-没人注意到-AppleCare+-更新吗：无限次数的意外损坏保修服务](https://www.v2ex.com/t/878882) 
-- [【V2EX】2022-09-09-你为什么喜欢做全栈程序员](https://www.v2ex.com/t/878881) 
-- [【V2EX】2022-09-09-同事说自己电脑被人登录偷懒了聊天记录，有什么防范措施么](https://www.v2ex.com/t/878880) 
-- [【V2EX】2022-09-09-你们的-Youtube-客户端支持高刷吗](https://www.v2ex.com/t/878879) 
-- [【V2EX】2022-09-09-WG-+-DDNS-如何走-TCP](https://www.v2ex.com/t/878878) 
-- [【V2EX】2022-09-09-刚入坑黑群，我只是家里局域网用，有必要洗白吗？](https://www.v2ex.com/t/878877) 
-- [【V2EX】2022-09-09-有哪些-Mac-OS-App-正版软件折扣网站？麻烦分享一下](https://www.v2ex.com/t/878876) 
-- [【V2EX】2022-09-09-有对-word-支持比较好的富文本编辑器吗？](https://www.v2ex.com/t/878874) 
-- [【V2EX】2022-09-09-nginx-反代-前端-js-可以加载但是没反应?求大佬指方向](https://www.v2ex.com/t/878873) 
 - [【技术头条】2022-09-09-整洁架构之CSS-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15383&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fclean-architecture-css%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-09-深度链接（Deeplinking）是什么？-www.zhihu.com](https://blogread.cn/news/go.php?idItem=15382&url=https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F51509486%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-09-Android-DeepLink介绍与使用-cloud.tencent.com](https://blogread.cn/news/go.php?idItem=15381&url=https%3A%2F%2Fcloud.tencent.com%2Fdeveloper%2Farticle%2F1368263%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -150,8 +148,8 @@
 - [【开发者头条】2022-09-09-Go-语言创始人：复制亿点点代码比用别人轮子好！](https://toutiao.io/k/3ydyck8) 
 - [【开发者头条】2022-09-09-Netty-如何做到单机百万并发？](https://toutiao.io/k/d3i887q) 
 - [【开发者头条】2022-09-09-推荐-公司40k招的架构师写的API网关选型总结，就是牛逼！](https://toutiao.io/k/kyi9yzt) 
-- [【开发者头条】2022-09-09-推荐-聊聊数据库建表的15个小技巧](https://toutiao.io/k/uym7cfr) 
 - [【开发者头条】2022-09-09-推荐-SpringBoot-官方强烈推荐，连接池，太快了！](https://toutiao.io/k/zumxh7v) 
+- [【开发者头条】2022-09-09-推荐-聊聊数据库建表的15个小技巧](https://toutiao.io/k/uym7cfr) 
 - [【开发者头条】2022-09-09-推荐-什么是顶级的思维？](https://toutiao.io/k/ulqvlcd) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>

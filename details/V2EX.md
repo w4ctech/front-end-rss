@@ -1,10 +1,18 @@
-:alarm_clock: 更新时间: 2022-09-09 07:46:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-09 08:21:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-09-09-使用-Apple-TV-4K-无法同时关闭电视](https://www.v2ex.com/t/878932) 
+- [2022-09-09-好工具周刊（第-29-期）:-Squoosh,-AI-Background-Generator,-Background-Remover,-Motionity,-Privnote,-小鸡词典,-发音纠正器](https://www.v2ex.com/t/878929) 
+- [2022-09-09-分享-craft-实现-newsletter-的效果](https://www.v2ex.com/t/878928) 
+- [2022-09-09-一個簡單的函數式參數合併-helper](https://www.v2ex.com/t/878927) 
+- [2022-09-09-进入摸鱼时间,探讨个问题吧,如何实现完全分布式没有管理员的代码迭代?](https://www.v2ex.com/t/878926) 
+- [2022-09-09-那里能找到高德、知乎、京东金融等新版的-32-位安装包](https://www.v2ex.com/t/878925) 
+- [2022-09-09-有没有类似小爱同学的，可以免费调用的-ai-接口，或者有没有办法直接调用小爱同学](https://www.v2ex.com/t/878924) 
+- [2022-09-09-iOS-上有没有能添加任意二维码到苹果钱包的、类似-Stocard-的卡包应用？](https://www.v2ex.com/t/878923) 
 - [2022-09-09-字节-Pico-自研-3D-渲染引擎有坑，职级-2-2，精通-OpenGL\Vulkan-以及效果-Shader，有中大型-C++开发经验](https://www.v2ex.com/t/878921) 
 - [2022-09-09-有个联通的光猫，闲置好久了，可以用来做路由器用吗？](https://www.v2ex.com/t/878920) 
 - [2022-09-09-儿童智能手表有什么推荐的？](https://www.v2ex.com/t/878919) 
@@ -36,13 +44,3 @@
 - [2022-09-09-ShellClash-的配置问题](https://www.v2ex.com/t/878888) 
 - [2022-09-09-专升本（函授）学历有用吗？](https://www.v2ex.com/t/878887) 
 - [2022-09-09-求大佬们推荐个卡](https://www.v2ex.com/t/878885) 
-- [2022-09-09-为什么无线网卡不存在-USB-Type-C-版本？](https://www.v2ex.com/t/878883) 
-- [2022-09-09-⛑-没人注意到-AppleCare+-更新吗：无限次数的意外损坏保修服务](https://www.v2ex.com/t/878882) 
-- [2022-09-09-你为什么喜欢做全栈程序员](https://www.v2ex.com/t/878881) 
-- [2022-09-09-同事说自己电脑被人登录偷懒了聊天记录，有什么防范措施么](https://www.v2ex.com/t/878880) 
-- [2022-09-09-你们的-Youtube-客户端支持高刷吗](https://www.v2ex.com/t/878879) 
-- [2022-09-09-WG-+-DDNS-如何走-TCP](https://www.v2ex.com/t/878878) 
-- [2022-09-09-刚入坑黑群，我只是家里局域网用，有必要洗白吗？](https://www.v2ex.com/t/878877) 
-- [2022-09-09-有哪些-Mac-OS-App-正版软件折扣网站？麻烦分享一下](https://www.v2ex.com/t/878876) 
-- [2022-09-09-有对-word-支持比较好的富文本编辑器吗？](https://www.v2ex.com/t/878874) 
-- [2022-09-09-nginx-反代-前端-js-可以加载但是没反应?求大佬指方向](https://www.v2ex.com/t/878873) 

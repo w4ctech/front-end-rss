@@ -9953,6 +9953,46 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "使用 Apple TV 4K 无法同时关闭电视",
+        "link": "https://www.v2ex.com/t/878932",
+        "date": "2022-09-09"
+      },
+      {
+        "title": "好工具周刊（第 29 期）: Squoosh, AI Background Generator, Background Remover, Motionity, Privnote, 小鸡词典, 发音纠正器",
+        "link": "https://www.v2ex.com/t/878929",
+        "date": "2022-09-09"
+      },
+      {
+        "title": "分享 craft 实现 newsletter 的效果",
+        "link": "https://www.v2ex.com/t/878928",
+        "date": "2022-09-09"
+      },
+      {
+        "title": "一個簡單的函數式參數合併 helper",
+        "link": "https://www.v2ex.com/t/878927",
+        "date": "2022-09-09"
+      },
+      {
+        "title": "进入摸鱼时间,探讨个问题吧,如何实现完全分布式没有管理员的代码迭代?",
+        "link": "https://www.v2ex.com/t/878926",
+        "date": "2022-09-09"
+      },
+      {
+        "title": "那里能找到高德、知乎、京东金融等新版的 32 位安装包",
+        "link": "https://www.v2ex.com/t/878925",
+        "date": "2022-09-09"
+      },
+      {
+        "title": "有没有类似小爱同学的，可以免费调用的 ai 接口，或者有没有办法直接调用小爱同学",
+        "link": "https://www.v2ex.com/t/878924",
+        "date": "2022-09-09"
+      },
+      {
+        "title": "iOS 上有没有能添加任意二维码到苹果钱包的、类似 Stocard 的卡包应用？",
+        "link": "https://www.v2ex.com/t/878923",
+        "date": "2022-09-09"
+      },
+      {
         "title": "字节 Pico 自研 3D 渲染引擎有坑，职级 2-2，精通 OpenGL\\Vulkan 以及效果 Shader，有中大型 C++开发经验",
         "link": "https://www.v2ex.com/t/878921",
         "date": "2022-09-09"
@@ -10105,56 +10145,6 @@
       {
         "title": "求大佬们推荐个卡",
         "link": "https://www.v2ex.com/t/878885",
-        "date": "2022-09-09"
-      },
-      {
-        "title": "为什么无线网卡不存在 USB Type-C 版本？",
-        "link": "https://www.v2ex.com/t/878883",
-        "date": "2022-09-09"
-      },
-      {
-        "title": "⛑ 没人注意到 AppleCare+ 更新吗：无限次数的意外损坏保修服务",
-        "link": "https://www.v2ex.com/t/878882",
-        "date": "2022-09-09"
-      },
-      {
-        "title": "你为什么喜欢做全栈程序员",
-        "link": "https://www.v2ex.com/t/878881",
-        "date": "2022-09-09"
-      },
-      {
-        "title": "同事说自己电脑被人登录偷懒了聊天记录，有什么防范措施么",
-        "link": "https://www.v2ex.com/t/878880",
-        "date": "2022-09-09"
-      },
-      {
-        "title": "你们的 Youtube 客户端支持高刷吗",
-        "link": "https://www.v2ex.com/t/878879",
-        "date": "2022-09-09"
-      },
-      {
-        "title": "WG + DDNS 如何走 TCP",
-        "link": "https://www.v2ex.com/t/878878",
-        "date": "2022-09-09"
-      },
-      {
-        "title": "刚入坑黑群，我只是家里局域网用，有必要洗白吗？",
-        "link": "https://www.v2ex.com/t/878877",
-        "date": "2022-09-09"
-      },
-      {
-        "title": "有哪些 Mac OS App 正版软件折扣网站？麻烦分享一下",
-        "link": "https://www.v2ex.com/t/878876",
-        "date": "2022-09-09"
-      },
-      {
-        "title": "有对 word 支持比较好的富文本编辑器吗？",
-        "link": "https://www.v2ex.com/t/878874",
-        "date": "2022-09-09"
-      },
-      {
-        "title": "nginx 反代-前端 js 可以加载但是没反应?求大佬指方向",
-        "link": "https://www.v2ex.com/t/878873",
         "date": "2022-09-09"
       }
     ]
@@ -10377,13 +10367,13 @@
         "date": "2022-09-09"
       },
       {
-        "title": "[推荐] 聊聊数据库建表的15个小技巧",
-        "link": "https://toutiao.io/k/uym7cfr",
+        "title": "[推荐] SpringBoot 官方强烈推荐，连接池，太快了！",
+        "link": "https://toutiao.io/k/zumxh7v",
         "date": "2022-09-09"
       },
       {
-        "title": "[推荐] SpringBoot 官方强烈推荐，连接池，太快了！",
-        "link": "https://toutiao.io/k/zumxh7v",
+        "title": "[推荐] 聊聊数据库建表的15个小技巧",
+        "link": "https://toutiao.io/k/uym7cfr",
         "date": "2022-09-09"
       },
       {

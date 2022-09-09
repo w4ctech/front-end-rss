@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-09 19:38:45。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-09-09 20:16:55。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,7 @@
 </summary>
 
 
+- [【V2EX】2022-09-09-在-Debian-下如何固定网卡名称？](https://www.v2ex.com/t/879045) 
 - [【V2EX】2022-09-09-如何评价在我校为数不多的注册设备中，（安卓）移动设备竟悉数为小米？（当然，没有-iOS-和-WP）](https://www.v2ex.com/t/879044) 
 - [【V2EX】2022-09-09-你们的-gv-绑定了手机号没？用的哪家的？](https://www.v2ex.com/t/879041) 
 - [【V2EX】2022-09-09-小米灵动岛主题已就位。。](https://www.v2ex.com/t/879039) 
@@ -147,10 +148,10 @@
 - [【开发者头条】2022-09-09-30分钟吃掉pytorch中的各种归一化层](https://toutiao.io/k/oh7w36j) 
 - [【开发者头条】2022-09-09-python爬虫之看懂aiohttp异步爬虫](https://toutiao.io/k/99ngg25) 
 - [【开发者头条】2022-09-09-Netty-如何做到单机百万并发？](https://toutiao.io/k/d3i887q) 
+- [【开发者头条】2022-09-09-推荐-SpringBoot-官方强烈推荐，连接池，太快了！](https://toutiao.io/k/zumxh7v) 
 - [【开发者头条】2022-09-09-推荐-什么是顶级的思维？](https://toutiao.io/k/ulqvlcd) 
 - [【开发者头条】2022-09-09-推荐-聊聊数据库建表的15个小技巧](https://toutiao.io/k/uym7cfr) 
 - [【开发者头条】2022-09-09-推荐-公司40k招的架构师写的API网关选型总结，就是牛逼！](https://toutiao.io/k/kyi9yzt) 
-- [【开发者头条】2022-09-09-推荐-SpringBoot-官方强烈推荐，连接池，太快了！](https://toutiao.io/k/zumxh7v) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

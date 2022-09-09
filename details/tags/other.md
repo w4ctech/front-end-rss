@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-09 19:38:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-09 20:16:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,7 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-09-09-在-Debian-下如何固定网卡名称？](https://www.v2ex.com/t/879045) 
 - [2022-09-09-如何评价在我校为数不多的注册设备中，（安卓）移动设备竟悉数为小米？（当然，没有-iOS-和-WP）](https://www.v2ex.com/t/879044) 
 - [2022-09-09-你们的-gv-绑定了手机号没？用的哪家的？](https://www.v2ex.com/t/879041) 
 - [2022-09-09-小米灵动岛主题已就位。。](https://www.v2ex.com/t/879039) 
@@ -1975,7 +1976,7 @@
 - [2022-09-09-内网渗透软件-BloodHound使用指南](https://toutiao.io/k/bcwu66s) 
 - [2022-09-09-30分钟吃掉pytorch中的各种归一化层](https://toutiao.io/k/oh7w36j) 
 - [2022-09-09-Netty-如何做到单机百万并发？](https://toutiao.io/k/d3i887q) 
+- [2022-09-09-推荐-SpringBoot-官方强烈推荐，连接池，太快了！](https://toutiao.io/k/zumxh7v) 
 - [2022-09-09-推荐-什么是顶级的思维？](https://toutiao.io/k/ulqvlcd) 
 - [2022-09-09-推荐-聊聊数据库建表的15个小技巧](https://toutiao.io/k/uym7cfr) 
 - [2022-09-09-推荐-公司40k招的架构师写的API网关选型总结，就是牛逼！](https://toutiao.io/k/kyi9yzt) 
-- [2022-09-09-推荐-SpringBoot-官方强烈推荐，连接池，太快了！](https://toutiao.io/k/zumxh7v) 

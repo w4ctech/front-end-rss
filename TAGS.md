@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-09-09 06:10:02。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-09 07:03:50。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -121,7 +121,6 @@
 
 
 
-- [【V2EX】开发了一个资产管理、自动更新股票基金收益的小程序](https://www.v2ex.com/t/878856)
 - [......【查看更多】......](./details/tags/miniprogram.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -334,7 +333,6 @@
 
 
 - [【张鑫旭-鑫空间-鑫生活】gitee上撸了个类似飞书OKR输入框的@提及项目](https://www.zhangxinxu.com/wordpress/2022/08/gitee-feishu-okr-at-mention/)
-- [【V2EX】GitHub-Copilot-信用卡付款的时候失败是怎么回事](https://www.v2ex.com/t/878854)
 - [【开发者头条】谁动了我的奶酪，通过-Git-找出内容变更历史](https://toutiao.io/k/hwd6yvw)
 - [......【查看更多】......](./details/tags/git-svn.md)
 

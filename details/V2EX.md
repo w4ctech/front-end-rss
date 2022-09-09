@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-09 18:18:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-09 18:51:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -44,4 +44,3 @@
 - [2022-09-09-Windows-下的-QoS-限速软件有么？](https://www.v2ex.com/t/878997) 
 - [2022-09-09-第一次买-iPhone-，求推荐第三方充电器](https://www.v2ex.com/t/878996) 
 - [2022-09-09-抢到了-10-月初的-14pro，已经付款，但是-apple-app-无订单](https://www.v2ex.com/t/878994) 
-- [2022-09-09-室友总喝我可乐](https://www.v2ex.com/t/878993) 

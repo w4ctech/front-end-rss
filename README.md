@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-09 21:14:36，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-09 21:42:29，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-09-09-最近找工作的行情大家来交流交流](https://www.v2ex.com/t/879046) ![](assets/new.png)  
 - [2022-09-09-在-Debian-下如何固定网卡名称？](https://www.v2ex.com/t/879045) ![](assets/new.png)  
 - [2022-09-09-如何评价在我校为数不多的注册设备中，（安卓）移动设备竟悉数为小米？（当然，没有-iOS-和-WP）](https://www.v2ex.com/t/879044) ![](assets/new.png)  
 - [2022-09-09-你们的-gv-绑定了手机号没？用的哪家的？](https://www.v2ex.com/t/879041) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-09-09-有没有和我一样订单一直显示已收到付款的](https://www.v2ex.com/t/879023) ![](assets/new.png)  
 - [2022-09-09-深圳周边有什么好去处？](https://www.v2ex.com/t/879022) ![](assets/new.png)  
 - [2022-09-09-求推荐-nas](https://www.v2ex.com/t/879021) ![](assets/new.png)  
-- [2022-09-09-华为荣耀-ov-有什么-pd-充电快一点的机器吗](https://www.v2ex.com/t/879020) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

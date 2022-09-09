@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-09 05:12:07，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-09 06:10:02，:rocket: 更新条数: +2033， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,16 @@
 </summary>
 
 
+- [2022-09-09-有几大云厂商的低价资源，在思考如何获利？](https://www.v2ex.com/t/878896) ![](assets/new.png)  
+- [2022-09-09-有多少人准备买-iPhone-14-系列](https://www.v2ex.com/t/878895) ![](assets/new.png)  
+- [2022-09-09-我们做了一款-Newsletter-导航站（alleyread.com）](https://www.v2ex.com/t/878894) ![](assets/new.png)  
+- [2022-09-09-最近-v6-出海-，响应是不是有些慢](https://www.v2ex.com/t/878893) ![](assets/new.png)  
+- [2022-09-09-恕我直言，-3k-以内，-65-寸-75-寸电视，只选雷鸟，不符来辩！](https://www.v2ex.com/t/878892) ![](assets/new.png)  
+- [2022-09-09-rust-初学者，如何在一个项目内生成-exe-和-dll，并且不同-exe-和-dll-有不同的前缀名字](https://www.v2ex.com/t/878891) ![](assets/new.png)  
+- [2022-09-09-除了-iCloud，是不是别的备份方法都没办法-无损还原](https://www.v2ex.com/t/878890) ![](assets/new.png)  
+- [2022-09-09-YouTube-Vanced-装不上了-有同样的吗](https://www.v2ex.com/t/878889) ![](assets/new.png)  
+- [2022-09-09-ShellClash-的配置问题](https://www.v2ex.com/t/878888) ![](assets/new.png)  
+- [2022-09-09-专升本（函授）学历有用吗？](https://www.v2ex.com/t/878887) ![](assets/new.png)  
 - [2022-09-09-求大佬们推荐个卡](https://www.v2ex.com/t/878885) ![](assets/new.png)  
 - [2022-09-09-为什么无线网卡不存在-USB-Type-C-版本？](https://www.v2ex.com/t/878883) ![](assets/new.png)  
 - [2022-09-09-⛑-没人注意到-AppleCare+-更新吗：无限次数的意外损坏保修服务](https://www.v2ex.com/t/878882) ![](assets/new.png)  
@@ -501,16 +511,6 @@
 - [2022-09-09-刚入坑黑群，我只是家里局域网用，有必要洗白吗？](https://www.v2ex.com/t/878877) ![](assets/new.png)  
 - [2022-09-09-有哪些-Mac-OS-App-正版软件折扣网站？麻烦分享一下](https://www.v2ex.com/t/878876) ![](assets/new.png)  
 - [2022-09-09-有对-word-支持比较好的富文本编辑器吗？](https://www.v2ex.com/t/878874) ![](assets/new.png)  
-- [2022-09-09-nginx-反代-前端-js-可以加载但是没反应?求大佬指方向](https://www.v2ex.com/t/878873) ![](assets/new.png)  
-- [2022-09-09-摸鱼迎中秋，有奖猜数字](https://www.v2ex.com/t/878872) ![](assets/new.png)  
-- [2022-09-09-收-13mini-要求-256-走闲鱼](https://www.v2ex.com/t/878871) ![](assets/new.png)  
-- [2022-09-09-win10-右下最近总弹出这个，点开就是广告，我该怎么找到相关进程？](https://www.v2ex.com/t/878870) ![](assets/new.png)  
-- [2022-09-09-请教大家,-前端图片合成有哪些插件可以使用](https://www.v2ex.com/t/878868) ![](assets/new.png)  
-- [2022-09-09-摸鱼一个半月，做了个不好用的静态站点生成网站。](https://www.v2ex.com/t/878867) ![](assets/new.png)  
-- [2022-09-09-兄弟们，自己做了个-app，求提点意见：-iOS-应用双开，边刷抖音边学习](https://www.v2ex.com/t/878866) ![](assets/new.png)  
-- [2022-09-09-《阿凡达-2：水之道》，有期待的](https://www.v2ex.com/t/878865) ![](assets/new.png)  
-- [2022-09-09-iOS-或者-MAC-有什么软件或方式自动备份微信聊天文件吗](https://www.v2ex.com/t/878864) ![](assets/new.png)  
-- [2022-09-09-Espanso-在-Windows-和-Mac-上的内存占用为什么差别那么大？](https://www.v2ex.com/t/878863) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,15 +563,16 @@
 - [2022-09-09-程序员如何优雅地解决线上问题？](https://toutiao.io/k/75c3dyr) ![](assets/new.png)  
 - [2022-09-09-B站流式传输架构的前世今生](https://toutiao.io/k/xpk3wm8) ![](assets/new.png)  
 - [2022-09-09-整洁架构之CSS](https://toutiao.io/k/x6en9vo) ![](assets/new.png)  
+- [2022-09-09-聊聊-npm-的语义化版本（Semver）](https://toutiao.io/k/iodmwj4) ![](assets/new.png)  
 - [2022-09-09-系统性总结了-Numpy-所有关键知识点！](https://toutiao.io/k/nmnwmmm) ![](assets/new.png)  
 - [2022-09-09-Go-编程模式：错误处理](https://toutiao.io/k/rbb7sk6) ![](assets/new.png)  
-- [2022-09-09-聊聊-npm-的语义化版本（Semver）](https://toutiao.io/k/iodmwj4) ![](assets/new.png)  
 - [2022-09-09-内网渗透软件-BloodHound使用指南](https://toutiao.io/k/bcwu66s) ![](assets/new.png)  
 - [2022-09-09-30分钟吃掉pytorch中的各种归一化层](https://toutiao.io/k/oh7w36j) ![](assets/new.png)  
-- [2022-09-09-推荐-SpringBoot-官方强烈推荐，连接池，太快了！](https://toutiao.io/k/zumxh7v) ![](assets/new.png)  
-- [2022-09-09-推荐-聊聊数据库建表的15个小技巧](https://toutiao.io/k/uym7cfr) ![](assets/new.png)  
-- [2022-09-09-推荐-公司40k招的架构师写的API网关选型总结，就是牛逼！](https://toutiao.io/k/kyi9yzt) ![](assets/new.png)  
-- [2022-09-09-推荐-什么是顶级的思维？](https://toutiao.io/k/ulqvlcd) ![](assets/new.png)  
+- [2022-09-09-Redis数据结构&持久化总结](https://toutiao.io/k/tfu4sab) ![](assets/new.png)  
+- [2022-09-09-谁能告诉我，-Kafka-到底会不会丢数据？](https://toutiao.io/k/vft0wa8) ![](assets/new.png)  
+- [2022-09-09-python爬虫之看懂aiohttp异步爬虫](https://toutiao.io/k/99ngg25) ![](assets/new.png)  
+- [2022-09-09-Go-语言创始人：复制亿点点代码比用别人轮子好！](https://toutiao.io/k/3ydyck8) ![](assets/new.png)  
+- [2022-09-09-Netty-如何做到单机百万并发？](https://toutiao.io/k/d3i887q) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

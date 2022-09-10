@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-10 16:58:51。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-09-10 17:21:05。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -141,8 +141,8 @@
 - [【开发者头条】2022-09-10-C++最佳实践-|-5.-可移植性及多线程](https://toutiao.io/k/1o7275j) 
 - [【开发者头条】2022-09-10-推荐-SpringBoot-官方强烈推荐，连接池，太快了！](https://toutiao.io/k/zumxh7v) 
 - [【开发者头条】2022-09-10-推荐-公司40k招的架构师写的API网关选型总结，就是牛逼！](https://toutiao.io/k/kyi9yzt) 
-- [【开发者头条】2022-09-10-推荐-聊聊数据库建表的15个小技巧](https://toutiao.io/k/uym7cfr) 
 - [【开发者头条】2022-09-10-推荐-什么是顶级的思维？](https://toutiao.io/k/ulqvlcd) 
+- [【开发者头条】2022-09-10-推荐-聊聊数据库建表的15个小技巧](https://toutiao.io/k/uym7cfr) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

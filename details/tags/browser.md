@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-10 08:49:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-10 09:15:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -14,6 +14,7 @@
 - [2021-01-08-解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html) 
 - [2021-01-01-大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html) 
 - [2022-06-12-基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/) 
+- [2022-09-10-之前装过-v2-上某个大佬发的识别谷歌验证码的扩展被浏览器删除了，有大佬可以再分享下嘛](https://www.v2ex.com/t/879136) 
 - [2022-09-10-Opera-浏览器真没有让我失望，再也不能碰和-360-有关的任何产品了！](https://www.v2ex.com/t/879133) 
 - [2022-09-10-我把一个大型-C++-库移植到了浏览器！](https://www.v2ex.com/t/879113) 
 - [2022-09-10-Apache-Pulsar-系列-——-深入理解-Bookie-GC-回收机制](https://toutiao.io/k/wtcn071) 

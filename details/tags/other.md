@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-10 17:21:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-10 17:45:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1916,11 +1916,9 @@
 - [2022-09-10-高学历-vs-企业家](https://www.v2ex.com/t/879211) 
 - [2022-09-10-iCloud-200-G-满了，开-2T-太浪费了，我能开一个-2T，然后关掉吗？](https://www.v2ex.com/t/879210) 
 - [2022-09-10-有大佬了解-wireguard-怎么实现网络访问控制吗](https://www.v2ex.com/t/879209) 
-- [2022-09-10-日了狗了，上海浦东低风险地区回家被集中隔离了](https://www.v2ex.com/t/879208) 
 - [2022-09-10-领导要求在非工作时间处理工作，应不应该拒绝](https://www.v2ex.com/t/879206) 
 - [2022-09-10-各位大佬,-请教下-FTP-服务放公网的问题?](https://www.v2ex.com/t/879205) 
 - [2022-09-10-有没有监测国区-apple-零售店-iPhone-14-库存的工具](https://www.v2ex.com/t/879204) 
-- [2022-09-10-现在山寨苹果机还有市场吗？](https://www.v2ex.com/t/879202) 
 - [2022-09-10-本人手里有些资金，想找一个合适的项目合作。](https://www.v2ex.com/t/879201) 
 - [2022-09-10-求内存关系型数据库的选型推荐](https://www.v2ex.com/t/879197) 
 - [2022-09-10-网易闪电邮最近不好用了？推荐个-PC-邮箱客户端吧](https://www.v2ex.com/t/879191) 
@@ -1964,7 +1962,7 @@
 - [2022-09-10-ClickHouse-挺快，esProc-SPL-更快](https://toutiao.io/k/k975w1s) 
 - [2022-09-10-系统性总结了-Numpy-所有知识点](https://toutiao.io/k/vgv33yr) 
 - [2022-09-10-C++最佳实践-|-5.-可移植性及多线程](https://toutiao.io/k/1o7275j) 
+- [2022-09-10-推荐-聊聊数据库建表的15个小技巧](https://toutiao.io/k/uym7cfr) 
 - [2022-09-10-推荐-SpringBoot-官方强烈推荐，连接池，太快了！](https://toutiao.io/k/zumxh7v) 
 - [2022-09-10-推荐-公司40k招的架构师写的API网关选型总结，就是牛逼！](https://toutiao.io/k/kyi9yzt) 
 - [2022-09-10-推荐-什么是顶级的思维？](https://toutiao.io/k/ulqvlcd) 
-- [2022-09-10-推荐-聊聊数据库建表的15个小技巧](https://toutiao.io/k/uym7cfr) 

@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-09-10 18:50:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-10 19:12:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-09-10-2021-款-16-寸-mbp-的-hdmi-接口很松](https://www.v2ex.com/t/879216) 
 - [2022-09-10-求助-2022-年花-2.7k-买全新-Ultrafine-4K-值吗](https://www.v2ex.com/t/879215) 
 - [2022-09-10-现在-Linux-上最好用的-WebDAV-服务端是-rclone-吗？](https://www.v2ex.com/t/879214) 
 - [2022-09-10-新版本税务-ukey-开票软件在虚拟机里面不能打开了](https://www.v2ex.com/t/879213) 
@@ -44,4 +45,3 @@
 - [2022-09-10-macOS-下载推特视频](https://www.v2ex.com/t/879170) 
 - [2022-09-10-给广大-run-友分享一个-run-的方法](https://www.v2ex.com/t/879168) 
 - [2022-09-10-今天中秋节](https://www.v2ex.com/t/879167) 
-- [2022-09-10-苹果电脑这个跟着鼠标跑的框框是什么东西？如何去掉？（出现过几次了，不想每次都重启电脑）](https://www.v2ex.com/t/879166) 

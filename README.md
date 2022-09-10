@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-10 16:19:28，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-10 16:58:51，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-09-10-新版本税务-ukey-开票软件在虚拟机里面不能打开了](https://www.v2ex.com/t/879213) ![](assets/new.png)  
+- [2022-09-10-公开的仓库怎么设置禁止别人-fork-啊](https://www.v2ex.com/t/879212) ![](assets/new.png)  
+- [2022-09-10-高学历-vs-企业家](https://www.v2ex.com/t/879211) ![](assets/new.png)  
+- [2022-09-10-iCloud-200-G-满了，开-2T-太浪费了，我能开一个-2T，然后关掉吗？](https://www.v2ex.com/t/879210) ![](assets/new.png)  
 - [2022-09-10-有大佬了解-wireguard-怎么实现网络访问控制吗](https://www.v2ex.com/t/879209) ![](assets/new.png)  
 - [2022-09-10-日了狗了，上海浦东低风险地区回家被集中隔离了](https://www.v2ex.com/t/879208) ![](assets/new.png)  
 - [2022-09-10-如何理解-elasticsearch-数据库的-index](https://www.v2ex.com/t/879207) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-09-10-网易闪电邮最近不好用了？推荐个-PC-邮箱客户端吧](https://www.v2ex.com/t/879191) ![](assets/new.png)  
 - [2022-09-10-Backblaze-提供海外性价比的备份套餐：-1T/5-USD-/月](https://www.v2ex.com/t/879190) ![](assets/new.png)  
 - [2022-09-10-中秋节快乐,-求推荐一款本地播放音乐的软件](https://www.v2ex.com/t/879189) ![](assets/new.png)  
-- [2022-09-10-照片转简笔画之类风格的方法](https://www.v2ex.com/t/879188) ![](assets/new.png)  
-- [2022-09-10-.net-core-项目有什么方法能方便浏览标准库和第三方库的源码](https://www.v2ex.com/t/879187) ![](assets/new.png)  
-- [2022-09-10-iPhone-如何搜索历史来电？](https://www.v2ex.com/t/879186) ![](assets/new.png)  
-- [2022-09-10-emule-是否被淘汰了？如果是，为什么？](https://www.v2ex.com/t/879185) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,10 +563,10 @@
 - [2022-09-10-10-万边缘节点！KubeEdge-大规模边缘集群性能测试实战（直播回放-+-PPT）](https://toutiao.io/k/w2zkw2k) ![](assets/new.png)  
 - [2022-09-10-系统性总结了-Numpy-所有知识点](https://toutiao.io/k/vgv33yr) ![](assets/new.png)  
 - [2022-09-10-C++最佳实践-|-5.-可移植性及多线程](https://toutiao.io/k/1o7275j) ![](assets/new.png)  
-- [2022-09-10-推荐-聊聊数据库建表的15个小技巧](https://toutiao.io/k/uym7cfr) ![](assets/new.png)  
-- [2022-09-10-推荐-公司40k招的架构师写的API网关选型总结，就是牛逼！](https://toutiao.io/k/kyi9yzt) ![](assets/new.png)  
-- [2022-09-10-推荐-什么是顶级的思维？](https://toutiao.io/k/ulqvlcd) ![](assets/new.png)  
 - [2022-09-10-推荐-SpringBoot-官方强烈推荐，连接池，太快了！](https://toutiao.io/k/zumxh7v) ![](assets/new.png)  
+- [2022-09-10-推荐-公司40k招的架构师写的API网关选型总结，就是牛逼！](https://toutiao.io/k/kyi9yzt) ![](assets/new.png)  
+- [2022-09-10-推荐-聊聊数据库建表的15个小技巧](https://toutiao.io/k/uym7cfr) ![](assets/new.png)  
+- [2022-09-10-推荐-什么是顶级的思维？](https://toutiao.io/k/ulqvlcd) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-10 09:15:46。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-09-10 09:42:47。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,8 @@
 </summary>
 
 
+- [【V2EX】2022-09-10-三字经](https://www.v2ex.com/t/879139) 
+- [【V2EX】2022-09-10-你们团队中有实践-结对编程-吗？效果如何？](https://www.v2ex.com/t/879138) 
 - [【V2EX】2022-09-10-之前装过-v2-上某个大佬发的识别谷歌验证码的扩展被浏览器删除了，有大佬可以再分享下嘛](https://www.v2ex.com/t/879136) 
 - [【V2EX】2022-09-10-如何正确的注册土耳其地区的-Apple-ID？](https://www.v2ex.com/t/879134) 
 - [【V2EX】2022-09-10-Opera-浏览器真没有让我失望，再也不能碰和-360-有关的任何产品了！](https://www.v2ex.com/t/879133) 
@@ -100,7 +102,6 @@
 - [【V2EX】2022-09-10-最近想调整下网络架构在加一台硬件防火墙，各位给个意见](https://www.v2ex.com/t/879099) 
 - [【V2EX】2022-09-10-求美国到中国转运公司推荐](https://www.v2ex.com/t/879098) 
 - [【V2EX】2022-09-10-迫于在家看短视频的音量太闹。如何在路由器中屏蔽所有短视频平台~](https://www.v2ex.com/t/879095) 
-- [【V2EX】2022-09-10-安卓-tim-里面邮箱密码错误问题求解](https://www.v2ex.com/t/879090) 
 - [【技术头条】2022-09-10-整洁架构之CSS-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15383&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fclean-architecture-css%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-10-深度链接（Deeplinking）是什么？-www.zhihu.com](https://blogread.cn/news/go.php?idItem=15382&url=https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F51509486%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-10-Android-DeepLink介绍与使用-cloud.tencent.com](https://blogread.cn/news/go.php?idItem=15381&url=https%3A%2F%2Fcloud.tencent.com%2Fdeveloper%2Farticle%2F1368263%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -131,10 +132,10 @@
 - [【开发者头条】2022-09-10-系统性总结了-Numpy-所有知识点](https://toutiao.io/k/vgv33yr) 
 - [【开发者头条】2022-09-10-10-万边缘节点！KubeEdge-大规模边缘集群性能测试实战（直播回放-+-PPT）](https://toutiao.io/k/w2zkw2k) 
 - [【开发者头条】2022-09-10-C++最佳实践-|-5.-可移植性及多线程](https://toutiao.io/k/1o7275j) 
-- [【开发者头条】2022-09-10-推荐-SpringBoot-官方强烈推荐，连接池，太快了！](https://toutiao.io/k/zumxh7v) 
-- [【开发者头条】2022-09-10-推荐-什么是顶级的思维？](https://toutiao.io/k/ulqvlcd) 
 - [【开发者头条】2022-09-10-推荐-聊聊数据库建表的15个小技巧](https://toutiao.io/k/uym7cfr) 
 - [【开发者头条】2022-09-10-推荐-公司40k招的架构师写的API网关选型总结，就是牛逼！](https://toutiao.io/k/kyi9yzt) 
+- [【开发者头条】2022-09-10-推荐-SpringBoot-官方强烈推荐，连接池，太快了！](https://toutiao.io/k/zumxh7v) 
+- [【开发者头条】2022-09-10-推荐-什么是顶级的思维？](https://toutiao.io/k/ulqvlcd) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

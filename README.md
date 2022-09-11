@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-11 07:15:22，:rocket: 更新条数: +2017， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-11 07:40:36，:rocket: 更新条数: +2018， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-09-11-机场（梯子）的支付宝付款功能是哪些服务商提供的？](https://www.v2ex.com/t/879283) ![](assets/new.png)  
+- [2022-09-11-上海电信云宽带的智家硬盘大幅涨价](https://www.v2ex.com/t/879282) ![](assets/new.png)  
+- [2022-09-11-杭州市民卡（主要是公交地铁功能）可以写入-apple-pay-吗，每次进城都要带市民卡真的很烦](https://www.v2ex.com/t/879281) ![](assets/new.png)  
 - [2022-09-11-由两个整数生成一个独特的整数](https://www.v2ex.com/t/879280) ![](assets/new.png)  
 - [2022-09-11-有什么软件能实现这样的功能：按-F6，执行一下-command+tab，然后执行一下-left-arrow,-然后执行一下-command+tab](https://www.v2ex.com/t/879279) ![](assets/new.png)  
 - [2022-09-11-公司年中体检发现身体很不健康，自律真的很重要](https://www.v2ex.com/t/879278) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-09-11-ssh-偶尔连接不上的问题](https://www.v2ex.com/t/879261) ![](assets/new.png)  
 - [2022-09-11-网上买的联通卡，说好的-200-分钟通话，却没有，客服说月底才能添加？](https://www.v2ex.com/t/879260) ![](assets/new.png)  
 - [2022-09-11-没抢到前面的-iPhone14Pro，来看看-v-友有没有漏给我个的](https://www.v2ex.com/t/879259) ![](assets/new.png)  
-- [2022-09-11-劳动法规定的-8-小时是否包含休息时间](https://www.v2ex.com/t/879258) ![](assets/new.png)  
-- [2022-09-11-v2er-有没有华科在读的同学？](https://www.v2ex.com/t/879257) ![](assets/new.png)  
-- [2022-09-11-日亚上买漫画实体书到国内（非-R-18），走转运还是代购靠谱些？有推荐的商家吗？时效和费用大约是多少？](https://www.v2ex.com/t/879255) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,9 +563,9 @@
 - [2022-09-11-Home-Assistant接入HomeKit与简要介绍](https://toutiao.io/k/u8fw2l3) ![](assets/new.png)  
 - [2022-09-11-Redis-内存优化神技，小内存保存大数据](https://toutiao.io/k/mmun4o8) ![](assets/new.png)  
 - [2022-09-11-TiFlash-源码阅读（八）TiFlash-表达式的实现与设计](https://toutiao.io/k/t0imysj) ![](assets/new.png)  
+- [2022-09-11-推荐-公司40k招的架构师写的API网关选型总结，就是牛逼！](https://toutiao.io/k/kyi9yzt) ![](assets/new.png)  
 - [2022-09-11-推荐-SpringBoot-官方强烈推荐，连接池，太快了！](https://toutiao.io/k/zumxh7v) ![](assets/new.png)  
 - [2022-09-11-推荐-聊聊数据库建表的15个小技巧](https://toutiao.io/k/uym7cfr) ![](assets/new.png)  
-- [2022-09-11-推荐-公司40k招的架构师写的API网关选型总结，就是牛逼！](https://toutiao.io/k/kyi9yzt) ![](assets/new.png)  
 - [2022-09-11-推荐-什么是顶级的思维？](https://toutiao.io/k/ulqvlcd) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

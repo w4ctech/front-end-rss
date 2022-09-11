@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-11 16:58:35，:rocket: 更新条数: +2020， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-11 17:21:23，:rocket: 更新条数: +2020， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-09-11-美版没了卡槽,以后卡贴机还会有黑解吗?或者-iccid?](https://www.v2ex.com/t/879366) ![](assets/new.png)  
+- [2022-09-11-OneDrive-for-macOS：不支持外部存储，存放在外部存储时，会自动创建替身并拉回本机设备的空间。](https://www.v2ex.com/t/879365) ![](assets/new.png)  
 - [2022-09-11-时隔-0xff-天，我们又来求合作啦~](https://www.v2ex.com/t/879364) ![](assets/new.png)  
 - [2022-09-11-如何检测-video-元素是否被浏览器劫持？](https://www.v2ex.com/t/879363) ![](assets/new.png)  
 - [2022-09-11-CefSahrp-运行本地网页，有什么可以实际操作的方案吗？](https://www.v2ex.com/t/879362) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-09-11-如何看待男权反噬论](https://www.v2ex.com/t/879343) ![](assets/new.png)  
 - [2022-09-11-什么时候-Apple-才能要求所有上架-App-Store-的-App-不得自行实现图片选择器呢？](https://www.v2ex.com/t/879342) ![](assets/new.png)  
 - [2022-09-11-Stable-Diffusion-Apple-Silicon-懒人包-Charl-E-报错](https://www.v2ex.com/t/879341) ![](assets/new.png)  
-- [2022-09-11-树莓派-Raspberry-4B-购买，以及树莓派-5](https://www.v2ex.com/t/879339) ![](assets/new.png)  
-- [2022-09-11-灵动岛在-iPhone-横屏时会灵动吗？](https://www.v2ex.com/t/879338) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,10 +563,10 @@
 - [2022-09-11-Redis-内存优化神技，小内存保存大数据](https://toutiao.io/k/mmun4o8) ![](assets/new.png)  
 - [2022-09-11-Home-Assistant接入HomeKit与简要介绍](https://toutiao.io/k/u8fw2l3) ![](assets/new.png)  
 - [2022-09-11-TiFlash-源码阅读（八）TiFlash-表达式的实现与设计](https://toutiao.io/k/t0imysj) ![](assets/new.png)  
+- [2022-09-11-推荐-SpringBoot-官方强烈推荐，连接池，太快了！](https://toutiao.io/k/zumxh7v) ![](assets/new.png)  
+- [2022-09-11-推荐-微服务网关鉴权：gateway使用、网关限流使用、用户密码加密、JWT鉴权](https://toutiao.io/k/rdhhq5d) ![](assets/new.png)  
 - [2022-09-11-推荐-公司40k招的架构师写的API网关选型总结，就是牛逼！](https://toutiao.io/k/kyi9yzt) ![](assets/new.png)  
 - [2022-09-11-推荐-聊聊数据库建表的15个小技巧](https://toutiao.io/k/uym7cfr) ![](assets/new.png)  
-- [2022-09-11-推荐-微服务网关鉴权：gateway使用、网关限流使用、用户密码加密、JWT鉴权](https://toutiao.io/k/rdhhq5d) ![](assets/new.png)  
-- [2022-09-11-推荐-SpringBoot-官方强烈推荐，连接池，太快了！](https://toutiao.io/k/zumxh7v) ![](assets/new.png)  
 - [2022-09-11-推荐-什么是顶级的思维？](https://toutiao.io/k/ulqvlcd) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

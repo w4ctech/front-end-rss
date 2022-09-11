@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-11 20:16:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-11 20:46:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -44,4 +44,3 @@
 - [2022-09-11-Parallels-Desktop-18-for-Mac-下使用-Windows11-鼠标滚轮问题](https://www.v2ex.com/t/879322) 
 - [2022-09-11-苹果官网的-ipadpro-官翻机可以入手么](https://www.v2ex.com/t/879321) 
 - [2022-09-11-Safari-进-Google-大概率需要刷新一下才能正常用](https://www.v2ex.com/t/879320) 
-- [2022-09-11-较新固件-openwrt-的-passwall-可用性测试超时问题](https://www.v2ex.com/t/879319) 

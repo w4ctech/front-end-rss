@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-09-11 13:52:03。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-11 14:13:51。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -287,7 +287,6 @@
 - [【V2EX】Safari-进-Google-大概率需要刷新一下才能正常用](https://www.v2ex.com/t/879320)
 - [【V2EX】求-ios-最安全最好用的解压缩软件](https://www.v2ex.com/t/879299)
 - [【V2EX】夜间模式-日本语节点以及下属-post-的部分-div-背景颜色在夜间模式下仍为白色](https://www.v2ex.com/t/879298)
-- [【V2EX】关于老古董浏览器的前端兼容](https://www.v2ex.com/t/879290)
 - [【开发者头条】如何保障物联网平台的安全性与健壮性](https://toutiao.io/k/war0fue)
 - [【开发者头条】eBPF-Verifier内存越界实例分析](https://toutiao.io/k/5t9n1av)
 - [......【查看更多】......](./details/tags/browser.md)

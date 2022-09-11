@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-11 18:48:43。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-09-11 19:12:22。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -128,6 +128,21 @@
 - [【技术头条】2022-09-11-Kafka在美团数据平台的实践-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15366&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F08%2F04%2Fthe-practice-of-kafka-in-the-meituan-data-platform.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-11-JS-replaceAll-和-matchAll-使用指南不指北-www.zhangxinxu.com](https://blogread.cn/news/go.php?idItem=15365&url=https%3A%2F%2Fwww.zhangxinxu.com%2Fwordpress%2F2022%2F08%2Fjs-replaceall-matchall%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-11-借助-Docker-来搭-Nginx-的积木：快速实现高性能二维码服务-soulteary.com](https://blogread.cn/news/go.php?idItem=15364&url=https%3A%2F%2Fsoulteary.com%2F2022%2F08%2F27%2Fbuilding-blocks-of-nginx-with-docker-quickly-implement-high-performance-qr-code-services.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【开发者头条】2022-09-11-用代码画时序图！YYDS](https://toutiao.io/k/43k0d0b) 
+- [【开发者头条】2022-09-11-微服务架构的演进](https://toutiao.io/k/x6q7qad) 
+- [【开发者头条】2022-09-11-如何保障物联网平台的安全性与健壮性](https://toutiao.io/k/war0fue) 
+- [【开发者头条】2022-09-11-面试25k职位遇到的线程池8连问，能答出来算你狠！](https://toutiao.io/k/hecj2ay) 
+- [【开发者头条】2022-09-11-eBPF-Verifier内存越界实例分析](https://toutiao.io/k/5t9n1av) 
+- [【开发者头条】2022-09-11-HiveServer2-内存泄漏问题定位与优化方案](https://toutiao.io/k/zvgtzdc) 
+- [【开发者头条】2022-09-11-Redis-内存优化神技，小内存保存大数据](https://toutiao.io/k/mmun4o8) 
+- [【开发者头条】2022-09-11-图文结合简单易学的-npm-包的发布流程](https://toutiao.io/k/82vinrs) 
+- [【开发者头条】2022-09-11-Home-Assistant接入HomeKit与简要介绍](https://toutiao.io/k/u8fw2l3) 
+- [【开发者头条】2022-09-11-TiFlash-源码阅读（八）TiFlash-表达式的实现与设计](https://toutiao.io/k/t0imysj) 
+- [【开发者头条】2022-09-11-推荐-公司40k招的架构师写的API网关选型总结，就是牛逼！](https://toutiao.io/k/kyi9yzt) 
+- [【开发者头条】2022-09-11-推荐-微服务网关鉴权：gateway使用、网关限流使用、用户密码加密、JWT鉴权](https://toutiao.io/k/rdhhq5d) 
+- [【开发者头条】2022-09-11-推荐-什么是顶级的思维？](https://toutiao.io/k/ulqvlcd) 
+- [【开发者头条】2022-09-11-推荐-聊聊数据库建表的15个小技巧](https://toutiao.io/k/uym7cfr) 
+- [【开发者头条】2022-09-11-推荐-SpringBoot-官方强烈推荐，连接池，太快了！](https://toutiao.io/k/zumxh7v) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

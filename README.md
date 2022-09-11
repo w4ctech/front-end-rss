@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-11 18:48:43，:rocket: 更新条数: +2006， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-11 19:12:22，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)  
 - [物联网智库](#物联网智库)  
 
@@ -553,6 +553,21 @@
 </summary>
 
 
+- [2022-09-11-用代码画时序图！YYDS](https://toutiao.io/k/43k0d0b) ![](assets/new.png)  
+- [2022-09-11-微服务架构的演进](https://toutiao.io/k/x6q7qad) ![](assets/new.png)  
+- [2022-09-11-如何保障物联网平台的安全性与健壮性](https://toutiao.io/k/war0fue) ![](assets/new.png)  
+- [2022-09-11-面试25k职位遇到的线程池8连问，能答出来算你狠！](https://toutiao.io/k/hecj2ay) ![](assets/new.png)  
+- [2022-09-11-eBPF-Verifier内存越界实例分析](https://toutiao.io/k/5t9n1av) ![](assets/new.png)  
+- [2022-09-11-HiveServer2-内存泄漏问题定位与优化方案](https://toutiao.io/k/zvgtzdc) ![](assets/new.png)  
+- [2022-09-11-Redis-内存优化神技，小内存保存大数据](https://toutiao.io/k/mmun4o8) ![](assets/new.png)  
+- [2022-09-11-图文结合简单易学的-npm-包的发布流程](https://toutiao.io/k/82vinrs) ![](assets/new.png)  
+- [2022-09-11-Home-Assistant接入HomeKit与简要介绍](https://toutiao.io/k/u8fw2l3) ![](assets/new.png)  
+- [2022-09-11-TiFlash-源码阅读（八）TiFlash-表达式的实现与设计](https://toutiao.io/k/t0imysj) ![](assets/new.png)  
+- [2022-09-11-推荐-公司40k招的架构师写的API网关选型总结，就是牛逼！](https://toutiao.io/k/kyi9yzt) ![](assets/new.png)  
+- [2022-09-11-推荐-微服务网关鉴权：gateway使用、网关限流使用、用户密码加密、JWT鉴权](https://toutiao.io/k/rdhhq5d) ![](assets/new.png)  
+- [2022-09-11-推荐-什么是顶级的思维？](https://toutiao.io/k/ulqvlcd) ![](assets/new.png)  
+- [2022-09-11-推荐-聊聊数据库建表的15个小技巧](https://toutiao.io/k/uym7cfr) ![](assets/new.png)  
+- [2022-09-11-推荐-SpringBoot-官方强烈推荐，连接池，太快了！](https://toutiao.io/k/zumxh7v) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

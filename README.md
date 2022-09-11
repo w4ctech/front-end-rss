@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-11 10:16:02，:rocket: 更新条数: +2015， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-11 10:44:59，:rocket: 更新条数: +2015， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-09-11-国外公司恶心起来那是比国内翻倍的恶心](https://www.v2ex.com/t/879316) ![](assets/new.png)  
 - [2022-09-11-openwrt-默认路由带-scr-如何去掉](https://www.v2ex.com/t/879315) ![](assets/new.png)  
 - [2022-09-11-老婆想换工作，有没有什么推荐？](https://www.v2ex.com/t/879314) ![](assets/new.png)  
 - [2022-09-11-想问问大家对于-iPhone-14-的看法](https://www.v2ex.com/t/879312) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-09-11-家里八旬老人因为青光眼基本失明了-有什么能帮助到失明老人的生活用品](https://www.v2ex.com/t/879291) ![](assets/new.png)  
 - [2022-09-11-关于老古董浏览器的前端兼容](https://www.v2ex.com/t/879290) ![](assets/new.png)  
 - [2022-09-11-v2ex-管理员-Livid-和用户-geeksammao-是煞笔，望有志之士抵抗-v2ex](https://www.v2ex.com/t/879289) ![](assets/new.png)  
-- [2022-09-11-羽毛球水很深，生产羽毛球难度真有那么大吗](https://www.v2ex.com/t/879286) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,9 +563,9 @@
 - [2022-09-11-Home-Assistant接入HomeKit与简要介绍](https://toutiao.io/k/u8fw2l3) ![](assets/new.png)  
 - [2022-09-11-Redis-内存优化神技，小内存保存大数据](https://toutiao.io/k/mmun4o8) ![](assets/new.png)  
 - [2022-09-11-TiFlash-源码阅读（八）TiFlash-表达式的实现与设计](https://toutiao.io/k/t0imysj) ![](assets/new.png)  
+- [2022-09-11-推荐-SpringBoot-官方强烈推荐，连接池，太快了！](https://toutiao.io/k/zumxh7v) ![](assets/new.png)  
 - [2022-09-11-推荐-公司40k招的架构师写的API网关选型总结，就是牛逼！](https://toutiao.io/k/kyi9yzt) ![](assets/new.png)  
 - [2022-09-11-推荐-聊聊数据库建表的15个小技巧](https://toutiao.io/k/uym7cfr) ![](assets/new.png)  
-- [2022-09-11-推荐-SpringBoot-官方强烈推荐，连接池，太快了！](https://toutiao.io/k/zumxh7v) ![](assets/new.png)  
 - [2022-09-11-推荐-什么是顶级的思维？](https://toutiao.io/k/ulqvlcd) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

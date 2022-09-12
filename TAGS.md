@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-09-12 18:18:53。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-12 18:52:48。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -182,6 +182,7 @@
 - [【张鑫旭-鑫空间-鑫生活】如何继承自定义元素及其他JS中扩展新方法](https://www.zhangxinxu.com/wordpress/2022/06/js-extend-class-custom-elements/)
 - [【张鑫旭-鑫空间-鑫生活】介绍一种CSS变量未定义语法也OK的小妙招](https://www.zhangxinxu.com/wordpress/2022/06/css-var-optional-empty-trick/)
 - [【张鑫旭-鑫空间-鑫生活】如何实现页面刷新后不定位到之前的滚动位置？](https://www.zhangxinxu.com/wordpress/2022/05/history-scrollrestoration/)
+- [【V2EX】iphone12-升了-ios16，主要就是打字振动-电池百分比-锁屏组件吧，还有别的吗](https://www.v2ex.com/t/879563)
 - [【V2EX】对抗单点故障：家庭网络子网拆分和隔离——拆成三个子网，搞定路由表](https://www.v2ex.com/t/879539)
 - [......【查看更多】......](./details/tags/javascript.md)
 
@@ -256,7 +257,6 @@
 
 
 
-- [【V2EX】A16-更多性能跑分来了](https://www.v2ex.com/t/879513)
 - [【技术头条】美团搜索粗排优化的探索与实践-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15372&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F08%2F11%2Fcoarse-ranking-exploration-practice.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】接口流量突增，如何做好性能优化？](https://toutiao.io/k/035vsl0)
 - [......【查看更多】......](./details/tags/optimization.md)

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-12 18:18:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-12 18:52:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -17,4 +17,5 @@
 - [2022-06-19-如何继承自定义元素及其他JS中扩展新方法](https://www.zhangxinxu.com/wordpress/2022/06/js-extend-class-custom-elements/) 
 - [2022-06-11-介绍一种CSS变量未定义语法也OK的小妙招](https://www.zhangxinxu.com/wordpress/2022/06/css-var-optional-empty-trick/) 
 - [2022-05-29-如何实现页面刷新后不定位到之前的滚动位置？](https://www.zhangxinxu.com/wordpress/2022/05/history-scrollrestoration/) 
+- [2022-09-12-iphone12-升了-ios16，主要就是打字振动-电池百分比-锁屏组件吧，还有别的吗](https://www.v2ex.com/t/879563) 
 - [2022-09-12-对抗单点故障：家庭网络子网拆分和隔离——拆成三个子网，搞定路由表](https://www.v2ex.com/t/879539) 

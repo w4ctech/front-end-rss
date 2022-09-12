@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-12 10:17:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-12 10:47:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1940,8 +1940,6 @@
 - [2022-09-12-转租-南山区近腾讯大厦、科兴、创益大厦，整租公寓-3280-元/月](https://www.v2ex.com/t/879450) 
 - [2022-09-12-mail-同步](https://www.v2ex.com/t/879449) 
 - [2022-09-12-如果想做易企秀、电子贺卡之类用什么框架比较合适？](https://www.v2ex.com/t/879448) 
-- [2022-09-12-如何优雅地给国内长辈分享-APK-文件](https://www.v2ex.com/t/879445) 
-- [2022-09-12-一个比较特别的短链接程序](https://www.v2ex.com/t/879444) 
 - [2022-09-12-深度链接（Deeplinking）是什么？-www.zhihu.com](https://blogread.cn/news/go.php?idItem=15382&url=https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F51509486%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-12-Android-DeepLink介绍与使用-cloud.tencent.com](https://blogread.cn/news/go.php?idItem=15381&url=https%3A%2F%2Fcloud.tencent.com%2Fdeveloper%2Farticle%2F1368263%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-12-一文读懂深度链接deep-linking-mktbee.com](https://blogread.cn/news/go.php?idItem=15380&url=https%3A%2F%2Fmktbee.com%2F318.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1969,5 +1967,5 @@
 - [2022-09-12-推荐-聊聊数据库建表的15个小技巧](https://toutiao.io/k/uym7cfr) 
 - [2022-09-12-推荐-SpringBoot-官方强烈推荐，连接池，太快了！](https://toutiao.io/k/zumxh7v) 
 - [2022-09-12-推荐-微服务网关鉴权：gateway使用、网关限流使用、用户密码加密、JWT鉴权](https://toutiao.io/k/rdhhq5d) 
-- [2022-09-12-推荐-公司40k招的架构师写的API网关选型总结，就是牛逼！](https://toutiao.io/k/kyi9yzt) 
 - [2022-09-12-推荐-什么是顶级的思维？](https://toutiao.io/k/ulqvlcd) 
+- [2022-09-12-推荐-公司40k招的架构师写的API网关选型总结，就是牛逼！](https://toutiao.io/k/kyi9yzt) 

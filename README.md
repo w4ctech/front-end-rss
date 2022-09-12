@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-12 10:17:25，:rocket: 更新条数: +2023， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-12 10:47:14，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-09-12-电源适配器插在电源上不接设备耗电么？](https://www.v2ex.com/t/879494) ![](assets/new.png)  
 - [2022-09-12-今天链家的二房东跟我打电话让我减房租，我是房东](https://www.v2ex.com/t/879493) ![](assets/new.png)  
 - [2022-09-12-Web3.0-时代，有哪些优秀必读的非技术性书籍可以帮助我们补课？](https://www.v2ex.com/t/879491) ![](assets/new.png)  
 - [2022-09-12-Mac-Studio-电源线居然不是别人开箱视频里的编织线材质](https://www.v2ex.com/t/879490) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-09-12-辅助点击功能一直提示-invalid-configuration-如何解决？](https://www.v2ex.com/t/879473) ![](assets/new.png)  
 - [2022-09-12-Xcode-14-中模拟器导致的异常发热和电池问题](https://www.v2ex.com/t/879472) ![](assets/new.png)  
 - [2022-09-12-无聊撸了点检测代理的代码，主要是通过握手时间判断的，来试试?](https://www.v2ex.com/t/879471) ![](assets/new.png)  
-- [2022-09-12-请问备用的-Macbook-pro-怎么存放和处理比较好？](https://www.v2ex.com/t/879469) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -568,8 +568,8 @@
 - [2022-09-12-推荐-聊聊数据库建表的15个小技巧](https://toutiao.io/k/uym7cfr) ![](assets/new.png)  
 - [2022-09-12-推荐-SpringBoot-官方强烈推荐，连接池，太快了！](https://toutiao.io/k/zumxh7v) ![](assets/new.png)  
 - [2022-09-12-推荐-微服务网关鉴权：gateway使用、网关限流使用、用户密码加密、JWT鉴权](https://toutiao.io/k/rdhhq5d) ![](assets/new.png)  
-- [2022-09-12-推荐-公司40k招的架构师写的API网关选型总结，就是牛逼！](https://toutiao.io/k/kyi9yzt) ![](assets/new.png)  
 - [2022-09-12-推荐-什么是顶级的思维？](https://toutiao.io/k/ulqvlcd) ![](assets/new.png)  
+- [2022-09-12-推荐-公司40k招的架构师写的API网关选型总结，就是牛逼！](https://toutiao.io/k/kyi9yzt) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

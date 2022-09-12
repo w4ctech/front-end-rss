@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-12 07:38:13，:rocket: 更新条数: +2020， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-12 08:20:42，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,15 @@
 </summary>
 
 
+- [2022-09-12-推荐-专注于生活记录的-Typecho-卡片主题-MyDiary-做好啦！](https://www.v2ex.com/t/879460) ![](assets/new.png)  
+- [2022-09-12-双非硕士就业问题](https://www.v2ex.com/t/879459) ![](assets/new.png)  
+- [2022-09-12-只写代码不打游戏，需要独显，这种需求怎么配-itx](https://www.v2ex.com/t/879458) ![](assets/new.png)  
+- [2022-09-12-有什么月付-1-刀，可以绑自己域名-catch-all-的邮箱吗？](https://www.v2ex.com/t/879457) ![](assets/new.png)  
+- [2022-09-12-前几天看到知乎平台隐水印，-想到我之前做的“算法”就可以去除盲水印](https://www.v2ex.com/t/879455) ![](assets/new.png)  
+- [2022-09-12-M1/M2-用户有福了，最近火热的语意成图项目-stable-diffusion-出-GUI-包了](https://www.v2ex.com/t/879454) ![](assets/new.png)  
+- [2022-09-12-分享个打卡神器](https://www.v2ex.com/t/879453) ![](assets/new.png)  
+- [2022-09-12-jellyfin-转码，为什么多卡-3090-只有一张卡能被利用？](https://www.v2ex.com/t/879452) ![](assets/new.png)  
+- [2022-09-12-屠嗷嗷发现了青蒿素造福了人类，如果说这是中医的贡献，这个说法成立吗？](https://www.v2ex.com/t/879451) ![](assets/new.png)  
 - [2022-09-12-转租-南山区近腾讯大厦、科兴、创益大厦，整租公寓-3280-元/月](https://www.v2ex.com/t/879450) ![](assets/new.png)  
 - [2022-09-12-mail-同步](https://www.v2ex.com/t/879449) ![](assets/new.png)  
 - [2022-09-12-如果想做易企秀、电子贺卡之类用什么框架比较合适？](https://www.v2ex.com/t/879448) ![](assets/new.png)  
@@ -502,15 +511,6 @@
 - [2022-09-12-JavaScript-防抖函数,绑定事件后事件对象传参问题](https://www.v2ex.com/t/879440) ![](assets/new.png)  
 - [2022-09-12-路由器长时间使用后是否会老化](https://www.v2ex.com/t/879439) ![](assets/new.png)  
 - [2022-09-12-求助：应该等下一代-MacBook-Pro-吗？](https://www.v2ex.com/t/879438) ![](assets/new.png)  
-- [2022-09-12-想问问大家，-16-号直接去苹果店买可以吗？](https://www.v2ex.com/t/879436) ![](assets/new.png)  
-- [2022-09-12-Python-爬虫返回加密数据\x](https://www.v2ex.com/t/879435) ![](assets/new.png)  
-- [2022-09-12-作为三星-pm9a1-固态-0e-报错/数据损坏的早期、二度受害者，谈谈科学的预判和检测方法](https://www.v2ex.com/t/879433) ![](assets/new.png)  
-- [2022-09-12-有人在京东抢过首发-iPhone-吗](https://www.v2ex.com/t/879432) ![](assets/new.png)  
-- [2022-09-12-码农转果农](https://www.v2ex.com/t/879431) ![](assets/new.png)  
-- [2022-09-12-请问-splashtop-这款软件，一个账户列表只能有-5-台计算机，有没有办法加大计算机台数或者列表数？](https://www.v2ex.com/t/879428) ![](assets/new.png)  
-- [2022-09-12-问：我第一次适用西联汇款用于收款：我需要提供哪些信息给汇款人](https://www.v2ex.com/t/879426) ![](assets/new.png)  
-- [2022-09-12-这种主页是被加密了吗？-有办法解密吗？](https://www.v2ex.com/t/879425) ![](assets/new.png)  
-- [2022-09-12-有人存身份证号时丢掉最后一位吗](https://www.v2ex.com/t/879424) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -565,11 +565,11 @@
 - [2022-09-12-​Mysql数据库查询好慢，除了索引，还能因为什么？](https://toutiao.io/k/ilhqqss) ![](assets/new.png)  
 - [2022-09-12-Vue-可视化大屏适配插件之过程篇](https://toutiao.io/k/5u9698a) ![](assets/new.png)  
 - [2022-09-12-ASP.NET-Core-+-Jenkins-实现自动化发布](https://toutiao.io/k/77or592) ![](assets/new.png)  
-- [2022-09-12-推荐-什么是顶级的思维？](https://toutiao.io/k/ulqvlcd) ![](assets/new.png)  
 - [2022-09-12-推荐-公司40k招的架构师写的API网关选型总结，就是牛逼！](https://toutiao.io/k/kyi9yzt) ![](assets/new.png)  
-- [2022-09-12-推荐-SpringBoot-官方强烈推荐，连接池，太快了！](https://toutiao.io/k/zumxh7v) ![](assets/new.png)  
-- [2022-09-12-推荐-微服务网关鉴权：gateway使用、网关限流使用、用户密码加密、JWT鉴权](https://toutiao.io/k/rdhhq5d) ![](assets/new.png)  
 - [2022-09-12-推荐-聊聊数据库建表的15个小技巧](https://toutiao.io/k/uym7cfr) ![](assets/new.png)  
+- [2022-09-12-推荐-微服务网关鉴权：gateway使用、网关限流使用、用户密码加密、JWT鉴权](https://toutiao.io/k/rdhhq5d) ![](assets/new.png)  
+- [2022-09-12-推荐-什么是顶级的思维？](https://toutiao.io/k/ulqvlcd) ![](assets/new.png)  
+- [2022-09-12-推荐-SpringBoot-官方强烈推荐，连接池，太快了！](https://toutiao.io/k/zumxh7v) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

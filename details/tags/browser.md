@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-12 07:38:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-12 08:20:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -16,4 +16,3 @@
 - [2022-06-12-基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/) 
 - [2022-09-12-苹果开始拒绝刷线下库存接口的请求](https://www.v2ex.com/t/879441) 
 - [2022-09-12-macOS-如何阻止-edge-不停的把自己加到开机自启项里？](https://www.v2ex.com/t/879416) 
-- [2022-09-12-iOS-中的灵异-App，-Xcode-Previews](https://www.v2ex.com/t/879409) 

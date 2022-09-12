@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-12 01:20:51，:rocket: 更新条数: +2017， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-12 04:11:10，:rocket: 更新条数: +2015， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,26 +491,26 @@
 </summary>
 
 
-- [2022-09-12-Apple-One-Premier-超大杯-4-车位](https://www.v2ex.com/t/879378) ![](assets/new.png)  
-- [2022-09-12-国区-iCloud2T+Apple-music-拼车哦](https://www.v2ex.com/t/879377) ![](assets/new.png)  
+- [2022-09-12-iPhone-14-Pro-Max-电池容量不增反降](https://www.v2ex.com/t/879402) ![](assets/new.png)  
+- [2022-09-12-请问现在有什么-UI-和行为清爽或者极客风的电脑配置查看以及温度监控软件吗？](https://www.v2ex.com/t/879398) ![](assets/new.png)  
+- [2022-09-12-在北京没有户口，没有工作居住证，只有房子和五年社保，小朋友能入托入学吗？](https://www.v2ex.com/t/879393) ![](assets/new.png)  
+- [2022-09-12-有没有质量高一点的笔记本贴纸推荐](https://www.v2ex.com/t/879392) ![](assets/new.png)  
+- [2022-09-12-投资-BTC-与中概，哪个是未来？](https://www.v2ex.com/t/879391) ![](assets/new.png)  
+- [2022-09-12-看了站内洗牙帖后，也去洗了个牙，分享下流程和感受](https://www.v2ex.com/t/879390) ![](assets/new.png)  
+- [2022-09-12-新版本的-K8s-在使用-nodeport-类型的-Servive-时在-node-上看不到监听的端口了，请问是做过什么改动吗？](https://www.v2ex.com/t/879389) ![](assets/new.png)  
+- [2022-09-12-国区-iPhone-+-Apple-Care+在美国-Apple-Store-不能享受服务](https://www.v2ex.com/t/879388) ![](assets/new.png)  
+- [2022-09-12-PM-保护壳有推荐的么](https://www.v2ex.com/t/879387) ![](assets/new.png)  
+- [2022-09-12-OPENWRT-怎么全新编译呀？](https://www.v2ex.com/t/879386) ![](assets/new.png)  
+- [2022-09-12-父母产生文化焦虑怎么办？有什么适合他们的持续学习的方法？](https://www.v2ex.com/t/879385) ![](assets/new.png)  
+- [2022-09-12-IIS-的静态资源压缩不工作要怎么排查？](https://www.v2ex.com/t/879384) ![](assets/new.png)  
+- [2022-09-12-是否有类似-Spotify-同步播放功能的音乐播放器-app？](https://www.v2ex.com/t/879383) ![](assets/new.png)  
+- [2022-09-12-具备阅读长文能力的重要性](https://www.v2ex.com/t/879381) ![](assets/new.png)  
+- [2022-09-12-BOSS-app-上，对方活跃状态，但消息一直是“送达”，什么情况？](https://www.v2ex.com/t/879380) ![](assets/new.png)  
+- [2022-09-12-电报会员价格有点奇怪，土区账户支付时显示-13，-99](https://www.v2ex.com/t/879379) ![](assets/new.png)  
 - [2022-09-12-Linux-下有比较好的系统保护软件吗？就像过去网吧还原卡能还原的那种？](https://www.v2ex.com/t/879376) ![](assets/new.png)  
 - [2022-09-12-请教/快捷指令/医保电子凭证](https://www.v2ex.com/t/879374) ![](assets/new.png)  
 - [2022-09-12-为了方便看房价趋势弄了个-Chrome-插件，有关注房价的可以试用一下---第-2-趴](https://www.v2ex.com/t/879373) ![](assets/new.png)  
 - [2022-09-12-如何准确转化年月日的时间？](https://www.v2ex.com/t/879372) ![](assets/new.png)  
-- [2022-09-11-Simple-Icons-V2EX-图标现已加入-shields.io](https://www.v2ex.com/t/879371) ![](assets/new.png)  
-- [2022-09-11-Apple-Store-iPhone-14-ProMax-自提放货时间？](https://www.v2ex.com/t/879370) ![](assets/new.png)  
-- [2022-09-11-关于-N5105/N6005+i225/i226-系列软路由搭配-OpenWrt-在高连接数条件下崩溃/软重启的问题和解决思路汇总](https://www.v2ex.com/t/879368) ![](assets/new.png)  
-- [2022-09-11-美版没了卡槽,以后卡贴机还会有黑解吗?或者-iccid?](https://www.v2ex.com/t/879366) ![](assets/new.png)  
-- [2022-09-11-OneDrive-for-macOS：不支持外部存储，存放在外部存储时，会自动创建替身并拉回本机设备的空间。](https://www.v2ex.com/t/879365) ![](assets/new.png)  
-- [2022-09-11-时隔-0xff-天，我们又来求合作啦~](https://www.v2ex.com/t/879364) ![](assets/new.png)  
-- [2022-09-11-如何检测-video-元素是否被浏览器劫持？](https://www.v2ex.com/t/879363) ![](assets/new.png)  
-- [2022-09-11-CefSahrp-运行本地网页，有什么可以实际操作的方案吗？](https://www.v2ex.com/t/879362) ![](assets/new.png)  
-- [2022-09-11-手机的外接墨水屏](https://www.v2ex.com/t/879358) ![](assets/new.png)  
-- [2022-09-11-APPLE-所构建的壁垒：-eSIM-可能是新的一块砖？](https://www.v2ex.com/t/879357) ![](assets/new.png)  
-- [2022-09-11-eBPF-Talk（1）](https://www.v2ex.com/t/879355) ![](assets/new.png)  
-- [2022-09-11-求-V2er-推荐常去吃的北京美食，清吧，在昌平海淀最好，最好是平价，不在意环境不需要拍照发朋友圈](https://www.v2ex.com/t/879353) ![](assets/new.png)  
-- [2022-09-11-通过-mirai-框架，向塞班/Nokia-功能机转发-qq-消息，实现间接在-nokia-上用-qq，可能吗？](https://www.v2ex.com/t/879352) ![](assets/new.png)  
-- [2022-09-11-三星这次所谓大批量爆出固态损坏，可能也没那么严重？](https://www.v2ex.com/t/879351) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -558,13 +558,17 @@
 - [2022-09-12-元数据治理：产品方案介绍及案例实践](https://toutiao.io/k/xagxkux) ![](assets/new.png)  
 - [2022-09-12-阿里云如何基于边缘云设计终端云化场景的架构？](https://toutiao.io/k/lqr1cuc) ![](assets/new.png)  
 - [2022-09-12-图技术在美团外卖下的场景化应用及探索](https://toutiao.io/k/wq0e0sk) ![](assets/new.png)  
-- [2022-09-12-接口流量突增，如何做好性能优化？](https://toutiao.io/k/035vsl0) ![](assets/new.png)  
 - [2022-09-12-如何设计一个消息中心](https://toutiao.io/k/yxnahvt) ![](assets/new.png)  
+- [2022-09-12-接口流量突增，如何做好性能优化？](https://toutiao.io/k/035vsl0) ![](assets/new.png)  
 - [2022-09-12-详解-Java-版本更新方式与发布周期](https://toutiao.io/k/6pnxlp6) ![](assets/new.png)  
+- [2022-09-12-微服务配置中心，-这个方案-Go-里用起来不输-SpringCloud](https://toutiao.io/k/ph14mv0) ![](assets/new.png)  
+- [2022-09-12-​Mysql数据库查询好慢，除了索引，还能因为什么？](https://toutiao.io/k/ilhqqss) ![](assets/new.png)  
+- [2022-09-12-ASP.NET-Core-+-Jenkins-实现自动化发布](https://toutiao.io/k/77or592) ![](assets/new.png)  
+- [2022-09-12-Vue-可视化大屏适配插件之过程篇](https://toutiao.io/k/5u9698a) ![](assets/new.png)  
+- [2022-09-12-推荐-什么是顶级的思维？](https://toutiao.io/k/ulqvlcd) ![](assets/new.png)  
 - [2022-09-12-推荐-聊聊数据库建表的15个小技巧](https://toutiao.io/k/uym7cfr) ![](assets/new.png)  
 - [2022-09-12-推荐-公司40k招的架构师写的API网关选型总结，就是牛逼！](https://toutiao.io/k/kyi9yzt) ![](assets/new.png)  
 - [2022-09-12-推荐-微服务网关鉴权：gateway使用、网关限流使用、用户密码加密、JWT鉴权](https://toutiao.io/k/rdhhq5d) ![](assets/new.png)  
-- [2022-09-12-推荐-什么是顶级的思维？](https://toutiao.io/k/ulqvlcd) ![](assets/new.png)  
 - [2022-09-12-推荐-SpringBoot-官方强烈推荐，连接池，太快了！](https://toutiao.io/k/zumxh7v) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

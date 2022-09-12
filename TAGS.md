@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-09-12 01:20:51。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-12 04:11:10。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -55,6 +55,7 @@
 
 
 
+- [【开发者头条】Vue-可视化大屏适配插件之过程篇](https://toutiao.io/k/5u9698a)
 - [......【查看更多】......](./details/tags/vue.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -105,6 +106,7 @@
 
 
 
+- [【V2EX】新版本的-K8s-在使用-nodeport-类型的-Servive-时在-node-上看不到监听的端口了，请问是做过什么改动吗？](https://www.v2ex.com/t/879389)
 - [......【查看更多】......](./details/tags/nodejs.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -154,7 +156,6 @@
 
 
 
-- [【V2EX】多台-NS-玩喷-3-是不是应该买多个游戏本体并且都开任天堂会员？顺便有家庭车吗？](https://www.v2ex.com/t/879347)
 - [......【查看更多】......](./details/tags/dev-game.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -238,6 +239,7 @@
 
 - [【武汉肺炎防疫全纪录(财新网)】广州17岁男生在定点医院参加高考-特殊考场视频监考](https://m.caixin.com/m/2021-06-05/101723418.html)
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
+- [【V2EX】是否有类似-Spotify-同步播放功能的音乐播放器-app？](https://www.v2ex.com/t/879383)
 - [【V2EX】如何检测-video-元素是否被浏览器劫持？](https://www.v2ex.com/t/879363)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
@@ -282,10 +284,8 @@
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
 - [【张鑫旭-鑫空间-鑫生活】基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/)
-- [【V2EX】Apple-One-Premier-超大杯-4-车位](https://www.v2ex.com/t/879378)
 - [【V2EX】为了方便看房价趋势弄了个-Chrome-插件，有关注房价的可以试用一下---第-2-趴](https://www.v2ex.com/t/879373)
 - [【V2EX】Simple-Icons-V2EX-图标现已加入-shields.io](https://www.v2ex.com/t/879371)
-- [【V2EX】FaceTime-能否用作安全的-P2P-通话软件?](https://www.v2ex.com/t/879330)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

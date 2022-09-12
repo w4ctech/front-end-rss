@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-12 14:06:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-12 14:48:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -7,4 +7,5 @@
 
 
 
+- [2022-09-12-兼职-前端工程师，-vue3+vite+TypeScript+Es6](https://www.v2ex.com/t/879532) 
 - [2022-09-12-Vue-可视化大屏适配插件之过程篇](https://toutiao.io/k/5u9698a) 

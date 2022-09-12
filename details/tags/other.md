@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-12 15:50:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-12 16:23:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,11 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-09-12-14-Pro-Max-16-号到，求靠谱出手渠道推荐](https://www.v2ex.com/t/879554) 
+- [2022-09-12-花了好长时间，重新设计了-SDB-的存储模型](https://www.v2ex.com/t/879553) 
+- [2022-09-12-小米设备-magisk-root-后如何才能使第三方应用市场后台静默安装](https://www.v2ex.com/t/879551) 
+- [2022-09-12-《跃上高阶职场》这节目还不错](https://www.v2ex.com/t/879550) 
+- [2022-09-12-Natter:-在-NAT1-下开放公网-TCP-端口](https://www.v2ex.com/t/879549) 
 - [2022-09-12-Linux-下文件系统类型](https://www.v2ex.com/t/879546) 
 - [2022-09-12-护膝推荐](https://www.v2ex.com/t/879544) 
 - [2022-09-12-一个亲戚的-iPhone-遗失，-id-忘记，有无几率找回？](https://www.v2ex.com/t/879542) 
@@ -1935,9 +1940,6 @@
 - [2022-09-12-怀疑外婆正遭遇营销骗局，我该怎么做？](https://www.v2ex.com/t/879511) 
 - [2022-09-12-v2ex-开启-2FA，在隐私模式下登录，卡在-2FA-认证阶段](https://www.v2ex.com/t/879508) 
 - [2022-09-12-年年焕新真的坑爹](https://www.v2ex.com/t/879506) 
-- [2022-09-12-鉴于外出手机电量经常不够用，求推荐一款无线充电宝](https://www.v2ex.com/t/879503) 
-- [2022-09-12-有办法不使用-termux，直接基于-proot-做一个在安卓上运行-Linux-发行版的软件吗？](https://www.v2ex.com/t/879502) 
-- [2022-09-12-win11-开机欢迎界面卡几十秒](https://www.v2ex.com/t/879499) 
 - [2022-09-12-智能搜索模型预估框架Augur的建设与实践-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15391&url=https%3A%2F%2Ftech.meituan.com%2F2020%2F07%2F16%2Faugur-in-meituan-nlp.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-12-设备指纹技术介绍与综述（二）-blog.nsfocus.net](https://blogread.cn/news/go.php?idItem=15389&url=http%3A%2F%2Fblog.nsfocus.net%2Ffingerprint%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-12-向量数据库入坑：传统文本检索方式的降维打击，使用-Faiss-实现向量语义检索-soulteary.com](https://blogread.cn/news/go.php?idItem=15388&url=https%3A%2F%2Fsoulteary.com%2F2022%2F09%2F10%2Fthe-dimensionality-reduction-of-traditional-text-retrieval-methods-using-faiss-to-achieve-vector-semantic-retrieval.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1965,8 +1967,7 @@
 - [2022-09-12-详解-Java-版本更新方式与发布周期](https://toutiao.io/k/6pnxlp6) 
 - [2022-09-12-阿里云如何基于边缘云设计终端云化场景的架构？](https://toutiao.io/k/lqr1cuc) 
 - [2022-09-12-ASP.NET-Core-+-Jenkins-实现自动化发布](https://toutiao.io/k/77or592) 
-- [2022-09-12-推荐-微服务网关鉴权：gateway使用、网关限流使用、用户密码加密、JWT鉴权](https://toutiao.io/k/rdhhq5d) 
 - [2022-09-12-推荐-SpringBoot-官方强烈推荐，连接池，太快了！](https://toutiao.io/k/zumxh7v) 
 - [2022-09-12-推荐-公司40k招的架构师写的API网关选型总结，就是牛逼！](https://toutiao.io/k/kyi9yzt) 
 - [2022-09-12-推荐-什么是顶级的思维？](https://toutiao.io/k/ulqvlcd) 
-- [2022-09-12-推荐-聊聊数据库建表的15个小技巧](https://toutiao.io/k/uym7cfr) 
+- [2022-09-12-推荐-微服务网关鉴权：gateway使用、网关限流使用、用户密码加密、JWT鉴权](https://toutiao.io/k/rdhhq5d) 

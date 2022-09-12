@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-12 09:20:03，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-12 09:47:21，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,14 @@
 </summary>
 
 
+- [2022-09-12-连上-OpenVPN-后电脑无法上网](https://www.v2ex.com/t/879483) ![](assets/new.png)  
+- [2022-09-12-小公司承揽海外-IT-项目开发有没有坑？](https://www.v2ex.com/t/879482) ![](assets/new.png)  
+- [2022-09-12-求一些-av1-4k-的演示视频](https://www.v2ex.com/t/879481) ![](assets/new.png)  
+- [2022-09-12-iPhone-14-系列的蜂窝网络基带更新为啥了？](https://www.v2ex.com/t/879480) ![](assets/new.png)  
+- [2022-09-12-flask-视图之间如何传递-class-实例-?](https://www.v2ex.com/t/879476) ![](assets/new.png)  
+- [2022-09-12-如何彻底删除不知来源的-temp-文件夹](https://www.v2ex.com/t/879475) ![](assets/new.png)  
+- [2022-09-12-美区的-b-站确实很干净](https://www.v2ex.com/t/879474) ![](assets/new.png)  
+- [2022-09-12-辅助点击功能一直提示-invalid-configuration-如何解决？](https://www.v2ex.com/t/879473) ![](assets/new.png)  
 - [2022-09-12-Xcode-14-中模拟器导致的异常发热和电池问题](https://www.v2ex.com/t/879472) ![](assets/new.png)  
 - [2022-09-12-无聊撸了点检测代理的代码，主要是通过握手时间判断的，来试试?](https://www.v2ex.com/t/879471) ![](assets/new.png)  
 - [2022-09-12-请问备用的-Macbook-pro-怎么存放和处理比较好？](https://www.v2ex.com/t/879469) ![](assets/new.png)  
@@ -503,14 +511,6 @@
 - [2022-09-12-为什么我的小米手机访问不了本地服务（抓包遇到的问题，配置了代理显示没有网络）](https://www.v2ex.com/t/879462) ![](assets/new.png)  
 - [2022-09-12-推荐-专注于生活记录的-Typecho-卡片主题-MyDiary-做好啦！](https://www.v2ex.com/t/879460) ![](assets/new.png)  
 - [2022-09-12-双非硕士就业问题](https://www.v2ex.com/t/879459) ![](assets/new.png)  
-- [2022-09-12-只写代码不打游戏，需要独显，这种需求怎么配-itx](https://www.v2ex.com/t/879458) ![](assets/new.png)  
-- [2022-09-12-有什么月付-1-刀，可以绑自己域名-catch-all-的邮箱吗？](https://www.v2ex.com/t/879457) ![](assets/new.png)  
-- [2022-09-12-前几天看到知乎平台隐水印，-想到我之前做的“算法”就可以去除盲水印](https://www.v2ex.com/t/879455) ![](assets/new.png)  
-- [2022-09-12-M1/M2-用户有福了，最近火热的语意成图项目-stable-diffusion-出-GUI-包了](https://www.v2ex.com/t/879454) ![](assets/new.png)  
-- [2022-09-12-分享个打卡神器](https://www.v2ex.com/t/879453) ![](assets/new.png)  
-- [2022-09-12-jellyfin-转码，为什么多卡-3090-只有一张卡能被利用？](https://www.v2ex.com/t/879452) ![](assets/new.png)  
-- [2022-09-12-转租-南山区近腾讯大厦、科兴、创益大厦，整租公寓-3280-元/月](https://www.v2ex.com/t/879450) ![](assets/new.png)  
-- [2022-09-12-mail-同步](https://www.v2ex.com/t/879449) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -558,18 +558,18 @@
 - [2022-09-12-如何设计一个消息中心](https://toutiao.io/k/yxnahvt) ![](assets/new.png)  
 - [2022-09-12-元数据治理：产品方案介绍及案例实践](https://toutiao.io/k/xagxkux) ![](assets/new.png)  
 - [2022-09-12-图技术在美团外卖下的场景化应用及探索](https://toutiao.io/k/wq0e0sk) ![](assets/new.png)  
+- [2022-09-12-接口流量突增，如何做好性能优化？](https://toutiao.io/k/035vsl0) ![](assets/new.png)  
 - [2022-09-12-阿里云如何基于边缘云设计终端云化场景的架构？](https://toutiao.io/k/lqr1cuc) ![](assets/new.png)  
 - [2022-09-12-详解-Java-版本更新方式与发布周期](https://toutiao.io/k/6pnxlp6) ![](assets/new.png)  
-- [2022-09-12-接口流量突增，如何做好性能优化？](https://toutiao.io/k/035vsl0) ![](assets/new.png)  
 - [2022-09-12-微服务配置中心，-这个方案-Go-里用起来不输-SpringCloud](https://toutiao.io/k/ph14mv0) ![](assets/new.png)  
 - [2022-09-12-​Mysql数据库查询好慢，除了索引，还能因为什么？](https://toutiao.io/k/ilhqqss) ![](assets/new.png)  
 - [2022-09-12-Vue-可视化大屏适配插件之过程篇](https://toutiao.io/k/5u9698a) ![](assets/new.png)  
 - [2022-09-12-ASP.NET-Core-+-Jenkins-实现自动化发布](https://toutiao.io/k/77or592) ![](assets/new.png)  
-- [2022-09-12-推荐-聊聊数据库建表的15个小技巧](https://toutiao.io/k/uym7cfr) ![](assets/new.png)  
 - [2022-09-12-推荐-什么是顶级的思维？](https://toutiao.io/k/ulqvlcd) ![](assets/new.png)  
-- [2022-09-12-推荐-SpringBoot-官方强烈推荐，连接池，太快了！](https://toutiao.io/k/zumxh7v) ![](assets/new.png)  
 - [2022-09-12-推荐-微服务网关鉴权：gateway使用、网关限流使用、用户密码加密、JWT鉴权](https://toutiao.io/k/rdhhq5d) ![](assets/new.png)  
 - [2022-09-12-推荐-公司40k招的架构师写的API网关选型总结，就是牛逼！](https://toutiao.io/k/kyi9yzt) ![](assets/new.png)  
+- [2022-09-12-推荐-SpringBoot-官方强烈推荐，连接池，太快了！](https://toutiao.io/k/zumxh7v) ![](assets/new.png)  
+- [2022-09-12-推荐-聊聊数据库建表的15个小技巧](https://toutiao.io/k/uym7cfr) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

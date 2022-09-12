@@ -9953,6 +9953,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "有办法不使用 termux，直接基于 proot 做一个在安卓上运行 Linux 发行版的软件吗？",
+        "link": "https://www.v2ex.com/t/879502",
+        "date": "2022-09-12"
+      },
+      {
+        "title": "Surge 4 Mac 车位",
+        "link": "https://www.v2ex.com/t/879501",
+        "date": "2022-09-12"
+      },
+      {
         "title": "这是闹哪样啊，帝都核酸检测 72 小时倒退回 48 小时了啊？",
         "link": "https://www.v2ex.com/t/879500",
         "date": "2022-09-12"
@@ -10136,11 +10146,6 @@
         "title": "分享个打卡神器",
         "link": "https://www.v2ex.com/t/879453",
         "date": "2022-09-12"
-      },
-      {
-        "title": "jellyfin 转码，为什么多卡 3090 只有一张卡能被利用？",
-        "link": "https://www.v2ex.com/t/879452",
-        "date": "2022-09-12"
       }
     ]
   },
@@ -10317,11 +10322,6 @@
         "date": "2022-09-12"
       },
       {
-        "title": "[推荐] SpringBoot 官方强烈推荐，连接池，太快了！",
-        "link": "https://toutiao.io/k/zumxh7v",
-        "date": "2022-09-12"
-      },
-      {
         "title": "[推荐] 什么是顶级的思维？",
         "link": "https://toutiao.io/k/ulqvlcd",
         "date": "2022-09-12"
@@ -10329,6 +10329,11 @@
       {
         "title": "[推荐] 微服务网关鉴权：gateway使用、网关限流使用、用户密码加密、JWT鉴权",
         "link": "https://toutiao.io/k/rdhhq5d",
+        "date": "2022-09-12"
+      },
+      {
+        "title": "[推荐] SpringBoot 官方强烈推荐，连接池，太快了！",
+        "link": "https://toutiao.io/k/zumxh7v",
         "date": "2022-09-12"
       },
       {

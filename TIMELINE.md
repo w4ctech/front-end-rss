@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-12 11:14:04。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-09-12 11:41:17。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,8 @@
 </summary>
 
 
+- [【V2EX】2022-09-12-有办法不使用-termux，直接基于-proot-做一个在安卓上运行-Linux-发行版的软件吗？](https://www.v2ex.com/t/879502) 
+- [【V2EX】2022-09-12-Surge-4-Mac-车位](https://www.v2ex.com/t/879501) 
 - [【V2EX】2022-09-12-这是闹哪样啊，帝都核酸检测-72-小时倒退回-48-小时了啊？](https://www.v2ex.com/t/879500) 
 - [【V2EX】2022-09-12-win11-开机欢迎界面卡几十秒](https://www.v2ex.com/t/879499) 
 - [【V2EX】2022-09-12-电源适配器插在电源上不接设备耗电么？](https://www.v2ex.com/t/879494) 
@@ -105,7 +107,6 @@
 - [【V2EX】2022-09-12-前几天看到知乎平台隐水印，-想到我之前做的“算法”就可以去除盲水印](https://www.v2ex.com/t/879455) 
 - [【V2EX】2022-09-12-M1/M2-用户有福了，最近火热的语意成图项目-stable-diffusion-出-GUI-包了](https://www.v2ex.com/t/879454) 
 - [【V2EX】2022-09-12-分享个打卡神器](https://www.v2ex.com/t/879453) 
-- [【V2EX】2022-09-12-jellyfin-转码，为什么多卡-3090-只有一张卡能被利用？](https://www.v2ex.com/t/879452) 
 - [【技术头条】2022-09-12-整洁架构之CSS-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15383&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fclean-architecture-css%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-12-深度链接（Deeplinking）是什么？-www.zhihu.com](https://blogread.cn/news/go.php?idItem=15382&url=https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F51509486%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-12-Android-DeepLink介绍与使用-cloud.tencent.com](https://blogread.cn/news/go.php?idItem=15381&url=https%3A%2F%2Fcloud.tencent.com%2Fdeveloper%2Farticle%2F1368263%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -138,9 +139,9 @@
 - [【开发者头条】2022-09-12-​Mysql数据库查询好慢，除了索引，还能因为什么？](https://toutiao.io/k/ilhqqss) 
 - [【开发者头条】2022-09-12-Vue-可视化大屏适配插件之过程篇](https://toutiao.io/k/5u9698a) 
 - [【开发者头条】2022-09-12-ASP.NET-Core-+-Jenkins-实现自动化发布](https://toutiao.io/k/77or592) 
-- [【开发者头条】2022-09-12-推荐-SpringBoot-官方强烈推荐，连接池，太快了！](https://toutiao.io/k/zumxh7v) 
 - [【开发者头条】2022-09-12-推荐-什么是顶级的思维？](https://toutiao.io/k/ulqvlcd) 
 - [【开发者头条】2022-09-12-推荐-微服务网关鉴权：gateway使用、网关限流使用、用户密码加密、JWT鉴权](https://toutiao.io/k/rdhhq5d) 
+- [【开发者头条】2022-09-12-推荐-SpringBoot-官方强烈推荐，连接池，太快了！](https://toutiao.io/k/zumxh7v) 
 - [【开发者头条】2022-09-12-推荐-聊聊数据库建表的15个小技巧](https://toutiao.io/k/uym7cfr) 
 - [【开发者头条】2022-09-12-推荐-公司40k招的架构师写的API网关选型总结，就是牛逼！](https://toutiao.io/k/kyi9yzt) 
 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-12 22:44:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-12 23:04:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,8 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-09-12-家里有小朋友使用小白打印棒的请注意其访问权限！](https://www.v2ex.com/t/879569) 
+- [2022-09-12-分享:-开发了一个-Discord-Bot-群助手支持群历史消息迁移等](https://www.v2ex.com/t/879568) 
 - [2022-09-12-有人像我一样开始翻看自己-9-年多的朋友圈吗?](https://www.v2ex.com/t/879567) 
 - [2022-09-12-Pettzel---一个自动抠猫头照片的人工智障](https://www.v2ex.com/t/879566) 
 - [2022-09-12-菜鸟-iOS-版-修改包裹备注/图片时，点击-emoji-图标，再点击搜索表情符号，-100%闪退](https://www.v2ex.com/t/879565) 
@@ -1938,8 +1940,6 @@
 - [2022-09-12-请问-iPhone-13/14-两代哪个烫手的情况好一些？](https://www.v2ex.com/t/879525) 
 - [2022-09-12-投资炼金术](https://www.v2ex.com/t/879524) 
 - [2022-09-12-千岛湖两日游记，啤酒小镇、天屿山、骑龙巷、东南湖区游玩笔记](https://www.v2ex.com/t/879523) 
-- [2022-09-12-CubyText-分享一个开源的自制的知识管理的-App](https://www.v2ex.com/t/879519) 
-- [2022-09-12-真空食品容器内气压一般能低至多少？](https://www.v2ex.com/t/879518) 
 - [2022-09-12-智能搜索模型预估框架Augur的建设与实践-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15391&url=https%3A%2F%2Ftech.meituan.com%2F2020%2F07%2F16%2Faugur-in-meituan-nlp.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-12-设备指纹技术介绍与综述（二）-blog.nsfocus.net](https://blogread.cn/news/go.php?idItem=15389&url=http%3A%2F%2Fblog.nsfocus.net%2Ffingerprint%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-12-向量数据库入坑：传统文本检索方式的降维打击，使用-Faiss-实现向量语义检索-soulteary.com](https://blogread.cn/news/go.php?idItem=15388&url=https%3A%2F%2Fsoulteary.com%2F2022%2F09%2F10%2Fthe-dimensionality-reduction-of-traditional-text-retrieval-methods-using-faiss-to-achieve-vector-semantic-retrieval.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1967,7 +1967,7 @@
 - [2022-09-12-详解-Java-版本更新方式与发布周期](https://toutiao.io/k/6pnxlp6) 
 - [2022-09-12-阿里云如何基于边缘云设计终端云化场景的架构？](https://toutiao.io/k/lqr1cuc) 
 - [2022-09-12-ASP.NET-Core-+-Jenkins-实现自动化发布](https://toutiao.io/k/77or592) 
-- [2022-09-12-推荐-SpringBoot-官方强烈推荐，连接池，太快了！](https://toutiao.io/k/zumxh7v) 
 - [2022-09-12-推荐-微服务网关鉴权：gateway使用、网关限流使用、用户密码加密、JWT鉴权](https://toutiao.io/k/rdhhq5d) 
-- [2022-09-12-推荐-什么是顶级的思维？](https://toutiao.io/k/ulqvlcd) 
+- [2022-09-12-推荐-SpringBoot-官方强烈推荐，连接池，太快了！](https://toutiao.io/k/zumxh7v) 
 - [2022-09-12-推荐-公司40k招的架构师写的API网关选型总结，就是牛逼！](https://toutiao.io/k/kyi9yzt) 
+- [2022-09-12-推荐-什么是顶级的思维？](https://toutiao.io/k/ulqvlcd) 

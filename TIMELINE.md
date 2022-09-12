@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-12 22:44:57。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-09-12 23:04:02。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,8 @@
 </summary>
 
 
+- [【V2EX】2022-09-12-家里有小朋友使用小白打印棒的请注意其访问权限！](https://www.v2ex.com/t/879569) 
+- [【V2EX】2022-09-12-分享:-开发了一个-Discord-Bot-群助手支持群历史消息迁移等](https://www.v2ex.com/t/879568) 
 - [【V2EX】2022-09-12-有人像我一样开始翻看自己-9-年多的朋友圈吗?](https://www.v2ex.com/t/879567) 
 - [【V2EX】2022-09-12-Pettzel---一个自动抠猫头照片的人工智障](https://www.v2ex.com/t/879566) 
 - [【V2EX】2022-09-12-菜鸟-iOS-版-修改包裹备注/图片时，点击-emoji-图标，再点击搜索表情符号，-100%闪退](https://www.v2ex.com/t/879565) 
@@ -103,8 +105,6 @@
 - [【V2EX】2022-09-12-投资炼金术](https://www.v2ex.com/t/879524) 
 - [【V2EX】2022-09-12-千岛湖两日游记，啤酒小镇、天屿山、骑龙巷、东南湖区游玩笔记](https://www.v2ex.com/t/879523) 
 - [【V2EX】2022-09-12-阿里广州前端全裁了？-egg.js-那一组也是全裁了？](https://www.v2ex.com/t/879522) 
-- [【V2EX】2022-09-12-CubyText-分享一个开源的自制的知识管理的-App](https://www.v2ex.com/t/879519) 
-- [【V2EX】2022-09-12-真空食品容器内气压一般能低至多少？](https://www.v2ex.com/t/879518) 
 - [【技术头条】2022-09-12-智能搜索模型预估框架Augur的建设与实践-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15391&url=https%3A%2F%2Ftech.meituan.com%2F2020%2F07%2F16%2Faugur-in-meituan-nlp.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-12-基于AI算法的数据库异常监测系统的设计与实现-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15390&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F09%2F01%2Fdatabase-monitoring-based-on-ai.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-12-设备指纹技术介绍与综述（二）-blog.nsfocus.net](https://blogread.cn/news/go.php?idItem=15389&url=http%3A%2F%2Fblog.nsfocus.net%2Ffingerprint%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -137,11 +137,11 @@
 - [【开发者头条】2022-09-12-阿里云如何基于边缘云设计终端云化场景的架构？](https://toutiao.io/k/lqr1cuc) 
 - [【开发者头条】2022-09-12-Vue-可视化大屏适配插件之过程篇](https://toutiao.io/k/5u9698a) 
 - [【开发者头条】2022-09-12-ASP.NET-Core-+-Jenkins-实现自动化发布](https://toutiao.io/k/77or592) 
-- [【开发者头条】2022-09-12-推荐-SpringBoot-官方强烈推荐，连接池，太快了！](https://toutiao.io/k/zumxh7v) 
 - [【开发者头条】2022-09-12-推荐-微服务网关鉴权：gateway使用、网关限流使用、用户密码加密、JWT鉴权](https://toutiao.io/k/rdhhq5d) 
-- [【开发者头条】2022-09-12-推荐-什么是顶级的思维？](https://toutiao.io/k/ulqvlcd) 
-- [【开发者头条】2022-09-12-推荐-近期-yyds-的-GitHub-项目](https://toutiao.io/k/i1qkq4o) 
+- [【开发者头条】2022-09-12-推荐-SpringBoot-官方强烈推荐，连接池，太快了！](https://toutiao.io/k/zumxh7v) 
 - [【开发者头条】2022-09-12-推荐-公司40k招的架构师写的API网关选型总结，就是牛逼！](https://toutiao.io/k/kyi9yzt) 
+- [【开发者头条】2022-09-12-推荐-近期-yyds-的-GitHub-项目](https://toutiao.io/k/i1qkq4o) 
+- [【开发者头条】2022-09-12-推荐-什么是顶级的思维？](https://toutiao.io/k/ulqvlcd) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

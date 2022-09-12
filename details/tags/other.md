@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-12 23:04:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-12 23:16:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,7 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-09-12-有更新-macOS-12.6-的-V2er-吗？](https://www.v2ex.com/t/879570) 
 - [2022-09-12-家里有小朋友使用小白打印棒的请注意其访问权限！](https://www.v2ex.com/t/879569) 
 - [2022-09-12-分享:-开发了一个-Discord-Bot-群助手支持群历史消息迁移等](https://www.v2ex.com/t/879568) 
 - [2022-09-12-有人像我一样开始翻看自己-9-年多的朋友圈吗?](https://www.v2ex.com/t/879567) 
@@ -1967,7 +1968,7 @@
 - [2022-09-12-详解-Java-版本更新方式与发布周期](https://toutiao.io/k/6pnxlp6) 
 - [2022-09-12-阿里云如何基于边缘云设计终端云化场景的架构？](https://toutiao.io/k/lqr1cuc) 
 - [2022-09-12-ASP.NET-Core-+-Jenkins-实现自动化发布](https://toutiao.io/k/77or592) 
-- [2022-09-12-推荐-微服务网关鉴权：gateway使用、网关限流使用、用户密码加密、JWT鉴权](https://toutiao.io/k/rdhhq5d) 
 - [2022-09-12-推荐-SpringBoot-官方强烈推荐，连接池，太快了！](https://toutiao.io/k/zumxh7v) 
 - [2022-09-12-推荐-公司40k招的架构师写的API网关选型总结，就是牛逼！](https://toutiao.io/k/kyi9yzt) 
 - [2022-09-12-推荐-什么是顶级的思维？](https://toutiao.io/k/ulqvlcd) 
+- [2022-09-12-推荐-微服务网关鉴权：gateway使用、网关限流使用、用户密码加密、JWT鉴权](https://toutiao.io/k/rdhhq5d) 

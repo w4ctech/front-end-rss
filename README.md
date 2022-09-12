@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-12 12:31:41，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-12 13:29:17，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,16 @@
 </summary>
 
 
+- [2022-09-12-真空食品容器内气压一般能低至多少？](https://www.v2ex.com/t/879518) ![](assets/new.png)  
+- [2022-09-12-为什么说"Kotlin-是让开发人员更快乐的一门现代编程语言"?](https://www.v2ex.com/t/879517) ![](assets/new.png)  
+- [2022-09-12-出租-2-号线世纪大道站一室一厅出租](https://www.v2ex.com/t/879516) ![](assets/new.png)  
+- [2022-09-12-分享一个-gin-搭建的纯模版开发的社区](https://www.v2ex.com/t/879514) ![](assets/new.png)  
+- [2022-09-12-A16-更多性能跑分来了](https://www.v2ex.com/t/879513) ![](assets/new.png)  
+- [2022-09-12-我做过的一些-DDD-建模案例](https://www.v2ex.com/t/879512) ![](assets/new.png)  
+- [2022-09-12-怀疑外婆正遭遇营销骗局，我该怎么做？](https://www.v2ex.com/t/879511) ![](assets/new.png)  
+- [2022-09-12-v2ex-开启-2FA，在隐私模式下登录，卡在-2FA-认证阶段](https://www.v2ex.com/t/879508) ![](assets/new.png)  
+- [2022-09-12-我发现了，讨论新冠和中医的帖子都会转到水深火热节点，还有什么是不宜在-V2EX-讨论的？](https://www.v2ex.com/t/879507) ![](assets/new.png)  
+- [2022-09-12-年年焕新真的坑爹](https://www.v2ex.com/t/879506) ![](assets/new.png)  
 - [2022-09-12-有没有带代理功能的浏览器-APP？](https://www.v2ex.com/t/879505) ![](assets/new.png)  
 - [2022-09-12-又一个「GM_脚本」开发工具，基于-rollup.js](https://www.v2ex.com/t/879504) ![](assets/new.png)  
 - [2022-09-12-鉴于外出手机电量经常不够用，求推荐一款无线充电宝](https://www.v2ex.com/t/879503) ![](assets/new.png)  
@@ -501,16 +511,6 @@
 - [2022-09-12-电源适配器插在电源上不接设备耗电么？](https://www.v2ex.com/t/879494) ![](assets/new.png)  
 - [2022-09-12-今天链家的二房东跟我打电话让我减房租，我是房东](https://www.v2ex.com/t/879493) ![](assets/new.png)  
 - [2022-09-12-Web3.0-时代，有哪些优秀必读的非技术性书籍可以帮助我们补课？](https://www.v2ex.com/t/879491) ![](assets/new.png)  
-- [2022-09-12-Mac-Studio-电源线居然不是别人开箱视频里的编织线材质](https://www.v2ex.com/t/879490) ![](assets/new.png)  
-- [2022-09-12-export-=-React;-该怎么理解？](https://www.v2ex.com/t/879489) ![](assets/new.png)  
-- [2022-09-12-为什么别人唱歌是唱歌，我一唱就变成了拉着长音念歌词？](https://www.v2ex.com/t/879488) ![](assets/new.png)  
-- [2022-09-12-Chrome-正在开发基于应用的密码加密](https://www.v2ex.com/t/879487) ![](assets/new.png)  
-- [2022-09-12-鸿雁输入法——整句输入法中一颗冉冉升起的新星](https://www.v2ex.com/t/879486) ![](assets/new.png)  
-- [2022-09-12-apple-store-helper，-自动下单方案。](https://www.v2ex.com/t/879485) ![](assets/new.png)  
-- [2022-09-12-北京电信国际出口扩容了](https://www.v2ex.com/t/879484) ![](assets/new.png)  
-- [2022-09-12-连上-OpenVPN-后电脑无法上网](https://www.v2ex.com/t/879483) ![](assets/new.png)  
-- [2022-09-12-小公司承揽海外-IT-项目开发有没有坑？](https://www.v2ex.com/t/879482) ![](assets/new.png)  
-- [2022-09-12-求一些-av1-4k-的演示视频](https://www.v2ex.com/t/879481) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -561,15 +561,15 @@
 - [2022-09-12-接口流量突增，如何做好性能优化？](https://toutiao.io/k/035vsl0) ![](assets/new.png)  
 - [2022-09-12-详解-Java-版本更新方式与发布周期](https://toutiao.io/k/6pnxlp6) ![](assets/new.png)  
 - [2022-09-12-阿里云如何基于边缘云设计终端云化场景的架构？](https://toutiao.io/k/lqr1cuc) ![](assets/new.png)  
-- [2022-09-12-微服务配置中心，-这个方案-Go-里用起来不输-SpringCloud](https://toutiao.io/k/ph14mv0) ![](assets/new.png)  
 - [2022-09-12-​Mysql数据库查询好慢，除了索引，还能因为什么？](https://toutiao.io/k/ilhqqss) ![](assets/new.png)  
+- [2022-09-12-微服务配置中心，-这个方案-Go-里用起来不输-SpringCloud](https://toutiao.io/k/ph14mv0) ![](assets/new.png)  
 - [2022-09-12-Vue-可视化大屏适配插件之过程篇](https://toutiao.io/k/5u9698a) ![](assets/new.png)  
 - [2022-09-12-ASP.NET-Core-+-Jenkins-实现自动化发布](https://toutiao.io/k/77or592) ![](assets/new.png)  
-- [2022-09-12-推荐-公司40k招的架构师写的API网关选型总结，就是牛逼！](https://toutiao.io/k/kyi9yzt) ![](assets/new.png)  
 - [2022-09-12-推荐-聊聊数据库建表的15个小技巧](https://toutiao.io/k/uym7cfr) ![](assets/new.png)  
+- [2022-09-12-推荐-什么是顶级的思维？](https://toutiao.io/k/ulqvlcd) ![](assets/new.png)  
 - [2022-09-12-推荐-SpringBoot-官方强烈推荐，连接池，太快了！](https://toutiao.io/k/zumxh7v) ![](assets/new.png)  
 - [2022-09-12-推荐-微服务网关鉴权：gateway使用、网关限流使用、用户密码加密、JWT鉴权](https://toutiao.io/k/rdhhq5d) ![](assets/new.png)  
-- [2022-09-12-推荐-什么是顶级的思维？](https://toutiao.io/k/ulqvlcd) ![](assets/new.png)  
+- [2022-09-12-推荐-公司40k招的架构师写的API网关选型总结，就是牛逼！](https://toutiao.io/k/kyi9yzt) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

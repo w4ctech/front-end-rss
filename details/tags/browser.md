@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-12 14:48:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-12 15:16:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -16,4 +16,3 @@
 - [2022-06-12-基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/) 
 - [2022-09-12-neocities-上有很多-95-后可能没怎么见过的「个人网站」](https://www.v2ex.com/t/879536) 
 - [2022-09-12-有没有带代理功能的浏览器-APP？](https://www.v2ex.com/t/879505) 
-- [2022-09-12-Chrome-正在开发基于应用的密码加密](https://www.v2ex.com/t/879487) 

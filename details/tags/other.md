@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-12 10:47:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-12 11:14:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,8 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-09-12-这是闹哪样啊，帝都核酸检测-72-小时倒退回-48-小时了啊？](https://www.v2ex.com/t/879500) 
+- [2022-09-12-win11-开机欢迎界面卡几十秒](https://www.v2ex.com/t/879499) 
 - [2022-09-12-今天链家的二房东跟我打电话让我减房租，我是房东](https://www.v2ex.com/t/879493) 
 - [2022-09-12-Web3.0-时代，有哪些优秀必读的非技术性书籍可以帮助我们补课？](https://www.v2ex.com/t/879491) 
 - [2022-09-12-为什么别人唱歌是唱歌，我一唱就变成了拉着长音念歌词？](https://www.v2ex.com/t/879488) 
@@ -1937,9 +1939,6 @@
 - [2022-09-12-双非硕士就业问题](https://www.v2ex.com/t/879459) 
 - [2022-09-12-分享个打卡神器](https://www.v2ex.com/t/879453) 
 - [2022-09-12-jellyfin-转码，为什么多卡-3090-只有一张卡能被利用？](https://www.v2ex.com/t/879452) 
-- [2022-09-12-转租-南山区近腾讯大厦、科兴、创益大厦，整租公寓-3280-元/月](https://www.v2ex.com/t/879450) 
-- [2022-09-12-mail-同步](https://www.v2ex.com/t/879449) 
-- [2022-09-12-如果想做易企秀、电子贺卡之类用什么框架比较合适？](https://www.v2ex.com/t/879448) 
 - [2022-09-12-深度链接（Deeplinking）是什么？-www.zhihu.com](https://blogread.cn/news/go.php?idItem=15382&url=https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F51509486%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-12-Android-DeepLink介绍与使用-cloud.tencent.com](https://blogread.cn/news/go.php?idItem=15381&url=https%3A%2F%2Fcloud.tencent.com%2Fdeveloper%2Farticle%2F1368263%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-12-一文读懂深度链接deep-linking-mktbee.com](https://blogread.cn/news/go.php?idItem=15380&url=https%3A%2F%2Fmktbee.com%2F318.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1964,8 +1963,8 @@
 - [2022-09-12-微服务配置中心，-这个方案-Go-里用起来不输-SpringCloud](https://toutiao.io/k/ph14mv0) 
 - [2022-09-12-​Mysql数据库查询好慢，除了索引，还能因为什么？](https://toutiao.io/k/ilhqqss) 
 - [2022-09-12-ASP.NET-Core-+-Jenkins-实现自动化发布](https://toutiao.io/k/77or592) 
-- [2022-09-12-推荐-聊聊数据库建表的15个小技巧](https://toutiao.io/k/uym7cfr) 
 - [2022-09-12-推荐-SpringBoot-官方强烈推荐，连接池，太快了！](https://toutiao.io/k/zumxh7v) 
-- [2022-09-12-推荐-微服务网关鉴权：gateway使用、网关限流使用、用户密码加密、JWT鉴权](https://toutiao.io/k/rdhhq5d) 
 - [2022-09-12-推荐-什么是顶级的思维？](https://toutiao.io/k/ulqvlcd) 
+- [2022-09-12-推荐-微服务网关鉴权：gateway使用、网关限流使用、用户密码加密、JWT鉴权](https://toutiao.io/k/rdhhq5d) 
+- [2022-09-12-推荐-聊聊数据库建表的15个小技巧](https://toutiao.io/k/uym7cfr) 
 - [2022-09-12-推荐-公司40k招的架构师写的API网关选型总结，就是牛逼！](https://toutiao.io/k/kyi9yzt) 

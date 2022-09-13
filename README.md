@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-13 06:53:46，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-13 07:35:24，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,18 @@
 </summary>
 
 
+- [2022-09-13-15+剩余价值，出一台-racknerd](https://www.v2ex.com/t/879730) ![](assets/new.png)  
+- [2022-09-13-多看阅读-iOS-16-Release-了测试的-SDK](https://www.v2ex.com/t/879729) ![](assets/new.png)  
+- [2022-09-13-面试完了，-hr-问是否已经有-offer-了，怎么回答比较好呢？](https://www.v2ex.com/t/879728) ![](assets/new.png)  
+- [2022-09-13-来了来了，是-Android-版灵动岛，还是三星出品](https://www.v2ex.com/t/879726) ![](assets/new.png)  
+- [2022-09-13-S8-有不锈钢和钛金属好难选择。。。。。](https://www.v2ex.com/t/879725) ![](assets/new.png)  
+- [2022-09-13-每年这个时候唇疱疹都复发](https://www.v2ex.com/t/879724) ![](assets/new.png)  
+- [2022-09-13-远程工作怎么判断是否靠谱](https://www.v2ex.com/t/879723) ![](assets/new.png)  
+- [2022-09-13-有人会分享自己的脉脉名片吗？](https://www.v2ex.com/t/879722) ![](assets/new.png)  
+- [2022-09-13-Win11，图片的默认打开方式被修改，右键出现-Microsoft-winrt-storage-API，怎么回事？](https://www.v2ex.com/t/879721) ![](assets/new.png)  
+- [2022-09-13-2022-年-iPad-国行港行美版之间还有什么软件上的区别](https://www.v2ex.com/t/879720) ![](assets/new.png)  
+- [2022-09-13-刷了小米-euROM-之后，自带的日历不显示国内的节假日，有没有好的解决方案](https://www.v2ex.com/t/879719) ![](assets/new.png)  
+- [2022-09-13-有关支付保证的一个问题](https://www.v2ex.com/t/879718) ![](assets/new.png)  
 - [2022-09-13-问个问题，有没有什么办法能控制-usb-线充电或者不充电，但是不影响数据传输的？](https://www.v2ex.com/t/879716) ![](assets/new.png)  
 - [2022-09-13-蹲一个，-XR-有更新-16-的么](https://www.v2ex.com/t/879715) ![](assets/new.png)  
 - [2022-09-13-想换个城市发展了，大家聊聊城市推荐](https://www.v2ex.com/t/879714) ![](assets/new.png)  
@@ -499,18 +511,6 @@
 - [2022-09-13-iPhone--pro-max-收到了-15.7-和-16-的升级通过，-iPad--pro-确只有-15.7-的升级通告](https://www.v2ex.com/t/879708) ![](assets/new.png)  
 - [2022-09-13-fcitx5-竟已有安卓版，试用下完善程度已经很高了](https://www.v2ex.com/t/879707) ![](assets/new.png)  
 - [2022-09-13-这个-app-是模仿-surge-的么？](https://www.v2ex.com/t/879706) ![](assets/new.png)  
-- [2022-09-13-watchOS-9-有人升级了吗？](https://www.v2ex.com/t/879705) ![](assets/new.png)  
-- [2022-09-13-面试问到-Springboot-的理解，怎么才能答出面试官满意的理解？](https://www.v2ex.com/t/879704) ![](assets/new.png)  
-- [2022-09-13-2022-年如何购买港版-iPhone-/-iPad-？](https://www.v2ex.com/t/879700) ![](assets/new.png)  
-- [2022-09-13-好家伙，-iPhone-X-升级-iOS-16，流畅度大幅提升！](https://www.v2ex.com/t/879699) ![](assets/new.png)  
-- [2022-09-13-​国庆去武汉参加婚礼，顺便想玩玩，大家有啥推荐的吗](https://www.v2ex.com/t/879697) ![](assets/new.png)  
-- [2022-09-13-内网多产品单点登录一般用的是什么方案？](https://www.v2ex.com/t/879695) ![](assets/new.png)  
-- [2022-09-13-产品打磨之路–坦克变摩托](https://www.v2ex.com/t/879694) ![](assets/new.png)  
-- [2022-09-13-iOS-16-壁纸功能问题](https://www.v2ex.com/t/879693) ![](assets/new.png)  
-- [2022-09-13-14-pro-max-灵动岛效果](https://www.v2ex.com/t/879692) ![](assets/new.png)  
-- [2022-09-13-mikrotik-双线环境下内网地址做策略路由和主备备分？](https://www.v2ex.com/t/879691) ![](assets/new.png)  
-- [2022-09-13-各位小伙伴，问一下-iPad-版的-onenote-和-surface-windows-版的-onenote-功能一致吗，手写等？](https://www.v2ex.com/t/879690) ![](assets/new.png)  
-- [2022-09-13-IOS-字体的问题](https://www.v2ex.com/t/879688) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -570,8 +570,8 @@
 - [2022-09-13-详解JavaScript中的Event-Loop（事件循环）机制](https://toutiao.io/k/3mxx1xo) ![](assets/new.png)  
 - [2022-09-13-MYSQL-最朴素的监控方式](https://toutiao.io/k/j3cybib) ![](assets/new.png)  
 - [2022-09-13-关于"linux能力"的两个特殊案例](https://toutiao.io/k/wj4ggd9) ![](assets/new.png)  
-- [2022-09-13-【第2728期】网易云音乐的前端基础设施是如何优雅地走向统一的](https://toutiao.io/k/dw6g3vi) ![](assets/new.png)  
 - [2022-09-13-书单-|-中秋节啦，来点儿轻松有趣的书吧~~](https://toutiao.io/k/he9vi9u) ![](assets/new.png)  
+- [2022-09-13-【第2728期】网易云音乐的前端基础设施是如何优雅地走向统一的](https://toutiao.io/k/dw6g3vi) ![](assets/new.png)  
 - [2022-09-13-vivo-全球商城：电商平台通用取货码设计](https://toutiao.io/k/ekzsfsc) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

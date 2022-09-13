@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-13 14:08:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-13 14:49:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,9 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-09-13-Python-有什么方法可以检测是否连接无线网吗？](https://www.v2ex.com/t/879827) 
+- [2022-09-13-国行的-iPhone-是不是阉割了放大镜的功能?](https://www.v2ex.com/t/879826) 
+- [2022-09-13-看到两件事情感觉很压抑](https://www.v2ex.com/t/879825) 
 - [2022-09-13-Ubuntu-20.04-LTS-不定时死机，查询-journal-日志显示内核保护失败](https://www.v2ex.com/t/879823) 
 - [2022-09-13-iOS-16-锁屏图片随机播放问题](https://www.v2ex.com/t/879822) 
 - [2022-09-13-这样的微信功能是如何实现的-加好友->-自动通过备注关键词->-发送关键词->-自动邀请进群](https://www.v2ex.com/t/879821) 
@@ -1941,10 +1944,6 @@
 - [2022-09-13-北京/上海/杭州-抖音电商-智能数据应用（大量-HC，加入我们）](https://www.v2ex.com/t/879781) 
 - [2022-09-13-iPhone-14-颜色选择](https://www.v2ex.com/t/879780) 
 - [2022-09-13-如何禁止-Mac-迅雷自动升级？](https://www.v2ex.com/t/879779) 
-- [2022-09-13-UU-加速器添加根证书是为什么](https://www.v2ex.com/t/879778) 
-- [2022-09-13-问一下有关多对多关系查询的问题](https://www.v2ex.com/t/879777) 
-- [2022-09-13-今年怎么回事啊！在家投了快-10-个了，大多数回应都没有！](https://www.v2ex.com/t/879776) 
-- [2022-09-13-Mac-的-MDM-设备注册-审查权限会跨账户么](https://www.v2ex.com/t/879775) 
 - [2022-09-13-探索原味BFF模式-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15393&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fbff-history%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-13-ARouter-迁移到-TheRouter-使用感受-juejin.cn](https://blogread.cn/news/go.php?idItem=15392&url=https%3A%2F%2Fjuejin.cn%2Fpost%2F7142687645980688397%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-13-智能搜索模型预估框架Augur的建设与实践-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15391&url=https%3A%2F%2Ftech.meituan.com%2F2020%2F07%2F16%2Faugur-in-meituan-nlp.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1976,6 +1975,6 @@
 - [2022-09-13-vivo-全球商城：电商平台通用取货码设计](https://toutiao.io/k/ekzsfsc) 
 - [2022-09-13-书单-|-中秋节啦，来点儿轻松有趣的书吧~~](https://toutiao.io/k/he9vi9u) 
 - [2022-09-13-推荐-什么是顶级的思维？](https://toutiao.io/k/ulqvlcd) 
+- [2022-09-13-推荐-微服务网关鉴权：gateway使用、网关限流使用、用户密码加密、JWT鉴权](https://toutiao.io/k/rdhhq5d) 
 - [2022-09-13-推荐-公司40k招的架构师写的API网关选型总结，就是牛逼！](https://toutiao.io/k/kyi9yzt) 
 - [2022-09-13-推荐-SpringBoot-官方强烈推荐，连接池，太快了！](https://toutiao.io/k/zumxh7v) 
-- [2022-09-13-推荐-微服务网关鉴权：gateway使用、网关限流使用、用户密码加密、JWT鉴权](https://toutiao.io/k/rdhhq5d) 

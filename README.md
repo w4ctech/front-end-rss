@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-13 14:08:40，:rocket: 更新条数: +2031， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-13 14:49:01，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-09-13-Python-有什么方法可以检测是否连接无线网吗？](https://www.v2ex.com/t/879827) ![](assets/new.png)  
+- [2022-09-13-国行的-iPhone-是不是阉割了放大镜的功能?](https://www.v2ex.com/t/879826) ![](assets/new.png)  
+- [2022-09-13-看到两件事情感觉很压抑](https://www.v2ex.com/t/879825) ![](assets/new.png)  
 - [2022-09-13-Ubuntu-20.04-LTS-不定时死机，查询-journal-日志显示内核保护失败](https://www.v2ex.com/t/879823) ![](assets/new.png)  
 - [2022-09-13-iOS-16-锁屏图片随机播放问题](https://www.v2ex.com/t/879822) ![](assets/new.png)  
 - [2022-09-13-这样的微信功能是如何实现的-加好友->-自动通过备注关键词->-发送关键词->-自动邀请进群](https://www.v2ex.com/t/879821) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-09-13-iOS16-没有之前的那些壁纸了吗？尤其是那些黑暗模式有特殊效果的](https://www.v2ex.com/t/879805) ![](assets/new.png)  
 - [2022-09-13-创建运行应用的-doker-容器最佳方法](https://www.v2ex.com/t/879804) ![](assets/new.png)  
 - [2022-09-13-南昌的程序员看过来](https://www.v2ex.com/t/879803) ![](assets/new.png)  
-- [2022-09-13-一款集文档-Wiki、在线语音、项目管理于一体的协同工具—妙记多-Mojidoc-正式开启内测⚡️⚡️⚡️，诚邀内测用户体验](https://www.v2ex.com/t/879800) ![](assets/new.png)  
-- [2022-09-13-老家建轻钢别墅](https://www.v2ex.com/t/879798) ![](assets/new.png)  
-- [2022-09-13-程序员靠纯技术能渡过中年危机吗？](https://www.v2ex.com/t/879797) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

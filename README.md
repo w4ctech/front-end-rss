@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-13 09:18:00，:rocket: 更新条数: +2033， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-13 09:46:21，:rocket: 更新条数: +2033， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,14 @@
 </summary>
 
 
+- [2022-09-13-UU-加速器添加根证书是为什么](https://www.v2ex.com/t/879778) ![](assets/new.png)  
+- [2022-09-13-问一下有关多对多关系查询的问题](https://www.v2ex.com/t/879777) ![](assets/new.png)  
+- [2022-09-13-今年怎么回事啊！在家投了快-10-个了，大多数回应都没有！](https://www.v2ex.com/t/879776) ![](assets/new.png)  
+- [2022-09-13-Mac-的-MDM-设备注册-审查权限会跨账户么](https://www.v2ex.com/t/879775) ![](assets/new.png)  
+- [2022-09-13-1500T-网盘空间压缩为-1G，利用秒传书库自建本地私人图书馆，可测试数据免费下载电子书](https://www.v2ex.com/t/879774) ![](assets/new.png)  
+- [2022-09-13-汇报下在酷工作里找工作的结果](https://www.v2ex.com/t/879773) ![](assets/new.png)  
+- [2022-09-13-写了一个很简单的，没有运行时依赖的对接三方登录的-typescript-库。](https://www.v2ex.com/t/879772) ![](assets/new.png)  
+- [2022-09-13-你们的-watch-微信难到不卡么不延迟么？](https://www.v2ex.com/t/879770) ![](assets/new.png)  
 - [2022-09-13-微信文件传输助手会不会上传并保存文本类信息？](https://www.v2ex.com/t/879769) ![](assets/new.png)  
 - [2022-09-13-请问有没有类似-TextNow-收短信的-APP、网站?](https://www.v2ex.com/t/879768) ![](assets/new.png)  
 - [2022-09-13-境内服务器涉及海外业务，需要使用海外代理-IP，求方案推荐](https://www.v2ex.com/t/879767) ![](assets/new.png)  
@@ -503,14 +511,6 @@
 - [2022-09-13-笔记本风扇高转速下有扇叶刮擦壳子的声音，低速正常](https://www.v2ex.com/t/879759) ![](assets/new.png)  
 - [2022-09-13-求开源密码管理平台推荐](https://www.v2ex.com/t/879758) ![](assets/new.png)  
 - [2022-09-13-docker-里都用哪个-webdev-的镜像？](https://www.v2ex.com/t/879755) ![](assets/new.png)  
-- [2022-09-13-通过-ShortCut-实现每-20min-自动关闭蜂窝移动数据](https://www.v2ex.com/t/879753) ![](assets/new.png)  
-- [2022-09-13-单纯介绍人给黑客，不获利不参加，如果他们做违法的事我有责任吗?](https://www.v2ex.com/t/879752) ![](assets/new.png)  
-- [2022-09-13-循迹研究：如何写一篇技术文章](https://www.v2ex.com/t/879751) ![](assets/new.png)  
-- [2022-09-13-有运维老哥🐎](https://www.v2ex.com/t/879750) ![](assets/new.png)  
-- [2022-09-13-和老婆五年微信聊天记录-12G！想清理，求问微信聊天记录的存储逻辑。](https://www.v2ex.com/t/879749) ![](assets/new.png)  
-- [2022-09-13-关于使用-BNO055-传感器的动作捕捉问题](https://www.v2ex.com/t/879748) ![](assets/new.png)  
-- [2022-09-13-升级完-ios16-+-录完个性化空间音频感觉-airpods-pro-降噪加强了](https://www.v2ex.com/t/879747) ![](assets/new.png)  
-- [2022-09-13-刚从安吉自驾回来，发现了超棒的露营地，我又来分享游记了](https://www.v2ex.com/t/879746) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -522,6 +522,7 @@
 </summary>
 
 
+- [2022-09-13-探索原味BFF模式-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15393&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fbff-history%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-09-13-ARouter-迁移到-TheRouter-使用感受-juejin.cn](https://blogread.cn/news/go.php?idItem=15392&url=https%3A%2F%2Fjuejin.cn%2Fpost%2F7142687645980688397%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-09-13-智能搜索模型预估框架Augur的建设与实践-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15391&url=https%3A%2F%2Ftech.meituan.com%2F2020%2F07%2F16%2Faugur-in-meituan-nlp.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-09-13-基于AI算法的数据库异常监测系统的设计与实现-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15390&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F09%2F01%2Fdatabase-monitoring-based-on-ai.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
@@ -541,7 +542,6 @@
 - [2022-09-13-Replication（下）：事务，一致性与共识-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15376&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F08%2F25%2Freplication-in-meituan-02.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-09-13-Replication（上）：常见复制模型&分布式系统挑战-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15375&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F08%2F25%2Freplication-in-meituan-01.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-09-13-路网中路径的储存-blog.codingnow.com](https://blogread.cn/news/go.php?idItem=15374&url=https%3A%2F%2Fblog.codingnow.com%2F2022%2F09%2Froutemap.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-09-13-5-款适用于-Linux-的笔记应用-linux.cn](https://blogread.cn/news/go.php?idItem=15373&url=https%3A%2F%2Flinux.cn%2Farticle-14990-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

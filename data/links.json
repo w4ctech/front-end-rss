@@ -9953,6 +9953,46 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "UU 加速器添加根证书是为什么",
+        "link": "https://www.v2ex.com/t/879778",
+        "date": "2022-09-13"
+      },
+      {
+        "title": "问一下有关多对多关系查询的问题",
+        "link": "https://www.v2ex.com/t/879777",
+        "date": "2022-09-13"
+      },
+      {
+        "title": "今年怎么回事啊！在家投了快 10 个了，大多数回应都没有！",
+        "link": "https://www.v2ex.com/t/879776",
+        "date": "2022-09-13"
+      },
+      {
+        "title": "Mac 的 MDM 设备注册 审查权限会跨账户么",
+        "link": "https://www.v2ex.com/t/879775",
+        "date": "2022-09-13"
+      },
+      {
+        "title": "1500T 网盘空间压缩为 1G，利用秒传书库自建本地私人图书馆，可测试数据免费下载电子书",
+        "link": "https://www.v2ex.com/t/879774",
+        "date": "2022-09-13"
+      },
+      {
+        "title": "汇报下在酷工作里找工作的结果",
+        "link": "https://www.v2ex.com/t/879773",
+        "date": "2022-09-13"
+      },
+      {
+        "title": "写了一个很简单的，没有运行时依赖的对接三方登录的 typescript 库。",
+        "link": "https://www.v2ex.com/t/879772",
+        "date": "2022-09-13"
+      },
+      {
+        "title": "你们的 watch 微信难到不卡么不延迟么？",
+        "link": "https://www.v2ex.com/t/879770",
+        "date": "2022-09-13"
+      },
+      {
         "title": "微信文件传输助手会不会上传并保存文本类信息？",
         "link": "https://www.v2ex.com/t/879769",
         "date": "2022-09-13"
@@ -10121,46 +10161,6 @@
         "title": "多看阅读 iOS 16 Release 了测试的 SDK",
         "link": "https://www.v2ex.com/t/879729",
         "date": "2022-09-13"
-      },
-      {
-        "title": "面试完了， hr 问是否已经有 offer 了，怎么回答比较好呢？",
-        "link": "https://www.v2ex.com/t/879728",
-        "date": "2022-09-13"
-      },
-      {
-        "title": "来了来了，是 Android 版灵动岛，还是三星出品",
-        "link": "https://www.v2ex.com/t/879726",
-        "date": "2022-09-13"
-      },
-      {
-        "title": "S8 有不锈钢和钛金属好难选择。。。。。",
-        "link": "https://www.v2ex.com/t/879725",
-        "date": "2022-09-13"
-      },
-      {
-        "title": "每年这个时候唇疱疹都复发",
-        "link": "https://www.v2ex.com/t/879724",
-        "date": "2022-09-13"
-      },
-      {
-        "title": "远程工作怎么判断是否靠谱",
-        "link": "https://www.v2ex.com/t/879723",
-        "date": "2022-09-13"
-      },
-      {
-        "title": "有人会分享自己的脉脉名片吗？",
-        "link": "https://www.v2ex.com/t/879722",
-        "date": "2022-09-13"
-      },
-      {
-        "title": "Win11，图片的默认打开方式被修改，右键出现 Microsoft winrt storage API，怎么回事？",
-        "link": "https://www.v2ex.com/t/879721",
-        "date": "2022-09-13"
-      },
-      {
-        "title": "2022 年 iPad 国行港行美版之间还有什么软件上的区别",
-        "link": "https://www.v2ex.com/t/879720",
-        "date": "2022-09-13"
       }
     ]
   },
@@ -10169,6 +10169,11 @@
     "title": "技术头条",
     "link": "http://blogread.cn/news/newest.php",
     "items": [
+      {
+        "title": "探索原味BFF模式 (insights.thoughtworks.cn)",
+        "link": "https://blogread.cn/news/go.php?idItem=15393&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fbff-history%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2022-09-13"
+      },
       {
         "title": "ARouter 迁移到 TheRouter 使用感受 (juejin.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=15392&url=https%3A%2F%2Fjuejin.cn%2Fpost%2F7142687645980688397%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
@@ -10262,11 +10267,6 @@
       {
         "title": "路网中路径的储存 (blog.codingnow.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15374&url=https%3A%2F%2Fblog.codingnow.com%2F2022%2F09%2Froutemap.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-09-13"
-      },
-      {
-        "title": "5 款适用于 Linux 的笔记应用 (linux.cn)",
-        "link": "https://blogread.cn/news/go.php?idItem=15373&url=https%3A%2F%2Flinux.cn%2Farticle-14990-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
         "date": "2022-09-13"
       }
     ]
@@ -10377,18 +10377,8 @@
         "date": "2022-09-13"
       },
       {
-        "title": "[推荐] SpringBoot 官方强烈推荐，连接池，太快了！",
-        "link": "https://toutiao.io/k/zumxh7v",
-        "date": "2022-09-13"
-      },
-      {
-        "title": "[推荐] 微服务网关鉴权：gateway使用、网关限流使用、用户密码加密、JWT鉴权",
-        "link": "https://toutiao.io/k/rdhhq5d",
-        "date": "2022-09-13"
-      },
-      {
-        "title": "[推荐] 什么是顶级的思维？",
-        "link": "https://toutiao.io/k/ulqvlcd",
+        "title": "[推荐] 公司40k招的架构师写的API网关选型总结，就是牛逼！",
+        "link": "https://toutiao.io/k/kyi9yzt",
         "date": "2022-09-13"
       },
       {
@@ -10397,8 +10387,18 @@
         "date": "2022-09-13"
       },
       {
-        "title": "[推荐] 公司40k招的架构师写的API网关选型总结，就是牛逼！",
-        "link": "https://toutiao.io/k/kyi9yzt",
+        "title": "[推荐] 微服务网关鉴权：gateway使用、网关限流使用、用户密码加密、JWT鉴权",
+        "link": "https://toutiao.io/k/rdhhq5d",
+        "date": "2022-09-13"
+      },
+      {
+        "title": "[推荐] SpringBoot 官方强烈推荐，连接池，太快了！",
+        "link": "https://toutiao.io/k/zumxh7v",
+        "date": "2022-09-13"
+      },
+      {
+        "title": "[推荐] 什么是顶级的思维？",
+        "link": "https://toutiao.io/k/ulqvlcd",
         "date": "2022-09-13"
       }
     ]

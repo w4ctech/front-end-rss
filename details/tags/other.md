@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-13 11:14:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-13 11:41:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,8 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-09-13-创建运行应用的-doker-容器最佳方法](https://www.v2ex.com/t/879804) 
+- [2022-09-13-南昌的程序员看过来](https://www.v2ex.com/t/879803) 
 - [2022-09-13-一款集文档-Wiki、在线语音、项目管理于一体的协同工具—妙记多-Mojidoc-正式开启内测⚡️⚡️⚡️，诚邀内测用户体验](https://www.v2ex.com/t/879800) 
 - [2022-09-13-老家建轻钢别墅](https://www.v2ex.com/t/879798) 
 - [2022-09-13-程序员靠纯技术能渡过中年危机吗？](https://www.v2ex.com/t/879797) 
@@ -1943,9 +1945,6 @@
 - [2022-09-13-iOS-15.7-vs-iOS-16.0](https://www.v2ex.com/t/879760) 
 - [2022-09-13-笔记本风扇高转速下有扇叶刮擦壳子的声音，低速正常](https://www.v2ex.com/t/879759) 
 - [2022-09-13-求开源密码管理平台推荐](https://www.v2ex.com/t/879758) 
-- [2022-09-13-通过-ShortCut-实现每-20min-自动关闭蜂窝移动数据](https://www.v2ex.com/t/879753) 
-- [2022-09-13-单纯介绍人给黑客，不获利不参加，如果他们做违法的事我有责任吗?](https://www.v2ex.com/t/879752) 
-- [2022-09-13-循迹研究：如何写一篇技术文章](https://www.v2ex.com/t/879751) 
 - [2022-09-13-探索原味BFF模式-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15393&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fbff-history%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-13-ARouter-迁移到-TheRouter-使用感受-juejin.cn](https://blogread.cn/news/go.php?idItem=15392&url=https%3A%2F%2Fjuejin.cn%2Fpost%2F7142687645980688397%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-13-智能搜索模型预估框架Augur的建设与实践-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15391&url=https%3A%2F%2Ftech.meituan.com%2F2020%2F07%2F16%2Faugur-in-meituan-nlp.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1976,7 +1975,7 @@
 - [2022-09-13-【第2728期】网易云音乐的前端基础设施是如何优雅地走向统一的](https://toutiao.io/k/dw6g3vi) 
 - [2022-09-13-书单-|-中秋节啦，来点儿轻松有趣的书吧~~](https://toutiao.io/k/he9vi9u) 
 - [2022-09-13-vivo-全球商城：电商平台通用取货码设计](https://toutiao.io/k/ekzsfsc) 
-- [2022-09-13-推荐-什么是顶级的思维？](https://toutiao.io/k/ulqvlcd) 
+- [2022-09-13-推荐-公司40k招的架构师写的API网关选型总结，就是牛逼！](https://toutiao.io/k/kyi9yzt) 
 - [2022-09-13-推荐-SpringBoot-官方强烈推荐，连接池，太快了！](https://toutiao.io/k/zumxh7v) 
 - [2022-09-13-推荐-微服务网关鉴权：gateway使用、网关限流使用、用户密码加密、JWT鉴权](https://toutiao.io/k/rdhhq5d) 
-- [2022-09-13-推荐-公司40k招的架构师写的API网关选型总结，就是牛逼！](https://toutiao.io/k/kyi9yzt) 
+- [2022-09-13-推荐-什么是顶级的思维？](https://toutiao.io/k/ulqvlcd) 

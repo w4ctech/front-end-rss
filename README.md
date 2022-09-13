@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-13 01:17:58，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-13 04:07:00，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,26 +491,26 @@
 </summary>
 
 
-- [2022-09-13-Web3-远程-DeBank/Rabby-招聘-Web3-产品/数据/安全/后端/前端/-SRE-3-7-年经验$5K-$13K](https://www.v2ex.com/t/879595) ![](assets/new.png)  
-- [2022-09-13-为什么国外网页新链接多为跳转，国内多为新标签打开](https://www.v2ex.com/t/879594) ![](assets/new.png)  
-- [2022-09-13-ios16-收不到更新推送](https://www.v2ex.com/t/879593) ![](assets/new.png)  
-- [2022-09-13-各位家用的监控还分-VLAN-隔离吗？](https://www.v2ex.com/t/879592) ![](assets/new.png)  
-- [2022-09-13-有没有和我一样的，感觉-IOS16-的锁屏太丑了，壁纸设置界面进去差点没把我丑哭了～](https://www.v2ex.com/t/879590) ![](assets/new.png)  
-- [2022-09-13-Macbook-Air-M1-外接显示器睡眠唤醒花屏问题](https://www.v2ex.com/t/879589) ![](assets/new.png)  
-- [2022-09-13-因弟弟朋友的要求，真心求一名游戏脚本开发。](https://www.v2ex.com/t/879587) ![](assets/new.png)  
-- [2022-09-13-新手创建网页的疑问](https://www.v2ex.com/t/879586) ![](assets/new.png)  
-- [2022-09-13-j4125-在-pve-下的-openwrt-的-docker-里，装-emby-无硬解](https://www.v2ex.com/t/879585) ![](assets/new.png)  
-- [2022-09-13-macOS-应用访问-iCloud-目录需要用户授权吗？](https://www.v2ex.com/t/879584) ![](assets/new.png)  
-- [2022-09-13-js-怎样混淆加密“联系我们”的邮件地址，防止被垃圾邮件群发？](https://www.v2ex.com/t/879583) ![](assets/new.png)  
-- [2022-09-13-m1-的-iPad-都可以流畅运行-windows-了？](https://www.v2ex.com/t/879582) ![](assets/new.png)  
-- [2022-09-13-因弟弟朋友的要求，求一名游戏脚本开发。](https://www.v2ex.com/t/879580) ![](assets/new.png)  
-- [2022-09-13-目前用的是美区-PayPal-和美区-iCloud-和家庭，最近发现土区-iCloud-很优惠，可以用美区-PayPal-吗](https://www.v2ex.com/t/879579) ![](assets/new.png)  
-- [2022-09-13-Linux-fio-测试磁盘性能，-iodepth-这个参数是什么意思？](https://www.v2ex.com/t/879578) ![](assets/new.png)  
-- [2022-09-13-iOS-16-更新反馈](https://www.v2ex.com/t/879577) ![](assets/new.png)  
-- [2022-09-13-学编程会拉低数学成绩，巴黎大学跟踪-1500-个小学生得出结论](https://www.v2ex.com/t/879576) ![](assets/new.png)  
-- [2022-09-13-求推荐-iphone7-移动电源](https://www.v2ex.com/t/879575) ![](assets/new.png)  
-- [2022-09-12-上海-不加班-可一半时间居家办公-外企-招-中高级-Java-，中高级测试，高级安卓、产品，中级-devOps](https://www.v2ex.com/t/879573) ![](assets/new.png)  
-- [2022-09-12-Dropbox-家庭版拼车有人吗](https://www.v2ex.com/t/879572) ![](assets/new.png)  
+- [2022-09-13-昨天老爸去菜市场买菜骑电瓶从-一个老太旁边经过,老太自己没注意撞到我爸电频车上了,-怎么定责？](https://www.v2ex.com/t/879679) ![](assets/new.png)  
+- [2022-09-13-移动有什么性价比高一些的套餐吗？](https://www.v2ex.com/t/879678) ![](assets/new.png)  
+- [2022-09-13-能否把动态库.so-当静态库.a-用？](https://www.v2ex.com/t/879677) ![](assets/new.png)  
+- [2022-09-13-iPhone-11-升级到-iOS-16-锁屏的两个问题大家能复现吗](https://www.v2ex.com/t/879675) ![](assets/new.png)  
+- [2022-09-13-请问国内的-APP-显示-IP-地址有没有什么自动修改的办法](https://www.v2ex.com/t/879674) ![](assets/new.png)  
+- [2022-09-13-如何获取-Github-最新-Releses-Url](https://www.v2ex.com/t/879673) ![](assets/new.png)  
+- [2022-09-13-ifC#==落后-前端就是牛！](https://www.v2ex.com/t/879671) ![](assets/new.png)  
+- [2022-09-13-见证了一个少年被工作磨平了棱角狗头](https://www.v2ex.com/t/879667) ![](assets/new.png)  
+- [2022-09-13-上海创业公司找资深爬虫工程师](https://www.v2ex.com/t/879666) ![](assets/new.png)  
+- [2022-09-13-各位大佬们，-iwatch-7-有合适的购买渠道么？谢谢](https://www.v2ex.com/t/879665) ![](assets/new.png)  
+- [2022-09-13-iOS-16-的壁纸功能感觉都可以做成一个超级壁纸-APP-了，相比之前太复杂](https://www.v2ex.com/t/879664) ![](assets/new.png)  
+- [2022-09-13-在-iOS16-之前选择-livephoto-当作手机锁屏背景，长按可以播放，-iOS16-之后不行了是吗](https://www.v2ex.com/t/879662) ![](assets/new.png)  
+- [2022-09-13-笔记本或者台式机，可以流畅玩-GTA5-或将来-GTA6-的，机子有推荐吗~](https://www.v2ex.com/t/879661) ![](assets/new.png)  
+- [2022-09-13-请教我哪里搞错了？美国人买-美版-14-无实体卡-插槽，出国旅行怎么办？](https://www.v2ex.com/t/879658) ![](assets/new.png)  
+- [2022-09-13-怎么让-discord-走-clash-代理](https://www.v2ex.com/t/879655) ![](assets/new.png)  
+- [2022-09-13-mac-下-idea-goland-编辑依赖文件源码时，提示无法保存文件](https://www.v2ex.com/t/879654) ![](assets/new.png)  
+- [2022-09-13-下单了华为-MateBook-E-Go](https://www.v2ex.com/t/879653) ![](assets/new.png)  
+- [2022-09-13-在泰国工作和生活怎么样？](https://www.v2ex.com/t/879652) ![](assets/new.png)  
+- [2022-09-13-关于梦境](https://www.v2ex.com/t/879651) ![](assets/new.png)  
+- [2022-09-13-还有没有可能在本周末-16-18-用自己账户买到新-pro](https://www.v2ex.com/t/879650) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -522,6 +522,7 @@
 </summary>
 
 
+- [2022-09-13-ARouter-迁移到-TheRouter-使用感受-juejin.cn](https://blogread.cn/news/go.php?idItem=15392&url=https%3A%2F%2Fjuejin.cn%2Fpost%2F7142687645980688397%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-09-13-智能搜索模型预估框架Augur的建设与实践-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15391&url=https%3A%2F%2Ftech.meituan.com%2F2020%2F07%2F16%2Faugur-in-meituan-nlp.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-09-13-基于AI算法的数据库异常监测系统的设计与实现-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15390&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F09%2F01%2Fdatabase-monitoring-based-on-ai.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-09-13-设备指纹技术介绍与综述（二）-blog.nsfocus.net](https://blogread.cn/news/go.php?idItem=15389&url=http%3A%2F%2Fblog.nsfocus.net%2Ffingerprint%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
@@ -541,7 +542,6 @@
 - [2022-09-13-Replication（上）：常见复制模型&分布式系统挑战-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15375&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F08%2F25%2Freplication-in-meituan-01.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-09-13-路网中路径的储存-blog.codingnow.com](https://blogread.cn/news/go.php?idItem=15374&url=https%3A%2F%2Fblog.codingnow.com%2F2022%2F09%2Froutemap.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-09-13-5-款适用于-Linux-的笔记应用-linux.cn](https://blogread.cn/news/go.php?idItem=15373&url=https%3A%2F%2Flinux.cn%2Farticle-14990-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-09-13-美团搜索粗排优化的探索与实践-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15372&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F08%2F11%2Fcoarse-ranking-exploration-practice.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -556,17 +556,22 @@
 - [2022-09-13-Redis高可用方案](https://toutiao.io/k/3hh68yl) ![](assets/new.png)  
 - [2022-09-13-2022-年了，我才开始学-TypeScript-，晚吗？（7.5k字总结）](https://toutiao.io/k/7ppg48s) ![](assets/new.png)  
 - [2022-09-13-使用-ELK-收集日志](https://toutiao.io/k/mollir5) ![](assets/new.png)  
-- [2022-09-13-C++最佳实践-|-6.-性能](https://toutiao.io/k/5yqa6wj) ![](assets/new.png)  
-- [2022-09-13-小红书自研小程序：电商体验与效果优化的运行时体系设计](https://toutiao.io/k/qjr4ls2) ![](assets/new.png)  
 - [2022-09-13-分布式中灰度方案实践](https://toutiao.io/k/jpnejcx) ![](assets/new.png)  
 - [2022-09-13-浅谈策略模式在消息转发场景下的应用](https://toutiao.io/k/5qpklzd) ![](assets/new.png)  
+- [2022-09-13-C++最佳实践-|-6.-性能](https://toutiao.io/k/5yqa6wj) ![](assets/new.png)  
+- [2022-09-13-小红书自研小程序：电商体验与效果优化的运行时体系设计](https://toutiao.io/k/qjr4ls2) ![](assets/new.png)  
 - [2022-09-13-WebAssembly-的发展风险及Wasmtime-1.0-性能概览](https://toutiao.io/k/q8plntz) ![](assets/new.png)  
+- [2022-09-13-干货-｜超详细安全知识框架推荐](https://toutiao.io/k/mwvgraj) ![](assets/new.png)  
 - [2022-09-13-整洁架构之CSS](https://toutiao.io/k/gc3sqtn) ![](assets/new.png)  
 - [2022-09-13-揭秘前端眼中的Rust！](https://toutiao.io/k/s978f59) ![](assets/new.png)  
-- [2022-09-13-推荐-什么是顶级的思维？](https://toutiao.io/k/ulqvlcd) ![](assets/new.png)  
+- [2022-09-13-如何优雅地中断-Promise？来试试-AbortController-吧！](https://toutiao.io/k/77wo2bq) ![](assets/new.png)  
+- [2022-09-13-同程旅行对象存储实践](https://toutiao.io/k/0skzxq3) ![](assets/new.png)  
+- [2022-09-13-40-个-SpringBoot-常用注解：让生产力爆表！](https://toutiao.io/k/240u1hm) ![](assets/new.png)  
+- [2022-09-13-详解JavaScript中的Event-Loop（事件循环）机制](https://toutiao.io/k/3mxx1xo) ![](assets/new.png)  
+- [2022-09-13-推荐-SpringBoot-官方强烈推荐，连接池，太快了！](https://toutiao.io/k/zumxh7v) ![](assets/new.png)  
 - [2022-09-13-推荐-近期-yyds-的-GitHub-项目](https://toutiao.io/k/i1qkq4o) ![](assets/new.png)  
 - [2022-09-13-推荐-微服务网关鉴权：gateway使用、网关限流使用、用户密码加密、JWT鉴权](https://toutiao.io/k/rdhhq5d) ![](assets/new.png)  
-- [2022-09-13-推荐-SpringBoot-官方强烈推荐，连接池，太快了！](https://toutiao.io/k/zumxh7v) ![](assets/new.png)  
+- [2022-09-13-推荐-什么是顶级的思维？](https://toutiao.io/k/ulqvlcd) ![](assets/new.png)  
 - [2022-09-13-推荐-公司40k招的架构师写的API网关选型总结，就是牛逼！](https://toutiao.io/k/kyi9yzt) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

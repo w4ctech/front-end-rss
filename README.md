@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-13 23:17:00，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-13 23:46:48，:rocket: 更新条数: +2010， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-09-13-iOS16-一直提示充电过热](https://www.v2ex.com/t/879859) ![](assets/new.png)  
 - [2022-09-13-请教一下，有人用单片机做过操作系统课程的项目吗？](https://www.v2ex.com/t/879858) ![](assets/new.png)  
 - [2022-09-13-疑惑-C#中一个奇怪的现象](https://www.v2ex.com/t/879857) ![](assets/new.png)  
 - [2022-09-13-三星这个-0E-问题有点离谱啊](https://www.v2ex.com/t/879856) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-09-13-有人在-trustdata-工作吗](https://www.v2ex.com/t/879838) ![](assets/new.png)  
 - [2022-09-13-租房-上海安亭创新港附近](https://www.v2ex.com/t/879837) ![](assets/new.png)  
 - [2022-09-13-有小伙伴问我-SDB-的锁模型，我重新梳理了一下](https://www.v2ex.com/t/879836) ![](assets/new.png)  
-- [2022-09-13-有没有数字通信原理（李白萍）的课件-PPT-啊？](https://www.v2ex.com/t/879835) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -553,26 +553,12 @@
 </summary>
 
 
-- [2022-09-13-Redis高可用方案](https://toutiao.io/k/3hh68yl) ![](assets/new.png)  
-- [2022-09-13-2022-年了，我才开始学-TypeScript-，晚吗？（7.5k字总结）](https://toutiao.io/k/7ppg48s) ![](assets/new.png)  
-- [2022-09-13-使用-ELK-收集日志](https://toutiao.io/k/mollir5) ![](assets/new.png)  
-- [2022-09-13-分布式中灰度方案实践](https://toutiao.io/k/jpnejcx) ![](assets/new.png)  
-- [2022-09-13-浅谈策略模式在消息转发场景下的应用](https://toutiao.io/k/5qpklzd) ![](assets/new.png)  
-- [2022-09-13-C++最佳实践-|-6.-性能](https://toutiao.io/k/5yqa6wj) ![](assets/new.png)  
-- [2022-09-13-干货-｜超详细安全知识框架推荐](https://toutiao.io/k/mwvgraj) ![](assets/new.png)  
-- [2022-09-13-同程旅行对象存储实践](https://toutiao.io/k/0skzxq3) ![](assets/new.png)  
-- [2022-09-13-40-个-SpringBoot-常用注解：让生产力爆表！](https://toutiao.io/k/240u1hm) ![](assets/new.png)  
-- [2022-09-13-小红书自研小程序：电商体验与效果优化的运行时体系设计](https://toutiao.io/k/qjr4ls2) ![](assets/new.png)  
-- [2022-09-13-如何优雅地中断-Promise？来试试-AbortController-吧！](https://toutiao.io/k/77wo2bq) ![](assets/new.png)  
-- [2022-09-13-MYSQL-最朴素的监控方式](https://toutiao.io/k/j3cybib) ![](assets/new.png)  
-- [2022-09-13-WebAssembly-的发展风险及Wasmtime-1.0-性能概览](https://toutiao.io/k/q8plntz) ![](assets/new.png)  
-- [2022-09-13-整洁架构之CSS](https://toutiao.io/k/gc3sqtn) ![](assets/new.png)  
-- [2022-09-13-揭秘前端眼中的Rust！](https://toutiao.io/k/s978f59) ![](assets/new.png)  
-- [2022-09-13-详解JavaScript中的Event-Loop（事件循环）机制](https://toutiao.io/k/3mxx1xo) ![](assets/new.png)  
-- [2022-09-13-【第2728期】网易云音乐的前端基础设施是如何优雅地走向统一的](https://toutiao.io/k/dw6g3vi) ![](assets/new.png)  
-- [2022-09-13-关于"linux能力"的两个特殊案例](https://toutiao.io/k/wj4ggd9) ![](assets/new.png)  
-- [2022-09-13-vivo-全球商城：电商平台通用取货码设计](https://toutiao.io/k/ekzsfsc) ![](assets/new.png)  
-- [2022-09-13-书单-|-中秋节啦，来点儿轻松有趣的书吧~~](https://toutiao.io/k/he9vi9u) ![](assets/new.png)  
+- [2022-09-13-声网开发者创业讲堂丨第-5-期：技术创业者如何做好技术团队管理？](https://toutiao.io/k/peycpb0) ![](assets/new.png)  
+- [2022-09-13-推荐-公司40k招的架构师写的API网关选型总结，就是牛逼！](https://toutiao.io/k/kyi9yzt) ![](assets/new.png)  
+- [2022-09-13-推荐-近期-yyds-的-GitHub-项目](https://toutiao.io/k/i1qkq4o) ![](assets/new.png)  
+- [2022-09-13-推荐-微服务网关鉴权：gateway使用、网关限流使用、用户密码加密、JWT鉴权](https://toutiao.io/k/rdhhq5d) ![](assets/new.png)  
+- [2022-09-13-推荐-常见分布式系统设计图解](https://toutiao.io/k/osewvaz) ![](assets/new.png)  
+- [2022-09-13-推荐-SpringBoot-官方强烈推荐，连接池，太快了！](https://toutiao.io/k/zumxh7v) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

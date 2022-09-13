@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-09-13 23:17:00。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-13 23:46:48。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -71,7 +71,6 @@
 
 
 
-- [【开发者头条】2022-年了，我才开始学-TypeScript-，晚吗？（7.5k字总结）](https://toutiao.io/k/7ppg48s)
 - [......【查看更多】......](./details/tags/typescript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -121,7 +120,6 @@
 
 
 
-- [【开发者头条】小红书自研小程序：电商体验与效果优化的运行时体系设计](https://toutiao.io/k/qjr4ls2)
 - [......【查看更多】......](./details/tags/miniprogram.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -183,8 +181,6 @@
 - [【V2EX】路由器需要打开-DoT-的-DNS-隐私选项吗？](https://www.v2ex.com/t/879853)
 - [【V2EX】可刷机路由-AX6/AX6S/360V6-选哪个？](https://www.v2ex.com/t/879841)
 - [【V2EX】The-Legend-of-Zelda:-Tears-of-the-Kingdom](https://www.v2ex.com/t/879834)
-- [【开发者头条】如何优雅地中断-Promise？来试试-AbortController-吧！](https://toutiao.io/k/77wo2bq)
-- [【开发者头条】详解JavaScript中的Event-Loop（事件循环）机制](https://toutiao.io/k/3mxx1xo)
 - [......【查看更多】......](./details/tags/javascript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -206,7 +202,6 @@
 - [【张鑫旭-鑫空间-鑫生活】超酷！CSS-font-palette与彩色字体显示](https://www.zhangxinxu.com/wordpress/2022/07/css-font-palette/)
 - [【张鑫旭-鑫空间-鑫生活】CSS排版为何强？瞧瞧多牛这换行](https://www.zhangxinxu.com/wordpress/2022/06/css-line-break-word-wrap-all/)
 - [【技术头条】整洁架构之CSS-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15383&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fclean-architecture-css%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
-- [【开发者头条】整洁架构之CSS](https://toutiao.io/k/gc3sqtn)
 - [......【查看更多】......](./details/tags/css.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -257,8 +252,6 @@
 
 
 
-- [【开发者头条】C++最佳实践-|-6.-性能](https://toutiao.io/k/5yqa6wj)
-- [【开发者头条】WebAssembly-的发展风险及Wasmtime-1.0-性能概览](https://toutiao.io/k/q8plntz)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -285,7 +278,6 @@
 - [【V2EX】macOS-下-Edge-浏览器占用-CPU-的问题太严重，已换到-Chrome](https://www.v2ex.com/t/879849)
 - [【V2EX】联想电脑劫持用户浏览器首页，真恶心。电脑买来时还没劫持不知道啥时候被劫持了](https://www.v2ex.com/t/879815)
 - [【V2EX】请教大佬们一个问题，关于如何在-shell-脚本中使用-websocket-和一个-http-code-的问题](https://www.v2ex.com/t/879814)
-- [【开发者头条】干货-｜超详细安全知识框架推荐](https://toutiao.io/k/mwvgraj)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

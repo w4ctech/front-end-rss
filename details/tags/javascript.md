@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-13 23:17:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-13 23:46:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -20,5 +20,3 @@
 - [2022-09-13-路由器需要打开-DoT-的-DNS-隐私选项吗？](https://www.v2ex.com/t/879853) 
 - [2022-09-13-可刷机路由-AX6/AX6S/360V6-选哪个？](https://www.v2ex.com/t/879841) 
 - [2022-09-13-The-Legend-of-Zelda:-Tears-of-the-Kingdom](https://www.v2ex.com/t/879834) 
-- [2022-09-13-如何优雅地中断-Promise？来试试-AbortController-吧！](https://toutiao.io/k/77wo2bq) 
-- [2022-09-13-详解JavaScript中的Event-Loop（事件循环）机制](https://toutiao.io/k/3mxx1xo) 

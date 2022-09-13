@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-13 05:58:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-13 06:53:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -18,6 +18,5 @@
 - [2022-06-11-介绍一种CSS变量未定义语法也OK的小妙招](https://www.zhangxinxu.com/wordpress/2022/06/css-var-optional-empty-trick/) 
 - [2022-05-29-如何实现页面刷新后不定位到之前的滚动位置？](https://www.zhangxinxu.com/wordpress/2022/05/history-scrollrestoration/) 
 - [2022-09-13-mikrotik-双线环境下内网地址做策略路由和主备备分？](https://www.v2ex.com/t/879691) 
-- [2022-09-13-🎉-送码-瓦尔登-适配-iOS-16-小组件啦！这是一款主打待办计划，同时支持进度管理和笔记的个人管理应用，欢迎免费下载体验](https://www.v2ex.com/t/879648) 
 - [2022-09-13-如何优雅地中断-Promise？来试试-AbortController-吧！](https://toutiao.io/k/77wo2bq) 
 - [2022-09-13-详解JavaScript中的Event-Loop（事件循环）机制](https://toutiao.io/k/3mxx1xo) 

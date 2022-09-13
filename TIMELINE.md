@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-13 09:46:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-09-13 10:17:12。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,15 @@
 </summary>
 
 
+- [【V2EX】2022-09-13-要不要现在申请新的-MBP](https://www.v2ex.com/t/879787) 
+- [【V2EX】2022-09-13-分享一个可以自部署的聊天全栈系统](https://www.v2ex.com/t/879786) 
+- [【V2EX】2022-09-13-欧服怀旧巫妖王，有一起搞的吗？](https://www.v2ex.com/t/879785) 
+- [【V2EX】2022-09-13-iOS16-邮件-App-一直正在检查](https://www.v2ex.com/t/879784) 
+- [【V2EX】2022-09-13-北方确实不要用电信](https://www.v2ex.com/t/879783) 
+- [【V2EX】2022-09-13-iOS16-的快捷指令中的-HTTP-请求，返回的中文有都是乱码，你们有碰到吗](https://www.v2ex.com/t/879782) 
+- [【V2EX】2022-09-13-北京/上海/杭州-抖音电商-智能数据应用（大量-HC，加入我们）](https://www.v2ex.com/t/879781) 
+- [【V2EX】2022-09-13-iPhone-14-颜色选择](https://www.v2ex.com/t/879780) 
+- [【V2EX】2022-09-13-如何禁止-Mac-迅雷自动升级？](https://www.v2ex.com/t/879779) 
 - [【V2EX】2022-09-13-UU-加速器添加根证书是为什么](https://www.v2ex.com/t/879778) 
 - [【V2EX】2022-09-13-问一下有关多对多关系查询的问题](https://www.v2ex.com/t/879777) 
 - [【V2EX】2022-09-13-今年怎么回事啊！在家投了快-10-个了，大多数回应都没有！](https://www.v2ex.com/t/879776) 
@@ -103,13 +112,6 @@
 - [【V2EX】2022-09-13-独立产品灵感周刊-DecoHack-#030---iOS16-正式发布](https://www.v2ex.com/t/879740) 
 - [【V2EX】2022-09-13-iOS-自带输入法如果打字太快的话，会出现点击了候选词但是没有成功输入的情况](https://www.v2ex.com/t/879739) 
 - [【V2EX】2022-09-13-坐标苏州，国庆去哪玩？](https://www.v2ex.com/t/879738) 
-- [【V2EX】2022-09-13-有什么推荐的开源项目可以学下技法](https://www.v2ex.com/t/879737) 
-- [【V2EX】2022-09-13-一个字符串拆分问题](https://www.v2ex.com/t/879736) 
-- [【V2EX】2022-09-13-求一个-avgv-的邀](https://www.v2ex.com/t/879733) 
-- [【V2EX】2022-09-13-广东中山电信，最近好像拿不到-ipv6-了](https://www.v2ex.com/t/879732) 
-- [【V2EX】2022-09-13-Mac-上有没有什么键盘映射的工具能通过数字小键盘操作非活动窗口的呢？](https://www.v2ex.com/t/879731) 
-- [【V2EX】2022-09-13-15+剩余价值，出一台-racknerd](https://www.v2ex.com/t/879730) 
-- [【V2EX】2022-09-13-多看阅读-iOS-16-Release-了测试的-SDK](https://www.v2ex.com/t/879729) 
 - [【技术头条】2022-09-13-探索原味BFF模式-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15393&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fbff-history%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-13-ARouter-迁移到-TheRouter-使用感受-juejin.cn](https://blogread.cn/news/go.php?idItem=15392&url=https%3A%2F%2Fjuejin.cn%2Fpost%2F7142687645980688397%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-13-智能搜索模型预估框架Augur的建设与实践-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15391&url=https%3A%2F%2Ftech.meituan.com%2F2020%2F07%2F16%2Faugur-in-meituan-nlp.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -150,11 +152,11 @@
 - [【开发者头条】2022-09-13-【第2728期】网易云音乐的前端基础设施是如何优雅地走向统一的](https://toutiao.io/k/dw6g3vi) 
 - [【开发者头条】2022-09-13-书单-|-中秋节啦，来点儿轻松有趣的书吧~~](https://toutiao.io/k/he9vi9u) 
 - [【开发者头条】2022-09-13-vivo-全球商城：电商平台通用取货码设计](https://toutiao.io/k/ekzsfsc) 
+- [【开发者头条】2022-09-13-推荐-什么是顶级的思维？](https://toutiao.io/k/ulqvlcd) 
+- [【开发者头条】2022-09-13-推荐-微服务网关鉴权：gateway使用、网关限流使用、用户密码加密、JWT鉴权](https://toutiao.io/k/rdhhq5d) 
 - [【开发者头条】2022-09-13-推荐-公司40k招的架构师写的API网关选型总结，就是牛逼！](https://toutiao.io/k/kyi9yzt) 
 - [【开发者头条】2022-09-13-推荐-近期-yyds-的-GitHub-项目](https://toutiao.io/k/i1qkq4o) 
-- [【开发者头条】2022-09-13-推荐-微服务网关鉴权：gateway使用、网关限流使用、用户密码加密、JWT鉴权](https://toutiao.io/k/rdhhq5d) 
 - [【开发者头条】2022-09-13-推荐-SpringBoot-官方强烈推荐，连接池，太快了！](https://toutiao.io/k/zumxh7v) 
-- [【开发者头条】2022-09-13-推荐-什么是顶级的思维？](https://toutiao.io/k/ulqvlcd) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2022-09-13 17:36:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-13 18:19:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-09-13-求指点：-win10Pro，右键里没有“打开方式”](https://www.v2ex.com/t/879851) 
+- [2022-09-13-iPhone-12-升级-ios-16-续航尿崩](https://www.v2ex.com/t/879850) 
 - [2022-09-13-macOS-下-Edge-浏览器占用-CPU-的问题太严重，已换到-Chrome](https://www.v2ex.com/t/879849) 
 - [2022-09-13-openwrt-中运行-docker-版-clash](https://www.v2ex.com/t/879848) 
 - [2022-09-13-求推荐易支付平台](https://www.v2ex.com/t/879847) 
@@ -41,4 +43,3 @@
 - [2022-09-13-iOS16-没有之前的那些壁纸了吗？尤其是那些黑暗模式有特殊效果的](https://www.v2ex.com/t/879805) 
 - [2022-09-13-创建运行应用的-doker-容器最佳方法](https://www.v2ex.com/t/879804) 
 - [2022-09-13-南昌的程序员看过来](https://www.v2ex.com/t/879803) 
-- [2022-09-13-一款集文档-Wiki、在线语音、项目管理于一体的协同工具—妙记多-Mojidoc-正式开启内测⚡️⚡️⚡️，诚邀内测用户体验](https://www.v2ex.com/t/879800) 

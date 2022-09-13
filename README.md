@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-13 17:36:08，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-13 18:19:41，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-09-13-求指点：-win10Pro，右键里没有“打开方式”](https://www.v2ex.com/t/879851) ![](assets/new.png)  
+- [2022-09-13-iPhone-12-升级-ios-16-续航尿崩](https://www.v2ex.com/t/879850) ![](assets/new.png)  
 - [2022-09-13-macOS-下-Edge-浏览器占用-CPU-的问题太严重，已换到-Chrome](https://www.v2ex.com/t/879849) ![](assets/new.png)  
 - [2022-09-13-openwrt-中运行-docker-版-clash](https://www.v2ex.com/t/879848) ![](assets/new.png)  
 - [2022-09-13-求推荐易支付平台](https://www.v2ex.com/t/879847) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-09-13-晚上升级了-iOS16，语音输入依旧是键盘切换输入，需要配置么](https://www.v2ex.com/t/879831) ![](assets/new.png)  
 - [2022-09-13-杭州-golang-5-念后端求内推](https://www.v2ex.com/t/879829) ![](assets/new.png)  
 - [2022-09-13-Python-有什么方法可以检测是否连接无线网吗？](https://www.v2ex.com/t/879827) ![](assets/new.png)  
-- [2022-09-13-国行的-iPhone-是不是阉割了放大镜的功能?](https://www.v2ex.com/t/879826) ![](assets/new.png)  
-- [2022-09-13-Ubuntu-20.04-LTS-不定时死机，查询-journal-日志显示内核保护失败](https://www.v2ex.com/t/879823) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

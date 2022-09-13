@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-13 13:29:11，:rocket: 更新条数: +2034， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-13 14:08:40，:rocket: 更新条数: +2031， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-09-13-Ubuntu-20.04-LTS-不定时死机，查询-journal-日志显示内核保护失败](https://www.v2ex.com/t/879823) ![](assets/new.png)  
+- [2022-09-13-iOS-16-锁屏图片随机播放问题](https://www.v2ex.com/t/879822) ![](assets/new.png)  
+- [2022-09-13-这样的微信功能是如何实现的-加好友->-自动通过备注关键词->-发送关键词->-自动邀请进群](https://www.v2ex.com/t/879821) ![](assets/new.png)  
+- [2022-09-13-测试开发-/-自动化测试-求职-求指导](https://www.v2ex.com/t/879818) ![](assets/new.png)  
+- [2022-09-13-江湖救急，为啥我的代码提交不了，-git-毫无提示](https://www.v2ex.com/t/879816) ![](assets/new.png)  
+- [2022-09-13-联想电脑劫持用户浏览器首页，真恶心。电脑买来时还没劫持不知道啥时候被劫持了](https://www.v2ex.com/t/879815) ![](assets/new.png)  
 - [2022-09-13-请教大佬们一个问题，关于如何在-shell-脚本中使用-websocket-和一个-http-code-的问题](https://www.v2ex.com/t/879814) ![](assets/new.png)  
 - [2022-09-13-ss-local-的-socks5-连接是不是被阻断了？](https://www.v2ex.com/t/879813) ![](assets/new.png)  
 - [2022-09-13-iphone14-pro/-promax-现在-9.16-当天拿货的行情价是多少？](https://www.v2ex.com/t/879812) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-09-13-一款集文档-Wiki、在线语音、项目管理于一体的协同工具—妙记多-Mojidoc-正式开启内测⚡️⚡️⚡️，诚邀内测用户体验](https://www.v2ex.com/t/879800) ![](assets/new.png)  
 - [2022-09-13-老家建轻钢别墅](https://www.v2ex.com/t/879798) ![](assets/new.png)  
 - [2022-09-13-程序员靠纯技术能渡过中年危机吗？](https://www.v2ex.com/t/879797) ![](assets/new.png)  
-- [2022-09-13-有没有什么文字转语音的工具呀？](https://www.v2ex.com/t/879796) ![](assets/new.png)  
-- [2022-09-13-国内有没有好用的无代码开发平台](https://www.v2ex.com/t/879795) ![](assets/new.png)  
-- [2022-09-13-求助-macbook-+-airpodspro，语音有电流音](https://www.v2ex.com/t/879794) ![](assets/new.png)  
-- [2022-09-13-小白问个问题哈，如果手机支持-esim-卡了，所有运营商也支持了，那一个手机不是可以绑定很多张卡？](https://www.v2ex.com/t/879793) ![](assets/new.png)  
-- [2022-09-13-Web3-招聘：区块链开发专家-base-新加坡（提供签证）-60-100-万](https://www.v2ex.com/t/879790) ![](assets/new.png)  
-- [2022-09-13-Telegram-验证码相关](https://www.v2ex.com/t/879789) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -569,8 +569,8 @@
 - [2022-09-13-整洁架构之CSS](https://toutiao.io/k/gc3sqtn) ![](assets/new.png)  
 - [2022-09-13-揭秘前端眼中的Rust！](https://toutiao.io/k/s978f59) ![](assets/new.png)  
 - [2022-09-13-详解JavaScript中的Event-Loop（事件循环）机制](https://toutiao.io/k/3mxx1xo) ![](assets/new.png)  
-- [2022-09-13-【第2728期】网易云音乐的前端基础设施是如何优雅地走向统一的](https://toutiao.io/k/dw6g3vi) ![](assets/new.png)  
 - [2022-09-13-关于"linux能力"的两个特殊案例](https://toutiao.io/k/wj4ggd9) ![](assets/new.png)  
+- [2022-09-13-【第2728期】网易云音乐的前端基础设施是如何优雅地走向统一的](https://toutiao.io/k/dw6g3vi) ![](assets/new.png)  
 - [2022-09-13-vivo-全球商城：电商平台通用取货码设计](https://toutiao.io/k/ekzsfsc) ![](assets/new.png)  
 - [2022-09-13-书单-|-中秋节啦，来点儿轻松有趣的书吧~~](https://toutiao.io/k/he9vi9u) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)

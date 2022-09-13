@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-09-13 13:29:12。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-13 14:08:40。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -71,7 +71,6 @@
 
 
 
-- [【V2EX】写了一个很简单的，没有运行时依赖的对接三方登录的-typescript-库。](https://www.v2ex.com/t/879772)
 - [【开发者头条】2022-年了，我才开始学-TypeScript-，晚吗？（7.5k字总结）](https://toutiao.io/k/7ppg48s)
 - [......【查看更多】......](./details/tags/typescript.md)
 
@@ -280,9 +279,9 @@
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
 - [【张鑫旭-鑫空间-鑫生活】基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/)
+- [【V2EX】联想电脑劫持用户浏览器首页，真恶心。电脑买来时还没劫持不知道啥时候被劫持了](https://www.v2ex.com/t/879815)
 - [【V2EX】请教大佬们一个问题，关于如何在-shell-脚本中使用-websocket-和一个-http-code-的问题](https://www.v2ex.com/t/879814)
 - [【V2EX】iOS16-的快捷指令中的-HTTP-请求，返回的中文有都是乱码，你们有碰到吗](https://www.v2ex.com/t/879782)
-- [【V2EX】Telegram-Client-with-go](https://www.v2ex.com/t/879765)
 - [【开发者头条】干货-｜超详细安全知识框架推荐](https://toutiao.io/k/mwvgraj)
 - [......【查看更多】......](./details/tags/browser.md)
 
@@ -335,6 +334,7 @@
 
 
 - [【张鑫旭-鑫空间-鑫生活】gitee上撸了个类似飞书OKR输入框的@提及项目](https://www.zhangxinxu.com/wordpress/2022/08/gitee-feishu-okr-at-mention/)
+- [【V2EX】江湖救急，为啥我的代码提交不了，-git-毫无提示](https://www.v2ex.com/t/879816)
 - [【开发者头条】推荐-近期-yyds-的-GitHub-项目](https://toutiao.io/k/i1qkq4o)
 - [......【查看更多】......](./details/tags/git-svn.md)
 

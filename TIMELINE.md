@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-13 13:29:12。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-09-13 14:08:40。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,12 @@
 </summary>
 
 
+- [【V2EX】2022-09-13-Ubuntu-20.04-LTS-不定时死机，查询-journal-日志显示内核保护失败](https://www.v2ex.com/t/879823) 
+- [【V2EX】2022-09-13-iOS-16-锁屏图片随机播放问题](https://www.v2ex.com/t/879822) 
+- [【V2EX】2022-09-13-这样的微信功能是如何实现的-加好友->-自动通过备注关键词->-发送关键词->-自动邀请进群](https://www.v2ex.com/t/879821) 
+- [【V2EX】2022-09-13-测试开发-/-自动化测试-求职-求指导](https://www.v2ex.com/t/879818) 
+- [【V2EX】2022-09-13-江湖救急，为啥我的代码提交不了，-git-毫无提示](https://www.v2ex.com/t/879816) 
+- [【V2EX】2022-09-13-联想电脑劫持用户浏览器首页，真恶心。电脑买来时还没劫持不知道啥时候被劫持了](https://www.v2ex.com/t/879815) 
 - [【V2EX】2022-09-13-请教大佬们一个问题，关于如何在-shell-脚本中使用-websocket-和一个-http-code-的问题](https://www.v2ex.com/t/879814) 
 - [【V2EX】2022-09-13-ss-local-的-socks5-连接是不是被阻断了？](https://www.v2ex.com/t/879813) 
 - [【V2EX】2022-09-13-iphone14-pro/-promax-现在-9.16-当天拿货的行情价是多少？](https://www.v2ex.com/t/879812) 
@@ -102,15 +108,6 @@
 - [【V2EX】2022-09-13-问一下有关多对多关系查询的问题](https://www.v2ex.com/t/879777) 
 - [【V2EX】2022-09-13-今年怎么回事啊！在家投了快-10-个了，大多数回应都没有！](https://www.v2ex.com/t/879776) 
 - [【V2EX】2022-09-13-Mac-的-MDM-设备注册-审查权限会跨账户么](https://www.v2ex.com/t/879775) 
-- [【V2EX】2022-09-13-1500T-网盘空间压缩为-1G，利用秒传书库自建本地私人图书馆，可测试数据免费下载电子书](https://www.v2ex.com/t/879774) 
-- [【V2EX】2022-09-13-汇报下在酷工作里找工作的结果](https://www.v2ex.com/t/879773) 
-- [【V2EX】2022-09-13-写了一个很简单的，没有运行时依赖的对接三方登录的-typescript-库。](https://www.v2ex.com/t/879772) 
-- [【V2EX】2022-09-13-你们的-watch-微信难到不卡么不延迟么？](https://www.v2ex.com/t/879770) 
-- [【V2EX】2022-09-13-微信文件传输助手会不会上传并保存文本类信息？](https://www.v2ex.com/t/879769) 
-- [【V2EX】2022-09-13-请问有没有类似-TextNow-收短信的-APP、网站?](https://www.v2ex.com/t/879768) 
-- [【V2EX】2022-09-13-境内服务器涉及海外业务，需要使用海外代理-IP，求方案推荐](https://www.v2ex.com/t/879767) 
-- [【V2EX】2022-09-13-14-寸-M1-Pro，每次重启后都无法打开微信](https://www.v2ex.com/t/879766) 
-- [【V2EX】2022-09-13-Telegram-Client-with-go](https://www.v2ex.com/t/879765) 
 - [【技术头条】2022-09-13-探索原味BFF模式-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15393&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fbff-history%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-13-ARouter-迁移到-TheRouter-使用感受-juejin.cn](https://blogread.cn/news/go.php?idItem=15392&url=https%3A%2F%2Fjuejin.cn%2Fpost%2F7142687645980688397%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-13-智能搜索模型预估框架Augur的建设与实践-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15391&url=https%3A%2F%2Ftech.meituan.com%2F2020%2F07%2F16%2Faugur-in-meituan-nlp.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -147,15 +144,15 @@
 - [【开发者头条】2022-09-13-整洁架构之CSS](https://toutiao.io/k/gc3sqtn) 
 - [【开发者头条】2022-09-13-揭秘前端眼中的Rust！](https://toutiao.io/k/s978f59) 
 - [【开发者头条】2022-09-13-详解JavaScript中的Event-Loop（事件循环）机制](https://toutiao.io/k/3mxx1xo) 
-- [【开发者头条】2022-09-13-【第2728期】网易云音乐的前端基础设施是如何优雅地走向统一的](https://toutiao.io/k/dw6g3vi) 
 - [【开发者头条】2022-09-13-关于"linux能力"的两个特殊案例](https://toutiao.io/k/wj4ggd9) 
+- [【开发者头条】2022-09-13-【第2728期】网易云音乐的前端基础设施是如何优雅地走向统一的](https://toutiao.io/k/dw6g3vi) 
 - [【开发者头条】2022-09-13-vivo-全球商城：电商平台通用取货码设计](https://toutiao.io/k/ekzsfsc) 
 - [【开发者头条】2022-09-13-书单-|-中秋节啦，来点儿轻松有趣的书吧~~](https://toutiao.io/k/he9vi9u) 
-- [【开发者头条】2022-09-13-推荐-微服务网关鉴权：gateway使用、网关限流使用、用户密码加密、JWT鉴权](https://toutiao.io/k/rdhhq5d) 
-- [【开发者头条】2022-09-13-推荐-近期-yyds-的-GitHub-项目](https://toutiao.io/k/i1qkq4o) 
-- [【开发者头条】2022-09-13-推荐-SpringBoot-官方强烈推荐，连接池，太快了！](https://toutiao.io/k/zumxh7v) 
-- [【开发者头条】2022-09-13-推荐-公司40k招的架构师写的API网关选型总结，就是牛逼！](https://toutiao.io/k/kyi9yzt) 
 - [【开发者头条】2022-09-13-推荐-什么是顶级的思维？](https://toutiao.io/k/ulqvlcd) 
+- [【开发者头条】2022-09-13-推荐-近期-yyds-的-GitHub-项目](https://toutiao.io/k/i1qkq4o) 
+- [【开发者头条】2022-09-13-推荐-公司40k招的架构师写的API网关选型总结，就是牛逼！](https://toutiao.io/k/kyi9yzt) 
+- [【开发者头条】2022-09-13-推荐-SpringBoot-官方强烈推荐，连接池，太快了！](https://toutiao.io/k/zumxh7v) 
+- [【开发者头条】2022-09-13-推荐-微服务网关鉴权：gateway使用、网关限流使用、用户密码加密、JWT鉴权](https://toutiao.io/k/rdhhq5d) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

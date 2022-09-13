@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-13 15:16:29，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-13 15:48:20，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,12 +491,18 @@
 </summary>
 
 
+- [2022-09-13-亲戚花了-42-万找本市一个公司做了-Discuz-手机模板](https://www.v2ex.com/t/879840) ![](assets/new.png)  
+- [2022-09-13-有人在-trustdata-工作吗](https://www.v2ex.com/t/879838) ![](assets/new.png)  
+- [2022-09-13-租房-上海安亭创新港附近](https://www.v2ex.com/t/879837) ![](assets/new.png)  
+- [2022-09-13-有小伙伴问我-SDB-的锁模型，我重新梳理了一下](https://www.v2ex.com/t/879836) ![](assets/new.png)  
+- [2022-09-13-有没有数字通信原理（李白萍）的课件-PPT-啊？](https://www.v2ex.com/t/879835) ![](assets/new.png)  
+- [2022-09-13-The-Legend-of-Zelda:-Tears-of-the-Kingdom](https://www.v2ex.com/t/879834) ![](assets/new.png)  
+- [2022-09-13-暑假撸的博客，请大佬们提提意见，谢谢。](https://www.v2ex.com/t/879833) ![](assets/new.png)  
+- [2022-09-13-如果有-10W-元用于消费，大家会用来做什么？](https://www.v2ex.com/t/879832) ![](assets/new.png)  
 - [2022-09-13-晚上升级了-iOS16，语音输入依旧是键盘切换输入，需要配置么](https://www.v2ex.com/t/879831) ![](assets/new.png)  
-- [2022-09-13-Mac-Sruge-5-人车](https://www.v2ex.com/t/879830) ![](assets/new.png)  
 - [2022-09-13-杭州-golang-5-念后端求内推](https://www.v2ex.com/t/879829) ![](assets/new.png)  
 - [2022-09-13-Python-有什么方法可以检测是否连接无线网吗？](https://www.v2ex.com/t/879827) ![](assets/new.png)  
 - [2022-09-13-国行的-iPhone-是不是阉割了放大镜的功能?](https://www.v2ex.com/t/879826) ![](assets/new.png)  
-- [2022-09-13-看到两件事情感觉很压抑](https://www.v2ex.com/t/879825) ![](assets/new.png)  
 - [2022-09-13-Ubuntu-20.04-LTS-不定时死机，查询-journal-日志显示内核保护失败](https://www.v2ex.com/t/879823) ![](assets/new.png)  
 - [2022-09-13-iOS-16-锁屏图片随机播放问题](https://www.v2ex.com/t/879822) ![](assets/new.png)  
 - [2022-09-13-这样的微信功能是如何实现的-加好友->-自动通过备注关键词->-发送关键词->-自动邀请进群](https://www.v2ex.com/t/879821) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-09-13-联想电脑劫持用户浏览器首页，真恶心。电脑买来时还没劫持不知道啥时候被劫持了](https://www.v2ex.com/t/879815) ![](assets/new.png)  
 - [2022-09-13-请教大佬们一个问题，关于如何在-shell-脚本中使用-websocket-和一个-http-code-的问题](https://www.v2ex.com/t/879814) ![](assets/new.png)  
 - [2022-09-13-ss-local-的-socks5-连接是不是被阻断了？](https://www.v2ex.com/t/879813) ![](assets/new.png)  
-- [2022-09-13-iphone14-pro/-promax-现在-9.16-当天拿货的行情价是多少？](https://www.v2ex.com/t/879812) ![](assets/new.png)  
-- [2022-09-13-分支-merge-了很多次，怎么从里面挑选出我自己的-commit？](https://www.v2ex.com/t/879810) ![](assets/new.png)  
-- [2022-09-13-想起了和-PZ-的斗智斗勇](https://www.v2ex.com/t/879809) ![](assets/new.png)  
-- [2022-09-13-后续来了](https://www.v2ex.com/t/879808) ![](assets/new.png)  
-- [2022-09-13-无聊的起源?](https://www.v2ex.com/t/879807) ![](assets/new.png)  
-- [2022-09-13-请问本代-iPhone-评测解禁是什么时候呀](https://www.v2ex.com/t/879806) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -522,6 +522,11 @@
 </summary>
 
 
+- [2022-09-13-图技术在美团外卖下的场景化应用及探索-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15398&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F09%2F08%2Fgnn-scenariomodeling-subgraphextend-jointtraining.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-09-13-TLS指纹分析研究（上）-blog.nsfocus.net](https://blogread.cn/news/go.php?idItem=15397&url=http%3A%2F%2Fblog.nsfocus.net%2Ftls1-0%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-09-13-Unix-历史：一个伟大作品的诞生-linux.cn](https://blogread.cn/news/go.php?idItem=15396&url=https%3A%2F%2Flinux.cn%2Farticle-15024-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-09-13-GraphQL及元数据驱动架构在后端BFF中的实践-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15395&url=https%3A%2F%2Ftech.meituan.com%2F2021%2F05%2F06%2Fbff-graphql.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-09-13-提升资源利用率与保障服务质量，鱼与熊掌不可兼得？-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15394&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F08%2F11%2Fload-auto-regulator.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-09-13-探索原味BFF模式-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15393&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fbff-history%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-09-13-ARouter-迁移到-TheRouter-使用感受-juejin.cn](https://blogread.cn/news/go.php?idItem=15392&url=https%3A%2F%2Fjuejin.cn%2Fpost%2F7142687645980688397%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-09-13-智能搜索模型预估框架Augur的建设与实践-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15391&url=https%3A%2F%2Ftech.meituan.com%2F2020%2F07%2F16%2Faugur-in-meituan-nlp.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
@@ -537,11 +542,6 @@
 - [2022-09-13-Android-DeepLink介绍与使用-cloud.tencent.com](https://blogread.cn/news/go.php?idItem=15381&url=https%3A%2F%2Fcloud.tencent.com%2Fdeveloper%2Farticle%2F1368263%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-09-13-一文读懂深度链接deep-linking-mktbee.com](https://blogread.cn/news/go.php?idItem=15380&url=https%3A%2F%2Fmktbee.com%2F318.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-09-13-被误解的Event-Sourcing-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15379&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-use-event-sourcing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-09-13-向量数据库入坑指南：聊聊来自元宇宙大厂-Meta-的相似度检索技术-Faiss-soulteary.com](https://blogread.cn/news/go.php?idItem=15378&url=https%3A%2F%2Fsoulteary.com%2F2022%2F09%2F03%2Fvector-database-guide-talk-about-the-similarity-retrieval-technology-from-metaverse-big-company-faiss.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-09-13-啊哈，一道有趣的Go并发题-colobu.com](https://blogread.cn/news/go.php?idItem=15377&url=https%3A%2F%2Fcolobu.com%2F2022%2F09%2F01%2Ffizzbuzz-in-go%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-09-13-Replication（下）：事务，一致性与共识-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15376&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F08%2F25%2Freplication-in-meituan-02.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-09-13-Replication（上）：常见复制模型&分布式系统挑战-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15375&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F08%2F25%2Freplication-in-meituan-01.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-09-13-路网中路径的储存-blog.codingnow.com](https://blogread.cn/news/go.php?idItem=15374&url=https%3A%2F%2Fblog.codingnow.com%2F2022%2F09%2Froutemap.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

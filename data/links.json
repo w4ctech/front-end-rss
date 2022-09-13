@@ -9953,13 +9953,48 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
-        "title": "晚上升级了 iOS16，语音输入依旧是键盘切换输入，需要配置么",
-        "link": "https://www.v2ex.com/t/879831",
+        "title": "亲戚花了 42 万找本市一个公司做了 Discuz 手机模板",
+        "link": "https://www.v2ex.com/t/879840",
         "date": "2022-09-13"
       },
       {
-        "title": "Mac Sruge 5 人车",
-        "link": "https://www.v2ex.com/t/879830",
+        "title": "有人在 trustdata 工作吗",
+        "link": "https://www.v2ex.com/t/879838",
+        "date": "2022-09-13"
+      },
+      {
+        "title": "[租房] 上海安亭创新港附近",
+        "link": "https://www.v2ex.com/t/879837",
+        "date": "2022-09-13"
+      },
+      {
+        "title": "有小伙伴问我 SDB 的锁模型，我重新梳理了一下",
+        "link": "https://www.v2ex.com/t/879836",
+        "date": "2022-09-13"
+      },
+      {
+        "title": "有没有数字通信原理（李白萍）的课件 PPT 啊？",
+        "link": "https://www.v2ex.com/t/879835",
+        "date": "2022-09-13"
+      },
+      {
+        "title": "The Legend of Zelda: Tears of the Kingdom",
+        "link": "https://www.v2ex.com/t/879834",
+        "date": "2022-09-13"
+      },
+      {
+        "title": "暑假撸的博客，请大佬们提提意见，谢谢。",
+        "link": "https://www.v2ex.com/t/879833",
+        "date": "2022-09-13"
+      },
+      {
+        "title": "如果有 10W 元用于消费，大家会用来做什么？",
+        "link": "https://www.v2ex.com/t/879832",
+        "date": "2022-09-13"
+      },
+      {
+        "title": "晚上升级了 iOS16，语音输入依旧是键盘切换输入，需要配置么",
+        "link": "https://www.v2ex.com/t/879831",
         "date": "2022-09-13"
       },
       {
@@ -9975,11 +10010,6 @@
       {
         "title": "国行的 iPhone 是不是阉割了放大镜的功能?",
         "link": "https://www.v2ex.com/t/879826",
-        "date": "2022-09-13"
-      },
-      {
-        "title": "看到两件事情感觉很压抑",
-        "link": "https://www.v2ex.com/t/879825",
         "date": "2022-09-13"
       },
       {
@@ -10101,51 +10131,6 @@
         "title": "小白问个问题哈，如果手机支持 esim 卡了，所有运营商也支持了，那一个手机不是可以绑定很多张卡？",
         "link": "https://www.v2ex.com/t/879793",
         "date": "2022-09-13"
-      },
-      {
-        "title": "Web3 招聘：区块链开发专家-base 新加坡（提供签证）-60-100 万",
-        "link": "https://www.v2ex.com/t/879790",
-        "date": "2022-09-13"
-      },
-      {
-        "title": "Telegram 验证码相关",
-        "link": "https://www.v2ex.com/t/879789",
-        "date": "2022-09-13"
-      },
-      {
-        "title": "微软现在也滥用纸面发布了。。",
-        "link": "https://www.v2ex.com/t/879788",
-        "date": "2022-09-13"
-      },
-      {
-        "title": "要不要现在申请新的 MBP",
-        "link": "https://www.v2ex.com/t/879787",
-        "date": "2022-09-13"
-      },
-      {
-        "title": "分享一个可以自部署的聊天全栈系统",
-        "link": "https://www.v2ex.com/t/879786",
-        "date": "2022-09-13"
-      },
-      {
-        "title": "欧服怀旧巫妖王，有一起搞的吗？",
-        "link": "https://www.v2ex.com/t/879785",
-        "date": "2022-09-13"
-      },
-      {
-        "title": "iOS16 邮件 App 一直正在检查",
-        "link": "https://www.v2ex.com/t/879784",
-        "date": "2022-09-13"
-      },
-      {
-        "title": "北方确实不要用电信",
-        "link": "https://www.v2ex.com/t/879783",
-        "date": "2022-09-13"
-      },
-      {
-        "title": "iOS16 的快捷指令中的 HTTP 请求，返回的中文有都是乱码，你们有碰到吗",
-        "link": "https://www.v2ex.com/t/879782",
-        "date": "2022-09-13"
       }
     ]
   },
@@ -10154,6 +10139,31 @@
     "title": "技术头条",
     "link": "http://blogread.cn/news/newest.php",
     "items": [
+      {
+        "title": "图技术在美团外卖下的场景化应用及探索 (tech.meituan.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=15398&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F09%2F08%2Fgnn-scenariomodeling-subgraphextend-jointtraining.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2022-09-13"
+      },
+      {
+        "title": "TLS指纹分析研究（上） (blog.nsfocus.net)",
+        "link": "https://blogread.cn/news/go.php?idItem=15397&url=http%3A%2F%2Fblog.nsfocus.net%2Ftls1-0%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2022-09-13"
+      },
+      {
+        "title": "Unix 历史：一个伟大作品的诞生 (linux.cn)",
+        "link": "https://blogread.cn/news/go.php?idItem=15396&url=https%3A%2F%2Flinux.cn%2Farticle-15024-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2022-09-13"
+      },
+      {
+        "title": "GraphQL及元数据驱动架构在后端BFF中的实践 (tech.meituan.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=15395&url=https%3A%2F%2Ftech.meituan.com%2F2021%2F05%2F06%2Fbff-graphql.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2022-09-13"
+      },
+      {
+        "title": "提升资源利用率与保障服务质量，鱼与熊掌不可兼得？ (tech.meituan.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=15394&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F08%2F11%2Fload-auto-regulator.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2022-09-13"
+      },
       {
         "title": "探索原味BFF模式 (insights.thoughtworks.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=15393&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fbff-history%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
@@ -10227,31 +10237,6 @@
       {
         "title": "被误解的Event Sourcing (insights.thoughtworks.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=15379&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-use-event-sourcing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-09-13"
-      },
-      {
-        "title": "向量数据库入坑指南：聊聊来自元宇宙大厂 Meta 的相似度检索技术 Faiss (soulteary.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=15378&url=https%3A%2F%2Fsoulteary.com%2F2022%2F09%2F03%2Fvector-database-guide-talk-about-the-similarity-retrieval-technology-from-metaverse-big-company-faiss.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-09-13"
-      },
-      {
-        "title": "啊哈，一道有趣的Go并发题 (colobu.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=15377&url=https%3A%2F%2Fcolobu.com%2F2022%2F09%2F01%2Ffizzbuzz-in-go%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-09-13"
-      },
-      {
-        "title": "Replication（下）：事务，一致性与共识 (tech.meituan.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=15376&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F08%2F25%2Freplication-in-meituan-02.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-09-13"
-      },
-      {
-        "title": "Replication（上）：常见复制模型&分布式系统挑战 (tech.meituan.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=15375&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F08%2F25%2Freplication-in-meituan-01.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-09-13"
-      },
-      {
-        "title": "路网中路径的储存 (blog.codingnow.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=15374&url=https%3A%2F%2Fblog.codingnow.com%2F2022%2F09%2Froutemap.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
         "date": "2022-09-13"
       }
     ]
@@ -10367,6 +10352,11 @@
         "date": "2022-09-13"
       },
       {
+        "title": "[推荐] SpringBoot 官方强烈推荐，连接池，太快了！",
+        "link": "https://toutiao.io/k/zumxh7v",
+        "date": "2022-09-13"
+      },
+      {
         "title": "[推荐] 什么是顶级的思维？",
         "link": "https://toutiao.io/k/ulqvlcd",
         "date": "2022-09-13"
@@ -10379,11 +10369,6 @@
       {
         "title": "[推荐] 近期 yyds 的 GitHub 项目",
         "link": "https://toutiao.io/k/i1qkq4o",
-        "date": "2022-09-13"
-      },
-      {
-        "title": "[推荐] SpringBoot 官方强烈推荐，连接池，太快了！",
-        "link": "https://toutiao.io/k/zumxh7v",
         "date": "2022-09-13"
       }
     ]

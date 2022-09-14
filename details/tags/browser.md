@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-14 08:52:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-14 09:17:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -18,8 +18,6 @@
 - [2022-09-14-现在不支持-TLS-1.3-的浏览器用户数占比<0.5%了吗？打算配置网站只支持-TLS-1.3。](https://www.v2ex.com/t/879995) 
 - [2022-09-14-GetResultsXXXListUpdate，看到这个方法名，你第一时间会认为他是什么动作？](https://www.v2ex.com/t/879993) 
 - [2022-09-14-Chrome-和-Edge-浏览器的翻译怎么天天出现-断续器-这个字眼？](https://www.v2ex.com/t/879991) 
-- [2022-09-14-有没有人知道-chrome-最近更新了啥，-debug-断点后鼠标悬停不再出现参数预览了](https://www.v2ex.com/t/879985) 
-- [2022-09-14-「网络安全专业」，大专，就业方向如何？](https://www.v2ex.com/t/879981) 
 - [2022-09-14-Istio-服务网格-ambient-模式安全详解](https://toutiao.io/k/tf5hb27) 
 - [2022-09-14-一个科技平台型企业的网络安全建设心得｜科技创新型企业专刊·安全村](https://toutiao.io/k/8weabaq) 
 - [2022-09-14-缓存和数据库一致性问题，看这篇就够了](https://toutiao.io/k/qjqpgy8) 

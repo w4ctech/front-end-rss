@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-14 08:52:28，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-14 09:17:35，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,13 @@
 </summary>
 
 
+- [2022-09-14-WWDC-发布-macOS-Ventura-的时候展示使用手机摄像头的支架在哪里可以买到？](https://www.v2ex.com/t/880037) ![](assets/new.png)  
+- [2022-09-14-golang-有没轻量级的配置中心？](https://www.v2ex.com/t/880036) ![](assets/new.png)  
+- [2022-09-14-公司邮箱迁移到腾讯企业邮，之前基于-exchangelib-的自动化工具都不能用了](https://www.v2ex.com/t/880035) ![](assets/new.png)  
+- [2022-09-14-分享一下最近新写的-Web-API-框架](https://www.v2ex.com/t/880033) ![](assets/new.png)  
+- [2022-09-14-网址被阻断跳转到百度智能云，求解？](https://www.v2ex.com/t/880032) ![](assets/new.png)  
+- [2022-09-14-有哪些文字转语音的直链](https://www.v2ex.com/t/880031) ![](assets/new.png)  
+- [2022-09-14-从-Google-相册迁移到-Synology-Photos-有没有需要注意的点](https://www.v2ex.com/t/880029) ![](assets/new.png)  
 - [2022-09-14-今年应届生就业情况咋样？后端，-211-硕](https://www.v2ex.com/t/880028) ![](assets/new.png)  
 - [2022-09-14-反编译安卓-APK-寻找加密算法，有大神指点一下吗？](https://www.v2ex.com/t/880027) ![](assets/new.png)  
 - [2022-09-14-兄弟们的-wireguard-在手机上使用体验好吗？](https://www.v2ex.com/t/880026) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-09-14-Gitee-貌似出问题了](https://www.v2ex.com/t/880014) ![](assets/new.png)  
 - [2022-09-14-fire-有人研究吗？](https://www.v2ex.com/t/880013) ![](assets/new.png)  
 - [2022-09-14-新到手的-airpods2-怎么电池循环计数？-就像-mac-一样](https://www.v2ex.com/t/880011) ![](assets/new.png)  
-- [2022-09-14-美国芯片很厉害，为何-Android-品牌很少？](https://www.v2ex.com/t/880010) ![](assets/new.png)  
-- [2022-09-14-请问苹果电脑中安全性与隐私的软件残留如何清理](https://www.v2ex.com/t/880009) ![](assets/new.png)  
-- [2022-09-14-IOS16-共享图库没有放出吗？我只看到共享相册](https://www.v2ex.com/t/880008) ![](assets/new.png)  
-- [2022-09-14-Gitee-的运维，你们别没事儿折腾开源项目了，你家服务挂了](https://www.v2ex.com/t/880006) ![](assets/new.png)  
-- [2022-09-14-最终还是来到自己身上，创业公司降薪换期权讨论](https://www.v2ex.com/t/880005) ![](assets/new.png)  
-- [2022-09-14-Google-登录时需要手机验证，可以随便用个手机（接码平台）验证吗？还是会绑定手机？](https://www.v2ex.com/t/880004) ![](assets/new.png)  
-- [2022-09-14-android-下视频解码，是否可以获取解码之后的-rgb-图像？](https://www.v2ex.com/t/880003) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -571,8 +571,8 @@
 - [2022-09-14-一个科技平台型企业的网络安全建设心得｜科技创新型企业专刊·安全村](https://toutiao.io/k/8weabaq) ![](assets/new.png)  
 - [2022-09-14-缓存和数据库一致性问题，看这篇就够了](https://toutiao.io/k/qjqpgy8) ![](assets/new.png)  
 - [2022-09-14-我有-7-种实现-Web-实时消息推送的方案，7种！](https://toutiao.io/k/ciew6jm) ![](assets/new.png)  
-- [2022-09-14-推荐-公司40k招的架构师写的API网关选型总结，就是牛逼！](https://toutiao.io/k/kyi9yzt) ![](assets/new.png)  
 - [2022-09-14-推荐-常见分布式系统设计图解](https://toutiao.io/k/osewvaz) ![](assets/new.png)  
+- [2022-09-14-推荐-微服务网关鉴权：gateway使用、网关限流使用、用户密码加密、JWT鉴权](https://toutiao.io/k/rdhhq5d) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

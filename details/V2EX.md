@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-14 17:05:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-14 17:50:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -43,4 +43,3 @@
 - [2022-09-14-要不要读个非全日制的研究生？](https://www.v2ex.com/t/880071) 
 - [2022-09-14-RouterOS-获取到-IPv6-prefix-之后，-1-天之后就会失效](https://www.v2ex.com/t/880070) 
 - [2022-09-14-观近-20-年国内各城市-GDP-走势的小发现](https://www.v2ex.com/t/880069) 
-- [2022-09-14-为啥-mac-studio-的键盘设置里会有-touchbar？](https://www.v2ex.com/t/880066) 

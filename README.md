@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-14 09:46:18，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-14 10:17:24，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-09-14-出两块-京东京造-1T-麒麟-固态硬盘-包邮-闲鱼交易](https://www.v2ex.com/t/880054) ![](assets/new.png)  
+- [2022-09-14-Git-有办法实现在往某些源-push-时排除几个文件或是替换一些关键词吗？](https://www.v2ex.com/t/880053) ![](assets/new.png)  
+- [2022-09-14-在公司电脑创建加密虚拟硬盘（veracrypt-或者-bitlocker），删除加密虚拟硬盘里的文件是否能被恢复？](https://www.v2ex.com/t/880052) ![](assets/new.png)  
+- [2022-09-14-iOS-16-怎么添加了个开发者模式，让人迷惑](https://www.v2ex.com/t/880051) ![](assets/new.png)  
+- [2022-09-14-有没有前辈们科普一下：-V-站是为何被屏蔽的?](https://www.v2ex.com/t/880050) ![](assets/new.png)  
+- [2022-09-14-为什么-App-Store-里的已购项目只能隐藏不能删除？](https://www.v2ex.com/t/880049) ![](assets/new.png)  
 - [2022-09-14-大家一般用什么来看剧-？](https://www.v2ex.com/t/880047) ![](assets/new.png)  
 - [2022-09-14-国内还有哪些类似于-jsdelivr-免费的-cdn-服务啊？](https://www.v2ex.com/t/880044) ![](assets/new.png)  
 - [2022-09-14-舞蹈动作的教学中，正面背面演示各有优缺点，有办法合并吗？](https://www.v2ex.com/t/880043) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-09-14-有哪些文字转语音的直链](https://www.v2ex.com/t/880031) ![](assets/new.png)  
 - [2022-09-14-从-Google-相册迁移到-Synology-Photos-有没有需要注意的点](https://www.v2ex.com/t/880029) ![](assets/new.png)  
 - [2022-09-14-今年应届生就业情况咋样？后端，-211-硕](https://www.v2ex.com/t/880028) ![](assets/new.png)  
-- [2022-09-14-反编译安卓-APK-寻找加密算法，有大神指点一下吗？](https://www.v2ex.com/t/880027) ![](assets/new.png)  
-- [2022-09-14-兄弟们的-wireguard-在手机上使用体验好吗？](https://www.v2ex.com/t/880026) ![](assets/new.png)  
-- [2022-09-14-21-款-macbook-pro-m1-版问题，大家有这个问题吗](https://www.v2ex.com/t/880025) ![](assets/new.png)  
-- [2022-09-14-为什么-iPad-的通知推送比-iPhone-的还要慢很多](https://www.v2ex.com/t/880022) ![](assets/new.png)  
-- [2022-09-14-离职调整一年之后，明天有一个电话面试，第一次电脑面试应该注意什么，？](https://www.v2ex.com/t/880021) ![](assets/new.png)  
-- [2022-09-14-用什么设备-可以比较还原的录下噪声呢？](https://www.v2ex.com/t/880020) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -571,7 +571,7 @@
 - [2022-09-14-一个科技平台型企业的网络安全建设心得｜科技创新型企业专刊·安全村](https://toutiao.io/k/8weabaq) ![](assets/new.png)  
 - [2022-09-14-缓存和数据库一致性问题，看这篇就够了](https://toutiao.io/k/qjqpgy8) ![](assets/new.png)  
 - [2022-09-14-我有-7-种实现-Web-实时消息推送的方案，7种！](https://toutiao.io/k/ciew6jm) ![](assets/new.png)  
-- [2022-09-14-推荐-微服务网关鉴权：gateway使用、网关限流使用、用户密码加密、JWT鉴权](https://toutiao.io/k/rdhhq5d) ![](assets/new.png)  
+- [2022-09-14-推荐-公司40k招的架构师写的API网关选型总结，就是牛逼！](https://toutiao.io/k/kyi9yzt) ![](assets/new.png)  
 - [2022-09-14-推荐-近期-yyds-的-GitHub-项目](https://toutiao.io/k/i1qkq4o) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

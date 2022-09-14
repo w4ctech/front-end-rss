@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-14 09:46:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-14 10:17:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Canvas、SVG、图像
 
@@ -6,5 +6,3 @@
 > 关键字：`Canvas`、`SVG`、`WebGL`、`3D`、`PNG`、`WebP`、`RGB`、`GUI`
 
 
-
-- [2022-09-14-android-下视频解码，是否可以获取解码之后的-rgb-图像？](https://www.v2ex.com/t/880003) 

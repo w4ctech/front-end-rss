@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-09-14 10:17:24。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-14 10:47:05。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -336,7 +336,6 @@
 - [【张鑫旭-鑫空间-鑫生活】gitee上撸了个类似飞书OKR输入框的@提及项目](https://www.zhangxinxu.com/wordpress/2022/08/gitee-feishu-okr-at-mention/)
 - [【V2EX】Git-有办法实现在往某些源-push-时排除几个文件或是替换一些关键词吗？](https://www.v2ex.com/t/880053)
 - [【V2EX】Gitee-貌似出问题了](https://www.v2ex.com/t/880014)
-- [【V2EX】Gitee-的运维，你们别没事儿折腾开源项目了，你家服务挂了](https://www.v2ex.com/t/880006)
 - [【开发者头条】推荐-近期-yyds-的-GitHub-项目](https://toutiao.io/k/i1qkq4o)
 - [......【查看更多】......](./details/tags/git-svn.md)
 

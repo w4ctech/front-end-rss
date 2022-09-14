@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-14 08:19:10。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-09-14 08:52:28。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,20 @@
 </summary>
 
 
+- [【V2EX】2022-09-14-今年应届生就业情况咋样？后端，-211-硕](https://www.v2ex.com/t/880028) 
+- [【V2EX】2022-09-14-反编译安卓-APK-寻找加密算法，有大神指点一下吗？](https://www.v2ex.com/t/880027) 
+- [【V2EX】2022-09-14-兄弟们的-wireguard-在手机上使用体验好吗？](https://www.v2ex.com/t/880026) 
+- [【V2EX】2022-09-14-21-款-macbook-pro-m1-版问题，大家有这个问题吗](https://www.v2ex.com/t/880025) 
+- [【V2EX】2022-09-14-为什么-iPad-的通知推送比-iPhone-的还要慢很多](https://www.v2ex.com/t/880022) 
+- [【V2EX】2022-09-14-离职调整一年之后，明天有一个电话面试，第一次电脑面试应该注意什么，？](https://www.v2ex.com/t/880021) 
+- [【V2EX】2022-09-14-用什么设备-可以比较还原的录下噪声呢？](https://www.v2ex.com/t/880020) 
+- [【V2EX】2022-09-14-ios15-有人碰到过打字无法显示的问题吗-很频繁一天一两次](https://www.v2ex.com/t/880019) 
+- [【V2EX】2022-09-14-iPhone-拍照有多吃内存？](https://www.v2ex.com/t/880017) 
+- [【V2EX】2022-09-14-北京/上海-高级-Java-技术和管理岗-和-C++-岗](https://www.v2ex.com/t/880015) 
+- [【V2EX】2022-09-14-Gitee-貌似出问题了](https://www.v2ex.com/t/880014) 
+- [【V2EX】2022-09-14-fire-有人研究吗？](https://www.v2ex.com/t/880013) 
+- [【V2EX】2022-09-14-新到手的-airpods2-怎么电池循环计数？-就像-mac-一样](https://www.v2ex.com/t/880011) 
+- [【V2EX】2022-09-14-美国芯片很厉害，为何-Android-品牌很少？](https://www.v2ex.com/t/880010) 
 - [【V2EX】2022-09-14-请问苹果电脑中安全性与隐私的软件残留如何清理](https://www.v2ex.com/t/880009) 
 - [【V2EX】2022-09-14-IOS16-共享图库没有放出吗？我只看到共享相册](https://www.v2ex.com/t/880008) 
 - [【V2EX】2022-09-14-Gitee-的运维，你们别没事儿折腾开源项目了，你家服务挂了](https://www.v2ex.com/t/880006) 
@@ -92,19 +106,6 @@
 - [【V2EX】2022-09-14-卖保险需要营业资质吗？](https://www.v2ex.com/t/879982) 
 - [【V2EX】2022-09-14-「网络安全专业」，大专，就业方向如何？](https://www.v2ex.com/t/879981) 
 - [【V2EX】2022-09-14-windows-如何限制一个程序最多使用-20%的硬件性能？](https://www.v2ex.com/t/879980) 
-- [【V2EX】2022-09-14-没事发错了](https://www.v2ex.com/t/879977) 
-- [【V2EX】2022-09-14-iOS16-解决了相机卡顿的问题](https://www.v2ex.com/t/879975) 
-- [【V2EX】2022-09-14-突发奇想这里大佬多，聊天软件有没有这种非紧急的留言功能（类似反向钉钉）](https://www.v2ex.com/t/879974) 
-- [【V2EX】2022-09-14-macOS13-Ventura-防火墙阻止传入连接不生效](https://www.v2ex.com/t/879973) 
-- [【V2EX】2022-09-14-被封第二天，物资终于来了。。](https://www.v2ex.com/t/879972) 
-- [【V2EX】2022-09-14-iCloud-云备份不可取吗？](https://www.v2ex.com/t/879971) 
-- [【V2EX】2022-09-14-预算-3500-能买到流畅剪-5-分钟左右时长视频的笔记本电脑吗？](https://www.v2ex.com/t/879970) 
-- [【V2EX】2022-09-14-记一次-MacBook-Pro-售后维修记录](https://www.v2ex.com/t/879968) 
-- [【V2EX】2022-09-14-寻找做过图像检测、影像测量、二次元测量仪测量软件的工程师合作（付费的）](https://www.v2ex.com/t/879967) 
-- [【V2EX】2022-09-14-ts-问题很急，弄了一中午，求大佬看一下](https://www.v2ex.com/t/879966) 
-- [【V2EX】2022-09-14-2-个-4T-硬盘组了-raid1-有必要降级回去-basic-吗？](https://www.v2ex.com/t/879965) 
-- [【V2EX】2022-09-14-线下取货约到了-17-号的，可以提前一天去吗](https://www.v2ex.com/t/879962) 
-- [【V2EX】2022-09-14-Youtube-Premium-土区开车招车友](https://www.v2ex.com/t/879960) 
 - [【技术头条】2022-09-14-图技术在美团外卖下的场景化应用及探索-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15398&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F09%2F08%2Fgnn-scenariomodeling-subgraphextend-jointtraining.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-14-TLS指纹分析研究（上）-blog.nsfocus.net](https://blogread.cn/news/go.php?idItem=15397&url=http%3A%2F%2Fblog.nsfocus.net%2Ftls1-0%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-14-Unix-历史：一个伟大作品的诞生-linux.cn](https://blogread.cn/news/go.php?idItem=15396&url=https%3A%2F%2Flinux.cn%2Farticle-15024-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -143,10 +144,10 @@
 - [【开发者头条】2022-09-14-一个科技平台型企业的网络安全建设心得｜科技创新型企业专刊·安全村](https://toutiao.io/k/8weabaq) 
 - [【开发者头条】2022-09-14-缓存和数据库一致性问题，看这篇就够了](https://toutiao.io/k/qjqpgy8) 
 - [【开发者头条】2022-09-14-我有-7-种实现-Web-实时消息推送的方案，7种！](https://toutiao.io/k/ciew6jm) 
-- [【开发者头条】2022-09-14-推荐-常见分布式系统设计图解](https://toutiao.io/k/osewvaz) 
 - [【开发者头条】2022-09-14-推荐-公司40k招的架构师写的API网关选型总结，就是牛逼！](https://toutiao.io/k/kyi9yzt) 
-- [【开发者头条】2022-09-14-推荐-近期-yyds-的-GitHub-项目](https://toutiao.io/k/i1qkq4o) 
+- [【开发者头条】2022-09-14-推荐-常见分布式系统设计图解](https://toutiao.io/k/osewvaz) 
 - [【开发者头条】2022-09-14-推荐-微服务网关鉴权：gateway使用、网关限流使用、用户密码加密、JWT鉴权](https://toutiao.io/k/rdhhq5d) 
+- [【开发者头条】2022-09-14-推荐-近期-yyds-的-GitHub-项目](https://toutiao.io/k/i1qkq4o) 
 - [【开发者头条】2022-09-14-推荐-SpringBoot-官方强烈推荐，连接池，太快了！](https://toutiao.io/k/zumxh7v) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>

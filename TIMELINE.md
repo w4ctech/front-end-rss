@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-14 15:48:25。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-09-14 16:20:39。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,14 @@
 </summary>
 
 
+- [【V2EX】2022-09-14-在人生中你有没有遇到过这样一种情况，在某个时间节点，你赌一把，会得到巨大的回报，但风险也是巨大的。不赌可以得到完全-0-风险的低收益。你会怎么选择？](https://www.v2ex.com/t/880113) 
+- [【V2EX】2022-09-14-互联网中的一些风险](https://www.v2ex.com/t/880112) 
+- [【V2EX】2022-09-14-Chromium-107.0.5301.0-打开-V2EX-时卡在-service-worker-上](https://www.v2ex.com/t/880111) 
+- [【V2EX】2022-09-14-脑袋一热买了-iphone11](https://www.v2ex.com/t/880110) 
+- [【V2EX】2022-09-14-北京的-XDM，北京地区企业公司的员工，有申请北京供暖补贴？](https://www.v2ex.com/t/880109) 
+- [【V2EX】2022-09-14-macOS-12.6-修改扩展名的-bug](https://www.v2ex.com/t/880108) 
+- [【V2EX】2022-09-14-在-zsh-里将一个文本的各行展开为-N-个命令行参数](https://www.v2ex.com/t/880106) 
+- [【V2EX】2022-09-14-求问-项目-0-0.1-需求收集设计阶段,产品经理是怎么做产品需求管理分类的.有没有相对推荐的生命周期](https://www.v2ex.com/t/880105) 
 - [【V2EX】2022-09-14-edge-占用-100%-CPU](https://www.v2ex.com/t/880104) 
 - [【V2EX】2022-09-14-苹果官方发了一个-iOS16-一键抠图的教程](https://www.v2ex.com/t/880103) 
 - [【V2EX】2022-09-14-苟在大厂-or-创业公司](https://www.v2ex.com/t/880102) 
@@ -99,15 +107,6 @@
 - [【V2EX】2022-09-14-为啥-mac-studio-的键盘设置里会有-touchbar？](https://www.v2ex.com/t/880066) 
 - [【V2EX】2022-09-14-关于找对象的问题](https://www.v2ex.com/t/880065) 
 - [【V2EX】2022-09-14-关于今年-iPhone-普通版/Pro-版-iOS-维护周期的疑问](https://www.v2ex.com/t/880064) 
-- [【V2EX】2022-09-14-你们的-Typora-还能用吗?](https://www.v2ex.com/t/880063) 
-- [【V2EX】2022-09-14-如何在-Alfred-中直接搜索-快捷指令？](https://www.v2ex.com/t/880062) 
-- [【V2EX】2022-09-14-新到手的-airpods2-怎么看电池循环计数？-就像-mac-一样](https://www.v2ex.com/t/880061) 
-- [【V2EX】2022-09-14-使用-needle-发起请求，经常-socket-hang-up-报错](https://www.v2ex.com/t/880060) 
-- [【V2EX】2022-09-14-群辉扩容与减小硬盘噪音的解决方案](https://www.v2ex.com/t/880059) 
-- [【V2EX】2022-09-14-docker-compose-编排下，如何使用-scale-注册多个服务到-nacos-上](https://www.v2ex.com/t/880058) 
-- [【V2EX】2022-09-14-sap-rac-节点互-ping-丢包率-50%，系统负载-10%以下，最有可能是哪个环节的问题？](https://www.v2ex.com/t/880057) 
-- [【V2EX】2022-09-14-爬虫相关，关于-XPath-的疑问](https://www.v2ex.com/t/880056) 
-- [【V2EX】2022-09-14-Notes-在-Mac-下冷启动不会默认打开窗口,-甚至经常卡死](https://www.v2ex.com/t/880055) 
 - [【技术头条】2022-09-14-图技术在美团外卖下的场景化应用及探索-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15398&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F09%2F08%2Fgnn-scenariomodeling-subgraphextend-jointtraining.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-14-TLS指纹分析研究（上）-blog.nsfocus.net](https://blogread.cn/news/go.php?idItem=15397&url=http%3A%2F%2Fblog.nsfocus.net%2Ftls1-0%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-14-Unix-历史：一个伟大作品的诞生-linux.cn](https://blogread.cn/news/go.php?idItem=15396&url=https%3A%2F%2Flinux.cn%2Farticle-15024-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -143,14 +142,14 @@
 - [【开发者头条】2022-09-14-为什么说-90%-的情况下，immer-能完胜-immutable？](https://toutiao.io/k/u7ugk4f) 
 - [【开发者头条】2022-09-14-前端比较简单，不需要架构？](https://toutiao.io/k/nj06h3g) 
 - [【开发者头条】2022-09-14-斯坦福李飞飞团队新研究登-Nature-子刊：实现可信-AI，数据的设计、完善、评估是关键](https://toutiao.io/k/9w7er4m) 
-- [【开发者头条】2022-09-14-携程火车票iOS项目开发体验优化实践](https://toutiao.io/k/csbftkr) 
-- [【开发者头条】2022-09-14-我有-7-种实现-Web-实时消息推送的方案，7种！](https://toutiao.io/k/ciew6jm) 
 - [【开发者头条】2022-09-14-一个科技平台型企业的网络安全建设心得｜科技创新型企业专刊·安全村](https://toutiao.io/k/8weabaq) 
+- [【开发者头条】2022-09-14-我有-7-种实现-Web-实时消息推送的方案，7种！](https://toutiao.io/k/ciew6jm) 
+- [【开发者头条】2022-09-14-携程火车票iOS项目开发体验优化实践](https://toutiao.io/k/csbftkr) 
+- [【开发者头条】2022-09-14-推荐-近期-yyds-的-GitHub-项目](https://toutiao.io/k/i1qkq4o) 
 - [【开发者头条】2022-09-14-推荐-微服务网关鉴权：gateway使用、网关限流使用、用户密码加密、JWT鉴权](https://toutiao.io/k/rdhhq5d) 
 - [【开发者头条】2022-09-14-推荐-常见分布式系统设计图解](https://toutiao.io/k/osewvaz) 
-- [【开发者头条】2022-09-14-推荐-SpringBoot-官方强烈推荐，连接池，太快了！](https://toutiao.io/k/zumxh7v) 
-- [【开发者头条】2022-09-14-推荐-近期-yyds-的-GitHub-项目](https://toutiao.io/k/i1qkq4o) 
 - [【开发者头条】2022-09-14-推荐-公司40k招的架构师写的API网关选型总结，就是牛逼！](https://toutiao.io/k/kyi9yzt) 
+- [【开发者头条】2022-09-14-推荐-SpringBoot-官方强烈推荐，连接池，太快了！](https://toutiao.io/k/zumxh7v) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

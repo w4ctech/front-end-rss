@@ -1,10 +1,18 @@
-:alarm_clock: 更新时间: 2022-09-14 15:48:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-14 16:20:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-09-14-在人生中你有没有遇到过这样一种情况，在某个时间节点，你赌一把，会得到巨大的回报，但风险也是巨大的。不赌可以得到完全-0-风险的低收益。你会怎么选择？](https://www.v2ex.com/t/880113) 
+- [2022-09-14-互联网中的一些风险](https://www.v2ex.com/t/880112) 
+- [2022-09-14-Chromium-107.0.5301.0-打开-V2EX-时卡在-service-worker-上](https://www.v2ex.com/t/880111) 
+- [2022-09-14-脑袋一热买了-iphone11](https://www.v2ex.com/t/880110) 
+- [2022-09-14-北京的-XDM，北京地区企业公司的员工，有申请北京供暖补贴？](https://www.v2ex.com/t/880109) 
+- [2022-09-14-macOS-12.6-修改扩展名的-bug](https://www.v2ex.com/t/880108) 
+- [2022-09-14-在-zsh-里将一个文本的各行展开为-N-个命令行参数](https://www.v2ex.com/t/880106) 
+- [2022-09-14-求问-项目-0-0.1-需求收集设计阶段,产品经理是怎么做产品需求管理分类的.有没有相对推荐的生命周期](https://www.v2ex.com/t/880105) 
 - [2022-09-14-edge-占用-100%-CPU](https://www.v2ex.com/t/880104) 
 - [2022-09-14-苹果官方发了一个-iOS16-一键抠图的教程](https://www.v2ex.com/t/880103) 
 - [2022-09-14-苟在大厂-or-创业公司](https://www.v2ex.com/t/880102) 
@@ -36,12 +44,3 @@
 - [2022-09-14-为啥-mac-studio-的键盘设置里会有-touchbar？](https://www.v2ex.com/t/880066) 
 - [2022-09-14-关于找对象的问题](https://www.v2ex.com/t/880065) 
 - [2022-09-14-关于今年-iPhone-普通版/Pro-版-iOS-维护周期的疑问](https://www.v2ex.com/t/880064) 
-- [2022-09-14-你们的-Typora-还能用吗?](https://www.v2ex.com/t/880063) 
-- [2022-09-14-如何在-Alfred-中直接搜索-快捷指令？](https://www.v2ex.com/t/880062) 
-- [2022-09-14-新到手的-airpods2-怎么看电池循环计数？-就像-mac-一样](https://www.v2ex.com/t/880061) 
-- [2022-09-14-使用-needle-发起请求，经常-socket-hang-up-报错](https://www.v2ex.com/t/880060) 
-- [2022-09-14-群辉扩容与减小硬盘噪音的解决方案](https://www.v2ex.com/t/880059) 
-- [2022-09-14-docker-compose-编排下，如何使用-scale-注册多个服务到-nacos-上](https://www.v2ex.com/t/880058) 
-- [2022-09-14-sap-rac-节点互-ping-丢包率-50%，系统负载-10%以下，最有可能是哪个环节的问题？](https://www.v2ex.com/t/880057) 
-- [2022-09-14-爬虫相关，关于-XPath-的疑问](https://www.v2ex.com/t/880056) 
-- [2022-09-14-Notes-在-Mac-下冷启动不会默认打开窗口,-甚至经常卡死](https://www.v2ex.com/t/880055) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-14 23:16:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-14 23:45:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -41,5 +41,3 @@
 - [2022-09-14-Pom.xml-文件两个-warnning-有谁知道是啥子意思吗？](https://www.v2ex.com/t/880089) 
 - [2022-09-14-从安卓-app-界面取列表值，有什么好的工具？](https://www.v2ex.com/t/880088) 
 - [2022-09-14-有没有-github-issue-侧边栏的插件啊？](https://www.v2ex.com/t/880087) 
-- [2022-09-14-苏宁要开始-996-了，凛冬将至](https://www.v2ex.com/t/880086) 
-- [2022-09-14-暴露年龄，有多少人用过净坛使者这个-Windows-小工具](https://www.v2ex.com/t/880083) 

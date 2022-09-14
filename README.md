@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-14 20:18:11，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-14 20:46:15，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-09-14-iPhone-指纹感觉要回来了](https://www.v2ex.com/t/880127) ![](assets/new.png)  
+- [2022-09-14-如果张小龙退休了微信会不会变地更好用?](https://www.v2ex.com/t/880126) ![](assets/new.png)  
+- [2022-09-14-台湾的-vtuber-爆发式增长。](https://www.v2ex.com/t/880125) ![](assets/new.png)  
 - [2022-09-14-火绒剑-成功把-迈克菲-删掉了](https://www.v2ex.com/t/880124) ![](assets/new.png)  
 - [2022-09-14-哈啰租车千万不能碰啊！万字血书教训！](https://www.v2ex.com/t/880123) ![](assets/new.png)  
 - [2022-09-14-E8450-怎麼樣](https://www.v2ex.com/t/880122) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-09-14-在-zsh-里将一个文本的各行展开为-N-个命令行参数](https://www.v2ex.com/t/880106) ![](assets/new.png)  
 - [2022-09-14-求问-项目-0-0.1-需求收集设计阶段,产品经理是怎么做产品需求管理分类的.有没有相对推荐的生命周期](https://www.v2ex.com/t/880105) ![](assets/new.png)  
 - [2022-09-14-edge-占用-100%-CPU](https://www.v2ex.com/t/880104) ![](assets/new.png)  
-- [2022-09-14-苹果官方发了一个-iOS16-一键抠图的教程](https://www.v2ex.com/t/880103) ![](assets/new.png)  
-- [2022-09-14-苟在大厂-or-创业公司](https://www.v2ex.com/t/880102) ![](assets/new.png)  
-- [2022-09-14-联通到美国-ATT-炸了好几天了，怎么没见人讨论呢](https://www.v2ex.com/t/880100) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -567,12 +567,12 @@
 - [2022-09-14-用Rust实现KV-Server-2-协议层](https://toutiao.io/k/27lt8op) ![](assets/new.png)  
 - [2022-09-14-为什么说-90%-的情况下，immer-能完胜-immutable？](https://toutiao.io/k/u7ugk4f) ![](assets/new.png)  
 - [2022-09-14-前端比较简单，不需要架构？](https://toutiao.io/k/nj06h3g) ![](assets/new.png)  
-- [2022-09-14-一个科技平台型企业的网络安全建设心得｜科技创新型企业专刊·安全村](https://toutiao.io/k/8weabaq) ![](assets/new.png)  
 - [2022-09-14-斯坦福李飞飞团队新研究登-Nature-子刊：实现可信-AI，数据的设计、完善、评估是关键](https://toutiao.io/k/9w7er4m) ![](assets/new.png)  
+- [2022-09-14-一个科技平台型企业的网络安全建设心得｜科技创新型企业专刊·安全村](https://toutiao.io/k/8weabaq) ![](assets/new.png)  
 - [2022-09-14-我有-7-种实现-Web-实时消息推送的方案，7种！](https://toutiao.io/k/ciew6jm) ![](assets/new.png)  
 - [2022-09-14-携程火车票iOS项目开发体验优化实践](https://toutiao.io/k/csbftkr) ![](assets/new.png)  
-- [2022-09-14-推荐-常见分布式系统设计图解](https://toutiao.io/k/osewvaz) ![](assets/new.png)  
-- [2022-09-14-推荐-公司40k招的架构师写的API网关选型总结，就是牛逼！](https://toutiao.io/k/kyi9yzt) ![](assets/new.png)  
+- [2022-09-14-推荐-SpringBoot-官方强烈推荐，连接池，太快了！](https://toutiao.io/k/zumxh7v) ![](assets/new.png)  
+- [2022-09-14-推荐-近期-yyds-的-GitHub-项目](https://toutiao.io/k/i1qkq4o) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

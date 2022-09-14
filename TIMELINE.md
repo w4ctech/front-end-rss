@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-14 07:54:46。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-09-14 08:19:10。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,14 @@
 </summary>
 
 
+- [【V2EX】2022-09-14-请问苹果电脑中安全性与隐私的软件残留如何清理](https://www.v2ex.com/t/880009) 
+- [【V2EX】2022-09-14-IOS16-共享图库没有放出吗？我只看到共享相册](https://www.v2ex.com/t/880008) 
+- [【V2EX】2022-09-14-Gitee-的运维，你们别没事儿折腾开源项目了，你家服务挂了](https://www.v2ex.com/t/880006) 
+- [【V2EX】2022-09-14-最终还是来到自己身上，创业公司降薪换期权讨论](https://www.v2ex.com/t/880005) 
+- [【V2EX】2022-09-14-Google-登录时需要手机验证，可以随便用个手机（接码平台）验证吗？还是会绑定手机？](https://www.v2ex.com/t/880004) 
+- [【V2EX】2022-09-14-android-下视频解码，是否可以获取解码之后的-rgb-图像？](https://www.v2ex.com/t/880003) 
+- [【V2EX】2022-09-14-地平线-4-很消耗内存嘛？](https://www.v2ex.com/t/880001) 
+- [【V2EX】2022-09-14-关于网络协议-vpn-的使用非科学上网](https://www.v2ex.com/t/880000) 
 - [【V2EX】2022-09-14-VSCODE-能否设置成光标位置不受鼠标点击的影响？](https://www.v2ex.com/t/879999) 
 - [【V2EX】2022-09-14-MX500-1T-+-ubuntu-每分钟硬盘写入-500M？](https://www.v2ex.com/t/879998) 
 - [【V2EX】2022-09-14-求助，-macOS-上能否进一步限制-docker-desktop-中虚拟机的内存占用](https://www.v2ex.com/t/879997) 
@@ -97,12 +105,6 @@
 - [【V2EX】2022-09-14-2-个-4T-硬盘组了-raid1-有必要降级回去-basic-吗？](https://www.v2ex.com/t/879965) 
 - [【V2EX】2022-09-14-线下取货约到了-17-号的，可以提前一天去吗](https://www.v2ex.com/t/879962) 
 - [【V2EX】2022-09-14-Youtube-Premium-土区开车招车友](https://www.v2ex.com/t/879960) 
-- [【V2EX】2022-09-14-ios16-的-shared-photo-library（共享图库）似乎不能跨区使用](https://www.v2ex.com/t/879958) 
-- [【V2EX】2022-09-14-求助-Goland-下使用-vim-插件，-visual-模式导致删除](https://www.v2ex.com/t/879957) 
-- [【V2EX】2022-09-14-请兄弟们推荐-apple-watch-ultra-买哪款表带好](https://www.v2ex.com/t/879956) 
-- [【V2EX】2022-09-14-Linear-Algebra-In-Diagrams:-插图式的线代学习笔记](https://www.v2ex.com/t/879955) 
-- [【V2EX】2022-09-14-CodeGen-工具箱做出了一个艰难的决定，-17-号之前注册的同学将免费获得永久高级会员，-17-号之后新功能将不再完全免费](https://www.v2ex.com/t/879954) 
-- [【V2EX】2022-09-14-升级到-iOS-16，手表遇到死循环了](https://www.v2ex.com/t/879952) 
 - [【技术头条】2022-09-14-图技术在美团外卖下的场景化应用及探索-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15398&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F09%2F08%2Fgnn-scenariomodeling-subgraphextend-jointtraining.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-14-TLS指纹分析研究（上）-blog.nsfocus.net](https://blogread.cn/news/go.php?idItem=15397&url=http%3A%2F%2Fblog.nsfocus.net%2Ftls1-0%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-14-Unix-历史：一个伟大作品的诞生-linux.cn](https://blogread.cn/news/go.php?idItem=15396&url=https%3A%2F%2Flinux.cn%2Farticle-15024-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -139,13 +141,13 @@
 - [【开发者头条】2022-09-14-斯坦福李飞飞团队新研究登-Nature-子刊：实现可信-AI，数据的设计、完善、评估是关键](https://toutiao.io/k/9w7er4m) 
 - [【开发者头条】2022-09-14-携程火车票iOS项目开发体验优化实践](https://toutiao.io/k/csbftkr) 
 - [【开发者头条】2022-09-14-一个科技平台型企业的网络安全建设心得｜科技创新型企业专刊·安全村](https://toutiao.io/k/8weabaq) 
-- [【开发者头条】2022-09-14-我有-7-种实现-Web-实时消息推送的方案，7种！](https://toutiao.io/k/ciew6jm) 
 - [【开发者头条】2022-09-14-缓存和数据库一致性问题，看这篇就够了](https://toutiao.io/k/qjqpgy8) 
-- [【开发者头条】2022-09-14-推荐-SpringBoot-官方强烈推荐，连接池，太快了！](https://toutiao.io/k/zumxh7v) 
+- [【开发者头条】2022-09-14-我有-7-种实现-Web-实时消息推送的方案，7种！](https://toutiao.io/k/ciew6jm) 
 - [【开发者头条】2022-09-14-推荐-常见分布式系统设计图解](https://toutiao.io/k/osewvaz) 
+- [【开发者头条】2022-09-14-推荐-公司40k招的架构师写的API网关选型总结，就是牛逼！](https://toutiao.io/k/kyi9yzt) 
 - [【开发者头条】2022-09-14-推荐-近期-yyds-的-GitHub-项目](https://toutiao.io/k/i1qkq4o) 
 - [【开发者头条】2022-09-14-推荐-微服务网关鉴权：gateway使用、网关限流使用、用户密码加密、JWT鉴权](https://toutiao.io/k/rdhhq5d) 
-- [【开发者头条】2022-09-14-推荐-公司40k招的架构师写的API网关选型总结，就是牛逼！](https://toutiao.io/k/kyi9yzt) 
+- [【开发者头条】2022-09-14-推荐-SpringBoot-官方强烈推荐，连接池，太快了！](https://toutiao.io/k/zumxh7v) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

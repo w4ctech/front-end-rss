@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-14 01:13:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-14 04:01:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -13,6 +13,8 @@
 - [2021-03-14-张文宏：怎么看待疫苗接种偶发不良反应事件](https://opinion.caixin.com/m/2021-03-14/101675088.html) 
 - [2021-03-08-香港再现数例疫苗接种严重异常事件-专家初判与疫苗无关](https://china.caixin.com/m/2021-03-08/101672619.html) 
 - [2021-03-03-港府回应一63岁患者死亡事件-暂无法确定与疫苗相关](https://m.caixin.com/m/2021-03-03/101670052.html) 
-- [2022-09-13-路由器需要打开-DoT-的-DNS-隐私选项吗？](https://www.v2ex.com/t/879853) 
-- [2022-09-13-可刷机路由-AX6/AX6S/360V6-选哪个？](https://www.v2ex.com/t/879841) 
-- [2022-09-13-The-Legend-of-Zelda:-Tears-of-the-Kingdom](https://www.v2ex.com/t/879834) 
+- [2022-08-21-JS-replaceAll-和-matchAll-使用指南不指北](https://www.zhangxinxu.com/wordpress/2022/08/js-replaceall-matchall/) 
+- [2022-06-19-如何继承自定义元素及其他JS中扩展新方法](https://www.zhangxinxu.com/wordpress/2022/06/js-extend-class-custom-elements/) 
+- [2022-06-11-介绍一种CSS变量未定义语法也OK的小妙招](https://www.zhangxinxu.com/wordpress/2022/06/css-var-optional-empty-trick/) 
+- [2022-05-29-如何实现页面刷新后不定位到之前的滚动位置？](https://www.zhangxinxu.com/wordpress/2022/05/history-scrollrestoration/) 
+- [2022-09-14-Python-每日一练：-watchdog-文件目录事件监控](https://www.v2ex.com/t/879888) 

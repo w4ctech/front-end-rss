@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-14 01:13:46，:rocket: 更新条数: +2013， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-14 04:01:27，:rocket: 更新条数: +2025， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -36,7 +36,7 @@
 - [前端瓶子君](#前端瓶子君)  
 - [程序员成长指北](#程序员成长指北)  
 - [Nodejs技术栈](#nodejs技术栈)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)  
@@ -316,6 +316,16 @@
 </summary>
 
 
+- [2022-08-31-gitee上撸了个类似飞书OKR输入框的@提及项目](https://www.zhangxinxu.com/wordpress/2022/08/gitee-feishu-okr-at-mention/) ![](assets/new.png)  
+- [2022-08-24-来了，来了，CSS-:has伪类她来了](https://www.zhangxinxu.com/wordpress/2022/08/css-has-pseudo-class/) ![](assets/new.png)  
+- [2022-08-21-JS-replaceAll-和-matchAll-使用指南不指北](https://www.zhangxinxu.com/wordpress/2022/08/js-replaceall-matchall/) ![](assets/new.png)  
+- [2022-07-27-万物皆可clip-path，纯CSS绘制0-9数字](https://www.zhangxinxu.com/wordpress/2022/07/clip-path-css-number/) ![](assets/new.png)  
+- [2022-07-21-超酷！CSS-font-palette与彩色字体显示](https://www.zhangxinxu.com/wordpress/2022/07/css-font-palette/) ![](assets/new.png)  
+- [2022-06-30-CSS排版为何强？瞧瞧多牛这换行](https://www.zhangxinxu.com/wordpress/2022/06/css-line-break-word-wrap-all/) ![](assets/new.png)  
+- [2022-06-19-如何继承自定义元素及其他JS中扩展新方法](https://www.zhangxinxu.com/wordpress/2022/06/js-extend-class-custom-elements/) ![](assets/new.png)  
+- [2022-06-12-基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/) ![](assets/new.png)  
+- [2022-06-11-介绍一种CSS变量未定义语法也OK的小妙招](https://www.zhangxinxu.com/wordpress/2022/06/css-var-optional-empty-trick/) ![](assets/new.png)  
+- [2022-05-29-如何实现页面刷新后不定位到之前的滚动位置？](https://www.zhangxinxu.com/wordpress/2022/05/history-scrollrestoration/) ![](assets/new.png)  
 - [......【查看更多】......](./details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -481,26 +491,26 @@
 </summary>
 
 
-- [2022-09-14-之江实验室-2023-届校园招聘](https://www.v2ex.com/t/879871) ![](assets/new.png)  
-- [2022-09-14-南方确实不要用联通](https://www.v2ex.com/t/879870) ![](assets/new.png)  
-- [2022-09-14-顺丰速运真辣鸡呀](https://www.v2ex.com/t/879869) ![](assets/new.png)  
-- [2022-09-14-微信-WeChat-升级到-8.0.24-之后是不是将首页上的服务号全都自动开启了免打扰？](https://www.v2ex.com/t/879868) ![](assets/new.png)  
-- [2022-09-14-我们开发了一款-MQTT-GUI-客户端，有需要的-v-友可以来试试](https://www.v2ex.com/t/879867) ![](assets/new.png)  
-- [2022-09-14-请教-Android-系统使用的-2-个问题](https://www.v2ex.com/t/879866) ![](assets/new.png)  
-- [2022-09-14-这个-golang-struct-是用的什么生成的](https://www.v2ex.com/t/879865) ![](assets/new.png)  
-- [2022-09-14-如何获取旧版本的-tvOS-描述文件？](https://www.v2ex.com/t/879864) ![](assets/new.png)  
-- [2022-09-14-9-月-16-日起可查看供货情况](https://www.v2ex.com/t/879862) ![](assets/new.png)  
-- [2022-09-13-oppo50w-充电宝为什么不卖了啊](https://www.v2ex.com/t/879861) ![](assets/new.png)  
-- [2022-09-13-真的是一切为了老人和孩子好吗？](https://www.v2ex.com/t/879860) ![](assets/new.png)  
-- [2022-09-13-iOS16-一直提示充电过热](https://www.v2ex.com/t/879859) ![](assets/new.png)  
-- [2022-09-13-请教一下，有人用单片机做过操作系统课程的项目吗？](https://www.v2ex.com/t/879858) ![](assets/new.png)  
-- [2022-09-13-疑惑-C#中一个奇怪的现象](https://www.v2ex.com/t/879857) ![](assets/new.png)  
-- [2022-09-13-三星这个-0E-问题有点离谱啊](https://www.v2ex.com/t/879856) ![](assets/new.png)  
-- [2022-09-13-我能问问那个卡槽你们在吵什么吗？](https://www.v2ex.com/t/879854) ![](assets/new.png)  
-- [2022-09-13-路由器需要打开-DoT-的-DNS-隐私选项吗？](https://www.v2ex.com/t/879853) ![](assets/new.png)  
-- [2022-09-13-惊了！-Python-居然可以计算任意长度的整数](https://www.v2ex.com/t/879852) ![](assets/new.png)  
-- [2022-09-13-求指点：-win10Pro，右键里没有“打开方式”](https://www.v2ex.com/t/879851) ![](assets/new.png)  
-- [2022-09-13-iPhone-12-升级-ios-16-续航尿崩](https://www.v2ex.com/t/879850) ![](assets/new.png)  
+- [2022-09-14-找工作分享讨论](https://www.v2ex.com/t/879926) ![](assets/new.png)  
+- [2022-09-14-你理解的应试教育是什么?](https://www.v2ex.com/t/879925) ![](assets/new.png)  
+- [2022-09-14-iPhone-的-APP-资源库在-IOS16-还有没有？可以删掉了吗？](https://www.v2ex.com/t/879924) ![](assets/new.png)  
+- [2022-09-14-13pro-+-iOS-16，天气-app-中多余地区删不掉](https://www.v2ex.com/t/879923) ![](assets/new.png)  
+- [2022-09-14-没想到医生这么直接。。。](https://www.v2ex.com/t/879922) ![](assets/new.png)  
+- [2022-09-14-OSI-模型的-5/6-两层真的“被弃用”了吗？](https://www.v2ex.com/t/879921) ![](assets/new.png)  
+- [2022-09-14-觉得能偶尔送-10G-流量的移动挺好的](https://www.v2ex.com/t/879920) ![](assets/new.png)  
+- [2022-09-14-你们用什么画思维导图和流程图？](https://www.v2ex.com/t/879919) ![](assets/new.png)  
+- [2022-09-14-北京/上海/杭州-字节-前端-部门直招-产品研发和工程架构部-APM-团队](https://www.v2ex.com/t/879916) ![](assets/new.png)  
+- [2022-09-14-阿里云买了个共享虚拟主机，昨天安装了个-Wordpress，今天虚拟主机被强行停止，说是资源占用过大，怎么破？](https://www.v2ex.com/t/879915) ![](assets/new.png)  
+- [2022-09-14-有没有百元以下，-C-口充电的电动剃须刀，最好使用寿命能长一点，备用刀头便宜点的](https://www.v2ex.com/t/879914) ![](assets/new.png)  
+- [2022-09-14-ucloud-开始检测备案名称与实际使用名称是否一致了](https://www.v2ex.com/t/879912) ![](assets/new.png)  
+- [2022-09-14-微信小游戏《羊了个羊》爆火的原因是什么？](https://www.v2ex.com/t/879911) ![](assets/new.png)  
+- [2022-09-14-watchos9-判断睡眠阶段方式](https://www.v2ex.com/t/879909) ![](assets/new.png)  
+- [2022-09-14-账户被降权了，能否申请恢复](https://www.v2ex.com/t/879907) ![](assets/new.png)  
+- [2022-09-14-iPhone-依然保持-6G-内存，注定后台杀不停](https://www.v2ex.com/t/879906) ![](assets/new.png)  
+- [2022-09-14-通过-USB-转-RS232-如何在收到第三个字节时从电脑发指令给外设？](https://www.v2ex.com/t/879905) ![](assets/new.png)  
+- [2022-09-14-用-telegram-频道宣传你的产品~](https://www.v2ex.com/t/879904) ![](assets/new.png)  
+- [2022-09-14-2009-2022，我的历代智能手机使用时间线](https://www.v2ex.com/t/879902) ![](assets/new.png)  
+- [2022-09-14-喉咙躺下来就痒，吃药没用](https://www.v2ex.com/t/879900) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -545,20 +555,24 @@
 
 - [2022-09-14-1.8w-字的-SQL-优化大全](https://toutiao.io/k/tz7p6nl) ![](assets/new.png)  
 - [2022-09-14-声网开发者创业讲堂丨第-5-期：技术创业者如何做好技术团队管理？](https://toutiao.io/k/peycpb0) ![](assets/new.png)  
+- [2022-09-14-字节二面：Redis-的大-Key-对持久化有什么影响？](https://toutiao.io/k/dwzvr51) ![](assets/new.png)  
 - [2022-09-14-千万千万不要在方法上打断点！太坑了！](https://toutiao.io/k/se8mzu6) ![](assets/new.png)  
 - [2022-09-14-C++/Qt/VTK技能树](https://toutiao.io/k/erbkznv) ![](assets/new.png)  
-- [2022-09-14-字节二面：Redis-的大-Key-对持久化有什么影响？](https://toutiao.io/k/dwzvr51) ![](assets/new.png)  
 - [2022-09-14-单表性能提升数倍，Doris向量化技术升级实践！](https://toutiao.io/k/tlst9fb) ![](assets/new.png)  
 - [2022-09-14-Istio-服务网格-ambient-模式安全详解](https://toutiao.io/k/tf5hb27) ![](assets/new.png)  
-- [2022-09-14-持续交付-2.0-的组织文化](https://toutiao.io/k/k4x5tze) ![](assets/new.png)  
 - [2022-09-14-探索原味BFF模式](https://toutiao.io/k/abx3waz) ![](assets/new.png)  
+- [2022-09-14-持续交付-2.0-的组织文化](https://toutiao.io/k/k4x5tze) ![](assets/new.png)  
 - [2022-09-14-用Rust实现KV-Server-2-协议层](https://toutiao.io/k/27lt8op) ![](assets/new.png)  
 - [2022-09-14-为什么说-90%-的情况下，immer-能完胜-immutable？](https://toutiao.io/k/u7ugk4f) ![](assets/new.png)  
-- [2022-09-14-推荐-常见分布式系统设计图解](https://toutiao.io/k/osewvaz) ![](assets/new.png)  
-- [2022-09-14-推荐-微服务网关鉴权：gateway使用、网关限流使用、用户密码加密、JWT鉴权](https://toutiao.io/k/rdhhq5d) ![](assets/new.png)  
-- [2022-09-14-推荐-公司40k招的架构师写的API网关选型总结，就是牛逼！](https://toutiao.io/k/kyi9yzt) ![](assets/new.png)  
+- [2022-09-14-聊聊如何利用p6spy进行sql监控](https://toutiao.io/k/2191cqo) ![](assets/new.png)  
+- [2022-09-14-斯坦福李飞飞团队新研究登-Nature-子刊：实现可信-AI，数据的设计、完善、评估是关键](https://toutiao.io/k/9w7er4m) ![](assets/new.png)  
+- [2022-09-14-携程火车票iOS项目开发体验优化实践](https://toutiao.io/k/csbftkr) ![](assets/new.png)  
+- [2022-09-14-前端比较简单，不需要架构？](https://toutiao.io/k/nj06h3g) ![](assets/new.png)  
+- [2022-09-14-一个科技平台型企业的网络安全建设心得｜科技创新型企业专刊·安全村](https://toutiao.io/k/8weabaq) ![](assets/new.png)  
 - [2022-09-14-推荐-近期-yyds-的-GitHub-项目](https://toutiao.io/k/i1qkq4o) ![](assets/new.png)  
 - [2022-09-14-推荐-SpringBoot-官方强烈推荐，连接池，太快了！](https://toutiao.io/k/zumxh7v) ![](assets/new.png)  
+- [2022-09-14-推荐-常见分布式系统设计图解](https://toutiao.io/k/osewvaz) ![](assets/new.png)  
+- [2022-09-14-推荐-微服务网关鉴权：gateway使用、网关限流使用、用户密码加密、JWT鉴权](https://toutiao.io/k/rdhhq5d) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

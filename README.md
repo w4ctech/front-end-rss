@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-14 04:01:27，:rocket: 更新条数: +2025， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-14 05:30:10，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,26 +491,26 @@
 </summary>
 
 
+- [2022-09-14-ios-16-handoff-从-mac-复制-文字或者图片到-ios-16-第三方-app-上还有点一下允许](https://www.v2ex.com/t/879949) ![](assets/new.png)  
+- [2022-09-14-小米手机启用热点后的通知如何消除](https://www.v2ex.com/t/879947) ![](assets/new.png)  
+- [2022-09-14-oracle-cloud-注册不成功是怎么回事](https://www.v2ex.com/t/879946) ![](assets/new.png)  
+- [2022-09-14-怎样在-C++里用-C-style-按行读取文件并不分配-heap-内存？](https://www.v2ex.com/t/879945) ![](assets/new.png)  
+- [2022-09-14-杭州-<AI+Web3.0-丨双休丨大厂薪资丨>急招-DevInfra-工程师](https://www.v2ex.com/t/879944) ![](assets/new.png)  
+- [2022-09-14-各位有没有自己写的，或者开源的-Python-商城相关代码？基于非-django-的最好，想学习一下](https://www.v2ex.com/t/879942) ![](assets/new.png)  
+- [2022-09-14-代码生成-UML](https://www.v2ex.com/t/879941) ![](assets/new.png)  
+- [2022-09-14-二手-iPhone-在哪卖划算？](https://www.v2ex.com/t/879940) ![](assets/new.png)  
+- [2022-09-14-twitter-有办法只显示英文内容吗？](https://www.v2ex.com/t/879939) ![](assets/new.png)  
+- [2022-09-14-深度学习显卡选择（RTX-A6000-和-RTX-3090）](https://www.v2ex.com/t/879938) ![](assets/new.png)  
+- [2022-09-14-锁屏头条正式发布：实时展示股票/加密货币，今日步数，本周平均睡眠时间，倒数日，颜文字等](https://www.v2ex.com/t/879936) ![](assets/new.png)  
+- [2022-09-14-Studio-Display-翻车。。。](https://www.v2ex.com/t/879935) ![](assets/new.png)  
+- [2022-09-14-广州---异地更换身份证需要怎么操作？](https://www.v2ex.com/t/879933) ![](assets/new.png)  
+- [2022-09-14-公司安排岗位轮转开发->维护，要去吗？](https://www.v2ex.com/t/879932) ![](assets/new.png)  
+- [2022-09-14-被剪切板弹窗烦到的，请使劲投诉-app](https://www.v2ex.com/t/879931) ![](assets/new.png)  
+- [2022-09-14-新款-iPhone-预购不及预期，苹果市值一夜蒸发-1500-亿美元](https://www.v2ex.com/t/879928) ![](assets/new.png)  
 - [2022-09-14-找工作分享讨论](https://www.v2ex.com/t/879926) ![](assets/new.png)  
 - [2022-09-14-你理解的应试教育是什么?](https://www.v2ex.com/t/879925) ![](assets/new.png)  
 - [2022-09-14-iPhone-的-APP-资源库在-IOS16-还有没有？可以删掉了吗？](https://www.v2ex.com/t/879924) ![](assets/new.png)  
 - [2022-09-14-13pro-+-iOS-16，天气-app-中多余地区删不掉](https://www.v2ex.com/t/879923) ![](assets/new.png)  
-- [2022-09-14-没想到医生这么直接。。。](https://www.v2ex.com/t/879922) ![](assets/new.png)  
-- [2022-09-14-OSI-模型的-5/6-两层真的“被弃用”了吗？](https://www.v2ex.com/t/879921) ![](assets/new.png)  
-- [2022-09-14-觉得能偶尔送-10G-流量的移动挺好的](https://www.v2ex.com/t/879920) ![](assets/new.png)  
-- [2022-09-14-你们用什么画思维导图和流程图？](https://www.v2ex.com/t/879919) ![](assets/new.png)  
-- [2022-09-14-北京/上海/杭州-字节-前端-部门直招-产品研发和工程架构部-APM-团队](https://www.v2ex.com/t/879916) ![](assets/new.png)  
-- [2022-09-14-阿里云买了个共享虚拟主机，昨天安装了个-Wordpress，今天虚拟主机被强行停止，说是资源占用过大，怎么破？](https://www.v2ex.com/t/879915) ![](assets/new.png)  
-- [2022-09-14-有没有百元以下，-C-口充电的电动剃须刀，最好使用寿命能长一点，备用刀头便宜点的](https://www.v2ex.com/t/879914) ![](assets/new.png)  
-- [2022-09-14-ucloud-开始检测备案名称与实际使用名称是否一致了](https://www.v2ex.com/t/879912) ![](assets/new.png)  
-- [2022-09-14-微信小游戏《羊了个羊》爆火的原因是什么？](https://www.v2ex.com/t/879911) ![](assets/new.png)  
-- [2022-09-14-watchos9-判断睡眠阶段方式](https://www.v2ex.com/t/879909) ![](assets/new.png)  
-- [2022-09-14-账户被降权了，能否申请恢复](https://www.v2ex.com/t/879907) ![](assets/new.png)  
-- [2022-09-14-iPhone-依然保持-6G-内存，注定后台杀不停](https://www.v2ex.com/t/879906) ![](assets/new.png)  
-- [2022-09-14-通过-USB-转-RS232-如何在收到第三个字节时从电脑发指令给外设？](https://www.v2ex.com/t/879905) ![](assets/new.png)  
-- [2022-09-14-用-telegram-频道宣传你的产品~](https://www.v2ex.com/t/879904) ![](assets/new.png)  
-- [2022-09-14-2009-2022，我的历代智能手机使用时间线](https://www.v2ex.com/t/879902) ![](assets/new.png)  
-- [2022-09-14-喉咙躺下来就痒，吃药没用](https://www.v2ex.com/t/879900) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -561,18 +561,18 @@
 - [2022-09-14-单表性能提升数倍，Doris向量化技术升级实践！](https://toutiao.io/k/tlst9fb) ![](assets/new.png)  
 - [2022-09-14-Istio-服务网格-ambient-模式安全详解](https://toutiao.io/k/tf5hb27) ![](assets/new.png)  
 - [2022-09-14-探索原味BFF模式](https://toutiao.io/k/abx3waz) ![](assets/new.png)  
+- [2022-09-14-聊聊如何利用p6spy进行sql监控](https://toutiao.io/k/2191cqo) ![](assets/new.png)  
 - [2022-09-14-持续交付-2.0-的组织文化](https://toutiao.io/k/k4x5tze) ![](assets/new.png)  
 - [2022-09-14-用Rust实现KV-Server-2-协议层](https://toutiao.io/k/27lt8op) ![](assets/new.png)  
 - [2022-09-14-为什么说-90%-的情况下，immer-能完胜-immutable？](https://toutiao.io/k/u7ugk4f) ![](assets/new.png)  
-- [2022-09-14-聊聊如何利用p6spy进行sql监控](https://toutiao.io/k/2191cqo) ![](assets/new.png)  
 - [2022-09-14-斯坦福李飞飞团队新研究登-Nature-子刊：实现可信-AI，数据的设计、完善、评估是关键](https://toutiao.io/k/9w7er4m) ![](assets/new.png)  
-- [2022-09-14-携程火车票iOS项目开发体验优化实践](https://toutiao.io/k/csbftkr) ![](assets/new.png)  
 - [2022-09-14-前端比较简单，不需要架构？](https://toutiao.io/k/nj06h3g) ![](assets/new.png)  
+- [2022-09-14-携程火车票iOS项目开发体验优化实践](https://toutiao.io/k/csbftkr) ![](assets/new.png)  
 - [2022-09-14-一个科技平台型企业的网络安全建设心得｜科技创新型企业专刊·安全村](https://toutiao.io/k/8weabaq) ![](assets/new.png)  
-- [2022-09-14-推荐-近期-yyds-的-GitHub-项目](https://toutiao.io/k/i1qkq4o) ![](assets/new.png)  
 - [2022-09-14-推荐-SpringBoot-官方强烈推荐，连接池，太快了！](https://toutiao.io/k/zumxh7v) ![](assets/new.png)  
-- [2022-09-14-推荐-常见分布式系统设计图解](https://toutiao.io/k/osewvaz) ![](assets/new.png)  
+- [2022-09-14-推荐-公司40k招的架构师写的API网关选型总结，就是牛逼！](https://toutiao.io/k/kyi9yzt) ![](assets/new.png)  
 - [2022-09-14-推荐-微服务网关鉴权：gateway使用、网关限流使用、用户密码加密、JWT鉴权](https://toutiao.io/k/rdhhq5d) ![](assets/new.png)  
+- [2022-09-14-推荐-常见分布式系统设计图解](https://toutiao.io/k/osewvaz) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

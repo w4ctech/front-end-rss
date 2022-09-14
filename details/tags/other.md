@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-14 11:14:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-14 11:41:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,9 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-09-14-关于今年-iPhone-普通版/Pro-版-iOS-维护周期的疑问](https://www.v2ex.com/t/880064) 
+- [2022-09-14-你们的-Typora-还能用吗?](https://www.v2ex.com/t/880063) 
+- [2022-09-14-如何在-Alfred-中直接搜索-快捷指令？](https://www.v2ex.com/t/880062) 
 - [2022-09-14-新到手的-airpods2-怎么看电池循环计数？-就像-mac-一样](https://www.v2ex.com/t/880061) 
 - [2022-09-14-群辉扩容与减小硬盘噪音的解决方案](https://www.v2ex.com/t/880059) 
 - [2022-09-14-sap-rac-节点互-ping-丢包率-50%，系统负载-10%以下，最有可能是哪个环节的问题？](https://www.v2ex.com/t/880057) 
@@ -1939,7 +1942,6 @@
 - [2022-09-14-ios15-有人碰到过打字无法显示的问题吗-很频繁一天一两次](https://www.v2ex.com/t/880019) 
 - [2022-09-14-iPhone-拍照有多吃内存？](https://www.v2ex.com/t/880017) 
 - [2022-09-14-北京/上海-高级-Java-技术和管理岗-和-C++-岗](https://www.v2ex.com/t/880015) 
-- [2022-09-14-fire-有人研究吗？](https://www.v2ex.com/t/880013) 
 - [2022-09-14-图技术在美团外卖下的场景化应用及探索-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15398&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F09%2F08%2Fgnn-scenariomodeling-subgraphextend-jointtraining.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-14-TLS指纹分析研究（上）-blog.nsfocus.net](https://blogread.cn/news/go.php?idItem=15397&url=http%3A%2F%2Fblog.nsfocus.net%2Ftls1-0%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-14-Unix-历史：一个伟大作品的诞生-linux.cn](https://blogread.cn/news/go.php?idItem=15396&url=https%3A%2F%2Flinux.cn%2Farticle-15024-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1971,5 +1973,5 @@
 - [2022-09-14-我有-7-种实现-Web-实时消息推送的方案，7种！](https://toutiao.io/k/ciew6jm) 
 - [2022-09-14-推荐-SpringBoot-官方强烈推荐，连接池，太快了！](https://toutiao.io/k/zumxh7v) 
 - [2022-09-14-推荐-常见分布式系统设计图解](https://toutiao.io/k/osewvaz) 
-- [2022-09-14-推荐-微服务网关鉴权：gateway使用、网关限流使用、用户密码加密、JWT鉴权](https://toutiao.io/k/rdhhq5d) 
 - [2022-09-14-推荐-公司40k招的架构师写的API网关选型总结，就是牛逼！](https://toutiao.io/k/kyi9yzt) 
+- [2022-09-14-推荐-微服务网关鉴权：gateway使用、网关限流使用、用户密码加密、JWT鉴权](https://toutiao.io/k/rdhhq5d) 

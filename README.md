@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-14 14:09:21，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-14 14:48:47，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,16 @@
 </summary>
 
 
+- [2022-09-14-吐槽一下每次版本升级后-siri-对-homekit-的控制问题](https://www.v2ex.com/t/880097) ![](assets/new.png)  
+- [2022-09-14-v2-上有没有青海省的程序员啊-？不妨露个面](https://www.v2ex.com/t/880096) ![](assets/new.png)  
+- [2022-09-14-Mac-版-Surge-5-人车还有-4-车位](https://www.v2ex.com/t/880094) ![](assets/new.png)  
+- [2022-09-14-电视怎么进行防沉迷设置](https://www.v2ex.com/t/880093) ![](assets/new.png)  
+- [2022-09-14-ts-如何根据可选参数返回不同的泛型成员，有简单的写法吗？](https://www.v2ex.com/t/880092) ![](assets/new.png)  
+- [2022-09-14-没人讨论钟文泽-iPhone-14-的评测吗，感觉很不错啊。](https://www.v2ex.com/t/880091) ![](assets/new.png)  
+- [2022-09-14-想要充值信仰，国内买-Pixel-有什么需要注意的吗？](https://www.v2ex.com/t/880090) ![](assets/new.png)  
+- [2022-09-14-Pom.xml-文件两个-warnning-有谁知道是啥子意思吗？](https://www.v2ex.com/t/880089) ![](assets/new.png)  
+- [2022-09-14-从安卓-app-界面取列表值，有什么好的工具？](https://www.v2ex.com/t/880088) ![](assets/new.png)  
+- [2022-09-14-有没有-github-issue-侧边栏的插件啊？](https://www.v2ex.com/t/880087) ![](assets/new.png)  
 - [2022-09-14-苏宁要开始-996-了，凛冬将至](https://www.v2ex.com/t/880086) ![](assets/new.png)  
 - [2022-09-14-暴露年龄，有多少人用过净坛使者这个-Windows-小工具](https://www.v2ex.com/t/880083) ![](assets/new.png)  
 - [2022-09-14-进外包两天了，求安慰](https://www.v2ex.com/t/880082) ![](assets/new.png)  
@@ -501,16 +511,6 @@
 - [2022-09-14-求推荐便宜的海外免备案服务器，阿里腾讯放弃了-太磨叽-0914](https://www.v2ex.com/t/880075) ![](assets/new.png)  
 - [2022-09-14-loom-在-quarkus-中的基本应用](https://www.v2ex.com/t/880074) ![](assets/new.png)  
 - [2022-09-14-各位见过最老的但还在运行的软件是什么？](https://www.v2ex.com/t/880073) ![](assets/new.png)  
-- [2022-09-14-要不要读个非全日制的研究生？](https://www.v2ex.com/t/880071) ![](assets/new.png)  
-- [2022-09-14-RouterOS-获取到-IPv6-prefix-之后，-1-天之后就会失效](https://www.v2ex.com/t/880070) ![](assets/new.png)  
-- [2022-09-14-观近-20-年国内各城市-GDP-走势的小发现](https://www.v2ex.com/t/880069) ![](assets/new.png)  
-- [2022-09-14-为啥-mac-studio-的键盘设置里会有-touchbar？](https://www.v2ex.com/t/880066) ![](assets/new.png)  
-- [2022-09-14-关于找对象的问题](https://www.v2ex.com/t/880065) ![](assets/new.png)  
-- [2022-09-14-关于今年-iPhone-普通版/Pro-版-iOS-维护周期的疑问](https://www.v2ex.com/t/880064) ![](assets/new.png)  
-- [2022-09-14-你们的-Typora-还能用吗?](https://www.v2ex.com/t/880063) ![](assets/new.png)  
-- [2022-09-14-如何在-Alfred-中直接搜索-快捷指令？](https://www.v2ex.com/t/880062) ![](assets/new.png)  
-- [2022-09-14-新到手的-airpods2-怎么看电池循环计数？-就像-mac-一样](https://www.v2ex.com/t/880061) ![](assets/new.png)  
-- [2022-09-14-使用-needle-发起请求，经常-socket-hang-up-报错](https://www.v2ex.com/t/880060) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -571,8 +571,8 @@
 - [2022-09-14-携程火车票iOS项目开发体验优化实践](https://toutiao.io/k/csbftkr) ![](assets/new.png)  
 - [2022-09-14-一个科技平台型企业的网络安全建设心得｜科技创新型企业专刊·安全村](https://toutiao.io/k/8weabaq) ![](assets/new.png)  
 - [2022-09-14-我有-7-种实现-Web-实时消息推送的方案，7种！](https://toutiao.io/k/ciew6jm) ![](assets/new.png)  
-- [2022-09-14-推荐-常见分布式系统设计图解](https://toutiao.io/k/osewvaz) ![](assets/new.png)  
-- [2022-09-14-推荐-微服务网关鉴权：gateway使用、网关限流使用、用户密码加密、JWT鉴权](https://toutiao.io/k/rdhhq5d) ![](assets/new.png)  
+- [2022-09-14-推荐-近期-yyds-的-GitHub-项目](https://toutiao.io/k/i1qkq4o) ![](assets/new.png)  
+- [2022-09-14-推荐-公司40k招的架构师写的API网关选型总结，就是牛逼！](https://toutiao.io/k/kyi9yzt) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

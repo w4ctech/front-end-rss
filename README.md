@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-14 21:14:15，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-14 21:42:08，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-09-14-在云上做了一次-ops，感觉像是在烂泥里爬行](https://www.v2ex.com/t/880128) ![](assets/new.png)  
 - [2022-09-14-iPhone-指纹感觉要回来了](https://www.v2ex.com/t/880127) ![](assets/new.png)  
 - [2022-09-14-如果张小龙退休了微信会不会变地更好用?](https://www.v2ex.com/t/880126) ![](assets/new.png)  
 - [2022-09-14-台湾的-vtuber-爆发式增长。](https://www.v2ex.com/t/880125) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-09-14-macOS-12.6-修改扩展名的-bug](https://www.v2ex.com/t/880108) ![](assets/new.png)  
 - [2022-09-14-在-zsh-里将一个文本的各行展开为-N-个命令行参数](https://www.v2ex.com/t/880106) ![](assets/new.png)  
 - [2022-09-14-求问-项目-0-0.1-需求收集设计阶段,产品经理是怎么做产品需求管理分类的.有没有相对推荐的生命周期](https://www.v2ex.com/t/880105) ![](assets/new.png)  
-- [2022-09-14-edge-占用-100%-CPU](https://www.v2ex.com/t/880104) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,7 +572,7 @@
 - [2022-09-14-我有-7-种实现-Web-实时消息推送的方案，7种！](https://toutiao.io/k/ciew6jm) ![](assets/new.png)  
 - [2022-09-14-携程火车票iOS项目开发体验优化实践](https://toutiao.io/k/csbftkr) ![](assets/new.png)  
 - [2022-09-14-推荐-公司40k招的架构师写的API网关选型总结，就是牛逼！](https://toutiao.io/k/kyi9yzt) ![](assets/new.png)  
-- [2022-09-14-推荐-常见分布式系统设计图解](https://toutiao.io/k/osewvaz) ![](assets/new.png)  
+- [2022-09-14-推荐-微服务网关鉴权：gateway使用、网关限流使用、用户密码加密、JWT鉴权](https://toutiao.io/k/rdhhq5d) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

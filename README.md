@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-14 16:20:39，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-14 17:05:14，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-09-14-怎样才能拥有信仰](https://www.v2ex.com/t/880115) ![](assets/new.png)  
+- [2022-09-14-心累，-ssh-自定义文件名之后到底应该做什么](https://www.v2ex.com/t/880114) ![](assets/new.png)  
 - [2022-09-14-在人生中你有没有遇到过这样一种情况，在某个时间节点，你赌一把，会得到巨大的回报，但风险也是巨大的。不赌可以得到完全-0-风险的低收益。你会怎么选择？](https://www.v2ex.com/t/880113) ![](assets/new.png)  
 - [2022-09-14-互联网中的一些风险](https://www.v2ex.com/t/880112) ![](assets/new.png)  
 - [2022-09-14-Chromium-107.0.5301.0-打开-V2EX-时卡在-service-worker-上](https://www.v2ex.com/t/880111) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-09-14-v2-上有没有青海省的程序员啊-？不妨露个面](https://www.v2ex.com/t/880096) ![](assets/new.png)  
 - [2022-09-14-电视怎么进行防沉迷设置](https://www.v2ex.com/t/880093) ![](assets/new.png)  
 - [2022-09-14-ts-如何根据可选参数返回不同的泛型成员，有简单的写法吗？](https://www.v2ex.com/t/880092) ![](assets/new.png)  
-- [2022-09-14-没人讨论钟文泽-iPhone-14-的评测吗，感觉很不错啊。](https://www.v2ex.com/t/880091) ![](assets/new.png)  
-- [2022-09-14-想要充值信仰，国内买-Pixel-有什么需要注意的吗？](https://www.v2ex.com/t/880090) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -571,8 +571,8 @@
 - [2022-09-14-一个科技平台型企业的网络安全建设心得｜科技创新型企业专刊·安全村](https://toutiao.io/k/8weabaq) ![](assets/new.png)  
 - [2022-09-14-我有-7-种实现-Web-实时消息推送的方案，7种！](https://toutiao.io/k/ciew6jm) ![](assets/new.png)  
 - [2022-09-14-携程火车票iOS项目开发体验优化实践](https://toutiao.io/k/csbftkr) ![](assets/new.png)  
+- [2022-09-14-推荐-常见分布式系统设计图解](https://toutiao.io/k/osewvaz) ![](assets/new.png)  
 - [2022-09-14-推荐-近期-yyds-的-GitHub-项目](https://toutiao.io/k/i1qkq4o) ![](assets/new.png)  
-- [2022-09-14-推荐-微服务网关鉴权：gateway使用、网关限流使用、用户密码加密、JWT鉴权](https://toutiao.io/k/rdhhq5d) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

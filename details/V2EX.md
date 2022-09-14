@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2022-09-14 16:20:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-14 17:05:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-09-14-怎样才能拥有信仰](https://www.v2ex.com/t/880115) 
+- [2022-09-14-心累，-ssh-自定义文件名之后到底应该做什么](https://www.v2ex.com/t/880114) 
 - [2022-09-14-在人生中你有没有遇到过这样一种情况，在某个时间节点，你赌一把，会得到巨大的回报，但风险也是巨大的。不赌可以得到完全-0-风险的低收益。你会怎么选择？](https://www.v2ex.com/t/880113) 
 - [2022-09-14-互联网中的一些风险](https://www.v2ex.com/t/880112) 
 - [2022-09-14-Chromium-107.0.5301.0-打开-V2EX-时卡在-service-worker-上](https://www.v2ex.com/t/880111) 
@@ -42,5 +44,3 @@
 - [2022-09-14-RouterOS-获取到-IPv6-prefix-之后，-1-天之后就会失效](https://www.v2ex.com/t/880070) 
 - [2022-09-14-观近-20-年国内各城市-GDP-走势的小发现](https://www.v2ex.com/t/880069) 
 - [2022-09-14-为啥-mac-studio-的键盘设置里会有-touchbar？](https://www.v2ex.com/t/880066) 
-- [2022-09-14-关于找对象的问题](https://www.v2ex.com/t/880065) 
-- [2022-09-14-关于今年-iPhone-普通版/Pro-版-iOS-维护周期的疑问](https://www.v2ex.com/t/880064) 

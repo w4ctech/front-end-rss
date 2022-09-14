@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-14 13:29:52。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-09-14 14:09:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,9 @@
 </summary>
 
 
+- [【V2EX】2022-09-14-苏宁要开始-996-了，凛冬将至](https://www.v2ex.com/t/880086) 
+- [【V2EX】2022-09-14-暴露年龄，有多少人用过净坛使者这个-Windows-小工具](https://www.v2ex.com/t/880083) 
+- [【V2EX】2022-09-14-进外包两天了，求安慰](https://www.v2ex.com/t/880082) 
 - [【V2EX】2022-09-14-“工业和信息化部政务服务平台”你们的证书到期了](https://www.v2ex.com/t/880081) 
 - [【V2EX】2022-09-14-不坐班/🇺🇸线上医疗平台招聘-Java-开发工程师/月薪-30-45K-RMB](https://www.v2ex.com/t/880079) 
 - [【V2EX】2022-09-14-老家买了房，贷款-25-年，最近发现利息好重](https://www.v2ex.com/t/880078) 
@@ -103,10 +106,6 @@
 - [【V2EX】2022-09-14-基于声网-SDK-实现-iOS-端的一对一视频通话](https://www.v2ex.com/t/880041) 
 - [【V2EX】2022-09-14-📮-QQ-邮箱-BUG，精神崩溃。。。](https://www.v2ex.com/t/880039) 
 - [【V2EX】2022-09-14-WWDC-发布-macOS-Ventura-的时候展示使用手机摄像头的支架在哪里可以买到？](https://www.v2ex.com/t/880037) 
-- [【V2EX】2022-09-14-golang-有没轻量级的配置中心？](https://www.v2ex.com/t/880036) 
-- [【V2EX】2022-09-14-公司邮箱迁移到腾讯企业邮，之前基于-exchangelib-的自动化工具都不能用了](https://www.v2ex.com/t/880035) 
-- [【V2EX】2022-09-14-分享一下最近新写的-Web-API-框架](https://www.v2ex.com/t/880033) 
-- [【V2EX】2022-09-14-网址被阻断跳转到百度智能云，求解？](https://www.v2ex.com/t/880032) 
 - [【技术头条】2022-09-14-图技术在美团外卖下的场景化应用及探索-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15398&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F09%2F08%2Fgnn-scenariomodeling-subgraphextend-jointtraining.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-14-TLS指纹分析研究（上）-blog.nsfocus.net](https://blogread.cn/news/go.php?idItem=15397&url=http%3A%2F%2Fblog.nsfocus.net%2Ftls1-0%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-14-Unix-历史：一个伟大作品的诞生-linux.cn](https://blogread.cn/news/go.php?idItem=15396&url=https%3A%2F%2Flinux.cn%2Farticle-15024-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -137,18 +136,18 @@
 - [【开发者头条】2022-09-14-Istio-服务网格-ambient-模式安全详解](https://toutiao.io/k/tf5hb27) 
 - [【开发者头条】2022-09-14-持续交付-2.0-的组织文化](https://toutiao.io/k/k4x5tze) 
 - [【开发者头条】2022-09-14-聊聊如何利用p6spy进行sql监控](https://toutiao.io/k/2191cqo) 
+- [【开发者头条】2022-09-14-缓存和数据库一致性问题，看这篇就够了](https://toutiao.io/k/qjqpgy8) 
 - [【开发者头条】2022-09-14-用Rust实现KV-Server-2-协议层](https://toutiao.io/k/27lt8op) 
 - [【开发者头条】2022-09-14-为什么说-90%-的情况下，immer-能完胜-immutable？](https://toutiao.io/k/u7ugk4f) 
-- [【开发者头条】2022-09-14-缓存和数据库一致性问题，看这篇就够了](https://toutiao.io/k/qjqpgy8) 
-- [【开发者头条】2022-09-14-斯坦福李飞飞团队新研究登-Nature-子刊：实现可信-AI，数据的设计、完善、评估是关键](https://toutiao.io/k/9w7er4m) 
 - [【开发者头条】2022-09-14-前端比较简单，不需要架构？](https://toutiao.io/k/nj06h3g) 
+- [【开发者头条】2022-09-14-斯坦福李飞飞团队新研究登-Nature-子刊：实现可信-AI，数据的设计、完善、评估是关键](https://toutiao.io/k/9w7er4m) 
 - [【开发者头条】2022-09-14-携程火车票iOS项目开发体验优化实践](https://toutiao.io/k/csbftkr) 
 - [【开发者头条】2022-09-14-一个科技平台型企业的网络安全建设心得｜科技创新型企业专刊·安全村](https://toutiao.io/k/8weabaq) 
 - [【开发者头条】2022-09-14-我有-7-种实现-Web-实时消息推送的方案，7种！](https://toutiao.io/k/ciew6jm) 
-- [【开发者头条】2022-09-14-推荐-近期-yyds-的-GitHub-项目](https://toutiao.io/k/i1qkq4o) 
+- [【开发者头条】2022-09-14-推荐-常见分布式系统设计图解](https://toutiao.io/k/osewvaz) 
 - [【开发者头条】2022-09-14-推荐-微服务网关鉴权：gateway使用、网关限流使用、用户密码加密、JWT鉴权](https://toutiao.io/k/rdhhq5d) 
 - [【开发者头条】2022-09-14-推荐-公司40k招的架构师写的API网关选型总结，就是牛逼！](https://toutiao.io/k/kyi9yzt) 
-- [【开发者头条】2022-09-14-推荐-常见分布式系统设计图解](https://toutiao.io/k/osewvaz) 
+- [【开发者头条】2022-09-14-推荐-近期-yyds-的-GitHub-项目](https://toutiao.io/k/i1qkq4o) 
 - [【开发者头条】2022-09-14-推荐-SpringBoot-官方强烈推荐，连接池，太快了！](https://toutiao.io/k/zumxh7v) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>

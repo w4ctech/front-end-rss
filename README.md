@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-14 11:41:08，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-14 12:30:16，:rocket: 更新条数: +2004， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
-- [开发者头条](#开发者头条)![](assets/dot.png)   
+- [开发者头条](#开发者头条)  
 - [安全热点](#安全热点)  
 - [物联网智库](#物联网智库)  
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-09-14-要不要读个非全日制的研究生？](https://www.v2ex.com/t/880071) ![](assets/new.png)  
+- [2022-09-14-RouterOS-获取到-IPv6-prefix-之后，-1-天之后就会失效](https://www.v2ex.com/t/880070) ![](assets/new.png)  
+- [2022-09-14-观近-20-年国内各城市-GDP-走势的小发现](https://www.v2ex.com/t/880069) ![](assets/new.png)  
+- [2022-09-14-为啥-mac-studio-的键盘设置里会有-touchbar？](https://www.v2ex.com/t/880066) ![](assets/new.png)  
+- [2022-09-14-关于找对象的问题](https://www.v2ex.com/t/880065) ![](assets/new.png)  
 - [2022-09-14-关于今年-iPhone-普通版/Pro-版-iOS-维护周期的疑问](https://www.v2ex.com/t/880064) ![](assets/new.png)  
 - [2022-09-14-你们的-Typora-还能用吗?](https://www.v2ex.com/t/880063) ![](assets/new.png)  
 - [2022-09-14-如何在-Alfred-中直接搜索-快捷指令？](https://www.v2ex.com/t/880062) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-09-14-在公司电脑创建加密虚拟硬盘（veracrypt-或者-bitlocker），删除加密虚拟硬盘里的文件是否能被恢复？](https://www.v2ex.com/t/880052) ![](assets/new.png)  
 - [2022-09-14-iOS-16-怎么添加了个开发者模式，让人迷惑](https://www.v2ex.com/t/880051) ![](assets/new.png)  
 - [2022-09-14-有没有前辈们科普一下：-V-站是为何被屏蔽的?](https://www.v2ex.com/t/880050) ![](assets/new.png)  
-- [2022-09-14-为什么-App-Store-里的已购项目只能隐藏不能删除？](https://www.v2ex.com/t/880049) ![](assets/new.png)  
-- [2022-09-14-大家一般用什么来看剧-？](https://www.v2ex.com/t/880047) ![](assets/new.png)  
-- [2022-09-14-国内还有哪些类似于-jsdelivr-免费的-cdn-服务啊？](https://www.v2ex.com/t/880044) ![](assets/new.png)  
-- [2022-09-14-舞蹈动作的教学中，正面背面演示各有优缺点，有办法合并吗？](https://www.v2ex.com/t/880043) ![](assets/new.png)  
-- [2022-09-14-我在家乐福买的-airpods-pro，有效质保不足一年](https://www.v2ex.com/t/880042) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -553,26 +553,6 @@
 </summary>
 
 
-- [2022-09-14-1.8w-字的-SQL-优化大全](https://toutiao.io/k/tz7p6nl) ![](assets/new.png)  
-- [2022-09-14-声网开发者创业讲堂丨第-5-期：技术创业者如何做好技术团队管理？](https://toutiao.io/k/peycpb0) ![](assets/new.png)  
-- [2022-09-14-字节二面：Redis-的大-Key-对持久化有什么影响？](https://toutiao.io/k/dwzvr51) ![](assets/new.png)  
-- [2022-09-14-千万千万不要在方法上打断点！太坑了！](https://toutiao.io/k/se8mzu6) ![](assets/new.png)  
-- [2022-09-14-C++/Qt/VTK技能树](https://toutiao.io/k/erbkznv) ![](assets/new.png)  
-- [2022-09-14-单表性能提升数倍，Doris向量化技术升级实践！](https://toutiao.io/k/tlst9fb) ![](assets/new.png)  
-- [2022-09-14-探索原味BFF模式](https://toutiao.io/k/abx3waz) ![](assets/new.png)  
-- [2022-09-14-Istio-服务网格-ambient-模式安全详解](https://toutiao.io/k/tf5hb27) ![](assets/new.png)  
-- [2022-09-14-持续交付-2.0-的组织文化](https://toutiao.io/k/k4x5tze) ![](assets/new.png)  
-- [2022-09-14-聊聊如何利用p6spy进行sql监控](https://toutiao.io/k/2191cqo) ![](assets/new.png)  
-- [2022-09-14-用Rust实现KV-Server-2-协议层](https://toutiao.io/k/27lt8op) ![](assets/new.png)  
-- [2022-09-14-为什么说-90%-的情况下，immer-能完胜-immutable？](https://toutiao.io/k/u7ugk4f) ![](assets/new.png)  
-- [2022-09-14-前端比较简单，不需要架构？](https://toutiao.io/k/nj06h3g) ![](assets/new.png)  
-- [2022-09-14-缓存和数据库一致性问题，看这篇就够了](https://toutiao.io/k/qjqpgy8) ![](assets/new.png)  
-- [2022-09-14-斯坦福李飞飞团队新研究登-Nature-子刊：实现可信-AI，数据的设计、完善、评估是关键](https://toutiao.io/k/9w7er4m) ![](assets/new.png)  
-- [2022-09-14-携程火车票iOS项目开发体验优化实践](https://toutiao.io/k/csbftkr) ![](assets/new.png)  
-- [2022-09-14-一个科技平台型企业的网络安全建设心得｜科技创新型企业专刊·安全村](https://toutiao.io/k/8weabaq) ![](assets/new.png)  
-- [2022-09-14-我有-7-种实现-Web-实时消息推送的方案，7种！](https://toutiao.io/k/ciew6jm) ![](assets/new.png)  
-- [2022-09-14-推荐-SpringBoot-官方强烈推荐，连接池，太快了！](https://toutiao.io/k/zumxh7v) ![](assets/new.png)  
-- [2022-09-14-推荐-常见分布式系统设计图解](https://toutiao.io/k/osewvaz) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-09-14 11:41:08。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-14 12:30:16。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -253,9 +253,6 @@
 
 
 
-- [【开发者头条】1.8w-字的-SQL-优化大全](https://toutiao.io/k/tz7p6nl)
-- [【开发者头条】单表性能提升数倍，Doris向量化技术升级实践！](https://toutiao.io/k/tlst9fb)
-- [【开发者头条】携程火车票iOS项目开发体验优化实践](https://toutiao.io/k/csbftkr)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -280,9 +277,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
 - [【张鑫旭-鑫空间-鑫生活】基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/)
 - [【V2EX】使用-needle-发起请求，经常-socket-hang-up-报错](https://www.v2ex.com/t/880060)
-- [【开发者头条】Istio-服务网格-ambient-模式安全详解](https://toutiao.io/k/tf5hb27)
-- [【开发者头条】缓存和数据库一致性问题，看这篇就够了](https://toutiao.io/k/qjqpgy8)
-- [【开发者头条】一个科技平台型企业的网络安全建设心得｜科技创新型企业专刊·安全村](https://toutiao.io/k/8weabaq)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -336,7 +330,6 @@
 
 - [【张鑫旭-鑫空间-鑫生活】gitee上撸了个类似飞书OKR输入框的@提及项目](https://www.zhangxinxu.com/wordpress/2022/08/gitee-feishu-okr-at-mention/)
 - [【V2EX】Git-有办法实现在往某些源-push-时排除几个文件或是替换一些关键词吗？](https://www.v2ex.com/t/880053)
-- [【开发者头条】推荐-近期-yyds-的-GitHub-项目](https://toutiao.io/k/i1qkq4o)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -353,7 +346,6 @@
 
 
 
-- [【V2EX】离职调整一年之后，明天有一个电话面试，第一次电脑面试应该注意什么，？](https://www.v2ex.com/t/880021)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

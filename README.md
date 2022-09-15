@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-15 15:48:20，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-15 16:20:33，:rocket: 更新条数: +2031， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,13 @@
 </summary>
 
 
+- [2022-09-15-谨慎购买索尼-WF-1000XM4-降噪豆三代](https://www.v2ex.com/t/880404) ![](assets/new.png)  
+- [2022-09-15-Figma-居然投靠了-Adobe，无语](https://www.v2ex.com/t/880403) ![](assets/new.png)  
+- [2022-09-15-golang-中-struct{}-一个奇怪的行为](https://www.v2ex.com/t/880402) ![](assets/new.png)  
+- [2022-09-15-apple-tv-+现在需要魔法了吗](https://www.v2ex.com/t/880401) ![](assets/new.png)  
+- [2022-09-15-各位老铁有-Office-365-的车位吗，想上车](https://www.v2ex.com/t/880400) ![](assets/new.png)  
+- [2022-09-15-Android-怎么获取-Activity-横竖屏?我暂没找到靠谱-api](https://www.v2ex.com/t/880399) ![](assets/new.png)  
+- [2022-09-15-Adobe-以-200-亿收购-Figma，并准备抛弃-XD](https://www.v2ex.com/t/880398) ![](assets/new.png)  
 - [2022-09-15-简化-react-hook-的方法？](https://www.v2ex.com/t/880396) ![](assets/new.png)  
 - [2022-09-15-堕入地狱模式](https://www.v2ex.com/t/880395) ![](assets/new.png)  
 - [2022-09-15-手机从-OLED-屏幕换成-LCD-屏幕，治好了我的眼睛痛。](https://www.v2ex.com/t/880394) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-09-15-土区-ID-验证支付方式怎么解决？](https://www.v2ex.com/t/880385) ![](assets/new.png)  
 - [2022-09-15-最近在招聘网站上经常遇到规模-499-人以上的问，是外包-介意吗？为什么对方要强调是外包。](https://www.v2ex.com/t/880384) ![](assets/new.png)  
 - [2022-09-15-今天疼讯倒闭了吗？](https://www.v2ex.com/t/880383) ![](assets/new.png)  
-- [2022-09-15-吐槽-Safari-16-垂直标签页迷惑行为](https://www.v2ex.com/t/880382) ![](assets/new.png)  
-- [2022-09-15-同样的设备-802.11s-无法互联](https://www.v2ex.com/t/880380) ![](assets/new.png)  
-- [2022-09-15-小米手机首次双开双开应用时提示“启动失败，请重试”](https://www.v2ex.com/t/880379) ![](assets/new.png)  
-- [2022-09-15-有支持周末面试的公司吗](https://www.v2ex.com/t/880378) ![](assets/new.png)  
-- [2022-09-15-m2-air-今天屏幕突然不亮了，但外接显示器可用](https://www.v2ex.com/t/880375) ![](assets/new.png)  
-- [2022-09-15-i2p-的出口代理是啥](https://www.v2ex.com/t/880374) ![](assets/new.png)  
-- [2022-09-15-被腾讯云坑了几分钱，钱少事大](https://www.v2ex.com/t/880372) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,7 +572,7 @@
 - [2022-09-15-捕获了一只发生概率小于万分之一的Bug](https://toutiao.io/k/9w18i51) ![](assets/new.png)  
 - [2022-09-15-【第2730期】你想知道的前后端协作规范都在这](https://toutiao.io/k/o9eyq53) ![](assets/new.png)  
 - [2022-09-15-Ubuntu-22.10集成Debuginfod](https://toutiao.io/k/mcaz8kv) ![](assets/new.png)  
-- [2022-09-15-推荐-常见分布式系统设计图解](https://toutiao.io/k/osewvaz) ![](assets/new.png)  
+- [2022-09-15-推荐-微服务网关鉴权：gateway使用、网关限流使用、用户密码加密、JWT鉴权](https://toutiao.io/k/rdhhq5d) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

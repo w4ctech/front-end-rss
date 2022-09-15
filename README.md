@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-15 12:32:22，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-15 13:31:54，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,26 +491,26 @@
 </summary>
 
 
+- [2022-09-15-m2-air-今天屏幕突然不亮了，但外接显示器可用](https://www.v2ex.com/t/880375) ![](assets/new.png)  
+- [2022-09-15-i2p-的出口代理是啥](https://www.v2ex.com/t/880374) ![](assets/new.png)  
+- [2022-09-15-被腾讯云坑了几分钱，钱少事大](https://www.v2ex.com/t/880372) ![](assets/new.png)  
+- [2022-09-15-watchOS9-跟-iPhone-iOS15.6-还能连接吗？](https://www.v2ex.com/t/880371) ![](assets/new.png)  
+- [2022-09-15-辞职了，准备去面培训机构老师](https://www.v2ex.com/t/880370) ![](assets/new.png)  
+- [2022-09-15-有没有在五大行工作的小伙伴](https://www.v2ex.com/t/880369) ![](assets/new.png)  
+- [2022-09-15-YouTube-更新了-UI](https://www.v2ex.com/t/880367) ![](assets/new.png)  
+- [2022-09-15-给爹妈换手机，一台-2000-左右](https://www.v2ex.com/t/880366) ![](assets/new.png)  
+- [2022-09-15-求一馒头邀](https://www.v2ex.com/t/880365) ![](assets/new.png)  
+- [2022-09-15-感觉苹果越来越躺平了](https://www.v2ex.com/t/880364) ![](assets/new.png)  
+- [2022-09-15-Apple-Store-明天什么时候能买到线下取货的-iPhone-14?](https://www.v2ex.com/t/880363) ![](assets/new.png)  
+- [2022-09-15-问一下昨天学习-Docker-但是-com.company-里边的代码无法启动-docker](https://www.v2ex.com/t/880362) ![](assets/new.png)  
 - [2022-09-15-V6-出海线路比较](https://www.v2ex.com/t/880361) ![](assets/new.png)  
 - [2022-09-15-桌面软件开发-2022-年-用啥技术栈？](https://www.v2ex.com/t/880360) ![](assets/new.png)  
 - [2022-09-15-上海-不加班-可一半时间居家办公-外企-招-中高级-Java-，中高级测试，高级安卓、产品，中级-devOps](https://www.v2ex.com/t/880359) ![](assets/new.png)  
 - [2022-09-15-Facetime-Audio-到底是锁的机器还是锁的账号](https://www.v2ex.com/t/880358) ![](assets/new.png)  
 - [2022-09-15-Scaniverse-2.0-支持无激光雷达设备的三维重建](https://www.v2ex.com/t/880357) ![](assets/new.png)  
 - [2022-09-15-安卓和-pc-互传文件的最佳方案？](https://www.v2ex.com/t/880355) ![](assets/new.png)  
+- [2022-09-15-港股膝盖斩，程序员下海卖螃蟹](https://www.v2ex.com/t/880353) ![](assets/new.png)  
 - [2022-09-15-求助大佬，在-idea-中，有什么办法可以快速把日志输出里面的字符串由-+-号拼接转成，{}-占位符的形式。](https://www.v2ex.com/t/880351) ![](assets/new.png)  
-- [2022-09-15-如何通过-shardingsphere-proxy-实现只分库不分表](https://www.v2ex.com/t/880348) ![](assets/new.png)  
-- [2022-09-15-关于限流组件，令牌桶和漏桶](https://www.v2ex.com/t/880347) ![](assets/new.png)  
-- [2022-09-15-新品发布-|-Cloudpods-3.9.2-版本上线！](https://www.v2ex.com/t/880346) ![](assets/new.png)  
-- [2022-09-15-为程序员准备的运动-徒步-露营-全公益-无收费](https://www.v2ex.com/t/880342) ![](assets/new.png)  
-- [2022-09-15-19-款-mbp-装-bootcamp-双系统-win10，无论-win-下-mac-下风扇都会频繁发狂，求解！](https://www.v2ex.com/t/880341) ![](assets/new.png)  
-- [2022-09-15-Linux-下用户态程序如何使用-SO_TXTIME-属性指定报文的发送时间？](https://www.v2ex.com/t/880340) ![](assets/new.png)  
-- [2022-09-15-又被面试官问倒了，关于分布式锁](https://www.v2ex.com/t/880339) ![](assets/new.png)  
-- [2022-09-15-各位在京东抢购的-iPhone-14-Pro都发货了吗？](https://www.v2ex.com/t/880338) ![](assets/new.png)  
-- [2022-09-15-vscode-如何设置快捷键-go-back-为-ctrl+右键?](https://www.v2ex.com/t/880337) ![](assets/new.png)  
-- [2022-09-15-装国产软件的虚拟机整个-174GiB-的-vmdk-被宿主机-Windows-Defender-隔离了，提示会捕获密码，是误报吗？](https://www.v2ex.com/t/880335) ![](assets/new.png)  
-- [2022-09-15-一段-perl-代码展示如何-all-in-one-优雅地编写一个异步爬虫](https://www.v2ex.com/t/880334) ![](assets/new.png)  
-- [2022-09-15-关于-Vue-的状态管理的一点困惑](https://www.v2ex.com/t/880332) ![](assets/new.png)  
-- [2022-09-15-可远程求一名靠谱前端，可以远程](https://www.v2ex.com/t/880331) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -562,17 +562,17 @@
 - [2022-09-15-数据库设计的-10-个最佳实践！](https://toutiao.io/k/k05pdm4) ![](assets/new.png)  
 - [2022-09-15-基于-iframe-的微前端框架-——-擎天](https://toutiao.io/k/pgzl06o) ![](assets/new.png)  
 - [2022-09-15-数据与广告系列三十四：定向智能化，是好东西，但终究是英雄迟暮](https://toutiao.io/k/zmi2jek) ![](assets/new.png)  
-- [2022-09-15-Erda-开源的迷失和反思](https://toutiao.io/k/b9zngnl) ![](assets/new.png)  
 - [2022-09-15-两个优秀的分布式消息流平台：Kafka与Pulsar](https://toutiao.io/k/yuum5dw) ![](assets/new.png)  
-- [2022-09-15-Python-的指针，有必要理解它](https://toutiao.io/k/wrgq0ci) ![](assets/new.png)  
+- [2022-09-15-Erda-开源的迷失和反思](https://toutiao.io/k/b9zngnl) ![](assets/new.png)  
 - [2022-09-15-破案了!-能ping通但是网络不通，是它们在搞鬼](https://toutiao.io/k/duh76oh) ![](assets/new.png)  
+- [2022-09-15-Python-的指针，有必要理解它](https://toutiao.io/k/wrgq0ci) ![](assets/new.png)  
 - [2022-09-15-用Colab免费部署自己的AI绘画云平台——-Stable-Diffusion](https://toutiao.io/k/r6x2qf1) ![](assets/new.png)  
 - [2022-09-15-捕获了一只发生概率小于万分之一的Bug](https://toutiao.io/k/9w18i51) ![](assets/new.png)  
 - [2022-09-15-Kaggle免费GPU使用攻略](https://toutiao.io/k/3bjgxi5) ![](assets/new.png)  
 - [2022-09-15-数据异构就该这样做，yyds~](https://toutiao.io/k/g2zpbfu) ![](assets/new.png)  
 - [2022-09-15-【第2730期】你想知道的前后端协作规范都在这](https://toutiao.io/k/o9eyq53) ![](assets/new.png)  
 - [2022-09-15-Ubuntu-22.10集成Debuginfod](https://toutiao.io/k/mcaz8kv) ![](assets/new.png)  
-- [2022-09-15-推荐-微服务网关鉴权：gateway使用、网关限流使用、用户密码加密、JWT鉴权](https://toutiao.io/k/rdhhq5d) ![](assets/new.png)  
+- [2022-09-15-推荐-常见分布式系统设计图解](https://toutiao.io/k/osewvaz) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-15 13:31:54，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-15 14:09:25，:rocket: 更新条数: +2025， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-09-15-吐槽-Safari-16-垂直标签页迷惑行为](https://www.v2ex.com/t/880382) ![](assets/new.png)  
+- [2022-09-15-同样的设备-802.11s-无法互联](https://www.v2ex.com/t/880380) ![](assets/new.png)  
+- [2022-09-15-小米手机首次双开双开应用时提示“启动失败，请重试”](https://www.v2ex.com/t/880379) ![](assets/new.png)  
+- [2022-09-15-有支持周末面试的公司吗](https://www.v2ex.com/t/880378) ![](assets/new.png)  
 - [2022-09-15-m2-air-今天屏幕突然不亮了，但外接显示器可用](https://www.v2ex.com/t/880375) ![](assets/new.png)  
 - [2022-09-15-i2p-的出口代理是啥](https://www.v2ex.com/t/880374) ![](assets/new.png)  
 - [2022-09-15-被腾讯云坑了几分钱，钱少事大](https://www.v2ex.com/t/880372) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-09-15-桌面软件开发-2022-年-用啥技术栈？](https://www.v2ex.com/t/880360) ![](assets/new.png)  
 - [2022-09-15-上海-不加班-可一半时间居家办公-外企-招-中高级-Java-，中高级测试，高级安卓、产品，中级-devOps](https://www.v2ex.com/t/880359) ![](assets/new.png)  
 - [2022-09-15-Facetime-Audio-到底是锁的机器还是锁的账号](https://www.v2ex.com/t/880358) ![](assets/new.png)  
-- [2022-09-15-Scaniverse-2.0-支持无激光雷达设备的三维重建](https://www.v2ex.com/t/880357) ![](assets/new.png)  
-- [2022-09-15-安卓和-pc-互传文件的最佳方案？](https://www.v2ex.com/t/880355) ![](assets/new.png)  
-- [2022-09-15-港股膝盖斩，程序员下海卖螃蟹](https://www.v2ex.com/t/880353) ![](assets/new.png)  
-- [2022-09-15-求助大佬，在-idea-中，有什么办法可以快速把日志输出里面的字符串由-+-号拼接转成，{}-占位符的形式。](https://www.v2ex.com/t/880351) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,7 +572,7 @@
 - [2022-09-15-数据异构就该这样做，yyds~](https://toutiao.io/k/g2zpbfu) ![](assets/new.png)  
 - [2022-09-15-【第2730期】你想知道的前后端协作规范都在这](https://toutiao.io/k/o9eyq53) ![](assets/new.png)  
 - [2022-09-15-Ubuntu-22.10集成Debuginfod](https://toutiao.io/k/mcaz8kv) ![](assets/new.png)  
-- [2022-09-15-推荐-常见分布式系统设计图解](https://toutiao.io/k/osewvaz) ![](assets/new.png)  
+- [2022-09-15-推荐-SpringBoot-官方强烈推荐，连接池，太快了！](https://toutiao.io/k/zumxh7v) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

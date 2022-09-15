@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-15 06:40:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-15 07:28:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -14,5 +14,5 @@
 - [2021-01-08-解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html) 
 - [2021-01-01-大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html) 
 - [2022-06-12-基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/) 
+- [2022-09-15-win10，-cmd-执行-wget-批量下载，能不能添加-声音提示，让-user-知道-下完了](https://www.v2ex.com/t/880275) 
 - [2022-09-15-GoogleChrome-在-Mac-下的多屏幕，焦点&快捷键问题。](https://www.v2ex.com/t/880262) 
-- [2022-09-15-人工智能画作-ambient-氛围感令人惊叹](https://www.v2ex.com/t/880215) 

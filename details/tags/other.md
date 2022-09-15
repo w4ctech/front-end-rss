@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-15 17:51:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-15 18:18:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1979,6 +1979,6 @@
 - [2022-09-15-捕获了一只发生概率小于万分之一的Bug](https://toutiao.io/k/9w18i51) 
 - [2022-09-15-【第2730期】你想知道的前后端协作规范都在这](https://toutiao.io/k/o9eyq53) 
 - [2022-09-15-Ubuntu-22.10集成Debuginfod](https://toutiao.io/k/mcaz8kv) 
-- [2022-09-15-推荐-公司40k招的架构师写的API网关选型总结，就是牛逼！](https://toutiao.io/k/kyi9yzt) 
 - [2022-09-15-推荐-微服务网关鉴权：gateway使用、网关限流使用、用户密码加密、JWT鉴权](https://toutiao.io/k/rdhhq5d) 
 - [2022-09-15-推荐-常见分布式系统设计图解](https://toutiao.io/k/osewvaz) 
+- [2022-09-15-推荐-公司40k招的架构师写的API网关选型总结，就是牛逼！](https://toutiao.io/k/kyi9yzt) 

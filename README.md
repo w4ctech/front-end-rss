@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-15 17:51:07，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-15 18:18:52，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -572,7 +572,7 @@
 - [2022-09-15-捕获了一只发生概率小于万分之一的Bug](https://toutiao.io/k/9w18i51) ![](assets/new.png)  
 - [2022-09-15-【第2730期】你想知道的前后端协作规范都在这](https://toutiao.io/k/o9eyq53) ![](assets/new.png)  
 - [2022-09-15-Ubuntu-22.10集成Debuginfod](https://toutiao.io/k/mcaz8kv) ![](assets/new.png)  
-- [2022-09-15-推荐-近期-yyds-的-GitHub-项目](https://toutiao.io/k/i1qkq4o) ![](assets/new.png)  
+- [2022-09-15-推荐-微服务网关鉴权：gateway使用、网关限流使用、用户密码加密、JWT鉴权](https://toutiao.io/k/rdhhq5d) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-15 11:41:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-15 12:32:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -19,4 +19,3 @@
 - [2022-05-29-如何实现页面刷新后不定位到之前的滚动位置？](https://www.zhangxinxu.com/wordpress/2022/05/history-scrollrestoration/) 
 - [2022-09-15-关于限流组件，令牌桶和漏桶](https://www.v2ex.com/t/880347) 
 - [2022-09-15-一段-perl-代码展示如何-all-in-one-优雅地编写一个异步爬虫](https://www.v2ex.com/t/880334) 
-- [2022-09-15-Swift-关于-Binding-的疑问](https://www.v2ex.com/t/880307) 

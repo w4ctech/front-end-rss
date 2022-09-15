@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-15 01:21:17，:rocket: 更新条数: +2018， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-15 04:08:17，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,26 +491,26 @@
 </summary>
 
 
-- [2022-09-15-求购-magsafe-外接电池-接受使用痕迹-有闲置的请联系我](https://www.v2ex.com/t/880148) ![](assets/new.png)  
-- [2022-09-15-sublime-text4-打开新文件夹总是一层一层的加载,-很慢,-是什么原因?](https://www.v2ex.com/t/880147) ![](assets/new.png)  
-- [2022-09-15-上海运营商选择](https://www.v2ex.com/t/880145) ![](assets/new.png)  
-- [2022-09-15-Python-每日一练：-Excel-文件处理](https://www.v2ex.com/t/880144) ![](assets/new.png)  
-- [2022-09-15-godaddy-买的域名被-serverhold-了](https://www.v2ex.com/t/880143) ![](assets/new.png)  
-- [2022-09-15-「线圈」v1.2.1-💃💃💃-每人的项目、APP-都能拥有一个专属于自己的讨论版！](https://www.v2ex.com/t/880142) ![](assets/new.png)  
-- [2022-09-15-Google-Play-余额有办法提出来吗?](https://www.v2ex.com/t/880141) ![](assets/new.png)  
-- [2022-09-15-OneDriver-同步-iPhone-照片不完整，求方案](https://www.v2ex.com/t/880139) ![](assets/new.png)  
-- [2022-09-15-v2-有没有不是程序员的，其他行业的情况怎么样，在-boss-尝试投了一些，也没什么水花](https://www.v2ex.com/t/880138) ![](assets/new.png)  
-- [2022-09-15-为什么苹果产品测评评论区全是安卓用户，而安卓产品测评评论区没有苹果用户？](https://www.v2ex.com/t/880137) ![](assets/new.png)  
-- [2022-09-15-羊了个羊！](https://www.v2ex.com/t/880136) ![](assets/new.png)  
-- [2022-09-15-iCloud-怎么扣费？](https://www.v2ex.com/t/880135) ![](assets/new.png)  
-- [2022-09-15-计算-N-天前的日期，可否用时间戳直接减？](https://www.v2ex.com/t/880134) ![](assets/new.png)  
-- [2022-09-14-在云上做了一次-ops，感觉像是在烂泥里爬行](https://www.v2ex.com/t/880128) ![](assets/new.png)  
-- [2022-09-14-iPhone-指纹感觉要回来了](https://www.v2ex.com/t/880127) ![](assets/new.png)  
-- [2022-09-14-台湾的-vtuber-爆发式增长。](https://www.v2ex.com/t/880125) ![](assets/new.png)  
-- [2022-09-14-火绒剑-成功把-迈克菲-删掉了](https://www.v2ex.com/t/880124) ![](assets/new.png)  
-- [2022-09-14-哈啰租车千万不能碰啊！万字血书教训！](https://www.v2ex.com/t/880123) ![](assets/new.png)  
-- [2022-09-14-E8450-怎麼樣](https://www.v2ex.com/t/880122) ![](assets/new.png)  
-- [2022-09-14-请问最佳的爬虫语言是什么](https://www.v2ex.com/t/880119) ![](assets/new.png)  
+- [2022-09-15-签名算法中的-密钥来自哪里？](https://www.v2ex.com/t/880213) ![](assets/new.png)  
+- [2022-09-15-Apple-官网宕机](https://www.v2ex.com/t/880209) ![](assets/new.png)  
+- [2022-09-15-Airpods-pro-2-的降噪怎么样](https://www.v2ex.com/t/880207) ![](assets/new.png)  
+- [2022-09-15-请问大佬们浏览器代码与本地代码不一致可能的原因是什么？](https://www.v2ex.com/t/880206) ![](assets/new.png)  
+- [2022-09-15-用-Django-分别制作-pc-端和手机端的问题](https://www.v2ex.com/t/880205) ![](assets/new.png)  
+- [2022-09-15-现安卓手机信号这块哪个品牌好一点](https://www.v2ex.com/t/880204) ![](assets/new.png)  
+- [2022-09-15-北京失业后,-外地户口可以灵活就业缴纳社保么](https://www.v2ex.com/t/880203) ![](assets/new.png)  
+- [2022-09-15-继-我买的不是手机吗…](https://www.v2ex.com/t/880202) ![](assets/new.png)  
+- [2022-09-15-Nginx-的-location-路径上可以使用变量吗](https://www.v2ex.com/t/880200) ![](assets/new.png)  
+- [2022-09-15-不敢用腾讯的产品了，-QQ-被盗所有安全设置全部被绕开](https://www.v2ex.com/t/880199) ![](assets/new.png)  
+- [2022-09-15-Apple-官网挂了？](https://www.v2ex.com/t/880197) ![](assets/new.png)  
+- [2022-09-15-iPhone-忘记屏幕使用时间密码怎么办？](https://www.v2ex.com/t/880196) ![](assets/new.png)  
+- [2022-09-15-这个运维兼职好难啊](https://www.v2ex.com/t/880195) ![](assets/new.png)  
+- [2022-09-15-v2er-们，你们的电池健康还剩多少，去年-5-月份购入的-12-电池健康就剩-90-了](https://www.v2ex.com/t/880194) ![](assets/new.png)  
+- [2022-09-15-转-羊了个羊修改通关思路分享](https://www.v2ex.com/t/880193) ![](assets/new.png)  
+- [2022-09-15-google-ads-账号被封，里面的钱怎么拿出来](https://www.v2ex.com/t/880192) ![](assets/new.png)  
+- [2022-09-15-升级-Ventura-最新-beta-版本后，拓展坞拓展显示器失效，有没有同境遇的？](https://www.v2ex.com/t/880191) ![](assets/new.png)  
+- [2022-09-15-交易策略交流](https://www.v2ex.com/t/880190) ![](assets/new.png)  
+- [2022-09-15-为什么这个简单的查询在-MySQL-8.0.25-这么慢？](https://www.v2ex.com/t/880186) ![](assets/new.png)  
+- [2022-09-15-watchOS9-无法解锁-mbp12.6-是个例吗](https://www.v2ex.com/t/880185) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -556,18 +556,23 @@
 - [2022-09-15-理想汽车：从-Hadoop-到云原生的演进与思考](https://toutiao.io/k/0sa2v7o) ![](assets/new.png)  
 - [2022-09-15-分页-+-模糊查询-有坑！](https://toutiao.io/k/i7yprz3) ![](assets/new.png)  
 - [2022-09-15-没有几十年功力，写不出这一行“看似无用”的代码！！](https://toutiao.io/k/ce2ftdl) ![](assets/new.png)  
-- [2022-09-15-Golang-模糊测试-简明教程](https://toutiao.io/k/fri7256) ![](assets/new.png)  
 - [2022-09-15-10.6K-Star！酷炫的开源数据库管理工具！](https://toutiao.io/k/bvfo9no) ![](assets/new.png)  
+- [2022-09-15-Golang-模糊测试-简明教程](https://toutiao.io/k/fri7256) ![](assets/new.png)  
 - [2022-09-15-基于-iframe-的微前端框架-——-擎天](https://toutiao.io/k/pgzl06o) ![](assets/new.png)  
 - [2022-09-15-数据与广告系列三十四：定向智能化，是好东西，但终究是英雄迟暮](https://toutiao.io/k/zmi2jek) ![](assets/new.png)  
+- [2022-09-15-深入单机TCP服务器最大连接数](https://toutiao.io/k/dnvio2b) ![](assets/new.png)  
 - [2022-09-15-Erda-开源的迷失和反思](https://toutiao.io/k/b9zngnl) ![](assets/new.png)  
 - [2022-09-15-Python-的指针，有必要理解它](https://toutiao.io/k/wrgq0ci) ![](assets/new.png)  
-- [2022-09-15-深入单机TCP服务器最大连接数](https://toutiao.io/k/dnvio2b) ![](assets/new.png)  
-- [2022-09-15-推荐-常见分布式系统设计图解](https://toutiao.io/k/osewvaz) ![](assets/new.png)  
+- [2022-09-15-数据库设计的-10-个最佳实践！](https://toutiao.io/k/k05pdm4) ![](assets/new.png)  
+- [2022-09-15-两个优秀的分布式消息流平台：Kafka与Pulsar](https://toutiao.io/k/yuum5dw) ![](assets/new.png)  
+- [2022-09-15-用Colab免费部署自己的AI绘画云平台——-Stable-Diffusion](https://toutiao.io/k/r6x2qf1) ![](assets/new.png)  
+- [2022-09-15-Kaggle免费GPU使用攻略](https://toutiao.io/k/3bjgxi5) ![](assets/new.png)  
+- [2022-09-15-捕获了一只发生概率小于万分之一的Bug](https://toutiao.io/k/9w18i51) ![](assets/new.png)  
 - [2022-09-15-推荐-公司40k招的架构师写的API网关选型总结，就是牛逼！](https://toutiao.io/k/kyi9yzt) ![](assets/new.png)  
-- [2022-09-15-推荐-近期-yyds-的-GitHub-项目](https://toutiao.io/k/i1qkq4o) ![](assets/new.png)  
 - [2022-09-15-推荐-SpringBoot-官方强烈推荐，连接池，太快了！](https://toutiao.io/k/zumxh7v) ![](assets/new.png)  
 - [2022-09-15-推荐-微服务网关鉴权：gateway使用、网关限流使用、用户密码加密、JWT鉴权](https://toutiao.io/k/rdhhq5d) ![](assets/new.png)  
+- [2022-09-15-推荐-常见分布式系统设计图解](https://toutiao.io/k/osewvaz) ![](assets/new.png)  
+- [2022-09-15-推荐-近期-yyds-的-GitHub-项目](https://toutiao.io/k/i1qkq4o) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

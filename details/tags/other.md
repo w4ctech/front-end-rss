@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-15 22:44:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-15 23:08:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,7 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-09-15-老哥们，请问这个-Model-在-Django-里面怎么建比较好](https://www.v2ex.com/t/880418) 
 - [2022-09-15-windows-为什么无法访问-Ubuntu-初始化的机械硬盘](https://www.v2ex.com/t/880417) 
 - [2022-09-15-易文档（yidocs），更简单的-markdown-静态文档生成模板](https://www.v2ex.com/t/880416) 
 - [2022-09-15-MinIO-搭建的-S3-对象存储，使用-rclone-上传的文件和文件夹在网页端面板看全变成了-0B-的空文件，但桶大小却能统计进去。用-rclone-的列目录命令也看不到这些文...](https://www.v2ex.com/t/880414) 
@@ -1977,6 +1978,6 @@
 - [2022-09-15-捕获了一只发生概率小于万分之一的Bug](https://toutiao.io/k/9w18i51) 
 - [2022-09-15-【第2730期】你想知道的前后端协作规范都在这](https://toutiao.io/k/o9eyq53) 
 - [2022-09-15-Ubuntu-22.10集成Debuginfod](https://toutiao.io/k/mcaz8kv) 
-- [2022-09-15-推荐-公司40k招的架构师写的API网关选型总结，就是牛逼！](https://toutiao.io/k/kyi9yzt) 
-- [2022-09-15-推荐-微服务网关鉴权：gateway使用、网关限流使用、用户密码加密、JWT鉴权](https://toutiao.io/k/rdhhq5d) 
 - [2022-09-15-推荐-常见分布式系统设计图解](https://toutiao.io/k/osewvaz) 
+- [2022-09-15-推荐-微服务网关鉴权：gateway使用、网关限流使用、用户密码加密、JWT鉴权](https://toutiao.io/k/rdhhq5d) 
+- [2022-09-15-推荐-公司40k招的架构师写的API网关选型总结，就是牛逼！](https://toutiao.io/k/kyi9yzt) 

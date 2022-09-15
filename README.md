@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-15 22:44:35，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-15 23:08:43，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-09-15-老哥们，请问这个-Model-在-Django-里面怎么建比较好](https://www.v2ex.com/t/880418) ![](assets/new.png)  
 - [2022-09-15-windows-为什么无法访问-Ubuntu-初始化的机械硬盘](https://www.v2ex.com/t/880417) ![](assets/new.png)  
 - [2022-09-15-易文档（yidocs），更简单的-markdown-静态文档生成模板](https://www.v2ex.com/t/880416) ![](assets/new.png)  
 - [2022-09-15-MinIO-搭建的-S3-对象存储，使用-rclone-上传的文件和文件夹在网页端面板看全变成了-0B-的空文件，但桶大小却能统计进去。用-rclone-的列目录命令也看不到这些文...](https://www.v2ex.com/t/880414) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-09-15-Adobe-以-200-亿收购-Figma，并准备抛弃-XD](https://www.v2ex.com/t/880398) ![](assets/new.png)  
 - [2022-09-15-简化-react-hook-的方法？](https://www.v2ex.com/t/880396) ![](assets/new.png)  
 - [2022-09-15-手机从-OLED-屏幕换成-LCD-屏幕，治好了我的眼睛痛。](https://www.v2ex.com/t/880394) ![](assets/new.png)  
-- [2022-09-15-抛砖引玉，你有没有更值得推荐的导航网站](https://www.v2ex.com/t/880392) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,7 +572,7 @@
 - [2022-09-15-捕获了一只发生概率小于万分之一的Bug](https://toutiao.io/k/9w18i51) ![](assets/new.png)  
 - [2022-09-15-【第2730期】你想知道的前后端协作规范都在这](https://toutiao.io/k/o9eyq53) ![](assets/new.png)  
 - [2022-09-15-Ubuntu-22.10集成Debuginfod](https://toutiao.io/k/mcaz8kv) ![](assets/new.png)  
-- [2022-09-15-推荐-公司40k招的架构师写的API网关选型总结，就是牛逼！](https://toutiao.io/k/kyi9yzt) ![](assets/new.png)  
+- [2022-09-15-推荐-常见分布式系统设计图解](https://toutiao.io/k/osewvaz) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

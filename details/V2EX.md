@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-09-15 22:44:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-15 23:08:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-09-15-老哥们，请问这个-Model-在-Django-里面怎么建比较好](https://www.v2ex.com/t/880418) 
 - [2022-09-15-windows-为什么无法访问-Ubuntu-初始化的机械硬盘](https://www.v2ex.com/t/880417) 
 - [2022-09-15-易文档（yidocs），更简单的-markdown-静态文档生成模板](https://www.v2ex.com/t/880416) 
 - [2022-09-15-MinIO-搭建的-S3-对象存储，使用-rclone-上传的文件和文件夹在网页端面板看全变成了-0B-的空文件，但桶大小却能统计进去。用-rclone-的列目录命令也看不到这些文...](https://www.v2ex.com/t/880414) 

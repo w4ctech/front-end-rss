@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-09-15 09:17:44。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-15 09:46:12。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -278,7 +278,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
 - [【张鑫旭-鑫空间-鑫生活】基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/)
-- [【V2EX】win10，-cmd-执行-wget-批量下载，能不能添加-声音提示，让-user-知道-下完了](https://www.v2ex.com/t/880275)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -331,6 +330,7 @@
 
 
 - [【张鑫旭-鑫空间-鑫生活】gitee上撸了个类似飞书OKR输入框的@提及项目](https://www.zhangxinxu.com/wordpress/2022/08/gitee-feishu-okr-at-mention/)
+- [【V2EX】好工具周刊（第-30-期）:-First-Pull-Request,-Useful-Forks,-GitHub-Statistics,-OurBoard,-AnimatiSS,-随机英文姓名生成器,-REVERB](https://www.v2ex.com/t/880322)
 - [【开发者头条】推荐-近期-yyds-的-GitHub-项目](https://toutiao.io/k/i1qkq4o)
 - [......【查看更多】......](./details/tags/git-svn.md)
 

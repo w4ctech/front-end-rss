@@ -10146,11 +10146,6 @@
         "title": "多个单盘 MinIO 节点做 replication 是不是用 XFS 就足够可靠了？",
         "link": "https://www.v2ex.com/t/880675",
         "date": "2022-09-16"
-      },
-      {
-        "title": "打算寄一个电动车回湖南走哪家物流公司比较好呢",
-        "link": "https://www.v2ex.com/t/880673",
-        "date": "2022-09-16"
       }
     ]
   },
@@ -10367,18 +10362,13 @@
         "date": "2022-09-16"
       },
       {
+        "title": "[推荐] 常见分布式系统设计图解",
+        "link": "https://toutiao.io/k/osewvaz",
+        "date": "2022-09-16"
+      },
+      {
         "title": "[推荐] 近期 yyds 的 GitHub 项目",
         "link": "https://toutiao.io/k/i1qkq4o",
-        "date": "2022-09-16"
-      },
-      {
-        "title": "[推荐] 公司40k招的架构师写的API网关选型总结，就是牛逼！",
-        "link": "https://toutiao.io/k/kyi9yzt",
-        "date": "2022-09-16"
-      },
-      {
-        "title": "[推荐] Redis高可用方案",
-        "link": "https://toutiao.io/k/3hh68yl",
         "date": "2022-09-16"
       },
       {
@@ -10387,8 +10377,13 @@
         "date": "2022-09-16"
       },
       {
-        "title": "[推荐] 常见分布式系统设计图解",
-        "link": "https://toutiao.io/k/osewvaz",
+        "title": "[推荐] Redis高可用方案",
+        "link": "https://toutiao.io/k/3hh68yl",
+        "date": "2022-09-16"
+      },
+      {
+        "title": "[推荐] 公司40k招的架构师写的API网关选型总结，就是牛逼！",
+        "link": "https://toutiao.io/k/kyi9yzt",
         "date": "2022-09-16"
       }
     ]

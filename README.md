@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-16 09:16:26，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-16 09:46:12，:rocket: 更新条数: +2025， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,15 @@
 </summary>
 
 
+- [2022-09-16-有比-NUC-还小的，支持-USB-C-一线通的迷你主机吗](https://www.v2ex.com/t/880638) ![](assets/new.png)  
+- [2022-09-16-有湖南电信的吗](https://www.v2ex.com/t/880636) ![](assets/new.png)  
+- [2022-09-16-有啥安卓备用机推荐吗，手要被-k40g-低温烫伤了](https://www.v2ex.com/t/880635) ![](assets/new.png)  
+- [2022-09-16-CB-Insights-全球-AI-百强上榜企业-Jina-AI-内推--Python-工程师](https://www.v2ex.com/t/880634) ![](assets/new.png)  
+- [2022-09-16-据-Zycrypto-报道以太坊合并后，由两个地址运行超过-45%-的以太坊-PoS-节点](https://www.v2ex.com/t/880632) ![](assets/new.png)  
+- [2022-09-16-Git-应该出个新命令](https://www.v2ex.com/t/880631) ![](assets/new.png)  
+- [2022-09-16-求一份羊了个羊的图标素材](https://www.v2ex.com/t/880630) ![](assets/new.png)  
+- [2022-09-16-求教，后端程序员做什么有什么兼职收入](https://www.v2ex.com/t/880629) ![](assets/new.png)  
+- [2022-09-16-大家的苹果充电线一般能用多久？](https://www.v2ex.com/t/880628) ![](assets/new.png)  
 - [2022-09-16-聊聊刚到手的-iPhone-14-Pro-Max](https://www.v2ex.com/t/880626) ![](assets/new.png)  
 - [2022-09-16-Mac-三指取词，词典查询结果是空白?](https://www.v2ex.com/t/880625) ![](assets/new.png)  
 - [2022-09-16-荷花园电信机房大火，是什么原因导致的？](https://www.v2ex.com/t/880623) ![](assets/new.png)  
@@ -502,15 +511,6 @@
 - [2022-09-16-下载文件消耗的流量比实际文件大很多是什么原因](https://www.v2ex.com/t/880615) ![](assets/new.png)  
 - [2022-09-16-4G/5G-数据流量多出口-IP](https://www.v2ex.com/t/880614) ![](assets/new.png)  
 - [2022-09-16-中国居民膳食营养指南有大-bug](https://www.v2ex.com/t/880613) ![](assets/new.png)  
-- [2022-09-16-骑车闯红灯被罚款了](https://www.v2ex.com/t/880612) ![](assets/new.png)  
-- [2022-09-16-年跟帖-有什么轻薄的手机壳推荐的吗](https://www.v2ex.com/t/880610) ![](assets/new.png)  
-- [2022-09-16-9-月-29-想学-Go、Kubernetes、物联网开发来这个活动](https://www.v2ex.com/t/880609) ![](assets/new.png)  
-- [2022-09-16-预算-16W-落地-相中了领克-03-有什么可以推荐的吗](https://www.v2ex.com/t/880607) ![](assets/new.png)  
-- [2022-09-16-ipv6-地址变化导致，需要重新设置防火墙](https://www.v2ex.com/t/880606) ![](assets/new.png)  
-- [2022-09-16-Linux-c-编程问题请教，同一时间运行多个相同的程序，如何确保每个程序生成的随机数在彼此之间也是随机的？](https://www.v2ex.com/t/880604) ![](assets/new.png)  
-- [2022-09-16-小调查，你们写周报还是日报或者日报周报都要写？](https://www.v2ex.com/t/880602) ![](assets/new.png)  
-- [2022-09-16-ios16-锁屏健身小组件](https://www.v2ex.com/t/880601) ![](assets/new.png)  
-- [2022-09-16-Intel-Mac-用了三年了，读写了近-400TB，是不是要考虑换硬盘和数据迁移了](https://www.v2ex.com/t/880600) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -567,10 +567,10 @@
 - [2022-09-16-扎克伯格把PyTorch捐了！已归入Linux基金会](https://toutiao.io/k/oat7ynf) ![](assets/new.png)  
 - [2022-09-16-恍然大悟，才知道什么是真正的思维导图！](https://toutiao.io/k/uwsi5mf) ![](assets/new.png)  
 - [2022-09-16-消息顺序性，究竟为什么这么难？](https://toutiao.io/k/vh9ef9b) ![](assets/new.png)  
+- [2022-09-16-面试修罗场：计算机网络，三万字图文详解！](https://toutiao.io/k/ckmxd70) ![](assets/new.png)  
 - [2022-09-16-【第2729期】如何让CSS计数器支持小数的动态变化？](https://toutiao.io/k/nrcizyb) ![](assets/new.png)  
 - [2022-09-16-论文精读-|-Processor-Microarchitecture---Caches](https://toutiao.io/k/wemv33v) ![](assets/new.png)  
 - [2022-09-16-Flink-如何应对-Akka-的License变更?](https://toutiao.io/k/yty8sd0) ![](assets/new.png)  
-- [2022-09-16-面试修罗场：计算机网络，三万字图文详解！](https://toutiao.io/k/ckmxd70) ![](assets/new.png)  
 - [2022-09-16-阿里一面：Spring-Bean-默认是单例的，高并发情况下，如何保证并发安全？](https://toutiao.io/k/9bvjd9w) ![](assets/new.png)  
 - [2022-09-16-ChunJun&OceanBase联合方案首次发布：构建一体化数据集成方案](https://toutiao.io/k/hqkj6vr) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)

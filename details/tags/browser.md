@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-16 04:11:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-16 05:52:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -15,5 +15,4 @@
 - [2021-01-01-大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html) 
 - [2022-06-12-基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/) 
 - [2022-09-16-v2ex-cookie-丢失](https://www.v2ex.com/t/880505) 
-- [2022-09-16-Clearly-reader，一个为网页生成容易阅读的大纲的-chrome-扩展，可以下载-pdf-和转为-markdown-格式](https://www.v2ex.com/t/880473) 
 - [2022-09-16-甲方蜜网建设和溯源思路概述｜证券行业专刊·安全村](https://toutiao.io/k/egzu12a) 

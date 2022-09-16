@@ -9953,7 +9953,147 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
-        "title": "国产的致态 固态硬盘 真实情况怎么样？",
+        "title": "Linux c 编程问题请教，父进程如何保证在读取子进程写入的文件之前子进程已经写入完毕？",
+        "link": "https://www.v2ex.com/t/880554",
+        "date": "2022-09-16"
+      },
+      {
+        "title": "最小安装的 Debian 需要安装什么软件包才能响应虚拟机宿主机的关机命令吗？",
+        "link": "https://www.v2ex.com/t/880553",
+        "date": "2022-09-16"
+      },
+      {
+        "title": "郑州要放开落户了",
+        "link": "https://www.v2ex.com/t/880552",
+        "date": "2022-09-16"
+      },
+      {
+        "title": "程序员需要域名吗？",
+        "link": "https://www.v2ex.com/t/880551",
+        "date": "2022-09-16"
+      },
+      {
+        "title": "Gitlab 专业版与旗舰版的区别",
+        "link": "https://www.v2ex.com/t/880550",
+        "date": "2022-09-16"
+      },
+      {
+        "title": "强光下的灵动岛，那么明显么",
+        "link": "https://www.v2ex.com/t/880549",
+        "date": "2022-09-16"
+      },
+      {
+        "title": "除了定期存款大家还投别的理财产品嘛",
+        "link": "https://www.v2ex.com/t/880548",
+        "date": "2022-09-16"
+      },
+      {
+        "title": "关于两个局域网之间使用 wireguard 的问题",
+        "link": "https://www.v2ex.com/t/880547",
+        "date": "2022-09-16"
+      },
+      {
+        "title": "少量超大硬盘 vs 大量小硬盘",
+        "link": "https://www.v2ex.com/t/880546",
+        "date": "2022-09-16"
+      },
+      {
+        "title": "xubuntu 太好用了",
+        "link": "https://www.v2ex.com/t/880545",
+        "date": "2022-09-16"
+      },
+      {
+        "title": "以太坊已经关闭，好奇那么多显卡去了什么地方？",
+        "link": "https://www.v2ex.com/t/880544",
+        "date": "2022-09-16"
+      },
+      {
+        "title": "Google 搜索结果被跳转到某个站点",
+        "link": "https://www.v2ex.com/t/880543",
+        "date": "2022-09-16"
+      },
+      {
+        "title": "羊了个羊 客户端暴露后台密钥 可以直接修改后台数据",
+        "link": "https://www.v2ex.com/t/880541",
+        "date": "2022-09-16"
+      },
+      {
+        "title": "14P 手上两个，正对着不会变色，但是其中一个 iPhone14 Pro 屏幕只要倾斜一点（15°）就整体发绿，角度越大绿色越明显，有办法解决吗？原彩显示已关闭，全都开最...",
+        "link": "https://www.v2ex.com/t/880540",
+        "date": "2022-09-16"
+      },
+      {
+        "title": "检查代理规则",
+        "link": "https://www.v2ex.com/t/880539",
+        "date": "2022-09-16"
+      },
+      {
+        "title": "外部接口依赖降级，用 redis 还是本地内存",
+        "link": "https://www.v2ex.com/t/880537",
+        "date": "2022-09-16"
+      },
+      {
+        "title": "今年的 iPhone 年年焕新计划必须要回收旧手机了",
+        "link": "https://www.v2ex.com/t/880536",
+        "date": "2022-09-16"
+      },
+      {
+        "title": "14pro 备份恢复迁移丢数据。",
+        "link": "https://www.v2ex.com/t/880534",
+        "date": "2022-09-16"
+      },
+      {
+        "title": "极简风格的个人博客首页，基于 tailwindcss， daisyui。",
+        "link": "https://www.v2ex.com/t/880533",
+        "date": "2022-09-16"
+      },
+      {
+        "title": "转新闻：统一推送工委会全新官方网站上线，推出 2.0 版本“推必安”",
+        "link": "https://www.v2ex.com/t/880532",
+        "date": "2022-09-16"
+      },
+      {
+        "title": "iOS 16 快捷指令执行卡顿",
+        "link": "https://www.v2ex.com/t/880531",
+        "date": "2022-09-16"
+      },
+      {
+        "title": "抢不到线下提货，网上想找代预约",
+        "link": "https://www.v2ex.com/t/880530",
+        "date": "2022-09-16"
+      },
+      {
+        "title": "现在苹果 14pro 能加价卖吗，北京",
+        "link": "https://www.v2ex.com/t/880528",
+        "date": "2022-09-16"
+      },
+      {
+        "title": "iOS 抓包软件推荐",
+        "link": "https://www.v2ex.com/t/880527",
+        "date": "2022-09-16"
+      },
+      {
+        "title": "yandex 无限免费照片备份没有了？",
+        "link": "https://www.v2ex.com/t/880526",
+        "date": "2022-09-16"
+      },
+      {
+        "title": "程序员回五线城市创业",
+        "link": "https://www.v2ex.com/t/880525",
+        "date": "2022-09-16"
+      },
+      {
+        "title": "极客特斯拉车主群",
+        "link": "https://www.v2ex.com/t/880523",
+        "date": "2022-09-16"
+      },
+      {
+        "title": "易工具（yitool-cli）git 统计， npm 镜像地址切换",
+        "link": "https://www.v2ex.com/t/880522",
+        "date": "2022-09-16"
+      },
+      {
+        "title": "国产的致态 固态硬盘 真实使用体验怎么样？",
         "link": "https://www.v2ex.com/t/880521",
         "date": "2022-09-16"
       },
@@ -10025,156 +10165,6 @@
       {
         "title": "v2ex cookie 丢失",
         "link": "https://www.v2ex.com/t/880505",
-        "date": "2022-09-16"
-      },
-      {
-        "title": "求教一个 IDEA 执行测试用例的问题",
-        "link": "https://www.v2ex.com/t/880504",
-        "date": "2022-09-16"
-      },
-      {
-        "title": "刚知道,苹果没有投诉部门和渠道",
-        "link": "https://www.v2ex.com/t/880503",
-        "date": "2022-09-16"
-      },
-      {
-        "title": "放 Macbook Pro 14 + 水杯 有什么单肩/邮差包推荐吗？",
-        "link": "https://www.v2ex.com/t/880502",
-        "date": "2022-09-16"
-      },
-      {
-        "title": "请问 apple 官网如何刷实体店库存",
-        "link": "https://www.v2ex.com/t/880501",
-        "date": "2022-09-16"
-      },
-      {
-        "title": "有什么好用的开源可以私有化部署的项目管理和知识管理工具吗",
-        "link": "https://www.v2ex.com/t/880500",
-        "date": "2022-09-16"
-      },
-      {
-        "title": "微信：修复了相册可选数量多了个 9 的 BUG/狗头",
-        "link": "https://www.v2ex.com/t/880499",
-        "date": "2022-09-16"
-      },
-      {
-        "title": "现在适合抄底么？ [新能源] 或 [大厂] 都可以",
-        "link": "https://www.v2ex.com/t/880498",
-        "date": "2022-09-16"
-      },
-      {
-        "title": "如果想在计算机行业干一辈子，应该怎么办",
-        "link": "https://www.v2ex.com/t/880497",
-        "date": "2022-09-16"
-      },
-      {
-        "title": "蛋白质补充剂，维生素补充剂...",
-        "link": "https://www.v2ex.com/t/880496",
-        "date": "2022-09-16"
-      },
-      {
-        "title": "统一推送联盟又活了 有用过的吗 https://upc.taf.org.cn/",
-        "link": "https://www.v2ex.com/t/880495",
-        "date": "2022-09-16"
-      },
-      {
-        "title": "怎么给电商系统开发类似 IOS [捷径] 的功能？",
-        "link": "https://www.v2ex.com/t/880494",
-        "date": "2022-09-16"
-      },
-      {
-        "title": "绕过腾讯云验证码注册",
-        "link": "https://www.v2ex.com/t/880493",
-        "date": "2022-09-16"
-      },
-      {
-        "title": "翻译了 PHPStan 文档，需要的自取。",
-        "link": "https://www.v2ex.com/t/880492",
-        "date": "2022-09-16"
-      },
-      {
-        "title": "去直营店取货能换颜色吗",
-        "link": "https://www.v2ex.com/t/880491",
-        "date": "2022-09-16"
-      },
-      {
-        "title": "前端能学 Python 吗",
-        "link": "https://www.v2ex.com/t/880490",
-        "date": "2022-09-16"
-      },
-      {
-        "title": "请问有没有 自动下载 B 站 UP 主更新视频的项目 想跑在 Qnap NAS 上 最好是能 Docker 部署的",
-        "link": "https://www.v2ex.com/t/880489",
-        "date": "2022-09-16"
-      },
-      {
-        "title": "十月准备出去面后端了，求面经",
-        "link": "https://www.v2ex.com/t/880488",
-        "date": "2022-09-16"
-      },
-      {
-        "title": "程序员需要担心裁员吗？",
-        "link": "https://www.v2ex.com/t/880487",
-        "date": "2022-09-16"
-      },
-      {
-        "title": "iOS 16 音乐的同播共享不可以通过 iMessage 直接进行吗？",
-        "link": "https://www.v2ex.com/t/880486",
-        "date": "2022-09-16"
-      },
-      {
-        "title": "clash 使 hosts 文件失效，请问怎么办呀",
-        "link": "https://www.v2ex.com/t/880485",
-        "date": "2022-09-16"
-      },
-      {
-        "title": "有用 cmder 最新版的朋友吗？最近 history 命令升级了，你们能输出中文显示吗？",
-        "link": "https://www.v2ex.com/t/880484",
-        "date": "2022-09-16"
-      },
-      {
-        "title": "iphone14pro pwm 好像比 13pro 好点？",
-        "link": "https://www.v2ex.com/t/880483",
-        "date": "2022-09-16"
-      },
-      {
-        "title": "得物 2023 校园招聘正式启动！",
-        "link": "https://www.v2ex.com/t/880482",
-        "date": "2022-09-16"
-      },
-      {
-        "title": "华为云服务器， 4 核 8G5M， 1800/3 年，活动长期有效",
-        "link": "https://www.v2ex.com/t/880481",
-        "date": "2022-09-16"
-      },
-      {
-        "title": "Xcode 码代码快捷键有什么好的方法能变成 VSCode 那种自定义快捷键?",
-        "link": "https://www.v2ex.com/t/880480",
-        "date": "2022-09-16"
-      },
-      {
-        "title": "北京西单店年年焕新今年还能不抵扣手机吗",
-        "link": "https://www.v2ex.com/t/880479",
-        "date": "2022-09-16"
-      },
-      {
-        "title": "ES 如何让中文词条排序靠前?",
-        "link": "https://www.v2ex.com/t/880478",
-        "date": "2022-09-16"
-      },
-      {
-        "title": "求助：关于树的构建，还要加上分类",
-        "link": "https://www.v2ex.com/t/880474",
-        "date": "2022-09-16"
-      },
-      {
-        "title": "Clearly reader，一个为网页生成容易阅读的大纲的 chrome 扩展，可以下载 pdf 和转为 markdown 格式",
-        "link": "https://www.v2ex.com/t/880473",
-        "date": "2022-09-16"
-      },
-      {
-        "title": "[发现]-NExT Studios",
-        "link": "https://www.v2ex.com/t/880472",
         "date": "2022-09-16"
       }
     ]
@@ -10317,8 +10307,8 @@
         "date": "2022-09-16"
       },
       {
-        "title": "甲方蜜网建设和溯源思路概述｜证券行业专刊·安全村",
-        "link": "https://toutiao.io/k/egzu12a",
+        "title": "ARM架构的一次充电",
+        "link": "https://toutiao.io/k/1kgpiwx",
         "date": "2022-09-16"
       },
       {
@@ -10327,8 +10317,8 @@
         "date": "2022-09-16"
       },
       {
-        "title": "扎克伯格把PyTorch捐了！已归入Linux基金会",
-        "link": "https://toutiao.io/k/oat7ynf",
+        "title": "甲方蜜网建设和溯源思路概述｜证券行业专刊·安全村",
+        "link": "https://toutiao.io/k/egzu12a",
         "date": "2022-09-16"
       },
       {
@@ -10342,8 +10332,13 @@
         "date": "2022-09-16"
       },
       {
-        "title": "ARM架构的一次充电",
-        "link": "https://toutiao.io/k/1kgpiwx",
+        "title": "扎克伯格把PyTorch捐了！已归入Linux基金会",
+        "link": "https://toutiao.io/k/oat7ynf",
+        "date": "2022-09-16"
+      },
+      {
+        "title": "油猴脚本开发教程",
+        "link": "https://toutiao.io/k/epwyaes",
         "date": "2022-09-16"
       },
       {
@@ -10357,18 +10352,8 @@
         "date": "2022-09-16"
       },
       {
-        "title": "油猴脚本开发教程",
-        "link": "https://toutiao.io/k/epwyaes",
-        "date": "2022-09-16"
-      },
-      {
         "title": "论文精读 | Processor Microarchitecture - Caches",
         "link": "https://toutiao.io/k/wemv33v",
-        "date": "2022-09-16"
-      },
-      {
-        "title": "Flink 如何应对 Akka 的License变更?",
-        "link": "https://toutiao.io/k/yty8sd0",
         "date": "2022-09-16"
       },
       {
@@ -10377,13 +10362,13 @@
         "date": "2022-09-16"
       },
       {
-        "title": "[推荐] 常见分布式系统设计图解",
-        "link": "https://toutiao.io/k/osewvaz",
+        "title": "Flink 如何应对 Akka 的License变更?",
+        "link": "https://toutiao.io/k/yty8sd0",
         "date": "2022-09-16"
       },
       {
-        "title": "[推荐] 近期 yyds 的 GitHub 项目",
-        "link": "https://toutiao.io/k/i1qkq4o",
+        "title": "[推荐] 常见分布式系统设计图解",
+        "link": "https://toutiao.io/k/osewvaz",
         "date": "2022-09-16"
       },
       {
@@ -10394,6 +10379,11 @@
       {
         "title": "[推荐] 公司40k招的架构师写的API网关选型总结，就是牛逼！",
         "link": "https://toutiao.io/k/kyi9yzt",
+        "date": "2022-09-16"
+      },
+      {
+        "title": "[推荐] 近期 yyds 的 GitHub 项目",
+        "link": "https://toutiao.io/k/i1qkq4o",
         "date": "2022-09-16"
       }
     ]

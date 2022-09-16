@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-16 19:15:46。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-09-16 19:39:57。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,7 @@
 </summary>
 
 
+- [【V2EX】2022-09-16-求助-LG-Ultrafine-4K-的品控](https://www.v2ex.com/t/880720) 
 - [【V2EX】2022-09-16-airpods-pro2-我搞不懂为什么当初-1-代降噪大幅度削弱现在又要增强-2-倍](https://www.v2ex.com/t/880719) 
 - [【V2EX】2022-09-16-为什么-Debian-关机没有-Ubuntu-一样好几屏-stop-xxx？是-Debian-真关机这么快还是遇到了什么问题-crash-了？](https://www.v2ex.com/t/880718) 
 - [【V2EX】2022-09-16-有什么工具能把已有的-FTP-服务器转换为-FTPS-并限制-TLS-的最低版本吗？看了下-stunnel-官网文档说不支持-FTP。](https://www.v2ex.com/t/880717) 
@@ -107,8 +108,6 @@
 - [【V2EX】2022-09-16-多个单盘-MinIO-节点做-replication-是不是用-XFS-就足够可靠了？](https://www.v2ex.com/t/880675) 
 - [【V2EX】2022-09-16-打算寄一个电动车回湖南走哪家物流公司比较好呢](https://www.v2ex.com/t/880673) 
 - [【V2EX】2022-09-16-刚才去超市打算买一箱方便面囤着应急，老板说没囤货。。](https://www.v2ex.com/t/880672) 
-- [【V2EX】2022-09-16-服务器-ssh-老是断开怎么回事？](https://www.v2ex.com/t/880671) 
-- [【V2EX】2022-09-16-求推荐个可以装安卓原生的手机](https://www.v2ex.com/t/880670) 
 - [【技术头条】2022-09-16-失败驱动开发-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15399&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffailure-driven-development%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-16-图技术在美团外卖下的场景化应用及探索-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15398&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F09%2F08%2Fgnn-scenariomodeling-subgraphextend-jointtraining.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-16-TLS指纹分析研究（上）-blog.nsfocus.net](https://blogread.cn/news/go.php?idItem=15397&url=http%3A%2F%2Fblog.nsfocus.net%2Ftls1-0%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -149,11 +148,11 @@
 - [【开发者头条】2022-09-16-【第2729期】如何让CSS计数器支持小数的动态变化？](https://toutiao.io/k/nrcizyb) 
 - [【开发者头条】2022-09-16-论文精读-|-Processor-Microarchitecture---Caches](https://toutiao.io/k/wemv33v) 
 - [【开发者头条】2022-09-16-ChunJun&OceanBase联合方案首次发布：构建一体化数据集成方案](https://toutiao.io/k/hqkj6vr) 
-- [【开发者头条】2022-09-16-推荐-近期-yyds-的-GitHub-项目](https://toutiao.io/k/i1qkq4o) 
-- [【开发者头条】2022-09-16-推荐-常见分布式系统设计图解](https://toutiao.io/k/osewvaz) 
 - [【开发者头条】2022-09-16-推荐-公司40k招的架构师写的API网关选型总结，就是牛逼！](https://toutiao.io/k/kyi9yzt) 
-- [【开发者头条】2022-09-16-推荐-微服务网关鉴权：gateway使用、网关限流使用、用户密码加密、JWT鉴权](https://toutiao.io/k/rdhhq5d) 
 - [【开发者头条】2022-09-16-推荐-Redis高可用方案](https://toutiao.io/k/3hh68yl) 
+- [【开发者头条】2022-09-16-推荐-微服务网关鉴权：gateway使用、网关限流使用、用户密码加密、JWT鉴权](https://toutiao.io/k/rdhhq5d) 
+- [【开发者头条】2022-09-16-推荐-常见分布式系统设计图解](https://toutiao.io/k/osewvaz) 
+- [【开发者头条】2022-09-16-推荐-近期-yyds-的-GitHub-项目](https://toutiao.io/k/i1qkq4o) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

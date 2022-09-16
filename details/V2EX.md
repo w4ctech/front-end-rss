@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2022-09-16 18:20:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-16 18:53:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-09-16-airpods-pro2-我搞不懂为什么当初-1-代降噪大幅度削弱现在又要增强-2-倍](https://www.v2ex.com/t/880719) 
+- [2022-09-16-为什么-Debian-关机没有-Ubuntu-一样好几屏-stop-xxx？是-Debian-真关机这么快还是遇到了什么问题-crash-了？](https://www.v2ex.com/t/880718) 
 - [2022-09-16-有什么工具能把已有的-FTP-服务器转换为-FTPS-并限制-TLS-的最低版本吗？看了下-stunnel-官网文档说不支持-FTP。](https://www.v2ex.com/t/880717) 
 - [2022-09-16-Surge5-有上车的吗](https://www.v2ex.com/t/880716) 
 - [2022-09-16-有大厂经历全栈开发，来露个脸，求远程或外包合作](https://www.v2ex.com/t/880714) 
@@ -44,4 +46,3 @@
 - [2022-09-16-刚才去超市打算买一箱方便面囤着应急，老板说没囤货。。](https://www.v2ex.com/t/880672) 
 - [2022-09-16-服务器-ssh-老是断开怎么回事？](https://www.v2ex.com/t/880671) 
 - [2022-09-16-求推荐个可以装安卓原生的手机](https://www.v2ex.com/t/880670) 
-- [2022-09-16-快手电商-Java-社招，-base-杭州](https://www.v2ex.com/t/880668) 

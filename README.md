@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-16 18:20:09，:rocket: 更新条数: +2031， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-16 18:53:50，:rocket: 更新条数: +2032， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-09-16-airpods-pro2-我搞不懂为什么当初-1-代降噪大幅度削弱现在又要增强-2-倍](https://www.v2ex.com/t/880719) ![](assets/new.png)  
+- [2022-09-16-为什么-Debian-关机没有-Ubuntu-一样好几屏-stop-xxx？是-Debian-真关机这么快还是遇到了什么问题-crash-了？](https://www.v2ex.com/t/880718) ![](assets/new.png)  
 - [2022-09-16-有什么工具能把已有的-FTP-服务器转换为-FTPS-并限制-TLS-的最低版本吗？看了下-stunnel-官网文档说不支持-FTP。](https://www.v2ex.com/t/880717) ![](assets/new.png)  
 - [2022-09-16-Surge5-有上车的吗](https://www.v2ex.com/t/880716) ![](assets/new.png)  
 - [2022-09-16-有大厂经历全栈开发，来露个脸，求远程或外包合作](https://www.v2ex.com/t/880714) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-09-16-iPhone14-也是-6G-内存吗？](https://www.v2ex.com/t/880699) ![](assets/new.png)  
 - [2022-09-16-微博上为什么很多人会纠结录屏会显示药丸？](https://www.v2ex.com/t/880698) ![](assets/new.png)  
 - [2022-09-16-iOS-的天气网络全崩了？](https://www.v2ex.com/t/880697) ![](assets/new.png)  
-- [2022-09-16-希腊人是欧洲唯一没有接受教育的一群人](https://www.v2ex.com/t/880696) ![](assets/new.png)  
-- [2022-09-16-创业团队又找朋友啦，本次招聘-一位全栈开发者（兼职-/-全职）、一位项目-/-产品经理（兼职-/-全职）](https://www.v2ex.com/t/880695) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

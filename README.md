@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-16 10:49:40，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-16 11:13:49，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-09-16-kotlin-下如何实现-跨-Activity-修改控件呢？](https://www.v2ex.com/t/880654) ![](assets/new.png)  
 - [2022-09-16-在-Linux-上开-clash-tun-模式-clash-是怎么劫持-dns-的](https://www.v2ex.com/t/880652) ![](assets/new.png)  
 - [2022-09-16-请问下有什么邮箱有已读功能的么？](https://www.v2ex.com/t/880651) ![](assets/new.png)  
 - [2022-09-16-统一码联盟引入-31-个新表情符号，谷歌称已安排](https://www.v2ex.com/t/880650) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-09-16-Git-应该出个新命令](https://www.v2ex.com/t/880631) ![](assets/new.png)  
 - [2022-09-16-求一份羊了个羊的图标素材](https://www.v2ex.com/t/880630) ![](assets/new.png)  
 - [2022-09-16-求教，后端程序员做什么有什么兼职收入](https://www.v2ex.com/t/880629) ![](assets/new.png)  
-- [2022-09-16-大家的苹果充电线一般能用多久？](https://www.v2ex.com/t/880628) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

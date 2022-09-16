@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-16 19:39:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-16 20:17:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,7 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-09-16-红米-k50-无限重启](https://www.v2ex.com/t/880722) 
 - [2022-09-16-求助-LG-Ultrafine-4K-的品控](https://www.v2ex.com/t/880720) 
 - [2022-09-16-airpods-pro2-我搞不懂为什么当初-1-代降噪大幅度削弱现在又要增强-2-倍](https://www.v2ex.com/t/880719) 
 - [2022-09-16-为什么-Debian-关机没有-Ubuntu-一样好几屏-stop-xxx？是-Debian-真关机这么快还是遇到了什么问题-crash-了？](https://www.v2ex.com/t/880718) 
@@ -1945,7 +1946,6 @@
 - [2022-09-16-VVebo-作者不再维护并下架-APP，并寻求新浪和解](https://www.v2ex.com/t/880677) 
 - [2022-09-16-多个单盘-MinIO-节点做-replication-是不是用-XFS-就足够可靠了？](https://www.v2ex.com/t/880675) 
 - [2022-09-16-打算寄一个电动车回湖南走哪家物流公司比较好呢](https://www.v2ex.com/t/880673) 
-- [2022-09-16-刚才去超市打算买一箱方便面囤着应急，老板说没囤货。。](https://www.v2ex.com/t/880672) 
 - [2022-09-16-失败驱动开发-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15399&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffailure-driven-development%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-16-图技术在美团外卖下的场景化应用及探索-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15398&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F09%2F08%2Fgnn-scenariomodeling-subgraphextend-jointtraining.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-16-TLS指纹分析研究（上）-blog.nsfocus.net](https://blogread.cn/news/go.php?idItem=15397&url=http%3A%2F%2Fblog.nsfocus.net%2Ftls1-0%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

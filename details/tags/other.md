@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-16 17:56:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-16 18:20:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,8 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-09-16-有什么工具能把已有的-FTP-服务器转换为-FTPS-并限制-TLS-的最低版本吗？看了下-stunnel-官网文档说不支持-FTP。](https://www.v2ex.com/t/880717) 
+- [2022-09-16-Surge5-有上车的吗](https://www.v2ex.com/t/880716) 
 - [2022-09-16-地下车位的上方空间归属谁？](https://www.v2ex.com/t/880713) 
 - [2022-09-16-找一个-Linux-基本命令自动安装脚本](https://www.v2ex.com/t/880712) 
 - [2022-09-16-麻烦问下，-iOS16-剪贴板权限在哪？](https://www.v2ex.com/t/880711) 
@@ -1944,7 +1946,6 @@
 - [2022-09-16-服务器-ssh-老是断开怎么回事？](https://www.v2ex.com/t/880671) 
 - [2022-09-16-求推荐个可以装安卓原生的手机](https://www.v2ex.com/t/880670) 
 - [2022-09-16-快手电商-Java-社招，-base-杭州](https://www.v2ex.com/t/880668) 
-- [2022-09-16-海外求职](https://www.v2ex.com/t/880667) 
 - [2022-09-16-失败驱动开发-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15399&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffailure-driven-development%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-16-图技术在美团外卖下的场景化应用及探索-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15398&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F09%2F08%2Fgnn-scenariomodeling-subgraphextend-jointtraining.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-16-TLS指纹分析研究（上）-blog.nsfocus.net](https://blogread.cn/news/go.php?idItem=15397&url=http%3A%2F%2Fblog.nsfocus.net%2Ftls1-0%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1976,7 +1977,7 @@
 - [2022-09-16-扎克伯格把PyTorch捐了！已归入Linux基金会](https://toutiao.io/k/oat7ynf) 
 - [2022-09-16-Flink-如何应对-Akka-的License变更?](https://toutiao.io/k/yty8sd0) 
 - [2022-09-16-论文精读-|-Processor-Microarchitecture---Caches](https://toutiao.io/k/wemv33v) 
-- [2022-09-16-推荐-公司40k招的架构师写的API网关选型总结，就是牛逼！](https://toutiao.io/k/kyi9yzt) 
 - [2022-09-16-推荐-Redis高可用方案](https://toutiao.io/k/3hh68yl) 
-- [2022-09-16-推荐-常见分布式系统设计图解](https://toutiao.io/k/osewvaz) 
 - [2022-09-16-推荐-微服务网关鉴权：gateway使用、网关限流使用、用户密码加密、JWT鉴权](https://toutiao.io/k/rdhhq5d) 
+- [2022-09-16-推荐-公司40k招的架构师写的API网关选型总结，就是牛逼！](https://toutiao.io/k/kyi9yzt) 
+- [2022-09-16-推荐-常见分布式系统设计图解](https://toutiao.io/k/osewvaz) 

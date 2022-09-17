@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-17 18:17:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-17 18:49:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,7 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-09-17-信息-app-什么时候能全平台同步非-iMessage-信息](https://www.v2ex.com/t/880933) 
 - [2022-09-17-iOS-信息流经常出现重复信息](https://www.v2ex.com/t/880930) 
 - [2022-09-17-快接指令有办法判断当前网络状态吗](https://www.v2ex.com/t/880929) 
 - [2022-09-17-杭州移动-80-130MB/S](https://www.v2ex.com/t/880928) 
@@ -1945,7 +1946,6 @@
 - [2022-09-17-V-友竟然有大专生？](https://www.v2ex.com/t/880886) 
 - [2022-09-17-Python-里面列表、字典、集合的删除方法好难记啊](https://www.v2ex.com/t/880885) 
 - [2022-09-17-pdd-现在下单-iPhone-14pro-有望国庆前到吗](https://www.v2ex.com/t/880884) 
-- [2022-09-17-我想信各位大神，羊了个羊源代码已经有了？](https://www.v2ex.com/t/880883) 
 - [2022-09-17-失败驱动开发-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15399&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffailure-driven-development%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-17-图技术在美团外卖下的场景化应用及探索-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15398&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F09%2F08%2Fgnn-scenariomodeling-subgraphextend-jointtraining.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-17-TLS指纹分析研究（上）-blog.nsfocus.net](https://blogread.cn/news/go.php?idItem=15397&url=http%3A%2F%2Fblog.nsfocus.net%2Ftls1-0%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1969,6 +1969,6 @@
 - [2022-09-17-一个不错的开源项目风控引擎（Radar）](https://toutiao.io/k/85syqza) 
 - [2022-09-17-两万字！多线程硬核50问！](https://toutiao.io/k/xlnzn90) 
 - [2022-09-17-揭秘分布式消息流平台：Kafka与Pulsar](https://toutiao.io/k/xd5xha9) 
-- [2022-09-17-推荐-Redis高可用方案](https://toutiao.io/k/3hh68yl) 
 - [2022-09-17-推荐-微服务网关鉴权：gateway使用、网关限流使用、用户密码加密、JWT鉴权](https://toutiao.io/k/rdhhq5d) 
 - [2022-09-17-推荐-常见分布式系统设计图解](https://toutiao.io/k/osewvaz) 
+- [2022-09-17-推荐-Redis高可用方案](https://toutiao.io/k/3hh68yl) 

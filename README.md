@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-17 09:43:30，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-17 10:16:13，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,13 @@
 </summary>
 
 
+- [2022-09-17-有哪些方式可以知道，某个命令是不是系统自带的（MacOS-和-Linux-）？](https://www.v2ex.com/t/880848) ![](assets/new.png)  
+- [2022-09-17-能否根据数据生成程序的执行路径？](https://www.v2ex.com/t/880847) ![](assets/new.png)  
+- [2022-09-17-大佬们，官网退货忘了写退货编号怎么办](https://www.v2ex.com/t/880846) ![](assets/new.png)  
+- [2022-09-17-ios-抖音首页商城有办法关闭吗](https://www.v2ex.com/t/880845) ![](assets/new.png)  
+- [2022-09-17-有没有人接-Flarum-扩展开发](https://www.v2ex.com/t/880844) ![](assets/new.png)  
+- [2022-09-17-想请问下关于-ThreadLocal-的使用](https://www.v2ex.com/t/880843) ![](assets/new.png)  
+- [2022-09-17-如何恢复阿里旺旺卖家发我的信息，手贱不小心给删了一条主要信息，现在急的也联系不上卖家。](https://www.v2ex.com/t/880841) ![](assets/new.png)  
 - [2022-09-17-想用-Windows-Server-搭个-NAS，可以实现在线听歌和看电影吗？](https://www.v2ex.com/t/880840) ![](assets/new.png)  
 - [2022-09-17-亲戚小孩，研究生毕业刚工作一个月被裁了。](https://www.v2ex.com/t/880839) ![](assets/new.png)  
 - [2022-09-17-大家三个人的群多吗](https://www.v2ex.com/t/880837) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-09-17-有什么线路良好、10-刀以下、适合-VSCode-Remote-开发的-VPS-吗？](https://www.v2ex.com/t/880827) ![](assets/new.png)  
 - [2022-09-17-iOS-16-锁屏界面的播放控制太容易误触了](https://www.v2ex.com/t/880824) ![](assets/new.png)  
 - [2022-09-17-发现-发现-Halo-博客框架的一款不错的主题-Joe2.0](https://www.v2ex.com/t/880823) ![](assets/new.png)  
-- [2022-09-17-C/C++中使用-zeromq-问题，各种编译不通过](https://www.v2ex.com/t/880822) ![](assets/new.png)  
-- [2022-09-17-现在还能刷机（资源丰富）的手机有哪些？](https://www.v2ex.com/t/880821) ![](assets/new.png)  
-- [2022-09-17-有人遇到过-Chrome-阅读清单存在乱码的问题吗](https://www.v2ex.com/t/880820) ![](assets/new.png)  
-- [2022-09-17-怎么把一个-apple-id-下载的软件挪到另外一个-apple-id-上](https://www.v2ex.com/t/880818) ![](assets/new.png)  
-- [2022-09-17-虚拟机关闭后，-pve-怎么关机](https://www.v2ex.com/t/880817) ![](assets/new.png)  
-- [2022-09-17-android-toolbar-的选择？](https://www.v2ex.com/t/880815) ![](assets/new.png)  
-- [2022-09-17-不懂就问，现在的域名审核已经抠字眼到这种程度了？](https://www.v2ex.com/t/880814) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -559,14 +559,14 @@
 - [2022-09-17-“快”到上天的Kafka，性能优化的手段有多高明？](https://toutiao.io/k/qzg161q) ![](assets/new.png)  
 - [2022-09-17-一个不错的开源项目风控引擎（Radar）](https://toutiao.io/k/85syqza) ![](assets/new.png)  
 - [2022-09-17-Vue3中watch与watchEffect有什么区别？](https://toutiao.io/k/fs2lyqr) ![](assets/new.png)  
-- [2022-09-17-AI加速器与机器学习算法：协同设计与进化](https://toutiao.io/k/lfa1l0p) ![](assets/new.png)  
 - [2022-09-17-Apache-Flink-在小米的稳定性优化和实践](https://toutiao.io/k/xj4wsvq) ![](assets/new.png)  
+- [2022-09-17-AI加速器与机器学习算法：协同设计与进化](https://toutiao.io/k/lfa1l0p) ![](assets/new.png)  
 - [2022-09-17-两万字！多线程硬核50问！](https://toutiao.io/k/xlnzn90) ![](assets/new.png)  
 - [2022-09-17-揭秘分布式消息流平台：Kafka与Pulsar](https://toutiao.io/k/xd5xha9) ![](assets/new.png)  
-- [2022-09-17-推荐-Redis高可用方案](https://toutiao.io/k/3hh68yl) ![](assets/new.png)  
 - [2022-09-17-推荐-微服务网关鉴权：gateway使用、网关限流使用、用户密码加密、JWT鉴权](https://toutiao.io/k/rdhhq5d) ![](assets/new.png)  
 - [2022-09-17-推荐-常见分布式系统设计图解](https://toutiao.io/k/osewvaz) ![](assets/new.png)  
 - [2022-09-17-推荐-近期-yyds-的-GitHub-项目](https://toutiao.io/k/i1qkq4o) ![](assets/new.png)  
+- [2022-09-17-推荐-Redis高可用方案](https://toutiao.io/k/3hh68yl) ![](assets/new.png)  
 - [2022-09-17-推荐-公司40k招的架构师写的API网关选型总结，就是牛逼！](https://toutiao.io/k/kyi9yzt) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

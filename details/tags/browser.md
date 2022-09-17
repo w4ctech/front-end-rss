@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-17 16:20:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-17 16:59:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -16,4 +16,3 @@
 - [2022-06-12-基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/) 
 - [2022-09-17-WebServer-项目端口放行后浏览器拒绝连接ERR_CONNECTION_REFUSED](https://www.v2ex.com/t/880900) 
 - [2022-09-17-求助万能-v-友！-chrome/edge-浏览器怎么玩儿-4399，-ie-模式无效](https://www.v2ex.com/t/880880) 
-- [2022-09-17-有没有免费可用的-PostgreSQL-OLEDB-Provider](https://www.v2ex.com/t/880875) 

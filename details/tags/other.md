@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-17 11:13:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-17 11:40:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,9 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-09-17-有全功能-typec-接口的盒子或者小设备有哪些](https://www.v2ex.com/t/880863) 
+- [2022-09-17-MacOS-Clash-增强模式出现-SSL_ERROR_SYSCALL](https://www.v2ex.com/t/880862) 
+- [2022-09-17-借用闲置服务器做下测试。](https://www.v2ex.com/t/880861) 
 - [2022-09-17-使用-mba-却无法接受-iPhone-的-OLED-屏](https://www.v2ex.com/t/880860) 
 - [2022-09-17-🎉-妙言-Markdown-笔记本发布-1.6-版本](https://www.v2ex.com/t/880859) 
 - [2022-09-17-成都联通宽带获取不到-IPv6-前缀](https://www.v2ex.com/t/880857) 
@@ -1946,8 +1949,6 @@
 - [2022-09-17-虚拟机关闭后，-pve-怎么关机](https://www.v2ex.com/t/880817) 
 - [2022-09-17-android-toolbar-的选择？](https://www.v2ex.com/t/880815) 
 - [2022-09-17-不懂就问，现在的域名审核已经抠字眼到这种程度了？](https://www.v2ex.com/t/880814) 
-- [2022-09-17-美资外企-北京-Senior-Android/iOS-Engineer](https://www.v2ex.com/t/880813) 
-- [2022-09-17-编程五年，原来我还只是一个高级新手](https://www.v2ex.com/t/880811) 
 - [2022-09-17-失败驱动开发-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15399&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffailure-driven-development%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-17-图技术在美团外卖下的场景化应用及探索-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15398&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F09%2F08%2Fgnn-scenariomodeling-subgraphextend-jointtraining.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-17-TLS指纹分析研究（上）-blog.nsfocus.net](https://blogread.cn/news/go.php?idItem=15397&url=http%3A%2F%2Fblog.nsfocus.net%2Ftls1-0%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1971,7 +1972,7 @@
 - [2022-09-17-一个不错的开源项目风控引擎（Radar）](https://toutiao.io/k/85syqza) 
 - [2022-09-17-两万字！多线程硬核50问！](https://toutiao.io/k/xlnzn90) 
 - [2022-09-17-揭秘分布式消息流平台：Kafka与Pulsar](https://toutiao.io/k/xd5xha9) 
-- [2022-09-17-推荐-微服务网关鉴权：gateway使用、网关限流使用、用户密码加密、JWT鉴权](https://toutiao.io/k/rdhhq5d) 
+- [2022-09-17-推荐-公司40k招的架构师写的API网关选型总结，就是牛逼！](https://toutiao.io/k/kyi9yzt) 
 - [2022-09-17-推荐-Redis高可用方案](https://toutiao.io/k/3hh68yl) 
 - [2022-09-17-推荐-常见分布式系统设计图解](https://toutiao.io/k/osewvaz) 
-- [2022-09-17-推荐-公司40k招的架构师写的API网关选型总结，就是牛逼！](https://toutiao.io/k/kyi9yzt) 
+- [2022-09-17-推荐-微服务网关鉴权：gateway使用、网关限流使用、用户密码加密、JWT鉴权](https://toutiao.io/k/rdhhq5d) 

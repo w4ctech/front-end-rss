@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-17 14:13:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-17 14:41:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,9 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-09-17-Macbook-的屏幕问题-条纹-请教下前辈们](https://www.v2ex.com/t/880901) 
+- [2022-09-17-如果你不想立刻去做媳妇让你做的事情时，大家是怎样处理的](https://www.v2ex.com/t/880897) 
+- [2022-09-17-求助-Mac-Studio-用户的风扇情况，你们的风扇一直转吗？](https://www.v2ex.com/t/880896) 
 - [2022-09-17-Spark-如何精准控制消息的发送速率？](https://www.v2ex.com/t/880895) 
 - [2022-09-17-考出一注后终于辞职了，帮大家解决装修设计中的问题](https://www.v2ex.com/t/880894) 
 - [2022-09-17-感觉苹果的-UI-设计水平退化了许多](https://www.v2ex.com/t/880892) 
@@ -1940,11 +1943,6 @@
 - [2022-09-17-80-出爱奇艺黄金年卡](https://www.v2ex.com/t/880854) 
 - [2022-09-17-是不是不合适的人在一起才会经常吵架](https://www.v2ex.com/t/880853) 
 - [2022-09-17-求大佬推荐-5k-RMB-以内的显示器](https://www.v2ex.com/t/880852) 
-- [2022-09-17-关于是否购买-14，明年-iPhone-有望换成-C-口吗？](https://www.v2ex.com/t/880850) 
-- [2022-09-17-盘灵古域-1.19.2-版服务器，欢迎加入喵](https://www.v2ex.com/t/880849) 
-- [2022-09-17-有哪些方式可以知道，某个命令是不是系统自带的（MacOS-和-Linux-）？](https://www.v2ex.com/t/880848) 
-- [2022-09-17-能否根据数据生成程序的执行路径？](https://www.v2ex.com/t/880847) 
-- [2022-09-17-大佬们，官网退货忘了写退货编号怎么办](https://www.v2ex.com/t/880846) 
 - [2022-09-17-失败驱动开发-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15399&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffailure-driven-development%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-17-图技术在美团外卖下的场景化应用及探索-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15398&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F09%2F08%2Fgnn-scenariomodeling-subgraphextend-jointtraining.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-17-TLS指纹分析研究（上）-blog.nsfocus.net](https://blogread.cn/news/go.php?idItem=15397&url=http%3A%2F%2Fblog.nsfocus.net%2Ftls1-0%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1968,7 +1966,7 @@
 - [2022-09-17-一个不错的开源项目风控引擎（Radar）](https://toutiao.io/k/85syqza) 
 - [2022-09-17-两万字！多线程硬核50问！](https://toutiao.io/k/xlnzn90) 
 - [2022-09-17-揭秘分布式消息流平台：Kafka与Pulsar](https://toutiao.io/k/xd5xha9) 
-- [2022-09-17-推荐-微服务网关鉴权：gateway使用、网关限流使用、用户密码加密、JWT鉴权](https://toutiao.io/k/rdhhq5d) 
 - [2022-09-17-推荐-公司40k招的架构师写的API网关选型总结，就是牛逼！](https://toutiao.io/k/kyi9yzt) 
+- [2022-09-17-推荐-微服务网关鉴权：gateway使用、网关限流使用、用户密码加密、JWT鉴权](https://toutiao.io/k/rdhhq5d) 
 - [2022-09-17-推荐-Redis高可用方案](https://toutiao.io/k/3hh68yl) 
 - [2022-09-17-推荐-常见分布式系统设计图解](https://toutiao.io/k/osewvaz) 

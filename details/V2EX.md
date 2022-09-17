@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-17 19:37:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-17 20:16:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -43,4 +43,3 @@
 - [2022-09-17-将-HomePod-通过-Apple-TV-以-eARC-的方式连接电视后感觉声音变小了](https://www.v2ex.com/t/880890) 
 - [2022-09-17-写的一篇博客,-为《隐入烟尘》](https://www.v2ex.com/t/880888) 
 - [2022-09-17-新建健身类网站，-www.jianshenup.com，-seo-可真难幺](https://www.v2ex.com/t/880887) 
-- [2022-09-17-V-友竟然有大专生？](https://www.v2ex.com/t/880886) 

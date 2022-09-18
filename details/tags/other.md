@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-18 14:41:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-18 15:15:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,9 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-09-18-两台手机的步数怎么同步？](https://www.v2ex.com/t/881107) 
+- [2022-09-18-m1-max-外接显示器会迅速耗光电池电量？？](https://www.v2ex.com/t/881106) 
+- [2022-09-18-统招专升本失败，想问问大家有没有什么建议](https://www.v2ex.com/t/881105) 
 - [2022-09-18-golang-的-web-框架有没有对标-django-的？](https://www.v2ex.com/t/881104) 
 - [2022-09-18-蛋疼买了个域名](https://www.v2ex.com/t/881103) 
 - [2022-09-18-研一研究方向](https://www.v2ex.com/t/881102) 
@@ -1944,8 +1947,6 @@
 - [2022-09-18-Windows10-WiFi-的协商速率总是从-2400-掉到-1200](https://www.v2ex.com/t/881060) 
 - [2022-09-18-传统车企大厂做-IT-咋样？](https://www.v2ex.com/t/881059) 
 - [2022-09-18-14PM-充电](https://www.v2ex.com/t/881058) 
-- [2022-09-18-iPhone-14-512GB-黑色未拆封-转手](https://www.v2ex.com/t/881056) 
-- [2022-09-18-yitool-cli-1.0.5-发布，增加-zip-压缩功能](https://www.v2ex.com/t/881055) 
 - [2022-09-18-失败驱动开发-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15399&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffailure-driven-development%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-18-图技术在美团外卖下的场景化应用及探索-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15398&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F09%2F08%2Fgnn-scenariomodeling-subgraphextend-jointtraining.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-18-TLS指纹分析研究（上）-blog.nsfocus.net](https://blogread.cn/news/go.php?idItem=15397&url=http%3A%2F%2Fblog.nsfocus.net%2Ftls1-0%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1970,6 +1971,6 @@
 - [2022-09-18-拔掉网线后，-原本的-TCP-连接还存在吗？](https://toutiao.io/k/d9lsbmw) 
 - [2022-09-18-2022年-AI-技术成熟度曲线](https://toutiao.io/k/v022nqp) 
 - [2022-09-18-攻破主流数仓缺陷，字节跳动基于Doris的湖仓分析探索实践](https://toutiao.io/k/j96q7he) 
-- [2022-09-18-推荐-微服务网关鉴权：gateway使用、网关限流使用、用户密码加密、JWT鉴权](https://toutiao.io/k/rdhhq5d) 
 - [2022-09-18-推荐-常见分布式系统设计图解](https://toutiao.io/k/osewvaz) 
 - [2022-09-18-推荐-Redis高可用方案](https://toutiao.io/k/3hh68yl) 
+- [2022-09-18-推荐-微服务网关鉴权：gateway使用、网关限流使用、用户密码加密、JWT鉴权](https://toutiao.io/k/rdhhq5d) 

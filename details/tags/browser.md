@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-18 14:41:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-18 15:15:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -16,6 +16,5 @@
 - [2022-06-12-基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/) 
 - [2022-09-18-请教一个-Nginx-https-转-http-单个文件请求问题](https://www.v2ex.com/t/881101) 
 - [2022-09-18-用-Neovim-调试-RESTful-接口](https://www.v2ex.com/t/881079) 
-- [2022-09-18-safari-能把强制刷新的快捷键改成⇧⌘R-吗？](https://www.v2ex.com/t/881057) 
 - [2022-09-18-PostgreSQL-越来越流行](https://toutiao.io/k/ojs1csb) 
 - [2022-09-18-前端各种调试工具的通用原理](https://toutiao.io/k/cbxriyx) 

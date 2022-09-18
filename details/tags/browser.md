@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-18 06:21:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-18 06:53:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -15,6 +15,5 @@
 - [2021-01-01-大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html) 
 - [2022-06-12-基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/) 
 - [2022-09-18-WebServer-项目端口放行后浏览器-ERR_CONNECTION_REFUSED](https://www.v2ex.com/t/880994) 
-- [2022-09-18-safari-有没有插件可以做到-cmd+t-的时候弹出搜索框而不是新起页面？](https://www.v2ex.com/t/880973) 
 - [2022-09-18-PostgreSQL-越来越流行](https://toutiao.io/k/ojs1csb) 
 - [2022-09-18-前端各种调试工具的通用原理](https://toutiao.io/k/cbxriyx) 

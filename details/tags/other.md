@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-18 14:13:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-18 14:41:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,9 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-09-18-golang-的-web-框架有没有对标-django-的？](https://www.v2ex.com/t/881104) 
+- [2022-09-18-蛋疼买了个域名](https://www.v2ex.com/t/881103) 
+- [2022-09-18-研一研究方向](https://www.v2ex.com/t/881102) 
 - [2022-09-18-用了-4-年多苹果笔记本，还是没习惯它的上下键](https://www.v2ex.com/t/881100) 
 - [2022-09-18-X-ui-面板的奇怪问题.......](https://www.v2ex.com/t/881099) 
 - [2022-09-18-我的-er-x-mpls-功能出-bug-了](https://www.v2ex.com/t/881098) 
@@ -1943,8 +1946,6 @@
 - [2022-09-18-14PM-充电](https://www.v2ex.com/t/881058) 
 - [2022-09-18-iPhone-14-512GB-黑色未拆封-转手](https://www.v2ex.com/t/881056) 
 - [2022-09-18-yitool-cli-1.0.5-发布，增加-zip-压缩功能](https://www.v2ex.com/t/881055) 
-- [2022-09-18-开源-CRM-推荐](https://www.v2ex.com/t/881054) 
-- [2022-09-18-请源-苹果修复所有因-排线门-导致的-屏幕问题--目标-50000-现在-39,798](https://www.v2ex.com/t/881053) 
 - [2022-09-18-失败驱动开发-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15399&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffailure-driven-development%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-18-图技术在美团外卖下的场景化应用及探索-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15398&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F09%2F08%2Fgnn-scenariomodeling-subgraphextend-jointtraining.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-18-TLS指纹分析研究（上）-blog.nsfocus.net](https://blogread.cn/news/go.php?idItem=15397&url=http%3A%2F%2Fblog.nsfocus.net%2Ftls1-0%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

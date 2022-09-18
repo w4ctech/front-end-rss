@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-18 16:59:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-18 17:23:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,8 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-09-18-ios-14.7.1-越狱，求大佬推荐靠谱的防越狱检测插件](https://www.v2ex.com/t/881123) 
+- [2022-09-18-给用外版带-esim-功能的各位推荐个软件](https://www.v2ex.com/t/881122) 
 - [2022-09-18-羊了个羊-分析分析](https://www.v2ex.com/t/881121) 
 - [2022-09-18-求助帖：这事得从老婆让我给她建个网站说起](https://www.v2ex.com/t/881120) 
 - [2022-09-18-请教一下，如何完全关闭应用宝的通知功能？](https://www.v2ex.com/t/881118) 
@@ -1973,5 +1975,5 @@
 - [2022-09-18-2022年-AI-技术成熟度曲线](https://toutiao.io/k/v022nqp) 
 - [2022-09-18-攻破主流数仓缺陷，字节跳动基于Doris的湖仓分析探索实践](https://toutiao.io/k/j96q7he) 
 - [2022-09-18-推荐-常见分布式系统设计图解](https://toutiao.io/k/osewvaz) 
-- [2022-09-18-推荐-微服务网关鉴权：gateway使用、网关限流使用、用户密码加密、JWT鉴权](https://toutiao.io/k/rdhhq5d) 
 - [2022-09-18-推荐-Redis高可用方案](https://toutiao.io/k/3hh68yl) 
+- [2022-09-18-推荐-微服务网关鉴权：gateway使用、网关限流使用、用户密码加密、JWT鉴权](https://toutiao.io/k/rdhhq5d) 

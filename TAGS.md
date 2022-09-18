@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-09-18 04:04:23。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-18 05:30:59。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -235,8 +235,6 @@
 
 - [【武汉肺炎防疫全纪录(财新网)】广州17岁男生在定点医院参加高考-特殊考场视频监考](https://m.caixin.com/m/2021-06-05/101723418.html)
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
-- [【V2EX】分享下-Nginx-+-thumbor-组合，让-nginx-更好的支持图像裁剪](https://www.v2ex.com/t/880954)
-- [【V2EX】4K-视频掉帧](https://www.v2ex.com/t/880939)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -277,9 +275,8 @@
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
 - [【张鑫旭-鑫空间-鑫生活】基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/)
+- [【V2EX】WebServer-项目端口放行后浏览器-ERR_CONNECTION_REFUSED](https://www.v2ex.com/t/880994)
 - [【V2EX】safari-有没有插件可以做到-cmd+t-的时候弹出搜索框而不是新起页面？](https://www.v2ex.com/t/880973)
-- [【V2EX】请问-2022-做-Android-原生开发，哪款手机平板用作调试比较好？](https://www.v2ex.com/t/880957)
-- [【V2EX】Safari16.0-bug-跨窗口拖动标签页，该标签页会消失，拖动不成功](https://www.v2ex.com/t/880944)
 - [【开发者头条】PostgreSQL-越来越流行](https://toutiao.io/k/ojs1csb)
 - [【开发者头条】前端各种调试工具的通用原理](https://toutiao.io/k/cbxriyx)
 - [......【查看更多】......](./details/tags/browser.md)

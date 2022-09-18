@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-18 01:20:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-18 04:04:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -14,7 +14,8 @@
 - [2021-01-08-解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html) 
 - [2021-01-01-大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html) 
 - [2022-06-12-基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/) 
+- [2022-09-18-safari-有没有插件可以做到-cmd+t-的时候弹出搜索框而不是新起页面？](https://www.v2ex.com/t/880973) 
+- [2022-09-18-请问-2022-做-Android-原生开发，哪款手机平板用作调试比较好？](https://www.v2ex.com/t/880957) 
 - [2022-09-18-Safari16.0-bug-跨窗口拖动标签页，该标签页会消失，拖动不成功](https://www.v2ex.com/t/880944) 
-- [2022-09-17-WebServer-项目端口放行后浏览器拒绝连接ERR_CONNECTION_REFUSED](https://www.v2ex.com/t/880900) 
 - [2022-09-18-PostgreSQL-越来越流行](https://toutiao.io/k/ojs1csb) 
 - [2022-09-18-前端各种调试工具的通用原理](https://toutiao.io/k/cbxriyx) 

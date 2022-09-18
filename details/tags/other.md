@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-18 13:54:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-18 14:13:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,8 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-09-18-用了-4-年多苹果笔记本，还是没习惯它的上下键](https://www.v2ex.com/t/881100) 
+- [2022-09-18-X-ui-面板的奇怪问题.......](https://www.v2ex.com/t/881099) 
 - [2022-09-18-我的-er-x-mpls-功能出-bug-了](https://www.v2ex.com/t/881098) 
 - [2022-09-18-有没有大佬试过在用云服务器中转连接-parsec-成功的例子](https://www.v2ex.com/t/881097) 
 - [2022-09-18-关于噪音，楼下半夜-12-来敲过几次门了，该怎么处理](https://www.v2ex.com/t/881095) 
@@ -1967,6 +1969,6 @@
 - [2022-09-18-拔掉网线后，-原本的-TCP-连接还存在吗？](https://toutiao.io/k/d9lsbmw) 
 - [2022-09-18-2022年-AI-技术成熟度曲线](https://toutiao.io/k/v022nqp) 
 - [2022-09-18-攻破主流数仓缺陷，字节跳动基于Doris的湖仓分析探索实践](https://toutiao.io/k/j96q7he) 
-- [2022-09-18-推荐-Redis高可用方案](https://toutiao.io/k/3hh68yl) 
-- [2022-09-18-推荐-常见分布式系统设计图解](https://toutiao.io/k/osewvaz) 
 - [2022-09-18-推荐-微服务网关鉴权：gateway使用、网关限流使用、用户密码加密、JWT鉴权](https://toutiao.io/k/rdhhq5d) 
+- [2022-09-18-推荐-常见分布式系统设计图解](https://toutiao.io/k/osewvaz) 
+- [2022-09-18-推荐-Redis高可用方案](https://toutiao.io/k/3hh68yl) 

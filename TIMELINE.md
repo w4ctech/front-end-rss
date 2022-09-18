@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-18 13:54:03。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-09-18 14:13:32。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,9 @@
 </summary>
 
 
+- [【V2EX】2022-09-18-请教一个-Nginx-https-转-http-单个文件请求问题](https://www.v2ex.com/t/881101) 
+- [【V2EX】2022-09-18-用了-4-年多苹果笔记本，还是没习惯它的上下键](https://www.v2ex.com/t/881100) 
+- [【V2EX】2022-09-18-X-ui-面板的奇怪问题.......](https://www.v2ex.com/t/881099) 
 - [【V2EX】2022-09-18-我的-er-x-mpls-功能出-bug-了](https://www.v2ex.com/t/881098) 
 - [【V2EX】2022-09-18-有没有大佬试过在用云服务器中转连接-parsec-成功的例子](https://www.v2ex.com/t/881097) 
 - [【V2EX】2022-09-18-关于噪音，楼下半夜-12-来敲过几次门了，该怎么处理](https://www.v2ex.com/t/881095) 
@@ -106,7 +109,6 @@
 - [【V2EX】2022-09-18-yitool-cli-1.0.5-发布，增加-zip-压缩功能](https://www.v2ex.com/t/881055) 
 - [【V2EX】2022-09-18-开源-CRM-推荐](https://www.v2ex.com/t/881054) 
 - [【V2EX】2022-09-18-请源-苹果修复所有因-排线门-导致的-屏幕问题--目标-50000-现在-39,798](https://www.v2ex.com/t/881053) 
-- [【V2EX】2022-09-18-VLC-播放器的中文文件排列逻辑是什么？](https://www.v2ex.com/t/881050) 
 - [【技术头条】2022-09-18-失败驱动开发-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15399&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffailure-driven-development%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-18-图技术在美团外卖下的场景化应用及探索-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15398&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F09%2F08%2Fgnn-scenariomodeling-subgraphextend-jointtraining.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-18-TLS指纹分析研究（上）-blog.nsfocus.net](https://blogread.cn/news/go.php?idItem=15397&url=http%3A%2F%2Fblog.nsfocus.net%2Ftls1-0%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -137,11 +139,11 @@
 - [【开发者头条】2022-09-18-拔掉网线后，-原本的-TCP-连接还存在吗？](https://toutiao.io/k/d9lsbmw) 
 - [【开发者头条】2022-09-18-2022年-AI-技术成熟度曲线](https://toutiao.io/k/v022nqp) 
 - [【开发者头条】2022-09-18-攻破主流数仓缺陷，字节跳动基于Doris的湖仓分析探索实践](https://toutiao.io/k/j96q7he) 
-- [【开发者头条】2022-09-18-推荐-近期-yyds-的-GitHub-项目](https://toutiao.io/k/i1qkq4o) 
 - [【开发者头条】2022-09-18-推荐-1.8w-字的-SQL-优化大全](https://toutiao.io/k/tz7p6nl) 
-- [【开发者头条】2022-09-18-推荐-Redis高可用方案](https://toutiao.io/k/3hh68yl) 
-- [【开发者头条】2022-09-18-推荐-常见分布式系统设计图解](https://toutiao.io/k/osewvaz) 
 - [【开发者头条】2022-09-18-推荐-微服务网关鉴权：gateway使用、网关限流使用、用户密码加密、JWT鉴权](https://toutiao.io/k/rdhhq5d) 
+- [【开发者头条】2022-09-18-推荐-近期-yyds-的-GitHub-项目](https://toutiao.io/k/i1qkq4o) 
+- [【开发者头条】2022-09-18-推荐-常见分布式系统设计图解](https://toutiao.io/k/osewvaz) 
+- [【开发者头条】2022-09-18-推荐-Redis高可用方案](https://toutiao.io/k/3hh68yl) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

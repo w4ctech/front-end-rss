@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-18 18:50:09，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-18 19:12:45，:rocket: 更新条数: +2005， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
-- [开发者头条](#开发者头条)![](assets/dot.png)   
+- [开发者头条](#开发者头条)  
 - [安全热点](#安全热点)  
 - [物联网智库](#物联网智库)  
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-09-18-提问对于低质量高复杂度业务代码逻辑的一根筋治理](https://www.v2ex.com/t/881126) ![](assets/new.png)  
 - [2022-09-18-ios-14.7.1-越狱，求大佬推荐靠谱的防越狱检测插件](https://www.v2ex.com/t/881123) ![](assets/new.png)  
 - [2022-09-18-给用外版带-esim-功能的各位推荐个软件](https://www.v2ex.com/t/881122) ![](assets/new.png)  
 - [2022-09-18-羊了个羊-分析分析](https://www.v2ex.com/t/881121) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-09-18-蛋疼买了个域名](https://www.v2ex.com/t/881103) ![](assets/new.png)  
 - [2022-09-18-研一研究方向](https://www.v2ex.com/t/881102) ![](assets/new.png)  
 - [2022-09-18-请教一个-Nginx-https-转-http-单个文件请求问题](https://www.v2ex.com/t/881101) ![](assets/new.png)  
-- [2022-09-18-用了-4-年多苹果笔记本，还是没习惯它的上下键](https://www.v2ex.com/t/881100) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -553,21 +553,6 @@
 </summary>
 
 
-- [2022-09-18-听说"羊了个羊”很火，带大家写个代码快速加入羊群~](https://toutiao.io/k/udifd0q) ![](assets/new.png)  
-- [2022-09-18-PostgreSQL-越来越流行](https://toutiao.io/k/ojs1csb) ![](assets/new.png)  
-- [2022-09-18-优雅的使用-Dockerfile-定制镜像，1.5W-字长文，值得收藏！](https://toutiao.io/k/ccgjv8r) ![](assets/new.png)  
-- [2022-09-18-字节跳动数据湖在实时数仓中的实践](https://toutiao.io/k/pvgyw02) ![](assets/new.png)  
-- [2022-09-18-C++类设计和实现的十大最佳实践](https://toutiao.io/k/mbd7pmc) ![](assets/new.png)  
-- [2022-09-18-前端各种调试工具的通用原理](https://toutiao.io/k/cbxriyx) ![](assets/new.png)  
-- [2022-09-18-go实现规则引擎](https://toutiao.io/k/w4tiunr) ![](assets/new.png)  
-- [2022-09-18-拔掉网线后，-原本的-TCP-连接还存在吗？](https://toutiao.io/k/d9lsbmw) ![](assets/new.png)  
-- [2022-09-18-2022年-AI-技术成熟度曲线](https://toutiao.io/k/v022nqp) ![](assets/new.png)  
-- [2022-09-18-攻破主流数仓缺陷，字节跳动基于Doris的湖仓分析探索实践](https://toutiao.io/k/j96q7he) ![](assets/new.png)  
-- [2022-09-18-推荐-1.8w-字的-SQL-优化大全](https://toutiao.io/k/tz7p6nl) ![](assets/new.png)  
-- [2022-09-18-推荐-微服务网关鉴权：gateway使用、网关限流使用、用户密码加密、JWT鉴权](https://toutiao.io/k/rdhhq5d) ![](assets/new.png)  
-- [2022-09-18-推荐-近期-yyds-的-GitHub-项目](https://toutiao.io/k/i1qkq4o) ![](assets/new.png)  
-- [2022-09-18-推荐-常见分布式系统设计图解](https://toutiao.io/k/osewvaz) ![](assets/new.png)  
-- [2022-09-18-推荐-Redis高可用方案](https://toutiao.io/k/3hh68yl) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

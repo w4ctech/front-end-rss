@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-19 04:13:04，:rocket: 更新条数: +2025， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-19 05:56:16，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,26 +491,26 @@
 </summary>
 
 
+- [2022-09-19-如何获取一个-app-所有使用的端口？](https://www.v2ex.com/t/881247) ![](assets/new.png)  
+- [2022-09-19-请问一下如何在-nginx-配置层面做到带参数（且参数正确）时返回页面本身内容，否则返回-404？](https://www.v2ex.com/t/881246) ![](assets/new.png)  
+- [2022-09-19-求推荐一款录音手表或者手环](https://www.v2ex.com/t/881242) ![](assets/new.png)  
+- [2022-09-19-如何优雅的白嫖公司的-MacBookPro](https://www.v2ex.com/t/881240) ![](assets/new.png)  
+- [2022-09-19-香港数据显示新冠死亡率是流感的-6-倍，以及放开之后预测的代价，大家怎么看？](https://www.v2ex.com/t/881239) ![](assets/new.png)  
+- [2022-09-19-请问这个代码怎么写能让他跑得更快](https://www.v2ex.com/t/881237) ![](assets/new.png)  
+- [2022-09-19-手机上试了一下-ExaGear，现在玩-DX9-的-Win32-游戏，已经那么强了啊？](https://www.v2ex.com/t/881236) ![](assets/new.png)  
+- [2022-09-19-慎买官方表带，求个第三方运动表带](https://www.v2ex.com/t/881235) ![](assets/new.png)  
+- [2022-09-19-关于社保断缴问题](https://www.v2ex.com/t/881234) ![](assets/new.png)  
+- [2022-09-19-苹果的售后服务太顶了，-MacBook-直接免费换了整个-C-面](https://www.v2ex.com/t/881230) ![](assets/new.png)  
+- [2022-09-19-C++如何直观地看到编译器对某个函数的-overload-set?](https://www.v2ex.com/t/881229) ![](assets/new.png)  
+- [2022-09-19-武汉电信宽带公网-IP-申请](https://www.v2ex.com/t/881228) ![](assets/new.png)  
+- [2022-09-19-你正在研究些什么有趣的问题？](https://www.v2ex.com/t/881227) ![](assets/new.png)  
+- [2022-09-19-leader-完全不如自己该怎么办？](https://www.v2ex.com/t/881226) ![](assets/new.png)  
+- [2022-09-19-visa-信用卡没有办法在-hk-apple-store-购买-app-吗?](https://www.v2ex.com/t/881225) ![](assets/new.png)  
+- [2022-09-19-如何理解-mmap-的-offset](https://www.v2ex.com/t/881224) ![](assets/new.png)  
 - [2022-09-19-滴滴出行-2023-届校园招聘内推，推荐码-NTADaYM](https://www.v2ex.com/t/881223) ![](assets/new.png)  
 - [2022-09-19-一部高分电视剧](https://www.v2ex.com/t/881222) ![](assets/new.png)  
 - [2022-09-19-硬盘满了，给大姐姐换一个大的家，-nas-静态卷怎么换硬盘，组-raid](https://www.v2ex.com/t/881221) ![](assets/new.png)  
 - [2022-09-19-（求助贴）Win10-的-ntp-同步精度问题](https://www.v2ex.com/t/881220) ![](assets/new.png)  
-- [2022-09-19-创业团队寻找早期成员-IOS-工程师（前端/后端）](https://www.v2ex.com/t/881219) ![](assets/new.png)  
-- [2022-09-19-有将-JS（非-TypeScript）编译成-wasm-然后用-JS-的-WebAssembly-接口调用的成功案例吗？](https://www.v2ex.com/t/881218) ![](assets/new.png)  
-- [2022-09-19-21-款-14-寸-MBP-拿到手一个月，无法开机无法充电，求教超出退还期能否换货](https://www.v2ex.com/t/881217) ![](assets/new.png)  
-- [2022-09-19-关于存储空间的奇怪逻辑](https://www.v2ex.com/t/881216) ![](assets/new.png)  
-- [2022-09-19-我这电脑还能装黑苹果吗？联想小新-Pro14-i5-11320H](https://www.v2ex.com/t/881215) ![](assets/new.png)  
-- [2022-09-19-apple-美区礼品卡起售价改成$25-了](https://www.v2ex.com/t/881213) ![](assets/new.png)  
-- [2022-09-19-2022-年秋天--watch-选择问题。](https://www.v2ex.com/t/881211) ![](assets/new.png)  
-- [2022-09-19-同部门同事真的不能深交，大家引以为戒吧](https://www.v2ex.com/t/881210) ![](assets/new.png)  
-- [2022-09-19-小别墅推荐-AC+AP-还是家用-Mesh？-2.5G-或者全光有必要么？](https://www.v2ex.com/t/881209) ![](assets/new.png)  
-- [2022-09-19-感觉我的-win10-有奇奇怪怪的字体问题-请问大家如何解决](https://www.v2ex.com/t/881208) ![](assets/new.png)  
-- [2022-09-19-微信恢复后搜索呈白屏](https://www.v2ex.com/t/881207) ![](assets/new.png)  
-- [2022-09-19-找室友-1-号线外环路超大-110-平双南双阳台房](https://www.v2ex.com/t/881204) ![](assets/new.png)  
-- [2022-09-19-请教巨佬们，垃圾短信中推广的网站有办法整治吗](https://www.v2ex.com/t/881202) ![](assets/new.png)  
-- [2022-09-19-WIN11-自带防火墙总是拦截我的文件](https://www.v2ex.com/t/881201) ![](assets/new.png)  
-- [2022-09-19-大伙儿预计-14PM，什么时候能在果庙里随买随提走？-国庆假期行不？](https://www.v2ex.com/t/881200) ![](assets/new.png)  
-- [2022-09-19-各位已经润出去的大佬，有没有找移民中介呢，程序员靠谱的移民途径是啥？](https://www.v2ex.com/t/881199) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -561,18 +561,18 @@
 - [2022-09-19-你真的会面试吗？](https://toutiao.io/k/1zwlcj0) ![](assets/new.png)  
 - [2022-09-19-针对Uber被黑客攻击事件的简单分析](https://toutiao.io/k/72o3x8b) ![](assets/new.png)  
 - [2022-09-19-React-状态管理的新浪潮](https://toutiao.io/k/ymc7574) ![](assets/new.png)  
-- [2022-09-19-Kubernetes环境中NFQUEUE与MARK机制冲突](https://toutiao.io/k/8m8em9y) ![](assets/new.png)  
 - [2022-09-19-如何变得有钱？揭秘前端眼中的Rust；微服务架构的演进｜码农周刊VIP会员专属邮件周报-Vol.106](https://toutiao.io/k/afktuwd) ![](assets/new.png)  
+- [2022-09-19-Kubernetes环境中NFQUEUE与MARK机制冲突](https://toutiao.io/k/8m8em9y) ![](assets/new.png)  
 - [2022-09-19-为什么软件能力成熟度模型把实践称为期望部件？](https://toutiao.io/k/zt3fyhs) ![](assets/new.png)  
 - [2022-09-19-质量问题不是不爆，时候未到](https://toutiao.io/k/ef9do4j) ![](assets/new.png)  
 - [2022-09-19-为什么微服务一定要有网关？](https://toutiao.io/k/8yj2b1k) ![](assets/new.png)  
 - [2022-09-19-网关选型：Apache-APISIX-在「还呗」业务中的技术实践](https://toutiao.io/k/ifxmy66) ![](assets/new.png)  
 - [2022-09-19-OpenIM支持10万级超级大群](https://toutiao.io/k/caa54ji) ![](assets/new.png)  
 - [2022-09-19-网易数帆数据治理2.0实践分享](https://toutiao.io/k/dfoczhj) ![](assets/new.png)  
-- [2022-09-19-推荐-1.8w-字的-SQL-优化大全](https://toutiao.io/k/tz7p6nl) ![](assets/new.png)  
-- [2022-09-19-推荐-Redis高可用方案](https://toutiao.io/k/3hh68yl) ![](assets/new.png)  
 - [2022-09-19-推荐-微服务网关鉴权：gateway使用、网关限流使用、用户密码加密、JWT鉴权](https://toutiao.io/k/rdhhq5d) ![](assets/new.png)  
 - [2022-09-19-推荐-近期-yyds-的-GitHub-项目](https://toutiao.io/k/i1qkq4o) ![](assets/new.png)  
+- [2022-09-19-推荐-常见分布式系统设计图解](https://toutiao.io/k/osewvaz) ![](assets/new.png)  
+- [2022-09-19-推荐-1.8w-字的-SQL-优化大全](https://toutiao.io/k/tz7p6nl) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

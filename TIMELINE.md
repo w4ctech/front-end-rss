@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-19 11:41:27。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-09-19 12:32:08。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,11 @@
 </summary>
 
 
+- [【V2EX】2022-09-19-SemiAnalysis：苹果部分嵌入式核心正加速转向-RISC-V-架构](https://www.v2ex.com/t/881365) 
+- [【V2EX】2022-09-19-Apple-是不是傻屌，-iOS16-允许粘贴，不允许粘贴。。。。烦都烦死了](https://www.v2ex.com/t/881363) 
+- [【V2EX】2022-09-19-高新南地铁站附近能开/停电瓶车吗，还有-11-号线的问题](https://www.v2ex.com/t/881362) 
+- [【V2EX】2022-09-19-感想-貌似国内现在用.Net-技术的大厂很少](https://www.v2ex.com/t/881360) 
+- [【V2EX】2022-09-19-请大家帮忙出主意，怎么合法举报骗子公司](https://www.v2ex.com/t/881358) 
 - [【V2EX】2022-09-19-求职-远程兼职，-7-年-PHP-，会点前端。](https://www.v2ex.com/t/881356) 
 - [【V2EX】2022-09-19-袋鼠数据库工具-v1.99.1](https://www.v2ex.com/t/881355) 
 - [【V2EX】2022-09-19-上班族自己做饭有什么省钱省时间的操作?](https://www.v2ex.com/t/881352) 
@@ -100,14 +105,6 @@
 - [【V2EX】2022-09-19-教育优惠版本的-iPad-保修期是怎么算的？](https://www.v2ex.com/t/881318) 
 - [【V2EX】2022-09-19-黑白群晖折腾完之后，最近感觉索然无味](https://www.v2ex.com/t/881317) 
 - [【V2EX】2022-09-19-日版-iPhone-的拍照声是不在日本就不响了，那其他地区的带到日本会响吗？](https://www.v2ex.com/t/881316) 
-- [【V2EX】2022-09-19-你知道的说起来-高大上-的技术名词有哪些](https://www.v2ex.com/t/881315) 
-- [【V2EX】2022-09-19-一块-U-盘有多个分区,能使用-CMD/POWERSHELL-来无交互安全弹出它吗?](https://www.v2ex.com/t/881314) 
-- [【V2EX】2022-09-19-火星来客再升级，现支持-Upwork-等国外外包任务订阅了](https://www.v2ex.com/t/881313) 
-- [【V2EX】2022-09-19-计算机类电子书在哪买的比较全-好下载](https://www.v2ex.com/t/881312) 
-- [【V2EX】2022-09-19-求助！-Mongodb-用户自定义导航表结构该如何设计？](https://www.v2ex.com/t/881311) 
-- [【V2EX】2022-09-19-Apple-watch-的体验感受。](https://www.v2ex.com/t/881310) 
-- [【V2EX】2022-09-19-等-JetBrains-全家桶到-10-月续费的，现在是不是变成小丑了](https://www.v2ex.com/t/881309) 
-- [【V2EX】2022-09-19-js-input-file-获取快捷方式的名称。](https://www.v2ex.com/t/881308) 
 - [【技术头条】2022-09-19-失败驱动开发-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15399&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffailure-driven-development%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-19-图技术在美团外卖下的场景化应用及探索-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15398&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F09%2F08%2Fgnn-scenariomodeling-subgraphextend-jointtraining.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-19-TLS指纹分析研究（上）-blog.nsfocus.net](https://blogread.cn/news/go.php?idItem=15397&url=http%3A%2F%2Fblog.nsfocus.net%2Ftls1-0%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -128,29 +125,6 @@
 - [【技术头条】2022-09-19-深度链接（Deeplinking）是什么？-www.zhihu.com](https://blogread.cn/news/go.php?idItem=15382&url=https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F51509486%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-19-Android-DeepLink介绍与使用-cloud.tencent.com](https://blogread.cn/news/go.php?idItem=15381&url=https%3A%2F%2Fcloud.tencent.com%2Fdeveloper%2Farticle%2F1368263%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-19-一文读懂深度链接deep-linking-mktbee.com](https://blogread.cn/news/go.php?idItem=15380&url=https%3A%2F%2Fmktbee.com%2F318.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [【开发者头条】2022-09-19-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) 
-- [【开发者头条】2022-09-19-5大主流方案对比：MySQL千亿级数据线上平滑扩容实战](https://toutiao.io/k/92pt5g6) 
-- [【开发者头条】2022-09-19-美团简单版动态线程池源码实现](https://toutiao.io/k/vkf7vh0) 
-- [【开发者头条】2022-09-19-B站流式传输架构的前世今生](https://toutiao.io/k/7ku2yyz) 
-- [【开发者头条】2022-09-19-从零开始实现一个深度学习框架-|-一文读懂Normalization-1](https://toutiao.io/k/xjtolvh) 
-- [【开发者头条】2022-09-19-你真的会面试吗？](https://toutiao.io/k/1zwlcj0) 
-- [【开发者头条】2022-09-19-为什么微服务一定要有网关？](https://toutiao.io/k/8yj2b1k) 
-- [【开发者头条】2022-09-19-针对Uber被黑客攻击事件的简单分析](https://toutiao.io/k/72o3x8b) 
-- [【开发者头条】2022-09-19-React-状态管理的新浪潮](https://toutiao.io/k/ymc7574) 
-- [【开发者头条】2022-09-19-如何变得有钱？揭秘前端眼中的Rust；微服务架构的演进｜码农周刊VIP会员专属邮件周报-Vol.106](https://toutiao.io/k/afktuwd) 
-- [【开发者头条】2022-09-19-Kubernetes环境中NFQUEUE与MARK机制冲突](https://toutiao.io/k/8m8em9y) 
-- [【开发者头条】2022-09-19-为什么软件能力成熟度模型把实践称为期望部件？](https://toutiao.io/k/zt3fyhs) 
-- [【开发者头条】2022-09-19-质量问题不是不爆，时候未到](https://toutiao.io/k/ef9do4j) 
-- [【开发者头条】2022-09-19-凭借SpringBoot整合Neo4j，我理清了《雷神》中错综复杂的人物关系](https://toutiao.io/k/cc6gg9m) 
-- [【开发者头条】2022-09-19-网关选型：Apache-APISIX-在「还呗」业务中的技术实践](https://toutiao.io/k/ifxmy66) 
-- [【开发者头条】2022-09-19-OpenIM支持10万级超级大群](https://toutiao.io/k/caa54ji) 
-- [【开发者头条】2022-09-19-网易数帆数据治理2.0实践分享](https://toutiao.io/k/dfoczhj) 
-- [【开发者头条】2022-09-19-爬虫与反爬虫技术简介](https://toutiao.io/k/ffq11yk) 
-- [【开发者头条】2022-09-19-推荐-微服务网关鉴权：gateway使用、网关限流使用、用户密码加密、JWT鉴权](https://toutiao.io/k/rdhhq5d) 
-- [【开发者头条】2022-09-19-推荐-常见分布式系统设计图解](https://toutiao.io/k/osewvaz) 
-- [【开发者头条】2022-09-19-推荐-1.8w-字的-SQL-优化大全](https://toutiao.io/k/tz7p6nl) 
-- [【开发者头条】2022-09-19-推荐-Redis高可用方案](https://toutiao.io/k/3hh68yl) 
-- [【开发者头条】2022-09-19-推荐-近期-yyds-的-GitHub-项目](https://toutiao.io/k/i1qkq4o) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

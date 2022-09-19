@@ -9953,6 +9953,31 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "SemiAnalysis：苹果部分嵌入式核心正加速转向 RISC-V 架构",
+        "link": "https://www.v2ex.com/t/881365",
+        "date": "2022-09-19"
+      },
+      {
+        "title": "Apple 是不是傻屌， iOS16 允许粘贴，不允许粘贴。。。。烦都烦死了",
+        "link": "https://www.v2ex.com/t/881363",
+        "date": "2022-09-19"
+      },
+      {
+        "title": "高新南地铁站附近能开/停电瓶车吗，还有 11 号线的问题",
+        "link": "https://www.v2ex.com/t/881362",
+        "date": "2022-09-19"
+      },
+      {
+        "title": "[感想]-貌似国内现在用.Net 技术的大厂很少",
+        "link": "https://www.v2ex.com/t/881360",
+        "date": "2022-09-19"
+      },
+      {
+        "title": "请大家帮忙出主意，怎么合法举报骗子公司",
+        "link": "https://www.v2ex.com/t/881358",
+        "date": "2022-09-19"
+      },
+      {
         "title": "[求职] 远程兼职， 7 年 PHP ，会点前端。",
         "link": "https://www.v2ex.com/t/881356",
         "date": "2022-09-19"
@@ -10111,46 +10136,6 @@
         "title": "日版 iPhone 的拍照声是不在日本就不响了，那其他地区的带到日本会响吗？",
         "link": "https://www.v2ex.com/t/881316",
         "date": "2022-09-19"
-      },
-      {
-        "title": "你知道的说起来 [高大上] 的技术名词有哪些",
-        "link": "https://www.v2ex.com/t/881315",
-        "date": "2022-09-19"
-      },
-      {
-        "title": "一块 U 盘有多个分区,能使用 CMD/POWERSHELL 来无交互安全弹出它吗?",
-        "link": "https://www.v2ex.com/t/881314",
-        "date": "2022-09-19"
-      },
-      {
-        "title": "火星来客再升级，现支持 Upwork 等国外外包任务订阅了",
-        "link": "https://www.v2ex.com/t/881313",
-        "date": "2022-09-19"
-      },
-      {
-        "title": "计算机类电子书在哪买的比较全 好下载",
-        "link": "https://www.v2ex.com/t/881312",
-        "date": "2022-09-19"
-      },
-      {
-        "title": "求助！ Mongodb 用户自定义导航表结构该如何设计？",
-        "link": "https://www.v2ex.com/t/881311",
-        "date": "2022-09-19"
-      },
-      {
-        "title": "Apple watch 的体验感受。",
-        "link": "https://www.v2ex.com/t/881310",
-        "date": "2022-09-19"
-      },
-      {
-        "title": "等 JetBrains 全家桶到 10 月续费的，现在是不是变成小丑了",
-        "link": "https://www.v2ex.com/t/881309",
-        "date": "2022-09-19"
-      },
-      {
-        "title": "js input file 获取快捷方式的名称。",
-        "link": "https://www.v2ex.com/t/881308",
-        "date": "2022-09-19"
       }
     ]
   },
@@ -10265,123 +10250,7 @@
     "rss": "https://front-rss.herokuapp.com/toutiao/today",
     "title": "开发者头条",
     "link": "https://toutiao.io",
-    "items": [
-      {
-        "title": "Netty、Kafka中的零拷贝技术到底有多牛?",
-        "link": "https://toutiao.io/k/ussdz4q",
-        "date": "2022-09-19"
-      },
-      {
-        "title": "5大主流方案对比：MySQL千亿级数据线上平滑扩容实战",
-        "link": "https://toutiao.io/k/92pt5g6",
-        "date": "2022-09-19"
-      },
-      {
-        "title": "美团简单版动态线程池源码实现",
-        "link": "https://toutiao.io/k/vkf7vh0",
-        "date": "2022-09-19"
-      },
-      {
-        "title": "B站流式传输架构的前世今生",
-        "link": "https://toutiao.io/k/7ku2yyz",
-        "date": "2022-09-19"
-      },
-      {
-        "title": "从零开始实现一个深度学习框架 | 一文读懂Normalization (1)",
-        "link": "https://toutiao.io/k/xjtolvh",
-        "date": "2022-09-19"
-      },
-      {
-        "title": "你真的会面试吗？",
-        "link": "https://toutiao.io/k/1zwlcj0",
-        "date": "2022-09-19"
-      },
-      {
-        "title": "为什么微服务一定要有网关？",
-        "link": "https://toutiao.io/k/8yj2b1k",
-        "date": "2022-09-19"
-      },
-      {
-        "title": "针对Uber被黑客攻击事件的简单分析",
-        "link": "https://toutiao.io/k/72o3x8b",
-        "date": "2022-09-19"
-      },
-      {
-        "title": "React 状态管理的新浪潮",
-        "link": "https://toutiao.io/k/ymc7574",
-        "date": "2022-09-19"
-      },
-      {
-        "title": "如何变得有钱？揭秘前端眼中的Rust；微服务架构的演进｜码农周刊VIP会员专属邮件周报 Vol.106",
-        "link": "https://toutiao.io/k/afktuwd",
-        "date": "2022-09-19"
-      },
-      {
-        "title": "Kubernetes环境中NFQUEUE与MARK机制冲突",
-        "link": "https://toutiao.io/k/8m8em9y",
-        "date": "2022-09-19"
-      },
-      {
-        "title": "为什么软件能力成熟度模型把实践称为期望部件？",
-        "link": "https://toutiao.io/k/zt3fyhs",
-        "date": "2022-09-19"
-      },
-      {
-        "title": "质量问题不是不爆，时候未到",
-        "link": "https://toutiao.io/k/ef9do4j",
-        "date": "2022-09-19"
-      },
-      {
-        "title": "凭借SpringBoot整合Neo4j，我理清了《雷神》中错综复杂的人物关系",
-        "link": "https://toutiao.io/k/cc6gg9m",
-        "date": "2022-09-19"
-      },
-      {
-        "title": "网关选型：Apache APISIX 在「还呗」业务中的技术实践",
-        "link": "https://toutiao.io/k/ifxmy66",
-        "date": "2022-09-19"
-      },
-      {
-        "title": "OpenIM支持10万级超级大群",
-        "link": "https://toutiao.io/k/caa54ji",
-        "date": "2022-09-19"
-      },
-      {
-        "title": "网易数帆数据治理2.0实践分享",
-        "link": "https://toutiao.io/k/dfoczhj",
-        "date": "2022-09-19"
-      },
-      {
-        "title": "爬虫与反爬虫技术简介",
-        "link": "https://toutiao.io/k/ffq11yk",
-        "date": "2022-09-19"
-      },
-      {
-        "title": "[推荐] 微服务网关鉴权：gateway使用、网关限流使用、用户密码加密、JWT鉴权",
-        "link": "https://toutiao.io/k/rdhhq5d",
-        "date": "2022-09-19"
-      },
-      {
-        "title": "[推荐] 常见分布式系统设计图解",
-        "link": "https://toutiao.io/k/osewvaz",
-        "date": "2022-09-19"
-      },
-      {
-        "title": "[推荐] 1.8w 字的 SQL 优化大全",
-        "link": "https://toutiao.io/k/tz7p6nl",
-        "date": "2022-09-19"
-      },
-      {
-        "title": "[推荐] Redis高可用方案",
-        "link": "https://toutiao.io/k/3hh68yl",
-        "date": "2022-09-19"
-      },
-      {
-        "title": "[推荐] 近期 yyds 的 GitHub 项目",
-        "link": "https://toutiao.io/k/i1qkq4o",
-        "date": "2022-09-19"
-      }
-    ]
+    "items": []
   },
   {
     "rss": "https://sec.thief.one/atom.xml",

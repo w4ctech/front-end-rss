@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-09-19 10:51:02。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-19 11:13:46。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -181,8 +181,8 @@
 - [【张鑫旭-鑫空间-鑫生活】如何继承自定义元素及其他JS中扩展新方法](https://www.zhangxinxu.com/wordpress/2022/06/js-extend-class-custom-elements/)
 - [【张鑫旭-鑫空间-鑫生活】介绍一种CSS变量未定义语法也OK的小妙招](https://www.zhangxinxu.com/wordpress/2022/06/css-var-optional-empty-trick/)
 - [【张鑫旭-鑫空间-鑫生活】如何实现页面刷新后不定位到之前的滚动位置？](https://www.zhangxinxu.com/wordpress/2022/05/history-scrollrestoration/)
+- [【V2EX】如何用-Python-循环发送-POST-请求，其中携带的-data-参数需从-json-循环](https://www.v2ex.com/t/881350)
 - [【V2EX】js-input-file-获取快捷方式的名称。](https://www.v2ex.com/t/881308)
-- [【V2EX】Ubuntu-使用-deb-安装-MySQL，哪些组件是必须的？](https://www.v2ex.com/t/881298)
 - [【开发者头条】针对Uber被黑客攻击事件的简单分析](https://toutiao.io/k/72o3x8b)
 - [......【查看更多】......](./details/tags/javascript.md)
 
@@ -239,6 +239,7 @@
 
 - [【武汉肺炎防疫全纪录(财新网)】广州17岁男生在定点医院参加高考-特殊考场视频监考](https://m.caixin.com/m/2021-06-05/101723418.html)
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
+- [【V2EX】新人最近学习-c-语言，有哪些好的书籍，视频，社区，网站资源呢，跪求大佬分享一些](https://www.v2ex.com/t/881349)
 - [【V2EX】2022-年了，安卓+Windows-同价位在图像显示效果上能比肩-苹果了吗？](https://www.v2ex.com/t/881338)
 - [【V2EX】有用-iPad-air5-剪辑视频的么-感觉咋样](https://www.v2ex.com/t/881333)
 - [......【查看更多】......](./details/tags/audio-video.md)

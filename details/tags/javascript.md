@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-19 10:51:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-19 11:13:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -17,6 +17,6 @@
 - [2022-06-19-如何继承自定义元素及其他JS中扩展新方法](https://www.zhangxinxu.com/wordpress/2022/06/js-extend-class-custom-elements/) 
 - [2022-06-11-介绍一种CSS变量未定义语法也OK的小妙招](https://www.zhangxinxu.com/wordpress/2022/06/css-var-optional-empty-trick/) 
 - [2022-05-29-如何实现页面刷新后不定位到之前的滚动位置？](https://www.zhangxinxu.com/wordpress/2022/05/history-scrollrestoration/) 
+- [2022-09-19-如何用-Python-循环发送-POST-请求，其中携带的-data-参数需从-json-循环](https://www.v2ex.com/t/881350) 
 - [2022-09-19-js-input-file-获取快捷方式的名称。](https://www.v2ex.com/t/881308) 
-- [2022-09-19-Ubuntu-使用-deb-安装-MySQL，哪些组件是必须的？](https://www.v2ex.com/t/881298) 
 - [2022-09-19-针对Uber被黑客攻击事件的简单分析](https://toutiao.io/k/72o3x8b) 

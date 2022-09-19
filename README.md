@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-19 10:17:35，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-19 10:51:02，:rocket: 更新条数: +2032， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,14 @@
 </summary>
 
 
+- [2022-09-19-XDM，打算去威海养老，海景房有什么坑？](https://www.v2ex.com/t/881347) ![](assets/new.png)  
+- [2022-09-19-如何潜入某-commit,-神不知鬼不觉修改,-不影响历史?](https://www.v2ex.com/t/881346) ![](assets/new.png)  
+- [2022-09-19-求解，字符串按特殊字符进行拆分](https://www.v2ex.com/t/881345) ![](assets/new.png)  
+- [2022-09-19-请教-ubuntu-如何让-cpu-全速运行？](https://www.v2ex.com/t/881344) ![](assets/new.png)  
+- [2022-09-19-国庆节回老家，有啥杭州土特产之类的东西推荐带回家嘛](https://www.v2ex.com/t/881343) ![](assets/new.png)  
+- [2022-09-19-求教-开了油管印度区的家庭会员，新用户进一直是您似乎与家庭管理员不在同一个国家/地区](https://www.v2ex.com/t/881341) ![](assets/new.png)  
+- [2022-09-19-iMac-显示屏是划痕还是裂开了？](https://www.v2ex.com/t/881340) ![](assets/new.png)  
+- [2022-09-19-撸了一个-ORM/DBHelper,-不知道算不算重复造轮子](https://www.v2ex.com/t/881339) ![](assets/new.png)  
 - [2022-09-19-2022-年了，安卓+Windows-同价位在图像显示效果上能比肩-苹果了吗？](https://www.v2ex.com/t/881338) ![](assets/new.png)  
 - [2022-09-19-微信小程序页面开发可以全部使用-webview-吗？](https://www.v2ex.com/t/881337) ![](assets/new.png)  
 - [2022-09-19-现在-iPhone-的屏幕硬度，不带壳耐摔吗？](https://www.v2ex.com/t/881336) ![](assets/new.png)  
@@ -503,14 +511,6 @@
 - [2022-09-19-Z-Library-捐款奖励会员一个月](https://www.v2ex.com/t/881325) ![](assets/new.png)  
 - [2022-09-19-独立产品灵感周刊-DecoHack-#031---用-AI-给黑白照片上色哪家好？](https://www.v2ex.com/t/881324) ![](assets/new.png)  
 - [2022-09-19-需要频繁访问一个网站，网站有-WAF-防火墙该怎么办](https://www.v2ex.com/t/881323) ![](assets/new.png)  
-- [2022-09-19-Oracle-免费-VPS-如何更换系统](https://www.v2ex.com/t/881322) ![](assets/new.png)  
-- [2022-09-19-原来-iPhone-备忘录还能这么用！](https://www.v2ex.com/t/881321) ![](assets/new.png)  
-- [2022-09-19-有-apple-授权专营店在你身边小程序监控吗？](https://www.v2ex.com/t/881320) ![](assets/new.png)  
-- [2022-09-19-教育优惠版本的-iPad-保修期是怎么算的？](https://www.v2ex.com/t/881318) ![](assets/new.png)  
-- [2022-09-19-黑白群晖折腾完之后，最近感觉索然无味](https://www.v2ex.com/t/881317) ![](assets/new.png)  
-- [2022-09-19-日版-iPhone-的拍照声是不在日本就不响了，那其他地区的带到日本会响吗？](https://www.v2ex.com/t/881316) ![](assets/new.png)  
-- [2022-09-19-你知道的说起来-高大上-的技术名词有哪些](https://www.v2ex.com/t/881315) ![](assets/new.png)  
-- [2022-09-19-一块-U-盘有多个分区,能使用-CMD/POWERSHELL-来无交互安全弹出它吗?](https://www.v2ex.com/t/881314) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -571,8 +571,8 @@
 - [2022-09-19-OpenIM支持10万级超级大群](https://toutiao.io/k/caa54ji) ![](assets/new.png)  
 - [2022-09-19-网易数帆数据治理2.0实践分享](https://toutiao.io/k/dfoczhj) ![](assets/new.png)  
 - [2022-09-19-爬虫与反爬虫技术简介](https://toutiao.io/k/ffq11yk) ![](assets/new.png)  
+- [2022-09-19-推荐-微服务网关鉴权：gateway使用、网关限流使用、用户密码加密、JWT鉴权](https://toutiao.io/k/rdhhq5d) ![](assets/new.png)  
 - [2022-09-19-推荐-1.8w-字的-SQL-优化大全](https://toutiao.io/k/tz7p6nl) ![](assets/new.png)  
-- [2022-09-19-推荐-常见分布式系统设计图解](https://toutiao.io/k/osewvaz) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

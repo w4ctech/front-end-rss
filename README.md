@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-19 20:46:32，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-19 21:15:37，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-09-19-Edge-阅读-PDF-困境](https://www.v2ex.com/t/881427) ![](assets/new.png)  
 - [2022-09-19-要满足什么样的条件，才能让程序员这种工作，像医生律师一样越老越吃香？](https://www.v2ex.com/t/881426) ![](assets/new.png)  
 - [2022-09-19-CodeGen-工具箱-一个有前景且持续升值的程序员工具箱](https://www.v2ex.com/t/881424) ![](assets/new.png)  
 - [2022-09-19-iOS-外区有什么值得推荐的游戏吗](https://www.v2ex.com/t/881423) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-09-19-V-友们，打印机推荐有什么吗？](https://www.v2ex.com/t/881405) ![](assets/new.png)  
 - [2022-09-19-大佬们看下我这个-mbp-能卖多少钱啊..](https://www.v2ex.com/t/881404) ![](assets/new.png)  
 - [2022-09-19-Win10-系统不同用户数据问题](https://www.v2ex.com/t/881402) ![](assets/new.png)  
-- [2022-09-19-办公室吵吵闹闹的该怎么办？](https://www.v2ex.com/t/881401) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -571,8 +571,8 @@
 - [2022-09-19-OpenIM支持10万级超级大群](https://toutiao.io/k/caa54ji) ![](assets/new.png)  
 - [2022-09-19-网易数帆数据治理2.0实践分享](https://toutiao.io/k/dfoczhj) ![](assets/new.png)  
 - [2022-09-19-爬虫与反爬虫技术简介](https://toutiao.io/k/ffq11yk) ![](assets/new.png)  
+- [2022-09-19-推荐-常见分布式系统设计图解](https://toutiao.io/k/osewvaz) ![](assets/new.png)  
 - [2022-09-19-推荐-近期-yyds-的-GitHub-项目](https://toutiao.io/k/i1qkq4o) ![](assets/new.png)  
-- [2022-09-19-推荐-1.8w-字的-SQL-优化大全](https://toutiao.io/k/tz7p6nl) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

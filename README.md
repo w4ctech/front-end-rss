@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-19 11:13:46，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-19 11:41:27，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-09-19-求职-远程兼职，-7-年-PHP-，会点前端。](https://www.v2ex.com/t/881356) ![](assets/new.png)  
+- [2022-09-19-袋鼠数据库工具-v1.99.1](https://www.v2ex.com/t/881355) ![](assets/new.png)  
 - [2022-09-19-上班族自己做饭有什么省钱省时间的操作?](https://www.v2ex.com/t/881352) ![](assets/new.png)  
 - [2022-09-19-如何用-Python-循环发送-POST-请求，其中携带的-data-参数需从-json-循环](https://www.v2ex.com/t/881350) ![](assets/new.png)  
 - [2022-09-19-新人最近学习-c-语言，有哪些好的书籍，视频，社区，网站资源呢，跪求大佬分享一些](https://www.v2ex.com/t/881349) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-09-19-30-岁落户城市推荐](https://www.v2ex.com/t/881335) ![](assets/new.png)  
 - [2022-09-19-有用-iPad-air5-剪辑视频的么-感觉咋样](https://www.v2ex.com/t/881333) ![](assets/new.png)  
 - [2022-09-19-求-apple-watch-换屏推荐](https://www.v2ex.com/t/881332) ![](assets/new.png)  
-- [2022-09-19-ios-外区有什么值得下载的-app](https://www.v2ex.com/t/881330) ![](assets/new.png)  
-- [2022-09-19-TiDB-数据库-DBA-招聘-上海-11-14k](https://www.v2ex.com/t/881329) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -571,8 +571,8 @@
 - [2022-09-19-OpenIM支持10万级超级大群](https://toutiao.io/k/caa54ji) ![](assets/new.png)  
 - [2022-09-19-网易数帆数据治理2.0实践分享](https://toutiao.io/k/dfoczhj) ![](assets/new.png)  
 - [2022-09-19-爬虫与反爬虫技术简介](https://toutiao.io/k/ffq11yk) ![](assets/new.png)  
+- [2022-09-19-推荐-微服务网关鉴权：gateway使用、网关限流使用、用户密码加密、JWT鉴权](https://toutiao.io/k/rdhhq5d) ![](assets/new.png)  
 - [2022-09-19-推荐-常见分布式系统设计图解](https://toutiao.io/k/osewvaz) ![](assets/new.png)  
-- [2022-09-19-推荐-Redis高可用方案](https://toutiao.io/k/3hh68yl) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

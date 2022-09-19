@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-19 08:56:30，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-19 09:20:41，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-09-19-独立产品灵感周刊-DecoHack-#031---用-AI-给黑白照片上色哪家好？](https://www.v2ex.com/t/881324) ![](assets/new.png)  
+- [2022-09-19-需要频繁访问一个网站，网站有-WAF-防火墙该怎么办](https://www.v2ex.com/t/881323) ![](assets/new.png)  
+- [2022-09-19-Oracle-免费-VPS-如何更换系统](https://www.v2ex.com/t/881322) ![](assets/new.png)  
+- [2022-09-19-原来-iPhone-备忘录还能这么用！](https://www.v2ex.com/t/881321) ![](assets/new.png)  
+- [2022-09-19-有-apple-授权专营店在你身边小程序监控吗？](https://www.v2ex.com/t/881320) ![](assets/new.png)  
+- [2022-09-19-教育优惠版本的-iPad-保修期是怎么算的？](https://www.v2ex.com/t/881318) ![](assets/new.png)  
 - [2022-09-19-黑白群晖折腾完之后，最近感觉索然无味](https://www.v2ex.com/t/881317) ![](assets/new.png)  
 - [2022-09-19-日版-iPhone-的拍照声是不在日本就不响了，那其他地区的带到日本会响吗？](https://www.v2ex.com/t/881316) ![](assets/new.png)  
 - [2022-09-19-你知道的说起来-高大上-的技术名词有哪些](https://www.v2ex.com/t/881315) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-09-19-UI-那么多年了，为什么没有一个标准能一统天下？](https://www.v2ex.com/t/881306) ![](assets/new.png)  
 - [2022-09-19-远程-因技术难题，现急聘一名资深-C++](https://www.v2ex.com/t/881304) ![](assets/new.png)  
 - [2022-09-19-苹果官网买的-incase-背包维修难题](https://www.v2ex.com/t/881303) ![](assets/new.png)  
-- [2022-09-19-提了离职，算是见识到了现实中的的算计。](https://www.v2ex.com/t/881302) ![](assets/new.png)  
-- [2022-09-19-宜昌到奉节五天游时间够吗](https://www.v2ex.com/t/881301) ![](assets/new.png)  
-- [2022-09-19-有长沙的-Golang-或者-Java-小伙伴吗？来一起组队合伙做项目呀！](https://www.v2ex.com/t/881300) ![](assets/new.png)  
-- [2022-09-19-想请教下如何从链上抓取-mirror-的数据](https://www.v2ex.com/t/881299) ![](assets/new.png)  
-- [2022-09-19-Ubuntu-使用-deb-安装-MySQL，哪些组件是必须的？](https://www.v2ex.com/t/881298) ![](assets/new.png)  
-- [2022-09-19-浏览器中怎么使用二进制表示-ip](https://www.v2ex.com/t/881297) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,15 +564,15 @@
 - [2022-09-19-React-状态管理的新浪潮](https://toutiao.io/k/ymc7574) ![](assets/new.png)  
 - [2022-09-19-如何变得有钱？揭秘前端眼中的Rust；微服务架构的演进｜码农周刊VIP会员专属邮件周报-Vol.106](https://toutiao.io/k/afktuwd) ![](assets/new.png)  
 - [2022-09-19-Kubernetes环境中NFQUEUE与MARK机制冲突](https://toutiao.io/k/8m8em9y) ![](assets/new.png)  
-- [2022-09-19-质量问题不是不爆，时候未到](https://toutiao.io/k/ef9do4j) ![](assets/new.png)  
 - [2022-09-19-为什么软件能力成熟度模型把实践称为期望部件？](https://toutiao.io/k/zt3fyhs) ![](assets/new.png)  
+- [2022-09-19-质量问题不是不爆，时候未到](https://toutiao.io/k/ef9do4j) ![](assets/new.png)  
 - [2022-09-19-网关选型：Apache-APISIX-在「还呗」业务中的技术实践](https://toutiao.io/k/ifxmy66) ![](assets/new.png)  
 - [2022-09-19-凭借SpringBoot整合Neo4j，我理清了《雷神》中错综复杂的人物关系](https://toutiao.io/k/cc6gg9m) ![](assets/new.png)  
 - [2022-09-19-OpenIM支持10万级超级大群](https://toutiao.io/k/caa54ji) ![](assets/new.png)  
 - [2022-09-19-网易数帆数据治理2.0实践分享](https://toutiao.io/k/dfoczhj) ![](assets/new.png)  
 - [2022-09-19-爬虫与反爬虫技术简介](https://toutiao.io/k/ffq11yk) ![](assets/new.png)  
-- [2022-09-19-推荐-常见分布式系统设计图解](https://toutiao.io/k/osewvaz) ![](assets/new.png)  
-- [2022-09-19-推荐-Redis高可用方案](https://toutiao.io/k/3hh68yl) ![](assets/new.png)  
+- [2022-09-19-推荐-微服务网关鉴权：gateway使用、网关限流使用、用户密码加密、JWT鉴权](https://toutiao.io/k/rdhhq5d) ![](assets/new.png)  
+- [2022-09-19-推荐-近期-yyds-的-GitHub-项目](https://toutiao.io/k/i1qkq4o) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

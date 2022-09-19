@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-19 06:58:08，:rocket: 更新条数: +2020， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-19 07:37:41，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,13 @@
 </summary>
 
 
+- [2022-09-19-Linux-c-网络编程问题请教，-client-进程被-kill-导致-server-进程异常退出，如何排查是什么原因导致？](https://www.v2ex.com/t/881282) ![](assets/new.png)  
+- [2022-09-19-B-站那些最新款笔记本完全拆机视频主，最后卖给谁了？](https://www.v2ex.com/t/881281) ![](assets/new.png)  
+- [2022-09-19-如何看待涨工资几乎只能靠跳槽](https://www.v2ex.com/t/881279) ![](assets/new.png)  
+- [2022-09-19-新应用：站立提醒](https://www.v2ex.com/t/881278) ![](assets/new.png)  
+- [2022-09-19-我想请你喝杯咖啡，聊聊加入我一起创业，面个基](https://www.v2ex.com/t/881277) ![](assets/new.png)  
+- [2022-09-19-动画《赛博朋克边缘行者》好看，强烈推荐](https://www.v2ex.com/t/881276) ![](assets/new.png)  
+- [2022-09-19-窗体设置背景图片闪烁问题](https://www.v2ex.com/t/881275) ![](assets/new.png)  
 - [2022-09-19-上班摸鱼无所事事，也没有升职的空间，想转行了](https://www.v2ex.com/t/881274) ![](assets/new.png)  
 - [2022-09-19-大家手机平均的日使用时间都是多少？](https://www.v2ex.com/t/881272) ![](assets/new.png)  
 - [2022-09-19-从某个版本开始，-wechat-就记不住我允许了位置权限](https://www.v2ex.com/t/881270) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-09-19-求推荐适配-MacBook-Air-M1-的内胆包](https://www.v2ex.com/t/881258) ![](assets/new.png)  
 - [2022-09-19-使用-edge-遇到了一个很奇怪的问题，想请教一下大家](https://www.v2ex.com/t/881256) ![](assets/new.png)  
 - [2022-09-19-iOS16，-wifi-网络无法访问接口，蜂窝可以访问](https://www.v2ex.com/t/881255) ![](assets/new.png)  
-- [2022-09-19-如何带上-gobard-的设置-集成-gboard-到-aosp-里面](https://www.v2ex.com/t/881254) ![](assets/new.png)  
-- [2022-09-19-求推荐一款-13mini-的手机壳](https://www.v2ex.com/t/881252) ![](assets/new.png)  
-- [2022-09-19-有没有可以抢到-pdd-的百亿补贴卷的脚本或者-app](https://www.v2ex.com/t/881251) ![](assets/new.png)  
-- [2022-09-19-苹果应该是电子垃圾占比最少的厂商吧](https://www.v2ex.com/t/881250) ![](assets/new.png)  
-- [2022-09-19-如何获取一个-app-所有使用的端口？](https://www.v2ex.com/t/881247) ![](assets/new.png)  
-- [2022-09-19-请问一下如何在-nginx-配置层面做到带参数（且参数正确）时返回页面本身内容，否则返回-404？](https://www.v2ex.com/t/881246) ![](assets/new.png)  
-- [2022-09-19-求推荐一款录音手表或者手环](https://www.v2ex.com/t/881242) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,16 +563,16 @@
 - [2022-09-19-React-状态管理的新浪潮](https://toutiao.io/k/ymc7574) ![](assets/new.png)  
 - [2022-09-19-如何变得有钱？揭秘前端眼中的Rust；微服务架构的演进｜码农周刊VIP会员专属邮件周报-Vol.106](https://toutiao.io/k/afktuwd) ![](assets/new.png)  
 - [2022-09-19-Kubernetes环境中NFQUEUE与MARK机制冲突](https://toutiao.io/k/8m8em9y) ![](assets/new.png)  
-- [2022-09-19-为什么软件能力成熟度模型把实践称为期望部件？](https://toutiao.io/k/zt3fyhs) ![](assets/new.png)  
-- [2022-09-19-质量问题不是不爆，时候未到](https://toutiao.io/k/ef9do4j) ![](assets/new.png)  
 - [2022-09-19-为什么微服务一定要有网关？](https://toutiao.io/k/8yj2b1k) ![](assets/new.png)  
+- [2022-09-19-质量问题不是不爆，时候未到](https://toutiao.io/k/ef9do4j) ![](assets/new.png)  
+- [2022-09-19-为什么软件能力成熟度模型把实践称为期望部件？](https://toutiao.io/k/zt3fyhs) ![](assets/new.png)  
 - [2022-09-19-网关选型：Apache-APISIX-在「还呗」业务中的技术实践](https://toutiao.io/k/ifxmy66) ![](assets/new.png)  
 - [2022-09-19-OpenIM支持10万级超级大群](https://toutiao.io/k/caa54ji) ![](assets/new.png)  
 - [2022-09-19-网易数帆数据治理2.0实践分享](https://toutiao.io/k/dfoczhj) ![](assets/new.png)  
 - [2022-09-19-凭借SpringBoot整合Neo4j，我理清了《雷神》中错综复杂的人物关系](https://toutiao.io/k/cc6gg9m) ![](assets/new.png)  
 - [2022-09-19-爬虫与反爬虫技术简介](https://toutiao.io/k/ffq11yk) ![](assets/new.png)  
-- [2022-09-19-推荐-1.8w-字的-SQL-优化大全](https://toutiao.io/k/tz7p6nl) ![](assets/new.png)  
-- [2022-09-19-推荐-近期-yyds-的-GitHub-项目](https://toutiao.io/k/i1qkq4o) ![](assets/new.png)  
+- [2022-09-19-推荐-Redis高可用方案](https://toutiao.io/k/3hh68yl) ![](assets/new.png)  
+- [2022-09-19-推荐-常见分布式系统设计图解](https://toutiao.io/k/osewvaz) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

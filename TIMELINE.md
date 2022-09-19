@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-19 06:58:08。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-09-19 07:37:41。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,13 @@
 </summary>
 
 
+- [【V2EX】2022-09-19-Linux-c-网络编程问题请教，-client-进程被-kill-导致-server-进程异常退出，如何排查是什么原因导致？](https://www.v2ex.com/t/881282) 
+- [【V2EX】2022-09-19-B-站那些最新款笔记本完全拆机视频主，最后卖给谁了？](https://www.v2ex.com/t/881281) 
+- [【V2EX】2022-09-19-如何看待涨工资几乎只能靠跳槽](https://www.v2ex.com/t/881279) 
+- [【V2EX】2022-09-19-新应用：站立提醒](https://www.v2ex.com/t/881278) 
+- [【V2EX】2022-09-19-我想请你喝杯咖啡，聊聊加入我一起创业，面个基](https://www.v2ex.com/t/881277) 
+- [【V2EX】2022-09-19-动画《赛博朋克边缘行者》好看，强烈推荐](https://www.v2ex.com/t/881276) 
+- [【V2EX】2022-09-19-窗体设置背景图片闪烁问题](https://www.v2ex.com/t/881275) 
 - [【V2EX】2022-09-19-上班摸鱼无所事事，也没有升职的空间，想转行了](https://www.v2ex.com/t/881274) 
 - [【V2EX】2022-09-19-大家手机平均的日使用时间都是多少？](https://www.v2ex.com/t/881272) 
 - [【V2EX】2022-09-19-从某个版本开始，-wechat-就记不住我允许了位置权限](https://www.v2ex.com/t/881270) 
@@ -93,12 +100,6 @@
 - [【V2EX】2022-09-19-手机上试了一下-ExaGear，现在玩-DX9-的-Win32-游戏，已经那么强了啊？](https://www.v2ex.com/t/881236) 
 - [【V2EX】2022-09-19-慎买官方表带，求个第三方运动表带](https://www.v2ex.com/t/881235) 
 - [【V2EX】2022-09-19-关于社保断缴问题](https://www.v2ex.com/t/881234) 
-- [【V2EX】2022-09-19-苹果的售后服务太顶了，-MacBook-直接免费换了整个-C-面](https://www.v2ex.com/t/881230) 
-- [【V2EX】2022-09-19-C++如何直观地看到编译器对某个函数的-overload-set?](https://www.v2ex.com/t/881229) 
-- [【V2EX】2022-09-19-武汉电信宽带公网-IP-申请](https://www.v2ex.com/t/881228) 
-- [【V2EX】2022-09-19-你正在研究些什么有趣的问题？](https://www.v2ex.com/t/881227) 
-- [【V2EX】2022-09-19-leader-完全不如自己该怎么办？](https://www.v2ex.com/t/881226) 
-- [【V2EX】2022-09-19-visa-信用卡没有办法在-hk-apple-store-购买-app-吗?](https://www.v2ex.com/t/881225) 
 - [【技术头条】2022-09-19-失败驱动开发-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15399&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffailure-driven-development%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-19-图技术在美团外卖下的场景化应用及探索-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15398&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F09%2F08%2Fgnn-scenariomodeling-subgraphextend-jointtraining.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-19-TLS指纹分析研究（上）-blog.nsfocus.net](https://blogread.cn/news/go.php?idItem=15397&url=http%3A%2F%2Fblog.nsfocus.net%2Ftls1-0%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -129,19 +130,19 @@
 - [【开发者头条】2022-09-19-React-状态管理的新浪潮](https://toutiao.io/k/ymc7574) 
 - [【开发者头条】2022-09-19-如何变得有钱？揭秘前端眼中的Rust；微服务架构的演进｜码农周刊VIP会员专属邮件周报-Vol.106](https://toutiao.io/k/afktuwd) 
 - [【开发者头条】2022-09-19-Kubernetes环境中NFQUEUE与MARK机制冲突](https://toutiao.io/k/8m8em9y) 
-- [【开发者头条】2022-09-19-为什么软件能力成熟度模型把实践称为期望部件？](https://toutiao.io/k/zt3fyhs) 
-- [【开发者头条】2022-09-19-质量问题不是不爆，时候未到](https://toutiao.io/k/ef9do4j) 
 - [【开发者头条】2022-09-19-为什么微服务一定要有网关？](https://toutiao.io/k/8yj2b1k) 
+- [【开发者头条】2022-09-19-质量问题不是不爆，时候未到](https://toutiao.io/k/ef9do4j) 
+- [【开发者头条】2022-09-19-为什么软件能力成熟度模型把实践称为期望部件？](https://toutiao.io/k/zt3fyhs) 
 - [【开发者头条】2022-09-19-网关选型：Apache-APISIX-在「还呗」业务中的技术实践](https://toutiao.io/k/ifxmy66) 
 - [【开发者头条】2022-09-19-OpenIM支持10万级超级大群](https://toutiao.io/k/caa54ji) 
 - [【开发者头条】2022-09-19-网易数帆数据治理2.0实践分享](https://toutiao.io/k/dfoczhj) 
 - [【开发者头条】2022-09-19-凭借SpringBoot整合Neo4j，我理清了《雷神》中错综复杂的人物关系](https://toutiao.io/k/cc6gg9m) 
 - [【开发者头条】2022-09-19-爬虫与反爬虫技术简介](https://toutiao.io/k/ffq11yk) 
-- [【开发者头条】2022-09-19-推荐-1.8w-字的-SQL-优化大全](https://toutiao.io/k/tz7p6nl) 
-- [【开发者头条】2022-09-19-推荐-近期-yyds-的-GitHub-项目](https://toutiao.io/k/i1qkq4o) 
-- [【开发者头条】2022-09-19-推荐-微服务网关鉴权：gateway使用、网关限流使用、用户密码加密、JWT鉴权](https://toutiao.io/k/rdhhq5d) 
-- [【开发者头条】2022-09-19-推荐-常见分布式系统设计图解](https://toutiao.io/k/osewvaz) 
 - [【开发者头条】2022-09-19-推荐-Redis高可用方案](https://toutiao.io/k/3hh68yl) 
+- [【开发者头条】2022-09-19-推荐-常见分布式系统设计图解](https://toutiao.io/k/osewvaz) 
+- [【开发者头条】2022-09-19-推荐-微服务网关鉴权：gateway使用、网关限流使用、用户密码加密、JWT鉴权](https://toutiao.io/k/rdhhq5d) 
+- [【开发者头条】2022-09-19-推荐-近期-yyds-的-GitHub-项目](https://toutiao.io/k/i1qkq4o) 
+- [【开发者头条】2022-09-19-推荐-1.8w-字的-SQL-优化大全](https://toutiao.io/k/tz7p6nl) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

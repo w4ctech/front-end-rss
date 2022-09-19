@@ -9953,6 +9953,41 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "Linux c 网络编程问题请教， client 进程被 kill 导致 server 进程异常退出，如何排查是什么原因导致？",
+        "link": "https://www.v2ex.com/t/881282",
+        "date": "2022-09-19"
+      },
+      {
+        "title": "B 站那些最新款笔记本完全拆机视频主，最后卖给谁了？",
+        "link": "https://www.v2ex.com/t/881281",
+        "date": "2022-09-19"
+      },
+      {
+        "title": "如何看待涨工资几乎只能靠跳槽",
+        "link": "https://www.v2ex.com/t/881279",
+        "date": "2022-09-19"
+      },
+      {
+        "title": "新应用：站立提醒",
+        "link": "https://www.v2ex.com/t/881278",
+        "date": "2022-09-19"
+      },
+      {
+        "title": "我想请你喝杯咖啡，聊聊加入我一起创业，面个基",
+        "link": "https://www.v2ex.com/t/881277",
+        "date": "2022-09-19"
+      },
+      {
+        "title": "动画《赛博朋克边缘行者》好看，强烈推荐",
+        "link": "https://www.v2ex.com/t/881276",
+        "date": "2022-09-19"
+      },
+      {
+        "title": "窗体设置背景图片闪烁问题",
+        "link": "https://www.v2ex.com/t/881275",
+        "date": "2022-09-19"
+      },
+      {
         "title": "上班摸鱼无所事事，也没有升职的空间，想转行了",
         "link": "https://www.v2ex.com/t/881274",
         "date": "2022-09-19"
@@ -10075,36 +10110,6 @@
       {
         "title": "关于社保断缴问题",
         "link": "https://www.v2ex.com/t/881234",
-        "date": "2022-09-19"
-      },
-      {
-        "title": "苹果的售后服务太顶了， MacBook 直接免费换了整个 C 面",
-        "link": "https://www.v2ex.com/t/881230",
-        "date": "2022-09-19"
-      },
-      {
-        "title": "C++如何直观地看到编译器对某个函数的 overload set?",
-        "link": "https://www.v2ex.com/t/881229",
-        "date": "2022-09-19"
-      },
-      {
-        "title": "武汉电信宽带公网 IP 申请",
-        "link": "https://www.v2ex.com/t/881228",
-        "date": "2022-09-19"
-      },
-      {
-        "title": "你正在研究些什么有趣的问题？",
-        "link": "https://www.v2ex.com/t/881227",
-        "date": "2022-09-19"
-      },
-      {
-        "title": "leader 完全不如自己该怎么办？",
-        "link": "https://www.v2ex.com/t/881226",
-        "date": "2022-09-19"
-      },
-      {
-        "title": "visa 信用卡没有办法在 hk apple store 购买 app 吗?",
-        "link": "https://www.v2ex.com/t/881225",
         "date": "2022-09-19"
       }
     ]
@@ -10272,8 +10277,8 @@
         "date": "2022-09-19"
       },
       {
-        "title": "为什么软件能力成熟度模型把实践称为期望部件？",
-        "link": "https://toutiao.io/k/zt3fyhs",
+        "title": "为什么微服务一定要有网关？",
+        "link": "https://toutiao.io/k/8yj2b1k",
         "date": "2022-09-19"
       },
       {
@@ -10282,8 +10287,8 @@
         "date": "2022-09-19"
       },
       {
-        "title": "为什么微服务一定要有网关？",
-        "link": "https://toutiao.io/k/8yj2b1k",
+        "title": "为什么软件能力成熟度模型把实践称为期望部件？",
+        "link": "https://toutiao.io/k/zt3fyhs",
         "date": "2022-09-19"
       },
       {
@@ -10312,18 +10317,8 @@
         "date": "2022-09-19"
       },
       {
-        "title": "[推荐] 1.8w 字的 SQL 优化大全",
-        "link": "https://toutiao.io/k/tz7p6nl",
-        "date": "2022-09-19"
-      },
-      {
-        "title": "[推荐] 近期 yyds 的 GitHub 项目",
-        "link": "https://toutiao.io/k/i1qkq4o",
-        "date": "2022-09-19"
-      },
-      {
-        "title": "[推荐] 微服务网关鉴权：gateway使用、网关限流使用、用户密码加密、JWT鉴权",
-        "link": "https://toutiao.io/k/rdhhq5d",
+        "title": "[推荐] Redis高可用方案",
+        "link": "https://toutiao.io/k/3hh68yl",
         "date": "2022-09-19"
       },
       {
@@ -10332,8 +10327,18 @@
         "date": "2022-09-19"
       },
       {
-        "title": "[推荐] Redis高可用方案",
-        "link": "https://toutiao.io/k/3hh68yl",
+        "title": "[推荐] 微服务网关鉴权：gateway使用、网关限流使用、用户密码加密、JWT鉴权",
+        "link": "https://toutiao.io/k/rdhhq5d",
+        "date": "2022-09-19"
+      },
+      {
+        "title": "[推荐] 近期 yyds 的 GitHub 项目",
+        "link": "https://toutiao.io/k/i1qkq4o",
+        "date": "2022-09-19"
+      },
+      {
+        "title": "[推荐] 1.8w 字的 SQL 优化大全",
+        "link": "https://toutiao.io/k/tz7p6nl",
         "date": "2022-09-19"
       }
     ]

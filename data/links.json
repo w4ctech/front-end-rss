@@ -9953,6 +9953,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "要满足什么样的条件，才能让程序员这种工作，像医生律师一样越老越吃香？",
+        "link": "https://www.v2ex.com/t/881426",
+        "date": "2022-09-19"
+      },
+      {
+        "title": "[CodeGen 工具箱] 一个有前景且持续升值的程序员工具箱",
+        "link": "https://www.v2ex.com/t/881424",
+        "date": "2022-09-19"
+      },
+      {
         "title": "iOS 外区有什么值得推荐的游戏吗",
         "link": "https://www.v2ex.com/t/881423",
         "date": "2022-09-19"
@@ -10140,16 +10150,6 @@
       {
         "title": "你们有发现上传到 OneDrive 的 图片/视频 ，有的不会带上 拍摄日期么？",
         "link": "https://www.v2ex.com/t/881379",
-        "date": "2022-09-19"
-      },
-      {
-        "title": "Shein 招人啦",
-        "link": "https://www.v2ex.com/t/881376",
-        "date": "2022-09-19"
-      },
-      {
-        "title": "请教大佬们个硬件问题，感谢",
-        "link": "https://www.v2ex.com/t/881374",
         "date": "2022-09-19"
       }
     ]
@@ -10362,8 +10362,8 @@
         "date": "2022-09-19"
       },
       {
-        "title": "[推荐] 1.8w 字的 SQL 优化大全",
-        "link": "https://toutiao.io/k/tz7p6nl",
+        "title": "[推荐] 常见分布式系统设计图解",
+        "link": "https://toutiao.io/k/osewvaz",
         "date": "2022-09-19"
       },
       {
@@ -10372,13 +10372,13 @@
         "date": "2022-09-19"
       },
       {
-        "title": "[推荐] 常见分布式系统设计图解",
-        "link": "https://toutiao.io/k/osewvaz",
+        "title": "[推荐] Redis高可用方案",
+        "link": "https://toutiao.io/k/3hh68yl",
         "date": "2022-09-19"
       },
       {
-        "title": "[推荐] Redis高可用方案",
-        "link": "https://toutiao.io/k/3hh68yl",
+        "title": "[推荐] 1.8w 字的 SQL 优化大全",
+        "link": "https://toutiao.io/k/tz7p6nl",
         "date": "2022-09-19"
       }
     ]

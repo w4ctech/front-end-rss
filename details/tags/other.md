@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-19 18:22:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-19 18:54:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1912,6 +1912,8 @@
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-09-19-要满足什么样的条件，才能让程序员这种工作，像医生律师一样越老越吃香？](https://www.v2ex.com/t/881426) 
+- [2022-09-19-CodeGen-工具箱-一个有前景且持续升值的程序员工具箱](https://www.v2ex.com/t/881424) 
 - [2022-09-19-Python-如何表示所有质数？](https://www.v2ex.com/t/881419) 
 - [2022-09-19-iPhone-靠近-homepod-识别震动原理是什么呀](https://www.v2ex.com/t/881418) 
 - [2022-09-19-iPhone-的-Apple-care+你们会坚持买吗？](https://www.v2ex.com/t/881417) 
@@ -1942,8 +1944,6 @@
 - [2022-09-19-NAS-新手问题](https://www.v2ex.com/t/881382) 
 - [2022-09-19-寻找爱好的网站？](https://www.v2ex.com/t/881381) 
 - [2022-09-19-这-AOD-比想象的亮了多，担心烧屏](https://www.v2ex.com/t/881380) 
-- [2022-09-19-Shein-招人啦](https://www.v2ex.com/t/881376) 
-- [2022-09-19-请教大佬们个硬件问题，感谢](https://www.v2ex.com/t/881374) 
 - [2022-09-19-失败驱动开发-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15399&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffailure-driven-development%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-19-图技术在美团外卖下的场景化应用及探索-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15398&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F09%2F08%2Fgnn-scenariomodeling-subgraphextend-jointtraining.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-19-TLS指纹分析研究（上）-blog.nsfocus.net](https://blogread.cn/news/go.php?idItem=15397&url=http%3A%2F%2Fblog.nsfocus.net%2Ftls1-0%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

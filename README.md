@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-19 18:22:30，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-19 18:54:13，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-09-19-要满足什么样的条件，才能让程序员这种工作，像医生律师一样越老越吃香？](https://www.v2ex.com/t/881426) ![](assets/new.png)  
+- [2022-09-19-CodeGen-工具箱-一个有前景且持续升值的程序员工具箱](https://www.v2ex.com/t/881424) ![](assets/new.png)  
 - [2022-09-19-iOS-外区有什么值得推荐的游戏吗](https://www.v2ex.com/t/881423) ![](assets/new.png)  
 - [2022-09-19-收个软路由-打-Splatoon-3](https://www.v2ex.com/t/881421) ![](assets/new.png)  
 - [2022-09-19-Vercel-Heroku-CFpage-GithubPage-Netlify-还是其他推荐？](https://www.v2ex.com/t/881420) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-09-19-大佬们看下我这个-mbp-能卖多少钱啊..](https://www.v2ex.com/t/881404) ![](assets/new.png)  
 - [2022-09-19-Win10-系统不同用户数据问题](https://www.v2ex.com/t/881402) ![](assets/new.png)  
 - [2022-09-19-办公室吵吵闹闹的该怎么办？](https://www.v2ex.com/t/881401) ![](assets/new.png)  
-- [2022-09-19-请问-homebrew-依赖关系中能使用-pyenv-安装的-Python-么？](https://www.v2ex.com/t/881400) ![](assets/new.png)  
-- [2022-09-19-美区账号与国区账号组成家庭组有什么影响？](https://www.v2ex.com/t/881399) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,7 +572,7 @@
 - [2022-09-19-网易数帆数据治理2.0实践分享](https://toutiao.io/k/dfoczhj) ![](assets/new.png)  
 - [2022-09-19-爬虫与反爬虫技术简介](https://toutiao.io/k/ffq11yk) ![](assets/new.png)  
 - [2022-09-19-推荐-微服务网关鉴权：gateway使用、网关限流使用、用户密码加密、JWT鉴权](https://toutiao.io/k/rdhhq5d) ![](assets/new.png)  
-- [2022-09-19-推荐-1.8w-字的-SQL-优化大全](https://toutiao.io/k/tz7p6nl) ![](assets/new.png)  
+- [2022-09-19-推荐-常见分布式系统设计图解](https://toutiao.io/k/osewvaz) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

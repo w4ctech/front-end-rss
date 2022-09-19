@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-09-19 08:24:47。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-19 08:56:30。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -180,8 +180,8 @@
 - [【张鑫旭-鑫空间-鑫生活】如何继承自定义元素及其他JS中扩展新方法](https://www.zhangxinxu.com/wordpress/2022/06/js-extend-class-custom-elements/)
 - [【张鑫旭-鑫空间-鑫生活】介绍一种CSS变量未定义语法也OK的小妙招](https://www.zhangxinxu.com/wordpress/2022/06/css-var-optional-empty-trick/)
 - [【张鑫旭-鑫空间-鑫生活】如何实现页面刷新后不定位到之前的滚动位置？](https://www.zhangxinxu.com/wordpress/2022/05/history-scrollrestoration/)
+- [【V2EX】js-input-file-获取快捷方式的名称。](https://www.v2ex.com/t/881308)
 - [【V2EX】Ubuntu-使用-deb-安装-MySQL，哪些组件是必须的？](https://www.v2ex.com/t/881298)
-- [【V2EX】求推荐适配-MacBook-Air-M1-的内胆包](https://www.v2ex.com/t/881258)
 - [【开发者头条】针对Uber被黑客攻击事件的简单分析](https://toutiao.io/k/72o3x8b)
 - [......【查看更多】......](./details/tags/javascript.md)
 
@@ -280,11 +280,9 @@
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
 - [【张鑫旭-鑫空间-鑫生活】基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/)
+- [【V2EX】一块-U-盘有多个分区,能使用-CMD/POWERSHELL-来无交互安全弹出它吗?](https://www.v2ex.com/t/881314)
 - [【V2EX】浏览器中怎么使用二进制表示-ip](https://www.v2ex.com/t/881297)
 - [【V2EX】Linux-c-网络编程问题请教，-client-进程被-kill-导致-server-进程异常退出，如何排查是什么原因导致？](https://www.v2ex.com/t/881282)
-- [【V2EX】有什么浏览器插件，可以在浏览英文网站的时候，在右侧同屏显示翻译后的内容](https://www.v2ex.com/t/881264)
-- [【V2EX】分享-chrome-插件-ublacklist：搜索时屏蔽各种采集站低质量站](https://www.v2ex.com/t/881263)
-- [【V2EX】使用-edge-遇到了一个很奇怪的问题，想请教一下大家](https://www.v2ex.com/t/881256)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-19 09:20:41，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-19 09:48:24，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-09-19-求-apple-watch-换屏推荐](https://www.v2ex.com/t/881332) ![](assets/new.png)  
+- [2022-09-19-ios-外区有什么值得下载的-app](https://www.v2ex.com/t/881330) ![](assets/new.png)  
+- [2022-09-19-TiDB-数据库-DBA-招聘-上海-11-14k](https://www.v2ex.com/t/881329) ![](assets/new.png)  
+- [2022-09-19-基于-apache-license-2.0-项目二次开发后再开源需要什么操作](https://www.v2ex.com/t/881326) ![](assets/new.png)  
+- [2022-09-19-Z-Library-捐款奖励会员一个月](https://www.v2ex.com/t/881325) ![](assets/new.png)  
 - [2022-09-19-独立产品灵感周刊-DecoHack-#031---用-AI-给黑白照片上色哪家好？](https://www.v2ex.com/t/881324) ![](assets/new.png)  
 - [2022-09-19-需要频繁访问一个网站，网站有-WAF-防火墙该怎么办](https://www.v2ex.com/t/881323) ![](assets/new.png)  
 - [2022-09-19-Oracle-免费-VPS-如何更换系统](https://www.v2ex.com/t/881322) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-09-19-求助！-Mongodb-用户自定义导航表结构该如何设计？](https://www.v2ex.com/t/881311) ![](assets/new.png)  
 - [2022-09-19-Apple-watch-的体验感受。](https://www.v2ex.com/t/881310) ![](assets/new.png)  
 - [2022-09-19-等-JetBrains-全家桶到-10-月续费的，现在是不是变成小丑了](https://www.v2ex.com/t/881309) ![](assets/new.png)  
-- [2022-09-19-js-input-file-获取快捷方式的名称。](https://www.v2ex.com/t/881308) ![](assets/new.png)  
-- [2022-09-19-找个网站，记得是点击还有什么食材，输出各种菜谱，疫情居家必备](https://www.v2ex.com/t/881307) ![](assets/new.png)  
-- [2022-09-19-UI-那么多年了，为什么没有一个标准能一统天下？](https://www.v2ex.com/t/881306) ![](assets/new.png)  
-- [2022-09-19-远程-因技术难题，现急聘一名资深-C++](https://www.v2ex.com/t/881304) ![](assets/new.png)  
-- [2022-09-19-苹果官网买的-incase-背包维修难题](https://www.v2ex.com/t/881303) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -571,8 +571,8 @@
 - [2022-09-19-OpenIM支持10万级超级大群](https://toutiao.io/k/caa54ji) ![](assets/new.png)  
 - [2022-09-19-网易数帆数据治理2.0实践分享](https://toutiao.io/k/dfoczhj) ![](assets/new.png)  
 - [2022-09-19-爬虫与反爬虫技术简介](https://toutiao.io/k/ffq11yk) ![](assets/new.png)  
+- [2022-09-19-推荐-Redis高可用方案](https://toutiao.io/k/3hh68yl) ![](assets/new.png)  
 - [2022-09-19-推荐-微服务网关鉴权：gateway使用、网关限流使用、用户密码加密、JWT鉴权](https://toutiao.io/k/rdhhq5d) ![](assets/new.png)  
-- [2022-09-19-推荐-近期-yyds-的-GitHub-项目](https://toutiao.io/k/i1qkq4o) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

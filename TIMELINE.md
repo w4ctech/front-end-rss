@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-19 09:20:41。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-09-19 09:48:24。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,11 @@
 </summary>
 
 
+- [【V2EX】2022-09-19-求-apple-watch-换屏推荐](https://www.v2ex.com/t/881332) 
+- [【V2EX】2022-09-19-ios-外区有什么值得下载的-app](https://www.v2ex.com/t/881330) 
+- [【V2EX】2022-09-19-TiDB-数据库-DBA-招聘-上海-11-14k](https://www.v2ex.com/t/881329) 
+- [【V2EX】2022-09-19-基于-apache-license-2.0-项目二次开发后再开源需要什么操作](https://www.v2ex.com/t/881326) 
+- [【V2EX】2022-09-19-Z-Library-捐款奖励会员一个月](https://www.v2ex.com/t/881325) 
 - [【V2EX】2022-09-19-独立产品灵感周刊-DecoHack-#031---用-AI-给黑白照片上色哪家好？](https://www.v2ex.com/t/881324) 
 - [【V2EX】2022-09-19-需要频繁访问一个网站，网站有-WAF-防火墙该怎么办](https://www.v2ex.com/t/881323) 
 - [【V2EX】2022-09-19-Oracle-免费-VPS-如何更换系统](https://www.v2ex.com/t/881322) 
@@ -102,13 +107,6 @@
 - [【V2EX】2022-09-19-Collections.sort-里相减怎么判断正/逆序？](https://www.v2ex.com/t/881287) 
 - [【V2EX】2022-09-19-有没有端传媒的淘宝链接呢](https://www.v2ex.com/t/881285) 
 - [【V2EX】2022-09-19-微软的-MAUI-有可能支持-Linux-吗？](https://www.v2ex.com/t/881283) 
-- [【V2EX】2022-09-19-Linux-c-网络编程问题请教，-client-进程被-kill-导致-server-进程异常退出，如何排查是什么原因导致？](https://www.v2ex.com/t/881282) 
-- [【V2EX】2022-09-19-B-站那些最新款笔记本完全拆机视频主，最后卖给谁了？](https://www.v2ex.com/t/881281) 
-- [【V2EX】2022-09-19-如何看待涨工资几乎只能靠跳槽](https://www.v2ex.com/t/881279) 
-- [【V2EX】2022-09-19-新应用：站立提醒](https://www.v2ex.com/t/881278) 
-- [【V2EX】2022-09-19-我想请你喝杯咖啡，聊聊加入我一起创业，面个基](https://www.v2ex.com/t/881277) 
-- [【V2EX】2022-09-19-动画《赛博朋克边缘行者》好看，强烈推荐](https://www.v2ex.com/t/881276) 
-- [【V2EX】2022-09-19-窗体设置背景图片闪烁问题](https://www.v2ex.com/t/881275) 
 - [【技术头条】2022-09-19-失败驱动开发-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15399&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffailure-driven-development%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-19-图技术在美团外卖下的场景化应用及探索-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15398&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F09%2F08%2Fgnn-scenariomodeling-subgraphextend-jointtraining.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-19-TLS指纹分析研究（上）-blog.nsfocus.net](https://blogread.cn/news/go.php?idItem=15397&url=http%3A%2F%2Fblog.nsfocus.net%2Ftls1-0%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -147,10 +145,10 @@
 - [【开发者头条】2022-09-19-OpenIM支持10万级超级大群](https://toutiao.io/k/caa54ji) 
 - [【开发者头条】2022-09-19-网易数帆数据治理2.0实践分享](https://toutiao.io/k/dfoczhj) 
 - [【开发者头条】2022-09-19-爬虫与反爬虫技术简介](https://toutiao.io/k/ffq11yk) 
-- [【开发者头条】2022-09-19-推荐-微服务网关鉴权：gateway使用、网关限流使用、用户密码加密、JWT鉴权](https://toutiao.io/k/rdhhq5d) 
-- [【开发者头条】2022-09-19-推荐-近期-yyds-的-GitHub-项目](https://toutiao.io/k/i1qkq4o) 
-- [【开发者头条】2022-09-19-推荐-常见分布式系统设计图解](https://toutiao.io/k/osewvaz) 
 - [【开发者头条】2022-09-19-推荐-Redis高可用方案](https://toutiao.io/k/3hh68yl) 
+- [【开发者头条】2022-09-19-推荐-微服务网关鉴权：gateway使用、网关限流使用、用户密码加密、JWT鉴权](https://toutiao.io/k/rdhhq5d) 
+- [【开发者头条】2022-09-19-推荐-常见分布式系统设计图解](https://toutiao.io/k/osewvaz) 
+- [【开发者头条】2022-09-19-推荐-近期-yyds-的-GitHub-项目](https://toutiao.io/k/i1qkq4o) 
 - [【开发者头条】2022-09-19-推荐-1.8w-字的-SQL-优化大全](https://toutiao.io/k/tz7p6nl) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>

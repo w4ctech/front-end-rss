@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-19 15:48:07，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-19 16:20:35，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-09-19-Python-如何表示所有质数？](https://www.v2ex.com/t/881419) ![](assets/new.png)  
+- [2022-09-19-iPhone-靠近-homepod-识别震动原理是什么呀](https://www.v2ex.com/t/881418) ![](assets/new.png)  
+- [2022-09-19-iPhone-的-Apple-care+你们会坚持买吗？](https://www.v2ex.com/t/881417) ![](assets/new.png)  
+- [2022-09-19-大佬们，怎么才能把-iPad-的存储用到一半以上](https://www.v2ex.com/t/881416) ![](assets/new.png)  
+- [2022-09-19-询价：大佬们帮忙看看我的-MBP-可以估价多少啊](https://www.v2ex.com/t/881415) ![](assets/new.png)  
 - [2022-09-19-可以推荐一下-Mac-用的分屏软件吗？](https://www.v2ex.com/t/881414) ![](assets/new.png)  
 - [2022-09-19-怎么让-OneDrive-在墙内网络更稳定呢？](https://www.v2ex.com/t/881411) ![](assets/new.png)  
 - [2022-09-19-资本让这个世界变得糟透了](https://www.v2ex.com/t/881410) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-09-19-Loginsight——致力于打造一款通用的日志分析利器](https://www.v2ex.com/t/881398) ![](assets/new.png)  
 - [2022-09-19-请教个问题，-89-平的房子两室一厅，装个华为吸顶-ap-够用吗？](https://www.v2ex.com/t/881397) ![](assets/new.png)  
 - [2022-09-19-转租贴-上城庆春银泰旁三新家园-2-室一厅-5-层电梯](https://www.v2ex.com/t/881396) ![](assets/new.png)  
-- [2022-09-19-趁着-ios14-可以完美越狱，问下现在哪些源比较靠谱（多年没折腾）](https://www.v2ex.com/t/881395) ![](assets/new.png)  
-- [2022-09-19-Python-项目加密-cython+pyinstaller+docker-问题求助](https://www.v2ex.com/t/881393) ![](assets/new.png)  
-- [2022-09-19-有好看的桌面壁纸-给推荐一波](https://www.v2ex.com/t/881392) ![](assets/new.png)  
-- [2022-09-19-iOS-有什么好用的离线词典检索软件呢？](https://www.v2ex.com/t/881391) ![](assets/new.png)  
-- [2022-09-19-iPhone-14-Pro-Max-里面有个大概-8G-大小的视频，怎么传到我的-MacBookAir-上](https://www.v2ex.com/t/881390) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -565,14 +565,14 @@
 - [2022-09-19-针对Uber被黑客攻击事件的简单分析](https://toutiao.io/k/72o3x8b) ![](assets/new.png)  
 - [2022-09-19-如何变得有钱？揭秘前端眼中的Rust；微服务架构的演进｜码农周刊VIP会员专属邮件周报-Vol.106](https://toutiao.io/k/afktuwd) ![](assets/new.png)  
 - [2022-09-19-Kubernetes环境中NFQUEUE与MARK机制冲突](https://toutiao.io/k/8m8em9y) ![](assets/new.png)  
-- [2022-09-19-为什么软件能力成熟度模型把实践称为期望部件？](https://toutiao.io/k/zt3fyhs) ![](assets/new.png)  
 - [2022-09-19-质量问题不是不爆，时候未到](https://toutiao.io/k/ef9do4j) ![](assets/new.png)  
+- [2022-09-19-为什么软件能力成熟度模型把实践称为期望部件？](https://toutiao.io/k/zt3fyhs) ![](assets/new.png)  
 - [2022-09-19-网关选型：Apache-APISIX-在「还呗」业务中的技术实践](https://toutiao.io/k/ifxmy66) ![](assets/new.png)  
 - [2022-09-19-OpenIM支持10万级超级大群](https://toutiao.io/k/caa54ji) ![](assets/new.png)  
 - [2022-09-19-网易数帆数据治理2.0实践分享](https://toutiao.io/k/dfoczhj) ![](assets/new.png)  
 - [2022-09-19-爬虫与反爬虫技术简介](https://toutiao.io/k/ffq11yk) ![](assets/new.png)  
-- [2022-09-19-推荐-微服务网关鉴权：gateway使用、网关限流使用、用户密码加密、JWT鉴权](https://toutiao.io/k/rdhhq5d) ![](assets/new.png)  
 - [2022-09-19-推荐-1.8w-字的-SQL-优化大全](https://toutiao.io/k/tz7p6nl) ![](assets/new.png)  
+- [2022-09-19-推荐-Redis高可用方案](https://toutiao.io/k/3hh68yl) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

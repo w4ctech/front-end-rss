@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-09-19 15:48:07。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-19 16:20:35。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -253,7 +253,6 @@
 
 
 
-- [【V2EX】求推荐价格不贵方便直连的海外云服务器？性能用来基础学习就行](https://www.v2ex.com/t/881367)
 - [【开发者头条】推荐-1.8w-字的-SQL-优化大全](https://toutiao.io/k/tz7p6nl)
 - [......【查看更多】......](./details/tags/optimization.md)
 
@@ -348,7 +347,6 @@
 
 
 
-- [【V2EX】想咨询下-V-站的-HR-大佬或者有经验的大佬们，你们会给有两年空档期的求职人员面试的机会吗？](https://www.v2ex.com/t/881369)
 - [【开发者头条】你真的会面试吗？](https://toutiao.io/k/1zwlcj0)
 - [......【查看更多】......](./details/tags/job-interview.md)
 

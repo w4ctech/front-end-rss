@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-09-19 23:17:32。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-19 23:49:18。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -238,7 +238,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】广州17岁男生在定点医院参加高考-特殊考场视频监考](https://m.caixin.com/m/2021-06-05/101723418.html)
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
 - [【V2EX】iPhone-14-Pro-Max-里面有个大概-8G-大小的视频，怎么传到我的-MacBookAir-上](https://www.v2ex.com/t/881390)
-- [【V2EX】你们有发现上传到-OneDrive-的-图片/视频-，有的不会带上-拍摄日期么？](https://www.v2ex.com/t/881379)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -351,6 +350,7 @@
 
 
 
+- [【V2EX】非开发岗位，面试官最后问一句，你们开发用的是什么语言，我是。好像是英语。](https://www.v2ex.com/t/881429)
 - [【开发者头条】你真的会面试吗？](https://toutiao.io/k/1zwlcj0)
 - [......【查看更多】......](./details/tags/job-interview.md)
 

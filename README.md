@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-19 23:17:32，:rocket: 更新条数: +2031， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-19 23:49:18，:rocket: 更新条数: +2031， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-09-19-感觉-iOS16-通知列表滑动阻尼很大](https://www.v2ex.com/t/881430) ![](assets/new.png)  
+- [2022-09-19-非开发岗位，面试官最后问一句，你们开发用的是什么语言，我是。好像是英语。](https://www.v2ex.com/t/881429) ![](assets/new.png)  
 - [2022-09-19-有没有-iPhone-的拍照教程](https://www.v2ex.com/t/881428) ![](assets/new.png)  
 - [2022-09-19-Edge-阅读-PDF-困境](https://www.v2ex.com/t/881427) ![](assets/new.png)  
 - [2022-09-19-要满足什么样的条件，才能让程序员这种工作，像医生律师一样越老越吃香？](https://www.v2ex.com/t/881426) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-09-19-和女朋友出去旅游，费用怎么算的？](https://www.v2ex.com/t/881409) ![](assets/new.png)  
 - [2022-09-19-对于-iPhone-来说用-lpddr4x-和-lpddr5-有多大区别呢？](https://www.v2ex.com/t/881407) ![](assets/new.png)  
 - [2022-09-19-闲鱼上显卡搜索结果被大规模污染](https://www.v2ex.com/t/881406) ![](assets/new.png)  
-- [2022-09-19-V-友们，打印机推荐有什么吗？](https://www.v2ex.com/t/881405) ![](assets/new.png)  
-- [2022-09-19-大佬们看下我这个-mbp-能卖多少钱啊..](https://www.v2ex.com/t/881404) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -571,8 +571,8 @@
 - [2022-09-19-OpenIM支持10万级超级大群](https://toutiao.io/k/caa54ji) ![](assets/new.png)  
 - [2022-09-19-网易数帆数据治理2.0实践分享](https://toutiao.io/k/dfoczhj) ![](assets/new.png)  
 - [2022-09-19-爬虫与反爬虫技术简介](https://toutiao.io/k/ffq11yk) ![](assets/new.png)  
-- [2022-09-19-推荐-1.8w-字的-SQL-优化大全](https://toutiao.io/k/tz7p6nl) ![](assets/new.png)  
-- [2022-09-19-推荐-近期-yyds-的-GitHub-项目](https://toutiao.io/k/i1qkq4o) ![](assets/new.png)  
+- [2022-09-19-推荐-常见分布式系统设计图解](https://toutiao.io/k/osewvaz) ![](assets/new.png)  
+- [2022-09-19-推荐-微服务网关鉴权：gateway使用、网关限流使用、用户密码加密、JWT鉴权](https://toutiao.io/k/rdhhq5d) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

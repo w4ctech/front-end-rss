@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-19 15:16:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-19 15:48:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1912,6 +1912,9 @@
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-09-19-可以推荐一下-Mac-用的分屏软件吗？](https://www.v2ex.com/t/881414) 
+- [2022-09-19-怎么让-OneDrive-在墙内网络更稳定呢？](https://www.v2ex.com/t/881411) 
+- [2022-09-19-资本让这个世界变得糟透了](https://www.v2ex.com/t/881410) 
 - [2022-09-19-和女朋友出去旅游，费用怎么算的？](https://www.v2ex.com/t/881409) 
 - [2022-09-19-对于-iPhone-来说用-lpddr4x-和-lpddr5-有多大区别呢？](https://www.v2ex.com/t/881407) 
 - [2022-09-19-闲鱼上显卡搜索结果被大规模污染](https://www.v2ex.com/t/881406) 
@@ -1940,9 +1943,6 @@
 - [2022-09-19-哪家公司做单元测试？](https://www.v2ex.com/t/881368) 
 - [2022-09-19-问一下现在还可以办理香港卡吗？坐标北京](https://www.v2ex.com/t/881366) 
 - [2022-09-19-SemiAnalysis：苹果部分嵌入式核心正加速转向-RISC-V-架构](https://www.v2ex.com/t/881365) 
-- [2022-09-19-Apple-是不是傻屌，-iOS16-允许粘贴，不允许粘贴。。。。烦都烦死了](https://www.v2ex.com/t/881363) 
-- [2022-09-19-高新南地铁站附近能开/停电瓶车吗，还有-11-号线的问题](https://www.v2ex.com/t/881362) 
-- [2022-09-19-感想-貌似国内现在用.Net-技术的大厂很少](https://www.v2ex.com/t/881360) 
 - [2022-09-19-失败驱动开发-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15399&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffailure-driven-development%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-19-图技术在美团外卖下的场景化应用及探索-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15398&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F09%2F08%2Fgnn-scenariomodeling-subgraphextend-jointtraining.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-19-TLS指纹分析研究（上）-blog.nsfocus.net](https://blogread.cn/news/go.php?idItem=15397&url=http%3A%2F%2Fblog.nsfocus.net%2Ftls1-0%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

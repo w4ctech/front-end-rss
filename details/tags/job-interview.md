@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-19 01:18:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-19 04:13:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -7,4 +7,5 @@
 
 
 
+- [2022-09-19-滴滴出行-2023-届校园招聘内推，推荐码-NTADaYM](https://www.v2ex.com/t/881223) 
 - [2022-09-19-你真的会面试吗？](https://toutiao.io/k/1zwlcj0) 

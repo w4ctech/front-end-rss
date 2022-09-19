@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-19 14:49:14，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-19 15:16:37，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -316,6 +316,7 @@
 </summary>
 
 
+- [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) ![](assets/new.png)  
 - [2022-08-31-gitee上撸了个类似飞书OKR输入框的@提及项目](https://www.zhangxinxu.com/wordpress/2022/08/gitee-feishu-okr-at-mention/) ![](assets/new.png)  
 - [2022-08-24-来了，来了，CSS-:has伪类她来了](https://www.zhangxinxu.com/wordpress/2022/08/css-has-pseudo-class/) ![](assets/new.png)  
 - [2022-08-21-JS-replaceAll-和-matchAll-使用指南不指北](https://www.zhangxinxu.com/wordpress/2022/08/js-replaceall-matchall/) ![](assets/new.png)  
@@ -325,7 +326,6 @@
 - [2022-06-19-如何继承自定义元素及其他JS中扩展新方法](https://www.zhangxinxu.com/wordpress/2022/06/js-extend-class-custom-elements/) ![](assets/new.png)  
 - [2022-06-12-基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/) ![](assets/new.png)  
 - [2022-06-11-介绍一种CSS变量未定义语法也OK的小妙招](https://www.zhangxinxu.com/wordpress/2022/06/css-var-optional-empty-trick/) ![](assets/new.png)  
-- [2022-05-29-如何实现页面刷新后不定位到之前的滚动位置？](https://www.zhangxinxu.com/wordpress/2022/05/history-scrollrestoration/) ![](assets/new.png)  
 - [......【查看更多】......](./details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-09-19-和女朋友出去旅游，费用怎么算的？](https://www.v2ex.com/t/881409) ![](assets/new.png)  
 - [2022-09-19-对于-iPhone-来说用-lpddr4x-和-lpddr5-有多大区别呢？](https://www.v2ex.com/t/881407) ![](assets/new.png)  
 - [2022-09-19-闲鱼上显卡搜索结果被大规模污染](https://www.v2ex.com/t/881406) ![](assets/new.png)  
 - [2022-09-19-V-友们，打印机推荐有什么吗？](https://www.v2ex.com/t/881405) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-09-19-根据某数组类型字段关联多条数据，该如何实现呢？](https://www.v2ex.com/t/881388) ![](assets/new.png)  
 - [2022-09-19-WSJ-促销-1-年$4/月](https://www.v2ex.com/t/881387) ![](assets/new.png)  
 - [2022-09-19-添加-ComposeView-报错-CiewTreeLifecycleOwner-not-found](https://www.v2ex.com/t/881386) ![](assets/new.png)  
-- [2022-09-19-有人买-iPhone-14-标准版吗？](https://www.v2ex.com/t/881385) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

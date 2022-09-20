@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-20 18:19:27。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-09-20 18:52:06。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -152,9 +152,9 @@
 - [【开发者头条】2022-09-20-提高数据可视化效果的五个原则](https://toutiao.io/k/y5o8b4w) 
 - [【开发者头条】2022-09-20-【第2735期】为什么iPhone-倒计时显示的是假时间？](https://toutiao.io/k/eb5bv0t) 
 - [【开发者头条】2022-09-20-推荐-常见分布式系统设计图解](https://toutiao.io/k/osewvaz) 
+- [【开发者头条】2022-09-20-推荐-Redis高可用方案](https://toutiao.io/k/3hh68yl) 
 - [【开发者头条】2022-09-20-推荐-1.8w-字的-SQL-优化大全](https://toutiao.io/k/tz7p6nl) 
 - [【开发者头条】2022-09-20-推荐-微服务网关鉴权：gateway使用、网关限流使用、用户密码加密、JWT鉴权](https://toutiao.io/k/rdhhq5d) 
-- [【开发者头条】2022-09-20-推荐-Redis高可用方案](https://toutiao.io/k/3hh68yl) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

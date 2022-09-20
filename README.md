@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-20 23:18:08，:rocket: 更新条数: +2031， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-20 23:47:21，:rocket: 更新条数: +2031， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -554,8 +554,8 @@
 
 
 - [2022-09-20-语雀桌面端技术架构实践](https://toutiao.io/k/481hlbi) ![](assets/new.png)  
-- [2022-09-20-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) ![](assets/new.png)  
 - [2022-09-20-20-图-｜6-千字｜缓存实战（上篇）](https://toutiao.io/k/4uqm3n6) ![](assets/new.png)  
+- [2022-09-20-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) ![](assets/new.png)  
 - [2022-09-20-读者推荐的-6-个-GitHub-项目！](https://toutiao.io/k/5zipv5q) ![](assets/new.png)  
 - [2022-09-20-尴尬，在Kafka生产实践中又出问题了](https://toutiao.io/k/guru5it) ![](assets/new.png)  
 - [2022-09-20-面试官：单核-CPU-支持-Java-多线程吗-？我又懵逼了-！！！](https://toutiao.io/k/9lqqf2o) ![](assets/new.png)  
@@ -569,10 +569,10 @@
 - [2022-09-20-如何防御对抗攻击](https://toutiao.io/k/tgmx95p) ![](assets/new.png)  
 - [2022-09-20-索引如何定位一条数据？](https://toutiao.io/k/ctyv8g0) ![](assets/new.png)  
 - [2022-09-20-谈一谈-build-scripts-架构设计](https://toutiao.io/k/4wvn0gy) ![](assets/new.png)  
-- [2022-09-20-Go-代码风格没人喜欢？不对，Gofmt-是所有人的最爱...](https://toutiao.io/k/8o0cfz2) ![](assets/new.png)  
 - [2022-09-20-图解-Kubernetes-网络流量流转路径](https://toutiao.io/k/l7w19pc) ![](assets/new.png)  
-- [2022-09-20-提高数据可视化效果的五个原则](https://toutiao.io/k/y5o8b4w) ![](assets/new.png)  
+- [2022-09-20-Go-代码风格没人喜欢？不对，Gofmt-是所有人的最爱...](https://toutiao.io/k/8o0cfz2) ![](assets/new.png)  
 - [2022-09-20-【第2735期】为什么iPhone-倒计时显示的是假时间？](https://toutiao.io/k/eb5bv0t) ![](assets/new.png)  
+- [2022-09-20-提高数据可视化效果的五个原则](https://toutiao.io/k/y5o8b4w) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

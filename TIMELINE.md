@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-20 14:52:09。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-09-20 15:17:00。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,7 +68,10 @@
 </summary>
 
 
+- [【张鑫旭-鑫空间-鑫生活】2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [【V2EX】2022-09-20-Authing-真是一家神奇牛逼的公司！](https://www.v2ex.com/t/881704) 
+- [【V2EX】2022-09-20-IOS16-的倒计时锁屏-BUG](https://www.v2ex.com/t/881703) 
 - [【V2EX】2022-09-20-请教：希望全部-jpg-301-到另外一个域名](https://www.v2ex.com/t/881702) 
 - [【V2EX】2022-09-20-如何在子进程的-for-循环中更新-tqdm-进度条](https://www.v2ex.com/t/881701) 
 - [【V2EX】2022-09-20-金巴抢票-window.msk6-函数](https://www.v2ex.com/t/881700) 
@@ -109,8 +112,6 @@
 - [【V2EX】2022-09-20-S3-桶有办法实现客户端加密（即原文不会直接提交给存储服务器）吗？看了下-S3-的文档，貌似只能提交原文，服务器用预设密钥或从-KMS-获取密钥进行加密。](https://www.v2ex.com/t/881658) 
 - [【V2EX】2022-09-20-大家有遇到罗技鼠标在-macos-上，每次锁屏再开启后，滚轮失效吗？](https://www.v2ex.com/t/881657) 
 - [【V2EX】2022-09-20-iPhone-14-杀后台严重吗？](https://www.v2ex.com/t/881656) 
-- [【V2EX】2022-09-20-单元测试有落地效果好的团队吗？](https://www.v2ex.com/t/881655) 
-- [【V2EX】2022-09-20-又干到一家了！](https://www.v2ex.com/t/881653) 
 - [【技术头条】2022-09-20-技术改变了什么？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15400&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fpower-of-technology%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-20-失败驱动开发-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15399&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffailure-driven-development%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-20-图技术在美团外卖下的场景化应用及探索-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15398&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F09%2F08%2Fgnn-scenariomodeling-subgraphextend-jointtraining.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -151,10 +152,10 @@
 - [【开发者头条】2022-09-20-图解-Kubernetes-网络流量流转路径](https://toutiao.io/k/l7w19pc) 
 - [【开发者头条】2022-09-20-提高数据可视化效果的五个原则](https://toutiao.io/k/y5o8b4w) 
 - [【开发者头条】2022-09-20-【第2735期】为什么iPhone-倒计时显示的是假时间？](https://toutiao.io/k/eb5bv0t) 
-- [【开发者头条】2022-09-20-推荐-近期-yyds-的-GitHub-项目](https://toutiao.io/k/i1qkq4o) 
 - [【开发者头条】2022-09-20-推荐-微服务网关鉴权：gateway使用、网关限流使用、用户密码加密、JWT鉴权](https://toutiao.io/k/rdhhq5d) 
-- [【开发者头条】2022-09-20-推荐-1.8w-字的-SQL-优化大全](https://toutiao.io/k/tz7p6nl) 
 - [【开发者头条】2022-09-20-推荐-常见分布式系统设计图解](https://toutiao.io/k/osewvaz) 
+- [【开发者头条】2022-09-20-推荐-近期-yyds-的-GitHub-项目](https://toutiao.io/k/i1qkq4o) 
+- [【开发者头条】2022-09-20-推荐-1.8w-字的-SQL-优化大全](https://toutiao.io/k/tz7p6nl) 
 - [【开发者头条】2022-09-20-推荐-Redis高可用方案](https://toutiao.io/k/3hh68yl) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
@@ -194,7 +195,6 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-06-30-CSS排版为何强？瞧瞧多牛这换行](https://www.zhangxinxu.com/wordpress/2022/06/css-line-break-word-wrap-all/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-06-19-如何继承自定义元素及其他JS中扩展新方法](https://www.zhangxinxu.com/wordpress/2022/06/js-extend-class-custom-elements/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-06-12-基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/) 
-- [【张鑫旭-鑫空间-鑫生活】2022-06-11-介绍一种CSS变量未定义语法也OK的小妙招](https://www.zhangxinxu.com/wordpress/2022/06/css-var-optional-empty-trick/) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

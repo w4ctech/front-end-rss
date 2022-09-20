@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-20 14:52:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-20 15:17:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,7 +1911,10 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-09-20-Authing-真是一家神奇牛逼的公司！](https://www.v2ex.com/t/881704) 
+- [2022-09-20-IOS16-的倒计时锁屏-BUG](https://www.v2ex.com/t/881703) 
 - [2022-09-20-请教：希望全部-jpg-301-到另外一个域名](https://www.v2ex.com/t/881702) 
 - [2022-09-20-如何在子进程的-for-循环中更新-tqdm-进度条](https://www.v2ex.com/t/881701) 
 - [2022-09-20-金巴抢票-window.msk6-函数](https://www.v2ex.com/t/881700) 
@@ -1948,8 +1951,6 @@
 - [2022-09-20-S3-桶有办法实现客户端加密（即原文不会直接提交给存储服务器）吗？看了下-S3-的文档，貌似只能提交原文，服务器用预设密钥或从-KMS-获取密钥进行加密。](https://www.v2ex.com/t/881658) 
 - [2022-09-20-大家有遇到罗技鼠标在-macos-上，每次锁屏再开启后，滚轮失效吗？](https://www.v2ex.com/t/881657) 
 - [2022-09-20-iPhone-14-杀后台严重吗？](https://www.v2ex.com/t/881656) 
-- [2022-09-20-单元测试有落地效果好的团队吗？](https://www.v2ex.com/t/881655) 
-- [2022-09-20-又干到一家了！](https://www.v2ex.com/t/881653) 
 - [2022-09-20-技术改变了什么？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15400&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fpower-of-technology%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-20-失败驱动开发-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15399&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffailure-driven-development%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-20-图技术在美团外卖下的场景化应用及探索-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15398&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F09%2F08%2Fgnn-scenariomodeling-subgraphextend-jointtraining.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

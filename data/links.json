@@ -9812,6 +9812,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "巧用:is()或:where()伪类让scoped的style依然全局匹配",
+        "link": "https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/",
+        "date": "2022-09-20"
+      },
+      {
         "title": "聊聊:autofill和autocomplete自动填充",
         "link": "https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/",
         "date": "2022-09-19"
@@ -9855,11 +9860,6 @@
         "title": "基于文字的URL锚点定位与::target-text样式设置",
         "link": "https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/",
         "date": "2022-06-12"
-      },
-      {
-        "title": "介绍一种CSS变量未定义语法也OK的小妙招",
-        "link": "https://www.zhangxinxu.com/wordpress/2022/06/css-var-optional-empty-trick/",
-        "date": "2022-06-11"
       }
     ]
   },
@@ -9952,6 +9952,16 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "Authing 真是一家神奇牛逼的公司！",
+        "link": "https://www.v2ex.com/t/881704",
+        "date": "2022-09-20"
+      },
+      {
+        "title": "IOS16 的倒计时锁屏 BUG",
+        "link": "https://www.v2ex.com/t/881703",
+        "date": "2022-09-20"
+      },
       {
         "title": "请教：希望全部 jpg 301 到另外一个域名",
         "link": "https://www.v2ex.com/t/881702",
@@ -10150,16 +10160,6 @@
       {
         "title": "iPhone 14 杀后台严重吗？",
         "link": "https://www.v2ex.com/t/881656",
-        "date": "2022-09-20"
-      },
-      {
-        "title": "单元测试有落地效果好的团队吗？",
-        "link": "https://www.v2ex.com/t/881655",
-        "date": "2022-09-20"
-      },
-      {
-        "title": "又干到一家了！",
-        "link": "https://www.v2ex.com/t/881653",
         "date": "2022-09-20"
       }
     ]
@@ -10377,23 +10377,23 @@
         "date": "2022-09-20"
       },
       {
-        "title": "[推荐] 近期 yyds 的 GitHub 项目",
-        "link": "https://toutiao.io/k/i1qkq4o",
-        "date": "2022-09-20"
-      },
-      {
         "title": "[推荐] 微服务网关鉴权：gateway使用、网关限流使用、用户密码加密、JWT鉴权",
         "link": "https://toutiao.io/k/rdhhq5d",
         "date": "2022-09-20"
       },
       {
-        "title": "[推荐] 1.8w 字的 SQL 优化大全",
-        "link": "https://toutiao.io/k/tz7p6nl",
+        "title": "[推荐] 常见分布式系统设计图解",
+        "link": "https://toutiao.io/k/osewvaz",
         "date": "2022-09-20"
       },
       {
-        "title": "[推荐] 常见分布式系统设计图解",
-        "link": "https://toutiao.io/k/osewvaz",
+        "title": "[推荐] 近期 yyds 的 GitHub 项目",
+        "link": "https://toutiao.io/k/i1qkq4o",
+        "date": "2022-09-20"
+      },
+      {
+        "title": "[推荐] 1.8w 字的 SQL 优化大全",
+        "link": "https://toutiao.io/k/tz7p6nl",
         "date": "2022-09-20"
       },
       {

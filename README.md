@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-20 14:52:09，:rocket: 更新条数: +2033， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-20 15:17:00，:rocket: 更新条数: +2033， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -316,6 +316,7 @@
 </summary>
 
 
+- [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) ![](assets/new.png)  
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) ![](assets/new.png)  
 - [2022-08-31-gitee上撸了个类似飞书OKR输入框的@提及项目](https://www.zhangxinxu.com/wordpress/2022/08/gitee-feishu-okr-at-mention/) ![](assets/new.png)  
 - [2022-08-24-来了，来了，CSS-:has伪类她来了](https://www.zhangxinxu.com/wordpress/2022/08/css-has-pseudo-class/) ![](assets/new.png)  
@@ -325,7 +326,6 @@
 - [2022-06-30-CSS排版为何强？瞧瞧多牛这换行](https://www.zhangxinxu.com/wordpress/2022/06/css-line-break-word-wrap-all/) ![](assets/new.png)  
 - [2022-06-19-如何继承自定义元素及其他JS中扩展新方法](https://www.zhangxinxu.com/wordpress/2022/06/js-extend-class-custom-elements/) ![](assets/new.png)  
 - [2022-06-12-基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/) ![](assets/new.png)  
-- [2022-06-11-介绍一种CSS变量未定义语法也OK的小妙招](https://www.zhangxinxu.com/wordpress/2022/06/css-var-optional-empty-trick/) ![](assets/new.png)  
 - [......【查看更多】......](./details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-09-20-Authing-真是一家神奇牛逼的公司！](https://www.v2ex.com/t/881704) ![](assets/new.png)  
+- [2022-09-20-IOS16-的倒计时锁屏-BUG](https://www.v2ex.com/t/881703) ![](assets/new.png)  
 - [2022-09-20-请教：希望全部-jpg-301-到另外一个域名](https://www.v2ex.com/t/881702) ![](assets/new.png)  
 - [2022-09-20-如何在子进程的-for-循环中更新-tqdm-进度条](https://www.v2ex.com/t/881701) ![](assets/new.png)  
 - [2022-09-20-金巴抢票-window.msk6-函数](https://www.v2ex.com/t/881700) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-09-20-身边学业、职场、家庭正能量人物事迹分享](https://www.v2ex.com/t/881683) ![](assets/new.png)  
 - [2022-09-20-有啥-bt-客户端，能跨任务-搜索？不同的种子内含很大文件目前用-qbittorent-只能单击特定任务，并点击-内容-输入框内搜索达到查询并下载特定文件的目的](https://www.v2ex.com/t/881682) ![](assets/new.png)  
 - [2022-09-20-淘宝上的港版-iPhone-代购说手机要激活了才能发给我，这会有什么坑吗？](https://www.v2ex.com/t/881681) ![](assets/new.png)  
-- [2022-09-20-Chrome-疑难杂症求解](https://www.v2ex.com/t/881679) ![](assets/new.png)  
-- [2022-09-20-十月一-马上要到了，今年广州周边有什么娱乐项目？](https://www.v2ex.com/t/881678) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

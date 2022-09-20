@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-20 04:01:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-20 05:32:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -6,3 +6,5 @@
 > 关键字：`Vue`、`ElementUI`
 
 
+
+- [2022-09-20-vue-数据绑定和小程序的问题](https://www.v2ex.com/t/881535) 

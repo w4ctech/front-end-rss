@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-09-20 10:47:58。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-20 11:14:01。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -178,6 +178,7 @@
 - [【张鑫旭-鑫空间-鑫生活】JS-replaceAll-和-matchAll-使用指南不指北](https://www.zhangxinxu.com/wordpress/2022/08/js-replaceall-matchall/)
 - [【张鑫旭-鑫空间-鑫生活】如何继承自定义元素及其他JS中扩展新方法](https://www.zhangxinxu.com/wordpress/2022/06/js-extend-class-custom-elements/)
 - [【张鑫旭-鑫空间-鑫生活】介绍一种CSS变量未定义语法也OK的小妙招](https://www.zhangxinxu.com/wordpress/2022/06/css-var-optional-empty-trick/)
+- [【V2EX】2.5G-光猫棒+2.5G-软路由顺利突破千兆](https://www.v2ex.com/t/881667)
 - [【V2EX】有没有-免费的-geo-json-下载地址-到镇的?](https://www.v2ex.com/t/881642)
 - [......【查看更多】......](./details/tags/javascript.md)
 
@@ -346,7 +347,6 @@
 
 
 
-- [【V2EX】现在的招聘市场只有大厂和外包在招聘](https://www.v2ex.com/t/881618)
 - [【开发者头条】面试官：单核-CPU-支持-Java-多线程吗-？我又懵逼了-！！！](https://toutiao.io/k/9lqqf2o)
 - [......【查看更多】......](./details/tags/job-interview.md)
 

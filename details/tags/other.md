@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-20 14:10:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-20 14:52:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1912,6 +1912,8 @@
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-09-20-请教：希望全部-jpg-301-到另外一个域名](https://www.v2ex.com/t/881702) 
+- [2022-09-20-如何在子进程的-for-循环中更新-tqdm-进度条](https://www.v2ex.com/t/881701) 
 - [2022-09-20-金巴抢票-window.msk6-函数](https://www.v2ex.com/t/881700) 
 - [2022-09-20-所以现在-pdd-上-14p-可以随便买？](https://www.v2ex.com/t/881699) 
 - [2022-09-20-Apple-Watch-普通版也可以更换-Nike-表盘了](https://www.v2ex.com/t/881698) 
@@ -1948,8 +1950,6 @@
 - [2022-09-20-iPhone-14-杀后台严重吗？](https://www.v2ex.com/t/881656) 
 - [2022-09-20-单元测试有落地效果好的团队吗？](https://www.v2ex.com/t/881655) 
 - [2022-09-20-又干到一家了！](https://www.v2ex.com/t/881653) 
-- [2022-09-20-看了-B-站评测，-iPhone14-pro-max-频闪问题似乎没解决，请问真实体感如何](https://www.v2ex.com/t/881652) 
-- [2022-09-20-打算做一个-webssh](https://www.v2ex.com/t/881651) 
 - [2022-09-20-技术改变了什么？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15400&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fpower-of-technology%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-20-失败驱动开发-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15399&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffailure-driven-development%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-20-图技术在美团外卖下的场景化应用及探索-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15398&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F09%2F08%2Fgnn-scenariomodeling-subgraphextend-jointtraining.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

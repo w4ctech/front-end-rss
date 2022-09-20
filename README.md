@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-20 14:10:37，:rocket: 更新条数: +2033， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-20 14:52:09，:rocket: 更新条数: +2033， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-09-20-请教：希望全部-jpg-301-到另外一个域名](https://www.v2ex.com/t/881702) ![](assets/new.png)  
+- [2022-09-20-如何在子进程的-for-循环中更新-tqdm-进度条](https://www.v2ex.com/t/881701) ![](assets/new.png)  
 - [2022-09-20-金巴抢票-window.msk6-函数](https://www.v2ex.com/t/881700) ![](assets/new.png)  
 - [2022-09-20-所以现在-pdd-上-14p-可以随便买？](https://www.v2ex.com/t/881699) ![](assets/new.png)  
 - [2022-09-20-Apple-Watch-普通版也可以更换-Nike-表盘了](https://www.v2ex.com/t/881698) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-09-20-淘宝上的港版-iPhone-代购说手机要激活了才能发给我，这会有什么坑吗？](https://www.v2ex.com/t/881681) ![](assets/new.png)  
 - [2022-09-20-Chrome-疑难杂症求解](https://www.v2ex.com/t/881679) ![](assets/new.png)  
 - [2022-09-20-十月一-马上要到了，今年广州周边有什么娱乐项目？](https://www.v2ex.com/t/881678) ![](assets/new.png)  
-- [2022-09-20-远程-Ensoul-Labs-招募前端/后端/Solidity-工程师-15k-25k](https://www.v2ex.com/t/881677) ![](assets/new.png)  
-- [2022-09-20-配置-Cloudflare-301-跳转的坑](https://www.v2ex.com/t/881676) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

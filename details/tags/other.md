@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-20 19:14:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-20 19:39:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1948,7 +1948,6 @@
 - [2022-09-20-淘宝上的港版-iPhone-代购说手机要激活了才能发给我，这会有什么坑吗？](https://www.v2ex.com/t/881681) 
 - [2022-09-20-十月一-马上要到了，今年广州周边有什么娱乐项目？](https://www.v2ex.com/t/881678) 
 - [2022-09-20-远程-Ensoul-Labs-招募前端/后端/Solidity-工程师-15k-25k](https://www.v2ex.com/t/881677) 
-- [2022-09-20-配置-Cloudflare-301-跳转的坑](https://www.v2ex.com/t/881676) 
 - [2022-09-20-技术改变了什么？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15400&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fpower-of-technology%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-20-失败驱动开发-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15399&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffailure-driven-development%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-20-图技术在美团外卖下的场景化应用及探索-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15398&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F09%2F08%2Fgnn-scenariomodeling-subgraphextend-jointtraining.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1982,5 +1981,5 @@
 - [2022-09-20-提高数据可视化效果的五个原则](https://toutiao.io/k/y5o8b4w) 
 - [2022-09-20-【第2735期】为什么iPhone-倒计时显示的是假时间？](https://toutiao.io/k/eb5bv0t) 
 - [2022-09-20-推荐-微服务网关鉴权：gateway使用、网关限流使用、用户密码加密、JWT鉴权](https://toutiao.io/k/rdhhq5d) 
-- [2022-09-20-推荐-常见分布式系统设计图解](https://toutiao.io/k/osewvaz) 
 - [2022-09-20-推荐-Redis高可用方案](https://toutiao.io/k/3hh68yl) 
+- [2022-09-20-推荐-常见分布式系统设计图解](https://toutiao.io/k/osewvaz) 

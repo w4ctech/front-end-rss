@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-20 10:17:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-20 10:47:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1912,6 +1912,11 @@
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-09-20-受不了某些不让复制的站点，分享个基于-anyproxy-的自用方案](https://www.v2ex.com/t/881665) 
+- [2022-09-20-求个-html-写法](https://www.v2ex.com/t/881664) 
+- [2022-09-20-求-PC-主机配置推荐](https://www.v2ex.com/t/881663) 
+- [2022-09-20-相比收验证码，发验证短信很有必要么？](https://www.v2ex.com/t/881662) 
+- [2022-09-20-TCP-发出指令，硬件声音提示器，家里-DIY-用，有现成的不？](https://www.v2ex.com/t/881661) 
 - [2022-09-20-从雷电扩展坞换成显示器的一线通扩展坞，最直观的感受就是处理器温度的降低](https://www.v2ex.com/t/881660) 
 - [2022-09-20-S3-桶有办法实现客户端加密（即原文不会直接提交给存储服务器）吗？看了下-S3-的文档，貌似只能提交原文，服务器用预设密钥或从-KMS-获取密钥进行加密。](https://www.v2ex.com/t/881658) 
 - [2022-09-20-大家有遇到罗技鼠标在-macos-上，每次锁屏再开启后，滚轮失效吗？](https://www.v2ex.com/t/881657) 
@@ -1947,11 +1952,6 @@
 - [2022-09-20-iOS16-遇到了微信语音被自动挂断的问题](https://www.v2ex.com/t/881619) 
 - [2022-09-20-刘勇智：一码通缺陷分析与架构设计方案丨声网开发者创业讲堂-Vol.02](https://www.v2ex.com/t/881617) 
 - [2022-09-20-远程控制-macOS](https://www.v2ex.com/t/881616) 
-- [2022-09-20-有好用的记账工具吗？-想部署在-NAS-上，最好支持导入微信和支付宝的](https://www.v2ex.com/t/881615) 
-- [2022-09-20-MacBook-air-使用某个特定-type-c-to-type-c-线连接移动硬盘，一个口能读一个口不能读](https://www.v2ex.com/t/881614) 
-- [2022-09-20-b-站的-cdn-是不是又炸了？](https://www.v2ex.com/t/881613) 
-- [2022-09-20-大家的-14Pro-的-iCloud-云备份显示正常嘛？](https://www.v2ex.com/t/881612) 
-- [2022-09-20-19-款的-16-寸-mbp-,ac+-快到期了.-有合理的利用方式不](https://www.v2ex.com/t/881611) 
 - [2022-09-20-技术改变了什么？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15400&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fpower-of-technology%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-20-失败驱动开发-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15399&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffailure-driven-development%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-20-图技术在美团外卖下的场景化应用及探索-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15398&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F09%2F08%2Fgnn-scenariomodeling-subgraphextend-jointtraining.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1984,6 +1984,6 @@
 - [2022-09-20-提高数据可视化效果的五个原则](https://toutiao.io/k/y5o8b4w) 
 - [2022-09-20-【第2735期】为什么iPhone-倒计时显示的是假时间？](https://toutiao.io/k/eb5bv0t) 
 - [2022-09-20-图解-Kubernetes-网络流量流转路径](https://toutiao.io/k/l7w19pc) 
-- [2022-09-20-推荐-微服务网关鉴权：gateway使用、网关限流使用、用户密码加密、JWT鉴权](https://toutiao.io/k/rdhhq5d) 
-- [2022-09-20-推荐-Redis高可用方案](https://toutiao.io/k/3hh68yl) 
 - [2022-09-20-推荐-常见分布式系统设计图解](https://toutiao.io/k/osewvaz) 
+- [2022-09-20-推荐-Redis高可用方案](https://toutiao.io/k/3hh68yl) 
+- [2022-09-20-推荐-微服务网关鉴权：gateway使用、网关限流使用、用户密码加密、JWT鉴权](https://toutiao.io/k/rdhhq5d) 

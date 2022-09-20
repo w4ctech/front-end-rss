@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-20 07:24:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-20 07:49:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1912,6 +1912,9 @@
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-09-20-B612](https://www.v2ex.com/t/881602) 
+- [2022-09-20-vscode-在-format-Python-代码的时候，把-list-的一些短项换行了，有什么好办法可以不换行吗](https://www.v2ex.com/t/881601) 
+- [2022-09-20-有什么途径可以买到美版-iphone14](https://www.v2ex.com/t/881599) 
 - [2022-09-20-武汉社交生活群-滴滴](https://www.v2ex.com/t/881597) 
 - [2022-09-20-订阅了-dropbox，停止续费之后容量会降低到原有容量（18g）还是降低到-2g](https://www.v2ex.com/t/881594) 
 - [2022-09-20-Blinkload-凉了，自建-or-找一家稳定一点的机场？](https://www.v2ex.com/t/881590) 
@@ -1943,9 +1946,6 @@
 - [2022-09-20-求一个开源文件管理系统?](https://www.v2ex.com/t/881556) 
 - [2022-09-20-关于-12306-的候补](https://www.v2ex.com/t/881555) 
 - [2022-09-20-8-年安卓用户已经做好取舍，准备入-14pro](https://www.v2ex.com/t/881554) 
-- [2022-09-20-热水器在出水温度总是比设定温度高一两度。。。](https://www.v2ex.com/t/881553) 
-- [2022-09-20-9-月-24-到-29-号去哪游玩才不会被隔离或者劝返](https://www.v2ex.com/t/881551) 
-- [2022-09-20-iOS16-的剪切板问题，其实换成官方输入法之后会好一点吧](https://www.v2ex.com/t/881550) 
 - [2022-09-20-技术改变了什么？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15400&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fpower-of-technology%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-20-失败驱动开发-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15399&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffailure-driven-development%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-20-图技术在美团外卖下的场景化应用及探索-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15398&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F09%2F08%2Fgnn-scenariomodeling-subgraphextend-jointtraining.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1975,9 +1975,9 @@
 - [2022-09-20-索引如何定位一条数据？](https://toutiao.io/k/ctyv8g0) 
 - [2022-09-20-谈一谈-build-scripts-架构设计](https://toutiao.io/k/4wvn0gy) 
 - [2022-09-20-提高数据可视化效果的五个原则](https://toutiao.io/k/y5o8b4w) 
-- [2022-09-20-【第2735期】为什么iPhone-倒计时显示的是假时间？](https://toutiao.io/k/eb5bv0t) 
 - [2022-09-20-Go-代码风格没人喜欢？不对，Gofmt-是所有人的最爱...](https://toutiao.io/k/8o0cfz2) 
+- [2022-09-20-【第2735期】为什么iPhone-倒计时显示的是假时间？](https://toutiao.io/k/eb5bv0t) 
 - [2022-09-20-图解-Kubernetes-网络流量流转路径](https://toutiao.io/k/l7w19pc) 
+- [2022-09-20-推荐-常见分布式系统设计图解](https://toutiao.io/k/osewvaz) 
 - [2022-09-20-推荐-微服务网关鉴权：gateway使用、网关限流使用、用户密码加密、JWT鉴权](https://toutiao.io/k/rdhhq5d) 
 - [2022-09-20-推荐-Redis高可用方案](https://toutiao.io/k/3hh68yl) 
-- [2022-09-20-推荐-常见分布式系统设计图解](https://toutiao.io/k/osewvaz) 

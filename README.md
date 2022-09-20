@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-20 06:36:07，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-20 07:24:53，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,26 +491,26 @@
 </summary>
 
 
-- [2022-09-20-为什么现在绝大多数手机拍照不再提供-3:2-比例相片？](https://www.v2ex.com/t/881569) ![](assets/new.png)  
-- [2022-09-20-每天一杯咖啡，终于忍不住买台小型家用咖啡机了](https://www.v2ex.com/t/881568) ![](assets/new.png)  
-- [2022-09-20-招聘与合作3R-教室招聘讲师和合作推官](https://www.v2ex.com/t/881567) ![](assets/new.png)  
-- [2022-09-20-想买个二手手机用来放副卡，求推荐](https://www.v2ex.com/t/881566) ![](assets/new.png)  
-- [2022-09-20-珍爱生命，远离-power-shell](https://www.v2ex.com/t/881565) ![](assets/new.png)  
-- [2022-09-20-问一下各位大佬..-除了-Swagger-还有其他生成-API-文档的东西么?](https://www.v2ex.com/t/881564) ![](assets/new.png)  
-- [2022-09-20-医疗肿瘤分割世界前三-更新一下，明天正式报告，顺便公布一个-Demo](https://www.v2ex.com/t/881563) ![](assets/new.png)  
-- [2022-09-20-苏宁金融的流程为啥还要一面过了还要项目组审一下](https://www.v2ex.com/t/881562) ![](assets/new.png)  
-- [2022-09-20-有一种去除粘贴权限提示的临时解决办法](https://www.v2ex.com/t/881561) ![](assets/new.png)  
-- [2022-09-20-请问，现在哪家的平板在使用微软的-RDP-客户端的时候可以全局接管键盘？](https://www.v2ex.com/t/881559) ![](assets/new.png)  
-- [2022-09-20-发现了一个可以检测自己坐姿的软件，感觉还不错。](https://www.v2ex.com/t/881558) ![](assets/new.png)  
-- [2022-09-20-付费应用调查](https://www.v2ex.com/t/881557) ![](assets/new.png)  
-- [2022-09-20-求一个开源文件管理系统?](https://www.v2ex.com/t/881556) ![](assets/new.png)  
-- [2022-09-20-关于-12306-的候补](https://www.v2ex.com/t/881555) ![](assets/new.png)  
-- [2022-09-20-8-年安卓用户已经做好取舍，准备入-14pro](https://www.v2ex.com/t/881554) ![](assets/new.png)  
-- [2022-09-20-热水器在出水温度总是比设定温度高一两度。。。](https://www.v2ex.com/t/881553) ![](assets/new.png)  
-- [2022-09-20-9-月-24-到-29-号去哪游玩才不会被隔离或者劝返](https://www.v2ex.com/t/881551) ![](assets/new.png)  
-- [2022-09-20-iOS16-的剪切板问题，其实换成官方输入法之后会好一点吧](https://www.v2ex.com/t/881550) ![](assets/new.png)  
-- [2022-09-20-苹果公司在-iOS16-连接车载蓝牙时会限制手机功能](https://www.v2ex.com/t/881548) ![](assets/new.png)  
-- [2022-09-20-simplenote-官网崩了？](https://www.v2ex.com/t/881547) ![](assets/new.png)  
+- [2022-09-20-武汉社交生活群-滴滴](https://www.v2ex.com/t/881597) ![](assets/new.png)  
+- [2022-09-20-毕业生求职规划，请求指点](https://www.v2ex.com/t/881595) ![](assets/new.png)  
+- [2022-09-20-订阅了-dropbox，停止续费之后容量会降低到原有容量（18g）还是降低到-2g](https://www.v2ex.com/t/881594) ![](assets/new.png)  
+- [2022-09-20-pycharmidea连接远程服务器项目-不展示-git-信息](https://www.v2ex.com/t/881593) ![](assets/new.png)  
+- [2022-09-20-Blinkload-凉了，自建-or-找一家稳定一点的机场？](https://www.v2ex.com/t/881590) ![](assets/new.png)  
+- [2022-09-20-手机换外屏有可能会导致厚度增加](https://www.v2ex.com/t/881589) ![](assets/new.png)  
+- [2022-09-20-想要换手机卡了，现在每个月消费-50-起步。。。](https://www.v2ex.com/t/881588) ![](assets/new.png)  
+- [2022-09-20-ultrafine-4k-唤醒后亮度变得很高](https://www.v2ex.com/t/881586) ![](assets/new.png)  
+- [2022-09-20-iphone14-的屏幕还是低频-pwm-调光吗](https://www.v2ex.com/t/881585) ![](assets/new.png)  
+- [2022-09-20-短期远程工作机会，全栈偏前端，React,-Python-,-两个月，待遇跟个人挂钩，-2W-5W/月](https://www.v2ex.com/t/881583) ![](assets/new.png)  
+- [2022-09-20-润出国一阵子了。开放答疑。](https://www.v2ex.com/t/881582) ![](assets/new.png)  
+- [2022-09-20-今年大行情下，国内还有哪些靠谱的团队可加入](https://www.v2ex.com/t/881581) ![](assets/new.png)  
+- [2022-09-20-100+大屏模板免费领！葡萄城-BI-行业应用方案重磅发布！](https://www.v2ex.com/t/881579) ![](assets/new.png)  
+- [2022-09-20-上午看到虾皮裁员,突然发现我公司也看不到员工人数了](https://www.v2ex.com/t/881578) ![](assets/new.png)  
+- [2022-09-20-太吾绘卷正式版明天可以开玩啦！](https://www.v2ex.com/t/881577) ![](assets/new.png)  
+- [2022-09-20-实在是迷茫，有什么捞‘偏门’的方式吗？](https://www.v2ex.com/t/881576) ![](assets/new.png)  
+- [2022-09-20-iPhone-14-Pro-Max-5G-使用感受](https://www.v2ex.com/t/881575) ![](assets/new.png)  
+- [2022-09-20-字节供应商员工偷拿下午茶后续](https://www.v2ex.com/t/881574) ![](assets/new.png)  
+- [2022-09-20-统计一堆待注销的账号后续](https://www.v2ex.com/t/881573) ![](assets/new.png)  
+- [2022-09-20-各位来分享下目前使用的-Linux-发行版吧](https://www.v2ex.com/t/881571) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -556,10 +556,10 @@
 - [2022-09-20-20-图-｜6-千字｜缓存实战（上篇）](https://toutiao.io/k/4uqm3n6) ![](assets/new.png)  
 - [2022-09-20-语雀桌面端技术架构实践](https://toutiao.io/k/481hlbi) ![](assets/new.png)  
 - [2022-09-20-读者推荐的-6-个-GitHub-项目！](https://toutiao.io/k/5zipv5q) ![](assets/new.png)  
-- [2022-09-20-尴尬，在Kafka生产实践中又出问题了](https://toutiao.io/k/guru5it) ![](assets/new.png)  
 - [2022-09-20-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) ![](assets/new.png)  
-- [2022-09-20-清华大学教授：唐杰——深度分析：人工智能的下个十年](https://toutiao.io/k/8ueqx0a) ![](assets/new.png)  
+- [2022-09-20-尴尬，在Kafka生产实践中又出问题了](https://toutiao.io/k/guru5it) ![](assets/new.png)  
 - [2022-09-20-面试官：单核-CPU-支持-Java-多线程吗-？我又懵逼了-！！！](https://toutiao.io/k/9lqqf2o) ![](assets/new.png)  
+- [2022-09-20-清华大学教授：唐杰——深度分析：人工智能的下个十年](https://toutiao.io/k/8ueqx0a) ![](assets/new.png)  
 - [2022-09-20-理解了状态管理，就理解了前端开发的核心​](https://toutiao.io/k/hbyx7cs) ![](assets/new.png)  
 - [2022-09-20-提速还能不掉点！深度解析-MegEngine-4-bits-量化开源实现](https://toutiao.io/k/rp8a45f) ![](assets/new.png)  
 - [2022-09-20-性能优化——图片压缩、加载和格式选择](https://toutiao.io/k/ygm2spi) ![](assets/new.png)  
@@ -569,9 +569,9 @@
 - [2022-09-20-索引如何定位一条数据？](https://toutiao.io/k/ctyv8g0) ![](assets/new.png)  
 - [2022-09-20-谈一谈-build-scripts-架构设计](https://toutiao.io/k/4wvn0gy) ![](assets/new.png)  
 - [2022-09-20-排错：compiled-against-a-different-Node-version](https://toutiao.io/k/cls54ob) ![](assets/new.png)  
-- [2022-09-20-Go-代码风格没人喜欢？不对，Gofmt-是所有人的最爱...](https://toutiao.io/k/8o0cfz2) ![](assets/new.png)  
 - [2022-09-20-提高数据可视化效果的五个原则](https://toutiao.io/k/y5o8b4w) ![](assets/new.png)  
 - [2022-09-20-【第2735期】为什么iPhone-倒计时显示的是假时间？](https://toutiao.io/k/eb5bv0t) ![](assets/new.png)  
+- [2022-09-20-Go-代码风格没人喜欢？不对，Gofmt-是所有人的最爱...](https://toutiao.io/k/8o0cfz2) ![](assets/new.png)  
 - [2022-09-20-图解-Kubernetes-网络流量流转路径](https://toutiao.io/k/l7w19pc) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-09-20 06:36:07。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-20 07:24:53。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -39,6 +39,7 @@
 
 
 
+- [【V2EX】短期远程工作机会，全栈偏前端，React,-Python-,-两个月，待遇跟个人挂钩，-2W-5W/月](https://www.v2ex.com/t/881583)
 - [......【查看更多】......](./details/tags/react.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -55,7 +56,6 @@
 
 
 
-- [【V2EX】vue-数据绑定和小程序的问题](https://www.v2ex.com/t/881535)
 - [......【查看更多】......](./details/tags/vue.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -89,7 +89,6 @@
 
 
 - [【武汉肺炎防疫全纪录(财新网)】韩国拟升级首尔疫情管控-法国专业机构建议强制接种疫苗｜大流行手记（7月10日）](https://m.caixin.com/m/2021-07-11/101738786.html)
-- [【V2EX】crates.io-快像-npm-那样太多重复轮子了](https://www.v2ex.com/t/881520)
 - [......【查看更多】......](./details/tags/pack-build.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -235,6 +234,7 @@
 
 - [【武汉肺炎防疫全纪录(财新网)】广州17岁男生在定点医院参加高考-特殊考场视频监考](https://m.caixin.com/m/2021-06-05/101723418.html)
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
+- [【V2EX】有什么工具可以截取-youtube-视频（截图），并包含当前播放的字幕](https://www.v2ex.com/t/881570)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -276,7 +276,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
 - [【张鑫旭-鑫空间-鑫生活】基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/)
-- [【V2EX】请教一个关于-Spring-Security-开放-URL-白名单问题](https://www.v2ex.com/t/881530)
+- [【V2EX】毕业生求职规划，请求指点](https://www.v2ex.com/t/881595)
 - [【开发者头条】20-图-｜6-千字｜缓存实战（上篇）](https://toutiao.io/k/4uqm3n6)
 - [......【查看更多】......](./details/tags/browser.md)
 
@@ -329,6 +329,7 @@
 
 
 - [【张鑫旭-鑫空间-鑫生活】gitee上撸了个类似飞书OKR输入框的@提及项目](https://www.zhangxinxu.com/wordpress/2022/08/gitee-feishu-okr-at-mention/)
+- [【V2EX】pycharmidea连接远程服务器项目-不展示-git-信息](https://www.v2ex.com/t/881593)
 - [【开发者头条】读者推荐的-6-个-GitHub-项目！](https://toutiao.io/k/5zipv5q)
 - [【开发者头条】推荐-近期-yyds-的-GitHub-项目](https://toutiao.io/k/i1qkq4o)
 - [......【查看更多】......](./details/tags/git-svn.md)

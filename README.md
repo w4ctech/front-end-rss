@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-20 09:48:38，:rocket: 更新条数: +2035， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-20 10:17:04，:rocket: 更新条数: +2034， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,13 @@
 </summary>
 
 
+- [2022-09-20-从雷电扩展坞换成显示器的一线通扩展坞，最直观的感受就是处理器温度的降低](https://www.v2ex.com/t/881660) ![](assets/new.png)  
+- [2022-09-20-S3-桶有办法实现客户端加密（即原文不会直接提交给存储服务器）吗？看了下-S3-的文档，貌似只能提交原文，服务器用预设密钥或从-KMS-获取密钥进行加密。](https://www.v2ex.com/t/881658) ![](assets/new.png)  
+- [2022-09-20-大家有遇到罗技鼠标在-macos-上，每次锁屏再开启后，滚轮失效吗？](https://www.v2ex.com/t/881657) ![](assets/new.png)  
+- [2022-09-20-iPhone-14-杀后台严重吗？](https://www.v2ex.com/t/881656) ![](assets/new.png)  
+- [2022-09-20-单元测试有落地效果好的团队吗？](https://www.v2ex.com/t/881655) ![](assets/new.png)  
+- [2022-09-20-又干到一家了！](https://www.v2ex.com/t/881653) ![](assets/new.png)  
+- [2022-09-20-看了-B-站评测，-iPhone14-pro-max-频闪问题似乎没解决，请问真实体感如何](https://www.v2ex.com/t/881652) ![](assets/new.png)  
 - [2022-09-20-打算做一个-webssh](https://www.v2ex.com/t/881651) ![](assets/new.png)  
 - [2022-09-20-2022-年，互联网已然下半场，程序员的路在何方？](https://www.v2ex.com/t/881650) ![](assets/new.png)  
 - [2022-09-20-Whatsapp-账号绑定的电话号码是-Google-Voice，会更容易导致账号被封么？](https://www.v2ex.com/t/881649) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-09-20-iPhone-密码不对锁住了，怎么看当前登录的-icloud-账号是什么](https://www.v2ex.com/t/881640) ![](assets/new.png)  
 - [2022-09-20-做-40-年程序员是一种什么体验？他给出了-13-条建议](https://www.v2ex.com/t/881638) ![](assets/new.png)  
 - [2022-09-20-分享个双色球中奖自动提醒的工具](https://www.v2ex.com/t/881637) ![](assets/new.png)  
-- [2022-09-20-21-世纪电子鸦片有哪些](https://www.v2ex.com/t/881636) ![](assets/new.png)  
-- [2022-09-20-血泪的教训，-icloud-真的会丢文件，另附建议](https://www.v2ex.com/t/881635) ![](assets/new.png)  
-- [2022-09-20-坐标北京，出全新喷射战士-3，未拆封](https://www.v2ex.com/t/881634) ![](assets/new.png)  
-- [2022-09-20-2022-年了，阻碍你离开-iPhone-的原因是？](https://www.v2ex.com/t/881633) ![](assets/new.png)  
-- [2022-09-20-微信-Windows-版占用硬盘空间一览](https://www.v2ex.com/t/881630) ![](assets/new.png)  
-- [2022-09-20-刷机到-miui-eu-之后被一天近-10-个的垃圾短信搞的精神衰弱了.如何治疗精神衰弱?](https://www.v2ex.com/t/881629) ![](assets/new.png)  
-- [2022-09-20-车牌选择](https://www.v2ex.com/t/881627) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -555,18 +555,18 @@
 
 - [2022-09-20-语雀桌面端技术架构实践](https://toutiao.io/k/481hlbi) ![](assets/new.png)  
 - [2022-09-20-20-图-｜6-千字｜缓存实战（上篇）](https://toutiao.io/k/4uqm3n6) ![](assets/new.png)  
-- [2022-09-20-读者推荐的-6-个-GitHub-项目！](https://toutiao.io/k/5zipv5q) ![](assets/new.png)  
 - [2022-09-20-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) ![](assets/new.png)  
+- [2022-09-20-读者推荐的-6-个-GitHub-项目！](https://toutiao.io/k/5zipv5q) ![](assets/new.png)  
 - [2022-09-20-尴尬，在Kafka生产实践中又出问题了](https://toutiao.io/k/guru5it) ![](assets/new.png)  
 - [2022-09-20-面试官：单核-CPU-支持-Java-多线程吗-？我又懵逼了-！！！](https://toutiao.io/k/9lqqf2o) ![](assets/new.png)  
 - [2022-09-20-清华大学教授：唐杰——深度分析：人工智能的下个十年](https://toutiao.io/k/8ueqx0a) ![](assets/new.png)  
 - [2022-09-20-理解了状态管理，就理解了前端开发的核心​](https://toutiao.io/k/hbyx7cs) ![](assets/new.png)  
-- [2022-09-20-提速还能不掉点！深度解析-MegEngine-4-bits-量化开源实现](https://toutiao.io/k/rp8a45f) ![](assets/new.png)  
 - [2022-09-20-性能优化——图片压缩、加载和格式选择](https://toutiao.io/k/ygm2spi) ![](assets/new.png)  
+- [2022-09-20-提速还能不掉点！深度解析-MegEngine-4-bits-量化开源实现](https://toutiao.io/k/rp8a45f) ![](assets/new.png)  
 - [2022-09-20-独立开发变现周刊（第72期）：在Reddit上验证想法，建立年收入18万美元的自动化求职平台](https://toutiao.io/k/5op79jh) ![](assets/new.png)  
 - [2022-09-20-你的项目管理是“谋而后动”还是“追赶时间”？](https://toutiao.io/k/ba0kbgw) ![](assets/new.png)  
-- [2022-09-20-如何防御对抗攻击](https://toutiao.io/k/tgmx95p) ![](assets/new.png)  
 - [2022-09-20-排错：compiled-against-a-different-Node-version](https://toutiao.io/k/cls54ob) ![](assets/new.png)  
+- [2022-09-20-如何防御对抗攻击](https://toutiao.io/k/tgmx95p) ![](assets/new.png)  
 - [2022-09-20-索引如何定位一条数据？](https://toutiao.io/k/ctyv8g0) ![](assets/new.png)  
 - [2022-09-20-谈一谈-build-scripts-架构设计](https://toutiao.io/k/4wvn0gy) ![](assets/new.png)  
 - [2022-09-20-Go-代码风格没人喜欢？不对，Gofmt-是所有人的最爱...](https://toutiao.io/k/8o0cfz2) ![](assets/new.png)  

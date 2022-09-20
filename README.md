@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-20 05:32:16，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-20 06:36:07，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,26 +491,26 @@
 </summary>
 
 
-- [2022-09-20-北京-|-杭州-字节跳动-飞书-IM-团队-IM-团队缺人，欢迎社招&校招简历投递内推](https://www.v2ex.com/t/881544) ![](assets/new.png)  
-- [2022-09-20-大便小人](https://www.v2ex.com/t/881543) ![](assets/new.png)  
-- [2022-09-20-最近亏麻了，搞了个基金港美股小群，有同好者吗？](https://www.v2ex.com/t/881542) ![](assets/new.png)  
-- [2022-09-20-现在就医体验好吗](https://www.v2ex.com/t/881539) ![](assets/new.png)  
-- [2022-09-20-iOS-两个-Swift-静态库调用问题](https://www.v2ex.com/t/881537) ![](assets/new.png)  
-- [2022-09-20-说剪切板权限没问题的有几个是在用-ios16-的？](https://www.v2ex.com/t/881536) ![](assets/new.png)  
-- [2022-09-20-vue-数据绑定和小程序的问题](https://www.v2ex.com/t/881535) ![](assets/new.png)  
-- [2022-09-20-接下来真的会闭关锁国吗？](https://www.v2ex.com/t/881534) ![](assets/new.png)  
-- [2022-09-20-是不是用了大陆的账号就显示云上贵州？](https://www.v2ex.com/t/881533) ![](assets/new.png)  
-- [2022-09-20-Apple-确认下周-iOS-16-更新将修复「复制、粘贴」提示过于频繁的问题](https://www.v2ex.com/t/881532) ![](assets/new.png)  
-- [2022-09-20-武汉-csig-运营开发如何](https://www.v2ex.com/t/881531) ![](assets/new.png)  
-- [2022-09-20-请教一个关于-Spring-Security-开放-URL-白名单问题](https://www.v2ex.com/t/881530) ![](assets/new.png)  
-- [2022-09-20-兄弟们，小孩学习音标有什么比较好的资源推荐？最近要教家里小孩这个，头大](https://www.v2ex.com/t/881529) ![](assets/new.png)  
-- [2022-09-20-请教一个毫无思路的计算问题](https://www.v2ex.com/t/881527) ![](assets/new.png)  
-- [2022-09-20-买小米-11U-已经-5-个月了，来说说感受](https://www.v2ex.com/t/881526) ![](assets/new.png)  
-- [2022-09-20-现在不能同时获取-ipv4-和-ipv6-了吗](https://www.v2ex.com/t/881525) ![](assets/new.png)  
-- [2022-09-20-为啥这么多人抢-14-PM，北京线下完全抢不到，等好久](https://www.v2ex.com/t/881522) ![](assets/new.png)  
-- [2022-09-20-哪里能找到宇宙星际战舰相关的词库呢？](https://www.v2ex.com/t/881521) ![](assets/new.png)  
-- [2022-09-20-crates.io-快像-npm-那样太多重复轮子了](https://www.v2ex.com/t/881520) ![](assets/new.png)  
-- [2022-09-20-看到个新颖的名片，但不知道第一页是用什么技术实现的，待大神解答。](https://www.v2ex.com/t/881519) ![](assets/new.png)  
+- [2022-09-20-为什么现在绝大多数手机拍照不再提供-3:2-比例相片？](https://www.v2ex.com/t/881569) ![](assets/new.png)  
+- [2022-09-20-每天一杯咖啡，终于忍不住买台小型家用咖啡机了](https://www.v2ex.com/t/881568) ![](assets/new.png)  
+- [2022-09-20-招聘与合作3R-教室招聘讲师和合作推官](https://www.v2ex.com/t/881567) ![](assets/new.png)  
+- [2022-09-20-想买个二手手机用来放副卡，求推荐](https://www.v2ex.com/t/881566) ![](assets/new.png)  
+- [2022-09-20-珍爱生命，远离-power-shell](https://www.v2ex.com/t/881565) ![](assets/new.png)  
+- [2022-09-20-问一下各位大佬..-除了-Swagger-还有其他生成-API-文档的东西么?](https://www.v2ex.com/t/881564) ![](assets/new.png)  
+- [2022-09-20-医疗肿瘤分割世界前三-更新一下，明天正式报告，顺便公布一个-Demo](https://www.v2ex.com/t/881563) ![](assets/new.png)  
+- [2022-09-20-苏宁金融的流程为啥还要一面过了还要项目组审一下](https://www.v2ex.com/t/881562) ![](assets/new.png)  
+- [2022-09-20-有一种去除粘贴权限提示的临时解决办法](https://www.v2ex.com/t/881561) ![](assets/new.png)  
+- [2022-09-20-请问，现在哪家的平板在使用微软的-RDP-客户端的时候可以全局接管键盘？](https://www.v2ex.com/t/881559) ![](assets/new.png)  
+- [2022-09-20-发现了一个可以检测自己坐姿的软件，感觉还不错。](https://www.v2ex.com/t/881558) ![](assets/new.png)  
+- [2022-09-20-付费应用调查](https://www.v2ex.com/t/881557) ![](assets/new.png)  
+- [2022-09-20-求一个开源文件管理系统?](https://www.v2ex.com/t/881556) ![](assets/new.png)  
+- [2022-09-20-关于-12306-的候补](https://www.v2ex.com/t/881555) ![](assets/new.png)  
+- [2022-09-20-8-年安卓用户已经做好取舍，准备入-14pro](https://www.v2ex.com/t/881554) ![](assets/new.png)  
+- [2022-09-20-热水器在出水温度总是比设定温度高一两度。。。](https://www.v2ex.com/t/881553) ![](assets/new.png)  
+- [2022-09-20-9-月-24-到-29-号去哪游玩才不会被隔离或者劝返](https://www.v2ex.com/t/881551) ![](assets/new.png)  
+- [2022-09-20-iOS16-的剪切板问题，其实换成官方输入法之后会好一点吧](https://www.v2ex.com/t/881550) ![](assets/new.png)  
+- [2022-09-20-苹果公司在-iOS16-连接车载蓝牙时会限制手机功能](https://www.v2ex.com/t/881548) ![](assets/new.png)  
+- [2022-09-20-simplenote-官网崩了？](https://www.v2ex.com/t/881547) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -562,17 +562,17 @@
 - [2022-09-20-面试官：单核-CPU-支持-Java-多线程吗-？我又懵逼了-！！！](https://toutiao.io/k/9lqqf2o) ![](assets/new.png)  
 - [2022-09-20-理解了状态管理，就理解了前端开发的核心​](https://toutiao.io/k/hbyx7cs) ![](assets/new.png)  
 - [2022-09-20-提速还能不掉点！深度解析-MegEngine-4-bits-量化开源实现](https://toutiao.io/k/rp8a45f) ![](assets/new.png)  
-- [2022-09-20-你的项目管理是“谋而后动”还是“追赶时间”？](https://toutiao.io/k/ba0kbgw) ![](assets/new.png)  
-- [2022-09-20-独立开发变现周刊（第72期）：在Reddit上验证想法，建立年收入18万美元的自动化求职平台](https://toutiao.io/k/5op79jh) ![](assets/new.png)  
-- [2022-09-20-如何防御对抗攻击](https://toutiao.io/k/tgmx95p) ![](assets/new.png)  
 - [2022-09-20-性能优化——图片压缩、加载和格式选择](https://toutiao.io/k/ygm2spi) ![](assets/new.png)  
-- [2022-09-20-谈一谈-build-scripts-架构设计](https://toutiao.io/k/4wvn0gy) ![](assets/new.png)  
+- [2022-09-20-独立开发变现周刊（第72期）：在Reddit上验证想法，建立年收入18万美元的自动化求职平台](https://toutiao.io/k/5op79jh) ![](assets/new.png)  
+- [2022-09-20-你的项目管理是“谋而后动”还是“追赶时间”？](https://toutiao.io/k/ba0kbgw) ![](assets/new.png)  
+- [2022-09-20-如何防御对抗攻击](https://toutiao.io/k/tgmx95p) ![](assets/new.png)  
 - [2022-09-20-索引如何定位一条数据？](https://toutiao.io/k/ctyv8g0) ![](assets/new.png)  
-- [2022-09-20-推荐-微服务网关鉴权：gateway使用、网关限流使用、用户密码加密、JWT鉴权](https://toutiao.io/k/rdhhq5d) ![](assets/new.png)  
-- [2022-09-20-推荐-Redis高可用方案](https://toutiao.io/k/3hh68yl) ![](assets/new.png)  
-- [2022-09-20-推荐-1.8w-字的-SQL-优化大全](https://toutiao.io/k/tz7p6nl) ![](assets/new.png)  
-- [2022-09-20-推荐-近期-yyds-的-GitHub-项目](https://toutiao.io/k/i1qkq4o) ![](assets/new.png)  
-- [2022-09-20-推荐-常见分布式系统设计图解](https://toutiao.io/k/osewvaz) ![](assets/new.png)  
+- [2022-09-20-谈一谈-build-scripts-架构设计](https://toutiao.io/k/4wvn0gy) ![](assets/new.png)  
+- [2022-09-20-排错：compiled-against-a-different-Node-version](https://toutiao.io/k/cls54ob) ![](assets/new.png)  
+- [2022-09-20-Go-代码风格没人喜欢？不对，Gofmt-是所有人的最爱...](https://toutiao.io/k/8o0cfz2) ![](assets/new.png)  
+- [2022-09-20-提高数据可视化效果的五个原则](https://toutiao.io/k/y5o8b4w) ![](assets/new.png)  
+- [2022-09-20-【第2735期】为什么iPhone-倒计时显示的是假时间？](https://toutiao.io/k/eb5bv0t) ![](assets/new.png)  
+- [2022-09-20-图解-Kubernetes-网络流量流转路径](https://toutiao.io/k/l7w19pc) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

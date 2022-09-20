@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-20 01:18:32，:rocket: 更新条数: +2023， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-20 04:01:36，:rocket: 更新条数: +2025， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,26 +491,26 @@
 </summary>
 
 
-- [2022-09-20-印象笔记半夜收到两个信息有人登录我的账户去哪里找客服处理?](https://www.v2ex.com/t/881448) ![](assets/new.png)  
-- [2022-09-20-想折腾-nas-顺便学学-rust](https://www.v2ex.com/t/881447) ![](assets/new.png)  
-- [2022-09-20-联通-59-元-200g-通用流量，-200-分钟通话套餐来了](https://www.v2ex.com/t/881446) ![](assets/new.png)  
-- [2022-09-20-友情提示，从微信领取魔都消费券需要人脸，支付宝和云闪付不需要。](https://www.v2ex.com/t/881445) ![](assets/new.png)  
-- [2022-09-20-国庆准备旅游，想买份隔离险，有推荐的吗？](https://www.v2ex.com/t/881444) ![](assets/new.png)  
-- [2022-09-20-独立开发了一款基于-Git-分布式备份同步的日记-App，送码送码](https://www.v2ex.com/t/881442) ![](assets/new.png)  
-- [2022-09-20-go-的爬虫-colly-中-使用-queue-就不能对-collector-启用异步？](https://www.v2ex.com/t/881441) ![](assets/new.png)  
-- [2022-09-20-win10-任务栏不显示任何应用图标，连电量、声音、网络图标都不显示](https://www.v2ex.com/t/881440) ![](assets/new.png)  
-- [2022-09-20-Plex-又有-8-折优惠券了](https://www.v2ex.com/t/881439) ![](assets/new.png)  
-- [2022-09-20-PC-版微信小程序已经强制采用-WMPF-了吗？](https://www.v2ex.com/t/881438) ![](assets/new.png)  
-- [2022-09-20-开发文档离线浏览工具-iDocSet-8.0.5-上线，已支持最新-Xcode-14-内置的苹果开发文档了](https://www.v2ex.com/t/881437) ![](assets/new.png)  
-- [2022-09-20-有在香港的小伙伴吗最好是做业务的，想咨询点事](https://www.v2ex.com/t/881435) ![](assets/new.png)  
-- [2022-09-19-上海-不加班-可一半时间居家办公-外企-招-中高级-Java-，中高级测试，高级安卓，中级-devOps](https://www.v2ex.com/t/881434) ![](assets/new.png)  
-- [2022-09-19-官网订的-128G-14-pro-如何以最快的速度换成-256G](https://www.v2ex.com/t/881433) ![](assets/new.png)  
-- [2022-09-19-aws-中国峰会-欢迎报名](https://www.v2ex.com/t/881432) ![](assets/new.png)  
-- [2022-09-19-有没有好用的给-APP-上锁的工具？](https://www.v2ex.com/t/881431) ![](assets/new.png)  
-- [2022-09-19-感觉-iOS16-通知列表滑动阻尼很大](https://www.v2ex.com/t/881430) ![](assets/new.png)  
-- [2022-09-19-非开发岗位，面试官最后问一句，你们开发用的是什么语言，我是。好像是英语。](https://www.v2ex.com/t/881429) ![](assets/new.png)  
-- [2022-09-19-有没有-iPhone-的拍照教程](https://www.v2ex.com/t/881428) ![](assets/new.png)  
-- [2022-09-19-Edge-阅读-PDF-困境](https://www.v2ex.com/t/881427) ![](assets/new.png)  
+- [2022-09-20-哪里能找到宇宙星际战舰相关的词库呢？](https://www.v2ex.com/t/881521) ![](assets/new.png)  
+- [2022-09-20-crates.io-快像-npm-那样太多重复轮子了](https://www.v2ex.com/t/881520) ![](assets/new.png)  
+- [2022-09-20-看到个新颖的名片，但不知道第一页是用什么技术实现的，待大神解答。](https://www.v2ex.com/t/881519) ![](assets/new.png)  
+- [2022-09-20-除了转运还有其他办法能寄海淘的商品吗？](https://www.v2ex.com/t/881518) ![](assets/new.png)  
+- [2022-09-20-微软文档改域名了](https://www.v2ex.com/t/881517) ![](assets/new.png)  
+- [2022-09-20-spotify-菲律宾支持银联了？](https://www.v2ex.com/t/881516) ![](assets/new.png)  
+- [2022-09-20-外区购买的-iCloud，大佬们是如何每月自动续费的？](https://www.v2ex.com/t/881515) ![](assets/new.png)  
+- [2022-09-20-新手想玩相机有推荐吗？](https://www.v2ex.com/t/881514) ![](assets/new.png)  
+- [2022-09-20-请问对于运营工作来说，是应该专注于一个方向还是全面发展？](https://www.v2ex.com/t/881513) ![](assets/new.png)  
+- [2022-09-20-虾皮大规模裁员？](https://www.v2ex.com/t/881512) ![](assets/new.png)  
+- [2022-09-20-windows-的-RDP-远程桌面每次重新连接都会重置远程音频音量为-100%，最怕以为是静音然后社死了，怎么整？](https://www.v2ex.com/t/881511) ![](assets/new.png)  
+- [2022-09-20-苹果打死不肯把读取剪贴板做成可控制的权限到底是图啥？](https://www.v2ex.com/t/881510) ![](assets/new.png)  
+- [2022-09-20-加密钱包怎么知道我一个以太坊账户地址有多个以太坊相关的币种呢](https://www.v2ex.com/t/881507) ![](assets/new.png)  
+- [2022-09-20-老铁们，征集一个公司名称。](https://www.v2ex.com/t/881505) ![](assets/new.png)  
+- [2022-09-20-Google-软件工程之工具篇（版本控制、分支管理、代码搜索、构建系统、静态化分析、依赖管理与-CI/CD）](https://www.v2ex.com/t/881504) ![](assets/new.png)  
+- [2022-09-20-iOS-日元订阅-GitHub-Pro-比美元便宜-6-元/月](https://www.v2ex.com/t/881502) ![](assets/new.png)  
+- [2022-09-20-iPhone-信号和充电](https://www.v2ex.com/t/881500) ![](assets/new.png)  
+- [2022-09-20-关于-MYSQL8-时间类型字段的一些疑问](https://www.v2ex.com/t/881499) ![](assets/new.png)  
+- [2022-09-20-腾讯-LemonCleaner-在-Ventura-13-beta-存在严重-bug，请勿使用](https://www.v2ex.com/t/881497) ![](assets/new.png)  
+- [2022-09-20-升级-IOS16-后，-Carplay-连接没有之前丝滑，不知道大家有没有这个情况](https://www.v2ex.com/t/881496) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -522,6 +522,7 @@
 </summary>
 
 
+- [2022-09-20-技术改变了什么？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15400&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fpower-of-technology%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-09-20-失败驱动开发-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15399&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffailure-driven-development%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-09-20-图技术在美团外卖下的场景化应用及探索-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15398&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F09%2F08%2Fgnn-scenariomodeling-subgraphextend-jointtraining.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-09-20-TLS指纹分析研究（上）-blog.nsfocus.net](https://blogread.cn/news/go.php?idItem=15397&url=http%3A%2F%2Fblog.nsfocus.net%2Ftls1-0%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
@@ -541,7 +542,6 @@
 - [2022-09-20-整洁架构之CSS-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15383&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fclean-architecture-css%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-09-20-深度链接（Deeplinking）是什么？-www.zhihu.com](https://blogread.cn/news/go.php?idItem=15382&url=https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F51509486%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-09-20-Android-DeepLink介绍与使用-cloud.tencent.com](https://blogread.cn/news/go.php?idItem=15381&url=https%3A%2F%2Fcloud.tencent.com%2Fdeveloper%2Farticle%2F1368263%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-09-20-一文读懂深度链接deep-linking-mktbee.com](https://blogread.cn/news/go.php?idItem=15380&url=https%3A%2F%2Fmktbee.com%2F318.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -560,14 +560,19 @@
 - [2022-09-20-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) ![](assets/new.png)  
 - [2022-09-20-清华大学教授：唐杰——深度分析：人工智能的下个十年](https://toutiao.io/k/8ueqx0a) ![](assets/new.png)  
 - [2022-09-20-面试官：单核-CPU-支持-Java-多线程吗-？我又懵逼了-！！！](https://toutiao.io/k/9lqqf2o) ![](assets/new.png)  
-- [2022-09-20-提速还能不掉点！深度解析-MegEngine-4-bits-量化开源实现](https://toutiao.io/k/rp8a45f) ![](assets/new.png)  
 - [2022-09-20-理解了状态管理，就理解了前端开发的核心​](https://toutiao.io/k/hbyx7cs) ![](assets/new.png)  
+- [2022-09-20-提速还能不掉点！深度解析-MegEngine-4-bits-量化开源实现](https://toutiao.io/k/rp8a45f) ![](assets/new.png)  
+- [2022-09-20-你的项目管理是“谋而后动”还是“追赶时间”？](https://toutiao.io/k/ba0kbgw) ![](assets/new.png)  
+- [2022-09-20-独立开发变现周刊（第72期）：在Reddit上验证想法，建立年收入18万美元的自动化求职平台](https://toutiao.io/k/5op79jh) ![](assets/new.png)  
+- [2022-09-20-性能优化——图片压缩、加载和格式选择](https://toutiao.io/k/ygm2spi) ![](assets/new.png)  
+- [2022-09-20-如何防御对抗攻击](https://toutiao.io/k/tgmx95p) ![](assets/new.png)  
 - [2022-09-20-谈一谈-build-scripts-架构设计](https://toutiao.io/k/4wvn0gy) ![](assets/new.png)  
-- [2022-09-20-推荐-Redis高可用方案](https://toutiao.io/k/3hh68yl) ![](assets/new.png)  
+- [2022-09-20-索引如何定位一条数据？](https://toutiao.io/k/ctyv8g0) ![](assets/new.png)  
+- [2022-09-20-推荐-微服务网关鉴权：gateway使用、网关限流使用、用户密码加密、JWT鉴权](https://toutiao.io/k/rdhhq5d) ![](assets/new.png)  
 - [2022-09-20-推荐-1.8w-字的-SQL-优化大全](https://toutiao.io/k/tz7p6nl) ![](assets/new.png)  
+- [2022-09-20-推荐-Redis高可用方案](https://toutiao.io/k/3hh68yl) ![](assets/new.png)  
 - [2022-09-20-推荐-近期-yyds-的-GitHub-项目](https://toutiao.io/k/i1qkq4o) ![](assets/new.png)  
 - [2022-09-20-推荐-常见分布式系统设计图解](https://toutiao.io/k/osewvaz) ![](assets/new.png)  
-- [2022-09-20-推荐-微服务网关鉴权：gateway使用、网关限流使用、用户密码加密、JWT鉴权](https://toutiao.io/k/rdhhq5d) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

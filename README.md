@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-21 01:20:21，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-21 04:09:51，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,26 +491,26 @@
 </summary>
 
 
-- [2022-09-21-工作中的项目，业务重写并开源合法吗？](https://www.v2ex.com/t/881749) ![](assets/new.png)  
-- [2022-09-21-npmmirror-中国镜像站-https-证书过期](https://www.v2ex.com/t/881748) ![](assets/new.png)  
-- [2022-09-21-求助，-iPad-Pro2021-用-B-站-app-耗电量太大了。](https://www.v2ex.com/t/881747) ![](assets/new.png)  
-- [2022-09-21-可以让-MacOS-的朗读功能支持多种语言，或选择语言吗？](https://www.v2ex.com/t/881746) ![](assets/new.png)  
-- [2022-09-21-10-个月修成正果，发布一个『完全自研』的网页笔记插件~希望能帮到你](https://www.v2ex.com/t/881745) ![](assets/new.png)  
-- [2022-09-21-mba-m2-合盖有异响，要退换么？](https://www.v2ex.com/t/881744) ![](assets/new.png)  
-- [2022-09-21-深圳的筒子们，华强北现在还可以维修手机吗？](https://www.v2ex.com/t/881743) ![](assets/new.png)  
-- [2022-09-21-大家分享一下公司或个人现在用的服务器是什么-Linux-发行版吧](https://www.v2ex.com/t/881742) ![](assets/new.png)  
-- [2022-09-21-Windows-上除了-Powershell-还有好用的-shell-吗？](https://www.v2ex.com/t/881741) ![](assets/new.png)  
-- [2022-09-21-老黄这次的-40-系显卡定价就离谱](https://www.v2ex.com/t/881739) ![](assets/new.png)  
-- [2022-09-21-java19-ga](https://www.v2ex.com/t/881738) ![](assets/new.png)  
-- [2022-09-21-Rust-+-Flutter-桌面开发实践](https://www.v2ex.com/t/881737) ![](assets/new.png)  
-- [2022-09-21-iOS-16.1-Beta-2-已修复频繁粘贴许可弹窗](https://www.v2ex.com/t/881736) ![](assets/new.png)  
-- [2022-09-21-一级注册建筑师求私活，小建筑或者室内装修均可，也可以免费咨询一些问题](https://www.v2ex.com/t/881735) ![](assets/new.png)  
-- [2022-09-21-有没有基于-http-的内网穿透技术?](https://www.v2ex.com/t/881734) ![](assets/new.png)  
-- [2022-09-21-4K-显示器，有没有比-U2723QX-更好的选择？](https://www.v2ex.com/t/881732) ![](assets/new.png)  
-- [2022-09-20-有人知道-k.gjacky.com-这个域名是什么东东吗？](https://www.v2ex.com/t/881731) ![](assets/new.png)  
-- [2022-09-20-如何成为一名优秀的资本家来赚更多的钱](https://www.v2ex.com/t/881730) ![](assets/new.png)  
-- [2022-09-20-日本-KDDI-万兆宽带-au-光-10G](https://www.v2ex.com/t/881729) ![](assets/new.png)  
-- [2022-09-20-打算托管个服务器跑-PVE,自己用来虚拟-VM-出来跑不同应用](https://www.v2ex.com/t/881728) ![](assets/new.png)  
+- [2022-09-21-求助，关于-V-站-API-使用。](https://www.v2ex.com/t/881839) ![](assets/new.png)  
+- [2022-09-21-联通冬梦卡-有坑吗？](https://www.v2ex.com/t/881838) ![](assets/new.png)  
+- [2022-09-21-iphone13-震动杂音](https://www.v2ex.com/t/881835) ![](assets/new.png)  
+- [2022-09-21-一个-vue-路由的问题](https://www.v2ex.com/t/881833) ![](assets/new.png)  
+- [2022-09-21-调查一下-你们对禁售槟榔怎么看-？-你们吃槟榔吗-？-你们对这玩意有怎样的看法](https://www.v2ex.com/t/881832) ![](assets/new.png)  
+- [2022-09-21-机场跑路，求个速度快，可以买-50G/月，价格不贵的机场](https://www.v2ex.com/t/881830) ![](assets/new.png)  
+- [2022-09-21-为什么有这么多编程语言存在](https://www.v2ex.com/t/881829) ![](assets/new.png)  
+- [2022-09-21-求解-ios-微信和照片的备份方案](https://www.v2ex.com/t/881828) ![](assets/new.png)  
+- [2022-09-21-没有人期待-iPhone-14-plus-吗？](https://www.v2ex.com/t/881827) ![](assets/new.png)  
+- [2022-09-21-怎么没有击杀蚊子有提示音的电蚊拍？](https://www.v2ex.com/t/881826) ![](assets/new.png)  
+- [2022-09-21-Blinkload-好像也不行了？](https://www.v2ex.com/t/881825) ![](assets/new.png)  
+- [2022-09-21-给大家推荐一款-iOS-真正可以在后台实时显示网速的-APP](https://www.v2ex.com/t/881823) ![](assets/new.png)  
+- [2022-09-21-英语中有“数词”这个词性吗？](https://www.v2ex.com/t/881822) ![](assets/new.png)  
+- [2022-09-21-GitBook-如何下载文档？](https://www.v2ex.com/t/881821) ![](assets/new.png)  
+- [2022-09-21-现在你们的生日都是怎么过的？](https://www.v2ex.com/t/881820) ![](assets/new.png)  
+- [2022-09-21-为什么国内不是强制双休](https://www.v2ex.com/t/881819) ![](assets/new.png)  
+- [2022-09-21-各环境业务配置数据同步问题方案征求](https://www.v2ex.com/t/881817) ![](assets/new.png)  
+- [2022-09-21-圈-x-的耗电真的只是系统统计问题吗？](https://www.v2ex.com/t/881816) ![](assets/new.png)  
+- [2022-09-21-成都&字节跳动-招聘高级前端开发工程师，-HC-多多，欢迎找我内推](https://www.v2ex.com/t/881815) ![](assets/new.png)  
+- [2022-09-21-前端必读：如何在-JavaScript-中使用-SpreadJS-导入和导出-Excel-文件](https://www.v2ex.com/t/881814) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -554,20 +554,24 @@
 
 
 - [2022-09-21-Redis碎片整理原理解析与实践](https://toutiao.io/k/wmkid6f) ![](assets/new.png)  
-- [2022-09-21-Python中关闭文件很重要](https://toutiao.io/k/8r3kcz7) ![](assets/new.png)  
 - [2022-09-21-从原则、方案、策略及难点阐述分库分表](https://toutiao.io/k/6u20gmf) ![](assets/new.png)  
-- [2022-09-21-万星开源项目强势回归「GitHub-热点速览-v.22.38」](https://toutiao.io/k/xj6pyxs) ![](assets/new.png)  
-- [2022-09-21-高并发下如何防重？](https://toutiao.io/k/qqouiqz) ![](assets/new.png)  
-- [2022-09-21-论文精读-|-Processor-Microarchitecture---Decode](https://toutiao.io/k/0tlc06k) ![](assets/new.png)  
+- [2022-09-21-Python中关闭文件很重要](https://toutiao.io/k/8r3kcz7) ![](assets/new.png)  
 - [2022-09-21-innodb-是如何存数据的？](https://toutiao.io/k/bxpv123) ![](assets/new.png)  
+- [2022-09-21-高并发下如何防重？](https://toutiao.io/k/qqouiqz) ![](assets/new.png)  
+- [2022-09-21-万星开源项目强势回归「GitHub-热点速览-v.22.38」](https://toutiao.io/k/xj6pyxs) ![](assets/new.png)  
+- [2022-09-21-论文精读-|-Processor-Microarchitecture---Decode](https://toutiao.io/k/0tlc06k) ![](assets/new.png)  
 - [2022-09-21-了解一下SAML2.0---Calvin的日常](https://toutiao.io/k/3vigxet) ![](assets/new.png)  
 - [2022-09-21-程序员用12小时复刻《羊了个羊》，代码已开源！](https://toutiao.io/k/3oo7cwt) ![](assets/new.png)  
+- [2022-09-21-理论与实践：如何写好一个方法](https://toutiao.io/k/quuil8b) ![](assets/new.png)  
 - [2022-09-21-FullGC没及时处理，差点造成P0事故](https://toutiao.io/k/u0hq67j) ![](assets/new.png)  
 - [2022-09-21-精读《State-of-CSS-2022》](https://toutiao.io/k/w4p3et9) ![](assets/new.png)  
-- [2022-09-21-推荐-常见分布式系统设计图解](https://toutiao.io/k/osewvaz) ![](assets/new.png)  
+- [2022-09-21-【译】BPF-迭代器：是个什么东东？](https://toutiao.io/k/p6g0t7j) ![](assets/new.png)  
+- [2022-09-21-Rust,-Builder-Pattern,-Trait-Objects,-Box<T>-and-Rc<T>](https://toutiao.io/k/1xwi29g) ![](assets/new.png)  
+- [2022-09-21-Istio源码解析3-Istio中配置与服务下发](https://toutiao.io/k/zzs0mbf) ![](assets/new.png)  
 - [2022-09-21-推荐-Redis高可用方案](https://toutiao.io/k/3hh68yl) ![](assets/new.png)  
 - [2022-09-21-推荐-1.8w-字的-SQL-优化大全](https://toutiao.io/k/tz7p6nl) ![](assets/new.png)  
 - [2022-09-21-推荐-微服务网关鉴权：gateway使用、网关限流使用、用户密码加密、JWT鉴权](https://toutiao.io/k/rdhhq5d) ![](assets/new.png)  
+- [2022-09-21-推荐-常见分布式系统设计图解](https://toutiao.io/k/osewvaz) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

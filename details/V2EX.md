@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2022-09-21 17:08:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-21 17:54:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-09-21-ZFS-文件系统下总是会出现-Permanent-errors](https://www.v2ex.com/t/882003) 
+- [2022-09-21-想请教一下关于校园网的问题](https://www.v2ex.com/t/882002) 
 - [2022-09-21-iPhone14-Pro-线上各种抢不到,-附近的官方授权店居然有货](https://www.v2ex.com/t/882001) 
 - [2022-09-21-出租-蛇口/栖游家园/一室户/4400](https://www.v2ex.com/t/882000) 
 - [2022-09-21-升级-IOS16-后-Firefox-总是丢失登录状态，这是-FF-的问题还是-IOS-问题？](https://www.v2ex.com/t/881999) 
@@ -44,4 +46,3 @@
 - [2022-09-21-MacBook-Pro-14-寸-10-月会更新吗](https://www.v2ex.com/t/881958) 
 - [2022-09-21-求助-OPENSSL_ALGO_SHA256-算法具体是什么啊](https://www.v2ex.com/t/881956) 
 - [2022-09-21-“无论免费收费，'未来'都不限速”](https://www.v2ex.com/t/881955) 
-- [2022-09-21-5000-元左右实体店购买电视求推荐。](https://www.v2ex.com/t/881953) 

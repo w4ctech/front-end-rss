@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-21 17:08:30，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-21 17:54:23，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-09-21-ZFS-文件系统下总是会出现-Permanent-errors](https://www.v2ex.com/t/882003) ![](assets/new.png)  
+- [2022-09-21-想请教一下关于校园网的问题](https://www.v2ex.com/t/882002) ![](assets/new.png)  
 - [2022-09-21-iPhone14-Pro-线上各种抢不到,-附近的官方授权店居然有货](https://www.v2ex.com/t/882001) ![](assets/new.png)  
 - [2022-09-21-出租-蛇口/栖游家园/一室户/4400](https://www.v2ex.com/t/882000) ![](assets/new.png)  
 - [2022-09-21-升级-IOS16-后-Firefox-总是丢失登录状态，这是-FF-的问题还是-IOS-问题？](https://www.v2ex.com/t/881999) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-09-21-正版游戏体验是真鸡巴差](https://www.v2ex.com/t/881982) ![](assets/new.png)  
 - [2022-09-21-可用流量卡推荐](https://www.v2ex.com/t/881981) ![](assets/new.png)  
 - [2022-09-21-我有左右-2-台显示器，为什么截图浮窗在左边一台显示器？（我把右边的显示器设置成了主显示器）](https://www.v2ex.com/t/881980) ![](assets/new.png)  
-- [2022-09-21-字节财经支付团队真诚招聘资深研发工程师](https://www.v2ex.com/t/881979) ![](assets/new.png)  
-- [2022-09-21-请教一下熟悉-TS/Node-的兄弟们，怎样调试-nestjs-的源码](https://www.v2ex.com/t/881978) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -571,8 +571,8 @@
 - [2022-09-21-Rust,-Builder-Pattern,-Trait-Objects,-Box<T>-and-Rc<T>](https://toutiao.io/k/1xwi29g) ![](assets/new.png)  
 - [2022-09-21-行业方案｜“机场”行业智能运维解决方案介绍](https://toutiao.io/k/pavqltc) ![](assets/new.png)  
 - [2022-09-21-博士的学术职业路径到底有多难走？](https://toutiao.io/k/g1t7tza) ![](assets/new.png)  
+- [2022-09-21-推荐-1.8w-字的-SQL-优化大全](https://toutiao.io/k/tz7p6nl) ![](assets/new.png)  
 - [2022-09-21-推荐-Redis高可用方案](https://toutiao.io/k/3hh68yl) ![](assets/new.png)  
-- [2022-09-21-推荐-常见分布式系统设计图解](https://toutiao.io/k/osewvaz) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-21 09:47:49。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-09-21 10:17:01。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,13 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [【V2EX】2022-09-21-输入法问题](https://www.v2ex.com/t/881948) 
+- [【V2EX】2022-09-21-问一下大家要想成为架构师需要掌握什么技能？](https://www.v2ex.com/t/881946) 
+- [【V2EX】2022-09-21-clash-突然访问-edge-Visited-Links](https://www.v2ex.com/t/881945) 
+- [【V2EX】2022-09-21-用了-4-个月-M1Pro,强光下发现屏幕，盒盖键盘以下的区域，出现了屏幕磨损，感觉是涂层磨损](https://www.v2ex.com/t/881944) 
+- [【V2EX】2022-09-21-请问怎么能够远程打开自己的-macbook-的摄像头？网上找了一些远程控制软件好像都不太行啊](https://www.v2ex.com/t/881943) 
+- [【V2EX】2022-09-21-北京电信故意劣化到北京联通和移动的上行速度](https://www.v2ex.com/t/881942) 
+- [【V2EX】2022-09-21-普本计算机专业该何去何从](https://www.v2ex.com/t/881940) 
 - [【V2EX】2022-09-21-分享一下-14Pro-官网抢购线下提货+使用体验](https://www.v2ex.com/t/881939) 
 - [【V2EX】2022-09-21-国区-google-play-开发者如何回款结汇](https://www.v2ex.com/t/881938) 
 - [【V2EX】2022-09-21-动视上海在等你](https://www.v2ex.com/t/881937) 
@@ -105,14 +112,6 @@
 - [【V2EX】2022-09-21-旧文赏析：刚毕业就月薪过万，是什么体验？](https://www.v2ex.com/t/881901) 
 - [【V2EX】2022-09-21-发现一个很有意思的页面，用谷歌搜索"谷歌垃圾",第一个结果就是百度垃圾的页面，里面有展示了百度的七宗罪](https://www.v2ex.com/t/881900) 
 - [【V2EX】2022-09-21-求助，虚拟桌面无权限如何使用-VSCode](https://www.v2ex.com/t/881899) 
-- [【V2EX】2022-09-21-上海买房地段选择的问题](https://www.v2ex.com/t/881898) 
-- [【V2EX】2022-09-21-帮同事问问，裁员的流程](https://www.v2ex.com/t/881897) 
-- [【V2EX】2022-09-21-iPad-Chrome-浏览器页面底部空白](https://www.v2ex.com/t/881896) 
-- [【V2EX】2022-09-21-能不能在-Linux-中分配一个内存空间，然后把-mysql.sock-和-PHP--fpm.sock-放在里面，达到提升速度的效果？](https://www.v2ex.com/t/881895) 
-- [【V2EX】2022-09-21-宝塔面板为何要修改-/root-目录的-owner？](https://www.v2ex.com/t/881894) 
-- [【V2EX】2022-09-21-Python-"list-index-out-of-range"](https://www.v2ex.com/t/881893) 
-- [【V2EX】2022-09-21-求助：如何去除-Word-隐藏换行-“水印”-？](https://www.v2ex.com/t/881892) 
-- [【V2EX】2022-09-21-iPhone-14Pro-无线充电功率是不是增加了？](https://www.v2ex.com/t/881891) 
 - [【技术头条】2022-09-21-技术改变了什么？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15400&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fpower-of-technology%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-21-失败驱动开发-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15399&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffailure-driven-development%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-21-图技术在美团外卖下的场景化应用及探索-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15398&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F09%2F08%2Fgnn-scenariomodeling-subgraphextend-jointtraining.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -136,8 +135,8 @@
 - [【开发者头条】2022-09-21-Redis碎片整理原理解析与实践](https://toutiao.io/k/wmkid6f) 
 - [【开发者头条】2022-09-21-从原则、方案、策略及难点阐述分库分表](https://toutiao.io/k/6u20gmf) 
 - [【开发者头条】2022-09-21-Python中关闭文件很重要](https://toutiao.io/k/8r3kcz7) 
-- [【开发者头条】2022-09-21-高并发下如何防重？](https://toutiao.io/k/qqouiqz) 
 - [【开发者头条】2022-09-21-innodb-是如何存数据的？](https://toutiao.io/k/bxpv123) 
+- [【开发者头条】2022-09-21-高并发下如何防重？](https://toutiao.io/k/qqouiqz) 
 - [【开发者头条】2022-09-21-理论与实践：如何写好一个方法](https://toutiao.io/k/quuil8b) 
 - [【开发者头条】2022-09-21-万星开源项目强势回归「GitHub-热点速览-v.22.38」](https://toutiao.io/k/xj6pyxs) 
 - [【开发者头条】2022-09-21-程序员用12小时复刻《羊了个羊》，代码已开源！](https://toutiao.io/k/3oo7cwt) 
@@ -151,10 +150,10 @@
 - [【开发者头条】2022-09-21-行业方案｜“机场”行业智能运维解决方案介绍](https://toutiao.io/k/pavqltc) 
 - [【开发者头条】2022-09-21-消息中间件该如何实现高可用架构？](https://toutiao.io/k/196zx1i) 
 - [【开发者头条】2022-09-21-博士的学术职业路径到底有多难走？](https://toutiao.io/k/g1t7tza) 
-- [【开发者头条】2022-09-21-推荐-1.8w-字的-SQL-优化大全](https://toutiao.io/k/tz7p6nl) 
-- [【开发者头条】2022-09-21-推荐-微服务网关鉴权：gateway使用、网关限流使用、用户密码加密、JWT鉴权](https://toutiao.io/k/rdhhq5d) 
 - [【开发者头条】2022-09-21-推荐-Redis高可用方案](https://toutiao.io/k/3hh68yl) 
+- [【开发者头条】2022-09-21-推荐-1.8w-字的-SQL-优化大全](https://toutiao.io/k/tz7p6nl) 
 - [【开发者头条】2022-09-21-推荐-常见分布式系统设计图解](https://toutiao.io/k/osewvaz) 
+- [【开发者头条】2022-09-21-推荐-微服务网关鉴权：gateway使用、网关限流使用、用户密码加密、JWT鉴权](https://toutiao.io/k/rdhhq5d) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

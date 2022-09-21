@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-21 15:16:42，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-21 15:47:53，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-09-21-发发牢骚](https://www.v2ex.com/t/881997) ![](assets/new.png)  
+- [2022-09-21-用-Node-实现了一下-JustAuth](https://www.v2ex.com/t/881996) ![](assets/new.png)  
+- [2022-09-21-是不是我的问题?-还是-Windows-11-似乎带严重-bug-就-RTM-了?](https://www.v2ex.com/t/881995) ![](assets/new.png)  
+- [2022-09-21-看了苹果秋季发布会-Apple-Watch-S8-值不值得入手](https://www.v2ex.com/t/881994) ![](assets/new.png)  
 - [2022-09-21-dnsmasq-ipset-ip-段的问题](https://www.v2ex.com/t/881992) ![](assets/new.png)  
 - [2022-09-21-我最近定制了个配色主题，感觉眼睛没那么瞎了](https://www.v2ex.com/t/881991) ![](assets/new.png)  
 - [2022-09-21-iPhone-14plus-会很大吗？](https://www.v2ex.com/t/881989) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-09-21-蜜罐系统在网络安全里面有什么作用？](https://www.v2ex.com/t/881975) ![](assets/new.png)  
 - [2022-09-21-解决海信-LTF7263-喵棒插入光纤后“死机”现象一例](https://www.v2ex.com/t/881974) ![](assets/new.png)  
 - [2022-09-21-Python-安卓逆向工具库](https://www.v2ex.com/t/881972) ![](assets/new.png)  
-- [2022-09-21-内推-北京/深圳/成都「字节跳动---智能创作」招高级前端开发含校招](https://www.v2ex.com/t/881971) ![](assets/new.png)  
-- [2022-09-21-中国真的有-14-亿人口吗](https://www.v2ex.com/t/881970) ![](assets/new.png)  
-- [2022-09-21-三大运营商可以提速降费的-XX-摄像头看家服务是与公安雪亮工程联网的](https://www.v2ex.com/t/881968) ![](assets/new.png)  
-- [2022-09-21-求职-求建议-求大佬指导意见，-3-年工作经验，坐标长沙](https://www.v2ex.com/t/881967) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -561,9 +561,9 @@
 - [2022-09-21-理论与实践：如何写好一个方法](https://toutiao.io/k/quuil8b) ![](assets/new.png)  
 - [2022-09-21-程序员用12小时复刻《羊了个羊》，代码已开源！](https://toutiao.io/k/3oo7cwt) ![](assets/new.png)  
 - [2022-09-21-万星开源项目强势回归「GitHub-热点速览-v.22.38」](https://toutiao.io/k/xj6pyxs) ![](assets/new.png)  
+- [2022-09-21-FullGC没及时处理，差点造成P0事故](https://toutiao.io/k/u0hq67j) ![](assets/new.png)  
 - [2022-09-21-论文精读-|-Processor-Microarchitecture---Decode](https://toutiao.io/k/0tlc06k) ![](assets/new.png)  
 - [2022-09-21-了解一下SAML2.0---Calvin的日常](https://toutiao.io/k/3vigxet) ![](assets/new.png)  
-- [2022-09-21-FullGC没及时处理，差点造成P0事故](https://toutiao.io/k/u0hq67j) ![](assets/new.png)  
 - [2022-09-21-【译】BPF-迭代器：是个什么东东？](https://toutiao.io/k/p6g0t7j) ![](assets/new.png)  
 - [2022-09-21-精读《State-of-CSS-2022》](https://toutiao.io/k/w4p3et9) ![](assets/new.png)  
 - [2022-09-21-消息中间件该如何实现高可用架构？](https://toutiao.io/k/196zx1i) ![](assets/new.png)  
@@ -572,7 +572,7 @@
 - [2022-09-21-行业方案｜“机场”行业智能运维解决方案介绍](https://toutiao.io/k/pavqltc) ![](assets/new.png)  
 - [2022-09-21-博士的学术职业路径到底有多难走？](https://toutiao.io/k/g1t7tza) ![](assets/new.png)  
 - [2022-09-21-推荐-Redis高可用方案](https://toutiao.io/k/3hh68yl) ![](assets/new.png)  
-- [2022-09-21-推荐-常见分布式系统设计图解](https://toutiao.io/k/osewvaz) ![](assets/new.png)  
+- [2022-09-21-推荐-微服务网关鉴权：gateway使用、网关限流使用、用户密码加密、JWT鉴权](https://toutiao.io/k/rdhhq5d) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

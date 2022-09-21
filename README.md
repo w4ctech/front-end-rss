@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-21 09:19:10，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-21 09:47:48，:rocket: 更新条数: +2031， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,15 @@
 </summary>
 
 
+- [2022-09-21-分享一下-14Pro-官网抢购线下提货+使用体验](https://www.v2ex.com/t/881939) ![](assets/new.png)  
+- [2022-09-21-国区-google-play-开发者如何回款结汇](https://www.v2ex.com/t/881938) ![](assets/new.png)  
+- [2022-09-21-动视上海在等你](https://www.v2ex.com/t/881937) ![](assets/new.png)  
+- [2022-09-21-一个远程备份的思路请批评建议](https://www.v2ex.com/t/881936) ![](assets/new.png)  
+- [2022-09-21-左连接表查询用到了索引，为何还是走全表扫描？](https://www.v2ex.com/t/881935) ![](assets/new.png)  
+- [2022-09-21-大家有搭建自己的个人知识仓库（笔记仓库）吗？使用的是市场上的云笔记软件还是个人搭建的？](https://www.v2ex.com/t/881934) ![](assets/new.png)  
+- [2022-09-21-用-scoop-卸载软件出错-能直接点-uninstall.exe-卸载吗？有什么不好的影响吗？](https://www.v2ex.com/t/881933) ![](assets/new.png)  
+- [2022-09-21-低代码对接腾讯云-阿里云短信平台](https://www.v2ex.com/t/881932) ![](assets/new.png)  
+- [2022-09-21-2022-年,还有老哥在西安买房吗](https://www.v2ex.com/t/881931) ![](assets/new.png)  
 - [2022-09-21-JDK19-发布了，终于迎来了虚拟线程](https://www.v2ex.com/t/881930) ![](assets/new.png)  
 - [2022-09-21-如何防止-Node.js-频繁修车](https://www.v2ex.com/t/881929) ![](assets/new.png)  
 - [2022-09-21-有没有单扫地+自动集尘的扫地机器人推荐吗](https://www.v2ex.com/t/881927) ![](assets/new.png)  
@@ -502,15 +511,6 @@
 - [2022-09-21-先锋车机上的-android7.1.2-user-版本如何获取-root](https://www.v2ex.com/t/881920) ![](assets/new.png)  
 - [2022-09-21-邮件群发，邮件服务器批量搭建](https://www.v2ex.com/t/881919) ![](assets/new.png)  
 - [2022-09-21-Python-随机生成句子](https://www.v2ex.com/t/881917) ![](assets/new.png)  
-- [2022-09-21-苹果已经完成了对二手/二级市场的控制](https://www.v2ex.com/t/881916) ![](assets/new.png)  
-- [2022-09-21-怎么优惠加油](https://www.v2ex.com/t/881915) ![](assets/new.png)  
-- [2022-09-21-请教一个关于-sqlc-的问题,-当我修改-query-之后造成-go-结构体字段的变化.-如何自定义?](https://www.v2ex.com/t/881913) ![](assets/new.png)  
-- [2022-09-21-公司好像要跟风裁员了](https://www.v2ex.com/t/881912) ![](assets/new.png)  
-- [2022-09-21-paygo-的美区手机卡能补办吗。中国可以收到吗。](https://www.v2ex.com/t/881910) ![](assets/new.png)  
-- [2022-09-21-Tampermonkey/油猴-V2EX-主题回复增强](https://www.v2ex.com/t/881909) ![](assets/new.png)  
-- [2022-09-21-想买阿里云服务器，有便宜的路子吗？](https://www.v2ex.com/t/881907) ![](assets/new.png)  
-- [2022-09-21-求助：最近在做视频，-然后用上了-compressor，结果发现根本不能用](https://www.v2ex.com/t/881906) ![](assets/new.png)  
-- [2022-09-21-上海蔚来汽车-大量信息安全岗位-2022Q4](https://www.v2ex.com/t/881905) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -556,13 +556,13 @@
 - [2022-09-21-Redis碎片整理原理解析与实践](https://toutiao.io/k/wmkid6f) ![](assets/new.png)  
 - [2022-09-21-从原则、方案、策略及难点阐述分库分表](https://toutiao.io/k/6u20gmf) ![](assets/new.png)  
 - [2022-09-21-Python中关闭文件很重要](https://toutiao.io/k/8r3kcz7) ![](assets/new.png)  
-- [2022-09-21-innodb-是如何存数据的？](https://toutiao.io/k/bxpv123) ![](assets/new.png)  
 - [2022-09-21-高并发下如何防重？](https://toutiao.io/k/qqouiqz) ![](assets/new.png)  
+- [2022-09-21-innodb-是如何存数据的？](https://toutiao.io/k/bxpv123) ![](assets/new.png)  
 - [2022-09-21-理论与实践：如何写好一个方法](https://toutiao.io/k/quuil8b) ![](assets/new.png)  
 - [2022-09-21-万星开源项目强势回归「GitHub-热点速览-v.22.38」](https://toutiao.io/k/xj6pyxs) ![](assets/new.png)  
+- [2022-09-21-程序员用12小时复刻《羊了个羊》，代码已开源！](https://toutiao.io/k/3oo7cwt) ![](assets/new.png)  
 - [2022-09-21-论文精读-|-Processor-Microarchitecture---Decode](https://toutiao.io/k/0tlc06k) ![](assets/new.png)  
 - [2022-09-21-了解一下SAML2.0---Calvin的日常](https://toutiao.io/k/3vigxet) ![](assets/new.png)  
-- [2022-09-21-程序员用12小时复刻《羊了个羊》，代码已开源！](https://toutiao.io/k/3oo7cwt) ![](assets/new.png)  
 - [2022-09-21-【译】BPF-迭代器：是个什么东东？](https://toutiao.io/k/p6g0t7j) ![](assets/new.png)  
 - [2022-09-21-FullGC没及时处理，差点造成P0事故](https://toutiao.io/k/u0hq67j) ![](assets/new.png)  
 - [2022-09-21-精读《State-of-CSS-2022》](https://toutiao.io/k/w4p3et9) ![](assets/new.png)  
@@ -571,8 +571,8 @@
 - [2022-09-21-行业方案｜“机场”行业智能运维解决方案介绍](https://toutiao.io/k/pavqltc) ![](assets/new.png)  
 - [2022-09-21-消息中间件该如何实现高可用架构？](https://toutiao.io/k/196zx1i) ![](assets/new.png)  
 - [2022-09-21-博士的学术职业路径到底有多难走？](https://toutiao.io/k/g1t7tza) ![](assets/new.png)  
+- [2022-09-21-推荐-1.8w-字的-SQL-优化大全](https://toutiao.io/k/tz7p6nl) ![](assets/new.png)  
 - [2022-09-21-推荐-微服务网关鉴权：gateway使用、网关限流使用、用户密码加密、JWT鉴权](https://toutiao.io/k/rdhhq5d) ![](assets/new.png)  
-- [2022-09-21-推荐-Redis高可用方案](https://toutiao.io/k/3hh68yl) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

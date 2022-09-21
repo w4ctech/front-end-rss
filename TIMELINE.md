@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-21 23:04:18。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-09-21 23:16:39。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -71,6 +71,9 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [【V2EX】2022-09-21-jdbc-是个啥原理啊](https://www.v2ex.com/t/882015) 
+- [【V2EX】2022-09-21-IOS-的热点是不是有毒](https://www.v2ex.com/t/882014) 
+- [【V2EX】2022-09-21-小孩练字，练书法是否属于智商税？](https://www.v2ex.com/t/882013) 
 - [【V2EX】2022-09-21-写作最佳实践](https://www.v2ex.com/t/882010) 
 - [【V2EX】2022-09-21-VS-2022-Preview2.1-竟然更新了-Blazor-的空模板](https://www.v2ex.com/t/882008) 
 - [【V2EX】2022-09-21-ios-的-Google-应用是不是强制-ipv6](https://www.v2ex.com/t/882007) 
@@ -108,9 +111,6 @@
 - [【V2EX】2022-09-21-三大运营商可以提速降费的-XX-摄像头看家服务是与公安雪亮工程联网的](https://www.v2ex.com/t/881968) 
 - [【V2EX】2022-09-21-求职-求建议-求大佬指导意见，-3-年工作经验，坐标长沙](https://www.v2ex.com/t/881967) 
 - [【V2EX】2022-09-21-下周末-F1-新加坡大奖赛，中国电信天翼超高清开始-4K-直播](https://www.v2ex.com/t/881966) 
-- [【V2EX】2022-09-21-求问这个硬盘声音正常吗？](https://www.v2ex.com/t/881965) 
-- [【V2EX】2022-09-21-《幻想即现实》读书笔记](https://www.v2ex.com/t/881964) 
-- [【V2EX】2022-09-21-有用-macOS-13-beta7+小伙伴遇到过这个问题吗](https://www.v2ex.com/t/881963) 
 - [【技术头条】2022-09-21-技术改变了什么？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15400&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fpower-of-technology%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-21-失败驱动开发-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15399&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffailure-driven-development%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-21-图技术在美团外卖下的场景化应用及探索-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15398&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F09%2F08%2Fgnn-scenariomodeling-subgraphextend-jointtraining.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -149,10 +149,10 @@
 - [【开发者头条】2022-09-21-Rust,-Builder-Pattern,-Trait-Objects,-Box<T>-and-Rc<T>](https://toutiao.io/k/1xwi29g) 
 - [【开发者头条】2022-09-21-行业方案｜“机场”行业智能运维解决方案介绍](https://toutiao.io/k/pavqltc) 
 - [【开发者头条】2022-09-21-博士的学术职业路径到底有多难走？](https://toutiao.io/k/g1t7tza) 
-- [【开发者头条】2022-09-21-推荐-1.8w-字的-SQL-优化大全](https://toutiao.io/k/tz7p6nl) 
-- [【开发者头条】2022-09-21-推荐-微服务网关鉴权：gateway使用、网关限流使用、用户密码加密、JWT鉴权](https://toutiao.io/k/rdhhq5d) 
 - [【开发者头条】2022-09-21-推荐-Redis高可用方案](https://toutiao.io/k/3hh68yl) 
+- [【开发者头条】2022-09-21-推荐-1.8w-字的-SQL-优化大全](https://toutiao.io/k/tz7p6nl) 
 - [【开发者头条】2022-09-21-推荐-常见分布式系统设计图解](https://toutiao.io/k/osewvaz) 
+- [【开发者头条】2022-09-21-推荐-微服务网关鉴权：gateway使用、网关限流使用、用户密码加密、JWT鉴权](https://toutiao.io/k/rdhhq5d) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

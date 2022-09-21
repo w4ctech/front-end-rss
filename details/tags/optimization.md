@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-20 23:47:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-21 01:20:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -7,5 +7,4 @@
 
 
 
-- [2022-09-20-性能优化——图片压缩、加载和格式选择](https://toutiao.io/k/ygm2spi) 
-- [2022-09-20-推荐-1.8w-字的-SQL-优化大全](https://toutiao.io/k/tz7p6nl) 
+- [2022-09-21-推荐-1.8w-字的-SQL-优化大全](https://toutiao.io/k/tz7p6nl) 

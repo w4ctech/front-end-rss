@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-21 21:15:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-21 21:43:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1944,7 +1944,6 @@
 - [2022-09-21-求问这个硬盘声音正常吗？](https://www.v2ex.com/t/881965) 
 - [2022-09-21-《幻想即现实》读书笔记](https://www.v2ex.com/t/881964) 
 - [2022-09-21-有用-macOS-13-beta7+小伙伴遇到过这个问题吗](https://www.v2ex.com/t/881963) 
-- [2022-09-21-文档类的站点，如何一次性打印全部页面？](https://www.v2ex.com/t/881961) 
 - [2022-09-21-技术改变了什么？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15400&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fpower-of-technology%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-21-失败驱动开发-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15399&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffailure-driven-development%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-21-图技术在美团外卖下的场景化应用及探索-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15398&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F09%2F08%2Fgnn-scenariomodeling-subgraphextend-jointtraining.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-21 07:47:30，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-21 08:24:20，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,13 @@
 </summary>
 
 
+- [2022-09-21-苹果已经完成了对二手/二级市场的控制](https://www.v2ex.com/t/881916) ![](assets/new.png)  
+- [2022-09-21-怎么优惠加油](https://www.v2ex.com/t/881915) ![](assets/new.png)  
+- [2022-09-21-请教一个关于-sqlc-的问题,-当我修改-query-之后造成-go-结构体字段的变化.-如何自定义?](https://www.v2ex.com/t/881913) ![](assets/new.png)  
+- [2022-09-21-公司好像要跟风裁员了](https://www.v2ex.com/t/881912) ![](assets/new.png)  
+- [2022-09-21-paygo-的美区手机卡能补办吗。中国可以收到吗。](https://www.v2ex.com/t/881910) ![](assets/new.png)  
+- [2022-09-21-Tampermonkey/油猴-V2EX-主题回复增强](https://www.v2ex.com/t/881909) ![](assets/new.png)  
+- [2022-09-21-想买阿里云服务器，有便宜的路子吗？](https://www.v2ex.com/t/881907) ![](assets/new.png)  
 - [2022-09-21-求助：最近在做视频，-然后用上了-compressor，结果发现根本不能用](https://www.v2ex.com/t/881906) ![](assets/new.png)  
 - [2022-09-21-上海蔚来汽车-大量信息安全岗位-2022Q4](https://www.v2ex.com/t/881905) ![](assets/new.png)  
 - [2022-09-21-请教一下大家，现在还炒币的话用什么交易所呀](https://www.v2ex.com/t/881904) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-09-21-iPad-Chrome-浏览器页面底部空白](https://www.v2ex.com/t/881896) ![](assets/new.png)  
 - [2022-09-21-能不能在-Linux-中分配一个内存空间，然后把-mysql.sock-和-PHP--fpm.sock-放在里面，达到提升速度的效果？](https://www.v2ex.com/t/881895) ![](assets/new.png)  
 - [2022-09-21-宝塔面板为何要修改-/root-目录的-owner？](https://www.v2ex.com/t/881894) ![](assets/new.png)  
-- [2022-09-21-Python-"list-index-out-of-range"](https://www.v2ex.com/t/881893) ![](assets/new.png)  
-- [2022-09-21-求助：如何去除-Word-隐藏换行-“水印”-？](https://www.v2ex.com/t/881892) ![](assets/new.png)  
-- [2022-09-21-iPhone-14Pro-无线充电功率是不是增加了？](https://www.v2ex.com/t/881891) ![](assets/new.png)  
-- [2022-09-21-一个技术创业者的自白：三条关于-“选择”-的建议](https://www.v2ex.com/t/881888) ![](assets/new.png)  
-- [2022-09-21-有收到-offer-吗？](https://www.v2ex.com/t/881887) ![](assets/new.png)  
-- [2022-09-21-50-人小型公司网络如何建设需要采购啥设备](https://www.v2ex.com/t/881885) ![](assets/new.png)  
-- [2022-09-21-Mac-同时接电源&拓展坞与电源接拓展坞再接-Mac-区别](https://www.v2ex.com/t/881883) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -558,8 +558,8 @@
 - [2022-09-21-Python中关闭文件很重要](https://toutiao.io/k/8r3kcz7) ![](assets/new.png)  
 - [2022-09-21-innodb-是如何存数据的？](https://toutiao.io/k/bxpv123) ![](assets/new.png)  
 - [2022-09-21-高并发下如何防重？](https://toutiao.io/k/qqouiqz) ![](assets/new.png)  
-- [2022-09-21-万星开源项目强势回归「GitHub-热点速览-v.22.38」](https://toutiao.io/k/xj6pyxs) ![](assets/new.png)  
 - [2022-09-21-理论与实践：如何写好一个方法](https://toutiao.io/k/quuil8b) ![](assets/new.png)  
+- [2022-09-21-万星开源项目强势回归「GitHub-热点速览-v.22.38」](https://toutiao.io/k/xj6pyxs) ![](assets/new.png)  
 - [2022-09-21-论文精读-|-Processor-Microarchitecture---Decode](https://toutiao.io/k/0tlc06k) ![](assets/new.png)  
 - [2022-09-21-了解一下SAML2.0---Calvin的日常](https://toutiao.io/k/3vigxet) ![](assets/new.png)  
 - [2022-09-21-程序员用12小时复刻《羊了个羊》，代码已开源！](https://toutiao.io/k/3oo7cwt) ![](assets/new.png)  
@@ -572,7 +572,7 @@
 - [2022-09-21-消息中间件该如何实现高可用架构？](https://toutiao.io/k/196zx1i) ![](assets/new.png)  
 - [2022-09-21-博士的学术职业路径到底有多难走？](https://toutiao.io/k/g1t7tza) ![](assets/new.png)  
 - [2022-09-21-推荐-1.8w-字的-SQL-优化大全](https://toutiao.io/k/tz7p6nl) ![](assets/new.png)  
-- [2022-09-21-推荐-微服务网关鉴权：gateway使用、网关限流使用、用户密码加密、JWT鉴权](https://toutiao.io/k/rdhhq5d) ![](assets/new.png)  
+- [2022-09-21-推荐-常见分布式系统设计图解](https://toutiao.io/k/osewvaz) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

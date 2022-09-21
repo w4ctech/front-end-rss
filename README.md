@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-21 11:41:16，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-21 12:31:17，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,17 @@
 </summary>
 
 
+- [2022-09-21-三大运营商可以提速降费的-XX-摄像头看家服务是与公安雪亮工程联网的](https://www.v2ex.com/t/881968) ![](assets/new.png)  
+- [2022-09-21-求职-求建议-求大佬指导意见，-3-年工作经验，坐标长沙](https://www.v2ex.com/t/881967) ![](assets/new.png)  
+- [2022-09-21-下周末-F1-新加坡大奖赛，中国电信天翼超高清开始-4K-直播](https://www.v2ex.com/t/881966) ![](assets/new.png)  
+- [2022-09-21-求问这个硬盘声音正常吗？](https://www.v2ex.com/t/881965) ![](assets/new.png)  
+- [2022-09-21-《幻想即现实》读书笔记](https://www.v2ex.com/t/881964) ![](assets/new.png)  
+- [2022-09-21-有用-macOS-13-beta7+小伙伴遇到过这个问题吗](https://www.v2ex.com/t/881963) ![](assets/new.png)  
+- [2022-09-21-telethon-有什么方法可以给一个事件添加两个监听吗](https://www.v2ex.com/t/881962) ![](assets/new.png)  
+- [2022-09-21-文档类的站点，如何一次性打印全部页面？](https://www.v2ex.com/t/881961) ![](assets/new.png)  
+- [2022-09-21-获取-Windows-下文件唯一标识符](https://www.v2ex.com/t/881960) ![](assets/new.png)  
+- [2022-09-21-想问下，梦幻西游端游的框架是不是开源了？](https://www.v2ex.com/t/881959) ![](assets/new.png)  
+- [2022-09-21-MacBook-Pro-14-寸-10-月会更新吗](https://www.v2ex.com/t/881958) ![](assets/new.png)  
 - [2022-09-21-求助-OPENSSL_ALGO_SHA256-算法具体是什么啊](https://www.v2ex.com/t/881956) ![](assets/new.png)  
 - [2022-09-21-“无论免费收费，'未来'都不限速”](https://www.v2ex.com/t/881955) ![](assets/new.png)  
 - [2022-09-21-5000-元左右实体店购买电视求推荐。](https://www.v2ex.com/t/881953) ![](assets/new.png)  
@@ -500,17 +511,6 @@
 - [2022-09-21-输入法问题](https://www.v2ex.com/t/881948) ![](assets/new.png)  
 - [2022-09-21-问一下大家要想成为架构师需要掌握什么技能？](https://www.v2ex.com/t/881946) ![](assets/new.png)  
 - [2022-09-21-clash-突然访问-edge-Visited-Links](https://www.v2ex.com/t/881945) ![](assets/new.png)  
-- [2022-09-21-用了-4-个月-M1Pro,强光下发现屏幕，盒盖键盘以下的区域，出现了屏幕磨损，感觉是涂层磨损](https://www.v2ex.com/t/881944) ![](assets/new.png)  
-- [2022-09-21-请问怎么能够远程打开自己的-macbook-的摄像头？网上找了一些远程控制软件好像都不太行啊](https://www.v2ex.com/t/881943) ![](assets/new.png)  
-- [2022-09-21-北京电信故意劣化到北京联通和移动的上行速度](https://www.v2ex.com/t/881942) ![](assets/new.png)  
-- [2022-09-21-普本计算机专业该何去何从](https://www.v2ex.com/t/881940) ![](assets/new.png)  
-- [2022-09-21-分享一下-14Pro-官网抢购线下提货+使用体验](https://www.v2ex.com/t/881939) ![](assets/new.png)  
-- [2022-09-21-国区-google-play-开发者如何回款结汇](https://www.v2ex.com/t/881938) ![](assets/new.png)  
-- [2022-09-21-动视上海在等你](https://www.v2ex.com/t/881937) ![](assets/new.png)  
-- [2022-09-21-一个远程备份的思路请批评建议](https://www.v2ex.com/t/881936) ![](assets/new.png)  
-- [2022-09-21-左连接表查询用到了索引，为何还是走全表扫描？](https://www.v2ex.com/t/881935) ![](assets/new.png)  
-- [2022-09-21-大家有搭建自己的个人知识仓库（笔记仓库）吗？使用的是市场上的云笔记软件还是个人搭建的？](https://www.v2ex.com/t/881934) ![](assets/new.png)  
-- [2022-09-21-用-scoop-卸载软件出错-能直接点-uninstall.exe-卸载吗？有什么不好的影响吗？](https://www.v2ex.com/t/881933) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -566,13 +566,13 @@
 - [2022-09-21-【译】BPF-迭代器：是个什么东东？](https://toutiao.io/k/p6g0t7j) ![](assets/new.png)  
 - [2022-09-21-FullGC没及时处理，差点造成P0事故](https://toutiao.io/k/u0hq67j) ![](assets/new.png)  
 - [2022-09-21-精读《State-of-CSS-2022》](https://toutiao.io/k/w4p3et9) ![](assets/new.png)  
-- [2022-09-21-Rust,-Builder-Pattern,-Trait-Objects,-Box<T>-and-Rc<T>](https://toutiao.io/k/1xwi29g) ![](assets/new.png)  
 - [2022-09-21-Istio源码解析3-Istio中配置与服务下发](https://toutiao.io/k/zzs0mbf) ![](assets/new.png)  
+- [2022-09-21-Rust,-Builder-Pattern,-Trait-Objects,-Box<T>-and-Rc<T>](https://toutiao.io/k/1xwi29g) ![](assets/new.png)  
 - [2022-09-21-行业方案｜“机场”行业智能运维解决方案介绍](https://toutiao.io/k/pavqltc) ![](assets/new.png)  
 - [2022-09-21-消息中间件该如何实现高可用架构？](https://toutiao.io/k/196zx1i) ![](assets/new.png)  
 - [2022-09-21-博士的学术职业路径到底有多难走？](https://toutiao.io/k/g1t7tza) ![](assets/new.png)  
-- [2022-09-21-推荐-1.8w-字的-SQL-优化大全](https://toutiao.io/k/tz7p6nl) ![](assets/new.png)  
 - [2022-09-21-推荐-Redis高可用方案](https://toutiao.io/k/3hh68yl) ![](assets/new.png)  
+- [2022-09-21-推荐-微服务网关鉴权：gateway使用、网关限流使用、用户密码加密、JWT鉴权](https://toutiao.io/k/rdhhq5d) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

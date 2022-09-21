@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-09-21 11:41:16。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-21 12:31:17。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -177,6 +177,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】港府回应一63岁患者死亡事件-暂无法确定与疫苗相关](https://m.caixin.com/m/2021-03-03/101670052.html)
 - [【张鑫旭-鑫空间-鑫生活】JS-replaceAll-和-matchAll-使用指南不指北](https://www.zhangxinxu.com/wordpress/2022/08/js-replaceall-matchall/)
 - [【张鑫旭-鑫空间-鑫生活】如何继承自定义元素及其他JS中扩展新方法](https://www.zhangxinxu.com/wordpress/2022/06/js-extend-class-custom-elements/)
+- [【V2EX】telethon-有什么方法可以给一个事件添加两个监听吗](https://www.v2ex.com/t/881962)
 - [......【查看更多】......](./details/tags/javascript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -233,6 +234,8 @@
 
 - [【武汉肺炎防疫全纪录(财新网)】广州17岁男生在定点医院参加高考-特殊考场视频监考](https://m.caixin.com/m/2021-06-05/101723418.html)
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
+- [【V2EX】三大运营商可以提速降费的-XX-摄像头看家服务是与公安雪亮工程联网的](https://www.v2ex.com/t/881968)
+- [【V2EX】下周末-F1-新加坡大奖赛，中国电信天翼超高清开始-4K-直播](https://www.v2ex.com/t/881966)
 - [【V2EX】请问怎么能够远程打开自己的-macbook-的摄像头？网上找了一些远程控制软件好像都不太行啊](https://www.v2ex.com/t/881943)
 - [......【查看更多】......](./details/tags/audio-video.md)
 

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-09-21 06:51:30。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-21 07:47:30。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -234,6 +234,7 @@
 
 - [【武汉肺炎防疫全纪录(财新网)】广州17岁男生在定点医院参加高考-特殊考场视频监考](https://m.caixin.com/m/2021-06-05/101723418.html)
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
+- [【V2EX】求助：最近在做视频，-然后用上了-compressor，结果发现根本不能用](https://www.v2ex.com/t/881906)
 - [【V2EX】想尝试-iOS-应用开发，三百多块钱的无指纹无摄像头不可插卡-iPhone8/SE2+虚拟机是否可行](https://www.v2ex.com/t/881857)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
@@ -275,7 +276,8 @@
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
 - [【张鑫旭-鑫空间-鑫生活】基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/)
-- [【V2EX】firefox-如何在标签上显示小喇叭](https://www.v2ex.com/t/881840)
+- [【V2EX】上海蔚来汽车-大量信息安全岗位-2022Q4](https://www.v2ex.com/t/881905)
+- [【V2EX】iPad-Chrome-浏览器页面底部空白](https://www.v2ex.com/t/881896)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -309,7 +311,6 @@
 
 
 
-- [【V2EX】K8S-中-nginx-海量域名对应同一程序的不同分支如何更优雅的解决](https://www.v2ex.com/t/881849)
 - [【技术头条】GraphQL及元数据驱动架构在后端BFF中的实践-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15395&url=https%3A%2F%2Ftech.meituan.com%2F2021%2F05%2F06%2Fbff-graphql.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/server.md)
 

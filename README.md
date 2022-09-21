@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-21 08:55:57，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-21 09:19:10，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-09-21-JDK19-发布了，终于迎来了虚拟线程](https://www.v2ex.com/t/881930) ![](assets/new.png)  
 - [2022-09-21-如何防止-Node.js-频繁修车](https://www.v2ex.com/t/881929) ![](assets/new.png)  
 - [2022-09-21-有没有单扫地+自动集尘的扫地机器人推荐吗](https://www.v2ex.com/t/881927) ![](assets/new.png)  
 - [2022-09-21-列出你用过的手机？](https://www.v2ex.com/t/881926) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-09-21-想买阿里云服务器，有便宜的路子吗？](https://www.v2ex.com/t/881907) ![](assets/new.png)  
 - [2022-09-21-求助：最近在做视频，-然后用上了-compressor，结果发现根本不能用](https://www.v2ex.com/t/881906) ![](assets/new.png)  
 - [2022-09-21-上海蔚来汽车-大量信息安全岗位-2022Q4](https://www.v2ex.com/t/881905) ![](assets/new.png)  
-- [2022-09-21-请教一下大家，现在还炒币的话用什么交易所呀](https://www.v2ex.com/t/881904) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -571,7 +571,7 @@
 - [2022-09-21-行业方案｜“机场”行业智能运维解决方案介绍](https://toutiao.io/k/pavqltc) ![](assets/new.png)  
 - [2022-09-21-消息中间件该如何实现高可用架构？](https://toutiao.io/k/196zx1i) ![](assets/new.png)  
 - [2022-09-21-博士的学术职业路径到底有多难走？](https://toutiao.io/k/g1t7tza) ![](assets/new.png)  
-- [2022-09-21-推荐-常见分布式系统设计图解](https://toutiao.io/k/osewvaz) ![](assets/new.png)  
+- [2022-09-21-推荐-微服务网关鉴权：gateway使用、网关限流使用、用户密码加密、JWT鉴权](https://toutiao.io/k/rdhhq5d) ![](assets/new.png)  
 - [2022-09-21-推荐-Redis高可用方案](https://toutiao.io/k/3hh68yl) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

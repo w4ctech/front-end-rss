@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-21 08:55:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-21 09:19:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1913,6 +1913,7 @@
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-09-21-JDK19-发布了，终于迎来了虚拟线程](https://www.v2ex.com/t/881930) 
 - [2022-09-21-有没有单扫地+自动集尘的扫地机器人推荐吗](https://www.v2ex.com/t/881927) 
 - [2022-09-21-列出你用过的手机？](https://www.v2ex.com/t/881926) 
 - [2022-09-21-iPhone-13-要不要升级到-iOS-15.7-养老](https://www.v2ex.com/t/881925) 
@@ -1947,7 +1948,6 @@
 - [2022-09-21-Mac-同时接电源&拓展坞与电源接拓展坞再接-Mac-区别](https://www.v2ex.com/t/881883) 
 - [2022-09-21-iOS-16.1-Beta-2-已经修复复制黏贴弹窗问题](https://www.v2ex.com/t/881882) 
 - [2022-09-21-一号线富锦路地铁口公寓转租](https://www.v2ex.com/t/881881) 
-- [2022-09-21-vscode-打开-csv-文件，怎么设置分隔符](https://www.v2ex.com/t/881880) 
 - [2022-09-21-技术改变了什么？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15400&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fpower-of-technology%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-21-失败驱动开发-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15399&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffailure-driven-development%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-21-图技术在美团外卖下的场景化应用及探索-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15398&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F09%2F08%2Fgnn-scenariomodeling-subgraphextend-jointtraining.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1981,6 +1981,6 @@
 - [2022-09-21-行业方案｜“机场”行业智能运维解决方案介绍](https://toutiao.io/k/pavqltc) 
 - [2022-09-21-消息中间件该如何实现高可用架构？](https://toutiao.io/k/196zx1i) 
 - [2022-09-21-博士的学术职业路径到底有多难走？](https://toutiao.io/k/g1t7tza) 
-- [2022-09-21-推荐-常见分布式系统设计图解](https://toutiao.io/k/osewvaz) 
-- [2022-09-21-推荐-Redis高可用方案](https://toutiao.io/k/3hh68yl) 
 - [2022-09-21-推荐-微服务网关鉴权：gateway使用、网关限流使用、用户密码加密、JWT鉴权](https://toutiao.io/k/rdhhq5d) 
+- [2022-09-21-推荐-Redis高可用方案](https://toutiao.io/k/3hh68yl) 
+- [2022-09-21-推荐-常见分布式系统设计图解](https://toutiao.io/k/osewvaz) 

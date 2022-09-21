@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-21 08:24:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-21 08:55:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -6,3 +6,5 @@
 > 关键字：`Node`、`Node.js`、`Express`、`Koa`、`egg.js`、`pandora.js`、`Electron`、`V8`
 
 
+
+- [2022-09-21-如何防止-Node.js-频繁修车](https://www.v2ex.com/t/881929) 

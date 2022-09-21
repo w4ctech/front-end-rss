@@ -9812,6 +9812,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "划词评论与Range开发若干经验分享",
+        "link": "https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/",
+        "date": "2022-09-21"
+      },
+      {
         "title": "巧用:is()或:where()伪类让scoped的style依然全局匹配",
         "link": "https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/",
         "date": "2022-09-20"
@@ -9855,11 +9860,6 @@
         "title": "如何继承自定义元素及其他JS中扩展新方法",
         "link": "https://www.zhangxinxu.com/wordpress/2022/06/js-extend-class-custom-elements/",
         "date": "2022-06-19"
-      },
-      {
-        "title": "基于文字的URL锚点定位与::target-text样式设置",
-        "link": "https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/",
-        "date": "2022-06-12"
       }
     ]
   },
@@ -9952,6 +9952,26 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "iPhone14 Pro 线上各种抢不到, 附近的官方授权店居然有货",
+        "link": "https://www.v2ex.com/t/882001",
+        "date": "2022-09-21"
+      },
+      {
+        "title": "[出租] 蛇口/栖游家园/一室户/4400",
+        "link": "https://www.v2ex.com/t/882000",
+        "date": "2022-09-21"
+      },
+      {
+        "title": "升级 IOS16 后 Firefox 总是丢失登录状态，这是 FF 的问题还是 IOS 问题？",
+        "link": "https://www.v2ex.com/t/881999",
+        "date": "2022-09-21"
+      },
+      {
+        "title": "转租--南山区愉康花园自如房子转租:2290",
+        "link": "https://www.v2ex.com/t/881998",
+        "date": "2022-09-21"
+      },
       {
         "title": "发发牢骚",
         "link": "https://www.v2ex.com/t/881997",
@@ -10130,26 +10150,6 @@
       {
         "title": "5000 元左右实体店购买电视求推荐。",
         "link": "https://www.v2ex.com/t/881953",
-        "date": "2022-09-21"
-      },
-      {
-        "title": "Linux sysstat 这个包中的 sar 这个命令的输出如何格式化从而减少屏幕空间的占用？",
-        "link": "https://www.v2ex.com/t/881951",
-        "date": "2022-09-21"
-      },
-      {
-        "title": "Python 循环其中一行代码异常如何继续执行后续代码？而不是跳过当前循环",
-        "link": "https://www.v2ex.com/t/881950",
-        "date": "2022-09-21"
-      },
-      {
-        "title": "张小龙真的死🐎, wx 支付什么了色系统",
-        "link": "https://www.v2ex.com/t/881949",
-        "date": "2022-09-21"
-      },
-      {
-        "title": "输入法问题",
-        "link": "https://www.v2ex.com/t/881948",
         "date": "2022-09-21"
       }
     ]

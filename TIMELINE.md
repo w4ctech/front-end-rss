@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-21 15:47:53。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-09-21 16:20:14。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,8 +68,13 @@
 </summary>
 
 
+- [【张鑫旭-鑫空间-鑫生活】2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [【V2EX】2022-09-21-iPhone14-Pro-线上各种抢不到,-附近的官方授权店居然有货](https://www.v2ex.com/t/882001) 
+- [【V2EX】2022-09-21-出租-蛇口/栖游家园/一室户/4400](https://www.v2ex.com/t/882000) 
+- [【V2EX】2022-09-21-升级-IOS16-后-Firefox-总是丢失登录状态，这是-FF-的问题还是-IOS-问题？](https://www.v2ex.com/t/881999) 
+- [【V2EX】2022-09-21-转租--南山区愉康花园自如房子转租:2290](https://www.v2ex.com/t/881998) 
 - [【V2EX】2022-09-21-发发牢骚](https://www.v2ex.com/t/881997) 
 - [【V2EX】2022-09-21-用-Node-实现了一下-JustAuth](https://www.v2ex.com/t/881996) 
 - [【V2EX】2022-09-21-是不是我的问题?-还是-Windows-11-似乎带严重-bug-就-RTM-了?](https://www.v2ex.com/t/881995) 
@@ -106,10 +111,6 @@
 - [【V2EX】2022-09-21-求助-OPENSSL_ALGO_SHA256-算法具体是什么啊](https://www.v2ex.com/t/881956) 
 - [【V2EX】2022-09-21-“无论免费收费，'未来'都不限速”](https://www.v2ex.com/t/881955) 
 - [【V2EX】2022-09-21-5000-元左右实体店购买电视求推荐。](https://www.v2ex.com/t/881953) 
-- [【V2EX】2022-09-21-Linux-sysstat-这个包中的-sar-这个命令的输出如何格式化从而减少屏幕空间的占用？](https://www.v2ex.com/t/881951) 
-- [【V2EX】2022-09-21-Python-循环其中一行代码异常如何继续执行后续代码？而不是跳过当前循环](https://www.v2ex.com/t/881950) 
-- [【V2EX】2022-09-21-张小龙真的死🐎,-wx-支付什么了色系统](https://www.v2ex.com/t/881949) 
-- [【V2EX】2022-09-21-输入法问题](https://www.v2ex.com/t/881948) 
 - [【技术头条】2022-09-21-技术改变了什么？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15400&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fpower-of-technology%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-21-失败驱动开发-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15399&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffailure-driven-development%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-21-图技术在美团外卖下的场景化应用及探索-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15398&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F09%2F08%2Fgnn-scenariomodeling-subgraphextend-jointtraining.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -189,7 +190,6 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-06-30-CSS排版为何强？瞧瞧多牛这换行](https://www.zhangxinxu.com/wordpress/2022/06/css-line-break-word-wrap-all/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-06-19-如何继承自定义元素及其他JS中扩展新方法](https://www.zhangxinxu.com/wordpress/2022/06/js-extend-class-custom-elements/) 
-- [【张鑫旭-鑫空间-鑫生活】2022-06-12-基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

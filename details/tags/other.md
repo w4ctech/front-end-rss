@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-21 15:47:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-21 16:20:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,8 +1911,12 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-09-21-iPhone14-Pro-线上各种抢不到,-附近的官方授权店居然有货](https://www.v2ex.com/t/882001) 
+- [2022-09-21-出租-蛇口/栖游家园/一室户/4400](https://www.v2ex.com/t/882000) 
+- [2022-09-21-转租--南山区愉康花园自如房子转租:2290](https://www.v2ex.com/t/881998) 
 - [2022-09-21-发发牢骚](https://www.v2ex.com/t/881997) 
 - [2022-09-21-是不是我的问题?-还是-Windows-11-似乎带严重-bug-就-RTM-了?](https://www.v2ex.com/t/881995) 
 - [2022-09-21-看了苹果秋季发布会-Apple-Watch-S8-值不值得入手](https://www.v2ex.com/t/881994) 
@@ -1939,10 +1943,6 @@
 - [2022-09-21-MacBook-Pro-14-寸-10-月会更新吗](https://www.v2ex.com/t/881958) 
 - [2022-09-21-“无论免费收费，'未来'都不限速”](https://www.v2ex.com/t/881955) 
 - [2022-09-21-5000-元左右实体店购买电视求推荐。](https://www.v2ex.com/t/881953) 
-- [2022-09-21-Linux-sysstat-这个包中的-sar-这个命令的输出如何格式化从而减少屏幕空间的占用？](https://www.v2ex.com/t/881951) 
-- [2022-09-21-Python-循环其中一行代码异常如何继续执行后续代码？而不是跳过当前循环](https://www.v2ex.com/t/881950) 
-- [2022-09-21-张小龙真的死🐎,-wx-支付什么了色系统](https://www.v2ex.com/t/881949) 
-- [2022-09-21-输入法问题](https://www.v2ex.com/t/881948) 
 - [2022-09-21-技术改变了什么？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15400&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fpower-of-technology%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-21-失败驱动开发-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15399&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffailure-driven-development%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-21-图技术在美团外卖下的场景化应用及探索-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15398&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F09%2F08%2Fgnn-scenariomodeling-subgraphextend-jointtraining.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

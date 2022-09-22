@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-22 17:05:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-22 17:52:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1939,7 +1939,6 @@
 - [2022-09-22-关于-Google-相册的资料迁移问题：从一个账户迁移到另一个账户](https://www.v2ex.com/t/882225) 
 - [2022-09-22-腾讯云-CDN-每个月免费-10G-流量改为每月手动领取了](https://www.v2ex.com/t/882224) 
 - [2022-09-22-copy-on-write-移植到-iOS/Android-有难点吗？](https://www.v2ex.com/t/882223) 
-- [2022-09-22-想用-lightsail-建博客](https://www.v2ex.com/t/882222) 
 - [2022-09-22-技术改变了什么？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15400&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fpower-of-technology%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-22-失败驱动开发-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15399&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffailure-driven-development%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-22-图技术在美团外卖下的场景化应用及探索-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15398&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F09%2F08%2Fgnn-scenariomodeling-subgraphextend-jointtraining.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

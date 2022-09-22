@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-22 05:26:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-22 06:33:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -16,5 +16,4 @@
 - [2022-08-21-JS-replaceAll-和-matchAll-使用指南不指北](https://www.zhangxinxu.com/wordpress/2022/08/js-replaceall-matchall/) 
 - [2022-06-19-如何继承自定义元素及其他JS中扩展新方法](https://www.zhangxinxu.com/wordpress/2022/06/js-extend-class-custom-elements/) 
 - [2022-09-22-最近在看-Nestjs-有个问题想请教大家](https://www.v2ex.com/t/882103) 
-- [2022-09-22-联通+CF-FRA-媲美移动+CF-HKG，最佳路由分析](https://www.v2ex.com/t/882091) 
-- [2022-09-22-容器中-run->-supervisor-->-cron--f--m-off-拿不到环境变量-怎么破](https://www.v2ex.com/t/882084) 
+- [2022-09-22-如何使用-WireGuard-组建非对称路由](https://toutiao.io/k/ij09jix) 

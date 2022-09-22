@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-22 15:48:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-22 16:21:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1939,7 +1939,6 @@
 - [2022-09-22-copy-on-write-移植到-iOS/Android-有难点吗？](https://www.v2ex.com/t/882223) 
 - [2022-09-22-想用-lightsail-建博客](https://www.v2ex.com/t/882222) 
 - [2022-09-22-asus-h610m-主板不能正常方式启动-uefi-shell-文件](https://www.v2ex.com/t/882220) 
-- [2022-09-22-坐标成都，有人来字节跳动看看机会吗](https://www.v2ex.com/t/882218) 
 - [2022-09-22-技术改变了什么？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15400&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fpower-of-technology%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-22-失败驱动开发-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15399&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffailure-driven-development%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-22-图技术在美团外卖下的场景化应用及探索-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15398&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F09%2F08%2Fgnn-scenariomodeling-subgraphextend-jointtraining.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1971,6 +1970,5 @@
 - [2022-09-22-看完这篇异地多活的改造，我决定和架构师battle一下](https://toutiao.io/k/1qc2crx) 
 - [2022-09-22-10-张图-|-一文带你用-Mac-M1-跑-RocketMQ](https://toutiao.io/k/aova8r2) 
 - [2022-09-22-他来了！袋鼠云大数据基础平台EasyMR正式上线](https://toutiao.io/k/ez0nj6g) 
-- [2022-09-22-推荐-Redis高可用方案](https://toutiao.io/k/3hh68yl) 
-- [2022-09-22-推荐-微服务网关鉴权：gateway使用、网关限流使用、用户密码加密、JWT鉴权](https://toutiao.io/k/rdhhq5d) 
 - [2022-09-22-推荐-常见分布式系统设计图解](https://toutiao.io/k/osewvaz) 
+- [2022-09-22-推荐-Redis高可用方案](https://toutiao.io/k/3hh68yl) 

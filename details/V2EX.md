@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-22 15:48:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-22 16:21:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -43,4 +43,3 @@
 - [2022-09-22-想用-lightsail-建博客](https://www.v2ex.com/t/882222) 
 - [2022-09-22-关于-AWS-构建-REST-API-的费用问题](https://www.v2ex.com/t/882221) 
 - [2022-09-22-asus-h610m-主板不能正常方式启动-uefi-shell-文件](https://www.v2ex.com/t/882220) 
-- [2022-09-22-坐标成都，有人来字节跳动看看机会吗](https://www.v2ex.com/t/882218) 

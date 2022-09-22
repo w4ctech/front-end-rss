@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-09-22 21:43:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-22 22:16:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-09-22-clash-tun-模式下自动插入的-ip-rule-的作用](https://www.v2ex.com/t/882277) 
 - [2022-09-22-Linux-如何提高-SAMBA-读写速度](https://www.v2ex.com/t/882275) 
 - [2022-09-22-wsl-的分发列表竟然是直接托管在-github-的，之前好像没碰到过，刚升级的-win11](https://www.v2ex.com/t/882274) 
 - [2022-09-22-微软对-win11-挺下功夫啊，打开方式的-UI-都改了](https://www.v2ex.com/t/882273) 
@@ -42,4 +43,3 @@
 - [2022-09-22-照片图库的原始文件丢失，太郁闷了，不止一次遇到了](https://www.v2ex.com/t/882231) 
 - [2022-09-22-成都-Krypital-Group-|-多岗位招聘-2022-Q3-Q4](https://www.v2ex.com/t/882230) 
 - [2022-09-22-求问用-n8n-可以做出替代-IFTTT-的-webhook_POST-效果吗](https://www.v2ex.com/t/882229) 
-- [2022-09-22-Raycast-真好用-!](https://www.v2ex.com/t/882227) 

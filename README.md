@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-22 07:56:56，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-22 08:20:51，:rocket: 更新条数: +2025， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-09-22-新的-JetBrains-远程开发会将项目下载下来吗](https://www.v2ex.com/t/882170) ![](assets/new.png)  
+- [2022-09-22-坐标上海黄浦市中心，美资科技类软件-WLB-外企，.net-/Js-全栈多个-HC（另有-GIS-开发），需要英语能说但不卡学历](https://www.v2ex.com/t/882169) ![](assets/new.png)  
+- [2022-09-22-《React-小书》的作者-胡子大哈-似乎从整个网路消失了,他的小书的官网也没有了,不知道大家有没有胡子大哈的近况,十分感谢他写的《React-小书》虽然这本小书的-Re...](https://www.v2ex.com/t/882168) ![](assets/new.png)  
+- [2022-09-22-用了-1-个月电脑微信，它电脑上创建了-1.5k-空文件夹，-5k-多重复文件，-2k-.dat-文件](https://www.v2ex.com/t/882167) ![](assets/new.png)  
+- [2022-09-22-英语学习如何突破？](https://www.v2ex.com/t/882166) ![](assets/new.png)  
 - [2022-09-22-作为-DevOps-工程师，你知道什么是-git-workflow？](https://www.v2ex.com/t/882165) ![](assets/new.png)  
 - [2022-09-22-三年经验的前端应该掌握哪些技术栈？](https://www.v2ex.com/t/882164) ![](assets/new.png)  
 - [2022-09-22-我想问一下大家，为什么都这么讨厌安卓？安卓的缺点有哪些](https://www.v2ex.com/t/882163) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-09-22-Win10/11-有办法在待机的情况下保持有线网络连接吗？](https://www.v2ex.com/t/882151) ![](assets/new.png)  
 - [2022-09-22-吐血了，-14P-被粘贴板-Bug-卡死了](https://www.v2ex.com/t/882150) ![](assets/new.png)  
 - [2022-09-22-WatchOS9-的闹钟是不是没有震动了？](https://www.v2ex.com/t/882149) ![](assets/new.png)  
-- [2022-09-22-watchOS-9-又办法降级吗](https://www.v2ex.com/t/882147) ![](assets/new.png)  
-- [2022-09-22-使用-AppleScript-模拟按键操作,第二次运行的时候，输入法切换不过来了](https://www.v2ex.com/t/882146) ![](assets/new.png)  
-- [2022-09-22-iOS-16-锁屏桌面配合-AOD-的一个细节问题](https://www.v2ex.com/t/882143) ![](assets/new.png)  
-- [2022-09-22-上海浦东美短寻求领养者](https://www.v2ex.com/t/882140) ![](assets/new.png)  
-- [2022-09-22-有那种在一个甚至多个工程项目中共用的名称管理器插件吗？](https://www.v2ex.com/t/882139) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,7 +572,7 @@
 - [2022-09-22-看完这篇异地多活的改造，我决定和架构师battle一下](https://toutiao.io/k/1qc2crx) ![](assets/new.png)  
 - [2022-09-22-他来了！袋鼠云大数据基础平台EasyMR正式上线](https://toutiao.io/k/ez0nj6g) ![](assets/new.png)  
 - [2022-09-22-如何使用-WireGuard-组建非对称路由](https://toutiao.io/k/ij09jix) ![](assets/new.png)  
-- [2022-09-22-推荐-1.8w-字的-SQL-优化大全](https://toutiao.io/k/tz7p6nl) ![](assets/new.png)  
+- [2022-09-22-推荐-Redis高可用方案](https://toutiao.io/k/3hh68yl) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

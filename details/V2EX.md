@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-09-22 19:14:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-22 19:40:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-09-22-wsl-的分发列表竟然是直接托管在-github-的，之前好像没碰到过，刚升级的-win11](https://www.v2ex.com/t/882274) 
 - [2022-09-22-微软对-win11-挺下功夫啊，打开方式的-UI-都改了](https://www.v2ex.com/t/882273) 
 - [2022-09-22-不依赖-docker-cli，只有一个/var/run/docker.sock，有办法用-Python-重启指定容器吗？](https://www.v2ex.com/t/882272) 
 - [2022-09-22-求职远程/到岗Solidity-开发-有-VC-投资的项目开发经验](https://www.v2ex.com/t/882271) 
@@ -43,4 +44,3 @@
 - [2022-09-22-Raycast-真好用-!](https://www.v2ex.com/t/882227) 
 - [2022-09-22-温哥华-内推-Binance.US（币安美国站）](https://www.v2ex.com/t/882226) 
 - [2022-09-22-关于-Google-相册的资料迁移问题：从一个账户迁移到另一个账户](https://www.v2ex.com/t/882225) 
-- [2022-09-22-腾讯云-CDN-每个月免费-10G-流量改为每月手动领取了](https://www.v2ex.com/t/882224) 

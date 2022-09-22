@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-22 11:14:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-22 11:41:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -15,5 +15,4 @@
 - [2021-01-01-大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html) 
 - [2022-09-22-iOS-16-跳转-Safari-浏览器有时候会空白页面](https://www.v2ex.com/t/882202) 
 - [2022-09-22-上海-现场实习+全职/现场全职-Asymmetries-Technologies-非对称科技-招聘-后端开发工程师](https://www.v2ex.com/t/882176) 
-- [2022-09-22-上海-现场实习+全职-Asymmetries-Technologies-非对称科技-招聘-量化研究员](https://www.v2ex.com/t/882171) 
 - [2022-09-22-常用红队安全攻防总结](https://toutiao.io/k/37sno0t) 

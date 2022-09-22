@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-09-22 13:26:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-22 14:07:27。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -236,6 +236,8 @@
 
 - [【武汉肺炎防疫全纪录(财新网)】广州17岁男生在定点医院参加高考-特殊考场视频监考](https://m.caixin.com/m/2021-06-05/101723418.html)
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
+- [【V2EX】有没有识别本地视频中的“人物”或“角色”的方案](https://www.v2ex.com/t/882243)
+- [【V2EX】YouTube-将向短视频制作者提供-45%广告分成](https://www.v2ex.com/t/882239)
 - [【V2EX】B-站-iOS-国际版推荐视频播放都变成竖屏模式了](https://www.v2ex.com/t/882233)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
@@ -253,6 +255,7 @@
 
 
 
+- [【V2EX】Stash-加载配置文件，显示“配置文件格式错误，请检查”](https://www.v2ex.com/t/882244)
 - [【开发者头条】如何监测-Linux-的磁盘-I/O-性能](https://toutiao.io/k/gh30o0i)
 - [【开发者头条】推荐-1.8w-字的-SQL-优化大全](https://toutiao.io/k/tz7p6nl)
 - [......【查看更多】......](./details/tags/optimization.md)
@@ -351,7 +354,6 @@
 
 - [【V2EX】成都-Krypital-Group-|-多岗位招聘-2022-Q3-Q4](https://www.v2ex.com/t/882230)
 - [【V2EX】就在智联智联招聘上投了三四次简历。各种外派外包猎头公司都来打电话了！](https://www.v2ex.com/t/882208)
-- [【V2EX】上海—坚果云-研发效能工具软件——安卓、IOS、客户端、前后端（国庆后面试的投递起来啦）](https://www.v2ex.com/t/882198)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

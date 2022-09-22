@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-09-22 09:49:19。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-22 10:16:56。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -279,6 +279,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】腺病毒新冠疫苗引安全忧虑-康希诺称未发现血栓病例](https://m.caixin.com/m/2021-04-14/101691086.html)
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
+- [【V2EX】iOS-16-跳转-Safari-浏览器有时候会空白页面](https://www.v2ex.com/t/882202)
 - [【V2EX】上海-现场实习+全职/现场全职-Asymmetries-Technologies-非对称科技-招聘-后端开发工程师](https://www.v2ex.com/t/882176)
 - [【V2EX】上海-现场实习+全职-Asymmetries-Technologies-非对称科技-招聘-量化研究员](https://www.v2ex.com/t/882171)
 - [【开发者头条】常用红队安全攻防总结](https://toutiao.io/k/37sno0t)
@@ -350,6 +351,7 @@
 
 
 
+- [【V2EX】就在智联智联招聘上投了三四次简历。各种外派外包猎头公司都来打电话了！](https://www.v2ex.com/t/882208)
 - [【V2EX】上海—坚果云-研发效能工具软件——安卓、IOS、客户端、前后端（国庆后面试的投递起来啦）](https://www.v2ex.com/t/882198)
 - [......【查看更多】......](./details/tags/job-interview.md)
 

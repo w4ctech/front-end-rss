@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-09-22 14:49:04。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-22 15:16:28。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -353,7 +353,6 @@
 
 
 - [【V2EX】成都-Krypital-Group-|-多岗位招聘-2022-Q3-Q4](https://www.v2ex.com/t/882230)
-- [【V2EX】就在智联智联招聘上投了三四次简历。各种外派外包猎头公司都来打电话了！](https://www.v2ex.com/t/882208)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

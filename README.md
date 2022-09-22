@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-22 14:49:04，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-22 15:16:28，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-09-22-听有朋友说-Windows-10-操作系统可以更改软件安装包安装软件的位置到非-C-盘？](https://www.v2ex.com/t/882258) ![](assets/new.png)  
+- [2022-09-22-现在一代-Airpods-Pro-能出多少钱呢](https://www.v2ex.com/t/882257) ![](assets/new.png)  
+- [2022-09-22-出一批闲置的折扣-VPS（绿云、alphavps-、CC-SC2）](https://www.v2ex.com/t/882256) ![](assets/new.png)  
 - [2022-09-22-请问-iOS-目前有哪些国内软件外区版本有更好的体验？](https://www.v2ex.com/t/882254) ![](assets/new.png)  
 - [2022-09-22-上海居转户有靠谱的公司代办吗？求推荐](https://www.v2ex.com/t/882253) ![](assets/new.png)  
 - [2022-09-22-买卖闲鱼币](https://www.v2ex.com/t/882251) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-09-22-滴滴出行-北京、杭州、上海、广州、深圳、成都内推-Java-/Android/iOS/前端/算法/前端/硬件/C/C++/嵌入式/Go/产品/运营等各类职位招聘，月-20k-80k，优秀另有...](https://www.v2ex.com/t/882237) ![](assets/new.png)  
 - [2022-09-22-企业微信这是生产环境和正式环境搞混了？](https://www.v2ex.com/t/882235) ![](assets/new.png)  
 - [2022-09-22-想请教一下怎么让-artplayer-获取-url-的链接然后播放？](https://www.v2ex.com/t/882234) ![](assets/new.png)  
-- [2022-09-22-B-站-iOS-国际版推荐视频播放都变成竖屏模式了](https://www.v2ex.com/t/882233) ![](assets/new.png)  
-- [2022-09-22-照片图库的原始文件丢失，太郁闷了，不止一次遇到了](https://www.v2ex.com/t/882231) ![](assets/new.png)  
-- [2022-09-22-成都-Krypital-Group-|-多岗位招聘-2022-Q3-Q4](https://www.v2ex.com/t/882230) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -561,8 +561,8 @@
 - [2022-09-22-可恶，又是个线上问题！](https://toutiao.io/k/9mxyq8f) ![](assets/new.png)  
 - [2022-09-22-StarRocks内部实时更新技术的实现方案](https://toutiao.io/k/7ys9z5j) ![](assets/new.png)  
 - [2022-09-22-数字化浪潮下传统房企在营销、物业和商业端的破局之道](https://toutiao.io/k/y5ybym1) ![](assets/new.png)  
-- [2022-09-22-如何被连续提拔脱颖而出？](https://toutiao.io/k/fbzojk1) ![](assets/new.png)  
 - [2022-09-22-C++最佳实践-|-7.-正确性和脚本](https://toutiao.io/k/su1w6u9) ![](assets/new.png)  
+- [2022-09-22-如何被连续提拔脱颖而出？](https://toutiao.io/k/fbzojk1) ![](assets/new.png)  
 - [2022-09-22-如何监测-Linux-的磁盘-I/O-性能](https://toutiao.io/k/gh30o0i) ![](assets/new.png)  
 - [2022-09-22-在-Python-中用连字符分割字符串](https://toutiao.io/k/zunvs50) ![](assets/new.png)  
 - [2022-09-22-技术改变了什么？](https://toutiao.io/k/dyeoabv) ![](assets/new.png)  
@@ -572,7 +572,7 @@
 - [2022-09-22-10-张图-|-一文带你用-Mac-M1-跑-RocketMQ](https://toutiao.io/k/aova8r2) ![](assets/new.png)  
 - [2022-09-22-他来了！袋鼠云大数据基础平台EasyMR正式上线](https://toutiao.io/k/ez0nj6g) ![](assets/new.png)  
 - [2022-09-22-如何使用-WireGuard-组建非对称路由](https://toutiao.io/k/ij09jix) ![](assets/new.png)  
-- [2022-09-22-推荐-1.8w-字的-SQL-优化大全](https://toutiao.io/k/tz7p6nl) ![](assets/new.png)  
+- [2022-09-22-推荐-常见分布式系统设计图解](https://toutiao.io/k/osewvaz) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

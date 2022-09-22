@@ -9953,6 +9953,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "微软对 win11 挺下功夫啊，打开方式的 UI 都改了",
+        "link": "https://www.v2ex.com/t/882273",
+        "date": "2022-09-22"
+      },
+      {
         "title": "不依赖 docker cli，只有一个/var/run/docker.sock，有办法用 Python 重启指定容器吗？",
         "link": "https://www.v2ex.com/t/882272",
         "date": "2022-09-22"
@@ -10140,11 +10145,6 @@
       {
         "title": "腾讯云 CDN 每个月免费 10G 流量改为每月手动领取了",
         "link": "https://www.v2ex.com/t/882224",
-        "date": "2022-09-22"
-      },
-      {
-        "title": "copy on write 移植到 iOS/Android 有难点吗？",
-        "link": "https://www.v2ex.com/t/882223",
         "date": "2022-09-22"
       }
     ]
@@ -10357,8 +10357,8 @@
         "date": "2022-09-22"
       },
       {
-        "title": "[推荐] Redis高可用方案",
-        "link": "https://toutiao.io/k/3hh68yl",
+        "title": "[推荐] 1.8w 字的 SQL 优化大全",
+        "link": "https://toutiao.io/k/tz7p6nl",
         "date": "2022-09-22"
       },
       {
@@ -10367,8 +10367,8 @@
         "date": "2022-09-22"
       },
       {
-        "title": "[推荐] 1.8w 字的 SQL 优化大全",
-        "link": "https://toutiao.io/k/tz7p6nl",
+        "title": "[推荐] Redis高可用方案",
+        "link": "https://toutiao.io/k/3hh68yl",
         "date": "2022-09-22"
       }
     ]

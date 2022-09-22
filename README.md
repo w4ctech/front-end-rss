@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-22 17:52:57，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-22 18:18:54，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-09-22-微软对-win11-挺下功夫啊，打开方式的-UI-都改了](https://www.v2ex.com/t/882273) ![](assets/new.png)  
 - [2022-09-22-不依赖-docker-cli，只有一个/var/run/docker.sock，有办法用-Python-重启指定容器吗？](https://www.v2ex.com/t/882272) ![](assets/new.png)  
 - [2022-09-22-求职远程/到岗Solidity-开发-有-VC-投资的项目开发经验](https://www.v2ex.com/t/882271) ![](assets/new.png)  
 - [2022-09-22-使用-vue-class-setup-编写-class-风格来的组合式-API，支持-Vue2-和-Vue3](https://www.v2ex.com/t/882270) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-09-22-腾讯视频会议卡顿问题](https://www.v2ex.com/t/882250) ![](assets/new.png)  
 - [2022-09-22-新手运行项目遇到问题](https://www.v2ex.com/t/882249) ![](assets/new.png)  
 - [2022-09-22-后端日志突然卡住-4-分钟，然后恢复正常，这种问题应该怎么排查？](https://www.v2ex.com/t/882248) ![](assets/new.png)  
-- [2022-09-22-6000-元，组台式机还是买笔记本？或者更多...](https://www.v2ex.com/t/882247) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,7 +572,7 @@
 - [2022-09-22-10-张图-|-一文带你用-Mac-M1-跑-RocketMQ](https://toutiao.io/k/aova8r2) ![](assets/new.png)  
 - [2022-09-22-他来了！袋鼠云大数据基础平台EasyMR正式上线](https://toutiao.io/k/ez0nj6g) ![](assets/new.png)  
 - [2022-09-22-如何使用-WireGuard-组建非对称路由](https://toutiao.io/k/ij09jix) ![](assets/new.png)  
-- [2022-09-22-推荐-Redis高可用方案](https://toutiao.io/k/3hh68yl) ![](assets/new.png)  
+- [2022-09-22-推荐-1.8w-字的-SQL-优化大全](https://toutiao.io/k/tz7p6nl) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

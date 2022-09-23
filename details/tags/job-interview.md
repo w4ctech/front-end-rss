@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-22 23:46:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-23 01:22:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -7,4 +7,4 @@
 
 
 
-- [2022-09-22-成都-Krypital-Group-|-多岗位招聘-2022-Q3-Q4](https://www.v2ex.com/t/882230) 
+- [2022-09-23-分享一下最近面试，成为字节-kpi-的经历](https://www.v2ex.com/t/882283) 

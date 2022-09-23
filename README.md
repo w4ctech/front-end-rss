@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-23 15:49:54，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-23 16:21:23，:rocket: 更新条数: +2031， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-09-23-简书:"长时间未活跃，为了保证平台内容安全，故我们重置了您的头像",好像没有逻辑?](https://www.v2ex.com/t/882540) ![](assets/new.png)  
 - [2022-09-23-把一个成员从-github-的组织里移除的时候，会自动通知这个成员么？](https://www.v2ex.com/t/882539) ![](assets/new.png)  
 - [2022-09-23-xdm-有没有完美的-Windows-投屏安卓电视的方案](https://www.v2ex.com/t/882538) ![](assets/new.png)  
 - [2022-09-23-广州电信游戏宽带路由调整](https://www.v2ex.com/t/882537) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-09-23-买了-Airpods-Pro2-的快试试耳塞套拔不拔得下来](https://www.v2ex.com/t/882522) ![](assets/new.png)  
 - [2022-09-23-mbp-电池容量降得非常快，怎么破？](https://www.v2ex.com/t/882519) ![](assets/new.png)  
 - [2022-09-23-抖音好友可见视频下载疑问](https://www.v2ex.com/t/882518) ![](assets/new.png)  
-- [2022-09-23-我想问一下这个帖子里面的爱奇艺和京东联合会员可以出掉京东吗](https://www.v2ex.com/t/882516) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -568,8 +568,8 @@
 - [2022-09-23-17个XML布局小技巧](https://toutiao.io/k/ttp6hba) ![](assets/new.png)  
 - [2022-09-23-通用目标检测开源框架YOLOv6在美团的量化部署实战](https://toutiao.io/k/45ziaym) ![](assets/new.png)  
 - [2022-09-23-开源云原生安全治理平台-HummerRisk](https://toutiao.io/k/c1oso3t) ![](assets/new.png)  
-- [2022-09-23-A100-买不到了，只有小显卡怎么训大模型](https://toutiao.io/k/rngpyxk) ![](assets/new.png)  
 - [2022-09-23-超干货！彻底搞懂Golang内存管理和垃圾回收](https://toutiao.io/k/n437s2f) ![](assets/new.png)  
+- [2022-09-23-A100-买不到了，只有小显卡怎么训大模型](https://toutiao.io/k/rngpyxk) ![](assets/new.png)  
 - [2022-09-23-中国信通院发布《全球开源生态研究报告（2022年）》](https://toutiao.io/k/w7pqxv4) ![](assets/new.png)  
 - [2022-09-23-你喜欢哪种项目经理？“保姆”还是“管理者”？](https://toutiao.io/k/c08yn46) ![](assets/new.png)  
 - [2022-09-23-规范升级-NPM-包](https://toutiao.io/k/cx9ggz6) ![](assets/new.png)  

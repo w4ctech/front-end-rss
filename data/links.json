@@ -9953,6 +9953,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "简书:\"长时间未活跃，为了保证平台内容安全，故我们重置了您的头像\",好像没有逻辑?",
+        "link": "https://www.v2ex.com/t/882540",
+        "date": "2022-09-23"
+      },
+      {
         "title": "把一个成员从 github 的组织里移除的时候，会自动通知这个成员么？",
         "link": "https://www.v2ex.com/t/882539",
         "date": "2022-09-23"
@@ -10140,11 +10145,6 @@
       {
         "title": "部署在服务器上，编辑服务器本地文件的 web 编辑器求推荐？",
         "link": "https://www.v2ex.com/t/882492",
-        "date": "2022-09-23"
-      },
-      {
-        "title": "如何阻止 Safari 的标签页长时间后自动停止播放视频或降低清晰度？",
-        "link": "https://www.v2ex.com/t/882490",
         "date": "2022-09-23"
       }
     ]
@@ -10337,13 +10337,13 @@
         "date": "2022-09-23"
       },
       {
-        "title": "A100 买不到了，只有小显卡怎么训大模型",
-        "link": "https://toutiao.io/k/rngpyxk",
+        "title": "超干货！彻底搞懂Golang内存管理和垃圾回收",
+        "link": "https://toutiao.io/k/n437s2f",
         "date": "2022-09-23"
       },
       {
-        "title": "超干货！彻底搞懂Golang内存管理和垃圾回收",
-        "link": "https://toutiao.io/k/n437s2f",
+        "title": "A100 买不到了，只有小显卡怎么训大模型",
+        "link": "https://toutiao.io/k/rngpyxk",
         "date": "2022-09-23"
       },
       {
@@ -10372,6 +10372,16 @@
         "date": "2022-09-23"
       },
       {
+        "title": "[推荐] 聊聊 8种 架构模式",
+        "link": "https://toutiao.io/k/luf0yh6",
+        "date": "2022-09-23"
+      },
+      {
+        "title": "[推荐] Netty、Kafka中的零拷贝技术到底有多牛?",
+        "link": "https://toutiao.io/k/ussdz4q",
+        "date": "2022-09-23"
+      },
+      {
         "title": "[推荐] 1.8w 字的 SQL 优化大全",
         "link": "https://toutiao.io/k/tz7p6nl",
         "date": "2022-09-23"
@@ -10379,11 +10389,6 @@
       {
         "title": "[推荐] 常见分布式系统设计图解",
         "link": "https://toutiao.io/k/osewvaz",
-        "date": "2022-09-23"
-      },
-      {
-        "title": "[推荐] Netty、Kafka中的零拷贝技术到底有多牛?",
-        "link": "https://toutiao.io/k/ussdz4q",
         "date": "2022-09-23"
       }
     ]

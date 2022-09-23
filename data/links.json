@@ -9953,6 +9953,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "有常见的谬论及反驳方法的网站(页)吗?",
+        "link": "https://www.v2ex.com/t/882482",
+        "date": "2022-09-23"
+      },
+      {
         "title": "shardingsphere 读写分离之主从配置",
         "link": "https://www.v2ex.com/t/882480",
         "date": "2022-09-23"
@@ -10150,11 +10155,6 @@
       {
         "title": "v 免签作者去哪里了，好久没消息了",
         "link": "https://www.v2ex.com/t/882434",
-        "date": "2022-09-23"
-      },
-      {
-        "title": "Apple Watch 更新后无法下载软件了",
-        "link": "https://www.v2ex.com/t/882432",
         "date": "2022-09-23"
       }
     ]
@@ -10382,6 +10382,11 @@
         "date": "2022-09-23"
       },
       {
+        "title": "[推荐] 1.8w 字的 SQL 优化大全",
+        "link": "https://toutiao.io/k/tz7p6nl",
+        "date": "2022-09-23"
+      },
+      {
         "title": "[推荐] 常见分布式系统设计图解",
         "link": "https://toutiao.io/k/osewvaz",
         "date": "2022-09-23"
@@ -10389,11 +10394,6 @@
       {
         "title": "[推荐] Netty、Kafka中的零拷贝技术到底有多牛?",
         "link": "https://toutiao.io/k/ussdz4q",
-        "date": "2022-09-23"
-      },
-      {
-        "title": "[推荐] 1.8w 字的 SQL 优化大全",
-        "link": "https://toutiao.io/k/tz7p6nl",
         "date": "2022-09-23"
       }
     ]

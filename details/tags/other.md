@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-23 09:47:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-23 10:16:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1914,6 +1914,10 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-09-23-有孩子的人来说说，你们都是怎么教会他/她加法不用扳手指头数的呀？](https://www.v2ex.com/t/882476) 
+- [2022-09-23-Shot-on-iPhone-14/14-Pros](https://www.v2ex.com/t/882475) 
+- [2022-09-23-请教一个-Java-Stream-中代码命名的问题](https://www.v2ex.com/t/882474) 
+- [2022-09-23-《Redis-设计与实现》里面的内容感觉太老了（redis3.0，现在都-7.0-了），有没有别的替代的书](https://www.v2ex.com/t/882472) 
 - [2022-09-23-发现美国人来我国旅游不能用我国-SIM-卡的场景实际不成立.](https://www.v2ex.com/t/882468) 
 - [2022-09-23-关于-VoIP-语音-H248-to-SIP-的软交换](https://www.v2ex.com/t/882467) 
 - [2022-09-23-新的-NPLN-联机模式到底是什么？为什么体验这么差](https://www.v2ex.com/t/882465) 
@@ -1944,11 +1948,6 @@
 - [2022-09-23-2022-年了，阻碍我离开-iPhone-的原因竟然是-CarPlay](https://www.v2ex.com/t/882430) 
 - [2022-09-23-招个线上美工接活](https://www.v2ex.com/t/882428) 
 - [2022-09-23-16-寸的-MBP-大概什么时候更新？](https://www.v2ex.com/t/882427) 
-- [2022-09-23-静音键有什么清理方法吗？](https://www.v2ex.com/t/882426) 
-- [2022-09-23-Apple-Watch-换非官方的电池靠谱吗](https://www.v2ex.com/t/882425) 
-- [2022-09-23-谷歌中文搜索好像出现了新的垃圾站](https://www.v2ex.com/t/882424) 
-- [2022-09-23-有了-infuse，还需要-EMBY-吗](https://www.v2ex.com/t/882423) 
-- [2022-09-23-为什么网络上很少有文档结构化的资料，求文档结构化配置经验分享](https://www.v2ex.com/t/882422) 
 - [2022-09-23-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-23-技术改变了什么？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15400&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fpower-of-technology%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-23-失败驱动开发-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15399&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffailure-driven-development%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1982,6 +1981,6 @@
 - [2022-09-23-超干货！彻底搞懂Golang内存管理和垃圾回收](https://toutiao.io/k/n437s2f) 
 - [2022-09-23-你喜欢哪种项目经理？“保姆”还是“管理者”？](https://toutiao.io/k/c08yn46) 
 - [2022-09-23-Fuzz-Introspector---OpenSSF-中一款用于提高模糊测试覆盖率的工具](https://toutiao.io/k/s3mvgt3) 
+- [2022-09-23-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) 
 - [2022-09-23-推荐-常见分布式系统设计图解](https://toutiao.io/k/osewvaz) 
 - [2022-09-23-推荐-Redis高可用方案](https://toutiao.io/k/3hh68yl) 
-- [2022-09-23-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) 

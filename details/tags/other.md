@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-23 18:19:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-23 18:55:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1945,7 +1945,6 @@
 - [2022-09-23-aimesh-节点和-ap-模式有什么区别](https://www.v2ex.com/t/882510) 
 - [2022-09-23-北美-TVB-地域限制的问题](https://www.v2ex.com/t/882507) 
 - [2022-09-23-不懂就问，家庭里面-5-什么样的场景下会用到-5000M-的宽带？](https://www.v2ex.com/t/882504) 
-- [2022-09-23-你们-iPad-Pro-2021-有出现过触屏失灵，必须重启才能解决的问题吗？](https://www.v2ex.com/t/882503) 
 - [2022-09-23-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-23-技术改变了什么？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15400&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fpower-of-technology%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-23-失败驱动开发-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15399&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffailure-driven-development%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1979,7 +1978,7 @@
 - [2022-09-23-中国信通院发布《全球开源生态研究报告（2022年）》](https://toutiao.io/k/w7pqxv4) 
 - [2022-09-23-你喜欢哪种项目经理？“保姆”还是“管理者”？](https://toutiao.io/k/c08yn46) 
 - [2022-09-23-Fuzz-Introspector---OpenSSF-中一款用于提高模糊测试覆盖率的工具](https://toutiao.io/k/s3mvgt3) 
-- [2022-09-23-推荐-Redis高可用方案](https://toutiao.io/k/3hh68yl) 
 - [2022-09-23-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) 
 - [2022-09-23-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) 
+- [2022-09-23-推荐-Redis高可用方案](https://toutiao.io/k/3hh68yl) 
 - [2022-09-23-推荐-常见分布式系统设计图解](https://toutiao.io/k/osewvaz) 

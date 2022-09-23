@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-23 18:19:40，:rocket: 更新条数: +2033， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-23 18:55:05，:rocket: 更新条数: +2033， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-09-23-无图形界面的-Linux-下弹出移动硬盘正确做法是什么？我-umount-完直接拔安全吗，容易造成磁头没归位吗？](https://www.v2ex.com/t/882553) ![](assets/new.png)  
 - [2022-09-23-移动端设备上拍摄的-HEIC-格式图片在-Windows-或-DSM-上不可见。](https://www.v2ex.com/t/882552) ![](assets/new.png)  
 - [2022-09-23-我用的是中国移动达量限速套餐，以为限速后再买流量包能解除限速，结果仍然限速，相当于送钱给移动公司。有类似遭遇并维权成功的吗？](https://www.v2ex.com/t/882551) ![](assets/new.png)  
 - [2022-09-23-如果人生是网游，重开一局你们会选哪个出生地？](https://www.v2ex.com/t/882550) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-09-23-大佬们有没有什么好的-rss-阅读器推荐！实在不想被算法牵着走](https://www.v2ex.com/t/882534) ![](assets/new.png)  
 - [2022-09-23-罗湖的房子有啥弊端吗？](https://www.v2ex.com/t/882533) ![](assets/new.png)  
 - [2022-09-23-联通又出新的-90g-套餐了，有人转成功么？](https://www.v2ex.com/t/882532) ![](assets/new.png)  
-- [2022-09-23-应该是要被扣房子押金吧？](https://www.v2ex.com/t/882531) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

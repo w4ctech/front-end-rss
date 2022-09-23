@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-23 09:19:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-23 09:47:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1914,6 +1914,10 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-09-23-发现美国人来我国旅游不能用我国-SIM-卡的场景实际不成立.](https://www.v2ex.com/t/882468) 
+- [2022-09-23-关于-VoIP-语音-H248-to-SIP-的软交换](https://www.v2ex.com/t/882467) 
+- [2022-09-23-新的-NPLN-联机模式到底是什么？为什么体验这么差](https://www.v2ex.com/t/882465) 
+- [2022-09-23-没有-app-开发理论基础，直接上手开发-app-有点累？](https://www.v2ex.com/t/882463) 
 - [2022-09-23-港区-Apple-Music-家庭计划拼车](https://www.v2ex.com/t/882461) 
 - [2022-09-23-自行车骑行，本周六（24-号）永宁古镇骑行，扫码进群](https://www.v2ex.com/t/882460) 
 - [2022-09-23-为什么新电脑第一次安装的-Windows-11-自动激活了](https://www.v2ex.com/t/882459) 
@@ -1945,12 +1949,6 @@
 - [2022-09-23-谷歌中文搜索好像出现了新的垃圾站](https://www.v2ex.com/t/882424) 
 - [2022-09-23-有了-infuse，还需要-EMBY-吗](https://www.v2ex.com/t/882423) 
 - [2022-09-23-为什么网络上很少有文档结构化的资料，求文档结构化配置经验分享](https://www.v2ex.com/t/882422) 
-- [2022-09-23-Shenzhen-Quality-Assurance-Engineer](https://www.v2ex.com/t/882420) 
-- [2022-09-23-🎉-rebang.today-热榜.today-今日上线，欢迎大家体验](https://www.v2ex.com/t/882419) 
-- [2022-09-23-重庆联通提上行新资费，-CMI-HK-家宽测试](https://www.v2ex.com/t/882417) 
-- [2022-09-23-变形后可以提前退休吗？](https://www.v2ex.com/t/882415) 
-- [2022-09-23-m-team-无法访问-是挂了？](https://www.v2ex.com/t/882414) 
-- [2022-09-23-开个自用土区车，还有-3-个位置，人均-400G](https://www.v2ex.com/t/882413) 
 - [2022-09-23-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-23-技术改变了什么？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15400&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fpower-of-technology%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-23-失败驱动开发-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15399&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffailure-driven-development%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1984,6 +1982,6 @@
 - [2022-09-23-超干货！彻底搞懂Golang内存管理和垃圾回收](https://toutiao.io/k/n437s2f) 
 - [2022-09-23-你喜欢哪种项目经理？“保姆”还是“管理者”？](https://toutiao.io/k/c08yn46) 
 - [2022-09-23-Fuzz-Introspector---OpenSSF-中一款用于提高模糊测试覆盖率的工具](https://toutiao.io/k/s3mvgt3) 
-- [2022-09-23-推荐-Redis高可用方案](https://toutiao.io/k/3hh68yl) 
 - [2022-09-23-推荐-常见分布式系统设计图解](https://toutiao.io/k/osewvaz) 
+- [2022-09-23-推荐-Redis高可用方案](https://toutiao.io/k/3hh68yl) 
 - [2022-09-23-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) 

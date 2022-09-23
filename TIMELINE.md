@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-23 17:56:03。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-09-23 18:19:40。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -71,6 +71,7 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [【V2EX】2022-09-23-移动端设备上拍摄的-HEIC-格式图片在-Windows-或-DSM-上不可见。](https://www.v2ex.com/t/882552) 
 - [【V2EX】2022-09-23-我用的是中国移动达量限速套餐，以为限速后再买流量包能解除限速，结果仍然限速，相当于送钱给移动公司。有类似遭遇并维权成功的吗？](https://www.v2ex.com/t/882551) 
 - [【V2EX】2022-09-23-如果人生是网游，重开一局你们会选哪个出生地？](https://www.v2ex.com/t/882550) 
 - [【V2EX】2022-09-23-WatchOS-9-无法升级](https://www.v2ex.com/t/882549) 
@@ -111,7 +112,6 @@
 - [【V2EX】2022-09-23-北美-TVB-地域限制的问题](https://www.v2ex.com/t/882507) 
 - [【V2EX】2022-09-23-不懂就问，家庭里面-5-什么样的场景下会用到-5000M-的宽带？](https://www.v2ex.com/t/882504) 
 - [【V2EX】2022-09-23-你们-iPad-Pro-2021-有出现过触屏失灵，必须重启才能解决的问题吗？](https://www.v2ex.com/t/882503) 
-- [【V2EX】2022-09-23-好奇-iOS-16-键盘震动的耗电量差距](https://www.v2ex.com/t/882502) 
 - [【技术头条】2022-09-23-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-23-技术改变了什么？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15400&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fpower-of-technology%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-23-失败驱动开发-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15399&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffailure-driven-development%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -137,8 +137,8 @@
 - [【开发者头条】2022-09-23-一段-20-行代码的-10-倍性能优化，yyds！](https://toutiao.io/k/li2abvz) 
 - [【开发者头条】2022-09-23-MySQL-上亿大表优化实践](https://toutiao.io/k/8d5235l) 
 - [【开发者头条】2022-09-23-欢迎加入读者圈子，一起交流！](https://toutiao.io/k/lrpbhk9) 
-- [【开发者头条】2022-09-23-移动应用中使用OpenGL生成转场特效](https://toutiao.io/k/habxxat) 
 - [【开发者头条】2022-09-23-Flink-剖析-|-Flink-侧流输出源码解析](https://toutiao.io/k/4wx8mlk) 
+- [【开发者头条】2022-09-23-移动应用中使用OpenGL生成转场特效](https://toutiao.io/k/habxxat) 
 - [【开发者头条】2022-09-23-Rustacean-原则-与-Rust-之魂](https://toutiao.io/k/t0xm58c) 
 - [【开发者头条】2022-09-23-从“飞鸽传书”到“即时可达”，基于云原生的通信网关是怎样的？](https://toutiao.io/k/5lq98vb) 
 - [【开发者头条】2022-09-23-基于-Hudi-的湖仓一体技术在-Shopee-的实践](https://toutiao.io/k/2zla6dh) 
@@ -153,10 +153,10 @@
 - [【开发者头条】2022-09-23-你喜欢哪种项目经理？“保姆”还是“管理者”？](https://toutiao.io/k/c08yn46) 
 - [【开发者头条】2022-09-23-规范升级-NPM-包](https://toutiao.io/k/cx9ggz6) 
 - [【开发者头条】2022-09-23-Fuzz-Introspector---OpenSSF-中一款用于提高模糊测试覆盖率的工具](https://toutiao.io/k/s3mvgt3) 
-- [【开发者头条】2022-09-23-推荐-1.8w-字的-SQL-优化大全](https://toutiao.io/k/tz7p6nl) 
-- [【开发者头条】2022-09-23-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) 
 - [【开发者头条】2022-09-23-推荐-Redis高可用方案](https://toutiao.io/k/3hh68yl) 
 - [【开发者头条】2022-09-23-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) 
+- [【开发者头条】2022-09-23-推荐-1.8w-字的-SQL-优化大全](https://toutiao.io/k/tz7p6nl) 
+- [【开发者头条】2022-09-23-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) 
 - [【开发者头条】2022-09-23-推荐-常见分布式系统设计图解](https://toutiao.io/k/osewvaz) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>

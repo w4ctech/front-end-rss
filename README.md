@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-23 04:05:43，:rocket: 更新条数: +2025， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-23 05:48:12，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,26 +491,26 @@
 </summary>
 
 
-- [2022-09-23-WEB-3-招聘：-rust-开发工程师-远程-60-100-万](https://www.v2ex.com/t/882364) ![](assets/new.png)  
-- [2022-09-23-国内的哪种双币/多币种信用卡值得推荐呢？](https://www.v2ex.com/t/882363) ![](assets/new.png)  
-- [2022-09-23-mac-中-chrome-多账号-profile-如何对应多个快捷方式](https://www.v2ex.com/t/882362) ![](assets/new.png)  
-- [2022-09-23-有些国产-app-索要本地网络访问权限，如果不给就无法正常使用](https://www.v2ex.com/t/882361) ![](assets/new.png)  
-- [2022-09-23-如果手机参考电动汽车的电池充电保养模式的话，一块电池用个五年应该不成问题](https://www.v2ex.com/t/882359) ![](assets/new.png)  
-- [2022-09-23-我的-Mac-连键还完键盘之后又出现了连键情况，但是...](https://www.v2ex.com/t/882358) ![](assets/new.png)  
-- [2022-09-23-更新-iOS15.7-持续出现下载出错](https://www.v2ex.com/t/882357) ![](assets/new.png)  
-- [2022-09-23-有什么分析网络请求的插件吗？](https://www.v2ex.com/t/882354) ![](assets/new.png)  
-- [2022-09-23-像我前女友这样的是不是现在女生的常态？](https://www.v2ex.com/t/882353) ![](assets/new.png)  
-- [2022-09-23-Airpods-pro-2-你们买了啥保护套啊，耳机到了，想买套发现-2-代的套套-TB,-JD-上很少](https://www.v2ex.com/t/882352) ![](assets/new.png)  
-- [2022-09-23-iPhone11-Promax-在市中心的高架上竟然不能玩英雄联盟手游](https://www.v2ex.com/t/882351) ![](assets/new.png)  
-- [2022-09-23-第一个开源链上博客系统-xLog](https://www.v2ex.com/t/882349) ![](assets/new.png)  
-- [2022-09-23-2022-年，基于动态密码的两步验证（2FA）是否还有意义？](https://www.v2ex.com/t/882348) ![](assets/new.png)  
-- [2022-09-23-不知道何时可以通过-EPP-friends-&-family-购买-iPhone-14-Pro](https://www.v2ex.com/t/882347) ![](assets/new.png)  
-- [2022-09-23-为什么要自动化测试的同事兼顾功能测试?](https://www.v2ex.com/t/882345) ![](assets/new.png)  
-- [2022-09-23-支持对照展示和自定义翻译源的网页翻译插件，支持-Firefox](https://www.v2ex.com/t/882343) ![](assets/new.png)  
-- [2022-09-23-求纯-AP-路由器推荐-已经有软路由了](https://www.v2ex.com/t/882342) ![](assets/new.png)  
-- [2022-09-23-Web-会取代操作系统吗？](https://www.v2ex.com/t/882341) ![](assets/new.png)  
-- [2022-09-23-下-App-总是要重试几次。](https://www.v2ex.com/t/882338) ![](assets/new.png)  
-- [2022-09-23-WebStrom-真香](https://www.v2ex.com/t/882337) ![](assets/new.png)  
+- [2022-09-23-字节-Pico-OS-偏业务团队组内-还有-3-个-Android-研发岗-HC-，偏业务应用开发，有中大型业务开发经验的都可以。职级-1-2-~-2-2-均可。有效期-9-月到-10-月底。ba...](https://www.v2ex.com/t/882396) ![](assets/new.png)  
+- [2022-09-23-130-平的房子，软硬装下来，-20-个能搞定不](https://www.v2ex.com/t/882395) ![](assets/new.png)  
+- [2022-09-23-求推荐适合网飞的那个](https://www.v2ex.com/t/882394) ![](assets/new.png)  
+- [2022-09-23-Mac-系统微信登录的时候强退导致聊天记录丢失](https://www.v2ex.com/t/882393) ![](assets/new.png)  
+- [2022-09-23-frp-断连](https://www.v2ex.com/t/882392) ![](assets/new.png)  
+- [2022-09-23-bangumi-网站的动画条目的标签能不能通过-js-脚本来全部展现出来](https://www.v2ex.com/t/882389) ![](assets/new.png)  
+- [2022-09-23-刘德华们，公司-900+员工集体下班后，工位主机都在闲置。怎么搭建集群把它们利用起来？](https://www.v2ex.com/t/882387) ![](assets/new.png)  
+- [2022-09-23-请问有办法强制导出受限的谷歌表格文档吗？](https://www.v2ex.com/t/882386) ![](assets/new.png)  
+- [2022-09-23-Python-re-正则匹配，表达式作为条件，但不获取条件内容的问题](https://www.v2ex.com/t/882385) ![](assets/new.png)  
+- [2022-09-23-google-云盘的计算机中的文件夹是不能同步到其他计算机的么？](https://www.v2ex.com/t/882383) ![](assets/new.png)  
+- [2022-09-23-Google-Voice-无法通过回复-gmail-邮件的方式回复短信，保号方式将何去何从？](https://www.v2ex.com/t/882382) ![](assets/new.png)  
+- [2022-09-23-vue-等现代前端框架，是怎么实现路由功能的呢？](https://www.v2ex.com/t/882381) ![](assets/new.png)  
+- [2022-09-23-如果人生是网游，重开一局你们会选什么性别？](https://www.v2ex.com/t/882380) ![](assets/new.png)  
+- [2022-09-23-想买-iPhone-11，想问一下有没有口碑好的第三方渠道](https://www.v2ex.com/t/882379) ![](assets/new.png)  
+- [2022-09-23-分享一个自己写的打字网站，平时摸鱼玩。](https://www.v2ex.com/t/882377) ![](assets/new.png)  
+- [2022-09-23-自问自答，为什么用苹果？](https://www.v2ex.com/t/882376) ![](assets/new.png)  
+- [2022-09-23-如何强制-浏览器-把-任意后缀的本地文件，作为网页解析打开？](https://www.v2ex.com/t/882375) ![](assets/new.png)  
+- [2022-09-23-是不是只有路由器能自动获取-IP，就支持-IPoE-认证的光猫](https://www.v2ex.com/t/882374) ![](assets/new.png)  
+- [2022-09-23-hyper-v-虚拟机用了显卡虚拟化或者显卡直通以后就没法使用检查点了吗？](https://www.v2ex.com/t/882373) ![](assets/new.png)  
+- [2022-09-23-Cloudflare-有办法对所有非家宽请求开启五秒盾吗？](https://www.v2ex.com/t/882372) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -554,10 +554,11 @@
 
 
 - [2022-09-23-快-50-岁了，怎么还在写代码？](https://toutiao.io/k/258iqho) ![](assets/new.png)  
+- [2022-09-23-欢迎加入读者圈子，一起交流！](https://toutiao.io/k/lrpbhk9) ![](assets/new.png)  
 - [2022-09-23-项目上线一年，整理了一份SpringBoot性能优化方案！](https://toutiao.io/k/3ueuxa0) ![](assets/new.png)  
+- [2022-09-23-一段-20-行代码的-10-倍性能优化，yyds！](https://toutiao.io/k/li2abvz) ![](assets/new.png)  
 - [2022-09-23-Flink-剖析-|-Flink-侧流输出源码解析](https://toutiao.io/k/4wx8mlk) ![](assets/new.png)  
 - [2022-09-23-移动应用中使用OpenGL生成转场特效](https://toutiao.io/k/habxxat) ![](assets/new.png)  
-- [2022-09-23-一段-20-行代码的-10-倍性能优化，yyds！](https://toutiao.io/k/li2abvz) ![](assets/new.png)  
 - [2022-09-23-Rustacean-原则-与-Rust-之魂](https://toutiao.io/k/t0xm58c) ![](assets/new.png)  
 - [2022-09-23-MySQL-上亿大表优化实践](https://toutiao.io/k/8d5235l) ![](assets/new.png)  
 - [2022-09-23-基于-Hudi-的湖仓一体技术在-Shopee-的实践](https://toutiao.io/k/2zla6dh) ![](assets/new.png)  
@@ -567,12 +568,11 @@
 - [2022-09-23-深入理解-Mocha-测试框架：从零实现一个-Mocha](https://toutiao.io/k/giag75l) ![](assets/new.png)  
 - [2022-09-23-开源云原生安全治理平台-HummerRisk](https://toutiao.io/k/c1oso3t) ![](assets/new.png)  
 - [2022-09-23-聊聊异地双活在出行行业的落地](https://toutiao.io/k/atu8esw) ![](assets/new.png)  
-- [2022-09-23-A100-买不到了，只有小显卡怎么训大模型](https://toutiao.io/k/rngpyxk) ![](assets/new.png)  
 - [2022-09-23-中国信通院发布《全球开源生态研究报告（2022年）》](https://toutiao.io/k/w7pqxv4) ![](assets/new.png)  
-- [2022-09-23-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) ![](assets/new.png)  
-- [2022-09-23-推荐-1.8w-字的-SQL-优化大全](https://toutiao.io/k/tz7p6nl) ![](assets/new.png)  
-- [2022-09-23-推荐-常见分布式系统设计图解](https://toutiao.io/k/osewvaz) ![](assets/new.png)  
-- [2022-09-23-推荐-Redis高可用方案](https://toutiao.io/k/3hh68yl) ![](assets/new.png)  
+- [2022-09-23-A100-买不到了，只有小显卡怎么训大模型](https://toutiao.io/k/rngpyxk) ![](assets/new.png)  
+- [2022-09-23-超干货！彻底搞懂Golang内存管理和垃圾回收](https://toutiao.io/k/n437s2f) ![](assets/new.png)  
+- [2022-09-23-规范升级-NPM-包](https://toutiao.io/k/cx9ggz6) ![](assets/new.png)  
+- [2022-09-23-你喜欢哪种项目经理？“保姆”还是“管理者”？](https://toutiao.io/k/c08yn46) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

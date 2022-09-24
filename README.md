@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-24 12:28:05，:rocket: 更新条数: +2016， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-24 13:11:01，:rocket: 更新条数: +2017， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-09-24-太卷了？乡镇雇员也这么多人来考试！](https://www.v2ex.com/t/882671) ![](assets/new.png)  
+- [2022-09-24-阿里云轻量老用户有便宜点的路子吗](https://www.v2ex.com/t/882670) ![](assets/new.png)  
+- [2022-09-24-深圳移动最低套餐是多少？](https://www.v2ex.com/t/882669) ![](assets/new.png)  
+- [2022-09-24-jellyfin-部分视频无法播放](https://www.v2ex.com/t/882668) ![](assets/new.png)  
+- [2022-09-24-Windows-11-就近共享，-目标设备无响应。](https://www.v2ex.com/t/882666) ![](assets/new.png)  
+- [2022-09-24-你们-iOS-设备有开启原彩吗?感觉发黄好难受，想关了](https://www.v2ex.com/t/882665) ![](assets/new.png)  
 - [2022-09-24-git-协议可能被中间人攻击吗？](https://www.v2ex.com/t/882664) ![](assets/new.png)  
 - [2022-09-24-梦幻西游或者问道的程序框架，谁有？](https://www.v2ex.com/t/882663) ![](assets/new.png)  
 - [2022-09-24-猫粮有没有推荐](https://www.v2ex.com/t/882662) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-09-24-WordPress-、Typecho-写主题时都是如何结合-CSS-预处理的？](https://www.v2ex.com/t/882649) ![](assets/new.png)  
 - [2022-09-24-runningman-原视频下载](https://www.v2ex.com/t/882648) ![](assets/new.png)  
 - [2022-09-24-大家的单圈-/-编织单圈表带耐用吗](https://www.v2ex.com/t/882645) ![](assets/new.png)  
-- [2022-09-24-MacBook-连接小爱蓝牙音响播放问题](https://www.v2ex.com/t/882643) ![](assets/new.png)  
-- [2022-09-24-有没有大佬知道苏周到-APP-扫码的-URL-Scheme](https://www.v2ex.com/t/882642) ![](assets/new.png)  
-- [2022-09-24-如何搞到一个列表每年新产生的网络热词。即：搜狗输入法捕获的热词-网友自创词。-像成语，歇后语，优质的代码，-巧妙简短的网络新新语言，替代以往啰嗦几百句才...](https://www.v2ex.com/t/882641) ![](assets/new.png)  
-- [2022-09-24-Python-怎么提取正负号](https://www.v2ex.com/t/882640) ![](assets/new.png)  
-- [2022-09-24-项目是用-BootstrapVue-写的，升级-NaiveUI-是不是只能彻底重写了？](https://www.v2ex.com/t/882639) ![](assets/new.png)  
-- [2022-09-24-有啥聊天工具，手机端或者-sns-网站-能同时发送-audio-语音条以及对应的-text-文字。-并且不要求手动触发文字识别。-微信-weixin-是需要长按再勾选。多了两个...](https://www.v2ex.com/t/882638) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,11 +563,11 @@
 - [2022-09-24-副玩法买量中美通杀？这款手游海外日收入破200万，出海大厂跟进](https://toutiao.io/k/89eqv9x) ![](assets/new.png)  
 - [2022-09-24-如何在开发和生产环境中使用-Docker-容器化-Golang-应用](https://toutiao.io/k/1nxc1nx) ![](assets/new.png)  
 - [2022-09-24-将你的-Python-脚本转换为命令行程序-|-Linux-中国](https://toutiao.io/k/nj6d5uz) ![](assets/new.png)  
-- [2022-09-24-推荐-1.8w-字的-SQL-优化大全](https://toutiao.io/k/tz7p6nl) ![](assets/new.png)  
-- [2022-09-24-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) ![](assets/new.png)  
 - [2022-09-24-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) ![](assets/new.png)  
 - [2022-09-24-推荐-Redis高可用方案](https://toutiao.io/k/3hh68yl) ![](assets/new.png)  
 - [2022-09-24-推荐-常见分布式系统设计图解](https://toutiao.io/k/osewvaz) ![](assets/new.png)  
+- [2022-09-24-推荐-1.8w-字的-SQL-优化大全](https://toutiao.io/k/tz7p6nl) ![](assets/new.png)  
+- [2022-09-24-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

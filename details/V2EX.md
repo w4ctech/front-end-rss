@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2022-09-24 15:15:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-24 15:45:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-09-24-求教下-Python-中子类如何获取到父类方法中的变量](https://www.v2ex.com/t/882695) 
+- [2022-09-24-求推荐-Nas-间的-TimeMachine-备份同步方案](https://www.v2ex.com/t/882694) 
+- [2022-09-24-Mac-把文件下载到移动硬盘，为啥一看写入算到内置-SSD-的](https://www.v2ex.com/t/882693) 
 - [2022-09-24-今天自己维修了凉霸](https://www.v2ex.com/t/882692) 
 - [2022-09-24-mac-端有更好的抓包工具推荐吗？](https://www.v2ex.com/t/882691) 
 - [2022-09-24-一个诡异的-bug:-IOS16-自定义锁屏，选择自己的照片，结果一直提示“无法载入照片”](https://www.v2ex.com/t/882690) 
@@ -40,5 +43,3 @@
 - [2022-09-24-接外包-|-微信小程序、公众号相关开发，单个小程序期望收入-5-10-万](https://www.v2ex.com/t/882650) 
 - [2022-09-24-WordPress-、Typecho-写主题时都是如何结合-CSS-预处理的？](https://www.v2ex.com/t/882649) 
 - [2022-09-24-runningman-原视频下载](https://www.v2ex.com/t/882648) 
-- [2022-09-24-大家的单圈-/-编织单圈表带耐用吗](https://www.v2ex.com/t/882645) 
-- [2022-09-24-MacBook-连接小爱蓝牙音响播放问题](https://www.v2ex.com/t/882643) 

@@ -9953,6 +9953,21 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "求教下 Python 中子类如何获取到父类方法中的变量",
+        "link": "https://www.v2ex.com/t/882695",
+        "date": "2022-09-24"
+      },
+      {
+        "title": "求推荐 Nas 间的 TimeMachine 备份同步方案",
+        "link": "https://www.v2ex.com/t/882694",
+        "date": "2022-09-24"
+      },
+      {
+        "title": "Mac 把文件下载到移动硬盘，为啥一看写入算到内置 SSD 的",
+        "link": "https://www.v2ex.com/t/882693",
+        "date": "2022-09-24"
+      },
+      {
         "title": "今天自己维修了凉霸",
         "link": "https://www.v2ex.com/t/882692",
         "date": "2022-09-24"
@@ -10126,16 +10141,6 @@
         "title": "runningman 原视频下载",
         "link": "https://www.v2ex.com/t/882648",
         "date": "2022-09-24"
-      },
-      {
-        "title": "大家的单圈 / 编织单圈表带耐用吗",
-        "link": "https://www.v2ex.com/t/882645",
-        "date": "2022-09-24"
-      },
-      {
-        "title": "MacBook 连接小爱蓝牙音响播放问题",
-        "link": "https://www.v2ex.com/t/882643",
-        "date": "2022-09-24"
       }
     ]
   },
@@ -10302,6 +10307,11 @@
         "date": "2022-09-24"
       },
       {
+        "title": "[推荐] 常见分布式系统设计图解",
+        "link": "https://toutiao.io/k/osewvaz",
+        "date": "2022-09-24"
+      },
+      {
         "title": "[推荐] 1.8w 字的 SQL 优化大全",
         "link": "https://toutiao.io/k/tz7p6nl",
         "date": "2022-09-24"
@@ -10312,18 +10322,13 @@
         "date": "2022-09-24"
       },
       {
-        "title": "[推荐] 常见分布式系统设计图解",
-        "link": "https://toutiao.io/k/osewvaz",
+        "title": "[推荐] Redis高可用方案",
+        "link": "https://toutiao.io/k/3hh68yl",
         "date": "2022-09-24"
       },
       {
         "title": "[推荐] Netty、Kafka中的零拷贝技术到底有多牛?",
         "link": "https://toutiao.io/k/ussdz4q",
-        "date": "2022-09-24"
-      },
-      {
-        "title": "[推荐] Redis高可用方案",
-        "link": "https://toutiao.io/k/3hh68yl",
         "date": "2022-09-24"
       }
     ]

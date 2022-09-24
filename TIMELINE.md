@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-24 15:15:22。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-09-24 15:45:37。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -71,6 +71,9 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [【V2EX】2022-09-24-求教下-Python-中子类如何获取到父类方法中的变量](https://www.v2ex.com/t/882695) 
+- [【V2EX】2022-09-24-求推荐-Nas-间的-TimeMachine-备份同步方案](https://www.v2ex.com/t/882694) 
+- [【V2EX】2022-09-24-Mac-把文件下载到移动硬盘，为啥一看写入算到内置-SSD-的](https://www.v2ex.com/t/882693) 
 - [【V2EX】2022-09-24-今天自己维修了凉霸](https://www.v2ex.com/t/882692) 
 - [【V2EX】2022-09-24-mac-端有更好的抓包工具推荐吗？](https://www.v2ex.com/t/882691) 
 - [【V2EX】2022-09-24-一个诡异的-bug:-IOS16-自定义锁屏，选择自己的照片，结果一直提示“无法载入照片”](https://www.v2ex.com/t/882690) 
@@ -106,8 +109,6 @@
 - [【V2EX】2022-09-24-接外包-|-微信小程序、公众号相关开发，单个小程序期望收入-5-10-万](https://www.v2ex.com/t/882650) 
 - [【V2EX】2022-09-24-WordPress-、Typecho-写主题时都是如何结合-CSS-预处理的？](https://www.v2ex.com/t/882649) 
 - [【V2EX】2022-09-24-runningman-原视频下载](https://www.v2ex.com/t/882648) 
-- [【V2EX】2022-09-24-大家的单圈-/-编织单圈表带耐用吗](https://www.v2ex.com/t/882645) 
-- [【V2EX】2022-09-24-MacBook-连接小爱蓝牙音响播放问题](https://www.v2ex.com/t/882643) 
 - [【技术头条】2022-09-24-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-24-技术改变了什么？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15400&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fpower-of-technology%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-24-失败驱动开发-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15399&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffailure-driven-development%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -138,11 +139,11 @@
 - [【开发者头条】2022-09-24-副玩法买量中美通杀？这款手游海外日收入破200万，出海大厂跟进](https://toutiao.io/k/89eqv9x) 
 - [【开发者头条】2022-09-24-如何在开发和生产环境中使用-Docker-容器化-Golang-应用](https://toutiao.io/k/1nxc1nx) 
 - [【开发者头条】2022-09-24-将你的-Python-脚本转换为命令行程序-|-Linux-中国](https://toutiao.io/k/nj6d5uz) 
+- [【开发者头条】2022-09-24-推荐-常见分布式系统设计图解](https://toutiao.io/k/osewvaz) 
 - [【开发者头条】2022-09-24-推荐-1.8w-字的-SQL-优化大全](https://toutiao.io/k/tz7p6nl) 
 - [【开发者头条】2022-09-24-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) 
-- [【开发者头条】2022-09-24-推荐-常见分布式系统设计图解](https://toutiao.io/k/osewvaz) 
-- [【开发者头条】2022-09-24-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) 
 - [【开发者头条】2022-09-24-推荐-Redis高可用方案](https://toutiao.io/k/3hh68yl) 
+- [【开发者头条】2022-09-24-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

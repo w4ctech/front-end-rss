@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-24 19:13:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-24 19:38:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1914,6 +1914,7 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-09-24-ios-开发者签名证书合租](https://www.v2ex.com/t/882713) 
 - [2022-09-24-Linux-下有类似-windows-磁盘加密工具-bitlocker-吗?](https://www.v2ex.com/t/882712) 
 - [2022-09-24-任天堂普通会员开车，有人来上车吗？](https://www.v2ex.com/t/882711) 
 - [2022-09-24-深圳-工业富联-Devops-云原生开发-2-3-人](https://www.v2ex.com/t/882710) 
@@ -1946,7 +1947,6 @@
 - [2022-09-24-深圳移动最低套餐是多少？](https://www.v2ex.com/t/882669) 
 - [2022-09-24-Windows-11-就近共享，-目标设备无响应。](https://www.v2ex.com/t/882666) 
 - [2022-09-24-你们-iOS-设备有开启原彩吗?感觉发黄好难受，想关了](https://www.v2ex.com/t/882665) 
-- [2022-09-24-梦幻西游或者问道的程序框架，谁有？](https://www.v2ex.com/t/882663) 
 - [2022-09-24-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-24-技术改变了什么？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15400&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fpower-of-technology%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-24-失败驱动开发-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15399&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffailure-driven-development%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1972,6 +1972,6 @@
 - [2022-09-24-Apache-Druid-在-Shopee-的云原生架构演进](https://toutiao.io/k/79sg1gw) 
 - [2022-09-24-副玩法买量中美通杀？这款手游海外日收入破200万，出海大厂跟进](https://toutiao.io/k/89eqv9x) 
 - [2022-09-24-将你的-Python-脚本转换为命令行程序-|-Linux-中国](https://toutiao.io/k/nj6d5uz) 
-- [2022-09-24-推荐-Redis高可用方案](https://toutiao.io/k/3hh68yl) 
-- [2022-09-24-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) 
 - [2022-09-24-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) 
+- [2022-09-24-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) 
+- [2022-09-24-推荐-Redis高可用方案](https://toutiao.io/k/3hh68yl) 

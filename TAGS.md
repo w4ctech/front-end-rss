@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-09-24 15:45:37。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-24 16:19:46。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -120,7 +120,6 @@
 
 
 
-- [【V2EX】接外包-|-微信小程序、公众号相关开发，单个小程序期望收入-5-10-万](https://www.v2ex.com/t/882650)
 - [......【查看更多】......](./details/tags/miniprogram.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -199,7 +198,6 @@
 - [【张鑫旭-鑫空间-鑫生活】超酷！CSS-font-palette与彩色字体显示](https://www.zhangxinxu.com/wordpress/2022/07/css-font-palette/)
 - [【张鑫旭-鑫空间-鑫生活】CSS排版为何强？瞧瞧多牛这换行](https://www.zhangxinxu.com/wordpress/2022/06/css-line-break-word-wrap-all/)
 - [【V2EX】css-有什么比较好的学习课程吗](https://www.v2ex.com/t/882684)
-- [【V2EX】WordPress-、Typecho-写主题时都是如何结合-CSS-预处理的？](https://www.v2ex.com/t/882649)
 - [【技术头条】整洁架构之CSS-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15383&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fclean-architecture-css%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/css.md)
 
@@ -237,7 +235,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
 - [【V2EX】6000-内笔记本求推荐，适合视频剪辑、屏幕好一点的。](https://www.v2ex.com/t/882680)
 - [【V2EX】jellyfin-部分视频无法播放](https://www.v2ex.com/t/882668)
-- [【V2EX】runningman-原视频下载](https://www.v2ex.com/t/882648)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -312,6 +309,7 @@
 
 
 
+- [【V2EX】突然想到把-docker.sock-映射进容器是不是相当于把主机-root-权限完全提供给容器了？](https://www.v2ex.com/t/882700)
 - [【技术头条】GraphQL及元数据驱动架构在后端BFF中的实践-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15395&url=https%3A%2F%2Ftech.meituan.com%2F2021%2F05%2F06%2Fbff-graphql.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】如何在开发和生产环境中使用-Docker-容器化-Golang-应用](https://toutiao.io/k/1nxc1nx)
 - [......【查看更多】......](./details/tags/server.md)

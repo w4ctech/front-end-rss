@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-24 08:19:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-24 08:50:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1943,8 +1943,6 @@
 - [2022-09-24-iPhone-14-Pro-VoNR-独立-5G-语音使用-5G-通话](https://www.v2ex.com/t/882594) 
 - [2022-09-24-跨网，不安装任何软件、服务，怎么传输文件呢？](https://www.v2ex.com/t/882592) 
 - [2022-09-24-windows-下离线-tts-有没有好用的-sdk?](https://www.v2ex.com/t/882591) 
-- [2022-09-24-各位大佬，我们学校图书馆手机预约网站打不开怎么办](https://www.v2ex.com/t/882589) 
-- [2022-09-24-腾讯王卡，没退基础包的，现在可以尝试用这个方法退包了](https://www.v2ex.com/t/882588) 
 - [2022-09-24-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-24-技术改变了什么？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15400&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fpower-of-technology%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-24-失败驱动开发-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15399&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffailure-driven-development%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1970,7 +1968,7 @@
 - [2022-09-24-亿级异构任务调度框架设计与实践](https://toutiao.io/k/lmr11bb) 
 - [2022-09-24-副玩法买量中美通杀？这款手游海外日收入破200万，出海大厂跟进](https://toutiao.io/k/89eqv9x) 
 - [2022-09-24-将你的-Python-脚本转换为命令行程序-|-Linux-中国](https://toutiao.io/k/nj6d5uz) 
-- [2022-09-24-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) 
 - [2022-09-24-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) 
-- [2022-09-24-推荐-常见分布式系统设计图解](https://toutiao.io/k/osewvaz) 
+- [2022-09-24-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) 
 - [2022-09-24-推荐-Redis高可用方案](https://toutiao.io/k/3hh68yl) 
+- [2022-09-24-推荐-常见分布式系统设计图解](https://toutiao.io/k/osewvaz) 

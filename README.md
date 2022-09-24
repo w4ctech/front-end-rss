@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-24 08:19:21，:rocket: 更新条数: +2018， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-24 08:50:22，:rocket: 更新条数: +2017， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-09-24-项目是用-BootstrapVue-写的，升级-NaiveUI-是不是只能彻底重写了？](https://www.v2ex.com/t/882639) ![](assets/new.png)  
+- [2022-09-24-有啥聊天工具，手机端或者-sns-网站-能同时发送-audio-语音条以及对应的-text-文字。-并且不要求手动触发文字识别。-微信-weixin-是需要长按再勾选。多了两个...](https://www.v2ex.com/t/882638) ![](assets/new.png)  
 - [2022-09-24-TS+Axios-能指定解析的对象吗](https://www.v2ex.com/t/882636) ![](assets/new.png)  
 - [2022-09-24-vite-原理有什么比较讲的好的资料推荐吗？](https://www.v2ex.com/t/882635) ![](assets/new.png)  
 - [2022-09-24-为什么开启了-PTT-检测-Win11-安装条件还是不通过](https://www.v2ex.com/t/882634) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-09-24-除了-Let's-Encrypt，国外还有公司提供免费不限量的泛解析域名-SSL-证书、吗？](https://www.v2ex.com/t/882616) ![](assets/new.png)  
 - [2022-09-24-问大家一个关于-Docker-镜像在/目录创建文件的问题](https://www.v2ex.com/t/882613) ![](assets/new.png)  
 - [2022-09-24-Macbook-近日多次开盖屏幕不亮,-m1m2-都有发生,-还不知道怎么复现.](https://www.v2ex.com/t/882612) ![](assets/new.png)  
-- [2022-09-24-在一家-20-人的公司因为各种破事离职了,-最后又因为-ZF-的骚操作导致医保断了,我在想自己是不是太软弱了](https://www.v2ex.com/t/882611) ![](assets/new.png)  
-- [2022-09-24-云闪付的扫一扫-URL-Scheme-到底是啥？有没有人知道呢？搜了半天似乎没有透漏过。](https://www.v2ex.com/t/882610) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,11 +563,11 @@
 - [2022-09-24-副玩法买量中美通杀？这款手游海外日收入破200万，出海大厂跟进](https://toutiao.io/k/89eqv9x) ![](assets/new.png)  
 - [2022-09-24-如何在开发和生产环境中使用-Docker-容器化-Golang-应用](https://toutiao.io/k/1nxc1nx) ![](assets/new.png)  
 - [2022-09-24-将你的-Python-脚本转换为命令行程序-|-Linux-中国](https://toutiao.io/k/nj6d5uz) ![](assets/new.png)  
-- [2022-09-24-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) ![](assets/new.png)  
-- [2022-09-24-推荐-1.8w-字的-SQL-优化大全](https://toutiao.io/k/tz7p6nl) ![](assets/new.png)  
 - [2022-09-24-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) ![](assets/new.png)  
-- [2022-09-24-推荐-常见分布式系统设计图解](https://toutiao.io/k/osewvaz) ![](assets/new.png)  
+- [2022-09-24-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) ![](assets/new.png)  
 - [2022-09-24-推荐-Redis高可用方案](https://toutiao.io/k/3hh68yl) ![](assets/new.png)  
+- [2022-09-24-推荐-1.8w-字的-SQL-优化大全](https://toutiao.io/k/tz7p6nl) ![](assets/new.png)  
+- [2022-09-24-推荐-常见分布式系统设计图解](https://toutiao.io/k/osewvaz) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

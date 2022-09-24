@@ -10131,11 +10131,6 @@
         "title": "mac 上有推荐的 pdf viewer 吗？仅看不需要标注编辑",
         "link": "https://www.v2ex.com/t/882631",
         "date": "2022-09-24"
-      },
-      {
-        "title": "比较好奇大家时间都是怎么存数据库的",
-        "link": "https://www.v2ex.com/t/882628",
-        "date": "2022-09-24"
       }
     ]
   },
@@ -10302,8 +10297,13 @@
         "date": "2022-09-24"
       },
       {
-        "title": "[推荐] 常见分布式系统设计图解",
-        "link": "https://toutiao.io/k/osewvaz",
+        "title": "[推荐] 聊聊 8种 架构模式",
+        "link": "https://toutiao.io/k/luf0yh6",
+        "date": "2022-09-24"
+      },
+      {
+        "title": "[推荐] Redis高可用方案",
+        "link": "https://toutiao.io/k/3hh68yl",
         "date": "2022-09-24"
       },
       {
@@ -10312,18 +10312,13 @@
         "date": "2022-09-24"
       },
       {
-        "title": "[推荐] 聊聊 8种 架构模式",
-        "link": "https://toutiao.io/k/luf0yh6",
+        "title": "[推荐] 常见分布式系统设计图解",
+        "link": "https://toutiao.io/k/osewvaz",
         "date": "2022-09-24"
       },
       {
         "title": "[推荐] 1.8w 字的 SQL 优化大全",
         "link": "https://toutiao.io/k/tz7p6nl",
-        "date": "2022-09-24"
-      },
-      {
-        "title": "[推荐] Redis高可用方案",
-        "link": "https://toutiao.io/k/3hh68yl",
         "date": "2022-09-24"
       }
     ]

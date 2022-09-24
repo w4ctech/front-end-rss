@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-24 06:35:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-24 07:17:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1914,6 +1914,8 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-09-24-type-c-公口转-lightning-母口转接头有推荐吗？](https://www.v2ex.com/t/882626) 
+- [2022-09-24-有什么好办法在宿主机给虚拟机装系统？](https://www.v2ex.com/t/882625) 
 - [2022-09-24-只是通过-Hyper-V-运行一些-32-位的国产软件的话，有什么精简版的系统吗？](https://www.v2ex.com/t/882623) 
 - [2022-09-24-uBlock-是不是把京东给干掉了？](https://www.v2ex.com/t/882621) 
 - [2022-09-24-有没有给老年人的看剧设备?](https://www.v2ex.com/t/882619) 
@@ -1942,8 +1944,6 @@
 - [2022-09-24-「存储空间」中「应用程序」体积统计有误](https://www.v2ex.com/t/882581) 
 - [2022-09-24-EFC-附近的小伙伴有咩·](https://www.v2ex.com/t/882580) 
 - [2022-09-24-小米启用双开功能后通知-bug](https://www.v2ex.com/t/882579) 
-- [2022-09-24-有必要自己买台-MacBook-吗？](https://www.v2ex.com/t/882575) 
-- [2022-09-24-（有偿）如何看懂开源项目](https://www.v2ex.com/t/882574) 
 - [2022-09-24-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-24-技术改变了什么？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15400&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fpower-of-technology%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-24-失败驱动开发-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15399&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffailure-driven-development%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1970,6 +1970,6 @@
 - [2022-09-24-副玩法买量中美通杀？这款手游海外日收入破200万，出海大厂跟进](https://toutiao.io/k/89eqv9x) 
 - [2022-09-24-将你的-Python-脚本转换为命令行程序-|-Linux-中国](https://toutiao.io/k/nj6d5uz) 
 - [2022-09-24-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) 
-- [2022-09-24-推荐-常见分布式系统设计图解](https://toutiao.io/k/osewvaz) 
 - [2022-09-24-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) 
+- [2022-09-24-推荐-常见分布式系统设计图解](https://toutiao.io/k/osewvaz) 
 - [2022-09-24-推荐-Redis高可用方案](https://toutiao.io/k/3hh68yl) 

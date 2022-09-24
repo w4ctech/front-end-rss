@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-24 06:35:39。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-09-24 07:17:00。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -71,6 +71,8 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [【V2EX】2022-09-24-type-c-公口转-lightning-母口转接头有推荐吗？](https://www.v2ex.com/t/882626) 
+- [【V2EX】2022-09-24-有什么好办法在宿主机给虚拟机装系统？](https://www.v2ex.com/t/882625) 
 - [【V2EX】2022-09-24-只是通过-Hyper-V-运行一些-32-位的国产软件的话，有什么精简版的系统吗？](https://www.v2ex.com/t/882623) 
 - [【V2EX】2022-09-24-uBlock-是不是把京东给干掉了？](https://www.v2ex.com/t/882621) 
 - [【V2EX】2022-09-24-有没有给老年人的看剧设备?](https://www.v2ex.com/t/882619) 
@@ -104,9 +106,6 @@
 - [【V2EX】2022-09-24-「存储空间」中「应用程序」体积统计有误](https://www.v2ex.com/t/882581) 
 - [【V2EX】2022-09-24-EFC-附近的小伙伴有咩·](https://www.v2ex.com/t/882580) 
 - [【V2EX】2022-09-24-小米启用双开功能后通知-bug](https://www.v2ex.com/t/882579) 
-- [【V2EX】2022-09-24-IPV6-安全性问题，端口全都暴露在公网？](https://www.v2ex.com/t/882576) 
-- [【V2EX】2022-09-24-有必要自己买台-MacBook-吗？](https://www.v2ex.com/t/882575) 
-- [【V2EX】2022-09-24-（有偿）如何看懂开源项目](https://www.v2ex.com/t/882574) 
 - [【技术头条】2022-09-24-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-24-技术改变了什么？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15400&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fpower-of-technology%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-24-失败驱动开发-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15399&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffailure-driven-development%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -138,10 +137,10 @@
 - [【开发者头条】2022-09-24-如何在开发和生产环境中使用-Docker-容器化-Golang-应用](https://toutiao.io/k/1nxc1nx) 
 - [【开发者头条】2022-09-24-将你的-Python-脚本转换为命令行程序-|-Linux-中国](https://toutiao.io/k/nj6d5uz) 
 - [【开发者头条】2022-09-24-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) 
-- [【开发者头条】2022-09-24-推荐-1.8w-字的-SQL-优化大全](https://toutiao.io/k/tz7p6nl) 
-- [【开发者头条】2022-09-24-推荐-常见分布式系统设计图解](https://toutiao.io/k/osewvaz) 
 - [【开发者头条】2022-09-24-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) 
+- [【开发者头条】2022-09-24-推荐-常见分布式系统设计图解](https://toutiao.io/k/osewvaz) 
 - [【开发者头条】2022-09-24-推荐-Redis高可用方案](https://toutiao.io/k/3hh68yl) 
+- [【开发者头条】2022-09-24-推荐-1.8w-字的-SQL-优化大全](https://toutiao.io/k/tz7p6nl) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

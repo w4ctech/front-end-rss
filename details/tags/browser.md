@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-24 10:46:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-24 11:14:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -16,5 +16,4 @@
 - [2022-09-24-有没有大佬知道苏周到-APP-扫码的-URL-Scheme](https://www.v2ex.com/t/882642) 
 - [2022-09-24-mac-上有推荐的-pdf-viewer-吗？仅看不需要标注编辑](https://www.v2ex.com/t/882631) 
 - [2022-09-24-云闪付的扫一扫-URL-Scheme-到底是啥？有没有人知道呢？搜了半天似乎没有透漏过。](https://www.v2ex.com/t/882610) 
-- [2022-09-24-360-公告：退出投资-Opera-浏览器，子公司拟-1.29-亿美元出售欧朋股权](https://www.v2ex.com/t/882607) 
 - [2022-09-24-数字化新业态下数据安全创新——Token化](https://toutiao.io/k/d1z2bkp) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-24 05:18:16，:rocket: 更新条数: +2016， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-24 06:02:05，:rocket: 更新条数: +2018， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-09-24-有没有给老年人的看剧设备?](https://www.v2ex.com/t/882619) ![](assets/new.png)  
+- [2022-09-24-腾讯轻量两周年，抢购+升配+打折又要来了](https://www.v2ex.com/t/882618) ![](assets/new.png)  
+- [2022-09-24-回忆-小时候的第一部掌机](https://www.v2ex.com/t/882617) ![](assets/new.png)  
+- [2022-09-24-除了-Let's-Encrypt，国外还有公司提供免费不限量的泛解析域名-SSL-证书、吗？](https://www.v2ex.com/t/882616) ![](assets/new.png)  
+- [2022-09-24-问大家一个关于-Docker-镜像在/目录创建文件的问题](https://www.v2ex.com/t/882613) ![](assets/new.png)  
 - [2022-09-24-Macbook-近日多次开盖屏幕不亮,-m1m2-都有发生,-还不知道怎么复现.](https://www.v2ex.com/t/882612) ![](assets/new.png)  
 - [2022-09-24-在一家-20-人的公司因为各种破事离职了,-最后又因为-ZF-的骚操作导致医保断了,我在想自己是不是太软弱了](https://www.v2ex.com/t/882611) ![](assets/new.png)  
 - [2022-09-24-云闪付的扫一扫-URL-Scheme-到底是啥？有没有人知道呢？搜了半天似乎没有透漏过。](https://www.v2ex.com/t/882610) ![](assets/new.png)  
@@ -500,17 +505,12 @@
 - [2022-09-24-深圳电信马上到期，目前最划算的千兆网络是哪家？](https://www.v2ex.com/t/882605) ![](assets/new.png)  
 - [2022-09-24-请问如何方便地避免：大文件夹拷贝后，部分文件损坏](https://www.v2ex.com/t/882604) ![](assets/new.png)  
 - [2022-09-24-畅网出了-N5105-的妖板了，请问这个可以用什么机箱来弄-nas-呢？](https://www.v2ex.com/t/882603) ![](assets/new.png)  
-- [2022-09-24-为什么现在中国的夜店都成了脱衣舞俱乐部](https://www.v2ex.com/t/882602) ![](assets/new.png)  
 - [2022-09-24-手里有个域名是-oe1.com,-打算用来做一个光电行业的产品网站，想取一个中文名不知道大家有什么建议。](https://www.v2ex.com/t/882601) ![](assets/new.png)  
 - [2022-09-24-最近写了一款-android-相册-，-希望大家能够试一试。](https://www.v2ex.com/t/882600) ![](assets/new.png)  
 - [2022-09-24-TailScale-自建-Derper-为什么只有一半的带宽](https://www.v2ex.com/t/882598) ![](assets/new.png)  
 - [2022-09-24-iPhone-原厂-MagSafe-皮革壳体验如何？](https://www.v2ex.com/t/882597) ![](assets/new.png)  
-- [2022-09-24-交警抓到一个骑电动车没戴头盔的罚款-20,-提成有多少?](https://www.v2ex.com/t/882596) ![](assets/new.png)  
 - [2022-09-24-mac-下的有线网卡是不是有点怪](https://www.v2ex.com/t/882595) ![](assets/new.png)  
 - [2022-09-24-iPhone-14-Pro-VoNR-独立-5G-语音使用-5G-通话](https://www.v2ex.com/t/882594) ![](assets/new.png)  
-- [2022-09-24-跨网，不安装任何软件、服务，怎么传输文件呢？](https://www.v2ex.com/t/882592) ![](assets/new.png)  
-- [2022-09-24-windows-下离线-tts-有没有好用的-sdk?](https://www.v2ex.com/t/882591) ![](assets/new.png)  
-- [2022-09-24-各位大佬，我们学校图书馆手机预约网站打不开怎么办](https://www.v2ex.com/t/882589) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -561,11 +561,13 @@
 - [2022-09-24-Apache-Druid-在-Shopee-的云原生架构演进](https://toutiao.io/k/79sg1gw) ![](assets/new.png)  
 - [2022-09-24-亿级异构任务调度框架设计与实践](https://toutiao.io/k/lmr11bb) ![](assets/new.png)  
 - [2022-09-24-副玩法买量中美通杀？这款手游海外日收入破200万，出海大厂跟进](https://toutiao.io/k/89eqv9x) ![](assets/new.png)  
+- [2022-09-24-如何在开发和生产环境中使用-Docker-容器化-Golang-应用](https://toutiao.io/k/1nxc1nx) ![](assets/new.png)  
+- [2022-09-24-将你的-Python-脚本转换为命令行程序-|-Linux-中国](https://toutiao.io/k/nj6d5uz) ![](assets/new.png)  
 - [2022-09-24-推荐-1.8w-字的-SQL-优化大全](https://toutiao.io/k/tz7p6nl) ![](assets/new.png)  
 - [2022-09-24-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) ![](assets/new.png)  
-- [2022-09-24-推荐-Redis高可用方案](https://toutiao.io/k/3hh68yl) ![](assets/new.png)  
 - [2022-09-24-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) ![](assets/new.png)  
 - [2022-09-24-推荐-常见分布式系统设计图解](https://toutiao.io/k/osewvaz) ![](assets/new.png)  
+- [2022-09-24-推荐-Redis高可用方案](https://toutiao.io/k/3hh68yl) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

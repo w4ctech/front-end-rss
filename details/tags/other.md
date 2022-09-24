@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-24 20:16:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-24 20:44:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1914,6 +1914,7 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-09-24-为什么欧美很多公司/团体/个人都喜欢造新语言，而国内普遍认为语言只是工具，不要过多探究语言语法本身，重要的是库、生态？](https://www.v2ex.com/t/882714) 
 - [2022-09-24-ios-开发者签名证书合租](https://www.v2ex.com/t/882713) 
 - [2022-09-24-Linux-下有类似-windows-磁盘加密工具-bitlocker-吗?](https://www.v2ex.com/t/882712) 
 - [2022-09-24-任天堂普通会员开车，有人来上车吗？](https://www.v2ex.com/t/882711) 

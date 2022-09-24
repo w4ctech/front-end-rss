@@ -9953,6 +9953,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "为什么欧美很多公司/团体/个人都喜欢造新语言，而国内普遍认为语言只是工具，不要过多探究语言语法本身，重要的是库、生态？",
+        "link": "https://www.v2ex.com/t/882714",
+        "date": "2022-09-24"
+      },
+      {
         "title": "ios 开发者签名证书合租",
         "link": "https://www.v2ex.com/t/882713",
         "date": "2022-09-24"
@@ -10161,11 +10166,6 @@
         "title": "你们 iOS 设备有开启原彩吗?感觉发黄好难受，想关了",
         "link": "https://www.v2ex.com/t/882665",
         "date": "2022-09-24"
-      },
-      {
-        "title": "git 协议可能被中间人攻击吗？",
-        "link": "https://www.v2ex.com/t/882664",
-        "date": "2022-09-24"
       }
     ]
   },
@@ -10332,13 +10332,13 @@
         "date": "2022-09-24"
       },
       {
-        "title": "[推荐] 1.8w 字的 SQL 优化大全",
-        "link": "https://toutiao.io/k/tz7p6nl",
+        "title": "[推荐] Redis高可用方案",
+        "link": "https://toutiao.io/k/3hh68yl",
         "date": "2022-09-24"
       },
       {
-        "title": "[推荐] Redis高可用方案",
-        "link": "https://toutiao.io/k/3hh68yl",
+        "title": "[推荐] 1.8w 字的 SQL 优化大全",
+        "link": "https://toutiao.io/k/tz7p6nl",
         "date": "2022-09-24"
       },
       {

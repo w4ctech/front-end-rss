@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-24 07:17:00，:rocket: 更新条数: +2016， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-24 07:42:28，:rocket: 更新条数: +2016， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-09-24-美区-Apple-One-超大杯（缺-3-位）](https://www.v2ex.com/t/882629) ![](assets/new.png)  
+- [2022-09-24-比较好奇大家时间都是怎么存数据库的](https://www.v2ex.com/t/882628) ![](assets/new.png)  
 - [2022-09-24-type-c-公口转-lightning-母口转接头有推荐吗？](https://www.v2ex.com/t/882626) ![](assets/new.png)  
 - [2022-09-24-有什么好办法在宿主机给虚拟机装系统？](https://www.v2ex.com/t/882625) ![](assets/new.png)  
 - [2022-09-24-只是通过-Hyper-V-运行一些-32-位的国产软件的话，有什么精简版的系统吗？](https://www.v2ex.com/t/882623) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-09-24-深圳电信马上到期，目前最划算的千兆网络是哪家？](https://www.v2ex.com/t/882605) ![](assets/new.png)  
 - [2022-09-24-请问如何方便地避免：大文件夹拷贝后，部分文件损坏](https://www.v2ex.com/t/882604) ![](assets/new.png)  
 - [2022-09-24-畅网出了-N5105-的妖板了，请问这个可以用什么机箱来弄-nas-呢？](https://www.v2ex.com/t/882603) ![](assets/new.png)  
-- [2022-09-24-手里有个域名是-oe1.com,-打算用来做一个光电行业的产品网站，想取一个中文名不知道大家有什么建议。](https://www.v2ex.com/t/882601) ![](assets/new.png)  
-- [2022-09-24-最近写了一款-android-相册-，-希望大家能够试一试。](https://www.v2ex.com/t/882600) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,10 +564,10 @@
 - [2022-09-24-如何在开发和生产环境中使用-Docker-容器化-Golang-应用](https://toutiao.io/k/1nxc1nx) ![](assets/new.png)  
 - [2022-09-24-将你的-Python-脚本转换为命令行程序-|-Linux-中国](https://toutiao.io/k/nj6d5uz) ![](assets/new.png)  
 - [2022-09-24-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) ![](assets/new.png)  
-- [2022-09-24-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) ![](assets/new.png)  
 - [2022-09-24-推荐-常见分布式系统设计图解](https://toutiao.io/k/osewvaz) ![](assets/new.png)  
-- [2022-09-24-推荐-Redis高可用方案](https://toutiao.io/k/3hh68yl) ![](assets/new.png)  
 - [2022-09-24-推荐-1.8w-字的-SQL-优化大全](https://toutiao.io/k/tz7p6nl) ![](assets/new.png)  
+- [2022-09-24-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) ![](assets/new.png)  
+- [2022-09-24-推荐-Redis高可用方案](https://toutiao.io/k/3hh68yl) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-24 08:50:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-24 09:16:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1914,6 +1914,8 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-09-24-如何搞到一个列表每年新产生的网络热词。即：搜狗输入法捕获的热词-网友自创词。-像成语，歇后语，优质的代码，-巧妙简短的网络新新语言，替代以往啰嗦几百句才...](https://www.v2ex.com/t/882641) 
+- [2022-09-24-Python-怎么提取正负号](https://www.v2ex.com/t/882640) 
 - [2022-09-24-TS+Axios-能指定解析的对象吗](https://www.v2ex.com/t/882636) 
 - [2022-09-24-vite-原理有什么比较讲的好的资料推荐吗？](https://www.v2ex.com/t/882635) 
 - [2022-09-24-为什么开启了-PTT-检测-Win11-安装条件还是不通过](https://www.v2ex.com/t/882634) 
@@ -1942,7 +1944,6 @@
 - [2022-09-24-mac-下的有线网卡是不是有点怪](https://www.v2ex.com/t/882595) 
 - [2022-09-24-iPhone-14-Pro-VoNR-独立-5G-语音使用-5G-通话](https://www.v2ex.com/t/882594) 
 - [2022-09-24-跨网，不安装任何软件、服务，怎么传输文件呢？](https://www.v2ex.com/t/882592) 
-- [2022-09-24-windows-下离线-tts-有没有好用的-sdk?](https://www.v2ex.com/t/882591) 
 - [2022-09-24-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-24-技术改变了什么？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15400&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fpower-of-technology%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-24-失败驱动开发-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15399&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffailure-driven-development%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1968,7 +1969,7 @@
 - [2022-09-24-亿级异构任务调度框架设计与实践](https://toutiao.io/k/lmr11bb) 
 - [2022-09-24-副玩法买量中美通杀？这款手游海外日收入破200万，出海大厂跟进](https://toutiao.io/k/89eqv9x) 
 - [2022-09-24-将你的-Python-脚本转换为命令行程序-|-Linux-中国](https://toutiao.io/k/nj6d5uz) 
-- [2022-09-24-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) 
-- [2022-09-24-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) 
 - [2022-09-24-推荐-Redis高可用方案](https://toutiao.io/k/3hh68yl) 
+- [2022-09-24-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) 
 - [2022-09-24-推荐-常见分布式系统设计图解](https://toutiao.io/k/osewvaz) 
+- [2022-09-24-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-24 20:44:03。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-09-24 21:14:00。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -71,6 +71,8 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [【V2EX】2022-09-24-人在欧洲，读博还是工作比较好](https://www.v2ex.com/t/882716) 
+- [【V2EX】2022-09-24-买了-MacBook-Air-M2，求推荐一个扩展坞/转换器](https://www.v2ex.com/t/882715) 
 - [【V2EX】2022-09-24-为什么欧美很多公司/团体/个人都喜欢造新语言，而国内普遍认为语言只是工具，不要过多探究语言语法本身，重要的是库、生态？](https://www.v2ex.com/t/882714) 
 - [【V2EX】2022-09-24-ios-开发者签名证书合租](https://www.v2ex.com/t/882713) 
 - [【V2EX】2022-09-24-Linux-下有类似-windows-磁盘加密工具-bitlocker-吗?](https://www.v2ex.com/t/882712) 
@@ -112,8 +114,6 @@
 - [【V2EX】2022-09-24-阿里云轻量老用户有便宜点的路子吗](https://www.v2ex.com/t/882670) 
 - [【V2EX】2022-09-24-深圳移动最低套餐是多少？](https://www.v2ex.com/t/882669) 
 - [【V2EX】2022-09-24-jellyfin-部分视频无法播放](https://www.v2ex.com/t/882668) 
-- [【V2EX】2022-09-24-Windows-11-就近共享，-目标设备无响应。](https://www.v2ex.com/t/882666) 
-- [【V2EX】2022-09-24-你们-iOS-设备有开启原彩吗?感觉发黄好难受，想关了](https://www.v2ex.com/t/882665) 
 - [【技术头条】2022-09-24-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-24-技术改变了什么？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15400&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fpower-of-technology%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-24-失败驱动开发-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15399&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffailure-driven-development%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -144,10 +144,10 @@
 - [【开发者头条】2022-09-24-副玩法买量中美通杀？这款手游海外日收入破200万，出海大厂跟进](https://toutiao.io/k/89eqv9x) 
 - [【开发者头条】2022-09-24-如何在开发和生产环境中使用-Docker-容器化-Golang-应用](https://toutiao.io/k/1nxc1nx) 
 - [【开发者头条】2022-09-24-将你的-Python-脚本转换为命令行程序-|-Linux-中国](https://toutiao.io/k/nj6d5uz) 
-- [【开发者头条】2022-09-24-推荐-Redis高可用方案](https://toutiao.io/k/3hh68yl) 
+- [【开发者头条】2022-09-24-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) 
 - [【开发者头条】2022-09-24-推荐-1.8w-字的-SQL-优化大全](https://toutiao.io/k/tz7p6nl) 
 - [【开发者头条】2022-09-24-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) 
-- [【开发者头条】2022-09-24-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) 
+- [【开发者头条】2022-09-24-推荐-Redis高可用方案](https://toutiao.io/k/3hh68yl) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

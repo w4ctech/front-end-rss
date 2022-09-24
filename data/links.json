@@ -9953,6 +9953,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "人在欧洲，读博还是工作比较好",
+        "link": "https://www.v2ex.com/t/882716",
+        "date": "2022-09-24"
+      },
+      {
+        "title": "买了 MacBook Air M2，求推荐一个扩展坞/转换器",
+        "link": "https://www.v2ex.com/t/882715",
+        "date": "2022-09-24"
+      },
+      {
         "title": "为什么欧美很多公司/团体/个人都喜欢造新语言，而国内普遍认为语言只是工具，不要过多探究语言语法本身，重要的是库、生态？",
         "link": "https://www.v2ex.com/t/882714",
         "date": "2022-09-24"
@@ -10156,16 +10166,6 @@
         "title": "jellyfin 部分视频无法播放",
         "link": "https://www.v2ex.com/t/882668",
         "date": "2022-09-24"
-      },
-      {
-        "title": "Windows 11 就近共享， 目标设备无响应。",
-        "link": "https://www.v2ex.com/t/882666",
-        "date": "2022-09-24"
-      },
-      {
-        "title": "你们 iOS 设备有开启原彩吗?感觉发黄好难受，想关了",
-        "link": "https://www.v2ex.com/t/882665",
-        "date": "2022-09-24"
       }
     ]
   },
@@ -10332,8 +10332,8 @@
         "date": "2022-09-24"
       },
       {
-        "title": "[推荐] Redis高可用方案",
-        "link": "https://toutiao.io/k/3hh68yl",
+        "title": "[推荐] Netty、Kafka中的零拷贝技术到底有多牛?",
+        "link": "https://toutiao.io/k/ussdz4q",
         "date": "2022-09-24"
       },
       {
@@ -10347,8 +10347,8 @@
         "date": "2022-09-24"
       },
       {
-        "title": "[推荐] Netty、Kafka中的零拷贝技术到底有多牛?",
-        "link": "https://toutiao.io/k/ussdz4q",
+        "title": "[推荐] Redis高可用方案",
+        "link": "https://toutiao.io/k/3hh68yl",
         "date": "2022-09-24"
       }
     ]

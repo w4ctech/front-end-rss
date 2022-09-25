@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-09-25 05:02:57。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-25 05:57:28。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -233,7 +233,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
 - [【V2EX】拿到一个美国的-offer，准备居家办公，英语不太好，有什么好的视频会议实时字幕软件推荐？](https://www.v2ex.com/t/882774)
 - [【V2EX】最好用的-youtube-视频下载脚本插件有哪个？](https://www.v2ex.com/t/882772)
-- [【V2EX】求平板推荐，因为去图书馆带电脑不方便，想买个平板，-2000-以内吧，只看视频、PPT-和文件，喜欢纸质笔记，最好能耐用一些](https://www.v2ex.com/t/882725)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -342,6 +341,7 @@
 
 
 
+- [【V2EX】2022-09-25-小伙伴们,我司招聘-Python-开发工程师啦!](https://www.v2ex.com/t/882780)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

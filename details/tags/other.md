@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-25 14:13:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-25 14:41:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1914,6 +1914,9 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-09-25-谁知道抖音里-AI-配音“这个男人叫小帅”是哪里配音的？](https://www.v2ex.com/t/882873) 
+- [2022-09-25-2022-换工作总结](https://www.v2ex.com/t/882872) 
+- [2022-09-25-为什么-spark-的耗电这么高？](https://www.v2ex.com/t/882871) 
 - [2022-09-25-Unraid-6.11-弃用-NerdPack-的解决办法](https://www.v2ex.com/t/882870) 
 - [2022-09-25-求推荐能完美安装黑苹果的迷你主机](https://www.v2ex.com/t/882869) 
 - [2022-09-25-springboot-判断-wifi-4g-状态](https://www.v2ex.com/t/882866) 
@@ -1949,8 +1952,6 @@
 - [2022-09-25-Let's-Encrypt-的泛域名证书申请总是出错](https://www.v2ex.com/t/882826) 
 - [2022-09-25-现在搭一个小的推荐系统麻烦吗？](https://www.v2ex.com/t/882825) 
 - [2022-09-25-人在美国的话，可以做一些什么方便回中国之后科学上网？](https://www.v2ex.com/t/882824) 
-- [2022-09-25-使用-V2EX-的第三方客户端-V2er，-Google-显示有新设备登录，是怎么回事儿呀](https://www.v2ex.com/t/882823) 
-- [2022-09-25-为毛回帖需要注册满-100-多天？](https://www.v2ex.com/t/882822) 
 - [2022-09-25-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-25-技术改变了什么？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15400&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fpower-of-technology%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-25-失败驱动开发-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15399&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffailure-driven-development%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-25 14:13:47，:rocket: 更新条数: +2025， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-25 14:41:19，:rocket: 更新条数: +2025， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-09-25-谁知道抖音里-AI-配音“这个男人叫小帅”是哪里配音的？](https://www.v2ex.com/t/882873) ![](assets/new.png)  
+- [2022-09-25-2022-换工作总结](https://www.v2ex.com/t/882872) ![](assets/new.png)  
+- [2022-09-25-为什么-spark-的耗电这么高？](https://www.v2ex.com/t/882871) ![](assets/new.png)  
 - [2022-09-25-Unraid-6.11-弃用-NerdPack-的解决办法](https://www.v2ex.com/t/882870) ![](assets/new.png)  
 - [2022-09-25-求推荐能完美安装黑苹果的迷你主机](https://www.v2ex.com/t/882869) ![](assets/new.png)  
 - [2022-09-25-ClashxPro-做旁路由，疑似请求过载引起大量-dial-tcp-timeout](https://www.v2ex.com/t/882867) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-09-25-有没有-app-能智能分类图片。。1-类是，文字密集型的，阅读器截屏，网页文章截屏-2-类是，临时的比如取件码-寄件码-3，美女写真-4，杂-7-杂-8-的-。。。或者截...](https://www.v2ex.com/t/882854) ![](assets/new.png)  
 - [2022-09-25-发现一个国内可用的-esim-免费-app：-DENT](https://www.v2ex.com/t/882853) ![](assets/new.png)  
 - [2022-09-25-在-Matrix-收发-QQ-和微信的消息](https://www.v2ex.com/t/882852) ![](assets/new.png)  
-- [2022-09-25-甲骨文-arm-机子-dd-之后的配置](https://www.v2ex.com/t/882851) ![](assets/new.png)  
-- [2022-09-25-Mac-妙控键盘切换输出设备](https://www.v2ex.com/t/882850) ![](assets/new.png)  
-- [2022-09-25-求怎么去除/128-的-ipv6-地址](https://www.v2ex.com/t/882849) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,8 +564,8 @@
 - [2022-09-25-固执的喷子，你悟到了成长的真谛吗？](https://toutiao.io/k/i3flxgl) ![](assets/new.png)  
 - [2022-09-25-OpenDILab幕后的「孤勇者」：AI研究员、电竞冠军和他们的开源梦](https://toutiao.io/k/03dso1x) ![](assets/new.png)  
 - [2022-09-25-推荐-Redis高可用方案](https://toutiao.io/k/3hh68yl) ![](assets/new.png)  
-- [2022-09-25-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) ![](assets/new.png)  
 - [2022-09-25-推荐-1.8w-字的-SQL-优化大全](https://toutiao.io/k/tz7p6nl) ![](assets/new.png)  
+- [2022-09-25-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) ![](assets/new.png)  
 - [2022-09-25-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

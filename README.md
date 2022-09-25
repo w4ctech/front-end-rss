@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-25 03:55:56，:rocket: 更新条数: +2010， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-25 05:02:56，:rocket: 更新条数: +2011， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,18 @@
 </summary>
 
 
+- [2022-09-25-拿到一个美国的-offer，准备居家办公，英语不太好，有什么好的视频会议实时字幕软件推荐？](https://www.v2ex.com/t/882774) ![](assets/new.png)  
+- [2022-09-25-MySQL-单表上亿条数据有必要考虑分表吗？目前已经-8400-万条了，感觉查询耗时也没有明显提升，就是-CPU-不查询占用也在-20%以上，不知道在干什么。如果有必要的...](https://www.v2ex.com/t/882773) ![](assets/new.png)  
+- [2022-09-25-最好用的-youtube-视频下载脚本插件有哪个？](https://www.v2ex.com/t/882772) ![](assets/new.png)  
+- [2022-09-25-3100-买了个全新-iphone12mini-美版-全新未激活-划算吗？哈哈](https://www.v2ex.com/t/882771) ![](assets/new.png)  
+- [2022-09-25-有没有在-ios-上用-dropbox-不能后台同步的](https://www.v2ex.com/t/882770) ![](assets/new.png)  
+- [2022-09-25-抢救一下，种子速度为-0，挂-proxy，尝试不同国家的节点，会不会有用?](https://www.v2ex.com/t/882767) ![](assets/new.png)  
+- [2022-09-25-红米-8A低端安卓，活路何在？](https://www.v2ex.com/t/882766) ![](assets/new.png)  
+- [2022-09-25-救命啊大佬们，帮帮忙各位，-bitlocker-加密了硬盘，但是在重装系统的时候不小心删除了卷](https://www.v2ex.com/t/882765) ![](assets/new.png)  
+- [2022-09-25-苹果表示只会在中国销售的-iPhone14-系列手机上使用长江存储的闪存，大家会因此选择海淘吗](https://www.v2ex.com/t/882764) ![](assets/new.png)  
+- [2022-09-25-知乎网友爆料-iMessage-国内有审查](https://www.v2ex.com/t/882763) ![](assets/new.png)  
+- [2022-09-25-特斯拉辅助驾驶，没准确识别出车道线，忽然打方向往外窜。这条路走了七八回了至少，第一次这样。](https://www.v2ex.com/t/882762) ![](assets/new.png)  
+- [2022-09-25-公司的电脑禁止安装微信-有什么好的办法](https://www.v2ex.com/t/882761) ![](assets/new.png)  
 - [2022-09-25-求-Nginx-大佬指点一下，关于反代-http-自动跳转-https-的](https://www.v2ex.com/t/882759) ![](assets/new.png)  
 - [2022-09-25-广深-新型社交软件创业团队创始成员-IOS-前端](https://www.v2ex.com/t/882757) ![](assets/new.png)  
 - [2022-09-25-macos-com.apple.kvs.temporary-assets-占用-100G+](https://www.v2ex.com/t/882756) ![](assets/new.png)  
@@ -499,18 +511,6 @@
 - [2022-09-25-NGINX-下-Gzip-和-Brotli-不压缩字体文件。](https://www.v2ex.com/t/882751) ![](assets/new.png)  
 - [2022-09-25-rap-届的回忆杀](https://www.v2ex.com/t/882750) ![](assets/new.png)  
 - [2022-09-25-iPhone14Pro-电池、屏幕使用时间-bug？](https://www.v2ex.com/t/882749) ![](assets/new.png)  
-- [2022-09-25-有没有支持-Mac、-iPad-、-iPhone-的剪辑软件](https://www.v2ex.com/t/882748) ![](assets/new.png)  
-- [2022-09-25-macos-下挂载-samba，休眠后就要重新挂载，大家是如何解决的？](https://www.v2ex.com/t/882747) ![](assets/new.png)  
-- [2022-09-25-22-届被虾皮裁员,-我该何去何从?](https://www.v2ex.com/t/882746) ![](assets/new.png)  
-- [2022-09-25-微信安卓版弹出式广告，只有我的这样吗？](https://www.v2ex.com/t/882743) ![](assets/new.png)  
-- [2022-09-25-有什么好用的识别字体类型以及大小的网站？](https://www.v2ex.com/t/882740) ![](assets/new.png)  
-- [2022-09-25-求推荐单反三脚架](https://www.v2ex.com/t/882736) ![](assets/new.png)  
-- [2022-09-25-IP14-的-wifi-芯片，还是万年不变的-80hz-2x2-吗？](https://www.v2ex.com/t/882735) ![](assets/new.png)  
-- [2022-09-25-整了个免费的离线-OCR-网站](https://www.v2ex.com/t/882733) ![](assets/new.png)  
-- [2022-09-25-美元今年大概会涨到多少？](https://www.v2ex.com/t/882732) ![](assets/new.png)  
-- [2022-09-25-华侨华人华裔的个人理解](https://www.v2ex.com/t/882730) ![](assets/new.png)  
-- [2022-09-25-菜鸡互啄,怎么选](https://www.v2ex.com/t/882729) ![](assets/new.png)  
-- [2022-09-25-个人摄影师打算建立一个本地存储服务](https://www.v2ex.com/t/882726) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -555,16 +555,16 @@
 
 - [2022-09-25-创意！原来阮大佬博客的阅读进度功能这么简单](https://toutiao.io/k/e9q9qy6) ![](assets/new.png)  
 - [2022-09-25-基于-Doris-的知乎-DMP-系统架构与实践](https://toutiao.io/k/902qs8s) ![](assets/new.png)  
-- [2022-09-25-云原生大数据平台未来的发展趋势是什么？---知乎](https://toutiao.io/k/ask4hy4) ![](assets/new.png)  
 - [2022-09-25-Dubbo-泛化调用引发的“血案”](https://toutiao.io/k/goxfkdv) ![](assets/new.png)  
+- [2022-09-25-云原生大数据平台未来的发展趋势是什么？---知乎](https://toutiao.io/k/ask4hy4) ![](assets/new.png)  
 - [2022-09-25-关于云音乐数据治理的实践与思考](https://toutiao.io/k/8zqkqed) ![](assets/new.png)  
 - [2022-09-25-软件开发过程中的工作产品裁剪的依据是什么？](https://toutiao.io/k/hqfr9tl) ![](assets/new.png)  
 - [2022-09-25-固执的喷子，你悟到了成长的真谛吗？](https://toutiao.io/k/i3flxgl) ![](assets/new.png)  
 - [2022-09-25-OpenDILab幕后的「孤勇者」：AI研究员、电竞冠军和他们的开源梦](https://toutiao.io/k/03dso1x) ![](assets/new.png)  
 - [2022-09-25-推荐-1.8w-字的-SQL-优化大全](https://toutiao.io/k/tz7p6nl) ![](assets/new.png)  
-- [2022-09-25-推荐-Redis高可用方案](https://toutiao.io/k/3hh68yl) ![](assets/new.png)  
-- [2022-09-25-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) ![](assets/new.png)  
 - [2022-09-25-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) ![](assets/new.png)  
+- [2022-09-25-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) ![](assets/new.png)  
+- [2022-09-25-推荐-Redis高可用方案](https://toutiao.io/k/3hh68yl) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

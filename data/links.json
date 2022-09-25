@@ -9953,6 +9953,66 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "拿到一个美国的 offer，准备居家办公，英语不太好，有什么好的视频会议实时字幕软件推荐？",
+        "link": "https://www.v2ex.com/t/882774",
+        "date": "2022-09-25"
+      },
+      {
+        "title": "MySQL 单表上亿条数据有必要考虑分表吗？目前已经 8400 万条了，感觉查询耗时也没有明显提升，就是 CPU 不查询占用也在 20%以上，不知道在干什么。如果有必要的...",
+        "link": "https://www.v2ex.com/t/882773",
+        "date": "2022-09-25"
+      },
+      {
+        "title": "最好用的 youtube 视频下载脚本插件有哪个？",
+        "link": "https://www.v2ex.com/t/882772",
+        "date": "2022-09-25"
+      },
+      {
+        "title": "3100 买了个全新 iphone12mini 美版 全新未激活 划算吗？哈哈",
+        "link": "https://www.v2ex.com/t/882771",
+        "date": "2022-09-25"
+      },
+      {
+        "title": "有没有在 ios 上用 dropbox 不能后台同步的",
+        "link": "https://www.v2ex.com/t/882770",
+        "date": "2022-09-25"
+      },
+      {
+        "title": "抢救一下，种子速度为 0，挂 proxy，尝试不同国家的节点，会不会有用?",
+        "link": "https://www.v2ex.com/t/882767",
+        "date": "2022-09-25"
+      },
+      {
+        "title": "红米 8A(低端安卓)，活路何在？",
+        "link": "https://www.v2ex.com/t/882766",
+        "date": "2022-09-25"
+      },
+      {
+        "title": "救命啊大佬们，帮帮忙各位， bitlocker 加密了硬盘，但是在重装系统的时候不小心删除了卷",
+        "link": "https://www.v2ex.com/t/882765",
+        "date": "2022-09-25"
+      },
+      {
+        "title": "苹果表示只会在中国销售的 iPhone14 系列手机上使用长江存储的闪存，大家会因此选择海淘吗",
+        "link": "https://www.v2ex.com/t/882764",
+        "date": "2022-09-25"
+      },
+      {
+        "title": "知乎网友爆料 iMessage 国内有审查",
+        "link": "https://www.v2ex.com/t/882763",
+        "date": "2022-09-25"
+      },
+      {
+        "title": "特斯拉辅助驾驶，没准确识别出车道线，忽然打方向往外窜。这条路走了七八回了至少，第一次这样。",
+        "link": "https://www.v2ex.com/t/882762",
+        "date": "2022-09-25"
+      },
+      {
+        "title": "公司的电脑禁止安装微信 有什么好的办法",
+        "link": "https://www.v2ex.com/t/882761",
+        "date": "2022-09-25"
+      },
+      {
         "title": "求 Nginx 大佬指点一下，关于反代 http 自动跳转 https 的",
         "link": "https://www.v2ex.com/t/882759",
         "date": "2022-09-25"
@@ -10056,61 +10116,6 @@
         "title": "求平板推荐，因为去图书馆带电脑不方便，想买个平板， 2000 以内吧，只看视频、PPT 和文件，喜欢纸质笔记，最好能耐用一些",
         "link": "https://www.v2ex.com/t/882725",
         "date": "2022-09-25"
-      },
-      {
-        "title": "oracle 如何给默认 schema 其他模式视图的查询关联及权限",
-        "link": "https://www.v2ex.com/t/882724",
-        "date": "2022-09-25"
-      },
-      {
-        "title": "[问题求助] 电脑输出的声音里隔段时间就有嗞啦声",
-        "link": "https://www.v2ex.com/t/882723",
-        "date": "2022-09-25"
-      },
-      {
-        "title": "前端小白 UI 设计之惑？",
-        "link": "https://www.v2ex.com/t/882722",
-        "date": "2022-09-25"
-      },
-      {
-        "title": "求一个自建打洞方案",
-        "link": "https://www.v2ex.com/t/882721",
-        "date": "2022-09-25"
-      },
-      {
-        "title": "微信聊天记录损坏，无法查看",
-        "link": "https://www.v2ex.com/t/882720",
-        "date": "2022-09-25"
-      },
-      {
-        "title": "为啥这个网站使用宝塔只能反代首页?点其他的就回复到原站",
-        "link": "https://www.v2ex.com/t/882719",
-        "date": "2022-09-25"
-      },
-      {
-        "title": "有没有输入 1 是雷电，输入 2 是 usb + dp 的 kvm",
-        "link": "https://www.v2ex.com/t/882718",
-        "date": "2022-09-24"
-      },
-      {
-        "title": "人在欧洲，读博还是工作比较好",
-        "link": "https://www.v2ex.com/t/882716",
-        "date": "2022-09-24"
-      },
-      {
-        "title": "买了 MacBook Air M2，求推荐一个扩展坞/转换器",
-        "link": "https://www.v2ex.com/t/882715",
-        "date": "2022-09-24"
-      },
-      {
-        "title": "为什么欧美很多公司/团体/个人都喜欢造新语言，而国内普遍认为语言只是工具，不要过多探究语言语法本身，重要的是库、生态？",
-        "link": "https://www.v2ex.com/t/882714",
-        "date": "2022-09-24"
-      },
-      {
-        "title": "Linux 下有类似 windows 磁盘加密工具 bitlocker 吗?",
-        "link": "https://www.v2ex.com/t/882712",
-        "date": "2022-09-24"
       }
     ]
   },
@@ -10237,13 +10242,13 @@
         "date": "2022-09-25"
       },
       {
-        "title": "云原生大数据平台未来的发展趋势是什么？ - 知乎",
-        "link": "https://toutiao.io/k/ask4hy4",
+        "title": "Dubbo 泛化调用引发的“血案”",
+        "link": "https://toutiao.io/k/goxfkdv",
         "date": "2022-09-25"
       },
       {
-        "title": "Dubbo 泛化调用引发的“血案”",
-        "link": "https://toutiao.io/k/goxfkdv",
+        "title": "云原生大数据平台未来的发展趋势是什么？ - 知乎",
+        "link": "https://toutiao.io/k/ask4hy4",
         "date": "2022-09-25"
       },
       {
@@ -10272,8 +10277,8 @@
         "date": "2022-09-25"
       },
       {
-        "title": "[推荐] Redis高可用方案",
-        "link": "https://toutiao.io/k/3hh68yl",
+        "title": "[推荐] 聊聊 8种 架构模式",
+        "link": "https://toutiao.io/k/luf0yh6",
         "date": "2022-09-25"
       },
       {
@@ -10282,8 +10287,8 @@
         "date": "2022-09-25"
       },
       {
-        "title": "[推荐] 聊聊 8种 架构模式",
-        "link": "https://toutiao.io/k/luf0yh6",
+        "title": "[推荐] Redis高可用方案",
+        "link": "https://toutiao.io/k/3hh68yl",
         "date": "2022-09-25"
       }
     ]

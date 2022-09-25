@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-25 07:41:38。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-09-25 08:19:33。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -71,6 +71,10 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [【V2EX】2022-09-25-有什么办法能在-Always-On-Display-上看到手机电量（而非手表）？](https://www.v2ex.com/t/882811) 
+- [【V2EX】2022-09-25-求大家推荐一款适合-14-Pro-Max（最好峰值-26W-能拉满）的充电器，小巧点的，最好插头能折叠的](https://www.v2ex.com/t/882810) 
+- [【V2EX】2022-09-25-有办法在-windows-系统内/远程开启虚拟化吗](https://www.v2ex.com/t/882809) 
+- [【V2EX】2022-09-25-原来电脑维修处可以顺便免费帮忙涂硅脂、清理风扇耶](https://www.v2ex.com/t/882807) 
 - [【V2EX】2022-09-25-读英语文章，请大家帮听听-读音](https://www.v2ex.com/t/882806) 
 - [【V2EX】2022-09-25-iPad-一直上传大量数据](https://www.v2ex.com/t/882805) 
 - [【V2EX】2022-09-25-截屏的时候一个疑问](https://www.v2ex.com/t/882804) 
@@ -106,9 +110,6 @@
 - [【V2EX】2022-09-25-苹果表示只会在中国销售的-iPhone14-系列手机上使用长江存储的闪存，大家会因此选择海淘吗](https://www.v2ex.com/t/882764) 
 - [【V2EX】2022-09-25-知乎网友爆料-iMessage-国内有审查](https://www.v2ex.com/t/882763) 
 - [【V2EX】2022-09-25-特斯拉辅助驾驶，没准确识别出车道线，忽然打方向往外窜。这条路走了七八回了至少，第一次这样。](https://www.v2ex.com/t/882762) 
-- [【V2EX】2022-09-25-公司的电脑禁止安装微信-有什么好的办法](https://www.v2ex.com/t/882761) 
-- [【V2EX】2022-09-25-求-Nginx-大佬指点一下，关于反代-http-自动跳转-https-的](https://www.v2ex.com/t/882759) 
-- [【V2EX】2022-09-25-广深-新型社交软件创业团队创始成员-IOS-前端](https://www.v2ex.com/t/882757) 
 - [【技术头条】2022-09-25-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-25-技术改变了什么？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15400&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fpower-of-technology%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-25-失败驱动开发-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15399&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffailure-driven-development%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -139,10 +140,10 @@
 - [【开发者头条】2022-09-25-OpenDILab幕后的「孤勇者」：AI研究员、电竞冠军和他们的开源梦](https://toutiao.io/k/03dso1x) 
 - [【开发者头条】2022-09-25-7000字+24张图带你彻底弄懂线程池](https://toutiao.io/k/wy9f3j0) 
 - [【开发者头条】2022-09-25-四种缓存的避坑总结](https://toutiao.io/k/8n49umq) 
-- [【开发者头条】2022-09-25-推荐-Redis高可用方案](https://toutiao.io/k/3hh68yl) 
 - [【开发者头条】2022-09-25-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) 
-- [【开发者头条】2022-09-25-推荐-1.8w-字的-SQL-优化大全](https://toutiao.io/k/tz7p6nl) 
 - [【开发者头条】2022-09-25-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) 
+- [【开发者头条】2022-09-25-推荐-Redis高可用方案](https://toutiao.io/k/3hh68yl) 
+- [【开发者头条】2022-09-25-推荐-1.8w-字的-SQL-优化大全](https://toutiao.io/k/tz7p6nl) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

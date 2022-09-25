@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-25 08:49:55，:rocket: 更新条数: +2017， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-25 09:15:53，:rocket: 更新条数: +2018， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-09-25-上海/全球-外企内推-动视暴雪招聘开发（-Python-/CPP/-Java-），运维，美术，游戏策划多方向多种岗位-WLB/年假-25-天起/10-天带薪病假/内部福利/transfer-机...](https://www.v2ex.com/t/882821) ![](assets/new.png)  
+- [2022-09-25-10-月份应该会有一场发布会吧，发布新的-iPad-Pro、Mac、Apple-TV？](https://www.v2ex.com/t/882819) ![](assets/new.png)  
+- [2022-09-25-关于“参与开源项目开发”的一点感想](https://www.v2ex.com/t/882818) ![](assets/new.png)  
+- [2022-09-25-刚刚好像-OpenDns-的-DoH-服务被阻断](https://www.v2ex.com/t/882817) ![](assets/new.png)  
 - [2022-09-25-有什么-c/c++的项目推荐吗](https://www.v2ex.com/t/882814) ![](assets/new.png)  
 - [2022-09-25-提问，如何完整的转移手机的资料](https://www.v2ex.com/t/882813) ![](assets/new.png)  
 - [2022-09-25-Java-学习小组](https://www.v2ex.com/t/882812) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-09-25-手头有一个闲置的美版-Pixel-3，求推荐国内可用的-esim](https://www.v2ex.com/t/882800) ![](assets/new.png)  
 - [2022-09-25-微信是从什么时候开始取消“秒传”功能了？](https://www.v2ex.com/t/882799) ![](assets/new.png)  
 - [2022-09-25-有人试过用洗衣机洗-AirPods-Max-的耳罩吗？](https://www.v2ex.com/t/882798) ![](assets/new.png)  
-- [2022-09-25-开始使用-rss-订阅源吧，-让阅读更高效](https://www.v2ex.com/t/882797) ![](assets/new.png)  
-- [2022-09-25-怎么挣-500-块钱？](https://www.v2ex.com/t/882795) ![](assets/new.png)  
-- [2022-09-25-Watch-为什么可以-iPhone-没电时接听副卡的电话，是什么原理？](https://www.v2ex.com/t/882794) ![](assets/new.png)  
-- [2022-09-25-求助：-Linux-环境，-Java-如何将复杂-excel-模板转为-pdf？](https://www.v2ex.com/t/882790) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,10 +563,10 @@
 - [2022-09-25-OpenDILab幕后的「孤勇者」：AI研究员、电竞冠军和他们的开源梦](https://toutiao.io/k/03dso1x) ![](assets/new.png)  
 - [2022-09-25-7000字+24张图带你彻底弄懂线程池](https://toutiao.io/k/wy9f3j0) ![](assets/new.png)  
 - [2022-09-25-四种缓存的避坑总结](https://toutiao.io/k/8n49umq) ![](assets/new.png)  
-- [2022-09-25-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) ![](assets/new.png)  
-- [2022-09-25-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) ![](assets/new.png)  
 - [2022-09-25-推荐-Redis高可用方案](https://toutiao.io/k/3hh68yl) ![](assets/new.png)  
+- [2022-09-25-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) ![](assets/new.png)  
 - [2022-09-25-推荐-1.8w-字的-SQL-优化大全](https://toutiao.io/k/tz7p6nl) ![](assets/new.png)  
+- [2022-09-25-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

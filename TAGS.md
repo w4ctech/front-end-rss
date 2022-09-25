@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-09-25 08:49:55。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-25 09:15:53。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -152,6 +152,7 @@
 
 
 
+- [【V2EX】上海/全球-外企内推-动视暴雪招聘开发（-Python-/CPP/-Java-），运维，美术，游戏策划多方向多种岗位-WLB/年假-25-天起/10-天带薪病假/内部福利/transfer-机...](https://www.v2ex.com/t/882821)
 - [......【查看更多】......](./details/tags/dev-game.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

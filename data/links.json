@@ -9953,6 +9953,26 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "求一个自建打洞方案",
+        "link": "https://www.v2ex.com/t/882721",
+        "date": "2022-09-25"
+      },
+      {
+        "title": "微信聊天记录损坏，无法查看",
+        "link": "https://www.v2ex.com/t/882720",
+        "date": "2022-09-25"
+      },
+      {
+        "title": "为啥这个网站使用宝塔只能反代首页?点其他的就回复到原站",
+        "link": "https://www.v2ex.com/t/882719",
+        "date": "2022-09-25"
+      },
+      {
+        "title": "有没有输入 1 是雷电，输入 2 是 usb + dp 的 kvm",
+        "link": "https://www.v2ex.com/t/882718",
+        "date": "2022-09-24"
+      },
+      {
         "title": "人在欧洲，读博还是工作比较好",
         "link": "https://www.v2ex.com/t/882716",
         "date": "2022-09-24"
@@ -10035,11 +10055,6 @@
       {
         "title": "不知道是 iOS16 还是 iPhone 14 Pro 的 Bug",
         "link": "https://www.v2ex.com/t/882698",
-        "date": "2022-09-24"
-      },
-      {
-        "title": "百度网盘普通会员加速下载体验",
-        "link": "https://www.v2ex.com/t/882697",
         "date": "2022-09-24"
       },
       {
@@ -10141,26 +10156,6 @@
         "title": "🥝猕猴桃🥝清园抽奖两名,分子集合,10 斤 50 包邮,5 斤 35 包邮",
         "link": "https://www.v2ex.com/t/882672",
         "date": "2022-09-24"
-      },
-      {
-        "title": "太卷了？乡镇雇员也这么多人来考试！",
-        "link": "https://www.v2ex.com/t/882671",
-        "date": "2022-09-24"
-      },
-      {
-        "title": "阿里云轻量老用户有便宜点的路子吗",
-        "link": "https://www.v2ex.com/t/882670",
-        "date": "2022-09-24"
-      },
-      {
-        "title": "深圳移动最低套餐是多少？",
-        "link": "https://www.v2ex.com/t/882669",
-        "date": "2022-09-24"
-      },
-      {
-        "title": "jellyfin 部分视频无法播放",
-        "link": "https://www.v2ex.com/t/882668",
-        "date": "2022-09-24"
       }
     ]
   },
@@ -10172,102 +10167,102 @@
       {
         "title": "我是怎么读代码的 (insights.thoughtworks.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-09-24"
+        "date": "2022-09-25"
       },
       {
         "title": "技术改变了什么？ (insights.thoughtworks.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=15400&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fpower-of-technology%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-09-24"
+        "date": "2022-09-25"
       },
       {
         "title": "失败驱动开发 (insights.thoughtworks.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=15399&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffailure-driven-development%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-09-24"
+        "date": "2022-09-25"
       },
       {
         "title": "图技术在美团外卖下的场景化应用及探索 (tech.meituan.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15398&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F09%2F08%2Fgnn-scenariomodeling-subgraphextend-jointtraining.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-09-24"
+        "date": "2022-09-25"
       },
       {
         "title": "TLS指纹分析研究（上） (blog.nsfocus.net)",
         "link": "https://blogread.cn/news/go.php?idItem=15397&url=http%3A%2F%2Fblog.nsfocus.net%2Ftls1-0%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-09-24"
+        "date": "2022-09-25"
       },
       {
         "title": "Unix 历史：一个伟大作品的诞生 (linux.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=15396&url=https%3A%2F%2Flinux.cn%2Farticle-15024-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-09-24"
+        "date": "2022-09-25"
       },
       {
         "title": "GraphQL及元数据驱动架构在后端BFF中的实践 (tech.meituan.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15395&url=https%3A%2F%2Ftech.meituan.com%2F2021%2F05%2F06%2Fbff-graphql.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-09-24"
+        "date": "2022-09-25"
       },
       {
         "title": "提升资源利用率与保障服务质量，鱼与熊掌不可兼得？ (tech.meituan.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15394&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F08%2F11%2Fload-auto-regulator.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-09-24"
+        "date": "2022-09-25"
       },
       {
         "title": "探索原味BFF模式 (insights.thoughtworks.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=15393&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fbff-history%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-09-24"
+        "date": "2022-09-25"
       },
       {
         "title": "ARouter 迁移到 TheRouter 使用感受 (juejin.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=15392&url=https%3A%2F%2Fjuejin.cn%2Fpost%2F7142687645980688397%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-09-24"
+        "date": "2022-09-25"
       },
       {
         "title": "智能搜索模型预估框架Augur的建设与实践 (tech.meituan.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15391&url=https%3A%2F%2Ftech.meituan.com%2F2020%2F07%2F16%2Faugur-in-meituan-nlp.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-09-24"
+        "date": "2022-09-25"
       },
       {
         "title": "基于AI算法的数据库异常监测系统的设计与实现 (tech.meituan.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15390&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F09%2F01%2Fdatabase-monitoring-based-on-ai.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-09-24"
+        "date": "2022-09-25"
       },
       {
         "title": "设备指纹技术介绍与综述（二） (blog.nsfocus.net)",
         "link": "https://blogread.cn/news/go.php?idItem=15389&url=http%3A%2F%2Fblog.nsfocus.net%2Ffingerprint%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-09-24"
+        "date": "2022-09-25"
       },
       {
         "title": "向量数据库入坑：传统文本检索方式的降维打击，使用 Faiss 实现向量语义检索 (soulteary.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15388&url=https%3A%2F%2Fsoulteary.com%2F2022%2F09%2F10%2Fthe-dimensionality-reduction-of-traditional-text-retrieval-methods-using-faiss-to-achieve-vector-semantic-retrieval.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-09-24"
+        "date": "2022-09-25"
       },
       {
         "title": "全球IPv4 AS拓扑测绘初探 (blog.nsfocus.net)",
         "link": "https://blogread.cn/news/go.php?idItem=15387&url=http%3A%2F%2Fblog.nsfocus.net%2Fipv4-as%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-09-24"
+        "date": "2022-09-25"
       },
       {
         "title": "与日俱进，在 Go 1.20 中这种高效转换的方式又变了 (colobu.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15386&url=https%3A%2F%2Fcolobu.com%2F2022%2F09%2F06%2Fstring-byte-convertion%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-09-24"
+        "date": "2022-09-25"
       },
       {
         "title": "10 大可以摧毁你的 Linux 的命令 (linux.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=15385&url=https%3A%2F%2Flinux.cn%2Farticle-15022-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-09-24"
+        "date": "2022-09-25"
       },
       {
         "title": "如何在笔记本电脑合盖时不挂起 Ubuntu (linux.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=15384&url=https%3A%2F%2Flinux.cn%2Farticle-15015-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-09-24"
+        "date": "2022-09-25"
       },
       {
         "title": "整洁架构之CSS (insights.thoughtworks.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=15383&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fclean-architecture-css%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-09-24"
+        "date": "2022-09-25"
       },
       {
         "title": "深度链接（Deeplinking）是什么？ (www.zhihu.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15382&url=https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F51509486%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-09-24"
+        "date": "2022-09-25"
       }
     ]
   },
@@ -10277,74 +10272,49 @@
     "link": "https://toutiao.io",
     "items": [
       {
-        "title": "优质网站同好者周刊（第 084 期） | 倾城博客",
-        "link": "https://toutiao.io/k/txq8olj",
-        "date": "2022-09-24"
+        "title": "创意！原来阮大佬博客的阅读进度功能这么简单",
+        "link": "https://toutiao.io/k/e9q9qy6",
+        "date": "2022-09-25"
       },
       {
-        "title": "全面认识数据指标体系",
-        "link": "https://toutiao.io/k/sffmao8",
-        "date": "2022-09-24"
+        "title": "云原生大数据平台未来的发展趋势是什么？ - 知乎",
+        "link": "https://toutiao.io/k/ask4hy4",
+        "date": "2022-09-25"
       },
       {
-        "title": "我是怎么读代码的",
-        "link": "https://toutiao.io/k/mk22535",
-        "date": "2022-09-24"
+        "title": "基于 Doris 的知乎 DMP 系统架构与实践",
+        "link": "https://toutiao.io/k/902qs8s",
+        "date": "2022-09-25"
       },
       {
-        "title": "通过案例理解 MQTT 主题与通配符",
-        "link": "https://toutiao.io/k/x98nxsl",
-        "date": "2022-09-24"
+        "title": "Dubbo 泛化调用引发的“血案”",
+        "link": "https://toutiao.io/k/goxfkdv",
+        "date": "2022-09-25"
       },
       {
-        "title": "数字化新业态下数据安全创新——Token化",
-        "link": "https://toutiao.io/k/d1z2bkp",
-        "date": "2022-09-24"
-      },
-      {
-        "title": "亿级异构任务调度框架设计与实践",
-        "link": "https://toutiao.io/k/lmr11bb",
-        "date": "2022-09-24"
-      },
-      {
-        "title": "Apache Druid 在 Shopee 的云原生架构演进",
-        "link": "https://toutiao.io/k/79sg1gw",
-        "date": "2022-09-24"
-      },
-      {
-        "title": "副玩法买量中美通杀？这款手游海外日收入破200万，出海大厂跟进",
-        "link": "https://toutiao.io/k/89eqv9x",
-        "date": "2022-09-24"
-      },
-      {
-        "title": "如何在开发和生产环境中使用 Docker 容器化 Golang 应用",
-        "link": "https://toutiao.io/k/1nxc1nx",
-        "date": "2022-09-24"
-      },
-      {
-        "title": "将你的 Python 脚本转换为命令行程序 | Linux 中国",
-        "link": "https://toutiao.io/k/nj6d5uz",
-        "date": "2022-09-24"
-      },
-      {
-        "title": "[推荐] 1.8w 字的 SQL 优化大全",
-        "link": "https://toutiao.io/k/tz7p6nl",
-        "date": "2022-09-24"
-      },
-      {
-        "title": "[推荐] 聊聊 8种 架构模式",
-        "link": "https://toutiao.io/k/luf0yh6",
-        "date": "2022-09-24"
+        "title": "关于云音乐数据治理的实践与思考",
+        "link": "https://toutiao.io/k/8zqkqed",
+        "date": "2022-09-25"
       },
       {
         "title": "[推荐] Netty、Kafka中的零拷贝技术到底有多牛?",
         "link": "https://toutiao.io/k/ussdz4q",
-        "date": "2022-09-24"
+        "date": "2022-09-25"
       },
       {
         "title": "[推荐] Redis高可用方案",
         "link": "https://toutiao.io/k/3hh68yl",
-        "date": "2022-09-24"
+        "date": "2022-09-25"
+      },
+      {
+        "title": "[推荐] 1.8w 字的 SQL 优化大全",
+        "link": "https://toutiao.io/k/tz7p6nl",
+        "date": "2022-09-25"
+      },
+      {
+        "title": "[推荐] 聊聊 8种 架构模式",
+        "link": "https://toutiao.io/k/luf0yh6",
+        "date": "2022-09-25"
       }
     ]
   },

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-09-25 15:46:02。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-25 16:19:18。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -176,6 +176,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】港府回应一63岁患者死亡事件-暂无法确定与疫苗相关](https://m.caixin.com/m/2021-03-03/101670052.html)
 - [【张鑫旭-鑫空间-鑫生活】JS-replaceAll-和-matchAll-使用指南不指北](https://www.zhangxinxu.com/wordpress/2022/08/js-replaceall-matchall/)
 - [【张鑫旭-鑫空间-鑫生活】如何继承自定义元素及其他JS中扩展新方法](https://www.zhangxinxu.com/wordpress/2022/06/js-extend-class-custom-elements/)
+- [【V2EX】做了一个基于-4-种颜色来表示身份的-JavaScript-随机-ID-生成器](https://www.v2ex.com/t/882886)
 - [【V2EX】ClashxPro-做旁路由，疑似请求过载引起大量-dial-tcp-timeout](https://www.v2ex.com/t/882867)
 - [【V2EX】2022-年路由器求推荐](https://www.v2ex.com/t/882857)
 - [【V2EX】JavaScript-函数无法读取到函数外的变量是什么原因？](https://www.v2ex.com/t/882847)

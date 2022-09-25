@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-25 06:53:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-25 07:16:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1914,6 +1914,11 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-09-25-iPhone-14-MagSafe-充电发烫？](https://www.v2ex.com/t/882802) 
+- [2022-09-25-有开源的统一支付网关推荐码？](https://www.v2ex.com/t/882801) 
+- [2022-09-25-手头有一个闲置的美版-Pixel-3，求推荐国内可用的-esim](https://www.v2ex.com/t/882800) 
+- [2022-09-25-微信是从什么时候开始取消“秒传”功能了？](https://www.v2ex.com/t/882799) 
+- [2022-09-25-有人试过用洗衣机洗-AirPods-Max-的耳罩吗？](https://www.v2ex.com/t/882798) 
 - [2022-09-25-开始使用-rss-订阅源吧，-让阅读更高效](https://www.v2ex.com/t/882797) 
 - [2022-09-25-怎么挣-500-块钱？](https://www.v2ex.com/t/882795) 
 - [2022-09-25-Watch-为什么可以-iPhone-没电时接听副卡的电话，是什么原理？](https://www.v2ex.com/t/882794) 
@@ -1942,9 +1947,6 @@
 - [2022-09-25-macos-com.apple.kvs.temporary-assets-占用-100G+](https://www.v2ex.com/t/882756) 
 - [2022-09-25-J4125-长期保持-60-度+，求推荐一款-USB-散热风扇](https://www.v2ex.com/t/882754) 
 - [2022-09-25-为什么-applewatch-解锁手机时灵时不灵啊，烦躁死了，设置没问题，-Watch-也解锁了](https://www.v2ex.com/t/882753) 
-- [2022-09-25-rap-届的回忆杀](https://www.v2ex.com/t/882750) 
-- [2022-09-25-iPhone14Pro-电池、屏幕使用时间-bug？](https://www.v2ex.com/t/882749) 
-- [2022-09-25-有没有支持-Mac、-iPad-、-iPhone-的剪辑软件](https://www.v2ex.com/t/882748) 
 - [2022-09-25-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-25-技术改变了什么？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15400&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fpower-of-technology%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-25-失败驱动开发-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15399&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffailure-driven-development%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1971,6 +1973,6 @@
 - [2022-09-25-固执的喷子，你悟到了成长的真谛吗？](https://toutiao.io/k/i3flxgl) 
 - [2022-09-25-OpenDILab幕后的「孤勇者」：AI研究员、电竞冠军和他们的开源梦](https://toutiao.io/k/03dso1x) 
 - [2022-09-25-7000字+24张图带你彻底弄懂线程池](https://toutiao.io/k/wy9f3j0) 
-- [2022-09-25-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) 
 - [2022-09-25-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) 
 - [2022-09-25-推荐-Redis高可用方案](https://toutiao.io/k/3hh68yl) 
+- [2022-09-25-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) 

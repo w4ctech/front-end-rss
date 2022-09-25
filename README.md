@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-25 06:53:35，:rocket: 更新条数: +2016， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-25 07:16:02，:rocket: 更新条数: +2017， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-09-25-iPhone-14-MagSafe-充电发烫？](https://www.v2ex.com/t/882802) ![](assets/new.png)  
+- [2022-09-25-有开源的统一支付网关推荐码？](https://www.v2ex.com/t/882801) ![](assets/new.png)  
+- [2022-09-25-手头有一个闲置的美版-Pixel-3，求推荐国内可用的-esim](https://www.v2ex.com/t/882800) ![](assets/new.png)  
+- [2022-09-25-微信是从什么时候开始取消“秒传”功能了？](https://www.v2ex.com/t/882799) ![](assets/new.png)  
+- [2022-09-25-有人试过用洗衣机洗-AirPods-Max-的耳罩吗？](https://www.v2ex.com/t/882798) ![](assets/new.png)  
 - [2022-09-25-开始使用-rss-订阅源吧，-让阅读更高效](https://www.v2ex.com/t/882797) ![](assets/new.png)  
 - [2022-09-25-怎么挣-500-块钱？](https://www.v2ex.com/t/882795) ![](assets/new.png)  
 - [2022-09-25-Watch-为什么可以-iPhone-没电时接听副卡的电话，是什么原理？](https://www.v2ex.com/t/882794) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-09-25-iOS-16.0.2-在-iPhone11-上关于-AirPods-的-bug](https://www.v2ex.com/t/882777) ![](assets/new.png)  
 - [2022-09-25-你们买的-airpods-pro-2-盒盖子松吗？是我中奖了还是都是这样?](https://www.v2ex.com/t/882776) ![](assets/new.png)  
 - [2022-09-25-ios-如何查询-app-是用了哪个-appleID-下载的？](https://www.v2ex.com/t/882775) ![](assets/new.png)  
-- [2022-09-25-拿到一个美国的-offer，准备居家办公，英语不太好，有什么好的视频会议实时字幕软件推荐？](https://www.v2ex.com/t/882774) ![](assets/new.png)  
-- [2022-09-25-MySQL-单表上亿条数据有必要考虑分表吗？目前已经-8400-万条了，感觉查询耗时也没有明显提升，就是-CPU-不查询占用也在-20%以上，不知道在干什么。如果有必要的...](https://www.v2ex.com/t/882773) ![](assets/new.png)  
-- [2022-09-25-最好用的-youtube-视频下载脚本插件有哪个？](https://www.v2ex.com/t/882772) ![](assets/new.png)  
-- [2022-09-25-3100-买了个全新-iphone12mini-美版-全新未激活-划算吗？哈哈](https://www.v2ex.com/t/882771) ![](assets/new.png)  
-- [2022-09-25-有没有在-ios-上用-dropbox-不能后台同步的](https://www.v2ex.com/t/882770) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,10 +563,10 @@
 - [2022-09-25-OpenDILab幕后的「孤勇者」：AI研究员、电竞冠军和他们的开源梦](https://toutiao.io/k/03dso1x) ![](assets/new.png)  
 - [2022-09-25-7000字+24张图带你彻底弄懂线程池](https://toutiao.io/k/wy9f3j0) ![](assets/new.png)  
 - [2022-09-25-四种缓存的避坑总结](https://toutiao.io/k/8n49umq) ![](assets/new.png)  
-- [2022-09-25-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) ![](assets/new.png)  
-- [2022-09-25-推荐-1.8w-字的-SQL-优化大全](https://toutiao.io/k/tz7p6nl) ![](assets/new.png)  
 - [2022-09-25-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) ![](assets/new.png)  
 - [2022-09-25-推荐-Redis高可用方案](https://toutiao.io/k/3hh68yl) ![](assets/new.png)  
+- [2022-09-25-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) ![](assets/new.png)  
+- [2022-09-25-推荐-1.8w-字的-SQL-优化大全](https://toutiao.io/k/tz7p6nl) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

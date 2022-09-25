@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-25 01:16:08，:rocket: 更新条数: +2016， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-25 03:55:56，:rocket: 更新条数: +2010， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,26 +491,26 @@
 </summary>
 
 
-- [2022-09-25-求一个自建打洞方案](https://www.v2ex.com/t/882721) ![](assets/new.png)  
-- [2022-09-25-微信聊天记录损坏，无法查看](https://www.v2ex.com/t/882720) ![](assets/new.png)  
-- [2022-09-25-为啥这个网站使用宝塔只能反代首页?点其他的就回复到原站](https://www.v2ex.com/t/882719) ![](assets/new.png)  
-- [2022-09-24-有没有输入-1-是雷电，输入-2-是-usb-+-dp-的-kvm](https://www.v2ex.com/t/882718) ![](assets/new.png)  
-- [2022-09-24-人在欧洲，读博还是工作比较好](https://www.v2ex.com/t/882716) ![](assets/new.png)  
-- [2022-09-24-买了-MacBook-Air-M2，求推荐一个扩展坞/转换器](https://www.v2ex.com/t/882715) ![](assets/new.png)  
-- [2022-09-24-为什么欧美很多公司/团体/个人都喜欢造新语言，而国内普遍认为语言只是工具，不要过多探究语言语法本身，重要的是库、生态？](https://www.v2ex.com/t/882714) ![](assets/new.png)  
-- [2022-09-24-ios-开发者签名证书合租](https://www.v2ex.com/t/882713) ![](assets/new.png)  
-- [2022-09-24-Linux-下有类似-windows-磁盘加密工具-bitlocker-吗?](https://www.v2ex.com/t/882712) ![](assets/new.png)  
-- [2022-09-24-深圳-工业富联-Devops-云原生开发-2-3-人](https://www.v2ex.com/t/882710) ![](assets/new.png)  
-- [2022-09-24-簡單的-Windows-右鍵菜單管理腳本](https://www.v2ex.com/t/882709) ![](assets/new.png)  
-- [2022-09-24-意外的发现-Python3.10-标准库-hashlib-的-sha256-比-sha256sum-以及-go1.19-的都要快两倍以上](https://www.v2ex.com/t/882708) ![](assets/new.png)  
-- [2022-09-24-vim-如何记录上次退出时候的修改记录](https://www.v2ex.com/t/882707) ![](assets/new.png)  
-- [2022-09-24-本站-Windows-主题下面的壁纸会自动使用我桌面的壁纸？](https://www.v2ex.com/t/882706) ![](assets/new.png)  
-- [2022-09-24-实时网速灵动岛显示，已适配，赶紧来测试](https://www.v2ex.com/t/882705) ![](assets/new.png)  
-- [2022-09-24-macOS-自带相册的图片编辑功能很强大](https://www.v2ex.com/t/882704) ![](assets/new.png)  
-- [2022-09-24-k8s-集群的-cpu-核是怎么计算的？](https://www.v2ex.com/t/882702) ![](assets/new.png)  
-- [2022-09-24-有没有谁会做-electron-的-tabs](https://www.v2ex.com/t/882701) ![](assets/new.png)  
-- [2022-09-24-突然想到把-docker.sock-映射进容器是不是相当于把主机-root-权限完全提供给容器了？](https://www.v2ex.com/t/882700) ![](assets/new.png)  
-- [2022-09-24-提问如何考古某个具体公众号的历史文章](https://www.v2ex.com/t/882699) ![](assets/new.png)  
+- [2022-09-25-求-Nginx-大佬指点一下，关于反代-http-自动跳转-https-的](https://www.v2ex.com/t/882759) ![](assets/new.png)  
+- [2022-09-25-广深-新型社交软件创业团队创始成员-IOS-前端](https://www.v2ex.com/t/882757) ![](assets/new.png)  
+- [2022-09-25-macos-com.apple.kvs.temporary-assets-占用-100G+](https://www.v2ex.com/t/882756) ![](assets/new.png)  
+- [2022-09-25-J4125-长期保持-60-度+，求推荐一款-USB-散热风扇](https://www.v2ex.com/t/882754) ![](assets/new.png)  
+- [2022-09-25-为什么-applewatch-解锁手机时灵时不灵啊，烦躁死了，设置没问题，-Watch-也解锁了](https://www.v2ex.com/t/882753) ![](assets/new.png)  
+- [2022-09-25-NGINX-下-Gzip-和-Brotli-不压缩字体文件。](https://www.v2ex.com/t/882751) ![](assets/new.png)  
+- [2022-09-25-rap-届的回忆杀](https://www.v2ex.com/t/882750) ![](assets/new.png)  
+- [2022-09-25-iPhone14Pro-电池、屏幕使用时间-bug？](https://www.v2ex.com/t/882749) ![](assets/new.png)  
+- [2022-09-25-有没有支持-Mac、-iPad-、-iPhone-的剪辑软件](https://www.v2ex.com/t/882748) ![](assets/new.png)  
+- [2022-09-25-macos-下挂载-samba，休眠后就要重新挂载，大家是如何解决的？](https://www.v2ex.com/t/882747) ![](assets/new.png)  
+- [2022-09-25-22-届被虾皮裁员,-我该何去何从?](https://www.v2ex.com/t/882746) ![](assets/new.png)  
+- [2022-09-25-微信安卓版弹出式广告，只有我的这样吗？](https://www.v2ex.com/t/882743) ![](assets/new.png)  
+- [2022-09-25-有什么好用的识别字体类型以及大小的网站？](https://www.v2ex.com/t/882740) ![](assets/new.png)  
+- [2022-09-25-求推荐单反三脚架](https://www.v2ex.com/t/882736) ![](assets/new.png)  
+- [2022-09-25-IP14-的-wifi-芯片，还是万年不变的-80hz-2x2-吗？](https://www.v2ex.com/t/882735) ![](assets/new.png)  
+- [2022-09-25-整了个免费的离线-OCR-网站](https://www.v2ex.com/t/882733) ![](assets/new.png)  
+- [2022-09-25-美元今年大概会涨到多少？](https://www.v2ex.com/t/882732) ![](assets/new.png)  
+- [2022-09-25-华侨华人华裔的个人理解](https://www.v2ex.com/t/882730) ![](assets/new.png)  
+- [2022-09-25-菜鸡互啄,怎么选](https://www.v2ex.com/t/882729) ![](assets/new.png)  
+- [2022-09-25-个人摄影师打算建立一个本地存储服务](https://www.v2ex.com/t/882726) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -554,13 +554,16 @@
 
 
 - [2022-09-25-创意！原来阮大佬博客的阅读进度功能这么简单](https://toutiao.io/k/e9q9qy6) ![](assets/new.png)  
-- [2022-09-25-云原生大数据平台未来的发展趋势是什么？---知乎](https://toutiao.io/k/ask4hy4) ![](assets/new.png)  
 - [2022-09-25-基于-Doris-的知乎-DMP-系统架构与实践](https://toutiao.io/k/902qs8s) ![](assets/new.png)  
+- [2022-09-25-云原生大数据平台未来的发展趋势是什么？---知乎](https://toutiao.io/k/ask4hy4) ![](assets/new.png)  
 - [2022-09-25-Dubbo-泛化调用引发的“血案”](https://toutiao.io/k/goxfkdv) ![](assets/new.png)  
 - [2022-09-25-关于云音乐数据治理的实践与思考](https://toutiao.io/k/8zqkqed) ![](assets/new.png)  
-- [2022-09-25-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) ![](assets/new.png)  
-- [2022-09-25-推荐-Redis高可用方案](https://toutiao.io/k/3hh68yl) ![](assets/new.png)  
+- [2022-09-25-软件开发过程中的工作产品裁剪的依据是什么？](https://toutiao.io/k/hqfr9tl) ![](assets/new.png)  
+- [2022-09-25-固执的喷子，你悟到了成长的真谛吗？](https://toutiao.io/k/i3flxgl) ![](assets/new.png)  
+- [2022-09-25-OpenDILab幕后的「孤勇者」：AI研究员、电竞冠军和他们的开源梦](https://toutiao.io/k/03dso1x) ![](assets/new.png)  
 - [2022-09-25-推荐-1.8w-字的-SQL-优化大全](https://toutiao.io/k/tz7p6nl) ![](assets/new.png)  
+- [2022-09-25-推荐-Redis高可用方案](https://toutiao.io/k/3hh68yl) ![](assets/new.png)  
+- [2022-09-25-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) ![](assets/new.png)  
 - [2022-09-25-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

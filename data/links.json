@@ -9953,7 +9953,22 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
-        "title": "[上海/全球] [外企内推] 动视暴雪招聘开发（ Python /CPP/ Java ），运维，美术，游戏策划多方向多种岗位 WLB/年假 25 天起/10 天带薪病假/内部福利/transfer 机...",
+        "title": "人在美国的话，可以做一些什么方便回中国之后科学上网？",
+        "link": "https://www.v2ex.com/t/882824",
+        "date": "2022-09-25"
+      },
+      {
+        "title": "使用 V2EX 的第三方客户端 V2er， Google 显示有新设备登录，是怎么回事儿呀",
+        "link": "https://www.v2ex.com/t/882823",
+        "date": "2022-09-25"
+      },
+      {
+        "title": "为毛回帖需要注册满 100 多天？",
+        "link": "https://www.v2ex.com/t/882822",
+        "date": "2022-09-25"
+      },
+      {
+        "title": "[上海/全球] [外企内推] 动视暴雪招聘开发( Python /CPP/ Java )，运维，大数据分析，美术，游戏策划等 WLB/年假 25 天起/10 天带薪病假/transfer 机会",
         "link": "https://www.v2ex.com/t/882821",
         "date": "2022-09-25"
       },
@@ -10126,21 +10141,6 @@
         "title": "ios 如何查询 app 是用了哪个 appleID 下载的？",
         "link": "https://www.v2ex.com/t/882775",
         "date": "2022-09-25"
-      },
-      {
-        "title": "拿到一个美国的 offer，准备居家办公，英语不太好，有什么好的视频会议实时字幕软件推荐？",
-        "link": "https://www.v2ex.com/t/882774",
-        "date": "2022-09-25"
-      },
-      {
-        "title": "MySQL 单表上亿条数据有必要考虑分表吗？目前已经 8400 万条了，感觉查询耗时也没有明显提升，就是 CPU 不查询占用也在 20%以上，不知道在干什么。如果有必要的...",
-        "link": "https://www.v2ex.com/t/882773",
-        "date": "2022-09-25"
-      },
-      {
-        "title": "最好用的 youtube 视频下载脚本插件有哪个？",
-        "link": "https://www.v2ex.com/t/882772",
-        "date": "2022-09-25"
       }
     ]
   },
@@ -10312,6 +10312,11 @@
         "date": "2022-09-25"
       },
       {
+        "title": "[推荐] 聊聊 8种 架构模式",
+        "link": "https://toutiao.io/k/luf0yh6",
+        "date": "2022-09-25"
+      },
+      {
         "title": "[推荐] Netty、Kafka中的零拷贝技术到底有多牛?",
         "link": "https://toutiao.io/k/ussdz4q",
         "date": "2022-09-25"
@@ -10319,11 +10324,6 @@
       {
         "title": "[推荐] 1.8w 字的 SQL 优化大全",
         "link": "https://toutiao.io/k/tz7p6nl",
-        "date": "2022-09-25"
-      },
-      {
-        "title": "[推荐] 聊聊 8种 架构模式",
-        "link": "https://toutiao.io/k/luf0yh6",
         "date": "2022-09-25"
       }
     ]

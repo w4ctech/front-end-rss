@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-25 15:16:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-25 15:46:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1914,6 +1914,9 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-09-25-AppleTV-声音延迟-2-秒左右发声，非音画不同步](https://www.v2ex.com/t/882883) 
+- [2022-09-25-你们的触控板会不会因为晚上放着的时候有充电线碰到而早上起来发现电量耗尽了？](https://www.v2ex.com/t/882882) 
+- [2022-09-25-Switch-家庭普通会员开车，今日已发车，即刻联系即刻上车](https://www.v2ex.com/t/882881) 
 - [2022-09-25-怎么在-V2EX-上投广告，怎么收费的，贵不贵](https://www.v2ex.com/t/882878) 
 - [2022-09-25-谁知道抖音里-AI-配音“这个男人叫小帅”是哪里配音的？](https://www.v2ex.com/t/882873) 
 - [2022-09-25-2022-换工作总结](https://www.v2ex.com/t/882872) 
@@ -1946,9 +1949,6 @@
 - [2022-09-25-网心云一个星期上传了-1t-左右流量，才给了不到五块钱。](https://www.v2ex.com/t/882836) 
 - [2022-09-25-VPS-如何安装原版-CentOS7](https://www.v2ex.com/t/882835) 
 - [2022-09-25-类继承及调用问题](https://www.v2ex.com/t/882834) 
-- [2022-09-25-我记得-Microsoft-两步验证能同步的啊，怎么重制-iPhone-之后就没数据了？](https://www.v2ex.com/t/882833) 
-- [2022-09-25-求解，为何-es-脚本在超过-10-个文档后报出越界异常](https://www.v2ex.com/t/882831) 
-- [2022-09-25-Netflix-剧版《三体》第一季杀青，首支片花曝光](https://www.v2ex.com/t/882829) 
 - [2022-09-25-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-25-技术改变了什么？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15400&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fpower-of-technology%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-25-失败驱动开发-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15399&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffailure-driven-development%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

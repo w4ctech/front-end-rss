@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-25 16:19:18。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-09-25 16:59:29。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -71,6 +71,7 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [【V2EX】2022-09-25-macos-下如何禁掉一个音频设备呢？](https://www.v2ex.com/t/882888) 
 - [【V2EX】2022-09-25-联通老用户有没有什么好用的套餐，感觉流量不太够用。](https://www.v2ex.com/t/882887) 
 - [【V2EX】2022-09-25-做了一个基于-4-种颜色来表示身份的-JavaScript-随机-ID-生成器](https://www.v2ex.com/t/882886) 
 - [【V2EX】2022-09-25-iOS-虚拟定位打卡-使用-iOS14-系统进行虚拟定位打卡，是否可以躲过-isSimulatedBySoftware-和-isProducedByAccessory-的判断，从而实现无懈可击？](https://www.v2ex.com/t/882885) 
@@ -143,10 +144,10 @@
 - [【开发者头条】2022-09-25-软件开发过程中的工作产品裁剪的依据是什么？](https://toutiao.io/k/hqfr9tl) 
 - [【开发者头条】2022-09-25-固执的喷子，你悟到了成长的真谛吗？](https://toutiao.io/k/i3flxgl) 
 - [【开发者头条】2022-09-25-OpenDILab幕后的「孤勇者」：AI研究员、电竞冠军和他们的开源梦](https://toutiao.io/k/03dso1x) 
-- [【开发者头条】2022-09-25-推荐-1.8w-字的-SQL-优化大全](https://toutiao.io/k/tz7p6nl) 
+- [【开发者头条】2022-09-25-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) 
 - [【开发者头条】2022-09-25-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) 
 - [【开发者头条】2022-09-25-推荐-Redis高可用方案](https://toutiao.io/k/3hh68yl) 
-- [【开发者头条】2022-09-25-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) 
+- [【开发者头条】2022-09-25-推荐-1.8w-字的-SQL-优化大全](https://toutiao.io/k/tz7p6nl) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

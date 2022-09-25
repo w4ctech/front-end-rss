@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-25 14:41:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-25 15:16:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1914,6 +1914,7 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-09-25-怎么在-V2EX-上投广告，怎么收费的，贵不贵](https://www.v2ex.com/t/882878) 
 - [2022-09-25-谁知道抖音里-AI-配音“这个男人叫小帅”是哪里配音的？](https://www.v2ex.com/t/882873) 
 - [2022-09-25-2022-换工作总结](https://www.v2ex.com/t/882872) 
 - [2022-09-25-为什么-spark-的耗电这么高？](https://www.v2ex.com/t/882871) 
@@ -1948,10 +1949,6 @@
 - [2022-09-25-我记得-Microsoft-两步验证能同步的啊，怎么重制-iPhone-之后就没数据了？](https://www.v2ex.com/t/882833) 
 - [2022-09-25-求解，为何-es-脚本在超过-10-个文档后报出越界异常](https://www.v2ex.com/t/882831) 
 - [2022-09-25-Netflix-剧版《三体》第一季杀青，首支片花曝光](https://www.v2ex.com/t/882829) 
-- [2022-09-25-新版联通王卡-29-元（前-5-月-19-元）90G-出来了](https://www.v2ex.com/t/882827) 
-- [2022-09-25-Let's-Encrypt-的泛域名证书申请总是出错](https://www.v2ex.com/t/882826) 
-- [2022-09-25-现在搭一个小的推荐系统麻烦吗？](https://www.v2ex.com/t/882825) 
-- [2022-09-25-人在美国的话，可以做一些什么方便回中国之后科学上网？](https://www.v2ex.com/t/882824) 
 - [2022-09-25-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-25-技术改变了什么？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15400&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fpower-of-technology%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-25-失败驱动开发-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15399&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffailure-driven-development%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1978,6 +1975,6 @@
 - [2022-09-25-软件开发过程中的工作产品裁剪的依据是什么？](https://toutiao.io/k/hqfr9tl) 
 - [2022-09-25-固执的喷子，你悟到了成长的真谛吗？](https://toutiao.io/k/i3flxgl) 
 - [2022-09-25-OpenDILab幕后的「孤勇者」：AI研究员、电竞冠军和他们的开源梦](https://toutiao.io/k/03dso1x) 
+- [2022-09-25-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) 
 - [2022-09-25-推荐-Redis高可用方案](https://toutiao.io/k/3hh68yl) 
 - [2022-09-25-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) 
-- [2022-09-25-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) 

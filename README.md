@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-25 14:41:19，:rocket: 更新条数: +2025， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-25 15:16:02，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-09-25-怎么在-V2EX-上投广告，怎么收费的，贵不贵](https://www.v2ex.com/t/882878) ![](assets/new.png)  
+- [2022-09-25-Leaderf-phpnamespace:-支持模糊查询的处理-PHP-命名空间的-Vim-插件](https://www.v2ex.com/t/882877) ![](assets/new.png)  
+- [2022-09-25-docker-spring-cloud-无法访问-consul-求助](https://www.v2ex.com/t/882876) ![](assets/new.png)  
 - [2022-09-25-谁知道抖音里-AI-配音“这个男人叫小帅”是哪里配音的？](https://www.v2ex.com/t/882873) ![](assets/new.png)  
 - [2022-09-25-2022-换工作总结](https://www.v2ex.com/t/882872) ![](assets/new.png)  
 - [2022-09-25-为什么-spark-的耗电这么高？](https://www.v2ex.com/t/882871) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-09-25-2022-年路由器求推荐](https://www.v2ex.com/t/882857) ![](assets/new.png)  
 - [2022-09-25-fake-ip-才是真正的透明代理呀](https://www.v2ex.com/t/882856) ![](assets/new.png)  
 - [2022-09-25-XFS-是要在-root-分区下缓存什么东西吗，为什么我的-NAS-系统盘动不动就满？](https://www.v2ex.com/t/882855) ![](assets/new.png)  
-- [2022-09-25-有没有-app-能智能分类图片。。1-类是，文字密集型的，阅读器截屏，网页文章截屏-2-类是，临时的比如取件码-寄件码-3，美女写真-4，杂-7-杂-8-的-。。。或者截...](https://www.v2ex.com/t/882854) ![](assets/new.png)  
-- [2022-09-25-发现一个国内可用的-esim-免费-app：-DENT](https://www.v2ex.com/t/882853) ![](assets/new.png)  
-- [2022-09-25-在-Matrix-收发-QQ-和微信的消息](https://www.v2ex.com/t/882852) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -558,15 +558,15 @@
 - [2022-09-25-Dubbo-泛化调用引发的“血案”](https://toutiao.io/k/goxfkdv) ![](assets/new.png)  
 - [2022-09-25-云原生大数据平台未来的发展趋势是什么？---知乎](https://toutiao.io/k/ask4hy4) ![](assets/new.png)  
 - [2022-09-25-7000字+24张图带你彻底弄懂线程池](https://toutiao.io/k/wy9f3j0) ![](assets/new.png)  
-- [2022-09-25-关于云音乐数据治理的实践与思考](https://toutiao.io/k/8zqkqed) ![](assets/new.png)  
 - [2022-09-25-四种缓存的避坑总结](https://toutiao.io/k/8n49umq) ![](assets/new.png)  
+- [2022-09-25-关于云音乐数据治理的实践与思考](https://toutiao.io/k/8zqkqed) ![](assets/new.png)  
 - [2022-09-25-软件开发过程中的工作产品裁剪的依据是什么？](https://toutiao.io/k/hqfr9tl) ![](assets/new.png)  
 - [2022-09-25-固执的喷子，你悟到了成长的真谛吗？](https://toutiao.io/k/i3flxgl) ![](assets/new.png)  
 - [2022-09-25-OpenDILab幕后的「孤勇者」：AI研究员、电竞冠军和他们的开源梦](https://toutiao.io/k/03dso1x) ![](assets/new.png)  
-- [2022-09-25-推荐-Redis高可用方案](https://toutiao.io/k/3hh68yl) ![](assets/new.png)  
-- [2022-09-25-推荐-1.8w-字的-SQL-优化大全](https://toutiao.io/k/tz7p6nl) ![](assets/new.png)  
-- [2022-09-25-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) ![](assets/new.png)  
 - [2022-09-25-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) ![](assets/new.png)  
+- [2022-09-25-推荐-1.8w-字的-SQL-优化大全](https://toutiao.io/k/tz7p6nl) ![](assets/new.png)  
+- [2022-09-25-推荐-Redis高可用方案](https://toutiao.io/k/3hh68yl) ![](assets/new.png)  
+- [2022-09-25-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-25 05:57:28，:rocket: 更新条数: +2014， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-25 06:21:55，:rocket: 更新条数: +2016， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-09-25-真的很烦不能自由调休的。。。](https://www.v2ex.com/t/882788) ![](assets/new.png)  
+- [2022-09-25-apple-watch-4-升-8-体验](https://www.v2ex.com/t/882786) ![](assets/new.png)  
 - [2022-09-25-爬虫抓取公开数据并在自己的网站上发布，会不会有知识产权的问题？](https://www.v2ex.com/t/882784) ![](assets/new.png)  
 - [2022-09-25-国际网络环境下部分苹果服务无法连接网络](https://www.v2ex.com/t/882783) ![](assets/new.png)  
 - [2022-09-25-为什么-Java-在-Windows-上编译比-Linux-慢这么多](https://www.v2ex.com/t/882781) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-09-25-红米-8A低端安卓，活路何在？](https://www.v2ex.com/t/882766) ![](assets/new.png)  
 - [2022-09-25-救命啊大佬们，帮帮忙各位，-bitlocker-加密了硬盘，但是在重装系统的时候不小心删除了卷](https://www.v2ex.com/t/882765) ![](assets/new.png)  
 - [2022-09-25-苹果表示只会在中国销售的-iPhone14-系列手机上使用长江存储的闪存，大家会因此选择海淘吗](https://www.v2ex.com/t/882764) ![](assets/new.png)  
-- [2022-09-25-知乎网友爆料-iMessage-国内有审查](https://www.v2ex.com/t/882763) ![](assets/new.png)  
-- [2022-09-25-特斯拉辅助驾驶，没准确识别出车道线，忽然打方向往外窜。这条路走了七八回了至少，第一次这样。](https://www.v2ex.com/t/882762) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -561,6 +561,8 @@
 - [2022-09-25-软件开发过程中的工作产品裁剪的依据是什么？](https://toutiao.io/k/hqfr9tl) ![](assets/new.png)  
 - [2022-09-25-固执的喷子，你悟到了成长的真谛吗？](https://toutiao.io/k/i3flxgl) ![](assets/new.png)  
 - [2022-09-25-OpenDILab幕后的「孤勇者」：AI研究员、电竞冠军和他们的开源梦](https://toutiao.io/k/03dso1x) ![](assets/new.png)  
+- [2022-09-25-四种缓存的避坑总结](https://toutiao.io/k/8n49umq) ![](assets/new.png)  
+- [2022-09-25-7000字+24张图带你彻底弄懂线程池](https://toutiao.io/k/wy9f3j0) ![](assets/new.png)  
 - [2022-09-25-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) ![](assets/new.png)  
 - [2022-09-25-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) ![](assets/new.png)  
 - [2022-09-25-推荐-1.8w-字的-SQL-优化大全](https://toutiao.io/k/tz7p6nl) ![](assets/new.png)  

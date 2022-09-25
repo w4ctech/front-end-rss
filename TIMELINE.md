@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-25 11:13:52。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-09-25 11:41:06。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -71,6 +71,7 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [【V2EX】2022-09-25-VPS-如何安装原版-CentOS7](https://www.v2ex.com/t/882835) 
 - [【V2EX】2022-09-25-类继承及调用问题](https://www.v2ex.com/t/882834) 
 - [【V2EX】2022-09-25-我记得-Microsoft-两步验证能同步的啊，怎么重制-iPhone-之后就没数据了？](https://www.v2ex.com/t/882833) 
 - [【V2EX】2022-09-25-求解，为何-es-脚本在超过-10-个文档后报出越界异常](https://www.v2ex.com/t/882831) 
@@ -135,13 +136,13 @@
 - [【开发者头条】2022-09-25-关于云音乐数据治理的实践与思考](https://toutiao.io/k/8zqkqed) 
 - [【开发者头条】2022-09-25-软件开发过程中的工作产品裁剪的依据是什么？](https://toutiao.io/k/hqfr9tl) 
 - [【开发者头条】2022-09-25-7000字+24张图带你彻底弄懂线程池](https://toutiao.io/k/wy9f3j0) 
-- [【开发者头条】2022-09-25-固执的喷子，你悟到了成长的真谛吗？](https://toutiao.io/k/i3flxgl) 
 - [【开发者头条】2022-09-25-四种缓存的避坑总结](https://toutiao.io/k/8n49umq) 
+- [【开发者头条】2022-09-25-固执的喷子，你悟到了成长的真谛吗？](https://toutiao.io/k/i3flxgl) 
 - [【开发者头条】2022-09-25-OpenDILab幕后的「孤勇者」：AI研究员、电竞冠军和他们的开源梦](https://toutiao.io/k/03dso1x) 
-- [【开发者头条】2022-09-25-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) 
-- [【开发者头条】2022-09-25-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) 
 - [【开发者头条】2022-09-25-推荐-1.8w-字的-SQL-优化大全](https://toutiao.io/k/tz7p6nl) 
 - [【开发者头条】2022-09-25-推荐-Redis高可用方案](https://toutiao.io/k/3hh68yl) 
+- [【开发者头条】2022-09-25-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) 
+- [【开发者头条】2022-09-25-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-25 11:13:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-25 11:41:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1914,6 +1914,7 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-09-25-VPS-如何安装原版-CentOS7](https://www.v2ex.com/t/882835) 
 - [2022-09-25-类继承及调用问题](https://www.v2ex.com/t/882834) 
 - [2022-09-25-我记得-Microsoft-两步验证能同步的啊，怎么重制-iPhone-之后就没数据了？](https://www.v2ex.com/t/882833) 
 - [2022-09-25-求解，为何-es-脚本在超过-10-个文档后报出越界异常](https://www.v2ex.com/t/882831) 
@@ -1974,6 +1975,6 @@
 - [2022-09-25-7000字+24张图带你彻底弄懂线程池](https://toutiao.io/k/wy9f3j0) 
 - [2022-09-25-固执的喷子，你悟到了成长的真谛吗？](https://toutiao.io/k/i3flxgl) 
 - [2022-09-25-OpenDILab幕后的「孤勇者」：AI研究员、电竞冠军和他们的开源梦](https://toutiao.io/k/03dso1x) 
-- [2022-09-25-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) 
-- [2022-09-25-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) 
 - [2022-09-25-推荐-Redis高可用方案](https://toutiao.io/k/3hh68yl) 
+- [2022-09-25-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) 
+- [2022-09-25-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) 

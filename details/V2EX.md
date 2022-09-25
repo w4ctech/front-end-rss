@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-09-25 11:13:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-25 11:41:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-09-25-VPS-如何安装原版-CentOS7](https://www.v2ex.com/t/882835) 
 - [2022-09-25-类继承及调用问题](https://www.v2ex.com/t/882834) 
 - [2022-09-25-我记得-Microsoft-两步验证能同步的啊，怎么重制-iPhone-之后就没数据了？](https://www.v2ex.com/t/882833) 
 - [2022-09-25-求解，为何-es-脚本在超过-10-个文档后报出越界异常](https://www.v2ex.com/t/882831) 

@@ -9953,6 +9953,21 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "适合开发人员的网络安全课程有什么推荐的吗？",
+        "link": "https://www.v2ex.com/t/882891",
+        "date": "2022-09-25"
+      },
+      {
+        "title": "[上海]-[不加班]-[可一半时间居家办公]-[外企] 招 中高级 Java ，中高级测试，高级安卓，中级 devOps",
+        "link": "https://www.v2ex.com/t/882890",
+        "date": "2022-09-25"
+      },
+      {
+        "title": "如果能够选择的话，你会选择生活在哪里？",
+        "link": "https://www.v2ex.com/t/882889",
+        "date": "2022-09-25"
+      },
+      {
         "title": "macos 下如何禁掉一个音频设备呢？",
         "link": "https://www.v2ex.com/t/882888",
         "date": "2022-09-25"
@@ -10146,21 +10161,6 @@
         "title": "flask 用 sqlalchemy 时，为什么一定要用 flask-sqlalchemy？",
         "link": "https://www.v2ex.com/t/882842",
         "date": "2022-09-25"
-      },
-      {
-        "title": "在晚上躺床上到睡着的这段时间里面都在想啥呢",
-        "link": "https://www.v2ex.com/t/882841",
-        "date": "2022-09-25"
-      },
-      {
-        "title": "你们的 iPhone 14 Pro 打开系统相机应用会有滋滋的电流声吗？",
-        "link": "https://www.v2ex.com/t/882840",
-        "date": "2022-09-25"
-      },
-      {
-        "title": "HTTP 2.0 对内网服务之间的通信是不是没啥帮助？",
-        "link": "https://www.v2ex.com/t/882839",
-        "date": "2022-09-25"
       }
     ]
   },
@@ -10327,13 +10327,13 @@
         "date": "2022-09-25"
       },
       {
-        "title": "[推荐] Netty、Kafka中的零拷贝技术到底有多牛?",
-        "link": "https://toutiao.io/k/ussdz4q",
+        "title": "[推荐] 1.8w 字的 SQL 优化大全",
+        "link": "https://toutiao.io/k/tz7p6nl",
         "date": "2022-09-25"
       },
       {
-        "title": "[推荐] 1.8w 字的 SQL 优化大全",
-        "link": "https://toutiao.io/k/tz7p6nl",
+        "title": "[推荐] Redis高可用方案",
+        "link": "https://toutiao.io/k/3hh68yl",
         "date": "2022-09-25"
       },
       {
@@ -10342,8 +10342,8 @@
         "date": "2022-09-25"
       },
       {
-        "title": "[推荐] Redis高可用方案",
-        "link": "https://toutiao.io/k/3hh68yl",
+        "title": "[推荐] Netty、Kafka中的零拷贝技术到底有多牛?",
+        "link": "https://toutiao.io/k/ussdz4q",
         "date": "2022-09-25"
       }
     ]

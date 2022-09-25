@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-25 17:45:53，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-25 18:18:59，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-09-25-适合开发人员的网络安全课程有什么推荐的吗？](https://www.v2ex.com/t/882891) ![](assets/new.png)  
+- [2022-09-25-上海-不加班-可一半时间居家办公-外企-招-中高级-Java-，中高级测试，高级安卓，中级-devOps](https://www.v2ex.com/t/882890) ![](assets/new.png)  
+- [2022-09-25-如果能够选择的话，你会选择生活在哪里？](https://www.v2ex.com/t/882889) ![](assets/new.png)  
 - [2022-09-25-macos-下如何禁掉一个音频设备呢？](https://www.v2ex.com/t/882888) ![](assets/new.png)  
 - [2022-09-25-联通老用户有没有什么好用的套餐，感觉流量不太够用。](https://www.v2ex.com/t/882887) ![](assets/new.png)  
 - [2022-09-25-做了一个基于-4-种颜色来表示身份的-JavaScript-随机-ID-生成器](https://www.v2ex.com/t/882886) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-09-25-求推荐能完美安装黑苹果的迷你主机](https://www.v2ex.com/t/882869) ![](assets/new.png)  
 - [2022-09-25-ClashxPro-做旁路由，疑似请求过载引起大量-dial-tcp-timeout](https://www.v2ex.com/t/882867) ![](assets/new.png)  
 - [2022-09-25-springboot-判断-wifi-4g-状态](https://www.v2ex.com/t/882866) ![](assets/new.png)  
-- [2022-09-25-vscode-在-mac-食用问题](https://www.v2ex.com/t/882865) ![](assets/new.png)  
-- [2022-09-25-五年-Java-,大专在上海能要多少](https://www.v2ex.com/t/882862) ![](assets/new.png)  
-- [2022-09-25-向各位请教-vscode-的设置问题](https://www.v2ex.com/t/882861) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,10 +563,10 @@
 - [2022-09-25-软件开发过程中的工作产品裁剪的依据是什么？](https://toutiao.io/k/hqfr9tl) ![](assets/new.png)  
 - [2022-09-25-固执的喷子，你悟到了成长的真谛吗？](https://toutiao.io/k/i3flxgl) ![](assets/new.png)  
 - [2022-09-25-OpenDILab幕后的「孤勇者」：AI研究员、电竞冠军和他们的开源梦](https://toutiao.io/k/03dso1x) ![](assets/new.png)  
-- [2022-09-25-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) ![](assets/new.png)  
 - [2022-09-25-推荐-1.8w-字的-SQL-优化大全](https://toutiao.io/k/tz7p6nl) ![](assets/new.png)  
-- [2022-09-25-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) ![](assets/new.png)  
 - [2022-09-25-推荐-Redis高可用方案](https://toutiao.io/k/3hh68yl) ![](assets/new.png)  
+- [2022-09-25-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) ![](assets/new.png)  
+- [2022-09-25-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

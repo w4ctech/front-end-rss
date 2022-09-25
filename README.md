@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-25 22:43:58，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-25 23:03:46，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-09-25-上海电信桥接后-IPTV-怎么配置](https://www.v2ex.com/t/882896) ![](assets/new.png)  
 - [2022-09-25-寻求有偿代写-surge-规则](https://www.v2ex.com/t/882895) ![](assets/new.png)  
 - [2022-09-25-有没有-rustdesk-大佬，不管查遍谷歌都没找到为什么加了-k-_还是非加密链接](https://www.v2ex.com/t/882894) ![](assets/new.png)  
 - [2022-09-25-postgresql-里面的事务，明明又错误为什么也执行了？](https://www.v2ex.com/t/882893) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-09-25-docker-spring-cloud-无法访问-consul-求助](https://www.v2ex.com/t/882876) ![](assets/new.png)  
 - [2022-09-25-谁知道抖音里-AI-配音“这个男人叫小帅”是哪里配音的？](https://www.v2ex.com/t/882873) ![](assets/new.png)  
 - [2022-09-25-2022-换工作总结](https://www.v2ex.com/t/882872) ![](assets/new.png)  
-- [2022-09-25-为什么-spark-的耗电这么高？](https://www.v2ex.com/t/882871) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,10 +563,10 @@
 - [2022-09-25-软件开发过程中的工作产品裁剪的依据是什么？](https://toutiao.io/k/hqfr9tl) ![](assets/new.png)  
 - [2022-09-25-固执的喷子，你悟到了成长的真谛吗？](https://toutiao.io/k/i3flxgl) ![](assets/new.png)  
 - [2022-09-25-OpenDILab幕后的「孤勇者」：AI研究员、电竞冠军和他们的开源梦](https://toutiao.io/k/03dso1x) ![](assets/new.png)  
-- [2022-09-25-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) ![](assets/new.png)  
+- [2022-09-25-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) ![](assets/new.png)  
 - [2022-09-25-推荐-1.8w-字的-SQL-优化大全](https://toutiao.io/k/tz7p6nl) ![](assets/new.png)  
 - [2022-09-25-推荐-Redis高可用方案](https://toutiao.io/k/3hh68yl) ![](assets/new.png)  
-- [2022-09-25-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) ![](assets/new.png)  
+- [2022-09-25-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

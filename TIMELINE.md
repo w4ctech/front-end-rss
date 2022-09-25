@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-25 22:43:59。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-09-25 23:03:46。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -71,6 +71,7 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [【V2EX】2022-09-25-上海电信桥接后-IPTV-怎么配置](https://www.v2ex.com/t/882896) 
 - [【V2EX】2022-09-25-寻求有偿代写-surge-规则](https://www.v2ex.com/t/882895) 
 - [【V2EX】2022-09-25-有没有-rustdesk-大佬，不管查遍谷歌都没找到为什么加了-k-_还是非加密链接](https://www.v2ex.com/t/882894) 
 - [【V2EX】2022-09-25-postgresql-里面的事务，明明又错误为什么也执行了？](https://www.v2ex.com/t/882893) 
@@ -112,7 +113,6 @@
 - [【V2EX】2022-09-25-求怎么去除/128-的-ipv6-地址](https://www.v2ex.com/t/882849) 
 - [【V2EX】2022-09-25-AI-可以超分/补帧，那能提升歌曲音质吗？求推荐这类服务/软件，最好是对日语流行歌优化的，价格无所谓。发现收藏的一些歌全网都只有-128kbps-版本。](https://www.v2ex.com/t/882848) 
 - [【V2EX】2022-09-25-JavaScript-函数无法读取到函数外的变量是什么原因？](https://www.v2ex.com/t/882847) 
-- [【V2EX】2022-09-25-现在携程（或者其他的卖票平台）的火车票抢票服务真的有用吗？](https://www.v2ex.com/t/882846) 
 - [【技术头条】2022-09-25-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-25-技术改变了什么？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15400&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fpower-of-technology%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-25-失败驱动开发-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15399&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffailure-driven-development%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -143,10 +143,10 @@
 - [【开发者头条】2022-09-25-软件开发过程中的工作产品裁剪的依据是什么？](https://toutiao.io/k/hqfr9tl) 
 - [【开发者头条】2022-09-25-固执的喷子，你悟到了成长的真谛吗？](https://toutiao.io/k/i3flxgl) 
 - [【开发者头条】2022-09-25-OpenDILab幕后的「孤勇者」：AI研究员、电竞冠军和他们的开源梦](https://toutiao.io/k/03dso1x) 
-- [【开发者头条】2022-09-25-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) 
+- [【开发者头条】2022-09-25-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) 
 - [【开发者头条】2022-09-25-推荐-1.8w-字的-SQL-优化大全](https://toutiao.io/k/tz7p6nl) 
 - [【开发者头条】2022-09-25-推荐-Redis高可用方案](https://toutiao.io/k/3hh68yl) 
-- [【开发者头条】2022-09-25-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) 
+- [【开发者头条】2022-09-25-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

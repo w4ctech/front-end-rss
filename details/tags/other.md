@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-26 21:16:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-26 21:46:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1914,6 +1914,7 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-09-26-macOS-say-命令的-Bug？](https://www.v2ex.com/t/883172) 
 - [2022-09-26-我的-MacBook-Pro-14-在玩神界原罪-2-的时候过热重启了](https://www.v2ex.com/t/883171) 
 - [2022-09-26-升级到-Watch-OS9-之后，钟鸣的提醒弱了很多](https://www.v2ex.com/t/883170) 
 - [2022-09-26-深圳摩托车驾校有推荐的吗？](https://www.v2ex.com/t/883169) 
@@ -1950,7 +1951,6 @@
 - [2022-09-26-Airpod-Pro2-换新后体验](https://www.v2ex.com/t/883125) 
 - [2022-09-26-牙科急诊能去哪](https://www.v2ex.com/t/883124) 
 - [2022-09-26-Spotify-怎么通过-Siri-指令在-homepod-播放啊？](https://www.v2ex.com/t/883123) 
-- [2022-09-26-win10-关机都会出现-task-host-windows-宿主阻止关机](https://www.v2ex.com/t/883122) 
 - [2022-09-26-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-26-技术改变了什么？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15400&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fpower-of-technology%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-26-失败驱动开发-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15399&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffailure-driven-development%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

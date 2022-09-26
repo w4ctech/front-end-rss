@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-26 16:22:03。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-09-26 17:06:03。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -72,6 +72,8 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [【V2EX】2022-09-26-主机被暴力破解中！太疯狂了最近！](https://www.v2ex.com/t/883166) 
+- [【V2EX】2022-09-26-2022-年了,疫情下,想转行嵌入式开发或者深造区块链](https://www.v2ex.com/t/883165) 
 - [【V2EX】2022-09-26-请教各位-openpyxl-模块怎样方法才能把不同长度的-list-保存-excel](https://www.v2ex.com/t/883164) 
 - [【V2EX】2022-09-26-请问可以给一张电信副卡开通-Apple-Watch-eSIM-吗？](https://www.v2ex.com/t/883163) 
 - [【V2EX】2022-09-26-找个-WP-仿站可以吗-顺便了解下行情](https://www.v2ex.com/t/883162) 
@@ -111,9 +113,6 @@
 - [【V2EX】2022-09-26-翼支付疯狂送信用卡还款券](https://www.v2ex.com/t/883121) 
 - [【V2EX】2022-09-26-现在做阿里云代理商、腾讯代理商-还能赚钱吗？-感觉不好推呀](https://www.v2ex.com/t/883120) 
 - [【V2EX】2022-09-26-撒贝宁在-vivo-发布会关于折叠屏的宣发视频还挺惊艳的，大家有用折叠屏的吗](https://www.v2ex.com/t/883119) 
-- [【V2EX】2022-09-26-.net-中有没有按添加顺序排序的不重复的集合?-类似-Java-中的-LinkedHashSet](https://www.v2ex.com/t/883117) 
-- [【V2EX】2022-09-26-也来求职试试··-专科-网络运维-5-年经验-广州](https://www.v2ex.com/t/883116) 
-- [【V2EX】2022-09-26-有没有统一网页音量插件](https://www.v2ex.com/t/883115) 
 - [【技术头条】2022-09-26-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-26-技术改变了什么？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15400&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fpower-of-technology%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-26-失败驱动开发-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15399&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffailure-driven-development%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -152,11 +151,11 @@
 - [【开发者头条】2022-09-26-在-KubeSphere-中部署高可用-Redis-集群](https://toutiao.io/k/6zyyapj) 
 - [【开发者头条】2022-09-26-独立开发变现周刊（第73期）：0美元营销预算创建年收入7.2万美元的产品交易市场](https://toutiao.io/k/8gibdxj) 
 - [【开发者头条】2022-09-26-前端动效讲解与实战](https://toutiao.io/k/9wt3ve1) 
-- [【开发者头条】2022-09-26-【第2740期】@玉伯：技术人如何做产品](https://toutiao.io/k/41kjq9p) 
 - [【开发者头条】2022-09-26-前端也要懂算法，不会算法也能微调一个-NLP-预训练模型](https://toutiao.io/k/22gr08h) 
-- [【开发者头条】2022-09-26-推荐-Redis高可用方案](https://toutiao.io/k/3hh68yl) 
-- [【开发者头条】2022-09-26-推荐-1.8w-字的-SQL-优化大全](https://toutiao.io/k/tz7p6nl) 
+- [【开发者头条】2022-09-26-【第2740期】@玉伯：技术人如何做产品](https://toutiao.io/k/41kjq9p) 
 - [【开发者头条】2022-09-26-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) 
+- [【开发者头条】2022-09-26-推荐-1.8w-字的-SQL-优化大全](https://toutiao.io/k/tz7p6nl) 
+- [【开发者头条】2022-09-26-推荐-Redis高可用方案](https://toutiao.io/k/3hh68yl) 
 - [【开发者头条】2022-09-26-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>

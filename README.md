@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-26 16:22:03，:rocket: 更新条数: +2032， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-26 17:06:03，:rocket: 更新条数: +2031， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-09-26-主机被暴力破解中！太疯狂了最近！](https://www.v2ex.com/t/883166) ![](assets/new.png)  
+- [2022-09-26-2022-年了,疫情下,想转行嵌入式开发或者深造区块链](https://www.v2ex.com/t/883165) ![](assets/new.png)  
 - [2022-09-26-请教各位-openpyxl-模块怎样方法才能把不同长度的-list-保存-excel](https://www.v2ex.com/t/883164) ![](assets/new.png)  
 - [2022-09-26-请问可以给一张电信副卡开通-Apple-Watch-eSIM-吗？](https://www.v2ex.com/t/883163) ![](assets/new.png)  
 - [2022-09-26-找个-WP-仿站可以吗-顺便了解下行情](https://www.v2ex.com/t/883162) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-09-26-吐槽一下，工作的十字路口感觉从没选对](https://www.v2ex.com/t/883145) ![](assets/new.png)  
 - [2022-09-26-监考的时候数了一下美国大学本科生的笔记本品牌](https://www.v2ex.com/t/883144) ![](assets/new.png)  
 - [2022-09-26-小红书-电商方向测试开发工程师](https://www.v2ex.com/t/883143) ![](assets/new.png)  
-- [2022-09-26-求一份远程软件测试工作](https://www.v2ex.com/t/883142) ![](assets/new.png)  
-- [2022-09-26-爱思助手模拟定位后，海拔高度-0.000000，海拔垂直精度-1.000000，有破解之道吗？](https://www.v2ex.com/t/883141) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -571,8 +571,8 @@
 - [2022-09-26-在-KubeSphere-中部署高可用-Redis-集群](https://toutiao.io/k/6zyyapj) ![](assets/new.png)  
 - [2022-09-26-独立开发变现周刊（第73期）：0美元营销预算创建年收入7.2万美元的产品交易市场](https://toutiao.io/k/8gibdxj) ![](assets/new.png)  
 - [2022-09-26-前端动效讲解与实战](https://toutiao.io/k/9wt3ve1) ![](assets/new.png)  
-- [2022-09-26-【第2740期】@玉伯：技术人如何做产品](https://toutiao.io/k/41kjq9p) ![](assets/new.png)  
 - [2022-09-26-前端也要懂算法，不会算法也能微调一个-NLP-预训练模型](https://toutiao.io/k/22gr08h) ![](assets/new.png)  
+- [2022-09-26-【第2740期】@玉伯：技术人如何做产品](https://toutiao.io/k/41kjq9p) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

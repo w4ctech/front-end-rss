@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-26 21:46:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-26 22:16:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1985,6 +1985,6 @@
 - [2022-09-26-独立开发变现周刊（第73期）：0美元营销预算创建年收入7.2万美元的产品交易市场](https://toutiao.io/k/8gibdxj) 
 - [2022-09-26-前端动效讲解与实战](https://toutiao.io/k/9wt3ve1) 
 - [2022-09-26-【第2740期】@玉伯：技术人如何做产品](https://toutiao.io/k/41kjq9p) 
-- [2022-09-26-推荐-Redis高可用方案](https://toutiao.io/k/3hh68yl) 
 - [2022-09-26-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) 
 - [2022-09-26-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) 
+- [2022-09-26-推荐-Redis高可用方案](https://toutiao.io/k/3hh68yl) 

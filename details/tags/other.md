@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-26 15:18:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-26 15:50:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1914,6 +1914,9 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-09-26-求一个下载-mac-软件的好渠道](https://www.v2ex.com/t/883160) 
+- [2022-09-26-无线网络（Wi-Fi）和蜂窝网络（Cellular-Network）有什么区别？](https://www.v2ex.com/t/883158) 
+- [2022-09-26-2022-年了，黑客攻击的手段还是-PHP-和-sql-注入那老一套吗？](https://www.v2ex.com/t/883157) 
 - [2022-09-26-在国内做开发，哪些方向或者环境相对没那么卷？](https://www.v2ex.com/t/883156) 
 - [2022-09-26-真的是大无语了,-Windows-11-22H2-为何这么多问题就-RTM-了,-这还是测试几个月的版本](https://www.v2ex.com/t/883153) 
 - [2022-09-26-搭了一个专门讨论数据库和分布式系统的论坛，欢迎来交流](https://www.v2ex.com/t/883151) 
@@ -1945,9 +1948,6 @@
 - [2022-09-26-有没有统一网页音量插件](https://www.v2ex.com/t/883115) 
 - [2022-09-26-2-年前端，统本，数媒技，有自己的技术网站，可否在一线城市拿到-15k+](https://www.v2ex.com/t/883113) 
 - [2022-09-26-此-Mac-无法连接-Apple-服务](https://www.v2ex.com/t/883112) 
-- [2022-09-26-Airpods-Pro2-一个很恶心的-bug](https://www.v2ex.com/t/883110) 
-- [2022-09-26-Azure-CTO-认为应以-Rust-代替-C/C++](https://www.v2ex.com/t/883109) 
-- [2022-09-26-家庭服务器-Linux-发行版如何选择](https://www.v2ex.com/t/883107) 
 - [2022-09-26-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-26-技术改变了什么？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15400&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fpower-of-technology%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-26-失败驱动开发-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15399&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffailure-driven-development%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1982,6 +1982,6 @@
 - [2022-09-26-独立开发变现周刊（第73期）：0美元营销预算创建年收入7.2万美元的产品交易市场](https://toutiao.io/k/8gibdxj) 
 - [2022-09-26-前端动效讲解与实战](https://toutiao.io/k/9wt3ve1) 
 - [2022-09-26-【第2740期】@玉伯：技术人如何做产品](https://toutiao.io/k/41kjq9p) 
-- [2022-09-26-推荐-Redis高可用方案](https://toutiao.io/k/3hh68yl) 
-- [2022-09-26-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) 
 - [2022-09-26-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) 
+- [2022-09-26-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) 
+- [2022-09-26-推荐-Redis高可用方案](https://toutiao.io/k/3hh68yl) 

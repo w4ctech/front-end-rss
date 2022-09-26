@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-26 13:33:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-26 14:15:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1914,6 +1914,12 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-09-26-BitLocker-现在没有办法使用硬件加速吗？](https://www.v2ex.com/t/883137) 
+- [2022-09-26-记一次-airpods3-的-apple-售后服务](https://www.v2ex.com/t/883136) 
+- [2022-09-26-win-上的迅雷、百度网盘、QQ-等国产软件在何处安装？-虚机、沙盒-or-xx？](https://www.v2ex.com/t/883135) 
+- [2022-09-26-社招字节跳动-字节北京后端研发岗内推](https://www.v2ex.com/t/883134) 
+- [2022-09-26-这样的公司-该提桶-🪣-跑路了吗](https://www.v2ex.com/t/883133) 
+- [2022-09-26-0926-联通大王卡退必选包成功](https://www.v2ex.com/t/883132) 
 - [2022-09-26-有办法把-iPhone-的-app-通知推送到安卓手机上吗](https://www.v2ex.com/t/883130) 
 - [2022-09-26-美区-paypal-开通了微软-auth-两步验证以后让我重新登陆](https://www.v2ex.com/t/883129) 
 - [2022-09-26-Airpod-Pro2-换新后体验](https://www.v2ex.com/t/883125) 
@@ -1940,10 +1946,6 @@
 - [2022-09-26-抢票软件的加钱加速抢有用吗，有没有人知道内幕的唠一唠](https://www.v2ex.com/t/883097) 
 - [2022-09-26-Python-查询数据库数据发送监控预警邮件](https://www.v2ex.com/t/883091) 
 - [2022-09-26-B-站或者油管上有什么不出镜的数码类-UP-主？](https://www.v2ex.com/t/883088) 
-- [2022-09-26-内推-北京/深圳/成都「字节跳动---智创新方向」招高级前端开发含校招](https://www.v2ex.com/t/883087) 
-- [2022-09-26-airpods-pro-2-灵动岛问题](https://www.v2ex.com/t/883085) 
-- [2022-09-26-win10-系统经常卡死是什么原因？](https://www.v2ex.com/t/883083) 
-- [2022-09-26-现代医学技术下，-DNA-基因数据都能提取，那么能存档吗？](https://www.v2ex.com/t/883081) 
 - [2022-09-26-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-26-技术改变了什么？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15400&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fpower-of-technology%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-26-失败驱动开发-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15399&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffailure-driven-development%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1979,5 +1981,5 @@
 - [2022-09-26-【第2740期】@玉伯：技术人如何做产品](https://toutiao.io/k/41kjq9p) 
 - [2022-09-26-前端动效讲解与实战](https://toutiao.io/k/9wt3ve1) 
 - [2022-09-26-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) 
-- [2022-09-26-推荐-Redis高可用方案](https://toutiao.io/k/3hh68yl) 
 - [2022-09-26-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) 
+- [2022-09-26-推荐-Redis高可用方案](https://toutiao.io/k/3hh68yl) 

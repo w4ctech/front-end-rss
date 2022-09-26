@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-26 23:17:45。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-09-26 23:52:38。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -155,8 +155,8 @@
 - [【开发者头条】2022-09-26-【第2740期】@玉伯：技术人如何做产品](https://toutiao.io/k/41kjq9p) 
 - [【开发者头条】2022-09-26-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) 
 - [【开发者头条】2022-09-26-推荐-1.8w-字的-SQL-优化大全](https://toutiao.io/k/tz7p6nl) 
-- [【开发者头条】2022-09-26-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) 
 - [【开发者头条】2022-09-26-推荐-Redis高可用方案](https://toutiao.io/k/3hh68yl) 
+- [【开发者头条】2022-09-26-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

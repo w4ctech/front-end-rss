@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-09-26 07:33:31。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-26 08:21:22。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -235,7 +235,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
 - [【V2EX】为什么-chrome-上有的网站的视频可以自动播放并且不是静音状态，网站如-b-站，腾讯视频等](https://www.v2ex.com/t/883042)
 - [【V2EX】有没有-Android-app-拍摄视频的同时能对音频进行变声处理，不想后期弄了，好烦呢](https://www.v2ex.com/t/883016)
-- [【V2EX】基于声网-SDK-实现-macOS-端的一对一视频通话](https://www.v2ex.com/t/883008)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -344,6 +343,7 @@
 
 
 
+- [【V2EX】赴日-IT——东京-600+人自社项目团队招聘赴日技术者！](https://www.v2ex.com/t/883050)
 - [【V2EX】（招聘/base-北京）一个既可以远程工作又可以参与到开源项目的工作机会](https://www.v2ex.com/t/883027)
 - [【开发者头条】网易面试：将Bean放入Spring容器中有几种方式？](https://toutiao.io/k/p2jw5va)
 - [......【查看更多】......](./details/tags/job-interview.md)

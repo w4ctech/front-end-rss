@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-26 09:20:41。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-09-26 09:47:10。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -71,6 +71,13 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [【V2EX】2022-09-26-Python-查询数据库数据发送监控预警邮件](https://www.v2ex.com/t/883091) 
+- [【V2EX】2022-09-26-B-站或者油管上有什么不出镜的数码类-UP-主？](https://www.v2ex.com/t/883088) 
+- [【V2EX】2022-09-26-内推-北京/深圳/成都「字节跳动---智创新方向」招高级前端开发含校招](https://www.v2ex.com/t/883087) 
+- [【V2EX】2022-09-26-airpods-pro-2-灵动岛问题](https://www.v2ex.com/t/883085) 
+- [【V2EX】2022-09-26-win10-系统经常卡死是什么原因？](https://www.v2ex.com/t/883083) 
+- [【V2EX】2022-09-26-灵动岛挡住了-face-ID-验证的部分动画](https://www.v2ex.com/t/883082) 
+- [【V2EX】2022-09-26-现代医学技术下，-DNA-基因数据都能提取，那么能存档吗？](https://www.v2ex.com/t/883081) 
 - [【V2EX】2022-09-26-存储服务云存储（对象储存）推荐](https://www.v2ex.com/t/883080) 
 - [【V2EX】2022-09-26-多一台紫色-14pro256g，国庆节-1001-1011-到，有要的么](https://www.v2ex.com/t/883079) 
 - [【V2EX】2022-09-26-信创环境前端该不该升-vue3？](https://www.v2ex.com/t/883077) 
@@ -99,14 +106,6 @@
 - [【V2EX】2022-09-26-拿到一个网址想要-ping-域名，大家是怎么简化手动提取域名这个过程的](https://www.v2ex.com/t/883044) 
 - [【V2EX】2022-09-26-iOS-上有什么能完整支持蓝牙鼠标键盘的-RDP-App](https://www.v2ex.com/t/883043) 
 - [【V2EX】2022-09-26-为什么-chrome-上有的网站的视频可以自动播放并且不是静音状态，网站如-b-站，腾讯视频等](https://www.v2ex.com/t/883042) 
-- [【V2EX】2022-09-26-iPhone7-电池健康-79%-需要换电池吗](https://www.v2ex.com/t/883040) 
-- [【V2EX】2022-09-26-firefox-史诗级更新，-windows-上终于支持触摸板双指左右划返回/前进了](https://www.v2ex.com/t/883039) 
-- [【V2EX】2022-09-26-只想摸鱼-不想写代码~~-这是咋了](https://www.v2ex.com/t/883037) 
-- [【V2EX】2022-09-26-「深圳、上海、北京」内推千人级别游戏小厂，客户端、PM、3D、特效、美术、策划](https://www.v2ex.com/t/883036) 
-- [【V2EX】2022-09-26-有什么兼具实用、美观、收藏性的礼物么？](https://www.v2ex.com/t/883035) 
-- [【V2EX】2022-09-26-流量卡问题](https://www.v2ex.com/t/883034) 
-- [【V2EX】2022-09-26-m1-MacBook-Pro-16+512-多少钱可以入手？](https://www.v2ex.com/t/883033) 
-- [【V2EX】2022-09-26-TinySnap-截图美化工具在-ProductHunt-上发布了！](https://www.v2ex.com/t/883031) 
 - [【技术头条】2022-09-26-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-26-技术改变了什么？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15400&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fpower-of-technology%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-26-失败驱动开发-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15399&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffailure-driven-development%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -144,13 +143,13 @@
 - [【开发者头条】2022-09-26-独立开发变现周刊（第73期）：0美元营销预算创建年收入7.2万美元的产品交易市场](https://toutiao.io/k/8gibdxj) 
 - [【开发者头条】2022-09-26-在-KubeSphere-中部署高可用-Redis-集群](https://toutiao.io/k/6zyyapj) 
 - [【开发者头条】2022-09-26-如何用DBSCAN聚类模型做数据分析？](https://toutiao.io/k/8jbyek4) 
-- [【开发者头条】2022-09-26-【第2740期】@玉伯：技术人如何做产品](https://toutiao.io/k/41kjq9p) 
-- [【开发者头条】2022-09-26-前端也要懂算法，不会算法也能微调一个-NLP-预训练模型](https://toutiao.io/k/22gr08h) 
 - [【开发者头条】2022-09-26-前端动效讲解与实战](https://toutiao.io/k/9wt3ve1) 
+- [【开发者头条】2022-09-26-前端也要懂算法，不会算法也能微调一个-NLP-预训练模型](https://toutiao.io/k/22gr08h) 
+- [【开发者头条】2022-09-26-【第2740期】@玉伯：技术人如何做产品](https://toutiao.io/k/41kjq9p) 
 - [【开发者头条】2022-09-26-推荐-1.8w-字的-SQL-优化大全](https://toutiao.io/k/tz7p6nl) 
+- [【开发者头条】2022-09-26-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) 
 - [【开发者头条】2022-09-26-推荐-Redis高可用方案](https://toutiao.io/k/3hh68yl) 
 - [【开发者头条】2022-09-26-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) 
-- [【开发者头条】2022-09-26-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

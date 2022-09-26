@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-26 09:20:41，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-26 09:47:10，:rocket: 更新条数: +2025， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,13 @@
 </summary>
 
 
+- [2022-09-26-Python-查询数据库数据发送监控预警邮件](https://www.v2ex.com/t/883091) ![](assets/new.png)  
+- [2022-09-26-B-站或者油管上有什么不出镜的数码类-UP-主？](https://www.v2ex.com/t/883088) ![](assets/new.png)  
+- [2022-09-26-内推-北京/深圳/成都「字节跳动---智创新方向」招高级前端开发含校招](https://www.v2ex.com/t/883087) ![](assets/new.png)  
+- [2022-09-26-airpods-pro-2-灵动岛问题](https://www.v2ex.com/t/883085) ![](assets/new.png)  
+- [2022-09-26-win10-系统经常卡死是什么原因？](https://www.v2ex.com/t/883083) ![](assets/new.png)  
+- [2022-09-26-灵动岛挡住了-face-ID-验证的部分动画](https://www.v2ex.com/t/883082) ![](assets/new.png)  
+- [2022-09-26-现代医学技术下，-DNA-基因数据都能提取，那么能存档吗？](https://www.v2ex.com/t/883081) ![](assets/new.png)  
 - [2022-09-26-存储服务云存储（对象储存）推荐](https://www.v2ex.com/t/883080) ![](assets/new.png)  
 - [2022-09-26-多一台紫色-14pro256g，国庆节-1001-1011-到，有要的么](https://www.v2ex.com/t/883079) ![](assets/new.png)  
 - [2022-09-26-信创环境前端该不该升-vue3？](https://www.v2ex.com/t/883077) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-09-26-客服、文档、图床，推出买断版](https://www.v2ex.com/t/883066) ![](assets/new.png)  
 - [2022-09-26-airpods-pro2-降噪很好但音质很迷](https://www.v2ex.com/t/883065) ![](assets/new.png)  
 - [2022-09-26-如何批量（便捷）保存微信收藏内容到本地？](https://www.v2ex.com/t/883063) ![](assets/new.png)  
-- [2022-09-26-求-Windows-系统上的软件锁-APP](https://www.v2ex.com/t/883060) ![](assets/new.png)  
-- [2022-09-26-姑苏的蟹开捕了，有要尝鲜的吗](https://www.v2ex.com/t/883058) ![](assets/new.png)  
-- [2022-09-26-Web3-产品经理/运营经理-都需要哦-身边有合适的朋友可以转推呀](https://www.v2ex.com/t/883056) ![](assets/new.png)  
-- [2022-09-26-分享小工具：-Jellyfin-影片标题处理以支持客户端按汉语拼音排序、筛选](https://www.v2ex.com/t/883055) ![](assets/new.png)  
-- [2022-09-26-腾讯云每月免费的-10G-CDN-流量包现在变为手动领取了](https://www.v2ex.com/t/883054) ![](assets/new.png)  
-- [2022-09-26-MacBook-Pro14-寸购买优惠渠道](https://www.v2ex.com/t/883053) ![](assets/new.png)  
-- [2022-09-26-独立产品灵感周刊-DecoHack-#032---这些渠道可以推广你的新产品](https://www.v2ex.com/t/883051) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -570,9 +570,9 @@
 - [2022-09-26-独立开发变现周刊（第73期）：0美元营销预算创建年收入7.2万美元的产品交易市场](https://toutiao.io/k/8gibdxj) ![](assets/new.png)  
 - [2022-09-26-在-KubeSphere-中部署高可用-Redis-集群](https://toutiao.io/k/6zyyapj) ![](assets/new.png)  
 - [2022-09-26-如何用DBSCAN聚类模型做数据分析？](https://toutiao.io/k/8jbyek4) ![](assets/new.png)  
-- [2022-09-26-【第2740期】@玉伯：技术人如何做产品](https://toutiao.io/k/41kjq9p) ![](assets/new.png)  
-- [2022-09-26-前端也要懂算法，不会算法也能微调一个-NLP-预训练模型](https://toutiao.io/k/22gr08h) ![](assets/new.png)  
 - [2022-09-26-前端动效讲解与实战](https://toutiao.io/k/9wt3ve1) ![](assets/new.png)  
+- [2022-09-26-前端也要懂算法，不会算法也能微调一个-NLP-预训练模型](https://toutiao.io/k/22gr08h) ![](assets/new.png)  
+- [2022-09-26-【第2740期】@玉伯：技术人如何做产品](https://toutiao.io/k/41kjq9p) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

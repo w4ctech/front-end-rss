@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-09-26 06:49:31。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-26 07:33:31。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -153,7 +153,7 @@
 
 
 
-- [【V2EX】工作五年的游戏后端不知道排序算法的复杂度正常吗？](https://www.v2ex.com/t/882982)
+- [【V2EX】「深圳、上海、北京」内推千人级别游戏小厂，客户端、PM、3D、特效、美术、策划](https://www.v2ex.com/t/883036)
 - [......【查看更多】......](./details/tags/dev-game.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -215,7 +215,6 @@
 
 
 
-- [【V2EX】在浏览器提取-3D-点云数据的关键点！](https://www.v2ex.com/t/882980)
 - [......【查看更多】......](./details/tags/canvas-image.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -234,6 +233,7 @@
 
 - [【武汉肺炎防疫全纪录(财新网)】广州17岁男生在定点医院参加高考-特殊考场视频监考](https://m.caixin.com/m/2021-06-05/101723418.html)
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
+- [【V2EX】为什么-chrome-上有的网站的视频可以自动播放并且不是静音状态，网站如-b-站，腾讯视频等](https://www.v2ex.com/t/883042)
 - [【V2EX】有没有-Android-app-拍摄视频的同时能对音频进行变声处理，不想后期弄了，好烦呢](https://www.v2ex.com/t/883016)
 - [【V2EX】基于声网-SDK-实现-macOS-端的一对一视频通话](https://www.v2ex.com/t/883008)
 - [......【查看更多】......](./details/tags/audio-video.md)
@@ -275,6 +275,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】腺病毒新冠疫苗引安全忧虑-康希诺称未发现血栓病例](https://m.caixin.com/m/2021-04-14/101691086.html)
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
+- [【V2EX】firefox-史诗级更新，-windows-上终于支持触摸板双指左右划返回/前进了](https://www.v2ex.com/t/883039)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -291,7 +292,6 @@
 
 
 
-- [【V2EX】雪花算法生成-ID，如何便捷的生成机器-ID](https://www.v2ex.com/t/882977)
 - [【技术头条】基于AI算法的数据库异常监测系统的设计与实现-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15390&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F09%2F01%2Fdatabase-monitoring-based-on-ai.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】前端也要懂算法，不会算法也能微调一个-NLP-预训练模型](https://toutiao.io/k/22gr08h)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
@@ -310,7 +310,6 @@
 
 
 
-- [【V2EX】请教一下，-PHP-扩展用-docker--PHP--ext-系列函数和自己编译或者-pecl-安装有啥区别呢](https://www.v2ex.com/t/882983)
 - [【技术头条】GraphQL及元数据驱动架构在后端BFF中的实践-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15395&url=https%3A%2F%2Ftech.meituan.com%2F2021%2F05%2F06%2Fbff-graphql.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/server.md)
 
@@ -345,6 +344,7 @@
 
 
 
+- [【V2EX】（招聘/base-北京）一个既可以远程工作又可以参与到开源项目的工作机会](https://www.v2ex.com/t/883027)
 - [【开发者头条】网易面试：将Bean放入Spring容器中有几种方式？](https://toutiao.io/k/p2jw5va)
 - [......【查看更多】......](./details/tags/job-interview.md)
 

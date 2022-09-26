@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-25 23:46:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-26 01:19:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -17,4 +17,3 @@
 - [2022-06-19-如何继承自定义元素及其他JS中扩展新方法](https://www.zhangxinxu.com/wordpress/2022/06/js-extend-class-custom-elements/) 
 - [2022-09-25-做了一个基于-4-种颜色来表示身份的-JavaScript-随机-ID-生成器](https://www.v2ex.com/t/882886) 
 - [2022-09-25-ClashxPro-做旁路由，疑似请求过载引起大量-dial-tcp-timeout](https://www.v2ex.com/t/882867) 
-- [2022-09-25-2022-年路由器求推荐](https://www.v2ex.com/t/882857) 

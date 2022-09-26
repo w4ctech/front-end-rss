@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-26 08:21:22，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-26 08:55:32，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-09-26-老哥们，集思广益一下韭菜们肩颈的维保问题-:D](https://www.v2ex.com/t/883072) ![](assets/new.png)  
+- [2022-09-26-使用-cyclic.sh-/-heroku-之类平台上托管-bitwarden-可行性如何](https://www.v2ex.com/t/883071) ![](assets/new.png)  
+- [2022-09-26-想自己写一个-ssh-终端应用，有啥建议吗？](https://www.v2ex.com/t/883070) ![](assets/new.png)  
+- [2022-09-26-watchOS-9-升级之后和-iPhone-的连接异常](https://www.v2ex.com/t/883068) ![](assets/new.png)  
+- [2022-09-26-客服、文档、图床，推出买断版](https://www.v2ex.com/t/883066) ![](assets/new.png)  
+- [2022-09-26-airpods-pro2-降噪很好但音质很迷](https://www.v2ex.com/t/883065) ![](assets/new.png)  
 - [2022-09-26-如何批量（便捷）保存微信收藏内容到本地？](https://www.v2ex.com/t/883063) ![](assets/new.png)  
 - [2022-09-26-求-Windows-系统上的软件锁-APP](https://www.v2ex.com/t/883060) ![](assets/new.png)  
 - [2022-09-26-姑苏的蟹开捕了，有要尝鲜的吗](https://www.v2ex.com/t/883058) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-09-26-obsidian-文档格式](https://www.v2ex.com/t/883047) ![](assets/new.png)  
 - [2022-09-26-2022-年-10-月前夕，北京哪里能较快买到入门级公路车](https://www.v2ex.com/t/883046) ![](assets/new.png)  
 - [2022-09-26-拿到一个网址想要-ping-域名，大家是怎么简化手动提取域名这个过程的](https://www.v2ex.com/t/883044) ![](assets/new.png)  
-- [2022-09-26-iOS-上有什么能完整支持蓝牙鼠标键盘的-RDP-App](https://www.v2ex.com/t/883043) ![](assets/new.png)  
-- [2022-09-26-为什么-chrome-上有的网站的视频可以自动播放并且不是静音状态，网站如-b-站，腾讯视频等](https://www.v2ex.com/t/883042) ![](assets/new.png)  
-- [2022-09-26-iPhone7-电池健康-79%-需要换电池吗](https://www.v2ex.com/t/883040) ![](assets/new.png)  
-- [2022-09-26-firefox-史诗级更新，-windows-上终于支持触摸板双指左右划返回/前进了](https://www.v2ex.com/t/883039) ![](assets/new.png)  
-- [2022-09-26-只想摸鱼-不想写代码~~-这是咋了](https://www.v2ex.com/t/883037) ![](assets/new.png)  
-- [2022-09-26-「深圳、上海、北京」内推千人级别游戏小厂，客户端、PM、3D、特效、美术、策划](https://www.v2ex.com/t/883036) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -557,21 +557,21 @@
 - [2022-09-26-自动化的艺术](https://toutiao.io/k/emvjd0m) ![](assets/new.png)  
 - [2022-09-26-很不起眼的6个bug，90%的程序员就算写了10年代码也肯定都踩过！](https://toutiao.io/k/mwa80s7) ![](assets/new.png)  
 - [2022-09-26-基于AOP模式实现系统告警](https://toutiao.io/k/t4w9d0y) ![](assets/new.png)  
-- [2022-09-26-使用-vue-class-setup-编写-class-风格组合式API，支持Vue2和Vue3](https://toutiao.io/k/776yjzb) ![](assets/new.png)  
 - [2022-09-26-亿级异构任务调度框架设计与实践](https://toutiao.io/k/kx3039a) ![](assets/new.png)  
+- [2022-09-26-使用-vue-class-setup-编写-class-风格组合式API，支持Vue2和Vue3](https://toutiao.io/k/776yjzb) ![](assets/new.png)  
 - [2022-09-26-单体架构服务转型至分布式的踩坑经历](https://toutiao.io/k/jxgbje7) ![](assets/new.png)  
 - [2022-09-26-语雀桌面端技术架构实践；All-in云服务十年，金山云依旧事与愿违｜码农周刊VIP会员专属邮件周报-Vol.107](https://toutiao.io/k/b68p936) ![](assets/new.png)  
 - [2022-09-26-达达快送APP埋点日志框架升级实战](https://toutiao.io/k/i7r4svl) ![](assets/new.png)  
 - [2022-09-26-手撸了一个Golang协程池](https://toutiao.io/k/mdjr0cs) ![](assets/new.png)  
-- [2022-09-26-看到这样的数据，你还会给员工同时安排多个任务吗？](https://toutiao.io/k/135a8i3) ![](assets/new.png)  
 - [2022-09-26-镜像仓库-Harbor-对接-MinIO-对象存储](https://toutiao.io/k/wow971x) ![](assets/new.png)  
 - [2022-09-26-网易面试：将Bean放入Spring容器中有几种方式？](https://toutiao.io/k/p2jw5va) ![](assets/new.png)  
+- [2022-09-26-看到这样的数据，你还会给员工同时安排多个任务吗？](https://toutiao.io/k/135a8i3) ![](assets/new.png)  
 - [2022-09-26-爆火的微服务架构，通俗易懂讲解](https://toutiao.io/k/kaykjyt) ![](assets/new.png)  
 - [2022-09-26-独立开发变现周刊（第73期）：0美元营销预算创建年收入7.2万美元的产品交易市场](https://toutiao.io/k/8gibdxj) ![](assets/new.png)  
 - [2022-09-26-在-KubeSphere-中部署高可用-Redis-集群](https://toutiao.io/k/6zyyapj) ![](assets/new.png)  
 - [2022-09-26-如何用DBSCAN聚类模型做数据分析？](https://toutiao.io/k/8jbyek4) ![](assets/new.png)  
-- [2022-09-26-前端也要懂算法，不会算法也能微调一个-NLP-预训练模型](https://toutiao.io/k/22gr08h) ![](assets/new.png)  
 - [2022-09-26-【第2740期】@玉伯：技术人如何做产品](https://toutiao.io/k/41kjq9p) ![](assets/new.png)  
+- [2022-09-26-前端也要懂算法，不会算法也能微调一个-NLP-预训练模型](https://toutiao.io/k/22gr08h) ![](assets/new.png)  
 - [2022-09-26-前端动效讲解与实战](https://toutiao.io/k/9wt3ve1) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

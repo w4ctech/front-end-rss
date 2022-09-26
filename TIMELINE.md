@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-26 17:06:03。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-09-26 17:55:18。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -72,6 +72,7 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [【V2EX】2022-09-26-深圳电动车只能买新国标了吗？](https://www.v2ex.com/t/883168) 
 - [【V2EX】2022-09-26-主机被暴力破解中！太疯狂了最近！](https://www.v2ex.com/t/883166) 
 - [【V2EX】2022-09-26-2022-年了,疫情下,想转行嵌入式开发或者深造区块链](https://www.v2ex.com/t/883165) 
 - [【V2EX】2022-09-26-请教各位-openpyxl-模块怎样方法才能把不同长度的-list-保存-excel](https://www.v2ex.com/t/883164) 
@@ -153,8 +154,8 @@
 - [【开发者头条】2022-09-26-前端动效讲解与实战](https://toutiao.io/k/9wt3ve1) 
 - [【开发者头条】2022-09-26-前端也要懂算法，不会算法也能微调一个-NLP-预训练模型](https://toutiao.io/k/22gr08h) 
 - [【开发者头条】2022-09-26-【第2740期】@玉伯：技术人如何做产品](https://toutiao.io/k/41kjq9p) 
-- [【开发者头条】2022-09-26-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) 
 - [【开发者头条】2022-09-26-推荐-1.8w-字的-SQL-优化大全](https://toutiao.io/k/tz7p6nl) 
+- [【开发者头条】2022-09-26-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) 
 - [【开发者头条】2022-09-26-推荐-Redis高可用方案](https://toutiao.io/k/3hh68yl) 
 - [【开发者头条】2022-09-26-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) 
 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-26 11:14:30，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-26 11:41:48，:rocket: 更新条数: +2025， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-09-26-Azure-CTO-认为应以-Rust-代替-C/C++](https://www.v2ex.com/t/883109) ![](assets/new.png)  
+- [2022-09-26-家庭服务器-Linux-发行版如何选择](https://www.v2ex.com/t/883107) ![](assets/new.png)  
+- [2022-09-26-Windows10-双屏却检测到-6-个显示器](https://www.v2ex.com/t/883106) ![](assets/new.png)  
 - [2022-09-26-iOS-如何实现拒接所有副卡来电？](https://www.v2ex.com/t/883105) ![](assets/new.png)  
 - [2022-09-26-上海社保](https://www.v2ex.com/t/883104) ![](assets/new.png)  
 - [2022-09-26-AirPods-Pro2-严重断音-Bug](https://www.v2ex.com/t/883103) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-09-26-airpods-pro-2-灵动岛问题](https://www.v2ex.com/t/883085) ![](assets/new.png)  
 - [2022-09-26-win10-系统经常卡死是什么原因？](https://www.v2ex.com/t/883083) ![](assets/new.png)  
 - [2022-09-26-灵动岛挡住了-face-ID-验证的部分动画](https://www.v2ex.com/t/883082) ![](assets/new.png)  
-- [2022-09-26-现代医学技术下，-DNA-基因数据都能提取，那么能存档吗？](https://www.v2ex.com/t/883081) ![](assets/new.png)  
-- [2022-09-26-存储服务云存储（对象储存）推荐](https://www.v2ex.com/t/883080) ![](assets/new.png)  
-- [2022-09-26-多一台紫色-14pro256g，国庆节-1001-1011-到，有要的么](https://www.v2ex.com/t/883079) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,8 +563,8 @@
 - [2022-09-26-单体架构服务转型至分布式的踩坑经历](https://toutiao.io/k/jxgbje7) ![](assets/new.png)  
 - [2022-09-26-语雀桌面端技术架构实践；All-in云服务十年，金山云依旧事与愿违｜码农周刊VIP会员专属邮件周报-Vol.107](https://toutiao.io/k/b68p936) ![](assets/new.png)  
 - [2022-09-26-达达快送APP埋点日志框架升级实战](https://toutiao.io/k/i7r4svl) ![](assets/new.png)  
-- [2022-09-26-镜像仓库-Harbor-对接-MinIO-对象存储](https://toutiao.io/k/wow971x) ![](assets/new.png)  
 - [2022-09-26-网易面试：将Bean放入Spring容器中有几种方式？](https://toutiao.io/k/p2jw5va) ![](assets/new.png)  
+- [2022-09-26-镜像仓库-Harbor-对接-MinIO-对象存储](https://toutiao.io/k/wow971x) ![](assets/new.png)  
 - [2022-09-26-看到这样的数据，你还会给员工同时安排多个任务吗？](https://toutiao.io/k/135a8i3) ![](assets/new.png)  
 - [2022-09-26-爆火的微服务架构，通俗易懂讲解](https://toutiao.io/k/kaykjyt) ![](assets/new.png)  
 - [2022-09-26-在-KubeSphere-中部署高可用-Redis-集群](https://toutiao.io/k/6zyyapj) ![](assets/new.png)  

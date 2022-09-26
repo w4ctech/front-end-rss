@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-26 11:14:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-26 11:41:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1914,6 +1914,9 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-09-26-Azure-CTO-认为应以-Rust-代替-C/C++](https://www.v2ex.com/t/883109) 
+- [2022-09-26-家庭服务器-Linux-发行版如何选择](https://www.v2ex.com/t/883107) 
+- [2022-09-26-Windows10-双屏却检测到-6-个显示器](https://www.v2ex.com/t/883106) 
 - [2022-09-26-iOS-如何实现拒接所有副卡来电？](https://www.v2ex.com/t/883105) 
 - [2022-09-26-上海社保](https://www.v2ex.com/t/883104) 
 - [2022-09-26-AirPods-Pro2-严重断音-Bug](https://www.v2ex.com/t/883103) 
@@ -1940,8 +1943,6 @@
 - [2022-09-26-airpods-pro2-降噪很好但音质很迷](https://www.v2ex.com/t/883065) 
 - [2022-09-26-如何批量（便捷）保存微信收藏内容到本地？](https://www.v2ex.com/t/883063) 
 - [2022-09-26-求-Windows-系统上的软件锁-APP](https://www.v2ex.com/t/883060) 
-- [2022-09-26-姑苏的蟹开捕了，有要尝鲜的吗](https://www.v2ex.com/t/883058) 
-- [2022-09-26-Web3-产品经理/运营经理-都需要哦-身边有合适的朋友可以转推呀](https://www.v2ex.com/t/883056) 
 - [2022-09-26-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-26-技术改变了什么？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15400&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fpower-of-technology%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-26-失败驱动开发-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15399&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffailure-driven-development%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1976,6 +1977,6 @@
 - [2022-09-26-如何用DBSCAN聚类模型做数据分析？](https://toutiao.io/k/8jbyek4) 
 - [2022-09-26-【第2740期】@玉伯：技术人如何做产品](https://toutiao.io/k/41kjq9p) 
 - [2022-09-26-前端动效讲解与实战](https://toutiao.io/k/9wt3ve1) 
+- [2022-09-26-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) 
 - [2022-09-26-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) 
 - [2022-09-26-推荐-Redis高可用方案](https://toutiao.io/k/3hh68yl) 
-- [2022-09-26-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) 

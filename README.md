@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-26 01:19:56，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-26 04:11:28，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,26 +491,26 @@
 </summary>
 
 
-- [2022-09-26-为什么-Leetcode-中文-版有-App，-而英文版本没有](https://www.v2ex.com/t/882913) ![](assets/new.png)  
-- [2022-09-26-App-大佬们,-从-0-到-1-启动一个新-App,-摸着奶子选-RN-还是-Flutter](https://www.v2ex.com/t/882911) ![](assets/new.png)  
-- [2022-09-26-两年经验桌面运维求职，期望坐标上海，学历大专。](https://www.v2ex.com/t/882910) ![](assets/new.png)  
-- [2022-09-26-M1-Pro-14-寸-12.5.1-经常出现手势失灵（触摸板三指四指手势没反应）](https://www.v2ex.com/t/882909) ![](assets/new.png)  
-- [2022-09-26-nginx-怎样查看当前反代的-proxy_buffers-参数？](https://www.v2ex.com/t/882908) ![](assets/new.png)  
-- [2022-09-26-MegaPortraits-百万像素肖像：一次性创建高分辨率人物头像](https://www.v2ex.com/t/882906) ![](assets/new.png)  
-- [2022-09-26-上海到广州顺丰一天到，邮政三天，天差地别](https://www.v2ex.com/t/882905) ![](assets/new.png)  
-- [2022-09-26-家里有台老主机，可以用来干点啥？](https://www.v2ex.com/t/882904) ![](assets/new.png)  
-- [2022-09-26-google-地图真是太棒了！](https://www.v2ex.com/t/882903) ![](assets/new.png)  
-- [2022-09-26-你们有没有发现-14pro-在微信传刚刚拍的照片，需要停顿一秒，不知道是什么操作？](https://www.v2ex.com/t/882900) ![](assets/new.png)  
-- [2022-09-26-现在入手-MBP-还是等待下个月会有新品呢？](https://www.v2ex.com/t/882899) ![](assets/new.png)  
-- [2022-09-26-3-年经验的前端面中大厂，会被问到系统设计嘛，一般都会怎么问？](https://www.v2ex.com/t/882898) ![](assets/new.png)  
-- [2022-09-25-上海电信桥接后-IPTV-怎么配置](https://www.v2ex.com/t/882896) ![](assets/new.png)  
-- [2022-09-25-寻求有偿代写-surge-规则](https://www.v2ex.com/t/882895) ![](assets/new.png)  
-- [2022-09-25-有没有-rustdesk-大佬，不管查遍谷歌都没找到为什么加了-k-_还是非加密链接](https://www.v2ex.com/t/882894) ![](assets/new.png)  
-- [2022-09-25-postgresql-里面的事务，明明又错误为什么也执行了？](https://www.v2ex.com/t/882893) ![](assets/new.png)  
-- [2022-09-25-重庆同城-3-折出电脑主机，无-CPU-无显卡](https://www.v2ex.com/t/882892) ![](assets/new.png)  
-- [2022-09-25-适合开发人员的网络安全课程有什么推荐的吗？](https://www.v2ex.com/t/882891) ![](assets/new.png)  
-- [2022-09-25-上海-不加班-可一半时间居家办公-外企-招-中高级-Java-，中高级测试，高级安卓，中级-devOps](https://www.v2ex.com/t/882890) ![](assets/new.png)  
-- [2022-09-25-如果能够选择的话，你会选择生活在哪里？](https://www.v2ex.com/t/882889) ![](assets/new.png)  
+- [2022-09-26-在浏览器提取-3D-点云数据的关键点！](https://www.v2ex.com/t/882980) ![](assets/new.png)  
+- [2022-09-26-大数据比对去重，求方案](https://www.v2ex.com/t/882978) ![](assets/new.png)  
+- [2022-09-26-雪花算法生成-ID，如何便捷的生成机器-ID](https://www.v2ex.com/t/882977) ![](assets/new.png)  
+- [2022-09-26-AdGuard-DNS-却导致网页无法打开](https://www.v2ex.com/t/882976) ![](assets/new.png)  
+- [2022-09-26-现在是不是不能将-SMS-的手机号伪造成另一个号码？](https://www.v2ex.com/t/882975) ![](assets/new.png)  
+- [2022-09-26-关于开源软件你们是怎么处理这种事情的](https://www.v2ex.com/t/882974) ![](assets/new.png)  
+- [2022-09-26-寻腾讯云服务器代理商](https://www.v2ex.com/t/882973) ![](assets/new.png)  
+- [2022-09-26-厦门-畅拓科技招聘开发-Java-开发经理、SRE-运维开发工程师等-/-弹性工作-/-英文工作环境](https://www.v2ex.com/t/882971) ![](assets/new.png)  
+- [2022-09-26-怎么实现在网页上或者第三方-app-购买-ios-app-store-的软件、游戏](https://www.v2ex.com/t/882970) ![](assets/new.png)  
+- [2022-09-26-macos-和-ios-同步电话和短信功能怎么开？](https://www.v2ex.com/t/882968) ![](assets/new.png)  
+- [2022-09-26-大佬们，我应该怎么样拿到-macos-的系统语言包？](https://www.v2ex.com/t/882967) ![](assets/new.png)  
+- [2022-09-26-文件上传后但没有真正被使用，如何清理](https://www.v2ex.com/t/882966) ![](assets/new.png)  
+- [2022-09-26-实习-微软亚洲研究院-基于深度学习的爬虫检测实习生](https://www.v2ex.com/t/882965) ![](assets/new.png)  
+- [2022-09-26-有男人会追求女性被拒绝后，直接走极端的吗？](https://www.v2ex.com/t/882962) ![](assets/new.png)  
+- [2022-09-26-给-Mac-配一台显示器，预算-8000-以内，选什么？](https://www.v2ex.com/t/882961) ![](assets/new.png)  
+- [2022-09-26-ubuntu-双系统笔记本，求推荐](https://www.v2ex.com/t/882960) ![](assets/new.png)  
+- [2022-09-26-由于最近阅读遇到了问题，产生了一些想法。](https://www.v2ex.com/t/882958) ![](assets/new.png)  
+- [2022-09-26-我还是更新一下-ESXI-下群晖-6.1-升级-7.1-的结果吧。](https://www.v2ex.com/t/882957) ![](assets/new.png)  
+- [2022-09-26-分享一个用红黑树实现的-C++的有序容器，特点是迭代器为-random_access_iterator-寻址复杂度为-Olg-n,-c++-11/14/17-测试都可以用](https://www.v2ex.com/t/882956) ![](assets/new.png)  
+- [2022-09-26-西安有什么公司推荐呀？求校招岗位](https://www.v2ex.com/t/882955) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -553,23 +553,26 @@
 </summary>
 
 
-- [2022-09-26-使用-vue-class-setup-编写-class-风格组合式API，支持Vue2和Vue3](https://toutiao.io/k/776yjzb) ![](assets/new.png)  
-- [2022-09-26-自动化的艺术](https://toutiao.io/k/emvjd0m) ![](assets/new.png)  
-- [2022-09-26-基于AOP模式实现系统告警](https://toutiao.io/k/t4w9d0y) ![](assets/new.png)  
 - [2022-09-26-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) ![](assets/new.png)  
+- [2022-09-26-自动化的艺术](https://toutiao.io/k/emvjd0m) ![](assets/new.png)  
+- [2022-09-26-使用-vue-class-setup-编写-class-风格组合式API，支持Vue2和Vue3](https://toutiao.io/k/776yjzb) ![](assets/new.png)  
+- [2022-09-26-很不起眼的6个bug，90%的程序员就算写了10年代码也肯定都踩过！](https://toutiao.io/k/mwa80s7) ![](assets/new.png)  
+- [2022-09-26-基于AOP模式实现系统告警](https://toutiao.io/k/t4w9d0y) ![](assets/new.png)  
+- [2022-09-26-亿级异构任务调度框架设计与实践](https://toutiao.io/k/kx3039a) ![](assets/new.png)  
 - [2022-09-26-单体架构服务转型至分布式的踩坑经历](https://toutiao.io/k/jxgbje7) ![](assets/new.png)  
 - [2022-09-26-看到这样的数据，你还会给员工同时安排多个任务吗？](https://toutiao.io/k/135a8i3) ![](assets/new.png)  
-- [2022-09-26-亿级异构任务调度框架设计与实践](https://toutiao.io/k/kx3039a) ![](assets/new.png)  
-- [2022-09-26-独立开发变现周刊（第73期）：0美元营销预算创建年收入7.2万美元的产品交易市场](https://toutiao.io/k/8gibdxj) ![](assets/new.png)  
-- [2022-09-26-如何用DBSCAN聚类模型做数据分析？](https://toutiao.io/k/8jbyek4) ![](assets/new.png)  
-- [2022-09-26-在-KubeSphere-中部署高可用-Redis-集群](https://toutiao.io/k/6zyyapj) ![](assets/new.png)  
 - [2022-09-26-爆火的微服务架构，通俗易懂讲解](https://toutiao.io/k/kaykjyt) ![](assets/new.png)  
+- [2022-09-26-语雀桌面端技术架构实践；All-in云服务十年，金山云依旧事与愿违｜码农周刊VIP会员专属邮件周报-Vol.107](https://toutiao.io/k/b68p936) ![](assets/new.png)  
+- [2022-09-26-独立开发变现周刊（第73期）：0美元营销预算创建年收入7.2万美元的产品交易市场](https://toutiao.io/k/8gibdxj) ![](assets/new.png)  
+- [2022-09-26-在-KubeSphere-中部署高可用-Redis-集群](https://toutiao.io/k/6zyyapj) ![](assets/new.png)  
+- [2022-09-26-如何用DBSCAN聚类模型做数据分析？](https://toutiao.io/k/8jbyek4) ![](assets/new.png)  
 - [2022-09-26-镜像仓库-Harbor-对接-MinIO-对象存储](https://toutiao.io/k/wow971x) ![](assets/new.png)  
-- [2022-09-26-很不起眼的6个bug，90%的程序员就算写了10年代码也肯定都踩过！](https://toutiao.io/k/mwa80s7) ![](assets/new.png)  
-- [2022-09-26-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) ![](assets/new.png)  
+- [2022-09-26-达达快送APP埋点日志框架升级实战](https://toutiao.io/k/i7r4svl) ![](assets/new.png)  
+- [2022-09-26-网易面试：将Bean放入Spring容器中有几种方式？](https://toutiao.io/k/p2jw5va) ![](assets/new.png)  
 - [2022-09-26-推荐-1.8w-字的-SQL-优化大全](https://toutiao.io/k/tz7p6nl) ![](assets/new.png)  
-- [2022-09-26-推荐-Redis高可用方案](https://toutiao.io/k/3hh68yl) ![](assets/new.png)  
 - [2022-09-26-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) ![](assets/new.png)  
+- [2022-09-26-推荐-Redis高可用方案](https://toutiao.io/k/3hh68yl) ![](assets/new.png)  
+- [2022-09-26-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

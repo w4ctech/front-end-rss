@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-26 19:40:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-09-26 20:17:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -72,6 +72,7 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [【V2EX】2022-09-26-我的-MacBook-Pro-14-在玩神界原罪-2-的时候过热重启了](https://www.v2ex.com/t/883171) 
 - [【V2EX】2022-09-26-升级到-Watch-OS9-之后，钟鸣的提醒弱了很多](https://www.v2ex.com/t/883170) 
 - [【V2EX】2022-09-26-深圳摩托车驾校有推荐的吗？](https://www.v2ex.com/t/883169) 
 - [【V2EX】2022-09-26-深圳电动车只能买新国标了吗？](https://www.v2ex.com/t/883168) 
@@ -113,7 +114,6 @@
 - [【V2EX】2022-09-26-牙科急诊能去哪](https://www.v2ex.com/t/883124) 
 - [【V2EX】2022-09-26-Spotify-怎么通过-Siri-指令在-homepod-播放啊？](https://www.v2ex.com/t/883123) 
 - [【V2EX】2022-09-26-win10-关机都会出现-task-host-windows-宿主阻止关机](https://www.v2ex.com/t/883122) 
-- [【V2EX】2022-09-26-翼支付疯狂送信用卡还款券](https://www.v2ex.com/t/883121) 
 - [【技术头条】2022-09-26-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-26-技术改变了什么？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15400&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fpower-of-technology%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-26-失败驱动开发-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15399&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffailure-driven-development%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -154,10 +154,10 @@
 - [【开发者头条】2022-09-26-前端动效讲解与实战](https://toutiao.io/k/9wt3ve1) 
 - [【开发者头条】2022-09-26-前端也要懂算法，不会算法也能微调一个-NLP-预训练模型](https://toutiao.io/k/22gr08h) 
 - [【开发者头条】2022-09-26-【第2740期】@玉伯：技术人如何做产品](https://toutiao.io/k/41kjq9p) 
-- [【开发者头条】2022-09-26-推荐-1.8w-字的-SQL-优化大全](https://toutiao.io/k/tz7p6nl) 
 - [【开发者头条】2022-09-26-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) 
-- [【开发者头条】2022-09-26-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) 
+- [【开发者头条】2022-09-26-推荐-1.8w-字的-SQL-优化大全](https://toutiao.io/k/tz7p6nl) 
 - [【开发者头条】2022-09-26-推荐-Redis高可用方案](https://toutiao.io/k/3hh68yl) 
+- [【开发者头条】2022-09-26-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

@@ -9953,6 +9953,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "我的 MacBook Pro 14 在玩神界原罪 2 的时候过热重启了",
+        "link": "https://www.v2ex.com/t/883171",
+        "date": "2022-09-26"
+      },
+      {
         "title": "升级到 Watch OS9 之后，钟鸣的提醒弱了很多",
         "link": "https://www.v2ex.com/t/883170",
         "date": "2022-09-26"
@@ -10155,11 +10160,6 @@
       {
         "title": "win10 关机都会出现 task host windows 宿主阻止关机",
         "link": "https://www.v2ex.com/t/883122",
-        "date": "2022-09-26"
-      },
-      {
-        "title": "翼支付疯狂送信用卡还款券",
-        "link": "https://www.v2ex.com/t/883121",
         "date": "2022-09-26"
       }
     ]
@@ -10377,23 +10377,23 @@
         "date": "2022-09-26"
       },
       {
-        "title": "[推荐] 1.8w 字的 SQL 优化大全",
-        "link": "https://toutiao.io/k/tz7p6nl",
-        "date": "2022-09-26"
-      },
-      {
         "title": "[推荐] Netty、Kafka中的零拷贝技术到底有多牛?",
         "link": "https://toutiao.io/k/ussdz4q",
         "date": "2022-09-26"
       },
       {
-        "title": "[推荐] 聊聊 8种 架构模式",
-        "link": "https://toutiao.io/k/luf0yh6",
+        "title": "[推荐] 1.8w 字的 SQL 优化大全",
+        "link": "https://toutiao.io/k/tz7p6nl",
         "date": "2022-09-26"
       },
       {
         "title": "[推荐] Redis高可用方案",
         "link": "https://toutiao.io/k/3hh68yl",
+        "date": "2022-09-26"
+      },
+      {
+        "title": "[推荐] 聊聊 8种 架构模式",
+        "link": "https://toutiao.io/k/luf0yh6",
         "date": "2022-09-26"
       }
     ]

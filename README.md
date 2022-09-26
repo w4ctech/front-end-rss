@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-26 19:40:21，:rocket: 更新条数: +2032， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-26 20:17:21，:rocket: 更新条数: +2032， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-09-26-我的-MacBook-Pro-14-在玩神界原罪-2-的时候过热重启了](https://www.v2ex.com/t/883171) ![](assets/new.png)  
 - [2022-09-26-升级到-Watch-OS9-之后，钟鸣的提醒弱了很多](https://www.v2ex.com/t/883170) ![](assets/new.png)  
 - [2022-09-26-深圳摩托车驾校有推荐的吗？](https://www.v2ex.com/t/883169) ![](assets/new.png)  
 - [2022-09-26-深圳电动车只能买新国标了吗？](https://www.v2ex.com/t/883168) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-09-26-搭了一个专门讨论数据库和分布式系统的论坛，欢迎来交流](https://www.v2ex.com/t/883151) ![](assets/new.png)  
 - [2022-09-26-iPhone14Pro-FaceTime-Bug](https://www.v2ex.com/t/883150) ![](assets/new.png)  
 - [2022-09-26-VS-Code-风格的-ePub-阅读器---Lota](https://www.v2ex.com/t/883149) ![](assets/new.png)  
-- [2022-09-26-iPhone-的信号有个体差异吗？](https://www.v2ex.com/t/883148) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

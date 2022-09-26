@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-09-26 12:31:06。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-26 13:33:30。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -55,7 +55,6 @@
 
 
 
-- [【V2EX】信创环境前端该不该升-vue3？](https://www.v2ex.com/t/883077)
 - [【开发者头条】使用-vue-class-setup-编写-class-风格组合式API，支持Vue2和Vue3](https://toutiao.io/k/776yjzb)
 - [......【查看更多】......](./details/tags/vue.md)
 
@@ -236,6 +235,7 @@
 
 - [【武汉肺炎防疫全纪录(财新网)】广州17岁男生在定点医院参加高考-特殊考场视频监考](https://m.caixin.com/m/2021-06-05/101723418.html)
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
+- [【V2EX】撒贝宁在-vivo-发布会关于折叠屏的宣发视频还挺惊艳的，大家有用折叠屏的吗](https://www.v2ex.com/t/883119)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -328,6 +328,7 @@
 
 
 - [【张鑫旭-鑫空间-鑫生活】gitee上撸了个类似飞书OKR输入框的@提及项目](https://www.zhangxinxu.com/wordpress/2022/08/gitee-feishu-okr-at-mention/)
+- [【V2EX】设计文件一般用什么版本管理系统？应该不是-Git/SVN-这类的吧，看刚才的米哈游招聘贴设计师也要会用版本管理系统。](https://www.v2ex.com/t/883128)
 - [【V2EX】原作者不维护的-GitHub-上的开源项目有几百个-PR-没合，我想-fork-一个自己维护，怎么把这些-PR-复制到我的项目下？](https://www.v2ex.com/t/883096)
 - [【V2EX】git-小白求助，怎样优雅的回滚过去某次错误的-merge，并保留-merge-之后-commit-的改动](https://www.v2ex.com/t/883095)
 - [......【查看更多】......](./details/tags/git-svn.md)
@@ -346,6 +347,7 @@
 
 
 
+- [【V2EX】C++后台开发工程师招聘](https://www.v2ex.com/t/883127)
 - [【V2EX】上海-米哈游-miHoYo-2022.9.26-绝区零专场招聘（社招、秋招可内推哦）](https://www.v2ex.com/t/883114)
 - [【开发者头条】网易面试：将Bean放入Spring容器中有几种方式？](https://toutiao.io/k/p2jw5va)
 - [......【查看更多】......](./details/tags/job-interview.md)

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-27 22:48:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-27 23:04:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1914,6 +1914,7 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-09-27-iPadOS16-beta-10-将-stage-manager-功能扩展至非-M-系芯片的-iPad-Pro](https://www.v2ex.com/t/883420) 
 - [2022-09-27-Google-翻译-中国大陆版本是不是挂了？](https://www.v2ex.com/t/883417) 
 - [2022-09-27-微信照片每分享一次就要占一次空间？](https://www.v2ex.com/t/883414) 
 - [2022-09-27-可能是-Java-上最快的-murmur3-32-实现](https://www.v2ex.com/t/883413) 

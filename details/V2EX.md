@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-09-27 22:48:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-27 23:04:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-09-27-iPadOS16-beta-10-将-stage-manager-功能扩展至非-M-系芯片的-iPad-Pro](https://www.v2ex.com/t/883420) 
 - [2022-09-27-Google-翻译-中国大陆版本是不是挂了？](https://www.v2ex.com/t/883417) 
 - [2022-09-27-现在对未成年游戏充值都有限制吗？](https://www.v2ex.com/t/883415) 
 - [2022-09-27-微信照片每分享一次就要占一次空间？](https://www.v2ex.com/t/883414) 
@@ -45,4 +46,3 @@
 - [2022-09-27-为啥-redux-action-需要能够-serializable?](https://www.v2ex.com/t/883373) 
 - [2022-09-27-玩游戏的目的是什么](https://www.v2ex.com/t/883372) 
 - [2022-09-27-Ultrafine-4K-遇到了奇怪的问题，-Mac-点不亮了，-iPad-却可以](https://www.v2ex.com/t/883371) 
-- [2022-09-27-android-TV-除了-KODI-还有什么好用的视频播放器吗](https://www.v2ex.com/t/883370) 

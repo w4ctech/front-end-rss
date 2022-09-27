@@ -9953,6 +9953,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "iPadOS16 beta 10 将 stage manager 功能扩展至非 M 系芯片的 iPad Pro",
+        "link": "https://www.v2ex.com/t/883420",
+        "date": "2022-09-27"
+      },
+      {
         "title": "Google 翻译 中国大陆版本是不是挂了？",
         "link": "https://www.v2ex.com/t/883417",
         "date": "2022-09-27"
@@ -10150,11 +10155,6 @@
       {
         "title": "Ultrafine 4K 遇到了奇怪的问题， Mac 点不亮了， iPad 却可以",
         "link": "https://www.v2ex.com/t/883371",
-        "date": "2022-09-27"
-      },
-      {
-        "title": "android TV 除了 KODI 还有什么好用的视频播放器吗",
-        "link": "https://www.v2ex.com/t/883370",
         "date": "2022-09-27"
       }
     ]
@@ -10362,11 +10362,6 @@
         "date": "2022-09-27"
       },
       {
-        "title": "[推荐] 1.8w 字的 SQL 优化大全",
-        "link": "https://toutiao.io/k/tz7p6nl",
-        "date": "2022-09-27"
-      },
-      {
         "title": "[推荐] Netty、Kafka中的零拷贝技术到底有多牛?",
         "link": "https://toutiao.io/k/ussdz4q",
         "date": "2022-09-27"
@@ -10374,6 +10369,11 @@
       {
         "title": "[推荐] 聊聊 8种 架构模式",
         "link": "https://toutiao.io/k/luf0yh6",
+        "date": "2022-09-27"
+      },
+      {
+        "title": "[推荐] 1.8w 字的 SQL 优化大全",
+        "link": "https://toutiao.io/k/tz7p6nl",
         "date": "2022-09-27"
       }
     ]

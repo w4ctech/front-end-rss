@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-27 22:48:13。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-09-27 23:04:48。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -72,6 +72,7 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [【V2EX】2022-09-27-iPadOS16-beta-10-将-stage-manager-功能扩展至非-M-系芯片的-iPad-Pro](https://www.v2ex.com/t/883420) 
 - [【V2EX】2022-09-27-Google-翻译-中国大陆版本是不是挂了？](https://www.v2ex.com/t/883417) 
 - [【V2EX】2022-09-27-现在对未成年游戏充值都有限制吗？](https://www.v2ex.com/t/883415) 
 - [【V2EX】2022-09-27-微信照片每分享一次就要占一次空间？](https://www.v2ex.com/t/883414) 
@@ -112,7 +113,6 @@
 - [【V2EX】2022-09-27-为啥-redux-action-需要能够-serializable?](https://www.v2ex.com/t/883373) 
 - [【V2EX】2022-09-27-玩游戏的目的是什么](https://www.v2ex.com/t/883372) 
 - [【V2EX】2022-09-27-Ultrafine-4K-遇到了奇怪的问题，-Mac-点不亮了，-iPad-却可以](https://www.v2ex.com/t/883371) 
-- [【V2EX】2022-09-27-android-TV-除了-KODI-还有什么好用的视频播放器吗](https://www.v2ex.com/t/883370) 
 - [【技术头条】2022-09-27-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-27-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-27-技术改变了什么？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15400&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fpower-of-technology%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -151,9 +151,9 @@
 - [【开发者头条】2022-09-27-Dubbo-泛化调用在vivo统一配置系统的应用](https://toutiao.io/k/4vz7v6d) 
 - [【开发者头条】2022-09-27-质量检查必须内容重于形式](https://toutiao.io/k/jsvf86z) 
 - [【开发者头条】2022-09-27-互联网职场晋升内幕！想升职加薪？得这么干……](https://toutiao.io/k/vszg55x) 
-- [【开发者头条】2022-09-27-推荐-1.8w-字的-SQL-优化大全](https://toutiao.io/k/tz7p6nl) 
 - [【开发者头条】2022-09-27-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) 
 - [【开发者头条】2022-09-27-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) 
+- [【开发者头条】2022-09-27-推荐-1.8w-字的-SQL-优化大全](https://toutiao.io/k/tz7p6nl) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

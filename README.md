@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-27 09:25:32，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-27 09:54:22，:rocket: 更新条数: +2025， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-09-27-看到-NS-旷野之息在手机上能那么流畅，我真是被惊到了。](https://www.v2ex.com/t/883339) ![](assets/new.png)  
+- [2022-09-27-最近各种公众号一直吹捧的某个终身固定利率的增额寿险可以买入吗？](https://www.v2ex.com/t/883338) ![](assets/new.png)  
+- [2022-09-27-Web3---产品经理/运营经理（这个岗位要在北京线下办公哦）](https://www.v2ex.com/t/883336) ![](assets/new.png)  
+- [2022-09-27-SaaS-创业公司是怎么死掉的？困境中的老板](https://www.v2ex.com/t/883335) ![](assets/new.png)  
 - [2022-09-27-现在还有云服务器的羊毛吗](https://www.v2ex.com/t/883333) ![](assets/new.png)  
 - [2022-09-27-apple-watch-监测房颤的问题](https://www.v2ex.com/t/883331) ![](assets/new.png)  
 - [2022-09-27-electron-相较于-web-有性能提升吗？](https://www.v2ex.com/t/883330) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-09-27-icloud-停用后，本地电脑上照片.app-里面的照片会找不到了吗？](https://www.v2ex.com/t/883316) ![](assets/new.png)  
 - [2022-09-27-有没有基于网页版的，类似-Teamspeak-的开源项目？](https://www.v2ex.com/t/883315) ![](assets/new.png)  
 - [2022-09-27-Web3---golang-工程师（1、不要求做过-web3-相关经验，常规技术即可；-2、线下办公，暂不支持远程）](https://www.v2ex.com/t/883314) ![](assets/new.png)  
-- [2022-09-27-phpexcel-设置自动列宽不支持中文怎么解决？](https://www.v2ex.com/t/883313) ![](assets/new.png)  
-- [2022-09-27-求教内网穿透方案](https://www.v2ex.com/t/883312) ![](assets/new.png)  
-- [2022-09-27-后台的管理页面是该给前端写还是后端写？](https://www.v2ex.com/t/883311) ![](assets/new.png)  
-- [2022-09-27-对于已上线的单表如何进行动态分表?](https://www.v2ex.com/t/883310) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -555,8 +555,8 @@
 
 - [2022-09-27-kafka-精妙设计撑起百万TPS](https://toutiao.io/k/g4ey2vk) ![](assets/new.png)  
 - [2022-09-27-从0到1000万：哔哩哔哩直播架构演进史](https://toutiao.io/k/c1wadvv) ![](assets/new.png)  
-- [2022-09-27-前端性能优化到底该怎么做（上）](https://toutiao.io/k/6ej9er2) ![](assets/new.png)  
 - [2022-09-27-Bean-上验证](https://toutiao.io/k/akcq1aj) ![](assets/new.png)  
+- [2022-09-27-前端性能优化到底该怎么做（上）](https://toutiao.io/k/6ej9er2) ![](assets/new.png)  
 - [2022-09-27-监控平台SkyWalking9入门实践](https://toutiao.io/k/h0iucic) ![](assets/new.png)  
 - [2022-09-27-不可错过的效能利器「GitHub-热点速览-v.22.39」](https://toutiao.io/k/kzmhu71) ![](assets/new.png)  
 - [2022-09-27-写不了代码，我还可以去送快递](https://toutiao.io/k/e43ug1e) ![](assets/new.png)  
@@ -571,7 +571,7 @@
 - [2022-09-27-敏捷五步，手把手教你画产品架构图](https://toutiao.io/k/5cyfa0p) ![](assets/new.png)  
 - [2022-09-27-质量检查必须内容重于形式](https://toutiao.io/k/jsvf86z) ![](assets/new.png)  
 - [2022-09-27-互联网职场晋升内幕！想升职加薪？得这么干……](https://toutiao.io/k/vszg55x) ![](assets/new.png)  
-- [2022-09-27-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) ![](assets/new.png)  
+- [2022-09-27-推荐-Redis高可用方案](https://toutiao.io/k/3hh68yl) ![](assets/new.png)  
 - [2022-09-27-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

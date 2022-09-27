@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-27 09:25:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-27 09:54:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1914,6 +1914,10 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-09-27-看到-NS-旷野之息在手机上能那么流畅，我真是被惊到了。](https://www.v2ex.com/t/883339) 
+- [2022-09-27-最近各种公众号一直吹捧的某个终身固定利率的增额寿险可以买入吗？](https://www.v2ex.com/t/883338) 
+- [2022-09-27-Web3---产品经理/运营经理（这个岗位要在北京线下办公哦）](https://www.v2ex.com/t/883336) 
+- [2022-09-27-SaaS-创业公司是怎么死掉的？困境中的老板](https://www.v2ex.com/t/883335) 
 - [2022-09-27-现在还有云服务器的羊毛吗](https://www.v2ex.com/t/883333) 
 - [2022-09-27-apple-watch-监测房颤的问题](https://www.v2ex.com/t/883331) 
 - [2022-09-27-收了两条二手的台式内存条，用-win10-检测内存有问题，有办法修复吗？](https://www.v2ex.com/t/883328) 
@@ -1941,9 +1945,6 @@
 - [2022-09-27-禅道能在所有任务中搜索吗？目前我只看到能在某个项目下未完成任务里搜索](https://www.v2ex.com/t/883298) 
 - [2022-09-27-滴滴北京-求前端实习生](https://www.v2ex.com/t/883295) 
 - [2022-09-27-下沉](https://www.v2ex.com/t/883293) 
-- [2022-09-27-Windows-可以更改密钥激活通道吗？](https://www.v2ex.com/t/883289) 
-- [2022-09-27-simplypiano-是比较系统的学习钢琴的软件吗？](https://www.v2ex.com/t/883288) 
-- [2022-09-27-现在还有-html-广告牌生成器吗？](https://www.v2ex.com/t/883287) 
 - [2022-09-27-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-27-技术改变了什么？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15400&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fpower-of-technology%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-27-失败驱动开发-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15399&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffailure-driven-development%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1976,6 +1977,6 @@
 - [2022-09-27-敏捷五步，手把手教你画产品架构图](https://toutiao.io/k/5cyfa0p) 
 - [2022-09-27-质量检查必须内容重于形式](https://toutiao.io/k/jsvf86z) 
 - [2022-09-27-互联网职场晋升内幕！想升职加薪？得这么干……](https://toutiao.io/k/vszg55x) 
-- [2022-09-27-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) 
-- [2022-09-27-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) 
 - [2022-09-27-推荐-Redis高可用方案](https://toutiao.io/k/3hh68yl) 
+- [2022-09-27-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) 
+- [2022-09-27-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) 

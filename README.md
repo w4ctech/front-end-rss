@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-27 13:35:16，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-27 14:31:09，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,15 @@
 </summary>
 
 
+- [2022-09-27-今年没事做，想找个项目合作，资金我出。](https://www.v2ex.com/t/883379) ![](assets/new.png)  
+- [2022-09-27-分享一个-C-语言的命令行解析库，-cmdparser，求-star！](https://www.v2ex.com/t/883378) ![](assets/new.png)  
+- [2022-09-27-iPhone-小组件耳机盒电量](https://www.v2ex.com/t/883377) ![](assets/new.png)  
+- [2022-09-27-有适合工作时听的纯音乐专辑/艺术家推荐一下么？](https://www.v2ex.com/t/883376) ![](assets/new.png)  
+- [2022-09-27-面试悖论](https://www.v2ex.com/t/883375) ![](assets/new.png)  
+- [2022-09-27-如何“定时/时时同步-mssql-mysql-postgresql-数据到统一的表中”](https://www.v2ex.com/t/883374) ![](assets/new.png)  
+- [2022-09-27-为啥-redux-action-需要能够-serializable?](https://www.v2ex.com/t/883373) ![](assets/new.png)  
+- [2022-09-27-玩游戏的目的是什么](https://www.v2ex.com/t/883372) ![](assets/new.png)  
+- [2022-09-27-Ultrafine-4K-遇到了奇怪的问题，-Mac-点不亮了，-iPad-却可以](https://www.v2ex.com/t/883371) ![](assets/new.png)  
 - [2022-09-27-android-TV-除了-KODI-还有什么好用的视频播放器吗](https://www.v2ex.com/t/883370) ![](assets/new.png)  
 - [2022-09-27-腾讯直接云封域名！还甩锅给相关部门！再次给大家提个醒！使用腾讯云的注意了！](https://www.v2ex.com/t/883369) ![](assets/new.png)  
 - [2022-09-27-分享个人做的基于-Python-的内网穿透工具](https://www.v2ex.com/t/883365) ![](assets/new.png)  
@@ -502,15 +511,6 @@
 - [2022-09-27-腾讯云直播秒杀活动轻量-2-核-2G30M，-150-元一年起。](https://www.v2ex.com/t/883357) ![](assets/new.png)  
 - [2022-09-27-我的破域名居然也会有人买？还是什么新骗局？](https://www.v2ex.com/t/883356) ![](assets/new.png)  
 - [2022-09-27-佛山有好吃的推荐没](https://www.v2ex.com/t/883354) ![](assets/new.png)  
-- [2022-09-27-关于-NSA-对西北工业大学的网络攻击](https://www.v2ex.com/t/883353) ![](assets/new.png)  
-- [2022-09-27-读研择校求助，同济国际足球学院教育学学硕-vs-南航计算机学院电子信息专硕](https://www.v2ex.com/t/883352) ![](assets/new.png)  
-- [2022-09-27-动漫-IP-版权一般归属于动画制作公司吗？中途换了好几家制作公司的怎么算？](https://www.v2ex.com/t/883351) ![](assets/new.png)  
-- [2022-09-27-关于权限的问题-迷惑了](https://www.v2ex.com/t/883350) ![](assets/new.png)  
-- [2022-09-27-有没有让-Vmware-Workstation-中的虚拟机在宿主机关机时自行关机的方法](https://www.v2ex.com/t/883349) ![](assets/new.png)  
-- [2022-09-27-求推荐点击图片变暗剩余部分，弹出选中区域介绍的前端组件](https://www.v2ex.com/t/883348) ![](assets/new.png)  
-- [2022-09-27-怎么被裁员霸屏了？？热点前四个全是裁员？？](https://www.v2ex.com/t/883347) ![](assets/new.png)  
-- [2022-09-27-郑州招聘前端开发，-base-郑州的数字马力，大量-HC](https://www.v2ex.com/t/883346) ![](assets/new.png)  
-- [2022-09-27-为什么-iCloud-不支持同步计时器呢？](https://www.v2ex.com/t/883345) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -565,13 +565,13 @@
 - [2022-09-27-我是怎么入行做风控的](https://toutiao.io/k/afk5v9i) ![](assets/new.png)  
 - [2022-09-27-写不了代码，我还可以去送快递](https://toutiao.io/k/e43ug1e) ![](assets/new.png)  
 - [2022-09-27-Java-19-新功能介绍](https://toutiao.io/k/3so3rpl) ![](assets/new.png)  
-- [2022-09-27-eBPF:-从-BPF2BPF-调用到尾调用](https://toutiao.io/k/xm5ubjp) ![](assets/new.png)  
 - [2022-09-27-敏捷五步，手把手教你画产品架构图](https://toutiao.io/k/5cyfa0p) ![](assets/new.png)  
+- [2022-09-27-eBPF:-从-BPF2BPF-调用到尾调用](https://toutiao.io/k/xm5ubjp) ![](assets/new.png)  
 - [2022-09-27-Go-语言为什么建议定义零值可用的结构体？](https://toutiao.io/k/r3jaqmf) ![](assets/new.png)  
 - [2022-09-27-Dubbo-泛化调用在vivo统一配置系统的应用](https://toutiao.io/k/4vz7v6d) ![](assets/new.png)  
 - [2022-09-27-互联网职场晋升内幕！想升职加薪？得这么干……](https://toutiao.io/k/vszg55x) ![](assets/new.png)  
 - [2022-09-27-质量检查必须内容重于形式](https://toutiao.io/k/jsvf86z) ![](assets/new.png)  
-- [2022-09-27-推荐-1.8w-字的-SQL-优化大全](https://toutiao.io/k/tz7p6nl) ![](assets/new.png)  
+- [2022-09-27-推荐-Redis高可用方案](https://toutiao.io/k/3hh68yl) ![](assets/new.png)  
 - [2022-09-27-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

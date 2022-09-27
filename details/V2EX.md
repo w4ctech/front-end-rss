@@ -1,10 +1,19 @@
-:alarm_clock: 更新时间: 2022-09-27 13:35:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-27 14:31:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-09-27-今年没事做，想找个项目合作，资金我出。](https://www.v2ex.com/t/883379) 
+- [2022-09-27-分享一个-C-语言的命令行解析库，-cmdparser，求-star！](https://www.v2ex.com/t/883378) 
+- [2022-09-27-iPhone-小组件耳机盒电量](https://www.v2ex.com/t/883377) 
+- [2022-09-27-有适合工作时听的纯音乐专辑/艺术家推荐一下么？](https://www.v2ex.com/t/883376) 
+- [2022-09-27-面试悖论](https://www.v2ex.com/t/883375) 
+- [2022-09-27-如何“定时/时时同步-mssql-mysql-postgresql-数据到统一的表中”](https://www.v2ex.com/t/883374) 
+- [2022-09-27-为啥-redux-action-需要能够-serializable?](https://www.v2ex.com/t/883373) 
+- [2022-09-27-玩游戏的目的是什么](https://www.v2ex.com/t/883372) 
+- [2022-09-27-Ultrafine-4K-遇到了奇怪的问题，-Mac-点不亮了，-iPad-却可以](https://www.v2ex.com/t/883371) 
 - [2022-09-27-android-TV-除了-KODI-还有什么好用的视频播放器吗](https://www.v2ex.com/t/883370) 
 - [2022-09-27-腾讯直接云封域名！还甩锅给相关部门！再次给大家提个醒！使用腾讯云的注意了！](https://www.v2ex.com/t/883369) 
 - [2022-09-27-分享个人做的基于-Python-的内网穿透工具](https://www.v2ex.com/t/883365) 
@@ -36,10 +45,3 @@
 - [2022-09-27-现在还有云服务器的羊毛吗](https://www.v2ex.com/t/883333) 
 - [2022-09-27-apple-watch-监测房颤的问题](https://www.v2ex.com/t/883331) 
 - [2022-09-27-electron-相较于-web-有性能提升吗？](https://www.v2ex.com/t/883330) 
-- [2022-09-27-收了两条二手的台式内存条，用-win10-检测内存有问题，有办法修复吗？](https://www.v2ex.com/t/883328) 
-- [2022-09-27-Web3---产品经理/运营经理（这个岗位要在北京线下办公哦）身边有朋友可以推荐呢](https://www.v2ex.com/t/883326) 
-- [2022-09-27-请各位推荐一款手机](https://www.v2ex.com/t/883325) 
-- [2022-09-27-哪些公司后端用-kotlin-写的](https://www.v2ex.com/t/883324) 
-- [2022-09-27-求助，-Redmi-K40-刷-xiaomi.eu-stable-后无信号](https://www.v2ex.com/t/883323) 
-- [2022-09-27-发现-BitBucket-体验比-GitLab-好，安全漏洞还少（GitLab-很经常出漏洞），建议新项目放-BitBucket-吗（自建，几个人用）](https://www.v2ex.com/t/883322) 
-- [2022-09-27-万能的-V-友，求助深圳电信-IPTV-内网使用的问题。](https://www.v2ex.com/t/883321) 

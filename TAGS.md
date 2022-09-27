@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-09-27 12:32:49。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-27 13:35:16。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -55,7 +55,6 @@
 
 
 
-- [【V2EX】请教一个-vue-中组件复用的问题](https://www.v2ex.com/t/883320)
 - [......【查看更多】......](./details/tags/vue.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -235,6 +234,7 @@
 
 - [【武汉肺炎防疫全纪录(财新网)】广州17岁男生在定点医院参加高考-特殊考场视频监考](https://m.caixin.com/m/2021-06-05/101723418.html)
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
+- [【V2EX】android-TV-除了-KODI-还有什么好用的视频播放器吗](https://www.v2ex.com/t/883370)
 - [【V2EX】腾讯云直播秒杀活动轻量-2-核-2G30M，-150-元一年起。](https://www.v2ex.com/t/883357)
 - [【开发者头条】从0到1000万：哔哩哔哩直播架构演进史](https://toutiao.io/k/c1wadvv)
 - [......【查看更多】......](./details/tags/audio-video.md)
@@ -253,6 +253,7 @@
 
 
 
+- [【V2EX】Python-eyed3-加载不了文件](https://www.v2ex.com/t/883363)
 - [【开发者头条】前端性能优化到底该怎么做（上）](https://toutiao.io/k/6ej9er2)
 - [【开发者头条】推荐-1.8w-字的-SQL-优化大全](https://toutiao.io/k/tz7p6nl)
 - [......【查看更多】......](./details/tags/optimization.md)
@@ -277,6 +278,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】腺病毒新冠疫苗引安全忧虑-康希诺称未发现血栓病例](https://m.caixin.com/m/2021-04-14/101691086.html)
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
+- [【V2EX】求购-Android-Chromium-ppapi-混合渲染-Demo，价格可谈。](https://www.v2ex.com/t/883362)
 - [【V2EX】发现-BitBucket-体验比-GitLab-好，安全漏洞还少（GitLab-很经常出漏洞），建议新项目放-BitBucket-吗（自建，几个人用）](https://www.v2ex.com/t/883322)
 - [......【查看更多】......](./details/tags/browser.md)
 

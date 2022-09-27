@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-27 11:43:24，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-27 12:32:49，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-09-27-airpods-pro-关门时的爆音问题](https://www.v2ex.com/t/883358) ![](assets/new.png)  
+- [2022-09-27-腾讯云直播秒杀活动轻量-2-核-2G30M，-150-元一年起。](https://www.v2ex.com/t/883357) ![](assets/new.png)  
+- [2022-09-27-我的破域名居然也会有人买？还是什么新骗局？](https://www.v2ex.com/t/883356) ![](assets/new.png)  
+- [2022-09-27-佛山有好吃的推荐没](https://www.v2ex.com/t/883354) ![](assets/new.png)  
 - [2022-09-27-关于-NSA-对西北工业大学的网络攻击](https://www.v2ex.com/t/883353) ![](assets/new.png)  
 - [2022-09-27-读研择校求助，同济国际足球学院教育学学硕-vs-南航计算机学院电子信息专硕](https://www.v2ex.com/t/883352) ![](assets/new.png)  
 - [2022-09-27-动漫-IP-版权一般归属于动画制作公司吗？中途换了好几家制作公司的怎么算？](https://www.v2ex.com/t/883351) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-09-27-看到-NS-旷野之息在手机上能那么流畅，我真是被惊到了。](https://www.v2ex.com/t/883339) ![](assets/new.png)  
 - [2022-09-27-最近各种公众号一直吹捧的某个终身固定利率的增额寿险可以买入吗？](https://www.v2ex.com/t/883338) ![](assets/new.png)  
 - [2022-09-27-Web3---产品经理/运营经理（这个岗位要在北京线下办公哦）](https://www.v2ex.com/t/883336) ![](assets/new.png)  
-- [2022-09-27-SaaS-创业公司是怎么死掉的？困境中的老板](https://www.v2ex.com/t/883335) ![](assets/new.png)  
-- [2022-09-27-现在还有云服务器的羊毛吗](https://www.v2ex.com/t/883333) ![](assets/new.png)  
-- [2022-09-27-apple-watch-监测房颤的问题](https://www.v2ex.com/t/883331) ![](assets/new.png)  
-- [2022-09-27-electron-相较于-web-有性能提升吗？](https://www.v2ex.com/t/883330) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -522,6 +522,7 @@
 </summary>
 
 
+- [2022-09-27-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-09-27-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-09-27-技术改变了什么？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15400&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fpower-of-technology%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-09-27-失败驱动开发-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15399&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffailure-driven-development%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
@@ -541,7 +542,6 @@
 - [2022-09-27-10-大可以摧毁你的-Linux-的命令-linux.cn](https://blogread.cn/news/go.php?idItem=15385&url=https%3A%2F%2Flinux.cn%2Farticle-15022-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-09-27-如何在笔记本电脑合盖时不挂起-Ubuntu-linux.cn](https://blogread.cn/news/go.php?idItem=15384&url=https%3A%2F%2Flinux.cn%2Farticle-15015-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-09-27-整洁架构之CSS-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15383&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fclean-architecture-css%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-09-27-深度链接（Deeplinking）是什么？-www.zhihu.com](https://blogread.cn/news/go.php?idItem=15382&url=https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F51509486%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -555,14 +555,14 @@
 
 - [2022-09-27-kafka-精妙设计撑起百万TPS](https://toutiao.io/k/g4ey2vk) ![](assets/new.png)  
 - [2022-09-27-从0到1000万：哔哩哔哩直播架构演进史](https://toutiao.io/k/c1wadvv) ![](assets/new.png)  
-- [2022-09-27-Bean-上验证](https://toutiao.io/k/akcq1aj) ![](assets/new.png)  
 - [2022-09-27-前端性能优化到底该怎么做（上）](https://toutiao.io/k/6ej9er2) ![](assets/new.png)  
+- [2022-09-27-Bean-上验证](https://toutiao.io/k/akcq1aj) ![](assets/new.png)  
 - [2022-09-27-监控平台SkyWalking9入门实践](https://toutiao.io/k/h0iucic) ![](assets/new.png)  
 - [2022-09-27-不可错过的效能利器「GitHub-热点速览-v.22.39」](https://toutiao.io/k/kzmhu71) ![](assets/new.png)  
-- [2022-09-27-写不了代码，我还可以去送快递](https://toutiao.io/k/e43ug1e) ![](assets/new.png)  
 - [2022-09-27-再有人问你什么是MVCC，就把这篇文章发给他！](https://toutiao.io/k/wc8eton) ![](assets/new.png)  
-- [2022-09-27-我是怎么入行做风控的](https://toutiao.io/k/afk5v9i) ![](assets/new.png)  
 - [2022-09-27-DPDK将来会成为趋势吗？](https://toutiao.io/k/0w6gu9r) ![](assets/new.png)  
+- [2022-09-27-写不了代码，我还可以去送快递](https://toutiao.io/k/e43ug1e) ![](assets/new.png)  
+- [2022-09-27-我是怎么入行做风控的](https://toutiao.io/k/afk5v9i) ![](assets/new.png)  
 - [2022-09-27-5-种-API-网关技术选型，yyds](https://toutiao.io/k/2427h5k) ![](assets/new.png)  
 - [2022-09-27-Java-19-新功能介绍](https://toutiao.io/k/3so3rpl) ![](assets/new.png)  
 - [2022-09-27-eBPF:-从-BPF2BPF-调用到尾调用](https://toutiao.io/k/xm5ubjp) ![](assets/new.png)  
@@ -572,7 +572,7 @@
 - [2022-09-27-互联网职场晋升内幕！想升职加薪？得这么干……](https://toutiao.io/k/vszg55x) ![](assets/new.png)  
 - [2022-09-27-质量检查必须内容重于形式](https://toutiao.io/k/jsvf86z) ![](assets/new.png)  
 - [2022-09-27-推荐-Redis高可用方案](https://toutiao.io/k/3hh68yl) ![](assets/new.png)  
-- [2022-09-27-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) ![](assets/new.png)  
+- [2022-09-27-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

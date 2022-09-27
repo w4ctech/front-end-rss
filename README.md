@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-27 14:31:09，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-27 14:57:45，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-09-27-與-pixel-6-一樣嗎？](https://www.v2ex.com/t/883385) ![](assets/new.png)  
+- [2022-09-27-“信任此描述文件的来源并注册您的-iPhone-进行远程管理”是如何实现诈骗黑产的？](https://www.v2ex.com/t/883384) ![](assets/new.png)  
+- [2022-09-27-ExtJS-还有人用吗？](https://www.v2ex.com/t/883383) ![](assets/new.png)  
+- [2022-09-27-leetcode-技巧求助](https://www.v2ex.com/t/883382) ![](assets/new.png)  
+- [2022-09-27-有人和《隐入尘烟》中男主一般苦难吗](https://www.v2ex.com/t/883380) ![](assets/new.png)  
 - [2022-09-27-今年没事做，想找个项目合作，资金我出。](https://www.v2ex.com/t/883379) ![](assets/new.png)  
 - [2022-09-27-分享一个-C-语言的命令行解析库，-cmdparser，求-star！](https://www.v2ex.com/t/883378) ![](assets/new.png)  
 - [2022-09-27-iPhone-小组件耳机盒电量](https://www.v2ex.com/t/883377) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-09-27-Python-有没有优雅的修改使用第三方库的办法？](https://www.v2ex.com/t/883364) ![](assets/new.png)  
 - [2022-09-27-Python-eyed3-加载不了文件](https://www.v2ex.com/t/883363) ![](assets/new.png)  
 - [2022-09-27-求购-Android-Chromium-ppapi-混合渲染-Demo，价格可谈。](https://www.v2ex.com/t/883362) ![](assets/new.png)  
-- [2022-09-27-如何发泄工作压力？](https://www.v2ex.com/t/883361) ![](assets/new.png)  
-- [2022-09-27-airpods-pro-关门时的爆音问题](https://www.v2ex.com/t/883358) ![](assets/new.png)  
-- [2022-09-27-腾讯云直播秒杀活动轻量-2-核-2G30M，-150-元一年起。](https://www.v2ex.com/t/883357) ![](assets/new.png)  
-- [2022-09-27-我的破域名居然也会有人买？还是什么新骗局？](https://www.v2ex.com/t/883356) ![](assets/new.png)  
-- [2022-09-27-佛山有好吃的推荐没](https://www.v2ex.com/t/883354) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,15 +564,15 @@
 - [2022-09-27-5-种-API-网关技术选型，yyds](https://toutiao.io/k/2427h5k) ![](assets/new.png)  
 - [2022-09-27-我是怎么入行做风控的](https://toutiao.io/k/afk5v9i) ![](assets/new.png)  
 - [2022-09-27-写不了代码，我还可以去送快递](https://toutiao.io/k/e43ug1e) ![](assets/new.png)  
-- [2022-09-27-Java-19-新功能介绍](https://toutiao.io/k/3so3rpl) ![](assets/new.png)  
 - [2022-09-27-敏捷五步，手把手教你画产品架构图](https://toutiao.io/k/5cyfa0p) ![](assets/new.png)  
+- [2022-09-27-Java-19-新功能介绍](https://toutiao.io/k/3so3rpl) ![](assets/new.png)  
 - [2022-09-27-eBPF:-从-BPF2BPF-调用到尾调用](https://toutiao.io/k/xm5ubjp) ![](assets/new.png)  
 - [2022-09-27-Go-语言为什么建议定义零值可用的结构体？](https://toutiao.io/k/r3jaqmf) ![](assets/new.png)  
 - [2022-09-27-Dubbo-泛化调用在vivo统一配置系统的应用](https://toutiao.io/k/4vz7v6d) ![](assets/new.png)  
 - [2022-09-27-互联网职场晋升内幕！想升职加薪？得这么干……](https://toutiao.io/k/vszg55x) ![](assets/new.png)  
 - [2022-09-27-质量检查必须内容重于形式](https://toutiao.io/k/jsvf86z) ![](assets/new.png)  
-- [2022-09-27-推荐-Redis高可用方案](https://toutiao.io/k/3hh68yl) ![](assets/new.png)  
-- [2022-09-27-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) ![](assets/new.png)  
+- [2022-09-27-推荐-1.8w-字的-SQL-优化大全](https://toutiao.io/k/tz7p6nl) ![](assets/new.png)  
+- [2022-09-27-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

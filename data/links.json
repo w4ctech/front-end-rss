@@ -9953,6 +9953,31 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "有没有让 Vmware Workstation 中的虚拟机在宿主机关机时自行关机的方法",
+        "link": "https://www.v2ex.com/t/883349",
+        "date": "2022-09-27"
+      },
+      {
+        "title": "求推荐点击图片变暗剩余部分，弹出选中区域介绍的前端组件",
+        "link": "https://www.v2ex.com/t/883348",
+        "date": "2022-09-27"
+      },
+      {
+        "title": "怎么被裁员霸屏了？？热点前四个全是裁员？？",
+        "link": "https://www.v2ex.com/t/883347",
+        "date": "2022-09-27"
+      },
+      {
+        "title": "[郑州]招聘前端开发， base 郑州的数字马力，大量 HC",
+        "link": "https://www.v2ex.com/t/883346",
+        "date": "2022-09-27"
+      },
+      {
+        "title": "为什么 iCloud 不支持同步计时器呢？",
+        "link": "https://www.v2ex.com/t/883345",
+        "date": "2022-09-27"
+      },
+      {
         "title": "[Shenzhen] С & C++ Developer",
         "link": "https://www.v2ex.com/t/883344",
         "date": "2022-09-27"
@@ -10125,26 +10150,6 @@
       {
         "title": "mysql 赋值问题",
         "link": "https://www.v2ex.com/t/883301",
-        "date": "2022-09-27"
-      },
-      {
-        "title": "美宇宙飞船成功撞击小行星，试图改变其运行轨道",
-        "link": "https://www.v2ex.com/t/883299",
-        "date": "2022-09-27"
-      },
-      {
-        "title": "禅道能在所有任务中搜索吗？目前我只看到能在某个项目下未完成任务里搜索",
-        "link": "https://www.v2ex.com/t/883298",
-        "date": "2022-09-27"
-      },
-      {
-        "title": "杭州电信 100M 上行直播套餐取消了",
-        "link": "https://www.v2ex.com/t/883296",
-        "date": "2022-09-27"
-      },
-      {
-        "title": "[滴滴北京] 求前端实习生",
-        "link": "https://www.v2ex.com/t/883295",
         "date": "2022-09-27"
       }
     ]
@@ -10352,13 +10357,8 @@
         "date": "2022-09-27"
       },
       {
-        "title": "[推荐] Redis高可用方案",
-        "link": "https://toutiao.io/k/3hh68yl",
-        "date": "2022-09-27"
-      },
-      {
-        "title": "[推荐] 1.8w 字的 SQL 优化大全",
-        "link": "https://toutiao.io/k/tz7p6nl",
+        "title": "[推荐] Netty、Kafka中的零拷贝技术到底有多牛?",
+        "link": "https://toutiao.io/k/ussdz4q",
         "date": "2022-09-27"
       },
       {
@@ -10367,8 +10367,13 @@
         "date": "2022-09-27"
       },
       {
-        "title": "[推荐] Netty、Kafka中的零拷贝技术到底有多牛?",
-        "link": "https://toutiao.io/k/ussdz4q",
+        "title": "[推荐] 1.8w 字的 SQL 优化大全",
+        "link": "https://toutiao.io/k/tz7p6nl",
+        "date": "2022-09-27"
+      },
+      {
+        "title": "[推荐] Redis高可用方案",
+        "link": "https://toutiao.io/k/3hh68yl",
         "date": "2022-09-27"
       }
     ]

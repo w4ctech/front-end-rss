@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-27 10:19:02，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-27 10:50:55，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-09-27-有没有让-Vmware-Workstation-中的虚拟机在宿主机关机时自行关机的方法](https://www.v2ex.com/t/883349) ![](assets/new.png)  
+- [2022-09-27-求推荐点击图片变暗剩余部分，弹出选中区域介绍的前端组件](https://www.v2ex.com/t/883348) ![](assets/new.png)  
+- [2022-09-27-怎么被裁员霸屏了？？热点前四个全是裁员？？](https://www.v2ex.com/t/883347) ![](assets/new.png)  
+- [2022-09-27-郑州招聘前端开发，-base-郑州的数字马力，大量-HC](https://www.v2ex.com/t/883346) ![](assets/new.png)  
+- [2022-09-27-为什么-iCloud-不支持同步计时器呢？](https://www.v2ex.com/t/883345) ![](assets/new.png)  
 - [2022-09-27-Shenzhen-С-&-C++-Developer](https://www.v2ex.com/t/883344) ![](assets/new.png)  
 - [2022-09-27-只有我一个人的-windows-mail/outlook-无法被-loopback-修复网络问题吗?](https://www.v2ex.com/t/883343) ![](assets/new.png)  
 - [2022-09-27-关于-ipv6-MTU-设置](https://www.v2ex.com/t/883342) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-09-27-Web3---产品经理/运营经理（这个岗位要在北京线下办公哦）身边有朋友可以推荐呢](https://www.v2ex.com/t/883326) ![](assets/new.png)  
 - [2022-09-27-请各位推荐一款手机](https://www.v2ex.com/t/883325) ![](assets/new.png)  
 - [2022-09-27-哪些公司后端用-kotlin-写的](https://www.v2ex.com/t/883324) ![](assets/new.png)  
-- [2022-09-27-求助，-Redmi-K40-刷-xiaomi.eu-stable-后无信号](https://www.v2ex.com/t/883323) ![](assets/new.png)  
-- [2022-09-27-发现-BitBucket-体验比-GitLab-好，安全漏洞还少（GitLab-很经常出漏洞），建议新项目放-BitBucket-吗（自建，几个人用）](https://www.v2ex.com/t/883322) ![](assets/new.png)  
-- [2022-09-27-万能的-V-友，求助深圳电信-IPTV-内网使用的问题。](https://www.v2ex.com/t/883321) ![](assets/new.png)  
-- [2022-09-27-请教一个-vue-中组件复用的问题](https://www.v2ex.com/t/883320) ![](assets/new.png)  
-- [2022-09-27-坐标北京，想养个猫](https://www.v2ex.com/t/883319) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -571,8 +571,8 @@
 - [2022-09-27-敏捷五步，手把手教你画产品架构图](https://toutiao.io/k/5cyfa0p) ![](assets/new.png)  
 - [2022-09-27-互联网职场晋升内幕！想升职加薪？得这么干……](https://toutiao.io/k/vszg55x) ![](assets/new.png)  
 - [2022-09-27-质量检查必须内容重于形式](https://toutiao.io/k/jsvf86z) ![](assets/new.png)  
-- [2022-09-27-推荐-Redis高可用方案](https://toutiao.io/k/3hh68yl) ![](assets/new.png)  
-- [2022-09-27-推荐-1.8w-字的-SQL-优化大全](https://toutiao.io/k/tz7p6nl) ![](assets/new.png)  
+- [2022-09-27-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) ![](assets/new.png)  
+- [2022-09-27-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

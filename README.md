@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-27 10:50:55，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-27 11:14:33，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-09-27-读研择校求助，同济国际足球学院教育学学硕-vs-南航计算机学院电子信息专硕](https://www.v2ex.com/t/883352) ![](assets/new.png)  
+- [2022-09-27-动漫-IP-版权一般归属于动画制作公司吗？中途换了好几家制作公司的怎么算？](https://www.v2ex.com/t/883351) ![](assets/new.png)  
+- [2022-09-27-关于权限的问题-迷惑了](https://www.v2ex.com/t/883350) ![](assets/new.png)  
 - [2022-09-27-有没有让-Vmware-Workstation-中的虚拟机在宿主机关机时自行关机的方法](https://www.v2ex.com/t/883349) ![](assets/new.png)  
 - [2022-09-27-求推荐点击图片变暗剩余部分，弹出选中区域介绍的前端组件](https://www.v2ex.com/t/883348) ![](assets/new.png)  
 - [2022-09-27-怎么被裁员霸屏了？？热点前四个全是裁员？？](https://www.v2ex.com/t/883347) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-09-27-apple-watch-监测房颤的问题](https://www.v2ex.com/t/883331) ![](assets/new.png)  
 - [2022-09-27-electron-相较于-web-有性能提升吗？](https://www.v2ex.com/t/883330) ![](assets/new.png)  
 - [2022-09-27-收了两条二手的台式内存条，用-win10-检测内存有问题，有办法修复吗？](https://www.v2ex.com/t/883328) ![](assets/new.png)  
-- [2022-09-27-Web3---产品经理/运营经理（这个岗位要在北京线下办公哦）身边有朋友可以推荐呢](https://www.v2ex.com/t/883326) ![](assets/new.png)  
-- [2022-09-27-请各位推荐一款手机](https://www.v2ex.com/t/883325) ![](assets/new.png)  
-- [2022-09-27-哪些公司后端用-kotlin-写的](https://www.v2ex.com/t/883324) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -571,8 +571,8 @@
 - [2022-09-27-敏捷五步，手把手教你画产品架构图](https://toutiao.io/k/5cyfa0p) ![](assets/new.png)  
 - [2022-09-27-互联网职场晋升内幕！想升职加薪？得这么干……](https://toutiao.io/k/vszg55x) ![](assets/new.png)  
 - [2022-09-27-质量检查必须内容重于形式](https://toutiao.io/k/jsvf86z) ![](assets/new.png)  
+- [2022-09-27-推荐-Redis高可用方案](https://toutiao.io/k/3hh68yl) ![](assets/new.png)  
 - [2022-09-27-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) ![](assets/new.png)  
-- [2022-09-27-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

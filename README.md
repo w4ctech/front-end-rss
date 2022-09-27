@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-27 17:10:24，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-27 17:59:35，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-09-27-微信照片每分享一次就要占一次空间？](https://www.v2ex.com/t/883414) ![](assets/new.png)  
+- [2022-09-27-可能是-Java-上最快的-murmur3-32-实现](https://www.v2ex.com/t/883413) ![](assets/new.png)  
+- [2022-09-27-记录下使用-Windows11-过程，遇到暂未能解决的问题](https://www.v2ex.com/t/883412) ![](assets/new.png)  
+- [2022-09-27-这东西公开真的好吗?](https://www.v2ex.com/t/883411) ![](assets/new.png)  
+- [2022-09-27-pycharm-的高亮（关键字推断）问题](https://www.v2ex.com/t/883410) ![](assets/new.png)  
 - [2022-09-27-求助关于-dicom-文件转存为-png-时灰度处理的问题.](https://www.v2ex.com/t/883409) ![](assets/new.png)  
 - [2022-09-27-我想要通过命令行执行一个程序-类似于-Java--jar-xxx.jar,然后获得该程序的进程-ID，并稍后通过进程-ID-判断该进程是否存活？但是在系统中找不到我之前获得的进...](https://www.v2ex.com/t/883408) ![](assets/new.png)  
 - [2022-09-27-哔哩哔哩网页端开始检测去广告插件了](https://www.v2ex.com/t/883406) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-09-27-技术上有没有可能完全复刻核酸码？](https://www.v2ex.com/t/883393) ![](assets/new.png)  
 - [2022-09-27-十一，北京到河南洛阳](https://www.v2ex.com/t/883392) ![](assets/new.png)  
 - [2022-09-27-EasyGo---类似-wox-的快捷启动工具](https://www.v2ex.com/t/883391) ![](assets/new.png)  
-- [2022-09-27-FCM-开代理也连不上了，有解决办法吗，-err26](https://www.v2ex.com/t/883390) ![](assets/new.png)  
-- [2022-09-27-今年没事做，想找个项目合作，资金我出](https://www.v2ex.com/t/883389) ![](assets/new.png)  
-- [2022-09-27-spotify-有家庭车吗？想用它作为主力听歌了](https://www.v2ex.com/t/883387) ![](assets/new.png)  
-- [2022-09-27-MacBook-Air-M1-12+256-官翻有货了](https://www.v2ex.com/t/883386) ![](assets/new.png)  
-- [2022-09-27-與-pixel-6-一樣嗎？](https://www.v2ex.com/t/883385) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -571,7 +571,7 @@
 - [2022-09-27-Dubbo-泛化调用在vivo统一配置系统的应用](https://toutiao.io/k/4vz7v6d) ![](assets/new.png)  
 - [2022-09-27-互联网职场晋升内幕！想升职加薪？得这么干……](https://toutiao.io/k/vszg55x) ![](assets/new.png)  
 - [2022-09-27-质量检查必须内容重于形式](https://toutiao.io/k/jsvf86z) ![](assets/new.png)  
-- [2022-09-27-推荐-1.8w-字的-SQL-优化大全](https://toutiao.io/k/tz7p6nl) ![](assets/new.png)  
+- [2022-09-27-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) ![](assets/new.png)  
 - [2022-09-27-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-27 15:51:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-27 16:25:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## CSS
 
@@ -12,5 +12,4 @@
 - [2022-07-27-万物皆可clip-path，纯CSS绘制0-9数字](https://www.zhangxinxu.com/wordpress/2022/07/clip-path-css-number/) 
 - [2022-07-21-超酷！CSS-font-palette与彩色字体显示](https://www.zhangxinxu.com/wordpress/2022/07/css-font-palette/) 
 - [2022-06-30-CSS排版为何强？瞧瞧多牛这换行](https://www.zhangxinxu.com/wordpress/2022/06/css-line-break-word-wrap-all/) 
-- [2022-09-27-动漫-IP-版权一般归属于动画制作公司吗？中途换了好几家制作公司的怎么算？](https://www.v2ex.com/t/883351) 
 - [2022-09-27-整洁架构之CSS-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15383&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fclean-architecture-css%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

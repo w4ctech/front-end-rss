@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-27 15:51:57，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-27 16:25:03，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-09-27-Rebase-大学：去中心化-Blog-Planetable-架构详解](https://www.v2ex.com/t/883404) ![](assets/new.png)  
+- [2022-09-27-分享活动《Planetable.xyz-架构详解》@Rebase-大学-by-Livid](https://www.v2ex.com/t/883403) ![](assets/new.png)  
+- [2022-09-27-为什么-ios-没有完美越狱了？](https://www.v2ex.com/t/883400) ![](assets/new.png)  
+- [2022-09-27-EasyNote---一个简单的记事本](https://www.v2ex.com/t/883398) ![](assets/new.png)  
+- [2022-09-27-上海-不加班-可一半时间居家办公-外企-招-中高级-Java-，中高级测试，高级安卓，中级-devOps](https://www.v2ex.com/t/883397) ![](assets/new.png)  
+- [2022-09-27-很烦，公司常态加班](https://www.v2ex.com/t/883396) ![](assets/new.png)  
 - [2022-09-27-牛肉干](https://www.v2ex.com/t/883395) ![](assets/new.png)  
 - [2022-09-27-为什么-jetbrains-的关键字高亮这么拉？](https://www.v2ex.com/t/883394) ![](assets/new.png)  
 - [2022-09-27-技术上有没有可能完全复刻核酸码？](https://www.v2ex.com/t/883393) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-09-27-ExtJS-还有人用吗？](https://www.v2ex.com/t/883383) ![](assets/new.png)  
 - [2022-09-27-leetcode-技巧求助](https://www.v2ex.com/t/883382) ![](assets/new.png)  
 - [2022-09-27-有人和《隐入尘烟》中男主一般苦难吗](https://www.v2ex.com/t/883380) ![](assets/new.png)  
-- [2022-09-27-今年没事做，想找个项目合作，资金我出。](https://www.v2ex.com/t/883379) ![](assets/new.png)  
-- [2022-09-27-分享一个-C-语言的命令行解析库，-cmdparser，求-star！](https://www.v2ex.com/t/883378) ![](assets/new.png)  
-- [2022-09-27-iPhone-小组件耳机盒电量](https://www.v2ex.com/t/883377) ![](assets/new.png)  
-- [2022-09-27-有适合工作时听的纯音乐专辑/艺术家推荐一下么？](https://www.v2ex.com/t/883376) ![](assets/new.png)  
-- [2022-09-27-面试悖论](https://www.v2ex.com/t/883375) ![](assets/new.png)  
-- [2022-09-27-如何“定时/时时同步-mssql-mysql-postgresql-数据到统一的表中”](https://www.v2ex.com/t/883374) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -566,12 +566,12 @@
 - [2022-09-27-写不了代码，我还可以去送快递](https://toutiao.io/k/e43ug1e) ![](assets/new.png)  
 - [2022-09-27-敏捷五步，手把手教你画产品架构图](https://toutiao.io/k/5cyfa0p) ![](assets/new.png)  
 - [2022-09-27-Java-19-新功能介绍](https://toutiao.io/k/3so3rpl) ![](assets/new.png)  
-- [2022-09-27-eBPF:-从-BPF2BPF-调用到尾调用](https://toutiao.io/k/xm5ubjp) ![](assets/new.png)  
 - [2022-09-27-Go-语言为什么建议定义零值可用的结构体？](https://toutiao.io/k/r3jaqmf) ![](assets/new.png)  
+- [2022-09-27-eBPF:-从-BPF2BPF-调用到尾调用](https://toutiao.io/k/xm5ubjp) ![](assets/new.png)  
 - [2022-09-27-Dubbo-泛化调用在vivo统一配置系统的应用](https://toutiao.io/k/4vz7v6d) ![](assets/new.png)  
 - [2022-09-27-互联网职场晋升内幕！想升职加薪？得这么干……](https://toutiao.io/k/vszg55x) ![](assets/new.png)  
 - [2022-09-27-质量检查必须内容重于形式](https://toutiao.io/k/jsvf86z) ![](assets/new.png)  
-- [2022-09-27-推荐-Redis高可用方案](https://toutiao.io/k/3hh68yl) ![](assets/new.png)  
+- [2022-09-27-推荐-1.8w-字的-SQL-优化大全](https://toutiao.io/k/tz7p6nl) ![](assets/new.png)  
 - [2022-09-27-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

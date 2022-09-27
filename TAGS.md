@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-09-27 16:25:03。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-27 17:10:25。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -217,6 +217,7 @@
 
 
 
+- [【V2EX】求助关于-dicom-文件转存为-png-时灰度处理的问题.](https://www.v2ex.com/t/883409)
 - [......【查看更多】......](./details/tags/canvas-image.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -236,7 +237,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】广州17岁男生在定点医院参加高考-特殊考场视频监考](https://m.caixin.com/m/2021-06-05/101723418.html)
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
 - [【V2EX】android-TV-除了-KODI-还有什么好用的视频播放器吗](https://www.v2ex.com/t/883370)
-- [【V2EX】腾讯云直播秒杀活动轻量-2-核-2G30M，-150-元一年起。](https://www.v2ex.com/t/883357)
 - [【开发者头条】从0到1000万：哔哩哔哩直播架构演进史](https://toutiao.io/k/c1wadvv)
 - [......【查看更多】......](./details/tags/audio-video.md)
 

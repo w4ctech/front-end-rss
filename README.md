@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-27 16:25:03，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-27 17:10:24，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-09-27-求助关于-dicom-文件转存为-png-时灰度处理的问题.](https://www.v2ex.com/t/883409) ![](assets/new.png)  
+- [2022-09-27-我想要通过命令行执行一个程序-类似于-Java--jar-xxx.jar,然后获得该程序的进程-ID，并稍后通过进程-ID-判断该进程是否存活？但是在系统中找不到我之前获得的进...](https://www.v2ex.com/t/883408) ![](assets/new.png)  
+- [2022-09-27-哔哩哔哩网页端开始检测去广告插件了](https://www.v2ex.com/t/883406) ![](assets/new.png)  
+- [2022-09-27-单位要求员工签署《使用正版软件承诺书》](https://www.v2ex.com/t/883405) ![](assets/new.png)  
 - [2022-09-27-Rebase-大学：去中心化-Blog-Planetable-架构详解](https://www.v2ex.com/t/883404) ![](assets/new.png)  
 - [2022-09-27-分享活动《Planetable.xyz-架构详解》@Rebase-大学-by-Livid](https://www.v2ex.com/t/883403) ![](assets/new.png)  
 - [2022-09-27-为什么-ios-没有完美越狱了？](https://www.v2ex.com/t/883400) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-09-27-spotify-有家庭车吗？想用它作为主力听歌了](https://www.v2ex.com/t/883387) ![](assets/new.png)  
 - [2022-09-27-MacBook-Air-M1-12+256-官翻有货了](https://www.v2ex.com/t/883386) ![](assets/new.png)  
 - [2022-09-27-與-pixel-6-一樣嗎？](https://www.v2ex.com/t/883385) ![](assets/new.png)  
-- [2022-09-27-“信任此描述文件的来源并注册您的-iPhone-进行远程管理”是如何实现诈骗黑产的？](https://www.v2ex.com/t/883384) ![](assets/new.png)  
-- [2022-09-27-ExtJS-还有人用吗？](https://www.v2ex.com/t/883383) ![](assets/new.png)  
-- [2022-09-27-leetcode-技巧求助](https://www.v2ex.com/t/883382) ![](assets/new.png)  
-- [2022-09-27-有人和《隐入尘烟》中男主一般苦难吗](https://www.v2ex.com/t/883380) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-27 16:25:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-27 17:10:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1914,6 +1914,9 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-09-27-我想要通过命令行执行一个程序-类似于-Java--jar-xxx.jar,然后获得该程序的进程-ID，并稍后通过进程-ID-判断该进程是否存活？但是在系统中找不到我之前获得的进...](https://www.v2ex.com/t/883408) 
+- [2022-09-27-哔哩哔哩网页端开始检测去广告插件了](https://www.v2ex.com/t/883406) 
+- [2022-09-27-单位要求员工签署《使用正版软件承诺书》](https://www.v2ex.com/t/883405) 
 - [2022-09-27-Rebase-大学：去中心化-Blog-Planetable-架构详解](https://www.v2ex.com/t/883404) 
 - [2022-09-27-分享活动《Planetable.xyz-架构详解》@Rebase-大学-by-Livid](https://www.v2ex.com/t/883403) 
 - [2022-09-27-为什么-ios-没有完美越狱了？](https://www.v2ex.com/t/883400) 
@@ -1941,8 +1944,6 @@
 - [2022-09-27-分享个人做的基于-Python-的内网穿透工具](https://www.v2ex.com/t/883365) 
 - [2022-09-27-Python-有没有优雅的修改使用第三方库的办法？](https://www.v2ex.com/t/883364) 
 - [2022-09-27-如何发泄工作压力？](https://www.v2ex.com/t/883361) 
-- [2022-09-27-airpods-pro-关门时的爆音问题](https://www.v2ex.com/t/883358) 
-- [2022-09-27-我的破域名居然也会有人买？还是什么新骗局？](https://www.v2ex.com/t/883356) 
 - [2022-09-27-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-27-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-27-技术改变了什么？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15400&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fpower-of-technology%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

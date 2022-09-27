@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-27 14:57:45，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-27 15:19:31，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-09-27-FCM-开代理也连不上了，有解决办法吗，-err26](https://www.v2ex.com/t/883390) ![](assets/new.png)  
+- [2022-09-27-今年没事做，想找个项目合作，资金我出](https://www.v2ex.com/t/883389) ![](assets/new.png)  
+- [2022-09-27-spotify-有家庭车吗？想用它作为主力听歌了](https://www.v2ex.com/t/883387) ![](assets/new.png)  
+- [2022-09-27-MacBook-Air-M1-12+256-官翻有货了](https://www.v2ex.com/t/883386) ![](assets/new.png)  
 - [2022-09-27-與-pixel-6-一樣嗎？](https://www.v2ex.com/t/883385) ![](assets/new.png)  
 - [2022-09-27-“信任此描述文件的来源并注册您的-iPhone-进行远程管理”是如何实现诈骗黑产的？](https://www.v2ex.com/t/883384) ![](assets/new.png)  
 - [2022-09-27-ExtJS-还有人用吗？](https://www.v2ex.com/t/883383) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-09-27-Ultrafine-4K-遇到了奇怪的问题，-Mac-点不亮了，-iPad-却可以](https://www.v2ex.com/t/883371) ![](assets/new.png)  
 - [2022-09-27-android-TV-除了-KODI-还有什么好用的视频播放器吗](https://www.v2ex.com/t/883370) ![](assets/new.png)  
 - [2022-09-27-腾讯直接云封域名！还甩锅给相关部门！再次给大家提个醒！使用腾讯云的注意了！](https://www.v2ex.com/t/883369) ![](assets/new.png)  
-- [2022-09-27-分享个人做的基于-Python-的内网穿透工具](https://www.v2ex.com/t/883365) ![](assets/new.png)  
-- [2022-09-27-Python-有没有优雅的修改使用第三方库的办法？](https://www.v2ex.com/t/883364) ![](assets/new.png)  
-- [2022-09-27-Python-eyed3-加载不了文件](https://www.v2ex.com/t/883363) ![](assets/new.png)  
-- [2022-09-27-求购-Android-Chromium-ppapi-混合渲染-Demo，价格可谈。](https://www.v2ex.com/t/883362) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,7 +572,7 @@
 - [2022-09-27-互联网职场晋升内幕！想升职加薪？得这么干……](https://toutiao.io/k/vszg55x) ![](assets/new.png)  
 - [2022-09-27-质量检查必须内容重于形式](https://toutiao.io/k/jsvf86z) ![](assets/new.png)  
 - [2022-09-27-推荐-1.8w-字的-SQL-优化大全](https://toutiao.io/k/tz7p6nl) ![](assets/new.png)  
-- [2022-09-27-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) ![](assets/new.png)  
+- [2022-09-27-推荐-Redis高可用方案](https://toutiao.io/k/3hh68yl) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

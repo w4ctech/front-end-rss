@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-27 23:18:57，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-27 23:51:31，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-09-27-iOS-16-设定壁纸的快捷指令异常](https://www.v2ex.com/t/883422) ![](assets/new.png)  
 - [2022-09-27-iPadOS16-beta-10-将-stage-manager-功能扩展至非-M-系芯片的-iPad-Pro](https://www.v2ex.com/t/883420) ![](assets/new.png)  
 - [2022-09-27-Google-翻译-中国大陆版本是不是挂了？](https://www.v2ex.com/t/883417) ![](assets/new.png)  
 - [2022-09-27-现在对未成年游戏充值都有限制吗？](https://www.v2ex.com/t/883415) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-09-27-上海-不加班-可一半时间居家办公-外企-招-中高级-Java-，中高级测试，高级安卓，中级-devOps](https://www.v2ex.com/t/883397) ![](assets/new.png)  
 - [2022-09-27-很烦，公司常态加班](https://www.v2ex.com/t/883396) ![](assets/new.png)  
 - [2022-09-27-牛肉干](https://www.v2ex.com/t/883395) ![](assets/new.png)  
-- [2022-09-27-为什么-jetbrains-的关键字高亮这么拉？](https://www.v2ex.com/t/883394) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,15 +564,15 @@
 - [2022-09-27-5-种-API-网关技术选型，yyds](https://toutiao.io/k/2427h5k) ![](assets/new.png)  
 - [2022-09-27-我是怎么入行做风控的](https://toutiao.io/k/afk5v9i) ![](assets/new.png)  
 - [2022-09-27-写不了代码，我还可以去送快递](https://toutiao.io/k/e43ug1e) ![](assets/new.png)  
-- [2022-09-27-敏捷五步，手把手教你画产品架构图](https://toutiao.io/k/5cyfa0p) ![](assets/new.png)  
 - [2022-09-27-Java-19-新功能介绍](https://toutiao.io/k/3so3rpl) ![](assets/new.png)  
 - [2022-09-27-Go-语言为什么建议定义零值可用的结构体？](https://toutiao.io/k/r3jaqmf) ![](assets/new.png)  
 - [2022-09-27-eBPF:-从-BPF2BPF-调用到尾调用](https://toutiao.io/k/xm5ubjp) ![](assets/new.png)  
 - [2022-09-27-Dubbo-泛化调用在vivo统一配置系统的应用](https://toutiao.io/k/4vz7v6d) ![](assets/new.png)  
 - [2022-09-27-质量检查必须内容重于形式](https://toutiao.io/k/jsvf86z) ![](assets/new.png)  
 - [2022-09-27-互联网职场晋升内幕！想升职加薪？得这么干……](https://toutiao.io/k/vszg55x) ![](assets/new.png)  
-- [2022-09-27-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) ![](assets/new.png)  
 - [2022-09-27-推荐-1.8w-字的-SQL-优化大全](https://toutiao.io/k/tz7p6nl) ![](assets/new.png)  
+- [2022-09-27-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) ![](assets/new.png)  
+- [2022-09-27-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

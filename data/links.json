@@ -9953,6 +9953,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "iOS 16 设定壁纸的快捷指令异常",
+        "link": "https://www.v2ex.com/t/883422",
+        "date": "2022-09-27"
+      },
+      {
         "title": "iPadOS16 beta 10 将 stage manager 功能扩展至非 M 系芯片的 iPad Pro",
         "link": "https://www.v2ex.com/t/883420",
         "date": "2022-09-27"
@@ -10146,16 +10151,6 @@
         "title": "为啥 redux action 需要能够 serializable?",
         "link": "https://www.v2ex.com/t/883373",
         "date": "2022-09-27"
-      },
-      {
-        "title": "玩游戏的目的是什么",
-        "link": "https://www.v2ex.com/t/883372",
-        "date": "2022-09-27"
-      },
-      {
-        "title": "Ultrafine 4K 遇到了奇怪的问题， Mac 点不亮了， iPad 却可以",
-        "link": "https://www.v2ex.com/t/883371",
-        "date": "2022-09-27"
       }
     ]
   },
@@ -10327,11 +10322,6 @@
         "date": "2022-09-27"
       },
       {
-        "title": "敏捷五步，手把手教你画产品架构图",
-        "link": "https://toutiao.io/k/5cyfa0p",
-        "date": "2022-09-27"
-      },
-      {
         "title": "Java 19 新功能介绍",
         "link": "https://toutiao.io/k/3so3rpl",
         "date": "2022-09-27"
@@ -10362,11 +10352,6 @@
         "date": "2022-09-27"
       },
       {
-        "title": "[推荐] Netty、Kafka中的零拷贝技术到底有多牛?",
-        "link": "https://toutiao.io/k/ussdz4q",
-        "date": "2022-09-27"
-      },
-      {
         "title": "[推荐] 1.8w 字的 SQL 优化大全",
         "link": "https://toutiao.io/k/tz7p6nl",
         "date": "2022-09-27"
@@ -10374,6 +10359,11 @@
       {
         "title": "[推荐] 聊聊 8种 架构模式",
         "link": "https://toutiao.io/k/luf0yh6",
+        "date": "2022-09-27"
+      },
+      {
+        "title": "[推荐] Netty、Kafka中的零拷贝技术到底有多牛?",
+        "link": "https://toutiao.io/k/ussdz4q",
         "date": "2022-09-27"
       }
     ]

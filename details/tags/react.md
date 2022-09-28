@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-28 12:31:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-28 13:31:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## React
 
@@ -6,5 +6,3 @@
 > 关键字：`React`、`Rax`、`Nerv`、`Redux`、`useEffect`、`Hooks`
 
 
-
-- [2022-09-28-React-我爱你，但你太让我失望了](https://toutiao.io/k/cd6gsqc) 

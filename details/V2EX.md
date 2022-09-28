@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-09-28 17:14:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-28 18:01:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-09-28-突然发现京东已经开始部分-AVIF-了](https://www.v2ex.com/t/883689) 
 - [2022-09-28-请问，什么样的字符串-能被邮箱的编辑页面（富文本）识别为表格。](https://www.v2ex.com/t/883687) 
 - [2022-09-28-突然发现-play-版-QQ-已经被断网了](https://www.v2ex.com/t/883686) 
 - [2022-09-28-Mac-版-Google-Drive-突然无法直接在线预览视频文件了](https://www.v2ex.com/t/883684) 

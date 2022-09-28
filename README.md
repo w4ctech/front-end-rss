@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-28 17:14:25，:rocket: 更新条数: +2007， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-28 18:01:11，:rocket: 更新条数: +2008， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-09-28-突然发现京东已经开始部分-AVIF-了](https://www.v2ex.com/t/883689) ![](assets/new.png)  
 - [2022-09-28-请问，什么样的字符串-能被邮箱的编辑页面（富文本）识别为表格。](https://www.v2ex.com/t/883687) ![](assets/new.png)  
 - [2022-09-28-突然发现-play-版-QQ-已经被断网了](https://www.v2ex.com/t/883686) ![](assets/new.png)  
 - [2022-09-28-Mac-版-Google-Drive-突然无法直接在线预览视频文件了](https://www.v2ex.com/t/883684) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-09-28-怎么管理自己的文件和文件夹](https://www.v2ex.com/t/883668) ![](assets/new.png)  
 - [2022-09-28-抖音除了网页版外，都有电脑客户端了](https://www.v2ex.com/t/883667) ![](assets/new.png)  
 - [2022-09-28-今年双-11-双-12-自行车还会优惠吗？](https://www.v2ex.com/t/883666) ![](assets/new.png)  
-- [2022-09-28-写代码而言,-选择-7950x-呢还是-13900k-呢,-需要编译快,-各种软件比如-vscode,-jetbrain-流畅](https://www.v2ex.com/t/883665) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -554,8 +554,8 @@
 
 
 - [2022-09-28-如何利用mysql5.7提供的虚拟列来提高查询效率](https://toutiao.io/k/o8wbfmb) ![](assets/new.png)  
-- [2022-09-28-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) ![](assets/new.png)  
 - [2022-09-28-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) ![](assets/new.png)  
+- [2022-09-28-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

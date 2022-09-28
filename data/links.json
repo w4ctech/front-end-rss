@@ -9953,6 +9953,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "突然发现京东已经开始部分 AVIF 了",
+        "link": "https://www.v2ex.com/t/883689",
+        "date": "2022-09-28"
+      },
+      {
         "title": "请问，什么样的字符串 能被邮箱的编辑页面（富文本）识别为表格。",
         "link": "https://www.v2ex.com/t/883687",
         "date": "2022-09-28"
@@ -10262,13 +10267,13 @@
         "date": "2022-09-28"
       },
       {
-        "title": "[推荐] Netty、Kafka中的零拷贝技术到底有多牛?",
-        "link": "https://toutiao.io/k/ussdz4q",
+        "title": "[推荐] 聊聊 8种 架构模式",
+        "link": "https://toutiao.io/k/luf0yh6",
         "date": "2022-09-28"
       },
       {
-        "title": "[推荐] 聊聊 8种 架构模式",
-        "link": "https://toutiao.io/k/luf0yh6",
+        "title": "[推荐] Netty、Kafka中的零拷贝技术到底有多牛?",
+        "link": "https://toutiao.io/k/ussdz4q",
         "date": "2022-09-28"
       }
     ]

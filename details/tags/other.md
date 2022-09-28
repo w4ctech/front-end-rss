@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-28 17:14:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-28 18:01:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1914,6 +1914,7 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-09-28-突然发现京东已经开始部分-AVIF-了](https://www.v2ex.com/t/883689) 
 - [2022-09-28-请问，什么样的字符串-能被邮箱的编辑页面（富文本）识别为表格。](https://www.v2ex.com/t/883687) 
 - [2022-09-28-突然发现-play-版-QQ-已经被断网了](https://www.v2ex.com/t/883686) 
 - [2022-09-28-宽带欠费后居然可以通过-ipv6-免费上网](https://www.v2ex.com/t/883681) 
@@ -1962,5 +1963,5 @@
 - [2022-09-28-10-大可以摧毁你的-Linux-的命令-linux.cn](https://blogread.cn/news/go.php?idItem=15385&url=https%3A%2F%2Flinux.cn%2Farticle-15022-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-28-如何在笔记本电脑合盖时不挂起-Ubuntu-linux.cn](https://blogread.cn/news/go.php?idItem=15384&url=https%3A%2F%2Flinux.cn%2Farticle-15015-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-28-如何利用mysql5.7提供的虚拟列来提高查询效率](https://toutiao.io/k/o8wbfmb) 
-- [2022-09-28-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) 
 - [2022-09-28-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) 
+- [2022-09-28-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) 

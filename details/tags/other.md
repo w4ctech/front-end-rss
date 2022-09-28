@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-28 15:22:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-28 15:54:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1914,6 +1914,9 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-09-28-宽带欠费后居然可以通过-ipv6-免费上网](https://www.v2ex.com/t/883681) 
+- [2022-09-28-传说中的-22H2-更新了个寂寞](https://www.v2ex.com/t/883679) 
+- [2022-09-28-Apple-Watch-配对疯狂闪退](https://www.v2ex.com/t/883678) 
 - [2022-09-28-macOS-有没有办法实现网页历史版本功能？](https://www.v2ex.com/t/883677) 
 - [2022-09-28-SQM-QoS-与流量分载驱动的冲突](https://www.v2ex.com/t/883676) 
 - [2022-09-28-问下这个-ppt-的快捷菜单是怎么弄出来的](https://www.v2ex.com/t/883675) 
@@ -1940,12 +1943,6 @@
 - [2022-09-28-Jellyfin-各种中文乱码怎么解决？或者有没有更好的替代平台？](https://www.v2ex.com/t/883642) 
 - [2022-09-28-有同时用过企业微信邮箱和飞书邮箱的同学吗？](https://www.v2ex.com/t/883641) 
 - [2022-09-28-中国天气网这是怎么了？](https://www.v2ex.com/t/883635) 
-- [2022-09-28-日本亚马逊的-Kindle-Store-一般什么时候有大的优惠？有黑五吗？](https://www.v2ex.com/t/883634) 
-- [2022-09-28-lightsail-问题的后续](https://www.v2ex.com/t/883633) 
-- [2022-09-28-Web3-高级-UI-设计师岗位有-HC（这个岗位需要北京望京南线下办公哦）](https://www.v2ex.com/t/883631) 
-- [2022-09-28-xdm,-t66y-挂了很久了](https://www.v2ex.com/t/883630) 
-- [2022-09-28-上海外企社招｜热招中高级产品、项目经理｜福利多多欢迎推荐～](https://www.v2ex.com/t/883629) 
-- [2022-09-28-下载-rk3588-的固件要联系销售](https://www.v2ex.com/t/883628) 
 - [2022-09-28-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-28-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-28-技术改变了什么？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15400&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fpower-of-technology%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

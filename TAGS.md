@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-09-28 08:58:34。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-28 09:25:34。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -200,6 +200,7 @@
 - [【张鑫旭-鑫空间-鑫生活】万物皆可clip-path，纯CSS绘制0-9数字](https://www.zhangxinxu.com/wordpress/2022/07/clip-path-css-number/)
 - [【张鑫旭-鑫空间-鑫生活】超酷！CSS-font-palette与彩色字体显示](https://www.zhangxinxu.com/wordpress/2022/07/css-font-palette/)
 - [【张鑫旭-鑫空间-鑫生活】CSS排版为何强？瞧瞧多牛这换行](https://www.zhangxinxu.com/wordpress/2022/06/css-line-break-word-wrap-all/)
+- [【V2EX】钉钉真是个垃圾产品，-Mac-客户端群聊点赞动画特效每次重复点开群聊都要刷新一遍是不是太愚蠢了](https://www.v2ex.com/t/883600)
 - [【技术头条】整洁架构之CSS-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15383&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fclean-architecture-css%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】别整一坨-CSS-代码了，试试这几个实用函数](https://toutiao.io/k/46u81xa)
 - [......【查看更多】......](./details/tags/css.md)
@@ -253,7 +254,6 @@
 
 
 - [【V2EX】关于-pandas-的-apply-性能的一些疑惑](https://www.v2ex.com/t/883577)
-- [【V2EX】关于-https-网站加载-http-资源自动升级的问题](https://www.v2ex.com/t/883555)
 - [【开发者头条】性能优化必备——火焰图](https://toutiao.io/k/azf7ub6)
 - [【开发者头条】慢查询-MySQL-定位优化技巧，从10s优化到300ms](https://toutiao.io/k/3re4xuy)
 - [【开发者头条】推荐-1.8w-字的-SQL-优化大全](https://toutiao.io/k/tz7p6nl)

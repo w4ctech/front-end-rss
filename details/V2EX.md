@@ -1,10 +1,19 @@
-:alarm_clock: 更新时间: 2022-09-28 08:58:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-28 09:25:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-09-28-帮贱内问-北京产品岗有没有推荐？](https://www.v2ex.com/t/883609) 
+- [2022-09-28-山泽的细网线坑坑坑，千兆变百兆](https://www.v2ex.com/t/883608) 
+- [2022-09-28-m2-比-m1-的优势明显吗？](https://www.v2ex.com/t/883607) 
+- [2022-09-28-（中国区-Apple-Music-年初京东-Plus-的四个月免费链接还有效](https://www.v2ex.com/t/883606) 
+- [2022-09-28-等等党的大失败，现在续费-jb-全家桶比一个月前多花近二百](https://www.v2ex.com/t/883605) 
+- [2022-09-28-求一份远程的运维工作，-7-年工作经验，熟悉各种云，三年-k8s-运维经验](https://www.v2ex.com/t/883603) 
+- [2022-09-28-支付宝上的保险价格只需线下的一半](https://www.v2ex.com/t/883602) 
+- [2022-09-28-magisk-和-lsposed-可能被其他应用控制吗？](https://www.v2ex.com/t/883601) 
+- [2022-09-28-钉钉真是个垃圾产品，-Mac-客户端群聊点赞动画特效每次重复点开群聊都要刷新一遍是不是太愚蠢了](https://www.v2ex.com/t/883600) 
 - [2022-09-28-你们的-github-copilot-是如何连接的？](https://www.v2ex.com/t/883599) 
 - [2022-09-28-固态硬盘盒与移动固态硬盘成品性价比比较](https://www.v2ex.com/t/883598) 
 - [2022-09-28-老人看剧设备后续---iPad-方案的"缺陷"](https://www.v2ex.com/t/883597) 
@@ -17,7 +26,6 @@
 - [2022-09-28-mac-studio-ultra-没有想象中强啊？](https://www.v2ex.com/t/883589) 
 - [2022-09-28-目前-Linux-下对-ms-office-排版兼容最好的是哪个软件](https://www.v2ex.com/t/883588) 
 - [2022-09-28-在小程序里用上-Composition-API](https://www.v2ex.com/t/883587) 
-- [2022-09-28-以无法找到精确对应为由-在中文中夹杂英语是一种傲慢](https://www.v2ex.com/t/883586) 
 - [2022-09-28-求一份-Java-远程开发工作](https://www.v2ex.com/t/883585) 
 - [2022-09-28-tricorder.dev-UI-设计师-Contractor（远程）](https://www.v2ex.com/t/883584) 
 - [2022-09-28-我在马路上扫共享单车，竟然能连上公司-5-楼窗台附近的-wifi。](https://www.v2ex.com/t/883583) 
@@ -27,7 +35,6 @@
 - [2022-09-28-菜鸟提问，有关-Threadlocal-的问题](https://www.v2ex.com/t/883578) 
 - [2022-09-28-关于-pandas-的-apply-性能的一些疑惑](https://www.v2ex.com/t/883577) 
 - [2022-09-28-请诸位推荐个套餐](https://www.v2ex.com/t/883575) 
-- [2022-09-28-分享经验，-2022-年十一假期出行，如何避免防疫一刀切-&-合理计划出行](https://www.v2ex.com/t/883572) 
 - [2022-09-28-cloudflare-workerd-已开源](https://www.v2ex.com/t/883571) 
 - [2022-09-28-为啥要有-HttpUtility.UrlEncode-这样的方法存在](https://www.v2ex.com/t/883570) 
 - [2022-09-28-有熟悉天津的-v2er-吗，天津海教园的房子还能买吗，有没有坑？](https://www.v2ex.com/t/883568) 
@@ -38,12 +45,3 @@
 - [2022-09-28-MacOS-自带的截图功能，如果选择保存到剪贴板，如何能先编辑后再保存到剪贴板？](https://www.v2ex.com/t/883562) 
 - [2022-09-28-我太菜了，想用-NGINX-搞个-webdav，搞了一下午没搞好](https://www.v2ex.com/t/883561) 
 - [2022-09-28-阿里云请的都是傻子吗？](https://www.v2ex.com/t/883560) 
-- [2022-09-28-有无懂哥，-Apple-Watch-和-iPhone-阉割功能的问题。](https://www.v2ex.com/t/883558) 
-- [2022-09-28-想趁着国庆假期拔智齿有医院推荐的吗](https://www.v2ex.com/t/883557) 
-- [2022-09-28-2022-年了，-Photoshop-怎么还这么慢？](https://www.v2ex.com/t/883556) 
-- [2022-09-28-关于-https-网站加载-http-资源自动升级的问题](https://www.v2ex.com/t/883555) 
-- [2022-09-28-Web3-产品经理/运营经理（这个岗位需要北京望京南线下办公哦）](https://www.v2ex.com/t/883554) 
-- [2022-09-28-换手机不换手表，请问有老铁操作过么？](https://www.v2ex.com/t/883553) 
-- [2022-09-28-并夕夕的-mbp-寸-16+512-已经来到-11698-了，是上车的好机会么？](https://www.v2ex.com/t/883552) 
-- [2022-09-28-Linux-之父-Linus-Torvalds-获颁英特尔首个终身成就创新奖](https://www.v2ex.com/t/883551) 
-- [2022-09-28-一名无亲友萌新奶德的疑问](https://www.v2ex.com/t/883550) 

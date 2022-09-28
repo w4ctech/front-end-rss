@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-28 08:58:33，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-28 09:25:34，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,15 @@
 </summary>
 
 
+- [2022-09-28-帮贱内问-北京产品岗有没有推荐？](https://www.v2ex.com/t/883609) ![](assets/new.png)  
+- [2022-09-28-山泽的细网线坑坑坑，千兆变百兆](https://www.v2ex.com/t/883608) ![](assets/new.png)  
+- [2022-09-28-m2-比-m1-的优势明显吗？](https://www.v2ex.com/t/883607) ![](assets/new.png)  
+- [2022-09-28-（中国区-Apple-Music-年初京东-Plus-的四个月免费链接还有效](https://www.v2ex.com/t/883606) ![](assets/new.png)  
+- [2022-09-28-等等党的大失败，现在续费-jb-全家桶比一个月前多花近二百](https://www.v2ex.com/t/883605) ![](assets/new.png)  
+- [2022-09-28-求一份远程的运维工作，-7-年工作经验，熟悉各种云，三年-k8s-运维经验](https://www.v2ex.com/t/883603) ![](assets/new.png)  
+- [2022-09-28-支付宝上的保险价格只需线下的一半](https://www.v2ex.com/t/883602) ![](assets/new.png)  
+- [2022-09-28-magisk-和-lsposed-可能被其他应用控制吗？](https://www.v2ex.com/t/883601) ![](assets/new.png)  
+- [2022-09-28-钉钉真是个垃圾产品，-Mac-客户端群聊点赞动画特效每次重复点开群聊都要刷新一遍是不是太愚蠢了](https://www.v2ex.com/t/883600) ![](assets/new.png)  
 - [2022-09-28-你们的-github-copilot-是如何连接的？](https://www.v2ex.com/t/883599) ![](assets/new.png)  
 - [2022-09-28-固态硬盘盒与移动固态硬盘成品性价比比较](https://www.v2ex.com/t/883598) ![](assets/new.png)  
 - [2022-09-28-老人看剧设备后续---iPad-方案的"缺陷"](https://www.v2ex.com/t/883597) ![](assets/new.png)  
@@ -502,15 +511,6 @@
 - [2022-09-28-求助！-ssh-登录报错](https://www.v2ex.com/t/883591) ![](assets/new.png)  
 - [2022-09-28-mac-studio-ultra-没有想象中强啊？](https://www.v2ex.com/t/883589) ![](assets/new.png)  
 - [2022-09-28-目前-Linux-下对-ms-office-排版兼容最好的是哪个软件](https://www.v2ex.com/t/883588) ![](assets/new.png)  
-- [2022-09-28-在小程序里用上-Composition-API](https://www.v2ex.com/t/883587) ![](assets/new.png)  
-- [2022-09-28-以无法找到精确对应为由-在中文中夹杂英语是一种傲慢](https://www.v2ex.com/t/883586) ![](assets/new.png)  
-- [2022-09-28-求一份-Java-远程开发工作](https://www.v2ex.com/t/883585) ![](assets/new.png)  
-- [2022-09-28-tricorder.dev-UI-设计师-Contractor（远程）](https://www.v2ex.com/t/883584) ![](assets/new.png)  
-- [2022-09-28-我在马路上扫共享单车，竟然能连上公司-5-楼窗台附近的-wifi。](https://www.v2ex.com/t/883583) ![](assets/new.png)  
-- [2022-09-28-今年国庆不开无限火力了?](https://www.v2ex.com/t/883582) ![](assets/new.png)  
-- [2022-09-28-N-年不用小米账号，登录实名认证的问题。](https://www.v2ex.com/t/883581) ![](assets/new.png)  
-- [2022-09-28-求抄一套-GPU-服务器的方案，预算-4-5w（包税），装两到三台](https://www.v2ex.com/t/883580) ![](assets/new.png)  
-- [2022-09-28-菜鸟提问，有关-Threadlocal-的问题](https://www.v2ex.com/t/883578) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -566,8 +566,8 @@
 - [2022-09-28-React-我爱你，但你太让我失望了](https://toutiao.io/k/cd6gsqc) ![](assets/new.png)  
 - [2022-09-28-别整一坨-CSS-代码了，试试这几个实用函数](https://toutiao.io/k/46u81xa) ![](assets/new.png)  
 - [2022-09-28-欧盟启动开放Web搜索项目，希望替代Google](https://toutiao.io/k/dvtqnmv) ![](assets/new.png)  
-- [2022-09-28-编写里程碑报告的几点建议](https://toutiao.io/k/3endmfj) ![](assets/new.png)  
 - [2022-09-28-中美元宇宙基础设施差距有多大？](https://toutiao.io/k/90mmo30) ![](assets/new.png)  
+- [2022-09-28-编写里程碑报告的几点建议](https://toutiao.io/k/3endmfj) ![](assets/new.png)  
 - [2022-09-28-一个网站部署的完整流程（包教包会）](https://toutiao.io/k/a6pkz6m) ![](assets/new.png)  
 - [2022-09-28-Dapr-可观测性之分布式追踪](https://toutiao.io/k/pw6mr5x) ![](assets/new.png)  
 - [2022-09-28-实用五步法教会你指标体系的设计与加工丨DTVision分析洞察篇](https://toutiao.io/k/ycgjual) ![](assets/new.png)  

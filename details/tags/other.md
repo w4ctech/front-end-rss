@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-28 23:17:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-28 23:49:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1963,6 +1963,13 @@
 - [2022-09-28-与日俱进，在-Go-1.20-中这种高效转换的方式又变了-colobu.com](https://blogread.cn/news/go.php?idItem=15386&url=https%3A%2F%2Fcolobu.com%2F2022%2F09%2F06%2Fstring-byte-convertion%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-28-10-大可以摧毁你的-Linux-的命令-linux.cn](https://blogread.cn/news/go.php?idItem=15385&url=https%3A%2F%2Flinux.cn%2Farticle-15022-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-28-如何在笔记本电脑合盖时不挂起-Ubuntu-linux.cn](https://blogread.cn/news/go.php?idItem=15384&url=https%3A%2F%2Flinux.cn%2Farticle-15015-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [2022-09-28-如何利用mysql5.7提供的虚拟列来提高查询效率](https://toutiao.io/k/o8wbfmb) 
+- [2022-09-28-如何利用-MySQL-5.7-提供的虚拟列来提高查询效率](https://toutiao.io/k/o8wbfmb) 
+- [2022-09-28-Python、R-中-5-款-Dashboard-工具](https://toutiao.io/k/yi3ahzh) 
+- [2022-09-28-ASP.NET-Core-在-IIS-下的两种部署模式](https://toutiao.io/k/rj6399s) 
+- [2022-09-28-​打造企业自己代码规范-IDEA-插件（上）](https://toutiao.io/k/ae69id1) 
+- [2022-09-28-前端架构师的一些思考和总结](https://toutiao.io/k/u2j55mc) 
+- [2022-09-28-macOS-和-Linux-有什么区别？](https://toutiao.io/k/30ao4u0) 
+- [2022-09-28-高级语言编写-Kernel，鱼和熊掌不可兼得](https://toutiao.io/k/t1sxg2q) 
+- [2022-09-28-Go-为什么能火？归功于这-5-个方面](https://toutiao.io/k/dnfw13n) 
 - [2022-09-28-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) 
 - [2022-09-28-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) 

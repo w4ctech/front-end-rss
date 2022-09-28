@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-28 23:17:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-28 23:49:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -17,3 +17,4 @@
 - [2022-09-28-问一下-autohotkey-中%%百分号里面怎么插入数组变量啊](https://www.v2ex.com/t/883662) 
 - [2022-09-28-网岗协议真是老旧路由器的救星](https://www.v2ex.com/t/883657) 
 - [2022-09-28-vitepress-部署项目文档到-Github-pages-丢失样式与路由问题](https://www.v2ex.com/t/883645) 
+- [2022-09-28-纯-JS-实现语雀的划词高亮功能](https://toutiao.io/k/rif9mzl) 

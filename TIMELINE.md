@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-28 23:17:23。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-09-28 23:49:41。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -133,7 +133,16 @@
 - [【技术头条】2022-09-28-10-大可以摧毁你的-Linux-的命令-linux.cn](https://blogread.cn/news/go.php?idItem=15385&url=https%3A%2F%2Flinux.cn%2Farticle-15022-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-28-如何在笔记本电脑合盖时不挂起-Ubuntu-linux.cn](https://blogread.cn/news/go.php?idItem=15384&url=https%3A%2F%2Flinux.cn%2Farticle-15015-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-28-整洁架构之CSS-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15383&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fclean-architecture-css%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [【开发者头条】2022-09-28-如何利用mysql5.7提供的虚拟列来提高查询效率](https://toutiao.io/k/o8wbfmb) 
+- [【开发者头条】2022-09-28-如何利用-MySQL-5.7-提供的虚拟列来提高查询效率](https://toutiao.io/k/o8wbfmb) 
+- [【开发者头条】2022-09-28-Python、R-中-5-款-Dashboard-工具](https://toutiao.io/k/yi3ahzh) 
+- [【开发者头条】2022-09-28-纯-JS-实现语雀的划词高亮功能](https://toutiao.io/k/rif9mzl) 
+- [【开发者头条】2022-09-28-ASP.NET-Core-在-IIS-下的两种部署模式](https://toutiao.io/k/rj6399s) 
+- [【开发者头条】2022-09-28-​打造企业自己代码规范-IDEA-插件（上）](https://toutiao.io/k/ae69id1) 
+- [【开发者头条】2022-09-28-前端架构师的一些思考和总结](https://toutiao.io/k/u2j55mc) 
+- [【开发者头条】2022-09-28-macOS-和-Linux-有什么区别？](https://toutiao.io/k/30ao4u0) 
+- [【开发者头条】2022-09-28-高级语言编写-Kernel，鱼和熊掌不可兼得](https://toutiao.io/k/t1sxg2q) 
+- [【开发者头条】2022-09-28-《HelloGitHub》第-78-期](https://toutiao.io/k/vaonlva) 
+- [【开发者头条】2022-09-28-Go-为什么能火？归功于这-5-个方面](https://toutiao.io/k/dnfw13n) 
 - [【开发者头条】2022-09-28-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) 
 - [【开发者头条】2022-09-28-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) 
 

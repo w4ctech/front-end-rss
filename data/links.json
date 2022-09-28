@@ -10272,8 +10272,53 @@
     "link": "https://toutiao.io",
     "items": [
       {
-        "title": "如何利用mysql5.7提供的虚拟列来提高查询效率",
+        "title": "如何利用 MySQL 5.7 提供的虚拟列来提高查询效率",
         "link": "https://toutiao.io/k/o8wbfmb",
+        "date": "2022-09-28"
+      },
+      {
+        "title": "Python、R 中 5 款 Dashboard 工具",
+        "link": "https://toutiao.io/k/yi3ahzh",
+        "date": "2022-09-28"
+      },
+      {
+        "title": "纯 JS 实现语雀的划词高亮功能",
+        "link": "https://toutiao.io/k/rif9mzl",
+        "date": "2022-09-28"
+      },
+      {
+        "title": "ASP.NET Core 在 IIS 下的两种部署模式",
+        "link": "https://toutiao.io/k/rj6399s",
+        "date": "2022-09-28"
+      },
+      {
+        "title": "​打造企业自己代码规范 IDEA 插件（上）",
+        "link": "https://toutiao.io/k/ae69id1",
+        "date": "2022-09-28"
+      },
+      {
+        "title": "前端架构师的一些思考和总结",
+        "link": "https://toutiao.io/k/u2j55mc",
+        "date": "2022-09-28"
+      },
+      {
+        "title": "macOS 和 Linux 有什么区别？",
+        "link": "https://toutiao.io/k/30ao4u0",
+        "date": "2022-09-28"
+      },
+      {
+        "title": "高级语言编写 Kernel，鱼和熊掌不可兼得",
+        "link": "https://toutiao.io/k/t1sxg2q",
+        "date": "2022-09-28"
+      },
+      {
+        "title": "《HelloGitHub》第 78 期",
+        "link": "https://toutiao.io/k/vaonlva",
+        "date": "2022-09-28"
+      },
+      {
+        "title": "Go 为什么能火？归功于这 5 个方面",
+        "link": "https://toutiao.io/k/dnfw13n",
         "date": "2022-09-28"
       },
       {

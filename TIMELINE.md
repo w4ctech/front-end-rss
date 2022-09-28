@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-28 20:18:16。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-09-28 20:47:22。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -72,6 +72,7 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [【V2EX】2022-09-28-有人知道全球论坛被封了之后，怎么联系管理员？](https://www.v2ex.com/t/883691) 
 - [【V2EX】2022-09-28-小白配主机，想知道这套配置价格合适不？](https://www.v2ex.com/t/883690) 
 - [【V2EX】2022-09-28-突然发现京东已经开始部分-AVIF-了](https://www.v2ex.com/t/883689) 
 - [【V2EX】2022-09-28-请问，什么样的字符串-能被邮箱的编辑页面（富文本）识别为表格。](https://www.v2ex.com/t/883687) 
@@ -111,7 +112,6 @@
 - [【V2EX】2022-09-28-有人试过坐顺风车带狗吗？](https://www.v2ex.com/t/883646) 
 - [【V2EX】2022-09-28-vitepress-部署项目文档到-Github-pages-丢失样式与路由问题](https://www.v2ex.com/t/883645) 
 - [【V2EX】2022-09-28-Jellyfin-各种中文乱码怎么解决？或者有没有更好的替代平台？](https://www.v2ex.com/t/883642) 
-- [【V2EX】2022-09-28-有同时用过企业微信邮箱和飞书邮箱的同学吗？](https://www.v2ex.com/t/883641) 
 - [【技术头条】2022-09-28-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-28-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-28-技术改变了什么？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15400&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fpower-of-technology%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

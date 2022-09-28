@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-28 20:18:16，:rocket: 更新条数: +2009， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-28 20:47:22，:rocket: 更新条数: +2009， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-09-28-有人知道全球论坛被封了之后，怎么联系管理员？](https://www.v2ex.com/t/883691) ![](assets/new.png)  
 - [2022-09-28-小白配主机，想知道这套配置价格合适不？](https://www.v2ex.com/t/883690) ![](assets/new.png)  
 - [2022-09-28-突然发现京东已经开始部分-AVIF-了](https://www.v2ex.com/t/883689) ![](assets/new.png)  
 - [2022-09-28-请问，什么样的字符串-能被邮箱的编辑页面（富文本）识别为表格。](https://www.v2ex.com/t/883687) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-09-28-Google-Play-版-QQ-彻底阵亡，虽然一直有收不到消息要杀后台重开的毛病，但今晚彻底寄了。无法连接服务器，一直转圈。](https://www.v2ex.com/t/883670) ![](assets/new.png)  
 - [2022-09-28-我的网站的用户还在迅速增长，但我却不知道该怎么更新了。](https://www.v2ex.com/t/883669) ![](assets/new.png)  
 - [2022-09-28-怎么管理自己的文件和文件夹](https://www.v2ex.com/t/883668) ![](assets/new.png)  
-- [2022-09-28-抖音除了网页版外，都有电脑客户端了](https://www.v2ex.com/t/883667) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

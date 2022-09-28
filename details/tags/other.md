@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-28 11:15:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-28 11:45:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1914,6 +1914,8 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-09-28-Jellyfin-各种中文乱码怎么解决？或者有没有更好的替代平台？](https://www.v2ex.com/t/883642) 
+- [2022-09-28-有同时用过企业微信邮箱和飞书邮箱的同学吗？](https://www.v2ex.com/t/883641) 
 - [2022-09-28-某地降发工资的传闻](https://www.v2ex.com/t/883638) 
 - [2022-09-28-中国天气网这是怎么了？](https://www.v2ex.com/t/883635) 
 - [2022-09-28-日本亚马逊的-Kindle-Store-一般什么时候有大的优惠？有黑五吗？](https://www.v2ex.com/t/883634) 
@@ -1950,9 +1952,6 @@
 - [2022-09-28-有没有电子照片/银行卡管理的-app？](https://www.v2ex.com/t/883596) 
 - [2022-09-28-基于现在云服务器价格高涨，组团购买服务器并进行托管替代云服务器的方式可行吗？](https://www.v2ex.com/t/883595) 
 - [2022-09-28-Web3-产品经理-/-运营经理-两个岗位都有-hc（这个岗位需要北京望京南线下办公哦）](https://www.v2ex.com/t/883594) 
-- [2022-09-28-杭州电信宽带好像悄悄提升了上传？](https://www.v2ex.com/t/883593) 
-- [2022-09-28-代友发帖--征男友](https://www.v2ex.com/t/883592) 
-- [2022-09-28-求助！-ssh-登录报错](https://www.v2ex.com/t/883591) 
 - [2022-09-28-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-28-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-28-技术改变了什么？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15400&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fpower-of-technology%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1982,5 +1981,5 @@
 - [2022-09-28-中美元宇宙基础设施差距有多大？](https://toutiao.io/k/90mmo30) 
 - [2022-09-28-Dapr-可观测性之分布式追踪](https://toutiao.io/k/pw6mr5x) 
 - [2022-09-28-实用五步法教会你指标体系的设计与加工丨DTVision分析洞察篇](https://toutiao.io/k/ycgjual) 
-- [2022-09-28-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) 
 - [2022-09-28-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) 
+- [2022-09-28-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) 

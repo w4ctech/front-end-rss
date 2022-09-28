@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-28 11:15:17，:rocket: 更新条数: +2031， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-28 11:45:13，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-09-28-Jellyfin-各种中文乱码怎么解决？或者有没有更好的替代平台？](https://www.v2ex.com/t/883642) ![](assets/new.png)  
+- [2022-09-28-有同时用过企业微信邮箱和飞书邮箱的同学吗？](https://www.v2ex.com/t/883641) ![](assets/new.png)  
 - [2022-09-28-某地降发工资的传闻](https://www.v2ex.com/t/883638) ![](assets/new.png)  
 - [2022-09-28-zsh-下-`typeset`-命令的用法以及变量赋值时的不同表现](https://www.v2ex.com/t/883636) ![](assets/new.png)  
 - [2022-09-28-中国天气网这是怎么了？](https://www.v2ex.com/t/883635) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-09-28-亲测目前2022.9微信-CallKit-还是可以通过换绑手机号打开的](https://www.v2ex.com/t/883620) ![](assets/new.png)  
 - [2022-09-28-blazor-写的网页有办法在不用-tauri-/-electron-这类技术的情况下打包成原生-windows-客户端吗](https://www.v2ex.com/t/883619) ![](assets/new.png)  
 - [2022-09-28-现在这个时间点有必要买雷电-4-拓展坞吗？](https://www.v2ex.com/t/883618) ![](assets/new.png)  
-- [2022-09-28-小米-k50-至尊版，-miui13，识别到了-nfc，不能自动打开应用操作，必须用户确认，想跳过确认](https://www.v2ex.com/t/883617) ![](assets/new.png)  
-- [2022-09-28-Web3-产品经理-/-运营经理-这两个岗位都有-hc（这个岗位需要北京望京南线下办公哦）](https://www.v2ex.com/t/883616) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -571,8 +571,8 @@
 - [2022-09-28-中美元宇宙基础设施差距有多大？](https://toutiao.io/k/90mmo30) ![](assets/new.png)  
 - [2022-09-28-Dapr-可观测性之分布式追踪](https://toutiao.io/k/pw6mr5x) ![](assets/new.png)  
 - [2022-09-28-实用五步法教会你指标体系的设计与加工丨DTVision分析洞察篇](https://toutiao.io/k/ycgjual) ![](assets/new.png)  
+- [2022-09-28-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) ![](assets/new.png)  
 - [2022-09-28-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) ![](assets/new.png)  
-- [2022-09-28-推荐-1.8w-字的-SQL-优化大全](https://toutiao.io/k/tz7p6nl) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

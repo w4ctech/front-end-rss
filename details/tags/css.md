@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-28 13:31:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-28 14:15:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## CSS
 
@@ -13,3 +13,4 @@
 - [2022-07-21-超酷！CSS-font-palette与彩色字体显示](https://www.zhangxinxu.com/wordpress/2022/07/css-font-palette/) 
 - [2022-06-30-CSS排版为何强？瞧瞧多牛这换行](https://www.zhangxinxu.com/wordpress/2022/06/css-line-break-word-wrap-all/) 
 - [2022-09-28-整洁架构之CSS-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15383&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fclean-architecture-css%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2022-09-28-别整一坨-CSS-代码了，试试这几个实用函数](https://toutiao.io/k/46u81xa) 

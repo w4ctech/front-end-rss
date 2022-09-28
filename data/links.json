@@ -9953,6 +9953,36 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "Google Play 版 QQ 彻底阵亡，虽然一直有收不到消息要杀后台重开的毛病，但今晚彻底寄了。无法连接服务器，一直转圈。",
+        "link": "https://www.v2ex.com/t/883670",
+        "date": "2022-09-28"
+      },
+      {
+        "title": "我的网站的用户还在迅速增长，但我却不知道该怎么更新了。",
+        "link": "https://www.v2ex.com/t/883669",
+        "date": "2022-09-28"
+      },
+      {
+        "title": "怎么管理自己的文件和文件夹",
+        "link": "https://www.v2ex.com/t/883668",
+        "date": "2022-09-28"
+      },
+      {
+        "title": "抖音除了网页版外，都有电脑客户端了",
+        "link": "https://www.v2ex.com/t/883667",
+        "date": "2022-09-28"
+      },
+      {
+        "title": "今年双 11 双 12 自行车还会优惠吗？",
+        "link": "https://www.v2ex.com/t/883666",
+        "date": "2022-09-28"
+      },
+      {
+        "title": "写代码而言, 选择 7950x 呢还是 13900k 呢, 需要编译快, 各种软件比如 vscode, jetbrain 流畅",
+        "link": "https://www.v2ex.com/t/883665",
+        "date": "2022-09-28"
+      },
+      {
         "title": "问一下 autohotkey 中%%百分号里面怎么插入数组变量啊",
         "link": "https://www.v2ex.com/t/883662",
         "date": "2022-09-28"
@@ -10106,46 +10136,6 @@
         "title": "miui12.0.2 安装了 google 应用，但是在桌面没有显示",
         "link": "https://www.v2ex.com/t/883622",
         "date": "2022-09-28"
-      },
-      {
-        "title": "亲测目前(2022.9)微信 CallKit 还是可以通过换绑手机号打开的",
-        "link": "https://www.v2ex.com/t/883620",
-        "date": "2022-09-28"
-      },
-      {
-        "title": "blazor 写的网页有办法在不用 tauri / electron 这类技术的情况下打包成原生 windows 客户端吗",
-        "link": "https://www.v2ex.com/t/883619",
-        "date": "2022-09-28"
-      },
-      {
-        "title": "现在这个时间点有必要买雷电 4 拓展坞吗？",
-        "link": "https://www.v2ex.com/t/883618",
-        "date": "2022-09-28"
-      },
-      {
-        "title": "小米 k50 至尊版， miui13，识别到了 nfc，不能自动打开应用操作，必须用户确认，想跳过确认",
-        "link": "https://www.v2ex.com/t/883617",
-        "date": "2022-09-28"
-      },
-      {
-        "title": "Web3 产品经理 / 运营经理 这两个岗位都有 hc（这个岗位需要北京望京南线下办公哦）",
-        "link": "https://www.v2ex.com/t/883616",
-        "date": "2022-09-28"
-      },
-      {
-        "title": "iPhone 14 pro 有些小 bug，不知道你们有没有遇到过",
-        "link": "https://www.v2ex.com/t/883615",
-        "date": "2022-09-28"
-      },
-      {
-        "title": "都快 2023 年了，微信小程序流量主们过得还好吗？",
-        "link": "https://www.v2ex.com/t/883614",
-        "date": "2022-09-28"
-      },
-      {
-        "title": "为什么 V2EX 的 Today Top 10 只有五个",
-        "link": "https://www.v2ex.com/t/883613",
-        "date": "2022-09-28"
       }
     ]
   },
@@ -10260,7 +10250,113 @@
     "rss": "https://front-rss.herokuapp.com/toutiao/today",
     "title": "开发者头条",
     "link": "https://toutiao.io",
-    "items": []
+    "items": [
+      {
+        "title": "性能优化必备——火焰图",
+        "link": "https://toutiao.io/k/azf7ub6",
+        "date": "2022-09-28"
+      },
+      {
+        "title": "慢查询 MySQL 定位优化技巧，从10s优化到300ms",
+        "link": "https://toutiao.io/k/3re4xuy",
+        "date": "2022-09-28"
+      },
+      {
+        "title": "阿里开源，超强大的 Kubernetes 本地调试工具 Kt-Connect 使用指南",
+        "link": "https://toutiao.io/k/7x0lmf5",
+        "date": "2022-09-28"
+      },
+      {
+        "title": "爬虫与反爬虫技术简介",
+        "link": "https://toutiao.io/k/3nzj08n",
+        "date": "2022-09-28"
+      },
+      {
+        "title": "一款优秀数据库中间件的不完全解析",
+        "link": "https://toutiao.io/k/48qinmp",
+        "date": "2022-09-28"
+      },
+      {
+        "title": "Redis 持久化策略浅析",
+        "link": "https://toutiao.io/k/7rzfcpe",
+        "date": "2022-09-28"
+      },
+      {
+        "title": "重磅 | 死磕 Elasticsearch 8.X 方法论认知清单（2022年国庆更新版）",
+        "link": "https://toutiao.io/k/esdjnzc",
+        "date": "2022-09-28"
+      },
+      {
+        "title": "行业方案｜“医疗”行业智能运维解决方案介绍",
+        "link": "https://toutiao.io/k/3ogc4zn",
+        "date": "2022-09-28"
+      },
+      {
+        "title": "我是怎么读代码的",
+        "link": "https://toutiao.io/k/97351s2",
+        "date": "2022-09-28"
+      },
+      {
+        "title": "面向快速反应的工程团队--QRF团队模型",
+        "link": "https://toutiao.io/k/5d6f5ak",
+        "date": "2022-09-28"
+      },
+      {
+        "title": "别整一坨 CSS 代码了，试试这几个实用函数",
+        "link": "https://toutiao.io/k/46u81xa",
+        "date": "2022-09-28"
+      },
+      {
+        "title": "React 我爱你，但你太让我失望了",
+        "link": "https://toutiao.io/k/cd6gsqc",
+        "date": "2022-09-28"
+      },
+      {
+        "title": "一个网站部署的完整流程（包教包会）",
+        "link": "https://toutiao.io/k/a6pkz6m",
+        "date": "2022-09-28"
+      },
+      {
+        "title": "编写里程碑报告的几点建议",
+        "link": "https://toutiao.io/k/3endmfj",
+        "date": "2022-09-28"
+      },
+      {
+        "title": "欧盟启动开放Web搜索项目，希望替代Google",
+        "link": "https://toutiao.io/k/dvtqnmv",
+        "date": "2022-09-28"
+      },
+      {
+        "title": "中美元宇宙基础设施差距有多大？",
+        "link": "https://toutiao.io/k/90mmo30",
+        "date": "2022-09-28"
+      },
+      {
+        "title": "Dapr 可观测性之分布式追踪",
+        "link": "https://toutiao.io/k/pw6mr5x",
+        "date": "2022-09-28"
+      },
+      {
+        "title": "实用五步法教会你指标体系的设计与加工丨DTVision分析洞察篇",
+        "link": "https://toutiao.io/k/ycgjual",
+        "date": "2022-09-28"
+      },
+      {
+        "title": "[推荐] Netty、Kafka中的零拷贝技术到底有多牛?",
+        "link": "https://toutiao.io/k/ussdz4q",
+        "date": "2022-09-28"
+      },
+      {
+        "title": "[推荐] 聊聊 8种 架构模式",
+        "link": "https://toutiao.io/k/luf0yh6",
+        "date": "2022-09-28"
+      },
+      {
+        "title": "[推荐] 1.8w 字的 SQL 优化大全",
+        "link": "https://toutiao.io/k/tz7p6nl",
+        "date": "2022-09-28"
+      }
+    ]
   },
   {
     "rss": "https://sec.thief.one/atom.xml",

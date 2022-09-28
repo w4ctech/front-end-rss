@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-09-28 05:41:08。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-28 06:51:07。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -39,6 +39,7 @@
 
 
 
+- [【V2EX】什么需求不得不用-redux-这种全局状态管理工具](https://www.v2ex.com/t/883539)
 - [【开发者头条】React-我爱你，但你太让我失望了](https://toutiao.io/k/cd6gsqc)
 - [......【查看更多】......](./details/tags/react.md)
 
@@ -56,6 +57,7 @@
 
 
 
+- [【V2EX】用-Golang-+-Vue3-写了一个-HTTP-的-WOL-唤醒和关机](https://www.v2ex.com/t/883526)
 - [......【查看更多】......](./details/tags/vue.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -121,6 +123,7 @@
 
 
 
+- [【V2EX】有没有会做招商银行平台小程序的个人或者团队？](https://www.v2ex.com/t/883546)
 - [【V2EX】为了方便各位润友尽早润，做了一个练习英语听力的小程序](https://www.v2ex.com/t/883514)
 - [......【查看更多】......](./details/tags/miniprogram.md)
 
@@ -155,6 +158,7 @@
 
 
 
+- [【V2EX】metacity-游戏服务端框架-demo-上线拉](https://www.v2ex.com/t/883536)
 - [......【查看更多】......](./details/tags/dev-game.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -278,6 +282,8 @@
 - [【武汉肺炎防疫全纪录(财新网)】腺病毒新冠疫苗引安全忧虑-康希诺称未发现血栓病例](https://m.caixin.com/m/2021-04-14/101691086.html)
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
+- [【V2EX】Chrome-106-终于默认开启-HEVC-硬解了](https://www.v2ex.com/t/883548)
+- [【V2EX】请求异常，求老铁们提供点排查思路](https://www.v2ex.com/t/883528)
 - [【开发者头条】阿里开源，超强大的-Kubernetes-本地调试工具-Kt-Connect-使用指南](https://toutiao.io/k/7x0lmf5)
 - [......【查看更多】......](./details/tags/browser.md)
 
@@ -295,7 +301,6 @@
 
 
 
-- [【V2EX】用-Golang-+-Vu3-写了一个-HTTP-的-WOL-唤醒和关机](https://www.v2ex.com/t/883526)
 - [【技术头条】基于AI算法的数据库异常监测系统的设计与实现-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15390&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F09%2F01%2Fdatabase-monitoring-based-on-ai.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】重磅-|-死磕-Elasticsearch-8.X-方法论认知清单（2022年国庆更新版）](https://toutiao.io/k/esdjnzc)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
@@ -332,6 +337,7 @@
 
 
 - [【张鑫旭-鑫空间-鑫生活】gitee上撸了个类似飞书OKR输入框的@提及项目](https://www.zhangxinxu.com/wordpress/2022/08/gitee-feishu-okr-at-mention/)
+- [【V2EX】Caldigit-TS3-Plus-现在还值得入手吗？](https://www.v2ex.com/t/883527)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -348,6 +354,7 @@
 
 
 
+- [【V2EX】央企-华润-base-郑州。招聘产品、-Java-、QA-测试、UX、前端开发](https://www.v2ex.com/t/883540)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

@@ -9953,6 +9953,31 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "zsh 下 `typeset` 命令的用法以及变量赋值时的不同表现",
+        "link": "https://www.v2ex.com/t/883636",
+        "date": "2022-09-28"
+      },
+      {
+        "title": "中国天气网这是怎么了？",
+        "link": "https://www.v2ex.com/t/883635",
+        "date": "2022-09-28"
+      },
+      {
+        "title": "日本亚马逊的 Kindle Store 一般什么时候有大的优惠？有黑五吗？",
+        "link": "https://www.v2ex.com/t/883634",
+        "date": "2022-09-28"
+      },
+      {
+        "title": "lightsail 问题的后续",
+        "link": "https://www.v2ex.com/t/883633",
+        "date": "2022-09-28"
+      },
+      {
+        "title": "V 字仇杀队搜不到了?",
+        "link": "https://www.v2ex.com/t/883632",
+        "date": "2022-09-28"
+      },
+      {
         "title": "Web3 高级 UI 设计师岗位有 HC（这个岗位需要北京望京南线下办公哦）",
         "link": "https://www.v2ex.com/t/883631",
         "date": "2022-09-28"
@@ -10156,26 +10181,6 @@
         "title": "在小程序里用上 Composition API",
         "link": "https://www.v2ex.com/t/883587",
         "date": "2022-09-28"
-      },
-      {
-        "title": "求一份 Java 远程开发工作",
-        "link": "https://www.v2ex.com/t/883585",
-        "date": "2022-09-28"
-      },
-      {
-        "title": "tricorder.dev-UI 设计师 Contractor（远程）",
-        "link": "https://www.v2ex.com/t/883584",
-        "date": "2022-09-28"
-      },
-      {
-        "title": "我在马路上扫共享单车，竟然能连上公司 5 楼窗台附近的 wifi。",
-        "link": "https://www.v2ex.com/t/883583",
-        "date": "2022-09-28"
-      },
-      {
-        "title": "今年国庆不开无限火力了?",
-        "link": "https://www.v2ex.com/t/883582",
-        "date": "2022-09-28"
       }
     ]
   },
@@ -10317,13 +10322,13 @@
         "date": "2022-09-28"
       },
       {
-        "title": "重磅 | 死磕 Elasticsearch 8.X 方法论认知清单（2022年国庆更新版）",
-        "link": "https://toutiao.io/k/esdjnzc",
+        "title": "Redis 持久化策略浅析",
+        "link": "https://toutiao.io/k/7rzfcpe",
         "date": "2022-09-28"
       },
       {
-        "title": "Redis 持久化策略浅析",
-        "link": "https://toutiao.io/k/7rzfcpe",
+        "title": "重磅 | 死磕 Elasticsearch 8.X 方法论认知清单（2022年国庆更新版）",
+        "link": "https://toutiao.io/k/esdjnzc",
         "date": "2022-09-28"
       },
       {
@@ -10387,13 +10392,13 @@
         "date": "2022-09-28"
       },
       {
-        "title": "[推荐] 聊聊 8种 架构模式",
-        "link": "https://toutiao.io/k/luf0yh6",
+        "title": "[推荐] Netty、Kafka中的零拷贝技术到底有多牛?",
+        "link": "https://toutiao.io/k/ussdz4q",
         "date": "2022-09-28"
       },
       {
-        "title": "[推荐] Netty、Kafka中的零拷贝技术到底有多牛?",
-        "link": "https://toutiao.io/k/ussdz4q",
+        "title": "[推荐] 聊聊 8种 架构模式",
+        "link": "https://toutiao.io/k/luf0yh6",
         "date": "2022-09-28"
       }
     ]

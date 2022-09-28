@@ -1,10 +1,15 @@
-:alarm_clock: 更新时间: 2022-09-28 10:18:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-28 10:52:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-09-28-zsh-下-`typeset`-命令的用法以及变量赋值时的不同表现](https://www.v2ex.com/t/883636) 
+- [2022-09-28-中国天气网这是怎么了？](https://www.v2ex.com/t/883635) 
+- [2022-09-28-日本亚马逊的-Kindle-Store-一般什么时候有大的优惠？有黑五吗？](https://www.v2ex.com/t/883634) 
+- [2022-09-28-lightsail-问题的后续](https://www.v2ex.com/t/883633) 
+- [2022-09-28-V-字仇杀队搜不到了?](https://www.v2ex.com/t/883632) 
 - [2022-09-28-Web3-高级-UI-设计师岗位有-HC（这个岗位需要北京望京南线下办公哦）](https://www.v2ex.com/t/883631) 
 - [2022-09-28-xdm,-t66y-挂了很久了](https://www.v2ex.com/t/883630) 
 - [2022-09-28-上海外企社招｜热招中高级产品、项目经理｜福利多多欢迎推荐～](https://www.v2ex.com/t/883629) 
@@ -46,7 +51,3 @@
 - [2022-09-28-mac-studio-ultra-没有想象中强啊？](https://www.v2ex.com/t/883589) 
 - [2022-09-28-目前-Linux-下对-ms-office-排版兼容最好的是哪个软件](https://www.v2ex.com/t/883588) 
 - [2022-09-28-在小程序里用上-Composition-API](https://www.v2ex.com/t/883587) 
-- [2022-09-28-求一份-Java-远程开发工作](https://www.v2ex.com/t/883585) 
-- [2022-09-28-tricorder.dev-UI-设计师-Contractor（远程）](https://www.v2ex.com/t/883584) 
-- [2022-09-28-我在马路上扫共享单车，竟然能连上公司-5-楼窗台附近的-wifi。](https://www.v2ex.com/t/883583) 
-- [2022-09-28-今年国庆不开无限火力了?](https://www.v2ex.com/t/883582) 

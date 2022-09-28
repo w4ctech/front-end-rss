@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-28 10:18:41。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-09-28 10:52:39。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -72,6 +72,11 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [【V2EX】2022-09-28-zsh-下-`typeset`-命令的用法以及变量赋值时的不同表现](https://www.v2ex.com/t/883636) 
+- [【V2EX】2022-09-28-中国天气网这是怎么了？](https://www.v2ex.com/t/883635) 
+- [【V2EX】2022-09-28-日本亚马逊的-Kindle-Store-一般什么时候有大的优惠？有黑五吗？](https://www.v2ex.com/t/883634) 
+- [【V2EX】2022-09-28-lightsail-问题的后续](https://www.v2ex.com/t/883633) 
+- [【V2EX】2022-09-28-V-字仇杀队搜不到了?](https://www.v2ex.com/t/883632) 
 - [【V2EX】2022-09-28-Web3-高级-UI-设计师岗位有-HC（这个岗位需要北京望京南线下办公哦）](https://www.v2ex.com/t/883631) 
 - [【V2EX】2022-09-28-xdm,-t66y-挂了很久了](https://www.v2ex.com/t/883630) 
 - [【V2EX】2022-09-28-上海外企社招｜热招中高级产品、项目经理｜福利多多欢迎推荐～](https://www.v2ex.com/t/883629) 
@@ -113,10 +118,6 @@
 - [【V2EX】2022-09-28-mac-studio-ultra-没有想象中强啊？](https://www.v2ex.com/t/883589) 
 - [【V2EX】2022-09-28-目前-Linux-下对-ms-office-排版兼容最好的是哪个软件](https://www.v2ex.com/t/883588) 
 - [【V2EX】2022-09-28-在小程序里用上-Composition-API](https://www.v2ex.com/t/883587) 
-- [【V2EX】2022-09-28-求一份-Java-远程开发工作](https://www.v2ex.com/t/883585) 
-- [【V2EX】2022-09-28-tricorder.dev-UI-设计师-Contractor（远程）](https://www.v2ex.com/t/883584) 
-- [【V2EX】2022-09-28-我在马路上扫共享单车，竟然能连上公司-5-楼窗台附近的-wifi。](https://www.v2ex.com/t/883583) 
-- [【V2EX】2022-09-28-今年国庆不开无限火力了?](https://www.v2ex.com/t/883582) 
 - [【技术头条】2022-09-28-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-28-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-28-技术改变了什么？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15400&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fpower-of-technology%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -142,8 +143,8 @@
 - [【开发者头条】2022-09-28-阿里开源，超强大的-Kubernetes-本地调试工具-Kt-Connect-使用指南](https://toutiao.io/k/7x0lmf5) 
 - [【开发者头条】2022-09-28-爬虫与反爬虫技术简介](https://toutiao.io/k/3nzj08n) 
 - [【开发者头条】2022-09-28-一款优秀数据库中间件的不完全解析](https://toutiao.io/k/48qinmp) 
-- [【开发者头条】2022-09-28-重磅-|-死磕-Elasticsearch-8.X-方法论认知清单（2022年国庆更新版）](https://toutiao.io/k/esdjnzc) 
 - [【开发者头条】2022-09-28-Redis-持久化策略浅析](https://toutiao.io/k/7rzfcpe) 
+- [【开发者头条】2022-09-28-重磅-|-死磕-Elasticsearch-8.X-方法论认知清单（2022年国庆更新版）](https://toutiao.io/k/esdjnzc) 
 - [【开发者头条】2022-09-28-行业方案｜“医疗”行业智能运维解决方案介绍](https://toutiao.io/k/3ogc4zn) 
 - [【开发者头条】2022-09-28-面向快速反应的工程团队--QRF团队模型](https://toutiao.io/k/5d6f5ak) 
 - [【开发者头条】2022-09-28-我是怎么读代码的](https://toutiao.io/k/97351s2) 
@@ -156,8 +157,8 @@
 - [【开发者头条】2022-09-28-Dapr-可观测性之分布式追踪](https://toutiao.io/k/pw6mr5x) 
 - [【开发者头条】2022-09-28-实用五步法教会你指标体系的设计与加工丨DTVision分析洞察篇](https://toutiao.io/k/ycgjual) 
 - [【开发者头条】2022-09-28-推荐-1.8w-字的-SQL-优化大全](https://toutiao.io/k/tz7p6nl) 
-- [【开发者头条】2022-09-28-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) 
 - [【开发者头条】2022-09-28-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) 
+- [【开发者头条】2022-09-28-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-28 14:15:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-28 14:58:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1914,6 +1914,9 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-09-28-虚拟出来的网卡、磁盘等设备，什么情况下会受到虚拟的接口等设备的影响被限制速度？](https://www.v2ex.com/t/883673) 
+- [2022-09-28-深圳哪里有打乒乓球人比较多的地方？](https://www.v2ex.com/t/883672) 
+- [2022-09-28-使用-Elpass+国区-icloud-的请注意，可能会导致密码库无法使用](https://www.v2ex.com/t/883671) 
 - [2022-09-28-Google-Play-版-QQ-彻底阵亡，虽然一直有收不到消息要杀后台重开的毛病，但今晚彻底寄了。无法连接服务器，一直转圈。](https://www.v2ex.com/t/883670) 
 - [2022-09-28-我的网站的用户还在迅速增长，但我却不知道该怎么更新了。](https://www.v2ex.com/t/883669) 
 - [2022-09-28-怎么管理自己的文件和文件夹](https://www.v2ex.com/t/883668) 
@@ -1942,9 +1945,6 @@
 - [2022-09-28-下载-rk3588-的固件要联系销售](https://www.v2ex.com/t/883628) 
 - [2022-09-28-求教：有哪些-HHKB-布局的键盘](https://www.v2ex.com/t/883627) 
 - [2022-09-28-国内能做空美元指数吗?](https://www.v2ex.com/t/883625) 
-- [2022-09-28-我思考这个问题很久了](https://www.v2ex.com/t/883624) 
-- [2022-09-28-垃圾汽车之家是怎么拿到我的手机号的?](https://www.v2ex.com/t/883623) 
-- [2022-09-28-miui12.0.2-安装了-google-应用，但是在桌面没有显示](https://www.v2ex.com/t/883622) 
 - [2022-09-28-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-28-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-28-技术改变了什么？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15400&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fpower-of-technology%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1974,5 +1974,5 @@
 - [2022-09-28-中美元宇宙基础设施差距有多大？](https://toutiao.io/k/90mmo30) 
 - [2022-09-28-Dapr-可观测性之分布式追踪](https://toutiao.io/k/pw6mr5x) 
 - [2022-09-28-实用五步法教会你指标体系的设计与加工丨DTVision分析洞察篇](https://toutiao.io/k/ycgjual) 
-- [2022-09-28-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) 
 - [2022-09-28-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) 
+- [2022-09-28-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) 

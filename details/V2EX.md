@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-09-28 10:52:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-28 11:15:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-09-28-某地降发工资的传闻](https://www.v2ex.com/t/883638) 
 - [2022-09-28-zsh-下-`typeset`-命令的用法以及变量赋值时的不同表现](https://www.v2ex.com/t/883636) 
 - [2022-09-28-中国天气网这是怎么了？](https://www.v2ex.com/t/883635) 
 - [2022-09-28-日本亚马逊的-Kindle-Store-一般什么时候有大的优惠？有黑五吗？](https://www.v2ex.com/t/883634) 
@@ -48,6 +49,3 @@
 - [2022-09-28-杭州电信宽带好像悄悄提升了上传？](https://www.v2ex.com/t/883593) 
 - [2022-09-28-代友发帖--征男友](https://www.v2ex.com/t/883592) 
 - [2022-09-28-求助！-ssh-登录报错](https://www.v2ex.com/t/883591) 
-- [2022-09-28-mac-studio-ultra-没有想象中强啊？](https://www.v2ex.com/t/883589) 
-- [2022-09-28-目前-Linux-下对-ms-office-排版兼容最好的是哪个软件](https://www.v2ex.com/t/883588) 
-- [2022-09-28-在小程序里用上-Composition-API](https://www.v2ex.com/t/883587) 

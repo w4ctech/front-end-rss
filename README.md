@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-28 10:52:39，:rocket: 更新条数: +2033， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-28 11:15:17，:rocket: 更新条数: +2031， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-09-28-某地降发工资的传闻](https://www.v2ex.com/t/883638) ![](assets/new.png)  
 - [2022-09-28-zsh-下-`typeset`-命令的用法以及变量赋值时的不同表现](https://www.v2ex.com/t/883636) ![](assets/new.png)  
 - [2022-09-28-中国天气网这是怎么了？](https://www.v2ex.com/t/883635) ![](assets/new.png)  
 - [2022-09-28-日本亚马逊的-Kindle-Store-一般什么时候有大的优惠？有黑五吗？](https://www.v2ex.com/t/883634) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-09-28-现在这个时间点有必要买雷电-4-拓展坞吗？](https://www.v2ex.com/t/883618) ![](assets/new.png)  
 - [2022-09-28-小米-k50-至尊版，-miui13，识别到了-nfc，不能自动打开应用操作，必须用户确认，想跳过确认](https://www.v2ex.com/t/883617) ![](assets/new.png)  
 - [2022-09-28-Web3-产品经理-/-运营经理-这两个岗位都有-hc（这个岗位需要北京望京南线下办公哦）](https://www.v2ex.com/t/883616) ![](assets/new.png)  
-- [2022-09-28-iPhone-14-pro-有些小-bug，不知道你们有没有遇到过](https://www.v2ex.com/t/883615) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -561,8 +561,8 @@
 - [2022-09-28-Redis-持久化策略浅析](https://toutiao.io/k/7rzfcpe) ![](assets/new.png)  
 - [2022-09-28-重磅-|-死磕-Elasticsearch-8.X-方法论认知清单（2022年国庆更新版）](https://toutiao.io/k/esdjnzc) ![](assets/new.png)  
 - [2022-09-28-行业方案｜“医疗”行业智能运维解决方案介绍](https://toutiao.io/k/3ogc4zn) ![](assets/new.png)  
-- [2022-09-28-面向快速反应的工程团队--QRF团队模型](https://toutiao.io/k/5d6f5ak) ![](assets/new.png)  
 - [2022-09-28-我是怎么读代码的](https://toutiao.io/k/97351s2) ![](assets/new.png)  
+- [2022-09-28-面向快速反应的工程团队--QRF团队模型](https://toutiao.io/k/5d6f5ak) ![](assets/new.png)  
 - [2022-09-28-别整一坨-CSS-代码了，试试这几个实用函数](https://toutiao.io/k/46u81xa) ![](assets/new.png)  
 - [2022-09-28-React-我爱你，但你太让我失望了](https://toutiao.io/k/cd6gsqc) ![](assets/new.png)  
 - [2022-09-28-欧盟启动开放Web搜索项目，希望替代Google](https://toutiao.io/k/dvtqnmv) ![](assets/new.png)  
@@ -571,8 +571,8 @@
 - [2022-09-28-中美元宇宙基础设施差距有多大？](https://toutiao.io/k/90mmo30) ![](assets/new.png)  
 - [2022-09-28-Dapr-可观测性之分布式追踪](https://toutiao.io/k/pw6mr5x) ![](assets/new.png)  
 - [2022-09-28-实用五步法教会你指标体系的设计与加工丨DTVision分析洞察篇](https://toutiao.io/k/ycgjual) ![](assets/new.png)  
+- [2022-09-28-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) ![](assets/new.png)  
 - [2022-09-28-推荐-1.8w-字的-SQL-优化大全](https://toutiao.io/k/tz7p6nl) ![](assets/new.png)  
-- [2022-09-28-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-28 14:58:29，:rocket: 更新条数: +2025， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-28 15:22:28，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-09-28-macOS-有没有办法实现网页历史版本功能？](https://www.v2ex.com/t/883677) ![](assets/new.png)  
+- [2022-09-28-SQM-QoS-与流量分载驱动的冲突](https://www.v2ex.com/t/883676) ![](assets/new.png)  
+- [2022-09-28-问下这个-ppt-的快捷菜单是怎么弄出来的](https://www.v2ex.com/t/883675) ![](assets/new.png)  
 - [2022-09-28-求一份-Typescript-|-React-|-Flutter-|-Rust-工作](https://www.v2ex.com/t/883674) ![](assets/new.png)  
 - [2022-09-28-虚拟出来的网卡、磁盘等设备，什么情况下会受到虚拟的接口等设备的影响被限制速度？](https://www.v2ex.com/t/883673) ![](assets/new.png)  
 - [2022-09-28-深圳哪里有打乒乓球人比较多的地方？](https://www.v2ex.com/t/883672) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-09-28-网岗协议真是老旧路由器的救星](https://www.v2ex.com/t/883657) ![](assets/new.png)  
 - [2022-09-28-闲置一些资金，想找个-idea，合作。](https://www.v2ex.com/t/883656) ![](assets/new.png)  
 - [2022-09-28-把酸奶和纯奶混在一起](https://www.v2ex.com/t/883655) ![](assets/new.png)  
-- [2022-09-28-深圳宠物科技创业公司-MoeGo-招聘-Web-前端/-Java-后端/测试](https://www.v2ex.com/t/883654) ![](assets/new.png)  
-- [2022-09-28-如何让每个标签页拥有自己的沙盒](https://www.v2ex.com/t/883653) ![](assets/new.png)  
-- [2022-09-28-不用代理如何防止网站根据-ip-跳转不同语言页面](https://www.v2ex.com/t/883651) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,7 +572,7 @@
 - [2022-09-28-Dapr-可观测性之分布式追踪](https://toutiao.io/k/pw6mr5x) ![](assets/new.png)  
 - [2022-09-28-实用五步法教会你指标体系的设计与加工丨DTVision分析洞察篇](https://toutiao.io/k/ycgjual) ![](assets/new.png)  
 - [2022-09-28-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) ![](assets/new.png)  
-- [2022-09-28-推荐-1.8w-字的-SQL-优化大全](https://toutiao.io/k/tz7p6nl) ![](assets/new.png)  
+- [2022-09-28-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

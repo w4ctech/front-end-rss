@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-28 11:45:13，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-28 12:31:53，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-09-28-有在银行做开发的老哥吗？问几个问题](https://www.v2ex.com/t/883649) ![](assets/new.png)  
+- [2022-09-28-搞不明白-16G-内存都被啥吃了？](https://www.v2ex.com/t/883648) ![](assets/new.png)  
+- [2022-09-28-一个外行想基于兴趣学一下编程，总感觉力不从心是怎么回事呢？](https://www.v2ex.com/t/883647) ![](assets/new.png)  
+- [2022-09-28-有人试过坐顺风车带狗吗？](https://www.v2ex.com/t/883646) ![](assets/new.png)  
+- [2022-09-28-vitepress-部署项目文档到-Github-pages-丢失样式与路由问题](https://www.v2ex.com/t/883645) ![](assets/new.png)  
 - [2022-09-28-Jellyfin-各种中文乱码怎么解决？或者有没有更好的替代平台？](https://www.v2ex.com/t/883642) ![](assets/new.png)  
 - [2022-09-28-有同时用过企业微信邮箱和飞书邮箱的同学吗？](https://www.v2ex.com/t/883641) ![](assets/new.png)  
 - [2022-09-28-某地降发工资的传闻](https://www.v2ex.com/t/883638) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-09-28-求教：有哪些-HHKB-布局的键盘](https://www.v2ex.com/t/883627) ![](assets/new.png)  
 - [2022-09-28-国内能做空美元指数吗?](https://www.v2ex.com/t/883625) ![](assets/new.png)  
 - [2022-09-28-我思考这个问题很久了](https://www.v2ex.com/t/883624) ![](assets/new.png)  
-- [2022-09-28-垃圾汽车之家是怎么拿到我的手机号的?](https://www.v2ex.com/t/883623) ![](assets/new.png)  
-- [2022-09-28-miui12.0.2-安装了-google-应用，但是在桌面没有显示](https://www.v2ex.com/t/883622) ![](assets/new.png)  
-- [2022-09-28-亲测目前2022.9微信-CallKit-还是可以通过换绑手机号打开的](https://www.v2ex.com/t/883620) ![](assets/new.png)  
-- [2022-09-28-blazor-写的网页有办法在不用-tauri-/-electron-这类技术的情况下打包成原生-windows-客户端吗](https://www.v2ex.com/t/883619) ![](assets/new.png)  
-- [2022-09-28-现在这个时间点有必要买雷电-4-拓展坞吗？](https://www.v2ex.com/t/883618) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -565,14 +565,14 @@
 - [2022-09-28-面向快速反应的工程团队--QRF团队模型](https://toutiao.io/k/5d6f5ak) ![](assets/new.png)  
 - [2022-09-28-别整一坨-CSS-代码了，试试这几个实用函数](https://toutiao.io/k/46u81xa) ![](assets/new.png)  
 - [2022-09-28-React-我爱你，但你太让我失望了](https://toutiao.io/k/cd6gsqc) ![](assets/new.png)  
-- [2022-09-28-欧盟启动开放Web搜索项目，希望替代Google](https://toutiao.io/k/dvtqnmv) ![](assets/new.png)  
 - [2022-09-28-一个网站部署的完整流程（包教包会）](https://toutiao.io/k/a6pkz6m) ![](assets/new.png)  
+- [2022-09-28-欧盟启动开放Web搜索项目，希望替代Google](https://toutiao.io/k/dvtqnmv) ![](assets/new.png)  
 - [2022-09-28-编写里程碑报告的几点建议](https://toutiao.io/k/3endmfj) ![](assets/new.png)  
 - [2022-09-28-中美元宇宙基础设施差距有多大？](https://toutiao.io/k/90mmo30) ![](assets/new.png)  
 - [2022-09-28-Dapr-可观测性之分布式追踪](https://toutiao.io/k/pw6mr5x) ![](assets/new.png)  
 - [2022-09-28-实用五步法教会你指标体系的设计与加工丨DTVision分析洞察篇](https://toutiao.io/k/ycgjual) ![](assets/new.png)  
-- [2022-09-28-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) ![](assets/new.png)  
 - [2022-09-28-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) ![](assets/new.png)  
+- [2022-09-28-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

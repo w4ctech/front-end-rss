@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-28 01:19:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-28 04:02:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 游戏开发
 
@@ -6,5 +6,3 @@
 > 关键字：`游戏`、`Three.js`、`Create.js`、`Matter.js`
 
 
-
-- [2022-09-27-现在对未成年游戏充值都有限制吗？](https://www.v2ex.com/t/883415) 

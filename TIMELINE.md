@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-28 07:58:09。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-09-28 08:23:19。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -72,6 +72,12 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [【V2EX】2022-09-28-今年国庆不开无限火力了?](https://www.v2ex.com/t/883582) 
+- [【V2EX】2022-09-28-N-年不用小米账号，登录实名认证的问题。](https://www.v2ex.com/t/883581) 
+- [【V2EX】2022-09-28-求抄一套-GPU-服务器的方案，预算-4-5w（包税），装两到三台](https://www.v2ex.com/t/883580) 
+- [【V2EX】2022-09-28-菜鸟提问，有关-Threadlocal-的问题](https://www.v2ex.com/t/883578) 
+- [【V2EX】2022-09-28-关于-pandas-的-apply-性能的一些疑惑](https://www.v2ex.com/t/883577) 
+- [【V2EX】2022-09-28-请诸位推荐个套餐](https://www.v2ex.com/t/883575) 
 - [【V2EX】2022-09-28-分享经验，-2022-年十一假期出行，如何避免防疫一刀切-&-合理计划出行](https://www.v2ex.com/t/883572) 
 - [【V2EX】2022-09-28-cloudflare-workerd-已开源](https://www.v2ex.com/t/883571) 
 - [【V2EX】2022-09-28-为啥要有-HttpUtility.UrlEncode-这样的方法存在](https://www.v2ex.com/t/883570) 
@@ -101,13 +107,6 @@
 - [【V2EX】2022-09-28-什么需求不得不用-redux-这种全局状态管理工具](https://www.v2ex.com/t/883539) 
 - [【V2EX】2022-09-28-metacity-游戏服务端框架-demo-上线拉](https://www.v2ex.com/t/883536) 
 - [【V2EX】2022-09-28-mac-挂载-nfs-或者其他网络盘，像本地盘一样使用](https://www.v2ex.com/t/883535) 
-- [【V2EX】2022-09-28-保管站给我电动车贴了一个贴纸，进出就能自动抬杆了，是什么技术？](https://www.v2ex.com/t/883532) 
-- [【V2EX】2022-09-28-Web3---golang-后端工程师（这个岗位要在北京望京南线下办公哦）](https://www.v2ex.com/t/883531) 
-- [【V2EX】2022-09-28-钉钉-iPhone-14-Pro-顶栏重叠](https://www.v2ex.com/t/883529) 
-- [【V2EX】2022-09-28-请求异常，求老铁们提供点排查思路](https://www.v2ex.com/t/883528) 
-- [【V2EX】2022-09-28-Caldigit-TS3-Plus-现在还值得入手吗？](https://www.v2ex.com/t/883527) 
-- [【V2EX】2022-09-28-用-Golang-+-Vue3-写了一个-HTTP-的-WOL-唤醒和关机](https://www.v2ex.com/t/883526) 
-- [【V2EX】2022-09-28-Go-实现-K8S-多集群管理平台、-Java-应用诊断](https://www.v2ex.com/t/883525) 
 - [【技术头条】2022-09-28-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-28-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-28-技术改变了什么？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15400&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fpower-of-technology%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -139,16 +138,16 @@
 - [【开发者头条】2022-09-28-面向快速反应的工程团队--QRF团队模型](https://toutiao.io/k/5d6f5ak) 
 - [【开发者头条】2022-09-28-我是怎么读代码的](https://toutiao.io/k/97351s2) 
 - [【开发者头条】2022-09-28-React-我爱你，但你太让我失望了](https://toutiao.io/k/cd6gsqc) 
-- [【开发者头条】2022-09-28-欧盟启动开放Web搜索项目，希望替代Google](https://toutiao.io/k/dvtqnmv) 
 - [【开发者头条】2022-09-28-别整一坨-CSS-代码了，试试这几个实用函数](https://toutiao.io/k/46u81xa) 
-- [【开发者头条】2022-09-28-中美元宇宙基础设施差距有多大？](https://toutiao.io/k/90mmo30) 
+- [【开发者头条】2022-09-28-欧盟启动开放Web搜索项目，希望替代Google](https://toutiao.io/k/dvtqnmv) 
 - [【开发者头条】2022-09-28-编写里程碑报告的几点建议](https://toutiao.io/k/3endmfj) 
+- [【开发者头条】2022-09-28-中美元宇宙基础设施差距有多大？](https://toutiao.io/k/90mmo30) 
 - [【开发者头条】2022-09-28-一个网站部署的完整流程（包教包会）](https://toutiao.io/k/a6pkz6m) 
 - [【开发者头条】2022-09-28-Dapr-可观测性之分布式追踪](https://toutiao.io/k/pw6mr5x) 
 - [【开发者头条】2022-09-28-实用五步法教会你指标体系的设计与加工丨DTVision分析洞察篇](https://toutiao.io/k/ycgjual) 
+- [【开发者头条】2022-09-28-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) 
 - [【开发者头条】2022-09-28-推荐-1.8w-字的-SQL-优化大全](https://toutiao.io/k/tz7p6nl) 
 - [【开发者头条】2022-09-28-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) 
-- [【开发者头条】2022-09-28-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-28 07:58:09，:rocket: 更新条数: +2023， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-28 08:23:19，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-09-28-今年国庆不开无限火力了?](https://www.v2ex.com/t/883582) ![](assets/new.png)  
+- [2022-09-28-N-年不用小米账号，登录实名认证的问题。](https://www.v2ex.com/t/883581) ![](assets/new.png)  
+- [2022-09-28-求抄一套-GPU-服务器的方案，预算-4-5w（包税），装两到三台](https://www.v2ex.com/t/883580) ![](assets/new.png)  
+- [2022-09-28-菜鸟提问，有关-Threadlocal-的问题](https://www.v2ex.com/t/883578) ![](assets/new.png)  
+- [2022-09-28-关于-pandas-的-apply-性能的一些疑惑](https://www.v2ex.com/t/883577) ![](assets/new.png)  
+- [2022-09-28-请诸位推荐个套餐](https://www.v2ex.com/t/883575) ![](assets/new.png)  
 - [2022-09-28-分享经验，-2022-年十一假期出行，如何避免防疫一刀切-&-合理计划出行](https://www.v2ex.com/t/883572) ![](assets/new.png)  
 - [2022-09-28-cloudflare-workerd-已开源](https://www.v2ex.com/t/883571) ![](assets/new.png)  
 - [2022-09-28-为啥要有-HttpUtility.UrlEncode-这样的方法存在](https://www.v2ex.com/t/883570) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-09-28-有无懂哥，-Apple-Watch-和-iPhone-阉割功能的问题。](https://www.v2ex.com/t/883558) ![](assets/new.png)  
 - [2022-09-28-想趁着国庆假期拔智齿有医院推荐的吗](https://www.v2ex.com/t/883557) ![](assets/new.png)  
 - [2022-09-28-2022-年了，-Photoshop-怎么还这么慢？](https://www.v2ex.com/t/883556) ![](assets/new.png)  
-- [2022-09-28-关于-https-网站加载-http-资源自动升级的问题](https://www.v2ex.com/t/883555) ![](assets/new.png)  
-- [2022-09-28-Web3-产品经理/运营经理（这个岗位需要北京望京南线下办公哦）](https://www.v2ex.com/t/883554) ![](assets/new.png)  
-- [2022-09-28-换手机不换手表，请问有老铁操作过么？](https://www.v2ex.com/t/883553) ![](assets/new.png)  
-- [2022-09-28-并夕夕的-mbp-寸-16+512-已经来到-11698-了，是上车的好机会么？](https://www.v2ex.com/t/883552) ![](assets/new.png)  
-- [2022-09-28-Linux-之父-Linus-Torvalds-获颁英特尔首个终身成就创新奖](https://www.v2ex.com/t/883551) ![](assets/new.png)  
-- [2022-09-28-一名无亲友萌新奶德的疑问](https://www.v2ex.com/t/883550) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,15 +564,15 @@
 - [2022-09-28-面向快速反应的工程团队--QRF团队模型](https://toutiao.io/k/5d6f5ak) ![](assets/new.png)  
 - [2022-09-28-我是怎么读代码的](https://toutiao.io/k/97351s2) ![](assets/new.png)  
 - [2022-09-28-React-我爱你，但你太让我失望了](https://toutiao.io/k/cd6gsqc) ![](assets/new.png)  
-- [2022-09-28-欧盟启动开放Web搜索项目，希望替代Google](https://toutiao.io/k/dvtqnmv) ![](assets/new.png)  
 - [2022-09-28-别整一坨-CSS-代码了，试试这几个实用函数](https://toutiao.io/k/46u81xa) ![](assets/new.png)  
-- [2022-09-28-中美元宇宙基础设施差距有多大？](https://toutiao.io/k/90mmo30) ![](assets/new.png)  
+- [2022-09-28-欧盟启动开放Web搜索项目，希望替代Google](https://toutiao.io/k/dvtqnmv) ![](assets/new.png)  
 - [2022-09-28-编写里程碑报告的几点建议](https://toutiao.io/k/3endmfj) ![](assets/new.png)  
+- [2022-09-28-中美元宇宙基础设施差距有多大？](https://toutiao.io/k/90mmo30) ![](assets/new.png)  
 - [2022-09-28-一个网站部署的完整流程（包教包会）](https://toutiao.io/k/a6pkz6m) ![](assets/new.png)  
 - [2022-09-28-Dapr-可观测性之分布式追踪](https://toutiao.io/k/pw6mr5x) ![](assets/new.png)  
 - [2022-09-28-实用五步法教会你指标体系的设计与加工丨DTVision分析洞察篇](https://toutiao.io/k/ycgjual) ![](assets/new.png)  
+- [2022-09-28-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) ![](assets/new.png)  
 - [2022-09-28-推荐-1.8w-字的-SQL-优化大全](https://toutiao.io/k/tz7p6nl) ![](assets/new.png)  
-- [2022-09-28-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

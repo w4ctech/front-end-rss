@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-28 07:58:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-28 08:23:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -15,5 +15,4 @@
 - [2021-01-01-大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html) 
 - [2022-09-28-为啥要有-HttpUtility.UrlEncode-这样的方法存在](https://www.v2ex.com/t/883570) 
 - [2022-09-28-Chrome-106-终于默认开启-HEVC-硬解了](https://www.v2ex.com/t/883548) 
-- [2022-09-28-请求异常，求老铁们提供点排查思路](https://www.v2ex.com/t/883528) 
 - [2022-09-28-阿里开源，超强大的-Kubernetes-本地调试工具-Kt-Connect-使用指南](https://toutiao.io/k/7x0lmf5) 

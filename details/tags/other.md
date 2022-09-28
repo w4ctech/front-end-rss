@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-28 07:31:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-28 07:58:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1914,6 +1914,7 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-09-28-分享经验，-2022-年十一假期出行，如何避免防疫一刀切-&-合理计划出行](https://www.v2ex.com/t/883572) 
 - [2022-09-28-有熟悉天津的-v2er-吗，天津海教园的房子还能买吗，有没有坑？](https://www.v2ex.com/t/883568) 
 - [2022-09-28-万能的-V-友们，请问如何可以造成显示器非人为的损坏？](https://www.v2ex.com/t/883567) 
 - [2022-09-28-妙记多---更好用的笔记协作平台](https://www.v2ex.com/t/883566) 
@@ -1936,10 +1937,6 @@
 - [2022-09-28-Web3---golang-后端工程师（这个岗位要在北京望京南线下办公哦）](https://www.v2ex.com/t/883531) 
 - [2022-09-28-钉钉-iPhone-14-Pro-顶栏重叠](https://www.v2ex.com/t/883529) 
 - [2022-09-28-Go-实现-K8S-多集群管理平台、-Java-应用诊断](https://www.v2ex.com/t/883525) 
-- [2022-09-28-哈希冲撞的可能性](https://www.v2ex.com/t/883524) 
-- [2022-09-28-V2EX-的-2FA-是不是有-bug？](https://www.v2ex.com/t/883523) 
-- [2022-09-28-一个产品点子：快速找到自己的快递](https://www.v2ex.com/t/883521) 
-- [2022-09-28-就是。对方的车在路上突然停下来追上尾了。这个怎么判呀？](https://www.v2ex.com/t/883520) 
 - [2022-09-28-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-28-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-28-技术改变了什么？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15400&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fpower-of-technology%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1959,8 +1956,8 @@
 - [2022-09-28-如何在笔记本电脑合盖时不挂起-Ubuntu-linux.cn](https://blogread.cn/news/go.php?idItem=15384&url=https%3A%2F%2Flinux.cn%2Farticle-15015-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-28-爬虫与反爬虫技术简介](https://toutiao.io/k/3nzj08n) 
 - [2022-09-28-一款优秀数据库中间件的不完全解析](https://toutiao.io/k/48qinmp) 
-- [2022-09-28-行业方案｜“医疗”行业智能运维解决方案介绍](https://toutiao.io/k/3ogc4zn) 
 - [2022-09-28-Redis-持久化策略浅析](https://toutiao.io/k/7rzfcpe) 
+- [2022-09-28-行业方案｜“医疗”行业智能运维解决方案介绍](https://toutiao.io/k/3ogc4zn) 
 - [2022-09-28-面向快速反应的工程团队--QRF团队模型](https://toutiao.io/k/5d6f5ak) 
 - [2022-09-28-我是怎么读代码的](https://toutiao.io/k/97351s2) 
 - [2022-09-28-欧盟启动开放Web搜索项目，希望替代Google](https://toutiao.io/k/dvtqnmv) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-28 08:23:19，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-28 08:58:33，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,26 +491,26 @@
 </summary>
 
 
+- [2022-09-28-你们的-github-copilot-是如何连接的？](https://www.v2ex.com/t/883599) ![](assets/new.png)  
+- [2022-09-28-固态硬盘盒与移动固态硬盘成品性价比比较](https://www.v2ex.com/t/883598) ![](assets/new.png)  
+- [2022-09-28-老人看剧设备后续---iPad-方案的"缺陷"](https://www.v2ex.com/t/883597) ![](assets/new.png)  
+- [2022-09-28-有没有电子照片/银行卡管理的-app？](https://www.v2ex.com/t/883596) ![](assets/new.png)  
+- [2022-09-28-基于现在云服务器价格高涨，组团购买服务器并进行托管替代云服务器的方式可行吗？](https://www.v2ex.com/t/883595) ![](assets/new.png)  
+- [2022-09-28-Web3-产品经理-/-运营经理-两个岗位都有-hc（这个岗位需要北京望京南线下办公哦）](https://www.v2ex.com/t/883594) ![](assets/new.png)  
+- [2022-09-28-杭州电信宽带好像悄悄提升了上传？](https://www.v2ex.com/t/883593) ![](assets/new.png)  
+- [2022-09-28-代友发帖--征男友](https://www.v2ex.com/t/883592) ![](assets/new.png)  
+- [2022-09-28-求助！-ssh-登录报错](https://www.v2ex.com/t/883591) ![](assets/new.png)  
+- [2022-09-28-mac-studio-ultra-没有想象中强啊？](https://www.v2ex.com/t/883589) ![](assets/new.png)  
+- [2022-09-28-目前-Linux-下对-ms-office-排版兼容最好的是哪个软件](https://www.v2ex.com/t/883588) ![](assets/new.png)  
+- [2022-09-28-在小程序里用上-Composition-API](https://www.v2ex.com/t/883587) ![](assets/new.png)  
+- [2022-09-28-以无法找到精确对应为由-在中文中夹杂英语是一种傲慢](https://www.v2ex.com/t/883586) ![](assets/new.png)  
+- [2022-09-28-求一份-Java-远程开发工作](https://www.v2ex.com/t/883585) ![](assets/new.png)  
+- [2022-09-28-tricorder.dev-UI-设计师-Contractor（远程）](https://www.v2ex.com/t/883584) ![](assets/new.png)  
+- [2022-09-28-我在马路上扫共享单车，竟然能连上公司-5-楼窗台附近的-wifi。](https://www.v2ex.com/t/883583) ![](assets/new.png)  
 - [2022-09-28-今年国庆不开无限火力了?](https://www.v2ex.com/t/883582) ![](assets/new.png)  
 - [2022-09-28-N-年不用小米账号，登录实名认证的问题。](https://www.v2ex.com/t/883581) ![](assets/new.png)  
 - [2022-09-28-求抄一套-GPU-服务器的方案，预算-4-5w（包税），装两到三台](https://www.v2ex.com/t/883580) ![](assets/new.png)  
 - [2022-09-28-菜鸟提问，有关-Threadlocal-的问题](https://www.v2ex.com/t/883578) ![](assets/new.png)  
-- [2022-09-28-关于-pandas-的-apply-性能的一些疑惑](https://www.v2ex.com/t/883577) ![](assets/new.png)  
-- [2022-09-28-请诸位推荐个套餐](https://www.v2ex.com/t/883575) ![](assets/new.png)  
-- [2022-09-28-分享经验，-2022-年十一假期出行，如何避免防疫一刀切-&-合理计划出行](https://www.v2ex.com/t/883572) ![](assets/new.png)  
-- [2022-09-28-cloudflare-workerd-已开源](https://www.v2ex.com/t/883571) ![](assets/new.png)  
-- [2022-09-28-为啥要有-HttpUtility.UrlEncode-这样的方法存在](https://www.v2ex.com/t/883570) ![](assets/new.png)  
-- [2022-09-28-有熟悉天津的-v2er-吗，天津海教园的房子还能买吗，有没有坑？](https://www.v2ex.com/t/883568) ![](assets/new.png)  
-- [2022-09-28-万能的-V-友们，请问如何可以造成显示器非人为的损坏？](https://www.v2ex.com/t/883567) ![](assets/new.png)  
-- [2022-09-28-妙记多---更好用的笔记协作平台](https://www.v2ex.com/t/883566) ![](assets/new.png)  
-- [2022-09-28-求助：上不了微软有关的网页，提示证书错误](https://www.v2ex.com/t/883565) ![](assets/new.png)  
-- [2022-09-28-html2canvas-如何合成图片，-DOM-带-video-标签的实时画面？](https://www.v2ex.com/t/883563) ![](assets/new.png)  
-- [2022-09-28-MacOS-自带的截图功能，如果选择保存到剪贴板，如何能先编辑后再保存到剪贴板？](https://www.v2ex.com/t/883562) ![](assets/new.png)  
-- [2022-09-28-我太菜了，想用-NGINX-搞个-webdav，搞了一下午没搞好](https://www.v2ex.com/t/883561) ![](assets/new.png)  
-- [2022-09-28-阿里云请的都是傻子吗？](https://www.v2ex.com/t/883560) ![](assets/new.png)  
-- [2022-09-28-有无懂哥，-Apple-Watch-和-iPhone-阉割功能的问题。](https://www.v2ex.com/t/883558) ![](assets/new.png)  
-- [2022-09-28-想趁着国庆假期拔智齿有医院推荐的吗](https://www.v2ex.com/t/883557) ![](assets/new.png)  
-- [2022-09-28-2022-年了，-Photoshop-怎么还这么慢？](https://www.v2ex.com/t/883556) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,7 +572,7 @@
 - [2022-09-28-Dapr-可观测性之分布式追踪](https://toutiao.io/k/pw6mr5x) ![](assets/new.png)  
 - [2022-09-28-实用五步法教会你指标体系的设计与加工丨DTVision分析洞察篇](https://toutiao.io/k/ycgjual) ![](assets/new.png)  
 - [2022-09-28-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) ![](assets/new.png)  
-- [2022-09-28-推荐-1.8w-字的-SQL-优化大全](https://toutiao.io/k/tz7p6nl) ![](assets/new.png)  
+- [2022-09-28-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

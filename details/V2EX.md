@@ -1,10 +1,26 @@
-:alarm_clock: 更新时间: 2022-09-28 08:23:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-28 08:58:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-09-28-你们的-github-copilot-是如何连接的？](https://www.v2ex.com/t/883599) 
+- [2022-09-28-固态硬盘盒与移动固态硬盘成品性价比比较](https://www.v2ex.com/t/883598) 
+- [2022-09-28-老人看剧设备后续---iPad-方案的"缺陷"](https://www.v2ex.com/t/883597) 
+- [2022-09-28-有没有电子照片/银行卡管理的-app？](https://www.v2ex.com/t/883596) 
+- [2022-09-28-基于现在云服务器价格高涨，组团购买服务器并进行托管替代云服务器的方式可行吗？](https://www.v2ex.com/t/883595) 
+- [2022-09-28-Web3-产品经理-/-运营经理-两个岗位都有-hc（这个岗位需要北京望京南线下办公哦）](https://www.v2ex.com/t/883594) 
+- [2022-09-28-杭州电信宽带好像悄悄提升了上传？](https://www.v2ex.com/t/883593) 
+- [2022-09-28-代友发帖--征男友](https://www.v2ex.com/t/883592) 
+- [2022-09-28-求助！-ssh-登录报错](https://www.v2ex.com/t/883591) 
+- [2022-09-28-mac-studio-ultra-没有想象中强啊？](https://www.v2ex.com/t/883589) 
+- [2022-09-28-目前-Linux-下对-ms-office-排版兼容最好的是哪个软件](https://www.v2ex.com/t/883588) 
+- [2022-09-28-在小程序里用上-Composition-API](https://www.v2ex.com/t/883587) 
+- [2022-09-28-以无法找到精确对应为由-在中文中夹杂英语是一种傲慢](https://www.v2ex.com/t/883586) 
+- [2022-09-28-求一份-Java-远程开发工作](https://www.v2ex.com/t/883585) 
+- [2022-09-28-tricorder.dev-UI-设计师-Contractor（远程）](https://www.v2ex.com/t/883584) 
+- [2022-09-28-我在马路上扫共享单车，竟然能连上公司-5-楼窗台附近的-wifi。](https://www.v2ex.com/t/883583) 
 - [2022-09-28-今年国庆不开无限火力了?](https://www.v2ex.com/t/883582) 
 - [2022-09-28-N-年不用小米账号，登录实名认证的问题。](https://www.v2ex.com/t/883581) 
 - [2022-09-28-求抄一套-GPU-服务器的方案，预算-4-5w（包税），装两到三台](https://www.v2ex.com/t/883580) 
@@ -31,12 +47,3 @@
 - [2022-09-28-并夕夕的-mbp-寸-16+512-已经来到-11698-了，是上车的好机会么？](https://www.v2ex.com/t/883552) 
 - [2022-09-28-Linux-之父-Linus-Torvalds-获颁英特尔首个终身成就创新奖](https://www.v2ex.com/t/883551) 
 - [2022-09-28-一名无亲友萌新奶德的疑问](https://www.v2ex.com/t/883550) 
-- [2022-09-28-Surface-Go3-智能充电模式感觉挺有意思](https://www.v2ex.com/t/883549) 
-- [2022-09-28-Chrome-106-终于默认开启-HEVC-硬解了](https://www.v2ex.com/t/883548) 
-- [2022-09-28-有没有会做招商银行平台小程序的个人或者团队？](https://www.v2ex.com/t/883546) 
-- [2022-09-28-请问有支持被手机输出竖屏的显示器吗？](https://www.v2ex.com/t/883545) 
-- [2022-09-28-Visual-Studio-Code-Python-–-2022-年-9-月更新-Flake8、jupyter-中的-IntelliSense](https://www.v2ex.com/t/883542) 
-- [2022-09-28-央企-华润-base-郑州。招聘产品、-Java-、QA-测试、UX、前端开发](https://www.v2ex.com/t/883540) 
-- [2022-09-28-什么需求不得不用-redux-这种全局状态管理工具](https://www.v2ex.com/t/883539) 
-- [2022-09-28-metacity-游戏服务端框架-demo-上线拉](https://www.v2ex.com/t/883536) 
-- [2022-09-28-mac-挂载-nfs-或者其他网络盘，像本地盘一样使用](https://www.v2ex.com/t/883535) 

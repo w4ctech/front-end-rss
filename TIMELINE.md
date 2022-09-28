@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-28 15:54:40。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-09-28 16:27:00。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -72,6 +72,8 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [【V2EX】2022-09-28-请问，什么样的字符串-能被邮箱的编辑页面（富文本）识别为表格。](https://www.v2ex.com/t/883687) 
+- [【V2EX】2022-09-28-突然发现-play-版-QQ-已经被断网了](https://www.v2ex.com/t/883686) 
 - [【V2EX】2022-09-28-Mac-版-Google-Drive-突然无法直接在线预览视频文件了](https://www.v2ex.com/t/883684) 
 - [【V2EX】2022-09-28-宽带欠费后居然可以通过-ipv6-免费上网](https://www.v2ex.com/t/883681) 
 - [【V2EX】2022-09-28-做初级工程师（-1～-3-年）面试辅导有市场么？](https://www.v2ex.com/t/883680) 
@@ -108,8 +110,6 @@
 - [【V2EX】2022-09-28-vitepress-部署项目文档到-Github-pages-丢失样式与路由问题](https://www.v2ex.com/t/883645) 
 - [【V2EX】2022-09-28-Jellyfin-各种中文乱码怎么解决？或者有没有更好的替代平台？](https://www.v2ex.com/t/883642) 
 - [【V2EX】2022-09-28-有同时用过企业微信邮箱和飞书邮箱的同学吗？](https://www.v2ex.com/t/883641) 
-- [【V2EX】2022-09-28-zsh-下-`typeset`-命令的用法以及变量赋值时的不同表现](https://www.v2ex.com/t/883636) 
-- [【V2EX】2022-09-28-中国天气网这是怎么了？](https://www.v2ex.com/t/883635) 
 - [【技术头条】2022-09-28-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-28-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-28-技术改变了什么？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15400&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fpower-of-technology%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -130,27 +130,9 @@
 - [【技术头条】2022-09-28-10-大可以摧毁你的-Linux-的命令-linux.cn](https://blogread.cn/news/go.php?idItem=15385&url=https%3A%2F%2Flinux.cn%2Farticle-15022-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-28-如何在笔记本电脑合盖时不挂起-Ubuntu-linux.cn](https://blogread.cn/news/go.php?idItem=15384&url=https%3A%2F%2Flinux.cn%2Farticle-15015-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-28-整洁架构之CSS-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15383&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fclean-architecture-css%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [【开发者头条】2022-09-28-性能优化必备——火焰图](https://toutiao.io/k/azf7ub6) 
-- [【开发者头条】2022-09-28-慢查询-MySQL-定位优化技巧，从10s优化到300ms](https://toutiao.io/k/3re4xuy) 
-- [【开发者头条】2022-09-28-爬虫与反爬虫技术简介](https://toutiao.io/k/3nzj08n) 
-- [【开发者头条】2022-09-28-阿里开源，超强大的-Kubernetes-本地调试工具-Kt-Connect-使用指南](https://toutiao.io/k/7x0lmf5) 
-- [【开发者头条】2022-09-28-一款优秀数据库中间件的不完全解析](https://toutiao.io/k/48qinmp) 
-- [【开发者头条】2022-09-28-Redis-持久化策略浅析](https://toutiao.io/k/7rzfcpe) 
-- [【开发者头条】2022-09-28-重磅-|-死磕-Elasticsearch-8.X-方法论认知清单（2022年国庆更新版）](https://toutiao.io/k/esdjnzc) 
-- [【开发者头条】2022-09-28-行业方案｜“医疗”行业智能运维解决方案介绍](https://toutiao.io/k/3ogc4zn) 
-- [【开发者头条】2022-09-28-我是怎么读代码的](https://toutiao.io/k/97351s2) 
-- [【开发者头条】2022-09-28-面向快速反应的工程团队--QRF团队模型](https://toutiao.io/k/5d6f5ak) 
-- [【开发者头条】2022-09-28-别整一坨-CSS-代码了，试试这几个实用函数](https://toutiao.io/k/46u81xa) 
-- [【开发者头条】2022-09-28-React-我爱你，但你太让我失望了](https://toutiao.io/k/cd6gsqc) 
-- [【开发者头条】2022-09-28-一个网站部署的完整流程（包教包会）](https://toutiao.io/k/a6pkz6m) 
-- [【开发者头条】2022-09-28-编写里程碑报告的几点建议](https://toutiao.io/k/3endmfj) 
-- [【开发者头条】2022-09-28-欧盟启动开放Web搜索项目，希望替代Google](https://toutiao.io/k/dvtqnmv) 
-- [【开发者头条】2022-09-28-中美元宇宙基础设施差距有多大？](https://toutiao.io/k/90mmo30) 
-- [【开发者头条】2022-09-28-Dapr-可观测性之分布式追踪](https://toutiao.io/k/pw6mr5x) 
-- [【开发者头条】2022-09-28-实用五步法教会你指标体系的设计与加工丨DTVision分析洞察篇](https://toutiao.io/k/ycgjual) 
-- [【开发者头条】2022-09-28-推荐-1.8w-字的-SQL-优化大全](https://toutiao.io/k/tz7p6nl) 
-- [【开发者头条】2022-09-28-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) 
+- [【开发者头条】2022-09-28-如何利用mysql5.7提供的虚拟列来提高查询效率](https://toutiao.io/k/o8wbfmb) 
 - [【开发者头条】2022-09-28-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) 
+- [【开发者头条】2022-09-28-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

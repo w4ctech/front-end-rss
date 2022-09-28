@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-28 23:04:41。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-09-28 23:17:23。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -72,6 +72,7 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [【V2EX】2022-09-28-快-3202-年了，用-chrome-记住密码到底安全了不？](https://www.v2ex.com/t/883693) 
 - [【V2EX】2022-09-28-海康智存-Mage20-有没有人会刷机？](https://www.v2ex.com/t/883692) 
 - [【V2EX】2022-09-28-有人知道全球论坛被封了之后，怎么联系管理员？](https://www.v2ex.com/t/883691) 
 - [【V2EX】2022-09-28-小白配主机，想知道这套配置价格合适不？](https://www.v2ex.com/t/883690) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-28 09:25:34。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-09-28 09:51:42。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -72,6 +72,18 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [【V2EX】2022-09-28-miui12.0.2-安装了-google-应用，但是在桌面没有显示](https://www.v2ex.com/t/883622) 
+- [【V2EX】2022-09-28-亲测目前2022.9微信-CallKit-还是可以通过换绑手机号打开的](https://www.v2ex.com/t/883620) 
+- [【V2EX】2022-09-28-blazor-写的网页有办法在不用-tauri-/-electron-这类技术的情况下打包成原生-windows-客户端吗](https://www.v2ex.com/t/883619) 
+- [【V2EX】2022-09-28-现在这个时间点有必要买雷电-4-拓展坞吗？](https://www.v2ex.com/t/883618) 
+- [【V2EX】2022-09-28-小米-k50-至尊版，-miui13，识别到了-nfc，不能自动打开应用操作，必须用户确认，想跳过确认](https://www.v2ex.com/t/883617) 
+- [【V2EX】2022-09-28-Web3-产品经理-/-运营经理-这两个岗位都有-hc（这个岗位需要北京望京南线下办公哦）](https://www.v2ex.com/t/883616) 
+- [【V2EX】2022-09-28-iPhone-14-pro-有些小-bug，不知道你们有没有遇到过](https://www.v2ex.com/t/883615) 
+- [【V2EX】2022-09-28-都快-2023-年了，微信小程序流量主们过得还好吗？](https://www.v2ex.com/t/883614) 
+- [【V2EX】2022-09-28-为什么-V2EX-的-Today-Top-10-只有五个](https://www.v2ex.com/t/883613) 
+- [【V2EX】2022-09-28-重新定义"关怀"](https://www.v2ex.com/t/883612) 
+- [【V2EX】2022-09-28-现在学习-Android-FrameWork-，想入手一台-google-Pixel-/Nexus-手机，有老哥介绍下吗？](https://www.v2ex.com/t/883611) 
+- [【V2EX】2022-09-28-求-iPad-Air-第三方键盘推荐~](https://www.v2ex.com/t/883610) 
 - [【V2EX】2022-09-28-帮贱内问-北京产品岗有没有推荐？](https://www.v2ex.com/t/883609) 
 - [【V2EX】2022-09-28-山泽的细网线坑坑坑，千兆变百兆](https://www.v2ex.com/t/883608) 
 - [【V2EX】2022-09-28-m2-比-m1-的优势明显吗？](https://www.v2ex.com/t/883607) 
@@ -102,16 +114,6 @@
 - [【V2EX】2022-09-28-菜鸟提问，有关-Threadlocal-的问题](https://www.v2ex.com/t/883578) 
 - [【V2EX】2022-09-28-关于-pandas-的-apply-性能的一些疑惑](https://www.v2ex.com/t/883577) 
 - [【V2EX】2022-09-28-请诸位推荐个套餐](https://www.v2ex.com/t/883575) 
-- [【V2EX】2022-09-28-cloudflare-workerd-已开源](https://www.v2ex.com/t/883571) 
-- [【V2EX】2022-09-28-为啥要有-HttpUtility.UrlEncode-这样的方法存在](https://www.v2ex.com/t/883570) 
-- [【V2EX】2022-09-28-有熟悉天津的-v2er-吗，天津海教园的房子还能买吗，有没有坑？](https://www.v2ex.com/t/883568) 
-- [【V2EX】2022-09-28-万能的-V-友们，请问如何可以造成显示器非人为的损坏？](https://www.v2ex.com/t/883567) 
-- [【V2EX】2022-09-28-妙记多---更好用的笔记协作平台](https://www.v2ex.com/t/883566) 
-- [【V2EX】2022-09-28-求助：上不了微软有关的网页，提示证书错误](https://www.v2ex.com/t/883565) 
-- [【V2EX】2022-09-28-html2canvas-如何合成图片，-DOM-带-video-标签的实时画面？](https://www.v2ex.com/t/883563) 
-- [【V2EX】2022-09-28-MacOS-自带的截图功能，如果选择保存到剪贴板，如何能先编辑后再保存到剪贴板？](https://www.v2ex.com/t/883562) 
-- [【V2EX】2022-09-28-我太菜了，想用-NGINX-搞个-webdav，搞了一下午没搞好](https://www.v2ex.com/t/883561) 
-- [【V2EX】2022-09-28-阿里云请的都是傻子吗？](https://www.v2ex.com/t/883560) 
 - [【技术头条】2022-09-28-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-28-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-28-技术改变了什么？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15400&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fpower-of-technology%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -150,9 +152,9 @@
 - [【开发者头条】2022-09-28-一个网站部署的完整流程（包教包会）](https://toutiao.io/k/a6pkz6m) 
 - [【开发者头条】2022-09-28-Dapr-可观测性之分布式追踪](https://toutiao.io/k/pw6mr5x) 
 - [【开发者头条】2022-09-28-实用五步法教会你指标体系的设计与加工丨DTVision分析洞察篇](https://toutiao.io/k/ycgjual) 
-- [【开发者头条】2022-09-28-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) 
 - [【开发者头条】2022-09-28-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) 
 - [【开发者头条】2022-09-28-推荐-1.8w-字的-SQL-优化大全](https://toutiao.io/k/tz7p6nl) 
+- [【开发者头条】2022-09-28-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

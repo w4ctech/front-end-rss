@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-28 09:25:34，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-28 09:51:42，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,18 @@
 </summary>
 
 
+- [2022-09-28-miui12.0.2-安装了-google-应用，但是在桌面没有显示](https://www.v2ex.com/t/883622) ![](assets/new.png)  
+- [2022-09-28-亲测目前2022.9微信-CallKit-还是可以通过换绑手机号打开的](https://www.v2ex.com/t/883620) ![](assets/new.png)  
+- [2022-09-28-blazor-写的网页有办法在不用-tauri-/-electron-这类技术的情况下打包成原生-windows-客户端吗](https://www.v2ex.com/t/883619) ![](assets/new.png)  
+- [2022-09-28-现在这个时间点有必要买雷电-4-拓展坞吗？](https://www.v2ex.com/t/883618) ![](assets/new.png)  
+- [2022-09-28-小米-k50-至尊版，-miui13，识别到了-nfc，不能自动打开应用操作，必须用户确认，想跳过确认](https://www.v2ex.com/t/883617) ![](assets/new.png)  
+- [2022-09-28-Web3-产品经理-/-运营经理-这两个岗位都有-hc（这个岗位需要北京望京南线下办公哦）](https://www.v2ex.com/t/883616) ![](assets/new.png)  
+- [2022-09-28-iPhone-14-pro-有些小-bug，不知道你们有没有遇到过](https://www.v2ex.com/t/883615) ![](assets/new.png)  
+- [2022-09-28-都快-2023-年了，微信小程序流量主们过得还好吗？](https://www.v2ex.com/t/883614) ![](assets/new.png)  
+- [2022-09-28-为什么-V2EX-的-Today-Top-10-只有五个](https://www.v2ex.com/t/883613) ![](assets/new.png)  
+- [2022-09-28-重新定义"关怀"](https://www.v2ex.com/t/883612) ![](assets/new.png)  
+- [2022-09-28-现在学习-Android-FrameWork-，想入手一台-google-Pixel-/Nexus-手机，有老哥介绍下吗？](https://www.v2ex.com/t/883611) ![](assets/new.png)  
+- [2022-09-28-求-iPad-Air-第三方键盘推荐~](https://www.v2ex.com/t/883610) ![](assets/new.png)  
 - [2022-09-28-帮贱内问-北京产品岗有没有推荐？](https://www.v2ex.com/t/883609) ![](assets/new.png)  
 - [2022-09-28-山泽的细网线坑坑坑，千兆变百兆](https://www.v2ex.com/t/883608) ![](assets/new.png)  
 - [2022-09-28-m2-比-m1-的优势明显吗？](https://www.v2ex.com/t/883607) ![](assets/new.png)  
@@ -499,18 +511,6 @@
 - [2022-09-28-求一份远程的运维工作，-7-年工作经验，熟悉各种云，三年-k8s-运维经验](https://www.v2ex.com/t/883603) ![](assets/new.png)  
 - [2022-09-28-支付宝上的保险价格只需线下的一半](https://www.v2ex.com/t/883602) ![](assets/new.png)  
 - [2022-09-28-magisk-和-lsposed-可能被其他应用控制吗？](https://www.v2ex.com/t/883601) ![](assets/new.png)  
-- [2022-09-28-钉钉真是个垃圾产品，-Mac-客户端群聊点赞动画特效每次重复点开群聊都要刷新一遍是不是太愚蠢了](https://www.v2ex.com/t/883600) ![](assets/new.png)  
-- [2022-09-28-你们的-github-copilot-是如何连接的？](https://www.v2ex.com/t/883599) ![](assets/new.png)  
-- [2022-09-28-固态硬盘盒与移动固态硬盘成品性价比比较](https://www.v2ex.com/t/883598) ![](assets/new.png)  
-- [2022-09-28-老人看剧设备后续---iPad-方案的"缺陷"](https://www.v2ex.com/t/883597) ![](assets/new.png)  
-- [2022-09-28-有没有电子照片/银行卡管理的-app？](https://www.v2ex.com/t/883596) ![](assets/new.png)  
-- [2022-09-28-基于现在云服务器价格高涨，组团购买服务器并进行托管替代云服务器的方式可行吗？](https://www.v2ex.com/t/883595) ![](assets/new.png)  
-- [2022-09-28-Web3-产品经理-/-运营经理-两个岗位都有-hc（这个岗位需要北京望京南线下办公哦）](https://www.v2ex.com/t/883594) ![](assets/new.png)  
-- [2022-09-28-杭州电信宽带好像悄悄提升了上传？](https://www.v2ex.com/t/883593) ![](assets/new.png)  
-- [2022-09-28-代友发帖--征男友](https://www.v2ex.com/t/883592) ![](assets/new.png)  
-- [2022-09-28-求助！-ssh-登录报错](https://www.v2ex.com/t/883591) ![](assets/new.png)  
-- [2022-09-28-mac-studio-ultra-没有想象中强啊？](https://www.v2ex.com/t/883589) ![](assets/new.png)  
-- [2022-09-28-目前-Linux-下对-ms-office-排版兼容最好的是哪个软件](https://www.v2ex.com/t/883588) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -571,8 +571,8 @@
 - [2022-09-28-一个网站部署的完整流程（包教包会）](https://toutiao.io/k/a6pkz6m) ![](assets/new.png)  
 - [2022-09-28-Dapr-可观测性之分布式追踪](https://toutiao.io/k/pw6mr5x) ![](assets/new.png)  
 - [2022-09-28-实用五步法教会你指标体系的设计与加工丨DTVision分析洞察篇](https://toutiao.io/k/ycgjual) ![](assets/new.png)  
-- [2022-09-28-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) ![](assets/new.png)  
 - [2022-09-28-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) ![](assets/new.png)  
+- [2022-09-28-推荐-1.8w-字的-SQL-优化大全](https://toutiao.io/k/tz7p6nl) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-28 22:17:09，:rocket: 更新条数: +2009， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-28 22:47:33，:rocket: 更新条数: +2009， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-09-28-海康智存-Mage20-有没有人会刷机？](https://www.v2ex.com/t/883692) ![](assets/new.png)  
 - [2022-09-28-有人知道全球论坛被封了之后，怎么联系管理员？](https://www.v2ex.com/t/883691) ![](assets/new.png)  
 - [2022-09-28-小白配主机，想知道这套配置价格合适不？](https://www.v2ex.com/t/883690) ![](assets/new.png)  
 - [2022-09-28-突然发现京东已经开始部分-AVIF-了](https://www.v2ex.com/t/883689) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-09-28-使用-Elpass+国区-icloud-的请注意，可能会导致密码库无法使用](https://www.v2ex.com/t/883671) ![](assets/new.png)  
 - [2022-09-28-Google-Play-版-QQ-彻底阵亡，虽然一直有收不到消息要杀后台重开的毛病，但今晚彻底寄了。无法连接服务器，一直转圈。](https://www.v2ex.com/t/883670) ![](assets/new.png)  
 - [2022-09-28-我的网站的用户还在迅速增长，但我却不知道该怎么更新了。](https://www.v2ex.com/t/883669) ![](assets/new.png)  
-- [2022-09-28-怎么管理自己的文件和文件夹](https://www.v2ex.com/t/883668) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -554,8 +554,8 @@
 
 
 - [2022-09-28-如何利用mysql5.7提供的虚拟列来提高查询效率](https://toutiao.io/k/o8wbfmb) ![](assets/new.png)  
-- [2022-09-28-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) ![](assets/new.png)  
 - [2022-09-28-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) ![](assets/new.png)  
+- [2022-09-28-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-28 22:17:09。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-09-28 22:47:33。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -72,6 +72,7 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [【V2EX】2022-09-28-海康智存-Mage20-有没有人会刷机？](https://www.v2ex.com/t/883692) 
 - [【V2EX】2022-09-28-有人知道全球论坛被封了之后，怎么联系管理员？](https://www.v2ex.com/t/883691) 
 - [【V2EX】2022-09-28-小白配主机，想知道这套配置价格合适不？](https://www.v2ex.com/t/883690) 
 - [【V2EX】2022-09-28-突然发现京东已经开始部分-AVIF-了](https://www.v2ex.com/t/883689) 
@@ -111,7 +112,6 @@
 - [【V2EX】2022-09-28-一个外行想基于兴趣学一下编程，总感觉力不从心是怎么回事呢？](https://www.v2ex.com/t/883647) 
 - [【V2EX】2022-09-28-有人试过坐顺风车带狗吗？](https://www.v2ex.com/t/883646) 
 - [【V2EX】2022-09-28-vitepress-部署项目文档到-Github-pages-丢失样式与路由问题](https://www.v2ex.com/t/883645) 
-- [【V2EX】2022-09-28-Jellyfin-各种中文乱码怎么解决？或者有没有更好的替代平台？](https://www.v2ex.com/t/883642) 
 - [【技术头条】2022-09-28-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-28-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-28-技术改变了什么？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15400&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fpower-of-technology%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -133,8 +133,8 @@
 - [【技术头条】2022-09-28-如何在笔记本电脑合盖时不挂起-Ubuntu-linux.cn](https://blogread.cn/news/go.php?idItem=15384&url=https%3A%2F%2Flinux.cn%2Farticle-15015-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-28-整洁架构之CSS-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15383&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fclean-architecture-css%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【开发者头条】2022-09-28-如何利用mysql5.7提供的虚拟列来提高查询效率](https://toutiao.io/k/o8wbfmb) 
-- [【开发者头条】2022-09-28-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) 
 - [【开发者头条】2022-09-28-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) 
+- [【开发者头条】2022-09-28-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

@@ -9953,6 +9953,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "海康智存 Mage20 有没有人会刷机？",
+        "link": "https://www.v2ex.com/t/883692",
+        "date": "2022-09-28"
+      },
+      {
         "title": "有人知道全球论坛被封了之后，怎么联系管理员？",
         "link": "https://www.v2ex.com/t/883691",
         "date": "2022-09-28"
@@ -10146,11 +10151,6 @@
         "title": "vitepress 部署项目文档到 Github pages 丢失样式与路由问题",
         "link": "https://www.v2ex.com/t/883645",
         "date": "2022-09-28"
-      },
-      {
-        "title": "Jellyfin 各种中文乱码怎么解决？或者有没有更好的替代平台？",
-        "link": "https://www.v2ex.com/t/883642",
-        "date": "2022-09-28"
       }
     ]
   },
@@ -10272,13 +10272,13 @@
         "date": "2022-09-28"
       },
       {
-        "title": "[推荐] 聊聊 8种 架构模式",
-        "link": "https://toutiao.io/k/luf0yh6",
+        "title": "[推荐] Netty、Kafka中的零拷贝技术到底有多牛?",
+        "link": "https://toutiao.io/k/ussdz4q",
         "date": "2022-09-28"
       },
       {
-        "title": "[推荐] Netty、Kafka中的零拷贝技术到底有多牛?",
-        "link": "https://toutiao.io/k/ussdz4q",
+        "title": "[推荐] 聊聊 8种 架构模式",
+        "link": "https://toutiao.io/k/luf0yh6",
         "date": "2022-09-28"
       }
     ]

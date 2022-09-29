@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-29 06:54:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-29 07:34:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Git、SVN
 
@@ -8,4 +8,5 @@
 
 
 - [2022-08-31-gitee上撸了个类似飞书OKR输入框的@提及项目](https://www.zhangxinxu.com/wordpress/2022/08/gitee-feishu-okr-at-mention/) 
+- [2022-09-29-请完成实名认证以便使用-Gitee-Pages-服务](https://www.v2ex.com/t/883814) 
 - [2022-09-29-《HelloGitHub》第-78-期](https://toutiao.io/k/vaonlva) 

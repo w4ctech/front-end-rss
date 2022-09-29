@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-29 04:05:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-29 05:53:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -13,9 +13,9 @@
 - [2021-03-14-张文宏：怎么看待疫苗接种偶发不良反应事件](https://opinion.caixin.com/m/2021-03-14/101675088.html) 
 - [2021-03-08-香港再现数例疫苗接种严重异常事件-专家初判与疫苗无关](https://china.caixin.com/m/2021-03-08/101672619.html) 
 - [2021-03-03-港府回应一63岁患者死亡事件-暂无法确定与疫苗相关](https://m.caixin.com/m/2021-03-03/101670052.html) 
+- [2022-08-21-JS-replaceAll-和-matchAll-使用指南不指北](https://www.zhangxinxu.com/wordpress/2022/08/js-replaceall-matchall/) 
 - [2022-09-29-新手请教，-springboot-框架下，哪种初始化变量的方法更好](https://www.v2ex.com/t/883764) 
 - [2022-09-29-json-离线-可视化-数据提取工具推荐？](https://www.v2ex.com/t/883757) 
-- [2022-09-29-远程办公，目标管理。招聘：产品经理；-ruby-工程师；-JS-工程师；测试工程师](https://www.v2ex.com/t/883727) 
 - [2022-09-29-纯-JS-实现语雀的划词高亮功能](https://toutiao.io/k/rif9mzl) 
 - [2022-09-29-Go-语言为什么建议-append-追加新元素使用原切片变量接收返回值？](https://toutiao.io/k/dwkm1ox) 
 - [2022-09-29-现代-JavaScript-库打包指南](https://toutiao.io/k/quzu3vj) 

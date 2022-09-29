@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-29 23:20:50，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-29 23:54:59，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -553,24 +553,19 @@
 </summary>
 
 
-- [2022-09-29-如何利用-MySQL-5.7-提供的虚拟列来提高查询效率](https://toutiao.io/k/o8wbfmb) ![](assets/new.png)  
-- [2022-09-29-​打造企业自己代码规范-IDEA-插件（上）](https://toutiao.io/k/ae69id1) ![](assets/new.png)  
-- [2022-09-29-《HelloGitHub》第-78-期](https://toutiao.io/k/vaonlva) ![](assets/new.png)  
-- [2022-09-29-macOS-和-Linux-有什么区别？](https://toutiao.io/k/30ao4u0) ![](assets/new.png)  
-- [2022-09-29-从0.742秒到0.006秒，MySQL百万数据深分页优化实战](https://toutiao.io/k/pqqddwg) ![](assets/new.png)  
-- [2022-09-29-纯-JS-实现语雀的划词高亮功能](https://toutiao.io/k/rif9mzl) ![](assets/new.png)  
-- [2022-09-29-Python、R-中-5-款-Dashboard-工具](https://toutiao.io/k/yi3ahzh) ![](assets/new.png)  
-- [2022-09-29-前端架构师的一些思考和总结](https://toutiao.io/k/u2j55mc) ![](assets/new.png)  
-- [2022-09-29-高级语言编写-Kernel，鱼和熊掌不可兼得](https://toutiao.io/k/t1sxg2q) ![](assets/new.png)  
-- [2022-09-29-Go-语言为什么建议-append-追加新元素使用原切片变量接收返回值？](https://toutiao.io/k/dwkm1ox) ![](assets/new.png)  
-- [2022-09-29-打造自助对话式数据分析场景，Apache-Doris-在思必驰的应用实践｜最佳实践](https://toutiao.io/k/5uxaxcv) ![](assets/new.png)  
-- [2022-09-29-秒换存储引擎，又多了一种架构方案？-|-数据库系列](https://toutiao.io/k/re1u97w) ![](assets/new.png)  
-- [2022-09-29-现代-JavaScript-库打包指南](https://toutiao.io/k/quzu3vj) ![](assets/new.png)  
-- [2022-09-29-Go-为什么能火？归功于这-5-个方面](https://toutiao.io/k/dnfw13n) ![](assets/new.png)  
-- [2022-09-29-ASP.NET-Core-在-IIS-下的两种部署模式](https://toutiao.io/k/rj6399s) ![](assets/new.png)  
+- [2022-09-29-​打造企业自己代码规范-IDEA-插件（中）](https://toutiao.io/k/i8p0zo4) ![](assets/new.png)  
+- [2022-09-29-C++20-协程初探](https://toutiao.io/k/pmpq60v) ![](assets/new.png)  
+- [2022-09-29-Rust-是如何做到内存安全的](https://toutiao.io/k/qo85gu8) ![](assets/new.png)  
+- [2022-09-29-研发视角：一个需求应该怎么拆解与实现？](https://toutiao.io/k/27rashp) ![](assets/new.png)  
+- [2022-09-29-亿级流量场景下平滑扩容：TDSQL-水平拓展方案实践](https://toutiao.io/k/349hr3n) ![](assets/new.png)  
+- [2022-09-29-Go-语言官方依赖注入工具-Wire-使用指北](https://toutiao.io/k/kvhb66e) ![](assets/new.png)  
+- [2022-09-29-基于Apache-Hudi-+-Flink-多流拼接（大宽表）最佳实践](https://toutiao.io/k/45wkfy6) ![](assets/new.png)  
+- [2022-09-29-多云容器编排-Karmada-Operator-实践](https://toutiao.io/k/vqktmfe) ![](assets/new.png)  
+- [2022-09-29-【第2744期】更好的-React-SSR](https://toutiao.io/k/5sahq6x) ![](assets/new.png)  
+- [2022-09-29-软件开发人员如何提高个人和团队工作效率](https://toutiao.io/k/zxfp2qa) ![](assets/new.png)  
+- [2022-09-29-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) ![](assets/new.png)  
 - [2022-09-29-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) ![](assets/new.png)  
 - [2022-09-29-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) ![](assets/new.png)  
-- [2022-09-29-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

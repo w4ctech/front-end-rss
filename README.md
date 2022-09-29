@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-29 09:23:42，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-29 09:52:09，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,13 @@
 </summary>
 
 
+- [2022-09-29-Proxyman-发布了-Windows-beta-版](https://www.v2ex.com/t/883874) ![](assets/new.png)  
+- [2022-09-29-广州-不加班-可部分居家办公-外企-招各种中高级职位](https://www.v2ex.com/t/883873) ![](assets/new.png)  
+- [2022-09-29-十一出去玩-找队友-北京出发-徒步-摄影-10.1-~10.7-日-公益活动](https://www.v2ex.com/t/883872) ![](assets/new.png)  
+- [2022-09-29-WPF-使用-DrawingContext-绘制温度计](https://www.v2ex.com/t/883871) ![](assets/new.png)  
+- [2022-09-29-请教个-mysql-更新问题](https://www.v2ex.com/t/883870) ![](assets/new.png)  
+- [2022-09-29-mysql-效率问题](https://www.v2ex.com/t/883869) ![](assets/new.png)  
+- [2022-09-29-为什么百度垃圾信息持续这么泛滥-猖獗](https://www.v2ex.com/t/883868) ![](assets/new.png)  
 - [2022-09-29-谁有屏蔽掉-ipv6-解析的-AdGuard-dns-呀](https://www.v2ex.com/t/883867) ![](assets/new.png)  
 - [2022-09-29-大家换手机号记得注销绑定的相关平台帐号](https://www.v2ex.com/t/883866) ![](assets/new.png)  
 - [2022-09-29-关于字符串的疑问](https://www.v2ex.com/t/883865) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-09-29-求推荐自驾游的地方](https://www.v2ex.com/t/883855) ![](assets/new.png)  
 - [2022-09-29-又一个透明代理](https://www.v2ex.com/t/883854) ![](assets/new.png)  
 - [2022-09-29-谷歌翻译用不了](https://www.v2ex.com/t/883853) ![](assets/new.png)  
-- [2022-09-29-2022-年，-PHP-转-Android，学习什么比较好?](https://www.v2ex.com/t/883852) ![](assets/new.png)  
-- [2022-09-29-怎么让-Windows-的备用-DNS-生效](https://www.v2ex.com/t/883850) ![](assets/new.png)  
-- [2022-09-29-万能的-V-友，有什么好的-OICQ-客户端推荐吗](https://www.v2ex.com/t/883849) ![](assets/new.png)  
-- [2022-09-29-如何更改全局系统默认字体至-Monospace-字体](https://www.v2ex.com/t/883847) ![](assets/new.png)  
-- [2022-09-29-零基础学习-React-v18-+-Redux-v8-+-Nodejs-全栈式开发笔记应用视频教程](https://www.v2ex.com/t/883846) ![](assets/new.png)  
-- [2022-09-29-有没有用黑群晖-7.1-的？请问你的-Video-Station-离线转码能用吗？](https://www.v2ex.com/t/883845) ![](assets/new.png)  
-- [2022-09-29-为什么没有欲望了](https://www.v2ex.com/t/883842) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -522,6 +522,7 @@
 </summary>
 
 
+- [2022-09-29-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-09-29-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-09-29-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-09-29-技术改变了什么？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15400&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fpower-of-technology%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
@@ -541,7 +542,6 @@
 - [2022-09-29-与日俱进，在-Go-1.20-中这种高效转换的方式又变了-colobu.com](https://blogread.cn/news/go.php?idItem=15386&url=https%3A%2F%2Fcolobu.com%2F2022%2F09%2F06%2Fstring-byte-convertion%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-09-29-10-大可以摧毁你的-Linux-的命令-linux.cn](https://blogread.cn/news/go.php?idItem=15385&url=https%3A%2F%2Flinux.cn%2Farticle-15022-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-09-29-如何在笔记本电脑合盖时不挂起-Ubuntu-linux.cn](https://blogread.cn/news/go.php?idItem=15384&url=https%3A%2F%2Flinux.cn%2Farticle-15015-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-09-29-整洁架构之CSS-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15383&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fclean-architecture-css%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -558,10 +558,10 @@
 - [2022-09-29-macOS-和-Linux-有什么区别？](https://toutiao.io/k/30ao4u0) ![](assets/new.png)  
 - [2022-09-29-纯-JS-实现语雀的划词高亮功能](https://toutiao.io/k/rif9mzl) ![](assets/new.png)  
 - [2022-09-29-Python、R-中-5-款-Dashboard-工具](https://toutiao.io/k/yi3ahzh) ![](assets/new.png)  
-- [2022-09-29-前端架构师的一些思考和总结](https://toutiao.io/k/u2j55mc) ![](assets/new.png)  
 - [2022-09-29-《HelloGitHub》第-78-期](https://toutiao.io/k/vaonlva) ![](assets/new.png)  
-- [2022-09-29-高级语言编写-Kernel，鱼和熊掌不可兼得](https://toutiao.io/k/t1sxg2q) ![](assets/new.png)  
+- [2022-09-29-前端架构师的一些思考和总结](https://toutiao.io/k/u2j55mc) ![](assets/new.png)  
 - [2022-09-29-从0.742秒到0.006秒，MySQL百万数据深分页优化实战](https://toutiao.io/k/pqqddwg) ![](assets/new.png)  
+- [2022-09-29-高级语言编写-Kernel，鱼和熊掌不可兼得](https://toutiao.io/k/t1sxg2q) ![](assets/new.png)  
 - [2022-09-29-Go-语言为什么建议-append-追加新元素使用原切片变量接收返回值？](https://toutiao.io/k/dwkm1ox) ![](assets/new.png)  
 - [2022-09-29-Go-为什么能火？归功于这-5-个方面](https://toutiao.io/k/dnfw13n) ![](assets/new.png)  
 - [2022-09-29-ASP.NET-Core-在-IIS-下的两种部署模式](https://toutiao.io/k/rj6399s) ![](assets/new.png)  

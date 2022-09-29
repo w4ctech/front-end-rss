@@ -9953,6 +9953,41 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "Proxyman 发布了 Windows beta 版",
+        "link": "https://www.v2ex.com/t/883874",
+        "date": "2022-09-29"
+      },
+      {
+        "title": "[广州]-[不加班]-[可部分居家办公]-[外企]-招各种中高级职位",
+        "link": "https://www.v2ex.com/t/883873",
+        "date": "2022-09-29"
+      },
+      {
+        "title": "十一出去玩 找队友 北京出发 徒步 摄影 10.1 ~10.7 日 公益活动",
+        "link": "https://www.v2ex.com/t/883872",
+        "date": "2022-09-29"
+      },
+      {
+        "title": "WPF 使用 DrawingContext 绘制温度计",
+        "link": "https://www.v2ex.com/t/883871",
+        "date": "2022-09-29"
+      },
+      {
+        "title": "请教个 mysql 更新问题",
+        "link": "https://www.v2ex.com/t/883870",
+        "date": "2022-09-29"
+      },
+      {
+        "title": "mysql 效率问题",
+        "link": "https://www.v2ex.com/t/883869",
+        "date": "2022-09-29"
+      },
+      {
+        "title": "为什么百度垃圾信息持续这么泛滥 猖獗",
+        "link": "https://www.v2ex.com/t/883868",
+        "date": "2022-09-29"
+      },
+      {
         "title": "谁有屏蔽掉 ipv6 解析的 AdGuard dns 呀",
         "link": "https://www.v2ex.com/t/883867",
         "date": "2022-09-29"
@@ -10121,31 +10156,6 @@
         "title": "求教如何从 0 到 1 搭建软路由+服务器？",
         "link": "https://www.v2ex.com/t/883825",
         "date": "2022-09-29"
-      },
-      {
-        "title": "PC Building Simulator 2",
-        "link": "https://www.v2ex.com/t/883823",
-        "date": "2022-09-29"
-      },
-      {
-        "title": "兼职了一个晚上的情感咨询，给整 emo 了",
-        "link": "https://www.v2ex.com/t/883821",
-        "date": "2022-09-29"
-      },
-      {
-        "title": "国内厂商的 vps 大家还敢用吗？",
-        "link": "https://www.v2ex.com/t/883820",
-        "date": "2022-09-29"
-      },
-      {
-        "title": "iPhone12PM 被偷，只能持续看着位置更新",
-        "link": "https://www.v2ex.com/t/883819",
-        "date": "2022-09-29"
-      },
-      {
-        "title": "请问这种智商测试的网站是怎么做出来的，我对前端不太懂",
-        "link": "https://www.v2ex.com/t/883818",
-        "date": "2022-09-29"
       }
     ]
   },
@@ -10154,6 +10164,11 @@
     "title": "技术头条",
     "link": "http://blogread.cn/news/newest.php",
     "items": [
+      {
+        "title": "日志记录的最佳实践 (insights.thoughtworks.cn)",
+        "link": "https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2022-09-29"
+      },
       {
         "title": "一个非教条式的TDD例子 (insights.thoughtworks.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
@@ -10248,11 +10263,6 @@
         "title": "如何在笔记本电脑合盖时不挂起 Ubuntu (linux.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=15384&url=https%3A%2F%2Flinux.cn%2Farticle-15015-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
         "date": "2022-09-29"
-      },
-      {
-        "title": "整洁架构之CSS (insights.thoughtworks.cn)",
-        "link": "https://blogread.cn/news/go.php?idItem=15383&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fclean-architecture-css%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-09-29"
       }
     ]
   },
@@ -10287,23 +10297,23 @@
         "date": "2022-09-29"
       },
       {
-        "title": "前端架构师的一些思考和总结",
-        "link": "https://toutiao.io/k/u2j55mc",
-        "date": "2022-09-29"
-      },
-      {
         "title": "《HelloGitHub》第 78 期",
         "link": "https://toutiao.io/k/vaonlva",
         "date": "2022-09-29"
       },
       {
-        "title": "高级语言编写 Kernel，鱼和熊掌不可兼得",
-        "link": "https://toutiao.io/k/t1sxg2q",
+        "title": "前端架构师的一些思考和总结",
+        "link": "https://toutiao.io/k/u2j55mc",
         "date": "2022-09-29"
       },
       {
         "title": "从0.742秒到0.006秒，MySQL百万数据深分页优化实战",
         "link": "https://toutiao.io/k/pqqddwg",
+        "date": "2022-09-29"
+      },
+      {
+        "title": "高级语言编写 Kernel，鱼和熊掌不可兼得",
+        "link": "https://toutiao.io/k/t1sxg2q",
         "date": "2022-09-29"
       },
       {

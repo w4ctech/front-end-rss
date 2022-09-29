@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-29 11:14:50，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-29 11:43:36，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-09-29-搞了个-WLB-为主的职位搜集站,目前在测试阶段,可以免费发布职位和申请职位,欢迎大家踩一踩](https://www.v2ex.com/t/883887) ![](assets/new.png)  
+- [2022-09-29-Python2-已经很熟练了，想要学习-Python3，有没有专门的书籍或教程？](https://www.v2ex.com/t/883886) ![](assets/new.png)  
 - [2022-09-29-M1Air-温度很高，烫手](https://www.v2ex.com/t/883883) ![](assets/new.png)  
 - [2022-09-29-鉴于-iPhone-耗电贼快，捷径设置电量低于-50%自动开启省电模式](https://www.v2ex.com/t/883882) ![](assets/new.png)  
 - [2022-09-29-教程-|-疑是-BUG？一招使用本地账户安装-Win11-22H2-家庭版也可用](https://www.v2ex.com/t/883881) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-09-29-谁有屏蔽掉-ipv6-解析的-AdGuard-dns-呀](https://www.v2ex.com/t/883867) ![](assets/new.png)  
 - [2022-09-29-大家换手机号记得注销绑定的相关平台帐号](https://www.v2ex.com/t/883866) ![](assets/new.png)  
 - [2022-09-29-关于字符串的疑问](https://www.v2ex.com/t/883865) ![](assets/new.png)  
-- [2022-09-29-整租招室友-9-号线九亭站超大-258-平别墅房](https://www.v2ex.com/t/883864) ![](assets/new.png)  
-- [2022-09-29-打算给孩子买个-pad-用，-最近看好了华为的-matepadpro-11-和-iPad-很难选](https://www.v2ex.com/t/883862) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -568,8 +568,8 @@
 - [2022-09-29-ASP.NET-Core-在-IIS-下的两种部署模式](https://toutiao.io/k/rj6399s) ![](assets/new.png)  
 - [2022-09-29-秒换存储引擎，又多了一种架构方案？-|-数据库系列](https://toutiao.io/k/re1u97w) ![](assets/new.png)  
 - [2022-09-29-现代-JavaScript-库打包指南](https://toutiao.io/k/quzu3vj) ![](assets/new.png)  
-- [2022-09-29-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) ![](assets/new.png)  
 - [2022-09-29-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) ![](assets/new.png)  
+- [2022-09-29-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

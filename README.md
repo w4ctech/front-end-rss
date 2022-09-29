@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-29 19:18:37，:rocket: 更新条数: +2025， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-29 19:43:43，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,8 +491,8 @@
 </summary>
 
 
+- [2022-09-29-有没有做过直播的老哥?](https://www.v2ex.com/t/883933) ![](assets/new.png)  
 - [2022-09-29-Stadia-彻底凉凉了](https://www.v2ex.com/t/883932) ![](assets/new.png)  
-- [2022-09-29-第一次开-Premium,-有一些疑问求解答.-顺便招-5-个长期车友](https://www.v2ex.com/t/883931) ![](assets/new.png)  
 - [2022-09-29-非常疑惑，好像所有浏览器都没有同步-UI-的布局数据](https://www.v2ex.com/t/883930) ![](assets/new.png)  
 - [2022-09-29-批量-ocr-扫描件，格式特殊，求思路](https://www.v2ex.com/t/883929) ![](assets/new.png)  
 - [2022-09-29-王者荣耀乱选英雄为啥不能举报](https://www.v2ex.com/t/883927) ![](assets/new.png)  
@@ -568,8 +568,8 @@
 - [2022-09-29-现代-JavaScript-库打包指南](https://toutiao.io/k/quzu3vj) ![](assets/new.png)  
 - [2022-09-29-Go-为什么能火？归功于这-5-个方面](https://toutiao.io/k/dnfw13n) ![](assets/new.png)  
 - [2022-09-29-ASP.NET-Core-在-IIS-下的两种部署模式](https://toutiao.io/k/rj6399s) ![](assets/new.png)  
-- [2022-09-29-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) ![](assets/new.png)  
 - [2022-09-29-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) ![](assets/new.png)  
+- [2022-09-29-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) ![](assets/new.png)  
 - [2022-09-29-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-29 08:23:07，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-29 08:57:50，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,16 @@
 </summary>
 
 
+- [2022-09-29-深圳有比较靠谱的家电维修平台推荐吗？](https://www.v2ex.com/t/883858) ![](assets/new.png)  
+- [2022-09-29-我用自己理解的领域驱动设计，写了一个基础开发平台，本着学习的心态和大家分享，欢迎大家提供意见或建议](https://www.v2ex.com/t/883857) ![](assets/new.png)  
+- [2022-09-29-求推荐自驾游的地方](https://www.v2ex.com/t/883855) ![](assets/new.png)  
+- [2022-09-29-又一个透明代理](https://www.v2ex.com/t/883854) ![](assets/new.png)  
+- [2022-09-29-谷歌翻译用不了](https://www.v2ex.com/t/883853) ![](assets/new.png)  
+- [2022-09-29-2022-年，-PHP-转-Android，学习什么比较好?](https://www.v2ex.com/t/883852) ![](assets/new.png)  
+- [2022-09-29-怎么让-Windows-的备用-DNS-生效](https://www.v2ex.com/t/883850) ![](assets/new.png)  
+- [2022-09-29-万能的-V-友，有什么好的-OICQ-客户端推荐吗](https://www.v2ex.com/t/883849) ![](assets/new.png)  
+- [2022-09-29-如何更改全局系统默认字体至-Monospace-字体](https://www.v2ex.com/t/883847) ![](assets/new.png)  
+- [2022-09-29-零基础学习-React-v18-+-Redux-v8-+-Nodejs-全栈式开发笔记应用视频教程](https://www.v2ex.com/t/883846) ![](assets/new.png)  
 - [2022-09-29-有没有用黑群晖-7.1-的？请问你的-Video-Station-离线转码能用吗？](https://www.v2ex.com/t/883845) ![](assets/new.png)  
 - [2022-09-29-为什么没有欲望了](https://www.v2ex.com/t/883842) ![](assets/new.png)  
 - [2022-09-29-求推荐一些高质量杂志](https://www.v2ex.com/t/883841) ![](assets/new.png)  
@@ -501,16 +511,6 @@
 - [2022-09-29-有没有营销能力的公司在找技术公司的？](https://www.v2ex.com/t/883836) ![](assets/new.png)  
 - [2022-09-29-亚马逊发布全新-Kindle-Scribe-带触控笔和-10.2-英寸大屏](https://www.v2ex.com/t/883833) ![](assets/new.png)  
 - [2022-09-29-Android-兼职国庆期间做一个小-app](https://www.v2ex.com/t/883832) ![](assets/new.png)  
-- [2022-09-29-你们公司的-mac-都是多大内存的？](https://www.v2ex.com/t/883831) ![](assets/new.png)  
-- [2022-09-29-上海整牙有推荐的医生吗](https://www.v2ex.com/t/883830) ![](assets/new.png)  
-- [2022-09-29-为什么-ELK-都不提供一个在命令行停止/关机的命令？](https://www.v2ex.com/t/883829) ![](assets/new.png)  
-- [2022-09-29-你们会不会经常纠结自己的手机续航](https://www.v2ex.com/t/883828) ![](assets/new.png)  
-- [2022-09-29-手机录音全部失效。除了打电话](https://www.v2ex.com/t/883827) ![](assets/new.png)  
-- [2022-09-29-求教如何从-0-到-1-搭建软路由+服务器？](https://www.v2ex.com/t/883825) ![](assets/new.png)  
-- [2022-09-29-PC-Building-Simulator-2](https://www.v2ex.com/t/883823) ![](assets/new.png)  
-- [2022-09-29-兼职了一个晚上的情感咨询，给整-emo-了](https://www.v2ex.com/t/883821) ![](assets/new.png)  
-- [2022-09-29-国内厂商的-vps-大家还敢用吗？](https://www.v2ex.com/t/883820) ![](assets/new.png)  
-- [2022-09-29-iPhone12PM-被偷，只能持续看着位置更新](https://www.v2ex.com/t/883819) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -557,17 +557,17 @@
 - [2022-09-29-​打造企业自己代码规范-IDEA-插件（上）](https://toutiao.io/k/ae69id1) ![](assets/new.png)  
 - [2022-09-29-纯-JS-实现语雀的划词高亮功能](https://toutiao.io/k/rif9mzl) ![](assets/new.png)  
 - [2022-09-29-macOS-和-Linux-有什么区别？](https://toutiao.io/k/30ao4u0) ![](assets/new.png)  
-- [2022-09-29-前端架构师的一些思考和总结](https://toutiao.io/k/u2j55mc) ![](assets/new.png)  
 - [2022-09-29-Python、R-中-5-款-Dashboard-工具](https://toutiao.io/k/yi3ahzh) ![](assets/new.png)  
+- [2022-09-29-前端架构师的一些思考和总结](https://toutiao.io/k/u2j55mc) ![](assets/new.png)  
 - [2022-09-29-《HelloGitHub》第-78-期](https://toutiao.io/k/vaonlva) ![](assets/new.png)  
 - [2022-09-29-高级语言编写-Kernel，鱼和熊掌不可兼得](https://toutiao.io/k/t1sxg2q) ![](assets/new.png)  
 - [2022-09-29-从0.742秒到0.006秒，MySQL百万数据深分页优化实战](https://toutiao.io/k/pqqddwg) ![](assets/new.png)  
 - [2022-09-29-Go-语言为什么建议-append-追加新元素使用原切片变量接收返回值？](https://toutiao.io/k/dwkm1ox) ![](assets/new.png)  
 - [2022-09-29-Go-为什么能火？归功于这-5-个方面](https://toutiao.io/k/dnfw13n) ![](assets/new.png)  
 - [2022-09-29-ASP.NET-Core-在-IIS-下的两种部署模式](https://toutiao.io/k/rj6399s) ![](assets/new.png)  
+- [2022-09-29-打造自助对话式数据分析场景，Apache-Doris-在思必驰的应用实践｜最佳实践](https://toutiao.io/k/5uxaxcv) ![](assets/new.png)  
 - [2022-09-29-秒换存储引擎，又多了一种架构方案？-|-数据库系列](https://toutiao.io/k/re1u97w) ![](assets/new.png)  
 - [2022-09-29-现代-JavaScript-库打包指南](https://toutiao.io/k/quzu3vj) ![](assets/new.png)  
-- [2022-09-29-打造自助对话式数据分析场景，Apache-Doris-在思必驰的应用实践｜最佳实践](https://toutiao.io/k/5uxaxcv) ![](assets/new.png)  
 - [2022-09-29-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) ![](assets/new.png)  
 - [2022-09-29-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)

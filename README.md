@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-29 12:30:41，:rocket: 更新条数: +2023， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-29 13:32:14，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,16 @@
 </summary>
 
 
+- [2022-09-29-连续跳绳三个月，我能分享的经验](https://www.v2ex.com/t/883902) ![](assets/new.png)  
+- [2022-09-29-欢迎加入-discord-群组-一起学技术搞钱](https://www.v2ex.com/t/883901) ![](assets/new.png)  
+- [2022-09-29-iPhone-存储空间](https://www.v2ex.com/t/883899) ![](assets/new.png)  
+- [2022-09-29-能源之星-X，-Windows-续航增强软件-EnergyStar-的图形界面版](https://www.v2ex.com/t/883898) ![](assets/new.png)  
+- [2022-09-29-14-pro-的信号很强啊](https://www.v2ex.com/t/883897) ![](assets/new.png)  
+- [2022-09-29-What-pdf-readers-do-you-use-to-edit-files-online?](https://www.v2ex.com/t/883896) ![](assets/new.png)  
+- [2022-09-29-爬虫-IP-池推荐](https://www.v2ex.com/t/883895) ![](assets/new.png)  
+- [2022-09-29-MIT-关于-VR-的这个在线课程怎么样啊？有没有一起组队的，学费可以省-260-刀（11-月-15-开课）](https://www.v2ex.com/t/883894) ![](assets/new.png)  
+- [2022-09-29-请问存在类似于diskgenius.efi或者分区助手.efi这种东西嘛?](https://www.v2ex.com/t/883893) ![](assets/new.png)  
+- [2022-09-29-请问-kafka-Python-客户端用哪个](https://www.v2ex.com/t/883892) ![](assets/new.png)  
 - [2022-09-29-求一个-json-工具](https://www.v2ex.com/t/883891) ![](assets/new.png)  
 - [2022-09-29-求助：-ROS-机器人-导航实现思路](https://www.v2ex.com/t/883890) ![](assets/new.png)  
 - [2022-09-29-两年前做的一个免费图片压缩-App,有需要的可以试试](https://www.v2ex.com/t/883888) ![](assets/new.png)  
@@ -501,16 +511,6 @@
 - [2022-09-29-教程-|-疑是-BUG？一招使用本地账户安装-Win11-22H2-家庭版也可用](https://www.v2ex.com/t/883881) ![](assets/new.png)  
 - [2022-09-29--Swift-synthesizer.speak-怎么出声？](https://www.v2ex.com/t/883880) ![](assets/new.png)  
 - [2022-09-29-现在买-13pm-卡贴机划算么？](https://www.v2ex.com/t/883879) ![](assets/new.png)  
-- [2022-09-29-V-友们剪指甲是剪到底还是留一定长度？](https://www.v2ex.com/t/883878) ![](assets/new.png)  
-- [2022-09-29-微信的聊天记录能导出来吗](https://www.v2ex.com/t/883876) ![](assets/new.png)  
-- [2022-09-29-xxl-job-里定时任务触发实现疑问](https://www.v2ex.com/t/883875) ![](assets/new.png)  
-- [2022-09-29-Proxyman-发布了-Windows-beta-版](https://www.v2ex.com/t/883874) ![](assets/new.png)  
-- [2022-09-29-广州-不加班-可部分居家办公-外企-招各种中高级职位](https://www.v2ex.com/t/883873) ![](assets/new.png)  
-- [2022-09-29-十一出去玩-找队友-北京出发-徒步-摄影-10.1-~10.7-日-公益活动](https://www.v2ex.com/t/883872) ![](assets/new.png)  
-- [2022-09-29-WPF-使用-DrawingContext-绘制温度计](https://www.v2ex.com/t/883871) ![](assets/new.png)  
-- [2022-09-29-请教个-mysql-更新问题](https://www.v2ex.com/t/883870) ![](assets/new.png)  
-- [2022-09-29-mysql-效率问题](https://www.v2ex.com/t/883869) ![](assets/new.png)  
-- [2022-09-29-为什么百度垃圾信息持续这么泛滥-猖獗](https://www.v2ex.com/t/883868) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,11 +563,11 @@
 - [2022-09-29-前端架构师的一些思考和总结](https://toutiao.io/k/u2j55mc) ![](assets/new.png)  
 - [2022-09-29-高级语言编写-Kernel，鱼和熊掌不可兼得](https://toutiao.io/k/t1sxg2q) ![](assets/new.png)  
 - [2022-09-29-Go-语言为什么建议-append-追加新元素使用原切片变量接收返回值？](https://toutiao.io/k/dwkm1ox) ![](assets/new.png)  
-- [2022-09-29-Go-为什么能火？归功于这-5-个方面](https://toutiao.io/k/dnfw13n) ![](assets/new.png)  
 - [2022-09-29-打造自助对话式数据分析场景，Apache-Doris-在思必驰的应用实践｜最佳实践](https://toutiao.io/k/5uxaxcv) ![](assets/new.png)  
-- [2022-09-29-ASP.NET-Core-在-IIS-下的两种部署模式](https://toutiao.io/k/rj6399s) ![](assets/new.png)  
+- [2022-09-29-Go-为什么能火？归功于这-5-个方面](https://toutiao.io/k/dnfw13n) ![](assets/new.png)  
 - [2022-09-29-秒换存储引擎，又多了一种架构方案？-|-数据库系列](https://toutiao.io/k/re1u97w) ![](assets/new.png)  
 - [2022-09-29-现代-JavaScript-库打包指南](https://toutiao.io/k/quzu3vj) ![](assets/new.png)  
+- [2022-09-29-ASP.NET-Core-在-IIS-下的两种部署模式](https://toutiao.io/k/rj6399s) ![](assets/new.png)  
 - [2022-09-29-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) ![](assets/new.png)  
 - [2022-09-29-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)

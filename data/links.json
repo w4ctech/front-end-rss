@@ -9953,6 +9953,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "批量 ocr 扫描件，格式特殊，求思路",
+        "link": "https://www.v2ex.com/t/883929",
+        "date": "2022-09-29"
+      },
+      {
         "title": "王者荣耀乱选英雄为啥不能举报",
         "link": "https://www.v2ex.com/t/883927",
         "date": "2022-09-29"
@@ -10151,16 +10156,6 @@
         "title": "[ Swift ] synthesizer.speak 怎么出声？",
         "link": "https://www.v2ex.com/t/883880",
         "date": "2022-09-29"
-      },
-      {
-        "title": "现在买 13pm 卡贴机划算么？",
-        "link": "https://www.v2ex.com/t/883879",
-        "date": "2022-09-29"
-      },
-      {
-        "title": "V 友们剪指甲是剪到底还是留一定长度？",
-        "link": "https://www.v2ex.com/t/883878",
-        "date": "2022-09-29"
       }
     ]
   },
@@ -10352,11 +10347,6 @@
         "date": "2022-09-29"
       },
       {
-        "title": "[推荐] 分享16个我总结的思维模型（程序员必读，受用终身）",
-        "link": "https://toutiao.io/k/f7r13v5",
-        "date": "2022-09-29"
-      },
-      {
         "title": "[推荐] Netty、Kafka中的零拷贝技术到底有多牛?",
         "link": "https://toutiao.io/k/ussdz4q",
         "date": "2022-09-29"
@@ -10364,6 +10354,11 @@
       {
         "title": "[推荐] 聊聊 8种 架构模式",
         "link": "https://toutiao.io/k/luf0yh6",
+        "date": "2022-09-29"
+      },
+      {
+        "title": "[推荐] 分享16个我总结的思维模型（程序员必读，受用终身）",
+        "link": "https://toutiao.io/k/f7r13v5",
         "date": "2022-09-29"
       }
     ]

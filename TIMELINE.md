@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-29 09:52:09。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-09-29 10:18:02。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -72,6 +72,10 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [【V2EX】2022-09-29-现在买-13pm-卡贴机划算么？](https://www.v2ex.com/t/883879) 
+- [【V2EX】2022-09-29-V-友们剪指甲是剪到底还是留一定长度？](https://www.v2ex.com/t/883878) 
+- [【V2EX】2022-09-29-微信的聊天记录能导出来吗](https://www.v2ex.com/t/883876) 
+- [【V2EX】2022-09-29-xxl-job-里定时任务触发实现疑问](https://www.v2ex.com/t/883875) 
 - [【V2EX】2022-09-29-Proxyman-发布了-Windows-beta-版](https://www.v2ex.com/t/883874) 
 - [【V2EX】2022-09-29-广州-不加班-可部分居家办公-外企-招各种中高级职位](https://www.v2ex.com/t/883873) 
 - [【V2EX】2022-09-29-十一出去玩-找队友-北京出发-徒步-摄影-10.1-~10.7-日-公益活动](https://www.v2ex.com/t/883872) 
@@ -109,10 +113,6 @@
 - [【V2EX】2022-09-29-Android-兼职国庆期间做一个小-app](https://www.v2ex.com/t/883832) 
 - [【V2EX】2022-09-29-你们公司的-mac-都是多大内存的？](https://www.v2ex.com/t/883831) 
 - [【V2EX】2022-09-29-上海整牙有推荐的医生吗](https://www.v2ex.com/t/883830) 
-- [【V2EX】2022-09-29-为什么-ELK-都不提供一个在命令行停止/关机的命令？](https://www.v2ex.com/t/883829) 
-- [【V2EX】2022-09-29-你们会不会经常纠结自己的手机续航](https://www.v2ex.com/t/883828) 
-- [【V2EX】2022-09-29-手机录音全部失效。除了打电话](https://www.v2ex.com/t/883827) 
-- [【V2EX】2022-09-29-求教如何从-0-到-1-搭建软路由+服务器？](https://www.v2ex.com/t/883825) 
 - [【技术头条】2022-09-29-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-29-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-29-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -136,9 +136,9 @@
 - [【开发者头条】2022-09-29-如何利用-MySQL-5.7-提供的虚拟列来提高查询效率](https://toutiao.io/k/o8wbfmb) 
 - [【开发者头条】2022-09-29-​打造企业自己代码规范-IDEA-插件（上）](https://toutiao.io/k/ae69id1) 
 - [【开发者头条】2022-09-29-macOS-和-Linux-有什么区别？](https://toutiao.io/k/30ao4u0) 
+- [【开发者头条】2022-09-29-《HelloGitHub》第-78-期](https://toutiao.io/k/vaonlva) 
 - [【开发者头条】2022-09-29-纯-JS-实现语雀的划词高亮功能](https://toutiao.io/k/rif9mzl) 
 - [【开发者头条】2022-09-29-Python、R-中-5-款-Dashboard-工具](https://toutiao.io/k/yi3ahzh) 
-- [【开发者头条】2022-09-29-《HelloGitHub》第-78-期](https://toutiao.io/k/vaonlva) 
 - [【开发者头条】2022-09-29-前端架构师的一些思考和总结](https://toutiao.io/k/u2j55mc) 
 - [【开发者头条】2022-09-29-从0.742秒到0.006秒，MySQL百万数据深分页优化实战](https://toutiao.io/k/pqqddwg) 
 - [【开发者头条】2022-09-29-高级语言编写-Kernel，鱼和熊掌不可兼得](https://toutiao.io/k/t1sxg2q) 
@@ -148,8 +148,8 @@
 - [【开发者头条】2022-09-29-打造自助对话式数据分析场景，Apache-Doris-在思必驰的应用实践｜最佳实践](https://toutiao.io/k/5uxaxcv) 
 - [【开发者头条】2022-09-29-秒换存储引擎，又多了一种架构方案？-|-数据库系列](https://toutiao.io/k/re1u97w) 
 - [【开发者头条】2022-09-29-现代-JavaScript-库打包指南](https://toutiao.io/k/quzu3vj) 
-- [【开发者头条】2022-09-29-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) 
 - [【开发者头条】2022-09-29-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) 
+- [【开发者头条】2022-09-29-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

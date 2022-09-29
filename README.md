@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-29 09:52:09，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-29 10:18:02，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-09-29-现在买-13pm-卡贴机划算么？](https://www.v2ex.com/t/883879) ![](assets/new.png)  
+- [2022-09-29-V-友们剪指甲是剪到底还是留一定长度？](https://www.v2ex.com/t/883878) ![](assets/new.png)  
+- [2022-09-29-微信的聊天记录能导出来吗](https://www.v2ex.com/t/883876) ![](assets/new.png)  
+- [2022-09-29-xxl-job-里定时任务触发实现疑问](https://www.v2ex.com/t/883875) ![](assets/new.png)  
 - [2022-09-29-Proxyman-发布了-Windows-beta-版](https://www.v2ex.com/t/883874) ![](assets/new.png)  
 - [2022-09-29-广州-不加班-可部分居家办公-外企-招各种中高级职位](https://www.v2ex.com/t/883873) ![](assets/new.png)  
 - [2022-09-29-十一出去玩-找队友-北京出发-徒步-摄影-10.1-~10.7-日-公益活动](https://www.v2ex.com/t/883872) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-09-29-看见东方树叶躺枪，过来分享一下我的饮料榜](https://www.v2ex.com/t/883860) ![](assets/new.png)  
 - [2022-09-29-ios-卡包刷门禁显示多个-id](https://www.v2ex.com/t/883859) ![](assets/new.png)  
 - [2022-09-29-深圳有比较靠谱的家电维修平台推荐吗？](https://www.v2ex.com/t/883858) ![](assets/new.png)  
-- [2022-09-29-我用自己理解的领域驱动设计，写了一个基础开发平台，本着学习的心态和大家分享，欢迎大家提供意见或建议](https://www.v2ex.com/t/883857) ![](assets/new.png)  
-- [2022-09-29-求推荐自驾游的地方](https://www.v2ex.com/t/883855) ![](assets/new.png)  
-- [2022-09-29-又一个透明代理](https://www.v2ex.com/t/883854) ![](assets/new.png)  
-- [2022-09-29-谷歌翻译用不了](https://www.v2ex.com/t/883853) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -556,9 +556,9 @@
 - [2022-09-29-如何利用-MySQL-5.7-提供的虚拟列来提高查询效率](https://toutiao.io/k/o8wbfmb) ![](assets/new.png)  
 - [2022-09-29-​打造企业自己代码规范-IDEA-插件（上）](https://toutiao.io/k/ae69id1) ![](assets/new.png)  
 - [2022-09-29-macOS-和-Linux-有什么区别？](https://toutiao.io/k/30ao4u0) ![](assets/new.png)  
+- [2022-09-29-《HelloGitHub》第-78-期](https://toutiao.io/k/vaonlva) ![](assets/new.png)  
 - [2022-09-29-纯-JS-实现语雀的划词高亮功能](https://toutiao.io/k/rif9mzl) ![](assets/new.png)  
 - [2022-09-29-Python、R-中-5-款-Dashboard-工具](https://toutiao.io/k/yi3ahzh) ![](assets/new.png)  
-- [2022-09-29-《HelloGitHub》第-78-期](https://toutiao.io/k/vaonlva) ![](assets/new.png)  
 - [2022-09-29-前端架构师的一些思考和总结](https://toutiao.io/k/u2j55mc) ![](assets/new.png)  
 - [2022-09-29-从0.742秒到0.006秒，MySQL百万数据深分页优化实战](https://toutiao.io/k/pqqddwg) ![](assets/new.png)  
 - [2022-09-29-高级语言编写-Kernel，鱼和熊掌不可兼得](https://toutiao.io/k/t1sxg2q) ![](assets/new.png)  
@@ -568,8 +568,8 @@
 - [2022-09-29-打造自助对话式数据分析场景，Apache-Doris-在思必驰的应用实践｜最佳实践](https://toutiao.io/k/5uxaxcv) ![](assets/new.png)  
 - [2022-09-29-秒换存储引擎，又多了一种架构方案？-|-数据库系列](https://toutiao.io/k/re1u97w) ![](assets/new.png)  
 - [2022-09-29-现代-JavaScript-库打包指南](https://toutiao.io/k/quzu3vj) ![](assets/new.png)  
-- [2022-09-29-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) ![](assets/new.png)  
 - [2022-09-29-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) ![](assets/new.png)  
+- [2022-09-29-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

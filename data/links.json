@@ -9953,6 +9953,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "国内哪家邮箱支持 smtp/tls 加密啊",
+        "link": "https://www.v2ex.com/t/883926",
+        "date": "2022-09-29"
+      },
+      {
+        "title": "受 code996 启发，写了一个用户脚本，可以直接探测 gitlab 项目的 996 指数",
+        "link": "https://www.v2ex.com/t/883925",
+        "date": "2022-09-29"
+      },
+      {
         "title": "threejs 如何动态加载复杂模型，更好的控制内存？",
         "link": "https://www.v2ex.com/t/883924",
         "date": "2022-09-29"
@@ -9963,11 +9973,6 @@
         "date": "2022-09-29"
       },
       {
-        "title": "V2 的朋友想不想整个研究生学历呢？最好考的双证硕士",
-        "link": "https://www.v2ex.com/t/883922",
-        "date": "2022-09-29"
-      },
-      {
         "title": "xpath 这么强, 为什么浏览器不干脆用它代替 css 选择器, W3C 也干脆不要再搞 CSS 选择器算了",
         "link": "https://www.v2ex.com/t/883921",
         "date": "2022-09-29"
@@ -9975,11 +9980,6 @@
       {
         "title": "ios 相册的图片或视频的信息中，有一条“从 bilibili 存储”这种东西，算不算 exif？授权给别的应用能读取到么？",
         "link": "https://www.v2ex.com/t/883920",
-        "date": "2022-09-29"
-      },
-      {
-        "title": "常态化核酸啥时候是个头啊",
-        "link": "https://www.v2ex.com/t/883919",
         "date": "2022-09-29"
       },
       {
@@ -10155,16 +10155,6 @@
       {
         "title": "V 友们剪指甲是剪到底还是留一定长度？",
         "link": "https://www.v2ex.com/t/883878",
-        "date": "2022-09-29"
-      },
-      {
-        "title": "微信的聊天记录能导出来吗",
-        "link": "https://www.v2ex.com/t/883876",
-        "date": "2022-09-29"
-      },
-      {
-        "title": "xxl-job 里定时任务触发实现疑问",
-        "link": "https://www.v2ex.com/t/883875",
         "date": "2022-09-29"
       }
     ]
@@ -10357,13 +10347,18 @@
         "date": "2022-09-29"
       },
       {
-        "title": "[推荐] Netty、Kafka中的零拷贝技术到底有多牛?",
-        "link": "https://toutiao.io/k/ussdz4q",
+        "title": "[推荐] 分享16个我总结的思维模型（程序员必读，受用终身）",
+        "link": "https://toutiao.io/k/f7r13v5",
         "date": "2022-09-29"
       },
       {
         "title": "[推荐] 聊聊 8种 架构模式",
         "link": "https://toutiao.io/k/luf0yh6",
+        "date": "2022-09-29"
+      },
+      {
+        "title": "[推荐] Netty、Kafka中的零拷贝技术到底有多牛?",
+        "link": "https://toutiao.io/k/ussdz4q",
         "date": "2022-09-29"
       }
     ]

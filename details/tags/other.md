@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-29 15:52:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-29 16:24:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1914,9 +1914,8 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-09-29-国内哪家邮箱支持-smtp/tls-加密啊](https://www.v2ex.com/t/883926) 
 - [2022-09-29-关于-iPhone-自带照片-App-中的“添加说明（Captions）”功能](https://www.v2ex.com/t/883923) 
-- [2022-09-29-V2-的朋友想不想整个研究生学历呢？最好考的双证硕士](https://www.v2ex.com/t/883922) 
-- [2022-09-29-常态化核酸啥时候是个头啊](https://www.v2ex.com/t/883919) 
 - [2022-09-29-springboot+mybatis-怎么获得-mapper-执行时获取到的连接？](https://www.v2ex.com/t/883918) 
 - [2022-09-29-14pro-10.1-10.11-的现在发货了吗](https://www.v2ex.com/t/883917) 
 - [2022-09-29-这次房贷利率会打几折？](https://www.v2ex.com/t/883916) 
@@ -1951,8 +1950,6 @@
 - [2022-09-29--Swift-synthesizer.speak-怎么出声？](https://www.v2ex.com/t/883880) 
 - [2022-09-29-现在买-13pm-卡贴机划算么？](https://www.v2ex.com/t/883879) 
 - [2022-09-29-V-友们剪指甲是剪到底还是留一定长度？](https://www.v2ex.com/t/883878) 
-- [2022-09-29-微信的聊天记录能导出来吗](https://www.v2ex.com/t/883876) 
-- [2022-09-29-xxl-job-里定时任务触发实现疑问](https://www.v2ex.com/t/883875) 
 - [2022-09-29-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-29-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-29-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1981,5 +1978,6 @@
 - [2022-09-29-秒换存储引擎，又多了一种架构方案？-|-数据库系列](https://toutiao.io/k/re1u97w) 
 - [2022-09-29-Go-为什么能火？归功于这-5-个方面](https://toutiao.io/k/dnfw13n) 
 - [2022-09-29-ASP.NET-Core-在-IIS-下的两种部署模式](https://toutiao.io/k/rj6399s) 
-- [2022-09-29-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) 
+- [2022-09-29-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) 
 - [2022-09-29-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) 
+- [2022-09-29-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) 

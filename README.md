@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-29 08:57:50，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-29 09:23:42，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,14 @@
 </summary>
 
 
+- [2022-09-29-谁有屏蔽掉-ipv6-解析的-AdGuard-dns-呀](https://www.v2ex.com/t/883867) ![](assets/new.png)  
+- [2022-09-29-大家换手机号记得注销绑定的相关平台帐号](https://www.v2ex.com/t/883866) ![](assets/new.png)  
+- [2022-09-29-关于字符串的疑问](https://www.v2ex.com/t/883865) ![](assets/new.png)  
+- [2022-09-29-整租招室友-9-号线九亭站超大-258-平别墅房](https://www.v2ex.com/t/883864) ![](assets/new.png)  
+- [2022-09-29-打算给孩子买个-pad-用，-最近看好了华为的-matepadpro-11-和-iPad-很难选](https://www.v2ex.com/t/883862) ![](assets/new.png)  
+- [2022-09-29-2009-年-1-月-3-日，财政大臣正处于实施第二轮银行紧急援助的边缘](https://www.v2ex.com/t/883861) ![](assets/new.png)  
+- [2022-09-29-看见东方树叶躺枪，过来分享一下我的饮料榜](https://www.v2ex.com/t/883860) ![](assets/new.png)  
+- [2022-09-29-ios-卡包刷门禁显示多个-id](https://www.v2ex.com/t/883859) ![](assets/new.png)  
 - [2022-09-29-深圳有比较靠谱的家电维修平台推荐吗？](https://www.v2ex.com/t/883858) ![](assets/new.png)  
 - [2022-09-29-我用自己理解的领域驱动设计，写了一个基础开发平台，本着学习的心态和大家分享，欢迎大家提供意见或建议](https://www.v2ex.com/t/883857) ![](assets/new.png)  
 - [2022-09-29-求推荐自驾游的地方](https://www.v2ex.com/t/883855) ![](assets/new.png)  
@@ -503,14 +511,6 @@
 - [2022-09-29-零基础学习-React-v18-+-Redux-v8-+-Nodejs-全栈式开发笔记应用视频教程](https://www.v2ex.com/t/883846) ![](assets/new.png)  
 - [2022-09-29-有没有用黑群晖-7.1-的？请问你的-Video-Station-离线转码能用吗？](https://www.v2ex.com/t/883845) ![](assets/new.png)  
 - [2022-09-29-为什么没有欲望了](https://www.v2ex.com/t/883842) ![](assets/new.png)  
-- [2022-09-29-求推荐一些高质量杂志](https://www.v2ex.com/t/883841) ![](assets/new.png)  
-- [2022-09-29-小米-5-微信收到消息后不是在顶部有个弹窗吗，你把弹窗向上滑动后就会一分钟消息就不提醒了，还可以设置成息屏解锁后提醒，我想知道这个设置在哪里设置，我第一...](https://www.v2ex.com/t/883840) ![](assets/new.png)  
-- [2022-09-29-分享经验，-2022-年十一假期出行，如何避免防疫一刀切-&-合理计划出行---2](https://www.v2ex.com/t/883839) ![](assets/new.png)  
-- [2022-09-29-Python-读取-500M-.pkl-文件,却用了-8-G-内存](https://www.v2ex.com/t/883838) ![](assets/new.png)  
-- [2022-09-29-NVIDIA-Racer-RTX](https://www.v2ex.com/t/883837) ![](assets/new.png)  
-- [2022-09-29-有没有营销能力的公司在找技术公司的？](https://www.v2ex.com/t/883836) ![](assets/new.png)  
-- [2022-09-29-亚马逊发布全新-Kindle-Scribe-带触控笔和-10.2-英寸大屏](https://www.v2ex.com/t/883833) ![](assets/new.png)  
-- [2022-09-29-Android-兼职国庆期间做一个小-app](https://www.v2ex.com/t/883832) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -555,8 +555,8 @@
 
 - [2022-09-29-如何利用-MySQL-5.7-提供的虚拟列来提高查询效率](https://toutiao.io/k/o8wbfmb) ![](assets/new.png)  
 - [2022-09-29-​打造企业自己代码规范-IDEA-插件（上）](https://toutiao.io/k/ae69id1) ![](assets/new.png)  
-- [2022-09-29-纯-JS-实现语雀的划词高亮功能](https://toutiao.io/k/rif9mzl) ![](assets/new.png)  
 - [2022-09-29-macOS-和-Linux-有什么区别？](https://toutiao.io/k/30ao4u0) ![](assets/new.png)  
+- [2022-09-29-纯-JS-实现语雀的划词高亮功能](https://toutiao.io/k/rif9mzl) ![](assets/new.png)  
 - [2022-09-29-Python、R-中-5-款-Dashboard-工具](https://toutiao.io/k/yi3ahzh) ![](assets/new.png)  
 - [2022-09-29-前端架构师的一些思考和总结](https://toutiao.io/k/u2j55mc) ![](assets/new.png)  
 - [2022-09-29-《HelloGitHub》第-78-期](https://toutiao.io/k/vaonlva) ![](assets/new.png)  
@@ -568,8 +568,8 @@
 - [2022-09-29-打造自助对话式数据分析场景，Apache-Doris-在思必驰的应用实践｜最佳实践](https://toutiao.io/k/5uxaxcv) ![](assets/new.png)  
 - [2022-09-29-秒换存储引擎，又多了一种架构方案？-|-数据库系列](https://toutiao.io/k/re1u97w) ![](assets/new.png)  
 - [2022-09-29-现代-JavaScript-库打包指南](https://toutiao.io/k/quzu3vj) ![](assets/new.png)  
-- [2022-09-29-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) ![](assets/new.png)  
 - [2022-09-29-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) ![](assets/new.png)  
+- [2022-09-29-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

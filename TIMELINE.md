@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-29 08:57:50。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-09-29 09:23:42。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -72,6 +72,14 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [【V2EX】2022-09-29-谁有屏蔽掉-ipv6-解析的-AdGuard-dns-呀](https://www.v2ex.com/t/883867) 
+- [【V2EX】2022-09-29-大家换手机号记得注销绑定的相关平台帐号](https://www.v2ex.com/t/883866) 
+- [【V2EX】2022-09-29-关于字符串的疑问](https://www.v2ex.com/t/883865) 
+- [【V2EX】2022-09-29-整租招室友-9-号线九亭站超大-258-平别墅房](https://www.v2ex.com/t/883864) 
+- [【V2EX】2022-09-29-打算给孩子买个-pad-用，-最近看好了华为的-matepadpro-11-和-iPad-很难选](https://www.v2ex.com/t/883862) 
+- [【V2EX】2022-09-29-2009-年-1-月-3-日，财政大臣正处于实施第二轮银行紧急援助的边缘](https://www.v2ex.com/t/883861) 
+- [【V2EX】2022-09-29-看见东方树叶躺枪，过来分享一下我的饮料榜](https://www.v2ex.com/t/883860) 
+- [【V2EX】2022-09-29-ios-卡包刷门禁显示多个-id](https://www.v2ex.com/t/883859) 
 - [【V2EX】2022-09-29-深圳有比较靠谱的家电维修平台推荐吗？](https://www.v2ex.com/t/883858) 
 - [【V2EX】2022-09-29-我用自己理解的领域驱动设计，写了一个基础开发平台，本着学习的心态和大家分享，欢迎大家提供意见或建议](https://www.v2ex.com/t/883857) 
 - [【V2EX】2022-09-29-求推荐自驾游的地方](https://www.v2ex.com/t/883855) 
@@ -103,13 +111,6 @@
 - [【V2EX】2022-09-29-国内厂商的-vps-大家还敢用吗？](https://www.v2ex.com/t/883820) 
 - [【V2EX】2022-09-29-iPhone12PM-被偷，只能持续看着位置更新](https://www.v2ex.com/t/883819) 
 - [【V2EX】2022-09-29-请问这种智商测试的网站是怎么做出来的，我对前端不太懂](https://www.v2ex.com/t/883818) 
-- [【V2EX】2022-09-29-iPad-判断电池是否有问题是只看电池健康度么？](https://www.v2ex.com/t/883816) 
-- [【V2EX】2022-09-29-如何关键字屏蔽短信](https://www.v2ex.com/t/883815) 
-- [【V2EX】2022-09-29-请完成实名认证以便使用-Gitee-Pages-服务](https://www.v2ex.com/t/883814) 
-- [【V2EX】2022-09-29-岁岁年年，兜兜转转，终究还是回到了故人的怀抱](https://www.v2ex.com/t/883812) 
-- [【V2EX】2022-09-29-新版”添加到钱包“小程序发布，新增全新设计坊](https://www.v2ex.com/t/883811) 
-- [【V2EX】2022-09-29-疑似-iOS16-引起的微信浏览器-H5-Bug？](https://www.v2ex.com/t/883810) 
-- [【V2EX】2022-09-29-ubuntu20-下如何快速把一个程序快速移动到-另一个屏？](https://www.v2ex.com/t/883809) 
 - [【技术头条】2022-09-29-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-29-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-29-技术改变了什么？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15400&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fpower-of-technology%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -132,8 +133,8 @@
 - [【技术头条】2022-09-29-整洁架构之CSS-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15383&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fclean-architecture-css%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【开发者头条】2022-09-29-如何利用-MySQL-5.7-提供的虚拟列来提高查询效率](https://toutiao.io/k/o8wbfmb) 
 - [【开发者头条】2022-09-29-​打造企业自己代码规范-IDEA-插件（上）](https://toutiao.io/k/ae69id1) 
-- [【开发者头条】2022-09-29-纯-JS-实现语雀的划词高亮功能](https://toutiao.io/k/rif9mzl) 
 - [【开发者头条】2022-09-29-macOS-和-Linux-有什么区别？](https://toutiao.io/k/30ao4u0) 
+- [【开发者头条】2022-09-29-纯-JS-实现语雀的划词高亮功能](https://toutiao.io/k/rif9mzl) 
 - [【开发者头条】2022-09-29-Python、R-中-5-款-Dashboard-工具](https://toutiao.io/k/yi3ahzh) 
 - [【开发者头条】2022-09-29-前端架构师的一些思考和总结](https://toutiao.io/k/u2j55mc) 
 - [【开发者头条】2022-09-29-《HelloGitHub》第-78-期](https://toutiao.io/k/vaonlva) 
@@ -145,8 +146,8 @@
 - [【开发者头条】2022-09-29-打造自助对话式数据分析场景，Apache-Doris-在思必驰的应用实践｜最佳实践](https://toutiao.io/k/5uxaxcv) 
 - [【开发者头条】2022-09-29-秒换存储引擎，又多了一种架构方案？-|-数据库系列](https://toutiao.io/k/re1u97w) 
 - [【开发者头条】2022-09-29-现代-JavaScript-库打包指南](https://toutiao.io/k/quzu3vj) 
-- [【开发者头条】2022-09-29-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) 
 - [【开发者头条】2022-09-29-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) 
+- [【开发者头条】2022-09-29-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

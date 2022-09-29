@@ -9953,6 +9953,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "第一次开 Premium, 有一些疑问求解答. 顺便招 5 个长期车友",
+        "link": "https://www.v2ex.com/t/883931",
+        "date": "2022-09-29"
+      },
+      {
+        "title": "非常疑惑，好像所有浏览器都没有同步 UI 的布局数据",
+        "link": "https://www.v2ex.com/t/883930",
+        "date": "2022-09-29"
+      },
+      {
         "title": "批量 ocr 扫描件，格式特殊，求思路",
         "link": "https://www.v2ex.com/t/883929",
         "date": "2022-09-29"
@@ -10146,16 +10156,6 @@
         "title": "鉴于 iPhone 耗电贼快，捷径设置电量低于 50%自动开启省电模式",
         "link": "https://www.v2ex.com/t/883882",
         "date": "2022-09-29"
-      },
-      {
-        "title": "教程 | 疑是 BUG？一招使用本地账户安装 Win11 22H2 (家庭版也可用)",
-        "link": "https://www.v2ex.com/t/883881",
-        "date": "2022-09-29"
-      },
-      {
-        "title": "[ Swift ] synthesizer.speak 怎么出声？",
-        "link": "https://www.v2ex.com/t/883880",
-        "date": "2022-09-29"
       }
     ]
   },
@@ -10347,11 +10347,6 @@
         "date": "2022-09-29"
       },
       {
-        "title": "[推荐] 聊聊 8种 架构模式",
-        "link": "https://toutiao.io/k/luf0yh6",
-        "date": "2022-09-29"
-      },
-      {
         "title": "[推荐] 分享16个我总结的思维模型（程序员必读，受用终身）",
         "link": "https://toutiao.io/k/f7r13v5",
         "date": "2022-09-29"
@@ -10359,6 +10354,11 @@
       {
         "title": "[推荐] Netty、Kafka中的零拷贝技术到底有多牛?",
         "link": "https://toutiao.io/k/ussdz4q",
+        "date": "2022-09-29"
+      },
+      {
+        "title": "[推荐] 聊聊 8种 架构模式",
+        "link": "https://toutiao.io/k/luf0yh6",
         "date": "2022-09-29"
       }
     ]

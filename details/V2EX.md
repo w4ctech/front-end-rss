@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2022-09-29 18:24:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-29 18:57:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-09-29-第一次开-Premium,-有一些疑问求解答.-顺便招-5-个长期车友](https://www.v2ex.com/t/883931) 
+- [2022-09-29-非常疑惑，好像所有浏览器都没有同步-UI-的布局数据](https://www.v2ex.com/t/883930) 
 - [2022-09-29-批量-ocr-扫描件，格式特殊，求思路](https://www.v2ex.com/t/883929) 
 - [2022-09-29-王者荣耀乱选英雄为啥不能举报](https://www.v2ex.com/t/883927) 
 - [2022-09-29-国内哪家邮箱支持-smtp/tls-加密啊](https://www.v2ex.com/t/883926) 
@@ -44,5 +46,3 @@
 - [2022-09-29-Python2-已经很熟练了，想要学习-Python3，有没有专门的书籍或教程？](https://www.v2ex.com/t/883886) 
 - [2022-09-29-M1Air-温度很高，烫手](https://www.v2ex.com/t/883883) 
 - [2022-09-29-鉴于-iPhone-耗电贼快，捷径设置电量低于-50%自动开启省电模式](https://www.v2ex.com/t/883882) 
-- [2022-09-29-教程-|-疑是-BUG？一招使用本地账户安装-Win11-22H2-家庭版也可用](https://www.v2ex.com/t/883881) 
-- [2022-09-29--Swift-synthesizer.speak-怎么出声？](https://www.v2ex.com/t/883880) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-29 13:32:14，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-29 14:11:07，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-09-29-秒传书库-Telegram-电报机器人免费下载电子书](https://www.v2ex.com/t/883909) ![](assets/new.png)  
+- [2022-09-29-Linux-bash-脚本中使用-test-命令大全](https://www.v2ex.com/t/883908) ![](assets/new.png)  
+- [2022-09-29-终结内容农场的规则被修改了](https://www.v2ex.com/t/883907) ![](assets/new.png)  
+- [2022-09-29-电子驾照的照片更换成功之后，申请补办实体驾照的照片是更换之前的还是之后的呀？](https://www.v2ex.com/t/883906) ![](assets/new.png)  
+- [2022-09-29-刚续费了-Jetbrains-全家桶三年](https://www.v2ex.com/t/883905) ![](assets/new.png)  
+- [2022-09-29-iPhone-14-Pro-网络断连](https://www.v2ex.com/t/883903) ![](assets/new.png)  
 - [2022-09-29-连续跳绳三个月，我能分享的经验](https://www.v2ex.com/t/883902) ![](assets/new.png)  
 - [2022-09-29-欢迎加入-discord-群组-一起学技术搞钱](https://www.v2ex.com/t/883901) ![](assets/new.png)  
 - [2022-09-29-iPhone-存储空间](https://www.v2ex.com/t/883899) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-09-29-求助：-ROS-机器人-导航实现思路](https://www.v2ex.com/t/883890) ![](assets/new.png)  
 - [2022-09-29-两年前做的一个免费图片压缩-App,有需要的可以试试](https://www.v2ex.com/t/883888) ![](assets/new.png)  
 - [2022-09-29-搞了个-WLB-为主的职位搜集站,目前在测试阶段,可以免费发布职位和申请职位,欢迎大家踩一踩](https://www.v2ex.com/t/883887) ![](assets/new.png)  
-- [2022-09-29-Python2-已经很熟练了，想要学习-Python3，有没有专门的书籍或教程？](https://www.v2ex.com/t/883886) ![](assets/new.png)  
-- [2022-09-29-M1Air-温度很高，烫手](https://www.v2ex.com/t/883883) ![](assets/new.png)  
-- [2022-09-29-鉴于-iPhone-耗电贼快，捷径设置电量低于-50%自动开启省电模式](https://www.v2ex.com/t/883882) ![](assets/new.png)  
-- [2022-09-29-教程-|-疑是-BUG？一招使用本地账户安装-Win11-22H2-家庭版也可用](https://www.v2ex.com/t/883881) ![](assets/new.png)  
-- [2022-09-29--Swift-synthesizer.speak-怎么出声？](https://www.v2ex.com/t/883880) ![](assets/new.png)  
-- [2022-09-29-现在买-13pm-卡贴机划算么？](https://www.v2ex.com/t/883879) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -568,8 +568,8 @@
 - [2022-09-29-秒换存储引擎，又多了一种架构方案？-|-数据库系列](https://toutiao.io/k/re1u97w) ![](assets/new.png)  
 - [2022-09-29-现代-JavaScript-库打包指南](https://toutiao.io/k/quzu3vj) ![](assets/new.png)  
 - [2022-09-29-ASP.NET-Core-在-IIS-下的两种部署模式](https://toutiao.io/k/rj6399s) ![](assets/new.png)  
-- [2022-09-29-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) ![](assets/new.png)  
 - [2022-09-29-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) ![](assets/new.png)  
+- [2022-09-29-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

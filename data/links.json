@@ -9953,6 +9953,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "Stadia 彻底凉凉了",
+        "link": "https://www.v2ex.com/t/883932",
+        "date": "2022-09-29"
+      },
+      {
         "title": "第一次开 Premium, 有一些疑问求解答. 顺便招 5 个长期车友",
         "link": "https://www.v2ex.com/t/883931",
         "date": "2022-09-29"
@@ -10151,11 +10156,6 @@
         "title": "M1Air 温度很高，烫手",
         "link": "https://www.v2ex.com/t/883883",
         "date": "2022-09-29"
-      },
-      {
-        "title": "鉴于 iPhone 耗电贼快，捷径设置电量低于 50%自动开启省电模式",
-        "link": "https://www.v2ex.com/t/883882",
-        "date": "2022-09-29"
       }
     ]
   },
@@ -10352,13 +10352,13 @@
         "date": "2022-09-29"
       },
       {
-        "title": "[推荐] Netty、Kafka中的零拷贝技术到底有多牛?",
-        "link": "https://toutiao.io/k/ussdz4q",
+        "title": "[推荐] 聊聊 8种 架构模式",
+        "link": "https://toutiao.io/k/luf0yh6",
         "date": "2022-09-29"
       },
       {
-        "title": "[推荐] 聊聊 8种 架构模式",
-        "link": "https://toutiao.io/k/luf0yh6",
+        "title": "[推荐] Netty、Kafka中的零拷贝技术到底有多牛?",
+        "link": "https://toutiao.io/k/ussdz4q",
         "date": "2022-09-29"
       }
     ]

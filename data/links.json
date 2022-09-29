@@ -9953,6 +9953,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "M1Air 温度很高，烫手",
+        "link": "https://www.v2ex.com/t/883883",
+        "date": "2022-09-29"
+      },
+      {
         "title": "鉴于 iPhone 耗电贼快，捷径设置电量低于 50%自动开启省电模式",
         "link": "https://www.v2ex.com/t/883882",
         "date": "2022-09-29"
@@ -10151,11 +10156,6 @@
         "title": "有没有营销能力的公司在找技术公司的？",
         "link": "https://www.v2ex.com/t/883836",
         "date": "2022-09-29"
-      },
-      {
-        "title": "亚马逊发布全新 Kindle Scribe 带触控笔和 10.2 英寸大屏",
-        "link": "https://www.v2ex.com/t/883833",
-        "date": "2022-09-29"
       }
     ]
   },
@@ -10347,13 +10347,13 @@
         "date": "2022-09-29"
       },
       {
-        "title": "[推荐] Netty、Kafka中的零拷贝技术到底有多牛?",
-        "link": "https://toutiao.io/k/ussdz4q",
+        "title": "[推荐] 聊聊 8种 架构模式",
+        "link": "https://toutiao.io/k/luf0yh6",
         "date": "2022-09-29"
       },
       {
-        "title": "[推荐] 聊聊 8种 架构模式",
-        "link": "https://toutiao.io/k/luf0yh6",
+        "title": "[推荐] Netty、Kafka中的零拷贝技术到底有多牛?",
+        "link": "https://toutiao.io/k/ussdz4q",
         "date": "2022-09-29"
       }
     ]

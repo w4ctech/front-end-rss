@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-09-29 10:49:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-29 11:14:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-09-29-M1Air-温度很高，烫手](https://www.v2ex.com/t/883883) 
 - [2022-09-29-鉴于-iPhone-耗电贼快，捷径设置电量低于-50%自动开启省电模式](https://www.v2ex.com/t/883882) 
 - [2022-09-29-教程-|-疑是-BUG？一招使用本地账户安装-Win11-22H2-家庭版也可用](https://www.v2ex.com/t/883881) 
 - [2022-09-29--Swift-synthesizer.speak-怎么出声？](https://www.v2ex.com/t/883880) 
@@ -45,4 +46,3 @@
 - [2022-09-29-Python-读取-500M-.pkl-文件,却用了-8-G-内存](https://www.v2ex.com/t/883838) 
 - [2022-09-29-NVIDIA-Racer-RTX](https://www.v2ex.com/t/883837) 
 - [2022-09-29-有没有营销能力的公司在找技术公司的？](https://www.v2ex.com/t/883836) 
-- [2022-09-29-亚马逊发布全新-Kindle-Scribe-带触控笔和-10.2-英寸大屏](https://www.v2ex.com/t/883833) 

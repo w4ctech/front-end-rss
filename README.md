@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-29 10:49:52，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-29 11:14:50，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-09-29-M1Air-温度很高，烫手](https://www.v2ex.com/t/883883) ![](assets/new.png)  
 - [2022-09-29-鉴于-iPhone-耗电贼快，捷径设置电量低于-50%自动开启省电模式](https://www.v2ex.com/t/883882) ![](assets/new.png)  
 - [2022-09-29-教程-|-疑是-BUG？一招使用本地账户安装-Win11-22H2-家庭版也可用](https://www.v2ex.com/t/883881) ![](assets/new.png)  
 - [2022-09-29--Swift-synthesizer.speak-怎么出声？](https://www.v2ex.com/t/883880) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-09-29-关于字符串的疑问](https://www.v2ex.com/t/883865) ![](assets/new.png)  
 - [2022-09-29-整租招室友-9-号线九亭站超大-258-平别墅房](https://www.v2ex.com/t/883864) ![](assets/new.png)  
 - [2022-09-29-打算给孩子买个-pad-用，-最近看好了华为的-matepadpro-11-和-iPad-很难选](https://www.v2ex.com/t/883862) ![](assets/new.png)  
-- [2022-09-29-2009-年-1-月-3-日，财政大臣正处于实施第二轮银行紧急援助的边缘](https://www.v2ex.com/t/883861) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -568,8 +568,8 @@
 - [2022-09-29-ASP.NET-Core-在-IIS-下的两种部署模式](https://toutiao.io/k/rj6399s) ![](assets/new.png)  
 - [2022-09-29-秒换存储引擎，又多了一种架构方案？-|-数据库系列](https://toutiao.io/k/re1u97w) ![](assets/new.png)  
 - [2022-09-29-现代-JavaScript-库打包指南](https://toutiao.io/k/quzu3vj) ![](assets/new.png)  
-- [2022-09-29-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) ![](assets/new.png)  
 - [2022-09-29-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) ![](assets/new.png)  
+- [2022-09-29-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

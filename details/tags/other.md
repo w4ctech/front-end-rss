@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-29 19:43:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-29 20:18:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1975,6 +1975,6 @@
 - [2022-09-29-秒换存储引擎，又多了一种架构方案？-|-数据库系列](https://toutiao.io/k/re1u97w) 
 - [2022-09-29-Go-为什么能火？归功于这-5-个方面](https://toutiao.io/k/dnfw13n) 
 - [2022-09-29-ASP.NET-Core-在-IIS-下的两种部署模式](https://toutiao.io/k/rj6399s) 
-- [2022-09-29-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) 
 - [2022-09-29-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) 
+- [2022-09-29-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) 
 - [2022-09-29-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) 

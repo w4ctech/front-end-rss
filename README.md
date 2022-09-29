@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-29 07:34:13，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-29 08:23:07，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,17 @@
 </summary>
 
 
+- [2022-09-29-有没有用黑群晖-7.1-的？请问你的-Video-Station-离线转码能用吗？](https://www.v2ex.com/t/883845) ![](assets/new.png)  
+- [2022-09-29-为什么没有欲望了](https://www.v2ex.com/t/883842) ![](assets/new.png)  
+- [2022-09-29-求推荐一些高质量杂志](https://www.v2ex.com/t/883841) ![](assets/new.png)  
+- [2022-09-29-小米-5-微信收到消息后不是在顶部有个弹窗吗，你把弹窗向上滑动后就会一分钟消息就不提醒了，还可以设置成息屏解锁后提醒，我想知道这个设置在哪里设置，我第一...](https://www.v2ex.com/t/883840) ![](assets/new.png)  
+- [2022-09-29-分享经验，-2022-年十一假期出行，如何避免防疫一刀切-&-合理计划出行---2](https://www.v2ex.com/t/883839) ![](assets/new.png)  
+- [2022-09-29-Python-读取-500M-.pkl-文件,却用了-8-G-内存](https://www.v2ex.com/t/883838) ![](assets/new.png)  
+- [2022-09-29-NVIDIA-Racer-RTX](https://www.v2ex.com/t/883837) ![](assets/new.png)  
+- [2022-09-29-有没有营销能力的公司在找技术公司的？](https://www.v2ex.com/t/883836) ![](assets/new.png)  
+- [2022-09-29-亚马逊发布全新-Kindle-Scribe-带触控笔和-10.2-英寸大屏](https://www.v2ex.com/t/883833) ![](assets/new.png)  
+- [2022-09-29-Android-兼职国庆期间做一个小-app](https://www.v2ex.com/t/883832) ![](assets/new.png)  
+- [2022-09-29-你们公司的-mac-都是多大内存的？](https://www.v2ex.com/t/883831) ![](assets/new.png)  
 - [2022-09-29-上海整牙有推荐的医生吗](https://www.v2ex.com/t/883830) ![](assets/new.png)  
 - [2022-09-29-为什么-ELK-都不提供一个在命令行停止/关机的命令？](https://www.v2ex.com/t/883829) ![](assets/new.png)  
 - [2022-09-29-你们会不会经常纠结自己的手机续航](https://www.v2ex.com/t/883828) ![](assets/new.png)  
@@ -500,17 +511,6 @@
 - [2022-09-29-兼职了一个晚上的情感咨询，给整-emo-了](https://www.v2ex.com/t/883821) ![](assets/new.png)  
 - [2022-09-29-国内厂商的-vps-大家还敢用吗？](https://www.v2ex.com/t/883820) ![](assets/new.png)  
 - [2022-09-29-iPhone12PM-被偷，只能持续看着位置更新](https://www.v2ex.com/t/883819) ![](assets/new.png)  
-- [2022-09-29-请问这种智商测试的网站是怎么做出来的，我对前端不太懂](https://www.v2ex.com/t/883818) ![](assets/new.png)  
-- [2022-09-29-iPad-判断电池是否有问题是只看电池健康度么？](https://www.v2ex.com/t/883816) ![](assets/new.png)  
-- [2022-09-29-如何关键字屏蔽短信](https://www.v2ex.com/t/883815) ![](assets/new.png)  
-- [2022-09-29-请完成实名认证以便使用-Gitee-Pages-服务](https://www.v2ex.com/t/883814) ![](assets/new.png)  
-- [2022-09-29-岁岁年年，兜兜转转，终究还是回到了故人的怀抱](https://www.v2ex.com/t/883812) ![](assets/new.png)  
-- [2022-09-29-新版”添加到钱包“小程序发布，新增全新设计坊](https://www.v2ex.com/t/883811) ![](assets/new.png)  
-- [2022-09-29-疑似-iOS16-引起的微信浏览器-H5-Bug？](https://www.v2ex.com/t/883810) ![](assets/new.png)  
-- [2022-09-29-ubuntu20-下如何快速把一个程序快速移动到-另一个屏？](https://www.v2ex.com/t/883809) ![](assets/new.png)  
-- [2022-09-29-「小捷径」APP-已更新，新增锁屏组件、桌面组件！](https://www.v2ex.com/t/883808) ![](assets/new.png)  
-- [2022-09-29-机械硬盘为何如此脆弱](https://www.v2ex.com/t/883806) ![](assets/new.png)  
-- [2022-09-29-送你情绪急救包](https://www.v2ex.com/t/883805) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -566,8 +566,8 @@
 - [2022-09-29-Go-为什么能火？归功于这-5-个方面](https://toutiao.io/k/dnfw13n) ![](assets/new.png)  
 - [2022-09-29-ASP.NET-Core-在-IIS-下的两种部署模式](https://toutiao.io/k/rj6399s) ![](assets/new.png)  
 - [2022-09-29-秒换存储引擎，又多了一种架构方案？-|-数据库系列](https://toutiao.io/k/re1u97w) ![](assets/new.png)  
-- [2022-09-29-打造自助对话式数据分析场景，Apache-Doris-在思必驰的应用实践｜最佳实践](https://toutiao.io/k/5uxaxcv) ![](assets/new.png)  
 - [2022-09-29-现代-JavaScript-库打包指南](https://toutiao.io/k/quzu3vj) ![](assets/new.png)  
+- [2022-09-29-打造自助对话式数据分析场景，Apache-Doris-在思必驰的应用实践｜最佳实践](https://toutiao.io/k/5uxaxcv) ![](assets/new.png)  
 - [2022-09-29-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) ![](assets/new.png)  
 - [2022-09-29-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)

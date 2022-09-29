@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2022-09-29 10:18:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-29 10:49:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-09-29-鉴于-iPhone-耗电贼快，捷径设置电量低于-50%自动开启省电模式](https://www.v2ex.com/t/883882) 
+- [2022-09-29-教程-|-疑是-BUG？一招使用本地账户安装-Win11-22H2-家庭版也可用](https://www.v2ex.com/t/883881) 
+- [2022-09-29--Swift-synthesizer.speak-怎么出声？](https://www.v2ex.com/t/883880) 
 - [2022-09-29-现在买-13pm-卡贴机划算么？](https://www.v2ex.com/t/883879) 
 - [2022-09-29-V-友们剪指甲是剪到底还是留一定长度？](https://www.v2ex.com/t/883878) 
 - [2022-09-29-微信的聊天记录能导出来吗](https://www.v2ex.com/t/883876) 
@@ -43,6 +46,3 @@
 - [2022-09-29-NVIDIA-Racer-RTX](https://www.v2ex.com/t/883837) 
 - [2022-09-29-有没有营销能力的公司在找技术公司的？](https://www.v2ex.com/t/883836) 
 - [2022-09-29-亚马逊发布全新-Kindle-Scribe-带触控笔和-10.2-英寸大屏](https://www.v2ex.com/t/883833) 
-- [2022-09-29-Android-兼职国庆期间做一个小-app](https://www.v2ex.com/t/883832) 
-- [2022-09-29-你们公司的-mac-都是多大内存的？](https://www.v2ex.com/t/883831) 
-- [2022-09-29-上海整牙有推荐的医生吗](https://www.v2ex.com/t/883830) 

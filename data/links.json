@@ -9953,6 +9953,21 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "鉴于 iPhone 耗电贼快，捷径设置电量低于 50%自动开启省电模式",
+        "link": "https://www.v2ex.com/t/883882",
+        "date": "2022-09-29"
+      },
+      {
+        "title": "教程 | 疑是 BUG？一招使用本地账户安装 Win11 22H2 (家庭版也可用)",
+        "link": "https://www.v2ex.com/t/883881",
+        "date": "2022-09-29"
+      },
+      {
+        "title": "[ Swift ] synthesizer.speak 怎么出声？",
+        "link": "https://www.v2ex.com/t/883880",
+        "date": "2022-09-29"
+      },
+      {
         "title": "现在买 13pm 卡贴机划算么？",
         "link": "https://www.v2ex.com/t/883879",
         "date": "2022-09-29"
@@ -10141,21 +10156,6 @@
         "title": "亚马逊发布全新 Kindle Scribe 带触控笔和 10.2 英寸大屏",
         "link": "https://www.v2ex.com/t/883833",
         "date": "2022-09-29"
-      },
-      {
-        "title": "[Android 兼职]国庆期间做一个小 app",
-        "link": "https://www.v2ex.com/t/883832",
-        "date": "2022-09-29"
-      },
-      {
-        "title": "你们公司的 mac 都是多大内存的？",
-        "link": "https://www.v2ex.com/t/883831",
-        "date": "2022-09-29"
-      },
-      {
-        "title": "上海整牙有推荐的医生吗",
-        "link": "https://www.v2ex.com/t/883830",
-        "date": "2022-09-29"
       }
     ]
   },
@@ -10282,13 +10282,13 @@
         "date": "2022-09-29"
       },
       {
-        "title": "macOS 和 Linux 有什么区别？",
-        "link": "https://toutiao.io/k/30ao4u0",
+        "title": "《HelloGitHub》第 78 期",
+        "link": "https://toutiao.io/k/vaonlva",
         "date": "2022-09-29"
       },
       {
-        "title": "《HelloGitHub》第 78 期",
-        "link": "https://toutiao.io/k/vaonlva",
+        "title": "macOS 和 Linux 有什么区别？",
+        "link": "https://toutiao.io/k/30ao4u0",
         "date": "2022-09-29"
       },
       {
@@ -10327,13 +10327,13 @@
         "date": "2022-09-29"
       },
       {
-        "title": "ASP.NET Core 在 IIS 下的两种部署模式",
-        "link": "https://toutiao.io/k/rj6399s",
+        "title": "打造自助对话式数据分析场景，Apache Doris 在思必驰的应用实践｜最佳实践",
+        "link": "https://toutiao.io/k/5uxaxcv",
         "date": "2022-09-29"
       },
       {
-        "title": "打造自助对话式数据分析场景，Apache Doris 在思必驰的应用实践｜最佳实践",
-        "link": "https://toutiao.io/k/5uxaxcv",
+        "title": "ASP.NET Core 在 IIS 下的两种部署模式",
+        "link": "https://toutiao.io/k/rj6399s",
         "date": "2022-09-29"
       },
       {

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-30 23:17:16。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-09-30 23:51:23。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -72,6 +72,7 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [【V2EX】2022-09-30-聊个平时日常做饭的话题](https://www.v2ex.com/t/884155) 
 - [【V2EX】2022-09-30-请问:-JS-中对嵌套的-Json-对象进行查询和提取内容有啥好的工具?](https://www.v2ex.com/t/884154) 
 - [【V2EX】2022-09-30-google.com-已被-DNS-污染](https://www.v2ex.com/t/884153) 
 - [【V2EX】2022-09-30-Cloudflare-用户:-YubiKey-5-NFC-$10,-YubiKey-5C-NFC-$11.60](https://www.v2ex.com/t/884151) 
@@ -110,7 +111,6 @@
 - [【V2EX】2022-09-30-有没有用-Wiznote-自部署的？移动端-Wiznote-X-无法登录...](https://www.v2ex.com/t/884110) 
 - [【V2EX】2022-09-30-18-年配的老电脑想小升级下，来帮忙出出主意](https://www.v2ex.com/t/884109) 
 - [【V2EX】2022-09-30-家用千兆软路由求推荐](https://www.v2ex.com/t/884107) 
-- [【V2EX】2022-09-30-mac-电脑两个大问题求救！一直没解决](https://www.v2ex.com/t/884105) 
 - [【技术头条】2022-09-30-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-30-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-30-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -147,8 +147,8 @@
 - [【开发者头条】2022-09-30-内核中-Rust-支持的下一步动作](https://toutiao.io/k/v23av97) 
 - [【开发者头条】2022-09-30-使用-KubeEdge-和-EdgeMesh-实现边缘复杂网络场景下的节点通信](https://toutiao.io/k/sbv9q9u) 
 - [【开发者头条】2022-09-30-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) 
-- [【开发者头条】2022-09-30-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) 
 - [【开发者头条】2022-09-30-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) 
+- [【开发者头条】2022-09-30-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

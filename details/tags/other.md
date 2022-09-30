@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-30 11:14:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-30 11:43:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1914,6 +1914,8 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-09-30-移动硬盘推荐使用-APFS-格式吗？](https://www.v2ex.com/t/884094) 
+- [2022-09-30-求助，不同网段互通问题](https://www.v2ex.com/t/884093) 
 - [2022-09-30-压抑太久,上来缓口气,不知道是否继续下去](https://www.v2ex.com/t/884090) 
 - [2022-09-30-浅谈敏捷：你的团队在正确实践敏捷吗？](https://www.v2ex.com/t/884089) 
 - [2022-09-30-xa8.net-咋不更新了](https://www.v2ex.com/t/884088) 
@@ -1944,9 +1946,6 @@
 - [2022-09-30-为什么-epub-mobi-之类的电子书打开很慢？完全没有-PDF-快](https://www.v2ex.com/t/884048) 
 - [2022-09-30-推荐一个快速参考备忘清单-Quick-Reference](https://www.v2ex.com/t/884046) 
 - [2022-09-30-我实在没想到一个外接显示器-bug-苹果能从-beta5-搞到-beta9](https://www.v2ex.com/t/884045) 
-- [2022-09-30-各位国庆假期都有什么安排呢](https://www.v2ex.com/t/884044) 
-- [2022-09-30-怎么解决-excel-for-mac-打开带有外部链接的文件时特别慢的问题](https://www.v2ex.com/t/884043) 
-- [2022-09-30-科学上网为什么电脑网页打不开-手机确可以](https://www.v2ex.com/t/884042) 
 - [2022-09-30-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-30-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-30-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1968,8 +1967,8 @@
 - [2022-09-30-​打造企业自己代码规范-IDEA-插件（中）](https://toutiao.io/k/i8p0zo4) 
 - [2022-09-30-研发视角：一个需求应该怎么拆解与实现？](https://toutiao.io/k/27rashp) 
 - [2022-09-30-C++20-协程初探](https://toutiao.io/k/pmpq60v) 
-- [2022-09-30-Go-语言官方依赖注入工具-Wire-使用指北](https://toutiao.io/k/kvhb66e) 
 - [2022-09-30-1.3w-字，一文详解死锁](https://toutiao.io/k/cpuopkj) 
+- [2022-09-30-Go-语言官方依赖注入工具-Wire-使用指北](https://toutiao.io/k/kvhb66e) 
 - [2022-09-30-亿级流量场景下平滑扩容：TDSQL-水平拓展方案实践](https://toutiao.io/k/349hr3n) 
 - [2022-09-30-基于Apache-Hudi-+-Flink-多流拼接（大宽表）最佳实践](https://toutiao.io/k/45wkfy6) 
 - [2022-09-30-软件开发人员如何提高个人和团队工作效率](https://toutiao.io/k/zxfp2qa) 
@@ -1977,6 +1976,6 @@
 - [2022-09-30-多云容器编排-Karmada-Operator-实践](https://toutiao.io/k/vqktmfe) 
 - [2022-09-30-一文读懂零拷贝技术｜splice-使用](https://toutiao.io/k/wic3f12) 
 - [2022-09-30-内核中-Rust-支持的下一步动作](https://toutiao.io/k/v23av97) 
+- [2022-09-30-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) 
 - [2022-09-30-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) 
 - [2022-09-30-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) 
-- [2022-09-30-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) 

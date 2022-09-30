@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-30 01:51:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-30 04:31:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## CSS
 
@@ -12,4 +12,3 @@
 - [2022-07-27-万物皆可clip-path，纯CSS绘制0-9数字](https://www.zhangxinxu.com/wordpress/2022/07/clip-path-css-number/) 
 - [2022-07-21-超酷！CSS-font-palette与彩色字体显示](https://www.zhangxinxu.com/wordpress/2022/07/css-font-palette/) 
 - [2022-06-30-CSS排版为何强？瞧瞧多牛这换行](https://www.zhangxinxu.com/wordpress/2022/06/css-line-break-word-wrap-all/) 
-- [2022-09-29-xpath-这么强,-为什么浏览器不干脆用它代替-css-选择器,-W3C-也干脆不要再搞-CSS-选择器算了](https://www.v2ex.com/t/883921) 

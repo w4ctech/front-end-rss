@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-30 14:32:07。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-09-30 15:00:03。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -72,6 +72,9 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [【V2EX】2022-09-30-有办法修改-Hyper-V-的硬件信息吗？](https://www.v2ex.com/t/884124) 
+- [【V2EX】2022-09-30-开发了一款白噪音小程序，感兴趣的小伙伴进](https://www.v2ex.com/t/884123) 
+- [【V2EX】2022-09-30-临时起意搞了携号转网，北京电信-TO-联通。](https://www.v2ex.com/t/884121) 
 - [【V2EX】2022-09-30-想问一下如何分辨高仿的-earpods](https://www.v2ex.com/t/884120) 
 - [【V2EX】2022-09-30-CloudFlare-发放-$10-的-yubikey-优惠券](https://www.v2ex.com/t/884118) 
 - [【V2EX】2022-09-30-mac-系统按什么可以模拟-鼠标的中键](https://www.v2ex.com/t/884117) 
@@ -112,7 +115,6 @@
 - [【V2EX】2022-09-30-今天出了个小车祸,感觉挺无奈的...](https://www.v2ex.com/t/884077) 
 - [【V2EX】2022-09-30-快手&内推&持续](https://www.v2ex.com/t/884076) 
 - [【V2EX】2022-09-30-分享一下自建的-emby-服务器](https://www.v2ex.com/t/884075) 
-- [【V2EX】2022-09-30-面对屎山代码，有没有好的解决办法](https://www.v2ex.com/t/884071) 
 - [【技术头条】2022-09-30-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-30-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-30-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -149,8 +151,8 @@
 - [【开发者头条】2022-09-30-一文读懂零拷贝技术｜splice-使用](https://toutiao.io/k/wic3f12) 
 - [【开发者头条】2022-09-30-使用-KubeEdge-和-EdgeMesh-实现边缘复杂网络场景下的节点通信](https://toutiao.io/k/sbv9q9u) 
 - [【开发者头条】2022-09-30-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) 
-- [【开发者头条】2022-09-30-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) 
 - [【开发者头条】2022-09-30-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) 
+- [【开发者头条】2022-09-30-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

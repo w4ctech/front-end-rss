@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-30 17:57:47。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-09-30 18:23:22。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -72,6 +72,7 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [【V2EX】2022-09-30-Monterey-真搞笑，开了文件共享唯独-macOS-连不上，其它系统连的超级流畅](https://www.v2ex.com/t/884146) 
 - [【V2EX】2022-09-30-鸿雁拼音输入法在最新的评测中取得准确率全球第二的好成绩](https://www.v2ex.com/t/884145) 
 - [【V2EX】2022-09-30-iPad-Pro-12.9-15.6.1（5th-generation）在用-OneNote-时，怎么能快速将截图插入笔记中？](https://www.v2ex.com/t/884144) 
 - [【V2EX】2022-09-30-MAC-上可以自动添加时间信息的软件推荐，谢谢！](https://www.v2ex.com/t/884143) 
@@ -111,7 +112,6 @@
 - [【V2EX】2022-09-30-用了两年半的一代-Airpods-Pro，今天-M-号的耳塞终于老化了。换了-L-号的耳塞](https://www.v2ex.com/t/884099) 
 - [【V2EX】2022-09-30-WebServer-异步日志模块，-Log-类构析导致线程死锁,-不知如何解除异步线程阻塞](https://www.v2ex.com/t/884098) 
 - [【V2EX】2022-09-30-一级注册建筑师求私活，小建筑或者住宅店铺装修均可，也可以免费咨询一些问题第二弹）](https://www.v2ex.com/t/884097) 
-- [【V2EX】2022-09-30-刚入手了-Apple-Watch-s8，连接的-iPhone-上的-id-为美区-id，为什么手表让我登录国区的-id-密码呢？](https://www.v2ex.com/t/884096) 
 - [【技术头条】2022-09-30-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-30-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-30-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -144,12 +144,12 @@
 - [【开发者头条】2022-09-30-基于Apache-Hudi-+-Flink-多流拼接（大宽表）最佳实践](https://toutiao.io/k/45wkfy6) 
 - [【开发者头条】2022-09-30-多云容器编排-Karmada-Operator-实践](https://toutiao.io/k/vqktmfe) 
 - [【开发者头条】2022-09-30-【第2744期】更好的-React-SSR](https://toutiao.io/k/5sahq6x) 
-- [【开发者头条】2022-09-30-内核中-Rust-支持的下一步动作](https://toutiao.io/k/v23av97) 
 - [【开发者头条】2022-09-30-一文读懂零拷贝技术｜splice-使用](https://toutiao.io/k/wic3f12) 
+- [【开发者头条】2022-09-30-内核中-Rust-支持的下一步动作](https://toutiao.io/k/v23av97) 
 - [【开发者头条】2022-09-30-使用-KubeEdge-和-EdgeMesh-实现边缘复杂网络场景下的节点通信](https://toutiao.io/k/sbv9q9u) 
-- [【开发者头条】2022-09-30-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) 
-- [【开发者头条】2022-09-30-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) 
 - [【开发者头条】2022-09-30-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) 
+- [【开发者头条】2022-09-30-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) 
+- [【开发者头条】2022-09-30-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

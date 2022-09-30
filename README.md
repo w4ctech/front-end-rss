@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-30 11:43:49，:rocket: 更新条数: +2025， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-30 12:33:15，:rocket: 更新条数: +2025， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-09-30-用了两年半的一代-Airpods-Pro，今天-M-号的耳塞终于老化了。换了-L-号的耳塞](https://www.v2ex.com/t/884099) ![](assets/new.png)  
+- [2022-09-30-WebServer-异步日志模块，-Log-类构析导致线程死锁,-不知如何解除异步线程阻塞](https://www.v2ex.com/t/884098) ![](assets/new.png)  
+- [2022-09-30-一级注册建筑师求私活，小建筑或者住宅店铺装修均可，也可以免费咨询一些问题第二弹）](https://www.v2ex.com/t/884097) ![](assets/new.png)  
+- [2022-09-30-刚入手了-Apple-Watch-s8，连接的-iPhone-上的-id-为美区-id，为什么手表让我登录国区的-id-密码呢？](https://www.v2ex.com/t/884096) ![](assets/new.png)  
+- [2022-09-30-nreal-air-试用体验](https://www.v2ex.com/t/884095) ![](assets/new.png)  
 - [2022-09-30-移动硬盘推荐使用-APFS-格式吗？](https://www.v2ex.com/t/884094) ![](assets/new.png)  
 - [2022-09-30-求助，不同网段互通问题](https://www.v2ex.com/t/884093) ![](assets/new.png)  
 - [2022-09-30-github-ssh-认证失败](https://www.v2ex.com/t/884092) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-09-30-好工具周刊（第-32-期）:-特别篇-实用开源工具推荐-#1](https://www.v2ex.com/t/884081) ![](assets/new.png)  
 - [2022-09-30-坐高铁,被手机气到了!](https://www.v2ex.com/t/884080) ![](assets/new.png)  
 - [2022-09-30-翻译了一篇-FFmpeg-的教程](https://www.v2ex.com/t/884079) ![](assets/new.png)  
-- [2022-09-30-由中国天气网二级目录被黑/被卖想到的：你们会用技术去做黑产吗？](https://www.v2ex.com/t/884078) ![](assets/new.png)  
-- [2022-09-30-今天出了个小车祸,感觉挺无奈的...](https://www.v2ex.com/t/884077) ![](assets/new.png)  
-- [2022-09-30-快手&内推&持续](https://www.v2ex.com/t/884076) ![](assets/new.png)  
-- [2022-09-30-分享一下自建的-emby-服务器](https://www.v2ex.com/t/884075) ![](assets/new.png)  
-- [2022-09-30-apple-music-家庭版，有人上车吗](https://www.v2ex.com/t/884072) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -559,18 +559,18 @@
 - [2022-09-30-1.3w-字，一文详解死锁](https://toutiao.io/k/cpuopkj) ![](assets/new.png)  
 - [2022-09-30-Go-语言官方依赖注入工具-Wire-使用指北](https://toutiao.io/k/kvhb66e) ![](assets/new.png)  
 - [2022-09-30-Rust-是如何做到内存安全的](https://toutiao.io/k/qo85gu8) ![](assets/new.png)  
+- [2022-09-30-软件开发人员如何提高个人和团队工作效率](https://toutiao.io/k/zxfp2qa) ![](assets/new.png)  
 - [2022-09-30-亿级流量场景下平滑扩容：TDSQL-水平拓展方案实践](https://toutiao.io/k/349hr3n) ![](assets/new.png)  
 - [2022-09-30-基于Apache-Hudi-+-Flink-多流拼接（大宽表）最佳实践](https://toutiao.io/k/45wkfy6) ![](assets/new.png)  
-- [2022-09-30-软件开发人员如何提高个人和团队工作效率](https://toutiao.io/k/zxfp2qa) ![](assets/new.png)  
 - [2022-09-30-为什么实际开发时间总比估算的多很多？](https://toutiao.io/k/j4adagq) ![](assets/new.png)  
 - [2022-09-30-多云容器编排-Karmada-Operator-实践](https://toutiao.io/k/vqktmfe) ![](assets/new.png)  
 - [2022-09-30-【第2744期】更好的-React-SSR](https://toutiao.io/k/5sahq6x) ![](assets/new.png)  
 - [2022-09-30-一文读懂零拷贝技术｜splice-使用](https://toutiao.io/k/wic3f12) ![](assets/new.png)  
 - [2022-09-30-内核中-Rust-支持的下一步动作](https://toutiao.io/k/v23av97) ![](assets/new.png)  
 - [2022-09-30-使用-KubeEdge-和-EdgeMesh-实现边缘复杂网络场景下的节点通信](https://toutiao.io/k/sbv9q9u) ![](assets/new.png)  
-- [2022-09-30-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) ![](assets/new.png)  
-- [2022-09-30-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) ![](assets/new.png)  
 - [2022-09-30-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) ![](assets/new.png)  
+- [2022-09-30-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) ![](assets/new.png)  
+- [2022-09-30-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

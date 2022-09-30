@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-30 09:04:01，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-30 09:53:19，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,17 @@
 </summary>
 
 
+- [2022-09-30-国庆出行高峰从现在开始，你们堵车了吗](https://www.v2ex.com/t/884082) ![](assets/new.png)  
+- [2022-09-30-好工具周刊（第-32-期）:-特别篇-实用开源工具推荐-#1](https://www.v2ex.com/t/884081) ![](assets/new.png)  
+- [2022-09-30-坐高铁,被手机气到了!](https://www.v2ex.com/t/884080) ![](assets/new.png)  
+- [2022-09-30-翻译了一篇-FFmpeg-的教程](https://www.v2ex.com/t/884079) ![](assets/new.png)  
+- [2022-09-30-由中国天气网二级目录被黑/被卖想到的：你们会用技术去做黑产吗？](https://www.v2ex.com/t/884078) ![](assets/new.png)  
+- [2022-09-30-今天出了个小车祸,感觉挺无奈的...](https://www.v2ex.com/t/884077) ![](assets/new.png)  
+- [2022-09-30-快手&内推&持续](https://www.v2ex.com/t/884076) ![](assets/new.png)  
+- [2022-09-30-分享一下自建的-emby-服务器](https://www.v2ex.com/t/884075) ![](assets/new.png)  
+- [2022-09-30-apple-music-家庭版，有人上车吗](https://www.v2ex.com/t/884072) ![](assets/new.png)  
+- [2022-09-30-面对屎山代码，有没有好的解决办法](https://www.v2ex.com/t/884071) ![](assets/new.png)  
+- [2022-09-30-iPhone-使用广电卡无法开启个人热点？](https://www.v2ex.com/t/884070) ![](assets/new.png)  
 - [2022-09-30-使用-2D-Diffusion-的-Text-to-3D](https://www.v2ex.com/t/884069) ![](assets/new.png)  
 - [2022-09-30-为什么女生很反感男生抽烟喝酒泡吧？](https://www.v2ex.com/t/884066) ![](assets/new.png)  
 - [2022-09-30-我开源了一个月的-JS-库上了-JavaScript-Weekly！](https://www.v2ex.com/t/884065) ![](assets/new.png)  
@@ -500,17 +511,6 @@
 - [2022-09-30-PC-版微信升级到-3.7.6.44-版，现在一天崩几十次](https://www.v2ex.com/t/884061) ![](assets/new.png)  
 - [2022-09-30-怎么最近电信话费优惠都没有？](https://www.v2ex.com/t/884060) ![](assets/new.png)  
 - [2022-09-30-武汉房贷还剩几万，有必要提前还清吗？](https://www.v2ex.com/t/884059) ![](assets/new.png)  
-- [2022-09-30-TG-上有没有人多的资源分享群](https://www.v2ex.com/t/884058) ![](assets/new.png)  
-- [2022-09-30-内推-币圈大厂急招](https://www.v2ex.com/t/884057) ![](assets/new.png)  
-- [2022-09-30-手机-H5-页面下载视频到用户手机按钮如何实现。](https://www.v2ex.com/t/884055) ![](assets/new.png)  
-- [2022-09-30-如何通过执行-SQL-为低代码项目提速？](https://www.v2ex.com/t/884054) ![](assets/new.png)  
-- [2022-09-30-重磅发布！-Orbit-云原生应用全生命周期管理工具上线啦！](https://www.v2ex.com/t/884051) ![](assets/new.png)  
-- [2022-09-30-VSCode-中双击选中内容无法通过-Ctrl+C-复制（误会，勿入）](https://www.v2ex.com/t/884050) ![](assets/new.png)  
-- [2022-09-30-为什么-Linux-现在对硬件的需求和-windows-对硬件的需求差别越来越大](https://www.v2ex.com/t/884049) ![](assets/new.png)  
-- [2022-09-30-为什么-epub-mobi-之类的电子书打开很慢？完全没有-PDF-快](https://www.v2ex.com/t/884048) ![](assets/new.png)  
-- [2022-09-30-推荐一个快速参考备忘清单-Quick-Reference](https://www.v2ex.com/t/884046) ![](assets/new.png)  
-- [2022-09-30-我实在没想到一个外接显示器-bug-苹果能从-beta5-搞到-beta9](https://www.v2ex.com/t/884045) ![](assets/new.png)  
-- [2022-09-30-各位国庆假期都有什么安排呢](https://www.v2ex.com/t/884044) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -560,8 +560,8 @@
 - [2022-09-30-Rust-是如何做到内存安全的](https://toutiao.io/k/qo85gu8) ![](assets/new.png)  
 - [2022-09-30-亿级流量场景下平滑扩容：TDSQL-水平拓展方案实践](https://toutiao.io/k/349hr3n) ![](assets/new.png)  
 - [2022-09-30-基于Apache-Hudi-+-Flink-多流拼接（大宽表）最佳实践](https://toutiao.io/k/45wkfy6) ![](assets/new.png)  
-- [2022-09-30-软件开发人员如何提高个人和团队工作效率](https://toutiao.io/k/zxfp2qa) ![](assets/new.png)  
 - [2022-09-30-1.3w-字，一文详解死锁](https://toutiao.io/k/cpuopkj) ![](assets/new.png)  
+- [2022-09-30-软件开发人员如何提高个人和团队工作效率](https://toutiao.io/k/zxfp2qa) ![](assets/new.png)  
 - [2022-09-30-为什么实际开发时间总比估算的多很多？](https://toutiao.io/k/j4adagq) ![](assets/new.png)  
 - [2022-09-30-多云容器编排-Karmada-Operator-实践](https://toutiao.io/k/vqktmfe) ![](assets/new.png)  
 - [2022-09-30-【第2744期】更好的-React-SSR](https://toutiao.io/k/5sahq6x) ![](assets/new.png)  
@@ -569,8 +569,8 @@
 - [2022-09-30-内核中-Rust-支持的下一步动作](https://toutiao.io/k/v23av97) ![](assets/new.png)  
 - [2022-09-30-使用-KubeEdge-和-EdgeMesh-实现边缘复杂网络场景下的节点通信](https://toutiao.io/k/sbv9q9u) ![](assets/new.png)  
 - [2022-09-30-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) ![](assets/new.png)  
-- [2022-09-30-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) ![](assets/new.png)  
 - [2022-09-30-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) ![](assets/new.png)  
+- [2022-09-30-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

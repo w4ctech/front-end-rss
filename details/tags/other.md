@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-30 13:52:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-30 14:32:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1914,6 +1914,9 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-09-30-想问一下如何分辨高仿的-earpods](https://www.v2ex.com/t/884120) 
+- [2022-09-30-CloudFlare-发放-$10-的-yubikey-优惠券](https://www.v2ex.com/t/884118) 
+- [2022-09-30-mac-系统按什么可以模拟-鼠标的中键](https://www.v2ex.com/t/884117) 
 - [2022-09-30-G-suite/Workspace-域名邮箱怎么以其他前缀作为发件人发送邮件？](https://www.v2ex.com/t/884115) 
 - [2022-09-30-Airpods-pro2-二代有个大-bug](https://www.v2ex.com/t/884114) 
 - [2022-09-30-很好奇，大家通常所述的对-XX-电信/XX-联通/XX-移动出国线路友好的线路是什么意思？](https://www.v2ex.com/t/884113) 
@@ -1944,8 +1947,6 @@
 - [2022-09-30-快手&内推&持续](https://www.v2ex.com/t/884076) 
 - [2022-09-30-分享一下自建的-emby-服务器](https://www.v2ex.com/t/884075) 
 - [2022-09-30-面对屎山代码，有没有好的解决办法](https://www.v2ex.com/t/884071) 
-- [2022-09-30-iPhone-使用广电卡无法开启个人热点？](https://www.v2ex.com/t/884070) 
-- [2022-09-30-为什么女生很反感男生抽烟喝酒泡吧？](https://www.v2ex.com/t/884066) 
 - [2022-09-30-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-30-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-30-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1974,8 +1975,8 @@
 - [2022-09-30-基于Apache-Hudi-+-Flink-多流拼接（大宽表）最佳实践](https://toutiao.io/k/45wkfy6) 
 - [2022-09-30-为什么实际开发时间总比估算的多很多？](https://toutiao.io/k/j4adagq) 
 - [2022-09-30-多云容器编排-Karmada-Operator-实践](https://toutiao.io/k/vqktmfe) 
-- [2022-09-30-一文读懂零拷贝技术｜splice-使用](https://toutiao.io/k/wic3f12) 
 - [2022-09-30-内核中-Rust-支持的下一步动作](https://toutiao.io/k/v23av97) 
-- [2022-09-30-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) 
+- [2022-09-30-一文读懂零拷贝技术｜splice-使用](https://toutiao.io/k/wic3f12) 
 - [2022-09-30-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) 
 - [2022-09-30-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) 
+- [2022-09-30-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) 

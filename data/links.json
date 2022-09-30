@@ -9953,6 +9953,31 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "压抑太久,上来缓口气,不知道是否继续下去",
+        "link": "https://www.v2ex.com/t/884090",
+        "date": "2022-09-30"
+      },
+      {
+        "title": "浅谈敏捷：你的团队在正确实践敏捷吗？",
+        "link": "https://www.v2ex.com/t/884089",
+        "date": "2022-09-30"
+      },
+      {
+        "title": "xa8.net 咋不更新了",
+        "link": "https://www.v2ex.com/t/884088",
+        "date": "2022-09-30"
+      },
+      {
+        "title": "olivida.eth. limo/ 这个结尾 limo 应该是个公共网关吧? 这样普通 Http 才可以访问到 ipfs 上的内容",
+        "link": "https://www.v2ex.com/t/884087",
+        "date": "2022-09-30"
+      },
+      {
+        "title": "B 站 WEB 端开始给已登录用户推专属广告了？",
+        "link": "https://www.v2ex.com/t/884086",
+        "date": "2022-09-30"
+      },
+      {
         "title": "《网络优化原理与实践》 - 看完不怕网络面试",
         "link": "https://www.v2ex.com/t/884085",
         "date": "2022-09-30"
@@ -10136,31 +10161,6 @@
         "title": "如何让自己的 github 项目快速涨粉",
         "link": "https://www.v2ex.com/t/884041",
         "date": "2022-09-30"
-      },
-      {
-        "title": "试用期没过，迷茫了，想躺平了",
-        "link": "https://www.v2ex.com/t/884040",
-        "date": "2022-09-30"
-      },
-      {
-        "title": "你最近买的纸质书是什么",
-        "link": "https://www.v2ex.com/t/884039",
-        "date": "2022-09-30"
-      },
-      {
-        "title": "c#转 c++，各位觉得如何",
-        "link": "https://www.v2ex.com/t/884038",
-        "date": "2022-09-30"
-      },
-      {
-        "title": "问个问题哈,上级想要我搞个 app 上架谷歌商店,然后......",
-        "link": "https://www.v2ex.com/t/884037",
-        "date": "2022-09-30"
-      },
-      {
-        "title": "Node 框架选型或包推荐",
-        "link": "https://www.v2ex.com/t/884036",
-        "date": "2022-09-30"
       }
     ]
   },
@@ -10302,6 +10302,11 @@
         "date": "2022-09-30"
       },
       {
+        "title": "1.3w 字，一文详解死锁",
+        "link": "https://toutiao.io/k/cpuopkj",
+        "date": "2022-09-30"
+      },
+      {
         "title": "亿级流量场景下平滑扩容：TDSQL 水平拓展方案实践",
         "link": "https://toutiao.io/k/349hr3n",
         "date": "2022-09-30"
@@ -10309,11 +10314,6 @@
       {
         "title": "基于Apache Hudi + Flink 多流拼接（大宽表）最佳实践",
         "link": "https://toutiao.io/k/45wkfy6",
-        "date": "2022-09-30"
-      },
-      {
-        "title": "1.3w 字，一文详解死锁",
-        "link": "https://toutiao.io/k/cpuopkj",
         "date": "2022-09-30"
       },
       {
@@ -10352,13 +10352,13 @@
         "date": "2022-09-30"
       },
       {
-        "title": "[推荐] 聊聊 8种 架构模式",
-        "link": "https://toutiao.io/k/luf0yh6",
+        "title": "[推荐] 分享16个我总结的思维模型（程序员必读，受用终身）",
+        "link": "https://toutiao.io/k/f7r13v5",
         "date": "2022-09-30"
       },
       {
-        "title": "[推荐] 分享16个我总结的思维模型（程序员必读，受用终身）",
-        "link": "https://toutiao.io/k/f7r13v5",
+        "title": "[推荐] 聊聊 8种 架构模式",
+        "link": "https://toutiao.io/k/luf0yh6",
         "date": "2022-09-30"
       },
       {

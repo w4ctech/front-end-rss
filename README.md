@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-30 06:49:37，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-30 07:38:32，:rocket: 更新条数: +2023， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,18 @@
 </summary>
 
 
+- [2022-09-30-怎么解决-excel-for-mac-打开带有外部链接的文件时特别慢的问题](https://www.v2ex.com/t/884043) ![](assets/new.png)  
+- [2022-09-30-科学上网为什么电脑网页打不开-手机确可以](https://www.v2ex.com/t/884042) ![](assets/new.png)  
+- [2022-09-30-如何让自己的-github-项目快速涨粉](https://www.v2ex.com/t/884041) ![](assets/new.png)  
+- [2022-09-30-试用期没过，迷茫了，想躺平了](https://www.v2ex.com/t/884040) ![](assets/new.png)  
+- [2022-09-30-你最近买的纸质书是什么](https://www.v2ex.com/t/884039) ![](assets/new.png)  
+- [2022-09-30-c#转-c++，各位觉得如何](https://www.v2ex.com/t/884038) ![](assets/new.png)  
+- [2022-09-30-问个问题哈,上级想要我搞个-app-上架谷歌商店,然后......](https://www.v2ex.com/t/884037) ![](assets/new.png)  
+- [2022-09-30-Node-框架选型或包推荐](https://www.v2ex.com/t/884036) ![](assets/new.png)  
+- [2022-09-30-请问这段-Java-代码能保证线程安全吗](https://www.v2ex.com/t/884035) ![](assets/new.png)  
+- [2022-09-30-该如何得到一份腾讯表情大全？](https://www.v2ex.com/t/884034) ![](assets/new.png)  
+- [2022-09-30-家中网线布线头疼不已，有没有运维大佬能给个方案](https://www.v2ex.com/t/884033) ![](assets/new.png)  
+- [2022-09-30-已有-MacBook-m1-版本。想要换手机，更换-iPhone-有哪些优势么](https://www.v2ex.com/t/884032) ![](assets/new.png)  
 - [2022-09-30-话说入职的性格测试会影响后续很久吗？](https://www.v2ex.com/t/884031) ![](assets/new.png)  
 - [2022-09-30-如何快速下载-ImageNet-上-1T-大小的压缩包](https://www.v2ex.com/t/884030) ![](assets/new.png)  
 - [2022-09-30-写了一个匹配交友的公众号，运营了一周，结果..](https://www.v2ex.com/t/884029) ![](assets/new.png)  
@@ -499,18 +511,6 @@
 - [2022-09-30-国内除了大厂还有哪些公司在招聘-Linux-内核开发的岗位？](https://www.v2ex.com/t/884025) ![](assets/new.png)  
 - [2022-09-30-bundlehunt-新包，包含-MURUS/AnyGO/WonderPen/Expressions-等](https://www.v2ex.com/t/884024) ![](assets/new.png)  
 - [2022-09-30-Linux-怎么全盘备份/恢复/迁移](https://www.v2ex.com/t/884022) ![](assets/new.png)  
-- [2022-09-30-有一起干的吗？](https://www.v2ex.com/t/884021) ![](assets/new.png)  
-- [2022-09-30-为什么大家对使用盗版软件那么义愤填膺，然后对去掉开屏广告，又如此的包容且支持？](https://www.v2ex.com/t/884020) ![](assets/new.png)  
-- [2022-09-30-如何清除互联网上各种自己的隐私](https://www.v2ex.com/t/884019) ![](assets/new.png)  
-- [2022-09-30-现在是羡慕时间~](https://www.v2ex.com/t/884016) ![](assets/new.png)  
-- [2022-09-30-网站用户自定义-https-域名什么方案合适？](https://www.v2ex.com/t/884015) ![](assets/new.png)  
-- [2022-09-30-用心电监测有什么好功能可以做？大家一起想想](https://www.v2ex.com/t/884014) ![](assets/new.png)  
-- [2022-09-30-这样破解科技与狠活！](https://www.v2ex.com/t/884013) ![](assets/new.png)  
-- [2022-09-30-做越南产品可以关注：越南-VPS-产品-无限流量-国内基本直连-100Mbps](https://www.v2ex.com/t/884011) ![](assets/new.png)  
-- [2022-09-30-关于源语言、目标语言之间的翻译效果，有什么统计或研究吗？](https://www.v2ex.com/t/884010) ![](assets/new.png)  
-- [2022-09-30-spark-mail-如何添加-gmail-账户](https://www.v2ex.com/t/884009) ![](assets/new.png)  
-- [2022-09-30-Sql-数据库是怎么存放变长列的呀？](https://www.v2ex.com/t/884007) ![](assets/new.png)  
-- [2022-09-30-在什么情况下一定要放弃-SQLite-采用-MySQL-呢？](https://www.v2ex.com/t/884005) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -565,12 +565,12 @@
 - [2022-09-30-为什么实际开发时间总比估算的多很多？](https://toutiao.io/k/j4adagq) ![](assets/new.png)  
 - [2022-09-30-多云容器编排-Karmada-Operator-实践](https://toutiao.io/k/vqktmfe) ![](assets/new.png)  
 - [2022-09-30-【第2744期】更好的-React-SSR](https://toutiao.io/k/5sahq6x) ![](assets/new.png)  
-- [2022-09-30-内核中-Rust-支持的下一步动作](https://toutiao.io/k/v23av97) ![](assets/new.png)  
 - [2022-09-30-一文读懂零拷贝技术｜splice-使用](https://toutiao.io/k/wic3f12) ![](assets/new.png)  
+- [2022-09-30-内核中-Rust-支持的下一步动作](https://toutiao.io/k/v23av97) ![](assets/new.png)  
 - [2022-09-30-使用-KubeEdge-和-EdgeMesh-实现边缘复杂网络场景下的节点通信](https://toutiao.io/k/sbv9q9u) ![](assets/new.png)  
 - [2022-09-30-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) ![](assets/new.png)  
-- [2022-09-30-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) ![](assets/new.png)  
 - [2022-09-30-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) ![](assets/new.png)  
+- [2022-09-30-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

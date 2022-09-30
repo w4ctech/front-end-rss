@@ -9953,6 +9953,31 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "公司有一批宝德 Linux 服务器（AMD 的 EPYC-7313 的 cpu）的 cpu 频率很奇怪",
+        "link": "https://www.v2ex.com/t/884141",
+        "date": "2022-09-30"
+      },
+      {
+        "title": "有没有带 GPU 加速的 windows in docker",
+        "link": "https://www.v2ex.com/t/884140",
+        "date": "2022-09-30"
+      },
+      {
+        "title": "大家的九月挑战完成了吗？十月挑战是什么？",
+        "link": "https://www.v2ex.com/t/884139",
+        "date": "2022-09-30"
+      },
+      {
+        "title": "求问如何量化输入变量与输出变量之间的关系",
+        "link": "https://www.v2ex.com/t/884138",
+        "date": "2022-09-30"
+      },
+      {
+        "title": "谷歌搜索移动端啥时候有这些变化的",
+        "link": "https://www.v2ex.com/t/884136",
+        "date": "2022-09-30"
+      },
+      {
         "title": "国内目前是否基本上已经没有可靠的短链接生成服务了？",
         "link": "https://www.v2ex.com/t/884135",
         "date": "2022-09-30"
@@ -10125,31 +10150,6 @@
       {
         "title": "github ssh 认证失败",
         "link": "https://www.v2ex.com/t/884092",
-        "date": "2022-09-30"
-      },
-      {
-        "title": "压抑太久,上来缓口气,不知道是否继续下去",
-        "link": "https://www.v2ex.com/t/884090",
-        "date": "2022-09-30"
-      },
-      {
-        "title": "浅谈敏捷：你的团队在正确实践敏捷吗？",
-        "link": "https://www.v2ex.com/t/884089",
-        "date": "2022-09-30"
-      },
-      {
-        "title": "xa8.net 咋不更新了",
-        "link": "https://www.v2ex.com/t/884088",
-        "date": "2022-09-30"
-      },
-      {
-        "title": "olivida.eth. limo/ 这个结尾 limo 应该是个公共网关吧? 这样普通 Http 才可以访问到 ipfs 上的内容",
-        "link": "https://www.v2ex.com/t/884087",
-        "date": "2022-09-30"
-      },
-      {
-        "title": "B 站 WEB 端开始给已登录用户推专属广告了？",
-        "link": "https://www.v2ex.com/t/884086",
         "date": "2022-09-30"
       }
     ]
@@ -10347,13 +10347,13 @@
         "date": "2022-09-30"
       },
       {
-        "title": "[推荐] 聊聊 8种 架构模式",
-        "link": "https://toutiao.io/k/luf0yh6",
+        "title": "[推荐] Netty、Kafka中的零拷贝技术到底有多牛?",
+        "link": "https://toutiao.io/k/ussdz4q",
         "date": "2022-09-30"
       },
       {
-        "title": "[推荐] Netty、Kafka中的零拷贝技术到底有多牛?",
-        "link": "https://toutiao.io/k/ussdz4q",
+        "title": "[推荐] 聊聊 8种 架构模式",
+        "link": "https://toutiao.io/k/luf0yh6",
         "date": "2022-09-30"
       }
     ]

@@ -1,10 +1,15 @@
-:alarm_clock: 更新时间: 2022-09-30 16:25:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-30 17:11:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-09-30-公司有一批宝德-Linux-服务器（AMD-的-EPYC-7313-的-cpu）的-cpu-频率很奇怪](https://www.v2ex.com/t/884141) 
+- [2022-09-30-有没有带-GPU-加速的-windows-in-docker](https://www.v2ex.com/t/884140) 
+- [2022-09-30-大家的九月挑战完成了吗？十月挑战是什么？](https://www.v2ex.com/t/884139) 
+- [2022-09-30-求问如何量化输入变量与输出变量之间的关系](https://www.v2ex.com/t/884138) 
+- [2022-09-30-谷歌搜索移动端啥时候有这些变化的](https://www.v2ex.com/t/884136) 
 - [2022-09-30-国内目前是否基本上已经没有可靠的短链接生成服务了？](https://www.v2ex.com/t/884135) 
 - [2022-09-30-IPS-显示器和普通的显示器有什么区别么？](https://www.v2ex.com/t/884134) 
 - [2022-09-30-iPhone-14-pro-aod-突然失效](https://www.v2ex.com/t/884133) 
@@ -40,8 +45,3 @@
 - [2022-09-30-移动硬盘推荐使用-APFS-格式吗？](https://www.v2ex.com/t/884094) 
 - [2022-09-30-求助，不同网段互通问题](https://www.v2ex.com/t/884093) 
 - [2022-09-30-github-ssh-认证失败](https://www.v2ex.com/t/884092) 
-- [2022-09-30-压抑太久,上来缓口气,不知道是否继续下去](https://www.v2ex.com/t/884090) 
-- [2022-09-30-浅谈敏捷：你的团队在正确实践敏捷吗？](https://www.v2ex.com/t/884089) 
-- [2022-09-30-xa8.net-咋不更新了](https://www.v2ex.com/t/884088) 
-- [2022-09-30-olivida.eth.-limo/-这个结尾-limo-应该是个公共网关吧?-这样普通-Http-才可以访问到-ipfs-上的内容](https://www.v2ex.com/t/884087) 
-- [2022-09-30-B-站-WEB-端开始给已登录用户推专属广告了？](https://www.v2ex.com/t/884086) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-30 16:25:16，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-30 17:11:49，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-09-30-公司有一批宝德-Linux-服务器（AMD-的-EPYC-7313-的-cpu）的-cpu-频率很奇怪](https://www.v2ex.com/t/884141) ![](assets/new.png)  
+- [2022-09-30-有没有带-GPU-加速的-windows-in-docker](https://www.v2ex.com/t/884140) ![](assets/new.png)  
+- [2022-09-30-大家的九月挑战完成了吗？十月挑战是什么？](https://www.v2ex.com/t/884139) ![](assets/new.png)  
+- [2022-09-30-求问如何量化输入变量与输出变量之间的关系](https://www.v2ex.com/t/884138) ![](assets/new.png)  
+- [2022-09-30-谷歌搜索移动端啥时候有这些变化的](https://www.v2ex.com/t/884136) ![](assets/new.png)  
 - [2022-09-30-国内目前是否基本上已经没有可靠的短链接生成服务了？](https://www.v2ex.com/t/884135) ![](assets/new.png)  
 - [2022-09-30-IPS-显示器和普通的显示器有什么区别么？](https://www.v2ex.com/t/884134) ![](assets/new.png)  
 - [2022-09-30-iPhone-14-pro-aod-突然失效](https://www.v2ex.com/t/884133) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-09-30-临时起意搞了携号转网，北京电信-TO-联通。](https://www.v2ex.com/t/884121) ![](assets/new.png)  
 - [2022-09-30-想问一下如何分辨高仿的-earpods](https://www.v2ex.com/t/884120) ![](assets/new.png)  
 - [2022-09-30-CloudFlare-发放-$10-的-yubikey-优惠券](https://www.v2ex.com/t/884118) ![](assets/new.png)  
-- [2022-09-30-mac-系统按什么可以模拟-鼠标的中键](https://www.v2ex.com/t/884117) ![](assets/new.png)  
-- [2022-09-30-G-suite/Workspace-域名邮箱怎么以其他前缀作为发件人发送邮件？](https://www.v2ex.com/t/884115) ![](assets/new.png)  
-- [2022-09-30-Airpods-pro2-二代有个大-bug](https://www.v2ex.com/t/884114) ![](assets/new.png)  
-- [2022-09-30-很好奇，大家通常所述的对-XX-电信/XX-联通/XX-移动出国线路友好的线路是什么意思？](https://www.v2ex.com/t/884113) ![](assets/new.png)  
-- [2022-09-30-有没有用-Wiznote-自部署的？移动端-Wiznote-X-无法登录...](https://www.v2ex.com/t/884110) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -569,8 +569,8 @@
 - [2022-09-30-一文读懂零拷贝技术｜splice-使用](https://toutiao.io/k/wic3f12) ![](assets/new.png)  
 - [2022-09-30-使用-KubeEdge-和-EdgeMesh-实现边缘复杂网络场景下的节点通信](https://toutiao.io/k/sbv9q9u) ![](assets/new.png)  
 - [2022-09-30-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) ![](assets/new.png)  
-- [2022-09-30-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) ![](assets/new.png)  
 - [2022-09-30-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) ![](assets/new.png)  
+- [2022-09-30-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-30 16:25:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-30 17:11:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1914,6 +1914,9 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-09-30-公司有一批宝德-Linux-服务器（AMD-的-EPYC-7313-的-cpu）的-cpu-频率很奇怪](https://www.v2ex.com/t/884141) 
+- [2022-09-30-大家的九月挑战完成了吗？十月挑战是什么？](https://www.v2ex.com/t/884139) 
+- [2022-09-30-谷歌搜索移动端啥时候有这些变化的](https://www.v2ex.com/t/884136) 
 - [2022-09-30-国内目前是否基本上已经没有可靠的短链接生成服务了？](https://www.v2ex.com/t/884135) 
 - [2022-09-30-IPS-显示器和普通的显示器有什么区别么？](https://www.v2ex.com/t/884134) 
 - [2022-09-30-iPhone-14-pro-aod-突然失效](https://www.v2ex.com/t/884133) 
@@ -1941,10 +1944,6 @@
 - [2022-09-30-nreal-air-试用体验](https://www.v2ex.com/t/884095) 
 - [2022-09-30-移动硬盘推荐使用-APFS-格式吗？](https://www.v2ex.com/t/884094) 
 - [2022-09-30-求助，不同网段互通问题](https://www.v2ex.com/t/884093) 
-- [2022-09-30-压抑太久,上来缓口气,不知道是否继续下去](https://www.v2ex.com/t/884090) 
-- [2022-09-30-浅谈敏捷：你的团队在正确实践敏捷吗？](https://www.v2ex.com/t/884089) 
-- [2022-09-30-xa8.net-咋不更新了](https://www.v2ex.com/t/884088) 
-- [2022-09-30-B-站-WEB-端开始给已登录用户推专属广告了？](https://www.v2ex.com/t/884086) 
 - [2022-09-30-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-30-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-30-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1976,5 +1975,5 @@
 - [2022-09-30-内核中-Rust-支持的下一步动作](https://toutiao.io/k/v23av97) 
 - [2022-09-30-一文读懂零拷贝技术｜splice-使用](https://toutiao.io/k/wic3f12) 
 - [2022-09-30-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) 
-- [2022-09-30-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) 
 - [2022-09-30-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) 
+- [2022-09-30-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-30 15:00:03。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-09-30 15:24:57。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -72,6 +72,11 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [【V2EX】2022-09-30-Gin-连这种简单的路由都冲突嘛](https://www.v2ex.com/t/884129) 
+- [【V2EX】2022-09-30-Error-1005-Access-denied.怎么能正常访问呢，全局代理也不好使](https://www.v2ex.com/t/884128) 
+- [【V2EX】2022-09-30-git-的裸仓库和-gitlab,gitea-有啥本质区别?](https://www.v2ex.com/t/884127) 
+- [【V2EX】2022-09-30-有没有专门看油管广告的-App?](https://www.v2ex.com/t/884126) 
+- [【V2EX】2022-09-30-导数证明题，-v-友有能帮忙解答下的吗](https://www.v2ex.com/t/884125) 
 - [【V2EX】2022-09-30-有办法修改-Hyper-V-的硬件信息吗？](https://www.v2ex.com/t/884124) 
 - [【V2EX】2022-09-30-开发了一款白噪音小程序，感兴趣的小伙伴进](https://www.v2ex.com/t/884123) 
 - [【V2EX】2022-09-30-临时起意搞了携号转网，北京电信-TO-联通。](https://www.v2ex.com/t/884121) 
@@ -110,11 +115,6 @@
 - [【V2EX】2022-09-30-国庆出行高峰从现在开始，你们堵车了吗](https://www.v2ex.com/t/884082) 
 - [【V2EX】2022-09-30-好工具周刊（第-32-期）:-特别篇-实用开源工具推荐-#1](https://www.v2ex.com/t/884081) 
 - [【V2EX】2022-09-30-坐高铁,被手机气到了!](https://www.v2ex.com/t/884080) 
-- [【V2EX】2022-09-30-翻译了一篇-FFmpeg-的教程](https://www.v2ex.com/t/884079) 
-- [【V2EX】2022-09-30-由中国天气网二级目录被黑/被卖想到的：你们会用技术去做黑产吗？](https://www.v2ex.com/t/884078) 
-- [【V2EX】2022-09-30-今天出了个小车祸,感觉挺无奈的...](https://www.v2ex.com/t/884077) 
-- [【V2EX】2022-09-30-快手&内推&持续](https://www.v2ex.com/t/884076) 
-- [【V2EX】2022-09-30-分享一下自建的-emby-服务器](https://www.v2ex.com/t/884075) 
 - [【技术头条】2022-09-30-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-30-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-30-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -150,9 +150,9 @@
 - [【开发者头条】2022-09-30-内核中-Rust-支持的下一步动作](https://toutiao.io/k/v23av97) 
 - [【开发者头条】2022-09-30-一文读懂零拷贝技术｜splice-使用](https://toutiao.io/k/wic3f12) 
 - [【开发者头条】2022-09-30-使用-KubeEdge-和-EdgeMesh-实现边缘复杂网络场景下的节点通信](https://toutiao.io/k/sbv9q9u) 
-- [【开发者头条】2022-09-30-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) 
 - [【开发者头条】2022-09-30-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) 
 - [【开发者头条】2022-09-30-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) 
+- [【开发者头条】2022-09-30-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-30 17:11:49，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-30 17:57:47，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-09-30-鸿雁拼音输入法在最新的评测中取得准确率全球第二的好成绩](https://www.v2ex.com/t/884145) ![](assets/new.png)  
+- [2022-09-30-iPad-Pro-12.9-15.6.1（5th-generation）在用-OneNote-时，怎么能快速将截图插入笔记中？](https://www.v2ex.com/t/884144) ![](assets/new.png)  
+- [2022-09-30-MAC-上可以自动添加时间信息的软件推荐，谢谢！](https://www.v2ex.com/t/884143) ![](assets/new.png)  
+- [2022-09-30-PVE-CPU-类型选择-host-会提高虚拟化逃逸的风险吗？](https://www.v2ex.com/t/884142) ![](assets/new.png)  
 - [2022-09-30-公司有一批宝德-Linux-服务器（AMD-的-EPYC-7313-的-cpu）的-cpu-频率很奇怪](https://www.v2ex.com/t/884141) ![](assets/new.png)  
 - [2022-09-30-有没有带-GPU-加速的-windows-in-docker](https://www.v2ex.com/t/884140) ![](assets/new.png)  
 - [2022-09-30-大家的九月挑战完成了吗？十月挑战是什么？](https://www.v2ex.com/t/884139) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-09-30-有没有专门看油管广告的-App?](https://www.v2ex.com/t/884126) ![](assets/new.png)  
 - [2022-09-30-导数证明题，-v-友有能帮忙解答下的吗](https://www.v2ex.com/t/884125) ![](assets/new.png)  
 - [2022-09-30-有办法修改-Hyper-V-的硬件信息吗？](https://www.v2ex.com/t/884124) ![](assets/new.png)  
-- [2022-09-30-开发了一款白噪音小程序，感兴趣的小伙伴进](https://www.v2ex.com/t/884123) ![](assets/new.png)  
-- [2022-09-30-临时起意搞了携号转网，北京电信-TO-联通。](https://www.v2ex.com/t/884121) ![](assets/new.png)  
-- [2022-09-30-想问一下如何分辨高仿的-earpods](https://www.v2ex.com/t/884120) ![](assets/new.png)  
-- [2022-09-30-CloudFlare-发放-$10-的-yubikey-优惠券](https://www.v2ex.com/t/884118) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -569,8 +569,8 @@
 - [2022-09-30-一文读懂零拷贝技术｜splice-使用](https://toutiao.io/k/wic3f12) ![](assets/new.png)  
 - [2022-09-30-使用-KubeEdge-和-EdgeMesh-实现边缘复杂网络场景下的节点通信](https://toutiao.io/k/sbv9q9u) ![](assets/new.png)  
 - [2022-09-30-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) ![](assets/new.png)  
-- [2022-09-30-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) ![](assets/new.png)  
 - [2022-09-30-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) ![](assets/new.png)  
+- [2022-09-30-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

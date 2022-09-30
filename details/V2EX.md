@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2022-09-30 17:11:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-30 17:57:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-09-30-鸿雁拼音输入法在最新的评测中取得准确率全球第二的好成绩](https://www.v2ex.com/t/884145) 
+- [2022-09-30-iPad-Pro-12.9-15.6.1（5th-generation）在用-OneNote-时，怎么能快速将截图插入笔记中？](https://www.v2ex.com/t/884144) 
+- [2022-09-30-MAC-上可以自动添加时间信息的软件推荐，谢谢！](https://www.v2ex.com/t/884143) 
+- [2022-09-30-PVE-CPU-类型选择-host-会提高虚拟化逃逸的风险吗？](https://www.v2ex.com/t/884142) 
 - [2022-09-30-公司有一批宝德-Linux-服务器（AMD-的-EPYC-7313-的-cpu）的-cpu-频率很奇怪](https://www.v2ex.com/t/884141) 
 - [2022-09-30-有没有带-GPU-加速的-windows-in-docker](https://www.v2ex.com/t/884140) 
 - [2022-09-30-大家的九月挑战完成了吗？十月挑战是什么？](https://www.v2ex.com/t/884139) 
@@ -41,7 +45,3 @@
 - [2022-09-30-WebServer-异步日志模块，-Log-类构析导致线程死锁,-不知如何解除异步线程阻塞](https://www.v2ex.com/t/884098) 
 - [2022-09-30-一级注册建筑师求私活，小建筑或者住宅店铺装修均可，也可以免费咨询一些问题第二弹）](https://www.v2ex.com/t/884097) 
 - [2022-09-30-刚入手了-Apple-Watch-s8，连接的-iPhone-上的-id-为美区-id，为什么手表让我登录国区的-id-密码呢？](https://www.v2ex.com/t/884096) 
-- [2022-09-30-nreal-air-试用体验](https://www.v2ex.com/t/884095) 
-- [2022-09-30-移动硬盘推荐使用-APFS-格式吗？](https://www.v2ex.com/t/884094) 
-- [2022-09-30-求助，不同网段互通问题](https://www.v2ex.com/t/884093) 
-- [2022-09-30-github-ssh-认证失败](https://www.v2ex.com/t/884092) 

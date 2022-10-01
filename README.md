@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-01 14:23:38，:rocket: 更新条数: +2013， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-01 14:44:28，:rocket: 更新条数: +2014， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-10-01-NAS-系统应该装在哪个盘？](https://www.v2ex.com/t/884274) ![](assets/new.png)  
+- [2022-10-01-又整了个微信小游戏，大家来玩呀](https://www.v2ex.com/t/884273) ![](assets/new.png)  
+- [2022-10-01-云上贵州现在是没办法显示自定义头像了？](https://www.v2ex.com/t/884272) ![](assets/new.png)  
+- [2022-10-01-现在还有在用-mlo-软件做日常时间安排学习管理的吗？感觉现在好像没什么讨论的声音了。有很多资料都是很多年前的。](https://www.v2ex.com/t/884271) ![](assets/new.png)  
 - [2022-10-01-Mac-上没有随机-Mac-地址功能吗？](https://www.v2ex.com/t/884270) ![](assets/new.png)  
 - [2022-10-01-dd-的纯净-debian11-系统如何开启-ipv6](https://www.v2ex.com/t/884267) ![](assets/new.png)  
 - [2022-10-01-原来微信是支持了系统原生的-Image-Picker-的](https://www.v2ex.com/t/884266) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-10-01-可以让-iPhone-和-mac-同时接到-Bark-的通知么](https://www.v2ex.com/t/884253) ![](assets/new.png)  
 - [2022-10-01-Safari-如何多选标签页？](https://www.v2ex.com/t/884251) ![](assets/new.png)  
 - [2022-10-01-明天深圳出发租车去惠州，有-v-友一起的吗。](https://www.v2ex.com/t/884250) ![](assets/new.png)  
-- [2022-10-01-airpods-pro-2-耳机在电池仓中处于关闭状态，手机仍然显示连接状态。](https://www.v2ex.com/t/884249) ![](assets/new.png)  
-- [2022-10-01-mac-os-13-正式版大概什么时候推送](https://www.v2ex.com/t/884248) ![](assets/new.png)  
-- [2022-10-01-有-android-sdk-api-PDF-版吗？](https://www.v2ex.com/t/884245) ![](assets/new.png)  
-- [2022-10-01-有老哥讲过脱口秀吗？](https://www.v2ex.com/t/884244) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,9 +563,9 @@
 - [2022-10-01-树模型决策的可解释性与微调Python](https://toutiao.io/k/7x66r8b) ![](assets/new.png)  
 - [2022-10-01-激活数据价值，探究DataOps下的数据架构及其实践丨DTVision开发治理篇](https://toutiao.io/k/dvgc8ks) ![](assets/new.png)  
 - [2022-10-01-出海-SLG-大厂集体做三消，除莉莉丝入局，这回来了款“三消二次元”](https://toutiao.io/k/c6igjo6) ![](assets/new.png)  
+- [2022-10-01-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) ![](assets/new.png)  
 - [2022-10-01-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) ![](assets/new.png)  
 - [2022-10-01-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) ![](assets/new.png)  
-- [2022-10-01-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

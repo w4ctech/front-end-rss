@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-01 15:16:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-01 15:48:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1914,6 +1914,11 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-10-01-有朋友玩气动意式咖啡机吗？](https://www.v2ex.com/t/884288) 
+- [2022-10-01-有办法自己给-Linux-开发板编译一个新系统吗？](https://www.v2ex.com/t/884287) 
+- [2022-10-01-eBPF-Talk-3:-XDP](https://www.v2ex.com/t/884285) 
+- [2022-10-01-iCloud-如何不同步屏幕截图](https://www.v2ex.com/t/884284) 
+- [2022-10-01-不使用任何第三方工具，自制的铃声怎么在-mac-和-iPhone-上来回传。](https://www.v2ex.com/t/884283) 
 - [2022-10-01-谷歌-analytics-也要用不了了](https://www.v2ex.com/t/884280) 
 - [2022-10-01-开个贴记录一下被打次数🥲](https://www.v2ex.com/t/884279) 
 - [2022-10-01-想寻一低功耗盒子分担一些网络功能，像是-R2S-合适，又像是-R2S-不合适，但似乎又没看到更合适的...](https://www.v2ex.com/t/884278) 
@@ -1942,8 +1947,6 @@
 - [2022-10-01-有老哥讲过脱口秀吗？](https://www.v2ex.com/t/884244) 
 - [2022-10-01-以太坊如何查出所有的-Pull-Rugged-跑路/割韭菜-项目?](https://www.v2ex.com/t/884243) 
 - [2022-10-01-IOS-第三方输入法，例如百度搜狗，禁止"完全访问"和禁用"无线数据"，还会后台上传用户输入的内容吗？](https://www.v2ex.com/t/884239) 
-- [2022-10-01-手表上删除好友是个好功能吗?](https://www.v2ex.com/t/884238) 
-- [2022-10-01-求推荐-Cpp-快速入门书](https://www.v2ex.com/t/884236) 
 - [2022-10-01-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-01-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-01-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1971,6 +1974,6 @@
 - [2022-10-01-树模型决策的可解释性与微调Python](https://toutiao.io/k/7x66r8b) 
 - [2022-10-01-激活数据价值，探究DataOps下的数据架构及其实践丨DTVision开发治理篇](https://toutiao.io/k/dvgc8ks) 
 - [2022-10-01-出海-SLG-大厂集体做三消，除莉莉丝入局，这回来了款“三消二次元”](https://toutiao.io/k/c6igjo6) 
-- [2022-10-01-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) 
 - [2022-10-01-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) 
+- [2022-10-01-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) 
 - [2022-10-01-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) 

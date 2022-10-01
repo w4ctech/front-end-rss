@@ -9953,6 +9953,31 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "有朋友玩气动意式咖啡机吗？",
+        "link": "https://www.v2ex.com/t/884288",
+        "date": "2022-10-01"
+      },
+      {
+        "title": "有办法自己给 Linux 开发板编译一个新系统吗？",
+        "link": "https://www.v2ex.com/t/884287",
+        "date": "2022-10-01"
+      },
+      {
+        "title": "eBPF Talk (3): XDP",
+        "link": "https://www.v2ex.com/t/884285",
+        "date": "2022-10-01"
+      },
+      {
+        "title": "iCloud 如何不同步屏幕截图",
+        "link": "https://www.v2ex.com/t/884284",
+        "date": "2022-10-01"
+      },
+      {
+        "title": "不使用任何第三方工具，自制的铃声怎么在 mac 和 iPhone 上来回传。",
+        "link": "https://www.v2ex.com/t/884283",
+        "date": "2022-10-01"
+      },
+      {
         "title": "斐讯 N1 作为旁路由的意思是直接连接它的 WiFi 信号吗？",
         "link": "https://www.v2ex.com/t/884281",
         "date": "2022-10-01"
@@ -10105,26 +10130,6 @@
       {
         "title": "IOS 第三方输入法，例如百度搜狗，禁止\"完全访问\"和禁用\"无线数据\"，还会后台上传用户输入的内容吗？",
         "link": "https://www.v2ex.com/t/884239",
-        "date": "2022-10-01"
-      },
-      {
-        "title": "手表上删除好友是个好功能吗?",
-        "link": "https://www.v2ex.com/t/884238",
-        "date": "2022-10-01"
-      },
-      {
-        "title": "求推荐 Cpp 快速入门书",
-        "link": "https://www.v2ex.com/t/884236",
-        "date": "2022-10-01"
-      },
-      {
-        "title": "请问有没有集合 待办、日历（事件）、邮件、联系人等的软件啊？",
-        "link": "https://www.v2ex.com/t/884235",
-        "date": "2022-10-01"
-      },
-      {
-        "title": "请教一个 vue 中组件复用的生成的页面间切换的问题",
-        "link": "https://www.v2ex.com/t/884233",
         "date": "2022-10-01"
       }
     ]
@@ -10292,13 +10297,13 @@
         "date": "2022-10-01"
       },
       {
-        "title": "[推荐] 聊聊 8种 架构模式",
-        "link": "https://toutiao.io/k/luf0yh6",
+        "title": "[推荐] 分享16个我总结的思维模型（程序员必读，受用终身）",
+        "link": "https://toutiao.io/k/f7r13v5",
         "date": "2022-10-01"
       },
       {
-        "title": "[推荐] 分享16个我总结的思维模型（程序员必读，受用终身）",
-        "link": "https://toutiao.io/k/f7r13v5",
+        "title": "[推荐] 聊聊 8种 架构模式",
+        "link": "https://toutiao.io/k/luf0yh6",
         "date": "2022-10-01"
       },
       {

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-01 20:17:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-10-01 20:46:07。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,7 @@
 </summary>
 
 
+- [【V2EX】2022-10-01-关于-Google-的-SNI-检测似乎被恢复原状](https://www.v2ex.com/t/884304) 
 - [【V2EX】2022-10-01-记录一下自己安装移动专线的过程~](https://www.v2ex.com/t/884303) 
 - [【V2EX】2022-10-01-半夜醒来，会感觉毫无睡意。。起床看书？](https://www.v2ex.com/t/884302) 
 - [【V2EX】2022-10-01-做了一个支持键盘导航的极简风格起始页](https://www.v2ex.com/t/884300) 
@@ -107,7 +108,6 @@
 - [【V2EX】2022-10-01-未开封的瓶装水过期一年了能喝吗](https://www.v2ex.com/t/884257) 
 - [【V2EX】2022-10-01-mysql-里面为什么有时候子查询需要-alias，有时候则不需要呢？](https://www.v2ex.com/t/884256) 
 - [【V2EX】2022-10-01-开启-Shortcut-FE-加速会造成-UDP-丢包是真的吗？](https://www.v2ex.com/t/884255) 
-- [【V2EX】2022-10-01-明天阳历生，除了北京欢乐谷可以免费游玩，大家伙还知道什么福利吗？随便有没有朋友明天一起玩](https://www.v2ex.com/t/884254) 
 - [【技术头条】2022-10-01-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-01-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-01-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -138,10 +138,10 @@
 - [【开发者头条】2022-10-01-树模型决策的可解释性与微调Python](https://toutiao.io/k/7x66r8b) 
 - [【开发者头条】2022-10-01-激活数据价值，探究DataOps下的数据架构及其实践丨DTVision开发治理篇](https://toutiao.io/k/dvgc8ks) 
 - [【开发者头条】2022-10-01-出海-SLG-大厂集体做三消，除莉莉丝入局，这回来了款“三消二次元”](https://toutiao.io/k/c6igjo6) 
-- [【开发者头条】2022-10-01-推荐-性能优化必备——火焰图](https://toutiao.io/k/azf7ub6) 
-- [【开发者头条】2022-10-01-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) 
-- [【开发者头条】2022-10-01-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) 
 - [【开发者头条】2022-10-01-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) 
+- [【开发者头条】2022-10-01-推荐-性能优化必备——火焰图](https://toutiao.io/k/azf7ub6) 
+- [【开发者头条】2022-10-01-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) 
+- [【开发者头条】2022-10-01-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

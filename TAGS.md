@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-10-01 17:33:09。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-01 18:19:15。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -273,7 +273,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
 - [【V2EX】ios16-safari-网站注册时弹出推荐强密码后卡死](https://www.v2ex.com/t/884296)
 - [【V2EX】你们有没有遇到过-macOS-上面-safari-内存泄漏的问题？](https://www.v2ex.com/t/884290)
-- [【V2EX】Safari-如何多选标签页？](https://www.v2ex.com/t/884251)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-10-01 17:33:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-01 18:19:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-10-01-做了一个支持键盘导航的极简风格起始页](https://www.v2ex.com/t/884300) 
 - [2022-10-01-Socket-接收字节报错：-System.OutOfMemoryException:“Exception_WasThrown”](https://www.v2ex.com/t/884298) 
 - [2022-10-01-秋招-gg，想做开源方向可行吗](https://www.v2ex.com/t/884297) 
 - [2022-10-01-ios16-safari-网站注册时弹出推荐强密码后卡死](https://www.v2ex.com/t/884296) 
@@ -43,5 +44,3 @@
 - [2022-10-01-开启-Shortcut-FE-加速会造成-UDP-丢包是真的吗？](https://www.v2ex.com/t/884255) 
 - [2022-10-01-明天阳历生，除了北京欢乐谷可以免费游玩，大家伙还知道什么福利吗？随便有没有朋友明天一起玩](https://www.v2ex.com/t/884254) 
 - [2022-10-01-可以让-iPhone-和-mac-同时接到-Bark-的通知么](https://www.v2ex.com/t/884253) 
-- [2022-10-01-Safari-如何多选标签页？](https://www.v2ex.com/t/884251) 
-- [2022-10-01-明天深圳出发租车去惠州，有-v-友一起的吗。](https://www.v2ex.com/t/884250) 

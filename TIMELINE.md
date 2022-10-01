@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-01 01:31:06。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-10-01 04:16:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,25 @@
 </summary>
 
 
+- [【V2EX】2022-10-01-大家的-Chrome-翻译功能还正常吗？](https://www.v2ex.com/t/884186) 
+- [【V2EX】2022-10-01-请教关于函数式编程的优势](https://www.v2ex.com/t/884185) 
+- [【V2EX】2022-10-01-请教一个比较麻烦的-Oracle-转-Mysql-的问题](https://www.v2ex.com/t/884184) 
+- [【V2EX】2022-10-01-我想问下，你们也没有上过这个网站-prowebber.ru-?](https://www.v2ex.com/t/884183) 
+- [【V2EX】2022-10-01-想开发定制一款指纹活着人脸考勤机](https://www.v2ex.com/t/884182) 
+- [【V2EX】2022-10-01-为什么很多软件要搞基建，分页都要自己实现呢？](https://www.v2ex.com/t/884181) 
+- [【V2EX】2022-10-01-宝安机场东转租；一房一厅；-800-米到地铁；适合短租长租；](https://www.v2ex.com/t/884178) 
+- [【V2EX】2022-10-01-google-翻译扩展怎么挂了](https://www.v2ex.com/t/884177) 
+- [【V2EX】2022-10-01-ReVanced-真好用，买什么高级会员](https://www.v2ex.com/t/884175) 
+- [【V2EX】2022-10-01-iOS16-的-Apple-地图终于修复了在隧道内位置不移动的-bug-了](https://www.v2ex.com/t/884173) 
+- [【V2EX】2022-10-01-刚刚到货的官翻-m1-air，这个磁盘数据正常么](https://www.v2ex.com/t/884172) 
+- [【V2EX】2022-10-01-今天不会还有人在上班吧！](https://www.v2ex.com/t/884171) 
+- [【V2EX】2022-10-01-放在-cloudflare-的域名突然都没有-dns-解析了](https://www.v2ex.com/t/884170) 
+- [【V2EX】2022-10-01-成都电信，-USTC-镜像站点无法访问](https://www.v2ex.com/t/884169) 
+- [【V2EX】2022-10-01-想通过-winrar-定期压缩一些文件，有没有除了自己-win7-自带的计划程序外的方法呢？](https://www.v2ex.com/t/884166) 
+- [【V2EX】2022-10-01-iPhone-经常弹出重要运营商信息，怎么能让它不提醒？](https://www.v2ex.com/t/884165) 
+- [【V2EX】2022-10-01-寻求-QT-开发，涉及到技术包括-websocket，-webrtc，-Linux-嵌入等](https://www.v2ex.com/t/884164) 
+- [【V2EX】2022-10-01-今天在上班的-V-友，一定没有休假吧？](https://www.v2ex.com/t/884163) 
+- [【V2EX】2022-10-01-tvos16-控制中心没有-homekit-了](https://www.v2ex.com/t/884162) 
 - [【V2EX】2022-10-01-农业银行养老社保卡安全问题](https://www.v2ex.com/t/884161) 
 - [【V2EX】2022-10-01-有没有比较容易上手,傻瓜式的图片,视频处理工具大家可以推荐下?](https://www.v2ex.com/t/884160) 
 - [【V2EX】2022-10-01-vmware-虚拟网卡干扰主机网络，有什么完美解决办法？](https://www.v2ex.com/t/884159) 
@@ -96,11 +115,14 @@
 - [【开发者头条】2022-10-01-优质网站同好者周刊（第-085-期）-|-倾城博客](https://toutiao.io/k/juv1ebb) 
 - [【开发者头条】2022-10-01-独立开发变现周刊（第74期）：我的业余项目在3个月内月收入2500美元](https://toutiao.io/k/psiaoc7) 
 - [【开发者头条】2022-10-01-基于kcp的帧同步服务器---知乎](https://toutiao.io/k/hhix00h) 
-- [【开发者头条】2022-10-01-树模型决策的可解释性与微调Python](https://toutiao.io/k/7x66r8b) 
 - [【开发者头条】2022-10-01-Doris在蔚来汽车的应用](https://toutiao.io/k/c6mezri) 
+- [【开发者头条】2022-10-01-树模型决策的可解释性与微调Python](https://toutiao.io/k/7x66r8b) 
+- [【开发者头条】2022-10-01-日志记录的最佳实践](https://toutiao.io/k/lmtacvv) 
+- [【开发者头条】2022-10-01-浅谈敏捷：你的团队在正确实践敏捷吗？](https://toutiao.io/k/m8vn8qc) 
+- [【开发者头条】2022-10-01-激活数据价值，探究DataOps下的数据架构及其实践丨DTVision开发治理篇](https://toutiao.io/k/dvgc8ks) 
 - [【开发者头条】2022-10-01-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) 
-- [【开发者头条】2022-10-01-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) 
 - [【开发者头条】2022-10-01-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) 
+- [【开发者头条】2022-10-01-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>
@@ -131,26 +153,6 @@
 - [【V2EX】2022-09-30-有没有带-GPU-加速的-windows-in-docker](https://www.v2ex.com/t/884140) 
 - [【V2EX】2022-09-30-大家的九月挑战完成了吗？十月挑战是什么？](https://www.v2ex.com/t/884139) 
 - [【V2EX】2022-09-30-求问如何量化输入变量与输出变量之间的关系](https://www.v2ex.com/t/884138) 
-- [【V2EX】2022-09-30-谷歌搜索移动端啥时候有这些变化的](https://www.v2ex.com/t/884136) 
-- [【V2EX】2022-09-30-国内目前是否基本上已经没有可靠的短链接生成服务了？](https://www.v2ex.com/t/884135) 
-- [【V2EX】2022-09-30-IPS-显示器和普通的显示器有什么区别么？](https://www.v2ex.com/t/884134) 
-- [【V2EX】2022-09-30-iPhone-14-pro-aod-突然失效](https://www.v2ex.com/t/884133) 
-- [【V2EX】2022-09-30-iPad-文件中收藏的目录莫名消失又重现](https://www.v2ex.com/t/884131) 
-- [【V2EX】2022-09-30-成年后的孤独感在夜里翻着倍](https://www.v2ex.com/t/884130) 
-- [【V2EX】2022-09-30-Gin-连这种简单的路由都冲突嘛](https://www.v2ex.com/t/884129) 
-- [【V2EX】2022-09-30-Error-1005-Access-denied.怎么能正常访问呢，全局代理也不好使](https://www.v2ex.com/t/884128) 
-- [【V2EX】2022-09-30-git-的裸仓库和-gitlab,gitea-有啥本质区别?](https://www.v2ex.com/t/884127) 
-- [【V2EX】2022-09-30-有没有专门看油管广告的-App?](https://www.v2ex.com/t/884126) 
-- [【V2EX】2022-09-30-导数证明题，-v-友有能帮忙解答下的吗](https://www.v2ex.com/t/884125) 
-- [【V2EX】2022-09-30-有办法修改-Hyper-V-的硬件信息吗？](https://www.v2ex.com/t/884124) 
-- [【V2EX】2022-09-30-开发了一款白噪音小程序，感兴趣的小伙伴进](https://www.v2ex.com/t/884123) 
-- [【V2EX】2022-09-30-临时起意搞了携号转网，北京电信-TO-联通。](https://www.v2ex.com/t/884121) 
-- [【V2EX】2022-09-30-想问一下如何分辨高仿的-earpods](https://www.v2ex.com/t/884120) 
-- [【V2EX】2022-09-30-CloudFlare-发放-$10-的-yubikey-优惠券](https://www.v2ex.com/t/884118) 
-- [【V2EX】2022-09-30-mac-系统按什么可以模拟-鼠标的中键](https://www.v2ex.com/t/884117) 
-- [【V2EX】2022-09-30-G-suite/Workspace-域名邮箱怎么以其他前缀作为发件人发送邮件？](https://www.v2ex.com/t/884115) 
-- [【V2EX】2022-09-30-Airpods-pro2-二代有个大-bug](https://www.v2ex.com/t/884114) 
-- [【V2EX】2022-09-30-很好奇，大家通常所述的对-XX-电信/XX-联通/XX-移动出国线路友好的线路是什么意思？](https://www.v2ex.com/t/884113) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

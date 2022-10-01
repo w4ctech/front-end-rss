@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-01 01:31:06，:rocket: 更新条数: +2015， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-01 04:16:20，:rocket: 更新条数: +2017， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,26 +491,26 @@
 </summary>
 
 
+- [2022-10-01-大家的-Chrome-翻译功能还正常吗？](https://www.v2ex.com/t/884186) ![](assets/new.png)  
+- [2022-10-01-请教关于函数式编程的优势](https://www.v2ex.com/t/884185) ![](assets/new.png)  
+- [2022-10-01-请教一个比较麻烦的-Oracle-转-Mysql-的问题](https://www.v2ex.com/t/884184) ![](assets/new.png)  
+- [2022-10-01-我想问下，你们也没有上过这个网站-prowebber.ru-?](https://www.v2ex.com/t/884183) ![](assets/new.png)  
+- [2022-10-01-想开发定制一款指纹活着人脸考勤机](https://www.v2ex.com/t/884182) ![](assets/new.png)  
+- [2022-10-01-为什么很多软件要搞基建，分页都要自己实现呢？](https://www.v2ex.com/t/884181) ![](assets/new.png)  
+- [2022-10-01-宝安机场东转租；一房一厅；-800-米到地铁；适合短租长租；](https://www.v2ex.com/t/884178) ![](assets/new.png)  
+- [2022-10-01-google-翻译扩展怎么挂了](https://www.v2ex.com/t/884177) ![](assets/new.png)  
+- [2022-10-01-ReVanced-真好用，买什么高级会员](https://www.v2ex.com/t/884175) ![](assets/new.png)  
+- [2022-10-01-iOS16-的-Apple-地图终于修复了在隧道内位置不移动的-bug-了](https://www.v2ex.com/t/884173) ![](assets/new.png)  
+- [2022-10-01-刚刚到货的官翻-m1-air，这个磁盘数据正常么](https://www.v2ex.com/t/884172) ![](assets/new.png)  
+- [2022-10-01-今天不会还有人在上班吧！](https://www.v2ex.com/t/884171) ![](assets/new.png)  
+- [2022-10-01-放在-cloudflare-的域名突然都没有-dns-解析了](https://www.v2ex.com/t/884170) ![](assets/new.png)  
+- [2022-10-01-成都电信，-USTC-镜像站点无法访问](https://www.v2ex.com/t/884169) ![](assets/new.png)  
+- [2022-10-01-想通过-winrar-定期压缩一些文件，有没有除了自己-win7-自带的计划程序外的方法呢？](https://www.v2ex.com/t/884166) ![](assets/new.png)  
+- [2022-10-01-iPhone-经常弹出重要运营商信息，怎么能让它不提醒？](https://www.v2ex.com/t/884165) ![](assets/new.png)  
+- [2022-10-01-寻求-QT-开发，涉及到技术包括-websocket，-webrtc，-Linux-嵌入等](https://www.v2ex.com/t/884164) ![](assets/new.png)  
+- [2022-10-01-今天在上班的-V-友，一定没有休假吧？](https://www.v2ex.com/t/884163) ![](assets/new.png)  
+- [2022-10-01-tvos16-控制中心没有-homekit-了](https://www.v2ex.com/t/884162) ![](assets/new.png)  
 - [2022-10-01-农业银行养老社保卡安全问题](https://www.v2ex.com/t/884161) ![](assets/new.png)  
-- [2022-10-01-有没有比较容易上手,傻瓜式的图片,视频处理工具大家可以推荐下?](https://www.v2ex.com/t/884160) ![](assets/new.png)  
-- [2022-10-01-vmware-虚拟网卡干扰主机网络，有什么完美解决办法？](https://www.v2ex.com/t/884159) ![](assets/new.png)  
-- [2022-10-01-分享一个我写的容器里的-top-命令：-topic-top-in-container](https://www.v2ex.com/t/884157) ![](assets/new.png)  
-- [2022-10-01-上海-不加班-混合办公-外企-招-初中级-Java-1-年经验起，中高级测试（2-年经验起），高级安卓，中级-devOps、C++，初级-UI/UX](https://www.v2ex.com/t/884156) ![](assets/new.png)  
-- [2022-09-30-聊个平时日常做饭的话题](https://www.v2ex.com/t/884155) ![](assets/new.png)  
-- [2022-09-30-请问:-JS-中对嵌套的-Json-对象进行查询和提取内容有啥好的工具?](https://www.v2ex.com/t/884154) ![](assets/new.png)  
-- [2022-09-30-google.com-已被-DNS-污染](https://www.v2ex.com/t/884153) ![](assets/new.png)  
-- [2022-09-30-Cloudflare-用户:-YubiKey-5-NFC-$10,-YubiKey-5C-NFC-$11.60](https://www.v2ex.com/t/884151) ![](assets/new.png)  
-- [2022-09-30-动态住宅-ip-有需要的吗](https://www.v2ex.com/t/884149) ![](assets/new.png)  
-- [2022-09-30-100%cpu-跑了一个星期，日了狗了](https://www.v2ex.com/t/884148) ![](assets/new.png)  
-- [2022-09-30-BOSS-直聘，查看某公司的职位列表，为啥手机-App-上和-PC-网页上显示职位个数不一样？](https://www.v2ex.com/t/884147) ![](assets/new.png)  
-- [2022-09-30-Monterey-真搞笑，开了文件共享唯独-macOS-连不上，其它系统连的超级流畅](https://www.v2ex.com/t/884146) ![](assets/new.png)  
-- [2022-09-30-鸿雁拼音输入法在最新的评测中取得准确率全球第二的好成绩](https://www.v2ex.com/t/884145) ![](assets/new.png)  
-- [2022-09-30-iPad-Pro-12.9-15.6.1（5th-generation）在用-OneNote-时，怎么能快速将截图插入笔记中？](https://www.v2ex.com/t/884144) ![](assets/new.png)  
-- [2022-09-30-MAC-上可以自动添加时间信息的软件推荐，谢谢！](https://www.v2ex.com/t/884143) ![](assets/new.png)  
-- [2022-09-30-PVE-CPU-类型选择-host-会提高虚拟化逃逸的风险吗？](https://www.v2ex.com/t/884142) ![](assets/new.png)  
-- [2022-09-30-公司有一批宝德-Linux-服务器（AMD-的-EPYC-7313-的-cpu）的-cpu-频率很奇怪](https://www.v2ex.com/t/884141) ![](assets/new.png)  
-- [2022-09-30-有没有带-GPU-加速的-windows-in-docker](https://www.v2ex.com/t/884140) ![](assets/new.png)  
-- [2022-09-30-大家的九月挑战完成了吗？十月挑战是什么？](https://www.v2ex.com/t/884139) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -556,11 +556,14 @@
 - [2022-10-01-优质网站同好者周刊（第-085-期）-|-倾城博客](https://toutiao.io/k/juv1ebb) ![](assets/new.png)  
 - [2022-10-01-独立开发变现周刊（第74期）：我的业余项目在3个月内月收入2500美元](https://toutiao.io/k/psiaoc7) ![](assets/new.png)  
 - [2022-10-01-基于kcp的帧同步服务器---知乎](https://toutiao.io/k/hhix00h) ![](assets/new.png)  
-- [2022-10-01-树模型决策的可解释性与微调Python](https://toutiao.io/k/7x66r8b) ![](assets/new.png)  
 - [2022-10-01-Doris在蔚来汽车的应用](https://toutiao.io/k/c6mezri) ![](assets/new.png)  
+- [2022-10-01-树模型决策的可解释性与微调Python](https://toutiao.io/k/7x66r8b) ![](assets/new.png)  
+- [2022-10-01-日志记录的最佳实践](https://toutiao.io/k/lmtacvv) ![](assets/new.png)  
+- [2022-10-01-浅谈敏捷：你的团队在正确实践敏捷吗？](https://toutiao.io/k/m8vn8qc) ![](assets/new.png)  
+- [2022-10-01-激活数据价值，探究DataOps下的数据架构及其实践丨DTVision开发治理篇](https://toutiao.io/k/dvgc8ks) ![](assets/new.png)  
 - [2022-10-01-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) ![](assets/new.png)  
-- [2022-10-01-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) ![](assets/new.png)  
 - [2022-10-01-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) ![](assets/new.png)  
+- [2022-10-01-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

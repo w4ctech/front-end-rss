@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-01 20:46:07，:rocket: 更新条数: +2020， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-01 21:14:59，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-10-01-问个萌新问题，端口转发-teamviewer-的-5938-端口后通过-IP-直连安全吗？](https://www.v2ex.com/t/884305) ![](assets/new.png)  
 - [2022-10-01-关于-Google-的-SNI-检测似乎被恢复原状](https://www.v2ex.com/t/884304) ![](assets/new.png)  
 - [2022-10-01-记录一下自己安装移动专线的过程~](https://www.v2ex.com/t/884303) ![](assets/new.png)  
 - [2022-10-01-半夜醒来，会感觉毫无睡意。。起床看书？](https://www.v2ex.com/t/884302) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-10-01-eBPF-Talk-3:-XDP](https://www.v2ex.com/t/884285) ![](assets/new.png)  
 - [2022-10-01-iCloud-如何不同步屏幕截图](https://www.v2ex.com/t/884284) ![](assets/new.png)  
 - [2022-10-01-不使用任何第三方工具，自制的铃声怎么在-mac-和-iPhone-上来回传。](https://www.v2ex.com/t/884283) ![](assets/new.png)  
-- [2022-10-01-斐讯-N1-作为旁路由的意思是直接连接它的-WiFi-信号吗？](https://www.v2ex.com/t/884281) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,9 +563,9 @@
 - [2022-10-01-树模型决策的可解释性与微调Python](https://toutiao.io/k/7x66r8b) ![](assets/new.png)  
 - [2022-10-01-激活数据价值，探究DataOps下的数据架构及其实践丨DTVision开发治理篇](https://toutiao.io/k/dvgc8ks) ![](assets/new.png)  
 - [2022-10-01-出海-SLG-大厂集体做三消，除莉莉丝入局，这回来了款“三消二次元”](https://toutiao.io/k/c6igjo6) ![](assets/new.png)  
+- [2022-10-01-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) ![](assets/new.png)  
 - [2022-10-01-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) ![](assets/new.png)  
 - [2022-10-01-推荐-性能优化必备——火焰图](https://toutiao.io/k/azf7ub6) ![](assets/new.png)  
-- [2022-10-01-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) ![](assets/new.png)  
 - [2022-10-01-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

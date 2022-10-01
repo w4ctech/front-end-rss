@@ -9953,6 +9953,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "问个萌新问题，端口转发 teamviewer 的 5938 端口后通过 IP 直连安全吗？",
+        "link": "https://www.v2ex.com/t/884305",
+        "date": "2022-10-01"
+      },
+      {
         "title": "关于 Google 的 SNI 检测似乎被恢复原状",
         "link": "https://www.v2ex.com/t/884304",
         "date": "2022-10-01"
@@ -10141,16 +10146,6 @@
         "title": "未开封的瓶装水过期一年了能喝吗",
         "link": "https://www.v2ex.com/t/884257",
         "date": "2022-10-01"
-      },
-      {
-        "title": "mysql 里面为什么有时候子查询需要 alias，有时候则不需要呢？",
-        "link": "https://www.v2ex.com/t/884256",
-        "date": "2022-10-01"
-      },
-      {
-        "title": "开启 Shortcut FE 加速会造成 UDP 丢包是真的吗？",
-        "link": "https://www.v2ex.com/t/884255",
-        "date": "2022-10-01"
       }
     ]
   },
@@ -10317,6 +10312,11 @@
         "date": "2022-10-01"
       },
       {
+        "title": "[推荐] 分享16个我总结的思维模型（程序员必读，受用终身）",
+        "link": "https://toutiao.io/k/f7r13v5",
+        "date": "2022-10-01"
+      },
+      {
         "title": "[推荐] 聊聊 8种 架构模式",
         "link": "https://toutiao.io/k/luf0yh6",
         "date": "2022-10-01"
@@ -10324,11 +10324,6 @@
       {
         "title": "[推荐] 性能优化必备——火焰图",
         "link": "https://toutiao.io/k/azf7ub6",
-        "date": "2022-10-01"
-      },
-      {
-        "title": "[推荐] 分享16个我总结的思维模型（程序员必读，受用终身）",
-        "link": "https://toutiao.io/k/f7r13v5",
         "date": "2022-10-01"
       },
       {

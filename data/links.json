@@ -9953,6 +9953,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "有哪些趣味刷 Python 题目的网站",
+        "link": "https://www.v2ex.com/t/884307",
+        "date": "2022-10-01"
+      },
+      {
         "title": "问个萌新问题，端口转发 teamviewer 的 5938 端口后通过 IP 直连安全吗？",
         "link": "https://www.v2ex.com/t/884305",
         "date": "2022-10-01"
@@ -10141,11 +10146,6 @@
         "title": "求一个馒头邀请……",
         "link": "https://www.v2ex.com/t/884258",
         "date": "2022-10-01"
-      },
-      {
-        "title": "未开封的瓶装水过期一年了能喝吗",
-        "link": "https://www.v2ex.com/t/884257",
-        "date": "2022-10-01"
       }
     ]
   },
@@ -10317,8 +10317,8 @@
         "date": "2022-10-01"
       },
       {
-        "title": "[推荐] 聊聊 8种 架构模式",
-        "link": "https://toutiao.io/k/luf0yh6",
+        "title": "[推荐] Netty、Kafka中的零拷贝技术到底有多牛?",
+        "link": "https://toutiao.io/k/ussdz4q",
         "date": "2022-10-01"
       },
       {
@@ -10327,8 +10327,8 @@
         "date": "2022-10-01"
       },
       {
-        "title": "[推荐] Netty、Kafka中的零拷贝技术到底有多牛?",
-        "link": "https://toutiao.io/k/ussdz4q",
+        "title": "[推荐] 聊聊 8种 架构模式",
+        "link": "https://toutiao.io/k/luf0yh6",
         "date": "2022-10-01"
       }
     ]

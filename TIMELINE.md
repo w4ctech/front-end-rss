@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-01 12:28:57。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-10-01 13:16:17。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,15 @@
 </summary>
 
 
+- [【V2EX】2022-10-01-请教一下各位关于听障人士找前端相关工作的问题](https://www.v2ex.com/t/884265) 
+- [【V2EX】2022-10-01-Win11-下怎么读写-EXT4-分区？](https://www.v2ex.com/t/884264) 
+- [【V2EX】2022-10-01-百度地图收藏能否导出？](https://www.v2ex.com/t/884263) 
+- [【V2EX】2022-10-01-把父母手机越狱用微信-callkit-会被封号吗？](https://www.v2ex.com/t/884262) 
+- [【V2EX】2022-10-01-10-月的黑胶（7-天）](https://www.v2ex.com/t/884260) 
+- [【V2EX】2022-10-01-求一个馒头邀请……](https://www.v2ex.com/t/884258) 
+- [【V2EX】2022-10-01-未开封的瓶装水过期一年了能喝吗](https://www.v2ex.com/t/884257) 
+- [【V2EX】2022-10-01-mysql-里面为什么有时候子查询需要-alias，有时候则不需要呢？](https://www.v2ex.com/t/884256) 
+- [【V2EX】2022-10-01-开启-Shortcut-FE-加速会造成-UDP-丢包是真的吗？](https://www.v2ex.com/t/884255) 
 - [【V2EX】2022-10-01-明天阳历生，除了北京欢乐谷可以免费游玩，大家伙还知道什么福利吗？随便有没有朋友明天一起玩](https://www.v2ex.com/t/884254) 
 - [【V2EX】2022-10-01-可以让-iPhone-和-mac-同时接到-Bark-的通知么](https://www.v2ex.com/t/884253) 
 - [【V2EX】2022-10-01-Safari-如何多选标签页？](https://www.v2ex.com/t/884251) 
@@ -77,7 +86,6 @@
 - [【V2EX】2022-10-01-有-android-sdk-api-PDF-版吗？](https://www.v2ex.com/t/884245) 
 - [【V2EX】2022-10-01-有老哥讲过脱口秀吗？](https://www.v2ex.com/t/884244) 
 - [【V2EX】2022-10-01-以太坊如何查出所有的-Pull-Rugged-跑路/割韭菜-项目?](https://www.v2ex.com/t/884243) 
-- [【V2EX】2022-10-01-目前人再西安市未央区，未央区有个小区是高风险，打算-5-号返京，按照北京的政策（进京前-7-日内有新增本土新冠病毒感染者所在县旅居史人员严格限制进返京），是...](https://www.v2ex.com/t/884241) 
 - [【V2EX】2022-10-01-IOS-第三方输入法，例如百度搜狗，禁止"完全访问"和禁用"无线数据"，还会后台上传用户输入的内容吗？](https://www.v2ex.com/t/884239) 
 - [【V2EX】2022-10-01-手表上删除好友是个好功能吗?](https://www.v2ex.com/t/884238) 
 - [【V2EX】2022-10-01-求推荐-Cpp-快速入门书](https://www.v2ex.com/t/884236) 
@@ -94,15 +102,6 @@
 - [【V2EX】2022-10-01-小米售后换货](https://www.v2ex.com/t/884220) 
 - [【V2EX】2022-10-01-求解：-QQ-邮箱服务器端已删除的一封邮件，-Mac-邮件客户端仍显示而且删除不了。](https://www.v2ex.com/t/884219) 
 - [【V2EX】2022-10-01-特斯拉人形机器人“擎天柱”原型亮相：可搬箱子、浇水，每台或低于-2-万美元](https://www.v2ex.com/t/884217) 
-- [【V2EX】2022-10-01-vue3-事件响应问题](https://www.v2ex.com/t/884214) 
-- [【V2EX】2022-10-01-airpods-pro2-到货了，但是系统是-IOS15-的-首次开盖竟然没有弹窗-控制中心也没有显示图标是默认蓝牙的](https://www.v2ex.com/t/884213) 
-- [【V2EX】2022-10-01-说完-chrome，大家再来讨论下-firefox-记住密码的安全性](https://www.v2ex.com/t/884212) 
-- [【V2EX】2022-10-01-装完宝塔，外网访问面板是-ipv6，打不卡怎么办呢？](https://www.v2ex.com/t/884211) 
-- [【V2EX】2022-10-01-一部-iPhone-能同时使用支付宝和-Apple-Pay-坐地铁吗](https://www.v2ex.com/t/884210) 
-- [【V2EX】2022-10-01-新协程并发脚本语言的问世](https://www.v2ex.com/t/884209) 
-- [【V2EX】2022-10-01-弄了个用-docker-compose-安装常用软件的项目-docker-install-everything](https://www.v2ex.com/t/884208) 
-- [【V2EX】2022-10-01-预算-2k～-3k-想个父母换一台电视，求推荐。](https://www.v2ex.com/t/884207) 
-- [【V2EX】2022-10-01-初三的学生。在家如何控制或者限制使用手机的时间？很是头疼。](https://www.v2ex.com/t/884205) 
 - [【技术头条】2022-10-01-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-01-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-01-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -130,12 +129,12 @@
 - [【开发者头条】2022-10-01-基于kcp的帧同步服务器---知乎](https://toutiao.io/k/hhix00h) 
 - [【开发者头条】2022-10-01-Doris在蔚来汽车的应用](https://toutiao.io/k/c6mezri) 
 - [【开发者头条】2022-10-01-树模型决策的可解释性与微调Python](https://toutiao.io/k/7x66r8b) 
-- [【开发者头条】2022-10-01-激活数据价值，探究DataOps下的数据架构及其实践丨DTVision开发治理篇](https://toutiao.io/k/dvgc8ks) 
 - [【开发者头条】2022-10-01-图解｜cgroup-设计分析（Docker-底层技术）](https://toutiao.io/k/i2lecgq) 
+- [【开发者头条】2022-10-01-激活数据价值，探究DataOps下的数据架构及其实践丨DTVision开发治理篇](https://toutiao.io/k/dvgc8ks) 
 - [【开发者头条】2022-10-01-出海-SLG-大厂集体做三消，除莉莉丝入局，这回来了款“三消二次元”](https://toutiao.io/k/c6igjo6) 
 - [【开发者头条】2022-10-01-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) 
-- [【开发者头条】2022-10-01-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) 
 - [【开发者头条】2022-10-01-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) 
+- [【开发者头条】2022-10-01-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

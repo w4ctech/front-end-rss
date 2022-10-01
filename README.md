@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-01 12:28:57，:rocket: 更新条数: +2014， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-01 13:16:17，:rocket: 更新条数: +2013， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,15 @@
 </summary>
 
 
+- [2022-10-01-请教一下各位关于听障人士找前端相关工作的问题](https://www.v2ex.com/t/884265) ![](assets/new.png)  
+- [2022-10-01-Win11-下怎么读写-EXT4-分区？](https://www.v2ex.com/t/884264) ![](assets/new.png)  
+- [2022-10-01-百度地图收藏能否导出？](https://www.v2ex.com/t/884263) ![](assets/new.png)  
+- [2022-10-01-把父母手机越狱用微信-callkit-会被封号吗？](https://www.v2ex.com/t/884262) ![](assets/new.png)  
+- [2022-10-01-10-月的黑胶（7-天）](https://www.v2ex.com/t/884260) ![](assets/new.png)  
+- [2022-10-01-求一个馒头邀请……](https://www.v2ex.com/t/884258) ![](assets/new.png)  
+- [2022-10-01-未开封的瓶装水过期一年了能喝吗](https://www.v2ex.com/t/884257) ![](assets/new.png)  
+- [2022-10-01-mysql-里面为什么有时候子查询需要-alias，有时候则不需要呢？](https://www.v2ex.com/t/884256) ![](assets/new.png)  
+- [2022-10-01-开启-Shortcut-FE-加速会造成-UDP-丢包是真的吗？](https://www.v2ex.com/t/884255) ![](assets/new.png)  
 - [2022-10-01-明天阳历生，除了北京欢乐谷可以免费游玩，大家伙还知道什么福利吗？随便有没有朋友明天一起玩](https://www.v2ex.com/t/884254) ![](assets/new.png)  
 - [2022-10-01-可以让-iPhone-和-mac-同时接到-Bark-的通知么](https://www.v2ex.com/t/884253) ![](assets/new.png)  
 - [2022-10-01-Safari-如何多选标签页？](https://www.v2ex.com/t/884251) ![](assets/new.png)  
@@ -500,17 +509,8 @@
 - [2022-10-01-有-android-sdk-api-PDF-版吗？](https://www.v2ex.com/t/884245) ![](assets/new.png)  
 - [2022-10-01-有老哥讲过脱口秀吗？](https://www.v2ex.com/t/884244) ![](assets/new.png)  
 - [2022-10-01-以太坊如何查出所有的-Pull-Rugged-跑路/割韭菜-项目?](https://www.v2ex.com/t/884243) ![](assets/new.png)  
-- [2022-10-01-目前人再西安市未央区，未央区有个小区是高风险，打算-5-号返京，按照北京的政策（进京前-7-日内有新增本土新冠病毒感染者所在县旅居史人员严格限制进返京），是...](https://www.v2ex.com/t/884241) ![](assets/new.png)  
 - [2022-10-01-IOS-第三方输入法，例如百度搜狗，禁止"完全访问"和禁用"无线数据"，还会后台上传用户输入的内容吗？](https://www.v2ex.com/t/884239) ![](assets/new.png)  
 - [2022-10-01-手表上删除好友是个好功能吗?](https://www.v2ex.com/t/884238) ![](assets/new.png)  
-- [2022-10-01-求推荐-Cpp-快速入门书](https://www.v2ex.com/t/884236) ![](assets/new.png)  
-- [2022-10-01-请问有没有集合-待办、日历（事件）、邮件、联系人等的软件啊？](https://www.v2ex.com/t/884235) ![](assets/new.png)  
-- [2022-10-01-请教一个-vue-中组件复用的生成的页面间切换的问题](https://www.v2ex.com/t/884233) ![](assets/new.png)  
-- [2022-10-01-扫二维码自动登陆](https://www.v2ex.com/t/884231) ![](assets/new.png)  
-- [2022-10-01-想尝试下-dota2](https://www.v2ex.com/t/884230) ![](assets/new.png)  
-- [2022-10-01-gpu-accelerated-对于-terminal-在日常使用中有明显效果吗？](https://www.v2ex.com/t/884229) ![](assets/new.png)  
-- [2022-10-01-回顾一下我的七年，还有更好的路可以走吗？](https://www.v2ex.com/t/884228) ![](assets/new.png)  
-- [2022-10-01-Mac-照片导出-iPhone-拍摄的原图时拍摄时间被改，怎么破？](https://www.v2ex.com/t/884226) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -560,12 +560,12 @@
 - [2022-10-01-基于kcp的帧同步服务器---知乎](https://toutiao.io/k/hhix00h) ![](assets/new.png)  
 - [2022-10-01-Doris在蔚来汽车的应用](https://toutiao.io/k/c6mezri) ![](assets/new.png)  
 - [2022-10-01-树模型决策的可解释性与微调Python](https://toutiao.io/k/7x66r8b) ![](assets/new.png)  
-- [2022-10-01-激活数据价值，探究DataOps下的数据架构及其实践丨DTVision开发治理篇](https://toutiao.io/k/dvgc8ks) ![](assets/new.png)  
 - [2022-10-01-图解｜cgroup-设计分析（Docker-底层技术）](https://toutiao.io/k/i2lecgq) ![](assets/new.png)  
+- [2022-10-01-激活数据价值，探究DataOps下的数据架构及其实践丨DTVision开发治理篇](https://toutiao.io/k/dvgc8ks) ![](assets/new.png)  
 - [2022-10-01-出海-SLG-大厂集体做三消，除莉莉丝入局，这回来了款“三消二次元”](https://toutiao.io/k/c6igjo6) ![](assets/new.png)  
 - [2022-10-01-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) ![](assets/new.png)  
-- [2022-10-01-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) ![](assets/new.png)  
 - [2022-10-01-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) ![](assets/new.png)  
+- [2022-10-01-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

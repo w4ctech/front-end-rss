@@ -9953,6 +9953,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "请问有没有集合 待办、日历（事件）、邮件、联系人等的软件啊？",
+        "link": "https://www.v2ex.com/t/884235",
+        "date": "2022-10-01"
+      },
+      {
+        "title": "请教一个 vue 中组件复用的生成的页面间切换的问题",
+        "link": "https://www.v2ex.com/t/884233",
+        "date": "2022-10-01"
+      },
+      {
         "title": "扫二维码自动登陆",
         "link": "https://www.v2ex.com/t/884231",
         "date": "2022-10-01"
@@ -10121,21 +10131,6 @@
         "title": "大家的 Chrome 翻译功能还正常吗？",
         "link": "https://www.v2ex.com/t/884186",
         "date": "2022-10-01"
-      },
-      {
-        "title": "请教关于函数式编程的优势",
-        "link": "https://www.v2ex.com/t/884185",
-        "date": "2022-10-01"
-      },
-      {
-        "title": "请教一个比较麻烦的 Oracle 转 Mysql 的问题",
-        "link": "https://www.v2ex.com/t/884184",
-        "date": "2022-10-01"
-      },
-      {
-        "title": "我想问下，你们也没有上过这个网站 prowebber.ru ?",
-        "link": "https://www.v2ex.com/t/884183",
-        "date": "2022-10-01"
       }
     ]
   },
@@ -10272,13 +10267,13 @@
         "date": "2022-10-01"
       },
       {
-        "title": "日志记录的最佳实践",
-        "link": "https://toutiao.io/k/lmtacvv",
+        "title": "浅谈敏捷：你的团队在正确实践敏捷吗？",
+        "link": "https://toutiao.io/k/m8vn8qc",
         "date": "2022-10-01"
       },
       {
-        "title": "浅谈敏捷：你的团队在正确实践敏捷吗？",
-        "link": "https://toutiao.io/k/m8vn8qc",
+        "title": "日志记录的最佳实践",
+        "link": "https://toutiao.io/k/lmtacvv",
         "date": "2022-10-01"
       },
       {
@@ -10302,6 +10297,11 @@
         "date": "2022-10-01"
       },
       {
+        "title": "[推荐] Netty、Kafka中的零拷贝技术到底有多牛?",
+        "link": "https://toutiao.io/k/ussdz4q",
+        "date": "2022-10-01"
+      },
+      {
         "title": "[推荐] 聊聊 8种 架构模式",
         "link": "https://toutiao.io/k/luf0yh6",
         "date": "2022-10-01"
@@ -10309,11 +10309,6 @@
       {
         "title": "[推荐] 分享16个我总结的思维模型（程序员必读，受用终身）",
         "link": "https://toutiao.io/k/f7r13v5",
-        "date": "2022-10-01"
-      },
-      {
-        "title": "[推荐] Netty、Kafka中的零拷贝技术到底有多牛?",
-        "link": "https://toutiao.io/k/ussdz4q",
         "date": "2022-10-01"
       }
     ]

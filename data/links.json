@@ -9953,6 +9953,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "你们有没有遇到过 macOS 上面 safari 内存泄漏的问题？",
+        "link": "https://www.v2ex.com/t/884290",
+        "date": "2022-10-01"
+      },
+      {
+        "title": "Apple Music 上架了杰伦的专辑《最伟大的作品》。",
+        "link": "https://www.v2ex.com/t/884289",
+        "date": "2022-10-01"
+      },
+      {
         "title": "有朋友玩气动意式咖啡机吗？",
         "link": "https://www.v2ex.com/t/884288",
         "date": "2022-10-01"
@@ -10126,11 +10136,6 @@
         "title": "以太坊如何查出所有的 Pull Rugged (跑路/割韭菜) 项目?",
         "link": "https://www.v2ex.com/t/884243",
         "date": "2022-10-01"
-      },
-      {
-        "title": "IOS 第三方输入法，例如百度搜狗，禁止\"完全访问\"和禁用\"无线数据\"，还会后台上传用户输入的内容吗？",
-        "link": "https://www.v2ex.com/t/884239",
-        "date": "2022-10-01"
       }
     ]
   },
@@ -10302,13 +10307,18 @@
         "date": "2022-10-01"
       },
       {
-        "title": "[推荐] 聊聊 8种 架构模式",
-        "link": "https://toutiao.io/k/luf0yh6",
+        "title": "[推荐] 性能优化必备——火焰图",
+        "link": "https://toutiao.io/k/azf7ub6",
         "date": "2022-10-01"
       },
       {
         "title": "[推荐] Netty、Kafka中的零拷贝技术到底有多牛?",
         "link": "https://toutiao.io/k/ussdz4q",
+        "date": "2022-10-01"
+      },
+      {
+        "title": "[推荐] 聊聊 8种 架构模式",
+        "link": "https://toutiao.io/k/luf0yh6",
         "date": "2022-10-01"
       }
     ]

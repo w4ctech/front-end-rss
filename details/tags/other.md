@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-01 16:20:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-01 17:02:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1914,6 +1914,11 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-10-01-楼市都这样了，居然还能坚持住](https://www.v2ex.com/t/884295) 
+- [2022-10-01-PDD-百亿补帖的-Airpods-Pro-2-发货地是华强北](https://www.v2ex.com/t/884294) 
+- [2022-10-01-2015-MacBook-Pro-15-寸-DIY-换电池](https://www.v2ex.com/t/884293) 
+- [2022-10-01-sublime-代码提示会有很多没用的内容.](https://www.v2ex.com/t/884292) 
+- [2022-10-01-就国内的风气和氛围，如果去干了一段时间别的工作，以后还回得来吗？](https://www.v2ex.com/t/884291) 
 - [2022-10-01-Apple-Music-上架了杰伦的专辑《最伟大的作品》。](https://www.v2ex.com/t/884289) 
 - [2022-10-01-有朋友玩气动意式咖啡机吗？](https://www.v2ex.com/t/884288) 
 - [2022-10-01-有办法自己给-Linux-开发板编译一个新系统吗？](https://www.v2ex.com/t/884287) 
@@ -1944,9 +1949,6 @@
 - [2022-10-01-明天深圳出发租车去惠州，有-v-友一起的吗。](https://www.v2ex.com/t/884250) 
 - [2022-10-01-airpods-pro-2-耳机在电池仓中处于关闭状态，手机仍然显示连接状态。](https://www.v2ex.com/t/884249) 
 - [2022-10-01-mac-os-13-正式版大概什么时候推送](https://www.v2ex.com/t/884248) 
-- [2022-10-01-有-android-sdk-api-PDF-版吗？](https://www.v2ex.com/t/884245) 
-- [2022-10-01-有老哥讲过脱口秀吗？](https://www.v2ex.com/t/884244) 
-- [2022-10-01-以太坊如何查出所有的-Pull-Rugged-跑路/割韭菜-项目?](https://www.v2ex.com/t/884243) 
 - [2022-10-01-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-01-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-01-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1974,6 +1976,6 @@
 - [2022-10-01-树模型决策的可解释性与微调Python](https://toutiao.io/k/7x66r8b) 
 - [2022-10-01-激活数据价值，探究DataOps下的数据架构及其实践丨DTVision开发治理篇](https://toutiao.io/k/dvgc8ks) 
 - [2022-10-01-出海-SLG-大厂集体做三消，除莉莉丝入局，这回来了款“三消二次元”](https://toutiao.io/k/c6igjo6) 
-- [2022-10-01-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) 
 - [2022-10-01-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) 
+- [2022-10-01-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) 
 - [2022-10-01-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) 

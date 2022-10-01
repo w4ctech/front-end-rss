@@ -9953,6 +9953,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "Socket 接收字节报错： System.OutOfMemoryException:“Exception_WasThrown”",
+        "link": "https://www.v2ex.com/t/884298",
+        "date": "2022-10-01"
+      },
+      {
+        "title": "秋招 gg，想做开源方向可行吗",
+        "link": "https://www.v2ex.com/t/884297",
+        "date": "2022-10-01"
+      },
+      {
         "title": "ios16 safari 网站注册时弹出推荐强密码后卡死",
         "link": "https://www.v2ex.com/t/884296",
         "date": "2022-10-01"
@@ -10141,16 +10151,6 @@
         "title": "明天深圳出发租车去惠州，有 v 友一起的吗。",
         "link": "https://www.v2ex.com/t/884250",
         "date": "2022-10-01"
-      },
-      {
-        "title": "airpods pro 2 耳机在电池仓中处于关闭状态，手机仍然显示连接状态。",
-        "link": "https://www.v2ex.com/t/884249",
-        "date": "2022-10-01"
-      },
-      {
-        "title": "mac os 13 正式版大概什么时候推送",
-        "link": "https://www.v2ex.com/t/884248",
-        "date": "2022-10-01"
       }
     ]
   },
@@ -10317,23 +10317,23 @@
         "date": "2022-10-01"
       },
       {
-        "title": "[推荐] Netty、Kafka中的零拷贝技术到底有多牛?",
-        "link": "https://toutiao.io/k/ussdz4q",
-        "date": "2022-10-01"
-      },
-      {
         "title": "[推荐] 性能优化必备——火焰图",
         "link": "https://toutiao.io/k/azf7ub6",
         "date": "2022-10-01"
       },
       {
-        "title": "[推荐] 分享16个我总结的思维模型（程序员必读，受用终身）",
-        "link": "https://toutiao.io/k/f7r13v5",
+        "title": "[推荐] 聊聊 8种 架构模式",
+        "link": "https://toutiao.io/k/luf0yh6",
         "date": "2022-10-01"
       },
       {
-        "title": "[推荐] 聊聊 8种 架构模式",
-        "link": "https://toutiao.io/k/luf0yh6",
+        "title": "[推荐] Netty、Kafka中的零拷贝技术到底有多牛?",
+        "link": "https://toutiao.io/k/ussdz4q",
+        "date": "2022-10-01"
+      },
+      {
+        "title": "[推荐] 分享16个我总结的思维模型（程序员必读，受用终身）",
+        "link": "https://toutiao.io/k/f7r13v5",
         "date": "2022-10-01"
       }
     ]

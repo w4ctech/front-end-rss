@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-01 07:47:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-01 08:20:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1914,6 +1914,8 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-10-01-求解：-QQ-邮箱服务器端已删除的一封邮件，-Mac-邮件客户端仍显示而且删除不了。](https://www.v2ex.com/t/884219) 
+- [2022-10-01-特斯拉人形机器人“擎天柱”原型亮相：可搬箱子、浇水，每台或低于-2-万美元](https://www.v2ex.com/t/884217) 
 - [2022-10-01-airpods-pro2-到货了，但是系统是-IOS15-的-首次开盖竟然没有弹窗-控制中心也没有显示图标是默认蓝牙的](https://www.v2ex.com/t/884213) 
 - [2022-10-01-装完宝塔，外网访问面板是-ipv6，打不卡怎么办呢？](https://www.v2ex.com/t/884211) 
 - [2022-10-01-一部-iPhone-能同时使用支付宝和-Apple-Pay-坐地铁吗](https://www.v2ex.com/t/884210) 
@@ -1939,7 +1941,6 @@
 - [2022-10-01-刚刚到货的官翻-m1-air，这个磁盘数据正常么](https://www.v2ex.com/t/884172) 
 - [2022-10-01-今天不会还有人在上班吧！](https://www.v2ex.com/t/884171) 
 - [2022-10-01-放在-cloudflare-的域名突然都没有-dns-解析了](https://www.v2ex.com/t/884170) 
-- [2022-10-01-成都电信，-USTC-镜像站点无法访问](https://www.v2ex.com/t/884169) 
 - [2022-10-01-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-01-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-01-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

@@ -9953,8 +9953,13 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
-        "title": "记一次黄码事件",
-        "link": "https://www.v2ex.com/t/884216",
+        "title": "求解： QQ 邮箱服务器端已删除的一封邮件， Mac 邮件客户端仍显示而且删除不了。",
+        "link": "https://www.v2ex.com/t/884219",
+        "date": "2022-10-01"
+      },
+      {
+        "title": "特斯拉人形机器人“擎天柱”原型亮相：可搬箱子、浇水，每台或低于 2 万美元",
+        "link": "https://www.v2ex.com/t/884217",
         "date": "2022-10-01"
       },
       {
@@ -10125,11 +10130,6 @@
       {
         "title": "放在 cloudflare 的域名突然都没有 dns 解析了",
         "link": "https://www.v2ex.com/t/884170",
-        "date": "2022-10-01"
-      },
-      {
-        "title": "成都电信， USTC 镜像站点无法访问",
-        "link": "https://www.v2ex.com/t/884169",
         "date": "2022-10-01"
       }
     ]

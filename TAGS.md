@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-10-01 06:34:10。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-01 07:22:35。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -234,7 +234,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】广州17岁男生在定点医院参加高考-特殊考场视频监考](https://m.caixin.com/m/2021-06-05/101723418.html)
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
 - [【V2EX】寻求-QT-开发，涉及到技术包括-websocket，-webrtc，-Linux-嵌入等](https://www.v2ex.com/t/884164)
-- [【V2EX】有没有比较容易上手,傻瓜式的图片,视频处理工具大家可以推荐下?](https://www.v2ex.com/t/884160)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -273,10 +272,10 @@
 - [【武汉肺炎防疫全纪录(财新网)】腺病毒新冠疫苗引安全忧虑-康希诺称未发现血栓病例](https://m.caixin.com/m/2021-04-14/101691086.html)
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
+- [【V2EX】说完-chrome，大家再来讨论下-firefox-记住密码的安全性](https://www.v2ex.com/t/884212)
 - [【V2EX】ajax-上传-cors-错误](https://www.v2ex.com/t/884200)
 - [【V2EX】有人遇到过-chrome-新标签页广告吗](https://www.v2ex.com/t/884199)
 - [【V2EX】大家的-Chrome-翻译功能还正常吗？](https://www.v2ex.com/t/884186)
-- [【V2EX】农业银行养老社保卡安全问题](https://www.v2ex.com/t/884161)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -310,6 +309,7 @@
 
 
 
+- [【V2EX】弄了个用-docker-compose-安装常用软件的项目-docker-install-everything](https://www.v2ex.com/t/884208)
 - [【技术头条】GraphQL及元数据驱动架构在后端BFF中的实践-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15395&url=https%3A%2F%2Ftech.meituan.com%2F2021%2F05%2F06%2Fbff-graphql.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】图解｜cgroup-设计分析（Docker-底层技术）](https://toutiao.io/k/i2lecgq)
 - [......【查看更多】......](./details/tags/server.md)

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-01 06:34:10，:rocket: 更新条数: +2015， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-01 07:22:35，:rocket: 更新条数: +2016， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,13 @@
 </summary>
 
 
+- [2022-10-01-airpods-pro2-到货了，但是系统是-IOS15-的-首次开盖竟然没有弹窗-控制中心也没有显示图标是默认蓝牙的](https://www.v2ex.com/t/884213) ![](assets/new.png)  
+- [2022-10-01-说完-chrome，大家再来讨论下-firefox-记住密码的安全性](https://www.v2ex.com/t/884212) ![](assets/new.png)  
+- [2022-10-01-装完宝塔，外网访问面板是-ipv6，打不卡怎么办呢？](https://www.v2ex.com/t/884211) ![](assets/new.png)  
+- [2022-10-01-一部-iPhone-能同时使用支付宝和-Apple-Pay-坐地铁吗](https://www.v2ex.com/t/884210) ![](assets/new.png)  
+- [2022-10-01-新协程并发脚本语言的问世](https://www.v2ex.com/t/884209) ![](assets/new.png)  
+- [2022-10-01-弄了个用-docker-compose-安装常用软件的项目-docker-install-everything](https://www.v2ex.com/t/884208) ![](assets/new.png)  
+- [2022-10-01-预算-2k～-3k-想个父母换一台电视，求推荐。](https://www.v2ex.com/t/884207) ![](assets/new.png)  
 - [2022-10-01-初三的学生。在家如何控制或者限制使用手机的时间？很是头疼。](https://www.v2ex.com/t/884205) ![](assets/new.png)  
 - [2022-10-01-现在有什么路由支持开光挂着-clash，还有-1000M-的，我的网件-R8500-原系统只支持-600M](https://www.v2ex.com/t/884202) ![](assets/new.png)  
 - [2022-10-01-Alaska---Late-Autumn-2022](https://www.v2ex.com/t/884201) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-10-01-有没有公开授权的可以允许爬虫的网站](https://www.v2ex.com/t/884192) ![](assets/new.png)  
 - [2022-10-01-怎样阉割智能手机功能](https://www.v2ex.com/t/884189) ![](assets/new.png)  
 - [2022-10-01-请教下-vmware-改造两地三中心方式](https://www.v2ex.com/t/884187) ![](assets/new.png)  
-- [2022-10-01-大家的-Chrome-翻译功能还正常吗？](https://www.v2ex.com/t/884186) ![](assets/new.png)  
-- [2022-10-01-请教关于函数式编程的优势](https://www.v2ex.com/t/884185) ![](assets/new.png)  
-- [2022-10-01-请教一个比较麻烦的-Oracle-转-Mysql-的问题](https://www.v2ex.com/t/884184) ![](assets/new.png)  
-- [2022-10-01-我想问下，你们也没有上过这个网站-prowebber.ru-?](https://www.v2ex.com/t/884183) ![](assets/new.png)  
-- [2022-10-01-想开发定制一款指纹活着人脸考勤机](https://www.v2ex.com/t/884182) ![](assets/new.png)  
-- [2022-10-01-为什么很多软件要搞基建，分页都要自己实现呢？](https://www.v2ex.com/t/884181) ![](assets/new.png)  
-- [2022-10-01-宝安机场东转租；一房一厅；-800-米到地铁；适合短租长租；](https://www.v2ex.com/t/884178) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -561,11 +561,11 @@
 - [2022-10-01-浅谈敏捷：你的团队在正确实践敏捷吗？](https://toutiao.io/k/m8vn8qc) ![](assets/new.png)  
 - [2022-10-01-树模型决策的可解释性与微调Python](https://toutiao.io/k/7x66r8b) ![](assets/new.png)  
 - [2022-10-01-激活数据价值，探究DataOps下的数据架构及其实践丨DTVision开发治理篇](https://toutiao.io/k/dvgc8ks) ![](assets/new.png)  
-- [2022-10-01-图解｜cgroup-设计分析（Docker-底层技术）](https://toutiao.io/k/i2lecgq) ![](assets/new.png)  
 - [2022-10-01-出海-SLG-大厂集体做三消，除莉莉丝入局，这回来了款“三消二次元”](https://toutiao.io/k/c6igjo6) ![](assets/new.png)  
-- [2022-10-01-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) ![](assets/new.png)  
-- [2022-10-01-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) ![](assets/new.png)  
+- [2022-10-01-图解｜cgroup-设计分析（Docker-底层技术）](https://toutiao.io/k/i2lecgq) ![](assets/new.png)  
 - [2022-10-01-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) ![](assets/new.png)  
+- [2022-10-01-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) ![](assets/new.png)  
+- [2022-10-01-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

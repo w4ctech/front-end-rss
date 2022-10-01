@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-01 06:34:10。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-10-01 07:22:35。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,13 @@
 </summary>
 
 
+- [【V2EX】2022-10-01-airpods-pro2-到货了，但是系统是-IOS15-的-首次开盖竟然没有弹窗-控制中心也没有显示图标是默认蓝牙的](https://www.v2ex.com/t/884213) 
+- [【V2EX】2022-10-01-说完-chrome，大家再来讨论下-firefox-记住密码的安全性](https://www.v2ex.com/t/884212) 
+- [【V2EX】2022-10-01-装完宝塔，外网访问面板是-ipv6，打不卡怎么办呢？](https://www.v2ex.com/t/884211) 
+- [【V2EX】2022-10-01-一部-iPhone-能同时使用支付宝和-Apple-Pay-坐地铁吗](https://www.v2ex.com/t/884210) 
+- [【V2EX】2022-10-01-新协程并发脚本语言的问世](https://www.v2ex.com/t/884209) 
+- [【V2EX】2022-10-01-弄了个用-docker-compose-安装常用软件的项目-docker-install-everything](https://www.v2ex.com/t/884208) 
+- [【V2EX】2022-10-01-预算-2k～-3k-想个父母换一台电视，求推荐。](https://www.v2ex.com/t/884207) 
 - [【V2EX】2022-10-01-初三的学生。在家如何控制或者限制使用手机的时间？很是头疼。](https://www.v2ex.com/t/884205) 
 - [【V2EX】2022-10-01-现在有什么路由支持开光挂着-clash，还有-1000M-的，我的网件-R8500-原系统只支持-600M](https://www.v2ex.com/t/884202) 
 - [【V2EX】2022-10-01-Alaska---Late-Autumn-2022](https://www.v2ex.com/t/884201) 
@@ -98,12 +105,6 @@
 - [【V2EX】2022-10-01-想通过-winrar-定期压缩一些文件，有没有除了自己-win7-自带的计划程序外的方法呢？](https://www.v2ex.com/t/884166) 
 - [【V2EX】2022-10-01-iPhone-经常弹出重要运营商信息，怎么能让它不提醒？](https://www.v2ex.com/t/884165) 
 - [【V2EX】2022-10-01-寻求-QT-开发，涉及到技术包括-websocket，-webrtc，-Linux-嵌入等](https://www.v2ex.com/t/884164) 
-- [【V2EX】2022-10-01-今天在上班的-V-友，一定没有休假吧？](https://www.v2ex.com/t/884163) 
-- [【V2EX】2022-10-01-tvos16-控制中心没有-homekit-了](https://www.v2ex.com/t/884162) 
-- [【V2EX】2022-10-01-农业银行养老社保卡安全问题](https://www.v2ex.com/t/884161) 
-- [【V2EX】2022-10-01-有没有比较容易上手,傻瓜式的图片,视频处理工具大家可以推荐下?](https://www.v2ex.com/t/884160) 
-- [【V2EX】2022-10-01-vmware-虚拟网卡干扰主机网络，有什么完美解决办法？](https://www.v2ex.com/t/884159) 
-- [【V2EX】2022-10-01-分享一个我写的容器里的-top-命令：-topic-top-in-container](https://www.v2ex.com/t/884157) 
 - [【技术头条】2022-10-01-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-01-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-01-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -132,11 +133,11 @@
 - [【开发者头条】2022-10-01-浅谈敏捷：你的团队在正确实践敏捷吗？](https://toutiao.io/k/m8vn8qc) 
 - [【开发者头条】2022-10-01-树模型决策的可解释性与微调Python](https://toutiao.io/k/7x66r8b) 
 - [【开发者头条】2022-10-01-激活数据价值，探究DataOps下的数据架构及其实践丨DTVision开发治理篇](https://toutiao.io/k/dvgc8ks) 
-- [【开发者头条】2022-10-01-图解｜cgroup-设计分析（Docker-底层技术）](https://toutiao.io/k/i2lecgq) 
 - [【开发者头条】2022-10-01-出海-SLG-大厂集体做三消，除莉莉丝入局，这回来了款“三消二次元”](https://toutiao.io/k/c6igjo6) 
-- [【开发者头条】2022-10-01-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) 
-- [【开发者头条】2022-10-01-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) 
+- [【开发者头条】2022-10-01-图解｜cgroup-设计分析（Docker-底层技术）](https://toutiao.io/k/i2lecgq) 
 - [【开发者头条】2022-10-01-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) 
+- [【开发者头条】2022-10-01-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) 
+- [【开发者头条】2022-10-01-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-01 14:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-01 14:23:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1914,6 +1914,7 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-10-01-Mac-上没有随机-Mac-地址功能吗？](https://www.v2ex.com/t/884270) 
 - [2022-10-01-dd-的纯净-debian11-系统如何开启-ipv6](https://www.v2ex.com/t/884267) 
 - [2022-10-01-原来微信是支持了系统原生的-Image-Picker-的](https://www.v2ex.com/t/884266) 
 - [2022-10-01-请教一下各位关于听障人士找前端相关工作的问题](https://www.v2ex.com/t/884265) 
@@ -1943,7 +1944,6 @@
 - [2022-10-01-Mac-好像没有支持-rar-压缩的软件？](https://www.v2ex.com/t/884223) 
 - [2022-10-01-现在业界处理大数据不用-spark-hadoop-了？](https://www.v2ex.com/t/884222) 
 - [2022-10-01-没买过香港的服务器-，这个配置一年-150-元，贵吗？](https://www.v2ex.com/t/884221) 
-- [2022-10-01-小米售后换货](https://www.v2ex.com/t/884220) 
 - [2022-10-01-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-01-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-01-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1972,5 +1972,5 @@
 - [2022-10-01-激活数据价值，探究DataOps下的数据架构及其实践丨DTVision开发治理篇](https://toutiao.io/k/dvgc8ks) 
 - [2022-10-01-出海-SLG-大厂集体做三消，除莉莉丝入局，这回来了款“三消二次元”](https://toutiao.io/k/c6igjo6) 
 - [2022-10-01-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) 
-- [2022-10-01-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) 
 - [2022-10-01-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) 
+- [2022-10-01-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) 

@@ -272,6 +272,26 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "扫二维码自动登陆",
+        "link": "https://www.v2ex.com/t/884231",
+        "date": "2022-10-01"
+      },
+      {
+        "title": "想尝试下 dota2",
+        "link": "https://www.v2ex.com/t/884230",
+        "date": "2022-10-01"
+      },
+      {
+        "title": "gpu-accelerated 对于 terminal 在日常使用中有明显效果吗？",
+        "link": "https://www.v2ex.com/t/884229",
+        "date": "2022-10-01"
+      },
+      {
+        "title": "回顾一下我的七年，还有更好的路可以走吗？",
+        "link": "https://www.v2ex.com/t/884228",
+        "date": "2022-10-01"
+      },
+      {
         "title": "Mac 照片导出 iPhone 拍摄的原图时拍摄时间被改，怎么破？",
         "link": "https://www.v2ex.com/t/884226",
         "date": "2022-10-01"
@@ -440,21 +460,6 @@
         "title": "想开发定制一款指纹活着人脸考勤机",
         "link": "https://www.v2ex.com/t/884182",
         "date": "2022-10-01"
-      },
-      {
-        "title": "为什么很多软件要搞基建，分页都要自己实现呢？",
-        "link": "https://www.v2ex.com/t/884181",
-        "date": "2022-10-01"
-      },
-      {
-        "title": "宝安机场东转租；一房一厅； 800 米到地铁；适合短租长租；",
-        "link": "https://www.v2ex.com/t/884178",
-        "date": "2022-10-01"
-      },
-      {
-        "title": "google 翻译扩展怎么挂了",
-        "link": "https://www.v2ex.com/t/884177",
-        "date": "2022-10-01"
       }
     ]
   },
@@ -621,6 +626,11 @@
         "date": "2022-10-01"
       },
       {
+        "title": "[推荐] 分享16个我总结的思维模型（程序员必读，受用终身）",
+        "link": "https://toutiao.io/k/f7r13v5",
+        "date": "2022-10-01"
+      },
+      {
         "title": "[推荐] 聊聊 8种 架构模式",
         "link": "https://toutiao.io/k/luf0yh6",
         "date": "2022-10-01"
@@ -628,11 +638,6 @@
       {
         "title": "[推荐] Netty、Kafka中的零拷贝技术到底有多牛?",
         "link": "https://toutiao.io/k/ussdz4q",
-        "date": "2022-10-01"
-      },
-      {
-        "title": "[推荐] 分享16个我总结的思维模型（程序员必读，受用终身）",
-        "link": "https://toutiao.io/k/f7r13v5",
         "date": "2022-10-01"
       }
     ]

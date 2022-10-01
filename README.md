@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-01 08:54:46，:rocket: 更新条数: +80， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-01 09:19:46，:rocket: 更新条数: +81， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -471,6 +471,10 @@
 </summary>
 
 
+- [2022-10-01-扫二维码自动登陆](https://www.v2ex.com/t/884231) ![](assets/new.png)  
+- [2022-10-01-想尝试下-dota2](https://www.v2ex.com/t/884230) ![](assets/new.png)  
+- [2022-10-01-gpu-accelerated-对于-terminal-在日常使用中有明显效果吗？](https://www.v2ex.com/t/884229) ![](assets/new.png)  
+- [2022-10-01-回顾一下我的七年，还有更好的路可以走吗？](https://www.v2ex.com/t/884228) ![](assets/new.png)  
 - [2022-10-01-Mac-照片导出-iPhone-拍摄的原图时拍摄时间被改，怎么破？](https://www.v2ex.com/t/884226) ![](assets/new.png)  
 - [2022-10-01-中国商飞-相比波音空客售价便宜，前期-我们能否-坐到更便宜的国产大飞机？](https://www.v2ex.com/t/884224) ![](assets/new.png)  
 - [2022-10-01-Mac-好像没有支持-rar-压缩的软件？](https://www.v2ex.com/t/884223) ![](assets/new.png)  
@@ -487,10 +491,6 @@
 - [2022-10-01-新协程并发脚本语言的问世](https://www.v2ex.com/t/884209) ![](assets/new.png)  
 - [2022-10-01-弄了个用-docker-compose-安装常用软件的项目-docker-install-everything](https://www.v2ex.com/t/884208) ![](assets/new.png)  
 - [2022-10-01-预算-2k～-3k-想个父母换一台电视，求推荐。](https://www.v2ex.com/t/884207) ![](assets/new.png)  
-- [2022-10-01-初三的学生。在家如何控制或者限制使用手机的时间？很是头疼。](https://www.v2ex.com/t/884205) ![](assets/new.png)  
-- [2022-10-01-现在有什么路由支持开光挂着-clash，还有-1000M-的，我的网件-R8500-原系统只支持-600M](https://www.v2ex.com/t/884202) ![](assets/new.png)  
-- [2022-10-01-Alaska---Late-Autumn-2022](https://www.v2ex.com/t/884201) ![](assets/new.png)  
-- [2022-10-01-ajax-上传-cors-错误](https://www.v2ex.com/t/884200) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -543,9 +543,9 @@
 - [2022-10-01-激活数据价值，探究DataOps下的数据架构及其实践丨DTVision开发治理篇](https://toutiao.io/k/dvgc8ks) ![](assets/new.png)  
 - [2022-10-01-图解｜cgroup-设计分析（Docker-底层技术）](https://toutiao.io/k/i2lecgq) ![](assets/new.png)  
 - [2022-10-01-出海-SLG-大厂集体做三消，除莉莉丝入局，这回来了款“三消二次元”](https://toutiao.io/k/c6igjo6) ![](assets/new.png)  
+- [2022-10-01-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) ![](assets/new.png)  
 - [2022-10-01-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) ![](assets/new.png)  
 - [2022-10-01-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) ![](assets/new.png)  
-- [2022-10-01-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

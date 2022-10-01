@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-10-01 11:13:37。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-01 11:42:30。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -122,7 +122,6 @@
 
 
 
-- [【V2EX】国庆渐变头像小程序秒上线](https://www.v2ex.com/t/884193)
 - [......【查看更多】......](./details/tags/miniprogram.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -274,8 +273,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
 - [【V2EX】说完-chrome，大家再来讨论下-firefox-记住密码的安全性](https://www.v2ex.com/t/884212)
-- [【V2EX】ajax-上传-cors-错误](https://www.v2ex.com/t/884200)
-- [【V2EX】有人遇到过-chrome-新标签页广告吗](https://www.v2ex.com/t/884199)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

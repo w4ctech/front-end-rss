@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-10-01 10:17:05。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-01 10:47:57。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -276,7 +276,6 @@
 - [【V2EX】说完-chrome，大家再来讨论下-firefox-记住密码的安全性](https://www.v2ex.com/t/884212)
 - [【V2EX】ajax-上传-cors-错误](https://www.v2ex.com/t/884200)
 - [【V2EX】有人遇到过-chrome-新标签页广告吗](https://www.v2ex.com/t/884199)
-- [【V2EX】大家的-Chrome-翻译功能还正常吗？](https://www.v2ex.com/t/884186)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

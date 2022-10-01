@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-01 10:17:04，:rocket: 更新条数: +2015， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-01 10:47:57，:rocket: 更新条数: +2015， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-10-01-IOS-第三方输入法，例如百度搜狗，禁止"完全访问"和禁用"无线数据"，还会后台上传用户输入的内容吗？](https://www.v2ex.com/t/884239) ![](assets/new.png)  
+- [2022-10-01-手表上删除好友是个好功能吗?](https://www.v2ex.com/t/884238) ![](assets/new.png)  
+- [2022-10-01-求推荐-Cpp-快速入门书](https://www.v2ex.com/t/884236) ![](assets/new.png)  
 - [2022-10-01-请问有没有集合-待办、日历（事件）、邮件、联系人等的软件啊？](https://www.v2ex.com/t/884235) ![](assets/new.png)  
 - [2022-10-01-请教一个-vue-中组件复用的生成的页面间切换的问题](https://www.v2ex.com/t/884233) ![](assets/new.png)  
 - [2022-10-01-扫二维码自动登陆](https://www.v2ex.com/t/884231) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-10-01-vue3-事件响应问题](https://www.v2ex.com/t/884214) ![](assets/new.png)  
 - [2022-10-01-airpods-pro2-到货了，但是系统是-IOS15-的-首次开盖竟然没有弹窗-控制中心也没有显示图标是默认蓝牙的](https://www.v2ex.com/t/884213) ![](assets/new.png)  
 - [2022-10-01-说完-chrome，大家再来讨论下-firefox-记住密码的安全性](https://www.v2ex.com/t/884212) ![](assets/new.png)  
-- [2022-10-01-装完宝塔，外网访问面板是-ipv6，打不卡怎么办呢？](https://www.v2ex.com/t/884211) ![](assets/new.png)  
-- [2022-10-01-一部-iPhone-能同时使用支付宝和-Apple-Pay-坐地铁吗](https://www.v2ex.com/t/884210) ![](assets/new.png)  
-- [2022-10-01-新协程并发脚本语言的问世](https://www.v2ex.com/t/884209) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -556,15 +556,15 @@
 - [2022-10-01-优质网站同好者周刊（第-085-期）-|-倾城博客](https://toutiao.io/k/juv1ebb) ![](assets/new.png)  
 - [2022-10-01-独立开发变现周刊（第74期）：我的业余项目在3个月内月收入2500美元](https://toutiao.io/k/psiaoc7) ![](assets/new.png)  
 - [2022-10-01-基于kcp的帧同步服务器---知乎](https://toutiao.io/k/hhix00h) ![](assets/new.png)  
-- [2022-10-01-Doris在蔚来汽车的应用](https://toutiao.io/k/c6mezri) ![](assets/new.png)  
 - [2022-10-01-浅谈敏捷：你的团队在正确实践敏捷吗？](https://toutiao.io/k/m8vn8qc) ![](assets/new.png)  
+- [2022-10-01-Doris在蔚来汽车的应用](https://toutiao.io/k/c6mezri) ![](assets/new.png)  
 - [2022-10-01-日志记录的最佳实践](https://toutiao.io/k/lmtacvv) ![](assets/new.png)  
 - [2022-10-01-树模型决策的可解释性与微调Python](https://toutiao.io/k/7x66r8b) ![](assets/new.png)  
 - [2022-10-01-激活数据价值，探究DataOps下的数据架构及其实践丨DTVision开发治理篇](https://toutiao.io/k/dvgc8ks) ![](assets/new.png)  
 - [2022-10-01-图解｜cgroup-设计分析（Docker-底层技术）](https://toutiao.io/k/i2lecgq) ![](assets/new.png)  
 - [2022-10-01-出海-SLG-大厂集体做三消，除莉莉丝入局，这回来了款“三消二次元”](https://toutiao.io/k/c6igjo6) ![](assets/new.png)  
-- [2022-10-01-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) ![](assets/new.png)  
 - [2022-10-01-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) ![](assets/new.png)  
+- [2022-10-01-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) ![](assets/new.png)  
 - [2022-10-01-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

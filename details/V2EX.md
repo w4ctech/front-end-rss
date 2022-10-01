@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-01 09:19:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-01 09:48:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -42,4 +42,3 @@
 - [2022-10-01-请教关于函数式编程的优势](https://www.v2ex.com/t/884185) 
 - [2022-10-01-请教一个比较麻烦的-Oracle-转-Mysql-的问题](https://www.v2ex.com/t/884184) 
 - [2022-10-01-我想问下，你们也没有上过这个网站-prowebber.ru-?](https://www.v2ex.com/t/884183) 
-- [2022-10-01-想开发定制一款指纹活着人脸考勤机](https://www.v2ex.com/t/884182) 

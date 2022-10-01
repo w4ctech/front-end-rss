@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-01 11:42:30，:rocket: 更新条数: +2014， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-01 12:28:57，:rocket: 更新条数: +2014， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,10 +491,12 @@
 </summary>
 
 
+- [2022-10-01-明天阳历生，除了北京欢乐谷可以免费游玩，大家伙还知道什么福利吗？随便有没有朋友明天一起玩](https://www.v2ex.com/t/884254) ![](assets/new.png)  
+- [2022-10-01-可以让-iPhone-和-mac-同时接到-Bark-的通知么](https://www.v2ex.com/t/884253) ![](assets/new.png)  
+- [2022-10-01-Safari-如何多选标签页？](https://www.v2ex.com/t/884251) ![](assets/new.png)  
 - [2022-10-01-明天深圳出发租车去惠州，有-v-友一起的吗。](https://www.v2ex.com/t/884250) ![](assets/new.png)  
 - [2022-10-01-airpods-pro-2-耳机在电池仓中处于关闭状态，手机仍然显示连接状态。](https://www.v2ex.com/t/884249) ![](assets/new.png)  
 - [2022-10-01-mac-os-13-正式版大概什么时候推送](https://www.v2ex.com/t/884248) ![](assets/new.png)  
-- [2022-10-01-你们有申请-eu.org-通过的吗](https://www.v2ex.com/t/884247) ![](assets/new.png)  
 - [2022-10-01-有-android-sdk-api-PDF-版吗？](https://www.v2ex.com/t/884245) ![](assets/new.png)  
 - [2022-10-01-有老哥讲过脱口秀吗？](https://www.v2ex.com/t/884244) ![](assets/new.png)  
 - [2022-10-01-以太坊如何查出所有的-Pull-Rugged-跑路/割韭菜-项目?](https://www.v2ex.com/t/884243) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-10-01-gpu-accelerated-对于-terminal-在日常使用中有明显效果吗？](https://www.v2ex.com/t/884229) ![](assets/new.png)  
 - [2022-10-01-回顾一下我的七年，还有更好的路可以走吗？](https://www.v2ex.com/t/884228) ![](assets/new.png)  
 - [2022-10-01-Mac-照片导出-iPhone-拍摄的原图时拍摄时间被改，怎么破？](https://www.v2ex.com/t/884226) ![](assets/new.png)  
-- [2022-10-01-Mac-好像没有支持-rar-压缩的软件？](https://www.v2ex.com/t/884223) ![](assets/new.png)  
-- [2022-10-01-现在业界处理大数据不用-spark-hadoop-了？](https://www.v2ex.com/t/884222) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -556,15 +556,15 @@
 - [2022-10-01-优质网站同好者周刊（第-085-期）-|-倾城博客](https://toutiao.io/k/juv1ebb) ![](assets/new.png)  
 - [2022-10-01-独立开发变现周刊（第74期）：我的业余项目在3个月内月收入2500美元](https://toutiao.io/k/psiaoc7) ![](assets/new.png)  
 - [2022-10-01-浅谈敏捷：你的团队在正确实践敏捷吗？](https://toutiao.io/k/m8vn8qc) ![](assets/new.png)  
+- [2022-10-01-日志记录的最佳实践](https://toutiao.io/k/lmtacvv) ![](assets/new.png)  
 - [2022-10-01-基于kcp的帧同步服务器---知乎](https://toutiao.io/k/hhix00h) ![](assets/new.png)  
 - [2022-10-01-Doris在蔚来汽车的应用](https://toutiao.io/k/c6mezri) ![](assets/new.png)  
-- [2022-10-01-日志记录的最佳实践](https://toutiao.io/k/lmtacvv) ![](assets/new.png)  
 - [2022-10-01-树模型决策的可解释性与微调Python](https://toutiao.io/k/7x66r8b) ![](assets/new.png)  
 - [2022-10-01-激活数据价值，探究DataOps下的数据架构及其实践丨DTVision开发治理篇](https://toutiao.io/k/dvgc8ks) ![](assets/new.png)  
 - [2022-10-01-图解｜cgroup-设计分析（Docker-底层技术）](https://toutiao.io/k/i2lecgq) ![](assets/new.png)  
 - [2022-10-01-出海-SLG-大厂集体做三消，除莉莉丝入局，这回来了款“三消二次元”](https://toutiao.io/k/c6igjo6) ![](assets/new.png)  
-- [2022-10-01-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) ![](assets/new.png)  
 - [2022-10-01-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) ![](assets/new.png)  
+- [2022-10-01-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) ![](assets/new.png)  
 - [2022-10-01-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-01 11:42:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-01 12:28:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -15,4 +15,3 @@
 - [2021-03-03-港府回应一63岁患者死亡事件-暂无法确定与疫苗相关](https://m.caixin.com/m/2021-03-03/101670052.html) 
 - [2022-08-21-JS-replaceAll-和-matchAll-使用指南不指北](https://www.zhangxinxu.com/wordpress/2022/08/js-replaceall-matchall/) 
 - [2022-10-01-请问有没有集合-待办、日历（事件）、邮件、联系人等的软件啊？](https://www.v2ex.com/t/884235) 
-- [2022-10-01-现在有什么路由支持开光挂着-clash，还有-1000M-的，我的网件-R8500-原系统只支持-600M](https://www.v2ex.com/t/884202) 

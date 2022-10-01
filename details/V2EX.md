@@ -1,14 +1,16 @@
-:alarm_clock: 更新时间: 2022-10-01 11:42:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-01 12:28:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-10-01-明天阳历生，除了北京欢乐谷可以免费游玩，大家伙还知道什么福利吗？随便有没有朋友明天一起玩](https://www.v2ex.com/t/884254) 
+- [2022-10-01-可以让-iPhone-和-mac-同时接到-Bark-的通知么](https://www.v2ex.com/t/884253) 
+- [2022-10-01-Safari-如何多选标签页？](https://www.v2ex.com/t/884251) 
 - [2022-10-01-明天深圳出发租车去惠州，有-v-友一起的吗。](https://www.v2ex.com/t/884250) 
 - [2022-10-01-airpods-pro-2-耳机在电池仓中处于关闭状态，手机仍然显示连接状态。](https://www.v2ex.com/t/884249) 
 - [2022-10-01-mac-os-13-正式版大概什么时候推送](https://www.v2ex.com/t/884248) 
-- [2022-10-01-你们有申请-eu.org-通过的吗](https://www.v2ex.com/t/884247) 
 - [2022-10-01-有-android-sdk-api-PDF-版吗？](https://www.v2ex.com/t/884245) 
 - [2022-10-01-有老哥讲过脱口秀吗？](https://www.v2ex.com/t/884244) 
 - [2022-10-01-以太坊如何查出所有的-Pull-Rugged-跑路/割韭菜-项目?](https://www.v2ex.com/t/884243) 
@@ -38,5 +40,3 @@
 - [2022-10-01-弄了个用-docker-compose-安装常用软件的项目-docker-install-everything](https://www.v2ex.com/t/884208) 
 - [2022-10-01-预算-2k～-3k-想个父母换一台电视，求推荐。](https://www.v2ex.com/t/884207) 
 - [2022-10-01-初三的学生。在家如何控制或者限制使用手机的时间？很是头疼。](https://www.v2ex.com/t/884205) 
-- [2022-10-01-现在有什么路由支持开光挂着-clash，还有-1000M-的，我的网件-R8500-原系统只支持-600M](https://www.v2ex.com/t/884202) 
-- [2022-10-01-Alaska---Late-Autumn-2022](https://www.v2ex.com/t/884201) 

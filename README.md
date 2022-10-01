@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-01 13:16:17，:rocket: 更新条数: +2013， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-01 14:00:21，:rocket: 更新条数: +2013， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-10-01-dd-的纯净-debian11-系统如何开启-ipv6](https://www.v2ex.com/t/884267) ![](assets/new.png)  
+- [2022-10-01-原来微信是支持了系统原生的-Image-Picker-的](https://www.v2ex.com/t/884266) ![](assets/new.png)  
 - [2022-10-01-请教一下各位关于听障人士找前端相关工作的问题](https://www.v2ex.com/t/884265) ![](assets/new.png)  
 - [2022-10-01-Win11-下怎么读写-EXT4-分区？](https://www.v2ex.com/t/884264) ![](assets/new.png)  
 - [2022-10-01-百度地图收藏能否导出？](https://www.v2ex.com/t/884263) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-10-01-有-android-sdk-api-PDF-版吗？](https://www.v2ex.com/t/884245) ![](assets/new.png)  
 - [2022-10-01-有老哥讲过脱口秀吗？](https://www.v2ex.com/t/884244) ![](assets/new.png)  
 - [2022-10-01-以太坊如何查出所有的-Pull-Rugged-跑路/割韭菜-项目?](https://www.v2ex.com/t/884243) ![](assets/new.png)  
-- [2022-10-01-IOS-第三方输入法，例如百度搜狗，禁止"完全访问"和禁用"无线数据"，还会后台上传用户输入的内容吗？](https://www.v2ex.com/t/884239) ![](assets/new.png)  
-- [2022-10-01-手表上删除好友是个好功能吗?](https://www.v2ex.com/t/884238) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,9 +563,9 @@
 - [2022-10-01-图解｜cgroup-设计分析（Docker-底层技术）](https://toutiao.io/k/i2lecgq) ![](assets/new.png)  
 - [2022-10-01-激活数据价值，探究DataOps下的数据架构及其实践丨DTVision开发治理篇](https://toutiao.io/k/dvgc8ks) ![](assets/new.png)  
 - [2022-10-01-出海-SLG-大厂集体做三消，除莉莉丝入局，这回来了款“三消二次元”](https://toutiao.io/k/c6igjo6) ![](assets/new.png)  
-- [2022-10-01-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) ![](assets/new.png)  
 - [2022-10-01-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) ![](assets/new.png)  
 - [2022-10-01-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) ![](assets/new.png)  
+- [2022-10-01-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

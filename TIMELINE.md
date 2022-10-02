@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-02 20:46:07。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-10-02 21:14:49。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -138,10 +138,10 @@
 - [【开发者头条】2022-10-02-5-种瀑布流场景的实现原理解析](https://toutiao.io/k/7cgmeqg) 
 - [【开发者头条】2022-10-02-推荐假期看的几部黑客电影](https://toutiao.io/k/1yd8yp7) 
 - [【开发者头条】2022-10-02-TCP拥塞控制详解-|-2.-背景](https://toutiao.io/k/1dnm1nv) 
+- [【开发者头条】2022-10-02-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) 
 - [【开发者头条】2022-10-02-推荐-性能优化必备——火焰图](https://toutiao.io/k/azf7ub6) 
 - [【开发者头条】2022-10-02-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) 
 - [【开发者头条】2022-10-02-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) 
-- [【开发者头条】2022-10-02-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

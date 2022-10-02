@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2022-10-02 07:44:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-02 08:19:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-10-02-为什么没有外星飞行器达到地球呢？](https://www.v2ex.com/t/884378) 
+- [2022-10-02-南京-Java-开发-offer-选择，求好大哥们指点](https://www.v2ex.com/t/884376) 
+- [2022-10-02-家庭网络，如何利用-OpenWrt-和-Hyper-V-虚拟交换机隔离一台虚拟机？](https://www.v2ex.com/t/884375) 
 - [2022-10-02-何去何从？](https://www.v2ex.com/t/884372) 
 - [2022-10-02-请教大佬-js-和-Python-鼠标单击和双击-callback-问题](https://www.v2ex.com/t/884371) 
 - [2022-10-02-steam-中国的-cdn-可以下载国际版-steam](https://www.v2ex.com/t/884370) 
@@ -30,7 +33,3 @@
 - [2022-10-02-这种本地导航页用什么工具做？](https://www.v2ex.com/t/884334) 
 - [2022-10-02-feed43-证书过期-Reeder-无法订阅](https://www.v2ex.com/t/884333) 
 - [2022-10-02-mac-系统自带输入法可以用-Unicode-十六进制输入法代替-ABC-输入法吗](https://www.v2ex.com/t/884331) 
-- [2022-10-02-小程序-globalData-undefined-如何解决](https://www.v2ex.com/t/884328) 
-- [2022-10-02-MacBook-双系统-Windows-启动后似乎键盘和触摸板不生效](https://www.v2ex.com/t/884327) 
-- [2022-10-02-Win10-开-SMB，电视无线连接，播放电影卡顿](https://www.v2ex.com/t/884326) 
-- [2022-10-02-预算-1.5K-3K，想给妈妈换个拍照摄像好一些的安卓机](https://www.v2ex.com/t/884324) 

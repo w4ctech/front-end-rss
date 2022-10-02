@@ -9953,6 +9953,31 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "今天听说一个玄学算法，写了一下，确实玄学？",
+        "link": "https://www.v2ex.com/t/884426",
+        "date": "2022-10-02"
+      },
+      {
+        "title": "求推荐 NAS 用的文件管理器",
+        "link": "https://www.v2ex.com/t/884425",
+        "date": "2022-10-02"
+      },
+      {
+        "title": "交换机放在桌面上的时候，如何摆放比较美观？",
+        "link": "https://www.v2ex.com/t/884424",
+        "date": "2022-10-02"
+      },
+      {
+        "title": "有人用路由器 clash 的规则集合吗",
+        "link": "https://www.v2ex.com/t/884423",
+        "date": "2022-10-02"
+      },
+      {
+        "title": "免费在线音乐网站推荐（一边做事一边听音乐时比较适合，例如骑行）",
+        "link": "https://www.v2ex.com/t/884422",
+        "date": "2022-10-02"
+      },
+      {
         "title": "有没有“俄里俄气”的交易平台",
         "link": "https://www.v2ex.com/t/884421",
         "date": "2022-10-02"
@@ -10126,21 +10151,6 @@
         "title": "为什么没有外星飞行器达到地球呢？",
         "link": "https://www.v2ex.com/t/884378",
         "date": "2022-10-02"
-      },
-      {
-        "title": "南京 Java 开发 offer 选择，求好大哥们指点",
-        "link": "https://www.v2ex.com/t/884376",
-        "date": "2022-10-02"
-      },
-      {
-        "title": "家庭网络，如何利用 OpenWrt 和 Hyper-V 虚拟交换机隔离一台虚拟机？",
-        "link": "https://www.v2ex.com/t/884375",
-        "date": "2022-10-02"
-      },
-      {
-        "title": "何去何从？",
-        "link": "https://www.v2ex.com/t/884372",
-        "date": "2022-10-02"
       }
     ]
   },
@@ -10307,13 +10317,8 @@
         "date": "2022-10-02"
       },
       {
-        "title": "[推荐] 分享16个我总结的思维模型（程序员必读，受用终身）",
-        "link": "https://toutiao.io/k/f7r13v5",
-        "date": "2022-10-02"
-      },
-      {
-        "title": "[推荐] 聊聊 8种 架构模式",
-        "link": "https://toutiao.io/k/luf0yh6",
+        "title": "[推荐] 性能优化必备——火焰图",
+        "link": "https://toutiao.io/k/azf7ub6",
         "date": "2022-10-02"
       },
       {
@@ -10322,8 +10327,13 @@
         "date": "2022-10-02"
       },
       {
-        "title": "[推荐] 性能优化必备——火焰图",
-        "link": "https://toutiao.io/k/azf7ub6",
+        "title": "[推荐] 分享16个我总结的思维模型（程序员必读，受用终身）",
+        "link": "https://toutiao.io/k/f7r13v5",
+        "date": "2022-10-02"
+      },
+      {
+        "title": "[推荐] 聊聊 8种 架构模式",
+        "link": "https://toutiao.io/k/luf0yh6",
         "date": "2022-10-02"
       }
     ]

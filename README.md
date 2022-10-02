@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-02 16:20:23，:rocket: 更新条数: +2018， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-02 17:01:34，:rocket: 更新条数: +2020， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-10-02-今天听说一个玄学算法，写了一下，确实玄学？](https://www.v2ex.com/t/884426) ![](assets/new.png)  
+- [2022-10-02-求推荐-NAS-用的文件管理器](https://www.v2ex.com/t/884425) ![](assets/new.png)  
+- [2022-10-02-交换机放在桌面上的时候，如何摆放比较美观？](https://www.v2ex.com/t/884424) ![](assets/new.png)  
+- [2022-10-02-有人用路由器-clash-的规则集合吗](https://www.v2ex.com/t/884423) ![](assets/new.png)  
+- [2022-10-02-免费在线音乐网站推荐（一边做事一边听音乐时比较适合，例如骑行）](https://www.v2ex.com/t/884422) ![](assets/new.png)  
 - [2022-10-02-有没有“俄里俄气”的交易平台](https://www.v2ex.com/t/884421) ![](assets/new.png)  
 - [2022-10-02-游戏党慎更新-22h2](https://www.v2ex.com/t/884419) ![](assets/new.png)  
 - [2022-10-02-各位朋友，土区-epic-好像很难支付了？试过几个，找不到原生-ip-了……](https://www.v2ex.com/t/884418) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-10-02-提问：如何手动增加显示延迟？](https://www.v2ex.com/t/884403) ![](assets/new.png)  
 - [2022-10-02-ConcurrentDictionary-有什么办法确保一次添加多项的原子性吗?](https://www.v2ex.com/t/884402) ![](assets/new.png)  
 - [2022-10-02-目前主流虚拟化为啥不支持克隆完整开机状态的虚拟机？](https://www.v2ex.com/t/884401) ![](assets/new.png)  
-- [2022-10-02-浙江移动“迫真专线”签约安装，及多地域家用虚拟局域网的搭建](https://www.v2ex.com/t/884400) ![](assets/new.png)  
-- [2022-10-02-如何两台-mac-独立的使用-iCloud-云盘进行同步。](https://www.v2ex.com/t/884399) ![](assets/new.png)  
-- [2022-10-02-typescripr-中，如何写能随意组合函数参数并且能得到对应类型的提示](https://www.v2ex.com/t/884398) ![](assets/new.png)  
-- [2022-10-02-airpods-pro-2-代，语音过程中破音](https://www.v2ex.com/t/884396) ![](assets/new.png)  
-- [2022-10-02-OBS-哪家强？](https://www.v2ex.com/t/884395) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,10 +563,10 @@
 - [2022-10-02-5-种瀑布流场景的实现原理解析](https://toutiao.io/k/7cgmeqg) ![](assets/new.png)  
 - [2022-10-02-推荐假期看的几部黑客电影](https://toutiao.io/k/1yd8yp7) ![](assets/new.png)  
 - [2022-10-02-TCP拥塞控制详解-|-2.-背景](https://toutiao.io/k/1dnm1nv) ![](assets/new.png)  
+- [2022-10-02-推荐-性能优化必备——火焰图](https://toutiao.io/k/azf7ub6) ![](assets/new.png)  
+- [2022-10-02-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) ![](assets/new.png)  
 - [2022-10-02-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) ![](assets/new.png)  
 - [2022-10-02-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) ![](assets/new.png)  
-- [2022-10-02-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) ![](assets/new.png)  
-- [2022-10-02-推荐-性能优化必备——火焰图](https://toutiao.io/k/azf7ub6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

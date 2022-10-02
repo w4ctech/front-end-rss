@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-02 17:31:34，:rocket: 更新条数: +2020， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-02 17:51:59，:rocket: 更新条数: +2020， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-10-02-路由器隔了一堵墙导致信号不好，有什么懒人解决方案吗](https://www.v2ex.com/t/884428) ![](assets/new.png)  
 - [2022-10-02-今天听说一个玄学算法，写了一下，确实玄学？](https://www.v2ex.com/t/884426) ![](assets/new.png)  
 - [2022-10-02-求推荐-NAS-用的文件管理器](https://www.v2ex.com/t/884425) ![](assets/new.png)  
 - [2022-10-02-交换机放在桌面上的时候，如何摆放比较美观？](https://www.v2ex.com/t/884424) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-10-02-自己的-Ubuntu-Server-输入关机命令后，并没有真的关机，为什么呢？](https://www.v2ex.com/t/884404) ![](assets/new.png)  
 - [2022-10-02-提问：如何手动增加显示延迟？](https://www.v2ex.com/t/884403) ![](assets/new.png)  
 - [2022-10-02-ConcurrentDictionary-有什么办法确保一次添加多项的原子性吗?](https://www.v2ex.com/t/884402) ![](assets/new.png)  
-- [2022-10-02-目前主流虚拟化为啥不支持克隆完整开机状态的虚拟机？](https://www.v2ex.com/t/884401) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,10 +563,10 @@
 - [2022-10-02-5-种瀑布流场景的实现原理解析](https://toutiao.io/k/7cgmeqg) ![](assets/new.png)  
 - [2022-10-02-推荐假期看的几部黑客电影](https://toutiao.io/k/1yd8yp7) ![](assets/new.png)  
 - [2022-10-02-TCP拥塞控制详解-|-2.-背景](https://toutiao.io/k/1dnm1nv) ![](assets/new.png)  
-- [2022-10-02-推荐-性能优化必备——火焰图](https://toutiao.io/k/azf7ub6) ![](assets/new.png)  
-- [2022-10-02-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) ![](assets/new.png)  
-- [2022-10-02-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) ![](assets/new.png)  
 - [2022-10-02-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) ![](assets/new.png)  
+- [2022-10-02-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) ![](assets/new.png)  
+- [2022-10-02-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) ![](assets/new.png)  
+- [2022-10-02-推荐-性能优化必备——火焰图](https://toutiao.io/k/azf7ub6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-02 06:02:32。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-10-02 06:41:07。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,8 +68,9 @@
 </summary>
 
 
+- [【V2EX】2022-10-02-绿联-NAS-怎么样](https://www.v2ex.com/t/884365) 
+- [【V2EX】2022-10-02-2022-年你购入的最值的的物品-TOP-3-是什么？](https://www.v2ex.com/t/884360) 
 - [【V2EX】2022-10-02-有-Coding.net-的同学吗，能给“项目协同”，“文档管理”模块里面的文章加一个打印的功能吗](https://www.v2ex.com/t/884359) 
-- [【V2EX】2022-10-02-奈飞中文网（naifei.org-/-naifei.io）挂了一段时间了，还能复活吗？](https://www.v2ex.com/t/884358) 
 - [【V2EX】2022-10-02-MacBookpro14-寸休眠启动花屏](https://www.v2ex.com/t/884357) 
 - [【V2EX】2022-10-02-月薪只有-5K-的桌面运维，该如何提升自己？](https://www.v2ex.com/t/884355) 
 - [【V2EX】2022-10-02-单机上的调度工具求推荐，要求比-crontab-好用](https://www.v2ex.com/t/884354) 
@@ -98,10 +99,6 @@
 - [【V2EX】2022-10-02-求教如何屏蔽百度百家号](https://www.v2ex.com/t/884318) 
 - [【V2EX】2022-10-02-现在-AMD-显卡对深度学习的支持到底咋样啊](https://www.v2ex.com/t/884317) 
 - [【V2EX】2022-10-02-在这个美好的国庆，我被裁了。](https://www.v2ex.com/t/884316) 
-- [【V2EX】2022-10-02-求一个新闻聚合网站](https://www.v2ex.com/t/884315) 
-- [【V2EX】2022-10-02-请教下郑州哪个区岗位多点-考虑买房子](https://www.v2ex.com/t/884314) 
-- [【V2EX】2022-10-02-域名-A-跳转域名-B,域名-B-跳转域名-C,服务器-C-还能知道流量来源?](https://www.v2ex.com/t/884313) 
-- [【V2EX】2022-10-01-Google-News](https://www.v2ex.com/t/884311) 
 - [【技术头条】2022-10-02-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-02-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-02-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -128,14 +125,14 @@
 - [【开发者头条】2022-10-02-揭秘go内存！](https://toutiao.io/k/31fwci1) 
 - [【开发者头条】2022-10-02-Spark-App-血缘解析方案](https://toutiao.io/k/ktj8fbw) 
 - [【开发者头条】2022-10-02-性能优化的-10-个技巧！](https://toutiao.io/k/9jopsda) 
-- [【开发者头条】2022-10-02-架构师劝退指南](https://toutiao.io/k/w4olo9z) 
 - [【开发者头条】2022-10-02-5-种瀑布流场景的实现原理解析](https://toutiao.io/k/7cgmeqg) 
-- [【开发者头条】2022-10-02-TCP拥塞控制详解-|-2.-背景](https://toutiao.io/k/1dnm1nv) 
+- [【开发者头条】2022-10-02-架构师劝退指南](https://toutiao.io/k/w4olo9z) 
 - [【开发者头条】2022-10-02-推荐假期看的几部黑客电影](https://toutiao.io/k/1yd8yp7) 
-- [【开发者头条】2022-10-02-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) 
+- [【开发者头条】2022-10-02-TCP拥塞控制详解-|-2.-背景](https://toutiao.io/k/1dnm1nv) 
 - [【开发者头条】2022-10-02-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) 
-- [【开发者头条】2022-10-02-推荐-性能优化必备——火焰图](https://toutiao.io/k/azf7ub6) 
+- [【开发者头条】2022-10-02-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) 
 - [【开发者头条】2022-10-02-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) 
+- [【开发者头条】2022-10-02-推荐-性能优化必备——火焰图](https://toutiao.io/k/azf7ub6) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

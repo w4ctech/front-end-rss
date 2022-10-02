@@ -9953,6 +9953,26 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "在 Raycast 逛 B 站 —— 一个 Raycast 插件",
+        "link": "https://www.v2ex.com/t/884406",
+        "date": "2022-10-02"
+      },
+      {
+        "title": "微信备份恢复是不想让人用吗？",
+        "link": "https://www.v2ex.com/t/884405",
+        "date": "2022-10-02"
+      },
+      {
+        "title": "自己的 Ubuntu Server 输入关机命令后，并没有真的关机，为什么呢？",
+        "link": "https://www.v2ex.com/t/884404",
+        "date": "2022-10-02"
+      },
+      {
+        "title": "提问：如何手动增加显示延迟？",
+        "link": "https://www.v2ex.com/t/884403",
+        "date": "2022-10-02"
+      },
+      {
         "title": "ConcurrentDictionary 有什么办法确保一次添加多项的原子性吗?",
         "link": "https://www.v2ex.com/t/884402",
         "date": "2022-10-02"
@@ -10116,16 +10136,6 @@
         "title": "MacBookpro14 寸休眠启动花屏",
         "link": "https://www.v2ex.com/t/884357",
         "date": "2022-10-02"
-      },
-      {
-        "title": "月薪只有 5K 的桌面运维，该如何提升自己？",
-        "link": "https://www.v2ex.com/t/884355",
-        "date": "2022-10-02"
-      },
-      {
-        "title": "单机上的调度工具求推荐，要求比 crontab 好用",
-        "link": "https://www.v2ex.com/t/884354",
-        "date": "2022-10-02"
       }
     ]
   },
@@ -10262,6 +10272,11 @@
         "date": "2022-10-02"
       },
       {
+        "title": "性能优化的 10 个技巧！",
+        "link": "https://toutiao.io/k/9jopsda",
+        "date": "2022-10-02"
+      },
+      {
         "title": "揭秘go内存！",
         "link": "https://toutiao.io/k/31fwci1",
         "date": "2022-10-02"
@@ -10269,11 +10284,6 @@
       {
         "title": "Spark App 血缘解析方案",
         "link": "https://toutiao.io/k/ktj8fbw",
-        "date": "2022-10-02"
-      },
-      {
-        "title": "性能优化的 10 个技巧！",
-        "link": "https://toutiao.io/k/9jopsda",
         "date": "2022-10-02"
       },
       {
@@ -10292,13 +10302,13 @@
         "date": "2022-10-02"
       },
       {
-        "title": "[推荐] 聊聊 8种 架构模式",
-        "link": "https://toutiao.io/k/luf0yh6",
+        "title": "[推荐] 性能优化必备——火焰图",
+        "link": "https://toutiao.io/k/azf7ub6",
         "date": "2022-10-02"
       },
       {
-        "title": "[推荐] 分享16个我总结的思维模型（程序员必读，受用终身）",
-        "link": "https://toutiao.io/k/f7r13v5",
+        "title": "[推荐] 聊聊 8种 架构模式",
+        "link": "https://toutiao.io/k/luf0yh6",
         "date": "2022-10-02"
       },
       {
@@ -10307,8 +10317,8 @@
         "date": "2022-10-02"
       },
       {
-        "title": "[推荐] 性能优化必备——火焰图",
-        "link": "https://toutiao.io/k/azf7ub6",
+        "title": "[推荐] 分享16个我总结的思维模型（程序员必读，受用终身）",
+        "link": "https://toutiao.io/k/f7r13v5",
         "date": "2022-10-02"
       }
     ]

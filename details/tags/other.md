@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-02 14:43:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-02 15:16:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1949,7 +1949,6 @@
 - [2022-10-02-家庭网络，如何利用-OpenWrt-和-Hyper-V-虚拟交换机隔离一台虚拟机？](https://www.v2ex.com/t/884375) 
 - [2022-10-02-何去何从？](https://www.v2ex.com/t/884372) 
 - [2022-10-02-steam-中国的-cdn-可以下载国际版-steam](https://www.v2ex.com/t/884370) 
-- [2022-10-02-vivo-s9e-自带-google-play-服务了吗](https://www.v2ex.com/t/884367) 
 - [2022-10-02-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-02-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-02-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1976,6 +1975,6 @@
 - [2022-10-02-5-种瀑布流场景的实现原理解析](https://toutiao.io/k/7cgmeqg) 
 - [2022-10-02-推荐假期看的几部黑客电影](https://toutiao.io/k/1yd8yp7) 
 - [2022-10-02-TCP拥塞控制详解-|-2.-背景](https://toutiao.io/k/1dnm1nv) 
-- [2022-10-02-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) 
 - [2022-10-02-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) 
 - [2022-10-02-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) 
+- [2022-10-02-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) 

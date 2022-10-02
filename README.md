@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-02 18:18:45，:rocket: 更新条数: +2020， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-02 18:52:26，:rocket: 更新条数: +2020， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-10-02-二手-iPhone-怎么验机](https://www.v2ex.com/t/884431) ![](assets/new.png)  
+- [2022-10-02-Mac-有没办法更改删除文件的快捷键](https://www.v2ex.com/t/884430) ![](assets/new.png)  
 - [2022-10-02-有垃圾分类和定时投放要求的大家，是怎么处理易腐垃圾的？](https://www.v2ex.com/t/884429) ![](assets/new.png)  
 - [2022-10-02-路由器隔了一堵墙导致信号不好，有什么懒人解决方案吗](https://www.v2ex.com/t/884428) ![](assets/new.png)  
 - [2022-10-02-今天听说一个玄学算法，写了一下，确实玄学？](https://www.v2ex.com/t/884426) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-10-02-国产软件安装过程中似乎会关闭-windows-自带杀软的某些功能](https://www.v2ex.com/t/884407) ![](assets/new.png)  
 - [2022-10-02-在-Raycast-逛-B-站-——-一个-Raycast-插件](https://www.v2ex.com/t/884406) ![](assets/new.png)  
 - [2022-10-02-微信备份恢复是不想让人用吗？](https://www.v2ex.com/t/884405) ![](assets/new.png)  
-- [2022-10-02-自己的-Ubuntu-Server-输入关机命令后，并没有真的关机，为什么呢？](https://www.v2ex.com/t/884404) ![](assets/new.png)  
-- [2022-10-02-提问：如何手动增加显示延迟？](https://www.v2ex.com/t/884403) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,10 +563,10 @@
 - [2022-10-02-5-种瀑布流场景的实现原理解析](https://toutiao.io/k/7cgmeqg) ![](assets/new.png)  
 - [2022-10-02-推荐假期看的几部黑客电影](https://toutiao.io/k/1yd8yp7) ![](assets/new.png)  
 - [2022-10-02-TCP拥塞控制详解-|-2.-背景](https://toutiao.io/k/1dnm1nv) ![](assets/new.png)  
-- [2022-10-02-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) ![](assets/new.png)  
-- [2022-10-02-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) ![](assets/new.png)  
 - [2022-10-02-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) ![](assets/new.png)  
 - [2022-10-02-推荐-性能优化必备——火焰图](https://toutiao.io/k/azf7ub6) ![](assets/new.png)  
+- [2022-10-02-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) ![](assets/new.png)  
+- [2022-10-02-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

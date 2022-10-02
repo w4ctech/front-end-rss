@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-02 10:47:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-02 11:14:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1914,6 +1914,7 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-10-02-关于二本学历的程序员学习路线设计](https://www.v2ex.com/t/884392) 
 - [2022-10-02-求问哪里还能买到全新的-12mini](https://www.v2ex.com/t/884391) 
 - [2022-10-02-有什么自己主动分享位置并且可以被所有人访问的-app-吗？](https://www.v2ex.com/t/884390) 
 - [2022-10-02-Rust-关于三种-return-Error-trait-的区别是什么，如何辨别使用场景？](https://www.v2ex.com/t/884389) 
@@ -1944,8 +1945,6 @@
 - [2022-10-02-西数企业级-8t，每隔-5-秒钟就“咚”一次](https://www.v2ex.com/t/884348) 
 - [2022-10-02-如何在-vercel-里面包含超过-50MB-的静态文件](https://www.v2ex.com/t/884346) 
 - [2022-10-02-微信更换了-gv-号之后，为什么-callkit-不生效呢？](https://www.v2ex.com/t/884344) 
-- [2022-10-02-Mac-端邮箱客户端求推荐](https://www.v2ex.com/t/884343) 
-- [2022-10-02-上海哪里能给-mbp-清灰?](https://www.v2ex.com/t/884342) 
 - [2022-10-02-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-02-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-02-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1973,5 +1972,5 @@
 - [2022-10-02-推荐假期看的几部黑客电影](https://toutiao.io/k/1yd8yp7) 
 - [2022-10-02-TCP拥塞控制详解-|-2.-背景](https://toutiao.io/k/1dnm1nv) 
 - [2022-10-02-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) 
-- [2022-10-02-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) 
 - [2022-10-02-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) 
+- [2022-10-02-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) 

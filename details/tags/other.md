@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-02 08:19:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-02 08:52:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1914,6 +1914,7 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-10-02-连电视玩胡闹厨房眼睛酸](https://www.v2ex.com/t/884379) 
 - [2022-10-02-为什么没有外星飞行器达到地球呢？](https://www.v2ex.com/t/884378) 
 - [2022-10-02-南京-Java-开发-offer-选择，求好大哥们指点](https://www.v2ex.com/t/884376) 
 - [2022-10-02-家庭网络，如何利用-OpenWrt-和-Hyper-V-虚拟交换机隔离一台虚拟机？](https://www.v2ex.com/t/884375) 
@@ -1966,6 +1967,6 @@
 - [2022-10-02-5-种瀑布流场景的实现原理解析](https://toutiao.io/k/7cgmeqg) 
 - [2022-10-02-推荐假期看的几部黑客电影](https://toutiao.io/k/1yd8yp7) 
 - [2022-10-02-TCP拥塞控制详解-|-2.-背景](https://toutiao.io/k/1dnm1nv) 
-- [2022-10-02-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) 
 - [2022-10-02-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) 
+- [2022-10-02-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) 
 - [2022-10-02-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) 

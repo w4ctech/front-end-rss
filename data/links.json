@@ -9953,6 +9953,46 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "有备-基于 Tauri 的本地备份软件",
+        "link": "https://www.v2ex.com/t/884349",
+        "date": "2022-10-02"
+      },
+      {
+        "title": "西数企业级 8t，每隔 5 秒钟就“咚”一次",
+        "link": "https://www.v2ex.com/t/884348",
+        "date": "2022-10-02"
+      },
+      {
+        "title": "如何在 vercel 里面包含超过 50MB 的静态文件",
+        "link": "https://www.v2ex.com/t/884346",
+        "date": "2022-10-02"
+      },
+      {
+        "title": "微信更换了 gv 号之后，为什么 callkit 不生效呢？",
+        "link": "https://www.v2ex.com/t/884344",
+        "date": "2022-10-02"
+      },
+      {
+        "title": "Mac 端邮箱客户端求推荐",
+        "link": "https://www.v2ex.com/t/884343",
+        "date": "2022-10-02"
+      },
+      {
+        "title": "上海哪里能给 mbp 清灰?",
+        "link": "https://www.v2ex.com/t/884342",
+        "date": "2022-10-02"
+      },
+      {
+        "title": "允许 App 访问所有照片， App 能看到最近删除的照片吗？",
+        "link": "https://www.v2ex.com/t/884341",
+        "date": "2022-10-02"
+      },
+      {
+        "title": "陈硕这次在在 C++ 技术大会上的分享，感觉挺受用的",
+        "link": "https://www.v2ex.com/t/884339",
+        "date": "2022-10-02"
+      },
+      {
         "title": "youtube-dl / yt-dlp 视频质量的疑惑",
         "link": "https://www.v2ex.com/t/884336",
         "date": "2022-10-02"
@@ -10005,11 +10045,6 @@
       {
         "title": "github，有没有 vue3 hooks 集合或实用的程序集合",
         "link": "https://www.v2ex.com/t/884321",
-        "date": "2022-10-02"
-      },
-      {
-        "title": "看了 shuax 的文章，给大家提个醒",
-        "link": "https://www.v2ex.com/t/884320",
         "date": "2022-10-02"
       },
       {
@@ -10080,61 +10115,6 @@
       {
         "title": "做了一个支持键盘导航的极简风格起始页",
         "link": "https://www.v2ex.com/t/884300",
-        "date": "2022-10-01"
-      },
-      {
-        "title": "Socket 接收字节报错： System.OutOfMemoryException:“Exception_WasThrown”",
-        "link": "https://www.v2ex.com/t/884298",
-        "date": "2022-10-01"
-      },
-      {
-        "title": "秋招 gg，想做开源方向可行吗",
-        "link": "https://www.v2ex.com/t/884297",
-        "date": "2022-10-01"
-      },
-      {
-        "title": "ios16 safari 网站注册时弹出推荐强密码后卡死",
-        "link": "https://www.v2ex.com/t/884296",
-        "date": "2022-10-01"
-      },
-      {
-        "title": "PDD 百亿补帖的 Airpods Pro 2 发货地是华强北",
-        "link": "https://www.v2ex.com/t/884294",
-        "date": "2022-10-01"
-      },
-      {
-        "title": "2015 MacBook Pro 15 寸 DIY 换电池",
-        "link": "https://www.v2ex.com/t/884293",
-        "date": "2022-10-01"
-      },
-      {
-        "title": "sublime 代码提示会有很多没用的内容.",
-        "link": "https://www.v2ex.com/t/884292",
-        "date": "2022-10-01"
-      },
-      {
-        "title": "就国内的风气和氛围，如果去干了一段时间别的工作，以后还回得来吗？",
-        "link": "https://www.v2ex.com/t/884291",
-        "date": "2022-10-01"
-      },
-      {
-        "title": "你们有没有遇到过 macOS 上面 safari 内存泄漏的问题？",
-        "link": "https://www.v2ex.com/t/884290",
-        "date": "2022-10-01"
-      },
-      {
-        "title": "Apple Music 上架了杰伦的专辑《最伟大的作品》。",
-        "link": "https://www.v2ex.com/t/884289",
-        "date": "2022-10-01"
-      },
-      {
-        "title": "有朋友玩气动意式咖啡机吗？",
-        "link": "https://www.v2ex.com/t/884288",
-        "date": "2022-10-01"
-      },
-      {
-        "title": "有办法自己给 Linux 开发板编译一个新系统吗？",
-        "link": "https://www.v2ex.com/t/884287",
         "date": "2022-10-01"
       }
     ]
@@ -10277,13 +10257,13 @@
         "date": "2022-10-02"
       },
       {
-        "title": "架构师劝退指南",
-        "link": "https://toutiao.io/k/w4olo9z",
+        "title": "性能优化的 10 个技巧！",
+        "link": "https://toutiao.io/k/9jopsda",
         "date": "2022-10-02"
       },
       {
-        "title": "性能优化的 10 个技巧！",
-        "link": "https://toutiao.io/k/9jopsda",
+        "title": "架构师劝退指南",
+        "link": "https://toutiao.io/k/w4olo9z",
         "date": "2022-10-02"
       },
       {
@@ -10297,11 +10277,6 @@
         "date": "2022-10-02"
       },
       {
-        "title": "[推荐] 聊聊 8种 架构模式",
-        "link": "https://toutiao.io/k/luf0yh6",
-        "date": "2022-10-02"
-      },
-      {
         "title": "[推荐] Netty、Kafka中的零拷贝技术到底有多牛?",
         "link": "https://toutiao.io/k/ussdz4q",
         "date": "2022-10-02"
@@ -10309,6 +10284,11 @@
       {
         "title": "[推荐] 分享16个我总结的思维模型（程序员必读，受用终身）",
         "link": "https://toutiao.io/k/f7r13v5",
+        "date": "2022-10-02"
+      },
+      {
+        "title": "[推荐] 聊聊 8种 架构模式",
+        "link": "https://toutiao.io/k/luf0yh6",
         "date": "2022-10-02"
       }
     ]

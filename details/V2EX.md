@@ -1,10 +1,15 @@
-:alarm_clock: 更新时间: 2022-10-02 13:57:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-02 14:16:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-10-02-敏感文本过滤怎么做？](https://www.v2ex.com/t/884412) 
+- [2022-10-02-这两天腾讯云-HK-服务器是不是很慢？](https://www.v2ex.com/t/884411) 
+- [2022-10-02-控制面板电源选项那里有几个无效条目，请教如何删除](https://www.v2ex.com/t/884410) 
+- [2022-10-02-关于-Kubernetes-的搭建的账户的认证问题](https://www.v2ex.com/t/884409) 
+- [2022-10-02-国产软件安装过程中似乎会关闭-windows-自带杀软的某些功能](https://www.v2ex.com/t/884407) 
 - [2022-10-02-在-Raycast-逛-B-站-——-一个-Raycast-插件](https://www.v2ex.com/t/884406) 
 - [2022-10-02-微信备份恢复是不想让人用吗？](https://www.v2ex.com/t/884405) 
 - [2022-10-02-自己的-Ubuntu-Server-输入关机命令后，并没有真的关机，为什么呢？](https://www.v2ex.com/t/884404) 
@@ -39,6 +44,3 @@
 - [2022-10-02-vivo-s9e-自带-google-play-服务了吗](https://www.v2ex.com/t/884367) 
 - [2022-10-02-打算给孩子买个划算便宜抗造的二手微单当玩具用](https://www.v2ex.com/t/884366) 
 - [2022-10-02-绿联-NAS-怎么样](https://www.v2ex.com/t/884365) 
-- [2022-10-02-2022-年你购入的最值的的物品-TOP-3-是什么？](https://www.v2ex.com/t/884360) 
-- [2022-10-02-有-Coding.net-的同学吗，能给“项目协同”，“文档管理”模块里面的文章加一个打印的功能吗](https://www.v2ex.com/t/884359) 
-- [2022-10-02-MacBookpro14-寸休眠启动花屏](https://www.v2ex.com/t/884357) 

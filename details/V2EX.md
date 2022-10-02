@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2022-10-02 23:17:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-02 23:48:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-10-02-作为大龄程序员，你如何持续的保持自己的竞争优势](https://www.v2ex.com/t/884436) 
+- [2022-10-02-iQDNS-2.0---永久公益公共加密-DNS-新特性-新解析逻辑-完美定位国内外-CDN-IP-问题](https://www.v2ex.com/t/884435) 
 - [2022-10-02-vivo-s9e-如何刷国际版的-rom-及降级](https://www.v2ex.com/t/884434) 
 - [2022-10-02-健康宝弹窗-3，核酸正常的](https://www.v2ex.com/t/884433) 
 - [2022-10-02-iPhone-14-PM-晚上出现自动重启](https://www.v2ex.com/t/884432) 
@@ -43,5 +45,3 @@
 - [2022-10-02-有什么自己主动分享位置并且可以被所有人访问的-app-吗？](https://www.v2ex.com/t/884390) 
 - [2022-10-02-Rust-关于三种-return-Error-trait-的区别是什么，如何辨别使用场景？](https://www.v2ex.com/t/884389) 
 - [2022-10-02-XXL-RPC-v1.7.0，分布式服务框架](https://www.v2ex.com/t/884388) 
-- [2022-10-02-surge-怎么修改默认端口？](https://www.v2ex.com/t/884386) 
-- [2022-10-02-dingtalk-android-，退出/关闭-app，收不到通知了？](https://www.v2ex.com/t/884385) 

@@ -9953,6 +9953,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "作为大龄程序员，你如何持续的保持自己的竞争优势",
+        "link": "https://www.v2ex.com/t/884436",
+        "date": "2022-10-02"
+      },
+      {
+        "title": "iQDNS 2.0 - 永久公益公共加密 DNS 新特性 新解析逻辑 完美定位国内外 CDN IP 问题",
+        "link": "https://www.v2ex.com/t/884435",
+        "date": "2022-10-02"
+      },
+      {
         "title": "vivo s9e 如何刷国际版的 rom 及降级",
         "link": "https://www.v2ex.com/t/884434",
         "date": "2022-10-02"
@@ -10141,16 +10151,6 @@
         "title": "XXL-RPC v1.7.0，分布式服务框架",
         "link": "https://www.v2ex.com/t/884388",
         "date": "2022-10-02"
-      },
-      {
-        "title": "surge 怎么修改默认端口？",
-        "link": "https://www.v2ex.com/t/884386",
-        "date": "2022-10-02"
-      },
-      {
-        "title": "dingtalk android ，退出/关闭 app，收不到通知了？",
-        "link": "https://www.v2ex.com/t/884385",
-        "date": "2022-10-02"
       }
     ]
   },
@@ -10317,23 +10317,23 @@
         "date": "2022-10-02"
       },
       {
-        "title": "[推荐] 分享16个我总结的思维模型（程序员必读，受用终身）",
-        "link": "https://toutiao.io/k/f7r13v5",
-        "date": "2022-10-02"
-      },
-      {
         "title": "[推荐] 聊聊 8种 架构模式",
         "link": "https://toutiao.io/k/luf0yh6",
         "date": "2022-10-02"
       },
       {
-        "title": "[推荐] Netty、Kafka中的零拷贝技术到底有多牛?",
-        "link": "https://toutiao.io/k/ussdz4q",
+        "title": "[推荐] 性能优化必备——火焰图",
+        "link": "https://toutiao.io/k/azf7ub6",
         "date": "2022-10-02"
       },
       {
-        "title": "[推荐] 性能优化必备——火焰图",
-        "link": "https://toutiao.io/k/azf7ub6",
+        "title": "[推荐] 分享16个我总结的思维模型（程序员必读，受用终身）",
+        "link": "https://toutiao.io/k/f7r13v5",
+        "date": "2022-10-02"
+      },
+      {
+        "title": "[推荐] Netty、Kafka中的零拷贝技术到底有多牛?",
+        "link": "https://toutiao.io/k/ussdz4q",
         "date": "2022-10-02"
       }
     ]

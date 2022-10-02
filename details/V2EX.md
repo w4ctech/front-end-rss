@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-10-02 11:14:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-02 11:41:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-10-02-OBS-哪家强？](https://www.v2ex.com/t/884395) 
 - [2022-10-02-求推荐个-vnc-view-的-c++库](https://www.v2ex.com/t/884393) 
 - [2022-10-02-关于二本学历的程序员学习路线设计](https://www.v2ex.com/t/884392) 
 - [2022-10-02-求问哪里还能买到全新的-12mini](https://www.v2ex.com/t/884391) 
@@ -38,4 +39,3 @@
 - [2022-10-02-有备-基于-Tauri-的本地备份软件](https://www.v2ex.com/t/884349) 
 - [2022-10-02-西数企业级-8t，每隔-5-秒钟就“咚”一次](https://www.v2ex.com/t/884348) 
 - [2022-10-02-如何在-vercel-里面包含超过-50MB-的静态文件](https://www.v2ex.com/t/884346) 
-- [2022-10-02-微信更换了-gv-号之后，为什么-callkit-不生效呢？](https://www.v2ex.com/t/884344) 

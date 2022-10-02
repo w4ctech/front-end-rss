@@ -9953,6 +9953,26 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "ConcurrentDictionary 有什么办法确保一次添加多项的原子性吗?",
+        "link": "https://www.v2ex.com/t/884402",
+        "date": "2022-10-02"
+      },
+      {
+        "title": "目前主流虚拟化为啥不支持克隆完整开机状态的虚拟机？",
+        "link": "https://www.v2ex.com/t/884401",
+        "date": "2022-10-02"
+      },
+      {
+        "title": "浙江移动“迫真专线”签约安装，及多地域家用虚拟局域网的搭建",
+        "link": "https://www.v2ex.com/t/884400",
+        "date": "2022-10-02"
+      },
+      {
+        "title": "如何两台 mac 独立的使用 iCloud 云盘进行同步。",
+        "link": "https://www.v2ex.com/t/884399",
+        "date": "2022-10-02"
+      },
+      {
         "title": "typescripr 中，如何写能随意组合函数参数并且能得到对应类型的提示",
         "link": "https://www.v2ex.com/t/884398",
         "date": "2022-10-02"
@@ -10105,21 +10125,6 @@
       {
         "title": "单机上的调度工具求推荐，要求比 crontab 好用",
         "link": "https://www.v2ex.com/t/884354",
-        "date": "2022-10-02"
-      },
-      {
-        "title": "广州电信 IPTV 公网单播阵亡",
-        "link": "https://www.v2ex.com/t/884351",
-        "date": "2022-10-02"
-      },
-      {
-        "title": "《亲密关系》一书读后感，结合先前经历还有 V 友的帖子谈谈",
-        "link": "https://www.v2ex.com/t/884350",
-        "date": "2022-10-02"
-      },
-      {
-        "title": "有备-基于 Tauri 的本地备份软件",
-        "link": "https://www.v2ex.com/t/884349",
         "date": "2022-10-02"
       }
     ]
@@ -10287,8 +10292,8 @@
         "date": "2022-10-02"
       },
       {
-        "title": "[推荐] 性能优化必备——火焰图",
-        "link": "https://toutiao.io/k/azf7ub6",
+        "title": "[推荐] 聊聊 8种 架构模式",
+        "link": "https://toutiao.io/k/luf0yh6",
         "date": "2022-10-02"
       },
       {
@@ -10297,13 +10302,13 @@
         "date": "2022-10-02"
       },
       {
-        "title": "[推荐] 聊聊 8种 架构模式",
-        "link": "https://toutiao.io/k/luf0yh6",
+        "title": "[推荐] Netty、Kafka中的零拷贝技术到底有多牛?",
+        "link": "https://toutiao.io/k/ussdz4q",
         "date": "2022-10-02"
       },
       {
-        "title": "[推荐] Netty、Kafka中的零拷贝技术到底有多牛?",
-        "link": "https://toutiao.io/k/ussdz4q",
+        "title": "[推荐] 性能优化必备——火焰图",
+        "link": "https://toutiao.io/k/azf7ub6",
         "date": "2022-10-02"
       }
     ]

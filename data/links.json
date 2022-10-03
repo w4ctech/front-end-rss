@@ -9953,6 +9953,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "为什么域前置可以访问用 cloudflare 做 cdn 的 v2ex",
+        "link": "https://www.v2ex.com/t/884548",
+        "date": "2022-10-03"
+      },
+      {
+        "title": "win11 史诗级更新，右键任务栏打开任务管理器功能回归！",
+        "link": "https://www.v2ex.com/t/884547",
+        "date": "2022-10-03"
+      },
+      {
         "title": "想看看大家 MBP14 的电池健康状态",
         "link": "https://www.v2ex.com/t/884546",
         "date": "2022-10-03"
@@ -9975,11 +9985,6 @@
       {
         "title": "耳机最低音量还是觉得高, 请教降低音量的方法",
         "link": "https://www.v2ex.com/t/884542",
-        "date": "2022-10-03"
-      },
-      {
-        "title": "需要开发一个苹果商店抢单软件，哪位老哥能接，可以的话明天就开工，价格好说。",
-        "link": "https://www.v2ex.com/t/884541",
         "date": "2022-10-03"
       },
       {
@@ -10125,16 +10130,6 @@
       {
         "title": "网易云会员自领",
         "link": "https://www.v2ex.com/t/884499",
-        "date": "2022-10-03"
-      },
-      {
-        "title": "如何才能让 esxi 下的 windows 虚拟机显示正常呢？",
-        "link": "https://www.v2ex.com/t/884498",
-        "date": "2022-10-03"
-      },
-      {
-        "title": "谷歌发布 Lyra V2 超低比特率语音编解码器，可在 56kbps 网速下语音聊天",
-        "link": "https://www.v2ex.com/t/884497",
         "date": "2022-10-03"
       }
     ]
@@ -10317,13 +10312,13 @@
         "date": "2022-10-03"
       },
       {
-        "title": "Java 19 中的模式匹配，记录类型的模式与 switch 模式匹配的改进_哔哩哔哩_bilibili",
-        "link": "https://toutiao.io/k/vpl5rl3",
+        "title": "说说Java并发编程(一)",
+        "link": "https://toutiao.io/k/qib5wyc",
         "date": "2022-10-03"
       },
       {
-        "title": "说说Java并发编程(一)",
-        "link": "https://toutiao.io/k/qib5wyc",
+        "title": "Java 19 中的模式匹配，记录类型的模式与 switch 模式匹配的改进_哔哩哔哩_bilibili",
+        "link": "https://toutiao.io/k/vpl5rl3",
         "date": "2022-10-03"
       },
       {
@@ -10337,13 +10332,8 @@
         "date": "2022-10-03"
       },
       {
-        "title": "[推荐] 分享16个我总结的思维模型（程序员必读，受用终身）",
-        "link": "https://toutiao.io/k/f7r13v5",
-        "date": "2022-10-03"
-      },
-      {
-        "title": "[推荐] Netty、Kafka中的零拷贝技术到底有多牛?",
-        "link": "https://toutiao.io/k/ussdz4q",
+        "title": "[推荐] 聊聊 8种 架构模式",
+        "link": "https://toutiao.io/k/luf0yh6",
         "date": "2022-10-03"
       },
       {
@@ -10352,8 +10342,13 @@
         "date": "2022-10-03"
       },
       {
-        "title": "[推荐] 聊聊 8种 架构模式",
-        "link": "https://toutiao.io/k/luf0yh6",
+        "title": "[推荐] Netty、Kafka中的零拷贝技术到底有多牛?",
+        "link": "https://toutiao.io/k/ussdz4q",
+        "date": "2022-10-03"
+      },
+      {
+        "title": "[推荐] 分享16个我总结的思维模型（程序员必读，受用终身）",
+        "link": "https://toutiao.io/k/f7r13v5",
         "date": "2022-10-03"
       }
     ]

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-03 15:20:10，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-03 15:54:42，:rocket: 更新条数: +2023， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,12 +491,13 @@
 </summary>
 
 
+- [2022-10-03-为什么域前置可以访问用-cloudflare-做-cdn-的-v2ex](https://www.v2ex.com/t/884548) ![](assets/new.png)  
+- [2022-10-03-win11-史诗级更新，右键任务栏打开任务管理器功能回归！](https://www.v2ex.com/t/884547) ![](assets/new.png)  
 - [2022-10-03-想看看大家-MBP14-的电池健康状态](https://www.v2ex.com/t/884546) ![](assets/new.png)  
 - [2022-10-03-用无刻键盘的话，能相对比较熟练的定位特殊符号吗？](https://www.v2ex.com/t/884545) ![](assets/new.png)  
 - [2022-10-03-微软邮箱被人频繁尝试登陆几年从不间断](https://www.v2ex.com/t/884544) ![](assets/new.png)  
 - [2022-10-03-深夜寻一款快捷键截图做成笔记的软件，类似于方面有道云的''剪影''](https://www.v2ex.com/t/884543) ![](assets/new.png)  
 - [2022-10-03-耳机最低音量还是觉得高,-请教降低音量的方法](https://www.v2ex.com/t/884542) ![](assets/new.png)  
-- [2022-10-03-需要开发一个苹果商店抢单软件，哪位老哥能接，可以的话明天就开工，价格好说。](https://www.v2ex.com/t/884541) ![](assets/new.png)  
 - [2022-10-03-我有一个-windows-虚拟机云主机的使用桌面的问题](https://www.v2ex.com/t/884539) ![](assets/new.png)  
 - [2022-10-03-请推荐一些使用-fyne-编写的优秀项目](https://www.v2ex.com/t/884538) ![](assets/new.png)  
 - [2022-10-03-万里归途-怎么网上没有看的呀](https://www.v2ex.com/t/884537) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-10-03-海外求职怎么联系猎头](https://www.v2ex.com/t/884523) ![](assets/new.png)  
 - [2022-10-03-1，变声器处理后的声音能否被还原？-2，-哪个思维导图的文件，其文本层能被检索软件索引的？-3，求补充罗列数据孤岛的类型：-公众号文章，-B-站动态，知乎评论...](https://www.v2ex.com/t/884522) ![](assets/new.png)  
 - [2022-10-03-如何进行推流中转？](https://www.v2ex.com/t/884521) ![](assets/new.png)  
-- [2022-10-03-安徽省刀锋网络科技有限公司怎么投诉退款](https://www.v2ex.com/t/884518) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -566,13 +566,13 @@
 - [2022-10-03-进击中的卡牌！如何靠营销实现长线运营？](https://toutiao.io/k/v7mjbf1) ![](assets/new.png)  
 - [2022-10-03-面试官:-美团外卖的分库分表怎么设计？](https://toutiao.io/k/5u4v9wc) ![](assets/new.png)  
 - [2022-10-03-实战-Go：怎样快速实现一个极简任务调度系统](https://toutiao.io/k/3c56bkv) ![](assets/new.png)  
-- [2022-10-03-Java-19-中的模式匹配，记录类型的模式与-switch-模式匹配的改进_哔哩哔哩_bilibili](https://toutiao.io/k/vpl5rl3) ![](assets/new.png)  
 - [2022-10-03-说说Java并发编程一](https://toutiao.io/k/qib5wyc) ![](assets/new.png)  
+- [2022-10-03-Java-19-中的模式匹配，记录类型的模式与-switch-模式匹配的改进_哔哩哔哩_bilibili](https://toutiao.io/k/vpl5rl3) ![](assets/new.png)  
 - [2022-10-03-快速在你的vue/react应用中实现ssr服务端渲染](https://toutiao.io/k/nuz8xsi) ![](assets/new.png)  
 - [2022-10-03-TCP拥塞控制详解-|-3.-设计空间](https://toutiao.io/k/whwhaf8) ![](assets/new.png)  
-- [2022-10-03-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) ![](assets/new.png)  
-- [2022-10-03-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) ![](assets/new.png)  
+- [2022-10-03-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) ![](assets/new.png)  
 - [2022-10-03-推荐-性能优化必备——火焰图](https://toutiao.io/k/azf7ub6) ![](assets/new.png)  
+- [2022-10-03-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

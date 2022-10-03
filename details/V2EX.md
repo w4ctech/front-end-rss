@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2022-10-03 09:24:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-03 09:53:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-10-03-ios-16，-homeassisstant/traccar-等-gps-定位软件后台不能自动更新](https://www.v2ex.com/t/884515) 
+- [2022-10-03-55-出京东-PLUS-年卡（无开卡权益）](https://www.v2ex.com/t/884514) 
 - [2022-10-03-如何看待最近的-sg？](https://www.v2ex.com/t/884511) 
 - [2022-10-03-Google-搜索时发现居然有假的-GitHub，还是-gov.cn](https://www.v2ex.com/t/884510) 
 - [2022-10-03-wifi6-路由器选哪个-刚升级了电信千兆网](https://www.v2ex.com/t/884508) 
@@ -40,6 +42,3 @@
 - [2022-10-03-openclash-开启了但没什么用-除非手动设置端口,怎么改才能直接上网](https://www.v2ex.com/t/884468) 
 - [2022-10-03-微信是瞎吗？用户都来替庄小聋干活了](https://www.v2ex.com/t/884467) 
 - [2022-10-03-3-个-新-Win-设置完后-Chromium-都死掉](https://www.v2ex.com/t/884466) 
-- [2022-10-03-讨论一下-iPhone-的游戏表现](https://www.v2ex.com/t/884465) 
-- [2022-10-03-想換-NAS-系統，兄弟們可否說說你們正在用的嗎](https://www.v2ex.com/t/884464) 
-- [2022-10-03-有没有方法在-mac-m1-mini-里，固定一台不带屏幕的-iPhone-，还能做到供电和平稳](https://www.v2ex.com/t/884463) 

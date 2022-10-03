@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-03 06:45:32，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-03 07:25:52，:rocket: 更新条数: +2023， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-10-03-请问-OpenShift-这个-PaaS-平台，能让因新版本上线而自动消亡的-pod，在-pod-即将销毁前，将日志发到指定邮箱吗？](https://www.v2ex.com/t/884495) ![](assets/new.png)  
+- [2022-10-03-Mac-OS-上的-mp4-视频略缩图如何更改](https://www.v2ex.com/t/884492) ![](assets/new.png)  
+- [2022-10-03-5-号线翻身地铁口三室一厅次卧转租-1700-，限男](https://www.v2ex.com/t/884491) ![](assets/new.png)  
 - [2022-10-03-网易云会员-7-天自领](https://www.v2ex.com/t/884490) ![](assets/new.png)  
 - [2022-10-03-AirPods-pro-二代有必要买-ac+吗？奔着两年后换新](https://www.v2ex.com/t/884489) ![](assets/new.png)  
 - [2022-10-03-日本-NFT-市场-X2Y2-招聘资深前端](https://www.v2ex.com/t/884488) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-10-03-Openwrt-下的-Transmission，下载的目录下的文件不能操作，请教](https://www.v2ex.com/t/884470) ![](assets/new.png)  
 - [2022-10-03-openclash-开启了但没什么用-除非手动设置端口,怎么改才能直接上网](https://www.v2ex.com/t/884468) ![](assets/new.png)  
 - [2022-10-03-微信是瞎吗？用户都来替庄小聋干活了](https://www.v2ex.com/t/884467) ![](assets/new.png)  
-- [2022-10-03-3-个-新-Win-设置完后-Chromium-都死掉](https://www.v2ex.com/t/884466) ![](assets/new.png)  
-- [2022-10-03-讨论一下-iPhone-的游戏表现](https://www.v2ex.com/t/884465) ![](assets/new.png)  
-- [2022-10-03-想換-NAS-系統，兄弟們可否說說你們正在用的嗎](https://www.v2ex.com/t/884464) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -567,11 +567,11 @@
 - [2022-10-03-说说Java并发编程一](https://toutiao.io/k/qib5wyc) ![](assets/new.png)  
 - [2022-10-03-Java-19-中的模式匹配，记录类型的模式与-switch-模式匹配的改进_哔哩哔哩_bilibili](https://toutiao.io/k/vpl5rl3) ![](assets/new.png)  
 - [2022-10-03-面试官:-美团外卖的分库分表怎么设计？](https://toutiao.io/k/5u4v9wc) ![](assets/new.png)  
-- [2022-10-03-TCP拥塞控制详解-|-3.-设计空间](https://toutiao.io/k/whwhaf8) ![](assets/new.png)  
-- [2022-10-03-实战-Go：怎样快速实现一个极简任务调度系统](https://toutiao.io/k/3c56bkv) ![](assets/new.png)  
 - [2022-10-03-快速在你的vue/react应用中实现ssr服务端渲染](https://toutiao.io/k/nuz8xsi) ![](assets/new.png)  
-- [2022-10-03-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) ![](assets/new.png)  
+- [2022-10-03-实战-Go：怎样快速实现一个极简任务调度系统](https://toutiao.io/k/3c56bkv) ![](assets/new.png)  
+- [2022-10-03-TCP拥塞控制详解-|-3.-设计空间](https://toutiao.io/k/whwhaf8) ![](assets/new.png)  
 - [2022-10-03-推荐-性能优化必备——火焰图](https://toutiao.io/k/azf7ub6) ![](assets/new.png)  
+- [2022-10-03-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) ![](assets/new.png)  
 - [2022-10-03-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

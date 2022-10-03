@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-03 06:45:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-03 07:25:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1914,6 +1914,8 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-10-03-请问-OpenShift-这个-PaaS-平台，能让因新版本上线而自动消亡的-pod，在-pod-即将销毁前，将日志发到指定邮箱吗？](https://www.v2ex.com/t/884495) 
+- [2022-10-03-5-号线翻身地铁口三室一厅次卧转租-1700-，限男](https://www.v2ex.com/t/884491) 
 - [2022-10-03-网易云会员-7-天自领](https://www.v2ex.com/t/884490) 
 - [2022-10-03-AirPods-pro-二代有必要买-ac+吗？奔着两年后换新](https://www.v2ex.com/t/884489) 
 - [2022-10-03-良品铺子坚果-VS-山姆坚果](https://www.v2ex.com/t/884485) 
@@ -1938,7 +1940,6 @@
 - [2022-10-03-Meteor-New-Tab-–-让你的收藏夹再次伟大](https://www.v2ex.com/t/884452) 
 - [2022-10-03-解决-Y-电容漏电流（充电时手机外壳、笔记本金属面微微麻手）的充电方案有哪些？](https://www.v2ex.com/t/884451) 
 - [2022-10-03-找女朋友真的靠缘分吗](https://www.v2ex.com/t/884447) 
-- [2022-10-03-十一假期杭州周边有没有游客少的旅行地？](https://www.v2ex.com/t/884443) 
 - [2022-10-03-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-03-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-03-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1967,8 +1968,8 @@
 - [2022-10-03-Spring-Boot一个注解，轻松实现-Redis-分布式锁](https://toutiao.io/k/xrooyy8) 
 - [2022-10-03-说说Java并发编程一](https://toutiao.io/k/qib5wyc) 
 - [2022-10-03-Java-19-中的模式匹配，记录类型的模式与-switch-模式匹配的改进_哔哩哔哩_bilibili](https://toutiao.io/k/vpl5rl3) 
-- [2022-10-03-TCP拥塞控制详解-|-3.-设计空间](https://toutiao.io/k/whwhaf8) 
 - [2022-10-03-实战-Go：怎样快速实现一个极简任务调度系统](https://toutiao.io/k/3c56bkv) 
+- [2022-10-03-TCP拥塞控制详解-|-3.-设计空间](https://toutiao.io/k/whwhaf8) 
 - [2022-10-03-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) 
 - [2022-10-03-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) 
 - [2022-10-03-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) 

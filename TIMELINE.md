@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-03 06:45:32。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-10-03 07:25:52。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,9 @@
 </summary>
 
 
+- [【V2EX】2022-10-03-请问-OpenShift-这个-PaaS-平台，能让因新版本上线而自动消亡的-pod，在-pod-即将销毁前，将日志发到指定邮箱吗？](https://www.v2ex.com/t/884495) 
+- [【V2EX】2022-10-03-Mac-OS-上的-mp4-视频略缩图如何更改](https://www.v2ex.com/t/884492) 
+- [【V2EX】2022-10-03-5-号线翻身地铁口三室一厅次卧转租-1700-，限男](https://www.v2ex.com/t/884491) 
 - [【V2EX】2022-10-03-网易云会员-7-天自领](https://www.v2ex.com/t/884490) 
 - [【V2EX】2022-10-03-AirPods-pro-二代有必要买-ac+吗？奔着两年后换新](https://www.v2ex.com/t/884489) 
 - [【V2EX】2022-10-03-日本-NFT-市场-X2Y2-招聘资深前端](https://www.v2ex.com/t/884488) 
@@ -101,8 +104,6 @@
 - [【V2EX】2022-10-03-eslint-不能识别-assert-语法？](https://www.v2ex.com/t/884448) 
 - [【V2EX】2022-10-03-找女朋友真的靠缘分吗](https://www.v2ex.com/t/884447) 
 - [【V2EX】2022-10-03-截至-2022-年-10-月，境内现有验证码服务是否有视力障碍友好的验证方案？以及针对注册和登录，平时如何对网站登录进行无障碍优化呢？](https://www.v2ex.com/t/884446) 
-- [【V2EX】2022-10-03-十一假期杭州周边有没有游客少的旅行地？](https://www.v2ex.com/t/884443) 
-- [【V2EX】2022-10-03-B-站是怎么能给我的小号推送到现实生活中朋友的几乎没人看的视频的？](https://www.v2ex.com/t/884442) 
 - [【技术头条】2022-10-03-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-03-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-03-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -137,11 +138,11 @@
 - [【开发者头条】2022-10-03-说说Java并发编程一](https://toutiao.io/k/qib5wyc) 
 - [【开发者头条】2022-10-03-Java-19-中的模式匹配，记录类型的模式与-switch-模式匹配的改进_哔哩哔哩_bilibili](https://toutiao.io/k/vpl5rl3) 
 - [【开发者头条】2022-10-03-面试官:-美团外卖的分库分表怎么设计？](https://toutiao.io/k/5u4v9wc) 
-- [【开发者头条】2022-10-03-TCP拥塞控制详解-|-3.-设计空间](https://toutiao.io/k/whwhaf8) 
-- [【开发者头条】2022-10-03-实战-Go：怎样快速实现一个极简任务调度系统](https://toutiao.io/k/3c56bkv) 
 - [【开发者头条】2022-10-03-快速在你的vue/react应用中实现ssr服务端渲染](https://toutiao.io/k/nuz8xsi) 
-- [【开发者头条】2022-10-03-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) 
+- [【开发者头条】2022-10-03-实战-Go：怎样快速实现一个极简任务调度系统](https://toutiao.io/k/3c56bkv) 
+- [【开发者头条】2022-10-03-TCP拥塞控制详解-|-3.-设计空间](https://toutiao.io/k/whwhaf8) 
 - [【开发者头条】2022-10-03-推荐-性能优化必备——火焰图](https://toutiao.io/k/azf7ub6) 
+- [【开发者头条】2022-10-03-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) 
 - [【开发者头条】2022-10-03-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) 
 - [【开发者头条】2022-10-03-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) 
 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-03 10:18:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-03 10:49:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1914,6 +1914,7 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-10-03-安徽省刀锋网络科技有限公司怎么投诉退款](https://www.v2ex.com/t/884518) 
 - [2022-10-03-Ios-还原网络设置后，只有微信没有网络，该怎么办](https://www.v2ex.com/t/884517) 
 - [2022-10-03-投诉被搞后续,告一段落，一地鸡毛](https://www.v2ex.com/t/884516) 
 - [2022-10-03-ios-16，-homeassisstant/traccar-等-gps-定位软件后台不能自动更新](https://www.v2ex.com/t/884515) 
@@ -1941,8 +1942,6 @@
 - [2022-10-03-Looking-forword-a-developer-to-work-on-snapano.com](https://www.v2ex.com/t/884475) 
 - [2022-10-03-提问内容咨询-，-v-友们可有关于认知成长的-newsletter-推荐吗](https://www.v2ex.com/t/884473) 
 - [2022-10-03-Linux-kernel-和-Linux-发行对-m1,m2-的支持如何了，到了可以直接装的地方了吗](https://www.v2ex.com/t/884472) 
-- [2022-10-03-Openwrt-下的-Transmission，下载的目录下的文件不能操作，请教](https://www.v2ex.com/t/884470) 
-- [2022-10-03-openclash-开启了但没什么用-除非手动设置端口,怎么改才能直接上网](https://www.v2ex.com/t/884468) 
 - [2022-10-03-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-03-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-03-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1973,6 +1972,6 @@
 - [2022-10-03-说说Java并发编程一](https://toutiao.io/k/qib5wyc) 
 - [2022-10-03-Java-19-中的模式匹配，记录类型的模式与-switch-模式匹配的改进_哔哩哔哩_bilibili](https://toutiao.io/k/vpl5rl3) 
 - [2022-10-03-TCP拥塞控制详解-|-3.-设计空间](https://toutiao.io/k/whwhaf8) 
-- [2022-10-03-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) 
 - [2022-10-03-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) 
+- [2022-10-03-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) 
 - [2022-10-03-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) 

@@ -9953,6 +9953,21 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "想看看大家 MBP14 的电池健康状态",
+        "link": "https://www.v2ex.com/t/884546",
+        "date": "2022-10-03"
+      },
+      {
+        "title": "用无刻键盘的话，能相对比较熟练的定位特殊符号吗？",
+        "link": "https://www.v2ex.com/t/884545",
+        "date": "2022-10-03"
+      },
+      {
+        "title": "微软邮箱被人频繁尝试登陆几年从不间断",
+        "link": "https://www.v2ex.com/t/884544",
+        "date": "2022-10-03"
+      },
+      {
         "title": "深夜寻一款快捷键截图做成笔记的软件，类似于方面有道云的''剪影''",
         "link": "https://www.v2ex.com/t/884543",
         "date": "2022-10-03"
@@ -10120,16 +10135,6 @@
       {
         "title": "谷歌发布 Lyra V2 超低比特率语音编解码器，可在 56kbps 网速下语音聊天",
         "link": "https://www.v2ex.com/t/884497",
-        "date": "2022-10-03"
-      },
-      {
-        "title": "国外付款方式",
-        "link": "https://www.v2ex.com/t/884496",
-        "date": "2022-10-03"
-      },
-      {
-        "title": "请问 OpenShift 这个 PaaS 平台，能让因新版本上线而自动消亡的 pod，在 pod 即将销毁前，将日志发到指定邮箱吗？",
-        "link": "https://www.v2ex.com/t/884495",
         "date": "2022-10-03"
       }
     ]
@@ -10312,13 +10317,13 @@
         "date": "2022-10-03"
       },
       {
-        "title": "说说Java并发编程(一)",
-        "link": "https://toutiao.io/k/qib5wyc",
+        "title": "Java 19 中的模式匹配，记录类型的模式与 switch 模式匹配的改进_哔哩哔哩_bilibili",
+        "link": "https://toutiao.io/k/vpl5rl3",
         "date": "2022-10-03"
       },
       {
-        "title": "Java 19 中的模式匹配，记录类型的模式与 switch 模式匹配的改进_哔哩哔哩_bilibili",
-        "link": "https://toutiao.io/k/vpl5rl3",
+        "title": "说说Java并发编程(一)",
+        "link": "https://toutiao.io/k/qib5wyc",
         "date": "2022-10-03"
       },
       {
@@ -10332,23 +10337,23 @@
         "date": "2022-10-03"
       },
       {
-        "title": "[推荐] Netty、Kafka中的零拷贝技术到底有多牛?",
-        "link": "https://toutiao.io/k/ussdz4q",
-        "date": "2022-10-03"
-      },
-      {
         "title": "[推荐] 分享16个我总结的思维模型（程序员必读，受用终身）",
         "link": "https://toutiao.io/k/f7r13v5",
         "date": "2022-10-03"
       },
       {
-        "title": "[推荐] 聊聊 8种 架构模式",
-        "link": "https://toutiao.io/k/luf0yh6",
+        "title": "[推荐] Netty、Kafka中的零拷贝技术到底有多牛?",
+        "link": "https://toutiao.io/k/ussdz4q",
         "date": "2022-10-03"
       },
       {
         "title": "[推荐] 性能优化必备——火焰图",
         "link": "https://toutiao.io/k/azf7ub6",
+        "date": "2022-10-03"
+      },
+      {
+        "title": "[推荐] 聊聊 8种 架构模式",
+        "link": "https://toutiao.io/k/luf0yh6",
         "date": "2022-10-03"
       }
     ]

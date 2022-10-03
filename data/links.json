@@ -9953,6 +9953,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "谷歌发布 Lyra V2 超低比特率语音编解码器，可在 56kbps 网速下语音聊天",
+        "link": "https://www.v2ex.com/t/884497",
+        "date": "2022-10-03"
+      },
+      {
+        "title": "国外付款方式",
+        "link": "https://www.v2ex.com/t/884496",
+        "date": "2022-10-03"
+      },
+      {
         "title": "请问 OpenShift 这个 PaaS 平台，能让因新版本上线而自动消亡的 pod，在 pod 即将销毁前，将日志发到指定邮箱吗？",
         "link": "https://www.v2ex.com/t/884495",
         "date": "2022-10-03"
@@ -10120,16 +10130,6 @@
       {
         "title": "eslint 不能识别 assert 语法？",
         "link": "https://www.v2ex.com/t/884448",
-        "date": "2022-10-03"
-      },
-      {
-        "title": "找女朋友真的靠缘分吗",
-        "link": "https://www.v2ex.com/t/884447",
-        "date": "2022-10-03"
-      },
-      {
-        "title": "截至 2022 年 10 月，境内现有验证码服务是否有视力障碍友好的验证方案？以及针对注册和登录，平时如何对网站登录进行无障碍优化呢？",
-        "link": "https://www.v2ex.com/t/884446",
         "date": "2022-10-03"
       }
     ]
@@ -10332,16 +10332,6 @@
         "date": "2022-10-03"
       },
       {
-        "title": "[推荐] 性能优化必备——火焰图",
-        "link": "https://toutiao.io/k/azf7ub6",
-        "date": "2022-10-03"
-      },
-      {
-        "title": "[推荐] 分享16个我总结的思维模型（程序员必读，受用终身）",
-        "link": "https://toutiao.io/k/f7r13v5",
-        "date": "2022-10-03"
-      },
-      {
         "title": "[推荐] Netty、Kafka中的零拷贝技术到底有多牛?",
         "link": "https://toutiao.io/k/ussdz4q",
         "date": "2022-10-03"
@@ -10349,6 +10339,16 @@
       {
         "title": "[推荐] 聊聊 8种 架构模式",
         "link": "https://toutiao.io/k/luf0yh6",
+        "date": "2022-10-03"
+      },
+      {
+        "title": "[推荐] 性能优化必备——火焰图",
+        "link": "https://toutiao.io/k/azf7ub6",
+        "date": "2022-10-03"
+      },
+      {
+        "title": "[推荐] 分享16个我总结的思维模型（程序员必读，受用终身）",
+        "link": "https://toutiao.io/k/f7r13v5",
         "date": "2022-10-03"
       }
     ]

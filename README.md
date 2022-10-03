@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-03 07:25:52，:rocket: 更新条数: +2023， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-03 07:50:28，:rocket: 更新条数: +2023， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-10-03-谷歌发布-Lyra-V2-超低比特率语音编解码器，可在-56kbps-网速下语音聊天](https://www.v2ex.com/t/884497) ![](assets/new.png)  
+- [2022-10-03-国外付款方式](https://www.v2ex.com/t/884496) ![](assets/new.png)  
 - [2022-10-03-请问-OpenShift-这个-PaaS-平台，能让因新版本上线而自动消亡的-pod，在-pod-即将销毁前，将日志发到指定邮箱吗？](https://www.v2ex.com/t/884495) ![](assets/new.png)  
 - [2022-10-03-Mac-OS-上的-mp4-视频略缩图如何更改](https://www.v2ex.com/t/884492) ![](assets/new.png)  
 - [2022-10-03-5-号线翻身地铁口三室一厅次卧转租-1700-，限男](https://www.v2ex.com/t/884491) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-10-03-提问内容咨询-，-v-友们可有关于认知成长的-newsletter-推荐吗](https://www.v2ex.com/t/884473) ![](assets/new.png)  
 - [2022-10-03-Linux-kernel-和-Linux-发行对-m1,m2-的支持如何了，到了可以直接装的地方了吗](https://www.v2ex.com/t/884472) ![](assets/new.png)  
 - [2022-10-03-Openwrt-下的-Transmission，下载的目录下的文件不能操作，请教](https://www.v2ex.com/t/884470) ![](assets/new.png)  
-- [2022-10-03-openclash-开启了但没什么用-除非手动设置端口,怎么改才能直接上网](https://www.v2ex.com/t/884468) ![](assets/new.png)  
-- [2022-10-03-微信是瞎吗？用户都来替庄小聋干活了](https://www.v2ex.com/t/884467) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -570,9 +570,9 @@
 - [2022-10-03-快速在你的vue/react应用中实现ssr服务端渲染](https://toutiao.io/k/nuz8xsi) ![](assets/new.png)  
 - [2022-10-03-实战-Go：怎样快速实现一个极简任务调度系统](https://toutiao.io/k/3c56bkv) ![](assets/new.png)  
 - [2022-10-03-TCP拥塞控制详解-|-3.-设计空间](https://toutiao.io/k/whwhaf8) ![](assets/new.png)  
-- [2022-10-03-推荐-性能优化必备——火焰图](https://toutiao.io/k/azf7ub6) ![](assets/new.png)  
-- [2022-10-03-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) ![](assets/new.png)  
 - [2022-10-03-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) ![](assets/new.png)  
+- [2022-10-03-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) ![](assets/new.png)  
+- [2022-10-03-推荐-性能优化必备——火焰图](https://toutiao.io/k/azf7ub6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

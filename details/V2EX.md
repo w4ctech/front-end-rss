@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2022-10-02 23:48:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-03 01:15:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-10-03-分享免费的数据库-DBaaS-之-bit.io-—-云-postgreSQL-3GB-free-tier](https://www.v2ex.com/t/884440) 
+- [2022-10-03-单机游戏管理软件](https://www.v2ex.com/t/884439) 
+- [2022-10-02-自动化交易，量化交易，用哪个语言比较方便呢？](https://www.v2ex.com/t/884438) 
 - [2022-10-02-作为大龄程序员，你如何持续的保持自己的竞争优势](https://www.v2ex.com/t/884436) 
 - [2022-10-02-iQDNS-2.0---永久公益公共加密-DNS-新特性-新解析逻辑-完美定位国内外-CDN-IP-问题](https://www.v2ex.com/t/884435) 
 - [2022-10-02-vivo-s9e-如何刷国际版的-rom-及降级](https://www.v2ex.com/t/884434) 
@@ -41,7 +44,3 @@
 - [2022-10-02-OBS-哪家强？](https://www.v2ex.com/t/884395) 
 - [2022-10-02-求推荐个-vnc-view-的-c++库](https://www.v2ex.com/t/884393) 
 - [2022-10-02-关于二本学历的程序员学习路线设计](https://www.v2ex.com/t/884392) 
-- [2022-10-02-求问哪里还能买到全新的-12mini](https://www.v2ex.com/t/884391) 
-- [2022-10-02-有什么自己主动分享位置并且可以被所有人访问的-app-吗？](https://www.v2ex.com/t/884390) 
-- [2022-10-02-Rust-关于三种-return-Error-trait-的区别是什么，如何辨别使用场景？](https://www.v2ex.com/t/884389) 
-- [2022-10-02-XXL-RPC-v1.7.0，分布式服务框架](https://www.v2ex.com/t/884388) 

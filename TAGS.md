@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-10-03 12:33:46。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-03 13:51:53。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -89,7 +89,6 @@
 
 
 - [【武汉肺炎防疫全纪录(财新网)】韩国拟升级首尔疫情管控-法国专业机构建议强制接种疫苗｜大流行手记（7月10日）](https://m.caixin.com/m/2021-07-11/101738786.html)
-- [【V2EX】pnpm-到底如何设置下载包存储路径？](https://www.v2ex.com/t/884486)
 - [......【查看更多】......](./details/tags/pack-build.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -218,6 +217,7 @@
 
 
 
+- [【V2EX】windows-祖传的'3d-object's-'saved-games'等恶心快捷访问和文件夹本身有无成熟方便的消灭方案?](https://www.v2ex.com/t/884533)
 - [......【查看更多】......](./details/tags/canvas-image.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -346,7 +346,6 @@
 
 
 
-- [【V2EX】日本-NFT-市场-X2Y2-招聘资深前端](https://www.v2ex.com/t/884488)
 - [【开发者头条】面试官:-美团外卖的分库分表怎么设计？](https://toutiao.io/k/5u4v9wc)
 - [......【查看更多】......](./details/tags/job-interview.md)
 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-03 22:49:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-03 23:08:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -7,5 +7,4 @@
 
 
 
-- [2022-10-03-记一次-Web-字体优化](https://toutiao.io/k/uy40bbo) 
 - [2022-10-03-推荐-性能优化必备——火焰图](https://toutiao.io/k/azf7ub6) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-03 13:51:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-03 14:34:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1914,6 +1914,9 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-10-03-深夜寻一款快捷键截图做成笔记的软件，类似于方面有道云的''剪影''](https://www.v2ex.com/t/884543) 
+- [2022-10-03-耳机最低音量还是觉得高,-请教降低音量的方法](https://www.v2ex.com/t/884542) 
+- [2022-10-03-需要开发一个苹果商店抢单软件，哪位老哥能接，可以的话明天就开工，价格好说。](https://www.v2ex.com/t/884541) 
 - [2022-10-03-我有一个-windows-虚拟机云主机的使用桌面的问题](https://www.v2ex.com/t/884539) 
 - [2022-10-03-请推荐一些使用-fyne-编写的优秀项目](https://www.v2ex.com/t/884538) 
 - [2022-10-03-万里归途-怎么网上没有看的呀](https://www.v2ex.com/t/884537) 
@@ -1942,7 +1945,6 @@
 - [2022-10-03-谷歌发布-Lyra-V2-超低比特率语音编解码器，可在-56kbps-网速下语音聊天](https://www.v2ex.com/t/884497) 
 - [2022-10-03-国外付款方式](https://www.v2ex.com/t/884496) 
 - [2022-10-03-请问-OpenShift-这个-PaaS-平台，能让因新版本上线而自动消亡的-pod，在-pod-即将销毁前，将日志发到指定邮箱吗？](https://www.v2ex.com/t/884495) 
-- [2022-10-03-5-号线翻身地铁口三室一厅次卧转租-1700-，限男](https://www.v2ex.com/t/884491) 
 - [2022-10-03-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-03-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-03-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1970,9 +1972,9 @@
 - [2022-10-03-SOC-识别和检测威胁信息](https://toutiao.io/k/rjt9e0j) 
 - [2022-10-03-进击中的卡牌！如何靠营销实现长线运营？](https://toutiao.io/k/v7mjbf1) 
 - [2022-10-03-实战-Go：怎样快速实现一个极简任务调度系统](https://toutiao.io/k/3c56bkv) 
-- [2022-10-03-Java-19-中的模式匹配，记录类型的模式与-switch-模式匹配的改进_哔哩哔哩_bilibili](https://toutiao.io/k/vpl5rl3) 
 - [2022-10-03-说说Java并发编程一](https://toutiao.io/k/qib5wyc) 
+- [2022-10-03-Java-19-中的模式匹配，记录类型的模式与-switch-模式匹配的改进_哔哩哔哩_bilibili](https://toutiao.io/k/vpl5rl3) 
 - [2022-10-03-TCP拥塞控制详解-|-3.-设计空间](https://toutiao.io/k/whwhaf8) 
 - [2022-10-03-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) 
-- [2022-10-03-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) 
 - [2022-10-03-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) 
+- [2022-10-03-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-03 03:16:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-03 04:31:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -15,5 +15,3 @@
 - [2021-03-03-港府回应一63岁患者死亡事件-暂无法确定与疫苗相关](https://m.caixin.com/m/2021-03-03/101670052.html) 
 - [2022-08-21-JS-replaceAll-和-matchAll-使用指南不指北](https://www.zhangxinxu.com/wordpress/2022/08/js-replaceall-matchall/) 
 - [2022-10-02-路由器隔了一堵墙导致信号不好，有什么懒人解决方案吗](https://www.v2ex.com/t/884428) 
-- [2022-10-02-有人用路由器-clash-的规则集合吗](https://www.v2ex.com/t/884423) 
-- [2022-10-03-专注于性能的-SolidJS](https://toutiao.io/k/evt2bgp) 

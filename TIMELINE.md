@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-03 03:16:12。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-10-03 04:31:18。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,16 @@
 </summary>
 
 
+- [【V2EX】2022-10-03-搬瓦工-gia-日本服务器-443-端口突然被封，墙又高了？](https://www.v2ex.com/t/884476) 
+- [【V2EX】2022-10-03-Looking-forword-a-developer-to-work-on-snapano.com](https://www.v2ex.com/t/884475) 
+- [【V2EX】2022-10-03-提问内容咨询-，-v-友们可有关于认知成长的-newsletter-推荐吗](https://www.v2ex.com/t/884473) 
+- [【V2EX】2022-10-03-Linux-kernel-和-Linux-发行对-m1,m2-的支持如何了，到了可以直接装的地方了吗](https://www.v2ex.com/t/884472) 
+- [【V2EX】2022-10-03-Openwrt-下的-Transmission，下载的目录下的文件不能操作，请教](https://www.v2ex.com/t/884470) 
+- [【V2EX】2022-10-03-openclash-开启了但没什么用-除非手动设置端口,怎么改才能直接上网](https://www.v2ex.com/t/884468) 
+- [【V2EX】2022-10-03-微信是瞎吗？用户都来替庄小聋干活了](https://www.v2ex.com/t/884467) 
+- [【V2EX】2022-10-03-3-个-新-Win-设置完后-Chromium-都死掉](https://www.v2ex.com/t/884466) 
+- [【V2EX】2022-10-03-讨论一下-iPhone-的游戏表现](https://www.v2ex.com/t/884465) 
+- [【V2EX】2022-10-03-想換-NAS-系統，兄弟們可否說說你們正在用的嗎](https://www.v2ex.com/t/884464) 
 - [【V2EX】2022-10-03-有没有方法在-mac-m1-mini-里，固定一台不带屏幕的-iPhone-，还能做到供电和平稳](https://www.v2ex.com/t/884463) 
 - [【V2EX】2022-10-03-Airpods-Pro-2，-bug-也太多了！](https://www.v2ex.com/t/884461) 
 - [【V2EX】2022-10-03-工行万事达无法为开发者账号续费？](https://www.v2ex.com/t/884460) 
@@ -96,15 +106,6 @@
 - [【V2EX】2022-10-02-Mac-有没办法更改删除文件的快捷键](https://www.v2ex.com/t/884430) 
 - [【V2EX】2022-10-02-有垃圾分类和定时投放要求的大家，是怎么处理易腐垃圾的？](https://www.v2ex.com/t/884429) 
 - [【V2EX】2022-10-02-路由器隔了一堵墙导致信号不好，有什么懒人解决方案吗](https://www.v2ex.com/t/884428) 
-- [【V2EX】2022-10-02-今天听说一个玄学算法，写了一下，确实玄学？](https://www.v2ex.com/t/884426) 
-- [【V2EX】2022-10-02-求推荐-NAS-用的文件管理器](https://www.v2ex.com/t/884425) 
-- [【V2EX】2022-10-02-交换机放在桌面上的时候，如何摆放比较美观？](https://www.v2ex.com/t/884424) 
-- [【V2EX】2022-10-02-有人用路由器-clash-的规则集合吗](https://www.v2ex.com/t/884423) 
-- [【V2EX】2022-10-02-免费在线音乐网站推荐（一边做事一边听音乐时比较适合，例如骑行）](https://www.v2ex.com/t/884422) 
-- [【V2EX】2022-10-02-有没有“俄里俄气”的交易平台](https://www.v2ex.com/t/884421) 
-- [【V2EX】2022-10-02-游戏党慎更新-22h2](https://www.v2ex.com/t/884419) 
-- [【V2EX】2022-10-02-各位朋友，土区-epic-好像很难支付了？试过几个，找不到原生-ip-了……](https://www.v2ex.com/t/884418) 
-- [【V2EX】2022-10-02-求一个自定义按键的工具推荐？](https://www.v2ex.com/t/884414) 
 - [【技术头条】2022-10-03-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-03-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-03-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -125,20 +126,6 @@
 - [【技术头条】2022-10-03-与日俱进，在-Go-1.20-中这种高效转换的方式又变了-colobu.com](https://blogread.cn/news/go.php?idItem=15386&url=https%3A%2F%2Fcolobu.com%2F2022%2F09%2F06%2Fstring-byte-convertion%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-03-10-大可以摧毁你的-Linux-的命令-linux.cn](https://blogread.cn/news/go.php?idItem=15385&url=https%3A%2F%2Flinux.cn%2Farticle-15022-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-03-如何在笔记本电脑合盖时不挂起-Ubuntu-linux.cn](https://blogread.cn/news/go.php?idItem=15384&url=https%3A%2F%2Flinux.cn%2Farticle-15015-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [【开发者头条】2022-10-03-P5~P9-应该具备的核心能力是什么](https://toutiao.io/k/7ga7vcn) 
-- [【开发者头条】2022-10-03-IM-跨平台技术学习（三）：vivo-的-Electron-技术栈选型、全方位实践总结](https://toutiao.io/k/uaa9ymi) 
-- [【开发者头条】2022-10-03-干货｜十分钟读懂字节跳动的-Doris-湖仓分析实践](https://toutiao.io/k/ovsrlzz) 
-- [【开发者头条】2022-10-03-日志记录的最佳实践](https://toutiao.io/k/0w9hsc7) 
-- [【开发者头条】2022-10-03-记一次-Web-字体优化](https://toutiao.io/k/uy40bbo) 
-- [【开发者头条】2022-10-03-Rust-太难？那是你没看到这套-Rust-语言学习总结（上）](https://toutiao.io/k/8w3ph2c) 
-- [【开发者头条】2022-10-03-Go-源码里的这些-//go:-指令，你知道吗？](https://toutiao.io/k/1wa895y) 
-- [【开发者头条】2022-10-03-专注于性能的-SolidJS](https://toutiao.io/k/evt2bgp) 
-- [【开发者头条】2022-10-03-SOC-识别和检测威胁信息](https://toutiao.io/k/rjt9e0j) 
-- [【开发者头条】2022-10-03-进击中的卡牌！如何靠营销实现长线运营？](https://toutiao.io/k/v7mjbf1) 
-- [【开发者头条】2022-10-03-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) 
-- [【开发者头条】2022-10-03-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) 
-- [【开发者头条】2022-10-03-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) 
-- [【开发者头条】2022-10-03-推荐-性能优化必备——火焰图](https://toutiao.io/k/azf7ub6) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

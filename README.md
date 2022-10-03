@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-03 03:16:12，:rocket: 更新条数: +2017， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-03 04:31:18，:rocket: 更新条数: +2004， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
-- [开发者头条](#开发者头条)![](assets/dot.png)   
+- [开发者头条](#开发者头条)  
 - [安全热点](#安全热点)  
 - [物联网智库](#物联网智库)  
 
@@ -491,6 +491,16 @@
 </summary>
 
 
+- [2022-10-03-搬瓦工-gia-日本服务器-443-端口突然被封，墙又高了？](https://www.v2ex.com/t/884476) ![](assets/new.png)  
+- [2022-10-03-Looking-forword-a-developer-to-work-on-snapano.com](https://www.v2ex.com/t/884475) ![](assets/new.png)  
+- [2022-10-03-提问内容咨询-，-v-友们可有关于认知成长的-newsletter-推荐吗](https://www.v2ex.com/t/884473) ![](assets/new.png)  
+- [2022-10-03-Linux-kernel-和-Linux-发行对-m1,m2-的支持如何了，到了可以直接装的地方了吗](https://www.v2ex.com/t/884472) ![](assets/new.png)  
+- [2022-10-03-Openwrt-下的-Transmission，下载的目录下的文件不能操作，请教](https://www.v2ex.com/t/884470) ![](assets/new.png)  
+- [2022-10-03-openclash-开启了但没什么用-除非手动设置端口,怎么改才能直接上网](https://www.v2ex.com/t/884468) ![](assets/new.png)  
+- [2022-10-03-微信是瞎吗？用户都来替庄小聋干活了](https://www.v2ex.com/t/884467) ![](assets/new.png)  
+- [2022-10-03-3-个-新-Win-设置完后-Chromium-都死掉](https://www.v2ex.com/t/884466) ![](assets/new.png)  
+- [2022-10-03-讨论一下-iPhone-的游戏表现](https://www.v2ex.com/t/884465) ![](assets/new.png)  
+- [2022-10-03-想換-NAS-系統，兄弟們可否說說你們正在用的嗎](https://www.v2ex.com/t/884464) ![](assets/new.png)  
 - [2022-10-03-有没有方法在-mac-m1-mini-里，固定一台不带屏幕的-iPhone-，还能做到供电和平稳](https://www.v2ex.com/t/884463) ![](assets/new.png)  
 - [2022-10-03-Airpods-Pro-2，-bug-也太多了！](https://www.v2ex.com/t/884461) ![](assets/new.png)  
 - [2022-10-03-工行万事达无法为开发者账号续费？](https://www.v2ex.com/t/884460) ![](assets/new.png)  
@@ -501,16 +511,6 @@
 - [2022-10-03-字节跳动广州研发大量-hc，欢迎投简历！（前端、后端都有）](https://www.v2ex.com/t/884453) ![](assets/new.png)  
 - [2022-10-03-Meteor-New-Tab-–-让你的收藏夹再次伟大](https://www.v2ex.com/t/884452) ![](assets/new.png)  
 - [2022-10-03-解决-Y-电容漏电流（充电时手机外壳、笔记本金属面微微麻手）的充电方案有哪些？](https://www.v2ex.com/t/884451) ![](assets/new.png)  
-- [2022-10-03-eslint-不能识别-assert-语法？](https://www.v2ex.com/t/884448) ![](assets/new.png)  
-- [2022-10-03-找女朋友真的靠缘分吗](https://www.v2ex.com/t/884447) ![](assets/new.png)  
-- [2022-10-03-截至-2022-年-10-月，境内现有验证码服务是否有视力障碍友好的验证方案？以及针对注册和登录，平时如何对网站登录进行无障碍优化呢？](https://www.v2ex.com/t/884446) ![](assets/new.png)  
-- [2022-10-03-Netflix-土区合租，招-2-个乘客](https://www.v2ex.com/t/884444) ![](assets/new.png)  
-- [2022-10-03-十一假期杭州周边有没有游客少的旅行地？](https://www.v2ex.com/t/884443) ![](assets/new.png)  
-- [2022-10-03-B-站是怎么能给我的小号推送到现实生活中朋友的几乎没人看的视频的？](https://www.v2ex.com/t/884442) ![](assets/new.png)  
-- [2022-10-03-分享免费的数据库-DBaaS-之-bit.io-—-云-postgreSQL-3GB-free-tier](https://www.v2ex.com/t/884440) ![](assets/new.png)  
-- [2022-10-03-单机游戏管理软件](https://www.v2ex.com/t/884439) ![](assets/new.png)  
-- [2022-10-02-自动化交易，量化交易，用哪个语言比较方便呢？](https://www.v2ex.com/t/884438) ![](assets/new.png)  
-- [2022-10-02-作为大龄程序员，你如何持续的保持自己的竞争优势](https://www.v2ex.com/t/884436) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -553,20 +553,6 @@
 </summary>
 
 
-- [2022-10-03-P5~P9-应该具备的核心能力是什么](https://toutiao.io/k/7ga7vcn) ![](assets/new.png)  
-- [2022-10-03-IM-跨平台技术学习（三）：vivo-的-Electron-技术栈选型、全方位实践总结](https://toutiao.io/k/uaa9ymi) ![](assets/new.png)  
-- [2022-10-03-干货｜十分钟读懂字节跳动的-Doris-湖仓分析实践](https://toutiao.io/k/ovsrlzz) ![](assets/new.png)  
-- [2022-10-03-日志记录的最佳实践](https://toutiao.io/k/0w9hsc7) ![](assets/new.png)  
-- [2022-10-03-记一次-Web-字体优化](https://toutiao.io/k/uy40bbo) ![](assets/new.png)  
-- [2022-10-03-Rust-太难？那是你没看到这套-Rust-语言学习总结（上）](https://toutiao.io/k/8w3ph2c) ![](assets/new.png)  
-- [2022-10-03-Go-源码里的这些-//go:-指令，你知道吗？](https://toutiao.io/k/1wa895y) ![](assets/new.png)  
-- [2022-10-03-专注于性能的-SolidJS](https://toutiao.io/k/evt2bgp) ![](assets/new.png)  
-- [2022-10-03-SOC-识别和检测威胁信息](https://toutiao.io/k/rjt9e0j) ![](assets/new.png)  
-- [2022-10-03-进击中的卡牌！如何靠营销实现长线运营？](https://toutiao.io/k/v7mjbf1) ![](assets/new.png)  
-- [2022-10-03-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) ![](assets/new.png)  
-- [2022-10-03-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) ![](assets/new.png)  
-- [2022-10-03-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) ![](assets/new.png)  
-- [2022-10-03-推荐-性能优化必备——火焰图](https://toutiao.io/k/azf7ub6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

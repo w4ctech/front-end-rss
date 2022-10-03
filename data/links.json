@@ -9953,6 +9953,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "我发现一个可怕的规律",
+        "link": "https://www.v2ex.com/t/884560",
+        "date": "2022-10-03"
+      },
+      {
         "title": "一副脚板十双鞋",
         "link": "https://www.v2ex.com/t/884559",
         "date": "2022-10-03"
@@ -10116,11 +10121,6 @@
         "title": "如何看待最近的 sg？",
         "link": "https://www.v2ex.com/t/884511",
         "date": "2022-10-03"
-      },
-      {
-        "title": "Google 搜索时发现居然有假的 GitHub，还是 gov.cn",
-        "link": "https://www.v2ex.com/t/884510",
-        "date": "2022-10-03"
       }
     ]
   },
@@ -10252,6 +10252,11 @@
         "date": "2022-10-03"
       },
       {
+        "title": "TCP拥塞控制详解 | 3. 设计空间",
+        "link": "https://toutiao.io/k/whwhaf8",
+        "date": "2022-10-03"
+      },
+      {
         "title": "Java 19 中的模式匹配，记录类型的模式与 switch 模式匹配的改进",
         "link": "https://toutiao.io/k/vpl5rl3",
         "date": "2022-10-03"
@@ -10262,8 +10267,23 @@
         "date": "2022-10-03"
       },
       {
-        "title": "TCP拥塞控制详解 | 3. 设计空间",
-        "link": "https://toutiao.io/k/whwhaf8",
+        "title": "怎么让面试官喜欢你？",
+        "link": "https://toutiao.io/k/0kimlvu",
+        "date": "2022-10-03"
+      },
+      {
+        "title": "在 KubeGems 中启用 Nacos 配置中心",
+        "link": "https://toutiao.io/k/s17j97q",
+        "date": "2022-10-03"
+      },
+      {
+        "title": "掘地三尺搞定 Redis 与 MySQL 数据一致性问题",
+        "link": "https://toutiao.io/k/qtv76pm",
+        "date": "2022-10-03"
+      },
+      {
+        "title": "攻击面分析及应对实践",
+        "link": "https://toutiao.io/k/s7n7r9x",
         "date": "2022-10-03"
       },
       {

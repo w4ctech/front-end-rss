@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-03 23:18:04。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-10-03 23:51:09。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,7 @@
 </summary>
 
 
+- [【V2EX】2022-10-03-我发现一个可怕的规律](https://www.v2ex.com/t/884560) 
 - [【V2EX】2022-10-03-一副脚板十双鞋](https://www.v2ex.com/t/884559) 
 - [【V2EX】2022-10-03-本月会有-M2-本版的-iPad-Pro-发布嘛？](https://www.v2ex.com/t/884558) 
 - [【V2EX】2022-10-03-Apple-id-被锁定，无法登录。求问如何科学转移资料及后续账号使用，](https://www.v2ex.com/t/884557) 
@@ -101,7 +102,6 @@
 - [【V2EX】2022-10-03-ios-16，-homeassisstant/traccar-等-gps-定位软件后台不能自动更新](https://www.v2ex.com/t/884515) 
 - [【V2EX】2022-10-03-55-出京东-PLUS-年卡（无开卡权益）](https://www.v2ex.com/t/884514) 
 - [【V2EX】2022-10-03-如何看待最近的-sg？](https://www.v2ex.com/t/884511) 
-- [【V2EX】2022-10-03-Google-搜索时发现居然有假的-GitHub，还是-gov.cn](https://www.v2ex.com/t/884510) 
 - [【技术头条】2022-10-03-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-03-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-03-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -125,9 +125,13 @@
 - [【开发者头条】2022-10-03-SOC-识别和检测威胁信息](https://toutiao.io/k/rjt9e0j) 
 - [【开发者头条】2022-10-03-实战-Go：怎样快速实现一个极简任务调度系统](https://toutiao.io/k/3c56bkv) 
 - [【开发者头条】2022-10-03-说说-Java-并发编程（一）](https://toutiao.io/k/qib5wyc) 
+- [【开发者头条】2022-10-03-TCP拥塞控制详解-|-3.-设计空间](https://toutiao.io/k/whwhaf8) 
 - [【开发者头条】2022-10-03-Java-19-中的模式匹配，记录类型的模式与-switch-模式匹配的改进](https://toutiao.io/k/vpl5rl3) 
 - [【开发者头条】2022-10-03-快速在你的-vue/react-应用中实现-ssr-服务端渲染](https://toutiao.io/k/nuz8xsi) 
-- [【开发者头条】2022-10-03-TCP拥塞控制详解-|-3.-设计空间](https://toutiao.io/k/whwhaf8) 
+- [【开发者头条】2022-10-03-怎么让面试官喜欢你？](https://toutiao.io/k/0kimlvu) 
+- [【开发者头条】2022-10-03-在-KubeGems-中启用-Nacos-配置中心](https://toutiao.io/k/s17j97q) 
+- [【开发者头条】2022-10-03-掘地三尺搞定-Redis-与-MySQL-数据一致性问题](https://toutiao.io/k/qtv76pm) 
+- [【开发者头条】2022-10-03-攻击面分析及应对实践](https://toutiao.io/k/s7n7r9x) 
 - [【开发者头条】2022-10-03-推荐-性能优化必备——火焰图](https://toutiao.io/k/azf7ub6) 
 - [【开发者头条】2022-10-03-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) 
 - [【开发者头条】2022-10-03-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) 

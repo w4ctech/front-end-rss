@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-03 23:18:04，:rocket: 更新条数: +2009， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-03 23:51:09，:rocket: 更新条数: +2013， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-10-03-我发现一个可怕的规律](https://www.v2ex.com/t/884560) ![](assets/new.png)  
 - [2022-10-03-一副脚板十双鞋](https://www.v2ex.com/t/884559) ![](assets/new.png)  
 - [2022-10-03-本月会有-M2-本版的-iPad-Pro-发布嘛？](https://www.v2ex.com/t/884558) ![](assets/new.png)  
 - [2022-10-03-Apple-id-被锁定，无法登录。求问如何科学转移资料及后续账号使用，](https://www.v2ex.com/t/884557) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-10-03-请推荐一些使用-fyne-编写的优秀项目](https://www.v2ex.com/t/884538) ![](assets/new.png)  
 - [2022-10-03-万里归途-怎么网上没有看的呀](https://www.v2ex.com/t/884537) ![](assets/new.png)  
 - [2022-10-03-twitter-上关注账户到达上限了，大家是怎么弄可以继续关注的](https://www.v2ex.com/t/884536) ![](assets/new.png)  
-- [2022-10-03-windows-祖传的'3d-object's-'saved-games'等恶心快捷访问和文件夹本身有无成熟方便的消灭方案?](https://www.v2ex.com/t/884533) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -556,9 +556,13 @@
 - [2022-10-03-SOC-识别和检测威胁信息](https://toutiao.io/k/rjt9e0j) ![](assets/new.png)  
 - [2022-10-03-实战-Go：怎样快速实现一个极简任务调度系统](https://toutiao.io/k/3c56bkv) ![](assets/new.png)  
 - [2022-10-03-说说-Java-并发编程（一）](https://toutiao.io/k/qib5wyc) ![](assets/new.png)  
+- [2022-10-03-TCP拥塞控制详解-|-3.-设计空间](https://toutiao.io/k/whwhaf8) ![](assets/new.png)  
 - [2022-10-03-Java-19-中的模式匹配，记录类型的模式与-switch-模式匹配的改进](https://toutiao.io/k/vpl5rl3) ![](assets/new.png)  
 - [2022-10-03-快速在你的-vue/react-应用中实现-ssr-服务端渲染](https://toutiao.io/k/nuz8xsi) ![](assets/new.png)  
-- [2022-10-03-TCP拥塞控制详解-|-3.-设计空间](https://toutiao.io/k/whwhaf8) ![](assets/new.png)  
+- [2022-10-03-怎么让面试官喜欢你？](https://toutiao.io/k/0kimlvu) ![](assets/new.png)  
+- [2022-10-03-在-KubeGems-中启用-Nacos-配置中心](https://toutiao.io/k/s17j97q) ![](assets/new.png)  
+- [2022-10-03-掘地三尺搞定-Redis-与-MySQL-数据一致性问题](https://toutiao.io/k/qtv76pm) ![](assets/new.png)  
+- [2022-10-03-攻击面分析及应对实践](https://toutiao.io/k/s7n7r9x) ![](assets/new.png)  
 - [2022-10-03-推荐-性能优化必备——火焰图](https://toutiao.io/k/azf7ub6) ![](assets/new.png)  
 - [2022-10-03-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) ![](assets/new.png)  
 - [2022-10-03-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) ![](assets/new.png)  

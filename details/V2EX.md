@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2022-10-03 08:57:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-03 09:24:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-10-03-如何看待最近的-sg？](https://www.v2ex.com/t/884511) 
+- [2022-10-03-Google-搜索时发现居然有假的-GitHub，还是-gov.cn](https://www.v2ex.com/t/884510) 
 - [2022-10-03-wifi6-路由器选哪个-刚升级了电信千兆网](https://www.v2ex.com/t/884508) 
 - [2022-10-03-iPhone-‘文件’系统失灵有没有人遇到过？](https://www.v2ex.com/t/884507) 
 - [2022-10-03-空窗两个月，找了一个多月的工作，-offer-比较](https://www.v2ex.com/t/884506) 
@@ -41,6 +43,3 @@
 - [2022-10-03-讨论一下-iPhone-的游戏表现](https://www.v2ex.com/t/884465) 
 - [2022-10-03-想換-NAS-系統，兄弟們可否說說你們正在用的嗎](https://www.v2ex.com/t/884464) 
 - [2022-10-03-有没有方法在-mac-m1-mini-里，固定一台不带屏幕的-iPhone-，还能做到供电和平稳](https://www.v2ex.com/t/884463) 
-- [2022-10-03-Airpods-Pro-2，-bug-也太多了！](https://www.v2ex.com/t/884461) 
-- [2022-10-03-工行万事达无法为开发者账号续费？](https://www.v2ex.com/t/884460) 
-- [2022-10-03-求问：没有外区的信用卡，如何购买-DeepL-Pro-的-API-服务?](https://www.v2ex.com/t/884459) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-03 08:57:08。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-10-03 09:24:16。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,8 @@
 </summary>
 
 
+- [【V2EX】2022-10-03-如何看待最近的-sg？](https://www.v2ex.com/t/884511) 
+- [【V2EX】2022-10-03-Google-搜索时发现居然有假的-GitHub，还是-gov.cn](https://www.v2ex.com/t/884510) 
 - [【V2EX】2022-10-03-wifi6-路由器选哪个-刚升级了电信千兆网](https://www.v2ex.com/t/884508) 
 - [【V2EX】2022-10-03-iPhone-‘文件’系统失灵有没有人遇到过？](https://www.v2ex.com/t/884507) 
 - [【V2EX】2022-10-03-空窗两个月，找了一个多月的工作，-offer-比较](https://www.v2ex.com/t/884506) 
@@ -104,9 +106,6 @@
 - [【V2EX】2022-10-03-讨论一下-iPhone-的游戏表现](https://www.v2ex.com/t/884465) 
 - [【V2EX】2022-10-03-想換-NAS-系統，兄弟們可否說說你們正在用的嗎](https://www.v2ex.com/t/884464) 
 - [【V2EX】2022-10-03-有没有方法在-mac-m1-mini-里，固定一台不带屏幕的-iPhone-，还能做到供电和平稳](https://www.v2ex.com/t/884463) 
-- [【V2EX】2022-10-03-Airpods-Pro-2，-bug-也太多了！](https://www.v2ex.com/t/884461) 
-- [【V2EX】2022-10-03-工行万事达无法为开发者账号续费？](https://www.v2ex.com/t/884460) 
-- [【V2EX】2022-10-03-求问：没有外区的信用卡，如何购买-DeepL-Pro-的-API-服务?](https://www.v2ex.com/t/884459) 
 - [【技术头条】2022-10-03-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-03-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-03-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -144,10 +143,10 @@
 - [【开发者头条】2022-10-03-面试官:-美团外卖的分库分表怎么设计？](https://toutiao.io/k/5u4v9wc) 
 - [【开发者头条】2022-10-03-快速在你的vue/react应用中实现ssr服务端渲染](https://toutiao.io/k/nuz8xsi) 
 - [【开发者头条】2022-10-03-TCP拥塞控制详解-|-3.-设计空间](https://toutiao.io/k/whwhaf8) 
-- [【开发者头条】2022-10-03-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) 
 - [【开发者头条】2022-10-03-推荐-性能优化必备——火焰图](https://toutiao.io/k/azf7ub6) 
 - [【开发者头条】2022-10-03-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) 
 - [【开发者头条】2022-10-03-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) 
+- [【开发者头条】2022-10-03-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

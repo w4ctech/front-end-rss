@@ -9953,6 +9953,36 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "良品铺子坚果 VS 山姆坚果",
+        "link": "https://www.v2ex.com/t/884485",
+        "date": "2022-10-03"
+      },
+      {
+        "title": "支付寶香港可用的大陸信用卡有哪些？",
+        "link": "https://www.v2ex.com/t/884484",
+        "date": "2022-10-03"
+      },
+      {
+        "title": "openwrt 22.03 的 iptables 没有了 如何自定义规则？",
+        "link": "https://www.v2ex.com/t/884482",
+        "date": "2022-10-03"
+      },
+      {
+        "title": "李跳跳真实好友检测原理",
+        "link": "https://www.v2ex.com/t/884481",
+        "date": "2022-10-03"
+      },
+      {
+        "title": "加密 Pastebin / Usenet 網關 / NFO 閱讀器",
+        "link": "https://www.v2ex.com/t/884480",
+        "date": "2022-10-03"
+      },
+      {
+        "title": "[求助] 瞎子也要做游戏",
+        "link": "https://www.v2ex.com/t/884478",
+        "date": "2022-10-03"
+      },
+      {
         "title": "搬瓦工 gia 日本服务器 443 端口突然被封，墙又高了？",
         "link": "https://www.v2ex.com/t/884476",
         "date": "2022-10-03"
@@ -10101,46 +10131,6 @@
         "title": "作为大龄程序员，你如何持续的保持自己的竞争优势",
         "link": "https://www.v2ex.com/t/884436",
         "date": "2022-10-02"
-      },
-      {
-        "title": "iQDNS 2.0 - 永久公益公共加密 DNS 新特性 新解析逻辑 完美定位国内外 CDN IP 问题",
-        "link": "https://www.v2ex.com/t/884435",
-        "date": "2022-10-02"
-      },
-      {
-        "title": "vivo s9e 如何刷国际版的 rom 及降级",
-        "link": "https://www.v2ex.com/t/884434",
-        "date": "2022-10-02"
-      },
-      {
-        "title": "健康宝弹窗 3，核酸正常的",
-        "link": "https://www.v2ex.com/t/884433",
-        "date": "2022-10-02"
-      },
-      {
-        "title": "iPhone 14 PM 晚上出现自动重启",
-        "link": "https://www.v2ex.com/t/884432",
-        "date": "2022-10-02"
-      },
-      {
-        "title": "二手 iPhone 怎么验机",
-        "link": "https://www.v2ex.com/t/884431",
-        "date": "2022-10-02"
-      },
-      {
-        "title": "Mac 有没办法更改删除文件的快捷键",
-        "link": "https://www.v2ex.com/t/884430",
-        "date": "2022-10-02"
-      },
-      {
-        "title": "有垃圾分类和定时投放要求的大家，是怎么处理易腐垃圾的？",
-        "link": "https://www.v2ex.com/t/884429",
-        "date": "2022-10-02"
-      },
-      {
-        "title": "路由器隔了一堵墙导致信号不好，有什么懒人解决方案吗",
-        "link": "https://www.v2ex.com/t/884428",
-        "date": "2022-10-02"
       }
     ]
   },
@@ -10255,7 +10245,78 @@
     "rss": "https://front-rss.herokuapp.com/toutiao/today",
     "title": "开发者头条",
     "link": "https://toutiao.io",
-    "items": []
+    "items": [
+      {
+        "title": "P5~P9 应该具备的核心能力是什么",
+        "link": "https://toutiao.io/k/7ga7vcn",
+        "date": "2022-10-03"
+      },
+      {
+        "title": "IM 跨平台技术学习（三）：vivo 的 Electron 技术栈选型、全方位实践总结",
+        "link": "https://toutiao.io/k/uaa9ymi",
+        "date": "2022-10-03"
+      },
+      {
+        "title": "干货｜十分钟读懂字节跳动的 Doris 湖仓分析实践",
+        "link": "https://toutiao.io/k/ovsrlzz",
+        "date": "2022-10-03"
+      },
+      {
+        "title": "Rust 太难？那是你没看到这套 Rust 语言学习总结（上）",
+        "link": "https://toutiao.io/k/8w3ph2c",
+        "date": "2022-10-03"
+      },
+      {
+        "title": "日志记录的最佳实践",
+        "link": "https://toutiao.io/k/0w9hsc7",
+        "date": "2022-10-03"
+      },
+      {
+        "title": "记一次 Web 字体优化",
+        "link": "https://toutiao.io/k/uy40bbo",
+        "date": "2022-10-03"
+      },
+      {
+        "title": "Go 源码里的这些 //go: 指令，你知道吗？",
+        "link": "https://toutiao.io/k/1wa895y",
+        "date": "2022-10-03"
+      },
+      {
+        "title": "专注于性能的 SolidJS",
+        "link": "https://toutiao.io/k/evt2bgp",
+        "date": "2022-10-03"
+      },
+      {
+        "title": "SOC 识别和检测威胁信息",
+        "link": "https://toutiao.io/k/rjt9e0j",
+        "date": "2022-10-03"
+      },
+      {
+        "title": "进击中的卡牌！如何靠营销实现长线运营？",
+        "link": "https://toutiao.io/k/v7mjbf1",
+        "date": "2022-10-03"
+      },
+      {
+        "title": "[推荐] Netty、Kafka中的零拷贝技术到底有多牛?",
+        "link": "https://toutiao.io/k/ussdz4q",
+        "date": "2022-10-03"
+      },
+      {
+        "title": "[推荐] 性能优化必备——火焰图",
+        "link": "https://toutiao.io/k/azf7ub6",
+        "date": "2022-10-03"
+      },
+      {
+        "title": "[推荐] 聊聊 8种 架构模式",
+        "link": "https://toutiao.io/k/luf0yh6",
+        "date": "2022-10-03"
+      },
+      {
+        "title": "[推荐] 分享16个我总结的思维模型（程序员必读，受用终身）",
+        "link": "https://toutiao.io/k/f7r13v5",
+        "date": "2022-10-03"
+      }
+    ]
   },
   {
     "rss": "https://sec.thief.one/atom.xml",

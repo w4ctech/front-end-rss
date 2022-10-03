@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-03 19:19:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-03 19:43:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1914,6 +1914,7 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-10-03-自建公网-Tracker-无速度](https://www.v2ex.com/t/884556) 
 - [2022-10-03-不小心开了全局代理，代理-ip+443-端口在全国和谐](https://www.v2ex.com/t/884554) 
 - [2022-10-03-是否有低价的电信流量月包？](https://www.v2ex.com/t/884553) 
 - [2022-10-03-cmd-控制台显示输出日志过滤](https://www.v2ex.com/t/884551) 
@@ -1944,7 +1945,6 @@
 - [2022-10-03-55-出京东-PLUS-年卡（无开卡权益）](https://www.v2ex.com/t/884514) 
 - [2022-10-03-如何看待最近的-sg？](https://www.v2ex.com/t/884511) 
 - [2022-10-03-iPhone-‘文件’系统失灵有没有人遇到过？](https://www.v2ex.com/t/884507) 
-- [2022-10-03-空窗两个月，找了一个多月的工作，-offer-比较](https://www.v2ex.com/t/884506) 
 - [2022-10-03-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-03-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-03-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

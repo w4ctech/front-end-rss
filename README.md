@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-03 11:15:40，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-03 11:43:37，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-10-03-打电话给爷爷，聊天的时候说想见我找个女朋友了，哎](https://www.v2ex.com/t/884525) ![](assets/new.png)  
+- [2022-10-03-海外求职怎么联系猎头](https://www.v2ex.com/t/884523) ![](assets/new.png)  
+- [2022-10-03-1，变声器处理后的声音能否被还原？-2，-哪个思维导图的文件，其文本层能被检索软件索引的？-3，求补充罗列数据孤岛的类型：-公众号文章，-B-站动态，知乎评论...](https://www.v2ex.com/t/884522) ![](assets/new.png)  
 - [2022-10-03-如何进行推流中转？](https://www.v2ex.com/t/884521) ![](assets/new.png)  
 - [2022-10-03-安徽省刀锋网络科技有限公司怎么投诉退款](https://www.v2ex.com/t/884518) ![](assets/new.png)  
 - [2022-10-03-Ios-还原网络设置后，只有微信没有网络，该怎么办](https://www.v2ex.com/t/884517) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-10-03-h5.app-花重金买了这个域名，不知道交学费没](https://www.v2ex.com/t/884501) ![](assets/new.png)  
 - [2022-10-03-关于雅思的一个迷思](https://www.v2ex.com/t/884500) ![](assets/new.png)  
 - [2022-10-03-网易云会员自领](https://www.v2ex.com/t/884499) ![](assets/new.png)  
-- [2022-10-03-如何才能让-esxi-下的-windows-虚拟机显示正常呢？](https://www.v2ex.com/t/884498) ![](assets/new.png)  
-- [2022-10-03-谷歌发布-Lyra-V2-超低比特率语音编解码器，可在-56kbps-网速下语音聊天](https://www.v2ex.com/t/884497) ![](assets/new.png)  
-- [2022-10-03-国外付款方式](https://www.v2ex.com/t/884496) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -568,11 +568,11 @@
 - [2022-10-03-面试官:-美团外卖的分库分表怎么设计？](https://toutiao.io/k/5u4v9wc) ![](assets/new.png)  
 - [2022-10-03-Java-19-中的模式匹配，记录类型的模式与-switch-模式匹配的改进_哔哩哔哩_bilibili](https://toutiao.io/k/vpl5rl3) ![](assets/new.png)  
 - [2022-10-03-说说Java并发编程一](https://toutiao.io/k/qib5wyc) ![](assets/new.png)  
-- [2022-10-03-快速在你的vue/react应用中实现ssr服务端渲染](https://toutiao.io/k/nuz8xsi) ![](assets/new.png)  
 - [2022-10-03-TCP拥塞控制详解-|-3.-设计空间](https://toutiao.io/k/whwhaf8) ![](assets/new.png)  
-- [2022-10-03-推荐-Netty、Kafka中的零拷贝技术到底有多牛?](https://toutiao.io/k/ussdz4q) ![](assets/new.png)  
+- [2022-10-03-快速在你的vue/react应用中实现ssr服务端渲染](https://toutiao.io/k/nuz8xsi) ![](assets/new.png)  
 - [2022-10-03-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) ![](assets/new.png)  
 - [2022-10-03-推荐-性能优化必备——火焰图](https://toutiao.io/k/azf7ub6) ![](assets/new.png)  
+- [2022-10-03-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -9953,6 +9953,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "if(aa || bb && cc)中的 boolean 表达式，假如要删除 aa 或 bb 或 cc 你们怎么操作",
+        "link": "https://www.v2ex.com/t/884675",
+        "date": "2022-10-04"
+      },
+      {
         "title": "有没有比较好的 macOS 开发的系列教程啊？求求求～",
         "link": "https://www.v2ex.com/t/884673",
         "date": "2022-10-04"
@@ -10131,11 +10136,6 @@
         "title": "为什么 tampermonkey 能够进行跨域请求并且带上 cookie",
         "link": "https://www.v2ex.com/t/884626",
         "date": "2022-10-04"
-      },
-      {
-        "title": "有什么便宜的国外云服务商",
-        "link": "https://www.v2ex.com/t/884625",
-        "date": "2022-10-04"
       }
     ]
   },
@@ -10297,13 +10297,13 @@
         "date": "2022-10-04"
       },
       {
-        "title": "[推荐] 分享16个我总结的思维模型（程序员必读，受用终身）",
-        "link": "https://toutiao.io/k/f7r13v5",
+        "title": "[推荐] 性能优化必备——火焰图",
+        "link": "https://toutiao.io/k/azf7ub6",
         "date": "2022-10-04"
       },
       {
-        "title": "[推荐] 性能优化必备——火焰图",
-        "link": "https://toutiao.io/k/azf7ub6",
+        "title": "[推荐] 分享16个我总结的思维模型（程序员必读，受用终身）",
+        "link": "https://toutiao.io/k/f7r13v5",
         "date": "2022-10-04"
       }
     ]

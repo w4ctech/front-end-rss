@@ -9953,6 +9953,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "有没有什么办法能搞到推特开发者账号？",
+        "link": "https://www.v2ex.com/t/884630",
+        "date": "2022-10-04"
+      },
+      {
+        "title": "为什么 tampermonkey 能够进行跨域请求并且带上 cookie",
+        "link": "https://www.v2ex.com/t/884626",
+        "date": "2022-10-04"
+      },
+      {
         "title": "有什么便宜的国外云服务商",
         "link": "https://www.v2ex.com/t/884625",
         "date": "2022-10-04"
@@ -10131,31 +10141,6 @@
         "title": "快捷指令为什么没有锁屏启动小组件？",
         "link": "https://www.v2ex.com/t/884581",
         "date": "2022-10-04"
-      },
-      {
-        "title": "V 友要的取快递 App 有人做出来啦！",
-        "link": "https://www.v2ex.com/t/884580",
-        "date": "2022-10-04"
-      },
-      {
-        "title": "手贱把 win11 的一个 90M 的硬盘分区删了。不能开机了。还有救吗。",
-        "link": "https://www.v2ex.com/t/884579",
-        "date": "2022-10-04"
-      },
-      {
-        "title": "App Store 申请退款失败怎么办",
-        "link": "https://www.v2ex.com/t/884578",
-        "date": "2022-10-04"
-      },
-      {
-        "title": "VMware 黑群上使用物理磁盘后 TRIM 还是由主机提供的吗",
-        "link": "https://www.v2ex.com/t/884577",
-        "date": "2022-10-04"
-      },
-      {
-        "title": "[求助] git 问题咨询",
-        "link": "https://www.v2ex.com/t/884576",
-        "date": "2022-10-04"
       }
     ]
   },
@@ -10282,13 +10267,13 @@
         "date": "2022-10-04"
       },
       {
-        "title": "TCP拥塞控制详解 | 3. 设计空间",
-        "link": "https://toutiao.io/k/whwhaf8",
+        "title": "掘地三尺搞定 Redis 与 MySQL 数据一致性问题",
+        "link": "https://toutiao.io/k/qtv76pm",
         "date": "2022-10-04"
       },
       {
-        "title": "掘地三尺搞定 Redis 与 MySQL 数据一致性问题",
-        "link": "https://toutiao.io/k/qtv76pm",
+        "title": "TCP拥塞控制详解 | 3. 设计空间",
+        "link": "https://toutiao.io/k/whwhaf8",
         "date": "2022-10-04"
       },
       {
@@ -10322,13 +10307,13 @@
         "date": "2022-10-04"
       },
       {
-        "title": "[推荐] 聊聊 8种 架构模式",
-        "link": "https://toutiao.io/k/luf0yh6",
+        "title": "[推荐] 性能优化必备——火焰图",
+        "link": "https://toutiao.io/k/azf7ub6",
         "date": "2022-10-04"
       },
       {
-        "title": "[推荐] 性能优化必备——火焰图",
-        "link": "https://toutiao.io/k/azf7ub6",
+        "title": "[推荐] 聊聊 8种 架构模式",
+        "link": "https://toutiao.io/k/luf0yh6",
         "date": "2022-10-04"
       },
       {

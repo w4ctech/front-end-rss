@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-04 11:15:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-04 11:43:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -16,4 +16,3 @@
 - [2022-10-04-求助：-Edge-浏览器如何修改显示语言为英文？](https://www.v2ex.com/t/884637) 
 - [2022-10-04-Google-翻译退出中国后如何正常使用其-Chrome-插件](https://www.v2ex.com/t/884631) 
 - [2022-10-04-为什么-tampermonkey-能够进行跨域请求并且带上-cookie](https://www.v2ex.com/t/884626) 
-- [2022-10-04-不建议更新-edge-最新-106-版本](https://www.v2ex.com/t/884592) 

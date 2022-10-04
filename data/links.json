@@ -9953,6 +9953,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "苹果电脑，不插电睡眠后唤醒会进入黑屏状态",
+        "link": "https://www.v2ex.com/t/884677",
+        "date": "2022-10-04"
+      },
+      {
         "title": "if(aa || bb && cc)中的 boolean 表达式，假如要删除 aa 或 bb 或 cc 你们怎么操作",
         "link": "https://www.v2ex.com/t/884675",
         "date": "2022-10-04"
@@ -10130,11 +10135,6 @@
       {
         "title": "有没有什么办法能搞到推特开发者账号？",
         "link": "https://www.v2ex.com/t/884630",
-        "date": "2022-10-04"
-      },
-      {
-        "title": "为什么 tampermonkey 能够进行跨域请求并且带上 cookie",
-        "link": "https://www.v2ex.com/t/884626",
         "date": "2022-10-04"
       }
     ]

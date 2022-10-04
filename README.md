@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-04 20:18:42，:rocket: 更新条数: +2014， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-04 20:50:06，:rocket: 更新条数: +2014， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-10-04-苹果电脑，不插电睡眠后唤醒会进入黑屏状态](https://www.v2ex.com/t/884677) ![](assets/new.png)  
 - [2022-10-04-ifaa-||-bb-&&-cc中的-boolean-表达式，假如要删除-aa-或-bb-或-cc-你们怎么操作](https://www.v2ex.com/t/884675) ![](assets/new.png)  
 - [2022-10-04-有没有比较好的-macOS-开发的系列教程啊？求求求～](https://www.v2ex.com/t/884673) ![](assets/new.png)  
 - [2022-10-04-redis-事务，当-multi-发送给服务器之后，服务器能在-multi-和-exec-之间这段时间内执行来自别的客户端的命令吗？](https://www.v2ex.com/t/884672) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-10-04-最近十分反感一位女程序员同事](https://www.v2ex.com/t/884656) ![](assets/new.png)  
 - [2022-10-04-有没有其他更适合我这种法律问题的论坛求分享一下](https://www.v2ex.com/t/884655) ![](assets/new.png)  
 - [2022-10-04-买了一个域名，干点什么好呢？](https://www.v2ex.com/t/884654) ![](assets/new.png)  
-- [2022-10-04-抖音开放-Google-搜索爬虫抓取了？](https://www.v2ex.com/t/884652) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

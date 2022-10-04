@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-04 03:23:31，:rocket: 更新条数: +2023， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-04 04:41:03，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,15 @@
 </summary>
 
 
+- [2022-10-04-美区-app-store-全面支持中文了](https://www.v2ex.com/t/884604) ![](assets/new.png)  
+- [2022-10-04-MacBook-Pro-Retina-越看越觉得老设计更有内涵和耐看](https://www.v2ex.com/t/884602) ![](assets/new.png)  
+- [2022-10-04-iPhone-14-Pro-Max-充电自动关机?害人啊](https://www.v2ex.com/t/884601) ![](assets/new.png)  
+- [2022-10-04-有南大在校的吗？镜像站怎么了](https://www.v2ex.com/t/884600) ![](assets/new.png)  
+- [2022-10-04-请问现在远程控制-GUI-桌面的方案还是-VNC-吗?](https://www.v2ex.com/t/884597) ![](assets/new.png)  
+- [2022-10-04-我真的好爱杭州这城市-到处在修路](https://www.v2ex.com/t/884596) ![](assets/new.png)  
+- [2022-10-04-求助：服务器命令无输出](https://www.v2ex.com/t/884595) ![](assets/new.png)  
+- [2022-10-04-GPU-服务器那么贵吗.腾讯那-15-天-30-块-8H*32G*5M](https://www.v2ex.com/t/884594) ![](assets/new.png)  
+- [2022-10-04-不建议更新-edge-最新-106-版本](https://www.v2ex.com/t/884592) ![](assets/new.png)  
 - [2022-10-04-nodejs-里多个定时任务里用到相同的变量,-会不会有线程安全的问题?](https://www.v2ex.com/t/884591) ![](assets/new.png)  
 - [2022-10-04-ipv4-v6-双栈模式下，能否得到-v4-公网地址是否与模式有关？](https://www.v2ex.com/t/884590) ![](assets/new.png)  
 - [2022-10-04-求救，-mac-的程序坞部分应用的图标变成透明，怎么都显示不出来](https://www.v2ex.com/t/884589) ![](assets/new.png)  
@@ -502,15 +511,6 @@
 - [2022-10-04-快捷指令为什么没有锁屏启动小组件？](https://www.v2ex.com/t/884581) ![](assets/new.png)  
 - [2022-10-04-V-友要的取快递-App-有人做出来啦！](https://www.v2ex.com/t/884580) ![](assets/new.png)  
 - [2022-10-04-手贱把-win11-的一个-90M-的硬盘分区删了。不能开机了。还有救吗。](https://www.v2ex.com/t/884579) ![](assets/new.png)  
-- [2022-10-04-App-Store-申请退款失败怎么办](https://www.v2ex.com/t/884578) ![](assets/new.png)  
-- [2022-10-04-VMware-黑群上使用物理磁盘后-TRIM-还是由主机提供的吗](https://www.v2ex.com/t/884577) ![](assets/new.png)  
-- [2022-10-04-求助-git-问题咨询](https://www.v2ex.com/t/884576) ![](assets/new.png)  
-- [2022-10-04-esim-的一些隐藏成本](https://www.v2ex.com/t/884574) ![](assets/new.png)  
-- [2022-10-04-请有美国信用卡的朋友帮忙，支付-29-美元的-AirPods-ac+](https://www.v2ex.com/t/884573) ![](assets/new.png)  
-- [2022-10-04-Java-小白提问，这段代码是标准-RSA-加密吗](https://www.v2ex.com/t/884572) ![](assets/new.png)  
-- [2022-10-04-求教-clashx-增强模式的正确姿势](https://www.v2ex.com/t/884571) ![](assets/new.png)  
-- [2022-10-04-cr6608-CR8808-AX6-AX6S-Ax6000-Ax9000-还有其他乱七八糟的-到底怎么选](https://www.v2ex.com/t/884570) ![](assets/new.png)  
-- [2022-10-04-新买的笔记本，有滋滋电流声算质量问题吗？](https://www.v2ex.com/t/884569) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,9 +563,9 @@
 - [2022-10-04-怎么让面试官喜欢你？](https://toutiao.io/k/0kimlvu) ![](assets/new.png)  
 - [2022-10-04-在-KubeGems-中启用-Nacos-配置中心](https://toutiao.io/k/s17j97q) ![](assets/new.png)  
 - [2022-10-04-攻击面分析及应对实践](https://toutiao.io/k/s7n7r9x) ![](assets/new.png)  
-- [2022-10-04-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) ![](assets/new.png)  
-- [2022-10-04-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) ![](assets/new.png)  
 - [2022-10-04-推荐-性能优化必备——火焰图](https://toutiao.io/k/azf7ub6) ![](assets/new.png)  
+- [2022-10-04-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) ![](assets/new.png)  
+- [2022-10-04-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

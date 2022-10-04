@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-04 03:23:31。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-10-04 04:41:03。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,15 @@
 </summary>
 
 
+- [【V2EX】2022-10-04-美区-app-store-全面支持中文了](https://www.v2ex.com/t/884604) 
+- [【V2EX】2022-10-04-MacBook-Pro-Retina-越看越觉得老设计更有内涵和耐看](https://www.v2ex.com/t/884602) 
+- [【V2EX】2022-10-04-iPhone-14-Pro-Max-充电自动关机?害人啊](https://www.v2ex.com/t/884601) 
+- [【V2EX】2022-10-04-有南大在校的吗？镜像站怎么了](https://www.v2ex.com/t/884600) 
+- [【V2EX】2022-10-04-请问现在远程控制-GUI-桌面的方案还是-VNC-吗?](https://www.v2ex.com/t/884597) 
+- [【V2EX】2022-10-04-我真的好爱杭州这城市-到处在修路](https://www.v2ex.com/t/884596) 
+- [【V2EX】2022-10-04-求助：服务器命令无输出](https://www.v2ex.com/t/884595) 
+- [【V2EX】2022-10-04-GPU-服务器那么贵吗.腾讯那-15-天-30-块-8H*32G*5M](https://www.v2ex.com/t/884594) 
+- [【V2EX】2022-10-04-不建议更新-edge-最新-106-版本](https://www.v2ex.com/t/884592) 
 - [【V2EX】2022-10-04-nodejs-里多个定时任务里用到相同的变量,-会不会有线程安全的问题?](https://www.v2ex.com/t/884591) 
 - [【V2EX】2022-10-04-ipv4-v6-双栈模式下，能否得到-v4-公网地址是否与模式有关？](https://www.v2ex.com/t/884590) 
 - [【V2EX】2022-10-04-求救，-mac-的程序坞部分应用的图标变成透明，怎么都显示不出来](https://www.v2ex.com/t/884589) 
@@ -101,17 +110,6 @@
 - [【V2EX】2022-10-03-本月会有-M2-本版的-iPad-Pro-发布嘛？](https://www.v2ex.com/t/884558) 
 - [【V2EX】2022-10-03-Apple-id-被锁定，无法登录。求问如何科学转移资料及后续账号使用，](https://www.v2ex.com/t/884557) 
 - [【V2EX】2022-10-03-自建公网-Tracker-无速度](https://www.v2ex.com/t/884556) 
-- [【V2EX】2022-10-03-是否有低价的电信流量月包？](https://www.v2ex.com/t/884553) 
-- [【V2EX】2022-10-03-cmd-控制台显示输出日志过滤](https://www.v2ex.com/t/884551) 
-- [【V2EX】2022-10-03-给朋友回什么礼物比较合适？](https://www.v2ex.com/t/884550) 
-- [【V2EX】2022-10-03-Zig-中文月刊----202209](https://www.v2ex.com/t/884549) 
-- [【V2EX】2022-10-03-为什么域前置可以访问用-cloudflare-做-cdn-的-v2ex](https://www.v2ex.com/t/884548) 
-- [【V2EX】2022-10-03-win11-史诗级更新，右键任务栏打开任务管理器功能回归！](https://www.v2ex.com/t/884547) 
-- [【V2EX】2022-10-03-想看看大家-MBP14-的电池健康状态](https://www.v2ex.com/t/884546) 
-- [【V2EX】2022-10-03-用无刻键盘的话，能相对比较熟练的定位特殊符号吗？](https://www.v2ex.com/t/884545) 
-- [【V2EX】2022-10-03-微软邮箱被人频繁尝试登陆几年从不间断](https://www.v2ex.com/t/884544) 
-- [【V2EX】2022-10-03-深夜寻一款快捷键截图做成笔记的软件，类似于方面有道云的''剪影''](https://www.v2ex.com/t/884543) 
-- [【V2EX】2022-10-03-耳机最低音量还是觉得高,-请教降低音量的方法](https://www.v2ex.com/t/884542) 
 - [【技术头条】2022-10-04-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-04-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-04-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -142,9 +140,9 @@
 - [【开发者头条】2022-10-04-怎么让面试官喜欢你？](https://toutiao.io/k/0kimlvu) 
 - [【开发者头条】2022-10-04-在-KubeGems-中启用-Nacos-配置中心](https://toutiao.io/k/s17j97q) 
 - [【开发者头条】2022-10-04-攻击面分析及应对实践](https://toutiao.io/k/s7n7r9x) 
-- [【开发者头条】2022-10-04-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) 
-- [【开发者头条】2022-10-04-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) 
 - [【开发者头条】2022-10-04-推荐-性能优化必备——火焰图](https://toutiao.io/k/azf7ub6) 
+- [【开发者头条】2022-10-04-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) 
+- [【开发者头条】2022-10-04-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

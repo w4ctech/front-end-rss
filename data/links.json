@@ -9953,6 +9953,51 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "美区 app store 全面支持中文了",
+        "link": "https://www.v2ex.com/t/884604",
+        "date": "2022-10-04"
+      },
+      {
+        "title": "MacBook Pro Retina 越看越觉得老设计更有内涵和耐看",
+        "link": "https://www.v2ex.com/t/884602",
+        "date": "2022-10-04"
+      },
+      {
+        "title": "iPhone 14 Pro Max 充电自动关机?害人啊",
+        "link": "https://www.v2ex.com/t/884601",
+        "date": "2022-10-04"
+      },
+      {
+        "title": "有南大在校的吗？镜像站怎么了",
+        "link": "https://www.v2ex.com/t/884600",
+        "date": "2022-10-04"
+      },
+      {
+        "title": "请问现在远程控制 GUI 桌面的方案还是 VNC 吗?",
+        "link": "https://www.v2ex.com/t/884597",
+        "date": "2022-10-04"
+      },
+      {
+        "title": "我真的好爱杭州这城市 到处在修路",
+        "link": "https://www.v2ex.com/t/884596",
+        "date": "2022-10-04"
+      },
+      {
+        "title": "求助：服务器命令无输出",
+        "link": "https://www.v2ex.com/t/884595",
+        "date": "2022-10-04"
+      },
+      {
+        "title": "GPU 服务器那么贵吗.腾讯那 15 天 30 块 8H*32G*5M",
+        "link": "https://www.v2ex.com/t/884594",
+        "date": "2022-10-04"
+      },
+      {
+        "title": "不建议更新 edge 最新 106 版本",
+        "link": "https://www.v2ex.com/t/884592",
+        "date": "2022-10-04"
+      },
+      {
         "title": "nodejs 里多个定时任务里用到相同的变量, 会不会有线程安全的问题?",
         "link": "https://www.v2ex.com/t/884591",
         "date": "2022-10-04"
@@ -10115,61 +10160,6 @@
       {
         "title": "自建公网 Tracker 无速度",
         "link": "https://www.v2ex.com/t/884556",
-        "date": "2022-10-03"
-      },
-      {
-        "title": "是否有低价的电信流量月包？",
-        "link": "https://www.v2ex.com/t/884553",
-        "date": "2022-10-03"
-      },
-      {
-        "title": "cmd 控制台显示输出日志过滤",
-        "link": "https://www.v2ex.com/t/884551",
-        "date": "2022-10-03"
-      },
-      {
-        "title": "给朋友回什么礼物比较合适？",
-        "link": "https://www.v2ex.com/t/884550",
-        "date": "2022-10-03"
-      },
-      {
-        "title": "Zig 中文月刊 -- 202209",
-        "link": "https://www.v2ex.com/t/884549",
-        "date": "2022-10-03"
-      },
-      {
-        "title": "为什么域前置可以访问用 cloudflare 做 cdn 的 v2ex",
-        "link": "https://www.v2ex.com/t/884548",
-        "date": "2022-10-03"
-      },
-      {
-        "title": "win11 史诗级更新，右键任务栏打开任务管理器功能回归！",
-        "link": "https://www.v2ex.com/t/884547",
-        "date": "2022-10-03"
-      },
-      {
-        "title": "想看看大家 MBP14 的电池健康状态",
-        "link": "https://www.v2ex.com/t/884546",
-        "date": "2022-10-03"
-      },
-      {
-        "title": "用无刻键盘的话，能相对比较熟练的定位特殊符号吗？",
-        "link": "https://www.v2ex.com/t/884545",
-        "date": "2022-10-03"
-      },
-      {
-        "title": "微软邮箱被人频繁尝试登陆几年从不间断",
-        "link": "https://www.v2ex.com/t/884544",
-        "date": "2022-10-03"
-      },
-      {
-        "title": "深夜寻一款快捷键截图做成笔记的软件，类似于方面有道云的''剪影''",
-        "link": "https://www.v2ex.com/t/884543",
-        "date": "2022-10-03"
-      },
-      {
-        "title": "耳机最低音量还是觉得高, 请教降低音量的方法",
-        "link": "https://www.v2ex.com/t/884542",
         "date": "2022-10-03"
       }
     ]
@@ -10337,8 +10327,8 @@
         "date": "2022-10-04"
       },
       {
-        "title": "[推荐] 分享16个我总结的思维模型（程序员必读，受用终身）",
-        "link": "https://toutiao.io/k/f7r13v5",
+        "title": "[推荐] 性能优化必备——火焰图",
+        "link": "https://toutiao.io/k/azf7ub6",
         "date": "2022-10-04"
       },
       {
@@ -10347,8 +10337,8 @@
         "date": "2022-10-04"
       },
       {
-        "title": "[推荐] 性能优化必备——火焰图",
-        "link": "https://toutiao.io/k/azf7ub6",
+        "title": "[推荐] 分享16个我总结的思维模型（程序员必读，受用终身）",
+        "link": "https://toutiao.io/k/f7r13v5",
         "date": "2022-10-04"
       }
     ]

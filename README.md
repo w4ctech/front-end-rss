@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-04 09:21:26，:rocket: 更新条数: +2015， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-04 09:50:03，:rocket: 更新条数: +2016， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-10-04-最近比较倒霉，驾考](https://www.v2ex.com/t/884638) ![](assets/new.png)  
+- [2022-10-04-求助：-Edge-浏览器如何修改显示语言为英文？](https://www.v2ex.com/t/884637) ![](assets/new.png)  
+- [2022-10-04-我的-GitHub-私有仓库，怎么出现了个-PR?](https://www.v2ex.com/t/884636) ![](assets/new.png)  
 - [2022-10-04-io_uring-的一点疑问](https://www.v2ex.com/t/884633) ![](assets/new.png)  
 - [2022-10-04-Google-翻译退出中国后如何正常使用其-Chrome-插件](https://www.v2ex.com/t/884631) ![](assets/new.png)  
 - [2022-10-04-有没有什么办法能搞到推特开发者账号？](https://www.v2ex.com/t/884630) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-10-04-老款-2010macmini-跑了-surge，还能干啥](https://www.v2ex.com/t/884615) ![](assets/new.png)  
 - [2022-10-04-想透明上油管谷歌，看港台欧美电视，需要买啥？](https://www.v2ex.com/t/884614) ![](assets/new.png)  
 - [2022-10-04-家宽-docker-使用-IPv6-新思路](https://www.v2ex.com/t/884613) ![](assets/new.png)  
-- [2022-10-04-M1-MACmini-空间不够了，大家是怎么解决的](https://www.v2ex.com/t/884612) ![](assets/new.png)  
-- [2022-10-04-大佬们有没有对讲机很了解的，目前有插卡的和不插卡的-该怎么选](https://www.v2ex.com/t/884611) ![](assets/new.png)  
-- [2022-10-04-针对-Typecho-的自动打广告脚本？](https://www.v2ex.com/t/884607) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -554,8 +554,8 @@
 
 
 - [2022-10-04-实战-Go：怎样快速实现一个极简任务调度系统](https://toutiao.io/k/3c56bkv) ![](assets/new.png)  
-- [2022-10-04-SOC-识别和检测威胁信息](https://toutiao.io/k/rjt9e0j) ![](assets/new.png)  
 - [2022-10-04-掘地三尺搞定-Redis-与-MySQL-数据一致性问题](https://toutiao.io/k/qtv76pm) ![](assets/new.png)  
+- [2022-10-04-SOC-识别和检测威胁信息](https://toutiao.io/k/rjt9e0j) ![](assets/new.png)  
 - [2022-10-04-TCP拥塞控制详解-|-3.-设计空间](https://toutiao.io/k/whwhaf8) ![](assets/new.png)  
 - [2022-10-04-说说-Java-并发编程（一）](https://toutiao.io/k/qib5wyc) ![](assets/new.png)  
 - [2022-10-04-Java-19-中的模式匹配，记录类型的模式与-switch-模式匹配的改进](https://toutiao.io/k/vpl5rl3) ![](assets/new.png)  
@@ -563,9 +563,9 @@
 - [2022-10-04-怎么让面试官喜欢你？](https://toutiao.io/k/0kimlvu) ![](assets/new.png)  
 - [2022-10-04-在-KubeGems-中启用-Nacos-配置中心](https://toutiao.io/k/s17j97q) ![](assets/new.png)  
 - [2022-10-04-攻击面分析及应对实践](https://toutiao.io/k/s7n7r9x) ![](assets/new.png)  
+- [2022-10-04-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) ![](assets/new.png)  
 - [2022-10-04-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) ![](assets/new.png)  
 - [2022-10-04-推荐-性能优化必备——火焰图](https://toutiao.io/k/azf7ub6) ![](assets/new.png)  
-- [2022-10-04-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

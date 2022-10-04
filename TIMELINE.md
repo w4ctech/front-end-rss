@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-04 09:21:26。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-10-04 09:50:04。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,9 @@
 </summary>
 
 
+- [【V2EX】2022-10-04-最近比较倒霉，驾考](https://www.v2ex.com/t/884638) 
+- [【V2EX】2022-10-04-求助：-Edge-浏览器如何修改显示语言为英文？](https://www.v2ex.com/t/884637) 
+- [【V2EX】2022-10-04-我的-GitHub-私有仓库，怎么出现了个-PR?](https://www.v2ex.com/t/884636) 
 - [【V2EX】2022-10-04-io_uring-的一点疑问](https://www.v2ex.com/t/884633) 
 - [【V2EX】2022-10-04-Google-翻译退出中国后如何正常使用其-Chrome-插件](https://www.v2ex.com/t/884631) 
 - [【V2EX】2022-10-04-有没有什么办法能搞到推特开发者账号？](https://www.v2ex.com/t/884630) 
@@ -102,8 +105,6 @@
 - [【V2EX】2022-10-04-nodejs-里多个定时任务里用到相同的变量,-会不会有线程安全的问题?](https://www.v2ex.com/t/884591) 
 - [【V2EX】2022-10-04-ipv4-v6-双栈模式下，能否得到-v4-公网地址是否与模式有关？](https://www.v2ex.com/t/884590) 
 - [【V2EX】2022-10-04-求救，-mac-的程序坞部分应用的图标变成透明，怎么都显示不出来](https://www.v2ex.com/t/884589) 
-- [【V2EX】2022-10-04-普通消费者应该如何投诉-京东-？](https://www.v2ex.com/t/884587) 
-- [【V2EX】2022-10-04-telegram-pc-端-有可以自动翻译外文的插件吗](https://www.v2ex.com/t/884586) 
 - [【技术头条】2022-10-04-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-04-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-04-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -125,8 +126,8 @@
 - [【技术头条】2022-10-04-10-大可以摧毁你的-Linux-的命令-linux.cn](https://blogread.cn/news/go.php?idItem=15385&url=https%3A%2F%2Flinux.cn%2Farticle-15022-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-04-如何在笔记本电脑合盖时不挂起-Ubuntu-linux.cn](https://blogread.cn/news/go.php?idItem=15384&url=https%3A%2F%2Flinux.cn%2Farticle-15015-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【开发者头条】2022-10-04-实战-Go：怎样快速实现一个极简任务调度系统](https://toutiao.io/k/3c56bkv) 
-- [【开发者头条】2022-10-04-SOC-识别和检测威胁信息](https://toutiao.io/k/rjt9e0j) 
 - [【开发者头条】2022-10-04-掘地三尺搞定-Redis-与-MySQL-数据一致性问题](https://toutiao.io/k/qtv76pm) 
+- [【开发者头条】2022-10-04-SOC-识别和检测威胁信息](https://toutiao.io/k/rjt9e0j) 
 - [【开发者头条】2022-10-04-TCP拥塞控制详解-|-3.-设计空间](https://toutiao.io/k/whwhaf8) 
 - [【开发者头条】2022-10-04-说说-Java-并发编程（一）](https://toutiao.io/k/qib5wyc) 
 - [【开发者头条】2022-10-04-Java-19-中的模式匹配，记录类型的模式与-switch-模式匹配的改进](https://toutiao.io/k/vpl5rl3) 
@@ -134,9 +135,9 @@
 - [【开发者头条】2022-10-04-怎么让面试官喜欢你？](https://toutiao.io/k/0kimlvu) 
 - [【开发者头条】2022-10-04-在-KubeGems-中启用-Nacos-配置中心](https://toutiao.io/k/s17j97q) 
 - [【开发者头条】2022-10-04-攻击面分析及应对实践](https://toutiao.io/k/s7n7r9x) 
+- [【开发者头条】2022-10-04-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) 
 - [【开发者头条】2022-10-04-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) 
 - [【开发者头条】2022-10-04-推荐-性能优化必备——火焰图](https://toutiao.io/k/azf7ub6) 
-- [【开发者头条】2022-10-04-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

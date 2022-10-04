@@ -9953,6 +9953,21 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "最近比较倒霉，驾考",
+        "link": "https://www.v2ex.com/t/884638",
+        "date": "2022-10-04"
+      },
+      {
+        "title": "求助： Edge 浏览器如何修改显示语言为英文？",
+        "link": "https://www.v2ex.com/t/884637",
+        "date": "2022-10-04"
+      },
+      {
+        "title": "我的 GitHub 私有仓库，怎么出现了个 PR?",
+        "link": "https://www.v2ex.com/t/884636",
+        "date": "2022-10-04"
+      },
+      {
         "title": "io_uring 的一点疑问",
         "link": "https://www.v2ex.com/t/884633",
         "date": "2022-10-04"
@@ -10121,16 +10136,6 @@
         "title": "求救， mac 的程序坞部分应用的图标变成透明，怎么都显示不出来",
         "link": "https://www.v2ex.com/t/884589",
         "date": "2022-10-04"
-      },
-      {
-        "title": "普通消费者应该如何投诉 [京东] ？",
-        "link": "https://www.v2ex.com/t/884587",
-        "date": "2022-10-04"
-      },
-      {
-        "title": "telegram pc 端 有可以自动翻译外文的插件吗",
-        "link": "https://www.v2ex.com/t/884586",
-        "date": "2022-10-04"
       }
     ]
   },
@@ -10252,13 +10257,13 @@
         "date": "2022-10-04"
       },
       {
-        "title": "SOC 识别和检测威胁信息",
-        "link": "https://toutiao.io/k/rjt9e0j",
+        "title": "掘地三尺搞定 Redis 与 MySQL 数据一致性问题",
+        "link": "https://toutiao.io/k/qtv76pm",
         "date": "2022-10-04"
       },
       {
-        "title": "掘地三尺搞定 Redis 与 MySQL 数据一致性问题",
-        "link": "https://toutiao.io/k/qtv76pm",
+        "title": "SOC 识别和检测威胁信息",
+        "link": "https://toutiao.io/k/rjt9e0j",
         "date": "2022-10-04"
       },
       {
@@ -10297,6 +10302,11 @@
         "date": "2022-10-04"
       },
       {
+        "title": "[推荐] 聊聊 8种 架构模式",
+        "link": "https://toutiao.io/k/luf0yh6",
+        "date": "2022-10-04"
+      },
+      {
         "title": "[推荐] 分享16个我总结的思维模型（程序员必读，受用终身）",
         "link": "https://toutiao.io/k/f7r13v5",
         "date": "2022-10-04"
@@ -10304,11 +10314,6 @@
       {
         "title": "[推荐] 性能优化必备——火焰图",
         "link": "https://toutiao.io/k/azf7ub6",
-        "date": "2022-10-04"
-      },
-      {
-        "title": "[推荐] 聊聊 8种 架构模式",
-        "link": "https://toutiao.io/k/luf0yh6",
         "date": "2022-10-04"
       }
     ]

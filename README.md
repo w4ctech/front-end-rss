@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-04 06:29:01，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-04 07:04:39，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-10-04-有还在用-2016-款-MacBook-Pro-的-V-友么，打算什么时候升级？](https://www.v2ex.com/t/884619) ![](assets/new.png)  
+- [2022-10-04-新房家私可以在网上买吗](https://www.v2ex.com/t/884618) ![](assets/new.png)  
+- [2022-10-04-有没有提供词典功能的-language-server-给编辑器用？](https://www.v2ex.com/t/884617) ![](assets/new.png)  
+- [2022-10-04-BT-速度被限制的问题](https://www.v2ex.com/t/884616) ![](assets/new.png)  
+- [2022-10-04-老款-2010macmini-跑了-surge，还能干啥](https://www.v2ex.com/t/884615) ![](assets/new.png)  
 - [2022-10-04-想透明上油管谷歌，看港台欧美电视，需要买啥？](https://www.v2ex.com/t/884614) ![](assets/new.png)  
 - [2022-10-04-家宽-docker-使用-IPv6-新思路](https://www.v2ex.com/t/884613) ![](assets/new.png)  
 - [2022-10-04-M1-MACmini-空间不够了，大家是怎么解决的](https://www.v2ex.com/t/884612) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-10-04-我真的好爱杭州这城市-到处在修路](https://www.v2ex.com/t/884596) ![](assets/new.png)  
 - [2022-10-04-求助：服务器命令无输出](https://www.v2ex.com/t/884595) ![](assets/new.png)  
 - [2022-10-04-GPU-服务器那么贵吗.腾讯那-15-天-30-块-8H*32G*5M](https://www.v2ex.com/t/884594) ![](assets/new.png)  
-- [2022-10-04-不建议更新-edge-最新-106-版本](https://www.v2ex.com/t/884592) ![](assets/new.png)  
-- [2022-10-04-nodejs-里多个定时任务里用到相同的变量,-会不会有线程安全的问题?](https://www.v2ex.com/t/884591) ![](assets/new.png)  
-- [2022-10-04-ipv4-v6-双栈模式下，能否得到-v4-公网地址是否与模式有关？](https://www.v2ex.com/t/884590) ![](assets/new.png)  
-- [2022-10-04-求救，-mac-的程序坞部分应用的图标变成透明，怎么都显示不出来](https://www.v2ex.com/t/884589) ![](assets/new.png)  
-- [2022-10-04-普通消费者应该如何投诉-京东-？](https://www.v2ex.com/t/884587) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -556,16 +556,16 @@
 - [2022-10-04-实战-Go：怎样快速实现一个极简任务调度系统](https://toutiao.io/k/3c56bkv) ![](assets/new.png)  
 - [2022-10-04-SOC-识别和检测威胁信息](https://toutiao.io/k/rjt9e0j) ![](assets/new.png)  
 - [2022-10-04-TCP拥塞控制详解-|-3.-设计空间](https://toutiao.io/k/whwhaf8) ![](assets/new.png)  
-- [2022-10-04-说说-Java-并发编程（一）](https://toutiao.io/k/qib5wyc) ![](assets/new.png)  
 - [2022-10-04-掘地三尺搞定-Redis-与-MySQL-数据一致性问题](https://toutiao.io/k/qtv76pm) ![](assets/new.png)  
+- [2022-10-04-说说-Java-并发编程（一）](https://toutiao.io/k/qib5wyc) ![](assets/new.png)  
 - [2022-10-04-Java-19-中的模式匹配，记录类型的模式与-switch-模式匹配的改进](https://toutiao.io/k/vpl5rl3) ![](assets/new.png)  
 - [2022-10-04-快速在你的-vue/react-应用中实现-ssr-服务端渲染](https://toutiao.io/k/nuz8xsi) ![](assets/new.png)  
 - [2022-10-04-怎么让面试官喜欢你？](https://toutiao.io/k/0kimlvu) ![](assets/new.png)  
 - [2022-10-04-在-KubeGems-中启用-Nacos-配置中心](https://toutiao.io/k/s17j97q) ![](assets/new.png)  
 - [2022-10-04-攻击面分析及应对实践](https://toutiao.io/k/s7n7r9x) ![](assets/new.png)  
-- [2022-10-04-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) ![](assets/new.png)  
-- [2022-10-04-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) ![](assets/new.png)  
 - [2022-10-04-推荐-性能优化必备——火焰图](https://toutiao.io/k/azf7ub6) ![](assets/new.png)  
+- [2022-10-04-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) ![](assets/new.png)  
+- [2022-10-04-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

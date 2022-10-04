@@ -9953,6 +9953,31 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "有还在用 2016 款 MacBook Pro 的 V 友么，打算什么时候升级？",
+        "link": "https://www.v2ex.com/t/884619",
+        "date": "2022-10-04"
+      },
+      {
+        "title": "新房家私可以在网上买吗",
+        "link": "https://www.v2ex.com/t/884618",
+        "date": "2022-10-04"
+      },
+      {
+        "title": "有没有提供词典功能的 language server 给编辑器用？",
+        "link": "https://www.v2ex.com/t/884617",
+        "date": "2022-10-04"
+      },
+      {
+        "title": "BT 速度被限制的问题",
+        "link": "https://www.v2ex.com/t/884616",
+        "date": "2022-10-04"
+      },
+      {
+        "title": "老款 2010macmini 跑了 surge，还能干啥",
+        "link": "https://www.v2ex.com/t/884615",
+        "date": "2022-10-04"
+      },
+      {
         "title": "想透明上油管谷歌，看港台欧美电视，需要买啥？",
         "link": "https://www.v2ex.com/t/884614",
         "date": "2022-10-04"
@@ -10126,31 +10151,6 @@
         "title": "cr6608 CR8808 AX6 AX6S Ax6000 Ax9000 还有其他乱七八糟的 到底怎么选",
         "link": "https://www.v2ex.com/t/884570",
         "date": "2022-10-04"
-      },
-      {
-        "title": "新买的笔记本，有滋滋电流声算质量问题吗？",
-        "link": "https://www.v2ex.com/t/884569",
-        "date": "2022-10-04"
-      },
-      {
-        "title": "iTelevision：更好用的直播流播放器，开放 TestFlight 测试，欢迎占坑。",
-        "link": "https://www.v2ex.com/t/884568",
-        "date": "2022-10-04"
-      },
-      {
-        "title": "pm disable 内置应用，提示 Cannot disable xxx no root permission",
-        "link": "https://www.v2ex.com/t/884567",
-        "date": "2022-10-04"
-      },
-      {
-        "title": "一大早又收到诈骗短信",
-        "link": "https://www.v2ex.com/t/884566",
-        "date": "2022-10-04"
-      },
-      {
-        "title": "airpods pro2 为什么连接后我经常跳转播放附近同 icloud 的其他设备里面的声音",
-        "link": "https://www.v2ex.com/t/884565",
-        "date": "2022-10-04"
       }
     ]
   },
@@ -10282,13 +10282,13 @@
         "date": "2022-10-04"
       },
       {
-        "title": "说说 Java 并发编程（一）",
-        "link": "https://toutiao.io/k/qib5wyc",
+        "title": "掘地三尺搞定 Redis 与 MySQL 数据一致性问题",
+        "link": "https://toutiao.io/k/qtv76pm",
         "date": "2022-10-04"
       },
       {
-        "title": "掘地三尺搞定 Redis 与 MySQL 数据一致性问题",
-        "link": "https://toutiao.io/k/qtv76pm",
+        "title": "说说 Java 并发编程（一）",
+        "link": "https://toutiao.io/k/qib5wyc",
         "date": "2022-10-04"
       },
       {
@@ -10317,8 +10317,8 @@
         "date": "2022-10-04"
       },
       {
-        "title": "[推荐] 聊聊 8种 架构模式",
-        "link": "https://toutiao.io/k/luf0yh6",
+        "title": "[推荐] 性能优化必备——火焰图",
+        "link": "https://toutiao.io/k/azf7ub6",
         "date": "2022-10-04"
       },
       {
@@ -10327,8 +10327,8 @@
         "date": "2022-10-04"
       },
       {
-        "title": "[推荐] 性能优化必备——火焰图",
-        "link": "https://toutiao.io/k/azf7ub6",
+        "title": "[推荐] 聊聊 8种 架构模式",
+        "link": "https://toutiao.io/k/luf0yh6",
         "date": "2022-10-04"
       }
     ]

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-04 06:29:01。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-10-04 07:04:39。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,11 @@
 </summary>
 
 
+- [【V2EX】2022-10-04-有还在用-2016-款-MacBook-Pro-的-V-友么，打算什么时候升级？](https://www.v2ex.com/t/884619) 
+- [【V2EX】2022-10-04-新房家私可以在网上买吗](https://www.v2ex.com/t/884618) 
+- [【V2EX】2022-10-04-有没有提供词典功能的-language-server-给编辑器用？](https://www.v2ex.com/t/884617) 
+- [【V2EX】2022-10-04-BT-速度被限制的问题](https://www.v2ex.com/t/884616) 
+- [【V2EX】2022-10-04-老款-2010macmini-跑了-surge，还能干啥](https://www.v2ex.com/t/884615) 
 - [【V2EX】2022-10-04-想透明上油管谷歌，看港台欧美电视，需要买啥？](https://www.v2ex.com/t/884614) 
 - [【V2EX】2022-10-04-家宽-docker-使用-IPv6-新思路](https://www.v2ex.com/t/884613) 
 - [【V2EX】2022-10-04-M1-MACmini-空间不够了，大家是怎么解决的](https://www.v2ex.com/t/884612) 
@@ -103,11 +108,6 @@
 - [【V2EX】2022-10-04-Java-小白提问，这段代码是标准-RSA-加密吗](https://www.v2ex.com/t/884572) 
 - [【V2EX】2022-10-04-求教-clashx-增强模式的正确姿势](https://www.v2ex.com/t/884571) 
 - [【V2EX】2022-10-04-cr6608-CR8808-AX6-AX6S-Ax6000-Ax9000-还有其他乱七八糟的-到底怎么选](https://www.v2ex.com/t/884570) 
-- [【V2EX】2022-10-04-新买的笔记本，有滋滋电流声算质量问题吗？](https://www.v2ex.com/t/884569) 
-- [【V2EX】2022-10-04-iTelevision：更好用的直播流播放器，开放-TestFlight-测试，欢迎占坑。](https://www.v2ex.com/t/884568) 
-- [【V2EX】2022-10-04-pm-disable-内置应用，提示-Cannot-disable-xxx-no-root-permission](https://www.v2ex.com/t/884567) 
-- [【V2EX】2022-10-04-一大早又收到诈骗短信](https://www.v2ex.com/t/884566) 
-- [【V2EX】2022-10-04-airpods-pro2-为什么连接后我经常跳转播放附近同-icloud-的其他设备里面的声音](https://www.v2ex.com/t/884565) 
 - [【技术头条】2022-10-04-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-04-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-04-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -131,16 +131,16 @@
 - [【开发者头条】2022-10-04-实战-Go：怎样快速实现一个极简任务调度系统](https://toutiao.io/k/3c56bkv) 
 - [【开发者头条】2022-10-04-SOC-识别和检测威胁信息](https://toutiao.io/k/rjt9e0j) 
 - [【开发者头条】2022-10-04-TCP拥塞控制详解-|-3.-设计空间](https://toutiao.io/k/whwhaf8) 
-- [【开发者头条】2022-10-04-说说-Java-并发编程（一）](https://toutiao.io/k/qib5wyc) 
 - [【开发者头条】2022-10-04-掘地三尺搞定-Redis-与-MySQL-数据一致性问题](https://toutiao.io/k/qtv76pm) 
+- [【开发者头条】2022-10-04-说说-Java-并发编程（一）](https://toutiao.io/k/qib5wyc) 
 - [【开发者头条】2022-10-04-Java-19-中的模式匹配，记录类型的模式与-switch-模式匹配的改进](https://toutiao.io/k/vpl5rl3) 
 - [【开发者头条】2022-10-04-快速在你的-vue/react-应用中实现-ssr-服务端渲染](https://toutiao.io/k/nuz8xsi) 
 - [【开发者头条】2022-10-04-怎么让面试官喜欢你？](https://toutiao.io/k/0kimlvu) 
 - [【开发者头条】2022-10-04-在-KubeGems-中启用-Nacos-配置中心](https://toutiao.io/k/s17j97q) 
 - [【开发者头条】2022-10-04-攻击面分析及应对实践](https://toutiao.io/k/s7n7r9x) 
-- [【开发者头条】2022-10-04-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) 
-- [【开发者头条】2022-10-04-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) 
 - [【开发者头条】2022-10-04-推荐-性能优化必备——火焰图](https://toutiao.io/k/azf7ub6) 
+- [【开发者头条】2022-10-04-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) 
+- [【开发者头条】2022-10-04-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

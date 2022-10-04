@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-04 01:24:13，:rocket: 更新条数: +2015， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-04 03:23:31，:rocket: 更新条数: +2023， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,26 +491,26 @@
 </summary>
 
 
+- [2022-10-04-nodejs-里多个定时任务里用到相同的变量,-会不会有线程安全的问题?](https://www.v2ex.com/t/884591) ![](assets/new.png)  
+- [2022-10-04-ipv4-v6-双栈模式下，能否得到-v4-公网地址是否与模式有关？](https://www.v2ex.com/t/884590) ![](assets/new.png)  
+- [2022-10-04-求救，-mac-的程序坞部分应用的图标变成透明，怎么都显示不出来](https://www.v2ex.com/t/884589) ![](assets/new.png)  
+- [2022-10-04-普通消费者应该如何投诉-京东-？](https://www.v2ex.com/t/884587) ![](assets/new.png)  
+- [2022-10-04-telegram-pc-端-有可以自动翻译外文的插件吗](https://www.v2ex.com/t/884586) ![](assets/new.png)  
+- [2022-10-04-Netflix-iOS-App-第一次打开网络错误，第二次打开就正常了](https://www.v2ex.com/t/884584) ![](assets/new.png)  
+- [2022-10-04-冬天有什么利用咖啡和茶叶的好喝特调吗](https://www.v2ex.com/t/884583) ![](assets/new.png)  
+- [2022-10-04-想弄个个人-blog，有推荐的服务器提供商么？](https://www.v2ex.com/t/884582) ![](assets/new.png)  
+- [2022-10-04-快捷指令为什么没有锁屏启动小组件？](https://www.v2ex.com/t/884581) ![](assets/new.png)  
+- [2022-10-04-V-友要的取快递-App-有人做出来啦！](https://www.v2ex.com/t/884580) ![](assets/new.png)  
+- [2022-10-04-手贱把-win11-的一个-90M-的硬盘分区删了。不能开机了。还有救吗。](https://www.v2ex.com/t/884579) ![](assets/new.png)  
+- [2022-10-04-App-Store-申请退款失败怎么办](https://www.v2ex.com/t/884578) ![](assets/new.png)  
+- [2022-10-04-VMware-黑群上使用物理磁盘后-TRIM-还是由主机提供的吗](https://www.v2ex.com/t/884577) ![](assets/new.png)  
+- [2022-10-04-求助-git-问题咨询](https://www.v2ex.com/t/884576) ![](assets/new.png)  
+- [2022-10-04-esim-的一些隐藏成本](https://www.v2ex.com/t/884574) ![](assets/new.png)  
+- [2022-10-04-请有美国信用卡的朋友帮忙，支付-29-美元的-AirPods-ac+](https://www.v2ex.com/t/884573) ![](assets/new.png)  
+- [2022-10-04-Java-小白提问，这段代码是标准-RSA-加密吗](https://www.v2ex.com/t/884572) ![](assets/new.png)  
+- [2022-10-04-求教-clashx-增强模式的正确姿势](https://www.v2ex.com/t/884571) ![](assets/new.png)  
+- [2022-10-04-cr6608-CR8808-AX6-AX6S-Ax6000-Ax9000-还有其他乱七八糟的-到底怎么选](https://www.v2ex.com/t/884570) ![](assets/new.png)  
 - [2022-10-04-新买的笔记本，有滋滋电流声算质量问题吗？](https://www.v2ex.com/t/884569) ![](assets/new.png)  
-- [2022-10-04-iTelevision：更好用的直播流播放器，开放-TestFlight-测试，欢迎占坑。](https://www.v2ex.com/t/884568) ![](assets/new.png)  
-- [2022-10-04-pm-disable-内置应用，提示-Cannot-disable-xxx-no-root-permission](https://www.v2ex.com/t/884567) ![](assets/new.png)  
-- [2022-10-04-一大早又收到诈骗短信](https://www.v2ex.com/t/884566) ![](assets/new.png)  
-- [2022-10-04-airpods-pro2-为什么连接后我经常跳转播放附近同-icloud-的其他设备里面的声音](https://www.v2ex.com/t/884565) ![](assets/new.png)  
-- [2022-10-04-手机推送新闻，有必要吗？](https://www.v2ex.com/t/884564) ![](assets/new.png)  
-- [2022-10-04-这种-shortcuts-有办法实现吗？-二维码签到](https://www.v2ex.com/t/884563) ![](assets/new.png)  
-- [2022-10-04-想入手一个-Mac，求推荐](https://www.v2ex.com/t/884562) ![](assets/new.png)  
-- [2022-10-03-上海-不加班-混合办公-外企-招-初中级-Java-1-年经验起，中高级测试（2-年经验起），高级安卓，中级-devOps、C++，初级-UI/UX](https://www.v2ex.com/t/884561) ![](assets/new.png)  
-- [2022-10-03-我发现一个可怕的规律](https://www.v2ex.com/t/884560) ![](assets/new.png)  
-- [2022-10-03-一副脚板十双鞋](https://www.v2ex.com/t/884559) ![](assets/new.png)  
-- [2022-10-03-本月会有-M2-本版的-iPad-Pro-发布嘛？](https://www.v2ex.com/t/884558) ![](assets/new.png)  
-- [2022-10-03-Apple-id-被锁定，无法登录。求问如何科学转移资料及后续账号使用，](https://www.v2ex.com/t/884557) ![](assets/new.png)  
-- [2022-10-03-自建公网-Tracker-无速度](https://www.v2ex.com/t/884556) ![](assets/new.png)  
-- [2022-10-03-是否有低价的电信流量月包？](https://www.v2ex.com/t/884553) ![](assets/new.png)  
-- [2022-10-03-cmd-控制台显示输出日志过滤](https://www.v2ex.com/t/884551) ![](assets/new.png)  
-- [2022-10-03-给朋友回什么礼物比较合适？](https://www.v2ex.com/t/884550) ![](assets/new.png)  
-- [2022-10-03-Zig-中文月刊----202209](https://www.v2ex.com/t/884549) ![](assets/new.png)  
-- [2022-10-03-为什么域前置可以访问用-cloudflare-做-cdn-的-v2ex](https://www.v2ex.com/t/884548) ![](assets/new.png)  
-- [2022-10-03-win11-史诗级更新，右键任务栏打开任务管理器功能回归！](https://www.v2ex.com/t/884547) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -553,18 +553,18 @@
 </summary>
 
 
-- [2022-10-04-SOC-识别和检测威胁信息](https://toutiao.io/k/rjt9e0j) ![](assets/new.png)  
 - [2022-10-04-实战-Go：怎样快速实现一个极简任务调度系统](https://toutiao.io/k/3c56bkv) ![](assets/new.png)  
+- [2022-10-04-SOC-识别和检测威胁信息](https://toutiao.io/k/rjt9e0j) ![](assets/new.png)  
 - [2022-10-04-TCP拥塞控制详解-|-3.-设计空间](https://toutiao.io/k/whwhaf8) ![](assets/new.png)  
 - [2022-10-04-说说-Java-并发编程（一）](https://toutiao.io/k/qib5wyc) ![](assets/new.png)  
 - [2022-10-04-Java-19-中的模式匹配，记录类型的模式与-switch-模式匹配的改进](https://toutiao.io/k/vpl5rl3) ![](assets/new.png)  
 - [2022-10-04-快速在你的-vue/react-应用中实现-ssr-服务端渲染](https://toutiao.io/k/nuz8xsi) ![](assets/new.png)  
-- [2022-10-04-怎么让面试官喜欢你？](https://toutiao.io/k/0kimlvu) ![](assets/new.png)  
 - [2022-10-04-掘地三尺搞定-Redis-与-MySQL-数据一致性问题](https://toutiao.io/k/qtv76pm) ![](assets/new.png)  
+- [2022-10-04-怎么让面试官喜欢你？](https://toutiao.io/k/0kimlvu) ![](assets/new.png)  
 - [2022-10-04-在-KubeGems-中启用-Nacos-配置中心](https://toutiao.io/k/s17j97q) ![](assets/new.png)  
 - [2022-10-04-攻击面分析及应对实践](https://toutiao.io/k/s7n7r9x) ![](assets/new.png)  
-- [2022-10-04-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) ![](assets/new.png)  
 - [2022-10-04-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) ![](assets/new.png)  
+- [2022-10-04-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) ![](assets/new.png)  
 - [2022-10-04-推荐-性能优化必备——火焰图](https://toutiao.io/k/azf7ub6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

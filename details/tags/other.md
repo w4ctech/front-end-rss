@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-04 10:17:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-04 10:50:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1968,5 +1968,5 @@
 - [2022-10-04-Java-19-中的模式匹配，记录类型的模式与-switch-模式匹配的改进](https://toutiao.io/k/vpl5rl3) 
 - [2022-10-04-在-KubeGems-中启用-Nacos-配置中心](https://toutiao.io/k/s17j97q) 
 - [2022-10-04-攻击面分析及应对实践](https://toutiao.io/k/s7n7r9x) 
-- [2022-10-04-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) 
 - [2022-10-04-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) 
+- [2022-10-04-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) 

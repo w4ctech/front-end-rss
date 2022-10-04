@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2022-10-04 05:43:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-04 06:29:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-10-04-想透明上油管谷歌，看港台欧美电视，需要买啥？](https://www.v2ex.com/t/884614) 
+- [2022-10-04-家宽-docker-使用-IPv6-新思路](https://www.v2ex.com/t/884613) 
 - [2022-10-04-M1-MACmini-空间不够了，大家是怎么解决的](https://www.v2ex.com/t/884612) 
 - [2022-10-04-大佬们有没有对讲机很了解的，目前有插卡的和不插卡的-该怎么选](https://www.v2ex.com/t/884611) 
 - [2022-10-04-针对-Typecho-的自动打广告脚本？](https://www.v2ex.com/t/884607) 
@@ -43,5 +45,3 @@
 - [2022-10-04-pm-disable-内置应用，提示-Cannot-disable-xxx-no-root-permission](https://www.v2ex.com/t/884567) 
 - [2022-10-04-一大早又收到诈骗短信](https://www.v2ex.com/t/884566) 
 - [2022-10-04-airpods-pro2-为什么连接后我经常跳转播放附近同-icloud-的其他设备里面的声音](https://www.v2ex.com/t/884565) 
-- [2022-10-04-手机推送新闻，有必要吗？](https://www.v2ex.com/t/884564) 
-- [2022-10-04-这种-shortcuts-有办法实现吗？-二维码签到](https://www.v2ex.com/t/884563) 

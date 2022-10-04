@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-04 05:43:03，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-04 06:29:01，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-10-04-想透明上油管谷歌，看港台欧美电视，需要买啥？](https://www.v2ex.com/t/884614) ![](assets/new.png)  
+- [2022-10-04-家宽-docker-使用-IPv6-新思路](https://www.v2ex.com/t/884613) ![](assets/new.png)  
 - [2022-10-04-M1-MACmini-空间不够了，大家是怎么解决的](https://www.v2ex.com/t/884612) ![](assets/new.png)  
 - [2022-10-04-大佬们有没有对讲机很了解的，目前有插卡的和不插卡的-该怎么选](https://www.v2ex.com/t/884611) ![](assets/new.png)  
 - [2022-10-04-针对-Typecho-的自动打广告脚本？](https://www.v2ex.com/t/884607) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-10-04-ipv4-v6-双栈模式下，能否得到-v4-公网地址是否与模式有关？](https://www.v2ex.com/t/884590) ![](assets/new.png)  
 - [2022-10-04-求救，-mac-的程序坞部分应用的图标变成透明，怎么都显示不出来](https://www.v2ex.com/t/884589) ![](assets/new.png)  
 - [2022-10-04-普通消费者应该如何投诉-京东-？](https://www.v2ex.com/t/884587) ![](assets/new.png)  
-- [2022-10-04-telegram-pc-端-有可以自动翻译外文的插件吗](https://www.v2ex.com/t/884586) ![](assets/new.png)  
-- [2022-10-04-Netflix-iOS-App-第一次打开网络错误，第二次打开就正常了](https://www.v2ex.com/t/884584) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,9 +563,9 @@
 - [2022-10-04-怎么让面试官喜欢你？](https://toutiao.io/k/0kimlvu) ![](assets/new.png)  
 - [2022-10-04-在-KubeGems-中启用-Nacos-配置中心](https://toutiao.io/k/s17j97q) ![](assets/new.png)  
 - [2022-10-04-攻击面分析及应对实践](https://toutiao.io/k/s7n7r9x) ![](assets/new.png)  
+- [2022-10-04-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) ![](assets/new.png)  
 - [2022-10-04-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) ![](assets/new.png)  
 - [2022-10-04-推荐-性能优化必备——火焰图](https://toutiao.io/k/azf7ub6) ![](assets/new.png)  
-- [2022-10-04-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

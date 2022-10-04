@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-04 13:54:22，:rocket: 更新条数: +2018， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-04 14:35:36，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-10-04-mac-新建窗口的时分配的逻辑是什么](https://www.v2ex.com/t/884663) ![](assets/new.png)  
+- [2022-10-04-请问有类似-Trello-的本地看板应用推荐吗？](https://www.v2ex.com/t/884662) ![](assets/new.png)  
+- [2022-10-04-三季度过去了，截止当前，本年度（2022）你们的股票（基金）收益怎么样了？欢迎分享投资收益和感悟](https://www.v2ex.com/t/884661) ![](assets/new.png)  
+- [2022-10-04-docker-网络问题](https://www.v2ex.com/t/884660) ![](assets/new.png)  
 - [2022-10-04-请教下：-SUSE-15-SP4-用-Win-远程桌面-为什么输入用户名密码黑屏了？](https://www.v2ex.com/t/884659) ![](assets/new.png)  
 - [2022-10-04-《说透-Kubernetes-云原生监控》系列文章，交流收藏](https://www.v2ex.com/t/884658) ![](assets/new.png)  
 - [2022-10-04-十一来桂林旅游被封控到酒店了，三天，所有计划全泡汤](https://www.v2ex.com/t/884657) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-10-04-有用努比亚小黄人充电头的大佬吗](https://www.v2ex.com/t/884646) ![](assets/new.png)  
 - [2022-10-04-Charles-怎么在安卓高版本抓-https](https://www.v2ex.com/t/884644) ![](assets/new.png)  
 - [2022-10-04-caicloud.io-跳转-onlyfans-?](https://www.v2ex.com/t/884642) ![](assets/new.png)  
-- [2022-10-04-电脑的-USBtypec-接口能直接输出音频吗？](https://www.v2ex.com/t/884641) ![](assets/new.png)  
-- [2022-10-04-分享一次被墙](https://www.v2ex.com/t/884639) ![](assets/new.png)  
-- [2022-10-04-最近比较倒霉，驾考](https://www.v2ex.com/t/884638) ![](assets/new.png)  
-- [2022-10-04-求助：-Edge-浏览器如何修改显示语言为英文？](https://www.v2ex.com/t/884637) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,8 +563,8 @@
 - [2022-10-04-在-KubeGems-中启用-Nacos-配置中心](https://toutiao.io/k/s17j97q) ![](assets/new.png)  
 - [2022-10-04-攻击面分析及应对实践](https://toutiao.io/k/s7n7r9x) ![](assets/new.png)  
 - [2022-10-04-推荐-性能优化必备——火焰图](https://toutiao.io/k/azf7ub6) ![](assets/new.png)  
-- [2022-10-04-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) ![](assets/new.png)  
 - [2022-10-04-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) ![](assets/new.png)  
+- [2022-10-04-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

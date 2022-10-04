@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-04 15:52:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-04 16:24:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1914,6 +1914,7 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-10-04-安卓-8.0-开了免打扰之后，明明已经给-QQ-开了白名单，也允许响铃，但是-QQ-就是没有默认的“叮咚”提示音](https://www.v2ex.com/t/884670) 
 - [2022-10-04-有没有定向语音通知的服务呢？](https://www.v2ex.com/t/884668) 
 - [2022-10-04-有没有朋友使用过银行共管账户或类似产品](https://www.v2ex.com/t/884667) 
 - [2022-10-04-磁盘空间被谁给占用了](https://www.v2ex.com/t/884666) 
@@ -1939,7 +1940,6 @@
 - [2022-10-04-网页右键拷贝-GIF-图片，在系统剪贴板中如何获取该-GIF-信息/另存该-GIF-文件](https://www.v2ex.com/t/884623) 
 - [2022-10-04-杭州哪里有适合小孩玩的地方-？求推荐](https://www.v2ex.com/t/884622) 
 - [2022-10-04-请教关于淘汰笔记本再利用的问题（主要是-DIY-显示器）](https://www.v2ex.com/t/884621) 
-- [2022-10-04-热招职位-IOS/android-技术者＿东京互联网创业公司](https://www.v2ex.com/t/884620) 
 - [2022-10-04-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-04-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-04-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1965,5 +1965,4 @@
 - [2022-10-04-Java-19-中的模式匹配，记录类型的模式与-switch-模式匹配的改进](https://toutiao.io/k/vpl5rl3) 
 - [2022-10-04-在-KubeGems-中启用-Nacos-配置中心](https://toutiao.io/k/s17j97q) 
 - [2022-10-04-攻击面分析及应对实践](https://toutiao.io/k/s7n7r9x) 
-- [2022-10-04-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) 
 - [2022-10-04-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) 

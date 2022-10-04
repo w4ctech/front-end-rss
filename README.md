@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-04 15:52:48，:rocket: 更新条数: +2016， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-04 16:24:50，:rocket: 更新条数: +2015， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-10-04-安卓-8.0-开了免打扰之后，明明已经给-QQ-开了白名单，也允许响铃，但是-QQ-就是没有默认的“叮咚”提示音](https://www.v2ex.com/t/884670) ![](assets/new.png)  
 - [2022-10-04-有没有定向语音通知的服务呢？](https://www.v2ex.com/t/884668) ![](assets/new.png)  
 - [2022-10-04-有没有朋友使用过银行共管账户或类似产品](https://www.v2ex.com/t/884667) ![](assets/new.png)  
 - [2022-10-04-磁盘空间被谁给占用了](https://www.v2ex.com/t/884666) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-10-04-找人建个在线处理图片的网站要多少元子？](https://www.v2ex.com/t/884650) ![](assets/new.png)  
 - [2022-10-04-安徽移动-5G-不解析-AAAA-记录？](https://www.v2ex.com/t/884649) ![](assets/new.png)  
 - [2022-10-04-请问-vue3-input-绑定一个常量-value-后咋还能输入咧](https://www.v2ex.com/t/884648) ![](assets/new.png)  
-- [2022-10-04-docker-重新-build-后如何不停止容器更新](https://www.v2ex.com/t/884647) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -562,7 +562,6 @@
 - [2022-10-04-快速在你的-vue/react-应用中实现-ssr-服务端渲染](https://toutiao.io/k/nuz8xsi) ![](assets/new.png)  
 - [2022-10-04-在-KubeGems-中启用-Nacos-配置中心](https://toutiao.io/k/s17j97q) ![](assets/new.png)  
 - [2022-10-04-攻击面分析及应对实践](https://toutiao.io/k/s7n7r9x) ![](assets/new.png)  
-- [2022-10-04-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) ![](assets/new.png)  
 - [2022-10-04-推荐-性能优化必备——火焰图](https://toutiao.io/k/azf7ub6) ![](assets/new.png)  
 - [2022-10-04-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)

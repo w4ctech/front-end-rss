@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-04 09:50:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-04 10:17:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1914,6 +1914,7 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-10-04-分享一次被墙](https://www.v2ex.com/t/884639) 
 - [2022-10-04-最近比较倒霉，驾考](https://www.v2ex.com/t/884638) 
 - [2022-10-04-io_uring-的一点疑问](https://www.v2ex.com/t/884633) 
 - [2022-10-04-有没有什么办法能搞到推特开发者账号？](https://www.v2ex.com/t/884630) 
@@ -1941,7 +1942,6 @@
 - [2022-10-04-我真的好爱杭州这城市-到处在修路](https://www.v2ex.com/t/884596) 
 - [2022-10-04-求助：服务器命令无输出](https://www.v2ex.com/t/884595) 
 - [2022-10-04-ipv4-v6-双栈模式下，能否得到-v4-公网地址是否与模式有关？](https://www.v2ex.com/t/884590) 
-- [2022-10-04-求救，-mac-的程序坞部分应用的图标变成透明，怎么都显示不出来](https://www.v2ex.com/t/884589) 
 - [2022-10-04-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-04-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-04-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

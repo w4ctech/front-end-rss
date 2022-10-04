@@ -9953,6 +9953,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "Google 翻译退出中国后如何正常使用其 Chrome 插件",
+        "link": "https://www.v2ex.com/t/884631",
+        "date": "2022-10-04"
+      },
+      {
         "title": "有没有什么办法能搞到推特开发者账号？",
         "link": "https://www.v2ex.com/t/884630",
         "date": "2022-10-04"
@@ -10131,16 +10136,6 @@
         "title": "冬天有什么利用咖啡和茶叶的好喝特调吗",
         "link": "https://www.v2ex.com/t/884583",
         "date": "2022-10-04"
-      },
-      {
-        "title": "想弄个个人 blog，有推荐的服务器提供商么？",
-        "link": "https://www.v2ex.com/t/884582",
-        "date": "2022-10-04"
-      },
-      {
-        "title": "快捷指令为什么没有锁屏启动小组件？",
-        "link": "https://www.v2ex.com/t/884581",
-        "date": "2022-10-04"
       }
     ]
   },
@@ -10307,6 +10302,11 @@
         "date": "2022-10-04"
       },
       {
+        "title": "[推荐] 分享16个我总结的思维模型（程序员必读，受用终身）",
+        "link": "https://toutiao.io/k/f7r13v5",
+        "date": "2022-10-04"
+      },
+      {
         "title": "[推荐] 性能优化必备——火焰图",
         "link": "https://toutiao.io/k/azf7ub6",
         "date": "2022-10-04"
@@ -10314,11 +10314,6 @@
       {
         "title": "[推荐] 聊聊 8种 架构模式",
         "link": "https://toutiao.io/k/luf0yh6",
-        "date": "2022-10-04"
-      },
-      {
-        "title": "[推荐] 分享16个我总结的思维模型（程序员必读，受用终身）",
-        "link": "https://toutiao.io/k/f7r13v5",
         "date": "2022-10-04"
       }
     ]

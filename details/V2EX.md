@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-10-04 08:23:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-04 08:56:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-10-04-Google-翻译退出中国后如何正常使用其-Chrome-插件](https://www.v2ex.com/t/884631) 
 - [2022-10-04-有没有什么办法能搞到推特开发者账号？](https://www.v2ex.com/t/884630) 
 - [2022-10-04-为什么-tampermonkey-能够进行跨域请求并且带上-cookie](https://www.v2ex.com/t/884626) 
 - [2022-10-04-有什么便宜的国外云服务商](https://www.v2ex.com/t/884625) 
@@ -41,5 +42,3 @@
 - [2022-10-04-telegram-pc-端-有可以自动翻译外文的插件吗](https://www.v2ex.com/t/884586) 
 - [2022-10-04-Netflix-iOS-App-第一次打开网络错误，第二次打开就正常了](https://www.v2ex.com/t/884584) 
 - [2022-10-04-冬天有什么利用咖啡和茶叶的好喝特调吗](https://www.v2ex.com/t/884583) 
-- [2022-10-04-想弄个个人-blog，有推荐的服务器提供商么？](https://www.v2ex.com/t/884582) 
-- [2022-10-04-快捷指令为什么没有锁屏启动小组件？](https://www.v2ex.com/t/884581) 

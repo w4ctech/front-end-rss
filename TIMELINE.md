@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-04 08:23:17。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-10-04 08:56:58。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,7 @@
 </summary>
 
 
+- [【V2EX】2022-10-04-Google-翻译退出中国后如何正常使用其-Chrome-插件](https://www.v2ex.com/t/884631) 
 - [【V2EX】2022-10-04-有没有什么办法能搞到推特开发者账号？](https://www.v2ex.com/t/884630) 
 - [【V2EX】2022-10-04-为什么-tampermonkey-能够进行跨域请求并且带上-cookie](https://www.v2ex.com/t/884626) 
 - [【V2EX】2022-10-04-有什么便宜的国外云服务商](https://www.v2ex.com/t/884625) 
@@ -104,8 +105,6 @@
 - [【V2EX】2022-10-04-telegram-pc-端-有可以自动翻译外文的插件吗](https://www.v2ex.com/t/884586) 
 - [【V2EX】2022-10-04-Netflix-iOS-App-第一次打开网络错误，第二次打开就正常了](https://www.v2ex.com/t/884584) 
 - [【V2EX】2022-10-04-冬天有什么利用咖啡和茶叶的好喝特调吗](https://www.v2ex.com/t/884583) 
-- [【V2EX】2022-10-04-想弄个个人-blog，有推荐的服务器提供商么？](https://www.v2ex.com/t/884582) 
-- [【V2EX】2022-10-04-快捷指令为什么没有锁屏启动小组件？](https://www.v2ex.com/t/884581) 
 - [【技术头条】2022-10-04-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-04-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-04-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -136,9 +135,9 @@
 - [【开发者头条】2022-10-04-怎么让面试官喜欢你？](https://toutiao.io/k/0kimlvu) 
 - [【开发者头条】2022-10-04-在-KubeGems-中启用-Nacos-配置中心](https://toutiao.io/k/s17j97q) 
 - [【开发者头条】2022-10-04-攻击面分析及应对实践](https://toutiao.io/k/s7n7r9x) 
+- [【开发者头条】2022-10-04-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) 
 - [【开发者头条】2022-10-04-推荐-性能优化必备——火焰图](https://toutiao.io/k/azf7ub6) 
 - [【开发者头条】2022-10-04-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) 
-- [【开发者头条】2022-10-04-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

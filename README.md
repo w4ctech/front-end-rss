@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-04 08:23:17，:rocket: 更新条数: +2017， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-04 08:56:58，:rocket: 更新条数: +2016， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-10-04-Google-翻译退出中国后如何正常使用其-Chrome-插件](https://www.v2ex.com/t/884631) ![](assets/new.png)  
 - [2022-10-04-有没有什么办法能搞到推特开发者账号？](https://www.v2ex.com/t/884630) ![](assets/new.png)  
 - [2022-10-04-为什么-tampermonkey-能够进行跨域请求并且带上-cookie](https://www.v2ex.com/t/884626) ![](assets/new.png)  
 - [2022-10-04-有什么便宜的国外云服务商](https://www.v2ex.com/t/884625) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-10-04-大佬们有没有对讲机很了解的，目前有插卡的和不插卡的-该怎么选](https://www.v2ex.com/t/884611) ![](assets/new.png)  
 - [2022-10-04-针对-Typecho-的自动打广告脚本？](https://www.v2ex.com/t/884607) ![](assets/new.png)  
 - [2022-10-04-学生党想入门一款-iPad-，寻求一些建议。](https://www.v2ex.com/t/884606) ![](assets/new.png)  
-- [2022-10-04-专注于码农新闻聚合的良心应用“推酷”终于撑不住了，有任何替代品没有？](https://www.v2ex.com/t/884605) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,9 +563,9 @@
 - [2022-10-04-怎么让面试官喜欢你？](https://toutiao.io/k/0kimlvu) ![](assets/new.png)  
 - [2022-10-04-在-KubeGems-中启用-Nacos-配置中心](https://toutiao.io/k/s17j97q) ![](assets/new.png)  
 - [2022-10-04-攻击面分析及应对实践](https://toutiao.io/k/s7n7r9x) ![](assets/new.png)  
+- [2022-10-04-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) ![](assets/new.png)  
 - [2022-10-04-推荐-性能优化必备——火焰图](https://toutiao.io/k/azf7ub6) ![](assets/new.png)  
 - [2022-10-04-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) ![](assets/new.png)  
-- [2022-10-04-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

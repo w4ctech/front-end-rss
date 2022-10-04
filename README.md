@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-04 07:04:39，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-04 07:52:26，:rocket: 更新条数: +2020， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-10-04-有什么便宜的国外云服务商](https://www.v2ex.com/t/884625) ![](assets/new.png)  
+- [2022-10-04-iOS16-控制中心-WI-FI-点灰之后，会自己打开](https://www.v2ex.com/t/884624) ![](assets/new.png)  
+- [2022-10-04-网页右键拷贝-GIF-图片，在系统剪贴板中如何获取该-GIF-信息/另存该-GIF-文件](https://www.v2ex.com/t/884623) ![](assets/new.png)  
+- [2022-10-04-杭州哪里有适合小孩玩的地方-？求推荐](https://www.v2ex.com/t/884622) ![](assets/new.png)  
+- [2022-10-04-请教关于淘汰笔记本再利用的问题（主要是-DIY-显示器）](https://www.v2ex.com/t/884621) ![](assets/new.png)  
+- [2022-10-04-热招职位-IOS/android-技术者＿东京互联网创业公司](https://www.v2ex.com/t/884620) ![](assets/new.png)  
 - [2022-10-04-有还在用-2016-款-MacBook-Pro-的-V-友么，打算什么时候升级？](https://www.v2ex.com/t/884619) ![](assets/new.png)  
 - [2022-10-04-新房家私可以在网上买吗](https://www.v2ex.com/t/884618) ![](assets/new.png)  
 - [2022-10-04-有没有提供词典功能的-language-server-给编辑器用？](https://www.v2ex.com/t/884617) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-10-04-专注于码农新闻聚合的良心应用“推酷”终于撑不住了，有任何替代品没有？](https://www.v2ex.com/t/884605) ![](assets/new.png)  
 - [2022-10-04-美区-app-store-全面支持中文了](https://www.v2ex.com/t/884604) ![](assets/new.png)  
 - [2022-10-04-MacBook-Pro-Retina-越看越觉得老设计更有内涵和耐看](https://www.v2ex.com/t/884602) ![](assets/new.png)  
-- [2022-10-04-iPhone-14-Pro-Max-充电自动关机?害人啊](https://www.v2ex.com/t/884601) ![](assets/new.png)  
-- [2022-10-04-有南大在校的吗？镜像站怎么了](https://www.v2ex.com/t/884600) ![](assets/new.png)  
-- [2022-10-04-请问现在远程控制-GUI-桌面的方案还是-VNC-吗?](https://www.v2ex.com/t/884597) ![](assets/new.png)  
-- [2022-10-04-我真的好爱杭州这城市-到处在修路](https://www.v2ex.com/t/884596) ![](assets/new.png)  
-- [2022-10-04-求助：服务器命令无输出](https://www.v2ex.com/t/884595) ![](assets/new.png)  
-- [2022-10-04-GPU-服务器那么贵吗.腾讯那-15-天-30-块-8H*32G*5M](https://www.v2ex.com/t/884594) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,9 +563,9 @@
 - [2022-10-04-怎么让面试官喜欢你？](https://toutiao.io/k/0kimlvu) ![](assets/new.png)  
 - [2022-10-04-在-KubeGems-中启用-Nacos-配置中心](https://toutiao.io/k/s17j97q) ![](assets/new.png)  
 - [2022-10-04-攻击面分析及应对实践](https://toutiao.io/k/s7n7r9x) ![](assets/new.png)  
+- [2022-10-04-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) ![](assets/new.png)  
 - [2022-10-04-推荐-性能优化必备——火焰图](https://toutiao.io/k/azf7ub6) ![](assets/new.png)  
 - [2022-10-04-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) ![](assets/new.png)  
-- [2022-10-04-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

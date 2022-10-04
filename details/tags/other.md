@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-04 17:11:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-04 18:02:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1914,6 +1914,7 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-10-04-有没有比较好的-macOS-开发的系列教程啊？求求求～](https://www.v2ex.com/t/884673) 
 - [2022-10-04-redis-事务，当-multi-发送给服务器之后，服务器能在-multi-和-exec-之间这段时间内执行来自别的客户端的命令吗？](https://www.v2ex.com/t/884672) 
 - [2022-10-04-上海电信这边看到一个上行-500M，下行-1000M-的宽带，请问这是什么套餐？](https://www.v2ex.com/t/884671) 
 - [2022-10-04-安卓-8.0-开了免打扰之后，明明已经给-QQ-开了白名单，也允许响铃，但是-QQ-就是没有默认的“叮咚”提示音](https://www.v2ex.com/t/884670) 
@@ -1939,7 +1940,6 @@
 - [2022-10-04-有没有什么办法能搞到推特开发者账号？](https://www.v2ex.com/t/884630) 
 - [2022-10-04-有什么便宜的国外云服务商](https://www.v2ex.com/t/884625) 
 - [2022-10-04-iOS16-控制中心-WI-FI-点灰之后，会自己打开](https://www.v2ex.com/t/884624) 
-- [2022-10-04-网页右键拷贝-GIF-图片，在系统剪贴板中如何获取该-GIF-信息/另存该-GIF-文件](https://www.v2ex.com/t/884623) 
 - [2022-10-04-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-04-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-04-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

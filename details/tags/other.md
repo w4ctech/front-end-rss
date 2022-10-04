@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-04 10:50:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-04 11:15:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1941,7 +1941,6 @@
 - [2022-10-04-有南大在校的吗？镜像站怎么了](https://www.v2ex.com/t/884600) 
 - [2022-10-04-我真的好爱杭州这城市-到处在修路](https://www.v2ex.com/t/884596) 
 - [2022-10-04-求助：服务器命令无输出](https://www.v2ex.com/t/884595) 
-- [2022-10-04-ipv4-v6-双栈模式下，能否得到-v4-公网地址是否与模式有关？](https://www.v2ex.com/t/884590) 
 - [2022-10-04-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-04-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-04-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-04 10:50:45，:rocket: 更新条数: +2016， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-04 11:15:15，:rocket: 更新条数: +2015， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-10-04-电脑的-USBtypec-接口能直接输出音频吗？](https://www.v2ex.com/t/884641) ![](assets/new.png)  
 - [2022-10-04-分享一次被墙](https://www.v2ex.com/t/884639) ![](assets/new.png)  
 - [2022-10-04-最近比较倒霉，驾考](https://www.v2ex.com/t/884638) ![](assets/new.png)  
 - [2022-10-04-求助：-Edge-浏览器如何修改显示语言为英文？](https://www.v2ex.com/t/884637) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-10-04-有没有提供词典功能的-language-server-给编辑器用？](https://www.v2ex.com/t/884617) ![](assets/new.png)  
 - [2022-10-04-BT-速度被限制的问题](https://www.v2ex.com/t/884616) ![](assets/new.png)  
 - [2022-10-04-老款-2010macmini-跑了-surge，还能干啥](https://www.v2ex.com/t/884615) ![](assets/new.png)  
-- [2022-10-04-想透明上油管谷歌，看港台欧美电视，需要买啥？](https://www.v2ex.com/t/884614) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -558,14 +558,14 @@
 - [2022-10-04-SOC-识别和检测威胁信息](https://toutiao.io/k/rjt9e0j) ![](assets/new.png)  
 - [2022-10-04-TCP拥塞控制详解-|-3.-设计空间](https://toutiao.io/k/whwhaf8) ![](assets/new.png)  
 - [2022-10-04-说说-Java-并发编程（一）](https://toutiao.io/k/qib5wyc) ![](assets/new.png)  
-- [2022-10-04-Java-19-中的模式匹配，记录类型的模式与-switch-模式匹配的改进](https://toutiao.io/k/vpl5rl3) ![](assets/new.png)  
 - [2022-10-04-怎么让面试官喜欢你？](https://toutiao.io/k/0kimlvu) ![](assets/new.png)  
+- [2022-10-04-Java-19-中的模式匹配，记录类型的模式与-switch-模式匹配的改进](https://toutiao.io/k/vpl5rl3) ![](assets/new.png)  
 - [2022-10-04-快速在你的-vue/react-应用中实现-ssr-服务端渲染](https://toutiao.io/k/nuz8xsi) ![](assets/new.png)  
 - [2022-10-04-在-KubeGems-中启用-Nacos-配置中心](https://toutiao.io/k/s17j97q) ![](assets/new.png)  
 - [2022-10-04-攻击面分析及应对实践](https://toutiao.io/k/s7n7r9x) ![](assets/new.png)  
+- [2022-10-04-推荐-性能优化必备——火焰图](https://toutiao.io/k/azf7ub6) ![](assets/new.png)  
 - [2022-10-04-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) ![](assets/new.png)  
 - [2022-10-04-推荐-聊聊-8种-架构模式](https://toutiao.io/k/luf0yh6) ![](assets/new.png)  
-- [2022-10-04-推荐-性能优化必备——火焰图](https://toutiao.io/k/azf7ub6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

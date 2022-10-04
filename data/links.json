@@ -9953,6 +9953,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "电脑的 USBtypec 接口能直接输出音频吗？",
+        "link": "https://www.v2ex.com/t/884641",
+        "date": "2022-10-04"
+      },
+      {
         "title": "分享一次被墙",
         "link": "https://www.v2ex.com/t/884639",
         "date": "2022-10-04"
@@ -10126,16 +10131,6 @@
         "title": "不建议更新 edge 最新 106 版本",
         "link": "https://www.v2ex.com/t/884592",
         "date": "2022-10-04"
-      },
-      {
-        "title": "nodejs 里多个定时任务里用到相同的变量, 会不会有线程安全的问题?",
-        "link": "https://www.v2ex.com/t/884591",
-        "date": "2022-10-04"
-      },
-      {
-        "title": "ipv4 v6 双栈模式下，能否得到 v4 公网地址是否与模式有关？",
-        "link": "https://www.v2ex.com/t/884590",
-        "date": "2022-10-04"
       }
     ]
   },
@@ -10277,13 +10272,13 @@
         "date": "2022-10-04"
       },
       {
-        "title": "Java 19 中的模式匹配，记录类型的模式与 switch 模式匹配的改进",
-        "link": "https://toutiao.io/k/vpl5rl3",
+        "title": "怎么让面试官喜欢你？",
+        "link": "https://toutiao.io/k/0kimlvu",
         "date": "2022-10-04"
       },
       {
-        "title": "怎么让面试官喜欢你？",
-        "link": "https://toutiao.io/k/0kimlvu",
+        "title": "Java 19 中的模式匹配，记录类型的模式与 switch 模式匹配的改进",
+        "link": "https://toutiao.io/k/vpl5rl3",
         "date": "2022-10-04"
       },
       {
@@ -10302,6 +10297,11 @@
         "date": "2022-10-04"
       },
       {
+        "title": "[推荐] 性能优化必备——火焰图",
+        "link": "https://toutiao.io/k/azf7ub6",
+        "date": "2022-10-04"
+      },
+      {
         "title": "[推荐] 分享16个我总结的思维模型（程序员必读，受用终身）",
         "link": "https://toutiao.io/k/f7r13v5",
         "date": "2022-10-04"
@@ -10309,11 +10309,6 @@
       {
         "title": "[推荐] 聊聊 8种 架构模式",
         "link": "https://toutiao.io/k/luf0yh6",
-        "date": "2022-10-04"
-      },
-      {
-        "title": "[推荐] 性能优化必备——火焰图",
-        "link": "https://toutiao.io/k/azf7ub6",
         "date": "2022-10-04"
       }
     ]

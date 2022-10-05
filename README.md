@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-05 15:48:36，:rocket: 更新条数: +2011， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-05 16:42:02，:rocket: 更新条数: +2014， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,13 @@
 </summary>
 
 
+- [2022-10-05-debian-用着用着就报错-hard-LOCKUP,-有没有大佬懂的](https://www.v2ex.com/t/884828) ![](assets/new.png)  
+- [2022-10-05-有什么好的办法可以管理-mhtml-文件](https://www.v2ex.com/t/884827) ![](assets/new.png)  
+- [2022-10-05-绝对自由后是否还存在欲望？欲望是否有止境？](https://www.v2ex.com/t/884826) ![](assets/new.png)  
+- [2022-10-05-iOS-有使用类似-Windows-8-"快速启动"一类的技术吗，为什么音量键+侧键强制重启耗时总比正常关机开机耗时长上-2.5-秒（从亮屏瞬间开始计算，两组都重复实验了-3-...](https://www.v2ex.com/t/884825) ![](assets/new.png)  
+- [2022-10-05-使用佩奇主站，这两天连接是否正常。](https://www.v2ex.com/t/884824) ![](assets/new.png)  
+- [2022-10-05-请问-推特-API-申请怎么写容易-通过呢](https://www.v2ex.com/t/884823) ![](assets/new.png)  
+- [2022-10-05-请问新款-Xbox-series-x-什么时候出来？](https://www.v2ex.com/t/884822) ![](assets/new.png)  
 - [2022-10-05-Twitter-疑似接入-CN2-GT](https://www.v2ex.com/t/884820) ![](assets/new.png)  
 - [2022-10-05-求解-MySQL-8.0-Left-Join-的表使用-PARTITION-分区的问题](https://www.v2ex.com/t/884818) ![](assets/new.png)  
 - [2022-10-05-原来-AirPods-Pro-一代的硬件是会“老化”的](https://www.v2ex.com/t/884817) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-10-05-Go-程序怎么在运行时得到包名](https://www.v2ex.com/t/884806) ![](assets/new.png)  
 - [2022-10-05-我是个菜鸟，想知道资深大佬搭建一个识别跳绳计数的-ai-程序需要多久](https://www.v2ex.com/t/884804) ![](assets/new.png)  
 - [2022-10-05-罗技-Options-+-开发给老设备使用了？](https://www.v2ex.com/t/884803) ![](assets/new.png)  
-- [2022-10-05-毕业-2-年，收获很多，但也逐渐丧失斗志了。](https://www.v2ex.com/t/884800) ![](assets/new.png)  
-- [2022-10-05-请问金巴抢票出现-”交易请求数量过多M，请不要频繁操作！“-是什么问题？](https://www.v2ex.com/t/884799) ![](assets/new.png)  
-- [2022-10-05-求求各位-V-友指点一下秋冬季节男生怎么买衣服和鞋子吧](https://www.v2ex.com/t/884797) ![](assets/new.png)  
-- [2022-10-05-现在推送都不给个人提供服务了，求替代方案？](https://www.v2ex.com/t/884796) ![](assets/new.png)  
-- [2022-10-05-据说-macwk-关站了？](https://www.v2ex.com/t/884794) ![](assets/new.png)  
-- [2022-10-05-macwk-没了？](https://www.v2ex.com/t/884793) ![](assets/new.png)  
-- [2022-10-05-在保-iphone12-因屏幕有裂纹不予售后](https://www.v2ex.com/t/884792) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

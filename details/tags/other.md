@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-05 11:15:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-05 11:43:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1914,6 +1914,8 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-10-05-苦于没有海外手机卡,2022-年是否有稳定方案?](https://www.v2ex.com/t/884785) 
+- [2022-10-05-一年-300-以内的话，有没有推荐可以实现美区科学上网的自建云服务器呀？](https://www.v2ex.com/t/884784) 
 - [2022-10-05-诺贝尔物理学奖授予对贝尔不等式的违反](https://www.v2ex.com/t/884783) 
 - [2022-10-05-Apple-ID-国区转外区-iCloud-迁移问题](https://www.v2ex.com/t/884782) 
 - [2022-10-05-MBP-重启后-启动台里面-app-图标跑到了整理的文件夹外面](https://www.v2ex.com/t/884781) 
@@ -1939,7 +1941,6 @@
 - [2022-10-05-有没有过滤广告的油猴脚本](https://www.v2ex.com/t/884742) 
 - [2022-10-05-不懂就问-大家的存款如何支配和理财的](https://www.v2ex.com/t/884741) 
 - [2022-10-05-升级了-ventura-后，-144hz-刷新率的选项没了。。。](https://www.v2ex.com/t/884737) 
-- [2022-10-05-一个很漂亮的-{-个人简历,-团队主页,-职业社交-}-网站](https://www.v2ex.com/t/884734) 
 - [2022-10-05-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-05-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-05-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

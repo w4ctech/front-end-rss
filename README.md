@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-05 11:15:33，:rocket: 更新条数: +2007， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-05 11:43:19，:rocket: 更新条数: +2008， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-10-05-苦于没有海外手机卡,2022-年是否有稳定方案?](https://www.v2ex.com/t/884785) ![](assets/new.png)  
+- [2022-10-05-一年-300-以内的话，有没有推荐可以实现美区科学上网的自建云服务器呀？](https://www.v2ex.com/t/884784) ![](assets/new.png)  
 - [2022-10-05-诺贝尔物理学奖授予对贝尔不等式的违反](https://www.v2ex.com/t/884783) ![](assets/new.png)  
 - [2022-10-05-Apple-ID-国区转外区-iCloud-迁移问题](https://www.v2ex.com/t/884782) ![](assets/new.png)  
 - [2022-10-05-MBP-重启后-启动台里面-app-图标跑到了整理的文件夹外面](https://www.v2ex.com/t/884781) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-10-05-Java-POI-导出-excel-打开文件提示文件格式或扩展名无效，应该是编码问题但一直找不到解决方法，求大神指导下！](https://www.v2ex.com/t/884759) ![](assets/new.png)  
 - [2022-10-05-neovim-v0.8-发布了!](https://www.v2ex.com/t/884758) ![](assets/new.png)  
 - [2022-10-05-2022-年有哪些值得推荐的云服务器？](https://www.v2ex.com/t/884757) ![](assets/new.png)  
-- [2022-10-05-请教网盘-nextcloud-的同步问题](https://www.v2ex.com/t/884756) ![](assets/new.png)  
-- [2022-10-05-使用-rsync-同步-2-台机器的代码文件夹，需要保留文件修改时间，而且需要让两台机器拥有同样的权限，该使用什么参数？](https://www.v2ex.com/t/884755) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,8 +563,8 @@
 - [2022-10-05-美团超1.5万台Kafka，抗下每秒数亿消息量的挑战！](https://toutiao.io/k/hm62dg8) ![](assets/new.png)  
 - [2022-10-05-RoaringBitMap在B站大数据中的应用](https://toutiao.io/k/no6xbpy) ![](assets/new.png)  
 - [2022-10-05-你写-Go-代码写注释吗？谈谈-Go-代码注释问题](https://toutiao.io/k/y5rx7k3) ![](assets/new.png)  
-- [2022-10-05-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) ![](assets/new.png)  
 - [2022-10-05-推荐-性能优化必备——火焰图](https://toutiao.io/k/azf7ub6) ![](assets/new.png)  
+- [2022-10-05-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

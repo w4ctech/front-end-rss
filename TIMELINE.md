@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-05 07:08:10。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-10-05 07:54:04。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,9 @@
 </summary>
 
 
+- [【V2EX】2022-10-05-使用-rsync-同步-2-台机器的代码文件夹，需要保留文件修改时间，而且需要让两台机器拥有同样的权限，该使用什么参数？](https://www.v2ex.com/t/884755) 
+- [【V2EX】2022-10-05-阿里云盘分享.rar-文件方法](https://www.v2ex.com/t/884754) 
+- [【V2EX】2022-10-05-一级注册建筑师求私活，小建筑或者住宅店铺装修均可，也可以免费咨询一些问题问与答第二弹）](https://www.v2ex.com/t/884750) 
 - [【V2EX】2022-10-05-码农使用，预算-1.5-万求推荐配置，-cpu13900k，内存-128g，磁盘纯固态-1t，不需要显卡显示器，需要静音一些，性能好一些](https://www.v2ex.com/t/884747) 
 - [【V2EX】2022-10-05-iPhone-自带输入法探讨](https://www.v2ex.com/t/884745) 
 - [【V2EX】2022-10-05-旧手机当-Linux-服务器的吐槽和讨论](https://www.v2ex.com/t/884743) 
@@ -102,12 +105,6 @@
 - [【V2EX】2022-10-05-红米-AX6-局域网-iPerf3-测速只能跑到标称一半](https://www.v2ex.com/t/884708) 
 - [【V2EX】2022-10-05-做一个类似-apple-icloud-本地备份的软件，实现-windows-上软件和文件的云端备份](https://www.v2ex.com/t/884707) 
 - [【V2EX】2022-10-05-🇺🇸Unicorn-Tech-Leader/Up-to-8K-USD-Monthly-Salary-After-Tax](https://www.v2ex.com/t/884706) 
-- [【V2EX】2022-10-05-apple-silicon-M2-使用-intel-版本软件时如何禁用内存的写入保护](https://www.v2ex.com/t/884705) 
-- [【V2EX】2022-10-05-手机号是异地的，但是本地的-96110-一直打电话来，接了一次之后一直打~是因为自己有一张美区手机卡吗](https://www.v2ex.com/t/884703) 
-- [【V2EX】2022-10-05-IOS16-锁屏时间,自动淡化,如何让它不淡化](https://www.v2ex.com/t/884702) 
-- [【V2EX】2022-10-05-请问大家戴尔新出的-DA305-扩展坞咋样？](https://www.v2ex.com/t/884701) 
-- [【V2EX】2022-10-05-APPLE-MUSIC-上一秒还在听的歌，下一秒就不在该国家提供了](https://www.v2ex.com/t/884700) 
-- [【V2EX】2022-10-05-喜欢这个功能吗?-喜欢就砍了:-OneNote-2016](https://www.v2ex.com/t/884699) 
 - [【技术头条】2022-10-05-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-05-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-05-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -136,10 +133,10 @@
 - [【开发者头条】2022-10-05-不靠分库分表和分布式缓存，如何从数据层面提升系统并发能力？](https://toutiao.io/k/w8pbpvo) 
 - [【开发者头条】2022-10-05-设计糟糕的分库分表是如何把系统搞挂的？](https://toutiao.io/k/05avlb4) 
 - [【开发者头条】2022-10-05-美团超1.5万台Kafka，抗下每秒数亿消息量的挑战！](https://toutiao.io/k/hm62dg8) 
-- [【开发者头条】2022-10-05-你写-Go-代码写注释吗？谈谈-Go-代码注释问题](https://toutiao.io/k/y5rx7k3) 
 - [【开发者头条】2022-10-05-RoaringBitMap在B站大数据中的应用](https://toutiao.io/k/no6xbpy) 
-- [【开发者头条】2022-10-05-推荐-性能优化必备——火焰图](https://toutiao.io/k/azf7ub6) 
+- [【开发者头条】2022-10-05-你写-Go-代码写注释吗？谈谈-Go-代码注释问题](https://toutiao.io/k/y5rx7k3) 
 - [【开发者头条】2022-10-05-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) 
+- [【开发者头条】2022-10-05-推荐-性能优化必备——火焰图](https://toutiao.io/k/azf7ub6) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

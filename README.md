@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-05 07:08:10，:rocket: 更新条数: +2018， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-05 07:54:03，:rocket: 更新条数: +2015， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-10-05-使用-rsync-同步-2-台机器的代码文件夹，需要保留文件修改时间，而且需要让两台机器拥有同样的权限，该使用什么参数？](https://www.v2ex.com/t/884755) ![](assets/new.png)  
+- [2022-10-05-阿里云盘分享.rar-文件方法](https://www.v2ex.com/t/884754) ![](assets/new.png)  
+- [2022-10-05-一级注册建筑师求私活，小建筑或者住宅店铺装修均可，也可以免费咨询一些问题问与答第二弹）](https://www.v2ex.com/t/884750) ![](assets/new.png)  
 - [2022-10-05-码农使用，预算-1.5-万求推荐配置，-cpu13900k，内存-128g，磁盘纯固态-1t，不需要显卡显示器，需要静音一些，性能好一些](https://www.v2ex.com/t/884747) ![](assets/new.png)  
 - [2022-10-05-iPhone-自带输入法探讨](https://www.v2ex.com/t/884745) ![](assets/new.png)  
 - [2022-10-05-旧手机当-Linux-服务器的吐槽和讨论](https://www.v2ex.com/t/884743) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-10-05-只有命令行-sudo-权限的情况下如何更改登录界面用户名？](https://www.v2ex.com/t/884726) ![](assets/new.png)  
 - [2022-10-05-微信读-Epic](https://www.v2ex.com/t/884725) ![](assets/new.png)  
 - [2022-10-05-因手机号营销电话短信太多，销号之后是不是需要把所有银行走一遍换号流程？](https://www.v2ex.com/t/884724) ![](assets/new.png)  
-- [2022-10-05-今天在使用-OneDrive-发现还在用以前学校账户，担心被关闭使用数据来不及下载，要不要买个家庭版-OneDrive-呀](https://www.v2ex.com/t/884723) ![](assets/new.png)  
-- [2022-10-05-搬瓦工-IP-和-vps-端口正常-不让换机房，让我-PING443-端口。](https://www.v2ex.com/t/884722) ![](assets/new.png)  
-- [2022-10-05-领势-Linksys-velop-mx4200-用不了-HomeKit-为啥](https://www.v2ex.com/t/884721) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -561,10 +561,10 @@
 - [2022-10-05-不靠分库分表和分布式缓存，如何从数据层面提升系统并发能力？](https://toutiao.io/k/w8pbpvo) ![](assets/new.png)  
 - [2022-10-05-设计糟糕的分库分表是如何把系统搞挂的？](https://toutiao.io/k/05avlb4) ![](assets/new.png)  
 - [2022-10-05-美团超1.5万台Kafka，抗下每秒数亿消息量的挑战！](https://toutiao.io/k/hm62dg8) ![](assets/new.png)  
-- [2022-10-05-你写-Go-代码写注释吗？谈谈-Go-代码注释问题](https://toutiao.io/k/y5rx7k3) ![](assets/new.png)  
 - [2022-10-05-RoaringBitMap在B站大数据中的应用](https://toutiao.io/k/no6xbpy) ![](assets/new.png)  
-- [2022-10-05-推荐-性能优化必备——火焰图](https://toutiao.io/k/azf7ub6) ![](assets/new.png)  
+- [2022-10-05-你写-Go-代码写注释吗？谈谈-Go-代码注释问题](https://toutiao.io/k/y5rx7k3) ![](assets/new.png)  
 - [2022-10-05-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) ![](assets/new.png)  
+- [2022-10-05-推荐-性能优化必备——火焰图](https://toutiao.io/k/azf7ub6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

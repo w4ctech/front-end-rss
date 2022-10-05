@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-10-05 15:17:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-05 15:48:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-10-05-Twitter-疑似接入-CN2-GT](https://www.v2ex.com/t/884820) 
 - [2022-10-05-求解-MySQL-8.0-Left-Join-的表使用-PARTITION-分区的问题](https://www.v2ex.com/t/884818) 
 - [2022-10-05-原来-AirPods-Pro-一代的硬件是会“老化”的](https://www.v2ex.com/t/884817) 
 - [2022-10-05-求适合建站且国内访问速度快的-vps，-1-核-1G，-3M-及以上带宽，年付￥-300-400？](https://www.v2ex.com/t/884816) 
@@ -24,7 +25,6 @@
 - [2022-10-05-据说-macwk-关站了？](https://www.v2ex.com/t/884794) 
 - [2022-10-05-macwk-没了？](https://www.v2ex.com/t/884793) 
 - [2022-10-05-在保-iphone12-因屏幕有裂纹不予售后](https://www.v2ex.com/t/884792) 
-- [2022-10-05-沿海地区买房考虑战争因素是多虑了嘛？](https://www.v2ex.com/t/884790) 
 - [2022-10-05-如何将大量-Apple-自带记事本-Notes-笔记导出到-Jophin-中（Markdown）](https://www.v2ex.com/t/884789) 
 - [2022-10-05-赛博朋克：边缘行者-的片源为什么是-1080P，-Netflix-为什么不做-4K](https://www.v2ex.com/t/884788) 
 - [2022-10-05-如果苹果-ID-登录自带邮件-App，应用商店切换区域，不用重新登陆？对吗？有人试过吗？](https://www.v2ex.com/t/884787) 
@@ -38,5 +38,3 @@
 - [2022-10-05-Linux-下建立安卓开发环境有没有比较简单的方法](https://www.v2ex.com/t/884777) 
 - [2022-10-05-淘宝迷之操作——商品快照](https://www.v2ex.com/t/884775) 
 - [2022-10-05-截图软件-verycapture-又升级了，迎来了-1.8.9](https://www.v2ex.com/t/884774) 
-- [2022-10-05-乌龟待办-让生活和工作不再分开](https://www.v2ex.com/t/884771) 
-- [2022-10-05-小软件收到第一个会员订阅](https://www.v2ex.com/t/884770) 

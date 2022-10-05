@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-05 04:26:52。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-10-05 05:27:38。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,17 @@
 </summary>
 
 
+- [【V2EX】2022-10-05-AirPods-Pro-2-体验下来的主要提升点](https://www.v2ex.com/t/884728) 
+- [【V2EX】2022-10-05-像-天眼查-企查查-这种平台，他们如何调动的接口来查询的](https://www.v2ex.com/t/884727) 
+- [【V2EX】2022-10-05-只有命令行-sudo-权限的情况下如何更改登录界面用户名？](https://www.v2ex.com/t/884726) 
+- [【V2EX】2022-10-05-微信读-Epic](https://www.v2ex.com/t/884725) 
+- [【V2EX】2022-10-05-因手机号营销电话短信太多，销号之后是不是需要把所有银行走一遍换号流程？](https://www.v2ex.com/t/884724) 
+- [【V2EX】2022-10-05-今天在使用-OneDrive-发现还在用以前学校账户，担心被关闭使用数据来不及下载，要不要买个家庭版-OneDrive-呀](https://www.v2ex.com/t/884723) 
+- [【V2EX】2022-10-05-搬瓦工-IP-和-vps-端口正常-不让换机房，让我-PING443-端口。](https://www.v2ex.com/t/884722) 
+- [【V2EX】2022-10-05-领势-Linksys-velop-mx4200-用不了-HomeKit-为啥](https://www.v2ex.com/t/884721) 
+- [【V2EX】2022-10-05-求一些-k8s-学习资料](https://www.v2ex.com/t/884720) 
+- [【V2EX】2022-10-05-USB-Type-C-统治世界](https://www.v2ex.com/t/884719) 
+- [【V2EX】2022-10-05-virmach-这个运营商买个-VPS-要-pending-多久](https://www.v2ex.com/t/884718) 
 - [【V2EX】2022-10-05-突发奇想，国内是不是需要一个-好思路？](https://www.v2ex.com/t/884717) 
 - [【V2EX】2022-10-05-目前安卓阵营里面能做到系统简洁、轻快、极客风格的是不是只剩下-Pixel、一加和三星了？](https://www.v2ex.com/t/884716) 
 - [【V2EX】2022-10-05-国庆这几天有人去过康定新都桥吗?地震影响路况不?](https://www.v2ex.com/t/884715) 
@@ -85,7 +96,6 @@
 - [【V2EX】2022-10-05-请问大家戴尔新出的-DA305-扩展坞咋样？](https://www.v2ex.com/t/884701) 
 - [【V2EX】2022-10-05-APPLE-MUSIC-上一秒还在听的歌，下一秒就不在该国家提供了](https://www.v2ex.com/t/884700) 
 - [【V2EX】2022-10-05-喜欢这个功能吗?-喜欢就砍了:-OneNote-2016](https://www.v2ex.com/t/884699) 
-- [【V2EX】2022-10-05-v2ex-账号被降权了会自动恢复吗？](https://www.v2ex.com/t/884697) 
 - [【V2EX】2022-10-05-Mac-系统，如何优雅的安装多个不同版本的-Chrome？](https://www.v2ex.com/t/884696) 
 - [【V2EX】2022-10-05-网站加-SSL-证书后打不开](https://www.v2ex.com/t/884694) 
 - [【V2EX】2022-10-05-个人电脑装-Linux-，文件系统选-ext4-还是-btrfs](https://www.v2ex.com/t/884693) 
@@ -100,14 +110,6 @@
 - [【V2EX】2022-10-04-Mac-studio-什么渠道入更划算？](https://www.v2ex.com/t/884681) 
 - [【V2EX】2022-10-04-各位的深度睡眠都是多少啊](https://www.v2ex.com/t/884680) 
 - [【V2EX】2022-10-04-B-站-LOL-比赛直播页面一打开-CPU-就跑满](https://www.v2ex.com/t/884679) 
-- [【V2EX】2022-10-04-刚毕业一年多的程序员要不要回老家国企工作](https://www.v2ex.com/t/884678) 
-- [【V2EX】2022-10-04-苹果电脑，不插电睡眠后唤醒会进入黑屏状态](https://www.v2ex.com/t/884677) 
-- [【V2EX】2022-10-04-ifaa-||-bb-&&-cc中的-boolean-表达式，假如要删除-aa-或-bb-或-cc-你们怎么操作](https://www.v2ex.com/t/884675) 
-- [【V2EX】2022-10-04-有没有比较好的-macOS-开发的系列教程啊？求求求～](https://www.v2ex.com/t/884673) 
-- [【V2EX】2022-10-04-redis-事务，当-multi-发送给服务器之后，服务器能在-multi-和-exec-之间这段时间内执行来自别的客户端的命令吗？](https://www.v2ex.com/t/884672) 
-- [【V2EX】2022-10-04-上海电信这边看到一个上行-500M，下行-1000M-的宽带，请问这是什么套餐？](https://www.v2ex.com/t/884671) 
-- [【V2EX】2022-10-04-安卓-8.0-开了免打扰之后，明明已经给-QQ-开了白名单，也允许响铃，但是-QQ-就是没有默认的“叮咚”提示音](https://www.v2ex.com/t/884670) 
-- [【V2EX】2022-10-04-有没有定向语音通知的服务呢？](https://www.v2ex.com/t/884668) 
 - [【技术头条】2022-10-05-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-05-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-05-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -138,8 +140,8 @@
 - [【开发者头条】2022-10-05-美团超1.5万台Kafka，抗下每秒数亿消息量的挑战！](https://toutiao.io/k/hm62dg8) 
 - [【开发者头条】2022-10-05-你写-Go-代码写注释吗？谈谈-Go-代码注释问题](https://toutiao.io/k/y5rx7k3) 
 - [【开发者头条】2022-10-05-RoaringBitMap在B站大数据中的应用](https://toutiao.io/k/no6xbpy) 
-- [【开发者头条】2022-10-05-推荐-性能优化必备——火焰图](https://toutiao.io/k/azf7ub6) 
 - [【开发者头条】2022-10-05-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) 
+- [【开发者头条】2022-10-05-推荐-性能优化必备——火焰图](https://toutiao.io/k/azf7ub6) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

@@ -9953,6 +9953,61 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "AirPods Pro 2 体验下来的主要提升点",
+        "link": "https://www.v2ex.com/t/884728",
+        "date": "2022-10-05"
+      },
+      {
+        "title": "像 天眼查 企查查 这种平台，他们如何调动的接口来查询的",
+        "link": "https://www.v2ex.com/t/884727",
+        "date": "2022-10-05"
+      },
+      {
+        "title": "只有命令行 sudo 权限的情况下如何更改登录界面用户名？",
+        "link": "https://www.v2ex.com/t/884726",
+        "date": "2022-10-05"
+      },
+      {
+        "title": "微信读 Epic",
+        "link": "https://www.v2ex.com/t/884725",
+        "date": "2022-10-05"
+      },
+      {
+        "title": "因手机号营销电话短信太多，销号之后是不是需要把所有银行走一遍换号流程？",
+        "link": "https://www.v2ex.com/t/884724",
+        "date": "2022-10-05"
+      },
+      {
+        "title": "今天在使用 OneDrive 发现还在用以前学校账户，担心被关闭使用数据来不及下载，要不要买个家庭版 OneDrive 呀",
+        "link": "https://www.v2ex.com/t/884723",
+        "date": "2022-10-05"
+      },
+      {
+        "title": "搬瓦工 IP 和 vps 端口正常 不让换机房，让我 PING443 端口。",
+        "link": "https://www.v2ex.com/t/884722",
+        "date": "2022-10-05"
+      },
+      {
+        "title": "领势 Linksys velop mx4200 用不了 HomeKit 为啥",
+        "link": "https://www.v2ex.com/t/884721",
+        "date": "2022-10-05"
+      },
+      {
+        "title": "求一些 k8s 学习资料",
+        "link": "https://www.v2ex.com/t/884720",
+        "date": "2022-10-05"
+      },
+      {
+        "title": "USB Type C 统治世界",
+        "link": "https://www.v2ex.com/t/884719",
+        "date": "2022-10-05"
+      },
+      {
+        "title": "virmach 这个运营商买个 VPS 要 pending 多久",
+        "link": "https://www.v2ex.com/t/884718",
+        "date": "2022-10-05"
+      },
+      {
         "title": "突发奇想，国内是不是需要一个 好思路？",
         "link": "https://www.v2ex.com/t/884717",
         "date": "2022-10-05"
@@ -10038,11 +10093,6 @@
         "date": "2022-10-05"
       },
       {
-        "title": "v2ex 账号被降权了会自动恢复吗？",
-        "link": "https://www.v2ex.com/t/884697",
-        "date": "2022-10-05"
-      },
-      {
         "title": "Mac 系统，如何优雅的安装多个不同版本的 Chrome？",
         "link": "https://www.v2ex.com/t/884696",
         "date": "2022-10-05"
@@ -10110,46 +10160,6 @@
       {
         "title": "B 站 LOL 比赛直播页面一打开 CPU 就跑满",
         "link": "https://www.v2ex.com/t/884679",
-        "date": "2022-10-04"
-      },
-      {
-        "title": "刚毕业一年多的程序员要不要回老家国企工作",
-        "link": "https://www.v2ex.com/t/884678",
-        "date": "2022-10-04"
-      },
-      {
-        "title": "苹果电脑，不插电睡眠后唤醒会进入黑屏状态",
-        "link": "https://www.v2ex.com/t/884677",
-        "date": "2022-10-04"
-      },
-      {
-        "title": "if(aa || bb && cc)中的 boolean 表达式，假如要删除 aa 或 bb 或 cc 你们怎么操作",
-        "link": "https://www.v2ex.com/t/884675",
-        "date": "2022-10-04"
-      },
-      {
-        "title": "有没有比较好的 macOS 开发的系列教程啊？求求求～",
-        "link": "https://www.v2ex.com/t/884673",
-        "date": "2022-10-04"
-      },
-      {
-        "title": "redis 事务，当 multi 发送给服务器之后，服务器能在 multi 和 exec 之间这段时间内执行来自别的客户端的命令吗？",
-        "link": "https://www.v2ex.com/t/884672",
-        "date": "2022-10-04"
-      },
-      {
-        "title": "上海电信这边看到一个上行 500M，下行 1000M 的宽带，请问这是什么套餐？",
-        "link": "https://www.v2ex.com/t/884671",
-        "date": "2022-10-04"
-      },
-      {
-        "title": "安卓 8.0 开了免打扰之后，明明已经给 QQ 开了白名单，也允许响铃，但是 QQ 就是没有默认的“叮咚”提示音",
-        "link": "https://www.v2ex.com/t/884670",
-        "date": "2022-10-04"
-      },
-      {
-        "title": "有没有定向语音通知的服务呢？",
-        "link": "https://www.v2ex.com/t/884668",
         "date": "2022-10-04"
       }
     ]
@@ -10317,13 +10327,13 @@
         "date": "2022-10-05"
       },
       {
-        "title": "[推荐] 性能优化必备——火焰图",
-        "link": "https://toutiao.io/k/azf7ub6",
+        "title": "[推荐] 分享16个我总结的思维模型（程序员必读，受用终身）",
+        "link": "https://toutiao.io/k/f7r13v5",
         "date": "2022-10-05"
       },
       {
-        "title": "[推荐] 分享16个我总结的思维模型（程序员必读，受用终身）",
-        "link": "https://toutiao.io/k/f7r13v5",
+        "title": "[推荐] 性能优化必备——火焰图",
+        "link": "https://toutiao.io/k/azf7ub6",
         "date": "2022-10-05"
       }
     ]

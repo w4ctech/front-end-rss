@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-05 09:51:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-05 10:18:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1914,6 +1914,7 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-10-05-verycapture-又升级了，迎来了-1.8.9](https://www.v2ex.com/t/884774) 
 - [2022-10-05-乌龟待办-让生活和工作不再分开](https://www.v2ex.com/t/884771) 
 - [2022-10-05-小软件收到第一个会员订阅](https://www.v2ex.com/t/884770) 
 - [2022-10-05-Surge5-出一个车位](https://www.v2ex.com/t/884769) 
@@ -1943,9 +1944,6 @@
 - [2022-10-05-像-天眼查-企查查-这种平台，他们如何调动的接口来查询的](https://www.v2ex.com/t/884727) 
 - [2022-10-05-只有命令行-sudo-权限的情况下如何更改登录界面用户名？](https://www.v2ex.com/t/884726) 
 - [2022-10-05-微信读-Epic](https://www.v2ex.com/t/884725) 
-- [2022-10-05-因手机号营销电话短信太多，销号之后是不是需要把所有银行走一遍换号流程？](https://www.v2ex.com/t/884724) 
-- [2022-10-05-今天在使用-OneDrive-发现还在用以前学校账户，担心被关闭使用数据来不及下载，要不要买个家庭版-OneDrive-呀](https://www.v2ex.com/t/884723) 
-- [2022-10-05-搬瓦工-IP-和-vps-端口正常-不让换机房，让我-PING443-端口。](https://www.v2ex.com/t/884722) 
 - [2022-10-05-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-05-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-05-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

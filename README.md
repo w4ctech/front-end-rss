@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-05 09:51:25，:rocket: 更新条数: +2012， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-05 10:18:21，:rocket: 更新条数: +2010， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-10-05-verycapture-又升级了，迎来了-1.8.9](https://www.v2ex.com/t/884774) ![](assets/new.png)  
 - [2022-10-05-乌龟待办-让生活和工作不再分开](https://www.v2ex.com/t/884771) ![](assets/new.png)  
 - [2022-10-05-小软件收到第一个会员订阅](https://www.v2ex.com/t/884770) ![](assets/new.png)  
 - [2022-10-05-Surge5-出一个车位](https://www.v2ex.com/t/884769) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-10-05-iPhone-自带输入法探讨](https://www.v2ex.com/t/884745) ![](assets/new.png)  
 - [2022-10-05-旧手机当-Linux-服务器的吐槽和讨论](https://www.v2ex.com/t/884743) ![](assets/new.png)  
 - [2022-10-05-有没有过滤广告的油猴脚本](https://www.v2ex.com/t/884742) ![](assets/new.png)  
-- [2022-10-05-不懂就问-大家的存款如何支配和理财的](https://www.v2ex.com/t/884741) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

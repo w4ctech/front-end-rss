@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-05 08:20:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-05 08:54:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1914,6 +1914,9 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-10-05-大佬们是如何屏蔽这类垃圾短信的？？](https://www.v2ex.com/t/884761) 
+- [2022-10-05-Java-POI-导出-excel-打开文件提示文件格式或扩展名无效，应该是编码问题但一直找不到解决方法，求大神指导下！](https://www.v2ex.com/t/884759) 
+- [2022-10-05-2022-年有哪些值得推荐的云服务器？](https://www.v2ex.com/t/884757) 
 - [2022-10-05-请教网盘-nextcloud-的同步问题](https://www.v2ex.com/t/884756) 
 - [2022-10-05-使用-rsync-同步-2-台机器的代码文件夹，需要保留文件修改时间，而且需要让两台机器拥有同样的权限，该使用什么参数？](https://www.v2ex.com/t/884755) 
 - [2022-10-05-阿里云盘分享.rar-文件方法](https://www.v2ex.com/t/884754) 
@@ -1944,10 +1947,6 @@
 - [2022-10-05-目前安卓阵营里面能做到系统简洁、轻快、极客风格的是不是只剩下-Pixel、一加和三星了？](https://www.v2ex.com/t/884716) 
 - [2022-10-05-国庆这几天有人去过康定新都桥吗?地震影响路况不?](https://www.v2ex.com/t/884715) 
 - [2022-10-05-矿卡用于生产力怎么样深度学习）](https://www.v2ex.com/t/884713) 
-- [2022-10-05-有没有面板-AP-不用-AC-实现无缝漫游的方案？](https://www.v2ex.com/t/884712) 
-- [2022-10-05-translucentTB-没法透明任务栏了？](https://www.v2ex.com/t/884711) 
-- [2022-10-05-红米-AX6-局域网-iPerf3-测速只能跑到标称一半](https://www.v2ex.com/t/884708) 
-- [2022-10-05-做一个类似-apple-icloud-本地备份的软件，实现-windows-上软件和文件的云端备份](https://www.v2ex.com/t/884707) 
 - [2022-10-05-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-05-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-05-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

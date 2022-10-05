@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-05 08:54:02，:rocket: 更新条数: +2014， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-05 09:19:59，:rocket: 更新条数: +2012， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-10-05-mysql-容器崩溃，连接未正常关闭，会损坏数据卷，那-redis-呢](https://www.v2ex.com/t/884767) ![](assets/new.png)  
+- [2022-10-05-你们的键盘都用多久了？](https://www.v2ex.com/t/884766) ![](assets/new.png)  
+- [2022-10-05-请问中文翻译泰文的线上翻译免费哪个准确性最高?](https://www.v2ex.com/t/884765) ![](assets/new.png)  
+- [2022-10-05-Google-搜索很多中文词汇只有几十条结果](https://www.v2ex.com/t/884763) ![](assets/new.png)  
 - [2022-10-05-大佬们是如何屏蔽这类垃圾短信的？？](https://www.v2ex.com/t/884761) ![](assets/new.png)  
 - [2022-10-05-Java-POI-导出-excel-打开文件提示文件格式或扩展名无效，应该是编码问题但一直找不到解决方法，求大神指导下！](https://www.v2ex.com/t/884759) ![](assets/new.png)  
 - [2022-10-05-neovim-v0.8-发布了!](https://www.v2ex.com/t/884758) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-10-05-升级了-ventura-后，-144hz-刷新率的选项没了。。。](https://www.v2ex.com/t/884737) ![](assets/new.png)  
 - [2022-10-05-一个很漂亮的-{-个人简历,-团队主页,-职业社交-}-网站](https://www.v2ex.com/t/884734) ![](assets/new.png)  
 - [2022-10-05-有没有现成的工具可以用-AI-生成特定类型的图片？](https://www.v2ex.com/t/884733) ![](assets/new.png)  
-- [2022-10-05-淘宝买新电话卡，在快递员上门开卡的时候，可以询问到套餐内容吗？](https://www.v2ex.com/t/884732) ![](assets/new.png)  
-- [2022-10-05-SONY-XR-65X91K-彻底关机问题](https://www.v2ex.com/t/884731) ![](assets/new.png)  
-- [2022-10-05-京东上买-office-家庭版订阅靠谱吗](https://www.v2ex.com/t/884730) ![](assets/new.png)  
-- [2022-10-05-为什么微信-/-QQ-在-iOS-关闭后台刷新功能，进多任务界面上划关掉的情况下还能在后台消耗大量电量？用了什么黑科技保活的？](https://www.v2ex.com/t/884729) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

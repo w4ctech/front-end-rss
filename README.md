@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-05 10:51:31，:rocket: 更新条数: +2007， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-05 11:15:33，:rocket: 更新条数: +2007， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-10-05-诺贝尔物理学奖授予对贝尔不等式的违反](https://www.v2ex.com/t/884783) ![](assets/new.png)  
+- [2022-10-05-Apple-ID-国区转外区-iCloud-迁移问题](https://www.v2ex.com/t/884782) ![](assets/new.png)  
+- [2022-10-05-MBP-重启后-启动台里面-app-图标跑到了整理的文件夹外面](https://www.v2ex.com/t/884781) ![](assets/new.png)  
 - [2022-10-05-vim-Python-脚本如何实现对自定义-Python-文件的引入?](https://www.v2ex.com/t/884778) ![](assets/new.png)  
 - [2022-10-05-Linux-下建立安卓开发环境有没有比较简单的方法](https://www.v2ex.com/t/884777) ![](assets/new.png)  
 - [2022-10-05-淘宝迷之操作——商品快照](https://www.v2ex.com/t/884775) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-10-05-2022-年有哪些值得推荐的云服务器？](https://www.v2ex.com/t/884757) ![](assets/new.png)  
 - [2022-10-05-请教网盘-nextcloud-的同步问题](https://www.v2ex.com/t/884756) ![](assets/new.png)  
 - [2022-10-05-使用-rsync-同步-2-台机器的代码文件夹，需要保留文件修改时间，而且需要让两台机器拥有同样的权限，该使用什么参数？](https://www.v2ex.com/t/884755) ![](assets/new.png)  
-- [2022-10-05-阿里云盘分享.rar-文件方法](https://www.v2ex.com/t/884754) ![](assets/new.png)  
-- [2022-10-05-一级注册建筑师求私活，小建筑或者住宅店铺装修均可，也可以免费咨询一些问题问与答第二弹）](https://www.v2ex.com/t/884750) ![](assets/new.png)  
-- [2022-10-05-码农使用，预算-1.5-万求推荐配置，-cpu13900k，内存-128g，磁盘纯固态-1t，不需要显卡显示器，需要静音一些，性能好一些](https://www.v2ex.com/t/884747) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

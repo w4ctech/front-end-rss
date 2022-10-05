@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-05 06:08:03，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-05 07:08:10，:rocket: 更新条数: +2018， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-10-05-码农使用，预算-1.5-万求推荐配置，-cpu13900k，内存-128g，磁盘纯固态-1t，不需要显卡显示器，需要静音一些，性能好一些](https://www.v2ex.com/t/884747) ![](assets/new.png)  
+- [2022-10-05-iPhone-自带输入法探讨](https://www.v2ex.com/t/884745) ![](assets/new.png)  
+- [2022-10-05-旧手机当-Linux-服务器的吐槽和讨论](https://www.v2ex.com/t/884743) ![](assets/new.png)  
+- [2022-10-05-有没有过滤广告的油猴脚本](https://www.v2ex.com/t/884742) ![](assets/new.png)  
+- [2022-10-05-不懂就问-大家的存款如何支配和理财的](https://www.v2ex.com/t/884741) ![](assets/new.png)  
+- [2022-10-05-升级了-ventura-后，-144hz-刷新率的选项没了。。。](https://www.v2ex.com/t/884737) ![](assets/new.png)  
 - [2022-10-05-一个很漂亮的-{-个人简历,-团队主页,-职业社交-}-网站](https://www.v2ex.com/t/884734) ![](assets/new.png)  
 - [2022-10-05-有没有现成的工具可以用-AI-生成特定类型的图片？](https://www.v2ex.com/t/884733) ![](assets/new.png)  
 - [2022-10-05-淘宝买新电话卡，在快递员上门开卡的时候，可以询问到套餐内容吗？](https://www.v2ex.com/t/884732) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-10-05-今天在使用-OneDrive-发现还在用以前学校账户，担心被关闭使用数据来不及下载，要不要买个家庭版-OneDrive-呀](https://www.v2ex.com/t/884723) ![](assets/new.png)  
 - [2022-10-05-搬瓦工-IP-和-vps-端口正常-不让换机房，让我-PING443-端口。](https://www.v2ex.com/t/884722) ![](assets/new.png)  
 - [2022-10-05-领势-Linksys-velop-mx4200-用不了-HomeKit-为啥](https://www.v2ex.com/t/884721) ![](assets/new.png)  
-- [2022-10-05-求一些-k8s-学习资料](https://www.v2ex.com/t/884720) ![](assets/new.png)  
-- [2022-10-05-USB-Type-C-统治世界](https://www.v2ex.com/t/884719) ![](assets/new.png)  
-- [2022-10-05-virmach-这个运营商买个-VPS-要-pending-多久](https://www.v2ex.com/t/884718) ![](assets/new.png)  
-- [2022-10-05-突发奇想，国内是不是需要一个-好思路？](https://www.v2ex.com/t/884717) ![](assets/new.png)  
-- [2022-10-05-目前安卓阵营里面能做到系统简洁、轻快、极客风格的是不是只剩下-Pixel、一加和三星了？](https://www.v2ex.com/t/884716) ![](assets/new.png)  
-- [2022-10-05-国庆这几天有人去过康定新都桥吗?地震影响路况不?](https://www.v2ex.com/t/884715) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,8 +563,8 @@
 - [2022-10-05-美团超1.5万台Kafka，抗下每秒数亿消息量的挑战！](https://toutiao.io/k/hm62dg8) ![](assets/new.png)  
 - [2022-10-05-你写-Go-代码写注释吗？谈谈-Go-代码注释问题](https://toutiao.io/k/y5rx7k3) ![](assets/new.png)  
 - [2022-10-05-RoaringBitMap在B站大数据中的应用](https://toutiao.io/k/no6xbpy) ![](assets/new.png)  
-- [2022-10-05-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) ![](assets/new.png)  
 - [2022-10-05-推荐-性能优化必备——火焰图](https://toutiao.io/k/azf7ub6) ![](assets/new.png)  
+- [2022-10-05-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

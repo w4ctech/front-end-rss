@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-05 06:08:03。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-10-05 07:08:10。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,12 @@
 </summary>
 
 
+- [【V2EX】2022-10-05-码农使用，预算-1.5-万求推荐配置，-cpu13900k，内存-128g，磁盘纯固态-1t，不需要显卡显示器，需要静音一些，性能好一些](https://www.v2ex.com/t/884747) 
+- [【V2EX】2022-10-05-iPhone-自带输入法探讨](https://www.v2ex.com/t/884745) 
+- [【V2EX】2022-10-05-旧手机当-Linux-服务器的吐槽和讨论](https://www.v2ex.com/t/884743) 
+- [【V2EX】2022-10-05-有没有过滤广告的油猴脚本](https://www.v2ex.com/t/884742) 
+- [【V2EX】2022-10-05-不懂就问-大家的存款如何支配和理财的](https://www.v2ex.com/t/884741) 
+- [【V2EX】2022-10-05-升级了-ventura-后，-144hz-刷新率的选项没了。。。](https://www.v2ex.com/t/884737) 
 - [【V2EX】2022-10-05-一个很漂亮的-{-个人简历,-团队主页,-职业社交-}-网站](https://www.v2ex.com/t/884734) 
 - [【V2EX】2022-10-05-有没有现成的工具可以用-AI-生成特定类型的图片？](https://www.v2ex.com/t/884733) 
 - [【V2EX】2022-10-05-淘宝买新电话卡，在快递员上门开卡的时候，可以询问到套餐内容吗？](https://www.v2ex.com/t/884732) 
@@ -102,13 +108,6 @@
 - [【V2EX】2022-10-05-请问大家戴尔新出的-DA305-扩展坞咋样？](https://www.v2ex.com/t/884701) 
 - [【V2EX】2022-10-05-APPLE-MUSIC-上一秒还在听的歌，下一秒就不在该国家提供了](https://www.v2ex.com/t/884700) 
 - [【V2EX】2022-10-05-喜欢这个功能吗?-喜欢就砍了:-OneNote-2016](https://www.v2ex.com/t/884699) 
-- [【V2EX】2022-10-05-Mac-系统，如何优雅的安装多个不同版本的-Chrome？](https://www.v2ex.com/t/884696) 
-- [【V2EX】2022-10-05-网站加-SSL-证书后打不开](https://www.v2ex.com/t/884694) 
-- [【V2EX】2022-10-05-个人电脑装-Linux-，文件系统选-ext4-还是-btrfs](https://www.v2ex.com/t/884693) 
-- [【V2EX】2022-10-05-JavaScript（油猴脚本）中跨域通讯能用一个异步函数搞定吗？](https://www.v2ex.com/t/884692) 
-- [【V2EX】2022-10-05-提问哪里有可以生成关键词词云的在线工具](https://www.v2ex.com/t/884691) 
-- [【V2EX】2022-10-05-价格差不多，买-iPhone-还是-Mac？](https://www.v2ex.com/t/884689) 
-- [【V2EX】2022-10-05-Bitwarden-支持把密码本和-TOTP-放在一起，这是出于什么考虑？](https://www.v2ex.com/t/884687) 
 - [【技术头条】2022-10-05-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-05-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-05-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -139,8 +138,8 @@
 - [【开发者头条】2022-10-05-美团超1.5万台Kafka，抗下每秒数亿消息量的挑战！](https://toutiao.io/k/hm62dg8) 
 - [【开发者头条】2022-10-05-你写-Go-代码写注释吗？谈谈-Go-代码注释问题](https://toutiao.io/k/y5rx7k3) 
 - [【开发者头条】2022-10-05-RoaringBitMap在B站大数据中的应用](https://toutiao.io/k/no6xbpy) 
-- [【开发者头条】2022-10-05-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) 
 - [【开发者头条】2022-10-05-推荐-性能优化必备——火焰图](https://toutiao.io/k/azf7ub6) 
+- [【开发者头条】2022-10-05-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

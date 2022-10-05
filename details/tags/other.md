@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-05 06:08:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-05 07:08:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1914,6 +1914,11 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-10-05-iPhone-自带输入法探讨](https://www.v2ex.com/t/884745) 
+- [2022-10-05-旧手机当-Linux-服务器的吐槽和讨论](https://www.v2ex.com/t/884743) 
+- [2022-10-05-有没有过滤广告的油猴脚本](https://www.v2ex.com/t/884742) 
+- [2022-10-05-不懂就问-大家的存款如何支配和理财的](https://www.v2ex.com/t/884741) 
+- [2022-10-05-升级了-ventura-后，-144hz-刷新率的选项没了。。。](https://www.v2ex.com/t/884737) 
 - [2022-10-05-一个很漂亮的-{-个人简历,-团队主页,-职业社交-}-网站](https://www.v2ex.com/t/884734) 
 - [2022-10-05-有没有现成的工具可以用-AI-生成特定类型的图片？](https://www.v2ex.com/t/884733) 
 - [2022-10-05-淘宝买新电话卡，在快递员上门开卡的时候，可以询问到套餐内容吗？](https://www.v2ex.com/t/884732) 
@@ -1946,11 +1951,6 @@
 - [2022-10-05-请问大家戴尔新出的-DA305-扩展坞咋样？](https://www.v2ex.com/t/884701) 
 - [2022-10-05-APPLE-MUSIC-上一秒还在听的歌，下一秒就不在该国家提供了](https://www.v2ex.com/t/884700) 
 - [2022-10-05-喜欢这个功能吗?-喜欢就砍了:-OneNote-2016](https://www.v2ex.com/t/884699) 
-- [2022-10-05-网站加-SSL-证书后打不开](https://www.v2ex.com/t/884694) 
-- [2022-10-05-个人电脑装-Linux-，文件系统选-ext4-还是-btrfs](https://www.v2ex.com/t/884693) 
-- [2022-10-05-提问哪里有可以生成关键词词云的在线工具](https://www.v2ex.com/t/884691) 
-- [2022-10-05-价格差不多，买-iPhone-还是-Mac？](https://www.v2ex.com/t/884689) 
-- [2022-10-05-Bitwarden-支持把密码本和-TOTP-放在一起，这是出于什么考虑？](https://www.v2ex.com/t/884687) 
 - [2022-10-05-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-05-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-05-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-10-05 06:08:03。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-05 07:08:10。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -176,7 +176,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】香港再现数例疫苗接种严重异常事件-专家初判与疫苗无关](https://china.caixin.com/m/2021-03-08/101672619.html)
 - [【武汉肺炎防疫全纪录(财新网)】港府回应一63岁患者死亡事件-暂无法确定与疫苗相关](https://m.caixin.com/m/2021-03-03/101670052.html)
 - [【张鑫旭-鑫空间-鑫生活】JS-replaceAll-和-matchAll-使用指南不指北](https://www.zhangxinxu.com/wordpress/2022/08/js-replaceall-matchall/)
-- [【V2EX】JavaScript（油猴脚本）中跨域通讯能用一个异步函数搞定吗？](https://www.v2ex.com/t/884692)
 - [【开发者头条】JAVA-规则引擎-JSR-94](https://toutiao.io/k/sty3d9t)
 - [......【查看更多】......](./details/tags/javascript.md)
 
@@ -250,6 +249,7 @@
 
 
 
+- [【V2EX】码农使用，预算-1.5-万求推荐配置，-cpu13900k，内存-128g，磁盘纯固态-1t，不需要显卡显示器，需要静音一些，性能好一些](https://www.v2ex.com/t/884747)
 - [【开发者头条】推荐-性能优化必备——火焰图](https://toutiao.io/k/azf7ub6)
 - [......【查看更多】......](./details/tags/optimization.md)
 
@@ -274,7 +274,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
 - [【V2EX】Figma-的-A4-宽度是-595px，-Chrome-打印的-A4-宽度是-794px，那么应该怎么在-Figma-里面做-A4-的设计呢？](https://www.v2ex.com/t/884709)
-- [【V2EX】Mac-系统，如何优雅的安装多个不同版本的-Chrome？](https://www.v2ex.com/t/884696)
 - [【开发者头条】不靠分库分表和分布式缓存，如何从数据层面提升系统并发能力？](https://toutiao.io/k/w8pbpvo)
 - [......【查看更多】......](./details/tags/browser.md)
 

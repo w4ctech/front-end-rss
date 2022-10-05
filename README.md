@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-05 03:22:02，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-05 04:26:51，:rocket: 更新条数: +2018， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,26 +491,26 @@
 </summary>
 
 
+- [2022-10-05-突发奇想，国内是不是需要一个-好思路？](https://www.v2ex.com/t/884717) ![](assets/new.png)  
+- [2022-10-05-目前安卓阵营里面能做到系统简洁、轻快、极客风格的是不是只剩下-Pixel、一加和三星了？](https://www.v2ex.com/t/884716) ![](assets/new.png)  
+- [2022-10-05-国庆这几天有人去过康定新都桥吗?地震影响路况不?](https://www.v2ex.com/t/884715) ![](assets/new.png)  
+- [2022-10-05-RMB-求助-Java-支持-WEBP](https://www.v2ex.com/t/884714) ![](assets/new.png)  
+- [2022-10-05-矿卡用于生产力怎么样深度学习）](https://www.v2ex.com/t/884713) ![](assets/new.png)  
+- [2022-10-05-有没有面板-AP-不用-AC-实现无缝漫游的方案？](https://www.v2ex.com/t/884712) ![](assets/new.png)  
+- [2022-10-05-translucentTB-没法透明任务栏了？](https://www.v2ex.com/t/884711) ![](assets/new.png)  
+- [2022-10-05-Figma-的-A4-宽度是-595px，-Chrome-打印的-A4-宽度是-794px，那么应该怎么在-Figma-里面做-A4-的设计呢？](https://www.v2ex.com/t/884709) ![](assets/new.png)  
+- [2022-10-05-红米-AX6-局域网-iPerf3-测速只能跑到标称一半](https://www.v2ex.com/t/884708) ![](assets/new.png)  
+- [2022-10-05-做一个类似-apple-icloud-本地备份的软件，实现-windows-上软件和文件的云端备份](https://www.v2ex.com/t/884707) ![](assets/new.png)  
+- [2022-10-05-🇺🇸Unicorn-Tech-Leader/Up-to-8K-USD-Monthly-Salary-After-Tax](https://www.v2ex.com/t/884706) ![](assets/new.png)  
 - [2022-10-05-apple-silicon-M2-使用-intel-版本软件时如何禁用内存的写入保护](https://www.v2ex.com/t/884705) ![](assets/new.png)  
 - [2022-10-05-手机号是异地的，但是本地的-96110-一直打电话来，接了一次之后一直打~是因为自己有一张美区手机卡吗](https://www.v2ex.com/t/884703) ![](assets/new.png)  
 - [2022-10-05-IOS16-锁屏时间,自动淡化,如何让它不淡化](https://www.v2ex.com/t/884702) ![](assets/new.png)  
 - [2022-10-05-请问大家戴尔新出的-DA305-扩展坞咋样？](https://www.v2ex.com/t/884701) ![](assets/new.png)  
 - [2022-10-05-APPLE-MUSIC-上一秒还在听的歌，下一秒就不在该国家提供了](https://www.v2ex.com/t/884700) ![](assets/new.png)  
 - [2022-10-05-喜欢这个功能吗?-喜欢就砍了:-OneNote-2016](https://www.v2ex.com/t/884699) ![](assets/new.png)  
-- [2022-10-05-V2EX-发帖和回帖已经可以显示来源了](https://www.v2ex.com/t/884698) ![](assets/new.png)  
 - [2022-10-05-v2ex-账号被降权了会自动恢复吗？](https://www.v2ex.com/t/884697) ![](assets/new.png)  
 - [2022-10-05-Mac-系统，如何优雅的安装多个不同版本的-Chrome？](https://www.v2ex.com/t/884696) ![](assets/new.png)  
 - [2022-10-05-网站加-SSL-证书后打不开](https://www.v2ex.com/t/884694) ![](assets/new.png)  
-- [2022-10-05-个人电脑装-Linux-，文件系统选-ext4-还是-btrfs](https://www.v2ex.com/t/884693) ![](assets/new.png)  
-- [2022-10-05-JavaScript（油猴脚本）中跨域通讯能用一个异步函数搞定吗？](https://www.v2ex.com/t/884692) ![](assets/new.png)  
-- [2022-10-05-提问哪里有可以生成关键词词云的在线工具](https://www.v2ex.com/t/884691) ![](assets/new.png)  
-- [2022-10-05-价格差不多，买-iPhone-还是-Mac？](https://www.v2ex.com/t/884689) ![](assets/new.png)  
-- [2022-10-05-Bitwarden-支持把密码本和-TOTP-放在一起，这是出于什么考虑？](https://www.v2ex.com/t/884687) ![](assets/new.png)  
-- [2022-10-05-你们有没有遇到-AirPods-pro-2-盒子有自己掉电的情况？](https://www.v2ex.com/t/884686) ![](assets/new.png)  
-- [2022-10-05-win-10-和-Android-、openwrt-上有类似于-Quantumult-X-软件吗？](https://www.v2ex.com/t/884684) ![](assets/new.png)  
-- [2022-10-05-在-macOS-Big-Sur-/-Monterey-上适用的-Jekyll-安装过程](https://www.v2ex.com/t/884683) ![](assets/new.png)  
-- [2022-10-05-各位-lnmp-是怎么装的](https://www.v2ex.com/t/884682) ![](assets/new.png)  
-- [2022-10-04-Mac-studio-什么渠道入更划算？](https://www.v2ex.com/t/884681) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -556,8 +556,8 @@
 - [2022-10-05-SpringBoot的starter到底是什么？](https://toutiao.io/k/uwwfdsl) ![](assets/new.png)  
 - [2022-10-05-Spring-Cloud-Gateway-服务网关](https://toutiao.io/k/dncyaq6) ![](assets/new.png)  
 - [2022-10-05-JAVA-规则引擎-JSR-94](https://toutiao.io/k/sty3d9t) ![](assets/new.png)  
-- [2022-10-05-2022-年-AI-技术成熟度曲线发布](https://toutiao.io/k/tnvl541) ![](assets/new.png)  
 - [2022-10-05-初探-Flutter-跨端游戏开发](https://toutiao.io/k/eq7rih7) ![](assets/new.png)  
+- [2022-10-05-2022-年-AI-技术成熟度曲线发布](https://toutiao.io/k/tnvl541) ![](assets/new.png)  
 - [2022-10-05-不靠分库分表和分布式缓存，如何从数据层面提升系统并发能力？](https://toutiao.io/k/w8pbpvo) ![](assets/new.png)  
 - [2022-10-05-设计糟糕的分库分表是如何把系统搞挂的？](https://toutiao.io/k/05avlb4) ![](assets/new.png)  
 - [2022-10-05-美团超1.5万台Kafka，抗下每秒数亿消息量的挑战！](https://toutiao.io/k/hm62dg8) ![](assets/new.png)  

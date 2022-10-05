@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-05 11:43:19。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-10-05 12:31:00。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,11 @@
 </summary>
 
 
+- [【V2EX】2022-10-05-沿海地区买房考虑战争因素是多虑了嘛？](https://www.v2ex.com/t/884790) 
+- [【V2EX】2022-10-05-如何将大量-Apple-自带记事本-Notes-笔记导出到-Jophin-中（Markdown）](https://www.v2ex.com/t/884789) 
+- [【V2EX】2022-10-05-赛博朋克：边缘行者-的片源为什么是-1080P，-Netflix-为什么不做-4K](https://www.v2ex.com/t/884788) 
+- [【V2EX】2022-10-05-如果苹果-ID-登录自带邮件-App，应用商店切换区域，不用重新登陆？对吗？有人试过吗？](https://www.v2ex.com/t/884787) 
+- [【V2EX】2022-10-05-给汽车电瓶做一个检测小程序？](https://www.v2ex.com/t/884786) 
 - [【V2EX】2022-10-05-苦于没有海外手机卡,2022-年是否有稳定方案?](https://www.v2ex.com/t/884785) 
 - [【V2EX】2022-10-05-一年-300-以内的话，有没有推荐可以实现美区科学上网的自建云服务器呀？](https://www.v2ex.com/t/884784) 
 - [【V2EX】2022-10-05-诺贝尔物理学奖授予对贝尔不等式的违反](https://www.v2ex.com/t/884783) 
@@ -97,7 +102,6 @@
 - [【V2EX】2022-10-05-旧手机当-Linux-服务器的吐槽和讨论](https://www.v2ex.com/t/884743) 
 - [【V2EX】2022-10-05-有没有过滤广告的油猴脚本](https://www.v2ex.com/t/884742) 
 - [【V2EX】2022-10-05-不懂就问-大家的存款如何支配和理财的](https://www.v2ex.com/t/884741) 
-- [【V2EX】2022-10-05-升级了-ventura-后，-144hz-刷新率的选项没了。。。](https://www.v2ex.com/t/884737) 
 - [【技术头条】2022-10-05-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-05-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-05-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

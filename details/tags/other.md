@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-05 14:46:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-05 15:17:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1914,6 +1914,9 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-10-05-求解-MySQL-8.0-Left-Join-的表使用-PARTITION-分区的问题](https://www.v2ex.com/t/884818) 
+- [2022-10-05-原来-AirPods-Pro-一代的硬件是会“老化”的](https://www.v2ex.com/t/884817) 
+- [2022-10-05-求适合建站且国内访问速度快的-vps，-1-核-1G，-3M-及以上带宽，年付￥-300-400？](https://www.v2ex.com/t/884816) 
 - [2022-10-05-iPad-上有办法例如快捷指令?打开-app-后执行点击操作吗?](https://www.v2ex.com/t/884812) 
 - [2022-10-05-JVM、运维大佬过来看看这个问题](https://www.v2ex.com/t/884811) 
 - [2022-10-05-有没有办法让手机短时间内循环重启系统？](https://www.v2ex.com/t/884810) 
@@ -1942,8 +1945,6 @@
 - [2022-10-05-截图软件-verycapture-又升级了，迎来了-1.8.9](https://www.v2ex.com/t/884774) 
 - [2022-10-05-乌龟待办-让生活和工作不再分开](https://www.v2ex.com/t/884771) 
 - [2022-10-05-小软件收到第一个会员订阅](https://www.v2ex.com/t/884770) 
-- [2022-10-05-mysql-容器崩溃，连接未正常关闭，会损坏数据卷，那-redis-呢](https://www.v2ex.com/t/884767) 
-- [2022-10-05-你们的键盘都用多久了？](https://www.v2ex.com/t/884766) 
 - [2022-10-05-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-05-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-05-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-05 07:54:03，:rocket: 更新条数: +2015， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-05 08:20:53，:rocket: 更新条数: +2015， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-10-05-请教网盘-nextcloud-的同步问题](https://www.v2ex.com/t/884756) ![](assets/new.png)  
 - [2022-10-05-使用-rsync-同步-2-台机器的代码文件夹，需要保留文件修改时间，而且需要让两台机器拥有同样的权限，该使用什么参数？](https://www.v2ex.com/t/884755) ![](assets/new.png)  
 - [2022-10-05-阿里云盘分享.rar-文件方法](https://www.v2ex.com/t/884754) ![](assets/new.png)  
 - [2022-10-05-一级注册建筑师求私活，小建筑或者住宅店铺装修均可，也可以免费咨询一些问题问与答第二弹）](https://www.v2ex.com/t/884750) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-10-05-像-天眼查-企查查-这种平台，他们如何调动的接口来查询的](https://www.v2ex.com/t/884727) ![](assets/new.png)  
 - [2022-10-05-只有命令行-sudo-权限的情况下如何更改登录界面用户名？](https://www.v2ex.com/t/884726) ![](assets/new.png)  
 - [2022-10-05-微信读-Epic](https://www.v2ex.com/t/884725) ![](assets/new.png)  
-- [2022-10-05-因手机号营销电话短信太多，销号之后是不是需要把所有银行走一遍换号流程？](https://www.v2ex.com/t/884724) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

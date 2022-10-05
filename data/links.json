@@ -9953,6 +9953,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "请教网盘 nextcloud 的同步问题",
+        "link": "https://www.v2ex.com/t/884756",
+        "date": "2022-10-05"
+      },
+      {
         "title": "使用 rsync 同步 2 台机器的代码文件夹，需要保留文件修改时间，而且需要让两台机器拥有同样的权限，该使用什么参数？",
         "link": "https://www.v2ex.com/t/884755",
         "date": "2022-10-05"
@@ -10130,11 +10135,6 @@
       {
         "title": "做一个类似 apple icloud 本地备份的软件，实现 windows 上软件和文件的云端备份",
         "link": "https://www.v2ex.com/t/884707",
-        "date": "2022-10-05"
-      },
-      {
-        "title": "[🇺🇸Unicorn] Tech Leader/Up to 8K USD Monthly Salary (After Tax)",
-        "link": "https://www.v2ex.com/t/884706",
         "date": "2022-10-05"
       }
     ]

@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-10-05 07:54:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-05 08:20:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-10-05-请教网盘-nextcloud-的同步问题](https://www.v2ex.com/t/884756) 
 - [2022-10-05-使用-rsync-同步-2-台机器的代码文件夹，需要保留文件修改时间，而且需要让两台机器拥有同样的权限，该使用什么参数？](https://www.v2ex.com/t/884755) 
 - [2022-10-05-阿里云盘分享.rar-文件方法](https://www.v2ex.com/t/884754) 
 - [2022-10-05-一级注册建筑师求私活，小建筑或者住宅店铺装修均可，也可以免费咨询一些问题问与答第二弹）](https://www.v2ex.com/t/884750) 
@@ -41,4 +42,3 @@
 - [2022-10-05-Figma-的-A4-宽度是-595px，-Chrome-打印的-A4-宽度是-794px，那么应该怎么在-Figma-里面做-A4-的设计呢？](https://www.v2ex.com/t/884709) 
 - [2022-10-05-红米-AX6-局域网-iPerf3-测速只能跑到标称一半](https://www.v2ex.com/t/884708) 
 - [2022-10-05-做一个类似-apple-icloud-本地备份的软件，实现-windows-上软件和文件的云端备份](https://www.v2ex.com/t/884707) 
-- [2022-10-05-🇺🇸Unicorn-Tech-Leader/Up-to-8K-USD-Monthly-Salary-After-Tax](https://www.v2ex.com/t/884706) 

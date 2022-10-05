@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-05 09:19:59，:rocket: 更新条数: +2012， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-05 09:51:25，:rocket: 更新条数: +2012， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-10-05-乌龟待办-让生活和工作不再分开](https://www.v2ex.com/t/884771) ![](assets/new.png)  
+- [2022-10-05-小软件收到第一个会员订阅](https://www.v2ex.com/t/884770) ![](assets/new.png)  
+- [2022-10-05-Surge5-出一个车位](https://www.v2ex.com/t/884769) ![](assets/new.png)  
 - [2022-10-05-mysql-容器崩溃，连接未正常关闭，会损坏数据卷，那-redis-呢](https://www.v2ex.com/t/884767) ![](assets/new.png)  
 - [2022-10-05-你们的键盘都用多久了？](https://www.v2ex.com/t/884766) ![](assets/new.png)  
 - [2022-10-05-请问中文翻译泰文的线上翻译免费哪个准确性最高?](https://www.v2ex.com/t/884765) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-10-05-旧手机当-Linux-服务器的吐槽和讨论](https://www.v2ex.com/t/884743) ![](assets/new.png)  
 - [2022-10-05-有没有过滤广告的油猴脚本](https://www.v2ex.com/t/884742) ![](assets/new.png)  
 - [2022-10-05-不懂就问-大家的存款如何支配和理财的](https://www.v2ex.com/t/884741) ![](assets/new.png)  
-- [2022-10-05-升级了-ventura-后，-144hz-刷新率的选项没了。。。](https://www.v2ex.com/t/884737) ![](assets/new.png)  
-- [2022-10-05-一个很漂亮的-{-个人简历,-团队主页,-职业社交-}-网站](https://www.v2ex.com/t/884734) ![](assets/new.png)  
-- [2022-10-05-有没有现成的工具可以用-AI-生成特定类型的图片？](https://www.v2ex.com/t/884733) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

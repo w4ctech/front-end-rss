@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2022-10-04 23:50:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-05 01:22:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-10-05-win-10-和-Android-、openwrt-上有类似于-Quantumult-X-软件吗？](https://www.v2ex.com/t/884684) 
+- [2022-10-05-在-macOS-Big-Sur-/-Monterey-上适用的-Jekyll-安装过程](https://www.v2ex.com/t/884683) 
+- [2022-10-05-各位-lnmp-是怎么装的](https://www.v2ex.com/t/884682) 
 - [2022-10-04-Mac-studio-什么渠道入更划算？](https://www.v2ex.com/t/884681) 
 - [2022-10-04-各位的深度睡眠都是多少啊](https://www.v2ex.com/t/884680) 
 - [2022-10-04-B-站-LOL-比赛直播页面一打开-CPU-就跑满](https://www.v2ex.com/t/884679) 
@@ -43,4 +46,3 @@
 - [2022-10-04-最近比较倒霉，驾考](https://www.v2ex.com/t/884638) 
 - [2022-10-04-求助：-Edge-浏览器如何修改显示语言为英文？](https://www.v2ex.com/t/884637) 
 - [2022-10-04-我的-GitHub-私有仓库，怎么出现了个-PR?](https://www.v2ex.com/t/884636) 
-- [2022-10-04-io_uring-的一点疑问](https://www.v2ex.com/t/884633) 

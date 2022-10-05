@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-05 12:31:00。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-10-05 13:49:08。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,16 @@
 </summary>
 
 
+- [【V2EX】2022-10-05-我是个菜鸟，想知道资深大佬搭建一个识别跳绳计数的-ai-程序需要多久](https://www.v2ex.com/t/884804) 
+- [【V2EX】2022-10-05-罗技-Options-+-开发给老设备使用了？](https://www.v2ex.com/t/884803) 
+- [【V2EX】2022-10-05-毕业-2-年，收获很多，但也逐渐丧失斗志了。](https://www.v2ex.com/t/884800) 
+- [【V2EX】2022-10-05-请问金巴抢票出现-”交易请求数量过多M，请不要频繁操作！“-是什么问题？](https://www.v2ex.com/t/884799) 
+- [【V2EX】2022-10-05-求求各位-V-友指点一下秋冬季节男生怎么买衣服和鞋子吧](https://www.v2ex.com/t/884797) 
+- [【V2EX】2022-10-05-现在推送都不给个人提供服务了，求替代方案？](https://www.v2ex.com/t/884796) 
+- [【V2EX】2022-10-05-据说-macwk-关站了？](https://www.v2ex.com/t/884794) 
+- [【V2EX】2022-10-05-macwk-没了？](https://www.v2ex.com/t/884793) 
+- [【V2EX】2022-10-05-在保-iphone12-因屏幕有裂纹不予售后](https://www.v2ex.com/t/884792) 
+- [【V2EX】2022-10-05-請問有沒有人想上，雲上貴州-2T-兩人車？](https://www.v2ex.com/t/884791) 
 - [【V2EX】2022-10-05-沿海地区买房考虑战争因素是多虑了嘛？](https://www.v2ex.com/t/884790) 
 - [【V2EX】2022-10-05-如何将大量-Apple-自带记事本-Notes-笔记导出到-Jophin-中（Markdown）](https://www.v2ex.com/t/884789) 
 - [【V2EX】2022-10-05-赛博朋克：边缘行者-的片源为什么是-1080P，-Netflix-为什么不做-4K](https://www.v2ex.com/t/884788) 
@@ -94,14 +104,6 @@
 - [【V2EX】2022-10-05-neovim-v0.8-发布了!](https://www.v2ex.com/t/884758) 
 - [【V2EX】2022-10-05-2022-年有哪些值得推荐的云服务器？](https://www.v2ex.com/t/884757) 
 - [【V2EX】2022-10-05-请教网盘-nextcloud-的同步问题](https://www.v2ex.com/t/884756) 
-- [【V2EX】2022-10-05-使用-rsync-同步-2-台机器的代码文件夹，需要保留文件修改时间，而且需要让两台机器拥有同样的权限，该使用什么参数？](https://www.v2ex.com/t/884755) 
-- [【V2EX】2022-10-05-阿里云盘分享.rar-文件方法](https://www.v2ex.com/t/884754) 
-- [【V2EX】2022-10-05-一级注册建筑师求私活，小建筑或者住宅店铺装修均可，也可以免费咨询一些问题问与答第二弹）](https://www.v2ex.com/t/884750) 
-- [【V2EX】2022-10-05-码农使用，预算-1.5-万求推荐配置，-cpu13900k，内存-128g，磁盘纯固态-1t，不需要显卡显示器，需要静音一些，性能好一些](https://www.v2ex.com/t/884747) 
-- [【V2EX】2022-10-05-iPhone-自带输入法探讨](https://www.v2ex.com/t/884745) 
-- [【V2EX】2022-10-05-旧手机当-Linux-服务器的吐槽和讨论](https://www.v2ex.com/t/884743) 
-- [【V2EX】2022-10-05-有没有过滤广告的油猴脚本](https://www.v2ex.com/t/884742) 
-- [【V2EX】2022-10-05-不懂就问-大家的存款如何支配和理财的](https://www.v2ex.com/t/884741) 
 - [【技术头条】2022-10-05-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-05-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-05-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -128,8 +130,8 @@
 - [【开发者头条】2022-10-05-初探-Flutter-跨端游戏开发](https://toutiao.io/k/eq7rih7) 
 - [【开发者头条】2022-10-05-不靠分库分表和分布式缓存，如何从数据层面提升系统并发能力？](https://toutiao.io/k/w8pbpvo) 
 - [【开发者头条】2022-10-05-2022-年-AI-技术成熟度曲线发布](https://toutiao.io/k/tnvl541) 
-- [【开发者头条】2022-10-05-设计糟糕的分库分表是如何把系统搞挂的？](https://toutiao.io/k/05avlb4) 
 - [【开发者头条】2022-10-05-美团超1.5万台Kafka，抗下每秒数亿消息量的挑战！](https://toutiao.io/k/hm62dg8) 
+- [【开发者头条】2022-10-05-设计糟糕的分库分表是如何把系统搞挂的？](https://toutiao.io/k/05avlb4) 
 - [【开发者头条】2022-10-05-RoaringBitMap在B站大数据中的应用](https://toutiao.io/k/no6xbpy) 
 - [【开发者头条】2022-10-05-你写-Go-代码写注释吗？谈谈-Go-代码注释问题](https://toutiao.io/k/y5rx7k3) 
 - [【开发者头条】2022-10-05-推荐-性能优化必备——火焰图](https://toutiao.io/k/azf7ub6) 

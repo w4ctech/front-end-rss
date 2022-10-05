@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-05 12:30:59，:rocket: 更新条数: +2012， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-05 13:49:08，:rocket: 更新条数: +2014， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,16 @@
 </summary>
 
 
+- [2022-10-05-我是个菜鸟，想知道资深大佬搭建一个识别跳绳计数的-ai-程序需要多久](https://www.v2ex.com/t/884804) ![](assets/new.png)  
+- [2022-10-05-罗技-Options-+-开发给老设备使用了？](https://www.v2ex.com/t/884803) ![](assets/new.png)  
+- [2022-10-05-毕业-2-年，收获很多，但也逐渐丧失斗志了。](https://www.v2ex.com/t/884800) ![](assets/new.png)  
+- [2022-10-05-请问金巴抢票出现-”交易请求数量过多M，请不要频繁操作！“-是什么问题？](https://www.v2ex.com/t/884799) ![](assets/new.png)  
+- [2022-10-05-求求各位-V-友指点一下秋冬季节男生怎么买衣服和鞋子吧](https://www.v2ex.com/t/884797) ![](assets/new.png)  
+- [2022-10-05-现在推送都不给个人提供服务了，求替代方案？](https://www.v2ex.com/t/884796) ![](assets/new.png)  
+- [2022-10-05-据说-macwk-关站了？](https://www.v2ex.com/t/884794) ![](assets/new.png)  
+- [2022-10-05-macwk-没了？](https://www.v2ex.com/t/884793) ![](assets/new.png)  
+- [2022-10-05-在保-iphone12-因屏幕有裂纹不予售后](https://www.v2ex.com/t/884792) ![](assets/new.png)  
+- [2022-10-05-請問有沒有人想上，雲上貴州-2T-兩人車？](https://www.v2ex.com/t/884791) ![](assets/new.png)  
 - [2022-10-05-沿海地区买房考虑战争因素是多虑了嘛？](https://www.v2ex.com/t/884790) ![](assets/new.png)  
 - [2022-10-05-如何将大量-Apple-自带记事本-Notes-笔记导出到-Jophin-中（Markdown）](https://www.v2ex.com/t/884789) ![](assets/new.png)  
 - [2022-10-05-赛博朋克：边缘行者-的片源为什么是-1080P，-Netflix-为什么不做-4K](https://www.v2ex.com/t/884788) ![](assets/new.png)  
@@ -501,16 +511,6 @@
 - [2022-10-05-诺贝尔物理学奖授予对贝尔不等式的违反](https://www.v2ex.com/t/884783) ![](assets/new.png)  
 - [2022-10-05-Apple-ID-国区转外区-iCloud-迁移问题](https://www.v2ex.com/t/884782) ![](assets/new.png)  
 - [2022-10-05-MBP-重启后-启动台里面-app-图标跑到了整理的文件夹外面](https://www.v2ex.com/t/884781) ![](assets/new.png)  
-- [2022-10-05-vim-Python-脚本如何实现对自定义-Python-文件的引入?](https://www.v2ex.com/t/884778) ![](assets/new.png)  
-- [2022-10-05-Linux-下建立安卓开发环境有没有比较简单的方法](https://www.v2ex.com/t/884777) ![](assets/new.png)  
-- [2022-10-05-淘宝迷之操作——商品快照](https://www.v2ex.com/t/884775) ![](assets/new.png)  
-- [2022-10-05-截图软件-verycapture-又升级了，迎来了-1.8.9](https://www.v2ex.com/t/884774) ![](assets/new.png)  
-- [2022-10-05-乌龟待办-让生活和工作不再分开](https://www.v2ex.com/t/884771) ![](assets/new.png)  
-- [2022-10-05-小软件收到第一个会员订阅](https://www.v2ex.com/t/884770) ![](assets/new.png)  
-- [2022-10-05-Surge5-出一个车位](https://www.v2ex.com/t/884769) ![](assets/new.png)  
-- [2022-10-05-mysql-容器崩溃，连接未正常关闭，会损坏数据卷，那-redis-呢](https://www.v2ex.com/t/884767) ![](assets/new.png)  
-- [2022-10-05-你们的键盘都用多久了？](https://www.v2ex.com/t/884766) ![](assets/new.png)  
-- [2022-10-05-请问中文翻译泰文的线上翻译免费哪个准确性最高?](https://www.v2ex.com/t/884765) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -559,8 +559,8 @@
 - [2022-10-05-初探-Flutter-跨端游戏开发](https://toutiao.io/k/eq7rih7) ![](assets/new.png)  
 - [2022-10-05-不靠分库分表和分布式缓存，如何从数据层面提升系统并发能力？](https://toutiao.io/k/w8pbpvo) ![](assets/new.png)  
 - [2022-10-05-2022-年-AI-技术成熟度曲线发布](https://toutiao.io/k/tnvl541) ![](assets/new.png)  
-- [2022-10-05-设计糟糕的分库分表是如何把系统搞挂的？](https://toutiao.io/k/05avlb4) ![](assets/new.png)  
 - [2022-10-05-美团超1.5万台Kafka，抗下每秒数亿消息量的挑战！](https://toutiao.io/k/hm62dg8) ![](assets/new.png)  
+- [2022-10-05-设计糟糕的分库分表是如何把系统搞挂的？](https://toutiao.io/k/05avlb4) ![](assets/new.png)  
 - [2022-10-05-RoaringBitMap在B站大数据中的应用](https://toutiao.io/k/no6xbpy) ![](assets/new.png)  
 - [2022-10-05-你写-Go-代码写注释吗？谈谈-Go-代码注释问题](https://toutiao.io/k/y5rx7k3) ![](assets/new.png)  
 - [2022-10-05-推荐-性能优化必备——火焰图](https://toutiao.io/k/azf7ub6) ![](assets/new.png)  

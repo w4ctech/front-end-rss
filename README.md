@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-05 05:27:38，:rocket: 更新条数: +2020， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-05 06:08:03，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-10-05-一个很漂亮的-{-个人简历,-团队主页,-职业社交-}-网站](https://www.v2ex.com/t/884734) ![](assets/new.png)  
+- [2022-10-05-有没有现成的工具可以用-AI-生成特定类型的图片？](https://www.v2ex.com/t/884733) ![](assets/new.png)  
+- [2022-10-05-淘宝买新电话卡，在快递员上门开卡的时候，可以询问到套餐内容吗？](https://www.v2ex.com/t/884732) ![](assets/new.png)  
+- [2022-10-05-SONY-XR-65X91K-彻底关机问题](https://www.v2ex.com/t/884731) ![](assets/new.png)  
+- [2022-10-05-京东上买-office-家庭版订阅靠谱吗](https://www.v2ex.com/t/884730) ![](assets/new.png)  
+- [2022-10-05-为什么微信-/-QQ-在-iOS-关闭后台刷新功能，进多任务界面上划关掉的情况下还能在后台消耗大量电量？用了什么黑科技保活的？](https://www.v2ex.com/t/884729) ![](assets/new.png)  
 - [2022-10-05-AirPods-Pro-2-体验下来的主要提升点](https://www.v2ex.com/t/884728) ![](assets/new.png)  
 - [2022-10-05-像-天眼查-企查查-这种平台，他们如何调动的接口来查询的](https://www.v2ex.com/t/884727) ![](assets/new.png)  
 - [2022-10-05-只有命令行-sudo-权限的情况下如何更改登录界面用户名？](https://www.v2ex.com/t/884726) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-10-05-突发奇想，国内是不是需要一个-好思路？](https://www.v2ex.com/t/884717) ![](assets/new.png)  
 - [2022-10-05-目前安卓阵营里面能做到系统简洁、轻快、极客风格的是不是只剩下-Pixel、一加和三星了？](https://www.v2ex.com/t/884716) ![](assets/new.png)  
 - [2022-10-05-国庆这几天有人去过康定新都桥吗?地震影响路况不?](https://www.v2ex.com/t/884715) ![](assets/new.png)  
-- [2022-10-05-RMB-求助-Java-支持-WEBP](https://www.v2ex.com/t/884714) ![](assets/new.png)  
-- [2022-10-05-矿卡用于生产力怎么样深度学习）](https://www.v2ex.com/t/884713) ![](assets/new.png)  
-- [2022-10-05-有没有面板-AP-不用-AC-实现无缝漫游的方案？](https://www.v2ex.com/t/884712) ![](assets/new.png)  
-- [2022-10-05-translucentTB-没法透明任务栏了？](https://www.v2ex.com/t/884711) ![](assets/new.png)  
-- [2022-10-05-Figma-的-A4-宽度是-595px，-Chrome-打印的-A4-宽度是-794px，那么应该怎么在-Figma-里面做-A4-的设计呢？](https://www.v2ex.com/t/884709) ![](assets/new.png)  
-- [2022-10-05-红米-AX6-局域网-iPerf3-测速只能跑到标称一半](https://www.v2ex.com/t/884708) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

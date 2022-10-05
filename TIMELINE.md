@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-05 05:27:38。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-10-05 06:08:03。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,12 @@
 </summary>
 
 
+- [【V2EX】2022-10-05-一个很漂亮的-{-个人简历,-团队主页,-职业社交-}-网站](https://www.v2ex.com/t/884734) 
+- [【V2EX】2022-10-05-有没有现成的工具可以用-AI-生成特定类型的图片？](https://www.v2ex.com/t/884733) 
+- [【V2EX】2022-10-05-淘宝买新电话卡，在快递员上门开卡的时候，可以询问到套餐内容吗？](https://www.v2ex.com/t/884732) 
+- [【V2EX】2022-10-05-SONY-XR-65X91K-彻底关机问题](https://www.v2ex.com/t/884731) 
+- [【V2EX】2022-10-05-京东上买-office-家庭版订阅靠谱吗](https://www.v2ex.com/t/884730) 
+- [【V2EX】2022-10-05-为什么微信-/-QQ-在-iOS-关闭后台刷新功能，进多任务界面上划关掉的情况下还能在后台消耗大量电量？用了什么黑科技保活的？](https://www.v2ex.com/t/884729) 
 - [【V2EX】2022-10-05-AirPods-Pro-2-体验下来的主要提升点](https://www.v2ex.com/t/884728) 
 - [【V2EX】2022-10-05-像-天眼查-企查查-这种平台，他们如何调动的接口来查询的](https://www.v2ex.com/t/884727) 
 - [【V2EX】2022-10-05-只有命令行-sudo-权限的情况下如何更改登录界面用户名？](https://www.v2ex.com/t/884726) 
@@ -103,13 +109,6 @@
 - [【V2EX】2022-10-05-提问哪里有可以生成关键词词云的在线工具](https://www.v2ex.com/t/884691) 
 - [【V2EX】2022-10-05-价格差不多，买-iPhone-还是-Mac？](https://www.v2ex.com/t/884689) 
 - [【V2EX】2022-10-05-Bitwarden-支持把密码本和-TOTP-放在一起，这是出于什么考虑？](https://www.v2ex.com/t/884687) 
-- [【V2EX】2022-10-05-你们有没有遇到-AirPods-pro-2-盒子有自己掉电的情况？](https://www.v2ex.com/t/884686) 
-- [【V2EX】2022-10-05-win-10-和-Android-、openwrt-上有类似于-Quantumult-X-软件吗？](https://www.v2ex.com/t/884684) 
-- [【V2EX】2022-10-05-在-macOS-Big-Sur-/-Monterey-上适用的-Jekyll-安装过程](https://www.v2ex.com/t/884683) 
-- [【V2EX】2022-10-05-各位-lnmp-是怎么装的](https://www.v2ex.com/t/884682) 
-- [【V2EX】2022-10-04-Mac-studio-什么渠道入更划算？](https://www.v2ex.com/t/884681) 
-- [【V2EX】2022-10-04-各位的深度睡眠都是多少啊](https://www.v2ex.com/t/884680) 
-- [【V2EX】2022-10-04-B-站-LOL-比赛直播页面一打开-CPU-就跑满](https://www.v2ex.com/t/884679) 
 - [【技术头条】2022-10-05-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-05-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-05-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

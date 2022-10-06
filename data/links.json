@@ -9953,6 +9953,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "介绍自己的时候，别人说“哦就是码农”，该怎么回答？",
+        "link": "https://www.v2ex.com/t/884950",
+        "date": "2022-10-06"
+      },
+      {
+        "title": "cloudflare 的 rules 撰写请教",
+        "link": "https://www.v2ex.com/t/884949",
+        "date": "2022-10-06"
+      },
+      {
         "title": "腾讯云轻量云上海节点挂了么？",
         "link": "https://www.v2ex.com/t/884948",
         "date": "2022-10-06"
@@ -10130,16 +10140,6 @@
       {
         "title": "求 WiFi5(150 元)便宜的千兆路由器推荐",
         "link": "https://www.v2ex.com/t/884902",
-        "date": "2022-10-06"
-      },
-      {
-        "title": "坐标上海，有能给成人散瞳验光的医院推荐吗？",
-        "link": "https://www.v2ex.com/t/884901",
-        "date": "2022-10-06"
-      },
-      {
-        "title": "x86 架构的多 cpu 服务器是否就是 NUMA 架构？",
-        "link": "https://www.v2ex.com/t/884899",
         "date": "2022-10-06"
       }
     ]

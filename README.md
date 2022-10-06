@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-06 16:24:29，:rocket: 更新条数: +2017， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-06 17:08:57，:rocket: 更新条数: +2017， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-10-06-介绍自己的时候，别人说“哦就是码农”，该怎么回答？](https://www.v2ex.com/t/884950) ![](assets/new.png)  
+- [2022-10-06-cloudflare-的-rules-撰写请教](https://www.v2ex.com/t/884949) ![](assets/new.png)  
 - [2022-10-06-腾讯云轻量云上海节点挂了么？](https://www.v2ex.com/t/884948) ![](assets/new.png)  
 - [2022-10-06-大家有没有什么好的记工作笔记的方法](https://www.v2ex.com/t/884947) ![](assets/new.png)  
 - [2022-10-06-求推荐高性价比大屏幕笔记本](https://www.v2ex.com/t/884946) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-10-06-win11-系统，-idea-升级到最新版之后经常卡顿，无响应。有人出现这个情况吗](https://www.v2ex.com/t/884929) ![](assets/new.png)  
 - [2022-10-06-区块链毕设创新点求问](https://www.v2ex.com/t/884928) ![](assets/new.png)  
 - [2022-10-06-多个使用域名的网站如何跑在-K8S-中?](https://www.v2ex.com/t/884927) ![](assets/new.png)  
-- [2022-10-06-双十一快到了，电商平台开始提价了](https://www.v2ex.com/t/884926) ![](assets/new.png)  
-- [2022-10-06-群晖对比威联通，系统好用在哪里](https://www.v2ex.com/t/884925) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-06 09:23:36。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-10-06 09:54:49。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,10 @@
 </summary>
 
 
+- [【V2EX】2022-10-06-如何申请美区信用卡呀，人在中国。可以吗？](https://www.v2ex.com/t/884907) 
+- [【V2EX】2022-10-06-如何优化查询一组坐标点是否在一组多边形内的问题](https://www.v2ex.com/t/884906) 
+- [【V2EX】2022-10-06-刚发现-edge-自带使用双击关闭浏览器选项卡的功能了，什么时候加上的？](https://www.v2ex.com/t/884905) 
+- [【V2EX】2022-10-06-经典日经贴，投影仪怎么选](https://www.v2ex.com/t/884903) 
 - [【V2EX】2022-10-06-求-WiFi5150-元便宜的千兆路由器推荐](https://www.v2ex.com/t/884902) 
 - [【V2EX】2022-10-06-坐标上海，有能给成人散瞳验光的医院推荐吗？](https://www.v2ex.com/t/884901) 
 - [【V2EX】2022-10-06-x86-架构的多-cpu-服务器是否就是-NUMA-架构？](https://www.v2ex.com/t/884899) 
@@ -100,10 +104,6 @@
 - [【V2EX】2022-10-06-Explorer-Patcher-治好了我的强迫症](https://www.v2ex.com/t/884861) 
 - [【V2EX】2022-10-06-如何关闭-iOS16-的-airpods-的轨迹呀。每次用完都跳出来一个轨迹通知。](https://www.v2ex.com/t/884859) 
 - [【V2EX】2022-10-06-大家觉得程序员三十岁前税前年薪多少能在北上广深扎根？](https://www.v2ex.com/t/884858) 
-- [【V2EX】2022-10-06-搜自建-NAS-网盘，头晕眼花，求各位前辈答疑解惑并分享下可靠方案。](https://www.v2ex.com/t/884857) 
-- [【V2EX】2022-10-06-NGA178-的域名也无法看评论了](https://www.v2ex.com/t/884856) 
-- [【V2EX】2022-10-06-分享一节课-精神成熟的人](https://www.v2ex.com/t/884855) 
-- [【V2EX】2022-10-06-有没有性价比高的，-4+1-口支持-802.1x-认证的千兆交换机？](https://www.v2ex.com/t/884853) 
 - [【技术头条】2022-10-06-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-06-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-06-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -134,8 +134,8 @@
 - [【开发者头条】2022-10-06-OpenJDK-的-Amber-项目对-Java-入口类的修改方向](https://toutiao.io/k/8rfhzod) 
 - [【开发者头条】2022-10-06-【Rust日报】2022-10-04-初版的-Rust-支持已合并到-Linux-内核](https://toutiao.io/k/zcw2cmz) 
 - [【开发者头条】2022-10-06-Spark-on-k8s-在阿里云-EMR-的优化实践](https://toutiao.io/k/cbsxmpb) 
-- [【开发者头条】2022-10-06-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) 
 - [【开发者头条】2022-10-06-推荐-性能优化必备——火焰图](https://toutiao.io/k/azf7ub6) 
+- [【开发者头条】2022-10-06-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

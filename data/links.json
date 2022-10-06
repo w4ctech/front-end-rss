@@ -9953,6 +9953,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "拿到 watch ultra 了，说一下感想",
+        "link": "https://www.v2ex.com/t/884955",
+        "date": "2022-10-06"
+      },
+      {
         "title": "你相信你可以做程序员做到死吗？",
         "link": "https://www.v2ex.com/t/884953",
         "date": "2022-10-06"
@@ -10136,11 +10141,6 @@
         "title": "如何优化查询一组坐标点是否在一组多边形内的问题",
         "link": "https://www.v2ex.com/t/884906",
         "date": "2022-10-06"
-      },
-      {
-        "title": "刚发现 edge 自带使用双击关闭浏览器选项卡的功能了，什么时候加上的？",
-        "link": "https://www.v2ex.com/t/884905",
-        "date": "2022-10-06"
       }
     ]
   },
@@ -10307,11 +10307,6 @@
         "date": "2022-10-06"
       },
       {
-        "title": "[推荐] 性能优化必备——火焰图",
-        "link": "https://toutiao.io/k/azf7ub6",
-        "date": "2022-10-06"
-      },
-      {
         "title": "[推荐] 分享16个我总结的思维模型（程序员必读，受用终身）",
         "link": "https://toutiao.io/k/f7r13v5",
         "date": "2022-10-06"
@@ -10319,6 +10314,11 @@
       {
         "title": "[推荐] 项目上线一年，整理了一份SpringBoot性能优化方案！",
         "link": "https://toutiao.io/k/3ueuxa0",
+        "date": "2022-10-06"
+      },
+      {
+        "title": "[推荐] 性能优化必备——火焰图",
+        "link": "https://toutiao.io/k/azf7ub6",
         "date": "2022-10-06"
       }
     ]

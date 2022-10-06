@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-06 07:48:13。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-10-06 08:22:01。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,7 @@
 </summary>
 
 
+- [【V2EX】2022-10-06-参加活动认识的妹纸，要找个啥理由从微信群去加对方微信](https://www.v2ex.com/t/884889) 
 - [【V2EX】2022-10-06-清华空运-700TB-实验数据](https://www.v2ex.com/t/884887) 
 - [【V2EX】2022-10-06-iOS-16-如何在锁屏界面默认显示所有通知](https://www.v2ex.com/t/884886) 
 - [【V2EX】2022-10-06-请教-柯里化-的作用](https://www.v2ex.com/t/884884) 
@@ -102,9 +103,6 @@
 - [【V2EX】2022-10-06-天气凉了，有需要毛衣的吗？款式还是挺多的。](https://www.v2ex.com/t/884846) 
 - [【V2EX】2022-10-06-毕业纪元，做了个-VS-Code-摸鱼拓展辅助摆烂：-VSCode-Artstation](https://www.v2ex.com/t/884844) 
 - [【V2EX】2022-10-06-小米-4C-路由器下各节点-PING-不通](https://www.v2ex.com/t/884843) 
-- [【V2EX】2022-10-06-airpod-pro2-的位置提醒](https://www.v2ex.com/t/884841) 
-- [【V2EX】2022-10-06-在-Mac-上，-iCloud-钥匙串不能在除-Safari-浏览器以外的-App-里填充](https://www.v2ex.com/t/884840) 
-- [【V2EX】2022-10-06-什么-AI，人工智能，机器学习，这些是不是很难啊？非科班专业方向，能学会么？](https://www.v2ex.com/t/884839) 
 - [【技术头条】2022-10-06-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-06-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-06-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

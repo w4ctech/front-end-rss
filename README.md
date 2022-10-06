@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-06 07:48:13，:rocket: 更新条数: +2015， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-06 08:22:01，:rocket: 更新条数: +2013， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-10-06-参加活动认识的妹纸，要找个啥理由从微信群去加对方微信](https://www.v2ex.com/t/884889) ![](assets/new.png)  
 - [2022-10-06-清华空运-700TB-实验数据](https://www.v2ex.com/t/884887) ![](assets/new.png)  
 - [2022-10-06-iOS-16-如何在锁屏界面默认显示所有通知](https://www.v2ex.com/t/884886) ![](assets/new.png)  
 - [2022-10-06-请教-柯里化-的作用](https://www.v2ex.com/t/884884) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-10-06-AWS/Azure/GCP-Kubernetes-服务性价比比较](https://www.v2ex.com/t/884864) ![](assets/new.png)  
 - [2022-10-06-杭州的伙伴有吗](https://www.v2ex.com/t/884862) ![](assets/new.png)  
 - [2022-10-06-Explorer-Patcher-治好了我的强迫症](https://www.v2ex.com/t/884861) ![](assets/new.png)  
-- [2022-10-06-如何关闭-iOS16-的-airpods-的轨迹呀。每次用完都跳出来一个轨迹通知。](https://www.v2ex.com/t/884859) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

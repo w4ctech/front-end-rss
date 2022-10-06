@@ -9953,6 +9953,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "你相信你可以做程序员做到死吗？",
+        "link": "https://www.v2ex.com/t/884953",
+        "date": "2022-10-06"
+      },
+      {
         "title": "杜伽 k320w 键盘底部防滑橡胶垫丢了，逼死强迫症的节奏",
         "link": "https://www.v2ex.com/t/884952",
         "date": "2022-10-06"
@@ -10136,11 +10141,6 @@
         "title": "刚发现 edge 自带使用双击关闭浏览器选项卡的功能了，什么时候加上的？",
         "link": "https://www.v2ex.com/t/884905",
         "date": "2022-10-06"
-      },
-      {
-        "title": "经典日经贴，投影仪怎么选",
-        "link": "https://www.v2ex.com/t/884903",
-        "date": "2022-10-06"
       }
     ]
   },
@@ -10312,13 +10312,13 @@
         "date": "2022-10-06"
       },
       {
-        "title": "[推荐] 项目上线一年，整理了一份SpringBoot性能优化方案！",
-        "link": "https://toutiao.io/k/3ueuxa0",
+        "title": "[推荐] 性能优化必备——火焰图",
+        "link": "https://toutiao.io/k/azf7ub6",
         "date": "2022-10-06"
       },
       {
-        "title": "[推荐] 性能优化必备——火焰图",
-        "link": "https://toutiao.io/k/azf7ub6",
+        "title": "[推荐] 项目上线一年，整理了一份SpringBoot性能优化方案！",
+        "link": "https://toutiao.io/k/3ueuxa0",
         "date": "2022-10-06"
       }
     ]

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-06 15:52:32，:rocket: 更新条数: +2017， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-06 16:24:29，:rocket: 更新条数: +2017， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-10-06-腾讯云轻量云上海节点挂了么？](https://www.v2ex.com/t/884948) ![](assets/new.png)  
+- [2022-10-06-大家有没有什么好的记工作笔记的方法](https://www.v2ex.com/t/884947) ![](assets/new.png)  
+- [2022-10-06-求推荐高性价比大屏幕笔记本](https://www.v2ex.com/t/884946) ![](assets/new.png)  
 - [2022-10-06-Windows-下有什么办法可以远程监控资源占用呢？](https://www.v2ex.com/t/884945) ![](assets/new.png)  
 - [2022-10-06-继续发问，爱站-站长之家这类各种数据查询站，如何实现的？](https://www.v2ex.com/t/884944) ![](assets/new.png)  
 - [2022-10-06-请问有大佬们深圳宝安区买比亚迪汉的经验分享吗](https://www.v2ex.com/t/884943) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-10-06-多个使用域名的网站如何跑在-K8S-中?](https://www.v2ex.com/t/884927) ![](assets/new.png)  
 - [2022-10-06-双十一快到了，电商平台开始提价了](https://www.v2ex.com/t/884926) ![](assets/new.png)  
 - [2022-10-06-群晖对比威联通，系统好用在哪里](https://www.v2ex.com/t/884925) ![](assets/new.png)  
-- [2022-10-06-程序员刚工作，如何选择行业和技术方向，希望前辈指点](https://www.v2ex.com/t/884923) ![](assets/new.png)  
-- [2022-10-06-一个-Acfun-客户端，基于-compose-跨平台技术，支持-Desktop-和-Android。](https://www.v2ex.com/t/884920) ![](assets/new.png)  
-- [2022-10-06-播放存放在-Dropbox-或-OneDrive-上的音频有啥好-app？](https://www.v2ex.com/t/884919) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,8 +563,8 @@
 - [2022-10-06-OpenJDK-的-Amber-项目对-Java-入口类的修改方向](https://toutiao.io/k/8rfhzod) ![](assets/new.png)  
 - [2022-10-06-【Rust日报】2022-10-04-初版的-Rust-支持已合并到-Linux-内核](https://toutiao.io/k/zcw2cmz) ![](assets/new.png)  
 - [2022-10-06-Spark-on-k8s-在阿里云-EMR-的优化实践](https://toutiao.io/k/cbsxmpb) ![](assets/new.png)  
-- [2022-10-06-推荐-项目上线一年，整理了一份SpringBoot性能优化方案！](https://toutiao.io/k/3ueuxa0) ![](assets/new.png)  
 - [2022-10-06-推荐-性能优化必备——火焰图](https://toutiao.io/k/azf7ub6) ![](assets/new.png)  
+- [2022-10-06-推荐-项目上线一年，整理了一份SpringBoot性能优化方案！](https://toutiao.io/k/3ueuxa0) ![](assets/new.png)  
 - [2022-10-06-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

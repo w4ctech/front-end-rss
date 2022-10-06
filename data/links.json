@@ -9953,6 +9953,31 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "最新版的 iplaytv 在添加输入源时，直播源地址必须手动输入",
+        "link": "https://www.v2ex.com/t/884937",
+        "date": "2022-10-06"
+      },
+      {
+        "title": "安卓开发有什么渠道能兼职吗？",
+        "link": "https://www.v2ex.com/t/884934",
+        "date": "2022-10-06"
+      },
+      {
+        "title": "play 商店版的高德地图用不了了",
+        "link": "https://www.v2ex.com/t/884933",
+        "date": "2022-10-06"
+      },
+      {
+        "title": "lycoris-recoil.com 的这些过渡动画是手写 CSS 实现的吗，还是用了什么框架/生成器？看起来挺炫的。",
+        "link": "https://www.v2ex.com/t/884932",
+        "date": "2022-10-06"
+      },
+      {
+        "title": "怎么用方向盘玩好赛车游戏，有没有这方面的教程视频",
+        "link": "https://www.v2ex.com/t/884931",
+        "date": "2022-10-06"
+      },
+      {
         "title": "M1 MacBook Air 外接 24 寸显示器分辨率该怎么选，有推荐的型号吗？",
         "link": "https://www.v2ex.com/t/884930",
         "date": "2022-10-06"
@@ -10115,31 +10140,6 @@
       {
         "title": "参加活动认识的妹纸，要找个啥理由从微信群去加对方微信",
         "link": "https://www.v2ex.com/t/884889",
-        "date": "2022-10-06"
-      },
-      {
-        "title": "清华空运 700TB 实验数据",
-        "link": "https://www.v2ex.com/t/884887",
-        "date": "2022-10-06"
-      },
-      {
-        "title": "iOS 16 如何在锁屏界面默认显示所有通知",
-        "link": "https://www.v2ex.com/t/884886",
-        "date": "2022-10-06"
-      },
-      {
-        "title": "请教 柯里化 的作用",
-        "link": "https://www.v2ex.com/t/884884",
-        "date": "2022-10-06"
-      },
-      {
-        "title": "职业迷茫中 转方向",
-        "link": "https://www.v2ex.com/t/884883",
-        "date": "2022-10-06"
-      },
-      {
-        "title": "求教各位前辈关于多维数组求平均值。",
-        "link": "https://www.v2ex.com/t/884882",
         "date": "2022-10-06"
       }
     ]
@@ -10304,6 +10304,11 @@
       {
         "title": "Spark on k8s 在阿里云 EMR 的优化实践",
         "link": "https://toutiao.io/k/cbsxmpb",
+        "date": "2022-10-06"
+      },
+      {
+        "title": "[推荐] 项目上线一年，整理了一份SpringBoot性能优化方案！",
+        "link": "https://toutiao.io/k/3ueuxa0",
         "date": "2022-10-06"
       },
       {

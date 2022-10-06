@@ -9953,6 +9953,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "Apple one 美区超大杯",
+        "link": "https://www.v2ex.com/t/884924",
+        "date": "2022-10-06"
+      },
+      {
+        "title": "程序员刚工作，如何选择行业和技术方向，希望前辈指点",
+        "link": "https://www.v2ex.com/t/884923",
+        "date": "2022-10-06"
+      },
+      {
         "title": "一个 Acfun 客户端，基于 compose 跨平台技术，支持 Desktop 和 Android。",
         "link": "https://www.v2ex.com/t/884920",
         "date": "2022-10-06"
@@ -10121,11 +10131,6 @@
         "title": "Pyinstaller 打包无头浏览器，弹出 cmd 窗口的问题",
         "link": "https://www.v2ex.com/t/884875",
         "date": "2022-10-06"
-      },
-      {
-        "title": "求助 1080p 360hz typec to DP 转换线",
-        "link": "https://www.v2ex.com/t/884874",
-        "date": "2022-10-06"
       }
     ]
   },
@@ -10292,13 +10297,13 @@
         "date": "2022-10-06"
       },
       {
-        "title": "[推荐] 分享16个我总结的思维模型（程序员必读，受用终身）",
-        "link": "https://toutiao.io/k/f7r13v5",
+        "title": "[推荐] 性能优化必备——火焰图",
+        "link": "https://toutiao.io/k/azf7ub6",
         "date": "2022-10-06"
       },
       {
-        "title": "[推荐] 性能优化必备——火焰图",
-        "link": "https://toutiao.io/k/azf7ub6",
+        "title": "[推荐] 分享16个我总结的思维模型（程序员必读，受用终身）",
+        "link": "https://toutiao.io/k/f7r13v5",
         "date": "2022-10-06"
       }
     ]

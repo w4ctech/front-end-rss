@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-06 11:43:31，:rocket: 更新条数: +2013， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-06 12:33:01，:rocket: 更新条数: +2014， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-10-06-Apple-one-美区超大杯](https://www.v2ex.com/t/884924) ![](assets/new.png)  
+- [2022-10-06-程序员刚工作，如何选择行业和技术方向，希望前辈指点](https://www.v2ex.com/t/884923) ![](assets/new.png)  
 - [2022-10-06-一个-Acfun-客户端，基于-compose-跨平台技术，支持-Desktop-和-Android。](https://www.v2ex.com/t/884920) ![](assets/new.png)  
 - [2022-10-06-播放存放在-Dropbox-或-OneDrive-上的音频有啥好-app？](https://www.v2ex.com/t/884919) ![](assets/new.png)  
 - [2022-10-06-当面付代开](https://www.v2ex.com/t/884918) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-10-06-坐标上海，有能给成人散瞳验光的医院推荐吗？](https://www.v2ex.com/t/884901) ![](assets/new.png)  
 - [2022-10-06-x86-架构的多-cpu-服务器是否就是-NUMA-架构？](https://www.v2ex.com/t/884899) ![](assets/new.png)  
 - [2022-10-06-请问-Mac-上有没有推荐的移动硬盘，想入手一个，谢谢大家。](https://www.v2ex.com/t/884898) ![](assets/new.png)  
-- [2022-10-06-vscode-的一些代码补全机制令我费解,-请大佬们指点一二.](https://www.v2ex.com/t/884897) ![](assets/new.png)  
-- [2022-10-06-上海拼多多自己团队招人-安卓/iOS-APP-安全-SDK-开发](https://www.v2ex.com/t/884896) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,8 +563,8 @@
 - [2022-10-06-OpenJDK-的-Amber-项目对-Java-入口类的修改方向](https://toutiao.io/k/8rfhzod) ![](assets/new.png)  
 - [2022-10-06-【Rust日报】2022-10-04-初版的-Rust-支持已合并到-Linux-内核](https://toutiao.io/k/zcw2cmz) ![](assets/new.png)  
 - [2022-10-06-Spark-on-k8s-在阿里云-EMR-的优化实践](https://toutiao.io/k/cbsxmpb) ![](assets/new.png)  
-- [2022-10-06-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) ![](assets/new.png)  
 - [2022-10-06-推荐-性能优化必备——火焰图](https://toutiao.io/k/azf7ub6) ![](assets/new.png)  
+- [2022-10-06-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

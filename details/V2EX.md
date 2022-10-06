@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2022-10-06 04:24:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-06 05:11:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-10-06-抖音-很缺人-iOS-基础技术招聘---研发效能方向（北/上/深/杭）](https://www.v2ex.com/t/884867) 
+- [2022-10-06-现在有那几家的息屏显示,是有开放接口的?](https://www.v2ex.com/t/884866) 
+- [2022-10-06-ios16.1beta4-新增“从其他-App-粘贴”开关](https://www.v2ex.com/t/884865) 
+- [2022-10-06-AWS/Azure/GCP-Kubernetes-服务性价比比较](https://www.v2ex.com/t/884864) 
 - [2022-10-06-杭州的伙伴有吗](https://www.v2ex.com/t/884862) 
 - [2022-10-06-Explorer-Patcher-治好了我的强迫症](https://www.v2ex.com/t/884861) 
 - [2022-10-06-如何关闭-iOS16-的-airpods-的轨迹呀。每次用完都跳出来一个轨迹通知。](https://www.v2ex.com/t/884859) 
@@ -40,7 +44,3 @@
 - [2022-10-05-请问-推特-API-申请怎么写容易-通过呢](https://www.v2ex.com/t/884823) 
 - [2022-10-05-请问新款-Xbox-series-x-什么时候出来？](https://www.v2ex.com/t/884822) 
 - [2022-10-05-Twitter-疑似接入-CN2-GT](https://www.v2ex.com/t/884820) 
-- [2022-10-05-求解-MySQL-8.0-Left-Join-的表使用-PARTITION-分区的问题](https://www.v2ex.com/t/884818) 
-- [2022-10-05-原来-AirPods-Pro-一代的硬件是会“老化”的](https://www.v2ex.com/t/884817) 
-- [2022-10-05-求适合建站且国内访问速度快的-vps，-1-核-1G，-3M-及以上带宽，年付￥-300-400？](https://www.v2ex.com/t/884816) 
-- [2022-10-05-咨询个网络优化问题](https://www.v2ex.com/t/884815) 

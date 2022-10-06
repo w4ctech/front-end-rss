@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-06 04:24:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-06 05:11:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1914,6 +1914,9 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-10-06-现在有那几家的息屏显示,是有开放接口的?](https://www.v2ex.com/t/884866) 
+- [2022-10-06-ios16.1beta4-新增“从其他-App-粘贴”开关](https://www.v2ex.com/t/884865) 
+- [2022-10-06-AWS/Azure/GCP-Kubernetes-服务性价比比较](https://www.v2ex.com/t/884864) 
 - [2022-10-06-杭州的伙伴有吗](https://www.v2ex.com/t/884862) 
 - [2022-10-06-Explorer-Patcher-治好了我的强迫症](https://www.v2ex.com/t/884861) 
 - [2022-10-06-如何关闭-iOS16-的-airpods-的轨迹呀。每次用完都跳出来一个轨迹通知。](https://www.v2ex.com/t/884859) 
@@ -1945,9 +1948,6 @@
 - [2022-10-05-使用佩奇主站，这两天连接是否正常。](https://www.v2ex.com/t/884824) 
 - [2022-10-05-请问-推特-API-申请怎么写容易-通过呢](https://www.v2ex.com/t/884823) 
 - [2022-10-05-Twitter-疑似接入-CN2-GT](https://www.v2ex.com/t/884820) 
-- [2022-10-05-求解-MySQL-8.0-Left-Join-的表使用-PARTITION-分区的问题](https://www.v2ex.com/t/884818) 
-- [2022-10-05-原来-AirPods-Pro-一代的硬件是会“老化”的](https://www.v2ex.com/t/884817) 
-- [2022-10-05-求适合建站且国内访问速度快的-vps，-1-核-1G，-3M-及以上带宽，年付￥-300-400？](https://www.v2ex.com/t/884816) 
 - [2022-10-06-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-06-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-06-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1970,7 +1970,7 @@
 - [2022-10-06-如何实现数据库读一致性](https://toutiao.io/k/xpscpsa) 
 - [2022-10-06-加密固件的提取思路与实践](https://toutiao.io/k/684ll0n) 
 - [2022-10-06-Java-并发编程-|-从进程、线程到并发问题实例解决](https://toutiao.io/k/dtekhpt) 
-- [2022-10-06-OpenJDK-的-Amber-项目对-Java-入口类的修改方向](https://toutiao.io/k/8rfhzod) 
 - [2022-10-06-cgo-机制---从-c-调用-go](https://toutiao.io/k/oq6plpn) 
+- [2022-10-06-OpenJDK-的-Amber-项目对-Java-入口类的修改方向](https://toutiao.io/k/8rfhzod) 
 - [2022-10-06-【Rust日报】2022-10-04-初版的-Rust-支持已合并到-Linux-内核](https://toutiao.io/k/zcw2cmz) 
 - [2022-10-06-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) 

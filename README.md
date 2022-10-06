@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-06 04:24:03，:rocket: 更新条数: +2017， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-06 05:11:19，:rocket: 更新条数: +2017， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-10-06-抖音-很缺人-iOS-基础技术招聘---研发效能方向（北/上/深/杭）](https://www.v2ex.com/t/884867) ![](assets/new.png)  
+- [2022-10-06-现在有那几家的息屏显示,是有开放接口的?](https://www.v2ex.com/t/884866) ![](assets/new.png)  
+- [2022-10-06-ios16.1beta4-新增“从其他-App-粘贴”开关](https://www.v2ex.com/t/884865) ![](assets/new.png)  
+- [2022-10-06-AWS/Azure/GCP-Kubernetes-服务性价比比较](https://www.v2ex.com/t/884864) ![](assets/new.png)  
 - [2022-10-06-杭州的伙伴有吗](https://www.v2ex.com/t/884862) ![](assets/new.png)  
 - [2022-10-06-Explorer-Patcher-治好了我的强迫症](https://www.v2ex.com/t/884861) ![](assets/new.png)  
 - [2022-10-06-如何关闭-iOS16-的-airpods-的轨迹呀。每次用完都跳出来一个轨迹通知。](https://www.v2ex.com/t/884859) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-10-06-如何低成本选择瘦客户机连接远程桌面](https://www.v2ex.com/t/884847) ![](assets/new.png)  
 - [2022-10-06-天气凉了，有需要毛衣的吗？款式还是挺多的。](https://www.v2ex.com/t/884846) ![](assets/new.png)  
 - [2022-10-06-毕业纪元，做了个-VS-Code-摸鱼拓展辅助摆烂：-VSCode-Artstation](https://www.v2ex.com/t/884844) ![](assets/new.png)  
-- [2022-10-06-小米-4C-路由器下各节点-PING-不通](https://www.v2ex.com/t/884843) ![](assets/new.png)  
-- [2022-10-06-airpod-pro2-的位置提醒](https://www.v2ex.com/t/884841) ![](assets/new.png)  
-- [2022-10-06-在-Mac-上，-iCloud-钥匙串不能在除-Safari-浏览器以外的-App-里填充](https://www.v2ex.com/t/884840) ![](assets/new.png)  
-- [2022-10-06-什么-AI，人工智能，机器学习，这些是不是很难啊？非科班专业方向，能学会么？](https://www.v2ex.com/t/884839) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -553,18 +553,18 @@
 </summary>
 
 
-- [2022-10-06-TCP-拥塞控制详解-|-5.-回避算法](https://toutiao.io/k/hl9hinl) ![](assets/new.png)  
 - [2022-10-06-新来个技术总监，把限流实现的那叫一个优雅，佩服！](https://toutiao.io/k/vqscb2l) ![](assets/new.png)  
+- [2022-10-06-TCP-拥塞控制详解-|-5.-回避算法](https://toutiao.io/k/hl9hinl) ![](assets/new.png)  
 - [2022-10-06-如何实现数据库读一致性](https://toutiao.io/k/xpscpsa) ![](assets/new.png)  
 - [2022-10-06-JuiceFS-在-Elasticsearch/ClickHouse-温冷数据存储中的实践](https://toutiao.io/k/2ufg4sb) ![](assets/new.png)  
 - [2022-10-06-加密固件的提取思路与实践](https://toutiao.io/k/684ll0n) ![](assets/new.png)  
 - [2022-10-06-Java-并发编程-|-从进程、线程到并发问题实例解决](https://toutiao.io/k/dtekhpt) ![](assets/new.png)  
-- [2022-10-06-OpenJDK-的-Amber-项目对-Java-入口类的修改方向](https://toutiao.io/k/8rfhzod) ![](assets/new.png)  
 - [2022-10-06-cgo-机制---从-c-调用-go](https://toutiao.io/k/oq6plpn) ![](assets/new.png)  
+- [2022-10-06-OpenJDK-的-Amber-项目对-Java-入口类的修改方向](https://toutiao.io/k/8rfhzod) ![](assets/new.png)  
 - [2022-10-06-【Rust日报】2022-10-04-初版的-Rust-支持已合并到-Linux-内核](https://toutiao.io/k/zcw2cmz) ![](assets/new.png)  
 - [2022-10-06-Spark-on-k8s-在阿里云-EMR-的优化实践](https://toutiao.io/k/cbsxmpb) ![](assets/new.png)  
-- [2022-10-06-推荐-性能优化必备——火焰图](https://toutiao.io/k/azf7ub6) ![](assets/new.png)  
 - [2022-10-06-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) ![](assets/new.png)  
+- [2022-10-06-推荐-性能优化必备——火焰图](https://toutiao.io/k/azf7ub6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

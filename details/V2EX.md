@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2022-10-05 23:50:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-06 01:16:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-10-06-有朋友在-Coodoo-返厂售后过-AirPods-Pro-吗？](https://www.v2ex.com/t/884836) 
+- [2022-10-06-来来来，让大学生看看这道二年级的题怎么做](https://www.v2ex.com/t/884835) 
+- [2022-10-05-为什么目前没有-Android-系统用-Btrfs（及可行性讨论）](https://www.v2ex.com/t/884834) 
 - [2022-10-05-订阅了中国大陆区-Apple-music-的家庭方案，但是无法添加家庭成员](https://www.v2ex.com/t/884833) 
 - [2022-10-05-寻找后端开发人员](https://www.v2ex.com/t/884832) 
 - [2022-10-05-n.e-is-not-a-function-问题记录](https://www.v2ex.com/t/884829) 
@@ -36,7 +39,3 @@
 - [2022-10-05-在保-iphone12-因屏幕有裂纹不予售后](https://www.v2ex.com/t/884792) 
 - [2022-10-05-如何将大量-Apple-自带记事本-Notes-笔记导出到-Jophin-中（Markdown）](https://www.v2ex.com/t/884789) 
 - [2022-10-05-赛博朋克：边缘行者-的片源为什么是-1080P，-Netflix-为什么不做-4K](https://www.v2ex.com/t/884788) 
-- [2022-10-05-如果苹果-ID-登录自带邮件-App，应用商店切换区域，不用重新登陆？对吗？有人试过吗？](https://www.v2ex.com/t/884787) 
-- [2022-10-05-给汽车电瓶做一个检测小程序？](https://www.v2ex.com/t/884786) 
-- [2022-10-05-苦于没有海外手机卡,2022-年是否有稳定方案?](https://www.v2ex.com/t/884785) 
-- [2022-10-05-一年-300-以内的话，有没有推荐可以实现美区科学上网的自建云服务器呀？](https://www.v2ex.com/t/884784) 

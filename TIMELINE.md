@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-06 12:33:01。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-10-06 13:36:32。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,12 @@
 </summary>
 
 
+- [【V2EX】2022-10-06-M1-MacBook-Air-外接-24-寸显示器分辨率该怎么选，有推荐的型号吗？](https://www.v2ex.com/t/884930) 
+- [【V2EX】2022-10-06-win11-系统，-idea-升级到最新版之后经常卡顿，无响应。有人出现这个情况吗](https://www.v2ex.com/t/884929) 
+- [【V2EX】2022-10-06-区块链毕设创新点求问](https://www.v2ex.com/t/884928) 
+- [【V2EX】2022-10-06-多个使用域名的网站如何跑在-K8S-中?](https://www.v2ex.com/t/884927) 
+- [【V2EX】2022-10-06-双十一快到了，电商平台开始提价了](https://www.v2ex.com/t/884926) 
+- [【V2EX】2022-10-06-群晖对比威联通，系统好用在哪里](https://www.v2ex.com/t/884925) 
 - [【V2EX】2022-10-06-Apple-one-美区超大杯](https://www.v2ex.com/t/884924) 
 - [【V2EX】2022-10-06-程序员刚工作，如何选择行业和技术方向，希望前辈指点](https://www.v2ex.com/t/884923) 
 - [【V2EX】2022-10-06-一个-Acfun-客户端，基于-compose-跨平台技术，支持-Desktop-和-Android。](https://www.v2ex.com/t/884920) 
@@ -100,10 +106,6 @@
 - [【V2EX】2022-10-06-请教-柯里化-的作用](https://www.v2ex.com/t/884884) 
 - [【V2EX】2022-10-06-职业迷茫中-转方向](https://www.v2ex.com/t/884883) 
 - [【V2EX】2022-10-06-求教各位前辈关于多维数组求平均值。](https://www.v2ex.com/t/884882) 
-- [【V2EX】2022-10-06-Windows-环境下访问阻止软件推荐](https://www.v2ex.com/t/884879) 
-- [【V2EX】2022-10-06-万能的-V2EX-flutter-悬浮功能使用了一个第三方库不能悬浮是啥原因](https://www.v2ex.com/t/884877) 
-- [【V2EX】2022-10-06-昆仑神宫完了，感觉还不错，没网上评论的糟糕，-10-分能给-7-8-分。](https://www.v2ex.com/t/884876) 
-- [【V2EX】2022-10-06-Pyinstaller-打包无头浏览器，弹出-cmd-窗口的问题](https://www.v2ex.com/t/884875) 
 - [【技术头条】2022-10-06-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-06-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-06-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -134,8 +136,8 @@
 - [【开发者头条】2022-10-06-OpenJDK-的-Amber-项目对-Java-入口类的修改方向](https://toutiao.io/k/8rfhzod) 
 - [【开发者头条】2022-10-06-【Rust日报】2022-10-04-初版的-Rust-支持已合并到-Linux-内核](https://toutiao.io/k/zcw2cmz) 
 - [【开发者头条】2022-10-06-Spark-on-k8s-在阿里云-EMR-的优化实践](https://toutiao.io/k/cbsxmpb) 
-- [【开发者头条】2022-10-06-推荐-性能优化必备——火焰图](https://toutiao.io/k/azf7ub6) 
 - [【开发者头条】2022-10-06-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) 
+- [【开发者头条】2022-10-06-推荐-性能优化必备——火焰图](https://toutiao.io/k/azf7ub6) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-06 12:33:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-06 13:36:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1914,6 +1914,12 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-10-06-M1-MacBook-Air-外接-24-寸显示器分辨率该怎么选，有推荐的型号吗？](https://www.v2ex.com/t/884930) 
+- [2022-10-06-win11-系统，-idea-升级到最新版之后经常卡顿，无响应。有人出现这个情况吗](https://www.v2ex.com/t/884929) 
+- [2022-10-06-区块链毕设创新点求问](https://www.v2ex.com/t/884928) 
+- [2022-10-06-多个使用域名的网站如何跑在-K8S-中?](https://www.v2ex.com/t/884927) 
+- [2022-10-06-双十一快到了，电商平台开始提价了](https://www.v2ex.com/t/884926) 
+- [2022-10-06-群晖对比威联通，系统好用在哪里](https://www.v2ex.com/t/884925) 
 - [2022-10-06-Apple-one-美区超大杯](https://www.v2ex.com/t/884924) 
 - [2022-10-06-程序员刚工作，如何选择行业和技术方向，希望前辈指点](https://www.v2ex.com/t/884923) 
 - [2022-10-06-一个-Acfun-客户端，基于-compose-跨平台技术，支持-Desktop-和-Android。](https://www.v2ex.com/t/884920) 
@@ -1940,8 +1946,6 @@
 - [2022-10-06-iOS-16-如何在锁屏界面默认显示所有通知](https://www.v2ex.com/t/884886) 
 - [2022-10-06-请教-柯里化-的作用](https://www.v2ex.com/t/884884) 
 - [2022-10-06-职业迷茫中-转方向](https://www.v2ex.com/t/884883) 
-- [2022-10-06-Windows-环境下访问阻止软件推荐](https://www.v2ex.com/t/884879) 
-- [2022-10-06-昆仑神宫完了，感觉还不错，没网上评论的糟糕，-10-分能给-7-8-分。](https://www.v2ex.com/t/884876) 
 - [2022-10-06-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-06-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-06-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

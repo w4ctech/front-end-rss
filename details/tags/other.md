@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-06 08:56:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-06 09:23:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1914,6 +1914,8 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-10-06-坐标上海，有能给成人散瞳验光的医院推荐吗？](https://www.v2ex.com/t/884901) 
+- [2022-10-06-x86-架构的多-cpu-服务器是否就是-NUMA-架构？](https://www.v2ex.com/t/884899) 
 - [2022-10-06-请问-Mac-上有没有推荐的移动硬盘，想入手一个，谢谢大家。](https://www.v2ex.com/t/884898) 
 - [2022-10-06-vscode-的一些代码补全机制令我费解,-请大佬们指点一二.](https://www.v2ex.com/t/884897) 
 - [2022-10-06-个人部署小鸡服务器有什么好的选择？](https://www.v2ex.com/t/884895) 
@@ -1941,9 +1943,6 @@
 - [2022-10-06-NGA178-的域名也无法看评论了](https://www.v2ex.com/t/884856) 
 - [2022-10-06-分享一节课-精神成熟的人](https://www.v2ex.com/t/884855) 
 - [2022-10-06-有没有性价比高的，-4+1-口支持-802.1x-认证的千兆交换机？](https://www.v2ex.com/t/884853) 
-- [2022-10-06-分享一个纽约本地博主的油管频道](https://www.v2ex.com/t/884851) 
-- [2022-10-06-如果不是因为相爱，而是父母和环境所迫，还有必要结婚吗？如果有朋友这样结婚了，还要去祝福他吗？](https://www.v2ex.com/t/884850) 
-- [2022-10-06-带宽马上破千兆了，墙里的网线怎么办](https://www.v2ex.com/t/884849) 
 - [2022-10-06-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-06-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-06-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

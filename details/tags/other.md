@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-06 15:22:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-06 15:52:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1914,6 +1914,9 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-10-06-Windows-下有什么办法可以远程监控资源占用呢？](https://www.v2ex.com/t/884945) 
+- [2022-10-06-继续发问，爱站-站长之家这类各种数据查询站，如何实现的？](https://www.v2ex.com/t/884944) 
+- [2022-10-06-请问有大佬们深圳宝安区买比亚迪汉的经验分享吗](https://www.v2ex.com/t/884943) 
 - [2022-10-06-很多博主说的-K8S“降本增效”的体现在哪里？](https://www.v2ex.com/t/884940) 
 - [2022-10-06-C++一个指针，我怎么知道传进来的地址是在堆上还是在栈上？](https://www.v2ex.com/t/884939) 
 - [2022-10-06-安卓开发有什么渠道能兼职吗？](https://www.v2ex.com/t/884934) 
@@ -1924,7 +1927,6 @@
 - [2022-10-06-多个使用域名的网站如何跑在-K8S-中?](https://www.v2ex.com/t/884927) 
 - [2022-10-06-双十一快到了，电商平台开始提价了](https://www.v2ex.com/t/884926) 
 - [2022-10-06-群晖对比威联通，系统好用在哪里](https://www.v2ex.com/t/884925) 
-- [2022-10-06-Apple-one-美区超大杯](https://www.v2ex.com/t/884924) 
 - [2022-10-06-程序员刚工作，如何选择行业和技术方向，希望前辈指点](https://www.v2ex.com/t/884923) 
 - [2022-10-06-一个-Acfun-客户端，基于-compose-跨平台技术，支持-Desktop-和-Android。](https://www.v2ex.com/t/884920) 
 - [2022-10-06-当面付代开](https://www.v2ex.com/t/884918) 
@@ -1941,9 +1943,6 @@
 - [2022-10-06-x86-架构的多-cpu-服务器是否就是-NUMA-架构？](https://www.v2ex.com/t/884899) 
 - [2022-10-06-请问-Mac-上有没有推荐的移动硬盘，想入手一个，谢谢大家。](https://www.v2ex.com/t/884898) 
 - [2022-10-06-vscode-的一些代码补全机制令我费解,-请大佬们指点一二.](https://www.v2ex.com/t/884897) 
-- [2022-10-06-个人部署小鸡服务器有什么好的选择？](https://www.v2ex.com/t/884895) 
-- [2022-10-06-✅V-友专用-双十一购物神器-税前-85％高佣企业微信返利公众号➕机器人｜淘宝.京东.唯品会.苏宁.抖音.饿了么.美团外卖](https://www.v2ex.com/t/884894) 
-- [2022-10-06-Google-Home-怎么实现最基本的自动化？](https://www.v2ex.com/t/884893) 
 - [2022-10-06-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-06-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-06-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

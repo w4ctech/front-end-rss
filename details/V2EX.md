@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2022-10-06 06:02:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-06 06:39:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-10-06-职业迷茫中-转方向](https://www.v2ex.com/t/884883) 
+- [2022-10-06-求教各位前辈关于多维数组求平均值。](https://www.v2ex.com/t/884882) 
+- [2022-10-06-Windows-环境下访问阻止软件推荐](https://www.v2ex.com/t/884879) 
 - [2022-10-06-万能的-V2EX-flutter-悬浮功能使用了一个第三方库不能悬浮是啥原因](https://www.v2ex.com/t/884877) 
 - [2022-10-06-昆仑神宫完了，感觉还不错，没网上评论的糟糕，-10-分能给-7-8-分。](https://www.v2ex.com/t/884876) 
 - [2022-10-06-Pyinstaller-打包无头浏览器，弹出-cmd-窗口的问题](https://www.v2ex.com/t/884875) 
@@ -40,7 +43,3 @@
 - [2022-10-06-有朋友在-Coodoo-返厂售后过-AirPods-Pro-吗？](https://www.v2ex.com/t/884836) 
 - [2022-10-06-来来来，让大学生看看这道二年级的题怎么做](https://www.v2ex.com/t/884835) 
 - [2022-10-05-为什么目前没有-Android-系统用-Btrfs（及可行性讨论）](https://www.v2ex.com/t/884834) 
-- [2022-10-05-订阅了中国大陆区-Apple-music-的家庭方案，但是无法添加家庭成员](https://www.v2ex.com/t/884833) 
-- [2022-10-05-寻找后端开发人员](https://www.v2ex.com/t/884832) 
-- [2022-10-05-n.e-is-not-a-function-问题记录](https://www.v2ex.com/t/884829) 
-- [2022-10-05-debian-用着用着就报错-hard-LOCKUP,-有没有大佬懂的](https://www.v2ex.com/t/884828) 

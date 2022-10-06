@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-06 06:02:36，:rocket: 更新条数: +2020， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-06 06:39:17，:rocket: 更新条数: +2016， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-10-06-职业迷茫中-转方向](https://www.v2ex.com/t/884883) ![](assets/new.png)  
+- [2022-10-06-求教各位前辈关于多维数组求平均值。](https://www.v2ex.com/t/884882) ![](assets/new.png)  
+- [2022-10-06-Windows-环境下访问阻止软件推荐](https://www.v2ex.com/t/884879) ![](assets/new.png)  
 - [2022-10-06-万能的-V2EX-flutter-悬浮功能使用了一个第三方库不能悬浮是啥原因](https://www.v2ex.com/t/884877) ![](assets/new.png)  
 - [2022-10-06-昆仑神宫完了，感觉还不错，没网上评论的糟糕，-10-分能给-7-8-分。](https://www.v2ex.com/t/884876) ![](assets/new.png)  
 - [2022-10-06-Pyinstaller-打包无头浏览器，弹出-cmd-窗口的问题](https://www.v2ex.com/t/884875) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-10-06-大家觉得程序员三十岁前税前年薪多少能在北上广深扎根？](https://www.v2ex.com/t/884858) ![](assets/new.png)  
 - [2022-10-06-搜自建-NAS-网盘，头晕眼花，求各位前辈答疑解惑并分享下可靠方案。](https://www.v2ex.com/t/884857) ![](assets/new.png)  
 - [2022-10-06-NGA178-的域名也无法看评论了](https://www.v2ex.com/t/884856) ![](assets/new.png)  
-- [2022-10-06-分享一节课-精神成熟的人](https://www.v2ex.com/t/884855) ![](assets/new.png)  
-- [2022-10-06-有没有性价比高的，-4+1-口支持-802.1x-认证的千兆交换机？](https://www.v2ex.com/t/884853) ![](assets/new.png)  
-- [2022-10-06-C++-数组自增相关问题](https://www.v2ex.com/t/884852) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,11 +563,8 @@
 - [2022-10-06-OpenJDK-的-Amber-项目对-Java-入口类的修改方向](https://toutiao.io/k/8rfhzod) ![](assets/new.png)  
 - [2022-10-06-【Rust日报】2022-10-04-初版的-Rust-支持已合并到-Linux-内核](https://toutiao.io/k/zcw2cmz) ![](assets/new.png)  
 - [2022-10-06-Spark-on-k8s-在阿里云-EMR-的优化实践](https://toutiao.io/k/cbsxmpb) ![](assets/new.png)  
-- [2022-10-06-面试官：你这数据库表设计的，真垃圾。。。](https://toutiao.io/k/0c7whvz) ![](assets/new.png)  
-- [2022-10-06-如何设计一个短链服务？](https://toutiao.io/k/37q95tr) ![](assets/new.png)  
-- [2022-10-06-SPIFFE/SPIRE-从入门到入门](https://toutiao.io/k/lz85uaf) ![](assets/new.png)  
-- [2022-10-06-推荐-性能优化必备——火焰图](https://toutiao.io/k/azf7ub6) ![](assets/new.png)  
 - [2022-10-06-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) ![](assets/new.png)  
+- [2022-10-06-推荐-性能优化必备——火焰图](https://toutiao.io/k/azf7ub6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

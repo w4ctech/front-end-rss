@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-06 06:02:37。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-10-06 06:39:17。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,9 @@
 </summary>
 
 
+- [【V2EX】2022-10-06-职业迷茫中-转方向](https://www.v2ex.com/t/884883) 
+- [【V2EX】2022-10-06-求教各位前辈关于多维数组求平均值。](https://www.v2ex.com/t/884882) 
+- [【V2EX】2022-10-06-Windows-环境下访问阻止软件推荐](https://www.v2ex.com/t/884879) 
 - [【V2EX】2022-10-06-万能的-V2EX-flutter-悬浮功能使用了一个第三方库不能悬浮是啥原因](https://www.v2ex.com/t/884877) 
 - [【V2EX】2022-10-06-昆仑神宫完了，感觉还不错，没网上评论的糟糕，-10-分能给-7-8-分。](https://www.v2ex.com/t/884876) 
 - [【V2EX】2022-10-06-Pyinstaller-打包无头浏览器，弹出-cmd-窗口的问题](https://www.v2ex.com/t/884875) 
@@ -103,10 +106,6 @@
 - [【V2EX】2022-10-06-有朋友在-Coodoo-返厂售后过-AirPods-Pro-吗？](https://www.v2ex.com/t/884836) 
 - [【V2EX】2022-10-06-来来来，让大学生看看这道二年级的题怎么做](https://www.v2ex.com/t/884835) 
 - [【V2EX】2022-10-05-为什么目前没有-Android-系统用-Btrfs（及可行性讨论）](https://www.v2ex.com/t/884834) 
-- [【V2EX】2022-10-05-订阅了中国大陆区-Apple-music-的家庭方案，但是无法添加家庭成员](https://www.v2ex.com/t/884833) 
-- [【V2EX】2022-10-05-寻找后端开发人员](https://www.v2ex.com/t/884832) 
-- [【V2EX】2022-10-05-n.e-is-not-a-function-问题记录](https://www.v2ex.com/t/884829) 
-- [【V2EX】2022-10-05-debian-用着用着就报错-hard-LOCKUP,-有没有大佬懂的](https://www.v2ex.com/t/884828) 
 - [【技术头条】2022-10-06-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-06-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-06-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -137,11 +136,8 @@
 - [【开发者头条】2022-10-06-OpenJDK-的-Amber-项目对-Java-入口类的修改方向](https://toutiao.io/k/8rfhzod) 
 - [【开发者头条】2022-10-06-【Rust日报】2022-10-04-初版的-Rust-支持已合并到-Linux-内核](https://toutiao.io/k/zcw2cmz) 
 - [【开发者头条】2022-10-06-Spark-on-k8s-在阿里云-EMR-的优化实践](https://toutiao.io/k/cbsxmpb) 
-- [【开发者头条】2022-10-06-面试官：你这数据库表设计的，真垃圾。。。](https://toutiao.io/k/0c7whvz) 
-- [【开发者头条】2022-10-06-如何设计一个短链服务？](https://toutiao.io/k/37q95tr) 
-- [【开发者头条】2022-10-06-SPIFFE/SPIRE-从入门到入门](https://toutiao.io/k/lz85uaf) 
-- [【开发者头条】2022-10-06-推荐-性能优化必备——火焰图](https://toutiao.io/k/azf7ub6) 
 - [【开发者头条】2022-10-06-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) 
+- [【开发者头条】2022-10-06-推荐-性能优化必备——火焰图](https://toutiao.io/k/azf7ub6) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

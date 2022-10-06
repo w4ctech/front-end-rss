@@ -9953,6 +9953,21 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "职业迷茫中 转方向",
+        "link": "https://www.v2ex.com/t/884883",
+        "date": "2022-10-06"
+      },
+      {
+        "title": "求教各位前辈关于多维数组求平均值。",
+        "link": "https://www.v2ex.com/t/884882",
+        "date": "2022-10-06"
+      },
+      {
+        "title": "Windows 环境下访问阻止软件推荐",
+        "link": "https://www.v2ex.com/t/884879",
+        "date": "2022-10-06"
+      },
+      {
         "title": "万能的 V2EX flutter 悬浮功能使用了一个第三方库不能悬浮是啥原因",
         "link": "https://www.v2ex.com/t/884877",
         "date": "2022-10-06"
@@ -10126,26 +10141,6 @@
         "title": "为什么目前没有 Android 系统用 Btrfs（及可行性讨论）",
         "link": "https://www.v2ex.com/t/884834",
         "date": "2022-10-05"
-      },
-      {
-        "title": "订阅了中国大陆区 Apple music 的家庭方案，但是无法添加家庭成员",
-        "link": "https://www.v2ex.com/t/884833",
-        "date": "2022-10-05"
-      },
-      {
-        "title": "寻找后端开发人员",
-        "link": "https://www.v2ex.com/t/884832",
-        "date": "2022-10-05"
-      },
-      {
-        "title": "n.e is not a function 问题记录",
-        "link": "https://www.v2ex.com/t/884829",
-        "date": "2022-10-05"
-      },
-      {
-        "title": "debian 用着用着就报错 hard LOCKUP, 有没有大佬懂的",
-        "link": "https://www.v2ex.com/t/884828",
-        "date": "2022-10-05"
       }
     ]
   },
@@ -10312,28 +10307,13 @@
         "date": "2022-10-06"
       },
       {
-        "title": "面试官：你这数据库表设计的，真垃圾。。。",
-        "link": "https://toutiao.io/k/0c7whvz",
-        "date": "2022-10-06"
-      },
-      {
-        "title": "如何设计一个短链服务？",
-        "link": "https://toutiao.io/k/37q95tr",
-        "date": "2022-10-06"
-      },
-      {
-        "title": "SPIFFE/SPIRE 从入门到入门",
-        "link": "https://toutiao.io/k/lz85uaf",
+        "title": "[推荐] 分享16个我总结的思维模型（程序员必读，受用终身）",
+        "link": "https://toutiao.io/k/f7r13v5",
         "date": "2022-10-06"
       },
       {
         "title": "[推荐] 性能优化必备——火焰图",
         "link": "https://toutiao.io/k/azf7ub6",
-        "date": "2022-10-06"
-      },
-      {
-        "title": "[推荐] 分享16个我总结的思维模型（程序员必读，受用终身）",
-        "link": "https://toutiao.io/k/f7r13v5",
         "date": "2022-10-06"
       }
     ]

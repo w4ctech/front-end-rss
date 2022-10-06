@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-06 17:56:20，:rocket: 更新条数: +2017， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-06 18:21:45，:rocket: 更新条数: +2017， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-10-06-杜伽-k320w-键盘底部防滑橡胶垫丢了，逼死强迫症的节奏](https://www.v2ex.com/t/884952) ![](assets/new.png)  
 - [2022-10-06-介绍自己的时候，别人说“哦就是码农”，该怎么回答？](https://www.v2ex.com/t/884950) ![](assets/new.png)  
 - [2022-10-06-cloudflare-的-rules-撰写请教](https://www.v2ex.com/t/884949) ![](assets/new.png)  
 - [2022-10-06-腾讯云轻量云上海节点挂了么？](https://www.v2ex.com/t/884948) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-10-06-M1-MacBook-Air-外接-24-寸显示器分辨率该怎么选，有推荐的型号吗？](https://www.v2ex.com/t/884930) ![](assets/new.png)  
 - [2022-10-06-win11-系统，-idea-升级到最新版之后经常卡顿，无响应。有人出现这个情况吗](https://www.v2ex.com/t/884929) ![](assets/new.png)  
 - [2022-10-06-区块链毕设创新点求问](https://www.v2ex.com/t/884928) ![](assets/new.png)  
-- [2022-10-06-多个使用域名的网站如何跑在-K8S-中?](https://www.v2ex.com/t/884927) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,9 +563,9 @@
 - [2022-10-06-OpenJDK-的-Amber-项目对-Java-入口类的修改方向](https://toutiao.io/k/8rfhzod) ![](assets/new.png)  
 - [2022-10-06-【Rust日报】2022-10-04-初版的-Rust-支持已合并到-Linux-内核](https://toutiao.io/k/zcw2cmz) ![](assets/new.png)  
 - [2022-10-06-Spark-on-k8s-在阿里云-EMR-的优化实践](https://toutiao.io/k/cbsxmpb) ![](assets/new.png)  
+- [2022-10-06-推荐-性能优化必备——火焰图](https://toutiao.io/k/azf7ub6) ![](assets/new.png)  
 - [2022-10-06-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) ![](assets/new.png)  
 - [2022-10-06-推荐-项目上线一年，整理了一份SpringBoot性能优化方案！](https://toutiao.io/k/3ueuxa0) ![](assets/new.png)  
-- [2022-10-06-推荐-性能优化必备——火焰图](https://toutiao.io/k/azf7ub6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

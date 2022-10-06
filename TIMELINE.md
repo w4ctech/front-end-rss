@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-06 17:56:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-10-06 18:21:45。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,7 @@
 </summary>
 
 
+- [【V2EX】2022-10-06-杜伽-k320w-键盘底部防滑橡胶垫丢了，逼死强迫症的节奏](https://www.v2ex.com/t/884952) 
 - [【V2EX】2022-10-06-介绍自己的时候，别人说“哦就是码农”，该怎么回答？](https://www.v2ex.com/t/884950) 
 - [【V2EX】2022-10-06-cloudflare-的-rules-撰写请教](https://www.v2ex.com/t/884949) 
 - [【V2EX】2022-10-06-腾讯云轻量云上海节点挂了么？](https://www.v2ex.com/t/884948) 
@@ -105,7 +106,6 @@
 - [【V2EX】2022-10-06-如何优化查询一组坐标点是否在一组多边形内的问题](https://www.v2ex.com/t/884906) 
 - [【V2EX】2022-10-06-刚发现-edge-自带使用双击关闭浏览器选项卡的功能了，什么时候加上的？](https://www.v2ex.com/t/884905) 
 - [【V2EX】2022-10-06-经典日经贴，投影仪怎么选](https://www.v2ex.com/t/884903) 
-- [【V2EX】2022-10-06-求-WiFi5150-元便宜的千兆路由器推荐](https://www.v2ex.com/t/884902) 
 - [【技术头条】2022-10-06-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-06-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-06-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -136,9 +136,9 @@
 - [【开发者头条】2022-10-06-OpenJDK-的-Amber-项目对-Java-入口类的修改方向](https://toutiao.io/k/8rfhzod) 
 - [【开发者头条】2022-10-06-【Rust日报】2022-10-04-初版的-Rust-支持已合并到-Linux-内核](https://toutiao.io/k/zcw2cmz) 
 - [【开发者头条】2022-10-06-Spark-on-k8s-在阿里云-EMR-的优化实践](https://toutiao.io/k/cbsxmpb) 
+- [【开发者头条】2022-10-06-推荐-性能优化必备——火焰图](https://toutiao.io/k/azf7ub6) 
 - [【开发者头条】2022-10-06-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) 
 - [【开发者头条】2022-10-06-推荐-项目上线一年，整理了一份SpringBoot性能优化方案！](https://toutiao.io/k/3ueuxa0) 
-- [【开发者头条】2022-10-06-推荐-性能优化必备——火焰图](https://toutiao.io/k/azf7ub6) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

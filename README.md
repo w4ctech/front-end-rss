@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-06 10:20:07，:rocket: 更新条数: +2015， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-06 10:51:54，:rocket: 更新条数: +2013， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-10-06-求救！-M1-Mac-上怎么把-word-文档转换成-PDF/A-格式的文档？](https://www.v2ex.com/t/884916) ![](assets/new.png)  
+- [2022-10-06-刚让小孩学用-mac，推荐下-MAC-应用网站？](https://www.v2ex.com/t/884915) ![](assets/new.png)  
 - [2022-10-06-北京联通套餐，求老哥们分析给点建议](https://www.v2ex.com/t/884911) ![](assets/new.png)  
 - [2022-10-06-嵌入式软件工程师有什么前景吗？](https://www.v2ex.com/t/884910) ![](assets/new.png)  
 - [2022-10-06-关于-NTFS3-不支持-mmap-rw，可行性讨论](https://www.v2ex.com/t/884909) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-10-06-✅V-友专用-双十一购物神器-税前-85％高佣企业微信返利公众号➕机器人｜淘宝.京东.唯品会.苏宁.抖音.饿了么.美团外卖](https://www.v2ex.com/t/884894) ![](assets/new.png)  
 - [2022-10-06-Google-Home-怎么实现最基本的自动化？](https://www.v2ex.com/t/884893) ![](assets/new.png)  
 - [2022-10-06-关于-apple-care-+跨区购买的花样作死教训](https://www.v2ex.com/t/884892) ![](assets/new.png)  
-- [2022-10-06-参加活动认识的妹纸，要找个啥理由从微信群去加对方微信](https://www.v2ex.com/t/884889) ![](assets/new.png)  
-- [2022-10-06-清华空运-700TB-实验数据](https://www.v2ex.com/t/884887) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

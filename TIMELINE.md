@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-06 10:20:07。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-10-06 10:51:54。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,8 @@
 </summary>
 
 
+- [【V2EX】2022-10-06-求救！-M1-Mac-上怎么把-word-文档转换成-PDF/A-格式的文档？](https://www.v2ex.com/t/884916) 
+- [【V2EX】2022-10-06-刚让小孩学用-mac，推荐下-MAC-应用网站？](https://www.v2ex.com/t/884915) 
 - [【V2EX】2022-10-06-北京联通套餐，求老哥们分析给点建议](https://www.v2ex.com/t/884911) 
 - [【V2EX】2022-10-06-嵌入式软件工程师有什么前景吗？](https://www.v2ex.com/t/884910) 
 - [【V2EX】2022-10-06-关于-NTFS3-不支持-mmap-rw，可行性讨论](https://www.v2ex.com/t/884909) 
@@ -101,10 +103,6 @@
 - [【V2EX】2022-10-06-Surge-for-Mac-上车](https://www.v2ex.com/t/884870) 
 - [【V2EX】2022-10-06-如何解决-Chrome-浏览器访问-Bilibili-网页端页面播放视频的卡顿？](https://www.v2ex.com/t/884869) 
 - [【V2EX】2022-10-06-抖音-很缺人-iOS-基础技术招聘---研发效能方向（北/上/深/杭）](https://www.v2ex.com/t/884867) 
-- [【V2EX】2022-10-06-现在有那几家的息屏显示,是有开放接口的?](https://www.v2ex.com/t/884866) 
-- [【V2EX】2022-10-06-ios16.1beta4-新增“从其他-App-粘贴”开关](https://www.v2ex.com/t/884865) 
-- [【V2EX】2022-10-06-AWS/Azure/GCP-Kubernetes-服务性价比比较](https://www.v2ex.com/t/884864) 
-- [【V2EX】2022-10-06-杭州的伙伴有吗](https://www.v2ex.com/t/884862) 
 - [【技术头条】2022-10-06-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-06-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-06-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

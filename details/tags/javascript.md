@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-06 08:22:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-06 08:56:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -16,4 +16,3 @@
 - [2022-08-21-JS-replaceAll-和-matchAll-使用指南不指北](https://www.zhangxinxu.com/wordpress/2022/08/js-replaceall-matchall/) 
 - [2022-10-06-求教各位前辈关于多维数组求平均值。](https://www.v2ex.com/t/884882) 
 - [2022-10-06-C++-数组自增相关问题](https://www.v2ex.com/t/884852) 
-- [2022-10-06-小米-4C-路由器下各节点-PING-不通](https://www.v2ex.com/t/884843) 

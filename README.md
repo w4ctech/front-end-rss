@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-06 09:54:48，:rocket: 更新条数: +2014， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-06 10:20:07，:rocket: 更新条数: +2015， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-10-06-北京联通套餐，求老哥们分析给点建议](https://www.v2ex.com/t/884911) ![](assets/new.png)  
+- [2022-10-06-嵌入式软件工程师有什么前景吗？](https://www.v2ex.com/t/884910) ![](assets/new.png)  
+- [2022-10-06-关于-NTFS3-不支持-mmap-rw，可行性讨论](https://www.v2ex.com/t/884909) ![](assets/new.png)  
+- [2022-10-06-连线瑞典——-瑞典工作生活的那些事-分享会录制文件和话题时间标记](https://www.v2ex.com/t/884908) ![](assets/new.png)  
 - [2022-10-06-如何申请美区信用卡呀，人在中国。可以吗？](https://www.v2ex.com/t/884907) ![](assets/new.png)  
 - [2022-10-06-如何优化查询一组坐标点是否在一组多边形内的问题](https://www.v2ex.com/t/884906) ![](assets/new.png)  
 - [2022-10-06-刚发现-edge-自带使用双击关闭浏览器选项卡的功能了，什么时候加上的？](https://www.v2ex.com/t/884905) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-10-06-关于-apple-care-+跨区购买的花样作死教训](https://www.v2ex.com/t/884892) ![](assets/new.png)  
 - [2022-10-06-参加活动认识的妹纸，要找个啥理由从微信群去加对方微信](https://www.v2ex.com/t/884889) ![](assets/new.png)  
 - [2022-10-06-清华空运-700TB-实验数据](https://www.v2ex.com/t/884887) ![](assets/new.png)  
-- [2022-10-06-iOS-16-如何在锁屏界面默认显示所有通知](https://www.v2ex.com/t/884886) ![](assets/new.png)  
-- [2022-10-06-请教-柯里化-的作用](https://www.v2ex.com/t/884884) ![](assets/new.png)  
-- [2022-10-06-职业迷茫中-转方向](https://www.v2ex.com/t/884883) ![](assets/new.png)  
-- [2022-10-06-求教各位前辈关于多维数组求平均值。](https://www.v2ex.com/t/884882) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -556,15 +556,15 @@
 - [2022-10-06-新来个技术总监，把限流实现的那叫一个优雅，佩服！](https://toutiao.io/k/vqscb2l) ![](assets/new.png)  
 - [2022-10-06-如何实现数据库读一致性](https://toutiao.io/k/xpscpsa) ![](assets/new.png)  
 - [2022-10-06-TCP-拥塞控制详解-|-5.-回避算法](https://toutiao.io/k/hl9hinl) ![](assets/new.png)  
-- [2022-10-06-JuiceFS-在-Elasticsearch/ClickHouse-温冷数据存储中的实践](https://toutiao.io/k/2ufg4sb) ![](assets/new.png)  
 - [2022-10-06-加密固件的提取思路与实践](https://toutiao.io/k/684ll0n) ![](assets/new.png)  
+- [2022-10-06-JuiceFS-在-Elasticsearch/ClickHouse-温冷数据存储中的实践](https://toutiao.io/k/2ufg4sb) ![](assets/new.png)  
 - [2022-10-06-Java-并发编程-|-从进程、线程到并发问题实例解决](https://toutiao.io/k/dtekhpt) ![](assets/new.png)  
 - [2022-10-06-cgo-机制---从-c-调用-go](https://toutiao.io/k/oq6plpn) ![](assets/new.png)  
 - [2022-10-06-OpenJDK-的-Amber-项目对-Java-入口类的修改方向](https://toutiao.io/k/8rfhzod) ![](assets/new.png)  
 - [2022-10-06-【Rust日报】2022-10-04-初版的-Rust-支持已合并到-Linux-内核](https://toutiao.io/k/zcw2cmz) ![](assets/new.png)  
 - [2022-10-06-Spark-on-k8s-在阿里云-EMR-的优化实践](https://toutiao.io/k/cbsxmpb) ![](assets/new.png)  
-- [2022-10-06-推荐-性能优化必备——火焰图](https://toutiao.io/k/azf7ub6) ![](assets/new.png)  
 - [2022-10-06-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) ![](assets/new.png)  
+- [2022-10-06-推荐-性能优化必备——火焰图](https://toutiao.io/k/azf7ub6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

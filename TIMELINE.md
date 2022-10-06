@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-06 09:54:49。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-10-06 10:20:07。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,10 @@
 </summary>
 
 
+- [【V2EX】2022-10-06-北京联通套餐，求老哥们分析给点建议](https://www.v2ex.com/t/884911) 
+- [【V2EX】2022-10-06-嵌入式软件工程师有什么前景吗？](https://www.v2ex.com/t/884910) 
+- [【V2EX】2022-10-06-关于-NTFS3-不支持-mmap-rw，可行性讨论](https://www.v2ex.com/t/884909) 
+- [【V2EX】2022-10-06-连线瑞典——-瑞典工作生活的那些事-分享会录制文件和话题时间标记](https://www.v2ex.com/t/884908) 
 - [【V2EX】2022-10-06-如何申请美区信用卡呀，人在中国。可以吗？](https://www.v2ex.com/t/884907) 
 - [【V2EX】2022-10-06-如何优化查询一组坐标点是否在一组多边形内的问题](https://www.v2ex.com/t/884906) 
 - [【V2EX】2022-10-06-刚发现-edge-自带使用双击关闭浏览器选项卡的功能了，什么时候加上的？](https://www.v2ex.com/t/884905) 
@@ -101,9 +105,6 @@
 - [【V2EX】2022-10-06-ios16.1beta4-新增“从其他-App-粘贴”开关](https://www.v2ex.com/t/884865) 
 - [【V2EX】2022-10-06-AWS/Azure/GCP-Kubernetes-服务性价比比较](https://www.v2ex.com/t/884864) 
 - [【V2EX】2022-10-06-杭州的伙伴有吗](https://www.v2ex.com/t/884862) 
-- [【V2EX】2022-10-06-Explorer-Patcher-治好了我的强迫症](https://www.v2ex.com/t/884861) 
-- [【V2EX】2022-10-06-如何关闭-iOS16-的-airpods-的轨迹呀。每次用完都跳出来一个轨迹通知。](https://www.v2ex.com/t/884859) 
-- [【V2EX】2022-10-06-大家觉得程序员三十岁前税前年薪多少能在北上广深扎根？](https://www.v2ex.com/t/884858) 
 - [【技术头条】2022-10-06-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-06-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-06-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -127,15 +128,15 @@
 - [【开发者头条】2022-10-06-新来个技术总监，把限流实现的那叫一个优雅，佩服！](https://toutiao.io/k/vqscb2l) 
 - [【开发者头条】2022-10-06-如何实现数据库读一致性](https://toutiao.io/k/xpscpsa) 
 - [【开发者头条】2022-10-06-TCP-拥塞控制详解-|-5.-回避算法](https://toutiao.io/k/hl9hinl) 
-- [【开发者头条】2022-10-06-JuiceFS-在-Elasticsearch/ClickHouse-温冷数据存储中的实践](https://toutiao.io/k/2ufg4sb) 
 - [【开发者头条】2022-10-06-加密固件的提取思路与实践](https://toutiao.io/k/684ll0n) 
+- [【开发者头条】2022-10-06-JuiceFS-在-Elasticsearch/ClickHouse-温冷数据存储中的实践](https://toutiao.io/k/2ufg4sb) 
 - [【开发者头条】2022-10-06-Java-并发编程-|-从进程、线程到并发问题实例解决](https://toutiao.io/k/dtekhpt) 
 - [【开发者头条】2022-10-06-cgo-机制---从-c-调用-go](https://toutiao.io/k/oq6plpn) 
 - [【开发者头条】2022-10-06-OpenJDK-的-Amber-项目对-Java-入口类的修改方向](https://toutiao.io/k/8rfhzod) 
 - [【开发者头条】2022-10-06-【Rust日报】2022-10-04-初版的-Rust-支持已合并到-Linux-内核](https://toutiao.io/k/zcw2cmz) 
 - [【开发者头条】2022-10-06-Spark-on-k8s-在阿里云-EMR-的优化实践](https://toutiao.io/k/cbsxmpb) 
-- [【开发者头条】2022-10-06-推荐-性能优化必备——火焰图](https://toutiao.io/k/azf7ub6) 
 - [【开发者头条】2022-10-06-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) 
+- [【开发者头条】2022-10-06-推荐-性能优化必备——火焰图](https://toutiao.io/k/azf7ub6) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

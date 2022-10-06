@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-06 11:15:52。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-10-06 11:43:31。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,8 @@
 </summary>
 
 
+- [【V2EX】2022-10-06-一个-Acfun-客户端，基于-compose-跨平台技术，支持-Desktop-和-Android。](https://www.v2ex.com/t/884920) 
+- [【V2EX】2022-10-06-播放存放在-Dropbox-或-OneDrive-上的音频有啥好-app？](https://www.v2ex.com/t/884919) 
 - [【V2EX】2022-10-06-当面付代开](https://www.v2ex.com/t/884918) 
 - [【V2EX】2022-10-06-关于-mysql-count-太慢的问题](https://www.v2ex.com/t/884917) 
 - [【V2EX】2022-10-06-求救！-M1-Mac-上怎么把-word-文档转换成-PDF/A-格式的文档？](https://www.v2ex.com/t/884916) 
@@ -101,9 +103,6 @@
 - [【V2EX】2022-10-06-昆仑神宫完了，感觉还不错，没网上评论的糟糕，-10-分能给-7-8-分。](https://www.v2ex.com/t/884876) 
 - [【V2EX】2022-10-06-Pyinstaller-打包无头浏览器，弹出-cmd-窗口的问题](https://www.v2ex.com/t/884875) 
 - [【V2EX】2022-10-06-求助-1080p-360hz-typec-to-DP-转换线](https://www.v2ex.com/t/884874) 
-- [【V2EX】2022-10-06-家人说我是“技术屌丝”，心里很不是滋味，如何自我开解？](https://www.v2ex.com/t/884871) 
-- [【V2EX】2022-10-06-Surge-for-Mac-上车](https://www.v2ex.com/t/884870) 
-- [【V2EX】2022-10-06-如何解决-Chrome-浏览器访问-Bilibili-网页端页面播放视频的卡顿？](https://www.v2ex.com/t/884869) 
 - [【技术头条】2022-10-06-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-06-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-06-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

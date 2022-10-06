@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-06 06:39:17，:rocket: 更新条数: +2016， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-06 07:22:02，:rocket: 更新条数: +2015， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-10-06-iOS-16-如何在锁屏界面默认显示所有通知](https://www.v2ex.com/t/884886) ![](assets/new.png)  
+- [2022-10-06-请教-柯里化-的作用](https://www.v2ex.com/t/884884) ![](assets/new.png)  
 - [2022-10-06-职业迷茫中-转方向](https://www.v2ex.com/t/884883) ![](assets/new.png)  
 - [2022-10-06-求教各位前辈关于多维数组求平均值。](https://www.v2ex.com/t/884882) ![](assets/new.png)  
 - [2022-10-06-Windows-环境下访问阻止软件推荐](https://www.v2ex.com/t/884879) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-10-06-Explorer-Patcher-治好了我的强迫症](https://www.v2ex.com/t/884861) ![](assets/new.png)  
 - [2022-10-06-如何关闭-iOS16-的-airpods-的轨迹呀。每次用完都跳出来一个轨迹通知。](https://www.v2ex.com/t/884859) ![](assets/new.png)  
 - [2022-10-06-大家觉得程序员三十岁前税前年薪多少能在北上广深扎根？](https://www.v2ex.com/t/884858) ![](assets/new.png)  
-- [2022-10-06-搜自建-NAS-网盘，头晕眼花，求各位前辈答疑解惑并分享下可靠方案。](https://www.v2ex.com/t/884857) ![](assets/new.png)  
-- [2022-10-06-NGA178-的域名也无法看评论了](https://www.v2ex.com/t/884856) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

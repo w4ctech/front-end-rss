@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-06 05:11:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-06 06:02:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1914,6 +1914,10 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-10-06-昆仑神宫完了，感觉还不错，没网上评论的糟糕，-10-分能给-7-8-分。](https://www.v2ex.com/t/884876) 
+- [2022-10-06-求助-1080p-360hz-typec-to-DP-转换线](https://www.v2ex.com/t/884874) 
+- [2022-10-06-家人说我是“技术屌丝”，心里很不是滋味，如何自我开解？](https://www.v2ex.com/t/884871) 
+- [2022-10-06-Surge-for-Mac-上车](https://www.v2ex.com/t/884870) 
 - [2022-10-06-现在有那几家的息屏显示,是有开放接口的?](https://www.v2ex.com/t/884866) 
 - [2022-10-06-ios16.1beta4-新增“从其他-App-粘贴”开关](https://www.v2ex.com/t/884865) 
 - [2022-10-06-AWS/Azure/GCP-Kubernetes-服务性价比比较](https://www.v2ex.com/t/884864) 
@@ -1942,12 +1946,6 @@
 - [2022-10-05-寻找后端开发人员](https://www.v2ex.com/t/884832) 
 - [2022-10-05-n.e-is-not-a-function-问题记录](https://www.v2ex.com/t/884829) 
 - [2022-10-05-debian-用着用着就报错-hard-LOCKUP,-有没有大佬懂的](https://www.v2ex.com/t/884828) 
-- [2022-10-05-有什么好的办法可以管理-mhtml-文件](https://www.v2ex.com/t/884827) 
-- [2022-10-05-绝对自由后是否还存在欲望？欲望是否有止境？](https://www.v2ex.com/t/884826) 
-- [2022-10-05-iOS-有使用类似-Windows-8-"快速启动"一类的技术吗，为什么音量键+侧键强制重启耗时总比正常关机开机耗时长上-2.5-秒（从亮屏瞬间开始计算，两组都重复实验了-3-...](https://www.v2ex.com/t/884825) 
-- [2022-10-05-使用佩奇主站，这两天连接是否正常。](https://www.v2ex.com/t/884824) 
-- [2022-10-05-请问-推特-API-申请怎么写容易-通过呢](https://www.v2ex.com/t/884823) 
-- [2022-10-05-Twitter-疑似接入-CN2-GT](https://www.v2ex.com/t/884820) 
 - [2022-10-06-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-06-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-06-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1973,4 +1971,6 @@
 - [2022-10-06-cgo-机制---从-c-调用-go](https://toutiao.io/k/oq6plpn) 
 - [2022-10-06-OpenJDK-的-Amber-项目对-Java-入口类的修改方向](https://toutiao.io/k/8rfhzod) 
 - [2022-10-06-【Rust日报】2022-10-04-初版的-Rust-支持已合并到-Linux-内核](https://toutiao.io/k/zcw2cmz) 
+- [2022-10-06-如何设计一个短链服务？](https://toutiao.io/k/37q95tr) 
+- [2022-10-06-SPIFFE/SPIRE-从入门到入门](https://toutiao.io/k/lz85uaf) 
 - [2022-10-06-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) 

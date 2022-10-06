@@ -9953,6 +9953,41 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "万能的 V2EX flutter 悬浮功能使用了一个第三方库不能悬浮是啥原因",
+        "link": "https://www.v2ex.com/t/884877",
+        "date": "2022-10-06"
+      },
+      {
+        "title": "昆仑神宫完了，感觉还不错，没网上评论的糟糕， 10 分能给 7-8 分。",
+        "link": "https://www.v2ex.com/t/884876",
+        "date": "2022-10-06"
+      },
+      {
+        "title": "Pyinstaller 打包无头浏览器，弹出 cmd 窗口的问题",
+        "link": "https://www.v2ex.com/t/884875",
+        "date": "2022-10-06"
+      },
+      {
+        "title": "求助 1080p 360hz typec to DP 转换线",
+        "link": "https://www.v2ex.com/t/884874",
+        "date": "2022-10-06"
+      },
+      {
+        "title": "家人说我是“技术屌丝”，心里很不是滋味，如何自我开解？",
+        "link": "https://www.v2ex.com/t/884871",
+        "date": "2022-10-06"
+      },
+      {
+        "title": "Surge for Mac 上车",
+        "link": "https://www.v2ex.com/t/884870",
+        "date": "2022-10-06"
+      },
+      {
+        "title": "如何解决 Chrome 浏览器访问 Bilibili 网页端页面播放视频的卡顿？",
+        "link": "https://www.v2ex.com/t/884869",
+        "date": "2022-10-06"
+      },
+      {
         "title": "[抖音 很缺人] iOS 基础技术招聘 - 研发效能方向（北/上/深/杭）",
         "link": "https://www.v2ex.com/t/884867",
         "date": "2022-10-06"
@@ -10111,41 +10146,6 @@
         "title": "debian 用着用着就报错 hard LOCKUP, 有没有大佬懂的",
         "link": "https://www.v2ex.com/t/884828",
         "date": "2022-10-05"
-      },
-      {
-        "title": "有什么好的办法可以管理 mhtml 文件",
-        "link": "https://www.v2ex.com/t/884827",
-        "date": "2022-10-05"
-      },
-      {
-        "title": "绝对自由后是否还存在欲望？欲望是否有止境？",
-        "link": "https://www.v2ex.com/t/884826",
-        "date": "2022-10-05"
-      },
-      {
-        "title": "iOS 有使用类似 Windows 8 \"快速启动\"一类的技术吗，为什么音量键+侧键强制重启耗时总比正常关机开机耗时长上 2.5 秒（从亮屏瞬间开始计算，两组都重复实验了 3 ...",
-        "link": "https://www.v2ex.com/t/884825",
-        "date": "2022-10-05"
-      },
-      {
-        "title": "使用佩奇主站，这两天连接是否正常。",
-        "link": "https://www.v2ex.com/t/884824",
-        "date": "2022-10-05"
-      },
-      {
-        "title": "请问 推特 API 申请怎么写容易 通过呢",
-        "link": "https://www.v2ex.com/t/884823",
-        "date": "2022-10-05"
-      },
-      {
-        "title": "请问新款 Xbox series x 什么时候出来？",
-        "link": "https://www.v2ex.com/t/884822",
-        "date": "2022-10-05"
-      },
-      {
-        "title": "Twitter 疑似接入 CN2 GT",
-        "link": "https://www.v2ex.com/t/884820",
-        "date": "2022-10-05"
       }
     ]
   },
@@ -10267,13 +10267,13 @@
         "date": "2022-10-06"
       },
       {
-        "title": "TCP 拥塞控制详解 | 5. 回避算法",
-        "link": "https://toutiao.io/k/hl9hinl",
+        "title": "如何实现数据库读一致性",
+        "link": "https://toutiao.io/k/xpscpsa",
         "date": "2022-10-06"
       },
       {
-        "title": "如何实现数据库读一致性",
-        "link": "https://toutiao.io/k/xpscpsa",
+        "title": "TCP 拥塞控制详解 | 5. 回避算法",
+        "link": "https://toutiao.io/k/hl9hinl",
         "date": "2022-10-06"
       },
       {
@@ -10312,13 +10312,28 @@
         "date": "2022-10-06"
       },
       {
-        "title": "[推荐] 分享16个我总结的思维模型（程序员必读，受用终身）",
-        "link": "https://toutiao.io/k/f7r13v5",
+        "title": "面试官：你这数据库表设计的，真垃圾。。。",
+        "link": "https://toutiao.io/k/0c7whvz",
+        "date": "2022-10-06"
+      },
+      {
+        "title": "如何设计一个短链服务？",
+        "link": "https://toutiao.io/k/37q95tr",
+        "date": "2022-10-06"
+      },
+      {
+        "title": "SPIFFE/SPIRE 从入门到入门",
+        "link": "https://toutiao.io/k/lz85uaf",
         "date": "2022-10-06"
       },
       {
         "title": "[推荐] 性能优化必备——火焰图",
         "link": "https://toutiao.io/k/azf7ub6",
+        "date": "2022-10-06"
+      },
+      {
+        "title": "[推荐] 分享16个我总结的思维模型（程序员必读，受用终身）",
+        "link": "https://toutiao.io/k/f7r13v5",
         "date": "2022-10-06"
       }
     ]

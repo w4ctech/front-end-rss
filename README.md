@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-06 05:11:19，:rocket: 更新条数: +2017， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-06 06:02:36，:rocket: 更新条数: +2020， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,13 @@
 </summary>
 
 
+- [2022-10-06-万能的-V2EX-flutter-悬浮功能使用了一个第三方库不能悬浮是啥原因](https://www.v2ex.com/t/884877) ![](assets/new.png)  
+- [2022-10-06-昆仑神宫完了，感觉还不错，没网上评论的糟糕，-10-分能给-7-8-分。](https://www.v2ex.com/t/884876) ![](assets/new.png)  
+- [2022-10-06-Pyinstaller-打包无头浏览器，弹出-cmd-窗口的问题](https://www.v2ex.com/t/884875) ![](assets/new.png)  
+- [2022-10-06-求助-1080p-360hz-typec-to-DP-转换线](https://www.v2ex.com/t/884874) ![](assets/new.png)  
+- [2022-10-06-家人说我是“技术屌丝”，心里很不是滋味，如何自我开解？](https://www.v2ex.com/t/884871) ![](assets/new.png)  
+- [2022-10-06-Surge-for-Mac-上车](https://www.v2ex.com/t/884870) ![](assets/new.png)  
+- [2022-10-06-如何解决-Chrome-浏览器访问-Bilibili-网页端页面播放视频的卡顿？](https://www.v2ex.com/t/884869) ![](assets/new.png)  
 - [2022-10-06-抖音-很缺人-iOS-基础技术招聘---研发效能方向（北/上/深/杭）](https://www.v2ex.com/t/884867) ![](assets/new.png)  
 - [2022-10-06-现在有那几家的息屏显示,是有开放接口的?](https://www.v2ex.com/t/884866) ![](assets/new.png)  
 - [2022-10-06-ios16.1beta4-新增“从其他-App-粘贴”开关](https://www.v2ex.com/t/884865) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-10-06-分享一节课-精神成熟的人](https://www.v2ex.com/t/884855) ![](assets/new.png)  
 - [2022-10-06-有没有性价比高的，-4+1-口支持-802.1x-认证的千兆交换机？](https://www.v2ex.com/t/884853) ![](assets/new.png)  
 - [2022-10-06-C++-数组自增相关问题](https://www.v2ex.com/t/884852) ![](assets/new.png)  
-- [2022-10-06-分享一个纽约本地博主的油管频道](https://www.v2ex.com/t/884851) ![](assets/new.png)  
-- [2022-10-06-如果不是因为相爱，而是父母和环境所迫，还有必要结婚吗？如果有朋友这样结婚了，还要去祝福他吗？](https://www.v2ex.com/t/884850) ![](assets/new.png)  
-- [2022-10-06-带宽马上破千兆了，墙里的网线怎么办](https://www.v2ex.com/t/884849) ![](assets/new.png)  
-- [2022-10-06-有什么框架能够把本地命令包装成-web-api-的吗？](https://www.v2ex.com/t/884848) ![](assets/new.png)  
-- [2022-10-06-如何低成本选择瘦客户机连接远程桌面](https://www.v2ex.com/t/884847) ![](assets/new.png)  
-- [2022-10-06-天气凉了，有需要毛衣的吗？款式还是挺多的。](https://www.v2ex.com/t/884846) ![](assets/new.png)  
-- [2022-10-06-毕业纪元，做了个-VS-Code-摸鱼拓展辅助摆烂：-VSCode-Artstation](https://www.v2ex.com/t/884844) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -554,8 +554,8 @@
 
 
 - [2022-10-06-新来个技术总监，把限流实现的那叫一个优雅，佩服！](https://toutiao.io/k/vqscb2l) ![](assets/new.png)  
-- [2022-10-06-TCP-拥塞控制详解-|-5.-回避算法](https://toutiao.io/k/hl9hinl) ![](assets/new.png)  
 - [2022-10-06-如何实现数据库读一致性](https://toutiao.io/k/xpscpsa) ![](assets/new.png)  
+- [2022-10-06-TCP-拥塞控制详解-|-5.-回避算法](https://toutiao.io/k/hl9hinl) ![](assets/new.png)  
 - [2022-10-06-JuiceFS-在-Elasticsearch/ClickHouse-温冷数据存储中的实践](https://toutiao.io/k/2ufg4sb) ![](assets/new.png)  
 - [2022-10-06-加密固件的提取思路与实践](https://toutiao.io/k/684ll0n) ![](assets/new.png)  
 - [2022-10-06-Java-并发编程-|-从进程、线程到并发问题实例解决](https://toutiao.io/k/dtekhpt) ![](assets/new.png)  
@@ -563,8 +563,11 @@
 - [2022-10-06-OpenJDK-的-Amber-项目对-Java-入口类的修改方向](https://toutiao.io/k/8rfhzod) ![](assets/new.png)  
 - [2022-10-06-【Rust日报】2022-10-04-初版的-Rust-支持已合并到-Linux-内核](https://toutiao.io/k/zcw2cmz) ![](assets/new.png)  
 - [2022-10-06-Spark-on-k8s-在阿里云-EMR-的优化实践](https://toutiao.io/k/cbsxmpb) ![](assets/new.png)  
-- [2022-10-06-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) ![](assets/new.png)  
+- [2022-10-06-面试官：你这数据库表设计的，真垃圾。。。](https://toutiao.io/k/0c7whvz) ![](assets/new.png)  
+- [2022-10-06-如何设计一个短链服务？](https://toutiao.io/k/37q95tr) ![](assets/new.png)  
+- [2022-10-06-SPIFFE/SPIRE-从入门到入门](https://toutiao.io/k/lz85uaf) ![](assets/new.png)  
 - [2022-10-06-推荐-性能优化必备——火焰图](https://toutiao.io/k/azf7ub6) ![](assets/new.png)  
+- [2022-10-06-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

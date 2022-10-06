@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-06 05:11:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-10-06 06:02:37。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,13 @@
 </summary>
 
 
+- [【V2EX】2022-10-06-万能的-V2EX-flutter-悬浮功能使用了一个第三方库不能悬浮是啥原因](https://www.v2ex.com/t/884877) 
+- [【V2EX】2022-10-06-昆仑神宫完了，感觉还不错，没网上评论的糟糕，-10-分能给-7-8-分。](https://www.v2ex.com/t/884876) 
+- [【V2EX】2022-10-06-Pyinstaller-打包无头浏览器，弹出-cmd-窗口的问题](https://www.v2ex.com/t/884875) 
+- [【V2EX】2022-10-06-求助-1080p-360hz-typec-to-DP-转换线](https://www.v2ex.com/t/884874) 
+- [【V2EX】2022-10-06-家人说我是“技术屌丝”，心里很不是滋味，如何自我开解？](https://www.v2ex.com/t/884871) 
+- [【V2EX】2022-10-06-Surge-for-Mac-上车](https://www.v2ex.com/t/884870) 
+- [【V2EX】2022-10-06-如何解决-Chrome-浏览器访问-Bilibili-网页端页面播放视频的卡顿？](https://www.v2ex.com/t/884869) 
 - [【V2EX】2022-10-06-抖音-很缺人-iOS-基础技术招聘---研发效能方向（北/上/深/杭）](https://www.v2ex.com/t/884867) 
 - [【V2EX】2022-10-06-现在有那几家的息屏显示,是有开放接口的?](https://www.v2ex.com/t/884866) 
 - [【V2EX】2022-10-06-ios16.1beta4-新增“从其他-App-粘贴”开关](https://www.v2ex.com/t/884865) 
@@ -100,13 +107,6 @@
 - [【V2EX】2022-10-05-寻找后端开发人员](https://www.v2ex.com/t/884832) 
 - [【V2EX】2022-10-05-n.e-is-not-a-function-问题记录](https://www.v2ex.com/t/884829) 
 - [【V2EX】2022-10-05-debian-用着用着就报错-hard-LOCKUP,-有没有大佬懂的](https://www.v2ex.com/t/884828) 
-- [【V2EX】2022-10-05-有什么好的办法可以管理-mhtml-文件](https://www.v2ex.com/t/884827) 
-- [【V2EX】2022-10-05-绝对自由后是否还存在欲望？欲望是否有止境？](https://www.v2ex.com/t/884826) 
-- [【V2EX】2022-10-05-iOS-有使用类似-Windows-8-"快速启动"一类的技术吗，为什么音量键+侧键强制重启耗时总比正常关机开机耗时长上-2.5-秒（从亮屏瞬间开始计算，两组都重复实验了-3-...](https://www.v2ex.com/t/884825) 
-- [【V2EX】2022-10-05-使用佩奇主站，这两天连接是否正常。](https://www.v2ex.com/t/884824) 
-- [【V2EX】2022-10-05-请问-推特-API-申请怎么写容易-通过呢](https://www.v2ex.com/t/884823) 
-- [【V2EX】2022-10-05-请问新款-Xbox-series-x-什么时候出来？](https://www.v2ex.com/t/884822) 
-- [【V2EX】2022-10-05-Twitter-疑似接入-CN2-GT](https://www.v2ex.com/t/884820) 
 - [【技术头条】2022-10-06-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-06-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-06-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -128,8 +128,8 @@
 - [【技术头条】2022-10-06-10-大可以摧毁你的-Linux-的命令-linux.cn](https://blogread.cn/news/go.php?idItem=15385&url=https%3A%2F%2Flinux.cn%2Farticle-15022-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-06-如何在笔记本电脑合盖时不挂起-Ubuntu-linux.cn](https://blogread.cn/news/go.php?idItem=15384&url=https%3A%2F%2Flinux.cn%2Farticle-15015-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【开发者头条】2022-10-06-新来个技术总监，把限流实现的那叫一个优雅，佩服！](https://toutiao.io/k/vqscb2l) 
-- [【开发者头条】2022-10-06-TCP-拥塞控制详解-|-5.-回避算法](https://toutiao.io/k/hl9hinl) 
 - [【开发者头条】2022-10-06-如何实现数据库读一致性](https://toutiao.io/k/xpscpsa) 
+- [【开发者头条】2022-10-06-TCP-拥塞控制详解-|-5.-回避算法](https://toutiao.io/k/hl9hinl) 
 - [【开发者头条】2022-10-06-JuiceFS-在-Elasticsearch/ClickHouse-温冷数据存储中的实践](https://toutiao.io/k/2ufg4sb) 
 - [【开发者头条】2022-10-06-加密固件的提取思路与实践](https://toutiao.io/k/684ll0n) 
 - [【开发者头条】2022-10-06-Java-并发编程-|-从进程、线程到并发问题实例解决](https://toutiao.io/k/dtekhpt) 
@@ -137,8 +137,11 @@
 - [【开发者头条】2022-10-06-OpenJDK-的-Amber-项目对-Java-入口类的修改方向](https://toutiao.io/k/8rfhzod) 
 - [【开发者头条】2022-10-06-【Rust日报】2022-10-04-初版的-Rust-支持已合并到-Linux-内核](https://toutiao.io/k/zcw2cmz) 
 - [【开发者头条】2022-10-06-Spark-on-k8s-在阿里云-EMR-的优化实践](https://toutiao.io/k/cbsxmpb) 
-- [【开发者头条】2022-10-06-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) 
+- [【开发者头条】2022-10-06-面试官：你这数据库表设计的，真垃圾。。。](https://toutiao.io/k/0c7whvz) 
+- [【开发者头条】2022-10-06-如何设计一个短链服务？](https://toutiao.io/k/37q95tr) 
+- [【开发者头条】2022-10-06-SPIFFE/SPIRE-从入门到入门](https://toutiao.io/k/lz85uaf) 
 - [【开发者头条】2022-10-06-推荐-性能优化必备——火焰图](https://toutiao.io/k/azf7ub6) 
+- [【开发者头条】2022-10-06-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-06 10:51:54，:rocket: 更新条数: +2013， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-06 11:15:52，:rocket: 更新条数: +2014， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-10-06-当面付代开](https://www.v2ex.com/t/884918) ![](assets/new.png)  
+- [2022-10-06-关于-mysql-count-太慢的问题](https://www.v2ex.com/t/884917) ![](assets/new.png)  
 - [2022-10-06-求救！-M1-Mac-上怎么把-word-文档转换成-PDF/A-格式的文档？](https://www.v2ex.com/t/884916) ![](assets/new.png)  
 - [2022-10-06-刚让小孩学用-mac，推荐下-MAC-应用网站？](https://www.v2ex.com/t/884915) ![](assets/new.png)  
 - [2022-10-06-北京联通套餐，求老哥们分析给点建议](https://www.v2ex.com/t/884911) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-10-06-上海拼多多自己团队招人-安卓/iOS-APP-安全-SDK-开发](https://www.v2ex.com/t/884896) ![](assets/new.png)  
 - [2022-10-06-个人部署小鸡服务器有什么好的选择？](https://www.v2ex.com/t/884895) ![](assets/new.png)  
 - [2022-10-06-✅V-友专用-双十一购物神器-税前-85％高佣企业微信返利公众号➕机器人｜淘宝.京东.唯品会.苏宁.抖音.饿了么.美团外卖](https://www.v2ex.com/t/884894) ![](assets/new.png)  
-- [2022-10-06-Google-Home-怎么实现最基本的自动化？](https://www.v2ex.com/t/884893) ![](assets/new.png)  
-- [2022-10-06-关于-apple-care-+跨区购买的花样作死教训](https://www.v2ex.com/t/884892) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

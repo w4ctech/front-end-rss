@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-06 10:51:54。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-10-06 11:15:52。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,8 @@
 </summary>
 
 
+- [【V2EX】2022-10-06-当面付代开](https://www.v2ex.com/t/884918) 
+- [【V2EX】2022-10-06-关于-mysql-count-太慢的问题](https://www.v2ex.com/t/884917) 
 - [【V2EX】2022-10-06-求救！-M1-Mac-上怎么把-word-文档转换成-PDF/A-格式的文档？](https://www.v2ex.com/t/884916) 
 - [【V2EX】2022-10-06-刚让小孩学用-mac，推荐下-MAC-应用网站？](https://www.v2ex.com/t/884915) 
 - [【V2EX】2022-10-06-北京联通套餐，求老哥们分析给点建议](https://www.v2ex.com/t/884911) 
@@ -102,7 +104,6 @@
 - [【V2EX】2022-10-06-家人说我是“技术屌丝”，心里很不是滋味，如何自我开解？](https://www.v2ex.com/t/884871) 
 - [【V2EX】2022-10-06-Surge-for-Mac-上车](https://www.v2ex.com/t/884870) 
 - [【V2EX】2022-10-06-如何解决-Chrome-浏览器访问-Bilibili-网页端页面播放视频的卡顿？](https://www.v2ex.com/t/884869) 
-- [【V2EX】2022-10-06-抖音-很缺人-iOS-基础技术招聘---研发效能方向（北/上/深/杭）](https://www.v2ex.com/t/884867) 
 - [【技术头条】2022-10-06-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-06-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-06-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

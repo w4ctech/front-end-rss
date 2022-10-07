@@ -9953,6 +9953,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "求推荐几本程序员读的书",
+        "link": "https://www.v2ex.com/t/885054",
+        "date": "2022-10-07"
+      },
+      {
+        "title": "碧悠酸奶怎么全面下架了，有人知道原因么？",
+        "link": "https://www.v2ex.com/t/885052",
+        "date": "2022-10-07"
+      },
+      {
         "title": "请教一个关于`数据权限问题`的方案设计",
         "link": "https://www.v2ex.com/t/885051",
         "date": "2022-10-07"
@@ -10151,26 +10161,6 @@
         "title": "到了国外之后，是不是就彻底无法详细看地图上的中国大陆区域了？",
         "link": "https://www.v2ex.com/t/885006",
         "date": "2022-10-07"
-      },
-      {
-        "title": "家用机柜有推荐的吗？",
-        "link": "https://www.v2ex.com/t/885005",
-        "date": "2022-10-07"
-      },
-      {
-        "title": "Linux 系统上如何设置让某一个用户创建的进程几乎完全不影响到系统上其它用户进程的调度？",
-        "link": "https://www.v2ex.com/t/885004",
-        "date": "2022-10-07"
-      },
-      {
-        "title": "中国区 EC2 无预付费的预留实例支付失败",
-        "link": "https://www.v2ex.com/t/885003",
-        "date": "2022-10-07"
-      },
-      {
-        "title": "为什么一直有 iPhone 13/14 Pro 锁 80Hz 的传言？",
-        "link": "https://www.v2ex.com/t/885002",
-        "date": "2022-10-07"
       }
     ]
   },
@@ -10312,13 +10302,13 @@
         "date": "2022-10-07"
       },
       {
-        "title": "Python 3.12 目标：还可以更快！",
-        "link": "https://toutiao.io/k/1uwa5jr",
+        "title": "自以为掌握的缓存数据库一致性问题，面试还是被问的一脸懵逼。。。",
+        "link": "https://toutiao.io/k/8015c27",
         "date": "2022-10-07"
       },
       {
-        "title": "自以为掌握的缓存数据库一致性问题，面试还是被问的一脸懵逼。。。",
-        "link": "https://toutiao.io/k/8015c27",
+        "title": "Python 3.12 目标：还可以更快！",
+        "link": "https://toutiao.io/k/1uwa5jr",
         "date": "2022-10-07"
       },
       {
@@ -10337,11 +10327,6 @@
         "date": "2022-10-07"
       },
       {
-        "title": "[推荐] 分享16个我总结的思维模型（程序员必读，受用终身）",
-        "link": "https://toutiao.io/k/f7r13v5",
-        "date": "2022-10-07"
-      },
-      {
         "title": "[推荐] 项目上线一年，整理了一份SpringBoot性能优化方案！",
         "link": "https://toutiao.io/k/3ueuxa0",
         "date": "2022-10-07"
@@ -10349,6 +10334,11 @@
       {
         "title": "[推荐] 性能优化必备——火焰图",
         "link": "https://toutiao.io/k/azf7ub6",
+        "date": "2022-10-07"
+      },
+      {
+        "title": "[推荐] 分享16个我总结的思维模型（程序员必读，受用终身）",
+        "link": "https://toutiao.io/k/f7r13v5",
         "date": "2022-10-07"
       }
     ]

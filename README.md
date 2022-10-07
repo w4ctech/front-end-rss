@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-07 08:54:50，:rocket: 更新条数: +2023， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-07 09:20:42，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-10-07-求推荐几本程序员读的书](https://www.v2ex.com/t/885054) ![](assets/new.png)  
+- [2022-10-07-碧悠酸奶怎么全面下架了，有人知道原因么？](https://www.v2ex.com/t/885052) ![](assets/new.png)  
 - [2022-10-07-请教一个关于`数据权限问题`的方案设计](https://www.v2ex.com/t/885051) ![](assets/new.png)  
 - [2022-10-07-买了新电脑，可是-vscode-花屏了，求解](https://www.v2ex.com/t/885050) ![](assets/new.png)  
 - [2022-10-07-MacBook-直供电流功率](https://www.v2ex.com/t/885049) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-10-07-MacBook-Pro-下关于-ipv6-的怪问题](https://www.v2ex.com/t/885032) ![](assets/new.png)  
 - [2022-10-07-请问下，换过硬盘后能用多久？](https://www.v2ex.com/t/885031) ![](assets/new.png)  
 - [2022-10-07-搭建一个国内高可用的-IPFS-网关节点，打造去中心化无限存储节点（理论）](https://www.v2ex.com/t/885030) ![](assets/new.png)  
-- [2022-10-07-国庆小作品：无需注册的极简在线文档协助工具](https://www.v2ex.com/t/885029) ![](assets/new.png)  
-- [2022-10-07-Goodsdb.cn--有货-更新，添加书签支持](https://www.v2ex.com/t/885028) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -558,14 +558,14 @@
 - [2022-10-07-哔哩哔哩如何基于-Trino+Iceberg-打造高效湖仓一体平台](https://toutiao.io/k/byi6i0p) ![](assets/new.png)  
 - [2022-10-07-NSA-到底是什么样的怪物机构？](https://toutiao.io/k/x8bhwal) ![](assets/new.png)  
 - [2022-10-07-Redis持久化锦囊在手，再也不会担心数据丢失了](https://toutiao.io/k/2lxxw5h) ![](assets/new.png)  
-- [2022-10-07-Python-3.12-目标：还可以更快！](https://toutiao.io/k/1uwa5jr) ![](assets/new.png)  
 - [2022-10-07-自以为掌握的缓存数据库一致性问题，面试还是被问的一脸懵逼。。。](https://toutiao.io/k/8015c27) ![](assets/new.png)  
+- [2022-10-07-Python-3.12-目标：还可以更快！](https://toutiao.io/k/1uwa5jr) ![](assets/new.png)  
 - [2022-10-07-分享一些-eBPF-技术相关的-PDF](https://toutiao.io/k/7nuu6zy) ![](assets/new.png)  
 - [2022-10-07-基于火山引擎-EMR-构建企业级数据湖仓](https://toutiao.io/k/qmdbmd5) ![](assets/new.png)  
 - [2022-10-07-标签评分：海量标签如何进行系统治理？](https://toutiao.io/k/ay83jym) ![](assets/new.png)  
-- [2022-10-07-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) ![](assets/new.png)  
 - [2022-10-07-推荐-项目上线一年，整理了一份SpringBoot性能优化方案！](https://toutiao.io/k/3ueuxa0) ![](assets/new.png)  
 - [2022-10-07-推荐-性能优化必备——火焰图](https://toutiao.io/k/azf7ub6) ![](assets/new.png)  
+- [2022-10-07-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-07 15:19:06。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-10-07 15:51:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,10 @@
 </summary>
 
 
+- [【V2EX】2022-10-07-福利超级赞的外企-，后端-Manager/架构师（开发语言不限，-Java-/C++/C#/Go/Rust-均可），英语流利，地点：深圳](https://www.v2ex.com/t/885111) 
+- [【V2EX】2022-10-07-SpringBoot-第三方类作为-Bean-如何添加生命周期方法？](https://www.v2ex.com/t/885110) 
+- [【V2EX】2022-10-07-24-岁非本专业大专准备自学转行前端，求劝退](https://www.v2ex.com/t/885109) 
+- [【V2EX】2022-10-07-咨询广大网友一个问题。](https://www.v2ex.com/t/885108) 
 - [【V2EX】2022-10-07-特斯拉现在还有老用户邀请新用户送超充历程吗？](https://www.v2ex.com/t/885107) 
 - [【V2EX】2022-10-07-单独使用-sudo--s-后面没有其他命令，会得到一个交互的-root-的-shell。请教下，-s-参数，是否会加载环境变量定义文件？](https://www.v2ex.com/t/885106) 
 - [【V2EX】2022-10-07-请问有好的程序设计类书籍推荐吗？](https://www.v2ex.com/t/885104) 
@@ -100,10 +104,6 @@
 - [【V2EX】2022-10-07-推广下自己的云剪贴板](https://www.v2ex.com/t/885066) 
 - [【V2EX】2022-10-07-这种的代理怎么连接，用什么客户端和插件](https://www.v2ex.com/t/885064) 
 - [【V2EX】2022-10-07-做了一个-go-语言实现的简化应用开发的框架](https://www.v2ex.com/t/885063) 
-- [【V2EX】2022-10-07-近日使用-v2ray-节点遇到的问题-，拿出来探讨一下](https://www.v2ex.com/t/885062) 
-- [【V2EX】2022-10-07-EasyMosdns-分享简单好用的-DoH-与开源策略供研究使用](https://www.v2ex.com/t/885061) 
-- [【V2EX】2022-10-07-Pixel-7-&-7-Pro-内置-VPN（属-Google-One-套餐，无额外收费）](https://www.v2ex.com/t/885060) 
-- [【V2EX】2022-10-07-别墅怎么用扫拖地机器人？](https://www.v2ex.com/t/885058) 
 - [【技术头条】2022-10-07-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-07-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-07-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -134,9 +134,9 @@
 - [【开发者头条】2022-10-07-Python-3.12-目标：还可以更快！](https://toutiao.io/k/1uwa5jr) 
 - [【开发者头条】2022-10-07-标签评分：海量标签如何进行系统治理？](https://toutiao.io/k/ay83jym) 
 - [【开发者头条】2022-10-07-基于火山引擎-EMR-构建企业级数据湖仓](https://toutiao.io/k/qmdbmd5) 
+- [【开发者头条】2022-10-07-推荐-项目上线一年，整理了一份SpringBoot性能优化方案！](https://toutiao.io/k/3ueuxa0) 
 - [【开发者头条】2022-10-07-推荐-性能优化必备——火焰图](https://toutiao.io/k/azf7ub6) 
 - [【开发者头条】2022-10-07-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) 
-- [【开发者头条】2022-10-07-推荐-项目上线一年，整理了一份SpringBoot性能优化方案！](https://toutiao.io/k/3ueuxa0) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

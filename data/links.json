@@ -9953,6 +9953,36 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "特斯拉现在还有老用户邀请新用户送超充历程吗？",
+        "link": "https://www.v2ex.com/t/885107",
+        "date": "2022-10-07"
+      },
+      {
+        "title": "单独使用 [sudo -s] 后面没有其他命令，会得到一个交互的 root 的 shell。请教下，-s 参数，是否会加载环境变量定义文件？",
+        "link": "https://www.v2ex.com/t/885106",
+        "date": "2022-10-07"
+      },
+      {
+        "title": "请问有好的程序设计类书籍推荐吗？",
+        "link": "https://www.v2ex.com/t/885104",
+        "date": "2022-10-07"
+      },
+      {
+        "title": "如何平衡自己的时间去学习自己感兴趣的另一门编程语言",
+        "link": "https://www.v2ex.com/t/885103",
+        "date": "2022-10-07"
+      },
+      {
+        "title": "Studio Display 没有高刷版本的原因是带宽不够吗",
+        "link": "https://www.v2ex.com/t/885102",
+        "date": "2022-10-07"
+      },
+      {
+        "title": "昨天刚到的 14 pro 屏幕右侧最低亮度变成粉红色",
+        "link": "https://www.v2ex.com/t/885101",
+        "date": "2022-10-07"
+      },
+      {
         "title": "SUSE 15 开启 VNC 失败",
         "link": "https://www.v2ex.com/t/885098",
         "date": "2022-10-07"
@@ -10100,36 +10130,6 @@
       {
         "title": "别墅怎么用扫拖地机器人？",
         "link": "https://www.v2ex.com/t/885058",
-        "date": "2022-10-07"
-      },
-      {
-        "title": "火绒的自定义防护能报，但是防护无效。难道火绒不值得用？",
-        "link": "https://www.v2ex.com/t/885056",
-        "date": "2022-10-07"
-      },
-      {
-        "title": "求推荐几本程序员读的书",
-        "link": "https://www.v2ex.com/t/885054",
-        "date": "2022-10-07"
-      },
-      {
-        "title": "碧悠酸奶怎么全面下架了，有人知道原因么？",
-        "link": "https://www.v2ex.com/t/885052",
-        "date": "2022-10-07"
-      },
-      {
-        "title": "请教一个关于`数据权限问题`的方案设计",
-        "link": "https://www.v2ex.com/t/885051",
-        "date": "2022-10-07"
-      },
-      {
-        "title": "买了新电脑，可是 vscode 花屏了，求解",
-        "link": "https://www.v2ex.com/t/885050",
-        "date": "2022-10-07"
-      },
-      {
-        "title": "MacBook 直供电流功率",
-        "link": "https://www.v2ex.com/t/885049",
         "date": "2022-10-07"
       }
     ]
@@ -10297,13 +10297,13 @@
         "date": "2022-10-07"
       },
       {
-        "title": "[推荐] 分享16个我总结的思维模型（程序员必读，受用终身）",
-        "link": "https://toutiao.io/k/f7r13v5",
+        "title": "[推荐] 性能优化必备——火焰图",
+        "link": "https://toutiao.io/k/azf7ub6",
         "date": "2022-10-07"
       },
       {
-        "title": "[推荐] 性能优化必备——火焰图",
-        "link": "https://toutiao.io/k/azf7ub6",
+        "title": "[推荐] 分享16个我总结的思维模型（程序员必读，受用终身）",
+        "link": "https://toutiao.io/k/f7r13v5",
         "date": "2022-10-07"
       },
       {

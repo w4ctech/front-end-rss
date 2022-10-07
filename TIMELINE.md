@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-07 14:33:18。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-10-07 15:19:06。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,12 @@
 </summary>
 
 
+- [【V2EX】2022-10-07-特斯拉现在还有老用户邀请新用户送超充历程吗？](https://www.v2ex.com/t/885107) 
+- [【V2EX】2022-10-07-单独使用-sudo--s-后面没有其他命令，会得到一个交互的-root-的-shell。请教下，-s-参数，是否会加载环境变量定义文件？](https://www.v2ex.com/t/885106) 
+- [【V2EX】2022-10-07-请问有好的程序设计类书籍推荐吗？](https://www.v2ex.com/t/885104) 
+- [【V2EX】2022-10-07-如何平衡自己的时间去学习自己感兴趣的另一门编程语言](https://www.v2ex.com/t/885103) 
+- [【V2EX】2022-10-07-Studio-Display-没有高刷版本的原因是带宽不够吗](https://www.v2ex.com/t/885102) 
+- [【V2EX】2022-10-07-昨天刚到的-14-pro-屏幕右侧最低亮度变成粉红色](https://www.v2ex.com/t/885101) 
 - [【V2EX】2022-10-07-SUSE-15-开启-VNC-失败](https://www.v2ex.com/t/885098) 
 - [【V2EX】2022-10-07-有什么适合职场新人看的电视剧吗？](https://www.v2ex.com/t/885097) 
 - [【V2EX】2022-10-07-请问没有电动车能申请充电桩电表吗](https://www.v2ex.com/t/885096) 
@@ -98,12 +104,6 @@
 - [【V2EX】2022-10-07-EasyMosdns-分享简单好用的-DoH-与开源策略供研究使用](https://www.v2ex.com/t/885061) 
 - [【V2EX】2022-10-07-Pixel-7-&-7-Pro-内置-VPN（属-Google-One-套餐，无额外收费）](https://www.v2ex.com/t/885060) 
 - [【V2EX】2022-10-07-别墅怎么用扫拖地机器人？](https://www.v2ex.com/t/885058) 
-- [【V2EX】2022-10-07-火绒的自定义防护能报，但是防护无效。难道火绒不值得用？](https://www.v2ex.com/t/885056) 
-- [【V2EX】2022-10-07-求推荐几本程序员读的书](https://www.v2ex.com/t/885054) 
-- [【V2EX】2022-10-07-碧悠酸奶怎么全面下架了，有人知道原因么？](https://www.v2ex.com/t/885052) 
-- [【V2EX】2022-10-07-请教一个关于`数据权限问题`的方案设计](https://www.v2ex.com/t/885051) 
-- [【V2EX】2022-10-07-买了新电脑，可是-vscode-花屏了，求解](https://www.v2ex.com/t/885050) 
-- [【V2EX】2022-10-07-MacBook-直供电流功率](https://www.v2ex.com/t/885049) 
 - [【技术头条】2022-10-07-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-07-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-07-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -134,8 +134,8 @@
 - [【开发者头条】2022-10-07-Python-3.12-目标：还可以更快！](https://toutiao.io/k/1uwa5jr) 
 - [【开发者头条】2022-10-07-标签评分：海量标签如何进行系统治理？](https://toutiao.io/k/ay83jym) 
 - [【开发者头条】2022-10-07-基于火山引擎-EMR-构建企业级数据湖仓](https://toutiao.io/k/qmdbmd5) 
-- [【开发者头条】2022-10-07-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) 
 - [【开发者头条】2022-10-07-推荐-性能优化必备——火焰图](https://toutiao.io/k/azf7ub6) 
+- [【开发者头条】2022-10-07-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) 
 - [【开发者头条】2022-10-07-推荐-项目上线一年，整理了一份SpringBoot性能优化方案！](https://toutiao.io/k/3ueuxa0) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>

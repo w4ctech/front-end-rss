@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-07 23:18:47。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-10-07 23:50:44。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,8 @@
 </summary>
 
 
+- [【V2EX】2022-10-07-掘金课程全场-8-折，官方邀请返现全部归还，盖楼送任意一门掘金课程](https://www.v2ex.com/t/885124) 
+- [【V2EX】2022-10-07-vivo-系列如何解锁-BL](https://www.v2ex.com/t/885123) 
 - [【V2EX】2022-10-07-iPhone-14-Plus-到手了，说一下感受](https://www.v2ex.com/t/885122) 
 - [【V2EX】2022-10-07-找份兼职React,-NodeJS,-Java-,-Golang，-8-年工作经验，-985-本科，海外硕士，人在北欧](https://www.v2ex.com/t/885121) 
 - [【V2EX】2022-10-07-win10-的一个-bug-快把我搞疯了](https://www.v2ex.com/t/885120) 
@@ -102,8 +104,6 @@
 - [【V2EX】2022-10-07-为什么没有云磁带归档备份服务？](https://www.v2ex.com/t/885079) 
 - [【V2EX】2022-10-07-ios-网易云音乐，歌单页顶部-tabbar-的透明遮盖效果是怎么实现的？](https://www.v2ex.com/t/885077) 
 - [【V2EX】2022-10-07-如今国产-android，都这样明目张胆了嘛](https://www.v2ex.com/t/885075) 
-- [【V2EX】2022-10-07-数据库表的增量同步除了-CDC-还有别的好办法吗](https://www.v2ex.com/t/885074) 
-- [【V2EX】2022-10-07-发现-discord-没有中文的-rust-的交流群建了一个欢迎大家加入一起交流学习](https://www.v2ex.com/t/885073) 
 - [【技术头条】2022-10-07-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-07-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-07-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -134,8 +134,8 @@
 - [【开发者头条】2022-10-07-Python-3.12-目标：还可以更快！](https://toutiao.io/k/1uwa5jr) 
 - [【开发者头条】2022-10-07-标签评分：海量标签如何进行系统治理？](https://toutiao.io/k/ay83jym) 
 - [【开发者头条】2022-10-07-基于火山引擎-EMR-构建企业级数据湖仓](https://toutiao.io/k/qmdbmd5) 
-- [【开发者头条】2022-10-07-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) 
 - [【开发者头条】2022-10-07-推荐-性能优化必备——火焰图](https://toutiao.io/k/azf7ub6) 
+- [【开发者头条】2022-10-07-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

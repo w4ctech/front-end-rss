@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-07 13:36:11。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-10-07 14:33:18。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,15 @@
 </summary>
 
 
+- [【V2EX】2022-10-07-SUSE-15-开启-VNC-失败](https://www.v2ex.com/t/885098) 
+- [【V2EX】2022-10-07-有什么适合职场新人看的电视剧吗？](https://www.v2ex.com/t/885097) 
+- [【V2EX】2022-10-07-请问没有电动车能申请充电桩电表吗](https://www.v2ex.com/t/885096) 
+- [【V2EX】2022-10-07-读《Web3.0：渐行渐近的新一代互联网》后感](https://www.v2ex.com/t/885095) 
+- [【V2EX】2022-10-07-没人讨论讨论-Pixel-7-系列吗？](https://www.v2ex.com/t/885093) 
+- [【V2EX】2022-10-07-有没有网站可以推荐电视剧电影，并列出那些在线平台有版权可以看](https://www.v2ex.com/t/885091) 
+- [【V2EX】2022-10-07-有熟悉-nfc-的老哥吗？我买了一个-nfc-读卡器，基本能把手头的卡放进小米手环了，但是比亚迪的充电卡搞不定，显示第三代无漏洞卡，无法解卡。有啥办法吗？](https://www.v2ex.com/t/885089) 
+- [【V2EX】2022-10-07-所以-10-月会有发布会吗？](https://www.v2ex.com/t/885088) 
+- [【V2EX】2022-10-07-24-寸的-1080p-显示器是不是不值得买了？](https://www.v2ex.com/t/885087) 
 - [【V2EX】2022-10-07-想学钢琴各位有什么可以分享的经验](https://www.v2ex.com/t/885086) 
 - [【V2EX】2022-10-07-Apple-Watch-可以选择非-WGS84-坐标系了，阉割的坐标有希望了？](https://www.v2ex.com/t/885085) 
 - [【V2EX】2022-10-07-iMac-5K-屏幕被搞坏了-😅](https://www.v2ex.com/t/885083) 
@@ -95,13 +104,6 @@
 - [【V2EX】2022-10-07-请教一个关于`数据权限问题`的方案设计](https://www.v2ex.com/t/885051) 
 - [【V2EX】2022-10-07-买了新电脑，可是-vscode-花屏了，求解](https://www.v2ex.com/t/885050) 
 - [【V2EX】2022-10-07-MacBook-直供电流功率](https://www.v2ex.com/t/885049) 
-- [【V2EX】2022-10-07-深圳-Only-海外科技&创业频道主播&研究者（Part-time）](https://www.v2ex.com/t/885047) 
-- [【V2EX】2022-10-07-2022-年-10-月了，有好的咕咕机（支持-WebAPI-远程控制的打印机）替代品吗](https://www.v2ex.com/t/885046) 
-- [【V2EX】2022-10-07-iPhone-屏幕刷新率体验](https://www.v2ex.com/t/885044) 
-- [【V2EX】2022-10-07-求大佬赐一个-Shell-脚本](https://www.v2ex.com/t/885043) 
-- [【V2EX】2022-10-07-摸鱼时间，用-GitHub-Page-制作了一个-Nav-收藏夹，比起书签好用多啦！](https://www.v2ex.com/t/885041) 
-- [【V2EX】2022-10-07-上海莘庄镇附近去哪里买衣服呢？](https://www.v2ex.com/t/885039) 
-- [【V2EX】2022-10-07-6-千核显主机装机小结](https://www.v2ex.com/t/885038) 
 - [【技术头条】2022-10-07-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-07-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-07-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -126,14 +128,14 @@
 - [【开发者头条】2022-10-07-Rust-太难？那是你没看到这套-Rust-语言语言学习总结（下](https://toutiao.io/k/gi384gt) 
 - [【开发者头条】2022-10-07-哔哩哔哩如何基于-Trino+Iceberg-打造高效湖仓一体平台](https://toutiao.io/k/byi6i0p) 
 - [【开发者头条】2022-10-07-NSA-到底是什么样的怪物机构？](https://toutiao.io/k/x8bhwal) 
-- [【开发者头条】2022-10-07-Redis持久化锦囊在手，再也不会担心数据丢失了](https://toutiao.io/k/2lxxw5h) 
 - [【开发者头条】2022-10-07-自以为掌握的缓存数据库一致性问题，面试还是被问的一脸懵逼。。。](https://toutiao.io/k/8015c27) 
+- [【开发者头条】2022-10-07-Redis持久化锦囊在手，再也不会担心数据丢失了](https://toutiao.io/k/2lxxw5h) 
 - [【开发者头条】2022-10-07-分享一些-eBPF-技术相关的-PDF](https://toutiao.io/k/7nuu6zy) 
 - [【开发者头条】2022-10-07-Python-3.12-目标：还可以更快！](https://toutiao.io/k/1uwa5jr) 
 - [【开发者头条】2022-10-07-标签评分：海量标签如何进行系统治理？](https://toutiao.io/k/ay83jym) 
 - [【开发者头条】2022-10-07-基于火山引擎-EMR-构建企业级数据湖仓](https://toutiao.io/k/qmdbmd5) 
-- [【开发者头条】2022-10-07-推荐-性能优化必备——火焰图](https://toutiao.io/k/azf7ub6) 
 - [【开发者头条】2022-10-07-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) 
+- [【开发者头条】2022-10-07-推荐-性能优化必备——火焰图](https://toutiao.io/k/azf7ub6) 
 - [【开发者头条】2022-10-07-推荐-项目上线一年，整理了一份SpringBoot性能优化方案！](https://toutiao.io/k/3ueuxa0) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>

@@ -9953,6 +9953,51 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "SUSE 15 开启 VNC 失败",
+        "link": "https://www.v2ex.com/t/885098",
+        "date": "2022-10-07"
+      },
+      {
+        "title": "有什么适合职场新人看的电视剧吗？",
+        "link": "https://www.v2ex.com/t/885097",
+        "date": "2022-10-07"
+      },
+      {
+        "title": "请问没有电动车能申请充电桩电表吗",
+        "link": "https://www.v2ex.com/t/885096",
+        "date": "2022-10-07"
+      },
+      {
+        "title": "读《Web3.0：渐行渐近的新一代互联网》后感",
+        "link": "https://www.v2ex.com/t/885095",
+        "date": "2022-10-07"
+      },
+      {
+        "title": "没人讨论讨论 Pixel 7 系列吗？",
+        "link": "https://www.v2ex.com/t/885093",
+        "date": "2022-10-07"
+      },
+      {
+        "title": "有没有网站可以推荐电视剧电影，并列出那些在线平台有版权可以看",
+        "link": "https://www.v2ex.com/t/885091",
+        "date": "2022-10-07"
+      },
+      {
+        "title": "有熟悉 nfc 的老哥吗？我买了一个 nfc 读卡器，基本能把手头的卡放进小米手环了，但是比亚迪的充电卡搞不定，显示第三代无漏洞卡，无法解卡。有啥办法吗？",
+        "link": "https://www.v2ex.com/t/885089",
+        "date": "2022-10-07"
+      },
+      {
+        "title": "所以 10 月会有发布会吗？",
+        "link": "https://www.v2ex.com/t/885088",
+        "date": "2022-10-07"
+      },
+      {
+        "title": "24 寸的 1080p 显示器是不是不值得买了？",
+        "link": "https://www.v2ex.com/t/885087",
+        "date": "2022-10-07"
+      },
+      {
         "title": "想学钢琴各位有什么可以分享的经验",
         "link": "https://www.v2ex.com/t/885086",
         "date": "2022-10-07"
@@ -10085,41 +10130,6 @@
       {
         "title": "MacBook 直供电流功率",
         "link": "https://www.v2ex.com/t/885049",
-        "date": "2022-10-07"
-      },
-      {
-        "title": "[深圳 Only] 海外科技&创业频道主播&研究者（Part-time）",
-        "link": "https://www.v2ex.com/t/885047",
-        "date": "2022-10-07"
-      },
-      {
-        "title": "2022 年 10 月了，有好的咕咕机（支持 WebAPI 远程控制的打印机）替代品吗",
-        "link": "https://www.v2ex.com/t/885046",
-        "date": "2022-10-07"
-      },
-      {
-        "title": "iPhone 屏幕刷新率体验",
-        "link": "https://www.v2ex.com/t/885044",
-        "date": "2022-10-07"
-      },
-      {
-        "title": "求大佬赐一个 Shell 脚本",
-        "link": "https://www.v2ex.com/t/885043",
-        "date": "2022-10-07"
-      },
-      {
-        "title": "摸鱼时间，用 GitHub Page 制作了一个 Nav 收藏夹，比起书签好用多啦！",
-        "link": "https://www.v2ex.com/t/885041",
-        "date": "2022-10-07"
-      },
-      {
-        "title": "上海莘庄镇附近去哪里买衣服呢？",
-        "link": "https://www.v2ex.com/t/885039",
-        "date": "2022-10-07"
-      },
-      {
-        "title": "6 千核显主机装机小结",
-        "link": "https://www.v2ex.com/t/885038",
         "date": "2022-10-07"
       }
     ]
@@ -10257,13 +10267,13 @@
         "date": "2022-10-07"
       },
       {
-        "title": "Redis持久化锦囊在手，再也不会担心数据丢失了",
-        "link": "https://toutiao.io/k/2lxxw5h",
+        "title": "自以为掌握的缓存数据库一致性问题，面试还是被问的一脸懵逼。。。",
+        "link": "https://toutiao.io/k/8015c27",
         "date": "2022-10-07"
       },
       {
-        "title": "自以为掌握的缓存数据库一致性问题，面试还是被问的一脸懵逼。。。",
-        "link": "https://toutiao.io/k/8015c27",
+        "title": "Redis持久化锦囊在手，再也不会担心数据丢失了",
+        "link": "https://toutiao.io/k/2lxxw5h",
         "date": "2022-10-07"
       },
       {
@@ -10287,13 +10297,13 @@
         "date": "2022-10-07"
       },
       {
-        "title": "[推荐] 性能优化必备——火焰图",
-        "link": "https://toutiao.io/k/azf7ub6",
+        "title": "[推荐] 分享16个我总结的思维模型（程序员必读，受用终身）",
+        "link": "https://toutiao.io/k/f7r13v5",
         "date": "2022-10-07"
       },
       {
-        "title": "[推荐] 分享16个我总结的思维模型（程序员必读，受用终身）",
-        "link": "https://toutiao.io/k/f7r13v5",
+        "title": "[推荐] 性能优化必备——火焰图",
+        "link": "https://toutiao.io/k/azf7ub6",
         "date": "2022-10-07"
       },
       {

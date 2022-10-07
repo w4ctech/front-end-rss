@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-07 06:27:48，:rocket: 更新条数: +2015， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-07 07:02:09，:rocket: 更新条数: +2018， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,14 @@
 </summary>
 
 
+- [2022-10-07-迁移阿里云-CDN-到-Cloudflare](https://www.v2ex.com/t/885020) ![](assets/new.png)  
+- [2022-10-07-文件复制，但是保留全部时间戳，支持增量同步win](https://www.v2ex.com/t/885019) ![](assets/new.png)  
+- [2022-10-07-用了很久的微信被封了](https://www.v2ex.com/t/885018) ![](assets/new.png)  
+- [2022-10-07-官翻-13-英寸-MacBook-Pro-M2-芯片现已上架](https://www.v2ex.com/t/885017) ![](assets/new.png)  
+- [2022-10-07-哪里有可用的阿根廷或者土耳其的-daili？](https://www.v2ex.com/t/885016) ![](assets/new.png)  
+- [2022-10-07-WeChat-on-Apple-Watch-如何调整语音消息的音量](https://www.v2ex.com/t/885015) ![](assets/new.png)  
+- [2022-10-07-请问多装一条宽带应该怎么办呢](https://www.v2ex.com/t/885014) ![](assets/new.png)  
+- [2022-10-07-如何删除账号](https://www.v2ex.com/t/885013) ![](assets/new.png)  
 - [2022-10-07-深圳有没有外国人常在的咖啡馆或者英语角](https://www.v2ex.com/t/885012) ![](assets/new.png)  
 - [2022-10-07-坐标-杭州-有哪些好一点英语角吗-现在](https://www.v2ex.com/t/885011) ![](assets/new.png)  
 - [2022-10-07-最近经常看到关于-novelai-AI-作画的内容，萌生了关于-AI-调教的问题](https://www.v2ex.com/t/885010) ![](assets/new.png)  
@@ -503,14 +511,6 @@
 - [2022-10-07-为什么一直有-iPhone-13/14-Pro-锁-80Hz-的传言？](https://www.v2ex.com/t/885002) ![](assets/new.png)  
 - [2022-10-07-意外捕捉到了百度百科页面错误输出](https://www.v2ex.com/t/885001) ![](assets/new.png)  
 - [2022-10-07-求推荐健康码拼图-app](https://www.v2ex.com/t/885000) ![](assets/new.png)  
-- [2022-10-07-请问现在-Googleplay-还有办法转区，或者注册某个特定区的账号吗？](https://www.v2ex.com/t/884999) ![](assets/new.png)  
-- [2022-10-07-求推荐壳子、膜](https://www.v2ex.com/t/884997) ![](assets/new.png)  
-- [2022-10-07-help-clash-如何设置可以让-amazon-网站是直连](https://www.v2ex.com/t/884996) ![](assets/new.png)  
-- [2022-10-07-提问大家是如何解决电子-ED-的？](https://www.v2ex.com/t/884992) ![](assets/new.png)  
-- [2022-10-07-招一位-app/网站的数据运营，远程办公，月薪-12k+3k](https://www.v2ex.com/t/884990) ![](assets/new.png)  
-- [2022-10-07-React-give-kehu-duan](https://www.v2ex.com/t/884989) ![](assets/new.png)  
-- [2022-10-07-有没有这样一个开源应用？可以存储-epub，-mobi-等格式的书籍，然后拿起任何一部设备都能读？](https://www.v2ex.com/t/884988) ![](assets/new.png)  
-- [2022-10-07-`ad-hoc`到底是什么意思](https://www.v2ex.com/t/884985) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -557,15 +557,15 @@
 - [2022-10-07-Rust-太难？那是你没看到这套-Rust-语言语言学习总结（下](https://toutiao.io/k/gi384gt) ![](assets/new.png)  
 - [2022-10-07-哔哩哔哩如何基于-Trino+Iceberg-打造高效湖仓一体平台](https://toutiao.io/k/byi6i0p) ![](assets/new.png)  
 - [2022-10-07-NSA-到底是什么样的怪物机构？](https://toutiao.io/k/x8bhwal) ![](assets/new.png)  
-- [2022-10-07-Python-3.12-目标：还可以更快！](https://toutiao.io/k/1uwa5jr) ![](assets/new.png)  
 - [2022-10-07-Redis持久化锦囊在手，再也不会担心数据丢失了](https://toutiao.io/k/2lxxw5h) ![](assets/new.png)  
+- [2022-10-07-Python-3.12-目标：还可以更快！](https://toutiao.io/k/1uwa5jr) ![](assets/new.png)  
 - [2022-10-07-分享一些-eBPF-技术相关的-PDF](https://toutiao.io/k/7nuu6zy) ![](assets/new.png)  
 - [2022-10-07-基于火山引擎-EMR-构建企业级数据湖仓](https://toutiao.io/k/qmdbmd5) ![](assets/new.png)  
 - [2022-10-07-标签评分：海量标签如何进行系统治理？](https://toutiao.io/k/ay83jym) ![](assets/new.png)  
 - [2022-10-07-自以为掌握的缓存数据库一致性问题，面试还是被问的一脸懵逼。。。](https://toutiao.io/k/8015c27) ![](assets/new.png)  
-- [2022-10-07-推荐-性能优化必备——火焰图](https://toutiao.io/k/azf7ub6) ![](assets/new.png)  
 - [2022-10-07-推荐-项目上线一年，整理了一份SpringBoot性能优化方案！](https://toutiao.io/k/3ueuxa0) ![](assets/new.png)  
 - [2022-10-07-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) ![](assets/new.png)  
+- [2022-10-07-推荐-性能优化必备——火焰图](https://toutiao.io/k/azf7ub6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

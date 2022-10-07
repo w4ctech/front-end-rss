@@ -9953,6 +9953,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "五年前的笔记本， i5-8300H，请问有必要把内存加到 64G 吗？",
+        "link": "https://www.v2ex.com/t/885071",
+        "date": "2022-10-07"
+      },
+      {
         "title": "刚在 JD 买的登山杖，用一次折了……",
         "link": "https://www.v2ex.com/t/885069",
         "date": "2022-10-07"
@@ -10126,11 +10131,6 @@
         "title": "请教 sql 数据表设计的问题",
         "link": "https://www.v2ex.com/t/885022",
         "date": "2022-10-07"
-      },
-      {
-        "title": "腾讯云轻量服务器蜂驰版测评及横向对比",
-        "link": "https://www.v2ex.com/t/885021",
-        "date": "2022-10-07"
       }
     ]
   },
@@ -10302,13 +10302,13 @@
         "date": "2022-10-07"
       },
       {
-        "title": "[推荐] 分享16个我总结的思维模型（程序员必读，受用终身）",
-        "link": "https://toutiao.io/k/f7r13v5",
+        "title": "[推荐] 性能优化必备——火焰图",
+        "link": "https://toutiao.io/k/azf7ub6",
         "date": "2022-10-07"
       },
       {
-        "title": "[推荐] 性能优化必备——火焰图",
-        "link": "https://toutiao.io/k/azf7ub6",
+        "title": "[推荐] 分享16个我总结的思维模型（程序员必读，受用终身）",
+        "link": "https://toutiao.io/k/f7r13v5",
         "date": "2022-10-07"
       }
     ]

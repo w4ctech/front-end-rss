@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-07 11:17:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-07 11:45:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1914,6 +1914,7 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-10-07-五年前的笔记本，-i5-8300H，请问有必要把内存加到-64G-吗？](https://www.v2ex.com/t/885071) 
 - [2022-10-07-刚在-JD-买的登山杖，用一次折了……](https://www.v2ex.com/t/885069) 
 - [2022-10-07-广州哪家医院神经内科好](https://www.v2ex.com/t/885068) 
 - [2022-10-07-推荐一个使用-WinUI3-开发的流程自动化软件](https://www.v2ex.com/t/885067) 
@@ -1946,7 +1947,6 @@
 - [2022-10-07-有没有系统层面类似-SwitchyOmega-的软件？](https://www.v2ex.com/t/885025) 
 - [2022-10-07-v2-上面怎么删自己发过的内容？](https://www.v2ex.com/t/885024) 
 - [2022-10-07-请教-sql-数据表设计的问题](https://www.v2ex.com/t/885022) 
-- [2022-10-07-腾讯云轻量服务器蜂驰版测评及横向对比](https://www.v2ex.com/t/885021) 
 - [2022-10-07-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-07-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-07-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

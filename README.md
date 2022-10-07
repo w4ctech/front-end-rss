@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-07 15:51:21，:rocket: 更新条数: +2015， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-07 16:24:55，:rocket: 更新条数: +2014， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-10-07-Web3.0-招聘技术-VP（后端-Go），工作地点：-home-base，英语口语流利，薪水（base70W，总包-100W，具体也可谈）](https://www.v2ex.com/t/885114) ![](assets/new.png)  
+- [2022-10-07-20221007-午夜俱乐部](https://www.v2ex.com/t/885113) ![](assets/new.png)  
 - [2022-10-07-福利超级赞的外企-，后端-Manager/架构师（开发语言不限，-Java-/C++/C#/Go/Rust-均可），英语流利，地点：深圳](https://www.v2ex.com/t/885111) ![](assets/new.png)  
 - [2022-10-07-SpringBoot-第三方类作为-Bean-如何添加生命周期方法？](https://www.v2ex.com/t/885110) ![](assets/new.png)  
 - [2022-10-07-24-岁非本专业大专准备自学转行前端，求劝退](https://www.v2ex.com/t/885109) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-10-07-有没有网站可以推荐电视剧电影，并列出那些在线平台有版权可以看](https://www.v2ex.com/t/885091) ![](assets/new.png)  
 - [2022-10-07-有熟悉-nfc-的老哥吗？我买了一个-nfc-读卡器，基本能把手头的卡放进小米手环了，但是比亚迪的充电卡搞不定，显示第三代无漏洞卡，无法解卡。有啥办法吗？](https://www.v2ex.com/t/885089) ![](assets/new.png)  
 - [2022-10-07-所以-10-月会有发布会吗？](https://www.v2ex.com/t/885088) ![](assets/new.png)  
-- [2022-10-07-24-寸的-1080p-显示器是不是不值得买了？](https://www.v2ex.com/t/885087) ![](assets/new.png)  
-- [2022-10-07-想学钢琴各位有什么可以分享的经验](https://www.v2ex.com/t/885086) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -556,14 +556,13 @@
 - [2022-10-07-聊聊Spring中最常用的11个扩展点](https://toutiao.io/k/dsdovcg) ![](assets/new.png)  
 - [2022-10-07-Rust-太难？那是你没看到这套-Rust-语言语言学习总结（下](https://toutiao.io/k/gi384gt) ![](assets/new.png)  
 - [2022-10-07-哔哩哔哩如何基于-Trino+Iceberg-打造高效湖仓一体平台](https://toutiao.io/k/byi6i0p) ![](assets/new.png)  
-- [2022-10-07-NSA-到底是什么样的怪物机构？](https://toutiao.io/k/x8bhwal) ![](assets/new.png)  
 - [2022-10-07-自以为掌握的缓存数据库一致性问题，面试还是被问的一脸懵逼。。。](https://toutiao.io/k/8015c27) ![](assets/new.png)  
+- [2022-10-07-NSA-到底是什么样的怪物机构？](https://toutiao.io/k/x8bhwal) ![](assets/new.png)  
 - [2022-10-07-Redis持久化锦囊在手，再也不会担心数据丢失了](https://toutiao.io/k/2lxxw5h) ![](assets/new.png)  
 - [2022-10-07-分享一些-eBPF-技术相关的-PDF](https://toutiao.io/k/7nuu6zy) ![](assets/new.png)  
 - [2022-10-07-Python-3.12-目标：还可以更快！](https://toutiao.io/k/1uwa5jr) ![](assets/new.png)  
 - [2022-10-07-标签评分：海量标签如何进行系统治理？](https://toutiao.io/k/ay83jym) ![](assets/new.png)  
 - [2022-10-07-基于火山引擎-EMR-构建企业级数据湖仓](https://toutiao.io/k/qmdbmd5) ![](assets/new.png)  
-- [2022-10-07-推荐-项目上线一年，整理了一份SpringBoot性能优化方案！](https://toutiao.io/k/3ueuxa0) ![](assets/new.png)  
 - [2022-10-07-推荐-性能优化必备——火焰图](https://toutiao.io/k/azf7ub6) ![](assets/new.png)  
 - [2022-10-07-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)

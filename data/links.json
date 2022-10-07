@@ -9953,6 +9953,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "Web3.0 招聘技术 VP（后端 Go），工作地点： home base，英语口语流利，薪水（base70W，总包 100W，具体也可谈）",
+        "link": "https://www.v2ex.com/t/885114",
+        "date": "2022-10-07"
+      },
+      {
+        "title": "20221007 午夜俱乐部",
+        "link": "https://www.v2ex.com/t/885113",
+        "date": "2022-10-07"
+      },
+      {
         "title": "福利超级赞的外企 ，后端 Manager/架构师（开发语言不限， Java /C++/C#/Go/Rust 均可），英语流利，地点：深圳",
         "link": "https://www.v2ex.com/t/885111",
         "date": "2022-10-07"
@@ -10121,16 +10131,6 @@
         "title": "推广下自己的云剪贴板",
         "link": "https://www.v2ex.com/t/885066",
         "date": "2022-10-07"
-      },
-      {
-        "title": "这种的代理怎么连接，用什么客户端和插件",
-        "link": "https://www.v2ex.com/t/885064",
-        "date": "2022-10-07"
-      },
-      {
-        "title": "做了一个 go 语言实现的简化应用开发的框架",
-        "link": "https://www.v2ex.com/t/885063",
-        "date": "2022-10-07"
       }
     ]
   },
@@ -10262,13 +10262,13 @@
         "date": "2022-10-07"
       },
       {
-        "title": "NSA 到底是什么样的怪物机构？",
-        "link": "https://toutiao.io/k/x8bhwal",
+        "title": "自以为掌握的缓存数据库一致性问题，面试还是被问的一脸懵逼。。。",
+        "link": "https://toutiao.io/k/8015c27",
         "date": "2022-10-07"
       },
       {
-        "title": "自以为掌握的缓存数据库一致性问题，面试还是被问的一脸懵逼。。。",
-        "link": "https://toutiao.io/k/8015c27",
+        "title": "NSA 到底是什么样的怪物机构？",
+        "link": "https://toutiao.io/k/x8bhwal",
         "date": "2022-10-07"
       },
       {
@@ -10294,11 +10294,6 @@
       {
         "title": "基于火山引擎 EMR 构建企业级数据湖仓",
         "link": "https://toutiao.io/k/qmdbmd5",
-        "date": "2022-10-07"
-      },
-      {
-        "title": "[推荐] 项目上线一年，整理了一份SpringBoot性能优化方案！",
-        "link": "https://toutiao.io/k/3ueuxa0",
         "date": "2022-10-07"
       },
       {

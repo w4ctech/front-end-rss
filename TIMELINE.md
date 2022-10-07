@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-07 15:51:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-10-07 16:24:55。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,8 @@
 </summary>
 
 
+- [【V2EX】2022-10-07-Web3.0-招聘技术-VP（后端-Go），工作地点：-home-base，英语口语流利，薪水（base70W，总包-100W，具体也可谈）](https://www.v2ex.com/t/885114) 
+- [【V2EX】2022-10-07-20221007-午夜俱乐部](https://www.v2ex.com/t/885113) 
 - [【V2EX】2022-10-07-福利超级赞的外企-，后端-Manager/架构师（开发语言不限，-Java-/C++/C#/Go/Rust-均可），英语流利，地点：深圳](https://www.v2ex.com/t/885111) 
 - [【V2EX】2022-10-07-SpringBoot-第三方类作为-Bean-如何添加生命周期方法？](https://www.v2ex.com/t/885110) 
 - [【V2EX】2022-10-07-24-岁非本专业大专准备自学转行前端，求劝退](https://www.v2ex.com/t/885109) 
@@ -102,8 +104,6 @@
 - [【V2EX】2022-10-07-广州哪家医院神经内科好](https://www.v2ex.com/t/885068) 
 - [【V2EX】2022-10-07-推荐一个使用-WinUI3-开发的流程自动化软件](https://www.v2ex.com/t/885067) 
 - [【V2EX】2022-10-07-推广下自己的云剪贴板](https://www.v2ex.com/t/885066) 
-- [【V2EX】2022-10-07-这种的代理怎么连接，用什么客户端和插件](https://www.v2ex.com/t/885064) 
-- [【V2EX】2022-10-07-做了一个-go-语言实现的简化应用开发的框架](https://www.v2ex.com/t/885063) 
 - [【技术头条】2022-10-07-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-07-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-07-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -127,14 +127,13 @@
 - [【开发者头条】2022-10-07-聊聊Spring中最常用的11个扩展点](https://toutiao.io/k/dsdovcg) 
 - [【开发者头条】2022-10-07-Rust-太难？那是你没看到这套-Rust-语言语言学习总结（下](https://toutiao.io/k/gi384gt) 
 - [【开发者头条】2022-10-07-哔哩哔哩如何基于-Trino+Iceberg-打造高效湖仓一体平台](https://toutiao.io/k/byi6i0p) 
-- [【开发者头条】2022-10-07-NSA-到底是什么样的怪物机构？](https://toutiao.io/k/x8bhwal) 
 - [【开发者头条】2022-10-07-自以为掌握的缓存数据库一致性问题，面试还是被问的一脸懵逼。。。](https://toutiao.io/k/8015c27) 
+- [【开发者头条】2022-10-07-NSA-到底是什么样的怪物机构？](https://toutiao.io/k/x8bhwal) 
 - [【开发者头条】2022-10-07-Redis持久化锦囊在手，再也不会担心数据丢失了](https://toutiao.io/k/2lxxw5h) 
 - [【开发者头条】2022-10-07-分享一些-eBPF-技术相关的-PDF](https://toutiao.io/k/7nuu6zy) 
 - [【开发者头条】2022-10-07-Python-3.12-目标：还可以更快！](https://toutiao.io/k/1uwa5jr) 
 - [【开发者头条】2022-10-07-标签评分：海量标签如何进行系统治理？](https://toutiao.io/k/ay83jym) 
 - [【开发者头条】2022-10-07-基于火山引擎-EMR-构建企业级数据湖仓](https://toutiao.io/k/qmdbmd5) 
-- [【开发者头条】2022-10-07-推荐-项目上线一年，整理了一份SpringBoot性能优化方案！](https://toutiao.io/k/3ueuxa0) 
 - [【开发者头条】2022-10-07-推荐-性能优化必备——火焰图](https://toutiao.io/k/azf7ub6) 
 - [【开发者头条】2022-10-07-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) 
 

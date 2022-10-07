@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-07 11:45:09，:rocket: 更新条数: +2015， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-07 12:32:38，:rocket: 更新条数: +2013， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-10-07-为什么没有云磁带归档备份服务？](https://www.v2ex.com/t/885079) ![](assets/new.png)  
+- [2022-10-07-ios-网易云音乐，歌单页顶部-tabbar-的透明遮盖效果是怎么实现的？](https://www.v2ex.com/t/885077) ![](assets/new.png)  
+- [2022-10-07-如今国产-android，都这样明目张胆了嘛](https://www.v2ex.com/t/885075) ![](assets/new.png)  
+- [2022-10-07-数据库表的增量同步除了-CDC-还有别的好办法吗](https://www.v2ex.com/t/885074) ![](assets/new.png)  
+- [2022-10-07-发现-discord-没有中文的-rust-的交流群建了一个欢迎大家加入一起交流学习](https://www.v2ex.com/t/885073) ![](assets/new.png)  
 - [2022-10-07-五年前的笔记本，-i5-8300H，请问有必要把内存加到-64G-吗？](https://www.v2ex.com/t/885071) ![](assets/new.png)  
 - [2022-10-07-刚在-JD-买的登山杖，用一次折了……](https://www.v2ex.com/t/885069) ![](assets/new.png)  
 - [2022-10-07-广州哪家医院神经内科好](https://www.v2ex.com/t/885068) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-10-07-求推荐几本程序员读的书](https://www.v2ex.com/t/885054) ![](assets/new.png)  
 - [2022-10-07-碧悠酸奶怎么全面下架了，有人知道原因么？](https://www.v2ex.com/t/885052) ![](assets/new.png)  
 - [2022-10-07-请教一个关于`数据权限问题`的方案设计](https://www.v2ex.com/t/885051) ![](assets/new.png)  
-- [2022-10-07-买了新电脑，可是-vscode-花屏了，求解](https://www.v2ex.com/t/885050) ![](assets/new.png)  
-- [2022-10-07-MacBook-直供电流功率](https://www.v2ex.com/t/885049) ![](assets/new.png)  
-- [2022-10-07-深圳-Only-海外科技&创业频道主播&研究者（Part-time）](https://www.v2ex.com/t/885047) ![](assets/new.png)  
-- [2022-10-07-2022-年-10-月了，有好的咕咕机（支持-WebAPI-远程控制的打印机）替代品吗](https://www.v2ex.com/t/885046) ![](assets/new.png)  
-- [2022-10-07-iPhone-屏幕刷新率体验](https://www.v2ex.com/t/885044) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

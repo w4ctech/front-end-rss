@@ -9953,6 +9953,31 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "为什么没有云磁带归档备份服务？",
+        "link": "https://www.v2ex.com/t/885079",
+        "date": "2022-10-07"
+      },
+      {
+        "title": "ios 网易云音乐，歌单页顶部 tabbar 的透明遮盖效果是怎么实现的？",
+        "link": "https://www.v2ex.com/t/885077",
+        "date": "2022-10-07"
+      },
+      {
+        "title": "如今国产 android，都这样明目张胆了嘛",
+        "link": "https://www.v2ex.com/t/885075",
+        "date": "2022-10-07"
+      },
+      {
+        "title": "数据库表的增量同步除了 CDC 还有别的好办法吗",
+        "link": "https://www.v2ex.com/t/885074",
+        "date": "2022-10-07"
+      },
+      {
+        "title": "发现 discord 没有中文的 rust 的交流群建了一个欢迎大家加入一起交流学习",
+        "link": "https://www.v2ex.com/t/885073",
+        "date": "2022-10-07"
+      },
+      {
         "title": "五年前的笔记本， i5-8300H，请问有必要把内存加到 64G 吗？",
         "link": "https://www.v2ex.com/t/885071",
         "date": "2022-10-07"
@@ -10095,41 +10120,6 @@
       {
         "title": "搭建一个国内高可用的 IPFS 网关节点，打造去中心化无限存储节点（理论）",
         "link": "https://www.v2ex.com/t/885030",
-        "date": "2022-10-07"
-      },
-      {
-        "title": "国庆小作品：无需注册的极简在线文档协助工具",
-        "link": "https://www.v2ex.com/t/885029",
-        "date": "2022-10-07"
-      },
-      {
-        "title": "Goodsdb.cn- 有货 更新，添加书签支持",
-        "link": "https://www.v2ex.com/t/885028",
-        "date": "2022-10-07"
-      },
-      {
-        "title": "PHP post 传输数字问题",
-        "link": "https://www.v2ex.com/t/885027",
-        "date": "2022-10-07"
-      },
-      {
-        "title": "有没有系统层面类似 SwitchyOmega 的软件？",
-        "link": "https://www.v2ex.com/t/885025",
-        "date": "2022-10-07"
-      },
-      {
-        "title": "v2 上面怎么删自己发过的内容？",
-        "link": "https://www.v2ex.com/t/885024",
-        "date": "2022-10-07"
-      },
-      {
-        "title": "Mobius Labs 移动开发和区块链工程师招聘",
-        "link": "https://www.v2ex.com/t/885023",
-        "date": "2022-10-07"
-      },
-      {
-        "title": "请教 sql 数据表设计的问题",
-        "link": "https://www.v2ex.com/t/885022",
         "date": "2022-10-07"
       }
     ]

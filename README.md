@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-07 10:19:57，:rocket: 更新条数: +2016， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-07 10:54:44，:rocket: 更新条数: +2016， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-10-07-推荐一个使用-WinUI3-开发的流程自动化软件](https://www.v2ex.com/t/885067) ![](assets/new.png)  
+- [2022-10-07-推广下自己的云剪贴板](https://www.v2ex.com/t/885066) ![](assets/new.png)  
+- [2022-10-07-这种的代理怎么连接，用什么客户端和插件](https://www.v2ex.com/t/885064) ![](assets/new.png)  
 - [2022-10-07-做了一个-go-语言实现的简化应用开发的框架](https://www.v2ex.com/t/885063) ![](assets/new.png)  
 - [2022-10-07-近日使用-v2ray-节点遇到的问题-，拿出来探讨一下](https://www.v2ex.com/t/885062) ![](assets/new.png)  
 - [2022-10-07-EasyMosdns-分享简单好用的-DoH-与开源策略供研究使用](https://www.v2ex.com/t/885061) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-10-07-求大佬赐一个-Shell-脚本](https://www.v2ex.com/t/885043) ![](assets/new.png)  
 - [2022-10-07-摸鱼时间，用-GitHub-Page-制作了一个-Nav-收藏夹，比起书签好用多啦！](https://www.v2ex.com/t/885041) ![](assets/new.png)  
 - [2022-10-07-上海莘庄镇附近去哪里买衣服呢？](https://www.v2ex.com/t/885039) ![](assets/new.png)  
-- [2022-10-07-6-千核显主机装机小结](https://www.v2ex.com/t/885038) ![](assets/new.png)  
-- [2022-10-07-为何只有苹果还在用这种-Rubber-Gasket，特别容易老化](https://www.v2ex.com/t/885036) ![](assets/new.png)  
-- [2022-10-07-macOS-连接-LG-4K-显示器，显示无信号（macOS-和显示器、转换头均无故障）](https://www.v2ex.com/t/885033) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -561,10 +561,10 @@
 - [2022-10-07-自以为掌握的缓存数据库一致性问题，面试还是被问的一脸懵逼。。。](https://toutiao.io/k/8015c27) ![](assets/new.png)  
 - [2022-10-07-分享一些-eBPF-技术相关的-PDF](https://toutiao.io/k/7nuu6zy) ![](assets/new.png)  
 - [2022-10-07-Python-3.12-目标：还可以更快！](https://toutiao.io/k/1uwa5jr) ![](assets/new.png)  
-- [2022-10-07-基于火山引擎-EMR-构建企业级数据湖仓](https://toutiao.io/k/qmdbmd5) ![](assets/new.png)  
 - [2022-10-07-标签评分：海量标签如何进行系统治理？](https://toutiao.io/k/ay83jym) ![](assets/new.png)  
-- [2022-10-07-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) ![](assets/new.png)  
+- [2022-10-07-基于火山引擎-EMR-构建企业级数据湖仓](https://toutiao.io/k/qmdbmd5) ![](assets/new.png)  
 - [2022-10-07-推荐-项目上线一年，整理了一份SpringBoot性能优化方案！](https://toutiao.io/k/3ueuxa0) ![](assets/new.png)  
+- [2022-10-07-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) ![](assets/new.png)  
 - [2022-10-07-推荐-性能优化必备——火焰图](https://toutiao.io/k/azf7ub6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

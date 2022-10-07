@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-07 17:12:12，:rocket: 更新条数: +2013， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-07 18:02:00，:rocket: 更新条数: +2013， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -563,8 +563,8 @@
 - [2022-10-07-Python-3.12-目标：还可以更快！](https://toutiao.io/k/1uwa5jr) ![](assets/new.png)  
 - [2022-10-07-标签评分：海量标签如何进行系统治理？](https://toutiao.io/k/ay83jym) ![](assets/new.png)  
 - [2022-10-07-基于火山引擎-EMR-构建企业级数据湖仓](https://toutiao.io/k/qmdbmd5) ![](assets/new.png)  
-- [2022-10-07-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) ![](assets/new.png)  
 - [2022-10-07-推荐-性能优化必备——火焰图](https://toutiao.io/k/azf7ub6) ![](assets/new.png)  
+- [2022-10-07-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-07 18:02:00。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-10-07 18:37:34。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -133,8 +133,8 @@
 - [【开发者头条】2022-10-07-Python-3.12-目标：还可以更快！](https://toutiao.io/k/1uwa5jr) 
 - [【开发者头条】2022-10-07-标签评分：海量标签如何进行系统治理？](https://toutiao.io/k/ay83jym) 
 - [【开发者头条】2022-10-07-基于火山引擎-EMR-构建企业级数据湖仓](https://toutiao.io/k/qmdbmd5) 
-- [【开发者头条】2022-10-07-推荐-性能优化必备——火焰图](https://toutiao.io/k/azf7ub6) 
 - [【开发者头条】2022-10-07-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) 
+- [【开发者头条】2022-10-07-推荐-性能优化必备——火焰图](https://toutiao.io/k/azf7ub6) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-07 09:52:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-07 10:19:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1914,6 +1914,8 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-10-07-做了一个-go-语言实现的简化应用开发的框架](https://www.v2ex.com/t/885063) 
+- [2022-10-07-近日使用-v2ray-节点遇到的问题-，拿出来探讨一下](https://www.v2ex.com/t/885062) 
 - [2022-10-07-EasyMosdns-分享简单好用的-DoH-与开源策略供研究使用](https://www.v2ex.com/t/885061) 
 - [2022-10-07-Pixel-7-&-7-Pro-内置-VPN（属-Google-One-套餐，无额外收费）](https://www.v2ex.com/t/885060) 
 - [2022-10-07-别墅怎么用扫拖地机器人？](https://www.v2ex.com/t/885058) 
@@ -1946,8 +1948,6 @@
 - [2022-10-07-官翻-13-英寸-MacBook-Pro-M2-芯片现已上架](https://www.v2ex.com/t/885017) 
 - [2022-10-07-WeChat-on-Apple-Watch-如何调整语音消息的音量](https://www.v2ex.com/t/885015) 
 - [2022-10-07-请问多装一条宽带应该怎么办呢](https://www.v2ex.com/t/885014) 
-- [2022-10-07-如何删除账号](https://www.v2ex.com/t/885013) 
-- [2022-10-07-深圳有没有外国人常在的咖啡馆或者英语角](https://www.v2ex.com/t/885012) 
 - [2022-10-07-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-07-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-07-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

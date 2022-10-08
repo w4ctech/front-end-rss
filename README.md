@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-08 23:17:25，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-08 23:48:24，:rocket: 更新条数: +2023， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-10-08-后-Jobs-时代-iPhone-设计，是怀念青春还是思想落伍（标题有点哗众取宠）](https://www.v2ex.com/t/885413) ![](assets/new.png)  
 - [2022-10-08-PVE-7.2-11-重启网络，所有虚拟机无法联网](https://www.v2ex.com/t/885412) ![](assets/new.png)  
 - [2022-10-08-求推荐-macOS-下优雅的内录音频方案](https://www.v2ex.com/t/885411) ![](assets/new.png)  
 - [2022-10-08-能不能推出一个举报功能~](https://www.v2ex.com/t/885410) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-10-08-南方人，想带父母去北京玩一下，想问下最好是哪个月去比较好（排除疫情影响），比如避开一些开会节点，或者是天气，空气，或者是旅游高峰期等不良因素影响](https://www.v2ex.com/t/885390) ![](assets/new.png)  
 - [2022-10-08-有没有人遇到-iOS16-语音转文字不行了的](https://www.v2ex.com/t/885389) ![](assets/new.png)  
 - [2022-10-08-很好奇游戏-sf-是怎么泄露的](https://www.v2ex.com/t/885388) ![](assets/new.png)  
-- [2022-10-08-破生-收两条-DDR4-16G-2400-的内存条](https://www.v2ex.com/t/885386) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

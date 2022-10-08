@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-08 23:04:27。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-10-08 23:17:25。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -142,8 +142,8 @@
 - [【开发者头条】2022-10-08-React-router-从-0-到-1](https://toutiao.io/k/3izlt97) 
 - [【开发者头条】2022-10-08-细说浅拷贝与深拷贝](https://toutiao.io/k/eds4sem) 
 - [【开发者头条】2022-10-08-如何为-Vue3-组件标注-TS-类型，看这个就够了](https://toutiao.io/k/bo8cbft) 
-- [【开发者头条】2022-10-08-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) 
 - [【开发者头条】2022-10-08-推荐-性能优化必备——火焰图](https://toutiao.io/k/azf7ub6) 
+- [【开发者头条】2022-10-08-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

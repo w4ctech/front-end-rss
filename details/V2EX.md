@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2022-10-08 16:20:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-08 17:02:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-10-08-随便搜索了一圈，怎么现在谈到算法都是-AI-一类的？有没有其他传统逻辑性的](https://www.v2ex.com/t/885407) 
+- [2022-10-08-大家的-Setapp-还正常吗？](https://www.v2ex.com/t/885405) 
 - [2022-10-08-为了买房，社保可以交两份吗？](https://www.v2ex.com/t/885403) 
 - [2022-10-08-请教-docker-中-Registry-地址要怎么修改](https://www.v2ex.com/t/885401) 
 - [2022-10-08-Google.com-里的翻译为什么是-google.cn-域名](https://www.v2ex.com/t/885400) 
@@ -42,5 +44,3 @@
 - [2022-10-08-12-代笔记本值得买吗？](https://www.v2ex.com/t/885361) 
 - [2022-10-08-mysql-多表连接查询还是-like-查询的问题](https://www.v2ex.com/t/885359) 
 - [2022-10-08-转租-回龙观-龙腾苑二区-2350/月](https://www.v2ex.com/t/885358) 
-- [2022-10-08-新版本-steam-用-login-参数无法登录](https://www.v2ex.com/t/885357) 
-- [2022-10-08-新手第一个微单相机纠结选哪个了](https://www.v2ex.com/t/885355) 

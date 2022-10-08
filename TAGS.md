@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-10-08 16:20:12。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-08 17:02:32。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -292,6 +292,7 @@
 
 
 
+- [【V2EX】随便搜索了一圈，怎么现在谈到算法都是-AI-一类的？有没有其他传统逻辑性的](https://www.v2ex.com/t/885407)
 - [【技术头条】基于AI算法的数据库异常监测系统的设计与实现-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15390&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F09%2F01%2Fdatabase-monitoring-based-on-ai.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】TCP-拥塞控制详解-|-4.-控制算法](https://toutiao.io/k/c3umh7s)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)

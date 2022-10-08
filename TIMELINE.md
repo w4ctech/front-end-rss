@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-08 17:02:32。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-10-08 17:32:43。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,7 @@
 </summary>
 
 
+- [【V2EX】2022-10-08-Android-手机能以-rj45-输出网络吗？](https://www.v2ex.com/t/885408) 
 - [【V2EX】2022-10-08-随便搜索了一圈，怎么现在谈到算法都是-AI-一类的？有没有其他传统逻辑性的](https://www.v2ex.com/t/885407) 
 - [【V2EX】2022-10-08-大家的-Setapp-还正常吗？](https://www.v2ex.com/t/885405) 
 - [【V2EX】2022-10-08-为了买房，社保可以交两份吗？](https://www.v2ex.com/t/885403) 
@@ -106,7 +107,6 @@
 - [【V2EX】2022-10-08-Hacking-Google](https://www.v2ex.com/t/885362) 
 - [【V2EX】2022-10-08-12-代笔记本值得买吗？](https://www.v2ex.com/t/885361) 
 - [【V2EX】2022-10-08-mysql-多表连接查询还是-like-查询的问题](https://www.v2ex.com/t/885359) 
-- [【V2EX】2022-10-08-转租-回龙观-龙腾苑二区-2350/月](https://www.v2ex.com/t/885358) 
 - [【技术头条】2022-10-08-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-08-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-08-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

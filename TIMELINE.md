@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-08 12:27:50。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-10-08 13:15:37。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,15 @@
 </summary>
 
 
+- [【V2EX】2022-10-08-上海-不加班-混合办公-外企-招-初中级-Java-1-年经验起，中级测试（2-年经验起），高级安卓，中级-devOps、C++，初级-UI/UX](https://www.v2ex.com/t/885379) 
+- [【V2EX】2022-10-08-Alfred-Gallery-即将推出](https://www.v2ex.com/t/885378) 
+- [【V2EX】2022-10-08-各位这两天国区-iCloud-上传下载文件正常吗？](https://www.v2ex.com/t/885377) 
+- [【V2EX】2022-10-08-目前日语-OCR-哪家最强？最好是离线可自部署的。前几天测试了下国产的-PaddlePaddle/PaddleOCR-识别中文能力还行，日文准确率极低，很多都识别不出来。](https://www.v2ex.com/t/885376) 
+- [【V2EX】2022-10-08-免费的数据库-DBaaS-之-tigergraph-—-提供-50G-免费存储的云端图数据库-Graph-DB-AWS-东京](https://www.v2ex.com/t/885374) 
+- [【V2EX】2022-10-08-iPhone-的电池健康度是不是不准](https://www.v2ex.com/t/885373) 
+- [【V2EX】2022-10-08-前端小白，想咨询一下广大-v-友，有啥技术栈可以快速实现下图所示官网？](https://www.v2ex.com/t/885371) 
+- [【V2EX】2022-10-08-airpods2-被精准报废了](https://www.v2ex.com/t/885370) 
+- [【V2EX】2022-10-08-求面经-年底准备跳槽有没有前端大佬有无面试资料？](https://www.v2ex.com/t/885369) 
 - [【V2EX】2022-10-08-西安电信公网固定成四个了？](https://www.v2ex.com/t/885368) 
 - [【V2EX】2022-10-08-家里有公网-IP，拿在做个人用的代理中继有风险吗？](https://www.v2ex.com/t/885367) 
 - [【V2EX】2022-10-08-深圳电信宽带求助](https://www.v2ex.com/t/885366) 
@@ -96,16 +105,6 @@
 - [【V2EX】2022-10-08-想了解遥感相关应用项目的开发、管理内容](https://www.v2ex.com/t/885332) 
 - [【V2EX】2022-10-08-自如北京朝阳康营-29-区原-2300-南卧，剩-10.7~11.7-一个月，现自贴-700-到-1600-转租，距离望京打车-15-分钟](https://www.v2ex.com/t/885331) 
 - [【V2EX】2022-10-08-Tech-Lead-的-Tech](https://www.v2ex.com/t/885330) 
-- [【V2EX】2022-10-08-PT-时间-10-月-10-日开注-1-天](https://www.v2ex.com/t/885329) 
-- [【V2EX】2022-10-08--Python-关于轮询的问题-http-还是-socketIO](https://www.v2ex.com/t/885328) 
-- [【V2EX】2022-10-08-屏幕使用时间多设备同步紊乱](https://www.v2ex.com/t/885327) 
-- [【V2EX】2022-10-08-刚续了今年的车险，分享点经验](https://www.v2ex.com/t/885326) 
-- [【V2EX】2022-10-08-有没有-chrome-or-edge-浏览器上-比较好用的-CORS-插件？](https://www.v2ex.com/t/885324) 
-- [【V2EX】2022-10-08-出-M1-Macbook-Air-16+512](https://www.v2ex.com/t/885323) 
-- [【V2EX】2022-10-08-除了小孩上学暂时没有其他买房的必要因素，要上车吗？](https://www.v2ex.com/t/885322) 
-- [【V2EX】2022-10-08-国区-Apple-ID，想切换到美区-Apple-ID，需要怎么做](https://www.v2ex.com/t/885321) 
-- [【V2EX】2022-10-08-有没有办法通过脚本设置打印机首选项？](https://www.v2ex.com/t/885320) 
-- [【V2EX】2022-10-08-求解对于-CSDN-的疑惑](https://www.v2ex.com/t/885319) 
 - [【技术头条】2022-10-08-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-08-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-08-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -131,9 +130,9 @@
 - [【开发者头条】2022-10-08-面试官：你这数据库表设计的，真垃圾。。。](https://toutiao.io/k/0c7whvz) 
 - [【开发者头条】2022-10-08-12306抢票：极限高并发带来的思考](https://toutiao.io/k/5k6qd0n) 
 - [【开发者头条】2022-10-08-如何设计一个短链服务？](https://toutiao.io/k/37q95tr) 
+- [【开发者头条】2022-10-08-别再写-main-方法测试了，太-Low！这才是专业-Java-测试方法](https://toutiao.io/k/wgaecrx) 
 - [【开发者头条】2022-10-08-SPIFFE/SPIRE-从入门到入门](https://toutiao.io/k/lz85uaf) 
 - [【开发者头条】2022-10-08-ioGame-网络游戏服务器框架](https://toutiao.io/k/i3188vi) 
-- [【开发者头条】2022-10-08-别再写-main-方法测试了，太-Low！这才是专业-Java-测试方法](https://toutiao.io/k/wgaecrx) 
 - [【开发者头条】2022-10-08-TCP-拥塞控制详解-|-4.-控制算法](https://toutiao.io/k/c3umh7s) 
 - [【开发者头条】2022-10-08-Spring-使用-Mypy-检查-30-万行代码，总结出-3-大痛点与-6-个技巧](https://toutiao.io/k/je1y4xl) 
 - [【开发者头条】2022-10-08-元宇宙教育七问](https://toutiao.io/k/6p48coi) 

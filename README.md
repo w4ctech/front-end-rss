@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-08 06:56:48，:rocket: 更新条数: +2025， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-08 07:21:04，:rocket: 更新条数: +2025， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,7 +491,15 @@
 </summary>
 
 
-- [2022-10-08-如何修改-iPad-自带媒体播放器右上角的“用-XXX-打开”中调用的软件](https://www.v2ex.com/t/885263) ![](assets/new.png)  
+- [2022-10-08-最新-macos-13beta-设置中-wifi-拷贝密码失效](https://www.v2ex.com/t/885273) ![](assets/new.png)  
+- [2022-10-08-帮忙推荐下黑苹果](https://www.v2ex.com/t/885272) ![](assets/new.png)  
+- [2022-10-08-滴滴出行-北京、杭州、上海、广州、深圳、成都内推-Java-/Android/iOS/Android/前端/算法/前端/硬件/C/C++/嵌入式/Go/产品/运营等各类职位招聘，月-20k-80k，...](https://www.v2ex.com/t/885271) ![](assets/new.png)  
+- [2022-10-08-有没有开源的类似飞书打卡的考勤系统推荐？](https://www.v2ex.com/t/885270) ![](assets/new.png)  
+- [2022-10-08-国庆失恋了到现在还没缓过来](https://www.v2ex.com/t/885269) ![](assets/new.png)  
+- [2022-10-08-现在还值得做网站吗](https://www.v2ex.com/t/885268) ![](assets/new.png)  
+- [2022-10-08-折叠屏的屏幕太脆了](https://www.v2ex.com/t/885267) ![](assets/new.png)  
+- [2022-10-08-又有亲戚来问想转行到编程...](https://www.v2ex.com/t/885264) ![](assets/new.png)  
+- [2022-10-08-如何修改-iPad-自带媒体播放器右上角的“在-XXX-中打开”中调用的软件](https://www.v2ex.com/t/885263) ![](assets/new.png)  
 - [2022-10-08-糟糕，个人项目用了百度-ORC，做完才发现-QPS-只有-10-怎么办？](https://www.v2ex.com/t/885262) ![](assets/new.png)  
 - [2022-10-08-数据结构求助](https://www.v2ex.com/t/885261) ![](assets/new.png)  
 - [2022-10-08-分享个自用的-iOS-大陆节假日闹钟快捷指令，十分简洁](https://www.v2ex.com/t/885260) ![](assets/new.png)  
@@ -503,14 +511,6 @@
 - [2022-10-08-Windows11-蓝牙音响-连接以后-无法做为输出设备-如何解决?](https://www.v2ex.com/t/885252) ![](assets/new.png)  
 - [2022-10-08-为什么常见的统计分析是以-7-日为周期，而不是-5、8、9？](https://www.v2ex.com/t/885251) ![](assets/new.png)  
 - [2022-10-08-小米手机的质量是不是越来越糟糕？](https://www.v2ex.com/t/885250) ![](assets/new.png)  
-- [2022-10-08-记录一下投诉工商京东自营失败的过程](https://www.v2ex.com/t/885249) ![](assets/new.png)  
-- [2022-10-08-iPhone-怎么备份最快最全？](https://www.v2ex.com/t/885248) ![](assets/new.png)  
-- [2022-10-08-求助，-pve-虚拟机无法启动](https://www.v2ex.com/t/885247) ![](assets/new.png)  
-- [2022-10-08-美团闪送商家端是什么鬼系统](https://www.v2ex.com/t/885246) ![](assets/new.png)  
-- [2022-10-08-Jimmer:-一个面向-Java-和-Kotlin-的革命性-ORM](https://www.v2ex.com/t/885244) ![](assets/new.png)  
-- [2022-10-08-国庆归来分享个有意思的播客---软件那些事儿/忽软忽硬](https://www.v2ex.com/t/885243) ![](assets/new.png)  
-- [2022-10-08-macOS-beta-版本如何降级呢？](https://www.v2ex.com/t/885242) ![](assets/new.png)  
-- [2022-10-08-现在做网站应该怎么做，是不是日落西山了](https://www.v2ex.com/t/885241) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

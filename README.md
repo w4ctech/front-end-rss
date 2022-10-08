@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-08 14:01:46，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-08 14:28:23，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-10-08-有没有人遇到-iOS16-语音转文字不行了的](https://www.v2ex.com/t/885389) ![](assets/new.png)  
+- [2022-10-08-很好奇游戏-sf-是怎么泄露的](https://www.v2ex.com/t/885388) ![](assets/new.png)  
+- [2022-10-08-破生-收两条-DDR4-16G-2400-的内存条](https://www.v2ex.com/t/885386) ![](assets/new.png)  
 - [2022-10-08-二手-iPhone-11-or-全新-iPhone-SE3](https://www.v2ex.com/t/885385) ![](assets/new.png)  
 - [2022-10-08-有奖征集软件名字](https://www.v2ex.com/t/885384) ![](assets/new.png)  
 - [2022-10-08-请教下大佬们，-windows7-怎么查看之前复制粘贴过的文档视频的具体记录呢，目前还没重启过。](https://www.v2ex.com/t/885382) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-10-08-西安电信公网固定成四个了？](https://www.v2ex.com/t/885368) ![](assets/new.png)  
 - [2022-10-08-家里有公网-IP，拿在做个人用的代理中继有风险吗？](https://www.v2ex.com/t/885367) ![](assets/new.png)  
 - [2022-10-08-深圳电信宽带求助](https://www.v2ex.com/t/885366) ![](assets/new.png)  
-- [2022-10-08-iPhone-越来越贵了，快要买不起了。](https://www.v2ex.com/t/885365) ![](assets/new.png)  
-- [2022-10-08-腾讯云新加坡东京硅谷云服务器特惠](https://www.v2ex.com/t/885364) ![](assets/new.png)  
-- [2022-10-08-Hacking-Google](https://www.v2ex.com/t/885362) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

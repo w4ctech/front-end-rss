@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-08 10:48:23，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-08 11:13:33，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-10-08-确定要裁员了，年底裁员，有点烦躁啊](https://www.v2ex.com/t/885353) ![](assets/new.png)  
+- [2022-10-08-Python2-有什么不错的内存分析工具](https://www.v2ex.com/t/885352) ![](assets/new.png)  
+- [2022-10-08-为什么谷歌翻译不走-PAC-里的-||google.com-?](https://www.v2ex.com/t/885351) ![](assets/new.png)  
+- [2022-10-08-yugabyteDB-为开发者免费提供-2-CPU-4G-RAM-10G-存储的-postgreSQL-云服务](https://www.v2ex.com/t/885350) ![](assets/new.png)  
 - [2022-10-08-训练-AI-模仿动漫中声优的声音，然后用-AI-给自己的视频配音，但在宣传时完全不提原来的声优，是否存在侵权风险？（可能相当于音色是否有版权？）不确定是否存在...](https://www.v2ex.com/t/885347) ![](assets/new.png)  
 - [2022-10-08-垃圾前端的我最近写了个个人主页](https://www.v2ex.com/t/885346) ![](assets/new.png)  
 - [2022-10-08-iPad-上有什么输入法的九宫格悬浮键盘做得好的吗](https://www.v2ex.com/t/885345) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-10-08-PT-时间-10-月-10-日开注-1-天](https://www.v2ex.com/t/885329) ![](assets/new.png)  
 - [2022-10-08--Python-关于轮询的问题-http-还是-socketIO](https://www.v2ex.com/t/885328) ![](assets/new.png)  
 - [2022-10-08-屏幕使用时间多设备同步紊乱](https://www.v2ex.com/t/885327) ![](assets/new.png)  
-- [2022-10-08-刚续了今年的车险，分享点经验](https://www.v2ex.com/t/885326) ![](assets/new.png)  
-- [2022-10-08-有没有-chrome-or-edge-浏览器上-比较好用的-CORS-插件？](https://www.v2ex.com/t/885324) ![](assets/new.png)  
-- [2022-10-08-出-M1-Macbook-Air-16+512](https://www.v2ex.com/t/885323) ![](assets/new.png)  
-- [2022-10-08-除了小孩上学暂时没有其他买房的必要因素，要上车吗？](https://www.v2ex.com/t/885322) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -560,8 +560,8 @@
 - [2022-10-08-如何设计一个短链服务？](https://toutiao.io/k/37q95tr) ![](assets/new.png)  
 - [2022-10-08-SPIFFE/SPIRE-从入门到入门](https://toutiao.io/k/lz85uaf) ![](assets/new.png)  
 - [2022-10-08-ioGame-网络游戏服务器框架](https://toutiao.io/k/i3188vi) ![](assets/new.png)  
-- [2022-10-08-TCP-拥塞控制详解-|-4.-控制算法](https://toutiao.io/k/c3umh7s) ![](assets/new.png)  
 - [2022-10-08-别再写-main-方法测试了，太-Low！这才是专业-Java-测试方法](https://toutiao.io/k/wgaecrx) ![](assets/new.png)  
+- [2022-10-08-TCP-拥塞控制详解-|-4.-控制算法](https://toutiao.io/k/c3umh7s) ![](assets/new.png)  
 - [2022-10-08-Spring-使用-Mypy-检查-30-万行代码，总结出-3-大痛点与-6-个技巧](https://toutiao.io/k/je1y4xl) ![](assets/new.png)  
 - [2022-10-08-元宇宙教育七问](https://toutiao.io/k/6p48coi) ![](assets/new.png)  
 - [2022-10-08-Istio-Ambient-Mesh-介绍](https://toutiao.io/k/y6kb1n1) ![](assets/new.png)  

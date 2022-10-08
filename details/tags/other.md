@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-08 10:48:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-08 11:13:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1914,6 +1914,9 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-10-08-确定要裁员了，年底裁员，有点烦躁啊](https://www.v2ex.com/t/885353) 
+- [2022-10-08-Python2-有什么不错的内存分析工具](https://www.v2ex.com/t/885352) 
+- [2022-10-08-为什么谷歌翻译不走-PAC-里的-||google.com-?](https://www.v2ex.com/t/885351) 
 - [2022-10-08-垃圾前端的我最近写了个个人主页](https://www.v2ex.com/t/885346) 
 - [2022-10-08-iPad-上有什么输入法的九宫格悬浮键盘做得好的吗](https://www.v2ex.com/t/885345) 
 - [2022-10-08-求推荐个双-C-口的充电头](https://www.v2ex.com/t/885344) 
@@ -1942,11 +1945,6 @@
 - [2022-10-08-聊聊实木大板饭桌](https://www.v2ex.com/t/885308) 
 - [2022-10-08-Java-开发做机器学习、深度学习平台类的项目有前途吗？](https://www.v2ex.com/t/885307) 
 - [2022-10-08-offer-选择-请各位大佬给个建议！](https://www.v2ex.com/t/885306) 
-- [2022-10-08-杂想-鼠须管，-LibRime，以及-Swift-。](https://www.v2ex.com/t/885304) 
-- [2022-10-08-坐标广州，各位-V2ER-说下今年国庆二手房市场如何？](https://www.v2ex.com/t/885303) 
-- [2022-10-08-各位知道如何做营销号不？](https://www.v2ex.com/t/885302) 
-- [2022-10-08-protobuf-请教一下如下格式的-proto-数据定义文件怎么写](https://www.v2ex.com/t/885301) 
-- [2022-10-08-surge-for-mac-上车](https://www.v2ex.com/t/885300) 
 - [2022-10-08-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-08-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-08-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

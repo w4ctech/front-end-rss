@@ -9953,6 +9953,26 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "确定要裁员了，年底裁员，有点烦躁啊",
+        "link": "https://www.v2ex.com/t/885353",
+        "date": "2022-10-08"
+      },
+      {
+        "title": "Python2 有什么不错的内存分析工具",
+        "link": "https://www.v2ex.com/t/885352",
+        "date": "2022-10-08"
+      },
+      {
+        "title": "为什么谷歌翻译不走 PAC 里的 ||google.com ?",
+        "link": "https://www.v2ex.com/t/885351",
+        "date": "2022-10-08"
+      },
+      {
+        "title": "yugabyteDB 为开发者免费提供 2 CPU 4G RAM 10G 存储的 postgreSQL 云服务",
+        "link": "https://www.v2ex.com/t/885350",
+        "date": "2022-10-08"
+      },
+      {
         "title": "训练 AI 模仿动漫中声优的声音，然后用 AI 给自己的视频配音，但在宣传时完全不提原来的声优，是否存在侵权风险？（可能相当于音色是否有版权？）不确定是否存在...",
         "link": "https://www.v2ex.com/t/885347",
         "date": "2022-10-08"
@@ -10121,31 +10141,6 @@
         "title": "offer 选择 请各位大佬给个建议！",
         "link": "https://www.v2ex.com/t/885306",
         "date": "2022-10-08"
-      },
-      {
-        "title": "[杂想] 鼠须管， LibRime，以及 Swift 。",
-        "link": "https://www.v2ex.com/t/885304",
-        "date": "2022-10-08"
-      },
-      {
-        "title": "坐标广州，各位 V2ER 说下今年国庆二手房市场如何？",
-        "link": "https://www.v2ex.com/t/885303",
-        "date": "2022-10-08"
-      },
-      {
-        "title": "各位知道如何做营销号不？",
-        "link": "https://www.v2ex.com/t/885302",
-        "date": "2022-10-08"
-      },
-      {
-        "title": "[protobuf] 请教一下如下格式的 proto 数据定义文件怎么写",
-        "link": "https://www.v2ex.com/t/885301",
-        "date": "2022-10-08"
-      },
-      {
-        "title": "surge for mac 上车",
-        "link": "https://www.v2ex.com/t/885300",
-        "date": "2022-10-08"
       }
     ]
   },
@@ -10297,13 +10292,13 @@
         "date": "2022-10-08"
       },
       {
-        "title": "TCP 拥塞控制详解 | 4. 控制算法",
-        "link": "https://toutiao.io/k/c3umh7s",
+        "title": "别再写 main 方法测试了，太 Low！这才是专业 Java 测试方法",
+        "link": "https://toutiao.io/k/wgaecrx",
         "date": "2022-10-08"
       },
       {
-        "title": "别再写 main 方法测试了，太 Low！这才是专业 Java 测试方法",
-        "link": "https://toutiao.io/k/wgaecrx",
+        "title": "TCP 拥塞控制详解 | 4. 控制算法",
+        "link": "https://toutiao.io/k/c3umh7s",
         "date": "2022-10-08"
       },
       {

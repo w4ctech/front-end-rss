@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-10-08 07:21:04。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-08 07:45:03。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -90,6 +90,7 @@
 
 
 - [【武汉肺炎防疫全纪录(财新网)】韩国拟升级首尔疫情管控-法国专业机构建议强制接种疫苗｜大流行手记（7月10日）](https://m.caixin.com/m/2021-07-11/101738786.html)
+- [【V2EX】npm-install-遇上-git-源如何提速?](https://www.v2ex.com/t/885275)
 - [......【查看更多】......](./details/tags/pack-build.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -122,7 +123,6 @@
 
 
 
-- [【V2EX】有没有出去玩，-AA-记账的小程序](https://www.v2ex.com/t/885225)
 - [......【查看更多】......](./details/tags/miniprogram.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -235,6 +235,7 @@
 
 - [【武汉肺炎防疫全纪录(财新网)】广州17岁男生在定点医院参加高考-特殊考场视频监考](https://m.caixin.com/m/2021-06-05/101723418.html)
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
+- [【V2EX】求助贴：自动连播打开时，播放-b-站视频会黑屏](https://www.v2ex.com/t/885274)
 - [【V2EX】如何修改-iPad-自带媒体播放器右上角的“在-XXX-中打开”中调用的软件](https://www.v2ex.com/t/885263)
 - [......【查看更多】......](./details/tags/audio-video.md)
 

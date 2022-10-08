@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-08 07:21:04，:rocket: 更新条数: +2025， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-08 07:45:03，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,15 @@
 </summary>
 
 
+- [2022-10-08-iPhone-xr-收不到消息推送](https://www.v2ex.com/t/885285) ![](assets/new.png)  
+- [2022-10-08-有没有电脑行家，给个装机清单](https://www.v2ex.com/t/885284) ![](assets/new.png)  
+- [2022-10-08-apple-watch-的屏幕有两层？明显的分层肉眼可见？](https://www.v2ex.com/t/885283) ![](assets/new.png)  
+- [2022-10-08-今年双十一腾讯云什么时候开始活动？](https://www.v2ex.com/t/885280) ![](assets/new.png)  
+- [2022-10-08-pandas-新手，使用-pd.cut-怎么自定义开闭区间？](https://www.v2ex.com/t/885279) ![](assets/new.png)  
+- [2022-10-08-惠州买房请教！](https://www.v2ex.com/t/885278) ![](assets/new.png)  
+- [2022-10-08-阿里云的-SLB-是啥配置，是有硬件加速什么的吗](https://www.v2ex.com/t/885277) ![](assets/new.png)  
+- [2022-10-08-npm-install-遇上-git-源如何提速?](https://www.v2ex.com/t/885275) ![](assets/new.png)  
+- [2022-10-08-求助贴：自动连播打开时，播放-b-站视频会黑屏](https://www.v2ex.com/t/885274) ![](assets/new.png)  
 - [2022-10-08-最新-macos-13beta-设置中-wifi-拷贝密码失效](https://www.v2ex.com/t/885273) ![](assets/new.png)  
 - [2022-10-08-帮忙推荐下黑苹果](https://www.v2ex.com/t/885272) ![](assets/new.png)  
 - [2022-10-08-滴滴出行-北京、杭州、上海、广州、深圳、成都内推-Java-/Android/iOS/Android/前端/算法/前端/硬件/C/C++/嵌入式/Go/产品/运营等各类职位招聘，月-20k-80k，...](https://www.v2ex.com/t/885271) ![](assets/new.png)  
@@ -502,15 +511,6 @@
 - [2022-10-08-如何修改-iPad-自带媒体播放器右上角的“在-XXX-中打开”中调用的软件](https://www.v2ex.com/t/885263) ![](assets/new.png)  
 - [2022-10-08-糟糕，个人项目用了百度-ORC，做完才发现-QPS-只有-10-怎么办？](https://www.v2ex.com/t/885262) ![](assets/new.png)  
 - [2022-10-08-数据结构求助](https://www.v2ex.com/t/885261) ![](assets/new.png)  
-- [2022-10-08-分享个自用的-iOS-大陆节假日闹钟快捷指令，十分简洁](https://www.v2ex.com/t/885260) ![](assets/new.png)  
-- [2022-10-08-有没有这样一款能够管理各类订阅及固定开销的-App，如果有的话求推荐？](https://www.v2ex.com/t/885259) ![](assets/new.png)  
-- [2022-10-08-关于-DNS-的问题想请教一下各位大佬们](https://www.v2ex.com/t/885258) ![](assets/new.png)  
-- [2022-10-08-日课，给每一位好读诗的人-新版发布，送码体验！](https://www.v2ex.com/t/885256) ![](assets/new.png)  
-- [2022-10-08-上海的座机，怎么能在江苏使用？](https://www.v2ex.com/t/885254) ![](assets/new.png)  
-- [2022-10-08-哪个中介平台卖微信公众号靠谱？](https://www.v2ex.com/t/885253) ![](assets/new.png)  
-- [2022-10-08-Windows11-蓝牙音响-连接以后-无法做为输出设备-如何解决?](https://www.v2ex.com/t/885252) ![](assets/new.png)  
-- [2022-10-08-为什么常见的统计分析是以-7-日为周期，而不是-5、8、9？](https://www.v2ex.com/t/885251) ![](assets/new.png)  
-- [2022-10-08-小米手机的质量是不是越来越糟糕？](https://www.v2ex.com/t/885250) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

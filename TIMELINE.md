@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-08 07:21:04。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-10-08 07:45:03。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,15 @@
 </summary>
 
 
+- [【V2EX】2022-10-08-iPhone-xr-收不到消息推送](https://www.v2ex.com/t/885285) 
+- [【V2EX】2022-10-08-有没有电脑行家，给个装机清单](https://www.v2ex.com/t/885284) 
+- [【V2EX】2022-10-08-apple-watch-的屏幕有两层？明显的分层肉眼可见？](https://www.v2ex.com/t/885283) 
+- [【V2EX】2022-10-08-今年双十一腾讯云什么时候开始活动？](https://www.v2ex.com/t/885280) 
+- [【V2EX】2022-10-08-pandas-新手，使用-pd.cut-怎么自定义开闭区间？](https://www.v2ex.com/t/885279) 
+- [【V2EX】2022-10-08-惠州买房请教！](https://www.v2ex.com/t/885278) 
+- [【V2EX】2022-10-08-阿里云的-SLB-是啥配置，是有硬件加速什么的吗](https://www.v2ex.com/t/885277) 
+- [【V2EX】2022-10-08-npm-install-遇上-git-源如何提速?](https://www.v2ex.com/t/885275) 
+- [【V2EX】2022-10-08-求助贴：自动连播打开时，播放-b-站视频会黑屏](https://www.v2ex.com/t/885274) 
 - [【V2EX】2022-10-08-最新-macos-13beta-设置中-wifi-拷贝密码失效](https://www.v2ex.com/t/885273) 
 - [【V2EX】2022-10-08-帮忙推荐下黑苹果](https://www.v2ex.com/t/885272) 
 - [【V2EX】2022-10-08-滴滴出行-北京、杭州、上海、广州、深圳、成都内推-Java-/Android/iOS/Android/前端/算法/前端/硬件/C/C++/嵌入式/Go/产品/运营等各类职位招聘，月-20k-80k，...](https://www.v2ex.com/t/885271) 
@@ -98,18 +107,6 @@
 - [【V2EX】2022-10-08-现在做网站应该怎么做，是不是日落西山了](https://www.v2ex.com/t/885241) 
 - [【V2EX】2022-10-08-请教一下车公庙附近租房](https://www.v2ex.com/t/885240) 
 - [【V2EX】2022-10-08-《Easy-搞定-Golang-设计模式》（学-Go-语言设计模式，如此简单）](https://www.v2ex.com/t/885239) 
-- [【V2EX】2022-10-08-升级-iOS16-后经常断流（信号满但无任何数据接入也无法打电话，飞行模式无效）](https://www.v2ex.com/t/885236) 
-- [【V2EX】2022-10-08-现在无法更新"秒选"的结果，网络连接被重设。](https://www.v2ex.com/t/885235) 
-- [【V2EX】2022-10-08-go-ecosystem-is-not-for-me](https://www.v2ex.com/t/885234) 
-- [【V2EX】2022-10-08-十一假期之报考驾校](https://www.v2ex.com/t/885233) 
-- [【V2EX】2022-10-08-内推-北京/深圳/成都「字节跳动---智能创作」招高级前端开发包含校招](https://www.v2ex.com/t/885232) 
-- [【V2EX】2022-10-08-pixel-7-不同国家的优惠汇总，转载需写明出处](https://www.v2ex.com/t/885231) 
-- [【V2EX】2022-10-08-正确的指法应该成为职场人的基本要求吗？](https://www.v2ex.com/t/885230) 
-- [【V2EX】2022-10-08-有大佬试过-M1-系列的设备，最高支持的显示器刷新率是多少吗？](https://www.v2ex.com/t/885229) 
-- [【V2EX】2022-10-08-84-岁图灵奖得主高德纳的《计算机程序设计艺术：卷-4B》出版](https://www.v2ex.com/t/885228) 
-- [【V2EX】2022-10-08-写了一篇介绍终端、tty、伪终端、shell-和-ssh-的万字长文](https://www.v2ex.com/t/885227) 
-- [【V2EX】2022-10-08-有没有出去玩，-AA-记账的小程序](https://www.v2ex.com/t/885225) 
-- [【V2EX】2022-10-08-微軟商店土耳其禮品卡怎麽購買，淘寶全部都是-stream-或者-xbox-的是一樣？](https://www.v2ex.com/t/885224) 
 - [【技术头条】2022-10-08-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-08-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-08-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

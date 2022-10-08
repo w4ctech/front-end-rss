@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-08 10:16:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-08 10:48:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1914,6 +1914,11 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-10-08-垃圾前端的我最近写了个个人主页](https://www.v2ex.com/t/885346) 
+- [2022-10-08-iPad-上有什么输入法的九宫格悬浮键盘做得好的吗](https://www.v2ex.com/t/885345) 
+- [2022-10-08-求推荐个双-C-口的充电头](https://www.v2ex.com/t/885344) 
+- [2022-10-08-买扫地机器人还是洗地机？](https://www.v2ex.com/t/885343) 
+- [2022-10-08-相机拍摄的-HDR-照片在手机上有问题](https://www.v2ex.com/t/885341) 
 - [2022-10-08-天气-spa](https://www.v2ex.com/t/885337) 
 - [2022-10-08-出行，游玩、必备潮汐表表](https://www.v2ex.com/t/885336) 
 - [2022-10-08-输入的提示信息怎么让大多数人容易理解](https://www.v2ex.com/t/885334) 
@@ -1942,10 +1947,6 @@
 - [2022-10-08-各位知道如何做营销号不？](https://www.v2ex.com/t/885302) 
 - [2022-10-08-protobuf-请教一下如下格式的-proto-数据定义文件怎么写](https://www.v2ex.com/t/885301) 
 - [2022-10-08-surge-for-mac-上车](https://www.v2ex.com/t/885300) 
-- [2022-10-08-每日恐婚贴，想问问结了婚的老哥们](https://www.v2ex.com/t/885297) 
-- [2022-10-08-共享相簿广告越来越频繁，和使用中的一些问题](https://www.v2ex.com/t/885294) 
-- [2022-10-08-提问国内有好用来往-newsletter-的邮箱推荐吗](https://www.v2ex.com/t/885292) 
-- [2022-10-08-使用基于-GPLv3-协议开源的软件提供-Web-服务，这个-Web-服务按协议也应该开源吗？](https://www.v2ex.com/t/885290) 
 - [2022-10-08-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-08-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-08-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1969,7 +1970,7 @@
 - [2022-10-08-12306抢票：极限高并发带来的思考](https://toutiao.io/k/5k6qd0n) 
 - [2022-10-08-如何设计一个短链服务？](https://toutiao.io/k/37q95tr) 
 - [2022-10-08-SPIFFE/SPIRE-从入门到入门](https://toutiao.io/k/lz85uaf) 
-- [2022-10-08-Spring-使用-Mypy-检查-30-万行代码，总结出-3-大痛点与-6-个技巧](https://toutiao.io/k/je1y4xl) 
 - [2022-10-08-别再写-main-方法测试了，太-Low！这才是专业-Java-测试方法](https://toutiao.io/k/wgaecrx) 
+- [2022-10-08-Spring-使用-Mypy-检查-30-万行代码，总结出-3-大痛点与-6-个技巧](https://toutiao.io/k/je1y4xl) 
 - [2022-10-08-元宇宙教育七问](https://toutiao.io/k/6p48coi) 
 - [2022-10-08-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) 

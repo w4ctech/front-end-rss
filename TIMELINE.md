@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-08 10:16:45。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-10-08 10:48:23。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,13 @@
 </summary>
 
 
+- [【V2EX】2022-10-08-训练-AI-模仿动漫中声优的声音，然后用-AI-给自己的视频配音，但在宣传时完全不提原来的声优，是否存在侵权风险？（可能相当于音色是否有版权？）不确定是否存在...](https://www.v2ex.com/t/885347) 
+- [【V2EX】2022-10-08-垃圾前端的我最近写了个个人主页](https://www.v2ex.com/t/885346) 
+- [【V2EX】2022-10-08-iPad-上有什么输入法的九宫格悬浮键盘做得好的吗](https://www.v2ex.com/t/885345) 
+- [【V2EX】2022-10-08-求推荐个双-C-口的充电头](https://www.v2ex.com/t/885344) 
+- [【V2EX】2022-10-08-买扫地机器人还是洗地机？](https://www.v2ex.com/t/885343) 
+- [【V2EX】2022-10-08-相机拍摄的-HDR-照片在手机上有问题](https://www.v2ex.com/t/885341) 
+- [【V2EX】2022-10-08-滴滴出行-2023-届校园招聘内推，内推码/推荐码-NTADaYM](https://www.v2ex.com/t/885339) 
 - [【V2EX】2022-10-08-天气-spa](https://www.v2ex.com/t/885337) 
 - [【V2EX】2022-10-08-出行，游玩、必备潮汐表表](https://www.v2ex.com/t/885336) 
 - [【V2EX】2022-10-08-输入的提示信息怎么让大多数人容易理解](https://www.v2ex.com/t/885334) 
@@ -100,12 +107,6 @@
 - [【V2EX】2022-10-08-各位知道如何做营销号不？](https://www.v2ex.com/t/885302) 
 - [【V2EX】2022-10-08-protobuf-请教一下如下格式的-proto-数据定义文件怎么写](https://www.v2ex.com/t/885301) 
 - [【V2EX】2022-10-08-surge-for-mac-上车](https://www.v2ex.com/t/885300) 
-- [【V2EX】2022-10-08-每日恐婚贴，想问问结了婚的老哥们](https://www.v2ex.com/t/885297) 
-- [【V2EX】2022-10-08-前端浏览器部分-emoji-不显示问题如何解决？](https://www.v2ex.com/t/885295) 
-- [【V2EX】2022-10-08-共享相簿广告越来越频繁，和使用中的一些问题](https://www.v2ex.com/t/885294) 
-- [【V2EX】2022-10-08-提问国内有好用来往-newsletter-的邮箱推荐吗](https://www.v2ex.com/t/885292) 
-- [【V2EX】2022-10-08-ROS-7.5-Stable-已经正式支持-docker-了](https://www.v2ex.com/t/885291) 
-- [【V2EX】2022-10-08-使用基于-GPLv3-协议开源的软件提供-Web-服务，这个-Web-服务按协议也应该开源吗？](https://www.v2ex.com/t/885290) 
 - [【技术头条】2022-10-08-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-08-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-08-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -134,15 +135,15 @@
 - [【开发者头条】2022-10-08-SPIFFE/SPIRE-从入门到入门](https://toutiao.io/k/lz85uaf) 
 - [【开发者头条】2022-10-08-ioGame-网络游戏服务器框架](https://toutiao.io/k/i3188vi) 
 - [【开发者头条】2022-10-08-TCP-拥塞控制详解-|-4.-控制算法](https://toutiao.io/k/c3umh7s) 
-- [【开发者头条】2022-10-08-Spring-使用-Mypy-检查-30-万行代码，总结出-3-大痛点与-6-个技巧](https://toutiao.io/k/je1y4xl) 
 - [【开发者头条】2022-10-08-别再写-main-方法测试了，太-Low！这才是专业-Java-测试方法](https://toutiao.io/k/wgaecrx) 
+- [【开发者头条】2022-10-08-Spring-使用-Mypy-检查-30-万行代码，总结出-3-大痛点与-6-个技巧](https://toutiao.io/k/je1y4xl) 
 - [【开发者头条】2022-10-08-元宇宙教育七问](https://toutiao.io/k/6p48coi) 
 - [【开发者头条】2022-10-08-Istio-Ambient-Mesh-介绍](https://toutiao.io/k/y6kb1n1) 
 - [【开发者头条】2022-10-08-React-router-从-0-到-1](https://toutiao.io/k/3izlt97) 
 - [【开发者头条】2022-10-08-细说浅拷贝与深拷贝](https://toutiao.io/k/eds4sem) 
 - [【开发者头条】2022-10-08-如何为-Vue3-组件标注-TS-类型，看这个就够了](https://toutiao.io/k/bo8cbft) 
-- [【开发者头条】2022-10-08-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) 
 - [【开发者头条】2022-10-08-推荐-性能优化必备——火焰图](https://toutiao.io/k/azf7ub6) 
+- [【开发者头条】2022-10-08-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

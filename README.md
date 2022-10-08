@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-08 15:47:43，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-08 16:20:12，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-10-08-为了买房，社保可以交两份吗？](https://www.v2ex.com/t/885403) ![](assets/new.png)  
 - [2022-10-08-请教-docker-中-Registry-地址要怎么修改](https://www.v2ex.com/t/885401) ![](assets/new.png)  
 - [2022-10-08-Google.com-里的翻译为什么是-google.cn-域名](https://www.v2ex.com/t/885400) ![](assets/new.png)  
 - [2022-10-08-写了个根据中国节假日自动设置闹钟的快捷指令](https://www.v2ex.com/t/885399) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-10-08-有没有什么开源的，可以用于食堂订餐、员工团购的好用的系统](https://www.v2ex.com/t/885381) ![](assets/new.png)  
 - [2022-10-08-「混合办公-Base-成都」-Java-开发工程师/月薪-20-30K-RMB](https://www.v2ex.com/t/885380) ![](assets/new.png)  
 - [2022-10-08-上海-不加班-混合办公-外企-招-初中级-Java-1-年经验起，中级测试（2-年经验起），高级安卓，中级-devOps、C++，初级-UI/UX](https://www.v2ex.com/t/885379) ![](assets/new.png)  
-- [2022-10-08-Alfred-Gallery-即将推出](https://www.v2ex.com/t/885378) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -568,8 +568,8 @@
 - [2022-10-08-Istio-Ambient-Mesh-介绍](https://toutiao.io/k/y6kb1n1) ![](assets/new.png)  
 - [2022-10-08-细说浅拷贝与深拷贝](https://toutiao.io/k/eds4sem) ![](assets/new.png)  
 - [2022-10-08-如何为-Vue3-组件标注-TS-类型，看这个就够了](https://toutiao.io/k/bo8cbft) ![](assets/new.png)  
-- [2022-10-08-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) ![](assets/new.png)  
 - [2022-10-08-推荐-性能优化必备——火焰图](https://toutiao.io/k/azf7ub6) ![](assets/new.png)  
+- [2022-10-08-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

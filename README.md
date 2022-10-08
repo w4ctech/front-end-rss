@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-08 04:15:58，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-08 05:08:13，:rocket: 更新条数: +2020， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,18 @@
 </summary>
 
 
+- [2022-10-08-微軟商店土耳其禮品卡怎麽購買，淘寶全部都是-stream-或者-xbox-的是一樣？](https://www.v2ex.com/t/885224) ![](assets/new.png)  
+- [2022-10-08-除了-iCloud，还有其他工具可以完整备份-Photos-里的全部照片（包括时间地点等）和-Albums-吗？](https://www.v2ex.com/t/885223) ![](assets/new.png)  
+- [2022-10-08-坑-在-openwrt-上，-Intel-网卡只支持-2.4GHz-AP-模式，不支持-5GHz-和-6-GHz-AP-模式，在-5、6G-上只能做客户端](https://www.v2ex.com/t/885222) ![](assets/new.png)  
+- [2022-10-08-Quantumult-X-怎么才能拦截请求并返回假数据](https://www.v2ex.com/t/885221) ![](assets/new.png)  
+- [2022-10-08-求职|远程|全职7-年后端经验（Go/-PHP-）](https://www.v2ex.com/t/885220) ![](assets/new.png)  
+- [2022-10-08-咨询-大家给父母买了什么样的保险](https://www.v2ex.com/t/885218) ![](assets/new.png)  
+- [2022-10-08-当设计师学了前端……看看我这个博客什么水平](https://www.v2ex.com/t/885217) ![](assets/new.png)  
+- [2022-10-08-cloudflare-tunnel-该怎么配置支持-websocket-呢？](https://www.v2ex.com/t/885215) ![](assets/new.png)  
+- [2022-10-08-有什么-USDT-换-RMB-安全的方式？](https://www.v2ex.com/t/885214) ![](assets/new.png)  
+- [2022-10-08-Mac-和-windows-双网卡不能同时获取两个-ipv6/4-的地址，很奇怪的问题](https://www.v2ex.com/t/885213) ![](assets/new.png)  
+- [2022-10-08-ts-如何书写-console.log...'hello'？](https://www.v2ex.com/t/885211) ![](assets/new.png)  
+- [2022-10-08-使用-Flutter-做了一个极简的密码生成-Chrome-扩展](https://www.v2ex.com/t/885210) ![](assets/new.png)  
 - [2022-10-08-求职远程-7-年经验-Java-&-PHP](https://www.v2ex.com/t/885208) ![](assets/new.png)  
 - [2022-10-08-拼多多百亿补贴购买的-AirPods-Pro-2，发货地显示为上海新梅华大酒店](https://www.v2ex.com/t/885207) ![](assets/new.png)  
 - [2022-10-08-如何实现点击按钮弹出“粘贴”按钮](https://www.v2ex.com/t/885205) ![](assets/new.png)  
@@ -499,18 +511,6 @@
 - [2022-10-08-APTV-for-macOS-开启-Testflight-测试](https://www.v2ex.com/t/885202) ![](assets/new.png)  
 - [2022-10-08-现在做-html-的静态网站还有前途吗？](https://www.v2ex.com/t/885201) ![](assets/new.png)  
 - [2022-10-08-json-在线小工具，支持历史记录](https://www.v2ex.com/t/885199) ![](assets/new.png)  
-- [2022-10-08-请问-vscode-要装什么插件才能在字符串方法提示出-include](https://www.v2ex.com/t/885198) ![](assets/new.png)  
-- [2022-10-08-国内有其他关注创造和-marketing-的社区吗？-类似-indiehacks](https://www.v2ex.com/t/885197) ![](assets/new.png)  
-- [2022-10-08-cloudflare-的验证码-Turnstile-国内稳定吗？](https://www.v2ex.com/t/885196) ![](assets/new.png)  
-- [2022-10-08-bookmark.style-v0.3.0-发布，支持一键拷贝-SVG-图像到-GitHub-README.md-功能](https://www.v2ex.com/t/885194) ![](assets/new.png)  
-- [2022-10-08-ArrayList.set-提示-第二个参数-element-类型是-NoThing-？](https://www.v2ex.com/t/885193) ![](assets/new.png)  
-- [2022-10-08-有没有好用的-web-或者-pc-版的记账工具？](https://www.v2ex.com/t/885192) ![](assets/new.png)  
-- [2022-10-08-有关新购-iPad14-天内进行换货后-apple-care+的到期时间问题](https://www.v2ex.com/t/885189) ![](assets/new.png)  
-- [2022-10-08-TI11-开始了](https://www.v2ex.com/t/885188) ![](assets/new.png)  
-- [2022-10-08-mbp-切换声音播放设备还能选择别人的笔记本？](https://www.v2ex.com/t/885187) ![](assets/new.png)  
-- [2022-10-08-ios16-自带闹钟改成浅色](https://www.v2ex.com/t/885186) ![](assets/new.png)  
-- [2022-10-08-《Easy-搞定-Go-语言设计模式》Golang-设计模式，如此简单](https://www.v2ex.com/t/885184) ![](assets/new.png)  
-- [2022-10-08-mac-菜单栏图标太多时会被刘海切掉](https://www.v2ex.com/t/885183) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -555,18 +555,18 @@
 
 - [2022-10-08-优质网站同好者周刊（第-086-期）-|-倾城博客](https://toutiao.io/k/suarx81) ![](assets/new.png)  
 - [2022-10-08-超实用！整理了-34-个-Python-自动化办公库](https://toutiao.io/k/5wihja2) ![](assets/new.png)  
-- [2022-10-08-12306抢票：极限高并发带来的思考](https://toutiao.io/k/5k6qd0n) ![](assets/new.png)  
 - [2022-10-08-面试官：你这数据库表设计的，真垃圾。。。](https://toutiao.io/k/0c7whvz) ![](assets/new.png)  
+- [2022-10-08-12306抢票：极限高并发带来的思考](https://toutiao.io/k/5k6qd0n) ![](assets/new.png)  
 - [2022-10-08-如何设计一个短链服务？](https://toutiao.io/k/37q95tr) ![](assets/new.png)  
 - [2022-10-08-SPIFFE/SPIRE-从入门到入门](https://toutiao.io/k/lz85uaf) ![](assets/new.png)  
 - [2022-10-08-ioGame-网络游戏服务器框架](https://toutiao.io/k/i3188vi) ![](assets/new.png)  
 - [2022-10-08-TCP-拥塞控制详解-|-4.-控制算法](https://toutiao.io/k/c3umh7s) ![](assets/new.png)  
+- [2022-10-08-Spring-使用-Mypy-检查-30-万行代码，总结出-3-大痛点与-6-个技巧](https://toutiao.io/k/je1y4xl) ![](assets/new.png)  
 - [2022-10-08-Istio-Ambient-Mesh-介绍](https://toutiao.io/k/y6kb1n1) ![](assets/new.png)  
 - [2022-10-08-React-router-从-0-到-1](https://toutiao.io/k/3izlt97) ![](assets/new.png)  
 - [2022-10-08-元宇宙教育七问](https://toutiao.io/k/6p48coi) ![](assets/new.png)  
-- [2022-10-08-Spring-使用-Mypy-检查-30-万行代码，总结出-3-大痛点与-6-个技巧](https://toutiao.io/k/je1y4xl) ![](assets/new.png)  
-- [2022-10-08-细说浅拷贝与深拷贝](https://toutiao.io/k/eds4sem) ![](assets/new.png)  
 - [2022-10-08-别再写-main-方法测试了，太-Low！这才是专业-Java-测试方法](https://toutiao.io/k/wgaecrx) ![](assets/new.png)  
+- [2022-10-08-细说浅拷贝与深拷贝](https://toutiao.io/k/eds4sem) ![](assets/new.png)  
 - [2022-10-08-如何为-Vue3-组件标注-TS-类型，看这个就够了](https://toutiao.io/k/bo8cbft) ![](assets/new.png)  
 - [2022-10-08-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) ![](assets/new.png)  
 - [2022-10-08-推荐-性能优化必备——火焰图](https://toutiao.io/k/azf7ub6) ![](assets/new.png)  

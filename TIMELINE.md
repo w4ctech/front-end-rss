@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-08 06:21:22。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-10-08 06:56:48。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,18 @@
 </summary>
 
 
+- [【V2EX】2022-10-08-如何修改-iPad-自带媒体播放器右上角的“用-XXX-打开”中调用的软件](https://www.v2ex.com/t/885263) 
+- [【V2EX】2022-10-08-糟糕，个人项目用了百度-ORC，做完才发现-QPS-只有-10-怎么办？](https://www.v2ex.com/t/885262) 
+- [【V2EX】2022-10-08-数据结构求助](https://www.v2ex.com/t/885261) 
+- [【V2EX】2022-10-08-分享个自用的-iOS-大陆节假日闹钟快捷指令，十分简洁](https://www.v2ex.com/t/885260) 
+- [【V2EX】2022-10-08-有没有这样一款能够管理各类订阅及固定开销的-App，如果有的话求推荐？](https://www.v2ex.com/t/885259) 
+- [【V2EX】2022-10-08-关于-DNS-的问题想请教一下各位大佬们](https://www.v2ex.com/t/885258) 
+- [【V2EX】2022-10-08-日课，给每一位好读诗的人-新版发布，送码体验！](https://www.v2ex.com/t/885256) 
+- [【V2EX】2022-10-08-上海的座机，怎么能在江苏使用？](https://www.v2ex.com/t/885254) 
+- [【V2EX】2022-10-08-哪个中介平台卖微信公众号靠谱？](https://www.v2ex.com/t/885253) 
+- [【V2EX】2022-10-08-Windows11-蓝牙音响-连接以后-无法做为输出设备-如何解决?](https://www.v2ex.com/t/885252) 
+- [【V2EX】2022-10-08-为什么常见的统计分析是以-7-日为周期，而不是-5、8、9？](https://www.v2ex.com/t/885251) 
+- [【V2EX】2022-10-08-小米手机的质量是不是越来越糟糕？](https://www.v2ex.com/t/885250) 
 - [【V2EX】2022-10-08-记录一下投诉工商京东自营失败的过程](https://www.v2ex.com/t/885249) 
 - [【V2EX】2022-10-08-iPhone-怎么备份最快最全？](https://www.v2ex.com/t/885248) 
 - [【V2EX】2022-10-08-求助，-pve-虚拟机无法启动](https://www.v2ex.com/t/885247) 
@@ -98,16 +110,6 @@
 - [【V2EX】2022-10-08-当设计师学了前端……看看我这个博客什么水平](https://www.v2ex.com/t/885217) 
 - [【V2EX】2022-10-08-cloudflare-tunnel-该怎么配置支持-websocket-呢？](https://www.v2ex.com/t/885215) 
 - [【V2EX】2022-10-08-有什么-USDT-换-RMB-安全的方式？](https://www.v2ex.com/t/885214) 
-- [【V2EX】2022-10-08-Mac-和-windows-双网卡不能同时获取两个-ipv6/4-的地址，很奇怪的问题](https://www.v2ex.com/t/885213) 
-- [【V2EX】2022-10-08-ts-如何书写-console.log...'hello'？](https://www.v2ex.com/t/885211) 
-- [【V2EX】2022-10-08-使用-Flutter-做了一个极简的密码生成-Chrome-扩展](https://www.v2ex.com/t/885210) 
-- [【V2EX】2022-10-08-求职远程-7-年经验-Java-&-PHP](https://www.v2ex.com/t/885208) 
-- [【V2EX】2022-10-08-拼多多百亿补贴购买的-AirPods-Pro-2，发货地显示为上海新梅华大酒店](https://www.v2ex.com/t/885207) 
-- [【V2EX】2022-10-08-如何实现点击按钮弹出“粘贴”按钮](https://www.v2ex.com/t/885205) 
-- [【V2EX】2022-10-08-ZF-会有新的手段来割韭菜么？？](https://www.v2ex.com/t/885204) 
-- [【V2EX】2022-10-08-Web3-求职-远程-or-杭州](https://www.v2ex.com/t/885203) 
-- [【V2EX】2022-10-08-APTV-for-macOS-开启-Testflight-测试](https://www.v2ex.com/t/885202) 
-- [【V2EX】2022-10-08-现在做-html-的静态网站还有前途吗？](https://www.v2ex.com/t/885201) 
 - [【技术头条】2022-10-08-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-08-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-08-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -137,14 +139,14 @@
 - [【开发者头条】2022-10-08-ioGame-网络游戏服务器框架](https://toutiao.io/k/i3188vi) 
 - [【开发者头条】2022-10-08-TCP-拥塞控制详解-|-4.-控制算法](https://toutiao.io/k/c3umh7s) 
 - [【开发者头条】2022-10-08-Spring-使用-Mypy-检查-30-万行代码，总结出-3-大痛点与-6-个技巧](https://toutiao.io/k/je1y4xl) 
+- [【开发者头条】2022-10-08-别再写-main-方法测试了，太-Low！这才是专业-Java-测试方法](https://toutiao.io/k/wgaecrx) 
 - [【开发者头条】2022-10-08-元宇宙教育七问](https://toutiao.io/k/6p48coi) 
 - [【开发者头条】2022-10-08-Istio-Ambient-Mesh-介绍](https://toutiao.io/k/y6kb1n1) 
 - [【开发者头条】2022-10-08-React-router-从-0-到-1](https://toutiao.io/k/3izlt97) 
-- [【开发者头条】2022-10-08-别再写-main-方法测试了，太-Low！这才是专业-Java-测试方法](https://toutiao.io/k/wgaecrx) 
 - [【开发者头条】2022-10-08-细说浅拷贝与深拷贝](https://toutiao.io/k/eds4sem) 
 - [【开发者头条】2022-10-08-如何为-Vue3-组件标注-TS-类型，看这个就够了](https://toutiao.io/k/bo8cbft) 
-- [【开发者头条】2022-10-08-推荐-性能优化必备——火焰图](https://toutiao.io/k/azf7ub6) 
 - [【开发者头条】2022-10-08-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) 
+- [【开发者头条】2022-10-08-推荐-性能优化必备——火焰图](https://toutiao.io/k/azf7ub6) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-08 01:11:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-08 03:17:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -14,4 +14,5 @@
 - [2021-03-08-香港再现数例疫苗接种严重异常事件-专家初判与疫苗无关](https://china.caixin.com/m/2021-03-08/101672619.html) 
 - [2021-03-03-港府回应一63岁患者死亡事件-暂无法确定与疫苗相关](https://m.caixin.com/m/2021-03-03/101670052.html) 
 - [2022-08-21-JS-replaceAll-和-matchAll-使用指南不指北](https://www.zhangxinxu.com/wordpress/2022/08/js-replaceall-matchall/) 
-- [2022-10-07-单独使用-sudo--s-后面没有其他命令，会得到一个交互的-root-的-shell。请教下，-s-参数，是否会加载环境变量定义文件？](https://www.v2ex.com/t/885106) 
+- [2022-10-08-iOS-16-开放式的锁屏小组件---LockMan](https://www.v2ex.com/t/885161) 
+- [2022-10-08-细说浅拷贝与深拷贝](https://toutiao.io/k/eds4sem) 

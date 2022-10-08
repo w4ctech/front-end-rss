@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-10-08 09:18:10。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-08 09:46:38。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -91,7 +91,6 @@
 
 - [【武汉肺炎防疫全纪录(财新网)】韩国拟升级首尔疫情管控-法国专业机构建议强制接种疫苗｜大流行手记（7月10日）](https://m.caixin.com/m/2021-07-11/101738786.html)
 - [【V2EX】思路请教用手机扫描物体后再用-threejs-在网页端构建渲染出模型](https://www.v2ex.com/t/885314)
-- [【V2EX】npm-install-遇上-git-源如何提速?](https://www.v2ex.com/t/885275)
 - [......【查看更多】......](./details/tags/pack-build.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -237,7 +236,6 @@
 
 - [【武汉肺炎防疫全纪录(财新网)】广州17岁男生在定点医院参加高考-特殊考场视频监考](https://m.caixin.com/m/2021-06-05/101723418.html)
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
-- [【V2EX】求助贴：自动连播打开时，播放-b-站视频会黑屏](https://www.v2ex.com/t/885274)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -277,6 +275,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】腺病毒新冠疫苗引安全忧虑-康希诺称未发现血栓病例](https://m.caixin.com/m/2021-04-14/101691086.html)
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
+- [【V2EX】有没有-chrome-or-edge-浏览器上-比较好用的-CORS-插件？](https://www.v2ex.com/t/885324)
 - [【V2EX】前端浏览器部分-emoji-不显示问题如何解决？](https://www.v2ex.com/t/885295)
 - [【开发者头条】Istio-Ambient-Mesh-介绍](https://toutiao.io/k/y6kb1n1)
 - [......【查看更多】......](./details/tags/browser.md)
@@ -295,6 +294,7 @@
 
 
 
+- [【V2EX】-Python-关于轮询的问题-http-还是-socketIO](https://www.v2ex.com/t/885328)
 - [【技术头条】基于AI算法的数据库异常监测系统的设计与实现-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15390&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F09%2F01%2Fdatabase-monitoring-based-on-ai.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】TCP-拥塞控制详解-|-4.-控制算法](https://toutiao.io/k/c3umh7s)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)

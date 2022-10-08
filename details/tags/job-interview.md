@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-07 23:50:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-08 01:11:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -8,3 +8,4 @@
 
 
 - [2022-10-07-Web3.0-招聘技术-VP（后端-Go），工作地点：-home-base，英语口语流利，薪水（base70W，总包-100W，具体也可谈）](https://www.v2ex.com/t/885114) 
+- [2022-10-08-面试官：你这数据库表设计的，真垃圾。。。](https://toutiao.io/k/0c7whvz) 

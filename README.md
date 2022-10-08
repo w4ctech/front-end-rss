@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-08 14:46:43，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-08 15:16:17，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-10-08-如何让所有流量全走-clash-进行处理?](https://www.v2ex.com/t/885396) ![](assets/new.png)  
+- [2022-10-08-码农上班上出来与世隔绝感了怎么排解](https://www.v2ex.com/t/885395) ![](assets/new.png)  
 - [2022-10-08-发现租房旁边有条河可以钓鱼-想尝试下-有推荐的入门装备吗](https://www.v2ex.com/t/885392) ![](assets/new.png)  
 - [2022-10-08-看到个业务系统用的这种表达式是如何实现的？有什么高深的技术吗？](https://www.v2ex.com/t/885391) ![](assets/new.png)  
 - [2022-10-08-南方人，想带父母去北京玩一下，想问下最好是哪个月去比较好（排除疫情影响），比如避开一些开会节点，或者是天气，空气，或者是旅游高峰期等不良因素影响](https://www.v2ex.com/t/885390) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-10-08-免费的数据库-DBaaS-之-tigergraph-—-提供-50G-免费存储的云端图数据库-Graph-DB-AWS-东京](https://www.v2ex.com/t/885374) ![](assets/new.png)  
 - [2022-10-08-iPhone-的电池健康度是不是不准](https://www.v2ex.com/t/885373) ![](assets/new.png)  
 - [2022-10-08-前端小白，想咨询一下广大-v-友，有啥技术栈可以快速实现下图所示官网？](https://www.v2ex.com/t/885371) ![](assets/new.png)  
-- [2022-10-08-airpods2-被精准报废了](https://www.v2ex.com/t/885370) ![](assets/new.png)  
-- [2022-10-08-求面经-年底准备跳槽有没有前端大佬有无面试资料？](https://www.v2ex.com/t/885369) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

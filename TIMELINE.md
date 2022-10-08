@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-08 14:46:43。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-10-08 15:16:17。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,8 @@
 </summary>
 
 
+- [【V2EX】2022-10-08-如何让所有流量全走-clash-进行处理?](https://www.v2ex.com/t/885396) 
+- [【V2EX】2022-10-08-码农上班上出来与世隔绝感了怎么排解](https://www.v2ex.com/t/885395) 
 - [【V2EX】2022-10-08-发现租房旁边有条河可以钓鱼-想尝试下-有推荐的入门装备吗](https://www.v2ex.com/t/885392) 
 - [【V2EX】2022-10-08-看到个业务系统用的这种表达式是如何实现的？有什么高深的技术吗？](https://www.v2ex.com/t/885391) 
 - [【V2EX】2022-10-08-南方人，想带父母去北京玩一下，想问下最好是哪个月去比较好（排除疫情影响），比如避开一些开会节点，或者是天气，空气，或者是旅游高峰期等不良因素影响](https://www.v2ex.com/t/885390) 
@@ -104,9 +106,6 @@
 - [【V2EX】2022-10-08-为什么谷歌翻译不走-PAC-里的-||google.com-?](https://www.v2ex.com/t/885351) 
 - [【V2EX】2022-10-08-yugabyteDB-为开发者免费提供-2-CPU-4G-RAM-10G-存储的-postgreSQL-云服务](https://www.v2ex.com/t/885350) 
 - [【V2EX】2022-10-08-训练-AI-模仿动漫中声优的声音，然后用-AI-给自己的视频配音，但在宣传时完全不提原来的声优，是否存在侵权风险？（可能相当于音色是否有版权？）不确定是否存在...](https://www.v2ex.com/t/885347) 
-- [【V2EX】2022-10-08-垃圾前端的我最近写了个个人主页](https://www.v2ex.com/t/885346) 
-- [【V2EX】2022-10-08-iPad-上有什么输入法的九宫格悬浮键盘做得好的吗](https://www.v2ex.com/t/885345) 
-- [【V2EX】2022-10-08-求推荐个双-C-口的充电头](https://www.v2ex.com/t/885344) 
 - [【技术头条】2022-10-08-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-08-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-08-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

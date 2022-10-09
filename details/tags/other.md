@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-09 18:19:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-09 18:52:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1944,7 +1944,6 @@
 - [2022-10-09-macOS送码-PixelsMeasure---一款屏幕像素测量工具](https://www.v2ex.com/t/885610) 
 - [2022-10-09-楼主要从深圳去北京，因为深圳高风险，必须得先在无风险地区待上-7-天，在哪个城市中转比较好？](https://www.v2ex.com/t/885609) 
 - [2022-10-09-推荐几门极客时间的课程](https://www.v2ex.com/t/885607) 
-- [2022-10-09-给公司运维同学写了一个-etcd-桌面管理客户端](https://www.v2ex.com/t/885606) 
 - [2022-10-09-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-09-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-09-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

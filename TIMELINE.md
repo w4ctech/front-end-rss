@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-09 23:17:43。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-10-09 23:49:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,8 @@
 </summary>
 
 
+- [【V2EX】2022-10-09-提问本地化处理表格数据的最佳文件方案是-Excel-吗](https://www.v2ex.com/t/885664) 
+- [【V2EX】2022-10-09-小插件：用-pixiv-随机人气图片替换-chrome-的新标签页](https://www.v2ex.com/t/885663) 
 - [【V2EX】2022-10-09-vitejs-vs-webpack?-2022-年了，选哪个？](https://www.v2ex.com/t/885661) 
 - [【V2EX】2022-10-09-炸鱼贴，半夜不睡的人，又在-v-站上闲逛的人。](https://www.v2ex.com/t/885660) 
 - [【V2EX】2022-10-09-IPTV-通过两个路由无线中继与光猫连接是否可行？](https://www.v2ex.com/t/885659) 
@@ -102,8 +104,6 @@
 - [【V2EX】2022-10-09-怎样把-iOS-相册中的壁纸和其他照片分开](https://www.v2ex.com/t/885620) 
 - [【V2EX】2022-10-09-翻译-Type-Level-TypeScript](https://www.v2ex.com/t/885617) 
 - [【V2EX】2022-10-09-小程序内无缝跳转另外的小程序](https://www.v2ex.com/t/885615) 
-- [【V2EX】2022-10-09-求推荐合适的手机套餐](https://www.v2ex.com/t/885613) 
-- [【V2EX】2022-10-09-为啥这两年找远程工作的越来越多？难道宇宙的尽头就是远程或者体制内？](https://www.v2ex.com/t/885612) 
 - [【技术头条】2022-10-09-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-09-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-09-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-09 20:17:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-09 20:46:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1914,6 +1914,7 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-10-09-14pro，-ios16.0.2-上滑卡顿问题](https://www.v2ex.com/t/885658) 
 - [2022-10-09-出一个深度之眼的账号](https://www.v2ex.com/t/885657) 
 - [2022-10-09-一觉醒来，刀圈又有了个新瓜](https://www.v2ex.com/t/885653) 
 - [2022-10-09-是不是只有赫曼米勒的椅子才有支持动态坐姿的功能？](https://www.v2ex.com/t/885652) 
@@ -1943,7 +1944,6 @@
 - [2022-10-09-为啥这两年找远程工作的越来越多？难道宇宙的尽头就是远程或者体制内？](https://www.v2ex.com/t/885612) 
 - [2022-10-09-小学生作业提升小帮手](https://www.v2ex.com/t/885611) 
 - [2022-10-09-macOS送码-PixelsMeasure---一款屏幕像素测量工具](https://www.v2ex.com/t/885610) 
-- [2022-10-09-楼主要从深圳去北京，因为深圳高风险，必须得先在无风险地区待上-7-天，在哪个城市中转比较好？](https://www.v2ex.com/t/885609) 
 - [2022-10-09-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-09-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-09-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

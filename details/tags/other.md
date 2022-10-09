@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-09 07:19:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-09 07:45:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1914,6 +1914,7 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-10-09-国庆假期结束后首次破防：医生说你得哮喘了，别养猫了](https://www.v2ex.com/t/885540) 
 - [2022-10-09-K50-Pro-至尊版可以刷海外版小米-12T-Pro-的系统么？](https://www.v2ex.com/t/885536) 
 - [2022-10-09-比亚迪宋-plus-dmi-和汉-dmi-买那个](https://www.v2ex.com/t/885533) 
 - [2022-10-09-请教一个-mongodb-的问题](https://www.v2ex.com/t/885532) 
@@ -1926,7 +1927,6 @@
 - [2022-10-09-求助-v-友，寻职业/实习机会（广州/佛山）](https://www.v2ex.com/t/885520) 
 - [2022-10-09-发现一个多-mysql-管理框架-可以研究下](https://www.v2ex.com/t/885519) 
 - [2022-10-09-macOS13-好像已经解决了-M1-上频繁读写硬盘的问题](https://www.v2ex.com/t/885517) 
-- [2022-10-09-外卖被偷了，反手又偷了别人的，我做的对吗？](https://www.v2ex.com/t/885516) 
 - [2022-10-09-2022-了-抓取交互网页结果的最佳方式是什么？](https://www.v2ex.com/t/885513) 
 - [2022-10-09-求问下有没有支持开发者接口的番茄钟-app-或者类似的服务？](https://www.v2ex.com/t/885512) 
 - [2022-10-09-双十一优惠渠道来了](https://www.v2ex.com/t/885509) 
@@ -1945,8 +1945,6 @@
 - [2022-10-09-家里老父亲已-60-周岁，但是社保还有-5-6-年未缴纳，咋办？](https://www.v2ex.com/t/885493) 
 - [2022-10-09-Airpods-Pro-泡水-门店售后换新记录](https://www.v2ex.com/t/885492) 
 - [2022-10-09-AirPods-Pro-2-连接-Mac-经常断开](https://www.v2ex.com/t/885491) 
-- [2022-10-09-我在想这个域名做点什么好](https://www.v2ex.com/t/885490) 
-- [2022-10-09-和女朋友分手了，感觉整个世界崩塌了](https://www.v2ex.com/t/885488) 
 - [2022-10-09-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-09-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-09-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

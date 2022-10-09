@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-09 06:56:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-09 07:19:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1914,7 +1914,9 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
-- [2022-10-09-google-翻译退出中国-就这??-就让那么多人难受了吗](https://www.v2ex.com/t/885531) 
+- [2022-10-09-K50-Pro-至尊版可以刷海外版小米-12T-Pro-的系统么？](https://www.v2ex.com/t/885536) 
+- [2022-10-09-比亚迪宋-plus-dmi-和汉-dmi-买那个](https://www.v2ex.com/t/885533) 
+- [2022-10-09-请教一个-mongodb-的问题](https://www.v2ex.com/t/885532) 
 - [2022-10-09-坐标辽宁沈阳，方正宽带登不上方舟](https://www.v2ex.com/t/885530) 
 - [2022-10-09-请问这种-IT-职位怎么称呼，需要哪些技能，好招吗。](https://www.v2ex.com/t/885529) 
 - [2022-10-09-网盘目录设计](https://www.v2ex.com/t/885528) 
@@ -1945,9 +1947,6 @@
 - [2022-10-09-AirPods-Pro-2-连接-Mac-经常断开](https://www.v2ex.com/t/885491) 
 - [2022-10-09-我在想这个域名做点什么好](https://www.v2ex.com/t/885490) 
 - [2022-10-09-和女朋友分手了，感觉整个世界崩塌了](https://www.v2ex.com/t/885488) 
-- [2022-10-09-用来学习、开发用的迷你-Linux-主机求推荐](https://www.v2ex.com/t/885486) 
-- [2022-10-09-之前觉得七天好短，现在觉得七天好长。。。](https://www.v2ex.com/t/885485) 
-- [2022-10-09-现在已经不用淘宝了](https://www.v2ex.com/t/885482) 
 - [2022-10-09-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-09-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-09-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

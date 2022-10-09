@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-09 16:21:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-09 17:02:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1914,6 +1914,8 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-10-09-疑问：系统太复杂，怎么去提高开发进度？](https://www.v2ex.com/t/885650) 
+- [2022-10-09-Google-Voice（GV）如何使用](https://www.v2ex.com/t/885649) 
 - [2022-10-09-杭州电信宽带丢包严重](https://www.v2ex.com/t/885648) 
 - [2022-10-09-有功能类似火绒剑的开源软件吗？](https://www.v2ex.com/t/885647) 
 - [2022-10-09-网铃-更新-|-增加状态统计、OpenApi](https://www.v2ex.com/t/885643) 
@@ -1943,7 +1945,6 @@
 - [2022-10-09-给公司运维同学写了一个-etcd-桌面管理客户端](https://www.v2ex.com/t/885606) 
 - [2022-10-09-国庆假期做了一个简易的外包报价计算器，内置了-60-多个常见页面，可以根据页面算工时，再填上时薪算出成本，或者加上溢价算报价。](https://www.v2ex.com/t/885604) 
 - [2022-10-09-精确至-1.2-公里分辨率的全球地球系统模拟](https://www.v2ex.com/t/885603) 
-- [2022-10-09-mac-挂载-nfs-或者其他网络盘，本地盘一样使用](https://www.v2ex.com/t/885599) 
 - [2022-10-09-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-09-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-09-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

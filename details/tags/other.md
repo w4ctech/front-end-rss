@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-09 11:14:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-09 11:41:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1914,6 +1914,10 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-10-09-推荐几门极客时间的课程](https://www.v2ex.com/t/885607) 
+- [2022-10-09-给公司运维同学写了一个-etcd-桌面管理客户端](https://www.v2ex.com/t/885606) 
+- [2022-10-09-求哥哥们的-Star，撑面子用，回报：泻火.mp4](https://www.v2ex.com/t/885605) 
+- [2022-10-09-国庆假期做了一个简易的外包报价计算器，内置了-60-多个常见页面，可以根据页面算工时，再填上时薪算出成本，或者加上溢价算报价。](https://www.v2ex.com/t/885604) 
 - [2022-10-09-精确至-1.2-公里分辨率的全球地球系统模拟](https://www.v2ex.com/t/885603) 
 - [2022-10-09-mac-挂载-nfs-或者其他网络盘，本地盘一样使用](https://www.v2ex.com/t/885599) 
 - [2022-10-09-想开-Microsoft-365-订阅家庭版，有想组队的朋友吗？可以一起组队开一下，京东官网-289，-6-个人每人也就不到-49-一年。](https://www.v2ex.com/t/885598) 
@@ -1946,8 +1950,6 @@
 - [2022-10-09-为什么在今日头条-app-上发一个转载的笑话会被扣-50-分，而发敏感信息的却没事？](https://www.v2ex.com/t/885561) 
 - [2022-10-09-要是-mac-mini-更新了-32G-内存-那是真的香](https://www.v2ex.com/t/885560) 
 - [2022-10-09-MBP-屏幕下黑点](https://www.v2ex.com/t/885559) 
-- [2022-10-09-苹果这次严查企业开发者](https://www.v2ex.com/t/885556) 
-- [2022-10-09-求教-自编译/云编译的-newifi-d2-网络设置里面有两个无线](https://www.v2ex.com/t/885554) 
 - [2022-10-09-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-09-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-09-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

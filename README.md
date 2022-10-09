@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-09 11:14:30，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-09 11:41:46，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-10-09-推荐几门极客时间的课程](https://www.v2ex.com/t/885607) ![](assets/new.png)  
+- [2022-10-09-给公司运维同学写了一个-etcd-桌面管理客户端](https://www.v2ex.com/t/885606) ![](assets/new.png)  
+- [2022-10-09-求哥哥们的-Star，撑面子用，回报：泻火.mp4](https://www.v2ex.com/t/885605) ![](assets/new.png)  
+- [2022-10-09-国庆假期做了一个简易的外包报价计算器，内置了-60-多个常见页面，可以根据页面算工时，再填上时薪算出成本，或者加上溢价算报价。](https://www.v2ex.com/t/885604) ![](assets/new.png)  
 - [2022-10-09-精确至-1.2-公里分辨率的全球地球系统模拟](https://www.v2ex.com/t/885603) ![](assets/new.png)  
 - [2022-10-09-悬赏-2-个音乐会员-求哈啰单车的-App-内“扫一扫”的-URL-Scheme？谁能一战？](https://www.v2ex.com/t/885601) ![](assets/new.png)  
 - [2022-10-09-百度搜索栏输入框上下不居中（环境：-Chrome-106.0.5249.103）](https://www.v2ex.com/t/885600) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-10-09-上海创业公司弹性工作-硅谷背景的-2B-创业公司招前端-leader](https://www.v2ex.com/t/885588) ![](assets/new.png)  
 - [2022-10-09-量化交易接口，行情，下单,自动化交易-基于-Python](https://www.v2ex.com/t/885587) ![](assets/new.png)  
 - [2022-10-09-Kong-Inc.-中国研发中心最新招聘：高级软件工程师（语言工具链）---上海](https://www.v2ex.com/t/885586) ![](assets/new.png)  
-- [2022-10-09-vivo-社招内推节-北京、上海、重庆、南京、杭州、深圳、东莞、西安-营销、设计、研发各种岗位](https://www.v2ex.com/t/885585) ![](assets/new.png)  
-- [2022-10-09-寻找可以远程或南京本地的-PHP-/Go-方向的后端坑位](https://www.v2ex.com/t/885583) ![](assets/new.png)  
-- [2022-10-09-字节跳动抖音本地生活前端招聘-社招|不限年限](https://www.v2ex.com/t/885582) ![](assets/new.png)  
-- [2022-10-09-如何分辨闷屁与响屁？](https://www.v2ex.com/t/885581) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

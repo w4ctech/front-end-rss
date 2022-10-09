@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-09 11:14:30。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-10-09 11:41:46。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,10 @@
 </summary>
 
 
+- [【V2EX】2022-10-09-推荐几门极客时间的课程](https://www.v2ex.com/t/885607) 
+- [【V2EX】2022-10-09-给公司运维同学写了一个-etcd-桌面管理客户端](https://www.v2ex.com/t/885606) 
+- [【V2EX】2022-10-09-求哥哥们的-Star，撑面子用，回报：泻火.mp4](https://www.v2ex.com/t/885605) 
+- [【V2EX】2022-10-09-国庆假期做了一个简易的外包报价计算器，内置了-60-多个常见页面，可以根据页面算工时，再填上时薪算出成本，或者加上溢价算报价。](https://www.v2ex.com/t/885604) 
 - [【V2EX】2022-10-09-精确至-1.2-公里分辨率的全球地球系统模拟](https://www.v2ex.com/t/885603) 
 - [【V2EX】2022-10-09-悬赏-2-个音乐会员-求哈啰单车的-App-内“扫一扫”的-URL-Scheme？谁能一战？](https://www.v2ex.com/t/885601) 
 - [【V2EX】2022-10-09-百度搜索栏输入框上下不居中（环境：-Chrome-106.0.5249.103）](https://www.v2ex.com/t/885600) 
@@ -107,8 +111,6 @@
 - [【V2EX】2022-10-09-为什么在今日头条-app-上发一个转载的笑话会被扣-50-分，而发敏感信息的却没事？](https://www.v2ex.com/t/885561) 
 - [【V2EX】2022-10-09-要是-mac-mini-更新了-32G-内存-那是真的香](https://www.v2ex.com/t/885560) 
 - [【V2EX】2022-10-09-MBP-屏幕下黑点](https://www.v2ex.com/t/885559) 
-- [【V2EX】2022-10-09-苹果这次严查企业开发者](https://www.v2ex.com/t/885556) 
-- [【V2EX】2022-10-09-求教-自编译/云编译的-newifi-d2-网络设置里面有两个无线](https://www.v2ex.com/t/885554) 
 - [【技术头条】2022-10-09-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-09-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-09-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

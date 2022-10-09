@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-09 03:46:03，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-09 05:00:48，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,26 +491,26 @@
 </summary>
 
 
+- [2022-10-09-14-pro-黑屏死机，不确定是不是批量的共性问题](https://www.v2ex.com/t/885497) ![](assets/new.png)  
+- [2022-10-09-社死！在公司大群不小心发错消息，说了句-“我也不想上班了”](https://www.v2ex.com/t/885496) ![](assets/new.png)  
+- [2022-10-09-用-paypal-续费-namecheap-的域名一直提示“商家需要您的账单地址以完成此付款”](https://www.v2ex.com/t/885495) ![](assets/new.png)  
+- [2022-10-09-家里老父亲已-60-周岁，但是社保还有-5-6-年未缴纳，咋办？](https://www.v2ex.com/t/885493) ![](assets/new.png)  
+- [2022-10-09-Airpods-Pro-泡水-门店售后换新记录](https://www.v2ex.com/t/885492) ![](assets/new.png)  
+- [2022-10-09-AirPods-Pro-2-连接-Mac-经常断开](https://www.v2ex.com/t/885491) ![](assets/new.png)  
+- [2022-10-09-我在想这个域名做点什么好](https://www.v2ex.com/t/885490) ![](assets/new.png)  
+- [2022-10-09-微信小程序-手机号授权-API-炸了？](https://www.v2ex.com/t/885489) ![](assets/new.png)  
+- [2022-10-09-和女朋友分手了，感觉整个世界崩塌了](https://www.v2ex.com/t/885488) ![](assets/new.png)  
+- [2022-10-09-乐买买抖音购物返现平台推广合作-抖音短视频直播购物都有返现](https://www.v2ex.com/t/885487) ![](assets/new.png)  
+- [2022-10-09-用来学习、开发用的迷你-Linux-主机求推荐](https://www.v2ex.com/t/885486) ![](assets/new.png)  
+- [2022-10-09-之前觉得七天好短，现在觉得七天好长。。。](https://www.v2ex.com/t/885485) ![](assets/new.png)  
+- [2022-10-09-macbook，听歌突然杂音，-chrome-的问题？](https://www.v2ex.com/t/885484) ![](assets/new.png)  
+- [2022-10-09-现在已经不用淘宝了](https://www.v2ex.com/t/885482) ![](assets/new.png)  
+- [2022-10-09-12-月份自驾去神农架需要注意些什么吗？](https://www.v2ex.com/t/885481) ![](assets/new.png)  
 - [2022-10-09-问一个线程和进程的问题](https://www.v2ex.com/t/885480) ![](assets/new.png)  
 - [2022-10-09-有没有大神对最小哈希比较了解？问题请教](https://www.v2ex.com/t/885479) ![](assets/new.png)  
 - [2022-10-09-联通-0-元圣代包长期生效-这个业务有人办理过吗](https://www.v2ex.com/t/885477) ![](assets/new.png)  
 - [2022-10-09-国内寄一台手机去美国，比较靠谱的转运公司有哪些？](https://www.v2ex.com/t/885476) ![](assets/new.png)  
 - [2022-10-09-不知道-Free-Proxy-怎么用？-分享几个简单好用的免费-Proxy-Sites](https://www.v2ex.com/t/885474) ![](assets/new.png)  
-- [2022-10-09-PHP-的过来-帮看看](https://www.v2ex.com/t/885473) ![](assets/new.png)  
-- [2022-10-09-有办法通过-DNS-分流实现国内网站直连、国外网站走-clash-的-fake-ip-吗？](https://www.v2ex.com/t/885472) ![](assets/new.png)  
-- [2022-10-09-Apple-Watch-无法解锁-Mac-有人知道是为啥吗？](https://www.v2ex.com/t/885471) ![](assets/new.png)  
-- [2022-10-09-mstsc.exe-在后台运行是啥情况](https://www.v2ex.com/t/885469) ![](assets/new.png)  
-- [2022-10-09-Java-程序内存不足问题求解](https://www.v2ex.com/t/885468) ![](assets/new.png)  
-- [2022-10-09-请教：-win10+Edge+卡巴+自带输入法，逛淘宝，用网页旺旺后，就出现无法输入的情况（输入法失灵）。重新下载了第三方输入法，也是一样，无法输入任何字符。大家...](https://www.v2ex.com/t/885467) ![](assets/new.png)  
-- [2022-10-09-华为云拉新价，史上最低](https://www.v2ex.com/t/885466) ![](assets/new.png)  
-- [2022-10-09-不算是日经贴的日经贴，求问各位大佬是如何记录日常生活的？日记？](https://www.v2ex.com/t/885465) ![](assets/new.png)  
-- [2022-10-09-发现一个好玩的-wasm-应用](https://www.v2ex.com/t/885464) ![](assets/new.png)  
-- [2022-10-09-surge-for-mac-开车，上一个帖子显示无要点重新发下](https://www.v2ex.com/t/885463) ![](assets/new.png)  
-- [2022-10-09-不知道你们有没有发现大部分垃圾站的工人都是残疾人](https://www.v2ex.com/t/885462) ![](assets/new.png)  
-- [2022-10-09-男士保暖内衣￥-59-包邮-山姆撤柜-低价清仓](https://www.v2ex.com/t/885461) ![](assets/new.png)  
-- [2022-10-09-出差或旅游必须带点什么呢](https://www.v2ex.com/t/885460) ![](assets/new.png)  
-- [2022-10-09-TikTok-后端-新加坡-想润到新加坡的程序员可以看看这职位~~~](https://www.v2ex.com/t/885459) ![](assets/new.png)  
-- [2022-10-09-腾讯云阿里云华为云代理，可提供账号以及折扣优惠。](https://www.v2ex.com/t/885458) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-09 10:48:36，:rocket: 更新条数: +2018， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-09 11:14:30，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-10-09-精确至-1.2-公里分辨率的全球地球系统模拟](https://www.v2ex.com/t/885603) ![](assets/new.png)  
+- [2022-10-09-悬赏-2-个音乐会员-求哈啰单车的-App-内“扫一扫”的-URL-Scheme？谁能一战？](https://www.v2ex.com/t/885601) ![](assets/new.png)  
+- [2022-10-09-百度搜索栏输入框上下不居中（环境：-Chrome-106.0.5249.103）](https://www.v2ex.com/t/885600) ![](assets/new.png)  
 - [2022-10-09-mac-挂载-nfs-或者其他网络盘，本地盘一样使用](https://www.v2ex.com/t/885599) ![](assets/new.png)  
 - [2022-10-09-想开-Microsoft-365-订阅家庭版，有想组队的朋友吗？可以一起组队开一下，京东官网-289，-6-个人每人也就不到-49-一年。](https://www.v2ex.com/t/885598) ![](assets/new.png)  
 - [2022-10-09-关于-gitlab-的-ci-文件](https://www.v2ex.com/t/885597) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-10-09-寻找可以远程或南京本地的-PHP-/Go-方向的后端坑位](https://www.v2ex.com/t/885583) ![](assets/new.png)  
 - [2022-10-09-字节跳动抖音本地生活前端招聘-社招|不限年限](https://www.v2ex.com/t/885582) ![](assets/new.png)  
 - [2022-10-09-如何分辨闷屁与响屁？](https://www.v2ex.com/t/885581) ![](assets/new.png)  
-- [2022-10-09-今天把-ubuntu-升级到-22.04-了，记录一下-ubuntu22.04-上能免费使用以及支持跨平台的软件,以及安装过程中常见的问题，大家一起分一下自己用的软件，持续更新](https://www.v2ex.com/t/885579) ![](assets/new.png)  
-- [2022-10-09-（正经提问）如果企业想做内部知识库，你期望有怎样的激励机制来让员工有足够的动力去参与呢？需要考虑可执行性](https://www.v2ex.com/t/885578) ![](assets/new.png)  
-- [2022-10-09-最近打算座飞机或高铁去北京，都需要提前几天订票，如果因为疫情去不了了能退票吗？](https://www.v2ex.com/t/885577) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

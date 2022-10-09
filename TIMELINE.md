@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-09 15:49:28。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-10-09 16:21:32。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,8 @@
 </summary>
 
 
+- [【V2EX】2022-10-09-杭州电信宽带丢包严重](https://www.v2ex.com/t/885648) 
+- [【V2EX】2022-10-09-有功能类似火绒剑的开源软件吗？](https://www.v2ex.com/t/885647) 
 - [【V2EX】2022-10-09-网铃-更新-|-增加状态统计、OpenApi](https://www.v2ex.com/t/885643) 
 - [【V2EX】2022-10-09-Apple-Silicon-M-系处理器性能预测](https://www.v2ex.com/t/885642) 
 - [【V2EX】2022-10-09-有什么小成本的方案来阻止-ddos](https://www.v2ex.com/t/885640) 
@@ -102,9 +104,6 @@
 - [【V2EX】2022-10-09-悬赏-2-个音乐会员-求哈啰单车的-App-内“扫一扫”的-URL-Scheme？谁能一战？](https://www.v2ex.com/t/885601) 
 - [【V2EX】2022-10-09-百度搜索栏输入框上下不居中（环境：-Chrome-106.0.5249.103）](https://www.v2ex.com/t/885600) 
 - [【V2EX】2022-10-09-mac-挂载-nfs-或者其他网络盘，本地盘一样使用](https://www.v2ex.com/t/885599) 
-- [【V2EX】2022-10-09-想开-Microsoft-365-订阅家庭版，有想组队的朋友吗？可以一起组队开一下，京东官网-289，-6-个人每人也就不到-49-一年。](https://www.v2ex.com/t/885598) 
-- [【V2EX】2022-10-09-关于-gitlab-的-ci-文件](https://www.v2ex.com/t/885597) 
-- [【V2EX】2022-10-09-宽带出现故障时如何知道是路由器的问题还是运营商的问题?](https://www.v2ex.com/t/885596) 
 - [【技术头条】2022-10-09-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-09-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-09-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

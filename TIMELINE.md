@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-09 08:52:41。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-10-09 09:18:01。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,12 @@
 </summary>
 
 
+- [【V2EX】2022-10-09-魔都免费领养](https://www.v2ex.com/t/885570) 
+- [【V2EX】2022-10-09-水帖--大家有感到迷茫吗？工作不想工作，躺平不敢躺平。有远程的机会吗](https://www.v2ex.com/t/885569) 
+- [【V2EX】2022-10-09-返回客户端连接用的-IP-和端口号的网站，找了一下午都没找到](https://www.v2ex.com/t/885568) 
+- [【V2EX】2022-10-09-今年海南疫情防控抽风了没?](https://www.v2ex.com/t/885566) 
+- [【V2EX】2022-10-09-有哪些-2.5G-网管交换机推荐？](https://www.v2ex.com/t/885565) 
+- [【V2EX】2022-10-09-9to5mac-上有个新闻说-aw7-过热然后爆炸...](https://www.v2ex.com/t/885564) 
 - [【V2EX】2022-10-09-王垠民科化了，开始质疑质能方程了](https://www.v2ex.com/t/885563) 
 - [【V2EX】2022-10-09-光猫桥接之后其他-lan-口怎么上网求助](https://www.v2ex.com/t/885562) 
 - [【V2EX】2022-10-09-为什么在今日头条-app-上发一个转载的笑话会被扣-50-分，而发敏感信息的却没事？](https://www.v2ex.com/t/885561) 
@@ -96,11 +102,6 @@
 - [【V2EX】2022-10-09-北京大兴生物医药基地两室一厅出租-90-平-4300/月](https://www.v2ex.com/t/885527) 
 - [【V2EX】2022-10-09-微博-Emoji-怎么解析](https://www.v2ex.com/t/885525) 
 - [【V2EX】2022-10-09-如何不通过第三方软件让-Mac-实现-iPhone-iPad-Airplay-到多个外置音响一样的功能](https://www.v2ex.com/t/885521) 
-- [【V2EX】2022-10-09-求助-v-友，寻职业/实习机会（广州/佛山）](https://www.v2ex.com/t/885520) 
-- [【V2EX】2022-10-09-发现一个多-mysql-管理框架-可以研究下](https://www.v2ex.com/t/885519) 
-- [【V2EX】2022-10-09-macOS13-好像已经解决了-M1-上频繁读写硬盘的问题](https://www.v2ex.com/t/885517) 
-- [【V2EX】2022-10-09-各个论坛中，-Python-代码片段中的变量命名方式，为什么那么多千奇百怪的？](https://www.v2ex.com/t/885515) 
-- [【V2EX】2022-10-09-成都&字节跳动&前端-招聘高级前端开发工程师，急招，-HC-管够](https://www.v2ex.com/t/885514) 
 - [【技术头条】2022-10-09-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-09-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-09-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -131,8 +132,8 @@
 - [【开发者头条】2022-10-09-OneFlow-的大模型分片保存和加载策略](https://toutiao.io/k/6het6ih) 
 - [【开发者头条】2022-10-09-这些强大的-JS-操作符，你知道几个？](https://toutiao.io/k/5gle43p) 
 - [【开发者头条】2022-10-09-浅谈数据：数据领域需要掌握些什么？](https://toutiao.io/k/q6l4zbt) 
-- [【开发者头条】2022-10-09-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) 
 - [【开发者头条】2022-10-09-推荐-性能优化必备——火焰图](https://toutiao.io/k/azf7ub6) 
+- [【开发者头条】2022-10-09-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

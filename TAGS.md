@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-10-09 08:52:41。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-09 09:18:01。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -176,7 +176,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】港府回应一63岁患者死亡事件-暂无法确定与疫苗相关](https://m.caixin.com/m/2021-03-03/101670052.html)
 - [【张鑫旭-鑫空间-鑫生活】JS-replaceAll-和-matchAll-使用指南不指北](https://www.zhangxinxu.com/wordpress/2022/08/js-replaceall-matchall/)
 - [【V2EX】接口使用-POST-方法，但是参数既放在-url-又用了-body-json，意义是什么？](https://www.v2ex.com/t/885537)
-- [【V2EX】各个论坛中，-Python-代码片段中的变量命名方式，为什么那么多千奇百怪的？](https://www.v2ex.com/t/885515)
 - [【开发者头条】这些强大的-JS-操作符，你知道几个？](https://toutiao.io/k/5gle43p)
 - [......【查看更多】......](./details/tags/javascript.md)
 
@@ -345,7 +344,6 @@
 
 - [【V2EX】Web3.0-招聘技术-VP/CTO，工作地点：-home-base，英语口语流利，薪水（base70W，总包-100W，具体也可谈）](https://www.v2ex.com/t/885542)
 - [【V2EX】北京-招聘-Golang-服务端](https://www.v2ex.com/t/885535)
-- [【V2EX】成都&字节跳动&前端-招聘高级前端开发工程师，急招，-HC-管够](https://www.v2ex.com/t/885514)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

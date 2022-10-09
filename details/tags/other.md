@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-09 12:27:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-09 13:13:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1914,6 +1914,9 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-10-09-请问现在还有什么能免费注册的-PT-站吗?](https://www.v2ex.com/t/885622) 
+- [2022-10-09-apple-watch-通知格式设置](https://www.v2ex.com/t/885621) 
+- [2022-10-09-怎样把-iOS-相册中的壁纸和其他照片分开](https://www.v2ex.com/t/885620) 
 - [2022-10-09-目前科学上网电信最垃圾毫无疑问，那移动和联通到底哪个好？坐标江苏苏州](https://www.v2ex.com/t/885616) 
 - [2022-10-09-求推荐合适的手机套餐](https://www.v2ex.com/t/885613) 
 - [2022-10-09-为啥这两年找远程工作的越来越多？难道宇宙的尽头就是远程或者体制内？](https://www.v2ex.com/t/885612) 
@@ -1945,10 +1948,6 @@
 - [2022-10-09-无数的人，无穷的远方](https://www.v2ex.com/t/885575) 
 - [2022-10-09-十一节前出了个长差，结果忘了登录馒头，超-40-天把我账号封了](https://www.v2ex.com/t/885574) 
 - [2022-10-09-如果文件直接用-base64-编码传，会怎么样](https://www.v2ex.com/t/885573) 
-- [2022-10-09-求推荐-api-工具](https://www.v2ex.com/t/885571) 
-- [2022-10-09-魔都免费领养](https://www.v2ex.com/t/885570) 
-- [2022-10-09-水帖--大家有感到迷茫吗？工作不想工作，躺平不敢躺平。有远程的机会吗](https://www.v2ex.com/t/885569) 
-- [2022-10-09-返回客户端连接用的-IP-和端口号的网站，找了一下午都没找到](https://www.v2ex.com/t/885568) 
 - [2022-10-09-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-09-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-09-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

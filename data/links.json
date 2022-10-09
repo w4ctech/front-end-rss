@@ -9953,6 +9953,26 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "How to convert List of a POJO to Map<String,List> in Java Stream?",
+        "link": "https://www.v2ex.com/t/885503",
+        "date": "2022-10-09"
+      },
+      {
+        "title": "量子为什么纠缠？",
+        "link": "https://www.v2ex.com/t/885500",
+        "date": "2022-10-09"
+      },
+      {
+        "title": "小尺寸墨水屏推荐一下",
+        "link": "https://www.v2ex.com/t/885499",
+        "date": "2022-10-09"
+      },
+      {
+        "title": "Windows 最大化一个奇怪的 bug。",
+        "link": "https://www.v2ex.com/t/885498",
+        "date": "2022-10-09"
+      },
+      {
         "title": "14 pro 黑屏死机，不确定是不是批量的共性问题",
         "link": "https://www.v2ex.com/t/885497",
         "date": "2022-10-09"
@@ -10083,11 +10103,6 @@
         "date": "2022-10-09"
       },
       {
-        "title": "华为云拉新价，史上最低",
-        "link": "https://www.v2ex.com/t/885466",
-        "date": "2022-10-09"
-      },
-      {
         "title": "不算是日经贴的日经贴，求问各位大佬是如何记录日常生活的？日记？",
         "link": "https://www.v2ex.com/t/885465",
         "date": "2022-10-09"
@@ -10095,11 +10110,6 @@
       {
         "title": "发现一个好玩的 wasm 应用",
         "link": "https://www.v2ex.com/t/885464",
-        "date": "2022-10-09"
-      },
-      {
-        "title": "surge for mac 开车，上一个帖子显示无要点重新发下",
-        "link": "https://www.v2ex.com/t/885463",
         "date": "2022-10-09"
       },
       {
@@ -10145,31 +10155,6 @@
       {
         "title": "上海的国际精品网现在到底是啥 ip 地址？",
         "link": "https://www.v2ex.com/t/885454",
-        "date": "2022-10-09"
-      },
-      {
-        "title": "想做一个远程打印机，可以直接在手机上打印，有什么好的方案吗？",
-        "link": "https://www.v2ex.com/t/885453",
-        "date": "2022-10-09"
-      },
-      {
-        "title": "我以为自己不在乎单身一辈子",
-        "link": "https://www.v2ex.com/t/885452",
-        "date": "2022-10-09"
-      },
-      {
-        "title": "没有孩子的老年人最终会选择安乐吗？",
-        "link": "https://www.v2ex.com/t/885451",
-        "date": "2022-10-09"
-      },
-      {
-        "title": "给做数据的同学们分享一下：数据平台数据接入实践",
-        "link": "https://www.v2ex.com/t/885450",
-        "date": "2022-10-09"
-      },
-      {
-        "title": "求性价比 VPN，奈飞油管不卡的",
-        "link": "https://www.v2ex.com/t/885448",
         "date": "2022-10-09"
       }
     ]

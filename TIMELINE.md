@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-09 05:00:48。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-10-09 05:41:28。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,10 @@
 </summary>
 
 
+- [【V2EX】2022-10-09-How-to-convert-List-of-a-POJO-to-Map<String,List>-in-Java-Stream?](https://www.v2ex.com/t/885503) 
+- [【V2EX】2022-10-09-量子为什么纠缠？](https://www.v2ex.com/t/885500) 
+- [【V2EX】2022-10-09-小尺寸墨水屏推荐一下](https://www.v2ex.com/t/885499) 
+- [【V2EX】2022-10-09-Windows-最大化一个奇怪的-bug。](https://www.v2ex.com/t/885498) 
 - [【V2EX】2022-10-09-14-pro-黑屏死机，不确定是不是批量的共性问题](https://www.v2ex.com/t/885497) 
 - [【V2EX】2022-10-09-社死！在公司大群不小心发错消息，说了句-“我也不想上班了”](https://www.v2ex.com/t/885496) 
 - [【V2EX】2022-10-09-用-paypal-续费-namecheap-的域名一直提示“商家需要您的账单地址以完成此付款”](https://www.v2ex.com/t/885495) 
@@ -94,10 +98,8 @@
 - [【V2EX】2022-10-09-mstsc.exe-在后台运行是啥情况](https://www.v2ex.com/t/885469) 
 - [【V2EX】2022-10-09-Java-程序内存不足问题求解](https://www.v2ex.com/t/885468) 
 - [【V2EX】2022-10-09-请教：-win10+Edge+卡巴+自带输入法，逛淘宝，用网页旺旺后，就出现无法输入的情况（输入法失灵）。重新下载了第三方输入法，也是一样，无法输入任何字符。大家...](https://www.v2ex.com/t/885467) 
-- [【V2EX】2022-10-09-华为云拉新价，史上最低](https://www.v2ex.com/t/885466) 
 - [【V2EX】2022-10-09-不算是日经贴的日经贴，求问各位大佬是如何记录日常生活的？日记？](https://www.v2ex.com/t/885465) 
 - [【V2EX】2022-10-09-发现一个好玩的-wasm-应用](https://www.v2ex.com/t/885464) 
-- [【V2EX】2022-10-09-surge-for-mac-开车，上一个帖子显示无要点重新发下](https://www.v2ex.com/t/885463) 
 - [【V2EX】2022-10-09-不知道你们有没有发现大部分垃圾站的工人都是残疾人](https://www.v2ex.com/t/885462) 
 - [【V2EX】2022-10-09-男士保暖内衣￥-59-包邮-山姆撤柜-低价清仓](https://www.v2ex.com/t/885461) 
 - [【V2EX】2022-10-09-出差或旅游必须带点什么呢](https://www.v2ex.com/t/885460) 
@@ -107,11 +109,6 @@
 - [【V2EX】2022-10-09-用-TypeScript-写了一个-Mock-Protobuf-的-CLI-工具](https://www.v2ex.com/t/885456) 
 - [【V2EX】2022-10-09-新的-macOS-qq-体验版终于有黑暗模式了](https://www.v2ex.com/t/885455) 
 - [【V2EX】2022-10-09-上海的国际精品网现在到底是啥-ip-地址？](https://www.v2ex.com/t/885454) 
-- [【V2EX】2022-10-09-想做一个远程打印机，可以直接在手机上打印，有什么好的方案吗？](https://www.v2ex.com/t/885453) 
-- [【V2EX】2022-10-09-我以为自己不在乎单身一辈子](https://www.v2ex.com/t/885452) 
-- [【V2EX】2022-10-09-没有孩子的老年人最终会选择安乐吗？](https://www.v2ex.com/t/885451) 
-- [【V2EX】2022-10-09-给做数据的同学们分享一下：数据平台数据接入实践](https://www.v2ex.com/t/885450) 
-- [【V2EX】2022-10-09-求性价比-VPN，奈飞油管不卡的](https://www.v2ex.com/t/885448) 
 - [【技术头条】2022-10-09-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-09-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-09-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

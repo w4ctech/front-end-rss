@@ -9953,6 +9953,26 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "大佬们 你们说 为啥计算机可以组装 操作系统可以自己随便安装 为啥自动驾驶汽车不能自己组装 操作系统不能自己随便安装 我感觉以后的汽车也会像计算机一样 可以...",
+        "link": "https://www.v2ex.com/t/885930",
+        "date": "2022-10-10"
+      },
+      {
+        "title": "发现自己有个问题，不知大小",
+        "link": "https://www.v2ex.com/t/885929",
+        "date": "2022-10-10"
+      },
+      {
+        "title": "raindrop.io 的退款啥时候可以看到？",
+        "link": "https://www.v2ex.com/t/885928",
+        "date": "2022-10-10"
+      },
+      {
+        "title": "分享一个小工具，方便经常性地备份重要的小数据到邮箱",
+        "link": "https://www.v2ex.com/t/885927",
+        "date": "2022-10-10"
+      },
+      {
         "title": "安卓上，求一个可以用 ipv6 连接远程 SMB 的 视频播放器",
         "link": "https://www.v2ex.com/t/885925",
         "date": "2022-10-10"
@@ -10136,16 +10156,6 @@
         "title": "有没有类似过去学习机里的虚拟实验室软件",
         "link": "https://www.v2ex.com/t/885881",
         "date": "2022-10-10"
-      },
-      {
-        "title": "已经将微信手机号换绑到 +86",
-        "link": "https://www.v2ex.com/t/885879",
-        "date": "2022-10-10"
-      },
-      {
-        "title": "In case of your proxy block 22 port",
-        "link": "https://www.v2ex.com/t/885877",
-        "date": "2022-10-10"
       }
     ]
   },
@@ -10292,13 +10302,13 @@
         "date": "2022-10-10"
       },
       {
-        "title": "基于 tauri 打造的 HTTP API 客户端工具-CyberAPI",
-        "link": "https://toutiao.io/k/byc6nnw",
+        "title": "分布式存储在 B站的应用实践",
+        "link": "https://toutiao.io/k/thuvma5",
         "date": "2022-10-10"
       },
       {
-        "title": "分布式存储在 B站的应用实践",
-        "link": "https://toutiao.io/k/thuvma5",
+        "title": "基于 tauri 打造的 HTTP API 客户端工具-CyberAPI",
+        "link": "https://toutiao.io/k/byc6nnw",
         "date": "2022-10-10"
       },
       {
@@ -10349,11 +10359,6 @@
       {
         "title": "Lath(纯前端容器)打造页面间的无缝平滑连接体验",
         "link": "https://toutiao.io/k/77gf1ym",
-        "date": "2022-10-10"
-      },
-      {
-        "title": "[推荐] 分享16个我总结的思维模型（程序员必读，受用终身）",
-        "link": "https://toutiao.io/k/f7r13v5",
         "date": "2022-10-10"
       },
       {

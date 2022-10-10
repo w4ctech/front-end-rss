@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-10 15:53:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-10 16:24:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1914,6 +1914,10 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-10-10-大佬们-你们说-为啥计算机可以组装-操作系统可以自己随便安装-为啥自动驾驶汽车不能自己组装-操作系统不能自己随便安装-我感觉以后的汽车也会像计算机一样-可以...](https://www.v2ex.com/t/885930) 
+- [2022-10-10-发现自己有个问题，不知大小](https://www.v2ex.com/t/885929) 
+- [2022-10-10-raindrop.io-的退款啥时候可以看到？](https://www.v2ex.com/t/885928) 
+- [2022-10-10-分享一个小工具，方便经常性地备份重要的小数据到邮箱](https://www.v2ex.com/t/885927) 
 - [2022-10-10-程序员一枚，平时忙工作偶尔加班呢，都有什么途径怎么认识女性](https://www.v2ex.com/t/885924) 
 - [2022-10-10-体验过不想上班的生活，就真的不想上班了](https://www.v2ex.com/t/885923) 
 - [2022-10-10-车子-6-年了，打算四个胎全换了，求推荐轮胎](https://www.v2ex.com/t/885921) 
@@ -1948,8 +1952,6 @@
 - [2022-10-10-有-B-站的小伙伴吗，-web-端-扫码登录功能似乎不可用](https://www.v2ex.com/t/885887) 
 - [2022-10-10-伯南克获得诺贝尔经济学奖。-QE-QQE](https://www.v2ex.com/t/885882) 
 - [2022-10-10-有没有类似过去学习机里的虚拟实验室软件](https://www.v2ex.com/t/885881) 
-- [2022-10-10-已经将微信手机号换绑到-+86](https://www.v2ex.com/t/885879) 
-- [2022-10-10-In-case-of-your-proxy-block-22-port](https://www.v2ex.com/t/885877) 
 - [2022-10-10-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-10-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-10-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1981,4 +1983,3 @@
 - [2022-10-10-译文赏析：大有学“问”](https://toutiao.io/k/6ymtgx1) 
 - [2022-10-10-深入理解-Go-CPU-profiler-内幕](https://toutiao.io/k/f4tigsp) 
 - [2022-10-10-Lath纯前端容器打造页面间的无缝平滑连接体验](https://toutiao.io/k/77gf1ym) 
-- [2022-10-10-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) 

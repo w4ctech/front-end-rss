@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-10 15:53:10，:rocket: 更新条数: +2025， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-10 16:24:14，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-10-10-大佬们-你们说-为啥计算机可以组装-操作系统可以自己随便安装-为啥自动驾驶汽车不能自己组装-操作系统不能自己随便安装-我感觉以后的汽车也会像计算机一样-可以...](https://www.v2ex.com/t/885930) ![](assets/new.png)  
+- [2022-10-10-发现自己有个问题，不知大小](https://www.v2ex.com/t/885929) ![](assets/new.png)  
+- [2022-10-10-raindrop.io-的退款啥时候可以看到？](https://www.v2ex.com/t/885928) ![](assets/new.png)  
+- [2022-10-10-分享一个小工具，方便经常性地备份重要的小数据到邮箱](https://www.v2ex.com/t/885927) ![](assets/new.png)  
 - [2022-10-10-安卓上，求一个可以用-ipv6-连接远程-SMB-的-视频播放器](https://www.v2ex.com/t/885925) ![](assets/new.png)  
 - [2022-10-10-程序员一枚，平时忙工作偶尔加班呢，都有什么途径怎么认识女性](https://www.v2ex.com/t/885924) ![](assets/new.png)  
 - [2022-10-10-体验过不想上班的生活，就真的不想上班了](https://www.v2ex.com/t/885923) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-10-10-20221010-午夜俱乐部](https://www.v2ex.com/t/885911) ![](assets/new.png)  
 - [2022-10-10-YouTube-在开通了会员的信息流里也会插入广告了..](https://www.v2ex.com/t/885910) ![](assets/new.png)  
 - [2022-10-10-通过无线随航-pad-作为第二块显示屏经常出现无法操作的情况](https://www.v2ex.com/t/885909) ![](assets/new.png)  
-- [2022-10-10-求推荐心理咨询的医院](https://www.v2ex.com/t/885908) ![](assets/new.png)  
-- [2022-10-10-产品创意：一种信息可回调的聊天-APP](https://www.v2ex.com/t/885907) ![](assets/new.png)  
-- [2022-10-10-外包和国企，该怎么选？](https://www.v2ex.com/t/885906) ![](assets/new.png)  
-- [2022-10-10-Co-Founder-创始人互助邀请函](https://www.v2ex.com/t/885905) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -559,8 +559,8 @@
 - [2022-10-10-开源-2-年半，除了性能优化我们啥也没做](https://toutiao.io/k/swk2aqc) ![](assets/new.png)  
 - [2022-10-10-一文就想搞懂-Sentinel-限流熔断？带你入个门](https://toutiao.io/k/j600vjd) ![](assets/new.png)  
 - [2022-10-10-数据仓库指标体系搭建实战](https://toutiao.io/k/713jbk6) ![](assets/new.png)  
-- [2022-10-10-基于-tauri-打造的-HTTP-API-客户端工具-CyberAPI](https://toutiao.io/k/byc6nnw) ![](assets/new.png)  
 - [2022-10-10-分布式存储在-B站的应用实践](https://toutiao.io/k/thuvma5) ![](assets/new.png)  
+- [2022-10-10-基于-tauri-打造的-HTTP-API-客户端工具-CyberAPI](https://toutiao.io/k/byc6nnw) ![](assets/new.png)  
 - [2022-10-10-微前端方案-qiankun-只是更完善的-single-spa](https://toutiao.io/k/2jxgzam) ![](assets/new.png)  
 - [2022-10-10-Go-Slice-详解](https://toutiao.io/k/c0cl3uk) ![](assets/new.png)  
 - [2022-10-10-为什么不建议使用阿里规范，而用-Google-Guava？](https://toutiao.io/k/eydzaa5) ![](assets/new.png)  
@@ -571,7 +571,6 @@
 - [2022-10-10-深入理解-Go-CPU-profiler-内幕](https://toutiao.io/k/f4tigsp) ![](assets/new.png)  
 - [2022-10-10-换工作？试试远程工作「GitHub-热点速览-v.22.40」](https://toutiao.io/k/imao05g) ![](assets/new.png)  
 - [2022-10-10-Lath纯前端容器打造页面间的无缝平滑连接体验](https://toutiao.io/k/77gf1ym) ![](assets/new.png)  
-- [2022-10-10-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) ![](assets/new.png)  
 - [2022-10-10-推荐-性能优化必备——火焰图](https://toutiao.io/k/azf7ub6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

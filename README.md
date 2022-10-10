@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-10 21:45:13，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-10 22:17:47，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,13 +491,11 @@
 </summary>
 
 
+- [2022-10-10-在硬路由上-fakeip-与-ipv6-真是完美组合](https://www.v2ex.com/t/885940) ![](assets/new.png)  
 - [2022-10-10-没写过-PHP-，临时需要，有-V-友能帮忙把这-20-行-JavaScript-移植到-PHP-吗？](https://www.v2ex.com/t/885938) ![](assets/new.png)  
-- [2022-10-10-大佬们你们说-自动驾驶汽车-算不算是长着四个轮子的计算机呀-这汽车不能把它当成汽车-得把它当成长着轮子的计算机来看待-有木有-要是台式计算机-加四个轮子-家用...](https://www.v2ex.com/t/885937) ![](assets/new.png)  
 - [2022-10-10-求推荐一个可以在小组件看运营商套餐的解决方案。](https://www.v2ex.com/t/885935) ![](assets/new.png)  
-- [2022-10-10-照这样看-以后的飞机✈️-火箭🚀-自己的通讯卫星🛰️-宇宙飞船-以及核动力都是可以自己随意组装-可以自己随意安装-可以随意的飞向其他星球-随意穿越时空-科...](https://www.v2ex.com/t/885933) ![](assets/new.png)  
 - [2022-10-10-做一次小型团体匿名心理疏导在线会吧，不知道谁有兴趣？](https://www.v2ex.com/t/885932) ![](assets/new.png)  
 - [2022-10-10-试团-whoosh-清洁剂](https://www.v2ex.com/t/885931) ![](assets/new.png)  
-- [2022-10-10-大佬们-你们说-为啥计算机可以组装-操作系统可以自己随便安装-为啥自动驾驶汽车不能自己组装-操作系统不能自己随便安装-我感觉以后的汽车也会像计算机一样-可以...](https://www.v2ex.com/t/885930) ![](assets/new.png)  
 - [2022-10-10-发现自己有个问题，不知大小](https://www.v2ex.com/t/885929) ![](assets/new.png)  
 - [2022-10-10-raindrop.io-的退款啥时候可以看到？](https://www.v2ex.com/t/885928) ![](assets/new.png)  
 - [2022-10-10-分享一个小工具，方便经常性地备份重要的小数据到邮箱](https://www.v2ex.com/t/885927) ![](assets/new.png)  
@@ -511,6 +509,8 @@
 - [2022-10-10-自学-Rust](https://www.v2ex.com/t/885917) ![](assets/new.png)  
 - [2022-10-10-PayPal-似乎收紧了手机注册的限制](https://www.v2ex.com/t/885916) ![](assets/new.png)  
 - [2022-10-10-MacBook-静电对寿命影响大吗](https://www.v2ex.com/t/885915) ![](assets/new.png)  
+- [2022-10-10-个人开发者-开发-app-注册这个功能-，需要用到短信推送](https://www.v2ex.com/t/885914) ![](assets/new.png)  
+- [2022-10-10-南京-C++-开发-offer-选择，好哥哥们能否指点一二](https://www.v2ex.com/t/885913) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-10 23:18:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-10 23:51:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -7,5 +7,6 @@
 
 
 
-- [2022-10-10-开源-2-年半，除了性能优化我们啥也没做](https://toutiao.io/k/swk2aqc) 
+- [2022-10-10-OpenKruise-v1.3：新增自定义-Pod-Probe-探针能力与大规模集群性能显著提升](https://toutiao.io/k/g2flkiu) 
+- [2022-10-10-CuAssembler-开源-|-探求-NVIDIA-GPU-极限性能的利器](https://toutiao.io/k/18ik1gr) 
 - [2022-10-10-推荐-性能优化必备——火焰图](https://toutiao.io/k/azf7ub6) 

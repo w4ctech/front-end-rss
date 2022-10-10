@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-10 13:57:10，:rocket: 更新条数: +2023， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-10 14:38:35，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,13 @@
 </summary>
 
 
+- [2022-10-10-通过无线随航-pad-作为第二块显示屏经常出现无法操作的情况](https://www.v2ex.com/t/885909) ![](assets/new.png)  
+- [2022-10-10-求推荐心理咨询的医院](https://www.v2ex.com/t/885908) ![](assets/new.png)  
+- [2022-10-10-产品创意：一种信息可回调的聊天-APP](https://www.v2ex.com/t/885907) ![](assets/new.png)  
+- [2022-10-10-外包和国企，该怎么选？](https://www.v2ex.com/t/885906) ![](assets/new.png)  
+- [2022-10-10-Co-Founder-创始人互助邀请函](https://www.v2ex.com/t/885905) ![](assets/new.png)  
+- [2022-10-10-求教-defi-和-nft-以及-web3.0-如何开始技术层面的学习？](https://www.v2ex.com/t/885904) ![](assets/new.png)  
+- [2022-10-10-计算机的操作系统开源了-自动驾驶汽车的操作系统也会开源-你们说会不会-大佬们-我们是不是应该搞一个自动驾驶的开源的操作系统](https://www.v2ex.com/t/885903) ![](assets/new.png)  
 - [2022-10-10-如何对比两个-list-的差异](https://www.v2ex.com/t/885900) ![](assets/new.png)  
 - [2022-10-10-有推荐的-react-新手项目吗？](https://www.v2ex.com/t/885898) ![](assets/new.png)  
 - [2022-10-10-ocsp.trust-provider.cn-似乎返回错误的-OCSP-response,-被部分软件放入-blocklist](https://www.v2ex.com/t/885897) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-10-10-App-Cleaner-&-Uninstaller-只能买断一个版本吗](https://www.v2ex.com/t/885888) ![](assets/new.png)  
 - [2022-10-10-有-B-站的小伙伴吗，-web-端-扫码登录功能似乎不可用](https://www.v2ex.com/t/885887) ![](assets/new.png)  
 - [2022-10-10-k8s-滚动更新前端-vue-项目，页面刷新白屏。请教大佬](https://www.v2ex.com/t/885885) ![](assets/new.png)  
-- [2022-10-10-舍友国庆回趟家，我被隔离了](https://www.v2ex.com/t/885884) ![](assets/new.png)  
-- [2022-10-10-伯南克获得诺贝尔经济学奖。-QE-QQE](https://www.v2ex.com/t/885882) ![](assets/new.png)  
-- [2022-10-10-有没有类似过去学习机里的虚拟实验室软件](https://www.v2ex.com/t/885881) ![](assets/new.png)  
-- [2022-10-10-已经将微信手机号换绑到-+86](https://www.v2ex.com/t/885879) ![](assets/new.png)  
-- [2022-10-10-In-case-of-your-proxy-block-22-port](https://www.v2ex.com/t/885877) ![](assets/new.png)  
-- [2022-10-10-mac-mini-m2-请问什么时候上市](https://www.v2ex.com/t/885876) ![](assets/new.png)  
-- [2022-10-10-下载所选更新时发生错误。请检查您的互联网连接并再试一次。](https://www.v2ex.com/t/885875) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -558,21 +558,21 @@
 - [2022-10-10-Http-2.0-一篇就够了](https://toutiao.io/k/tpj25u1) ![](assets/new.png)  
 - [2022-10-10-开源-2-年半，除了性能优化我们啥也没做](https://toutiao.io/k/swk2aqc) ![](assets/new.png)  
 - [2022-10-10-一文就想搞懂-Sentinel-限流熔断？带你入个门](https://toutiao.io/k/j600vjd) ![](assets/new.png)  
+- [2022-10-10-数据仓库指标体系搭建实战](https://toutiao.io/k/713jbk6) ![](assets/new.png)  
 - [2022-10-10-基于-tauri-打造的-HTTP-API-客户端工具-CyberAPI](https://toutiao.io/k/byc6nnw) ![](assets/new.png)  
 - [2022-10-10-分布式存储在-B站的应用实践](https://toutiao.io/k/thuvma5) ![](assets/new.png)  
-- [2022-10-10-数据仓库指标体系搭建实战](https://toutiao.io/k/713jbk6) ![](assets/new.png)  
 - [2022-10-10-微前端方案-qiankun-只是更完善的-single-spa](https://toutiao.io/k/2jxgzam) ![](assets/new.png)  
 - [2022-10-10-Go-Slice-详解](https://toutiao.io/k/c0cl3uk) ![](assets/new.png)  
 - [2022-10-10-为什么不建议使用阿里规范，而用-Google-Guava？](https://toutiao.io/k/eydzaa5) ![](assets/new.png)  
 - [2022-10-10-一文搞懂-ES6-的-Map，Map-和-Object-如何选择](https://toutiao.io/k/rz74bdm) ![](assets/new.png)  
+- [2022-10-10-深刻理解-|-以通信方式共享内存,不要以共享内存方式通信](https://toutiao.io/k/ib5b2sa) ![](assets/new.png)  
 - [2022-10-10-JDK-19-/-Java-19正式GA](https://toutiao.io/k/yqbarpq) ![](assets/new.png)  
 - [2022-10-10-译文赏析：大有学“问”](https://toutiao.io/k/6ymtgx1) ![](assets/new.png)  
-- [2022-10-10-深刻理解-|-以通信方式共享内存,不要以共享内存方式通信](https://toutiao.io/k/ib5b2sa) ![](assets/new.png)  
 - [2022-10-10-深入理解-Go-CPU-profiler-内幕](https://toutiao.io/k/f4tigsp) ![](assets/new.png)  
 - [2022-10-10-换工作？试试远程工作「GitHub-热点速览-v.22.40」](https://toutiao.io/k/imao05g) ![](assets/new.png)  
 - [2022-10-10-Lath纯前端容器打造页面间的无缝平滑连接体验](https://toutiao.io/k/77gf1ym) ![](assets/new.png)  
-- [2022-10-10-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) ![](assets/new.png)  
 - [2022-10-10-推荐-性能优化必备——火焰图](https://toutiao.io/k/azf7ub6) ![](assets/new.png)  
+- [2022-10-10-推荐-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/f7r13v5) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

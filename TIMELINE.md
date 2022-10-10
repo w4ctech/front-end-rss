@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-10 15:21:54。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-10-10 15:53:10。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,11 @@
 </summary>
 
 
+- [【V2EX】2022-10-10-安卓上，求一个可以用-ipv6-连接远程-SMB-的-视频播放器](https://www.v2ex.com/t/885925) 
+- [【V2EX】2022-10-10-程序员一枚，平时忙工作偶尔加班呢，都有什么途径怎么认识女性](https://www.v2ex.com/t/885924) 
+- [【V2EX】2022-10-10-体验过不想上班的生活，就真的不想上班了](https://www.v2ex.com/t/885923) 
+- [【V2EX】2022-10-10-车子-6-年了，打算四个胎全换了，求推荐轮胎](https://www.v2ex.com/t/885921) 
+- [【V2EX】2022-10-10-app-store-登录账号自动下载应用](https://www.v2ex.com/t/885920) 
 - [【V2EX】2022-10-10-安卓上，-mx-player-vlc-哪个可以用-ipv6-链接-smb？](https://www.v2ex.com/t/885919) 
 - [【V2EX】2022-10-10-ERR_CONNECTION_RESET-问题排查咨询](https://www.v2ex.com/t/885918) 
 - [【V2EX】2022-10-10-自学-Rust](https://www.v2ex.com/t/885917) 
@@ -102,10 +107,6 @@
 - [【V2EX】2022-10-10-有没有类似过去学习机里的虚拟实验室软件](https://www.v2ex.com/t/885881) 
 - [【V2EX】2022-10-10-已经将微信手机号换绑到-+86](https://www.v2ex.com/t/885879) 
 - [【V2EX】2022-10-10-In-case-of-your-proxy-block-22-port](https://www.v2ex.com/t/885877) 
-- [【V2EX】2022-10-10-mac-mini-m2-请问什么时候上市](https://www.v2ex.com/t/885876) 
-- [【V2EX】2022-10-10-下载所选更新时发生错误。请检查您的互联网连接并再试一次。](https://www.v2ex.com/t/885875) 
-- [【V2EX】2022-10-10-关于-AirPods-Pro2-使用问题](https://www.v2ex.com/t/885873) 
-- [【V2EX】2022-10-10-哪些地区运营商的-b-站会卡？](https://www.v2ex.com/t/885872) 
 - [【技术头条】2022-10-10-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-10-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-10-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

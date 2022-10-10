@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-10 16:24:14。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-10-10 17:11:26。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,10 @@
 </summary>
 
 
+- [【V2EX】2022-10-10-求推荐一个可以在小组件看运营商套餐的解决方案。](https://www.v2ex.com/t/885935) 
+- [【V2EX】2022-10-10-照这样看-以后的飞机✈️-火箭🚀-自己的通讯卫星🛰️-宇宙飞船-以及核动力都是可以自己随意组装-可以自己随意安装-可以随意的飞向其他星球-随意穿越时空-科...](https://www.v2ex.com/t/885933) 
+- [【V2EX】2022-10-10-做一次小型团体匿名心理疏导在线会吧，不知道谁有兴趣？](https://www.v2ex.com/t/885932) 
+- [【V2EX】2022-10-10-试团-whoosh-清洁剂](https://www.v2ex.com/t/885931) 
 - [【V2EX】2022-10-10-大佬们-你们说-为啥计算机可以组装-操作系统可以自己随便安装-为啥自动驾驶汽车不能自己组装-操作系统不能自己随便安装-我感觉以后的汽车也会像计算机一样-可以...](https://www.v2ex.com/t/885930) 
 - [【V2EX】2022-10-10-发现自己有个问题，不知大小](https://www.v2ex.com/t/885929) 
 - [【V2EX】2022-10-10-raindrop.io-的退款啥时候可以看到？](https://www.v2ex.com/t/885928) 
@@ -106,9 +110,6 @@
 - [【V2EX】2022-10-10-上海运营商如何选择](https://www.v2ex.com/t/885889) 
 - [【V2EX】2022-10-10-App-Cleaner-&-Uninstaller-只能买断一个版本吗](https://www.v2ex.com/t/885888) 
 - [【V2EX】2022-10-10-有-B-站的小伙伴吗，-web-端-扫码登录功能似乎不可用](https://www.v2ex.com/t/885887) 
-- [【V2EX】2022-10-10-k8s-滚动更新前端-vue-项目，页面刷新白屏。请教大佬](https://www.v2ex.com/t/885885) 
-- [【V2EX】2022-10-10-伯南克获得诺贝尔经济学奖。-QE-QQE](https://www.v2ex.com/t/885882) 
-- [【V2EX】2022-10-10-有没有类似过去学习机里的虚拟实验室软件](https://www.v2ex.com/t/885881) 
 - [【技术头条】2022-10-10-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-10-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-10-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -137,8 +138,8 @@
 - [【开发者头条】2022-10-10-数据仓库指标体系搭建实战](https://toutiao.io/k/713jbk6) 
 - [【开发者头条】2022-10-10-分布式存储在-B站的应用实践](https://toutiao.io/k/thuvma5) 
 - [【开发者头条】2022-10-10-基于-tauri-打造的-HTTP-API-客户端工具-CyberAPI](https://toutiao.io/k/byc6nnw) 
-- [【开发者头条】2022-10-10-微前端方案-qiankun-只是更完善的-single-spa](https://toutiao.io/k/2jxgzam) 
 - [【开发者头条】2022-10-10-Go-Slice-详解](https://toutiao.io/k/c0cl3uk) 
+- [【开发者头条】2022-10-10-微前端方案-qiankun-只是更完善的-single-spa](https://toutiao.io/k/2jxgzam) 
 - [【开发者头条】2022-10-10-为什么不建议使用阿里规范，而用-Google-Guava？](https://toutiao.io/k/eydzaa5) 
 - [【开发者头条】2022-10-10-一文搞懂-ES6-的-Map，Map-和-Object-如何选择](https://toutiao.io/k/rz74bdm) 
 - [【开发者头条】2022-10-10-深刻理解-|-以通信方式共享内存,不要以共享内存方式通信](https://toutiao.io/k/ib5b2sa) 

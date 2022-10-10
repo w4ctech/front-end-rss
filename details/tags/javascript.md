@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-10 18:01:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-10 18:39:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -14,5 +14,6 @@
 - [2021-03-08-香港再现数例疫苗接种严重异常事件-专家初判与疫苗无关](https://china.caixin.com/m/2021-03-08/101672619.html) 
 - [2021-03-03-港府回应一63岁患者死亡事件-暂无法确定与疫苗相关](https://m.caixin.com/m/2021-03-03/101670052.html) 
 - [2022-08-21-JS-replaceAll-和-matchAll-使用指南不指北](https://www.zhangxinxu.com/wordpress/2022/08/js-replaceall-matchall/) 
+- [2022-10-10-没写过-PHP-，临时需要，有-V-友能帮忙把这-20-行-JavaScript-移植到-PHP-吗？](https://www.v2ex.com/t/885938) 
 - [2022-10-10-求推荐一个可以在小组件看运营商套餐的解决方案。](https://www.v2ex.com/t/885935) 
 - [2022-10-10-一文搞懂-ES6-的-Map，Map-和-Object-如何选择](https://toutiao.io/k/rz74bdm) 

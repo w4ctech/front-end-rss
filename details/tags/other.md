@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-10 18:01:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-10 18:39:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1952,7 +1952,6 @@
 - [2022-10-10-人老了，取个怀旧一点的网名](https://www.v2ex.com/t/885892) 
 - [2022-10-10-GoFrame-v2.2.0-发布，企业级-Golang-开发框架](https://www.v2ex.com/t/885890) 
 - [2022-10-10-上海运营商如何选择](https://www.v2ex.com/t/885889) 
-- [2022-10-10-App-Cleaner-&-Uninstaller-只能买断一个版本吗](https://www.v2ex.com/t/885888) 
 - [2022-10-10-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-10-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-10-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

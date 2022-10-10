@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-10 17:11:26。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-10-10 18:01:58。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,7 @@
 </summary>
 
 
+- [【V2EX】2022-10-10-大佬们你们说-自动驾驶汽车-算不算是长着四个轮子的计算机呀-这汽车不能把它当成汽车-得把它当成长着轮子的计算机来看待-有木有-要是台式计算机-加四个轮子-家用...](https://www.v2ex.com/t/885937) 
 - [【V2EX】2022-10-10-求推荐一个可以在小组件看运营商套餐的解决方案。](https://www.v2ex.com/t/885935) 
 - [【V2EX】2022-10-10-照这样看-以后的飞机✈️-火箭🚀-自己的通讯卫星🛰️-宇宙飞船-以及核动力都是可以自己随意组装-可以自己随意安装-可以随意的飞向其他星球-随意穿越时空-科...](https://www.v2ex.com/t/885933) 
 - [【V2EX】2022-10-10-做一次小型团体匿名心理疏导在线会吧，不知道谁有兴趣？](https://www.v2ex.com/t/885932) 
@@ -109,7 +110,6 @@
 - [【V2EX】2022-10-10-GoFrame-v2.2.0-发布，企业级-Golang-开发框架](https://www.v2ex.com/t/885890) 
 - [【V2EX】2022-10-10-上海运营商如何选择](https://www.v2ex.com/t/885889) 
 - [【V2EX】2022-10-10-App-Cleaner-&-Uninstaller-只能买断一个版本吗](https://www.v2ex.com/t/885888) 
-- [【V2EX】2022-10-10-有-B-站的小伙伴吗，-web-端-扫码登录功能似乎不可用](https://www.v2ex.com/t/885887) 
 - [【技术头条】2022-10-10-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-10-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-10-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

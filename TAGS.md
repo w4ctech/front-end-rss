@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-10-11 14:55:49。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-11 15:20:02。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -154,7 +154,6 @@
 
 
 
-- [【V2EX】为什么腾讯游戏安全组件会疯狂读取电脑其他软件相关信息](https://www.v2ex.com/t/886156)
 - [【开发者头条】9-月全球-8-款手游月收入首破-3000-万，MMO、放置游戏发威](https://toutiao.io/k/tokbxmi)
 - [......【查看更多】......](./details/tags/dev-game.md)
 
@@ -279,6 +278,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】腺病毒新冠疫苗引安全忧虑-康希诺称未发现血栓病例](https://m.caixin.com/m/2021-04-14/101691086.html)
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
+- [【V2EX】开发了一个-Chrome-便利贴的插件，欢迎大家提意见](https://www.v2ex.com/t/886203)
 - [【V2EX】请问如何优雅的将-PostgreSQL-数据同步到-Oracle？](https://www.v2ex.com/t/886190)
 - [......【查看更多】......](./details/tags/browser.md)
 
@@ -348,7 +348,6 @@
 
 
 
-- [【V2EX】上海—坚果云-研发效能工具软件——前后端、安卓、IOS、客户端（国庆后面试约起来~）](https://www.v2ex.com/t/886154)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

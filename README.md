@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-11 09:22:38，:rocket: 更新条数: +2018， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-11 09:51:35，:rocket: 更新条数: +2018， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,16 @@
 </summary>
 
 
+- [2022-10-11-马上双十一了，各位有-4k-投影仪推荐么？](https://www.v2ex.com/t/886145) ![](assets/new.png)  
+- [2022-10-11-交接工作需要注意什么？](https://www.v2ex.com/t/886144) ![](assets/new.png)  
+- [2022-10-11-试用了几个国内的表格-OCR-功能，大厂并不优秀啊](https://www.v2ex.com/t/886143) ![](assets/new.png)  
+- [2022-10-11-web3-高级后端-golang-工程师-base：北京望京南](https://www.v2ex.com/t/886141) ![](assets/new.png)  
+- [2022-10-11-GitHub-是不是出-bug-了，今天收到了几封历史-issue-的邮件](https://www.v2ex.com/t/886140) ![](assets/new.png)  
+- [2022-10-11-求问各位大佬，有没有人知道超微-x10dru-i+服务器的-BIOS-怎么设置能使用-U2-一拆二转-PCIe-的转接卡](https://www.v2ex.com/t/886138) ![](assets/new.png)  
+- [2022-10-11-gitee-的项目-有一个-wiki-和-README-显示内容可能含有违规信息，作者是看不到的？](https://www.v2ex.com/t/886137) ![](assets/new.png)  
+- [2022-10-11-女朋友单亲家庭，母亲含辛茹苦养大，第一次上门见面礼要怎么送？](https://www.v2ex.com/t/886136) ![](assets/new.png)  
+- [2022-10-11-A-和-B-两个手机同一个-id，-A-装完软件，-B-手机上也出现这个软件了-这个怎么设置不让他们同步呀](https://www.v2ex.com/t/886134) ![](assets/new.png)  
+- [2022-10-11-你如何评价人民日报仲音的最近两天的两篇文章「增强对当前疫情防控政策的信心和耐心」和「动态清零可持续而且必须坚持」?](https://www.v2ex.com/t/886133) ![](assets/new.png)  
 - [2022-10-11-关于职业规划](https://www.v2ex.com/t/886130) ![](assets/new.png)  
 - [2022-10-11-web3-高级产品经理-base：北京望京南](https://www.v2ex.com/t/886129) ![](assets/new.png)  
 - [2022-10-11-Pro-19-年的这个配置还推荐升级吗？](https://www.v2ex.com/t/886128) ![](assets/new.png)  
@@ -501,16 +511,6 @@
 - [2022-10-11-QX-的去广告配置，在-NGA-上会提示无法连接，怎么修改？](https://www.v2ex.com/t/886119) ![](assets/new.png)  
 - [2022-10-11-哪里可以买到病毒？](https://www.v2ex.com/t/886116) ![](assets/new.png)  
 - [2022-10-11-大佬们帮帮忙出出主意，双非一本，求一个工作方向](https://www.v2ex.com/t/886115) ![](assets/new.png)  
-- [2022-10-11-Java-on-Azure-Tooling-的更新-–-2022-年-9-月-Azure-虚拟机增强与-Azure-Cosmos-DB-资源管理](https://www.v2ex.com/t/886114) ![](assets/new.png)  
-- [2022-10-11-大家每天必浏览的网站都有哪些？](https://www.v2ex.com/t/886113) ![](assets/new.png)  
-- [2022-10-11-有没有之前做过社交或者社区类项目的小伙伴？](https://www.v2ex.com/t/886112) ![](assets/new.png)  
-- [2022-10-11-通过公众号或者小程序抢票的技术原理是什么？](https://www.v2ex.com/t/886111) ![](assets/new.png)  
-- [2022-10-11-Netty-Flush-延迟](https://www.v2ex.com/t/886110) ![](assets/new.png)  
-- [2022-10-11-静态博客-Markdown-编辑的图片你们是用什么方法快速贴图即调整大小等特性的](https://www.v2ex.com/t/886108) ![](assets/new.png)  
-- [2022-10-11-Finder-怎样才能如-Windows-系统那样显示-文件夹-缩略图](https://www.v2ex.com/t/886107) ![](assets/new.png)  
-- [2022-10-11-web3-高级-golang-后端开发工程师-base：北京望京南](https://www.v2ex.com/t/886106) ![](assets/new.png)  
-- [2022-10-11-请教大佬一个问题，有一个需求更新-30-张表的一个字段，怎么去实现？](https://www.v2ex.com/t/886103) ![](assets/new.png)  
-- [2022-10-11-Watch-Pixel-watch-的-LTE-支持，是-esim-吗](https://www.v2ex.com/t/886102) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

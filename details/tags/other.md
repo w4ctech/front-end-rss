@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-11 09:22:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-11 09:51:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1914,6 +1914,13 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-10-11-马上双十一了，各位有-4k-投影仪推荐么？](https://www.v2ex.com/t/886145) 
+- [2022-10-11-交接工作需要注意什么？](https://www.v2ex.com/t/886144) 
+- [2022-10-11-试用了几个国内的表格-OCR-功能，大厂并不优秀啊](https://www.v2ex.com/t/886143) 
+- [2022-10-11-web3-高级后端-golang-工程师-base：北京望京南](https://www.v2ex.com/t/886141) 
+- [2022-10-11-女朋友单亲家庭，母亲含辛茹苦养大，第一次上门见面礼要怎么送？](https://www.v2ex.com/t/886136) 
+- [2022-10-11-A-和-B-两个手机同一个-id，-A-装完软件，-B-手机上也出现这个软件了-这个怎么设置不让他们同步呀](https://www.v2ex.com/t/886134) 
+- [2022-10-11-你如何评价人民日报仲音的最近两天的两篇文章「增强对当前疫情防控政策的信心和耐心」和「动态清零可持续而且必须坚持」?](https://www.v2ex.com/t/886133) 
 - [2022-10-11-关于职业规划](https://www.v2ex.com/t/886130) 
 - [2022-10-11-web3-高级产品经理-base：北京望京南](https://www.v2ex.com/t/886129) 
 - [2022-10-11-Pro-19-年的这个配置还推荐升级吗？](https://www.v2ex.com/t/886128) 
@@ -1934,12 +1941,6 @@
 - [2022-10-11-Java-on-Azure-Tooling-的更新-–-2022-年-9-月-Azure-虚拟机增强，-Azure-Cosmos-DB-资源管理](https://www.v2ex.com/t/886100) 
 - [2022-10-11-有没有之前利用业余时间做过社交或者社区类项目的小伙伴？](https://www.v2ex.com/t/886098) 
 - [2022-10-11-mac-为啥修改-dns-总是会被自动重置？](https://www.v2ex.com/t/886097) 
-- [2022-10-11-当进入一个空间或者人多的场景中时，刚开始的十几分钟会非常难受，胸闷气短紧张，这是什么情况呀~](https://www.v2ex.com/t/886095) 
-- [2022-10-11-感恩抽奖丨明天开奖（12-号-19-点），抽-2-个人，送麻辣牛蹄筋各-1-箱。](https://www.v2ex.com/t/886094) 
-- [2022-10-11-iKuai-下，统计黑群-qbit-的网速是实际一半，导致智能流控无法生效](https://www.v2ex.com/t/886091) 
-- [2022-10-11-Java-on-Azure-Tooling-的更新-–-2022-年-9-月-Azure-Cosmos-DB-资源管理，-Azure-虚拟机增强](https://www.v2ex.com/t/886090) 
-- [2022-10-11-改变别人的用户习惯真的很难,教家里人用-faceTime-有感](https://www.v2ex.com/t/886089) 
-- [2022-10-11-Airpods-pro2-使用了两周，有一些疑惑](https://www.v2ex.com/t/886084) 
 - [2022-10-11-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-11-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-11-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-11 08:37:43，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-11 09:22:38，:rocket: 更新条数: +2018， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,7 +491,13 @@
 </summary>
 
 
-- [2022-10-11-动态清零，别指望大会之后有什么改变了。](https://www.v2ex.com/t/886121) ![](assets/new.png)  
+- [2022-10-11-关于职业规划](https://www.v2ex.com/t/886130) ![](assets/new.png)  
+- [2022-10-11-web3-高级产品经理-base：北京望京南](https://www.v2ex.com/t/886129) ![](assets/new.png)  
+- [2022-10-11-Pro-19-年的这个配置还推荐升级吗？](https://www.v2ex.com/t/886128) ![](assets/new.png)  
+- [2022-10-11-django-admin-部分自带的-css-文件-collectstatic，生成的文件大小为-0？](https://www.v2ex.com/t/886127) ![](assets/new.png)  
+- [2022-10-11-有认识网线水晶头顺序的吗？遇到一条很奇怪的网线。](https://www.v2ex.com/t/886126) ![](assets/new.png)  
+- [2022-10-11-产品-or-研发回三四线老家除了考公还有其他选择吗？](https://www.v2ex.com/t/886125) ![](assets/new.png)  
+- [2022-10-11-win11-修改默认浏览器后-桌面应用跳转到浏览器无响应](https://www.v2ex.com/t/886124) ![](assets/new.png)  
 - [2022-10-11-QX-的去广告配置，在-NGA-上会提示无法连接，怎么修改？](https://www.v2ex.com/t/886119) ![](assets/new.png)  
 - [2022-10-11-哪里可以买到病毒？](https://www.v2ex.com/t/886116) ![](assets/new.png)  
 - [2022-10-11-大佬们帮帮忙出出主意，双非一本，求一个工作方向](https://www.v2ex.com/t/886115) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-10-11-web3-高级-golang-后端开发工程师-base：北京望京南](https://www.v2ex.com/t/886106) ![](assets/new.png)  
 - [2022-10-11-请教大佬一个问题，有一个需求更新-30-张表的一个字段，怎么去实现？](https://www.v2ex.com/t/886103) ![](assets/new.png)  
 - [2022-10-11-Watch-Pixel-watch-的-LTE-支持，是-esim-吗](https://www.v2ex.com/t/886102) ![](assets/new.png)  
-- [2022-10-11-Java-on-Azure-Tooling-的更新-–-2022-年-9-月-Azure-虚拟机增强，-Azure-Cosmos-DB-资源管理](https://www.v2ex.com/t/886100) ![](assets/new.png)  
-- [2022-10-11-有没有之前利用业余时间做过社交或者社区类项目的小伙伴？](https://www.v2ex.com/t/886098) ![](assets/new.png)  
-- [2022-10-11-mac-为啥修改-dns-总是会被自动重置？](https://www.v2ex.com/t/886097) ![](assets/new.png)  
-- [2022-10-11-当进入一个空间或者人多的场景中时，刚开始的十几分钟会非常难受，胸闷气短紧张，这是什么情况呀~](https://www.v2ex.com/t/886095) ![](assets/new.png)  
-- [2022-10-11-感恩抽奖丨明天开奖（12-号-19-点），抽-2-个人，送麻辣牛蹄筋各-1-箱。](https://www.v2ex.com/t/886094) ![](assets/new.png)  
-- [2022-10-11-git-小白代码合并问题请教](https://www.v2ex.com/t/886093) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

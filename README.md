@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-11 05:21:18，:rocket: 更新条数: +2016， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-11 06:27:23，:rocket: 更新条数: +2018， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,26 +491,26 @@
 </summary>
 
 
+- [2022-10-11-Apple-Watch-一直在记录运动，怎么停止啊救命](https://www.v2ex.com/t/886068) ![](assets/new.png)  
+- [2022-10-11-制作了一款新标签页/网络书签，名字还没想好，大家试试](https://www.v2ex.com/t/886065) ![](assets/new.png)  
+- [2022-10-11-如何不用双手给抖音点赞?](https://www.v2ex.com/t/886063) ![](assets/new.png)  
+- [2022-10-11-招行经典白，生日-10-倍积分，刷点什么呢？](https://www.v2ex.com/t/886062) ![](assets/new.png)  
+- [2022-10-11-自己写了一段-snippet,可以获取-EF-Core-中的实体在控制器内的引用](https://www.v2ex.com/t/886061) ![](assets/new.png)  
+- [2022-10-11-win10-/-win11-系统声音忽大忽小的-BUG，求大佬指导](https://www.v2ex.com/t/886060) ![](assets/new.png)  
+- [2022-10-11-每次-ios-升级后-wifi-就无法连接，必须还原网络设置才能恢复](https://www.v2ex.com/t/886058) ![](assets/new.png)  
+- [2022-10-11-阿里云，腾讯云，华为云优惠](https://www.v2ex.com/t/886057) ![](assets/new.png)  
+- [2022-10-11-22-年的第一次周报](https://www.v2ex.com/t/886054) ![](assets/new.png)  
+- [2022-10-11-阿里云国内站国际站渠道](https://www.v2ex.com/t/886053) ![](assets/new.png)  
+- [2022-10-11-时光树洞-这个产品已经运营三年了](https://www.v2ex.com/t/886052) ![](assets/new.png)  
+- [2022-10-11-大家公司后端、前端、测试的比例大概是多少呀](https://www.v2ex.com/t/886051) ![](assets/new.png)  
+- [2022-10-11-iPhone-什么时候支持中国广电-5G](https://www.v2ex.com/t/886050) ![](assets/new.png)  
+- [2022-10-11-手机厂商为自定义-ROM-设置了哪些障碍](https://www.v2ex.com/t/886049) ![](assets/new.png)  
 - [2022-10-11-求一个-CDR-的下载安装包](https://www.v2ex.com/t/886048) ![](assets/new.png)  
 - [2022-10-11-新人的开源笔记-app,-有在线版本免费使用](https://www.v2ex.com/t/886047) ![](assets/new.png)  
 - [2022-10-11-现在的同步技术是不是不完善？-iPhone-备忘录被曝莫名清空！](https://www.v2ex.com/t/886046) ![](assets/new.png)  
 - [2022-10-11-如果-fork-一个-GPL-的软件，通过多版本更新后完全不包含-fork-之前的代码了，我可以随意变更许可协议或者闭源吗？](https://www.v2ex.com/t/886045) ![](assets/new.png)  
 - [2022-10-11-2022-年-10-月，已经不能在淘宝购买香港礼品卡了？](https://www.v2ex.com/t/886044) ![](assets/new.png)  
 - [2022-10-11-最近大家很悲观，不知道明年就业行情怎么样，准备明年-4-月凑满四年经验跑路，你们继续跳槽还是苟？](https://www.v2ex.com/t/886043) ![](assets/new.png)  
-- [2022-10-11-求-Mac-换-Windows-笔记本推荐](https://www.v2ex.com/t/886041) ![](assets/new.png)  
-- [2022-10-11-我突然找不到发帖的按钮了！](https://www.v2ex.com/t/886040) ![](assets/new.png)  
-- [2022-10-11-一个综合类榜单](https://www.v2ex.com/t/886039) ![](assets/new.png)  
-- [2022-10-11-请教一下-wordpress-+-nginx-内网穿透的问题.](https://www.v2ex.com/t/886036) ![](assets/new.png)  
-- [2022-10-11-Oracle-ARM-6G-Ubuntu20-跑-Azure-SQL-Edge-为什么过几天就挂？](https://www.v2ex.com/t/886035) ![](assets/new.png)  
-- [2022-10-11-北京/上海PayPal外企-1065,-进来看看福利，-Java-/前端/测试职位-招聘](https://www.v2ex.com/t/886033) ![](assets/new.png)  
-- [2022-10-11-求职产品上海/远程-求产品岗位](https://www.v2ex.com/t/886032) ![](assets/new.png)  
-- [2022-10-11-有没有手提行李包/运动包推荐](https://www.v2ex.com/t/886031) ![](assets/new.png)  
-- [2022-10-11-关于-TCP-delayed-ACK-问题](https://www.v2ex.com/t/886029) ![](assets/new.png)  
-- [2022-10-11-决赛圈-7950x-vs-5950x，求推荐](https://www.v2ex.com/t/886027) ![](assets/new.png)  
-- [2022-10-11-最近网上讨论很多的苹果备忘录丢失问题](https://www.v2ex.com/t/886026) ![](assets/new.png)  
-- [2022-10-11-有人在参与-flare-on-9-吗](https://www.v2ex.com/t/886024) ![](assets/new.png)  
-- [2022-10-11-macOS-如何实现根据不同目的选择出口网卡?](https://www.v2ex.com/t/886022) ![](assets/new.png)  
-- [2022-10-11-Pulse-secure-VPN-疑问](https://www.v2ex.com/t/886018) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -561,13 +561,16 @@
 - [2022-10-11-GIL-已经被杀死了么？](https://toutiao.io/k/y3y419c) ![](assets/new.png)  
 - [2022-10-11-9-月全球-8-款手游月收入首破-3000-万，MMO、放置游戏发威](https://toutiao.io/k/tokbxmi) ![](assets/new.png)  
 - [2022-10-11-类型体操的-9-种类型运算、4-种类型套路总结](https://toutiao.io/k/mnzc54p) ![](assets/new.png)  
-- [2022-10-11-OpenKruise-v1.3：新增自定义-Pod-Probe-探针能力与大规模集群性能显著提升](https://toutiao.io/k/g2flkiu) ![](assets/new.png)  
 - [2022-10-11-CuAssembler-开源-|-探求-NVIDIA-GPU-极限性能的利器](https://toutiao.io/k/18ik1gr) ![](assets/new.png)  
+- [2022-10-11-OpenKruise-v1.3：新增自定义-Pod-Probe-探针能力与大规模集群性能显著提升](https://toutiao.io/k/g2flkiu) ![](assets/new.png)  
 - [2022-10-11-你觉得这破玩意能叫高可用吗（实用肝货）](https://toutiao.io/k/zi68fvt) ![](assets/new.png)  
 - [2022-10-11-用过那么多评估开发工作量的指标，还是它最好用](https://toutiao.io/k/fkjz57d) ![](assets/new.png)  
 - [2022-10-11-这样做优化，实现-0.059s-启动一个-SpringBoot-项目](https://toutiao.io/k/y6rhm3i) ![](assets/new.png)  
 - [2022-10-11-你需要深入了解一下-JavaScript-的-new-Function](https://toutiao.io/k/r7lwsn1) ![](assets/new.png)  
 - [2022-10-11-车机多用户系统的适配问题](https://toutiao.io/k/enhbnaf) ![](assets/new.png)  
+- [2022-10-11-Pandarallel-一个能让-pandas-计算火力拉满的工具](https://toutiao.io/k/z2kyunq) ![](assets/new.png)  
+- [2022-10-11-内存对齐](https://toutiao.io/k/t30k4p6) ![](assets/new.png)  
+- [2022-10-11-利用-ModSecurity-内置实现第一代-rasp](https://toutiao.io/k/sn9z6n1) ![](assets/new.png)  
 - [2022-10-11-推荐-性能优化必备——火焰图](https://toutiao.io/k/azf7ub6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

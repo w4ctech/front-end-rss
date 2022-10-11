@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-11 15:52:56，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-11 16:24:23，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,14 @@
 </summary>
 
 
+- [2022-10-11-阿里云这些商业公有云计算服务都采取了哪些措施预防虚拟化逃逸？有开源的解决方案吗？](https://www.v2ex.com/t/886217) ![](assets/new.png)  
+- [2022-10-11-win11-把-ui-玩透了](https://www.v2ex.com/t/886216) ![](assets/new.png)  
+- [2022-10-11-iPhone-可以实现-使用电源键，快速打开健康码-吗？](https://www.v2ex.com/t/886215) ![](assets/new.png)  
+- [2022-10-11-如何把网络上的信息保存到本地](https://www.v2ex.com/t/886214) ![](assets/new.png)  
+- [2022-10-11-全屋-5G-覆盖也太难搞了，才隔一堵墙连-400M-都没有了](https://www.v2ex.com/t/886213) ![](assets/new.png)  
+- [2022-10-11-要不要从数仓转-Java](https://www.v2ex.com/t/886212) ![](assets/new.png)  
+- [2022-10-11-有孩子的你们做过亲子鉴定吗？会不会有问题？](https://www.v2ex.com/t/886211) ![](assets/new.png)  
+- [2022-10-11-请教一个关于-sanic-域名解析的问题](https://www.v2ex.com/t/886210) ![](assets/new.png)  
 - [2022-10-11-美区-AppleOne-中杯-25/月-月付-还有车位](https://www.v2ex.com/t/886209) ![](assets/new.png)  
 - [2022-10-11-K8S-大搬家求救](https://www.v2ex.com/t/886208) ![](assets/new.png)  
 - [2022-10-11-当微信炸号了，才发现我们绑了太多的东西在一个广东民营企业的-app-上](https://www.v2ex.com/t/886207) ![](assets/new.png)  
@@ -503,14 +511,6 @@
 - [2022-10-11-Java-中循环队列的问题](https://www.v2ex.com/t/886199) ![](assets/new.png)  
 - [2022-10-11-手表手机写入加密卡无法开锁，中介卡却可以，是因为锁和设备的工作频率不一致吗？](https://www.v2ex.com/t/886198) ![](assets/new.png)  
 - [2022-10-11-关于零代码平台的一些心得、疑问](https://www.v2ex.com/t/886197) ![](assets/new.png)  
-- [2022-10-11-在公司里既被要求设计产品又被要求实现？大家有什么经验？](https://www.v2ex.com/t/886196) ![](assets/new.png)  
-- [2022-10-11-不靠谱的人生逆风行舟](https://www.v2ex.com/t/886195) ![](assets/new.png)  
-- [2022-10-11-有没有这种轻量级的逻辑表达式库（C/C++）？比如我输入-A>2-&&-B-<-1-表达式;-然后设置-A-=2,B=0,-判定表达式结果为-false。](https://www.v2ex.com/t/886194) ![](assets/new.png)  
-- [2022-10-11-广州不加班远程-or-半远程-招-IOS/AOS-Engineer-和-Java-Engineer](https://www.v2ex.com/t/886192) ![](assets/new.png)  
-- [2022-10-11-对新款-Mac-mini-的唯一期待](https://www.v2ex.com/t/886191) ![](assets/new.png)  
-- [2022-10-11-请问如何优雅的将-PostgreSQL-数据同步到-Oracle？](https://www.v2ex.com/t/886190) ![](assets/new.png)  
-- [2022-10-11-Spring-Boot-怎么整合多数据源](https://www.v2ex.com/t/886189) ![](assets/new.png)  
-- [2022-10-11-有没有图形学大佬，球指点](https://www.v2ex.com/t/886187) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

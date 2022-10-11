@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-11 10:50:54，:rocket: 更新条数: +2017， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-11 11:15:23，:rocket: 更新条数: +2017， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-10-11-帮一个朋友问问，捷豹-xel-这款车怎么样？](https://www.v2ex.com/t/886163) ![](assets/new.png)  
+- [2022-10-11-单元测试的爱恨情仇，作为码农们，你们写单元测试么？](https://www.v2ex.com/t/886162) ![](assets/new.png)  
+- [2022-10-11-内推概伦电子，电路设计/软件开发/技术支持](https://www.v2ex.com/t/886161) ![](assets/new.png)  
+- [2022-10-11-求电脑随身流量方案](https://www.v2ex.com/t/886160) ![](assets/new.png)  
 - [2022-10-11-关于保密协议，这两条合理吗？](https://www.v2ex.com/t/886158) ![](assets/new.png)  
 - [2022-10-11-关于-Jellyfin-Plex-emby-服务端转码的疑惑](https://www.v2ex.com/t/886157) ![](assets/new.png)  
 - [2022-10-11-为什么腾讯游戏安全组件会疯狂读取电脑其他软件相关信息](https://www.v2ex.com/t/886156) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-10-11-求问各位大佬，有没有人知道超微-x10dru-i+服务器的-BIOS-怎么设置能使用-U2-一拆二转-PCIe-的转接卡](https://www.v2ex.com/t/886138) ![](assets/new.png)  
 - [2022-10-11-gitee-的项目-有一个-wiki-和-README-显示内容可能含有违规信息，作者是看不到的？](https://www.v2ex.com/t/886137) ![](assets/new.png)  
 - [2022-10-11-女朋友单亲家庭，母亲含辛茹苦养大，第一次上门见面礼要怎么送？](https://www.v2ex.com/t/886136) ![](assets/new.png)  
-- [2022-10-11-A-和-B-两个手机同一个-id，-A-装完软件，-B-手机上也出现这个软件了-这个怎么设置不让他们同步呀](https://www.v2ex.com/t/886134) ![](assets/new.png)  
-- [2022-10-11-关于职业规划](https://www.v2ex.com/t/886130) ![](assets/new.png)  
-- [2022-10-11-web3-高级产品经理-base：北京望京南](https://www.v2ex.com/t/886129) ![](assets/new.png)  
-- [2022-10-11-Pro-19-年的这个配置还推荐升级吗？](https://www.v2ex.com/t/886128) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

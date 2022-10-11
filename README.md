@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-11 20:20:38，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-11 20:50:24，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-10-11-OLED-TV-当显示器怎么样？](https://www.v2ex.com/t/886224) ![](assets/new.png)  
 - [2022-10-11-20221012-午夜俱乐部](https://www.v2ex.com/t/886223) ![](assets/new.png)  
 - [2022-10-11-请问如何判断一个保险是否值得购买](https://www.v2ex.com/t/886222) ![](assets/new.png)  
 - [2022-10-11-家里宽带忽然拨不上号，是否因为机房正在操作向-IPoE-过渡？](https://www.v2ex.com/t/886219) ![](assets/new.png)  
@@ -501,7 +502,6 @@
 - [2022-10-11-如何把网络上的信息保存到本地](https://www.v2ex.com/t/886214) ![](assets/new.png)  
 - [2022-10-11-全屋-5G-覆盖也太难搞了，才隔一堵墙连-400M-都没有了](https://www.v2ex.com/t/886213) ![](assets/new.png)  
 - [2022-10-11-要不要从数仓转-Java](https://www.v2ex.com/t/886212) ![](assets/new.png)  
-- [2022-10-11-有孩子的你们做过亲子鉴定吗？会不会有问题？](https://www.v2ex.com/t/886211) ![](assets/new.png)  
 - [2022-10-11-请教一个关于-sanic-域名解析的问题](https://www.v2ex.com/t/886210) ![](assets/new.png)  
 - [2022-10-11-美区-AppleOne-中杯-25/月-月付-还有车位](https://www.v2ex.com/t/886209) ![](assets/new.png)  
 - [2022-10-11-K8S-大搬家求救](https://www.v2ex.com/t/886208) ![](assets/new.png)  

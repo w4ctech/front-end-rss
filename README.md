@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-11 11:43:22，:rocket: 更新条数: +2017， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-11 12:33:12，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,15 @@
 </summary>
 
 
+- [2022-10-11-SQL-有没有什么网站或者-AI-程序，平时可以帮助分析很长的-SQL-是否可以优化？](https://www.v2ex.com/t/886178) ![](assets/new.png)  
+- [2022-10-11-杭州成人哪里学习英语好点呢？](https://www.v2ex.com/t/886176) ![](assets/new.png)  
+- [2022-10-11-ipv6.ddnspod.com-出问题了](https://www.v2ex.com/t/886175) ![](assets/new.png)  
+- [2022-10-11-蓝牙的外设都应该支持有线连接模式](https://www.v2ex.com/t/886174) ![](assets/new.png)  
+- [2022-10-11-时隔四年，-virtual-box-7-总算来了，支持-mac-m1](https://www.v2ex.com/t/886173) ![](assets/new.png)  
+- [2022-10-11-有人开过自助成人商品吗？求分享经验！](https://www.v2ex.com/t/886171) ![](assets/new.png)  
+- [2022-10-11-搬瓦工-hk-售完了，有知道他补货时间嘛](https://www.v2ex.com/t/886170) ![](assets/new.png)  
+- [2022-10-11-困扰了好久的笔记本连拓展坞不能开机的问题](https://www.v2ex.com/t/886169) ![](assets/new.png)  
+- [2022-10-11-Linux-出大版本-6.0-了！](https://www.v2ex.com/t/886168) ![](assets/new.png)  
 - [2022-10-11-求推荐一些比较优质的-reactjs+nestjs-项目模版](https://www.v2ex.com/t/886165) ![](assets/new.png)  
 - [2022-10-11-Alder-Lake-iGPU-硬解不稳定,-过一段时间就崩溃](https://www.v2ex.com/t/886164) ![](assets/new.png)  
 - [2022-10-11-帮一个朋友问问，捷豹-xel-这款车怎么样？](https://www.v2ex.com/t/886163) ![](assets/new.png)  
@@ -502,15 +511,6 @@
 - [2022-10-11-为什么腾讯游戏安全组件会疯狂读取电脑其他软件相关信息](https://www.v2ex.com/t/886156) ![](assets/new.png)  
 - [2022-10-11-小白请问各位大佬一个-Springboot-问题](https://www.v2ex.com/t/886155) ![](assets/new.png)  
 - [2022-10-11-上海—坚果云-研发效能工具软件——前后端、安卓、IOS、客户端（国庆后面试约起来~）](https://www.v2ex.com/t/886154) ![](assets/new.png)  
-- [2022-10-11-求解答，苹果手机（ios16）有没有方法屏蔽特定-App-自动更新吗](https://www.v2ex.com/t/886151) ![](assets/new.png)  
-- [2022-10-11-苹果手机怎么复制小红书里的内容](https://www.v2ex.com/t/886147) ![](assets/new.png)  
-- [2022-10-11-想给父母买个保险，不知道-大伙有推荐吗](https://www.v2ex.com/t/886146) ![](assets/new.png)  
-- [2022-10-11-马上双十一了，各位有-4k-投影仪推荐么？](https://www.v2ex.com/t/886145) ![](assets/new.png)  
-- [2022-10-11-交接工作需要注意什么？](https://www.v2ex.com/t/886144) ![](assets/new.png)  
-- [2022-10-11-试用了几个国内的表格-OCR-功能，大厂并不优秀啊](https://www.v2ex.com/t/886143) ![](assets/new.png)  
-- [2022-10-11-web3-高级后端-golang-工程师-base：北京望京南](https://www.v2ex.com/t/886141) ![](assets/new.png)  
-- [2022-10-11-GitHub-是不是出-bug-了，今天收到了几封历史-issue-的邮件](https://www.v2ex.com/t/886140) ![](assets/new.png)  
-- [2022-10-11-求问各位大佬，有没有人知道超微-x10dru-i+服务器的-BIOS-怎么设置能使用-U2-一拆二转-PCIe-的转接卡](https://www.v2ex.com/t/886138) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -567,8 +567,8 @@
 - [2022-10-11-这样做优化，实现-0.059s-启动一个-SpringBoot-项目](https://toutiao.io/k/y6rhm3i) ![](assets/new.png)  
 - [2022-10-11-车机多用户系统的适配问题](https://toutiao.io/k/enhbnaf) ![](assets/new.png)  
 - [2022-10-11-Pandarallel-一个能让-pandas-计算火力拉满的工具](https://toutiao.io/k/z2kyunq) ![](assets/new.png)  
-- [2022-10-11-用过那么多评估开发工作量的指标，还是它最好用](https://toutiao.io/k/fkjz57d) ![](assets/new.png)  
 - [2022-10-11-内存对齐](https://toutiao.io/k/t30k4p6) ![](assets/new.png)  
+- [2022-10-11-用过那么多评估开发工作量的指标，还是它最好用](https://toutiao.io/k/fkjz57d) ![](assets/new.png)  
 - [2022-10-11-你需要深入了解一下-JavaScript-的-new-Function](https://toutiao.io/k/r7lwsn1) ![](assets/new.png)  
 - [2022-10-11-利用-ModSecurity-内置实现第一代-rasp](https://toutiao.io/k/sn9z6n1) ![](assets/new.png)  
 - [2022-10-11-推荐-性能优化必备——火焰图](https://toutiao.io/k/azf7ub6) ![](assets/new.png)  

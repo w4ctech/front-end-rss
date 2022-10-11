@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-11 11:43:22。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-10-11 12:33:12。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,15 @@
 </summary>
 
 
+- [【V2EX】2022-10-11-SQL-有没有什么网站或者-AI-程序，平时可以帮助分析很长的-SQL-是否可以优化？](https://www.v2ex.com/t/886178) 
+- [【V2EX】2022-10-11-杭州成人哪里学习英语好点呢？](https://www.v2ex.com/t/886176) 
+- [【V2EX】2022-10-11-ipv6.ddnspod.com-出问题了](https://www.v2ex.com/t/886175) 
+- [【V2EX】2022-10-11-蓝牙的外设都应该支持有线连接模式](https://www.v2ex.com/t/886174) 
+- [【V2EX】2022-10-11-时隔四年，-virtual-box-7-总算来了，支持-mac-m1](https://www.v2ex.com/t/886173) 
+- [【V2EX】2022-10-11-有人开过自助成人商品吗？求分享经验！](https://www.v2ex.com/t/886171) 
+- [【V2EX】2022-10-11-搬瓦工-hk-售完了，有知道他补货时间嘛](https://www.v2ex.com/t/886170) 
+- [【V2EX】2022-10-11-困扰了好久的笔记本连拓展坞不能开机的问题](https://www.v2ex.com/t/886169) 
+- [【V2EX】2022-10-11-Linux-出大版本-6.0-了！](https://www.v2ex.com/t/886168) 
 - [【V2EX】2022-10-11-求推荐一些比较优质的-reactjs+nestjs-项目模版](https://www.v2ex.com/t/886165) 
 - [【V2EX】2022-10-11-Alder-Lake-iGPU-硬解不稳定,-过一段时间就崩溃](https://www.v2ex.com/t/886164) 
 - [【V2EX】2022-10-11-帮一个朋友问问，捷豹-xel-这款车怎么样？](https://www.v2ex.com/t/886163) 
@@ -93,13 +102,6 @@
 - [【V2EX】2022-10-11-A-和-B-两个手机同一个-id，-A-装完软件，-B-手机上也出现这个软件了-这个怎么设置不让他们同步呀](https://www.v2ex.com/t/886134) 
 - [【V2EX】2022-10-11-关于职业规划](https://www.v2ex.com/t/886130) 
 - [【V2EX】2022-10-11-web3-高级产品经理-base：北京望京南](https://www.v2ex.com/t/886129) 
-- [【V2EX】2022-10-11-Pro-19-年的这个配置还推荐升级吗？](https://www.v2ex.com/t/886128) 
-- [【V2EX】2022-10-11-django-admin-部分自带的-css-文件-collectstatic，生成的文件大小为-0？](https://www.v2ex.com/t/886127) 
-- [【V2EX】2022-10-11-有认识网线水晶头顺序的吗？遇到一条很奇怪的网线。](https://www.v2ex.com/t/886126) 
-- [【V2EX】2022-10-11-产品-or-研发回三四线老家除了考公还有其他选择吗？](https://www.v2ex.com/t/886125) 
-- [【V2EX】2022-10-11-win11-修改默认浏览器后-桌面应用跳转到浏览器无响应](https://www.v2ex.com/t/886124) 
-- [【V2EX】2022-10-11-QX-的去广告配置，在-NGA-上会提示无法连接，怎么修改？](https://www.v2ex.com/t/886119) 
-- [【V2EX】2022-10-11-哪里可以买到病毒？](https://www.v2ex.com/t/886116) 
 - [【技术头条】2022-10-11-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-11-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-11-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -134,8 +136,8 @@
 - [【开发者头条】2022-10-11-这样做优化，实现-0.059s-启动一个-SpringBoot-项目](https://toutiao.io/k/y6rhm3i) 
 - [【开发者头条】2022-10-11-车机多用户系统的适配问题](https://toutiao.io/k/enhbnaf) 
 - [【开发者头条】2022-10-11-Pandarallel-一个能让-pandas-计算火力拉满的工具](https://toutiao.io/k/z2kyunq) 
-- [【开发者头条】2022-10-11-用过那么多评估开发工作量的指标，还是它最好用](https://toutiao.io/k/fkjz57d) 
 - [【开发者头条】2022-10-11-内存对齐](https://toutiao.io/k/t30k4p6) 
+- [【开发者头条】2022-10-11-用过那么多评估开发工作量的指标，还是它最好用](https://toutiao.io/k/fkjz57d) 
 - [【开发者头条】2022-10-11-你需要深入了解一下-JavaScript-的-new-Function](https://toutiao.io/k/r7lwsn1) 
 - [【开发者头条】2022-10-11-利用-ModSecurity-内置实现第一代-rasp](https://toutiao.io/k/sn9z6n1) 
 - [【开发者头条】2022-10-11-推荐-性能优化必备——火焰图](https://toutiao.io/k/azf7ub6) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-11 11:15:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-11 11:43:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1937,8 +1937,6 @@
 - [2022-10-11-产品-or-研发回三四线老家除了考公还有其他选择吗？](https://www.v2ex.com/t/886125) 
 - [2022-10-11-QX-的去广告配置，在-NGA-上会提示无法连接，怎么修改？](https://www.v2ex.com/t/886119) 
 - [2022-10-11-哪里可以买到病毒？](https://www.v2ex.com/t/886116) 
-- [2022-10-11-大佬们帮帮忙出出主意，双非一本，求一个工作方向](https://www.v2ex.com/t/886115) 
-- [2022-10-11-Java-on-Azure-Tooling-的更新-–-2022-年-9-月-Azure-虚拟机增强与-Azure-Cosmos-DB-资源管理](https://www.v2ex.com/t/886114) 
 - [2022-10-11-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-11-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-11-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

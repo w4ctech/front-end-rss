@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-11 13:53:56。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-10-11 14:30:39。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,11 @@
 </summary>
 
 
+- [【V2EX】2022-10-11-有没有这种轻量级的逻辑表达式库？比如我输入-A>2-&&-B-<-1-表达式;-然后设置-A-=2,B=0,-判定表达式结果为-false。](https://www.v2ex.com/t/886194) 
+- [【V2EX】2022-10-11-广州不加班远程-or-半远程-招-IOS/AOS-Engineer-和-Java-Engineer](https://www.v2ex.com/t/886192) 
+- [【V2EX】2022-10-11-对新款-Mac-mini-的唯一期待](https://www.v2ex.com/t/886191) 
+- [【V2EX】2022-10-11-请问如何优雅的将-PostgreSQL-数据同步到-Oracle？](https://www.v2ex.com/t/886190) 
+- [【V2EX】2022-10-11-Spring-Boot-怎么整合多数据源](https://www.v2ex.com/t/886189) 
 - [【V2EX】2022-10-11-有没有图形学大佬，球指点](https://www.v2ex.com/t/886187) 
 - [【V2EX】2022-10-11-有人代购漫画书吗？](https://www.v2ex.com/t/886186) 
 - [【V2EX】2022-10-11-请教各位，什么配置的云服务器适合本地远程-vscode-Remote？](https://www.v2ex.com/t/886185) 
@@ -100,10 +105,6 @@
 - [【V2EX】2022-10-11-苹果手机怎么复制小红书里的内容](https://www.v2ex.com/t/886147) 
 - [【V2EX】2022-10-11-想给父母买个保险，不知道-大伙有推荐吗](https://www.v2ex.com/t/886146) 
 - [【V2EX】2022-10-11-马上双十一了，各位有-4k-投影仪推荐么？](https://www.v2ex.com/t/886145) 
-- [【V2EX】2022-10-11-交接工作需要注意什么？](https://www.v2ex.com/t/886144) 
-- [【V2EX】2022-10-11-试用了几个国内的表格-OCR-功能，大厂并不优秀啊](https://www.v2ex.com/t/886143) 
-- [【V2EX】2022-10-11-web3-高级后端-golang-工程师-base：北京望京南](https://www.v2ex.com/t/886141) 
-- [【V2EX】2022-10-11-GitHub-是不是出-bug-了，今天收到了几封历史-issue-的邮件](https://www.v2ex.com/t/886140) 
 - [【技术头条】2022-10-11-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-11-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-11-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

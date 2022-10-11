@@ -9953,6 +9953,31 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "有没有这种轻量级的逻辑表达式库？比如我输入 A>2 && B < 1 表达式; 然后设置 A =2,B=0, 判定表达式结果为 false。",
+        "link": "https://www.v2ex.com/t/886194",
+        "date": "2022-10-11"
+      },
+      {
+        "title": "[广州][不加班][远程 or 半远程] 招 IOS/AOS Engineer 和 Java Engineer",
+        "link": "https://www.v2ex.com/t/886192",
+        "date": "2022-10-11"
+      },
+      {
+        "title": "对新款 Mac mini 的唯一期待",
+        "link": "https://www.v2ex.com/t/886191",
+        "date": "2022-10-11"
+      },
+      {
+        "title": "请问如何优雅的将 PostgreSQL 数据同步到 Oracle？",
+        "link": "https://www.v2ex.com/t/886190",
+        "date": "2022-10-11"
+      },
+      {
+        "title": "Spring Boot 怎么整合多数据源",
+        "link": "https://www.v2ex.com/t/886189",
+        "date": "2022-10-11"
+      },
+      {
         "title": "有没有图形学大佬，球指点",
         "link": "https://www.v2ex.com/t/886187",
         "date": "2022-10-11"
@@ -10110,26 +10135,6 @@
       {
         "title": "马上双十一了，各位有 4k 投影仪推荐么？",
         "link": "https://www.v2ex.com/t/886145",
-        "date": "2022-10-11"
-      },
-      {
-        "title": "交接工作需要注意什么？",
-        "link": "https://www.v2ex.com/t/886144",
-        "date": "2022-10-11"
-      },
-      {
-        "title": "试用了几个国内的表格 OCR 功能，大厂并不优秀啊",
-        "link": "https://www.v2ex.com/t/886143",
-        "date": "2022-10-11"
-      },
-      {
-        "title": "web3 高级后端 golang 工程师 base：北京望京南",
-        "link": "https://www.v2ex.com/t/886141",
-        "date": "2022-10-11"
-      },
-      {
-        "title": "GitHub 是不是出 bug 了，今天收到了几封历史 issue 的邮件",
-        "link": "https://www.v2ex.com/t/886140",
         "date": "2022-10-11"
       }
     ]

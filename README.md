@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-11 15:20:02，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-11 15:52:56，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-10-11-美区-AppleOne-中杯-25/月-月付-还有车位](https://www.v2ex.com/t/886209) ![](assets/new.png)  
+- [2022-10-11-K8S-大搬家求救](https://www.v2ex.com/t/886208) ![](assets/new.png)  
+- [2022-10-11-当微信炸号了，才发现我们绑了太多的东西在一个广东民营企业的-app-上](https://www.v2ex.com/t/886207) ![](assets/new.png)  
 - [2022-10-11-买了⌚️ultra，犹豫要不要开-esim](https://www.v2ex.com/t/886206) ![](assets/new.png)  
 - [2022-10-11-20221011-午夜俱乐部](https://www.v2ex.com/t/886205) ![](assets/new.png)  
 - [2022-10-11-三年-Java-的-offer-选择](https://www.v2ex.com/t/886204) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-10-11-请问如何优雅的将-PostgreSQL-数据同步到-Oracle？](https://www.v2ex.com/t/886190) ![](assets/new.png)  
 - [2022-10-11-Spring-Boot-怎么整合多数据源](https://www.v2ex.com/t/886189) ![](assets/new.png)  
 - [2022-10-11-有没有图形学大佬，球指点](https://www.v2ex.com/t/886187) ![](assets/new.png)  
-- [2022-10-11-有人代购漫画书吗？](https://www.v2ex.com/t/886186) ![](assets/new.png)  
-- [2022-10-11-请教各位，什么配置的云服务器适合本地远程-vscode-Remote？](https://www.v2ex.com/t/886185) ![](assets/new.png)  
-- [2022-10-11-请问,mac-下的解压软件,哪个能解压后把压缩包"彻底"删除?](https://www.v2ex.com/t/886184) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

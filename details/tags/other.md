@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-11 15:20:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-11 15:52:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1914,6 +1914,9 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-10-11-美区-AppleOne-中杯-25/月-月付-还有车位](https://www.v2ex.com/t/886209) 
+- [2022-10-11-K8S-大搬家求救](https://www.v2ex.com/t/886208) 
+- [2022-10-11-当微信炸号了，才发现我们绑了太多的东西在一个广东民营企业的-app-上](https://www.v2ex.com/t/886207) 
 - [2022-10-11-买了⌚️ultra，犹豫要不要开-esim](https://www.v2ex.com/t/886206) 
 - [2022-10-11-20221011-午夜俱乐部](https://www.v2ex.com/t/886205) 
 - [2022-10-11-三年-Java-的-offer-选择](https://www.v2ex.com/t/886204) 
@@ -1948,8 +1951,6 @@
 - [2022-10-11-单元测试的爱恨情仇，作为码农们，你们写单元测试么？](https://www.v2ex.com/t/886162) 
 - [2022-10-11-内推概伦电子，电路设计/软件开发/技术支持](https://www.v2ex.com/t/886161) 
 - [2022-10-11-求电脑随身流量方案](https://www.v2ex.com/t/886160) 
-- [2022-10-11-关于保密协议，这两条合理吗？](https://www.v2ex.com/t/886158) 
-- [2022-10-11-关于-Jellyfin-Plex-emby-服务端转码的疑惑](https://www.v2ex.com/t/886157) 
 - [2022-10-11-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-11-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-11-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

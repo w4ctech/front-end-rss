@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-11 03:57:53，:rocket: 更新条数: +2013， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-11 05:21:18，:rocket: 更新条数: +2016， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,17 @@
 </summary>
 
 
+- [2022-10-11-求一个-CDR-的下载安装包](https://www.v2ex.com/t/886048) ![](assets/new.png)  
+- [2022-10-11-新人的开源笔记-app,-有在线版本免费使用](https://www.v2ex.com/t/886047) ![](assets/new.png)  
+- [2022-10-11-现在的同步技术是不是不完善？-iPhone-备忘录被曝莫名清空！](https://www.v2ex.com/t/886046) ![](assets/new.png)  
+- [2022-10-11-如果-fork-一个-GPL-的软件，通过多版本更新后完全不包含-fork-之前的代码了，我可以随意变更许可协议或者闭源吗？](https://www.v2ex.com/t/886045) ![](assets/new.png)  
+- [2022-10-11-2022-年-10-月，已经不能在淘宝购买香港礼品卡了？](https://www.v2ex.com/t/886044) ![](assets/new.png)  
+- [2022-10-11-最近大家很悲观，不知道明年就业行情怎么样，准备明年-4-月凑满四年经验跑路，你们继续跳槽还是苟？](https://www.v2ex.com/t/886043) ![](assets/new.png)  
+- [2022-10-11-求-Mac-换-Windows-笔记本推荐](https://www.v2ex.com/t/886041) ![](assets/new.png)  
+- [2022-10-11-我突然找不到发帖的按钮了！](https://www.v2ex.com/t/886040) ![](assets/new.png)  
+- [2022-10-11-一个综合类榜单](https://www.v2ex.com/t/886039) ![](assets/new.png)  
+- [2022-10-11-请教一下-wordpress-+-nginx-内网穿透的问题.](https://www.v2ex.com/t/886036) ![](assets/new.png)  
+- [2022-10-11-Oracle-ARM-6G-Ubuntu20-跑-Azure-SQL-Edge-为什么过几天就挂？](https://www.v2ex.com/t/886035) ![](assets/new.png)  
 - [2022-10-11-北京/上海PayPal外企-1065,-进来看看福利，-Java-/前端/测试职位-招聘](https://www.v2ex.com/t/886033) ![](assets/new.png)  
 - [2022-10-11-求职产品上海/远程-求产品岗位](https://www.v2ex.com/t/886032) ![](assets/new.png)  
 - [2022-10-11-有没有手提行李包/运动包推荐](https://www.v2ex.com/t/886031) ![](assets/new.png)  
@@ -500,17 +511,6 @@
 - [2022-10-11-有人在参与-flare-on-9-吗](https://www.v2ex.com/t/886024) ![](assets/new.png)  
 - [2022-10-11-macOS-如何实现根据不同目的选择出口网卡?](https://www.v2ex.com/t/886022) ![](assets/new.png)  
 - [2022-10-11-Pulse-secure-VPN-疑问](https://www.v2ex.com/t/886018) ![](assets/new.png)  
-- [2022-10-11-加拿大鹅同款最高版本，羽绒马甲-299，正品正价-5000](https://www.v2ex.com/t/886017) ![](assets/new.png)  
-- [2022-10-11-PVE7.2-安装磁盘和网络问题.](https://www.v2ex.com/t/886016) ![](assets/new.png)  
-- [2022-10-11-单次-45-秒响铃电话是寻呼机器人吗？](https://www.v2ex.com/t/886015) ![](assets/new.png)  
-- [2022-10-11-贪吃商城？](https://www.v2ex.com/t/886014) ![](assets/new.png)  
-- [2022-10-11-有好用的护手霜推荐吗](https://www.v2ex.com/t/886012) ![](assets/new.png)  
-- [2022-10-11-Linux-下有什么好用的-pdf-ocr-识别软件](https://www.v2ex.com/t/886011) ![](assets/new.png)  
-- [2022-10-11-求国内公司订阅制收外币解决方案](https://www.v2ex.com/t/886010) ![](assets/new.png)  
-- [2022-10-11-tieba.com-使用的是-baidu.com-的证书](https://www.v2ex.com/t/886009) ![](assets/new.png)  
-- [2022-10-11-怎样写单元测试](https://www.v2ex.com/t/886008) ![](assets/new.png)  
-- [2022-10-11-郑州-5-10-年-Java-，远程面试，-12-24k](https://www.v2ex.com/t/886006) ![](assets/new.png)  
-- [2022-10-11-请教各位大佬，编程如何避免重复造轮子](https://www.v2ex.com/t/886004) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -561,13 +561,13 @@
 - [2022-10-11-GIL-已经被杀死了么？](https://toutiao.io/k/y3y419c) ![](assets/new.png)  
 - [2022-10-11-9-月全球-8-款手游月收入首破-3000-万，MMO、放置游戏发威](https://toutiao.io/k/tokbxmi) ![](assets/new.png)  
 - [2022-10-11-类型体操的-9-种类型运算、4-种类型套路总结](https://toutiao.io/k/mnzc54p) ![](assets/new.png)  
-- [2022-10-11-CuAssembler-开源-|-探求-NVIDIA-GPU-极限性能的利器](https://toutiao.io/k/18ik1gr) ![](assets/new.png)  
 - [2022-10-11-OpenKruise-v1.3：新增自定义-Pod-Probe-探针能力与大规模集群性能显著提升](https://toutiao.io/k/g2flkiu) ![](assets/new.png)  
+- [2022-10-11-CuAssembler-开源-|-探求-NVIDIA-GPU-极限性能的利器](https://toutiao.io/k/18ik1gr) ![](assets/new.png)  
+- [2022-10-11-你觉得这破玩意能叫高可用吗（实用肝货）](https://toutiao.io/k/zi68fvt) ![](assets/new.png)  
 - [2022-10-11-用过那么多评估开发工作量的指标，还是它最好用](https://toutiao.io/k/fkjz57d) ![](assets/new.png)  
 - [2022-10-11-这样做优化，实现-0.059s-启动一个-SpringBoot-项目](https://toutiao.io/k/y6rhm3i) ![](assets/new.png)  
-- [2022-10-11-你觉得这破玩意能叫高可用吗（实用肝货）](https://toutiao.io/k/zi68fvt) ![](assets/new.png)  
-- [2022-10-11-车机多用户系统的适配问题](https://toutiao.io/k/enhbnaf) ![](assets/new.png)  
 - [2022-10-11-你需要深入了解一下-JavaScript-的-new-Function](https://toutiao.io/k/r7lwsn1) ![](assets/new.png)  
+- [2022-10-11-车机多用户系统的适配问题](https://toutiao.io/k/enhbnaf) ![](assets/new.png)  
 - [2022-10-11-推荐-性能优化必备——火焰图](https://toutiao.io/k/azf7ub6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

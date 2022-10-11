@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-11 03:57:53。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-10-11 05:21:18。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,17 @@
 </summary>
 
 
+- [【V2EX】2022-10-11-求一个-CDR-的下载安装包](https://www.v2ex.com/t/886048) 
+- [【V2EX】2022-10-11-新人的开源笔记-app,-有在线版本免费使用](https://www.v2ex.com/t/886047) 
+- [【V2EX】2022-10-11-现在的同步技术是不是不完善？-iPhone-备忘录被曝莫名清空！](https://www.v2ex.com/t/886046) 
+- [【V2EX】2022-10-11-如果-fork-一个-GPL-的软件，通过多版本更新后完全不包含-fork-之前的代码了，我可以随意变更许可协议或者闭源吗？](https://www.v2ex.com/t/886045) 
+- [【V2EX】2022-10-11-2022-年-10-月，已经不能在淘宝购买香港礼品卡了？](https://www.v2ex.com/t/886044) 
+- [【V2EX】2022-10-11-最近大家很悲观，不知道明年就业行情怎么样，准备明年-4-月凑满四年经验跑路，你们继续跳槽还是苟？](https://www.v2ex.com/t/886043) 
+- [【V2EX】2022-10-11-求-Mac-换-Windows-笔记本推荐](https://www.v2ex.com/t/886041) 
+- [【V2EX】2022-10-11-我突然找不到发帖的按钮了！](https://www.v2ex.com/t/886040) 
+- [【V2EX】2022-10-11-一个综合类榜单](https://www.v2ex.com/t/886039) 
+- [【V2EX】2022-10-11-请教一下-wordpress-+-nginx-内网穿透的问题.](https://www.v2ex.com/t/886036) 
+- [【V2EX】2022-10-11-Oracle-ARM-6G-Ubuntu20-跑-Azure-SQL-Edge-为什么过几天就挂？](https://www.v2ex.com/t/886035) 
 - [【V2EX】2022-10-11-北京/上海PayPal外企-1065,-进来看看福利，-Java-/前端/测试职位-招聘](https://www.v2ex.com/t/886033) 
 - [【V2EX】2022-10-11-求职产品上海/远程-求产品岗位](https://www.v2ex.com/t/886032) 
 - [【V2EX】2022-10-11-有没有手提行李包/运动包推荐](https://www.v2ex.com/t/886031) 
@@ -91,14 +102,6 @@
 - [【V2EX】2022-10-11-Linux-之父的-PC-挂了，恐影响-Linux-6.1-发布](https://www.v2ex.com/t/886003) 
 - [【V2EX】2022-10-11-apple-watch-7-无故黑屏](https://www.v2ex.com/t/886002) 
 - [【V2EX】2022-10-11-为什么女朋友晚上都要我陪她聊天说话？](https://www.v2ex.com/t/886001) 
-- [【V2EX】2022-10-11-Webflow-导出-到自己的-CMS-上](https://www.v2ex.com/t/885997) 
-- [【V2EX】2022-10-11-xSearch-for-Safari-免费替代，帮助你覆盖-Safari-默认搜索引擎-用-@指令-快捷切换搜索引擎-无追-iOS-Safari-扩展上线](https://www.v2ex.com/t/885995) 
-- [【V2EX】2022-10-11-图片提取文字，钉钉新功能？](https://www.v2ex.com/t/885994) 
-- [【V2EX】2022-10-11-iOS-怎么作-SMB-/-SSH-server?](https://www.v2ex.com/t/885993) 
-- [【V2EX】2022-10-11-请教几个-Android-应用方面的问题](https://www.v2ex.com/t/885992) 
-- [【V2EX】2022-10-11-iPhone14pm-怎么进入-dfu-模式。试了好多次都是重启](https://www.v2ex.com/t/885990) 
-- [【V2EX】2022-10-11-不懂就问,-用-ssh-生成的代理会被检测到特征吗?](https://www.v2ex.com/t/885989) 
-- [【V2EX】2022-10-11-老婆小米手环-4-升级了-ios16-就没通知](https://www.v2ex.com/t/885987) 
 - [【技术头条】2022-10-11-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-11-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-11-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -127,13 +130,13 @@
 - [【开发者头条】2022-10-11-GIL-已经被杀死了么？](https://toutiao.io/k/y3y419c) 
 - [【开发者头条】2022-10-11-9-月全球-8-款手游月收入首破-3000-万，MMO、放置游戏发威](https://toutiao.io/k/tokbxmi) 
 - [【开发者头条】2022-10-11-类型体操的-9-种类型运算、4-种类型套路总结](https://toutiao.io/k/mnzc54p) 
-- [【开发者头条】2022-10-11-CuAssembler-开源-|-探求-NVIDIA-GPU-极限性能的利器](https://toutiao.io/k/18ik1gr) 
 - [【开发者头条】2022-10-11-OpenKruise-v1.3：新增自定义-Pod-Probe-探针能力与大规模集群性能显著提升](https://toutiao.io/k/g2flkiu) 
+- [【开发者头条】2022-10-11-CuAssembler-开源-|-探求-NVIDIA-GPU-极限性能的利器](https://toutiao.io/k/18ik1gr) 
+- [【开发者头条】2022-10-11-你觉得这破玩意能叫高可用吗（实用肝货）](https://toutiao.io/k/zi68fvt) 
 - [【开发者头条】2022-10-11-用过那么多评估开发工作量的指标，还是它最好用](https://toutiao.io/k/fkjz57d) 
 - [【开发者头条】2022-10-11-这样做优化，实现-0.059s-启动一个-SpringBoot-项目](https://toutiao.io/k/y6rhm3i) 
-- [【开发者头条】2022-10-11-你觉得这破玩意能叫高可用吗（实用肝货）](https://toutiao.io/k/zi68fvt) 
-- [【开发者头条】2022-10-11-车机多用户系统的适配问题](https://toutiao.io/k/enhbnaf) 
 - [【开发者头条】2022-10-11-你需要深入了解一下-JavaScript-的-new-Function](https://toutiao.io/k/r7lwsn1) 
+- [【开发者头条】2022-10-11-车机多用户系统的适配问题](https://toutiao.io/k/enhbnaf) 
 - [【开发者头条】2022-10-11-推荐-性能优化必备——火焰图](https://toutiao.io/k/azf7ub6) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>

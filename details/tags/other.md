@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-11 10:18:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-11 10:50:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1914,6 +1914,9 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-10-11-关于保密协议，这两条合理吗？](https://www.v2ex.com/t/886158) 
+- [2022-10-11-关于-Jellyfin-Plex-emby-服务端转码的疑惑](https://www.v2ex.com/t/886157) 
+- [2022-10-11-小白请问各位大佬一个-Springboot-问题](https://www.v2ex.com/t/886155) 
 - [2022-10-11-求解答，苹果手机（ios16）有没有方法屏蔽特定-App-自动更新吗](https://www.v2ex.com/t/886151) 
 - [2022-10-11-苹果手机怎么复制小红书里的内容](https://www.v2ex.com/t/886147) 
 - [2022-10-11-想给父母买个保险，不知道-大伙有推荐吗](https://www.v2ex.com/t/886146) 
@@ -1935,10 +1938,6 @@
 - [2022-10-11-大家每天必浏览的网站都有哪些？](https://www.v2ex.com/t/886113) 
 - [2022-10-11-有没有之前做过社交或者社区类项目的小伙伴？](https://www.v2ex.com/t/886112) 
 - [2022-10-11-Netty-Flush-延迟](https://www.v2ex.com/t/886110) 
-- [2022-10-11-静态博客-Markdown-编辑的图片你们是用什么方法快速贴图即调整大小等特性的](https://www.v2ex.com/t/886108) 
-- [2022-10-11-Finder-怎样才能如-Windows-系统那样显示-文件夹-缩略图](https://www.v2ex.com/t/886107) 
-- [2022-10-11-web3-高级-golang-后端开发工程师-base：北京望京南](https://www.v2ex.com/t/886106) 
-- [2022-10-11-请教大佬一个问题，有一个需求更新-30-张表的一个字段，怎么去实现？](https://www.v2ex.com/t/886103) 
 - [2022-10-11-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-11-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-11-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1964,7 +1963,7 @@
 - [2022-10-11-GIL-已经被杀死了么？](https://toutiao.io/k/y3y419c) 
 - [2022-10-11-类型体操的-9-种类型运算、4-种类型套路总结](https://toutiao.io/k/mnzc54p) 
 - [2022-10-11-你觉得这破玩意能叫高可用吗（实用肝货）](https://toutiao.io/k/zi68fvt) 
-- [2022-10-11-用过那么多评估开发工作量的指标，还是它最好用](https://toutiao.io/k/fkjz57d) 
 - [2022-10-11-Pandarallel-一个能让-pandas-计算火力拉满的工具](https://toutiao.io/k/z2kyunq) 
+- [2022-10-11-用过那么多评估开发工作量的指标，还是它最好用](https://toutiao.io/k/fkjz57d) 
 - [2022-10-11-内存对齐](https://toutiao.io/k/t30k4p6) 
 - [2022-10-11-利用-ModSecurity-内置实现第一代-rasp](https://toutiao.io/k/sn9z6n1) 

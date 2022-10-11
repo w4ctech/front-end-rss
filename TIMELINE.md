@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-11 09:51:35。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-10-11 10:18:40。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,9 @@
 </summary>
 
 
+- [【V2EX】2022-10-11-求解答，苹果手机（ios16）有没有方法屏蔽特定-App-自动更新吗](https://www.v2ex.com/t/886151) 
+- [【V2EX】2022-10-11-苹果手机怎么复制小红书里的内容](https://www.v2ex.com/t/886147) 
+- [【V2EX】2022-10-11-想给父母买个保险，不知道-大伙有推荐吗](https://www.v2ex.com/t/886146) 
 - [【V2EX】2022-10-11-马上双十一了，各位有-4k-投影仪推荐么？](https://www.v2ex.com/t/886145) 
 - [【V2EX】2022-10-11-交接工作需要注意什么？](https://www.v2ex.com/t/886144) 
 - [【V2EX】2022-10-11-试用了几个国内的表格-OCR-功能，大厂并不优秀啊](https://www.v2ex.com/t/886143) 
@@ -77,7 +80,6 @@
 - [【V2EX】2022-10-11-gitee-的项目-有一个-wiki-和-README-显示内容可能含有违规信息，作者是看不到的？](https://www.v2ex.com/t/886137) 
 - [【V2EX】2022-10-11-女朋友单亲家庭，母亲含辛茹苦养大，第一次上门见面礼要怎么送？](https://www.v2ex.com/t/886136) 
 - [【V2EX】2022-10-11-A-和-B-两个手机同一个-id，-A-装完软件，-B-手机上也出现这个软件了-这个怎么设置不让他们同步呀](https://www.v2ex.com/t/886134) 
-- [【V2EX】2022-10-11-你如何评价人民日报仲音的最近两天的两篇文章「增强对当前疫情防控政策的信心和耐心」和「动态清零可持续而且必须坚持」?](https://www.v2ex.com/t/886133) 
 - [【V2EX】2022-10-11-关于职业规划](https://www.v2ex.com/t/886130) 
 - [【V2EX】2022-10-11-web3-高级产品经理-base：北京望京南](https://www.v2ex.com/t/886129) 
 - [【V2EX】2022-10-11-Pro-19-年的这个配置还推荐升级吗？](https://www.v2ex.com/t/886128) 
@@ -97,10 +99,6 @@
 - [【V2EX】2022-10-11-Finder-怎样才能如-Windows-系统那样显示-文件夹-缩略图](https://www.v2ex.com/t/886107) 
 - [【V2EX】2022-10-11-web3-高级-golang-后端开发工程师-base：北京望京南](https://www.v2ex.com/t/886106) 
 - [【V2EX】2022-10-11-请教大佬一个问题，有一个需求更新-30-张表的一个字段，怎么去实现？](https://www.v2ex.com/t/886103) 
-- [【V2EX】2022-10-11-Watch-Pixel-watch-的-LTE-支持，是-esim-吗](https://www.v2ex.com/t/886102) 
-- [【V2EX】2022-10-11-Java-on-Azure-Tooling-的更新-–-2022-年-9-月-Azure-虚拟机增强，-Azure-Cosmos-DB-资源管理](https://www.v2ex.com/t/886100) 
-- [【V2EX】2022-10-11-有没有之前利用业余时间做过社交或者社区类项目的小伙伴？](https://www.v2ex.com/t/886098) 
-- [【V2EX】2022-10-11-mac-为啥修改-dns-总是会被自动重置？](https://www.v2ex.com/t/886097) 
 - [【技术头条】2022-10-11-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-11-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-11-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -135,8 +133,8 @@
 - [【开发者头条】2022-10-11-这样做优化，实现-0.059s-启动一个-SpringBoot-项目](https://toutiao.io/k/y6rhm3i) 
 - [【开发者头条】2022-10-11-车机多用户系统的适配问题](https://toutiao.io/k/enhbnaf) 
 - [【开发者头条】2022-10-11-用过那么多评估开发工作量的指标，还是它最好用](https://toutiao.io/k/fkjz57d) 
-- [【开发者头条】2022-10-11-你需要深入了解一下-JavaScript-的-new-Function](https://toutiao.io/k/r7lwsn1) 
 - [【开发者头条】2022-10-11-Pandarallel-一个能让-pandas-计算火力拉满的工具](https://toutiao.io/k/z2kyunq) 
+- [【开发者头条】2022-10-11-你需要深入了解一下-JavaScript-的-new-Function](https://toutiao.io/k/r7lwsn1) 
 - [【开发者头条】2022-10-11-内存对齐](https://toutiao.io/k/t30k4p6) 
 - [【开发者头条】2022-10-11-利用-ModSecurity-内置实现第一代-rasp](https://toutiao.io/k/sn9z6n1) 
 - [【开发者头条】2022-10-11-推荐-性能优化必备——火焰图](https://toutiao.io/k/azf7ub6) 

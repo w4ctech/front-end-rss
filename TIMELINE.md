@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-11 08:02:06。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-10-11 08:37:43。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,17 @@
 </summary>
 
 
+- [【V2EX】2022-10-11-动态清零，别指望大会之后有什么改变了。](https://www.v2ex.com/t/886121) 
+- [【V2EX】2022-10-11-QX-的去广告配置，在-NGA-上会提示无法连接，怎么修改？](https://www.v2ex.com/t/886119) 
+- [【V2EX】2022-10-11-哪里可以买到病毒？](https://www.v2ex.com/t/886116) 
+- [【V2EX】2022-10-11-大佬们帮帮忙出出主意，双非一本，求一个工作方向](https://www.v2ex.com/t/886115) 
+- [【V2EX】2022-10-11-Java-on-Azure-Tooling-的更新-–-2022-年-9-月-Azure-虚拟机增强与-Azure-Cosmos-DB-资源管理](https://www.v2ex.com/t/886114) 
+- [【V2EX】2022-10-11-大家每天必浏览的网站都有哪些？](https://www.v2ex.com/t/886113) 
+- [【V2EX】2022-10-11-有没有之前做过社交或者社区类项目的小伙伴？](https://www.v2ex.com/t/886112) 
+- [【V2EX】2022-10-11-通过公众号或者小程序抢票的技术原理是什么？](https://www.v2ex.com/t/886111) 
+- [【V2EX】2022-10-11-Netty-Flush-延迟](https://www.v2ex.com/t/886110) 
+- [【V2EX】2022-10-11-静态博客-Markdown-编辑的图片你们是用什么方法快速贴图即调整大小等特性的](https://www.v2ex.com/t/886108) 
+- [【V2EX】2022-10-11-Finder-怎样才能如-Windows-系统那样显示-文件夹-缩略图](https://www.v2ex.com/t/886107) 
 - [【V2EX】2022-10-11-web3-高级-golang-后端开发工程师-base：北京望京南](https://www.v2ex.com/t/886106) 
 - [【V2EX】2022-10-11-请教大佬一个问题，有一个需求更新-30-张表的一个字段，怎么去实现？](https://www.v2ex.com/t/886103) 
 - [【V2EX】2022-10-11-Watch-Pixel-watch-的-LTE-支持，是-esim-吗](https://www.v2ex.com/t/886102) 
@@ -91,19 +102,6 @@
 - [【V2EX】2022-10-11-idea-console-输出日志怎么屏蔽:左边的以缩短我看见的内容](https://www.v2ex.com/t/886077) 
 - [【V2EX】2022-10-11-请教-V2EX-官方有无-app-for-apple-设备？](https://www.v2ex.com/t/886076) 
 - [【V2EX】2022-10-11-mongoose-外键查询问题](https://www.v2ex.com/t/886074) 
-- [【V2EX】2022-10-11-请问外企在国内，外企在海外的面试考算法，前后端考的难度一样嘛？](https://www.v2ex.com/t/886073) 
-- [【V2EX】2022-10-11-你们有啥想做的吗？这里有一只免费的服务端劳力，每天一个小时](https://www.v2ex.com/t/886072) 
-- [【V2EX】2022-10-11-sql-练习网站？](https://www.v2ex.com/t/886071) 
-- [【V2EX】2022-10-11-有骑行爱好者吗？你们是如何防止自己的码表/车被偷/被破坏的？](https://www.v2ex.com/t/886070) 
-- [【V2EX】2022-10-11-想休息几个月，有没有推荐的社保代缴？](https://www.v2ex.com/t/886069) 
-- [【V2EX】2022-10-11-Apple-Watch-一直在记录运动，怎么停止啊救命](https://www.v2ex.com/t/886068) 
-- [【V2EX】2022-10-11-制作了一款新标签页/网络书签，名字还没想好，大家试试](https://www.v2ex.com/t/886065) 
-- [【V2EX】2022-10-11-如何不用双手给抖音点赞?](https://www.v2ex.com/t/886063) 
-- [【V2EX】2022-10-11-招行经典白，生日-10-倍积分，刷点什么呢？](https://www.v2ex.com/t/886062) 
-- [【V2EX】2022-10-11-自己写了一段-snippet,可以获取-EF-Core-中的实体在控制器内的引用](https://www.v2ex.com/t/886061) 
-- [【V2EX】2022-10-11-win10-/-win11-系统声音忽大忽小的-BUG，求大佬指导](https://www.v2ex.com/t/886060) 
-- [【V2EX】2022-10-11-每次-ios-升级后-wifi-就无法连接，必须还原网络设置才能恢复](https://www.v2ex.com/t/886058) 
-- [【V2EX】2022-10-11-阿里云，腾讯云，华为云优惠](https://www.v2ex.com/t/886057) 
 - [【技术头条】2022-10-11-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-11-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-11-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -129,8 +127,8 @@
 - [【开发者头条】2022-10-11-从-0-到-1-智能风控决策引擎构建](https://toutiao.io/k/z948l4u) 
 - [【开发者头条】2022-10-11-聊聊如何度过寒冬（公司篇）](https://toutiao.io/k/hqw8tto) 
 - [【开发者头条】2022-10-11-【前端】localStorage-用法及使用注意事项](https://toutiao.io/k/qz3nx8m) 
-- [【开发者头条】2022-10-11-GIL-已经被杀死了么？](https://toutiao.io/k/y3y419c) 
 - [【开发者头条】2022-10-11-9-月全球-8-款手游月收入首破-3000-万，MMO、放置游戏发威](https://toutiao.io/k/tokbxmi) 
+- [【开发者头条】2022-10-11-GIL-已经被杀死了么？](https://toutiao.io/k/y3y419c) 
 - [【开发者头条】2022-10-11-类型体操的-9-种类型运算、4-种类型套路总结](https://toutiao.io/k/mnzc54p) 
 - [【开发者头条】2022-10-11-OpenKruise-v1.3：新增自定义-Pod-Probe-探针能力与大规模集群性能显著提升](https://toutiao.io/k/g2flkiu) 
 - [【开发者头条】2022-10-11-CuAssembler-开源-|-探求-NVIDIA-GPU-极限性能的利器](https://toutiao.io/k/18ik1gr) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-11 06:27:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-11 07:09:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -13,4 +13,4 @@
 - [2021-04-14-腺病毒新冠疫苗引安全忧虑-康希诺称未发现血栓病例](https://m.caixin.com/m/2021-04-14/101691086.html) 
 - [2021-01-08-解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html) 
 - [2021-01-01-大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html) 
-- [2022-10-11-Oracle-ARM-6G-Ubuntu20-跑-Azure-SQL-Edge-为什么过几天就挂？](https://www.v2ex.com/t/886035) 
+- [2022-10-11-有没有朋友遇到过-Chrome-扩展审核被拒的理由是"Privacy-policy-link-is-broken-or-unavailable"？](https://www.v2ex.com/t/886086) 

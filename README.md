@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-11 23:09:27，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-11 23:20:13，:rocket: 更新条数: +2025， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -502,7 +502,6 @@
 - [2022-10-11-iPhone-可以实现-使用电源键，快速打开健康码-吗？](https://www.v2ex.com/t/886215) ![](assets/new.png)  
 - [2022-10-11-如何把网络上的信息保存到本地](https://www.v2ex.com/t/886214) ![](assets/new.png)  
 - [2022-10-11-全屋-5G-覆盖也太难搞了，才隔一堵墙连-400M-都没有了](https://www.v2ex.com/t/886213) ![](assets/new.png)  
-- [2022-10-11-要不要从数仓转-Java](https://www.v2ex.com/t/886212) ![](assets/new.png)  
 - [2022-10-11-请教一个关于-sanic-域名解析的问题](https://www.v2ex.com/t/886210) ![](assets/new.png)  
 - [2022-10-11-美区-AppleOne-中杯-25/月-月付-还有车位](https://www.v2ex.com/t/886209) ![](assets/new.png)  
 - [2022-10-11-K8S-大搬家求救](https://www.v2ex.com/t/886208) ![](assets/new.png)  
@@ -511,6 +510,7 @@
 - [2022-10-11-20221011-午夜俱乐部](https://www.v2ex.com/t/886205) ![](assets/new.png)  
 - [2022-10-11-三年-Java-的-offer-选择](https://www.v2ex.com/t/886204) ![](assets/new.png)  
 - [2022-10-11-开发了一个-Chrome-便利贴的插件，欢迎大家提意见](https://www.v2ex.com/t/886203) ![](assets/new.png)  
+- [2022-10-11-最近好不容易能去香港了，有什么值得办理或购买的吗？最好是内地不好办的](https://www.v2ex.com/t/886202) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

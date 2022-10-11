@@ -9953,6 +9953,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "发一个通过漏洞精准识别 VMess over TCP 的原理和代码",
+        "link": "https://www.v2ex.com/t/886229",
+        "date": "2022-10-11"
+      },
+      {
+        "title": "Apple 在新设备上布局的 U 系列超宽频芯片，是否为 iPhone 和其他产品去接口化做准备的",
+        "link": "https://www.v2ex.com/t/886228",
+        "date": "2022-10-11"
+      },
+      {
         "title": "Serverless 数据驱动应用 -- 助理数据科学家上线本地 notebook 或脚本",
         "link": "https://www.v2ex.com/t/886225",
         "date": "2022-10-11"
@@ -10141,16 +10151,6 @@
         "title": "程序员-转行卖水果怎么样？",
         "link": "https://www.v2ex.com/t/886181",
         "date": "2022-10-11"
-      },
-      {
-        "title": "白群晖断开连接",
-        "link": "https://www.v2ex.com/t/886179",
-        "date": "2022-10-11"
-      },
-      {
-        "title": "[SQL] 有没有什么网站或者 AI 程序，平时可以帮助分析很长的 SQL 是否可以优化？",
-        "link": "https://www.v2ex.com/t/886178",
-        "date": "2022-10-11"
       }
     ]
   },
@@ -10267,93 +10267,28 @@
     "link": "https://toutiao.io",
     "items": [
       {
-        "title": "7000 字 + 24 张图带你彻底弄懂线程池",
-        "link": "https://toutiao.io/k/wci1eno",
+        "title": "搜索中常见数据结构与算法探究（一）",
+        "link": "https://toutiao.io/k/nrqhhvl",
         "date": "2022-10-11"
       },
       {
-        "title": "Paxos 为什么可以保证整体一致性？",
-        "link": "https://toutiao.io/k/2uyzcee",
+        "title": "魔改 xxl-job，彻底告别手动配置任务",
+        "link": "https://toutiao.io/k/6sjbtl0",
         "date": "2022-10-11"
       },
       {
-        "title": "从 0 到 1 智能风控决策引擎构建",
-        "link": "https://toutiao.io/k/z948l4u",
+        "title": "从 SpringBoot 启动，阅读源码设计",
+        "link": "https://toutiao.io/k/1s3gzfx",
         "date": "2022-10-11"
       },
       {
-        "title": "【前端】localStorage 用法及使用注意事项",
-        "link": "https://toutiao.io/k/qz3nx8m",
+        "title": "不会服务治理，还怎么搞微服务？",
+        "link": "https://toutiao.io/k/53jbwls",
         "date": "2022-10-11"
       },
       {
-        "title": "聊聊如何度过寒冬（公司篇）",
-        "link": "https://toutiao.io/k/hqw8tto",
-        "date": "2022-10-11"
-      },
-      {
-        "title": "9 月全球 8 款手游月收入首破 3000 万，MMO、放置游戏发威",
-        "link": "https://toutiao.io/k/tokbxmi",
-        "date": "2022-10-11"
-      },
-      {
-        "title": "GIL 已经被杀死了么？",
-        "link": "https://toutiao.io/k/y3y419c",
-        "date": "2022-10-11"
-      },
-      {
-        "title": "类型体操的 9 种类型运算、4 种类型套路总结",
-        "link": "https://toutiao.io/k/mnzc54p",
-        "date": "2022-10-11"
-      },
-      {
-        "title": "OpenKruise v1.3：新增自定义 Pod Probe 探针能力与大规模集群性能显著提升",
-        "link": "https://toutiao.io/k/g2flkiu",
-        "date": "2022-10-11"
-      },
-      {
-        "title": "CuAssembler 开源 | 探求 NVIDIA GPU 极限性能的利器",
-        "link": "https://toutiao.io/k/18ik1gr",
-        "date": "2022-10-11"
-      },
-      {
-        "title": "你觉得这破玩意能叫高可用吗（实用肝货）",
-        "link": "https://toutiao.io/k/zi68fvt",
-        "date": "2022-10-11"
-      },
-      {
-        "title": "这样做优化，实现 0.059s 启动一个 SpringBoot 项目",
-        "link": "https://toutiao.io/k/y6rhm3i",
-        "date": "2022-10-11"
-      },
-      {
-        "title": "车机多用户系统的适配问题",
-        "link": "https://toutiao.io/k/enhbnaf",
-        "date": "2022-10-11"
-      },
-      {
-        "title": "Pandarallel 一个能让 pandas 计算火力拉满的工具",
-        "link": "https://toutiao.io/k/z2kyunq",
-        "date": "2022-10-11"
-      },
-      {
-        "title": "内存对齐",
-        "link": "https://toutiao.io/k/t30k4p6",
-        "date": "2022-10-11"
-      },
-      {
-        "title": "用过那么多评估开发工作量的指标，还是它最好用",
-        "link": "https://toutiao.io/k/fkjz57d",
-        "date": "2022-10-11"
-      },
-      {
-        "title": "你需要深入了解一下 JavaScript 的 new Function",
-        "link": "https://toutiao.io/k/r7lwsn1",
-        "date": "2022-10-11"
-      },
-      {
-        "title": "利用 ModSecurity 内置实现第一代 rasp",
-        "link": "https://toutiao.io/k/sn9z6n1",
+        "title": "76 张图，剖析 Spring AOP 源码，小白居然也能看懂，大神，请收下我的膝盖",
+        "link": "https://toutiao.io/k/kgzocte",
         "date": "2022-10-11"
       },
       {

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-11 01:16:07，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-11 03:57:53，:rocket: 更新条数: +2013， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,26 +491,26 @@
 </summary>
 
 
-- [2022-10-11-那些转码的人是怎么找到第一份工作的？](https://www.v2ex.com/t/885957) ![](assets/new.png)  
-- [2022-10-11-关于购买美版-13-mini-并使用-esim-的问题](https://www.v2ex.com/t/885956) ![](assets/new.png)  
-- [2022-10-11-LG-显示器售后维修记录-type-c-怼爆：-500-->-免费？-（实时更新](https://www.v2ex.com/t/885955) ![](assets/new.png)  
-- [2022-10-11-Surge-for-mac-车位](https://www.v2ex.com/t/885954) ![](assets/new.png)  
-- [2022-10-11-「唤醒记忆」-Netty（一）---Why-Netty](https://www.v2ex.com/t/885953) ![](assets/new.png)  
-- [2022-10-11-爱华随身听装电池不通电要怎么修?](https://www.v2ex.com/t/885952) ![](assets/new.png)  
-- [2022-10-11-纠结了很久最终还是入手-Series-8-了，但是-Ultra-是真的好看。](https://www.v2ex.com/t/885951) ![](assets/new.png)  
-- [2022-10-11-macOS-可以为一个已有的第三方应用程序添加一个全局菜单栏的图标吗？](https://www.v2ex.com/t/885950) ![](assets/new.png)  
-- [2022-10-11-请教这个-Safari-BUG-要怎么绕过？昨天浪费了我一天：-双击的后一击被呑掉了!](https://www.v2ex.com/t/885949) ![](assets/new.png)  
-- [2022-10-11-区块链公司，远程办公，开始招聘啦~~~](https://www.v2ex.com/t/885948) ![](assets/new.png)  
-- [2022-10-11-iOS-16.0.3-发布-16.1-是不是遥遥无期啊](https://www.v2ex.com/t/885947) ![](assets/new.png)  
-- [2022-10-11-我有个朋友他这个-18-线小公司写-API-文档这个流程也太繁琐了](https://www.v2ex.com/t/885946) ![](assets/new.png)  
-- [2022-10-11-Windows11-更改默认-SSH-客户端为“Bash”出现“系统无法访问此文件。”错误](https://www.v2ex.com/t/885945) ![](assets/new.png)  
-- [2022-10-11-类似这样的规则你是如何处理的？](https://www.v2ex.com/t/885944) ![](assets/new.png)  
-- [2022-10-11-iPhone-开启开发者模式会有哪些“安全性降低”的潜在问题](https://www.v2ex.com/t/885943) ![](assets/new.png)  
-- [2022-10-10-上海-不加班-混合办公-外企-招-初中级-Java-1-年经验起，中级测试（2-年经验起），高级安卓，中级-devOps、C++，初级-UI/UX](https://www.v2ex.com/t/885942) ![](assets/new.png)  
-- [2022-10-10-Mac-上老款方形-Touch-ID-和目前新款方中带圆环的有啥区别，哪个是第二代](https://www.v2ex.com/t/885941) ![](assets/new.png)  
-- [2022-10-10-在硬路由上-fakeip-与-ipv6-真是完美组合](https://www.v2ex.com/t/885940) ![](assets/new.png)  
-- [2022-10-10-没写过-PHP-，临时需要，有-V-友能帮忙把这-20-行-JavaScript-移植到-PHP-吗？](https://www.v2ex.com/t/885938) ![](assets/new.png)  
-- [2022-10-10-求推荐一个可以在小组件看运营商套餐的解决方案。](https://www.v2ex.com/t/885935) ![](assets/new.png)  
+- [2022-10-11-北京/上海PayPal外企-1065,-进来看看福利，-Java-/前端/测试职位-招聘](https://www.v2ex.com/t/886033) ![](assets/new.png)  
+- [2022-10-11-求职产品上海/远程-求产品岗位](https://www.v2ex.com/t/886032) ![](assets/new.png)  
+- [2022-10-11-有没有手提行李包/运动包推荐](https://www.v2ex.com/t/886031) ![](assets/new.png)  
+- [2022-10-11-关于-TCP-delayed-ACK-问题](https://www.v2ex.com/t/886029) ![](assets/new.png)  
+- [2022-10-11-决赛圈-7950x-vs-5950x，求推荐](https://www.v2ex.com/t/886027) ![](assets/new.png)  
+- [2022-10-11-最近网上讨论很多的苹果备忘录丢失问题](https://www.v2ex.com/t/886026) ![](assets/new.png)  
+- [2022-10-11-有人在参与-flare-on-9-吗](https://www.v2ex.com/t/886024) ![](assets/new.png)  
+- [2022-10-11-macOS-如何实现根据不同目的选择出口网卡?](https://www.v2ex.com/t/886022) ![](assets/new.png)  
+- [2022-10-11-Pulse-secure-VPN-疑问](https://www.v2ex.com/t/886018) ![](assets/new.png)  
+- [2022-10-11-加拿大鹅同款最高版本，羽绒马甲-299，正品正价-5000](https://www.v2ex.com/t/886017) ![](assets/new.png)  
+- [2022-10-11-PVE7.2-安装磁盘和网络问题.](https://www.v2ex.com/t/886016) ![](assets/new.png)  
+- [2022-10-11-单次-45-秒响铃电话是寻呼机器人吗？](https://www.v2ex.com/t/886015) ![](assets/new.png)  
+- [2022-10-11-贪吃商城？](https://www.v2ex.com/t/886014) ![](assets/new.png)  
+- [2022-10-11-有好用的护手霜推荐吗](https://www.v2ex.com/t/886012) ![](assets/new.png)  
+- [2022-10-11-Linux-下有什么好用的-pdf-ocr-识别软件](https://www.v2ex.com/t/886011) ![](assets/new.png)  
+- [2022-10-11-求国内公司订阅制收外币解决方案](https://www.v2ex.com/t/886010) ![](assets/new.png)  
+- [2022-10-11-tieba.com-使用的是-baidu.com-的证书](https://www.v2ex.com/t/886009) ![](assets/new.png)  
+- [2022-10-11-怎样写单元测试](https://www.v2ex.com/t/886008) ![](assets/new.png)  
+- [2022-10-11-郑州-5-10-年-Java-，远程面试，-12-24k](https://www.v2ex.com/t/886006) ![](assets/new.png)  
+- [2022-10-11-请教各位大佬，编程如何避免重复造轮子](https://www.v2ex.com/t/886004) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -553,16 +553,21 @@
 </summary>
 
 
-- [2022-10-11-Paxos-为什么可以保证整体一致性？](https://toutiao.io/k/2uyzcee) ![](assets/new.png)  
 - [2022-10-11-7000-字-+-24-张图带你彻底弄懂线程池](https://toutiao.io/k/wci1eno) ![](assets/new.png)  
+- [2022-10-11-Paxos-为什么可以保证整体一致性？](https://toutiao.io/k/2uyzcee) ![](assets/new.png)  
 - [2022-10-11-从-0-到-1-智能风控决策引擎构建](https://toutiao.io/k/z948l4u) ![](assets/new.png)  
 - [2022-10-11-聊聊如何度过寒冬（公司篇）](https://toutiao.io/k/hqw8tto) ![](assets/new.png)  
-- [2022-10-11-9-月全球-8-款手游月收入首破-3000-万，MMO、放置游戏发威](https://toutiao.io/k/tokbxmi) ![](assets/new.png)  
-- [2022-10-11-GIL-已经被杀死了么？](https://toutiao.io/k/y3y419c) ![](assets/new.png)  
 - [2022-10-11-【前端】localStorage-用法及使用注意事项](https://toutiao.io/k/qz3nx8m) ![](assets/new.png)  
+- [2022-10-11-GIL-已经被杀死了么？](https://toutiao.io/k/y3y419c) ![](assets/new.png)  
+- [2022-10-11-9-月全球-8-款手游月收入首破-3000-万，MMO、放置游戏发威](https://toutiao.io/k/tokbxmi) ![](assets/new.png)  
 - [2022-10-11-类型体操的-9-种类型运算、4-种类型套路总结](https://toutiao.io/k/mnzc54p) ![](assets/new.png)  
-- [2022-10-11-OpenKruise-v1.3：新增自定义-Pod-Probe-探针能力与大规模集群性能显著提升](https://toutiao.io/k/g2flkiu) ![](assets/new.png)  
 - [2022-10-11-CuAssembler-开源-|-探求-NVIDIA-GPU-极限性能的利器](https://toutiao.io/k/18ik1gr) ![](assets/new.png)  
+- [2022-10-11-OpenKruise-v1.3：新增自定义-Pod-Probe-探针能力与大规模集群性能显著提升](https://toutiao.io/k/g2flkiu) ![](assets/new.png)  
+- [2022-10-11-用过那么多评估开发工作量的指标，还是它最好用](https://toutiao.io/k/fkjz57d) ![](assets/new.png)  
+- [2022-10-11-这样做优化，实现-0.059s-启动一个-SpringBoot-项目](https://toutiao.io/k/y6rhm3i) ![](assets/new.png)  
+- [2022-10-11-你觉得这破玩意能叫高可用吗（实用肝货）](https://toutiao.io/k/zi68fvt) ![](assets/new.png)  
+- [2022-10-11-车机多用户系统的适配问题](https://toutiao.io/k/enhbnaf) ![](assets/new.png)  
+- [2022-10-11-你需要深入了解一下-JavaScript-的-new-Function](https://toutiao.io/k/r7lwsn1) ![](assets/new.png)  
 - [2022-10-11-推荐-性能优化必备——火焰图](https://toutiao.io/k/azf7ub6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

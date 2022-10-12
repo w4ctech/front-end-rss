@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-12 15:22:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-12 15:57:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1914,6 +1914,7 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-10-12-请问微软商店怎么看应用的更新日志版本历史记录](https://www.v2ex.com/t/886493) 
 - [2022-10-12-有奖征集软件名字（银行业）](https://www.v2ex.com/t/886489) 
 - [2022-10-12-今天被-apple-pay-坑惨了](https://www.v2ex.com/t/886487) 
 - [2022-10-12-为什么一张图看起来是蓝色的？](https://www.v2ex.com/t/886486) 
@@ -1943,8 +1944,6 @@
 - [2022-10-12-请问，有人遇到过，通过-altstore-签名的应用，无法使用-charles-抓包的情况么？](https://www.v2ex.com/t/886450) 
 - [2022-10-12-还没到那个程度，想先了解一下-DIY-硬件方面要花多少钱？（PCB+ESP32-芯片+元件+亚克力壳体）](https://www.v2ex.com/t/886446) 
 - [2022-10-12-可以通过关闭-Gmail-功能再重新启用的方式来更改-Google-账号名吗？](https://www.v2ex.com/t/886445) 
-- [2022-10-12-闲暇搞个副业挣点睡后收入](https://www.v2ex.com/t/886444) 
-- [2022-10-12-是我太倒霉了吗😓](https://www.v2ex.com/t/886443) 
 - [2022-10-12-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-12-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-12-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

@@ -9953,6 +9953,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "AirPods 自动切换，你 XX 到底切换了个啥？",
+        "link": "https://www.v2ex.com/t/886434",
+        "date": "2022-10-12"
+      },
+      {
+        "title": "使用 SQL 来处理某个瞬发的数据，想整理每行是每小时的输出的列表，如果当前小时没数据就用最后一次有数据的时间",
+        "link": "https://www.v2ex.com/t/886433",
+        "date": "2022-10-12"
+      },
+      {
         "title": "微博开始给用户设“KPI”了...",
         "link": "https://www.v2ex.com/t/886432",
         "date": "2022-10-12"
@@ -10150,11 +10160,6 @@
       {
         "title": "建站求助",
         "link": "https://www.v2ex.com/t/886387",
-        "date": "2022-10-12"
-      },
-      {
-        "title": "Keepass 的密码如何可以在 Configuration Manager Remote Control 里使用",
-        "link": "https://www.v2ex.com/t/886384",
         "date": "2022-10-12"
       }
     ]

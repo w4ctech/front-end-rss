@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-12 09:51:57。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-10-12 10:19:58。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,8 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-12-CSS-::file-selector-button伪元素简介](https://www.zhangxinxu.com/wordpress/2022/10/css-file-selector-button/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-12-更符合书写习惯的CSS媒体查询Range语法](https://www.zhangxinxu.com/wordpress/2022/10/css-media-range-syntax/) 
+- [【V2EX】2022-10-12-AirPods-自动切换，你-XX-到底切换了个啥？](https://www.v2ex.com/t/886434) 
+- [【V2EX】2022-10-12-使用-SQL-来处理某个瞬发的数据，想整理每行是每小时的输出的列表，如果当前小时没数据就用最后一次有数据的时间](https://www.v2ex.com/t/886433) 
 - [【V2EX】2022-10-12-微博开始给用户设“KPI”了...](https://www.v2ex.com/t/886432) 
 - [【V2EX】2022-10-12-为什么-MacOS-就是不原生提供剪切板和状态栏折叠功能呢？](https://www.v2ex.com/t/886431) 
 - [【V2EX】2022-10-12-请问现在那个-twitter-客户端最好，跟-Maipo/WeiboX-体验类似的。](https://www.v2ex.com/t/886430) 
@@ -110,7 +112,6 @@
 - [【V2EX】2022-10-12-A-lightweight-text-editor-written-in-Lua](https://www.v2ex.com/t/886390) 
 - [【V2EX】2022-10-12-Visual-Studio-Code-Python-–-2022-年-10-月更新](https://www.v2ex.com/t/886388) 
 - [【V2EX】2022-10-12-建站求助](https://www.v2ex.com/t/886387) 
-- [【V2EX】2022-10-12-Keepass-的密码如何可以在-Configuration-Manager-Remote-Control-里使用](https://www.v2ex.com/t/886384) 
 - [【技术头条】2022-10-12-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-12-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-12-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

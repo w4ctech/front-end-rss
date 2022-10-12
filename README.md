@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-12 13:33:39，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-12 14:36:00，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,18 @@
 </summary>
 
 
+- [2022-10-12-抽奖送码活动-&-macOS-Bob-x-火山翻译抽奖活动！](https://www.v2ex.com/t/886485) ![](assets/new.png)  
+- [2022-10-12-30G-的数据库如何高效搬运到服务器？](https://www.v2ex.com/t/886484) ![](assets/new.png)  
+- [2022-10-12-一直显示“谷歌-play-正在更新”怎么办？](https://www.v2ex.com/t/886483) ![](assets/new.png)  
+- [2022-10-12-请问怎样对一个数组按大小切出多个可写的引用分片？](https://www.v2ex.com/t/886482) ![](assets/new.png)  
+- [2022-10-12-备忘录的文件都空了，但备忘录还在，是快中招了还是操作错误？](https://www.v2ex.com/t/886481) ![](assets/new.png)  
+- [2022-10-12-《手把手带你用-retool-开发微-SaaS-应用》课程已经开发-30%了，现需要验证大家对这门课程的兴趣](https://www.v2ex.com/t/886480) ![](assets/new.png)  
+- [2022-10-12-CF-干货-IP《CloudFlare-的韩国仁川和中国香港本土-IPv4-地址选择》](https://www.v2ex.com/t/886479) ![](assets/new.png)  
+- [2022-10-12-提问如果工作中有足够时间，你们会用来做什么](https://www.v2ex.com/t/886478) ![](assets/new.png)  
+- [2022-10-12-请求企业微信-API-时而可以时而报错-cURL-error](https://www.v2ex.com/t/886475) ![](assets/new.png)  
+- [2022-10-12-有木有懂洋酒-hxd，求帮忙看看这个酒](https://www.v2ex.com/t/886473) ![](assets/new.png)  
+- [2022-10-12-问下各位买车时的价位区间是怎么决定的](https://www.v2ex.com/t/886471) ![](assets/new.png)  
+- [2022-10-12-有没有快速生成一个微信小程序的工具呀，就是自己做个界面和流程，然后自动生成代码发布到微信开发上。](https://www.v2ex.com/t/886470) ![](assets/new.png)  
 - [2022-10-12-JetBrains-Fleet-开始进行公开测试了](https://www.v2ex.com/t/886469) ![](assets/new.png)  
 - [2022-10-12-Cookie-的-Secure-有点迷惑人](https://www.v2ex.com/t/886467) ![](assets/new.png)  
 - [2022-10-12-关于客厅-HTPC-方案的选择](https://www.v2ex.com/t/886466) ![](assets/new.png)  
@@ -499,18 +511,6 @@
 - [2022-10-12-JetBrains-家-Fleet-的使用](https://www.v2ex.com/t/886462) ![](assets/new.png)  
 - [2022-10-12-Vercel-是不是会屏蔽一些依赖](https://www.v2ex.com/t/886461) ![](assets/new.png)  
 - [2022-10-12-求助！-macOS-密码错误！其实密码没错…](https://www.v2ex.com/t/886460) ![](assets/new.png)  
-- [2022-10-12-还是买了-iPhone-14-Pro-Max...](https://www.v2ex.com/t/886459) ![](assets/new.png)  
-- [2022-10-12-JetBrains-Fleet-开始公测了](https://www.v2ex.com/t/886457) ![](assets/new.png)  
-- [2022-10-12-求推荐-Windows-笔记本-TypeC-拓展坞](https://www.v2ex.com/t/886456) ![](assets/new.png)  
-- [2022-10-12-无追破-2-亿，已经推出-iOS-无追扩展-wuzhuiso.com-隐私保护-化繁为简，匿名隐私搜索-摆脱广告追踪](https://www.v2ex.com/t/886455) ![](assets/new.png)  
-- [2022-10-12-为什么没有人做一个零食评测网站呢？](https://www.v2ex.com/t/886454) ![](assets/new.png)  
-- [2022-10-12-自行车大佬有没有，请教问题。山地自行车-轮胎打气一般打多少呀-还有档位....](https://www.v2ex.com/t/886453) ![](assets/new.png)  
-- [2022-10-12-Outlook-网页版如何设置接收其他邮箱的邮件？](https://www.v2ex.com/t/886451) ![](assets/new.png)  
-- [2022-10-12-请问，有人遇到过，通过-altstore-签名的应用，无法使用-charles-抓包的情况么？](https://www.v2ex.com/t/886450) ![](assets/new.png)  
-- [2022-10-12-有主动退-D-的-v-友吗，会有什么影响吗](https://www.v2ex.com/t/886448) ![](assets/new.png)  
-- [2022-10-12-Jetbrains-fleet-pubilc-preview-了，可立刻下载体验！](https://www.v2ex.com/t/886447) ![](assets/new.png)  
-- [2022-10-12-还没到那个程度，想先了解一下-DIY-硬件方面要花多少钱？（PCB+ESP32-芯片+元件+亚克力壳体）](https://www.v2ex.com/t/886446) ![](assets/new.png)  
-- [2022-10-12-可以通过关闭-Gmail-功能再重新启用的方式来更改-Google-账号名吗？](https://www.v2ex.com/t/886445) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -569,8 +569,8 @@
 - [2022-10-12-进击的-PyTorch，和它背后的开源领袖](https://toutiao.io/k/94zqba8) ![](assets/new.png)  
 - [2022-10-12-浅谈测试：单元测试的爱恨情仇](https://toutiao.io/k/4ifpeub) ![](assets/new.png)  
 - [2022-10-12-有HTTP协议，为什么还要websocket协议？](https://toutiao.io/k/gqicqvn) ![](assets/new.png)  
-- [2022-10-12-认识区块链，认知区块链——NFT](https://toutiao.io/k/p96s8ga) ![](assets/new.png)  
 - [2022-10-12-Elasticsearch-8.X-导出-CSV-多种方案，一网打尽！](https://toutiao.io/k/ml9zuva) ![](assets/new.png)  
+- [2022-10-12-认识区块链，认知区块链——NFT](https://toutiao.io/k/p96s8ga) ![](assets/new.png)  
 - [2022-10-12-推荐-性能优化必备——火焰图](https://toutiao.io/k/azf7ub6) ![](assets/new.png)  
 - [2022-10-12-推荐-超实用！整理了-34-个-Python-自动化办公库](https://toutiao.io/k/5wihja2) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)

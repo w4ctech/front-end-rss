@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-12 10:52:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-12 11:16:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1914,6 +1914,7 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-10-12-我想知道什么时候能买到-m2-pro-的-macbook](https://www.v2ex.com/t/886440) 
 - [2022-10-12-Apple-Silicon-M1-系列内存压力问题](https://www.v2ex.com/t/886437) 
 - [2022-10-12-apple-watch-的表盘少且丑，还极度限制自定义。](https://www.v2ex.com/t/886436) 
 - [2022-10-12-有没有戴卡西欧-PRO-TREK-6600-的朋友](https://www.v2ex.com/t/886435) 
@@ -1948,8 +1949,6 @@
 - [2022-10-12-如何加速甲醛的挥发](https://www.v2ex.com/t/886393) 
 - [2022-10-12-Qt-推出教育版，学生和老师可免费使用](https://www.v2ex.com/t/886392) 
 - [2022-10-12-web3-岗位-高级后端-golang-工程师-base：北京望京南（需要有一定-golang-经验）](https://www.v2ex.com/t/886391) 
-- [2022-10-12-A-lightweight-text-editor-written-in-Lua](https://www.v2ex.com/t/886390) 
-- [2022-10-12-Visual-Studio-Code-Python-–-2022-年-10-月更新](https://www.v2ex.com/t/886388) 
 - [2022-10-12-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-12-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-12-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

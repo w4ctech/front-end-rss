@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-12 11:45:08，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-12 12:32:30，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-10-12-为什么没有人做一个零食评测网站呢？](https://www.v2ex.com/t/886454) ![](assets/new.png)  
+- [2022-10-12-自行车大佬有没有，请教问题。山地自行车-轮胎打气一般打多少呀-还有档位....](https://www.v2ex.com/t/886453) ![](assets/new.png)  
+- [2022-10-12-Outlook-网页版如何设置接收其他邮箱的邮件？](https://www.v2ex.com/t/886451) ![](assets/new.png)  
+- [2022-10-12-请问，有人遇到过，通过-altstore-签名的应用，无法使用-charles-抓包的情况么？](https://www.v2ex.com/t/886450) ![](assets/new.png)  
+- [2022-10-12-有主动退-D-的-v-友吗，会有什么影响吗](https://www.v2ex.com/t/886448) ![](assets/new.png)  
+- [2022-10-12-Jetbrains-fleet-pubilc-preview-了，可立刻下载体验！](https://www.v2ex.com/t/886447) ![](assets/new.png)  
 - [2022-10-12-还没到那个程度，想先了解一下-DIY-硬件方面要花多少钱？（PCB+ESP32-芯片+元件+亚克力壳体）](https://www.v2ex.com/t/886446) ![](assets/new.png)  
 - [2022-10-12-可以通过关闭-Gmail-功能再重新启用的方式来更改-Google-账号名吗？](https://www.v2ex.com/t/886445) ![](assets/new.png)  
 - [2022-10-12-闲暇搞个副业挣点睡后收入](https://www.v2ex.com/t/886444) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-10-12-有没有戴卡西欧-PRO-TREK-6600-的朋友](https://www.v2ex.com/t/886435) ![](assets/new.png)  
 - [2022-10-12-AirPods-自动切换，你-XX-到底切换了个啥？](https://www.v2ex.com/t/886434) ![](assets/new.png)  
 - [2022-10-12-使用-SQL-来处理某个瞬发的数据，想整理每行是每小时的输出的列表，如果当前小时没数据就用最后一次有数据的时间](https://www.v2ex.com/t/886433) ![](assets/new.png)  
-- [2022-10-12-微博开始给用户设“KPI”了...](https://www.v2ex.com/t/886432) ![](assets/new.png)  
-- [2022-10-12-为什么-MacOS-就是不原生提供剪切板和状态栏折叠功能呢？](https://www.v2ex.com/t/886431) ![](assets/new.png)  
-- [2022-10-12-请问现在那个-twitter-客户端最好，跟-Maipo/WeiboX-体验类似的。](https://www.v2ex.com/t/886430) ![](assets/new.png)  
-- [2022-10-12-稚晖瀚文键盘演示视频中出现的那个小单片机是什么](https://www.v2ex.com/t/886429) ![](assets/new.png)  
-- [2022-10-12-开源软件使用时有哪些蛋疼的地方](https://www.v2ex.com/t/886428) ![](assets/new.png)  
-- [2022-10-12-求推荐后端开发的前端学习路线](https://www.v2ex.com/t/886427) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,8 +563,8 @@
 - [2022-10-12-不会服务治理，还怎么搞微服务？](https://toutiao.io/k/53jbwls) ![](assets/new.png)  
 - [2022-10-12-漫画-|-一台-Linux-服务器最多能支撑多少个-TCP-连接？](https://toutiao.io/k/hvkzjtm) ![](assets/new.png)  
 - [2022-10-12-持续交付的软件系统架构](https://toutiao.io/k/a59p659) ![](assets/new.png)  
-- [2022-10-12-魔改-xxl-job，彻底告别手动配置任务](https://toutiao.io/k/6sjbtl0) ![](assets/new.png)  
 - [2022-10-12-图解-Rust-所有权与生命周期](https://toutiao.io/k/5774ilr) ![](assets/new.png)  
+- [2022-10-12-魔改-xxl-job，彻底告别手动配置任务](https://toutiao.io/k/6sjbtl0) ![](assets/new.png)  
 - [2022-10-12-如何通过性能优化，将包的体积压缩了-62.7%](https://toutiao.io/k/2u8dxr4) ![](assets/new.png)  
 - [2022-10-12-进击的-PyTorch，和它背后的开源领袖](https://toutiao.io/k/94zqba8) ![](assets/new.png)  
 - [2022-10-12-浅谈测试：单元测试的爱恨情仇](https://toutiao.io/k/4ifpeub) ![](assets/new.png)  
@@ -572,6 +572,7 @@
 - [2022-10-12-认识区块链，认知区块链——NFT](https://toutiao.io/k/p96s8ga) ![](assets/new.png)  
 - [2022-10-12-Elasticsearch-8.X-导出-CSV-多种方案，一网打尽！](https://toutiao.io/k/ml9zuva) ![](assets/new.png)  
 - [2022-10-12-推荐-性能优化必备——火焰图](https://toutiao.io/k/azf7ub6) ![](assets/new.png)  
+- [2022-10-12-推荐-超实用！整理了-34-个-Python-自动化办公库](https://toutiao.io/k/5wihja2) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

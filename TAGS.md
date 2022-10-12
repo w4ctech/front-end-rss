@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-10-12 08:55:42。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-12 09:21:57。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -152,6 +152,7 @@
 
 
 
+- [【V2EX】RTX4090，功率几乎不变的前提下，达到了-3090Ti-175%的实际游戏性能。与之对应，降频实现-3090Ti-的性能，仅需-190-瓦。](https://www.v2ex.com/t/886423)
 - [【V2EX】iOS-Unity-il2cpp-有-CA-证书白名单的游戏抓取资源包下载地址最简单的方式是什么？](https://www.v2ex.com/t/886381)
 - [......【查看更多】......](./details/tags/dev-game.md)
 
@@ -199,6 +200,7 @@
 - [【张鑫旭-鑫空间-鑫生活】介绍2022最期待且已正式支持的CSS-container容器查询](https://www.zhangxinxu.com/wordpress/2022/09/css-container-rule/)
 - [【张鑫旭-鑫空间-鑫生活】来了，来了，CSS-:has伪类她来了](https://www.zhangxinxu.com/wordpress/2022/08/css-has-pseudo-class/)
 - [【张鑫旭-鑫空间-鑫生活】万物皆可clip-path，纯CSS绘制0-9数字](https://www.zhangxinxu.com/wordpress/2022/07/clip-path-css-number/)
+- [【V2EX】求指点-tailscale-客户端在-macos-系统无法登录问题](https://www.v2ex.com/t/886421)
 - [......【查看更多】......](./details/tags/css.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-12 06:04:44，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-12 07:04:26，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -316,6 +316,7 @@
 </summary>
 
 
+- [2022-10-12-更符合书写习惯的CSS媒体查询Range语法](https://www.zhangxinxu.com/wordpress/2022/10/css-media-range-syntax/) ![](assets/new.png)  
 - [2022-09-26-介绍2022最期待且已正式支持的CSS-container容器查询](https://www.zhangxinxu.com/wordpress/2022/09/css-container-rule/) ![](assets/new.png)  
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) ![](assets/new.png)  
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) ![](assets/new.png)  
@@ -325,7 +326,6 @@
 - [2022-08-21-JS-replaceAll-和-matchAll-使用指南不指北](https://www.zhangxinxu.com/wordpress/2022/08/js-replaceall-matchall/) ![](assets/new.png)  
 - [2022-07-27-万物皆可clip-path，纯CSS绘制0-9数字](https://www.zhangxinxu.com/wordpress/2022/07/clip-path-css-number/) ![](assets/new.png)  
 - [2022-07-21-超酷！CSS-font-palette与彩色字体显示](https://www.zhangxinxu.com/wordpress/2022/07/css-font-palette/) ![](assets/new.png)  
-- [2022-06-30-CSS排版为何强？瞧瞧多牛这换行](https://www.zhangxinxu.com/wordpress/2022/06/css-line-break-word-wrap-all/) ![](assets/new.png)  
 - [......【查看更多】......](./details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -491,6 +491,18 @@
 </summary>
 
 
+- [2022-10-12-二房东不退押金，起诉对方由于没有对方身份证信息无法立案，去网上找人查身份信息又被骗了，接下来能怎么办？](https://www.v2ex.com/t/886378) ![](assets/new.png)  
+- [2022-10-12-现在的-Macbook-硬盘坏了的话怎么修？有同学修过吗？](https://www.v2ex.com/t/886377) ![](assets/new.png)  
+- [2022-10-12-微&信个人信息泄露-or-贩卖](https://www.v2ex.com/t/886375) ![](assets/new.png)  
+- [2022-10-12-市场转码农工作难找啊](https://www.v2ex.com/t/886374) ![](assets/new.png)  
+- [2022-10-12-数据库内核方向开发职位-北、上、杭、深、广、西安、成都、remote-等](https://www.v2ex.com/t/886371) ![](assets/new.png)  
+- [2022-10-12-有什么办法可以看到被微博夹掉的原图](https://www.v2ex.com/t/886369) ![](assets/new.png)  
+- [2022-10-12-互联网信息服务投诉平台没传说的那么灵啊](https://www.v2ex.com/t/886368) ![](assets/new.png)  
+- [2022-10-12-大家上班划水的时候都干什么？](https://www.v2ex.com/t/886367) ![](assets/new.png)  
+- [2022-10-12-上海/杭州字节跳动--基础架构--应用观测服务端团队招聘](https://www.v2ex.com/t/886365) ![](assets/new.png)  
+- [2022-10-12-Airpods-pro2-，手机是-iso14.3-的系统，通话没声音，有朋友遇到过吗？](https://www.v2ex.com/t/886364) ![](assets/new.png)  
+- [2022-10-12-在虚拟机（Win10）中安装微信可以直接备份聊天记录吗？](https://www.v2ex.com/t/886363) ![](assets/new.png)  
+- [2022-10-12-半年过去了，针对-api-调用次数进行收费的模块有新的思路没？](https://www.v2ex.com/t/886362) ![](assets/new.png)  
 - [2022-10-12-老哥们-有没有可爱小猫咪的动态壁纸哇-Mac-电脑的-😁](https://www.v2ex.com/t/886361) ![](assets/new.png)  
 - [2022-10-12-即使开启了非活动窗口允许滚动，-Office-16-依然不支持滚动](https://www.v2ex.com/t/886359) ![](assets/new.png)  
 - [2022-10-12-深圳南山-全职，找一名精通-opencart-的程序员！](https://www.v2ex.com/t/886358) ![](assets/new.png)  
@@ -499,18 +511,6 @@
 - [2022-10-12-14Pro-比较蛋疼的一点，主摄对焦距离变长](https://www.v2ex.com/t/886355) ![](assets/new.png)  
 - [2022-10-12-求推荐一款信号比红米-AX6-强一点点的路由器，谢谢](https://www.v2ex.com/t/886354) ![](assets/new.png)  
 - [2022-10-12-最近想办共享单车会员：美团-or-哈啰](https://www.v2ex.com/t/886353) ![](assets/new.png)  
-- [2022-10-12-Safari-浏览器那个“下载后打开安全文件”选项](https://www.v2ex.com/t/886352) ![](assets/new.png)  
-- [2022-10-12-吐槽-Fiverr-接的副业](https://www.v2ex.com/t/886351) ![](assets/new.png)  
-- [2022-10-12-偶然发现，-MacBook-Pro-14-设置为“更多空间（等效-1800x1169）”挺好使的](https://www.v2ex.com/t/886349) ![](assets/new.png)  
-- [2022-10-12-Android-微信在特定环境下崩溃](https://www.v2ex.com/t/886348) ![](assets/new.png)  
-- [2022-10-12-mac-有没有办法同时走两个代理，互不干扰？](https://www.v2ex.com/t/886347) ![](assets/new.png)  
-- [2022-10-12-妙记多-Mojidoc-文档协同工具发布-1.3-版本😄](https://www.v2ex.com/t/886346) ![](assets/new.png)  
-- [2022-10-12-S8-升级-9.0.2-以后，睡眠模式自动结束后，无法上滑下拉出控制中心](https://www.v2ex.com/t/886345) ![](assets/new.png)  
-- [2022-10-12-A-股亏得我都想去买彩票了，，，](https://www.v2ex.com/t/886343) ![](assets/new.png)  
-- [2022-10-12-谷歌的送中策略又更改了？](https://www.v2ex.com/t/886342) ![](assets/new.png)  
-- [2022-10-12-成都-台资-Cocos-游戏开发-13k-15k-13-薪-不加班-Gamefi](https://www.v2ex.com/t/886341) ![](assets/new.png)  
-- [2022-10-12-笔记本进入睡眠后睡死是谁的锅？](https://www.v2ex.com/t/886340) ![](assets/new.png)  
-- [2022-10-12-NGINX-如何记录-localhost-的访问日志](https://www.v2ex.com/t/886339) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -568,9 +568,9 @@
 - [2022-10-12-如何通过性能优化，将包的体积压缩了-62.7%](https://toutiao.io/k/2u8dxr4) ![](assets/new.png)  
 - [2022-10-12-浅谈测试：单元测试的爱恨情仇](https://toutiao.io/k/4ifpeub) ![](assets/new.png)  
 - [2022-10-12-进击的-PyTorch，和它背后的开源领袖](https://toutiao.io/k/94zqba8) ![](assets/new.png)  
+- [2022-10-12-有HTTP协议，为什么还要websocket协议？](https://toutiao.io/k/gqicqvn) ![](assets/new.png)  
 - [2022-10-12-认识区块链，认知区块链——NFT](https://toutiao.io/k/p96s8ga) ![](assets/new.png)  
 - [2022-10-12-Elasticsearch-8.X-导出-CSV-多种方案，一网打尽！](https://toutiao.io/k/ml9zuva) ![](assets/new.png)  
-- [2022-10-12-有HTTP协议，为什么还要websocket协议？](https://toutiao.io/k/gqicqvn) ![](assets/new.png)  
 - [2022-10-12-推荐-性能优化必备——火焰图](https://toutiao.io/k/azf7ub6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

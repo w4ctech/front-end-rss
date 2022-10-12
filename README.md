@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-12 23:17:58，:rocket: 更新条数: +2025， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-12 23:52:13，:rocket: 更新条数: +2025， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-10-12-CleanMyMac-X-现在还有人用吗](https://www.v2ex.com/t/886510) ![](assets/new.png)  
 - [2022-10-12-有什么可以替代腾讯的云开发网关吗？](https://www.v2ex.com/t/886508) ![](assets/new.png)  
 - [2022-10-12-PDD-前端-Offer-值得接吗](https://www.v2ex.com/t/886507) ![](assets/new.png)  
 - [2022-10-12-远程-全职-招聘-C++-软件工程师](https://www.v2ex.com/t/886505) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-10-12-有奖征集软件名字（银行业）](https://www.v2ex.com/t/886489) ![](assets/new.png)  
 - [2022-10-12-数据库字段多了对查询性能影响大吗？两三个字段](https://www.v2ex.com/t/886488) ![](assets/new.png)  
 - [2022-10-12-今天被-apple-pay-坑惨了](https://www.v2ex.com/t/886487) ![](assets/new.png)  
-- [2022-10-12-为什么一张图看起来是蓝色的？](https://www.v2ex.com/t/886486) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-12 15:57:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-12 16:31:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -15,5 +15,4 @@
 - [2021-01-01-大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html) 
 - [2022-10-12-请求企业微信-API-时而可以时而报错-cURL-error](https://www.v2ex.com/t/886475) 
 - [2022-10-12-Cookie-的-Secure-有点迷惑人](https://www.v2ex.com/t/886467) 
-- [2022-10-12-Jetbrains-fleet-pubilc-preview-了，可立刻下载体验！](https://www.v2ex.com/t/886447) 
 - [2022-10-12-有HTTP协议，为什么还要websocket协议？](https://toutiao.io/k/gqicqvn) 

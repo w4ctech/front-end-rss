@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-12 10:19:58，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-12 10:52:14，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-10-12-Apple-Silicon-M1-系列内存压力问题](https://www.v2ex.com/t/886437) ![](assets/new.png)  
+- [2022-10-12-apple-watch-的表盘少且丑，还极度限制自定义。](https://www.v2ex.com/t/886436) ![](assets/new.png)  
+- [2022-10-12-有没有戴卡西欧-PRO-TREK-6600-的朋友](https://www.v2ex.com/t/886435) ![](assets/new.png)  
 - [2022-10-12-AirPods-自动切换，你-XX-到底切换了个啥？](https://www.v2ex.com/t/886434) ![](assets/new.png)  
 - [2022-10-12-使用-SQL-来处理某个瞬发的数据，想整理每行是每小时的输出的列表，如果当前小时没数据就用最后一次有数据的时间](https://www.v2ex.com/t/886433) ![](assets/new.png)  
 - [2022-10-12-微博开始给用户设“KPI”了...](https://www.v2ex.com/t/886432) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-10-12-割包皮如何跟老板请假](https://www.v2ex.com/t/886419) ![](assets/new.png)  
 - [2022-10-12-ES-结构化查询非人类吗](https://www.v2ex.com/t/886418) ![](assets/new.png)  
 - [2022-10-12-28-岁转行前端](https://www.v2ex.com/t/886417) ![](assets/new.png)  
-- [2022-10-12-airpods-pro-换了-ID-之后，每次用完都会出现“正在跟随你移动”的通知-要换回去吗](https://www.v2ex.com/t/886416) ![](assets/new.png)  
-- [2022-10-12-M1-16G-有点卡。估计就是升级到-M1-PRO-32G-才行了。](https://www.v2ex.com/t/886415) ![](assets/new.png)  
-- [2022-10-12-Docker-for-Mac-有没有非-Desktop-版本的?](https://www.v2ex.com/t/886414) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

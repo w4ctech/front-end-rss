@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-12 14:36:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-12 15:22:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1914,6 +1914,9 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-10-12-有奖征集软件名字（银行业）](https://www.v2ex.com/t/886489) 
+- [2022-10-12-今天被-apple-pay-坑惨了](https://www.v2ex.com/t/886487) 
+- [2022-10-12-为什么一张图看起来是蓝色的？](https://www.v2ex.com/t/886486) 
 - [2022-10-12-抽奖送码活动-&-macOS-Bob-x-火山翻译抽奖活动！](https://www.v2ex.com/t/886485) 
 - [2022-10-12-30G-的数据库如何高效搬运到服务器？](https://www.v2ex.com/t/886484) 
 - [2022-10-12-一直显示“谷歌-play-正在更新”怎么办？](https://www.v2ex.com/t/886483) 
@@ -1942,11 +1945,6 @@
 - [2022-10-12-可以通过关闭-Gmail-功能再重新启用的方式来更改-Google-账号名吗？](https://www.v2ex.com/t/886445) 
 - [2022-10-12-闲暇搞个副业挣点睡后收入](https://www.v2ex.com/t/886444) 
 - [2022-10-12-是我太倒霉了吗😓](https://www.v2ex.com/t/886443) 
-- [2022-10-12-马克思资本利润的论述的疑问](https://www.v2ex.com/t/886442) 
-- [2022-10-12-甲状腺结节，突然被体检报告打击到](https://www.v2ex.com/t/886441) 
-- [2022-10-12-我想知道什么时候能买到-m2-pro-的-macbook](https://www.v2ex.com/t/886440) 
-- [2022-10-12-Apple-Silicon-M1-系列内存压力问题](https://www.v2ex.com/t/886437) 
-- [2022-10-12-apple-watch-的表盘少且丑，还极度限制自定义。](https://www.v2ex.com/t/886436) 
 - [2022-10-12-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-12-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-12-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1972,8 +1970,8 @@
 - [2022-10-12-不会服务治理，还怎么搞微服务？](https://toutiao.io/k/53jbwls) 
 - [2022-10-12-漫画-|-一台-Linux-服务器最多能支撑多少个-TCP-连接？](https://toutiao.io/k/hvkzjtm) 
 - [2022-10-12-持续交付的软件系统架构](https://toutiao.io/k/a59p659) 
-- [2022-10-12-图解-Rust-所有权与生命周期](https://toutiao.io/k/5774ilr) 
 - [2022-10-12-魔改-xxl-job，彻底告别手动配置任务](https://toutiao.io/k/6sjbtl0) 
+- [2022-10-12-图解-Rust-所有权与生命周期](https://toutiao.io/k/5774ilr) 
 - [2022-10-12-进击的-PyTorch，和它背后的开源领袖](https://toutiao.io/k/94zqba8) 
 - [2022-10-12-浅谈测试：单元测试的爱恨情仇](https://toutiao.io/k/4ifpeub) 
 - [2022-10-12-认识区块链，认知区块链——NFT](https://toutiao.io/k/p96s8ga) 

@@ -9812,6 +9812,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "CSS ::file-selector-button伪元素简介",
+        "link": "https://www.zhangxinxu.com/wordpress/2022/10/css-file-selector-button/",
+        "date": "2022-10-12"
+      },
+      {
         "title": "更符合书写习惯的CSS媒体查询Range语法",
         "link": "https://www.zhangxinxu.com/wordpress/2022/10/css-media-range-syntax/",
         "date": "2022-10-12"
@@ -9855,11 +9860,6 @@
         "title": "万物皆可clip-path，纯CSS绘制0-9数字",
         "link": "https://www.zhangxinxu.com/wordpress/2022/07/clip-path-css-number/",
         "date": "2022-07-27"
-      },
-      {
-        "title": "超酷！CSS font-palette与彩色字体显示",
-        "link": "https://www.zhangxinxu.com/wordpress/2022/07/css-font-palette/",
-        "date": "2022-07-21"
       }
     ]
   },
@@ -9952,6 +9952,51 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "28 岁转行前端",
+        "link": "https://www.v2ex.com/t/886417",
+        "date": "2022-10-12"
+      },
+      {
+        "title": "airpods pro 换了 ID 之后，每次用完都会出现“正在跟随你移动”的通知 要换回去吗",
+        "link": "https://www.v2ex.com/t/886416",
+        "date": "2022-10-12"
+      },
+      {
+        "title": "M1 16G 有点卡。估计就是升级到 M1 PRO 32G 才行了。",
+        "link": "https://www.v2ex.com/t/886415",
+        "date": "2022-10-12"
+      },
+      {
+        "title": "Docker for Mac 有没有非 Desktop 版本的?",
+        "link": "https://www.v2ex.com/t/886414",
+        "date": "2022-10-12"
+      },
+      {
+        "title": "Youtube 35/年",
+        "link": "https://www.v2ex.com/t/886413",
+        "date": "2022-10-12"
+      },
+      {
+        "title": "新手提问，黑群晖使用 FRP 穿透用 TCP 协议是否安全",
+        "link": "https://www.v2ex.com/t/886412",
+        "date": "2022-10-12"
+      },
+      {
+        "title": "自行车选购",
+        "link": "https://www.v2ex.com/t/886409",
+        "date": "2022-10-12"
+      },
+      {
+        "title": "阿里云国内站国际站折扣优惠",
+        "link": "https://www.v2ex.com/t/886408",
+        "date": "2022-10-12"
+      },
+      {
+        "title": "为什么要在天猫的 Apple Store 官方旗舰店购买产品？",
+        "link": "https://www.v2ex.com/t/886407",
+        "date": "2022-10-12"
+      },
       {
         "title": "官方召回 m2 macbook air ？",
         "link": "https://www.v2ex.com/t/886406",
@@ -10075,51 +10120,6 @@
       {
         "title": "有什么办法可以看到被微博夹掉的原图",
         "link": "https://www.v2ex.com/t/886369",
-        "date": "2022-10-12"
-      },
-      {
-        "title": "大家上班划水的时候都干什么？",
-        "link": "https://www.v2ex.com/t/886367",
-        "date": "2022-10-12"
-      },
-      {
-        "title": "[上海/杭州]字节跳动--基础架构--应用观测(服务端)团队招聘",
-        "link": "https://www.v2ex.com/t/886365",
-        "date": "2022-10-12"
-      },
-      {
-        "title": "Airpods pro2 ，手机是 iso14.3 的系统，通话没声音，有朋友遇到过吗？",
-        "link": "https://www.v2ex.com/t/886364",
-        "date": "2022-10-12"
-      },
-      {
-        "title": "在虚拟机（Win10）中安装微信可以直接备份聊天记录吗？",
-        "link": "https://www.v2ex.com/t/886363",
-        "date": "2022-10-12"
-      },
-      {
-        "title": "半年过去了，针对 api 调用次数进行收费的模块有新的思路没？",
-        "link": "https://www.v2ex.com/t/886362",
-        "date": "2022-10-12"
-      },
-      {
-        "title": "老哥们 有没有可爱小猫咪的动态壁纸哇 Mac 电脑的 😁",
-        "link": "https://www.v2ex.com/t/886361",
-        "date": "2022-10-12"
-      },
-      {
-        "title": "即使开启了非活动窗口允许滚动， Office 16 依然不支持滚动",
-        "link": "https://www.v2ex.com/t/886359",
-        "date": "2022-10-12"
-      },
-      {
-        "title": "[深圳南山] 全职，找一名精通 opencart 的程序员！",
-        "link": "https://www.v2ex.com/t/886358",
-        "date": "2022-10-12"
-      },
-      {
-        "title": "看了看以太坊的智能合约开发和官网上的一些 dApp，我悟了",
-        "link": "https://www.v2ex.com/t/886357",
         "date": "2022-10-12"
       }
     ]

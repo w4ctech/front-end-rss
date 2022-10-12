@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-12 08:20:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-12 08:55:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1914,6 +1914,13 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-10-12-28-岁转行前端](https://www.v2ex.com/t/886417) 
+- [2022-10-12-airpods-pro-换了-ID-之后，每次用完都会出现“正在跟随你移动”的通知-要换回去吗](https://www.v2ex.com/t/886416) 
+- [2022-10-12-M1-16G-有点卡。估计就是升级到-M1-PRO-32G-才行了。](https://www.v2ex.com/t/886415) 
+- [2022-10-12-Youtube-35/年](https://www.v2ex.com/t/886413) 
+- [2022-10-12-自行车选购](https://www.v2ex.com/t/886409) 
+- [2022-10-12-阿里云国内站国际站折扣优惠](https://www.v2ex.com/t/886408) 
+- [2022-10-12-为什么要在天猫的-Apple-Store-官方旗舰店购买产品？](https://www.v2ex.com/t/886407) 
 - [2022-10-12-官方召回-m2-macbook-air-？](https://www.v2ex.com/t/886406) 
 - [2022-10-12-内向的人如何处理职场关系，很迷茫](https://www.v2ex.com/t/886404) 
 - [2022-10-12-出海业务接入国内支付宝场景的求助](https://www.v2ex.com/t/886403) 
@@ -1935,13 +1942,6 @@
 - [2022-10-12-市场转码农工作难找啊](https://www.v2ex.com/t/886374) 
 - [2022-10-12-数据库内核方向开发职位-北、上、杭、深、广、西安、成都、remote-等](https://www.v2ex.com/t/886371) 
 - [2022-10-12-有什么办法可以看到被微博夹掉的原图](https://www.v2ex.com/t/886369) 
-- [2022-10-12-大家上班划水的时候都干什么？](https://www.v2ex.com/t/886367) 
-- [2022-10-12-Airpods-pro2-，手机是-iso14.3-的系统，通话没声音，有朋友遇到过吗？](https://www.v2ex.com/t/886364) 
-- [2022-10-12-在虚拟机（Win10）中安装微信可以直接备份聊天记录吗？](https://www.v2ex.com/t/886363) 
-- [2022-10-12-半年过去了，针对-api-调用次数进行收费的模块有新的思路没？](https://www.v2ex.com/t/886362) 
-- [2022-10-12-老哥们-有没有可爱小猫咪的动态壁纸哇-Mac-电脑的-😁](https://www.v2ex.com/t/886361) 
-- [2022-10-12-深圳南山-全职，找一名精通-opencart-的程序员！](https://www.v2ex.com/t/886358) 
-- [2022-10-12-看了看以太坊的智能合约开发和官网上的一些-dApp，我悟了](https://www.v2ex.com/t/886357) 
 - [2022-10-12-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-12-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-12-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-13 07:11:19，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-13 07:54:52，:rocket: 更新条数: +2025， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,26 +491,26 @@
 </summary>
 
 
+- [2022-10-13-WPF-使用-DrawingContext-绘制刻度条](https://www.v2ex.com/t/886665) ![](assets/new.png)  
+- [2022-10-13-安卓有什么好用的足迹记录软件-最好能自建的](https://www.v2ex.com/t/886663) ![](assets/new.png)  
+- [2022-10-13-@Google-翻译,-Are-u-ok?-Thank-you-very-much!](https://www.v2ex.com/t/886662) ![](assets/new.png)  
+- [2022-10-13-请教：微信-IOS-内置浏览器加载大量数据卡顿，滑动空白的问题如何解决？](https://www.v2ex.com/t/886661) ![](assets/new.png)  
+- [2022-10-13-深圳-300M-自动升-500M！](https://www.v2ex.com/t/886660) ![](assets/new.png)  
+- [2022-10-13-Element-UI-怎么实现-Select-多次选中同一值？](https://www.v2ex.com/t/886659) ![](assets/new.png)  
+- [2022-10-13-请教各位技术大大一个-websocket-消息丢失的问题](https://www.v2ex.com/t/886658) ![](assets/new.png)  
+- [2022-10-13-为什么国外一个小公司做出来的东西，大公司会买账？](https://www.v2ex.com/t/886657) ![](assets/new.png)  
+- [2022-10-13-把美区-Apple-ID-和-iCloud-作为主用到底会不会被封？](https://www.v2ex.com/t/886656) ![](assets/new.png)  
+- [2022-10-13-自己买个云主机搭个网站-通常怎么做好安全防护呢？](https://www.v2ex.com/t/886655) ![](assets/new.png)  
+- [2022-10-13-家里和公司-docker-怎么协作开发呢？我一个人](https://www.v2ex.com/t/886654) ![](assets/new.png)  
+- [2022-10-13-问妹子有没有对象，她说看她想不想。。这啥意思](https://www.v2ex.com/t/886649) ![](assets/new.png)  
+- [2022-10-13-有没有克隆-qq-群文件的软件？](https://www.v2ex.com/t/886648) ![](assets/new.png)  
+- [2022-10-13-Surface-Pro-9-和-Surface-Laptop-5-来了](https://www.v2ex.com/t/886647) ![](assets/new.png)  
+- [2022-10-13-北京有什么地方适合写代码](https://www.v2ex.com/t/886646) ![](assets/new.png)  
 - [2022-10-13-寻找一款“基于特定条件，自动切换情景模式”的手机应用](https://www.v2ex.com/t/886645) ![](assets/new.png)  
 - [2022-10-13-web3-岗位-招聘专员（经验：一年招聘经验以上）base：北京望京南](https://www.v2ex.com/t/886644) ![](assets/new.png)  
 - [2022-10-13-北京快手本地生活-新成立事业部招聘初中高级开发工程师，大量-HC。还有产运方向均可投递](https://www.v2ex.com/t/886643) ![](assets/new.png)  
 - [2022-10-13-OpenAI-token-有办法申请到吗？-想尝试做一些有意思的应用](https://www.v2ex.com/t/886642) ![](assets/new.png)  
 - [2022-10-13-没怎么关注电脑，双十一攒机，求指导](https://www.v2ex.com/t/886641) ![](assets/new.png)  
-- [2022-10-13-腾讯云的轻量服务器是共享带宽吗？用来挂远程工具稳定不？](https://www.v2ex.com/t/886640) ![](assets/new.png)  
-- [2022-10-13-开发一个专属程序员的收藏夹需要多久？](https://www.v2ex.com/t/886639) ![](assets/new.png)  
-- [2022-10-13-迫于-voice-被回收，求个靠谱的平台？](https://www.v2ex.com/t/886638) ![](assets/new.png)  
-- [2022-10-13-现在买游戏机买-xss-还是-ps4？](https://www.v2ex.com/t/886636) ![](assets/new.png)  
-- [2022-10-13-怎么才能让同事别那么懒?](https://www.v2ex.com/t/886635) ![](assets/new.png)  
-- [2022-10-13-mac-一连接-AirPods-pro，使用麦克风就变卡了](https://www.v2ex.com/t/886633) ![](assets/new.png)  
-- [2022-10-13-怎么才能治一下懒货同事?](https://www.v2ex.com/t/886631) ![](assets/new.png)  
-- [2022-10-13-JS-有什么好用的的队列组件或者代码？](https://www.v2ex.com/t/886629) ![](assets/new.png)  
-- [2022-10-13-有没有啥好用的移动端-IDE?](https://www.v2ex.com/t/886628) ![](assets/new.png)  
-- [2022-10-13-工作几年，深知英语的重要性，想学英语，但不知道如何开始](https://www.v2ex.com/t/886626) ![](assets/new.png)  
-- [2022-10-13-「Universal-Work-在全宇宙都可工作」初中级前端开发工程师/月薪-18-25K-RMB](https://www.v2ex.com/t/886625) ![](assets/new.png)  
-- [2022-10-13-Discord-申请输入监听权限？](https://www.v2ex.com/t/886624) ![](assets/new.png)  
-- [2022-10-13-2022-年-10-月，有哪些在国内能买到并且能在国内用的美国电话卡？](https://www.v2ex.com/t/886623) ![](assets/new.png)  
-- [2022-10-13-买单吧-app-是如何检测科学上网的](https://www.v2ex.com/t/886622) ![](assets/new.png)  
-- [2022-10-13-PostgreSQL-Tutorial](https://www.v2ex.com/t/886621) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -559,8 +559,8 @@
 - [2022-10-13-MQTT-保留消息是什么？如何使用？](https://toutiao.io/k/6tq7oxu) ![](assets/new.png)  
 - [2022-10-13-Paxos-选举出一个Leader-解决活锁，可是如果在存在-Leader-为什么要使用-Paxos?](https://toutiao.io/k/2bbd05t) ![](assets/new.png)  
 - [2022-10-13-用户离线实时画像融合实践](https://toutiao.io/k/o0eto6n) ![](assets/new.png)  
-- [2022-10-13-阿里云块存储团队软件工程实践](https://toutiao.io/k/hpki24r) ![](assets/new.png)  
 - [2022-10-13-过了-35-岁你还能干嘛？这是我看过最棒的建议](https://toutiao.io/k/6uyyyfk) ![](assets/new.png)  
+- [2022-10-13-阿里云块存储团队软件工程实践](https://toutiao.io/k/hpki24r) ![](assets/new.png)  
 - [2022-10-13-编程架构演化史：远古时代，从打孔卡（Punched-Card）开始](https://toutiao.io/k/4zec32d) ![](assets/new.png)  
 - [2022-10-13-CSS-布局之盒模型](https://toutiao.io/k/e4whpnh) ![](assets/new.png)  
 - [2022-10-13-怎么使用-jmeter-请求-protobuf-参数接口](https://toutiao.io/k/axgh6t5) ![](assets/new.png)  

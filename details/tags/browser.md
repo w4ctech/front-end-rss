@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-13 16:23:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-13 17:13:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -17,5 +17,4 @@
 - [2022-10-13-Chrome-浏览器使用-SwitchyOmega-是否会影响进入网页速度？](https://www.v2ex.com/t/886762) 
 - [2022-10-13-关于-Firefox-访问使用-Cloudflare-网站并且要求进行人机验证的问题](https://www.v2ex.com/t/886758) 
 - [2022-10-13-请问-Zerotier-连接的两个局域网内设备如何互相投屏和网络发现？](https://www.v2ex.com/t/886755) 
-- [2022-10-13-富强了，但是-chrome-右键还是不能翻译](https://www.v2ex.com/t/886741) 
 - [2022-10-13-怎么使用-jmeter-请求-protobuf-参数接口](https://toutiao.io/k/axgh6t5) 

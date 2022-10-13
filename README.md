@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-13 16:23:45，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-13 17:13:30，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-10-13-来分享一下你们正在使用的键盘吧](https://www.v2ex.com/t/886791) ![](assets/new.png)  
+- [2022-10-13-群晖-Synology-Photos-无法在线预览视频？](https://www.v2ex.com/t/886790) ![](assets/new.png)  
+- [2022-10-13-你们-iPhone-14p-相机有电流声吗](https://www.v2ex.com/t/886789) ![](assets/new.png)  
+- [2022-10-13-邮件客户端-Spark-也转向-Electron-和订阅制了..](https://www.v2ex.com/t/886788) ![](assets/new.png)  
+- [2022-10-13-骁龙-8-gen1-倒底烫不烫](https://www.v2ex.com/t/886787) ![](assets/new.png)  
 - [2022-10-13-现在入-M1-MBA-合适吗](https://www.v2ex.com/t/886784) ![](assets/new.png)  
 - [2022-10-13-苹果充电器的质量](https://www.v2ex.com/t/886783) ![](assets/new.png)  
 - [2022-10-13-大家会买-AppleCare+么？](https://www.v2ex.com/t/886781) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-10-13-theatrejs-真的是牛逼](https://www.v2ex.com/t/886768) ![](assets/new.png)  
 - [2022-10-13-请问-iOS-15.6-操作系统有内置的网速显示小工具或小插件？](https://www.v2ex.com/t/886767) ![](assets/new.png)  
 - [2022-10-13-以频道身份发言](https://www.v2ex.com/t/886765) ![](assets/new.png)  
-- [2022-10-13-共同盖楼分享那些-Linux-桌面环境应用续集](https://www.v2ex.com/t/886764) ![](assets/new.png)  
-- [2022-10-13-Chrome-浏览器使用-SwitchyOmega-是否会影响进入网页速度？](https://www.v2ex.com/t/886762) ![](assets/new.png)  
-- [2022-10-13-有关注驱逐舰-05-这辆车的朋友么？](https://www.v2ex.com/t/886761) ![](assets/new.png)  
-- [2022-10-13-obsidian-1.0-了](https://www.v2ex.com/t/886760) ![](assets/new.png)  
-- [2022-10-13-新用户测试-1-个月的华为云，新加坡-5M-带宽，国内-SSH-无卡顿断开。刚采购了买一个月送-1-年的-5M-香港-ECS，简直想吐血，-SSH-经常断开，敲命令各种卡顿。测试...](https://www.v2ex.com/t/886759) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

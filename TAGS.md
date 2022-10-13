@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-10-13 16:23:45。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-13 17:13:30。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -106,6 +106,7 @@
 
 
 
+- [【V2EX】邮件客户端-Spark-也转向-Electron-和订阅制了..](https://www.v2ex.com/t/886788)
 - [......【查看更多】......](./details/tags/nodejs.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -138,7 +139,6 @@
 
 
 
-- [【V2EX】写了一个轻量的-WebAssembly-JIT-运行时-PWART](https://www.v2ex.com/t/886740)
 - [......【查看更多】......](./details/tags/dev-mobile.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -236,6 +236,7 @@
 
 - [【武汉肺炎防疫全纪录(财新网)】广州17岁男生在定点医院参加高考-特殊考场视频监考](https://m.caixin.com/m/2021-06-05/101723418.html)
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
+- [【V2EX】群晖-Synology-Photos-无法在线预览视频？](https://www.v2ex.com/t/886790)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -281,7 +282,6 @@
 - [【V2EX】Chrome-浏览器使用-SwitchyOmega-是否会影响进入网页速度？](https://www.v2ex.com/t/886762)
 - [【V2EX】关于-Firefox-访问使用-Cloudflare-网站并且要求进行人机验证的问题](https://www.v2ex.com/t/886758)
 - [【V2EX】请问-Zerotier-连接的两个局域网内设备如何互相投屏和网络发现？](https://www.v2ex.com/t/886755)
-- [【V2EX】富强了，但是-chrome-右键还是不能翻译](https://www.v2ex.com/t/886741)
 - [【开发者头条】怎么使用-jmeter-请求-protobuf-参数接口](https://toutiao.io/k/axgh6t5)
 - [......【查看更多】......](./details/tags/browser.md)
 
@@ -299,7 +299,6 @@
 
 
 
-- [【V2EX】佛山市顺德软件定制开发-｜-Python-全栈工程师](https://www.v2ex.com/t/886738)
 - [【技术头条】基于AI算法的数据库异常监测系统的设计与实现-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15390&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F09%2F01%2Fdatabase-monitoring-based-on-ai.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】搜索中常见数据结构与算法探究（二）](https://toutiao.io/k/x07oz64)
 - [【开发者头条】公司系统老被黑客攻击，领导让我写一套限流算法保护系统，拼了！](https://toutiao.io/k/j0fhgip)

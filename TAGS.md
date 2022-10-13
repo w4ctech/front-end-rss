@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-10-13 09:21:34。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-13 09:51:27。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -277,6 +277,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】腺病毒新冠疫苗引安全忧虑-康希诺称未发现血栓病例](https://m.caixin.com/m/2021-04-14/101691086.html)
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
+- [【V2EX】有没有可能，用-Apple-Watch-确认-Safari-自动填充](https://www.v2ex.com/t/886691)
 - [【V2EX】有没有-markdown-编辑器可以实时渲染-A4-页面边界](https://www.v2ex.com/t/886668)
 - [【V2EX】邀请：创建一个以数据安全为主题的中文播客节目-#8](https://www.v2ex.com/t/886667)
 - [【V2EX】请教各位技术大大一个-websocket-消息丢失的问题](https://www.v2ex.com/t/886658)
@@ -352,8 +353,6 @@
 
 
 
-- [【V2EX】web3-岗位-招聘专员（经验：一年招聘经验以上）base：北京望京南](https://www.v2ex.com/t/886644)
-- [【V2EX】北京快手本地生活-新成立事业部招聘初中高级开发工程师，大量-HC。还有产运方向均可投递](https://www.v2ex.com/t/886643)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

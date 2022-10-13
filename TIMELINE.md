@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-13 09:21:34。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-10-13 09:51:27。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,12 +70,16 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-12-CSS-::file-selector-button伪元素简介](https://www.zhangxinxu.com/wordpress/2022/10/css-file-selector-button/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-12-更符合书写习惯的CSS媒体查询Range语法](https://www.zhangxinxu.com/wordpress/2022/10/css-media-range-syntax/) 
+- [【V2EX】2022-10-13-急问：-5-类线（不是-5e）能上千兆或-2.5G-么？](https://www.v2ex.com/t/886697) 
+- [【V2EX】2022-10-13-有什么靠谱的地方可以买-gv-号码吗？](https://www.v2ex.com/t/886696) 
+- [【V2EX】2022-10-13-深圳移动又现上行-250M-套餐](https://www.v2ex.com/t/886693) 
+- [【V2EX】2022-10-13-有没有可能，用-Apple-Watch-确认-Safari-自动填充](https://www.v2ex.com/t/886691) 
+- [【V2EX】2022-10-13-深圳宝安附近找房子](https://www.v2ex.com/t/886690) 
 - [【V2EX】2022-10-13-四通桥的交警效率真是挺高的](https://www.v2ex.com/t/886689) 
 - [【V2EX】2022-10-13-Apple-ID-被销号后如何重置设备？](https://www.v2ex.com/t/886687) 
 - [【V2EX】2022-10-13-小白请教：闲置小-PC-做家用软路由方案](https://www.v2ex.com/t/886686) 
 - [【V2EX】2022-10-13-求助，删除不了绑定在谷歌上的信用卡](https://www.v2ex.com/t/886685) 
 - [【V2EX】2022-10-13-web3-高级-react-前端工程师-base-北京望京南](https://www.v2ex.com/t/886684) 
-- [【V2EX】2022-10-13-今天四通桥出现了一位真正的勇士](https://www.v2ex.com/t/886683) 
 - [【V2EX】2022-10-13-请问大家，外包这种薪酬结构正常吗，可以去吗](https://www.v2ex.com/t/886682) 
 - [【V2EX】2022-10-13-想问下大佬对大数据数仓开发怎么看的？](https://www.v2ex.com/t/886681) 
 - [【V2EX】2022-10-13-apple-one-或者-icould-能跨区分享吗？](https://www.v2ex.com/t/886679) 
@@ -101,14 +105,6 @@
 - [【V2EX】2022-10-13-家里和公司-docker-怎么协作开发呢？我一个人](https://www.v2ex.com/t/886654) 
 - [【V2EX】2022-10-13-问妹子有没有对象，她说看她想不想。。这啥意思](https://www.v2ex.com/t/886649) 
 - [【V2EX】2022-10-13-有没有克隆-qq-群文件的软件？](https://www.v2ex.com/t/886648) 
-- [【V2EX】2022-10-13-Surface-Pro-9-和-Surface-Laptop-5-来了](https://www.v2ex.com/t/886647) 
-- [【V2EX】2022-10-13-北京有什么地方适合写代码](https://www.v2ex.com/t/886646) 
-- [【V2EX】2022-10-13-寻找一款“基于特定条件，自动切换情景模式”的手机应用](https://www.v2ex.com/t/886645) 
-- [【V2EX】2022-10-13-web3-岗位-招聘专员（经验：一年招聘经验以上）base：北京望京南](https://www.v2ex.com/t/886644) 
-- [【V2EX】2022-10-13-北京快手本地生活-新成立事业部招聘初中高级开发工程师，大量-HC。还有产运方向均可投递](https://www.v2ex.com/t/886643) 
-- [【V2EX】2022-10-13-OpenAI-token-有办法申请到吗？-想尝试做一些有意思的应用](https://www.v2ex.com/t/886642) 
-- [【V2EX】2022-10-13-没怎么关注电脑，双十一攒机，求指导](https://www.v2ex.com/t/886641) 
-- [【V2EX】2022-10-13-腾讯云的轻量服务器是共享带宽吗？用来挂远程工具稳定不？](https://www.v2ex.com/t/886640) 
 - [【技术头条】2022-10-13-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-13-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-13-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

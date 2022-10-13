@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-13 10:18:30，:rocket: 更新条数: +2020， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-13 10:51:34，:rocket: 更新条数: +2018， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-10-13-Authing-招聘后端开发实习生](https://www.v2ex.com/t/886714) ![](assets/new.png)  
+- [2022-10-13-一不留神踢掉路由器天线一根，导线没断，怎么看是否还能正常工作？](https://www.v2ex.com/t/886713) ![](assets/new.png)  
+- [2022-10-13-滴滴~~请问有做海外推广，谷歌，脸书等代投的哥们吗？](https://www.v2ex.com/t/886712) ![](assets/new.png)  
+- [2022-10-13-打算跟女朋友求婚，兄弟们有一些好思路提供嘛](https://www.v2ex.com/t/886708) ![](assets/new.png)  
+- [2022-10-13-k8s-的练习环境](https://www.v2ex.com/t/886707) ![](assets/new.png)  
 - [2022-10-13-求推荐好用的-rss-阅读器](https://www.v2ex.com/t/886705) ![](assets/new.png)  
 - [2022-10-13-ssr-有哪些好的方案吗？](https://www.v2ex.com/t/886701) ![](assets/new.png)  
 - [2022-10-13-微信-iOS-版支持将小程序添加到桌面了，可以拿到-URL-Scheme-出来使用](https://www.v2ex.com/t/886700) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-10-13-web3-高级-react-前端工程师-base-北京望京南](https://www.v2ex.com/t/886684) ![](assets/new.png)  
 - [2022-10-13-请问大家，外包这种薪酬结构正常吗，可以去吗](https://www.v2ex.com/t/886682) ![](assets/new.png)  
 - [2022-10-13-想问下大佬对大数据数仓开发怎么看的？](https://www.v2ex.com/t/886681) ![](assets/new.png)  
-- [2022-10-13-apple-one-或者-icould-能跨区分享吗？](https://www.v2ex.com/t/886679) ![](assets/new.png)  
-- [2022-10-13-这个应该不行吧？如何实现这种连续渐变的一组小圆点](https://www.v2ex.com/t/886678) ![](assets/new.png)  
-- [2022-10-13-成都电信家宽单独限制外网访问速度](https://www.v2ex.com/t/886677) ![](assets/new.png)  
-- [2022-10-13-visual-studio-有只复制错误描述的功能吗？](https://www.v2ex.com/t/886676) ![](assets/new.png)  
-- [2022-10-13-买-4k-显示器的注意了，尽量买-24-寸不要买-27-寸！完全是两个体验](https://www.v2ex.com/t/886674) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

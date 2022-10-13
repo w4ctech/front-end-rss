@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-13 17:13:30，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-13 18:03:27，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-10-13-Windows-11-是否需要防病毒软件](https://www.v2ex.com/t/886792) ![](assets/new.png)  
 - [2022-10-13-来分享一下你们正在使用的键盘吧](https://www.v2ex.com/t/886791) ![](assets/new.png)  
 - [2022-10-13-群晖-Synology-Photos-无法在线预览视频？](https://www.v2ex.com/t/886790) ![](assets/new.png)  
 - [2022-10-13-你们-iPhone-14p-相机有电流声吗](https://www.v2ex.com/t/886789) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-10-13-来分享我写的周刊（厕刊）](https://www.v2ex.com/t/886770) ![](assets/new.png)  
 - [2022-10-13-theatrejs-真的是牛逼](https://www.v2ex.com/t/886768) ![](assets/new.png)  
 - [2022-10-13-请问-iOS-15.6-操作系统有内置的网速显示小工具或小插件？](https://www.v2ex.com/t/886767) ![](assets/new.png)  
-- [2022-10-13-以频道身份发言](https://www.v2ex.com/t/886765) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

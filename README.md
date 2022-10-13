@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-13 14:52:17，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-13 15:19:05，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-10-13-theatrejs-真的是牛逼](https://www.v2ex.com/t/886768) ![](assets/new.png)  
 - [2022-10-13-请问-iOS-15.6-操作系统有内置的网速显示小工具或小插件？](https://www.v2ex.com/t/886767) ![](assets/new.png)  
 - [2022-10-13-以频道身份发言](https://www.v2ex.com/t/886765) ![](assets/new.png)  
 - [2022-10-13-共同盖楼分享那些-Linux-桌面环境应用续集](https://www.v2ex.com/t/886764) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-10-13-远程-高级后端研发工程师-明星-Web-3.0-创业公司](https://www.v2ex.com/t/886744) ![](assets/new.png)  
 - [2022-10-13-Windows11-无法登录的-bug-有人遇到过吗](https://www.v2ex.com/t/886743) ![](assets/new.png)  
 - [2022-10-13-面试前的异常紧张胸闷出汗，可以做一些什么缓解~~~](https://www.v2ex.com/t/886742) ![](assets/new.png)  
-- [2022-10-13-富强了，但是-chrome-右键还是不能翻译](https://www.v2ex.com/t/886741) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

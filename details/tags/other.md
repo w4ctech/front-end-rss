@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-13 14:52:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-13 15:19:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1942,7 +1942,6 @@
 - [2022-10-13-地址栏下拉菜单项目，用键盘上下键导航很困难](https://www.v2ex.com/t/886724) 
 - [2022-10-13-心碎进入-emo-模式](https://www.v2ex.com/t/886723) 
 - [2022-10-13-当年喜欢过的女生结婚了](https://www.v2ex.com/t/886720) 
-- [2022-10-13-MLAG-主节点掉电后下行交换机无法正常转发流量](https://www.v2ex.com/t/886718) 
 - [2022-10-13-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-13-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-13-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-13 08:55:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-13 09:21:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1914,6 +1914,8 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-10-13-四通桥的交警效率真是挺高的](https://www.v2ex.com/t/886689) 
+- [2022-10-13-Apple-ID-被销号后如何重置设备？](https://www.v2ex.com/t/886687) 
 - [2022-10-13-求助，删除不了绑定在谷歌上的信用卡](https://www.v2ex.com/t/886685) 
 - [2022-10-13-今天四通桥出现了一位真正的勇士](https://www.v2ex.com/t/886683) 
 - [2022-10-13-请问大家，外包这种薪酬结构正常吗，可以去吗](https://www.v2ex.com/t/886682) 
@@ -1941,8 +1943,6 @@
 - [2022-10-13-OpenAI-token-有办法申请到吗？-想尝试做一些有意思的应用](https://www.v2ex.com/t/886642) 
 - [2022-10-13-没怎么关注电脑，双十一攒机，求指导](https://www.v2ex.com/t/886641) 
 - [2022-10-13-腾讯云的轻量服务器是共享带宽吗？用来挂远程工具稳定不？](https://www.v2ex.com/t/886640) 
-- [2022-10-13-开发一个专属程序员的收藏夹需要多久？](https://www.v2ex.com/t/886639) 
-- [2022-10-13-迫于-voice-被回收，求个靠谱的平台？](https://www.v2ex.com/t/886638) 
 - [2022-10-13-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-13-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-13-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1964,8 +1964,8 @@
 - [2022-10-13-130-个学术网站-26-个科研工具](https://toutiao.io/k/rw2dlfo) 
 - [2022-10-13-MQTT-保留消息是什么？如何使用？](https://toutiao.io/k/6tq7oxu) 
 - [2022-10-13-Paxos-选举出一个Leader-解决活锁，可是如果在存在-Leader-为什么要使用-Paxos?](https://toutiao.io/k/2bbd05t) 
-- [2022-10-13-用户离线实时画像融合实践](https://toutiao.io/k/o0eto6n) 
 - [2022-10-13-过了-35-岁你还能干嘛？这是我看过最棒的建议](https://toutiao.io/k/6uyyyfk) 
+- [2022-10-13-用户离线实时画像融合实践](https://toutiao.io/k/o0eto6n) 
 - [2022-10-13-阿里云块存储团队软件工程实践](https://toutiao.io/k/hpki24r) 
 - [2022-10-13-编程架构演化史：远古时代，从打孔卡（Punched-Card）开始](https://toutiao.io/k/4zec32d) 
 - [2022-10-13-一文能读懂车载与-Android-的关系](https://toutiao.io/k/00vb22e) 

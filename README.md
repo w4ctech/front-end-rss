@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-13 21:45:27，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-13 22:18:59，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-10-13-求推荐能耗低的-macOS-邮箱客户端](https://www.v2ex.com/t/886794) ![](assets/new.png)  
 - [2022-10-13-@领英中国-对于部分-linkedin.com-的链接，可否不要跳转？](https://www.v2ex.com/t/886793) ![](assets/new.png)  
 - [2022-10-13-Windows-11-是否需要防病毒软件](https://www.v2ex.com/t/886792) ![](assets/new.png)  
 - [2022-10-13-来分享一下你们正在使用的键盘吧](https://www.v2ex.com/t/886791) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-10-13-Watch-背后绿灯常亮，已经两三天了](https://www.v2ex.com/t/886772) ![](assets/new.png)  
 - [2022-10-13-用-Java-的并发类也会抛-ConcurrentModificationException-吗？](https://www.v2ex.com/t/886771) ![](assets/new.png)  
 - [2022-10-13-来分享我写的周刊（厕刊）](https://www.v2ex.com/t/886770) ![](assets/new.png)  
-- [2022-10-13-theatrejs-真的是牛逼](https://www.v2ex.com/t/886768) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

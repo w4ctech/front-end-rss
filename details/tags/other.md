@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-13 21:45:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-13 22:18:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1914,6 +1914,7 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-10-13-求推荐能耗低的-macOS-邮箱客户端](https://www.v2ex.com/t/886794) 
 - [2022-10-13-@领英中国-对于部分-linkedin.com-的链接，可否不要跳转？](https://www.v2ex.com/t/886793) 
 - [2022-10-13-Windows-11-是否需要防病毒软件](https://www.v2ex.com/t/886792) 
 - [2022-10-13-来分享一下你们正在使用的键盘吧](https://www.v2ex.com/t/886791) 
@@ -1942,7 +1943,6 @@
 - [2022-10-13-现在如何注册/购买-google-voice-帐号？](https://www.v2ex.com/t/886750) 
 - [2022-10-13-关于行程大数据排查到底是如何判定的？](https://www.v2ex.com/t/886749) 
 - [2022-10-13-上海电信宽带-ipv6-没了，突然发现只能拿到-v4-的地址了](https://www.v2ex.com/t/886748) 
-- [2022-10-13-远程-高级后端研发工程师-明星-Web-3.0-创业公司](https://www.v2ex.com/t/886744) 
 - [2022-10-13-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-13-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-13-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

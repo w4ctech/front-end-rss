@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-13 22:18:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-13 22:49:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1914,6 +1914,7 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-10-13-Lark（海外版飞书）要收费了，有没有竞品推荐！](https://www.v2ex.com/t/886796) 
 - [2022-10-13-求推荐能耗低的-macOS-邮箱客户端](https://www.v2ex.com/t/886794) 
 - [2022-10-13-@领英中国-对于部分-linkedin.com-的链接，可否不要跳转？](https://www.v2ex.com/t/886793) 
 - [2022-10-13-Windows-11-是否需要防病毒软件](https://www.v2ex.com/t/886792) 

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-10-13 11:15:23。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-13 11:43:45。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -350,6 +350,7 @@
 
 
 
+- [【V2EX】Authing-招聘后端开发实习生啦](https://www.v2ex.com/t/886729)
 - [【V2EX】Authing-招聘后端开发实习生](https://www.v2ex.com/t/886714)
 - [......【查看更多】......](./details/tags/job-interview.md)
 

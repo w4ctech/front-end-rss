@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-13 05:28:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-13 06:26:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -8,3 +8,4 @@
 
 
 - [2022-10-13-改了-3-个字符，10-倍的沙箱性能提升？！！](https://toutiao.io/k/6bl6z5n) 
+- [2022-10-13-一文看得-Linux-性能分析｜perf原理](https://toutiao.io/k/ymtu7zk) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-13 05:28:40，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-13 06:26:49，:rocket: 更新条数: +2025， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,26 +491,26 @@
 </summary>
 
 
+- [2022-10-13-mac-一连接-AirPods-pro，使用麦克风就变卡了](https://www.v2ex.com/t/886633) ![](assets/new.png)  
+- [2022-10-13-怎么才能治一下懒货同事?](https://www.v2ex.com/t/886631) ![](assets/new.png)  
+- [2022-10-13-JS-有什么好用的的队列组件或者代码？](https://www.v2ex.com/t/886629) ![](assets/new.png)  
+- [2022-10-13-有没有啥好用的移动端-IDE?](https://www.v2ex.com/t/886628) ![](assets/new.png)  
+- [2022-10-13-工作几年，深知英语的重要性，想学英语，但不知道如何开始](https://www.v2ex.com/t/886626) ![](assets/new.png)  
+- [2022-10-13-「Universal-Work-在全宇宙都可工作」初中级前端开发工程师/月薪-18-25K-RMB](https://www.v2ex.com/t/886625) ![](assets/new.png)  
+- [2022-10-13-Discord-申请输入监听权限？](https://www.v2ex.com/t/886624) ![](assets/new.png)  
+- [2022-10-13-2022-年-10-月，有哪些在国内能买到并且能在国内用的美国电话卡？](https://www.v2ex.com/t/886623) ![](assets/new.png)  
+- [2022-10-13-买单吧-app-是如何检测科学上网的](https://www.v2ex.com/t/886622) ![](assets/new.png)  
+- [2022-10-13-PostgreSQL-Tutorial](https://www.v2ex.com/t/886621) ![](assets/new.png)  
+- [2022-10-13-应届生工作了三个月，提升不大要换工作吗？](https://www.v2ex.com/t/886619) ![](assets/new.png)  
+- [2022-10-13-acwing-算法基础课拼团](https://www.v2ex.com/t/886618) ![](assets/new.png)  
+- [2022-10-13-Apple-Music、Apple-TV-等将上架-Windows-平台，苹果也开始注重跨平台了吗？](https://www.v2ex.com/t/886616) ![](assets/new.png)  
+- [2022-10-13-关于-golang-的下载文件限速功能](https://www.v2ex.com/t/886615) ![](assets/new.png)  
 - [2022-10-13-大家的-iPhone-手机壳用的是什么牌子的](https://www.v2ex.com/t/886614) ![](assets/new.png)  
 - [2022-10-13-刚来新公司，他们居然说这个很简单？](https://www.v2ex.com/t/886613) ![](assets/new.png)  
 - [2022-10-13-不懂就问,房贷合同利率与执行利率差距怎么这么大](https://www.v2ex.com/t/886611) ![](assets/new.png)  
 - [2022-10-13-Apple-watch-的光电是否真的无害？](https://www.v2ex.com/t/886610) ![](assets/new.png)  
 - [2022-10-13-PayPal-20-刀优惠券](https://www.v2ex.com/t/886609) ![](assets/new.png)  
 - [2022-10-13-OneDrive-个人版死活登录不上](https://www.v2ex.com/t/886608) ![](assets/new.png)  
-- [2022-10-13-被电子监控抓拍超速，人脸模糊，这种情况下可以不扣分？](https://www.v2ex.com/t/886607) ![](assets/new.png)  
-- [2022-10-13-Windows-触屏设备有什么好用的音频播放器？](https://www.v2ex.com/t/886606) ![](assets/new.png)  
-- [2022-10-13-未接来电里有一些没印象的来电记录](https://www.v2ex.com/t/886605) ![](assets/new.png)  
-- [2022-10-13-Fleet-推出公共预览](https://www.v2ex.com/t/886604) ![](assets/new.png)  
-- [2022-10-13-可不可能在中国境内的-Linux-服务器安装类似-Clash-的软件？](https://www.v2ex.com/t/886603) ![](assets/new.png)  
-- [2022-10-13-问下各位大佬，有没有线上平台搞实战-IT-辅导的呢？](https://www.v2ex.com/t/886602) ![](assets/new.png)  
-- [2022-10-13-MetMate：一款新的视频协作会议软件](https://www.v2ex.com/t/886601) ![](assets/new.png)  
-- [2022-10-13-简单易用、开发者友好的日志存储和查询平台](https://www.v2ex.com/t/886600) ![](assets/new.png)  
-- [2022-10-13-众所周知，给宠物绝育可以延长寿命。那么以此类推，如果人类不结婚，是不是也可以寿命+1？](https://www.v2ex.com/t/886599) ![](assets/new.png)  
-- [2022-10-13-有用过国外的智能音箱吗？](https://www.v2ex.com/t/886597) ![](assets/new.png)  
-- [2022-10-13-apple-pencil-2-代到手，-PDD-教育预激活全新-750-元，大家看看是否有什么坑？](https://www.v2ex.com/t/886596) ![](assets/new.png)  
-- [2022-10-13-IT-系统里的"Login"到底应该翻译为“登陆”还是“登录”？](https://www.v2ex.com/t/886595) ![](assets/new.png)  
-- [2022-10-13-quanX-和-quan-打包一起是-9.99-美元，要一起买了吗~~-单独-quanX-是-7.99-美元~~](https://www.v2ex.com/t/886593) ![](assets/new.png)  
-- [2022-10-13-迷茫了，-2-年的前端到底应该具备哪些能力](https://www.v2ex.com/t/886592) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -560,15 +560,19 @@
 - [2022-10-13-Paxos-选举出一个Leader-解决活锁，可是如果在存在-Leader-为什么要使用-Paxos?](https://toutiao.io/k/2bbd05t) ![](assets/new.png)  
 - [2022-10-13-用户离线实时画像融合实践](https://toutiao.io/k/o0eto6n) ![](assets/new.png)  
 - [2022-10-13-阿里云块存储团队软件工程实践](https://toutiao.io/k/hpki24r) ![](assets/new.png)  
-- [2022-10-13-编程架构演化史：远古时代，从打孔卡（Punched-Card）开始](https://toutiao.io/k/4zec32d) ![](assets/new.png)  
 - [2022-10-13-过了-35-岁你还能干嘛？这是我看过最棒的建议](https://toutiao.io/k/6uyyyfk) ![](assets/new.png)  
+- [2022-10-13-编程架构演化史：远古时代，从打孔卡（Punched-Card）开始](https://toutiao.io/k/4zec32d) ![](assets/new.png)  
 - [2022-10-13-CSS-布局之盒模型](https://toutiao.io/k/e4whpnh) ![](assets/new.png)  
 - [2022-10-13-怎么使用-jmeter-请求-protobuf-参数接口](https://toutiao.io/k/axgh6t5) ![](assets/new.png)  
-- [2022-10-13-一文能读懂车载与-Android-的关系](https://toutiao.io/k/00vb22e) ![](assets/new.png)  
 - [2022-10-13-改了-3-个字符，10-倍的沙箱性能提升？！！](https://toutiao.io/k/6bl6z5n) ![](assets/new.png)  
+- [2022-10-13-一文能读懂车载与-Android-的关系](https://toutiao.io/k/00vb22e) ![](assets/new.png)  
 - [2022-10-13-我在-vue3-开发中踩的坑](https://toutiao.io/k/nn6y6vi) ![](assets/new.png)  
 - [2022-10-13-深究-Go-CPU-profiler](https://toutiao.io/k/7fjbrvz) ![](assets/new.png)  
-- [2022-10-13-推荐-超实用！整理了-34-个-Python-自动化办公库](https://toutiao.io/k/5wihja2) ![](assets/new.png)  
+- [2022-10-13-对最近火热的“DevOps已死”的回应](https://toutiao.io/k/9fn4mpe) ![](assets/new.png)  
+- [2022-10-13-一文看得-Linux-性能分析｜perf原理](https://toutiao.io/k/ymtu7zk) ![](assets/new.png)  
+- [2022-10-13-【第2751期】用-CSS-来偷数据---CSS-injection（下）](https://toutiao.io/k/egnubs5) ![](assets/new.png)  
+- [2022-10-13-灵动岛Dynamic-Island初探](https://toutiao.io/k/bjyqo8t) ![](assets/new.png)  
+- [2022-10-13-公司系统老被黑客攻击，领导让我写一套限流算法保护系统，拼了！](https://toutiao.io/k/j0fhgip) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-13 13:39:42。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-10-13 14:25:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,13 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-12-CSS-::file-selector-button伪元素简介](https://www.zhangxinxu.com/wordpress/2022/10/css-file-selector-button/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-12-更符合书写习惯的CSS媒体查询Range语法](https://www.zhangxinxu.com/wordpress/2022/10/css-media-range-syntax/) 
+- [【V2EX】2022-10-13-新用户测试-1-个月的华为云，新加坡-5M-带宽，国内-SSH-无卡顿断开。刚采购了买一个月送-1-年的-5M-香港-ECS，简直想吐血，-SSH-经常断开，敲命令各种卡顿。测试...](https://www.v2ex.com/t/886759) 
+- [【V2EX】2022-10-13-关于-Firefox-访问使用-Cloudflare-网站并且要求进行人机验证的问题](https://www.v2ex.com/t/886758) 
+- [【V2EX】2022-10-13-请问-Zerotier-连接的两个局域网内设备如何互相投屏和网络发现？](https://www.v2ex.com/t/886755) 
+- [【V2EX】2022-10-13-有个体工商户的-v-友吗？营业执照是自己去跑腿还是有人上门做](https://www.v2ex.com/t/886753) 
+- [【V2EX】2022-10-13-有没有与-AI-机器人对话练习英语口语的-APP-呢？](https://www.v2ex.com/t/886752) 
+- [【V2EX】2022-10-13-我的-Deepin-又坏了!](https://www.v2ex.com/t/886751) 
+- [【V2EX】2022-10-13-现在如何注册/购买-google-voice-帐号？](https://www.v2ex.com/t/886750) 
 - [【V2EX】2022-10-13-关于行程大数据排查到底是如何判定的？](https://www.v2ex.com/t/886749) 
 - [【V2EX】2022-10-13-上海电信宽带-ipv6-没了，突然发现只能拿到-v4-的地址了](https://www.v2ex.com/t/886748) 
 - [【V2EX】2022-10-13-发现了不错的-SEO-教程](https://www.v2ex.com/t/886746) 
@@ -101,11 +108,6 @@
 - [【V2EX】2022-10-13-Authing-招聘后端开发实习生](https://www.v2ex.com/t/886714) 
 - [【V2EX】2022-10-13-一不留神踢掉路由器天线一根，导线没断，怎么看是否还能正常工作？](https://www.v2ex.com/t/886713) 
 - [【V2EX】2022-10-13-滴滴~~请问有做海外推广，谷歌，脸书等代投的哥们吗？](https://www.v2ex.com/t/886712) 
-- [【V2EX】2022-10-13-打算跟女朋友求婚，兄弟们有一些好思路提供嘛](https://www.v2ex.com/t/886708) 
-- [【V2EX】2022-10-13-k8s-的练习环境](https://www.v2ex.com/t/886707) 
-- [【V2EX】2022-10-13-求推荐好用的-rss-阅读器](https://www.v2ex.com/t/886705) 
-- [【V2EX】2022-10-13-ssr-有哪些好的方案吗？](https://www.v2ex.com/t/886701) 
-- [【V2EX】2022-10-13-微信-iOS-版支持将小程序添加到桌面了，可以拿到-URL-Scheme-出来使用](https://www.v2ex.com/t/886700) 
 - [【技术头条】2022-10-13-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-13-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-13-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

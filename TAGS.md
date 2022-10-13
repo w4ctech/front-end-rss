@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-10-13 13:39:42。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-13 14:25:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -122,7 +122,6 @@
 
 
 
-- [【V2EX】微信-iOS-版支持将小程序添加到桌面了，可以拿到-URL-Scheme-出来使用](https://www.v2ex.com/t/886700)
 - [......【查看更多】......](./details/tags/miniprogram.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -279,6 +278,8 @@
 - [【武汉肺炎防疫全纪录(财新网)】腺病毒新冠疫苗引安全忧虑-康希诺称未发现血栓病例](https://m.caixin.com/m/2021-04-14/101691086.html)
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
+- [【V2EX】关于-Firefox-访问使用-Cloudflare-网站并且要求进行人机验证的问题](https://www.v2ex.com/t/886758)
+- [【V2EX】请问-Zerotier-连接的两个局域网内设备如何互相投屏和网络发现？](https://www.v2ex.com/t/886755)
 - [【V2EX】富强了，但是-chrome-右键还是不能翻译](https://www.v2ex.com/t/886741)
 - [【开发者头条】怎么使用-jmeter-请求-protobuf-参数接口](https://toutiao.io/k/axgh6t5)
 - [......【查看更多】......](./details/tags/browser.md)

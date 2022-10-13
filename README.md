@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-13 13:39:42，:rocket: 更新条数: +2023， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-13 14:25:20，:rocket: 更新条数: +2025， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,13 @@
 </summary>
 
 
+- [2022-10-13-新用户测试-1-个月的华为云，新加坡-5M-带宽，国内-SSH-无卡顿断开。刚采购了买一个月送-1-年的-5M-香港-ECS，简直想吐血，-SSH-经常断开，敲命令各种卡顿。测试...](https://www.v2ex.com/t/886759) ![](assets/new.png)  
+- [2022-10-13-关于-Firefox-访问使用-Cloudflare-网站并且要求进行人机验证的问题](https://www.v2ex.com/t/886758) ![](assets/new.png)  
+- [2022-10-13-请问-Zerotier-连接的两个局域网内设备如何互相投屏和网络发现？](https://www.v2ex.com/t/886755) ![](assets/new.png)  
+- [2022-10-13-有个体工商户的-v-友吗？营业执照是自己去跑腿还是有人上门做](https://www.v2ex.com/t/886753) ![](assets/new.png)  
+- [2022-10-13-有没有与-AI-机器人对话练习英语口语的-APP-呢？](https://www.v2ex.com/t/886752) ![](assets/new.png)  
+- [2022-10-13-我的-Deepin-又坏了!](https://www.v2ex.com/t/886751) ![](assets/new.png)  
+- [2022-10-13-现在如何注册/购买-google-voice-帐号？](https://www.v2ex.com/t/886750) ![](assets/new.png)  
 - [2022-10-13-关于行程大数据排查到底是如何判定的？](https://www.v2ex.com/t/886749) ![](assets/new.png)  
 - [2022-10-13-上海电信宽带-ipv6-没了，突然发现只能拿到-v4-的地址了](https://www.v2ex.com/t/886748) ![](assets/new.png)  
 - [2022-10-13-发现了不错的-SEO-教程](https://www.v2ex.com/t/886746) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-10-13-政府外包](https://www.v2ex.com/t/886737) ![](assets/new.png)  
 - [2022-10-13-apple-直营店可以贴膜么](https://www.v2ex.com/t/886735) ![](assets/new.png)  
 - [2022-10-13-Photoshop-2022-每次打开都要访问钥匙串，正常吗？](https://www.v2ex.com/t/886734) ![](assets/new.png)  
-- [2022-10-13-深圳，-Java-，自研工资-24k，年终一个月，年纪-26，女朋友找不到，疯狂沉迷去会所怎么办？](https://www.v2ex.com/t/886733) ![](assets/new.png)  
-- [2022-10-13-iCloud-订阅到期后，超出容量被收回。那么上面保存的东西是怎么重新分配的？](https://www.v2ex.com/t/886732) ![](assets/new.png)  
-- [2022-10-13-「每年都卡」苹果为啥不把官方商城-APP-优化下](https://www.v2ex.com/t/886731) ![](assets/new.png)  
-- [2022-10-13-世界杯马上要举办了，发现-V2EX-没有足球节点，能加一个足球节点吗？](https://www.v2ex.com/t/886730) ![](assets/new.png)  
-- [2022-10-13-Authing-招聘后端开发实习生啦](https://www.v2ex.com/t/886729) ![](assets/new.png)  
-- [2022-10-13-单元测试问题请教](https://www.v2ex.com/t/886728) ![](assets/new.png)  
-- [2022-10-13-求职-希望得到一份前端远程工作，-3-年-php3-年前端求捞](https://www.v2ex.com/t/886727) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

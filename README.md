@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-13 04:01:12，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-13 05:28:40，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,26 +491,26 @@
 </summary>
 
 
-- [2022-10-13-求推荐笔记本电脑（需求预算清晰）](https://www.v2ex.com/t/886590) ![](assets/new.png)  
-- [2022-10-13-公司开发机不让上外网](https://www.v2ex.com/t/886589) ![](assets/new.png)  
-- [2022-10-13-翻一下邮箱看看有没有-pixel7-的-9-折优惠券~](https://www.v2ex.com/t/886585) ![](assets/new.png)  
-- [2022-10-13-第一次发，家里工厂直销全新的儿童羽绒服/马甲，-30-多块钱起](https://www.v2ex.com/t/886582) ![](assets/new.png)  
-- [2022-10-13-Prisma's-Data-Guide](https://www.v2ex.com/t/886581) ![](assets/new.png)  
-- [2022-10-13-诚招对开源感兴趣的开发工程师（工作时间-965/开源丰富者可接受远程办公）](https://www.v2ex.com/t/886580) ![](assets/new.png)  
-- [2022-10-13-真服了，-Bootcamp-Windows-居然比-Mac-OS-更流畅丝滑](https://www.v2ex.com/t/886579) ![](assets/new.png)  
-- [2022-10-13-想请教一下做人群圈选的时候动态查询条件怎么实现的哦？](https://www.v2ex.com/t/886578) ![](assets/new.png)  
-- [2022-10-13-自己写了一个钉钉打卡插件已稳定用了-3-年了没出问题跟大家分享一下](https://www.v2ex.com/t/886577) ![](assets/new.png)  
-- [2022-10-13-JetBrains-Fleet-发布了公开预览版了](https://www.v2ex.com/t/886576) ![](assets/new.png)  
-- [2022-10-13-成都-Go-有没有什么比较好的招应届生的公司](https://www.v2ex.com/t/886575) ![](assets/new.png)  
-- [2022-10-13-github-组织的-star-算自己的还是仓库](https://www.v2ex.com/t/886574) ![](assets/new.png)  
-- [2022-10-13-请问-gmail-邮箱上哪批发？](https://www.v2ex.com/t/886573) ![](assets/new.png)  
-- [2022-10-13-Win10-昨晚自动更新后出现了很多严重问题](https://www.v2ex.com/t/886572) ![](assets/new.png)  
-- [2022-10-13-AI-攝影作品，有效避免網站版權問題](https://www.v2ex.com/t/886571) ![](assets/new.png)  
-- [2022-10-13-macOS-上-Finder-中的有些文件夹不能使用折叠/展开查看功能？](https://www.v2ex.com/t/886570) ![](assets/new.png)  
-- [2022-10-13-出租校园宽带账号违-f-吗？想开发一个这样的平台赚点零花钱](https://www.v2ex.com/t/886568) ![](assets/new.png)  
-- [2022-10-13-14pro-续航扑街，是不是-cpu-有问题？](https://www.v2ex.com/t/886566) ![](assets/new.png)  
-- [2022-10-13-求北京秋季摩友骑行，小白刚骑，不想变宅](https://www.v2ex.com/t/886565) ![](assets/new.png)  
-- [2022-10-13-有没有跟拯救者性能相当的小主机](https://www.v2ex.com/t/886564) ![](assets/new.png)  
+- [2022-10-13-大家的-iPhone-手机壳用的是什么牌子的](https://www.v2ex.com/t/886614) ![](assets/new.png)  
+- [2022-10-13-刚来新公司，他们居然说这个很简单？](https://www.v2ex.com/t/886613) ![](assets/new.png)  
+- [2022-10-13-不懂就问,房贷合同利率与执行利率差距怎么这么大](https://www.v2ex.com/t/886611) ![](assets/new.png)  
+- [2022-10-13-Apple-watch-的光电是否真的无害？](https://www.v2ex.com/t/886610) ![](assets/new.png)  
+- [2022-10-13-PayPal-20-刀优惠券](https://www.v2ex.com/t/886609) ![](assets/new.png)  
+- [2022-10-13-OneDrive-个人版死活登录不上](https://www.v2ex.com/t/886608) ![](assets/new.png)  
+- [2022-10-13-被电子监控抓拍超速，人脸模糊，这种情况下可以不扣分？](https://www.v2ex.com/t/886607) ![](assets/new.png)  
+- [2022-10-13-Windows-触屏设备有什么好用的音频播放器？](https://www.v2ex.com/t/886606) ![](assets/new.png)  
+- [2022-10-13-未接来电里有一些没印象的来电记录](https://www.v2ex.com/t/886605) ![](assets/new.png)  
+- [2022-10-13-Fleet-推出公共预览](https://www.v2ex.com/t/886604) ![](assets/new.png)  
+- [2022-10-13-可不可能在中国境内的-Linux-服务器安装类似-Clash-的软件？](https://www.v2ex.com/t/886603) ![](assets/new.png)  
+- [2022-10-13-问下各位大佬，有没有线上平台搞实战-IT-辅导的呢？](https://www.v2ex.com/t/886602) ![](assets/new.png)  
+- [2022-10-13-MetMate：一款新的视频协作会议软件](https://www.v2ex.com/t/886601) ![](assets/new.png)  
+- [2022-10-13-简单易用、开发者友好的日志存储和查询平台](https://www.v2ex.com/t/886600) ![](assets/new.png)  
+- [2022-10-13-众所周知，给宠物绝育可以延长寿命。那么以此类推，如果人类不结婚，是不是也可以寿命+1？](https://www.v2ex.com/t/886599) ![](assets/new.png)  
+- [2022-10-13-有用过国外的智能音箱吗？](https://www.v2ex.com/t/886597) ![](assets/new.png)  
+- [2022-10-13-apple-pencil-2-代到手，-PDD-教育预激活全新-750-元，大家看看是否有什么坑？](https://www.v2ex.com/t/886596) ![](assets/new.png)  
+- [2022-10-13-IT-系统里的"Login"到底应该翻译为“登陆”还是“登录”？](https://www.v2ex.com/t/886595) ![](assets/new.png)  
+- [2022-10-13-quanX-和-quan-打包一起是-9.99-美元，要一起买了吗~~-单独-quanX-是-7.99-美元~~](https://www.v2ex.com/t/886593) ![](assets/new.png)  
+- [2022-10-13-迷茫了，-2-年的前端到底应该具备哪些能力](https://www.v2ex.com/t/886592) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -562,12 +562,12 @@
 - [2022-10-13-阿里云块存储团队软件工程实践](https://toutiao.io/k/hpki24r) ![](assets/new.png)  
 - [2022-10-13-编程架构演化史：远古时代，从打孔卡（Punched-Card）开始](https://toutiao.io/k/4zec32d) ![](assets/new.png)  
 - [2022-10-13-过了-35-岁你还能干嘛？这是我看过最棒的建议](https://toutiao.io/k/6uyyyfk) ![](assets/new.png)  
-- [2022-10-13-改了-3-个字符，10-倍的沙箱性能提升？！！](https://toutiao.io/k/6bl6z5n) ![](assets/new.png)  
-- [2022-10-13-一文能读懂车载与-Android-的关系](https://toutiao.io/k/00vb22e) ![](assets/new.png)  
 - [2022-10-13-CSS-布局之盒模型](https://toutiao.io/k/e4whpnh) ![](assets/new.png)  
 - [2022-10-13-怎么使用-jmeter-请求-protobuf-参数接口](https://toutiao.io/k/axgh6t5) ![](assets/new.png)  
-- [2022-10-13-深究-Go-CPU-profiler](https://toutiao.io/k/7fjbrvz) ![](assets/new.png)  
+- [2022-10-13-一文能读懂车载与-Android-的关系](https://toutiao.io/k/00vb22e) ![](assets/new.png)  
+- [2022-10-13-改了-3-个字符，10-倍的沙箱性能提升？！！](https://toutiao.io/k/6bl6z5n) ![](assets/new.png)  
 - [2022-10-13-我在-vue3-开发中踩的坑](https://toutiao.io/k/nn6y6vi) ![](assets/new.png)  
+- [2022-10-13-深究-Go-CPU-profiler](https://toutiao.io/k/7fjbrvz) ![](assets/new.png)  
 - [2022-10-13-推荐-超实用！整理了-34-个-Python-自动化办公库](https://toutiao.io/k/5wihja2) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

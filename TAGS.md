@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-10-13 04:01:12。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-13 05:28:40。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -55,7 +55,6 @@
 
 
 
-- [【V2EX】AgileBoot---手把手一步一步带你-Run-起全栈项目SpringBoot+Vue3](https://www.v2ex.com/t/886561)
 - [【开发者头条】我在-vue3-开发中踩的坑](https://toutiao.io/k/nn6y6vi)
 - [......【查看更多】......](./details/tags/vue.md)
 
@@ -235,7 +234,8 @@
 
 - [【武汉肺炎防疫全纪录(财新网)】广州17岁男生在定点医院参加高考-特殊考场视频监考](https://m.caixin.com/m/2021-06-05/101723418.html)
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
-- [【V2EX】又写无聊代码啦，终端的-webrtc-p2p-聊天软件](https://www.v2ex.com/t/886563)
+- [【V2EX】Windows-触屏设备有什么好用的音频播放器？](https://www.v2ex.com/t/886606)
+- [【V2EX】MetMate：一款新的视频协作会议软件](https://www.v2ex.com/t/886601)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -252,7 +252,6 @@
 
 
 
-- [【V2EX】有没有跟拯救者性能相当的小主机](https://www.v2ex.com/t/886564)
 - [【开发者头条】改了-3-个字符，10-倍的沙箱性能提升？！！](https://toutiao.io/k/6bl6z5n)
 - [......【查看更多】......](./details/tags/optimization.md)
 
@@ -346,7 +345,6 @@
 
 
 
-- [【V2EX】上海招聘-实习生-基于模型的系统工程的产品开发](https://www.v2ex.com/t/886547)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

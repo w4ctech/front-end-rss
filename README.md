@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-13 15:19:05，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-13 15:51:45，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,14 @@
 </summary>
 
 
+- [2022-10-13-Windows-运行-ffmpeg-批量脚本的时候，如何在不中断的情况下限制-CPU-使用率](https://www.v2ex.com/t/886777) ![](assets/new.png)  
+- [2022-10-13-小辣鸡又来求助了，网站挂掉了，救救我](https://www.v2ex.com/t/886776) ![](assets/new.png)  
+- [2022-10-13-jQuery-中-Ajax-跨域配置疑问](https://www.v2ex.com/t/886775) ![](assets/new.png)  
+- [2022-10-13-国庆回家相了个亲，搞得快要跟父母断绝关系了](https://www.v2ex.com/t/886774) ![](assets/new.png)  
+- [2022-10-13-有没有讲社会常识的书或者课程？](https://www.v2ex.com/t/886773) ![](assets/new.png)  
+- [2022-10-13-Watch-背后绿灯常亮，已经两三天了](https://www.v2ex.com/t/886772) ![](assets/new.png)  
+- [2022-10-13-用-Java-的并发类也会抛-ConcurrentModificationException-吗？](https://www.v2ex.com/t/886771) ![](assets/new.png)  
+- [2022-10-13-来分享我写的周刊（厕刊）](https://www.v2ex.com/t/886770) ![](assets/new.png)  
 - [2022-10-13-theatrejs-真的是牛逼](https://www.v2ex.com/t/886768) ![](assets/new.png)  
 - [2022-10-13-请问-iOS-15.6-操作系统有内置的网速显示小工具或小插件？](https://www.v2ex.com/t/886767) ![](assets/new.png)  
 - [2022-10-13-以频道身份发言](https://www.v2ex.com/t/886765) ![](assets/new.png)  
@@ -503,14 +511,6 @@
 - [2022-10-13-请问-Zerotier-连接的两个局域网内设备如何互相投屏和网络发现？](https://www.v2ex.com/t/886755) ![](assets/new.png)  
 - [2022-10-13-有个体工商户的-v-友吗？营业执照是自己去跑腿还是有人上门做](https://www.v2ex.com/t/886753) ![](assets/new.png)  
 - [2022-10-13-有没有与-AI-机器人对话练习英语口语的-APP-呢？](https://www.v2ex.com/t/886752) ![](assets/new.png)  
-- [2022-10-13-我的-Deepin-又坏了!](https://www.v2ex.com/t/886751) ![](assets/new.png)  
-- [2022-10-13-现在如何注册/购买-google-voice-帐号？](https://www.v2ex.com/t/886750) ![](assets/new.png)  
-- [2022-10-13-关于行程大数据排查到底是如何判定的？](https://www.v2ex.com/t/886749) ![](assets/new.png)  
-- [2022-10-13-上海电信宽带-ipv6-没了，突然发现只能拿到-v4-的地址了](https://www.v2ex.com/t/886748) ![](assets/new.png)  
-- [2022-10-13-发现了不错的-SEO-教程](https://www.v2ex.com/t/886746) ![](assets/new.png)  
-- [2022-10-13-远程-高级后端研发工程师-明星-Web-3.0-创业公司](https://www.v2ex.com/t/886744) ![](assets/new.png)  
-- [2022-10-13-Windows11-无法登录的-bug-有人遇到过吗](https://www.v2ex.com/t/886743) ![](assets/new.png)  
-- [2022-10-13-面试前的异常紧张胸闷出汗，可以做一些什么缓解~~~](https://www.v2ex.com/t/886742) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -555,24 +555,24 @@
 
 - [2022-10-13-搜索中常见数据结构与算法探究（二）](https://toutiao.io/k/x07oz64) ![](assets/new.png)  
 - [2022-10-13-130-个学术网站-26-个科研工具](https://toutiao.io/k/rw2dlfo) ![](assets/new.png)  
-- [2022-10-13-MQTT-保留消息是什么？如何使用？](https://toutiao.io/k/6tq7oxu) ![](assets/new.png)  
 - [2022-10-13-风控决策引擎——决策流构建实战](https://toutiao.io/k/zr21r1r) ![](assets/new.png)  
+- [2022-10-13-MQTT-保留消息是什么？如何使用？](https://toutiao.io/k/6tq7oxu) ![](assets/new.png)  
 - [2022-10-13-Paxos-选举出一个Leader-解决活锁，可是如果在存在-Leader-为什么要使用-Paxos?](https://toutiao.io/k/2bbd05t) ![](assets/new.png)  
 - [2022-10-13-过了-35-岁你还能干嘛？这是我看过最棒的建议](https://toutiao.io/k/6uyyyfk) ![](assets/new.png)  
 - [2022-10-13-用户离线实时画像融合实践](https://toutiao.io/k/o0eto6n) ![](assets/new.png)  
 - [2022-10-13-阿里云块存储团队软件工程实践](https://toutiao.io/k/hpki24r) ![](assets/new.png)  
 - [2022-10-13-编程架构演化史：远古时代，从打孔卡（Punched-Card）开始](https://toutiao.io/k/4zec32d) ![](assets/new.png)  
-- [2022-10-13-CSS-布局之盒模型](https://toutiao.io/k/e4whpnh) ![](assets/new.png)  
 - [2022-10-13-怎么使用-jmeter-请求-protobuf-参数接口](https://toutiao.io/k/axgh6t5) ![](assets/new.png)  
+- [2022-10-13-CSS-布局之盒模型](https://toutiao.io/k/e4whpnh) ![](assets/new.png)  
 - [2022-10-13-我在-vue3-开发中踩的坑](https://toutiao.io/k/nn6y6vi) ![](assets/new.png)  
 - [2022-10-13-改了-3-个字符，10-倍的沙箱性能提升？！！](https://toutiao.io/k/6bl6z5n) ![](assets/new.png)  
-- [2022-10-13-一文能读懂车载与-Android-的关系](https://toutiao.io/k/00vb22e) ![](assets/new.png)  
 - [2022-10-13-一文看得-Linux-性能分析｜perf原理](https://toutiao.io/k/ymtu7zk) ![](assets/new.png)  
+- [2022-10-13-一文能读懂车载与-Android-的关系](https://toutiao.io/k/00vb22e) ![](assets/new.png)  
 - [2022-10-13-深究-Go-CPU-profiler](https://toutiao.io/k/7fjbrvz) ![](assets/new.png)  
 - [2022-10-13-对最近火热的“DevOps已死”的回应](https://toutiao.io/k/9fn4mpe) ![](assets/new.png)  
 - [2022-10-13-公司系统老被黑客攻击，领导让我写一套限流算法保护系统，拼了！](https://toutiao.io/k/j0fhgip) ![](assets/new.png)  
-- [2022-10-13-灵动岛Dynamic-Island初探](https://toutiao.io/k/bjyqo8t) ![](assets/new.png)  
 - [2022-10-13-【第2751期】用-CSS-来偷数据---CSS-injection（下）](https://toutiao.io/k/egnubs5) ![](assets/new.png)  
+- [2022-10-13-灵动岛Dynamic-Island初探](https://toutiao.io/k/bjyqo8t) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

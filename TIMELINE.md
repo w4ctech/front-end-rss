@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-14 20:51:45。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-10-14 21:16:53。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,7 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-12-CSS-::file-selector-button伪元素简介](https://www.zhangxinxu.com/wordpress/2022/10/css-file-selector-button/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-12-更符合书写习惯的CSS媒体查询Range语法](https://www.zhangxinxu.com/wordpress/2022/10/css-media-range-syntax/) 
+- [【V2EX】2022-10-14-IOS-钉钉分享推荐人怎么关闭？](https://www.v2ex.com/t/887053) 
 - [【V2EX】2022-10-14-本地化部署的-NovelAI-具有潜在的反序列化攻击风险](https://www.v2ex.com/t/887052) 
 - [【V2EX】2022-10-14-Vmware-workstation-16-为撒创立的虚拟机不支持内嵌虚拟?](https://www.v2ex.com/t/887051) 
 - [【V2EX】2022-10-14-本人多年捣腾黑苹果的经验分享，以及给想入黑苹果的小白一些建议](https://www.v2ex.com/t/887050) 
@@ -103,7 +104,6 @@
 - [【V2EX】2022-10-14-国行-FaceTime-在国内创建的链接可以被海外好友打开吗？](https://www.v2ex.com/t/887006) 
 - [【V2EX】2022-10-14-如何谈薪](https://www.v2ex.com/t/887005) 
 - [【V2EX】2022-10-14-有会-clickhouse-的兄弟吗](https://www.v2ex.com/t/887004) 
-- [【V2EX】2022-10-14-Docker-拉取不到最新镜像？（wiznote/wizserver:latest）](https://www.v2ex.com/t/887003) 
 - [【技术头条】2022-10-14-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-14-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-14-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -144,8 +144,8 @@
 - [【开发者头条】2022-10-14-谷歌云发布重磅安全产品，逆转软件供应链领域攻防形势](https://toutiao.io/k/ydmg6cf) 
 - [【开发者头条】2022-10-14-如何理解-JVM（Java-Virtual-Machine）？](https://toutiao.io/k/5k8626t) 
 - [【开发者头条】2022-10-14-VSCode扩展之-git](https://toutiao.io/k/3c9cnfy) 
-- [【开发者头条】2022-10-14-推荐-7000-字-+-24-张图带你彻底弄懂线程池](https://toutiao.io/k/wci1eno) 
 - [【开发者头条】2022-10-14-推荐-超实用！整理了-34-个-Python-自动化办公库](https://toutiao.io/k/5wihja2) 
+- [【开发者头条】2022-10-14-推荐-7000-字-+-24-张图带你彻底弄懂线程池](https://toutiao.io/k/wci1eno) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

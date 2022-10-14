@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-14 23:17:48，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-14 23:50:29，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-10-14-iPhone-14-16.0.220A380激活后备忘录内容丢失](https://www.v2ex.com/t/887054) ![](assets/new.png)  
 - [2022-10-14-IOS-钉钉分享推荐人怎么关闭？](https://www.v2ex.com/t/887053) ![](assets/new.png)  
 - [2022-10-14-本地化部署的-NovelAI-具有潜在的反序列化攻击风险](https://www.v2ex.com/t/887052) ![](assets/new.png)  
 - [2022-10-14-Vmware-workstation-16-为撒创立的虚拟机不支持内嵌虚拟?](https://www.v2ex.com/t/887051) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-10-14-有没有做-shopify-独立站的大佬，你们都是怎么提高转化率的?](https://www.v2ex.com/t/887027) ![](assets/new.png)  
 - [2022-10-14-hosts-文件中指定域名到-127.0.0.1,https-访问本机-caddy-搭建的-web-网站](https://www.v2ex.com/t/887026) ![](assets/new.png)  
 - [2022-10-14-非常好奇-win-远程桌面线路为啥不被封？](https://www.v2ex.com/t/887024) ![](assets/new.png)  
-- [2022-10-14-真的搞不懂，现在都快-2023-年了，为啥还对-Windows-32-位操作系统恋恋不舍？](https://www.v2ex.com/t/887021) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

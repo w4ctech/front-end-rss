@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-14 15:20:23，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-14 15:52:43，:rocket: 更新条数: +2023， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-10-14-国际网络疑似被切断](https://www.v2ex.com/t/887036) ![](assets/new.png)  
+- [2022-10-14-手上有台全新未拆封的-iPad-AIR5，极其纠结要不要留下来](https://www.v2ex.com/t/887035) ![](assets/new.png)  
+- [2022-10-14-求助关于-spring-的数据库与-redis-的写法](https://www.v2ex.com/t/887034) ![](assets/new.png)  
 - [2022-10-14-300M-小水管让电信师傅换上了全千兆口的光猫](https://www.v2ex.com/t/887031) ![](assets/new.png)  
 - [2022-10-14-150m-每秒是什么体验？](https://www.v2ex.com/t/887028) ![](assets/new.png)  
 - [2022-10-14-有没有做-shopify-独立站的大佬，你们都是怎么提高转化率的?](https://www.v2ex.com/t/887027) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-10-14-Goravel-V1-正式版发布，让-Go-开发更简单、高效！](https://www.v2ex.com/t/887010) ![](assets/new.png)  
 - [2022-10-14-有没有什么开源系统可以用作家庭内网通话的？](https://www.v2ex.com/t/887008) ![](assets/new.png)  
 - [2022-10-14-一个在-iOS-上实现个人开发者签名对-iPA-签名的软件](https://www.v2ex.com/t/887007) ![](assets/new.png)  
-- [2022-10-14-国行-FaceTime-在国内创建的链接可以被海外好友打开吗？](https://www.v2ex.com/t/887006) ![](assets/new.png)  
-- [2022-10-14-如何谈薪](https://www.v2ex.com/t/887005) ![](assets/new.png)  
-- [2022-10-14-有会-clickhouse-的兄弟吗](https://www.v2ex.com/t/887004) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

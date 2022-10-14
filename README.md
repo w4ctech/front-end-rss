@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-14 18:21:19，:rocket: 更新条数: +2020， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-14 18:56:15，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-10-14-Vmware-workstation-16-为撒创立的虚拟机不支持内嵌虚拟?](https://www.v2ex.com/t/887051) ![](assets/new.png)  
 - [2022-10-14-本人多年捣腾黑苹果的经验分享，以及给想入黑苹果的小白一些建议](https://www.v2ex.com/t/887050) ![](assets/new.png)  
 - [2022-10-14-账号不能登陆，提示密码错误，找回密码提示账号不存在](https://www.v2ex.com/t/887049) ![](assets/new.png)  
 - [2022-10-14-请教一下-ios-如何双向完整备份相册（按照时间顺序、保留地理位置等）到-PC-上](https://www.v2ex.com/t/887048) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-10-14-真的搞不懂，现在都快-2023-年了，为啥还对-Windows-32-位操作系统恋恋不舍？](https://www.v2ex.com/t/887021) ![](assets/new.png)  
 - [2022-10-14-20221014-午夜俱乐部](https://www.v2ex.com/t/887020) ![](assets/new.png)  
 - [2022-10-14-请问-AAA.BBB@gmail.com-这种-ID-有“点”的邮箱怎么发信？](https://www.v2ex.com/t/887019) ![](assets/new.png)  
-- [2022-10-14-Java-不用-Spring-还能用点什么？](https://www.v2ex.com/t/887018) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

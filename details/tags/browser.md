@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-14 05:52:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-14 06:47:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -15,7 +15,6 @@
 - [2021-01-01-大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html) 
 - [2022-10-14-speedscope-—-A-fast,-interactive-web-based-viewer-for-performance-profiles.](https://www.v2ex.com/t/886897) 
 - [2022-10-14-mac-上-pdf-expert-和-preview-打开部分-pdf-文件看不到其中图片,但-chrome-可以](https://www.v2ex.com/t/886878) 
-- [2022-10-14-送兑换码-API-测试工具-Gotcha-HTTP-Client-更新-1.5.3-版本-🎉🎉🎉-macOS-上最好用的-API-测试工具，现已支持-Request-Chain，-Base64-编码和-MD5-计算...](https://www.v2ex.com/t/886868) 
-- [2022-10-14-求助：-XP-访问-win7-提示指定的服务器无法运行请求的操作](https://www.v2ex.com/t/886864) 
 - [2022-10-14-用-Charles-断点调试-HTTPS-请求，原理揭秘](https://toutiao.io/k/hnbu55g) 
 - [2022-10-14-谷歌云发布重磅安全产品，逆转软件供应链领域攻防形势](https://toutiao.io/k/ydmg6cf) 
+- [2022-10-14-2022-年我的面试万字总结（浏览器网络篇）](https://toutiao.io/k/tu498f5) 

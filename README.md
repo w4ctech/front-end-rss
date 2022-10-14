@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-14 06:47:07，:rocket: 更新条数: +2023， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-14 07:35:01，:rocket: 更新条数: +2025， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,26 +491,26 @@
 </summary>
 
 
+- [2022-10-14-VirtualBox-发布-7.0-啦，不少新功能](https://www.v2ex.com/t/886944) ![](assets/new.png)  
+- [2022-10-14-关于萤石云设备，以及类似的情况一般怎么处理比较好](https://www.v2ex.com/t/886943) ![](assets/new.png)  
+- [2022-10-14-AI-入门](https://www.v2ex.com/t/886941) ![](assets/new.png)  
+- [2022-10-14-赴日-IT-进行时！诚招各语言优秀技术者赴日！有日语基础者优先！](https://www.v2ex.com/t/886940) ![](assets/new.png)  
+- [2022-10-14-测试一下怎么发图](https://www.v2ex.com/t/886939) ![](assets/new.png)  
+- [2022-10-14-有没有一些付费项目，是教人如何优化项目代码的？](https://www.v2ex.com/t/886938) ![](assets/new.png)  
+- [2022-10-14-基于纯前端类-Excel-表格控件实现在线损益表应用](https://www.v2ex.com/t/886937) ![](assets/new.png)  
+- [2022-10-14-Spring-Cloud-Gateway-使用过滤器工厂时，如何改变过滤器在调用链中的顺序？](https://www.v2ex.com/t/886936) ![](assets/new.png)  
+- [2022-10-14-七牛云的-cdn-配置不成功-一直-404-{"error":-"Document-not-found"}](https://www.v2ex.com/t/886934) ![](assets/new.png)  
+- [2022-10-14-Google-Photos-空间已满](https://www.v2ex.com/t/886933) ![](assets/new.png)  
+- [2022-10-14-请问-SASS-系统做商城,-SASS-运营方是否有监管责任,是否对各个租户的商业行为负责?](https://www.v2ex.com/t/886932) ![](assets/new.png)  
+- [2022-10-14-LC-题目刷了-700+，周赛也能偶尔-4-题，却难找到面试做题的机会](https://www.v2ex.com/t/886931) ![](assets/new.png)  
+- [2022-10-14-Python---Requests-爬虫-爬取亚马逊产品页,-Headers-被识别为机器人](https://www.v2ex.com/t/886930) ![](assets/new.png)  
+- [2022-10-14-为了公司发展，需要我们软件部门全员改合约到老板的一家新公司，会有什么风险吗](https://www.v2ex.com/t/886929) ![](assets/new.png)  
+- [2022-10-14-有人知道使用了-git-怎么快速导出两个-commit-之间修改过的文件，用于增加部署吗？](https://www.v2ex.com/t/886928) ![](assets/new.png)  
+- [2022-10-14-微信号被封,有什么解决办法](https://www.v2ex.com/t/886927) ![](assets/new.png)  
 - [2022-10-14-V2EX-的密码被泄露了？](https://www.v2ex.com/t/886924) ![](assets/new.png)  
 - [2022-10-14-RulesEngine-—A-Json-based-Rules-Engine-with-extensive-Dynamic-expression-support](https://www.v2ex.com/t/886923) ![](assets/new.png)  
 - [2022-10-14-苹果-WWDC-2020-宣布转向-Apple-silicon-的时候，快结尾的时候库克说：“我们有一些新的基于-Intel-的-Mac-电脑”，两年过去了，并没有看到他说的型号](https://www.v2ex.com/t/886922) ![](assets/new.png)  
 - [2022-10-14-准备给家人买保险，有没有使用百万医疗险理赔过的朋友，想知道这类保险产品有什么坑](https://www.v2ex.com/t/886921) ![](assets/new.png)  
-- [2022-10-14-兄弟们，-Nacos-的生产环境你们内存会给多大？如何判断给多大内存？](https://www.v2ex.com/t/886920) ![](assets/new.png)  
-- [2022-10-14-react-router-V6-怎么动态路由啊](https://www.v2ex.com/t/886919) ![](assets/new.png)  
-- [2022-10-14-双指缩放休眠后偶尔失效，重新合上盖子打开后又恢复可用](https://www.v2ex.com/t/886918) ![](assets/new.png)  
-- [2022-10-14-Fleet-IDE-怎么在-Windows-7-运行](https://www.v2ex.com/t/886917) ![](assets/new.png)  
-- [2022-10-14-不懂的语言如何评估操作关键字？](https://www.v2ex.com/t/886916) ![](assets/new.png)  
-- [2022-10-14-超市买回来的肉类，如何除硝？](https://www.v2ex.com/t/886911) ![](assets/new.png)  
-- [2022-10-14-电子表格也能做购物车？简单三步就能实现](https://www.v2ex.com/t/886910) ![](assets/new.png)  
-- [2022-10-14-想要从零开始学习游戏开发，最好是游戏引擎方面的，友大佬们有没有推荐的书籍，学习路线，开源引擎之类的](https://www.v2ex.com/t/886907) ![](assets/new.png)  
-- [2022-10-14-请问你们的-Mac-mini-M1-紫屏重启么？大概一周一次](https://www.v2ex.com/t/886906) ![](assets/new.png)  
-- [2022-10-14-Bing-词典的网络例句没有了么？](https://www.v2ex.com/t/886905) ![](assets/new.png)  
-- [2022-10-14-windows10-外接（HDMI）显示器问题](https://www.v2ex.com/t/886904) ![](assets/new.png)  
-- [2022-10-14-各位前端开发的兄弟姐妹大佬萌新们，聊聊现在的行情呗](https://www.v2ex.com/t/886902) ![](assets/new.png)  
-- [2022-10-14-archive.today-的-download-zip-功能坏掉多久了，全部存档都提示-404，-Google-搜了下没人提](https://www.v2ex.com/t/886901) ![](assets/new.png)  
-- [2022-10-14-求教大佬们，容器怎么能直接调-idea-运行的-Java-接口？](https://www.v2ex.com/t/886900) ![](assets/new.png)  
-- [2022-10-14-有人用过-Cubox-的微信文章收藏功能吗，好奇它的原理是什么？](https://www.v2ex.com/t/886899) ![](assets/new.png)  
-- [2022-10-14-人民云官网-DNS-已经空解析了](https://www.v2ex.com/t/886898) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -559,9 +559,9 @@
 - [2022-10-14-用-Charles-断点调试-HTTPS-请求，原理揭秘](https://toutiao.io/k/hnbu55g) ![](assets/new.png)  
 - [2022-10-14-关于AspectJ，你知道多少？](https://toutiao.io/k/e7r4jd1) ![](assets/new.png)  
 - [2022-10-14-深入浅出音视频与-WebRTC](https://toutiao.io/k/79lidh8) ![](assets/new.png)  
+- [2022-10-14-MySQL-在-K8S-环境中部署与监控，一篇搞定它](https://toutiao.io/k/fwck7q3) ![](assets/new.png)  
 - [2022-10-14-基于-CNN-的新词发现算法](https://toutiao.io/k/8efbl3c) ![](assets/new.png)  
 - [2022-10-14-老了就不能编程？大龄程序员在线“辟谣”：15-年后，我变得更好了](https://toutiao.io/k/njiyozv) ![](assets/new.png)  
-- [2022-10-14-MySQL-在-K8S-环境中部署与监控，一篇搞定它](https://toutiao.io/k/fwck7q3) ![](assets/new.png)  
 - [2022-10-14-收藏！200+-精选-Apache-Pulsar-资料合集](https://toutiao.io/k/a26nr0w) ![](assets/new.png)  
 - [2022-10-14-DBA-助攻日志平台改造：用-ClickHouse-冷热分离存储完美替代-ES](https://toutiao.io/k/d2yeddo) ![](assets/new.png)  
 - [2022-10-14-一文了解知识图谱技术体系](https://toutiao.io/k/6pzdcth) ![](assets/new.png)  

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-14 15:52:43，:rocket: 更新条数: +2023， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-14 16:24:40，:rocket: 更新条数: +2020， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-10-14-网络质量较差，该如何排查](https://www.v2ex.com/t/887041) ![](assets/new.png)  
+- [2022-10-14-喜迎二十大，-azure-全挂](https://www.v2ex.com/t/887037) ![](assets/new.png)  
 - [2022-10-14-国际网络疑似被切断](https://www.v2ex.com/t/887036) ![](assets/new.png)  
 - [2022-10-14-手上有台全新未拆封的-iPad-AIR5，极其纠结要不要留下来](https://www.v2ex.com/t/887035) ![](assets/new.png)  
 - [2022-10-14-求助关于-spring-的数据库与-redis-的写法](https://www.v2ex.com/t/887034) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-10-14-顺德软件开发](https://www.v2ex.com/t/887012) ![](assets/new.png)  
 - [2022-10-14-在大厂卷但高薪和去小厂躺平但只有大厂-60%-薪资大家会怎么选？](https://www.v2ex.com/t/887011) ![](assets/new.png)  
 - [2022-10-14-Goravel-V1-正式版发布，让-Go-开发更简单、高效！](https://www.v2ex.com/t/887010) ![](assets/new.png)  
-- [2022-10-14-有没有什么开源系统可以用作家庭内网通话的？](https://www.v2ex.com/t/887008) ![](assets/new.png)  
-- [2022-10-14-一个在-iOS-上实现个人开发者签名对-iPA-签名的软件](https://www.v2ex.com/t/887007) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

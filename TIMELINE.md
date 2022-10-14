@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-14 15:52:43。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-10-14 16:24:40。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,8 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-12-CSS-::file-selector-button伪元素简介](https://www.zhangxinxu.com/wordpress/2022/10/css-file-selector-button/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-12-更符合书写习惯的CSS媒体查询Range语法](https://www.zhangxinxu.com/wordpress/2022/10/css-media-range-syntax/) 
+- [【V2EX】2022-10-14-网络质量较差，该如何排查](https://www.v2ex.com/t/887041) 
+- [【V2EX】2022-10-14-喜迎二十大，-azure-全挂](https://www.v2ex.com/t/887037) 
 - [【V2EX】2022-10-14-国际网络疑似被切断](https://www.v2ex.com/t/887036) 
 - [【V2EX】2022-10-14-手上有台全新未拆封的-iPad-AIR5，极其纠结要不要留下来](https://www.v2ex.com/t/887035) 
 - [【V2EX】2022-10-14-求助关于-spring-的数据库与-redis-的写法](https://www.v2ex.com/t/887034) 
@@ -100,12 +102,6 @@
 - [【V2EX】2022-10-14-请问一个-maven-打包的方法](https://www.v2ex.com/t/886997) 
 - [【V2EX】2022-10-14-发-USDT-币的初创区块链公司能去吗？](https://www.v2ex.com/t/886996) 
 - [【V2EX】2022-10-14-请教三层交换机的问题](https://www.v2ex.com/t/886994) 
-- [【V2EX】2022-10-14-请教一个-Python-问题（应该是个比较简单的问题）](https://www.v2ex.com/t/886993) 
-- [【V2EX】2022-10-14-各位玩喷-3-的-v-友们，怎么解决频繁断线的问题？](https://www.v2ex.com/t/886992) 
-- [【V2EX】2022-10-14-7-月份毕业到现在，散光高了好多](https://www.v2ex.com/t/886991) 
-- [【V2EX】2022-10-14-Chrome-对-http-协议或者-socks5-协议有什么私有改动吗？](https://www.v2ex.com/t/886990) 
-- [【V2EX】2022-10-14-动态最临近点算法求助](https://www.v2ex.com/t/886988) 
-- [【V2EX】2022-10-14-说说自己工作中的几个有趣同事](https://www.v2ex.com/t/886987) 
 - [【技术头条】2022-10-14-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-14-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-14-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -146,6 +142,7 @@
 - [【开发者头条】2022-10-14-谷歌云发布重磅安全产品，逆转软件供应链领域攻防形势](https://toutiao.io/k/ydmg6cf) 
 - [【开发者头条】2022-10-14-如何理解-JVM（Java-Virtual-Machine）？](https://toutiao.io/k/5k8626t) 
 - [【开发者头条】2022-10-14-VSCode扩展之-git](https://toutiao.io/k/3c9cnfy) 
+- [【开发者头条】2022-10-14-推荐-7000-字-+-24-张图带你彻底弄懂线程池](https://toutiao.io/k/wci1eno) 
 - [【开发者头条】2022-10-14-推荐-超实用！整理了-34-个-Python-自动化办公库](https://toutiao.io/k/5wihja2) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>

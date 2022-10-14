@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-14 16:24:40。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-10-14 17:09:10。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,9 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-12-CSS-::file-selector-button伪元素简介](https://www.zhangxinxu.com/wordpress/2022/10/css-file-selector-button/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-12-更符合书写习惯的CSS媒体查询Range语法](https://www.zhangxinxu.com/wordpress/2022/10/css-media-range-syntax/) 
+- [【V2EX】2022-10-14-上海企业黑宽带纪实（说的就是你-渊湛电信）](https://www.v2ex.com/t/887047) 
+- [【V2EX】2022-10-14-有没有在-San-Diego-的小伙伴](https://www.v2ex.com/t/887046) 
+- [【V2EX】2022-10-14-看见一个令我破防的帖子](https://www.v2ex.com/t/887044) 
 - [【V2EX】2022-10-14-网络质量较差，该如何排查](https://www.v2ex.com/t/887041) 
 - [【V2EX】2022-10-14-喜迎二十大，-azure-全挂](https://www.v2ex.com/t/887037) 
 - [【V2EX】2022-10-14-国际网络疑似被切断](https://www.v2ex.com/t/887036) 
@@ -99,9 +102,6 @@
 - [【V2EX】2022-10-14-obsidian-与-logseq-大家有在什么场景里使用吗？](https://www.v2ex.com/t/887000) 
 - [【V2EX】2022-10-14-这几天通过腾讯云香港轻量访问-youtube,-超慢。。。](https://www.v2ex.com/t/886999) 
 - [【V2EX】2022-10-14-sql-语句，求一个最低价](https://www.v2ex.com/t/886998) 
-- [【V2EX】2022-10-14-请问一个-maven-打包的方法](https://www.v2ex.com/t/886997) 
-- [【V2EX】2022-10-14-发-USDT-币的初创区块链公司能去吗？](https://www.v2ex.com/t/886996) 
-- [【V2EX】2022-10-14-请教三层交换机的问题](https://www.v2ex.com/t/886994) 
 - [【技术头条】2022-10-14-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-14-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-14-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

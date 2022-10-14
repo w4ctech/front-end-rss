@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-14 16:24:40，:rocket: 更新条数: +2020， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-14 17:09:10，:rocket: 更新条数: +2020， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-10-14-上海企业黑宽带纪实（说的就是你-渊湛电信）](https://www.v2ex.com/t/887047) ![](assets/new.png)  
+- [2022-10-14-有没有在-San-Diego-的小伙伴](https://www.v2ex.com/t/887046) ![](assets/new.png)  
+- [2022-10-14-看见一个令我破防的帖子](https://www.v2ex.com/t/887044) ![](assets/new.png)  
 - [2022-10-14-网络质量较差，该如何排查](https://www.v2ex.com/t/887041) ![](assets/new.png)  
 - [2022-10-14-喜迎二十大，-azure-全挂](https://www.v2ex.com/t/887037) ![](assets/new.png)  
 - [2022-10-14-国际网络疑似被切断](https://www.v2ex.com/t/887036) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-10-14-杭州未来科技城五常附近单间房子出租](https://www.v2ex.com/t/887017) ![](assets/new.png)  
 - [2022-10-14-苹果那个新出的-35w，双-usb-c-的充电器有人用过吗？能同时带-2-个-homepod-mini-吗？](https://www.v2ex.com/t/887014) ![](assets/new.png)  
 - [2022-10-14-大佬们，怎么控制本地请求-API-的频率？](https://www.v2ex.com/t/887013) ![](assets/new.png)  
-- [2022-10-14-顺德软件开发](https://www.v2ex.com/t/887012) ![](assets/new.png)  
-- [2022-10-14-在大厂卷但高薪和去小厂躺平但只有大厂-60%-薪资大家会怎么选？](https://www.v2ex.com/t/887011) ![](assets/new.png)  
-- [2022-10-14-Goravel-V1-正式版发布，让-Go-开发更简单、高效！](https://www.v2ex.com/t/887010) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

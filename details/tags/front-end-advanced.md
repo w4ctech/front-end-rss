@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-14 14:35:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-14 15:20:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -7,6 +7,7 @@
 
 
 
+- [2022-10-14-hosts-文件中指定域名到-127.0.0.1,https-访问本机-caddy-搭建的-web-网站](https://www.v2ex.com/t/887026) 
 - [2022-10-14-动态最临近点算法求助](https://www.v2ex.com/t/886988) 
 - [2022-10-14-基于AI算法的数据库异常监测系统的设计与实现-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15390&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F09%2F01%2Fdatabase-monitoring-based-on-ai.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-14-基于-CNN-的新词发现算法](https://toutiao.io/k/8efbl3c) 

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-10-13 23:52:43。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-14 01:30:43。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -121,6 +121,7 @@
 
 
 
+- [【V2EX】生日便利贴-：一个帮你记住重要日子的小程序](https://www.v2ex.com/t/886804)
 - [......【查看更多】......](./details/tags/miniprogram.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -176,6 +177,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】香港再现数例疫苗接种严重异常事件-专家初判与疫苗无关](https://china.caixin.com/m/2021-03-08/101672619.html)
 - [【武汉肺炎防疫全纪录(财新网)】港府回应一63岁患者死亡事件-暂无法确定与疫苗相关](https://m.caixin.com/m/2021-03-03/101670052.html)
 - [【张鑫旭-鑫空间-鑫生活】JS-replaceAll-和-matchAll-使用指南不指北](https://www.zhangxinxu.com/wordpress/2022/08/js-replaceall-matchall/)
+- [【V2EX】个人开源的-pcl.js-上了阮一峰的科技爱好者周刊](https://www.v2ex.com/t/886814)
 - [【V2EX】theatrejs-真的是牛逼](https://www.v2ex.com/t/886768)
 - [......【查看更多】......](./details/tags/javascript.md)
 
@@ -233,6 +235,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】广州17岁男生在定点医院参加高考-特殊考场视频监考](https://m.caixin.com/m/2021-06-05/101723418.html)
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
 - [【V2EX】群晖-Synology-Photos-无法在线预览视频？](https://www.v2ex.com/t/886790)
+- [【开发者头条】深入浅出音视频与-WebRTC](https://toutiao.io/k/79lidh8)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -249,6 +252,7 @@
 
 
 
+- [【开发者头条】Linux-主机性能测试方法](https://toutiao.io/k/z0e7y3o)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -271,10 +275,10 @@
 - [【武汉肺炎防疫全纪录(财新网)】腺病毒新冠疫苗引安全忧虑-康希诺称未发现血栓病例](https://m.caixin.com/m/2021-04-14/101691086.html)
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
+- [【V2EX】WebSocket-心跳正常，但是也会断开，请问怎么回事？](https://www.v2ex.com/t/886801)
 - [【V2EX】jQuery-中-Ajax-跨域配置疑问](https://www.v2ex.com/t/886775)
-- [【V2EX】Chrome-浏览器使用-SwitchyOmega-是否会影响进入网页速度？](https://www.v2ex.com/t/886762)
-- [【V2EX】关于-Firefox-访问使用-Cloudflare-网站并且要求进行人机验证的问题](https://www.v2ex.com/t/886758)
-- [【V2EX】请问-Zerotier-连接的两个局域网内设备如何互相投屏和网络发现？](https://www.v2ex.com/t/886755)
+- [【开发者头条】用-Charles-断点调试-HTTPS-请求，原理揭秘](https://toutiao.io/k/hnbu55g)
+- [【开发者头条】谷歌云发布重磅安全产品，逆转软件供应链领域攻防形势](https://toutiao.io/k/ydmg6cf)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -291,7 +295,9 @@
 
 
 
+- [【V2EX】有人问大数据行程判断，我也问车载实名-SIM-卡，车到处走，那又是什么算法思路判断人并非流窜？](https://www.v2ex.com/t/886809)
 - [【技术头条】基于AI算法的数据库异常监测系统的设计与实现-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15390&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F09%2F01%2Fdatabase-monitoring-based-on-ai.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
+- [【开发者头条】基于-CNN-的新词发现算法](https://toutiao.io/k/8efbl3c)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

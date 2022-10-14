@@ -9953,6 +9953,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "本地化部署的 NovelAI 具有潜在的反序列化攻击风险",
+        "link": "https://www.v2ex.com/t/887052",
+        "date": "2022-10-14"
+      },
+      {
         "title": "Vmware workstation 16 为撒创立的虚拟机不支持内嵌虚拟?",
         "link": "https://www.v2ex.com/t/887051",
         "date": "2022-10-14"

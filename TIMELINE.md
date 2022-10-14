@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-14 19:43:01。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-10-14 20:18:40。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,7 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-12-CSS-::file-selector-button伪元素简介](https://www.zhangxinxu.com/wordpress/2022/10/css-file-selector-button/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-12-更符合书写习惯的CSS媒体查询Range语法](https://www.zhangxinxu.com/wordpress/2022/10/css-media-range-syntax/) 
+- [【V2EX】2022-10-14-本地化部署的-NovelAI-具有潜在的反序列化攻击风险](https://www.v2ex.com/t/887052) 
 - [【V2EX】2022-10-14-Vmware-workstation-16-为撒创立的虚拟机不支持内嵌虚拟?](https://www.v2ex.com/t/887051) 
 - [【V2EX】2022-10-14-本人多年捣腾黑苹果的经验分享，以及给想入黑苹果的小白一些建议](https://www.v2ex.com/t/887050) 
 - [【V2EX】2022-10-14-账号不能登陆，提示密码错误，找回密码提示账号不存在](https://www.v2ex.com/t/887049) 

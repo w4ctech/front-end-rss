@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-14 08:23:28。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-10-14 08:57:01。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,12 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-12-CSS-::file-selector-button伪元素简介](https://www.zhangxinxu.com/wordpress/2022/10/css-file-selector-button/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-12-更符合书写习惯的CSS媒体查询Range语法](https://www.zhangxinxu.com/wordpress/2022/10/css-media-range-syntax/) 
+- [【V2EX】2022-10-14-截至-2022-年-10-月-14-日，-1Password-8-仍未更新-AW-版](https://www.v2ex.com/t/886964) 
+- [【V2EX】2022-10-14-=-=、有需要天赋树点歪的前端开发吗-Rust+Flutter+React](https://www.v2ex.com/t/886963) 
+- [【V2EX】2022-10-14-有没有什么赚钱的点子，可以用软件实现的](https://www.v2ex.com/t/886962) 
+- [【V2EX】2022-10-14-有没有做无人直播的朋友？](https://www.v2ex.com/t/886961) 
+- [【V2EX】2022-10-14-我整了个在线简历制作工具，有找工作需求的朋友可以来看看！](https://www.v2ex.com/t/886960) 
+- [【V2EX】2022-10-14-Windows-输入文字转语音输出到麦克风？](https://www.v2ex.com/t/886959) 
 - [【V2EX】2022-10-14-使用手机数据上网，人在广州，有一些-APP-登录后，却总是提示异地-IP：例如-汕头、东莞，这些-5G-数据那么乱的吗](https://www.v2ex.com/t/886958) 
 - [【V2EX】2022-10-14-Mac-版-outlook-邮件怎么导入到-mail？](https://www.v2ex.com/t/886957) 
 - [【V2EX】2022-10-14-大家使用下来，比较好用的-git-图形客户端有哪些？](https://www.v2ex.com/t/886956) 
@@ -105,8 +111,6 @@
 - [【V2EX】2022-10-14-双指缩放休眠后偶尔失效，重新合上盖子打开后又恢复可用](https://www.v2ex.com/t/886918) 
 - [【V2EX】2022-10-14-Fleet-IDE-怎么在-Windows-7-运行](https://www.v2ex.com/t/886917) 
 - [【V2EX】2022-10-14-不懂的语言如何评估操作关键字？](https://www.v2ex.com/t/886916) 
-- [【V2EX】2022-10-14-超市买回来的肉类，如何除硝？](https://www.v2ex.com/t/886911) 
-- [【V2EX】2022-10-14-电子表格也能做购物车？简单三步就能实现](https://www.v2ex.com/t/886910) 
 - [【技术头条】2022-10-14-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-14-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-14-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -142,8 +146,8 @@
 - [【开发者头条】2022-10-14-标签评分：海量标签如何进行系统治理？](https://toutiao.io/k/slwwx9b) 
 - [【开发者头条】2022-10-14-两万字长文带你深入-Go-语言-GC-源码](https://toutiao.io/k/2cxka33) 
 - [【开发者头条】2022-10-14-21-个-MySQL-表设计的经验准则](https://toutiao.io/k/lh0iga3) 
-- [【开发者头条】2022-10-14-谷歌云发布重磅安全产品，逆转软件供应链领域攻防形势](https://toutiao.io/k/ydmg6cf) 
 - [【开发者头条】2022-10-14-300-万数据导入导出优化方案，从-80s-优化到-8s（实测）](https://toutiao.io/k/yiz2z23) 
+- [【开发者头条】2022-10-14-谷歌云发布重磅安全产品，逆转软件供应链领域攻防形势](https://toutiao.io/k/ydmg6cf) 
 - [【开发者头条】2022-10-14-VSCode扩展之-git](https://toutiao.io/k/3c9cnfy) 
 - [【开发者头条】2022-10-14-2022-年我的面试万字总结（浏览器网络篇）](https://toutiao.io/k/tu498f5) 
 - [【开发者头条】2022-10-14-如何理解-JVM（Java-Virtual-Machine）？](https://toutiao.io/k/5k8626t) 

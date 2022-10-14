@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-14 08:23:28，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-14 08:57:01，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-10-14-截至-2022-年-10-月-14-日，-1Password-8-仍未更新-AW-版](https://www.v2ex.com/t/886964) ![](assets/new.png)  
+- [2022-10-14-=-=、有需要天赋树点歪的前端开发吗-Rust+Flutter+React](https://www.v2ex.com/t/886963) ![](assets/new.png)  
+- [2022-10-14-有没有什么赚钱的点子，可以用软件实现的](https://www.v2ex.com/t/886962) ![](assets/new.png)  
+- [2022-10-14-有没有做无人直播的朋友？](https://www.v2ex.com/t/886961) ![](assets/new.png)  
+- [2022-10-14-我整了个在线简历制作工具，有找工作需求的朋友可以来看看！](https://www.v2ex.com/t/886960) ![](assets/new.png)  
+- [2022-10-14-Windows-输入文字转语音输出到麦克风？](https://www.v2ex.com/t/886959) ![](assets/new.png)  
 - [2022-10-14-使用手机数据上网，人在广州，有一些-APP-登录后，却总是提示异地-IP：例如-汕头、东莞，这些-5G-数据那么乱的吗](https://www.v2ex.com/t/886958) ![](assets/new.png)  
 - [2022-10-14-Mac-版-outlook-邮件怎么导入到-mail？](https://www.v2ex.com/t/886957) ![](assets/new.png)  
 - [2022-10-14-大家使用下来，比较好用的-git-图形客户端有哪些？](https://www.v2ex.com/t/886956) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-10-14-VirtualBox-发布-7.0-啦，不少新功能](https://www.v2ex.com/t/886944) ![](assets/new.png)  
 - [2022-10-14-关于萤石云设备，以及类似的情况一般怎么处理比较好](https://www.v2ex.com/t/886943) ![](assets/new.png)  
 - [2022-10-14-AI-入门](https://www.v2ex.com/t/886941) ![](assets/new.png)  
-- [2022-10-14-赴日-IT-进行时！诚招各语言优秀技术者赴日！有日语基础者优先！](https://www.v2ex.com/t/886940) ![](assets/new.png)  
-- [2022-10-14-有没有一些付费项目，是教人如何优化项目代码的？](https://www.v2ex.com/t/886938) ![](assets/new.png)  
-- [2022-10-14-基于纯前端类-Excel-表格控件实现在线损益表应用](https://www.v2ex.com/t/886937) ![](assets/new.png)  
-- [2022-10-14-Spring-Cloud-Gateway-使用过滤器工厂时，如何改变过滤器在调用链中的顺序？](https://www.v2ex.com/t/886936) ![](assets/new.png)  
-- [2022-10-14-七牛云的-cdn-配置不成功-一直-404-{"error":-"Document-not-found"}](https://www.v2ex.com/t/886934) ![](assets/new.png)  
-- [2022-10-14-Google-Photos-空间已满](https://www.v2ex.com/t/886933) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -568,8 +568,8 @@
 - [2022-10-14-标签评分：海量标签如何进行系统治理？](https://toutiao.io/k/slwwx9b) ![](assets/new.png)  
 - [2022-10-14-两万字长文带你深入-Go-语言-GC-源码](https://toutiao.io/k/2cxka33) ![](assets/new.png)  
 - [2022-10-14-21-个-MySQL-表设计的经验准则](https://toutiao.io/k/lh0iga3) ![](assets/new.png)  
-- [2022-10-14-谷歌云发布重磅安全产品，逆转软件供应链领域攻防形势](https://toutiao.io/k/ydmg6cf) ![](assets/new.png)  
 - [2022-10-14-300-万数据导入导出优化方案，从-80s-优化到-8s（实测）](https://toutiao.io/k/yiz2z23) ![](assets/new.png)  
+- [2022-10-14-谷歌云发布重磅安全产品，逆转软件供应链领域攻防形势](https://toutiao.io/k/ydmg6cf) ![](assets/new.png)  
 - [2022-10-14-VSCode扩展之-git](https://toutiao.io/k/3c9cnfy) ![](assets/new.png)  
 - [2022-10-14-2022-年我的面试万字总结（浏览器网络篇）](https://toutiao.io/k/tu498f5) ![](assets/new.png)  
 - [2022-10-14-如何理解-JVM（Java-Virtual-Machine）？](https://toutiao.io/k/5k8626t) ![](assets/new.png)  

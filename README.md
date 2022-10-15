@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-15 10:48:55，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-15 11:13:39，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-10-15-Clash-订阅转换和规则](https://www.v2ex.com/t/887178) ![](assets/new.png)  
+- [2022-10-15-一下班就点外卖躺着玩游戏看抖音，我还有救吗](https://www.v2ex.com/t/887177) ![](assets/new.png)  
+- [2022-10-15-港版-iPhone-怎么购买放心？](https://www.v2ex.com/t/887175) ![](assets/new.png)  
+- [2022-10-15-stable-diffusion-怎么指定一个画面中的人物数量？](https://www.v2ex.com/t/887174) ![](assets/new.png)  
 - [2022-10-15-请教各位大牛，现在有办法能直接挂载-internet-上的-ISO-来装操作系统吗？](https://www.v2ex.com/t/887172) ![](assets/new.png)  
 - [2022-10-15-macos13beta-可以使用的-NTFS-读取工具](https://www.v2ex.com/t/887171) ![](assets/new.png)  
 - [2022-10-15-悲报：韩国-sk판교数据中心火灾，-kakao-daum-等服务被影响](https://www.v2ex.com/t/887170) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-10-15-知乎上半年净亏-8-亿，再造一个信息高密度平台？](https://www.v2ex.com/t/887158) ![](assets/new.png)  
 - [2022-10-15-华硕服务器主板的-IPMI-功能完全是个垃圾？](https://www.v2ex.com/t/887157) ![](assets/new.png)  
 - [2022-10-15-没锁屏的时候怎么使用-Apple-Pay-银行卡？](https://www.v2ex.com/t/887156) ![](assets/new.png)  
-- [2022-10-15-有没有什么多云储存之间同步的方案](https://www.v2ex.com/t/887155) ![](assets/new.png)  
-- [2022-10-15-笔记本装两块硬盘如何做到双系统自由切换？](https://www.v2ex.com/t/887154) ![](assets/new.png)  
-- [2022-10-15-不懂就问深信服的-EDR-杀毒有行为管理功能吗？](https://www.v2ex.com/t/887153) ![](assets/new.png)  
-- [2022-10-15-收到大量从-mac-地址全-0-的包](https://www.v2ex.com/t/887152) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

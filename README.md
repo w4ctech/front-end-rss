@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-15 05:14:26，:rocket: 更新条数: +2008， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-15 06:06:05，:rocket: 更新条数: +2009， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-10-15-开源社区半月实习日记](https://www.v2ex.com/t/887117) ![](assets/new.png)  
+- [2022-10-15-「卷王」一个不比问卷星差很多的问卷考试系统](https://www.v2ex.com/t/887115) ![](assets/new.png)  
+- [2022-10-15-有在职考雅思的兄弟/妹子吗？一起准备呗](https://www.v2ex.com/t/887114) ![](assets/new.png)  
+- [2022-10-15-surface-+-win11，触控笔点击文本框会弹出屏幕键盘](https://www.v2ex.com/t/887112) ![](assets/new.png)  
+- [2022-10-15-昨晚第一次试装了下-opensuse-tumbleweed-被桌面的完成度震惊了](https://www.v2ex.com/t/887111) ![](assets/new.png)  
+- [2022-10-15-就差最后一步，-Windows-就能基本满足我的需求了。](https://www.v2ex.com/t/887110) ![](assets/new.png)  
 - [2022-10-15-小米-AX9000-官方店-999-元-3-期免息算好价吗?](https://www.v2ex.com/t/887107) ![](assets/new.png)  
 - [2022-10-15-银联信用卡可以直接官网购买美区礼品卡](https://www.v2ex.com/t/887106) ![](assets/new.png)  
 - [2022-10-15-求推荐一个-Vue2.X-版本-select-下拉选择器需要支持虚拟列表功能](https://www.v2ex.com/t/887105) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-10-15-大家的代码注释有写中文的吗?](https://www.v2ex.com/t/887092) ![](assets/new.png)  
 - [2022-10-15-一个用-AI-作-K-线形态识别的需求...](https://www.v2ex.com/t/887091) ![](assets/new.png)  
 - [2022-10-15-阿里云国际站腾讯云国际站可提供实名账户，代充值可付-USDT](https://www.v2ex.com/t/887090) ![](assets/new.png)  
-- [2022-10-15-美亚送我了一个月的-prime-会员，有哪些-prime-影片比较好看？](https://www.v2ex.com/t/887087) ![](assets/new.png)  
-- [2022-10-15-小白求助，關於-iOS-系統降級的問題](https://www.v2ex.com/t/887085) ![](assets/new.png)  
-- [2022-10-15-你们觉得妙控板和-MacBook-内建触控板哪个手感更好？](https://www.v2ex.com/t/887084) ![](assets/new.png)  
-- [2022-10-15-土耳其地区的-Apple-ID-让验证信用卡和手机号，如何解决？](https://www.v2ex.com/t/887082) ![](assets/new.png)  
-- [2022-10-15-阿里云国际站腾讯云国际站可提供实名账户，代充值，可付-USDT](https://www.v2ex.com/t/887081) ![](assets/new.png)  
-- [2022-10-15-今年笔记本摆烂，可以看看-6900h-小主机](https://www.v2ex.com/t/887077) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

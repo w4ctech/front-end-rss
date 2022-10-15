@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-15 18:19:31，:rocket: 更新条数: +2013， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-15 18:52:51，:rocket: 更新条数: +2014， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-10-15-RFC:-First-class-support-for-promises-and-async/await](https://www.v2ex.com/t/887223) ![](assets/new.png)  
 - [2022-10-15-为什么妙控板三代的表面磨砂比-15-年-mbp-的粗，没-mbp-好用](https://www.v2ex.com/t/887222) ![](assets/new.png)  
 - [2022-10-15-网页打印中如何做到所见即所得？](https://www.v2ex.com/t/887221) ![](assets/new.png)  
 - [2022-10-15-线上项目并发问题，深夜在线求救](https://www.v2ex.com/t/887220) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-10-15-有没有开源的小区的网站？-主要是简单的信息发布，二手，等](https://www.v2ex.com/t/887197) ![](assets/new.png)  
 - [2022-10-15-这是大家常说的的“内存泄漏”吗](https://www.v2ex.com/t/887196) ![](assets/new.png)  
 - [2022-10-15-最近海淘买东西方便吗？](https://www.v2ex.com/t/887195) ![](assets/new.png)  
-- [2022-10-15-我有一个想法！](https://www.v2ex.com/t/887194) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

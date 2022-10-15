@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-10-15 18:19:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-15 18:52:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-10-15-RFC:-First-class-support-for-promises-and-async/await](https://www.v2ex.com/t/887223) 
 - [2022-10-15-为什么妙控板三代的表面磨砂比-15-年-mbp-的粗，没-mbp-好用](https://www.v2ex.com/t/887222) 
 - [2022-10-15-网页打印中如何做到所见即所得？](https://www.v2ex.com/t/887221) 
 - [2022-10-15-线上项目并发问题，深夜在线求救](https://www.v2ex.com/t/887220) 

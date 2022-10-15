@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-15 18:19:31。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-10-15 18:52:52。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,7 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-12-CSS-::file-selector-button伪元素简介](https://www.zhangxinxu.com/wordpress/2022/10/css-file-selector-button/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-12-更符合书写习惯的CSS媒体查询Range语法](https://www.zhangxinxu.com/wordpress/2022/10/css-media-range-syntax/) 
+- [【V2EX】2022-10-15-RFC:-First-class-support-for-promises-and-async/await](https://www.v2ex.com/t/887223) 
 - [【V2EX】2022-10-15-为什么妙控板三代的表面磨砂比-15-年-mbp-的粗，没-mbp-好用](https://www.v2ex.com/t/887222) 
 - [【V2EX】2022-10-15-网页打印中如何做到所见即所得？](https://www.v2ex.com/t/887221) 
 - [【V2EX】2022-10-15-线上项目并发问题，深夜在线求救](https://www.v2ex.com/t/887220) 

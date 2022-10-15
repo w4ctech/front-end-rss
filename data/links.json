@@ -9953,6 +9953,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "RFC: First class support for promises and async/await",
+        "link": "https://www.v2ex.com/t/887223",
+        "date": "2022-10-15"
+      },
+      {
         "title": "为什么妙控板三代的表面磨砂比 15 年 mbp 的粗，没 mbp 好用",
         "link": "https://www.v2ex.com/t/887222",
         "date": "2022-10-15"

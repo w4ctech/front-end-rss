@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-15 15:16:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-15 15:48:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1914,6 +1914,9 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-10-15-2022-年从国内拿到悉尼-220K-AUD-offer-经验分享（二）](https://www.v2ex.com/t/887212) 
+- [2022-10-15-20221015-午夜俱乐部](https://www.v2ex.com/t/887211) 
+- [2022-10-15-各位程序员大佬，在线求助一个代码设计问题!-大数据，对某个时间范围的历史数据，执行删除+插入操作的最佳实践是什么？？我用的-ClickHouse，本质上是事务问题。...](https://www.v2ex.com/t/887210) 
 - [2022-10-15-可能是模仿-v2，用来做购物社区最好的设计，不知道作者在不在这里](https://www.v2ex.com/t/887209) 
 - [2022-10-15-请教下这件事怎么处理好](https://www.v2ex.com/t/887208) 
 - [2022-10-15-把旧-iPad-打造成中小学学生平板-有哪些-APP-推荐的呢？](https://www.v2ex.com/t/887205) 
@@ -1943,8 +1946,6 @@
 - [2022-10-15-Thinkpad-X1-Yoga-换大容量电池的可能性](https://www.v2ex.com/t/887166) 
 - [2022-10-15-我们刚给开源社区贡献第一的同学发了个-iwatch,-有没有想问的～](https://www.v2ex.com/t/887165) 
 - [2022-10-15-腾讯云新加坡日本韩国美国欧洲云服务器-3-折特惠](https://www.v2ex.com/t/887164) 
-- [2022-10-15-Surge-Mac-4-有空余的车位吗](https://www.v2ex.com/t/887162) 
-- [2022-10-15-关于-Airpods-pro2-自适应通透模式](https://www.v2ex.com/t/887161) 
 - [2022-10-15-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-15-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-15-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1971,5 +1972,5 @@
 - [2022-10-15-vivo-互联网机器学习平台的建设与实践](https://toutiao.io/k/ewji5x7) 
 - [2022-10-15-30+-个工作中常用到的前端小知识](https://toutiao.io/k/r0cxucz) 
 - [2022-10-15-云原生网络利器--Cilium-Cluster-Mesh](https://toutiao.io/k/24txqj0) 
-- [2022-10-15-推荐-超实用！整理了-34-个-Python-自动化办公库](https://toutiao.io/k/5wihja2) 
 - [2022-10-15-推荐-7000-字-+-24-张图带你彻底弄懂线程池](https://toutiao.io/k/wci1eno) 
+- [2022-10-15-推荐-超实用！整理了-34-个-Python-自动化办公库](https://toutiao.io/k/5wihja2) 

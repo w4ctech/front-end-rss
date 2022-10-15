@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-15 15:16:46，:rocket: 更新条数: +2014， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-15 15:48:44，:rocket: 更新条数: +2014， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-10-15-2022-年从国内拿到悉尼-220K-AUD-offer-经验分享（二）](https://www.v2ex.com/t/887212) ![](assets/new.png)  
+- [2022-10-15-20221015-午夜俱乐部](https://www.v2ex.com/t/887211) ![](assets/new.png)  
+- [2022-10-15-各位程序员大佬，在线求助一个代码设计问题!-大数据，对某个时间范围的历史数据，执行删除+插入操作的最佳实践是什么？？我用的-ClickHouse，本质上是事务问题。...](https://www.v2ex.com/t/887210) ![](assets/new.png)  
 - [2022-10-15-可能是模仿-v2，用来做购物社区最好的设计，不知道作者在不在这里](https://www.v2ex.com/t/887209) ![](assets/new.png)  
 - [2022-10-15-请教下这件事怎么处理好](https://www.v2ex.com/t/887208) ![](assets/new.png)  
 - [2022-10-15-RGB-色彩空间](https://www.v2ex.com/t/887206) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-10-15-亲们装修完毕未入住，楼上房屋供暖管道存在隐患导致漏水，厨房卧室客厅顶都被水泡坏了，这个该怎么有效投诉？](https://www.v2ex.com/t/887187) ![](assets/new.png)  
 - [2022-10-15-openwrt-链接-vps-ss-通过-tailscale-走内网](https://www.v2ex.com/t/887186) ![](assets/new.png)  
 - [2022-10-15-移民国家选择，老哥们有什么建议吗（需求明确）](https://www.v2ex.com/t/887183) ![](assets/new.png)  
-- [2022-10-15-请教一下如何能阻止当睡眠时-Windows11-关闭我的所有-App](https://www.v2ex.com/t/887182) ![](assets/new.png)  
-- [2022-10-15-看了-aw-7-的测评，有点心动，要不要加蜂窝功能呢，有没有大哥现身说法一下](https://www.v2ex.com/t/887181) ![](assets/new.png)  
-- [2022-10-15-14-系列发布-1-个月了，怎么还没发线下取货？](https://www.v2ex.com/t/887180) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,8 +563,8 @@
 - [2022-10-15-实战-CI/CD：微软加持的-GitHub-Actions，怎么用才香？](https://toutiao.io/k/n5fp68q) ![](assets/new.png)  
 - [2022-10-15-Golang-编译器优化那些事](https://toutiao.io/k/o1jd8yb) ![](assets/new.png)  
 - [2022-10-15-云原生网络利器--Cilium-Cluster-Mesh](https://toutiao.io/k/24txqj0) ![](assets/new.png)  
-- [2022-10-15-推荐-超实用！整理了-34-个-Python-自动化办公库](https://toutiao.io/k/5wihja2) ![](assets/new.png)  
 - [2022-10-15-推荐-7000-字-+-24-张图带你彻底弄懂线程池](https://toutiao.io/k/wci1eno) ![](assets/new.png)  
+- [2022-10-15-推荐-超实用！整理了-34-个-Python-自动化办公库](https://toutiao.io/k/5wihja2) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

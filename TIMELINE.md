@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-15 07:46:35。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-10-15 08:21:27。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,8 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-12-CSS-::file-selector-button伪元素简介](https://www.zhangxinxu.com/wordpress/2022/10/css-file-selector-button/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-12-更符合书写习惯的CSS媒体查询Range语法](https://www.zhangxinxu.com/wordpress/2022/10/css-media-range-syntax/) 
+- [【V2EX】2022-10-15-尴尬了，报了个户外活动发现他们好像都是熟人，就我一个谁也不认识](https://www.v2ex.com/t/887141) 
+- [【V2EX】2022-10-15-ios-小组件已经上线第三年了，到现在还没有赛事比分类的小组件](https://www.v2ex.com/t/887140) 
 - [【V2EX】2022-10-15-大家有遇到过玩游戏时一打团战，网络延时就飙升的问题吗？](https://www.v2ex.com/t/887138) 
 - [【V2EX】2022-10-15-各位会修改测试环境的时间去测试代码吗](https://www.v2ex.com/t/887137) 
 - [【V2EX】2022-10-15-有没有办法确定买的书是正版？](https://www.v2ex.com/t/887136) 
@@ -103,9 +105,6 @@
 - [【V2EX】2022-10-15-2k-预算能整个主机吗](https://www.v2ex.com/t/887096) 
 - [【V2EX】2022-10-15-群晖怎么优雅的使用-docker-compose](https://www.v2ex.com/t/887095) 
 - [【V2EX】2022-10-15-新人想组个-nas-玩-pt,-大家能给我一些建议吗](https://www.v2ex.com/t/887094) 
-- [【V2EX】2022-10-15-大家的代码注释有写中文的吗?](https://www.v2ex.com/t/887092) 
-- [【V2EX】2022-10-15-一个用-AI-作-K-线形态识别的需求...](https://www.v2ex.com/t/887091) 
-- [【V2EX】2022-10-15-阿里云国际站腾讯云国际站可提供实名账户，代充值可付-USDT](https://www.v2ex.com/t/887090) 
 - [【技术头条】2022-10-15-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-15-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-15-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -126,8 +125,8 @@
 - [【技术头条】2022-10-15-与日俱进，在-Go-1.20-中这种高效转换的方式又变了-colobu.com](https://blogread.cn/news/go.php?idItem=15386&url=https%3A%2F%2Fcolobu.com%2F2022%2F09%2F06%2Fstring-byte-convertion%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-15-10-大可以摧毁你的-Linux-的命令-linux.cn](https://blogread.cn/news/go.php?idItem=15385&url=https%3A%2F%2Flinux.cn%2Farticle-15022-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-15-如何在笔记本电脑合盖时不挂起-Ubuntu-linux.cn](https://blogread.cn/news/go.php?idItem=15384&url=https%3A%2F%2Flinux.cn%2Farticle-15015-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [【开发者头条】2022-10-15-Spring-之-Bean-生命周期源码解析](https://toutiao.io/k/5b3p9e1) 
 - [【开发者头条】2022-10-15-独立开发变现周刊（第75期）：我的-SaaS-模板代码库每月赚-4-千美元](https://toutiao.io/k/ef49oxe) 
+- [【开发者头条】2022-10-15-Spring-之-Bean-生命周期源码解析](https://toutiao.io/k/5b3p9e1) 
 - [【开发者头条】2022-10-15-优质网站同好者周刊（第-087-期）-|-倾城博客](https://toutiao.io/k/v2kryea) 
 - [【开发者头条】2022-10-15-彻底搞懂-Eureka-和-Nacos-的区别](https://toutiao.io/k/8rby0oz) 
 - [【开发者头条】2022-10-15-观察和评价研发效能的趋势](https://toutiao.io/k/rtyytne) 

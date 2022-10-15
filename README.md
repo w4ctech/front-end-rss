@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-15 08:21:27，:rocket: 更新条数: +2013， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-15 08:54:50，:rocket: 更新条数: +2016， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,15 @@
 </summary>
 
 
+- [2022-10-15-通话记录不会同步吗？](https://www.v2ex.com/t/887151) ![](assets/new.png)  
+- [2022-10-15-想不通为什么买家能先款，如此相信我](https://www.v2ex.com/t/887150) ![](assets/new.png)  
+- [2022-10-15-想通过蒲公英安装无忧行测试版，发现始终无法看到描述文件，是-ios16-的问题吗？](https://www.v2ex.com/t/887149) ![](assets/new.png)  
+- [2022-10-15-iPhone-铃声不能用-iTunes/Music-导入-m4r-了么？妈的苹果你这厮。。。](https://www.v2ex.com/t/887148) ![](assets/new.png)  
+- [2022-10-15-debian-无法自动引导进入系统，需要手动-EFI-Shell-才可以，是什么原因？](https://www.v2ex.com/t/887147) ![](assets/new.png)  
+- [2022-10-15-接-怎么用-Java-的并发类-ConcurrentHashMap-抛出-ConcurrentModificationException？](https://www.v2ex.com/t/887146) ![](assets/new.png)  
+- [2022-10-15-人美心善无所不知的-v2er，请问开了火箭以后-chrome-上网几分钟就断开了](https://www.v2ex.com/t/887145) ![](assets/new.png)  
+- [2022-10-15-.net-framework4.8-GRPC-生成代码生成时找不到](https://www.v2ex.com/t/887144) ![](assets/new.png)  
+- [2022-10-15-用了-3-年的电脑内存被迫从-4-根减到-2-根，否则会开机困难](https://www.v2ex.com/t/887143) ![](assets/new.png)  
 - [2022-10-15-尴尬了，报了个户外活动发现他们好像都是熟人，就我一个谁也不认识](https://www.v2ex.com/t/887141) ![](assets/new.png)  
 - [2022-10-15-ios-小组件已经上线第三年了，到现在还没有赛事比分类的小组件](https://www.v2ex.com/t/887140) ![](assets/new.png)  
 - [2022-10-15-大家有遇到过玩游戏时一打团战，网络延时就飙升的问题吗？](https://www.v2ex.com/t/887138) ![](assets/new.png)  
@@ -502,15 +511,6 @@
 - [2022-10-15-Symmetric-NAT-目前有没有什么方法穿透做-P2P](https://www.v2ex.com/t/887132) ![](assets/new.png)  
 - [2022-10-15-求助：请问-2000-元以内买什么手机比较好？](https://www.v2ex.com/t/887131) ![](assets/new.png)  
 - [2022-10-15-请问-iTunes-日区礼品卡购买有什么靠谱的平台](https://www.v2ex.com/t/887129) ![](assets/new.png)  
-- [2022-10-15-有没有好一点的车枕推荐](https://www.v2ex.com/t/887128) ![](assets/new.png)  
-- [2022-10-15-“生产力”提高-200%](https://www.v2ex.com/t/887127) ![](assets/new.png)  
-- [2022-10-15-关于-One-Switch-反激活的问题](https://www.v2ex.com/t/887126) ![](assets/new.png)  
-- [2022-10-15-magsafe-充电支架对-iPhone-电池寿命影响如何](https://www.v2ex.com/t/887125) ![](assets/new.png)  
-- [2022-10-15-关于-vscode-tasks.json-selectedText-的问题](https://www.v2ex.com/t/887123) ![](assets/new.png)  
-- [2022-10-15-Apple-芯片目前挤牙膏有点黔驴技穷呀，不像搁着放大招的感觉](https://www.v2ex.com/t/887121) ![](assets/new.png)  
-- [2022-10-15-想买一个家用服务器实现以下功能，你们说可以吗？如何实现呢？应该买什么？](https://www.v2ex.com/t/887119) ![](assets/new.png)  
-- [2022-10-15-开源社区半月实习日记](https://www.v2ex.com/t/887117) ![](assets/new.png)  
-- [2022-10-15-「卷王」一个不比问卷星差很多的问卷考试系统](https://www.v2ex.com/t/887115) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -553,8 +553,8 @@
 </summary>
 
 
-- [2022-10-15-独立开发变现周刊（第75期）：我的-SaaS-模板代码库每月赚-4-千美元](https://toutiao.io/k/ef49oxe) ![](assets/new.png)  
 - [2022-10-15-Spring-之-Bean-生命周期源码解析](https://toutiao.io/k/5b3p9e1) ![](assets/new.png)  
+- [2022-10-15-独立开发变现周刊（第75期）：我的-SaaS-模板代码库每月赚-4-千美元](https://toutiao.io/k/ef49oxe) ![](assets/new.png)  
 - [2022-10-15-优质网站同好者周刊（第-087-期）-|-倾城博客](https://toutiao.io/k/v2kryea) ![](assets/new.png)  
 - [2022-10-15-彻底搞懂-Eureka-和-Nacos-的区别](https://toutiao.io/k/8rby0oz) ![](assets/new.png)  
 - [2022-10-15-观察和评价研发效能的趋势](https://toutiao.io/k/rtyytne) ![](assets/new.png)  
@@ -563,8 +563,8 @@
 - [2022-10-15-实战-CI/CD：微软加持的-GitHub-Actions，怎么用才香？](https://toutiao.io/k/n5fp68q) ![](assets/new.png)  
 - [2022-10-15-Golang-编译器优化那些事](https://toutiao.io/k/o1jd8yb) ![](assets/new.png)  
 - [2022-10-15-云原生网络利器--Cilium-Cluster-Mesh](https://toutiao.io/k/24txqj0) ![](assets/new.png)  
-- [2022-10-15-推荐-超实用！整理了-34-个-Python-自动化办公库](https://toutiao.io/k/5wihja2) ![](assets/new.png)  
 - [2022-10-15-推荐-7000-字-+-24-张图带你彻底弄懂线程池](https://toutiao.io/k/wci1eno) ![](assets/new.png)  
+- [2022-10-15-推荐-超实用！整理了-34-个-Python-自动化办公库](https://toutiao.io/k/5wihja2) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

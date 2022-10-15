@@ -9953,6 +9953,31 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "🤱🏻 用 Rust 打包了一个 1.8m 的微信读书 Mac App",
+        "link": "https://www.v2ex.com/t/887062",
+        "date": "2022-10-15"
+      },
+      {
+        "title": "32A 空调插座如何用米家空调伴侣呢",
+        "link": "https://www.v2ex.com/t/887060",
+        "date": "2022-10-15"
+      },
+      {
+        "title": "三四线城市门口突然出现了一大堆垃圾，该给什么部门致电呀？",
+        "link": "https://www.v2ex.com/t/887059",
+        "date": "2022-10-15"
+      },
+      {
+        "title": "甲骨文出了个首个基于虚拟线程非 Servlet 非响应式的微服务框架",
+        "link": "https://www.v2ex.com/t/887057",
+        "date": "2022-10-15"
+      },
+      {
+        "title": "[上海]-[不加班]-[混合办公]-[外企] 招 初中高级 Java (1,3,5 年经验起)，中级前端(3 年经验起)，初中级测试(1 年经验起)，高级安卓，中级 devOps、C++，初级 UI...",
+        "link": "https://www.v2ex.com/t/887056",
+        "date": "2022-10-14"
+      },
+      {
         "title": "iPhone 14 16.0.2(20A380)激活后备忘录内容丢失",
         "link": "https://www.v2ex.com/t/887054",
         "date": "2022-10-14"
@@ -10081,46 +10106,6 @@
         "title": "苹果那个新出的 35w，双 usb-c 的充电器有人用过吗？能同时带 2 个 homepod mini 吗？",
         "link": "https://www.v2ex.com/t/887014",
         "date": "2022-10-14"
-      },
-      {
-        "title": "大佬们，怎么控制本地请求 API 的频率？",
-        "link": "https://www.v2ex.com/t/887013",
-        "date": "2022-10-14"
-      },
-      {
-        "title": "顺德软件开发",
-        "link": "https://www.v2ex.com/t/887012",
-        "date": "2022-10-14"
-      },
-      {
-        "title": "在大厂卷但高薪和去小厂躺平但只有大厂 60% 薪资大家会怎么选？",
-        "link": "https://www.v2ex.com/t/887011",
-        "date": "2022-10-14"
-      },
-      {
-        "title": "Goravel V1 正式版发布，让 Go 开发更简单、高效！",
-        "link": "https://www.v2ex.com/t/887010",
-        "date": "2022-10-14"
-      },
-      {
-        "title": "有没有什么开源系统可以用作家庭内网通话的？",
-        "link": "https://www.v2ex.com/t/887008",
-        "date": "2022-10-14"
-      },
-      {
-        "title": "一个在 iOS 上实现个人开发者签名对 iPA 签名的软件",
-        "link": "https://www.v2ex.com/t/887007",
-        "date": "2022-10-14"
-      },
-      {
-        "title": "国行 FaceTime 在国内创建的链接可以被海外好友打开吗？",
-        "link": "https://www.v2ex.com/t/887006",
-        "date": "2022-10-14"
-      },
-      {
-        "title": "如何谈薪",
-        "link": "https://www.v2ex.com/t/887005",
-        "date": "2022-10-14"
       }
     ]
   },
@@ -10132,102 +10117,102 @@
       {
         "title": "日志记录的最佳实践 (insights.thoughtworks.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-10-14"
+        "date": "2022-10-15"
       },
       {
         "title": "一个非教条式的TDD例子 (insights.thoughtworks.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-10-14"
+        "date": "2022-10-15"
       },
       {
         "title": "我是怎么读代码的 (insights.thoughtworks.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-10-14"
+        "date": "2022-10-15"
       },
       {
         "title": "技术改变了什么？ (insights.thoughtworks.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=15400&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fpower-of-technology%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-10-14"
+        "date": "2022-10-15"
       },
       {
         "title": "失败驱动开发 (insights.thoughtworks.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=15399&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffailure-driven-development%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-10-14"
+        "date": "2022-10-15"
       },
       {
         "title": "图技术在美团外卖下的场景化应用及探索 (tech.meituan.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15398&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F09%2F08%2Fgnn-scenariomodeling-subgraphextend-jointtraining.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-10-14"
+        "date": "2022-10-15"
       },
       {
         "title": "TLS指纹分析研究（上） (blog.nsfocus.net)",
         "link": "https://blogread.cn/news/go.php?idItem=15397&url=http%3A%2F%2Fblog.nsfocus.net%2Ftls1-0%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-10-14"
+        "date": "2022-10-15"
       },
       {
         "title": "Unix 历史：一个伟大作品的诞生 (linux.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=15396&url=https%3A%2F%2Flinux.cn%2Farticle-15024-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-10-14"
+        "date": "2022-10-15"
       },
       {
         "title": "GraphQL及元数据驱动架构在后端BFF中的实践 (tech.meituan.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15395&url=https%3A%2F%2Ftech.meituan.com%2F2021%2F05%2F06%2Fbff-graphql.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-10-14"
+        "date": "2022-10-15"
       },
       {
         "title": "提升资源利用率与保障服务质量，鱼与熊掌不可兼得？ (tech.meituan.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15394&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F08%2F11%2Fload-auto-regulator.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-10-14"
+        "date": "2022-10-15"
       },
       {
         "title": "探索原味BFF模式 (insights.thoughtworks.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=15393&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fbff-history%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-10-14"
+        "date": "2022-10-15"
       },
       {
         "title": "ARouter 迁移到 TheRouter 使用感受 (juejin.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=15392&url=https%3A%2F%2Fjuejin.cn%2Fpost%2F7142687645980688397%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-10-14"
+        "date": "2022-10-15"
       },
       {
         "title": "智能搜索模型预估框架Augur的建设与实践 (tech.meituan.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15391&url=https%3A%2F%2Ftech.meituan.com%2F2020%2F07%2F16%2Faugur-in-meituan-nlp.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-10-14"
+        "date": "2022-10-15"
       },
       {
         "title": "基于AI算法的数据库异常监测系统的设计与实现 (tech.meituan.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15390&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F09%2F01%2Fdatabase-monitoring-based-on-ai.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-10-14"
+        "date": "2022-10-15"
       },
       {
         "title": "设备指纹技术介绍与综述（二） (blog.nsfocus.net)",
         "link": "https://blogread.cn/news/go.php?idItem=15389&url=http%3A%2F%2Fblog.nsfocus.net%2Ffingerprint%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-10-14"
+        "date": "2022-10-15"
       },
       {
         "title": "向量数据库入坑：传统文本检索方式的降维打击，使用 Faiss 实现向量语义检索 (soulteary.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15388&url=https%3A%2F%2Fsoulteary.com%2F2022%2F09%2F10%2Fthe-dimensionality-reduction-of-traditional-text-retrieval-methods-using-faiss-to-achieve-vector-semantic-retrieval.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-10-14"
+        "date": "2022-10-15"
       },
       {
         "title": "全球IPv4 AS拓扑测绘初探 (blog.nsfocus.net)",
         "link": "https://blogread.cn/news/go.php?idItem=15387&url=http%3A%2F%2Fblog.nsfocus.net%2Fipv4-as%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-10-14"
+        "date": "2022-10-15"
       },
       {
         "title": "与日俱进，在 Go 1.20 中这种高效转换的方式又变了 (colobu.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15386&url=https%3A%2F%2Fcolobu.com%2F2022%2F09%2F06%2Fstring-byte-convertion%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-10-14"
+        "date": "2022-10-15"
       },
       {
         "title": "10 大可以摧毁你的 Linux 的命令 (linux.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=15385&url=https%3A%2F%2Flinux.cn%2Farticle-15022-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-10-14"
+        "date": "2022-10-15"
       },
       {
         "title": "如何在笔记本电脑合盖时不挂起 Ubuntu (linux.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=15384&url=https%3A%2F%2Flinux.cn%2Farticle-15015-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-10-14"
+        "date": "2022-10-15"
       }
     ]
   },
@@ -10237,114 +10222,49 @@
     "link": "https://toutiao.io",
     "items": [
       {
-        "title": "欢迎加入读者圈子，一起交流！",
-        "link": "https://toutiao.io/k/mtrqmru",
-        "date": "2022-10-14"
+        "title": "Spring 之 Bean 生命周期源码解析",
+        "link": "https://toutiao.io/k/5b3p9e1",
+        "date": "2022-10-15"
       },
       {
-        "title": "Linux 主机性能测试方法",
-        "link": "https://toutiao.io/k/z0e7y3o",
-        "date": "2022-10-14"
+        "title": "独立开发变现周刊（第75期）：我的 SaaS 模板代码库每月赚 4 千美元",
+        "link": "https://toutiao.io/k/ef49oxe",
+        "date": "2022-10-15"
       },
       {
-        "title": "Spring 事务的这 10 种坑使得事务失效了",
-        "link": "https://toutiao.io/k/c5l12vd",
-        "date": "2022-10-14"
+        "title": "观察和评价研发效能的趋势",
+        "link": "https://toutiao.io/k/rtyytne",
+        "date": "2022-10-15"
       },
       {
-        "title": "用 Charles 断点调试 HTTPS 请求，原理揭秘",
-        "link": "https://toutiao.io/k/hnbu55g",
-        "date": "2022-10-14"
+        "title": "30+ 个工作中常用到的前端小知识",
+        "link": "https://toutiao.io/k/r0cxucz",
+        "date": "2022-10-15"
       },
       {
-        "title": "关于AspectJ，你知道多少？",
-        "link": "https://toutiao.io/k/e7r4jd1",
-        "date": "2022-10-14"
+        "title": "vivo 互联网机器学习平台的建设与实践",
+        "link": "https://toutiao.io/k/ewji5x7",
+        "date": "2022-10-15"
       },
       {
-        "title": "深入浅出音视频与 WebRTC",
-        "link": "https://toutiao.io/k/79lidh8",
-        "date": "2022-10-14"
+        "title": "彻底搞懂 Eureka 和 Nacos 的区别",
+        "link": "https://toutiao.io/k/8rby0oz",
+        "date": "2022-10-15"
       },
       {
-        "title": "MySQL 在 K8S 环境中部署与监控，一篇搞定它",
-        "link": "https://toutiao.io/k/fwck7q3",
-        "date": "2022-10-14"
-      },
-      {
-        "title": "老了就不能编程？大龄程序员在线“辟谣”：15 年后，我变得更好了",
-        "link": "https://toutiao.io/k/njiyozv",
-        "date": "2022-10-14"
-      },
-      {
-        "title": "基于 CNN 的新词发现算法",
-        "link": "https://toutiao.io/k/8efbl3c",
-        "date": "2022-10-14"
-      },
-      {
-        "title": "收藏！200+ 精选 Apache Pulsar 资料合集",
-        "link": "https://toutiao.io/k/a26nr0w",
-        "date": "2022-10-14"
-      },
-      {
-        "title": "DBA 助攻日志平台改造：用 ClickHouse 冷热分离存储完美替代 ES",
-        "link": "https://toutiao.io/k/d2yeddo",
-        "date": "2022-10-14"
-      },
-      {
-        "title": "21 个 MySQL 表设计的经验准则",
-        "link": "https://toutiao.io/k/lh0iga3",
-        "date": "2022-10-14"
-      },
-      {
-        "title": "300 万数据导入导出优化方案，从 80s 优化到 8s（实测）",
-        "link": "https://toutiao.io/k/yiz2z23",
-        "date": "2022-10-14"
-      },
-      {
-        "title": "两万字长文带你深入 Go 语言 GC 源码",
-        "link": "https://toutiao.io/k/2cxka33",
-        "date": "2022-10-14"
-      },
-      {
-        "title": "一文了解知识图谱技术体系",
-        "link": "https://toutiao.io/k/6pzdcth",
-        "date": "2022-10-14"
-      },
-      {
-        "title": "标签评分：海量标签如何进行系统治理？",
-        "link": "https://toutiao.io/k/slwwx9b",
-        "date": "2022-10-14"
-      },
-      {
-        "title": "2022 年我的面试万字总结（浏览器网络篇）",
-        "link": "https://toutiao.io/k/tu498f5",
-        "date": "2022-10-14"
-      },
-      {
-        "title": "谷歌云发布重磅安全产品，逆转软件供应链领域攻防形势",
-        "link": "https://toutiao.io/k/ydmg6cf",
-        "date": "2022-10-14"
-      },
-      {
-        "title": "如何理解 JVM（Java Virtual Machine）？",
-        "link": "https://toutiao.io/k/5k8626t",
-        "date": "2022-10-14"
-      },
-      {
-        "title": "VSCode扩展之 git",
-        "link": "https://toutiao.io/k/3c9cnfy",
-        "date": "2022-10-14"
+        "title": "实战 CI/CD：微软加持的 GitHub Actions，怎么用才香？",
+        "link": "https://toutiao.io/k/n5fp68q",
+        "date": "2022-10-15"
       },
       {
         "title": "[推荐] 7000 字 + 24 张图带你彻底弄懂线程池",
         "link": "https://toutiao.io/k/wci1eno",
-        "date": "2022-10-14"
+        "date": "2022-10-15"
       },
       {
         "title": "[推荐] 超实用！整理了 34 个 Python 自动化办公库",
         "link": "https://toutiao.io/k/5wihja2",
-        "date": "2022-10-14"
+        "date": "2022-10-15"
       }
     ]
   },

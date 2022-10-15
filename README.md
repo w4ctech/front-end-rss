@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-15 06:06:05，:rocket: 更新条数: +2009， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-15 07:01:24，:rocket: 更新条数: +2010， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,13 @@
 </summary>
 
 
+- [2022-10-15-有没有好一点的车枕推荐](https://www.v2ex.com/t/887128) ![](assets/new.png)  
+- [2022-10-15-“生产力”提高-200%](https://www.v2ex.com/t/887127) ![](assets/new.png)  
+- [2022-10-15-关于-One-Switch-反激活的问题](https://www.v2ex.com/t/887126) ![](assets/new.png)  
+- [2022-10-15-magsafe-充电支架对-iPhone-电池寿命影响如何](https://www.v2ex.com/t/887125) ![](assets/new.png)  
+- [2022-10-15-关于-vscode-tasks.json-selectedText-的问题](https://www.v2ex.com/t/887123) ![](assets/new.png)  
+- [2022-10-15-Apple-芯片目前挤牙膏有点黔驴技穷呀，不像搁着放大招的感觉](https://www.v2ex.com/t/887121) ![](assets/new.png)  
+- [2022-10-15-想买一个家用服务器实现以下功能，你们说可以吗？如何实现呢？应该买什么？](https://www.v2ex.com/t/887119) ![](assets/new.png)  
 - [2022-10-15-开源社区半月实习日记](https://www.v2ex.com/t/887117) ![](assets/new.png)  
 - [2022-10-15-「卷王」一个不比问卷星差很多的问卷考试系统](https://www.v2ex.com/t/887115) ![](assets/new.png)  
 - [2022-10-15-有在职考雅思的兄弟/妹子吗？一起准备呗](https://www.v2ex.com/t/887114) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-10-15-correlium-云手机支持完整-ios，为啥没人讨论](https://www.v2ex.com/t/887102) ![](assets/new.png)  
 - [2022-10-15-被隔离在家找不到工作，突然想到远程工作会变成趋势吗？](https://www.v2ex.com/t/887100) ![](assets/new.png)  
 - [2022-10-15-像车辆定位，儿童手表定位之类应用的数据是如何存储和查询的？](https://www.v2ex.com/t/887099) ![](assets/new.png)  
-- [2022-10-15-iPhone-后壳摔碎了。。。](https://www.v2ex.com/t/887098) ![](assets/new.png)  
-- [2022-10-15-2k-预算能整个主机吗](https://www.v2ex.com/t/887096) ![](assets/new.png)  
-- [2022-10-15-群晖怎么优雅的使用-docker-compose](https://www.v2ex.com/t/887095) ![](assets/new.png)  
-- [2022-10-15-新人想组个-nas-玩-pt,-大家能给我一些建议吗](https://www.v2ex.com/t/887094) ![](assets/new.png)  
-- [2022-10-15-大家的代码注释有写中文的吗?](https://www.v2ex.com/t/887092) ![](assets/new.png)  
-- [2022-10-15-一个用-AI-作-K-线形态识别的需求...](https://www.v2ex.com/t/887091) ![](assets/new.png)  
-- [2022-10-15-阿里云国际站腾讯云国际站可提供实名账户，代充值可付-USDT](https://www.v2ex.com/t/887090) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -556,8 +556,8 @@
 - [2022-10-15-Spring-之-Bean-生命周期源码解析](https://toutiao.io/k/5b3p9e1) ![](assets/new.png)  
 - [2022-10-15-独立开发变现周刊（第75期）：我的-SaaS-模板代码库每月赚-4-千美元](https://toutiao.io/k/ef49oxe) ![](assets/new.png)  
 - [2022-10-15-优质网站同好者周刊（第-087-期）-|-倾城博客](https://toutiao.io/k/v2kryea) ![](assets/new.png)  
-- [2022-10-15-观察和评价研发效能的趋势](https://toutiao.io/k/rtyytne) ![](assets/new.png)  
 - [2022-10-15-彻底搞懂-Eureka-和-Nacos-的区别](https://toutiao.io/k/8rby0oz) ![](assets/new.png)  
+- [2022-10-15-观察和评价研发效能的趋势](https://toutiao.io/k/rtyytne) ![](assets/new.png)  
 - [2022-10-15-vivo-互联网机器学习平台的建设与实践](https://toutiao.io/k/ewji5x7) ![](assets/new.png)  
 - [2022-10-15-30+-个工作中常用到的前端小知识](https://toutiao.io/k/r0cxucz) ![](assets/new.png)  
 - [2022-10-15-实战-CI/CD：微软加持的-GitHub-Actions，怎么用才香？](https://toutiao.io/k/n5fp68q) ![](assets/new.png)  

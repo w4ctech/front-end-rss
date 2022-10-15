@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-15 14:45:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-15 15:16:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1914,6 +1914,8 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-10-15-可能是模仿-v2，用来做购物社区最好的设计，不知道作者在不在这里](https://www.v2ex.com/t/887209) 
+- [2022-10-15-请教下这件事怎么处理好](https://www.v2ex.com/t/887208) 
 - [2022-10-15-把旧-iPad-打造成中小学学生平板-有哪些-APP-推荐的呢？](https://www.v2ex.com/t/887205) 
 - [2022-10-15-macbook-pro-14-寸-麦克风始终显示被使用](https://www.v2ex.com/t/887198) 
 - [2022-10-15-有没有开源的小区的网站？-主要是简单的信息发布，二手，等](https://www.v2ex.com/t/887197) 
@@ -1943,10 +1945,6 @@
 - [2022-10-15-腾讯云新加坡日本韩国美国欧洲云服务器-3-折特惠](https://www.v2ex.com/t/887164) 
 - [2022-10-15-Surge-Mac-4-有空余的车位吗](https://www.v2ex.com/t/887162) 
 - [2022-10-15-关于-Airpods-pro2-自适应通透模式](https://www.v2ex.com/t/887161) 
-- [2022-10-15-你家的自来水-TDS-这几日升高了吗？](https://www.v2ex.com/t/887159) 
-- [2022-10-15-知乎上半年净亏-8-亿，再造一个信息高密度平台？](https://www.v2ex.com/t/887158) 
-- [2022-10-15-华硕服务器主板的-IPMI-功能完全是个垃圾？](https://www.v2ex.com/t/887157) 
-- [2022-10-15-没锁屏的时候怎么使用-Apple-Pay-银行卡？](https://www.v2ex.com/t/887156) 
 - [2022-10-15-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-15-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-15-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

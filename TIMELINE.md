@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-15 14:45:37。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-10-15 15:16:46。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,9 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-12-CSS-::file-selector-button伪元素简介](https://www.zhangxinxu.com/wordpress/2022/10/css-file-selector-button/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-12-更符合书写习惯的CSS媒体查询Range语法](https://www.zhangxinxu.com/wordpress/2022/10/css-media-range-syntax/) 
+- [【V2EX】2022-10-15-可能是模仿-v2，用来做购物社区最好的设计，不知道作者在不在这里](https://www.v2ex.com/t/887209) 
+- [【V2EX】2022-10-15-请教下这件事怎么处理好](https://www.v2ex.com/t/887208) 
+- [【V2EX】2022-10-15-RGB-色彩空间](https://www.v2ex.com/t/887206) 
 - [【V2EX】2022-10-15-把旧-iPad-打造成中小学学生平板-有哪些-APP-推荐的呢？](https://www.v2ex.com/t/887205) 
 - [【V2EX】2022-10-15-macbook-pro-14-寸-麦克风始终显示被使用](https://www.v2ex.com/t/887198) 
 - [【V2EX】2022-10-15-有没有开源的小区的网站？-主要是简单的信息发布，二手，等](https://www.v2ex.com/t/887197) 
@@ -103,10 +106,6 @@
 - [【V2EX】2022-10-15-Surge-Mac-4-有空余的车位吗](https://www.v2ex.com/t/887162) 
 - [【V2EX】2022-10-15-关于-Airpods-pro2-自适应通透模式](https://www.v2ex.com/t/887161) 
 - [【V2EX】2022-10-15-求助-docker-容器无法连接外网，折腾了好久没搞定。](https://www.v2ex.com/t/887160) 
-- [【V2EX】2022-10-15-你家的自来水-TDS-这几日升高了吗？](https://www.v2ex.com/t/887159) 
-- [【V2EX】2022-10-15-知乎上半年净亏-8-亿，再造一个信息高密度平台？](https://www.v2ex.com/t/887158) 
-- [【V2EX】2022-10-15-华硕服务器主板的-IPMI-功能完全是个垃圾？](https://www.v2ex.com/t/887157) 
-- [【V2EX】2022-10-15-没锁屏的时候怎么使用-Apple-Pay-银行卡？](https://www.v2ex.com/t/887156) 
 - [【技术头条】2022-10-15-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-15-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-15-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

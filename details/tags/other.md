@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-15 07:28:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-15 07:46:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1914,6 +1914,10 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-10-15-各位会修改测试环境的时间去测试代码吗](https://www.v2ex.com/t/887137) 
+- [2022-10-15-有没有办法确定买的书是正版？](https://www.v2ex.com/t/887136) 
+- [2022-10-15-2022-年从国内拿到悉尼-220K-AUD-offer-经验分享（一）](https://www.v2ex.com/t/887135) 
+- [2022-10-15-求问澳洲悉尼的宽带怎么选](https://www.v2ex.com/t/887134) 
 - [2022-10-15-adobe-photoshop2020-安装时读取-clash、telegram](https://www.v2ex.com/t/887133) 
 - [2022-10-15-Symmetric-NAT-目前有没有什么方法穿透做-P2P](https://www.v2ex.com/t/887132) 
 - [2022-10-15-求助：请问-2000-元以内买什么手机比较好？](https://www.v2ex.com/t/887131) 
@@ -1942,9 +1946,6 @@
 - [2022-10-15-大家的代码注释有写中文的吗?](https://www.v2ex.com/t/887092) 
 - [2022-10-15-一个用-AI-作-K-线形态识别的需求...](https://www.v2ex.com/t/887091) 
 - [2022-10-15-阿里云国际站腾讯云国际站可提供实名账户，代充值可付-USDT](https://www.v2ex.com/t/887090) 
-- [2022-10-15-美亚送我了一个月的-prime-会员，有哪些-prime-影片比较好看？](https://www.v2ex.com/t/887087) 
-- [2022-10-15-小白求助，關於-iOS-系統降級的問題](https://www.v2ex.com/t/887085) 
-- [2022-10-15-你们觉得妙控板和-MacBook-内建触控板哪个手感更好？](https://www.v2ex.com/t/887084) 
 - [2022-10-15-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-15-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-15-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

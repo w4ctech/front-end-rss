@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-10-15 17:03:05。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-15 17:52:04。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -55,7 +55,6 @@
 
 
 
-- [【V2EX】vue3-在插槽里面用父组件传过来的数据的属性引用遇到语法检测：-unknown，怎么修改。](https://www.v2ex.com/t/887169)
 - [......【查看更多】......](./details/tags/vue.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

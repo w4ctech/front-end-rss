@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-15 16:21:26。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-10-15 17:03:05。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,9 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-12-CSS-::file-selector-button伪元素简介](https://www.zhangxinxu.com/wordpress/2022/10/css-file-selector-button/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-12-更符合书写习惯的CSS媒体查询Range语法](https://www.zhangxinxu.com/wordpress/2022/10/css-media-range-syntax/) 
+- [【V2EX】2022-10-15-延伸模式下主屏桌面内容无法切换自动切换至-Mac-Book-Pro-上？](https://www.v2ex.com/t/887217) 
+- [【V2EX】2022-10-15-ZFS-和-mdadm-创建的软-Raid1，有什么区别吗？](https://www.v2ex.com/t/887216) 
+- [【V2EX】2022-10-15-照片生成-3D-动漫头像](https://www.v2ex.com/t/887215) 
 - [【V2EX】2022-10-15-有一个-mybatisplus-的问题](https://www.v2ex.com/t/887214) 
 - [【V2EX】2022-10-15-2022-年从国内拿到悉尼-220K-AUD-offer-经验分享（二）](https://www.v2ex.com/t/887212) 
 - [【V2EX】2022-10-15-20221015-午夜俱乐部](https://www.v2ex.com/t/887211) 
@@ -103,9 +106,6 @@
 - [【V2EX】2022-10-15-悲报：韩国-sk판교数据中心火灾，-kakao-daum-等服务被影响](https://www.v2ex.com/t/887170) 
 - [【V2EX】2022-10-15-vue3-在插槽里面用父组件传过来的数据的属性引用遇到语法检测：-unknown，怎么修改。](https://www.v2ex.com/t/887169) 
 - [【V2EX】2022-10-15-大家的-Airpods-Pro2-有电流音或者音爆吗？](https://www.v2ex.com/t/887168) 
-- [【V2EX】2022-10-15-（求测试）“PixAI”-效果比-waifu2x-更好的-iOS-本地超分辨率-app](https://www.v2ex.com/t/887167) 
-- [【V2EX】2022-10-15-Thinkpad-X1-Yoga-换大容量电池的可能性](https://www.v2ex.com/t/887166) 
-- [【V2EX】2022-10-15-我们刚给开源社区贡献第一的同学发了个-iwatch,-有没有想问的～](https://www.v2ex.com/t/887165) 
 - [【技术头条】2022-10-15-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-15-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-15-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

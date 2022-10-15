@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-15 14:21:10，:rocket: 更新条数: +2015， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-15 14:45:37，:rocket: 更新条数: +2015， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-10-15-把旧-iPad-打造成中小学学生平板-有哪些-APP-推荐的呢？](https://www.v2ex.com/t/887205) ![](assets/new.png)  
 - [2022-10-15-macbook-pro-14-寸-麦克风始终显示被使用](https://www.v2ex.com/t/887198) ![](assets/new.png)  
 - [2022-10-15-有没有开源的小区的网站？-主要是简单的信息发布，二手，等](https://www.v2ex.com/t/887197) ![](assets/new.png)  
 - [2022-10-15-这是大家常说的的“内存泄漏”吗](https://www.v2ex.com/t/887196) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-10-15-Clash-订阅转换和规则](https://www.v2ex.com/t/887178) ![](assets/new.png)  
 - [2022-10-15-一下班就点外卖躺着玩游戏看抖音，我还有救吗](https://www.v2ex.com/t/887177) ![](assets/new.png)  
 - [2022-10-15-港版-iPhone-怎么购买放心？](https://www.v2ex.com/t/887175) ![](assets/new.png)  
-- [2022-10-15-stable-diffusion-怎么指定一个画面中的人物数量？](https://www.v2ex.com/t/887174) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,8 +563,8 @@
 - [2022-10-15-实战-CI/CD：微软加持的-GitHub-Actions，怎么用才香？](https://toutiao.io/k/n5fp68q) ![](assets/new.png)  
 - [2022-10-15-Golang-编译器优化那些事](https://toutiao.io/k/o1jd8yb) ![](assets/new.png)  
 - [2022-10-15-云原生网络利器--Cilium-Cluster-Mesh](https://toutiao.io/k/24txqj0) ![](assets/new.png)  
-- [2022-10-15-推荐-7000-字-+-24-张图带你彻底弄懂线程池](https://toutiao.io/k/wci1eno) ![](assets/new.png)  
 - [2022-10-15-推荐-超实用！整理了-34-个-Python-自动化办公库](https://toutiao.io/k/5wihja2) ![](assets/new.png)  
+- [2022-10-15-推荐-7000-字-+-24-张图带你彻底弄懂线程池](https://toutiao.io/k/wci1eno) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

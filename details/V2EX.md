@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2022-10-15 07:01:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-15 07:28:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-10-15-adobe-photoshop2020-安装时读取-clash、telegram](https://www.v2ex.com/t/887133) 
+- [2022-10-15-Symmetric-NAT-目前有没有什么方法穿透做-P2P](https://www.v2ex.com/t/887132) 
+- [2022-10-15-求助：请问-2000-元以内买什么手机比较好？](https://www.v2ex.com/t/887131) 
+- [2022-10-15-请问-iTunes-日区礼品卡购买有什么靠谱的平台](https://www.v2ex.com/t/887129) 
 - [2022-10-15-有没有好一点的车枕推荐](https://www.v2ex.com/t/887128) 
 - [2022-10-15-“生产力”提高-200%](https://www.v2ex.com/t/887127) 
 - [2022-10-15-关于-One-Switch-反激活的问题](https://www.v2ex.com/t/887126) 
@@ -35,5 +39,3 @@
 - [2022-10-15-美亚送我了一个月的-prime-会员，有哪些-prime-影片比较好看？](https://www.v2ex.com/t/887087) 
 - [2022-10-15-小白求助，關於-iOS-系統降級的問題](https://www.v2ex.com/t/887085) 
 - [2022-10-15-你们觉得妙控板和-MacBook-内建触控板哪个手感更好？](https://www.v2ex.com/t/887084) 
-- [2022-10-15-土耳其地区的-Apple-ID-让验证信用卡和手机号，如何解决？](https://www.v2ex.com/t/887082) 
-- [2022-10-15-阿里云国际站腾讯云国际站可提供实名账户，代充值，可付-USDT](https://www.v2ex.com/t/887081) 

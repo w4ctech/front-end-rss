@@ -1,10 +1,18 @@
-:alarm_clock: 更新时间: 2022-10-15 10:16:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-15 10:48:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-10-15-请教各位大牛，现在有办法能直接挂载-internet-上的-ISO-来装操作系统吗？](https://www.v2ex.com/t/887172) 
+- [2022-10-15-macos13beta-可以使用的-NTFS-读取工具](https://www.v2ex.com/t/887171) 
+- [2022-10-15-悲报：韩国-sk판교数据中心火灾，-kakao-daum-等服务被影响](https://www.v2ex.com/t/887170) 
+- [2022-10-15-vue3-在插槽里面用父组件传过来的数据的属性引用遇到语法检测：-unknown，怎么修改。](https://www.v2ex.com/t/887169) 
+- [2022-10-15-大家的-Airpods-Pro2-有电流音或者音爆吗？](https://www.v2ex.com/t/887168) 
+- [2022-10-15-（求测试）“PixAI”-效果比-waifu2x-更好的-iOS-本地超分辨率-app](https://www.v2ex.com/t/887167) 
+- [2022-10-15-Thinkpad-X1-Yoga-换大容量电池的可能性](https://www.v2ex.com/t/887166) 
+- [2022-10-15-我们刚给开源社区贡献第一的同学发了个-iwatch,-有没有想问的～](https://www.v2ex.com/t/887165) 
 - [2022-10-15-腾讯云新加坡日本韩国美国欧洲云服务器-3-折特惠](https://www.v2ex.com/t/887164) 
 - [2022-10-15-Surge-Mac-4-有空余的车位吗](https://www.v2ex.com/t/887162) 
 - [2022-10-15-关于-Airpods-pro2-自适应通透模式](https://www.v2ex.com/t/887161) 
@@ -41,8 +49,3 @@
 - [2022-10-15-“生产力”提高-200%](https://www.v2ex.com/t/887127) 
 - [2022-10-15-关于-One-Switch-反激活的问题](https://www.v2ex.com/t/887126) 
 - [2022-10-15-magsafe-充电支架对-iPhone-电池寿命影响如何](https://www.v2ex.com/t/887125) 
-- [2022-10-15-关于-vscode-tasks.json-selectedText-的问题](https://www.v2ex.com/t/887123) 
-- [2022-10-15-Apple-芯片目前挤牙膏有点黔驴技穷呀，不像搁着放大招的感觉](https://www.v2ex.com/t/887121) 
-- [2022-10-15-想买一个家用服务器实现以下功能，你们说可以吗？如何实现呢？应该买什么？](https://www.v2ex.com/t/887119) 
-- [2022-10-15-开源社区半月实习日记](https://www.v2ex.com/t/887117) 
-- [2022-10-15-「卷王」一个不比问卷星差很多的问卷考试系统](https://www.v2ex.com/t/887115) 

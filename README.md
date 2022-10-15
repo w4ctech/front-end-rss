@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-15 10:16:36，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-15 10:48:55，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,14 @@
 </summary>
 
 
+- [2022-10-15-请教各位大牛，现在有办法能直接挂载-internet-上的-ISO-来装操作系统吗？](https://www.v2ex.com/t/887172) ![](assets/new.png)  
+- [2022-10-15-macos13beta-可以使用的-NTFS-读取工具](https://www.v2ex.com/t/887171) ![](assets/new.png)  
+- [2022-10-15-悲报：韩国-sk판교数据中心火灾，-kakao-daum-等服务被影响](https://www.v2ex.com/t/887170) ![](assets/new.png)  
+- [2022-10-15-vue3-在插槽里面用父组件传过来的数据的属性引用遇到语法检测：-unknown，怎么修改。](https://www.v2ex.com/t/887169) ![](assets/new.png)  
+- [2022-10-15-大家的-Airpods-Pro2-有电流音或者音爆吗？](https://www.v2ex.com/t/887168) ![](assets/new.png)  
+- [2022-10-15-（求测试）“PixAI”-效果比-waifu2x-更好的-iOS-本地超分辨率-app](https://www.v2ex.com/t/887167) ![](assets/new.png)  
+- [2022-10-15-Thinkpad-X1-Yoga-换大容量电池的可能性](https://www.v2ex.com/t/887166) ![](assets/new.png)  
+- [2022-10-15-我们刚给开源社区贡献第一的同学发了个-iwatch,-有没有想问的～](https://www.v2ex.com/t/887165) ![](assets/new.png)  
 - [2022-10-15-腾讯云新加坡日本韩国美国欧洲云服务器-3-折特惠](https://www.v2ex.com/t/887164) ![](assets/new.png)  
 - [2022-10-15-Surge-Mac-4-有空余的车位吗](https://www.v2ex.com/t/887162) ![](assets/new.png)  
 - [2022-10-15-关于-Airpods-pro2-自适应通透模式](https://www.v2ex.com/t/887161) ![](assets/new.png)  
@@ -503,14 +511,6 @@
 - [2022-10-15-笔记本装两块硬盘如何做到双系统自由切换？](https://www.v2ex.com/t/887154) ![](assets/new.png)  
 - [2022-10-15-不懂就问深信服的-EDR-杀毒有行为管理功能吗？](https://www.v2ex.com/t/887153) ![](assets/new.png)  
 - [2022-10-15-收到大量从-mac-地址全-0-的包](https://www.v2ex.com/t/887152) ![](assets/new.png)  
-- [2022-10-15-通话记录不会同步吗？](https://www.v2ex.com/t/887151) ![](assets/new.png)  
-- [2022-10-15-想不通为什么买家能先款，如此相信我](https://www.v2ex.com/t/887150) ![](assets/new.png)  
-- [2022-10-15-想通过蒲公英安装无忧行测试版，发现始终无法看到描述文件，是-ios16-的问题吗？](https://www.v2ex.com/t/887149) ![](assets/new.png)  
-- [2022-10-15-iPhone-铃声不能用-iTunes/Music-导入-m4r-了么？妈的苹果你这厮。。。](https://www.v2ex.com/t/887148) ![](assets/new.png)  
-- [2022-10-15-debian-无法自动引导进入系统，需要手动-EFI-Shell-才可以，是什么原因？](https://www.v2ex.com/t/887147) ![](assets/new.png)  
-- [2022-10-15-接-怎么用-Java-的并发类-ConcurrentHashMap-抛出-ConcurrentModificationException？](https://www.v2ex.com/t/887146) ![](assets/new.png)  
-- [2022-10-15-人美心善无所不知的-v2er，请问开了火箭以后-chrome-上网几分钟就断开了](https://www.v2ex.com/t/887145) ![](assets/new.png)  
-- [2022-10-15-.net-framework4.8-GRPC-生成代码生成时找不到](https://www.v2ex.com/t/887144) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

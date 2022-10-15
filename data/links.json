@@ -9953,6 +9953,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "阿里巴巴技术手册:单表行数超过 500 万行或者单表容量超过 2GB，才推荐进行分库分表的理论依据？",
+        "link": "https://www.v2ex.com/t/887224",
+        "date": "2022-10-15"
+      },
+      {
         "title": "RFC: First class support for promises and async/await",
         "link": "https://www.v2ex.com/t/887223",
         "date": "2022-10-15"
@@ -10125,11 +10130,6 @@
       {
         "title": "港版 iPhone 怎么购买放心？",
         "link": "https://www.v2ex.com/t/887175",
-        "date": "2022-10-15"
-      },
-      {
-        "title": "stable diffusion 怎么指定一个画面中的人物数量？",
-        "link": "https://www.v2ex.com/t/887174",
         "date": "2022-10-15"
       }
     ]

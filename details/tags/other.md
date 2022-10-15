@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-15 09:19:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-15 09:48:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1914,6 +1914,8 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-10-15-你家的自来水-TDS-这几日升高了吗？](https://www.v2ex.com/t/887159) 
+- [2022-10-15-知乎上半年净亏-8-亿，再造一个信息高密度平台？](https://www.v2ex.com/t/887158) 
 - [2022-10-15-华硕服务器主板的-IPMI-功能完全是个垃圾？](https://www.v2ex.com/t/887157) 
 - [2022-10-15-没锁屏的时候怎么使用-Apple-Pay-银行卡？](https://www.v2ex.com/t/887156) 
 - [2022-10-15-有没有什么多云储存之间同步的方案](https://www.v2ex.com/t/887155) 
@@ -1966,13 +1968,13 @@
 - [2022-10-15-与日俱进，在-Go-1.20-中这种高效转换的方式又变了-colobu.com](https://blogread.cn/news/go.php?idItem=15386&url=https%3A%2F%2Fcolobu.com%2F2022%2F09%2F06%2Fstring-byte-convertion%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-15-10-大可以摧毁你的-Linux-的命令-linux.cn](https://blogread.cn/news/go.php?idItem=15385&url=https%3A%2F%2Flinux.cn%2Farticle-15022-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-15-如何在笔记本电脑合盖时不挂起-Ubuntu-linux.cn](https://blogread.cn/news/go.php?idItem=15384&url=https%3A%2F%2Flinux.cn%2Farticle-15015-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [2022-10-15-Spring-之-Bean-生命周期源码解析](https://toutiao.io/k/5b3p9e1) 
 - [2022-10-15-独立开发变现周刊（第75期）：我的-SaaS-模板代码库每月赚-4-千美元](https://toutiao.io/k/ef49oxe) 
+- [2022-10-15-Spring-之-Bean-生命周期源码解析](https://toutiao.io/k/5b3p9e1) 
 - [2022-10-15-优质网站同好者周刊（第-087-期）-|-倾城博客](https://toutiao.io/k/v2kryea) 
 - [2022-10-15-彻底搞懂-Eureka-和-Nacos-的区别](https://toutiao.io/k/8rby0oz) 
 - [2022-10-15-观察和评价研发效能的趋势](https://toutiao.io/k/rtyytne) 
 - [2022-10-15-vivo-互联网机器学习平台的建设与实践](https://toutiao.io/k/ewji5x7) 
 - [2022-10-15-30+-个工作中常用到的前端小知识](https://toutiao.io/k/r0cxucz) 
 - [2022-10-15-云原生网络利器--Cilium-Cluster-Mesh](https://toutiao.io/k/24txqj0) 
-- [2022-10-15-推荐-7000-字-+-24-张图带你彻底弄懂线程池](https://toutiao.io/k/wci1eno) 
 - [2022-10-15-推荐-超实用！整理了-34-个-Python-自动化办公库](https://toutiao.io/k/5wihja2) 
+- [2022-10-15-推荐-7000-字-+-24-张图带你彻底弄懂线程池](https://toutiao.io/k/wci1eno) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-15 09:19:43，:rocket: 更新条数: +2017， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-15 09:48:21，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-10-15-你家的自来水-TDS-这几日升高了吗？](https://www.v2ex.com/t/887159) ![](assets/new.png)  
+- [2022-10-15-知乎上半年净亏-8-亿，再造一个信息高密度平台？](https://www.v2ex.com/t/887158) ![](assets/new.png)  
 - [2022-10-15-华硕服务器主板的-IPMI-功能完全是个垃圾？](https://www.v2ex.com/t/887157) ![](assets/new.png)  
 - [2022-10-15-没锁屏的时候怎么使用-Apple-Pay-银行卡？](https://www.v2ex.com/t/887156) ![](assets/new.png)  
 - [2022-10-15-有没有什么多云储存之间同步的方案](https://www.v2ex.com/t/887155) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-10-15-尴尬了，报了个户外活动发现他们好像都是熟人，就我一个谁也不认识](https://www.v2ex.com/t/887141) ![](assets/new.png)  
 - [2022-10-15-ios-小组件已经上线第三年了，到现在还没有赛事比分类的小组件](https://www.v2ex.com/t/887140) ![](assets/new.png)  
 - [2022-10-15-大家有遇到过玩游戏时一打团战，网络延时就飙升的问题吗？](https://www.v2ex.com/t/887138) ![](assets/new.png)  
-- [2022-10-15-各位会修改测试环境的时间去测试代码吗](https://www.v2ex.com/t/887137) ![](assets/new.png)  
-- [2022-10-15-有没有办法确定买的书是正版？](https://www.v2ex.com/t/887136) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -553,8 +553,8 @@
 </summary>
 
 
-- [2022-10-15-Spring-之-Bean-生命周期源码解析](https://toutiao.io/k/5b3p9e1) ![](assets/new.png)  
 - [2022-10-15-独立开发变现周刊（第75期）：我的-SaaS-模板代码库每月赚-4-千美元](https://toutiao.io/k/ef49oxe) ![](assets/new.png)  
+- [2022-10-15-Spring-之-Bean-生命周期源码解析](https://toutiao.io/k/5b3p9e1) ![](assets/new.png)  
 - [2022-10-15-优质网站同好者周刊（第-087-期）-|-倾城博客](https://toutiao.io/k/v2kryea) ![](assets/new.png)  
 - [2022-10-15-彻底搞懂-Eureka-和-Nacos-的区别](https://toutiao.io/k/8rby0oz) ![](assets/new.png)  
 - [2022-10-15-观察和评价研发效能的趋势](https://toutiao.io/k/rtyytne) ![](assets/new.png)  
@@ -563,8 +563,8 @@
 - [2022-10-15-实战-CI/CD：微软加持的-GitHub-Actions，怎么用才香？](https://toutiao.io/k/n5fp68q) ![](assets/new.png)  
 - [2022-10-15-Golang-编译器优化那些事](https://toutiao.io/k/o1jd8yb) ![](assets/new.png)  
 - [2022-10-15-云原生网络利器--Cilium-Cluster-Mesh](https://toutiao.io/k/24txqj0) ![](assets/new.png)  
-- [2022-10-15-推荐-7000-字-+-24-张图带你彻底弄懂线程池](https://toutiao.io/k/wci1eno) ![](assets/new.png)  
 - [2022-10-15-推荐-超实用！整理了-34-个-Python-自动化办公库](https://toutiao.io/k/5wihja2) ![](assets/new.png)  
+- [2022-10-15-推荐-7000-字-+-24-张图带你彻底弄懂线程池](https://toutiao.io/k/wci1eno) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

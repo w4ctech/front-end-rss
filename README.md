@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-16 21:44:19，:rocket: 更新条数: +2017， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-16 22:15:45，:rocket: 更新条数: +2017， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-10-16-windows-下面有什么好用的支持列编辑软件么，求推荐](https://www.v2ex.com/t/887399) ![](assets/new.png)  
 - [2022-10-16-20221017-午夜俱乐部](https://www.v2ex.com/t/887398) ![](assets/new.png)  
 - [2022-10-16-YUV-数据分析](https://www.v2ex.com/t/887396) ![](assets/new.png)  
 - [2022-10-16-连续冥想了-999-天了](https://www.v2ex.com/t/887395) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-10-16-给从事数据开发的同学们分享一下来自真实项目的数据管理经验](https://www.v2ex.com/t/887377) ![](assets/new.png)  
 - [2022-10-16-初试-Pyppeteer-爬虫,-直接访问不了网页,-Help-me-pls...](https://www.v2ex.com/t/887376) ![](assets/new.png)  
 - [2022-10-16-感觉周末时间没做啥就过去了，这是为啥？](https://www.v2ex.com/t/887374) ![](assets/new.png)  
-- [2022-10-16-现在传送文件都用什么？-FTP-方便快捷吗](https://www.v2ex.com/t/887373) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,9 +563,9 @@
 - [2022-10-16-凹语言支持-JetBrains-Fleet-语法高亮---OSCHINA---中文开源技术交流社区](https://toutiao.io/k/w5hlhsv) ![](assets/new.png)  
 - [2022-10-16-【开源】Mpx2.8-版本正式发布，使用组合式-API-开发小程序](https://toutiao.io/k/1xo8w0v) ![](assets/new.png)  
 - [2022-10-16-打造安全的Open-RAN](https://toutiao.io/k/oap0uwh) ![](assets/new.png)  
+- [2022-10-16-推荐-超实用！整理了-34-个-Python-自动化办公库](https://toutiao.io/k/5wihja2) ![](assets/new.png)  
 - [2022-10-16-推荐-130-个学术网站-26-个科研工具](https://toutiao.io/k/rw2dlfo) ![](assets/new.png)  
 - [2022-10-16-推荐-7000-字-+-24-张图带你彻底弄懂线程池](https://toutiao.io/k/wci1eno) ![](assets/new.png)  
-- [2022-10-16-推荐-超实用！整理了-34-个-Python-自动化办公库](https://toutiao.io/k/5wihja2) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

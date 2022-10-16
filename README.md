@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-16 23:17:56，:rocket: 更新条数: +2017， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-16 23:50:32，:rocket: 更新条数: +2017， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -553,19 +553,19 @@
 </summary>
 
 
-- [2022-10-16-流程引擎的架构设计](https://toutiao.io/k/3johyl2) ![](assets/new.png)  
-- [2022-10-16-轻松搞定亿级用户中心系统架构](https://toutiao.io/k/tlp6f9a) ![](assets/new.png)  
-- [2022-10-16-如何在-CentOS7-上搭建一套-ELK-系统？](https://toutiao.io/k/w3p5ee8) ![](assets/new.png)  
-- [2022-10-16-高并发整体可用性：一文详解降级、限流和熔断](https://toutiao.io/k/oh16qj7) ![](assets/new.png)  
-- [2022-10-16-Logstash、Fluentd、Fluent-Bit-还是-Vector？如何选择合适的开源日志收集器](https://toutiao.io/k/lfm3xkp) ![](assets/new.png)  
-- [2022-10-16-Flink-Unaligned-Checkpoint-在-Shopee-的优化和实践](https://toutiao.io/k/40oi4qm) ![](assets/new.png)  
-- [2022-10-16-ClickHouse-挺快，esProc-SPL-更快](https://toutiao.io/k/bbtd8ga) ![](assets/new.png)  
-- [2022-10-16-凹语言支持-JetBrains-Fleet-语法高亮---OSCHINA---中文开源技术交流社区](https://toutiao.io/k/w5hlhsv) ![](assets/new.png)  
-- [2022-10-16-【开源】Mpx2.8-版本正式发布，使用组合式-API-开发小程序](https://toutiao.io/k/1xo8w0v) ![](assets/new.png)  
-- [2022-10-16-打造安全的Open-RAN](https://toutiao.io/k/oap0uwh) ![](assets/new.png)  
+- [2022-10-16-31-个！Golang-常用工具来啦](https://toutiao.io/k/865huja) ![](assets/new.png)  
+- [2022-10-16-软件架构的-23-个基本原则](https://toutiao.io/k/mv00es0) ![](assets/new.png)  
+- [2022-10-16-CSS-container-queries-are-finally-here](https://toutiao.io/k/7el99bo) ![](assets/new.png)  
+- [2022-10-16-Java-互联网事实聊天系统（附源码）](https://toutiao.io/k/igkmny4) ![](assets/new.png)  
+- [2022-10-16-程序员必知的-“大数据”-基础知识](https://toutiao.io/k/qn3o149) ![](assets/new.png)  
+- [2022-10-16-VSCode-扩展之效率提升篇](https://toutiao.io/k/11wzrw8) ![](assets/new.png)  
+- [2022-10-16-Curve-存储可靠性实验体系](https://toutiao.io/k/lmdu4x6) ![](assets/new.png)  
+- [2022-10-16-Kubernetes-如何优雅地重启-Pod](https://toutiao.io/k/5ir8wfx) ![](assets/new.png)  
+- [2022-10-16-Spark-在大数据开发中的最佳实践](https://toutiao.io/k/i3heesj) ![](assets/new.png)  
+- [2022-10-16-微前端如何做样式隔离？](https://toutiao.io/k/oyqp2bc) ![](assets/new.png)  
+- [2022-10-16-推荐-超实用！整理了-34-个-Python-自动化办公库](https://toutiao.io/k/5wihja2) ![](assets/new.png)  
 - [2022-10-16-推荐-7000-字-+-24-张图带你彻底弄懂线程池](https://toutiao.io/k/wci1eno) ![](assets/new.png)  
 - [2022-10-16-推荐-130-个学术网站-26-个科研工具](https://toutiao.io/k/rw2dlfo) ![](assets/new.png)  
-- [2022-10-16-推荐-超实用！整理了-34-个-Python-自动化办公库](https://toutiao.io/k/5wihja2) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-16 23:17:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-16 23:50:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## CSS
 
@@ -13,3 +13,4 @@
 - [2022-08-24-来了，来了，CSS-:has伪类她来了](https://www.zhangxinxu.com/wordpress/2022/08/css-has-pseudo-class/) 
 - [2022-10-16-给网页全屏视频时加一个过渡动画好不好实现](https://www.v2ex.com/t/887371) 
 - [2022-10-16-给各位安利一部很有意思的美国动画《万神殿》，一部更具深度的《上载新生》](https://www.v2ex.com/t/887362) 
+- [2022-10-16-CSS-container-queries-are-finally-here](https://toutiao.io/k/7el99bo) 

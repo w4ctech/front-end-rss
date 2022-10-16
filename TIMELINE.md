@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-16 23:17:56。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-10-16 23:50:32。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -129,19 +129,19 @@
 - [【技术头条】2022-10-16-与日俱进，在-Go-1.20-中这种高效转换的方式又变了-colobu.com](https://blogread.cn/news/go.php?idItem=15386&url=https%3A%2F%2Fcolobu.com%2F2022%2F09%2F06%2Fstring-byte-convertion%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-16-10-大可以摧毁你的-Linux-的命令-linux.cn](https://blogread.cn/news/go.php?idItem=15385&url=https%3A%2F%2Flinux.cn%2Farticle-15022-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-16-如何在笔记本电脑合盖时不挂起-Ubuntu-linux.cn](https://blogread.cn/news/go.php?idItem=15384&url=https%3A%2F%2Flinux.cn%2Farticle-15015-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [【开发者头条】2022-10-16-流程引擎的架构设计](https://toutiao.io/k/3johyl2) 
-- [【开发者头条】2022-10-16-轻松搞定亿级用户中心系统架构](https://toutiao.io/k/tlp6f9a) 
-- [【开发者头条】2022-10-16-如何在-CentOS7-上搭建一套-ELK-系统？](https://toutiao.io/k/w3p5ee8) 
-- [【开发者头条】2022-10-16-高并发整体可用性：一文详解降级、限流和熔断](https://toutiao.io/k/oh16qj7) 
-- [【开发者头条】2022-10-16-Logstash、Fluentd、Fluent-Bit-还是-Vector？如何选择合适的开源日志收集器](https://toutiao.io/k/lfm3xkp) 
-- [【开发者头条】2022-10-16-Flink-Unaligned-Checkpoint-在-Shopee-的优化和实践](https://toutiao.io/k/40oi4qm) 
-- [【开发者头条】2022-10-16-ClickHouse-挺快，esProc-SPL-更快](https://toutiao.io/k/bbtd8ga) 
-- [【开发者头条】2022-10-16-凹语言支持-JetBrains-Fleet-语法高亮---OSCHINA---中文开源技术交流社区](https://toutiao.io/k/w5hlhsv) 
-- [【开发者头条】2022-10-16-【开源】Mpx2.8-版本正式发布，使用组合式-API-开发小程序](https://toutiao.io/k/1xo8w0v) 
-- [【开发者头条】2022-10-16-打造安全的Open-RAN](https://toutiao.io/k/oap0uwh) 
+- [【开发者头条】2022-10-16-31-个！Golang-常用工具来啦](https://toutiao.io/k/865huja) 
+- [【开发者头条】2022-10-16-软件架构的-23-个基本原则](https://toutiao.io/k/mv00es0) 
+- [【开发者头条】2022-10-16-CSS-container-queries-are-finally-here](https://toutiao.io/k/7el99bo) 
+- [【开发者头条】2022-10-16-Java-互联网事实聊天系统（附源码）](https://toutiao.io/k/igkmny4) 
+- [【开发者头条】2022-10-16-程序员必知的-“大数据”-基础知识](https://toutiao.io/k/qn3o149) 
+- [【开发者头条】2022-10-16-VSCode-扩展之效率提升篇](https://toutiao.io/k/11wzrw8) 
+- [【开发者头条】2022-10-16-Curve-存储可靠性实验体系](https://toutiao.io/k/lmdu4x6) 
+- [【开发者头条】2022-10-16-Kubernetes-如何优雅地重启-Pod](https://toutiao.io/k/5ir8wfx) 
+- [【开发者头条】2022-10-16-Spark-在大数据开发中的最佳实践](https://toutiao.io/k/i3heesj) 
+- [【开发者头条】2022-10-16-微前端如何做样式隔离？](https://toutiao.io/k/oyqp2bc) 
+- [【开发者头条】2022-10-16-推荐-超实用！整理了-34-个-Python-自动化办公库](https://toutiao.io/k/5wihja2) 
 - [【开发者头条】2022-10-16-推荐-7000-字-+-24-张图带你彻底弄懂线程池](https://toutiao.io/k/wci1eno) 
 - [【开发者头条】2022-10-16-推荐-130-个学术网站-26-个科研工具](https://toutiao.io/k/rw2dlfo) 
-- [【开发者头条】2022-10-16-推荐-超实用！整理了-34-个-Python-自动化办公库](https://toutiao.io/k/5wihja2) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

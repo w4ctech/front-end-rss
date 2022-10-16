@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-16 10:16:33，:rocket: 更新条数: +2009， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-16 10:48:48，:rocket: 更新条数: +2009， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-10-16-MacBook-Air-M1-版本-睡眠状态唤醒外接显示器的问题](https://www.v2ex.com/t/887339) ![](assets/new.png)  
+- [2022-10-16-时隔两年，又来了，找个-PHP-兼职合作，有稳定时间的,中级技术即可](https://www.v2ex.com/t/887338) ![](assets/new.png)  
+- [2022-10-16-Java-调用-c++-swig-第三方依赖](https://www.v2ex.com/t/887337) ![](assets/new.png)  
 - [2022-10-16-在自己的小程序实现单词翻译功能用哪里的-api-不侵权](https://www.v2ex.com/t/887335) ![](assets/new.png)  
 - [2022-10-16-Adguard-Home-存在的意义是什么？](https://www.v2ex.com/t/887334) ![](assets/new.png)  
 - [2022-10-16-连载一个桌面软件的改造过程-ClashNative](https://www.v2ex.com/t/887333) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-10-16-记录-正在远程办公的我被通知研发部需要持续-996-工作制到-11-月底](https://www.v2ex.com/t/887312) ![](assets/new.png)  
 - [2022-10-16-如何设置-iterm2-的-tab-title-跟随-window-title？](https://www.v2ex.com/t/887311) ![](assets/new.png)  
 - [2022-10-16-看到一个自制触摸屏拓展手机屏幕的视频，市面上有没有现成的？](https://www.v2ex.com/t/887309) ![](assets/new.png)  
-- [2022-10-16-艺爪付费---为网站-App-提供会员、订阅、内购付费功能](https://www.v2ex.com/t/887308) ![](assets/new.png)  
-- [2022-10-16-收入纳税证明细中有两家公司怎么办？](https://www.v2ex.com/t/887307) ![](assets/new.png)  
-- [2022-10-16-就差最后一步，-mac-就能基本满足我的需求了。](https://www.v2ex.com/t/887305) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-16 07:20:59，:rocket: 更新条数: +2012， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-16 07:46:16，:rocket: 更新条数: +2012， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-10-16-看到一个自制触摸屏拓展手机屏幕的视频，市面上有没有现成的？](https://www.v2ex.com/t/887309) ![](assets/new.png)  
+- [2022-10-16-艺爪付费---为网站-App-提供会员、订阅、内购付费功能](https://www.v2ex.com/t/887308) ![](assets/new.png)  
+- [2022-10-16-收入纳税证明细中有两家公司怎么办？](https://www.v2ex.com/t/887307) ![](assets/new.png)  
+- [2022-10-16-我是遇见本地的墙中墙了？](https://www.v2ex.com/t/887306) ![](assets/new.png)  
+- [2022-10-16-就差最后一步，-mac-就能基本满足我的需求了。](https://www.v2ex.com/t/887305) ![](assets/new.png)  
+- [2022-10-16-macos-12.6-外接-dell-u2720-无响应](https://www.v2ex.com/t/887303) ![](assets/new.png)  
 - [2022-10-16-写了个雅思随机单词自测小工具](https://www.v2ex.com/t/887302) ![](assets/new.png)  
 - [2022-10-16-突然发现，其实与其说喜欢折腾，不如说多巴胺成瘾](https://www.v2ex.com/t/887301) ![](assets/new.png)  
 - [2022-10-16-请教生活经验丰富的各位老哥，运动鞋，网面老是顶破怎么办？](https://www.v2ex.com/t/887300) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-10-16-Python-如何运行有交互的-Shell-命令](https://www.v2ex.com/t/887285) ![](assets/new.png)  
 - [2022-10-16-macbook-air-m1-的硬盘读写](https://www.v2ex.com/t/887284) ![](assets/new.png)  
 - [2022-10-16-海外-全职，技术研发部诚聘-PHP-开发工程师，高级运维工程师。](https://www.v2ex.com/t/887281) ![](assets/new.png)  
-- [2022-10-16-找一个反编汇技术，-O-文件需要反编译](https://www.v2ex.com/t/887280) ![](assets/new.png)  
-- [2022-10-16-想找个项目做，资金我出。](https://www.v2ex.com/t/887279) ![](assets/new.png)  
-- [2022-10-16-mac-上的柠檬清理状态栏清理了什么](https://www.v2ex.com/t/887278) ![](assets/new.png)  
-- [2022-10-16-为什么这么贵????太黑了](https://www.v2ex.com/t/887277) ![](assets/new.png)  
-- [2022-10-16-大家在公司都是怎么深拷贝/浅拷贝实体类的？](https://www.v2ex.com/t/887276) ![](assets/new.png)  
-- [2022-10-16-有没有一款-ipa-可以运行-CarPlay-上并且可以把爱奇艺优酷等视频投上去](https://www.v2ex.com/t/887275) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,8 +563,8 @@
 - [2022-10-16-【开源】Mpx2.8-版本正式发布，使用组合式-API-开发小程序](https://toutiao.io/k/1xo8w0v) ![](assets/new.png)  
 - [2022-10-16-凹语言支持-JetBrains-Fleet-语法高亮---OSCHINA---中文开源技术交流社区](https://toutiao.io/k/w5hlhsv) ![](assets/new.png)  
 - [2022-10-16-打造安全的Open-RAN](https://toutiao.io/k/oap0uwh) ![](assets/new.png)  
-- [2022-10-16-推荐-超实用！整理了-34-个-Python-自动化办公库](https://toutiao.io/k/5wihja2) ![](assets/new.png)  
 - [2022-10-16-推荐-7000-字-+-24-张图带你彻底弄懂线程池](https://toutiao.io/k/wci1eno) ![](assets/new.png)  
+- [2022-10-16-推荐-超实用！整理了-34-个-Python-自动化办公库](https://toutiao.io/k/5wihja2) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

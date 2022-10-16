@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-10-16 07:20:59。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-16 07:46:17。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -235,6 +235,7 @@
 
 - [【武汉肺炎防疫全纪录(财新网)】广州17岁男生在定点医院参加高考-特殊考场视频监考](https://m.caixin.com/m/2021-06-05/101723418.html)
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
+- [【V2EX】看到一个自制触摸屏拓展手机屏幕的视频，市面上有没有现成的？](https://www.v2ex.com/t/887309)
 - [【V2EX】有没有一款-ipa-可以运行-CarPlay-上并且可以把爱奇艺优酷等视频投上去](https://www.v2ex.com/t/887275)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
@@ -252,7 +253,6 @@
 
 
 
-- [【V2EX】高性能-mysql-出第-4-版了](https://www.v2ex.com/t/887259)
 - [【开发者头条】Flink-Unaligned-Checkpoint-在-Shopee-的优化和实践](https://toutiao.io/k/40oi4qm)
 - [......【查看更多】......](./details/tags/optimization.md)
 

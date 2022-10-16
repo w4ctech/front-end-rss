@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-16 11:14:10，:rocket: 更新条数: +2011， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-16 11:41:45，:rocket: 更新条数: +2011， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-10-16-深圳电信桥接降速？](https://www.v2ex.com/t/887345) ![](assets/new.png)  
+- [2022-10-16-github-上-go-库更新后，本地-go-get-有巨大延迟，怎么解决？](https://www.v2ex.com/t/887344) ![](assets/new.png)  
 - [2022-10-16-广东-IPTV-看-4K-频道卡顿，你们的也是吗？](https://www.v2ex.com/t/887343) ![](assets/new.png)  
 - [2022-10-16-Qspace-怎么使用-rsync-同步文件？](https://www.v2ex.com/t/887341) ![](assets/new.png)  
 - [2022-10-16-看中了一台锐龙小主机，内部有办法加-4g-模块么？](https://www.v2ex.com/t/887340) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-10-16-淘宝上的礼品卡的出处？](https://www.v2ex.com/t/887324) ![](assets/new.png)  
 - [2022-10-16-飞书在线文档下载](https://www.v2ex.com/t/887321) ![](assets/new.png)  
 - [2022-10-16-Linux-笔记本------thinkpad-T14-性价比整理](https://www.v2ex.com/t/887320) ![](assets/new.png)  
-- [2022-10-16-淘宝真的是越来越烂了。](https://www.v2ex.com/t/887318) ![](assets/new.png)  
-- [2022-10-16-一个简单部署的-Stable-Diffusion-Model，体验自由图像生成](https://www.v2ex.com/t/887314) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

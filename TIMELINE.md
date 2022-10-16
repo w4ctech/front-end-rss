@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-16 11:14:10。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-10-16 11:41:45。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,8 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-12-CSS-::file-selector-button伪元素简介](https://www.zhangxinxu.com/wordpress/2022/10/css-file-selector-button/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-12-更符合书写习惯的CSS媒体查询Range语法](https://www.zhangxinxu.com/wordpress/2022/10/css-media-range-syntax/) 
+- [【V2EX】2022-10-16-深圳电信桥接降速？](https://www.v2ex.com/t/887345) 
+- [【V2EX】2022-10-16-github-上-go-库更新后，本地-go-get-有巨大延迟，怎么解决？](https://www.v2ex.com/t/887344) 
 - [【V2EX】2022-10-16-广东-IPTV-看-4K-频道卡顿，你们的也是吗？](https://www.v2ex.com/t/887343) 
 - [【V2EX】2022-10-16-Qspace-怎么使用-rsync-同步文件？](https://www.v2ex.com/t/887341) 
 - [【V2EX】2022-10-16-看中了一台锐龙小主机，内部有办法加-4g-模块么？](https://www.v2ex.com/t/887340) 
@@ -101,8 +103,6 @@
 - [【V2EX】2022-10-16-突然发现，其实与其说喜欢折腾，不如说多巴胺成瘾](https://www.v2ex.com/t/887301) 
 - [【V2EX】2022-10-16-请教生活经验丰富的各位老哥，运动鞋，网面老是顶破怎么办？](https://www.v2ex.com/t/887300) 
 - [【V2EX】2022-10-16-生活有些迷茫](https://www.v2ex.com/t/887299) 
-- [【V2EX】2022-10-16-求推荐-2022-年网盘](https://www.v2ex.com/t/887297) 
-- [【V2EX】2022-10-16-自知之明](https://www.v2ex.com/t/887296) 
 - [【技术头条】2022-10-16-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-16-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-16-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

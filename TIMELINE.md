@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-16 05:15:35。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-10-16 06:02:04。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,14 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-12-CSS-::file-selector-button伪元素简介](https://www.zhangxinxu.com/wordpress/2022/10/css-file-selector-button/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-12-更符合书写习惯的CSS媒体查询Range语法](https://www.zhangxinxu.com/wordpress/2022/10/css-media-range-syntax/) 
+- [【V2EX】2022-10-16-有没有备份软件推荐？](https://www.v2ex.com/t/887288) 
+- [【V2EX】2022-10-16-用了-aws-nlb-之后偶发性-tcp-握手延迟](https://www.v2ex.com/t/887287) 
+- [【V2EX】2022-10-16-RGB-与-YUV-相互转换](https://www.v2ex.com/t/887286) 
+- [【V2EX】2022-10-16-Python-如何运行有交互的-Shell-命令](https://www.v2ex.com/t/887285) 
+- [【V2EX】2022-10-16-macbook-air-m1-的硬盘读写](https://www.v2ex.com/t/887284) 
+- [【V2EX】2022-10-16-海外-全职，技术研发部诚聘-PHP-开发工程师，高级运维工程师。](https://www.v2ex.com/t/887281) 
+- [【V2EX】2022-10-16-找一个反编汇技术，-O-文件需要反编译](https://www.v2ex.com/t/887280) 
+- [【V2EX】2022-10-16-想找个项目做，资金我出。](https://www.v2ex.com/t/887279) 
 - [【V2EX】2022-10-16-mac-上的柠檬清理状态栏清理了什么](https://www.v2ex.com/t/887278) 
 - [【V2EX】2022-10-16-为什么这么贵????太黑了](https://www.v2ex.com/t/887277) 
 - [【V2EX】2022-10-16-大家在公司都是怎么深拷贝/浅拷贝实体类的？](https://www.v2ex.com/t/887276) 
@@ -101,12 +109,6 @@
 - [【V2EX】2022-10-16-有大佬知道-SAP-SD，-SAP-PP-这些岗位这些具体是干啥的吗？](https://www.v2ex.com/t/887241) 
 - [【V2EX】2022-10-16-现在是否已经有文本阅读达到真人效果的技术](https://www.v2ex.com/t/887240) 
 - [【V2EX】2022-10-16-有手机和手表的双向无线充电器推荐么？](https://www.v2ex.com/t/887239) 
-- [【V2EX】2022-10-16-最近想捣鼓一个域名邮箱？](https://www.v2ex.com/t/887236) 
-- [【V2EX】2022-10-16-MacBook-Pro-如何设置不显示扩展屏](https://www.v2ex.com/t/887235) 
-- [【V2EX】2022-10-16-对玩家来说，你会支持游戏局域网联机吗？](https://www.v2ex.com/t/887234) 
-- [【V2EX】2022-10-16-分享一下成都电信-IPTV-300+-直播频道的组播地址表，用-udpxy-转换不需电信盒子在家任何地方直接观看](https://www.v2ex.com/t/887233) 
-- [【V2EX】2022-10-15-BIOS-里没有关闭硬盘的选项，双硬盘双系统如何互相隔离？](https://www.v2ex.com/t/887230) 
-- [【V2EX】2022-10-15-c/c++多线程读写问题，怎么反驳?](https://www.v2ex.com/t/887229) 
 - [【技术头条】2022-10-16-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-16-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-16-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -135,6 +137,8 @@
 - [【开发者头条】2022-10-16-Flink-Unaligned-Checkpoint-在-Shopee-的优化和实践](https://toutiao.io/k/40oi4qm) 
 - [【开发者头条】2022-10-16-ClickHouse-挺快，esProc-SPL-更快](https://toutiao.io/k/bbtd8ga) 
 - [【开发者头条】2022-10-16-【开源】Mpx2.8-版本正式发布，使用组合式-API-开发小程序](https://toutiao.io/k/1xo8w0v) 
+- [【开发者头条】2022-10-16-凹语言支持-JetBrains-Fleet-语法高亮---OSCHINA---中文开源技术交流社区](https://toutiao.io/k/w5hlhsv) 
+- [【开发者头条】2022-10-16-打造安全的Open-RAN](https://toutiao.io/k/oap0uwh) 
 - [【开发者头条】2022-10-16-推荐-7000-字-+-24-张图带你彻底弄懂线程池](https://toutiao.io/k/wci1eno) 
 - [【开发者头条】2022-10-16-推荐-超实用！整理了-34-个-Python-自动化办公库](https://toutiao.io/k/5wihja2) 
 

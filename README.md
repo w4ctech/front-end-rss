@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-16 05:15:35，:rocket: 更新条数: +2013， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-16 06:02:04，:rocket: 更新条数: +2017， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,14 @@
 </summary>
 
 
+- [2022-10-16-有没有备份软件推荐？](https://www.v2ex.com/t/887288) ![](assets/new.png)  
+- [2022-10-16-用了-aws-nlb-之后偶发性-tcp-握手延迟](https://www.v2ex.com/t/887287) ![](assets/new.png)  
+- [2022-10-16-RGB-与-YUV-相互转换](https://www.v2ex.com/t/887286) ![](assets/new.png)  
+- [2022-10-16-Python-如何运行有交互的-Shell-命令](https://www.v2ex.com/t/887285) ![](assets/new.png)  
+- [2022-10-16-macbook-air-m1-的硬盘读写](https://www.v2ex.com/t/887284) ![](assets/new.png)  
+- [2022-10-16-海外-全职，技术研发部诚聘-PHP-开发工程师，高级运维工程师。](https://www.v2ex.com/t/887281) ![](assets/new.png)  
+- [2022-10-16-找一个反编汇技术，-O-文件需要反编译](https://www.v2ex.com/t/887280) ![](assets/new.png)  
+- [2022-10-16-想找个项目做，资金我出。](https://www.v2ex.com/t/887279) ![](assets/new.png)  
 - [2022-10-16-mac-上的柠檬清理状态栏清理了什么](https://www.v2ex.com/t/887278) ![](assets/new.png)  
 - [2022-10-16-为什么这么贵????太黑了](https://www.v2ex.com/t/887277) ![](assets/new.png)  
 - [2022-10-16-大家在公司都是怎么深拷贝/浅拷贝实体类的？](https://www.v2ex.com/t/887276) ![](assets/new.png)  
@@ -503,14 +511,6 @@
 - [2022-10-16-心碎前端求工作](https://www.v2ex.com/t/887265) ![](assets/new.png)  
 - [2022-10-16-lvgljs，用-JS-来写-lvgl-UI](https://www.v2ex.com/t/887263) ![](assets/new.png)  
 - [2022-10-16-想换小米-12s，问下双卡相关问题](https://www.v2ex.com/t/887262) ![](assets/new.png)  
-- [2022-10-16-经过服务器推送的消息是加密的吗](https://www.v2ex.com/t/887260) ![](assets/new.png)  
-- [2022-10-16-高性能-mysql-出第-4-版了](https://www.v2ex.com/t/887259) ![](assets/new.png)  
-- [2022-10-16-16.0.3-有碰到屏幕乱跳的吗](https://www.v2ex.com/t/887257) ![](assets/new.png)  
-- [2022-10-16-Maoxian-网摘插件下架了，有没有代替品？](https://www.v2ex.com/t/887256) ![](assets/new.png)  
-- [2022-10-16-YUV-色彩空间](https://www.v2ex.com/t/887254) ![](assets/new.png)  
-- [2022-10-16-深圳-web3+币圈-公司-急招开发/产品，待遇超大厂，大部分时间-remote](https://www.v2ex.com/t/887253) ![](assets/new.png)  
-- [2022-10-16-开始使用-Yubikey](https://www.v2ex.com/t/887251) ![](assets/new.png)  
-- [2022-10-16-关于鼠标悬停在文字上显示原文对照---谷歌网页翻译](https://www.v2ex.com/t/887250) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -561,6 +561,8 @@
 - [2022-10-16-Flink-Unaligned-Checkpoint-在-Shopee-的优化和实践](https://toutiao.io/k/40oi4qm) ![](assets/new.png)  
 - [2022-10-16-ClickHouse-挺快，esProc-SPL-更快](https://toutiao.io/k/bbtd8ga) ![](assets/new.png)  
 - [2022-10-16-【开源】Mpx2.8-版本正式发布，使用组合式-API-开发小程序](https://toutiao.io/k/1xo8w0v) ![](assets/new.png)  
+- [2022-10-16-凹语言支持-JetBrains-Fleet-语法高亮---OSCHINA---中文开源技术交流社区](https://toutiao.io/k/w5hlhsv) ![](assets/new.png)  
+- [2022-10-16-打造安全的Open-RAN](https://toutiao.io/k/oap0uwh) ![](assets/new.png)  
 - [2022-10-16-推荐-7000-字-+-24-张图带你彻底弄懂线程池](https://toutiao.io/k/wci1eno) ![](assets/new.png)  
 - [2022-10-16-推荐-超实用！整理了-34-个-Python-自动化办公库](https://toutiao.io/k/5wihja2) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)

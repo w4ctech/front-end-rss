@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-16 14:20:31。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-10-16 14:45:43。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -71,6 +71,9 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-10-16-2022年新出了哪些form表单新特性？](https://www.zhangxinxu.com/wordpress/2022/10/2022-new-form-property/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-12-CSS-::file-selector-button伪元素简介](https://www.zhangxinxu.com/wordpress/2022/10/css-file-selector-button/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-12-更符合书写习惯的CSS媒体查询Range语法](https://www.zhangxinxu.com/wordpress/2022/10/css-media-range-syntax/) 
+- [【V2EX】2022-10-16-服务器-IPv4-接连被封杀？！](https://www.v2ex.com/t/887379) 
+- [【V2EX】2022-10-16-一个生成-cron-中文描述的-JS-库](https://www.v2ex.com/t/887378) 
+- [【V2EX】2022-10-16-给从事数据开发的同学们分享一下来自真实项目的数据管理经验](https://www.v2ex.com/t/887377) 
 - [【V2EX】2022-10-16-初试-Pyppeteer-爬虫,-直接访问不了网页,-Help-me-pls...](https://www.v2ex.com/t/887376) 
 - [【V2EX】2022-10-16-感觉周末时间没做啥就过去了，这是为啥？](https://www.v2ex.com/t/887374) 
 - [【V2EX】2022-10-16-现在传送文件都用什么？-FTP-方便快捷吗](https://www.v2ex.com/t/887373) 
@@ -106,9 +109,6 @@
 - [【V2EX】2022-10-16-连载一个桌面软件的改造过程-ClashNative](https://www.v2ex.com/t/887333) 
 - [【V2EX】2022-10-16-做了一个-for-macOS-的英文游戏站-...](https://www.v2ex.com/t/887332) 
 - [【V2EX】2022-10-16-对于有商业机密的源码，你们是怎么处理的？](https://www.v2ex.com/t/887330) 
-- [【V2EX】2022-10-16-国际机票采集有什么-API-可用吗？](https://www.v2ex.com/t/887329) 
-- [【V2EX】2022-10-16-感觉做算法还没有-CRUD-好](https://www.v2ex.com/t/887328) 
-- [【V2EX】2022-10-16-The-Data-School](https://www.v2ex.com/t/887327) 
 - [【技术头条】2022-10-16-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-16-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-16-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

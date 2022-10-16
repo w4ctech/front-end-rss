@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-16 14:20:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-16 14:45:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1914,6 +1914,8 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-10-16-服务器-IPv4-接连被封杀？！](https://www.v2ex.com/t/887379) 
+- [2022-10-16-给从事数据开发的同学们分享一下来自真实项目的数据管理经验](https://www.v2ex.com/t/887377) 
 - [2022-10-16-初试-Pyppeteer-爬虫,-直接访问不了网页,-Help-me-pls...](https://www.v2ex.com/t/887376) 
 - [2022-10-16-感觉周末时间没做啥就过去了，这是为啥？](https://www.v2ex.com/t/887374) 
 - [2022-10-16-现在传送文件都用什么？-FTP-方便快捷吗](https://www.v2ex.com/t/887373) 
@@ -1941,8 +1943,6 @@
 - [2022-10-16-Adguard-Home-存在的意义是什么？](https://www.v2ex.com/t/887334) 
 - [2022-10-16-连载一个桌面软件的改造过程-ClashNative](https://www.v2ex.com/t/887333) 
 - [2022-10-16-对于有商业机密的源码，你们是怎么处理的？](https://www.v2ex.com/t/887330) 
-- [2022-10-16-国际机票采集有什么-API-可用吗？](https://www.v2ex.com/t/887329) 
-- [2022-10-16-The-Data-School](https://www.v2ex.com/t/887327) 
 - [2022-10-16-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-16-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-16-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

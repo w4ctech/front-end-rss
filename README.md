@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-16 10:48:48，:rocket: 更新条数: +2009， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-16 11:14:10，:rocket: 更新条数: +2011， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-10-16-广东-IPTV-看-4K-频道卡顿，你们的也是吗？](https://www.v2ex.com/t/887343) ![](assets/new.png)  
+- [2022-10-16-Qspace-怎么使用-rsync-同步文件？](https://www.v2ex.com/t/887341) ![](assets/new.png)  
+- [2022-10-16-看中了一台锐龙小主机，内部有办法加-4g-模块么？](https://www.v2ex.com/t/887340) ![](assets/new.png)  
 - [2022-10-16-MacBook-Air-M1-版本-睡眠状态唤醒外接显示器的问题](https://www.v2ex.com/t/887339) ![](assets/new.png)  
 - [2022-10-16-时隔两年，又来了，找个-PHP-兼职合作，有稳定时间的,中级技术即可](https://www.v2ex.com/t/887338) ![](assets/new.png)  
 - [2022-10-16-Java-调用-c++-swig-第三方依赖](https://www.v2ex.com/t/887337) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-10-16-Linux-笔记本------thinkpad-T14-性价比整理](https://www.v2ex.com/t/887320) ![](assets/new.png)  
 - [2022-10-16-淘宝真的是越来越烂了。](https://www.v2ex.com/t/887318) ![](assets/new.png)  
 - [2022-10-16-一个简单部署的-Stable-Diffusion-Model，体验自由图像生成](https://www.v2ex.com/t/887314) ![](assets/new.png)  
-- [2022-10-16-记录-正在远程办公的我被通知研发部需要持续-996-工作制到-11-月底](https://www.v2ex.com/t/887312) ![](assets/new.png)  
-- [2022-10-16-如何设置-iterm2-的-tab-title-跟随-window-title？](https://www.v2ex.com/t/887311) ![](assets/new.png)  
-- [2022-10-16-看到一个自制触摸屏拓展手机屏幕的视频，市面上有没有现成的？](https://www.v2ex.com/t/887309) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

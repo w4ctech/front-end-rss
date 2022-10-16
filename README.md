@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-16 06:38:27，:rocket: 更新条数: +2012， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-16 07:20:59，:rocket: 更新条数: +2012， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-10-16-写了个雅思随机单词自测小工具](https://www.v2ex.com/t/887302) ![](assets/new.png)  
+- [2022-10-16-突然发现，其实与其说喜欢折腾，不如说多巴胺成瘾](https://www.v2ex.com/t/887301) ![](assets/new.png)  
+- [2022-10-16-请教生活经验丰富的各位老哥，运动鞋，网面老是顶破怎么办？](https://www.v2ex.com/t/887300) ![](assets/new.png)  
+- [2022-10-16-生活有些迷茫](https://www.v2ex.com/t/887299) ![](assets/new.png)  
+- [2022-10-16-求推荐-2022-年网盘](https://www.v2ex.com/t/887297) ![](assets/new.png)  
+- [2022-10-16-自知之明](https://www.v2ex.com/t/887296) ![](assets/new.png)  
 - [2022-10-16-Moving-From-React-to-htmx](https://www.v2ex.com/t/887291) ![](assets/new.png)  
 - [2022-10-16-做了个-0-学习成本的低保真产品原型绘制工具，类似-Balsamiq，基于-Figma-插件，有人想试用吗？](https://www.v2ex.com/t/887289) ![](assets/new.png)  
 - [2022-10-16-有没有备份软件推荐？](https://www.v2ex.com/t/887288) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-10-16-为什么这么贵????太黑了](https://www.v2ex.com/t/887277) ![](assets/new.png)  
 - [2022-10-16-大家在公司都是怎么深拷贝/浅拷贝实体类的？](https://www.v2ex.com/t/887276) ![](assets/new.png)  
 - [2022-10-16-有没有一款-ipa-可以运行-CarPlay-上并且可以把爱奇艺优酷等视频投上去](https://www.v2ex.com/t/887275) ![](assets/new.png)  
-- [2022-10-16-YubiKey-5C-NFC-插上-MacBook-之后会挡住另一个-USB-C-口吗？](https://www.v2ex.com/t/887273) ![](assets/new.png)  
-- [2022-10-16-A-Port-of-Tcl-to-Go](https://www.v2ex.com/t/887272) ![](assets/new.png)  
-- [2022-10-16-Python-程序修改](https://www.v2ex.com/t/887269) ![](assets/new.png)  
-- [2022-10-16-现在怎样才能买到全新-NS-卡带呢](https://www.v2ex.com/t/887268) ![](assets/new.png)  
-- [2022-10-16-有没有干过大车司机的？](https://www.v2ex.com/t/887266) ![](assets/new.png)  
-- [2022-10-16-心碎前端求工作](https://www.v2ex.com/t/887265) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,8 +563,8 @@
 - [2022-10-16-【开源】Mpx2.8-版本正式发布，使用组合式-API-开发小程序](https://toutiao.io/k/1xo8w0v) ![](assets/new.png)  
 - [2022-10-16-凹语言支持-JetBrains-Fleet-语法高亮---OSCHINA---中文开源技术交流社区](https://toutiao.io/k/w5hlhsv) ![](assets/new.png)  
 - [2022-10-16-打造安全的Open-RAN](https://toutiao.io/k/oap0uwh) ![](assets/new.png)  
-- [2022-10-16-推荐-7000-字-+-24-张图带你彻底弄懂线程池](https://toutiao.io/k/wci1eno) ![](assets/new.png)  
 - [2022-10-16-推荐-超实用！整理了-34-个-Python-自动化办公库](https://toutiao.io/k/5wihja2) ![](assets/new.png)  
+- [2022-10-16-推荐-7000-字-+-24-张图带你彻底弄懂线程池](https://toutiao.io/k/wci1eno) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-16 06:38:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-16 07:20:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1914,6 +1914,12 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-10-16-写了个雅思随机单词自测小工具](https://www.v2ex.com/t/887302) 
+- [2022-10-16-突然发现，其实与其说喜欢折腾，不如说多巴胺成瘾](https://www.v2ex.com/t/887301) 
+- [2022-10-16-请教生活经验丰富的各位老哥，运动鞋，网面老是顶破怎么办？](https://www.v2ex.com/t/887300) 
+- [2022-10-16-生活有些迷茫](https://www.v2ex.com/t/887299) 
+- [2022-10-16-求推荐-2022-年网盘](https://www.v2ex.com/t/887297) 
+- [2022-10-16-自知之明](https://www.v2ex.com/t/887296) 
 - [2022-10-16-做了个-0-学习成本的低保真产品原型绘制工具，类似-Balsamiq，基于-Figma-插件，有人想试用吗？](https://www.v2ex.com/t/887289) 
 - [2022-10-16-有没有备份软件推荐？](https://www.v2ex.com/t/887288) 
 - [2022-10-16-用了-aws-nlb-之后偶发性-tcp-握手延迟](https://www.v2ex.com/t/887287) 
@@ -1936,11 +1942,6 @@
 - [2022-10-16-Maoxian-网摘插件下架了，有没有代替品？](https://www.v2ex.com/t/887256) 
 - [2022-10-16-YUV-色彩空间](https://www.v2ex.com/t/887254) 
 - [2022-10-16-深圳-web3+币圈-公司-急招开发/产品，待遇超大厂，大部分时间-remote](https://www.v2ex.com/t/887253) 
-- [2022-10-16-开始使用-Yubikey](https://www.v2ex.com/t/887251) 
-- [2022-10-16-关于鼠标悬停在文字上显示原文对照---谷歌网页翻译](https://www.v2ex.com/t/887250) 
-- [2022-10-16-你有冥想的习惯吗？](https://www.v2ex.com/t/887249) 
-- [2022-10-16-接两年前的帖子：一线城市的生活成本真的高嘛？](https://www.v2ex.com/t/887248) 
-- [2022-10-16-微信聊天记录迁移到电脑功能今天突然找不到了](https://www.v2ex.com/t/887247) 
 - [2022-10-16-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-16-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-16-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1966,5 +1967,5 @@
 - [2022-10-16-Logstash、Fluentd、Fluent-Bit-还是-Vector？如何选择合适的开源日志收集器](https://toutiao.io/k/lfm3xkp) 
 - [2022-10-16-ClickHouse-挺快，esProc-SPL-更快](https://toutiao.io/k/bbtd8ga) 
 - [2022-10-16-凹语言支持-JetBrains-Fleet-语法高亮---OSCHINA---中文开源技术交流社区](https://toutiao.io/k/w5hlhsv) 
-- [2022-10-16-推荐-7000-字-+-24-张图带你彻底弄懂线程池](https://toutiao.io/k/wci1eno) 
 - [2022-10-16-推荐-超实用！整理了-34-个-Python-自动化办公库](https://toutiao.io/k/5wihja2) 
+- [2022-10-16-推荐-7000-字-+-24-张图带你彻底弄懂线程池](https://toutiao.io/k/wci1eno) 

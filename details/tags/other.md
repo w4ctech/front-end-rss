@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-16 15:16:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-16 15:49:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1914,6 +1914,10 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-10-16-Visual-Studio-Code-装了-Copilot-无法激活和使用？](https://www.v2ex.com/t/887389) 
+- [2022-10-16-大陆如何注册-crypto](https://www.v2ex.com/t/887388) 
+- [2022-10-16-cloudflare-问下-cloudflare-上面的-24-小时独立-IP-访问-准不准](https://www.v2ex.com/t/887387) 
+- [2022-10-16-又来求职了-4-年-Java-后端-base-上海](https://www.v2ex.com/t/887385) 
 - [2022-10-16-20221016-午夜俱乐部](https://www.v2ex.com/t/887384) 
 - [2022-10-16-米娜，铁通还有宽带业务嘛？](https://www.v2ex.com/t/887381) 
 - [2022-10-16-给从事数据开发的同学们分享一下来自真实项目的数据管理经验](https://www.v2ex.com/t/887377) 
@@ -1938,9 +1942,6 @@
 - [2022-10-16-广东-IPTV-看-4K-频道卡顿，你们的也是吗？](https://www.v2ex.com/t/887343) 
 - [2022-10-16-Qspace-怎么使用-rsync-同步文件？](https://www.v2ex.com/t/887341) 
 - [2022-10-16-看中了一台锐龙小主机，内部有办法加-4g-模块么？](https://www.v2ex.com/t/887340) 
-- [2022-10-16-MacBook-Air-M1-版本-睡眠状态唤醒外接显示器的问题](https://www.v2ex.com/t/887339) 
-- [2022-10-16-时隔两年，又来了，找个-PHP-兼职合作，有稳定时间的,中级技术即可](https://www.v2ex.com/t/887338) 
-- [2022-10-16-Java-调用-c++-swig-第三方依赖](https://www.v2ex.com/t/887337) 
 - [2022-10-16-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-16-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-16-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1966,5 +1967,5 @@
 - [2022-10-16-Logstash、Fluentd、Fluent-Bit-还是-Vector？如何选择合适的开源日志收集器](https://toutiao.io/k/lfm3xkp) 
 - [2022-10-16-ClickHouse-挺快，esProc-SPL-更快](https://toutiao.io/k/bbtd8ga) 
 - [2022-10-16-凹语言支持-JetBrains-Fleet-语法高亮---OSCHINA---中文开源技术交流社区](https://toutiao.io/k/w5hlhsv) 
-- [2022-10-16-推荐-7000-字-+-24-张图带你彻底弄懂线程池](https://toutiao.io/k/wci1eno) 
 - [2022-10-16-推荐-超实用！整理了-34-个-Python-自动化办公库](https://toutiao.io/k/5wihja2) 
+- [2022-10-16-推荐-7000-字-+-24-张图带你彻底弄懂线程池](https://toutiao.io/k/wci1eno) 

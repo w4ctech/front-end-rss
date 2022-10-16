@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-16 15:16:45。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-10-16 15:49:14。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -71,6 +71,11 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-10-16-2022年新出了哪些form表单新特性？](https://www.zhangxinxu.com/wordpress/2022/10/2022-new-form-property/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-12-CSS-::file-selector-button伪元素简介](https://www.zhangxinxu.com/wordpress/2022/10/css-file-selector-button/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-12-更符合书写习惯的CSS媒体查询Range语法](https://www.zhangxinxu.com/wordpress/2022/10/css-media-range-syntax/) 
+- [【V2EX】2022-10-16-Visual-Studio-Code-装了-Copilot-无法激活和使用？](https://www.v2ex.com/t/887389) 
+- [【V2EX】2022-10-16-大陆如何注册-crypto](https://www.v2ex.com/t/887388) 
+- [【V2EX】2022-10-16-cloudflare-问下-cloudflare-上面的-24-小时独立-IP-访问-准不准](https://www.v2ex.com/t/887387) 
+- [【V2EX】2022-10-16-NAS-能备份-Docker-和-GitLab-不能？](https://www.v2ex.com/t/887386) 
+- [【V2EX】2022-10-16-又来求职了-4-年-Java-后端-base-上海](https://www.v2ex.com/t/887385) 
 - [【V2EX】2022-10-16-20221016-午夜俱乐部](https://www.v2ex.com/t/887384) 
 - [【V2EX】2022-10-16-pycharm-导入错误ImportError:-cannot-import-name-'launch'-from-partially-initialized-module-'pyppeteer'](https://www.v2ex.com/t/887383) 
 - [【V2EX】2022-10-16-Golang/Rust-项目-工作流---你只需要构建一次](https://www.v2ex.com/t/887382) 
@@ -104,10 +109,6 @@
 - [【V2EX】2022-10-16-广东-IPTV-看-4K-频道卡顿，你们的也是吗？](https://www.v2ex.com/t/887343) 
 - [【V2EX】2022-10-16-Qspace-怎么使用-rsync-同步文件？](https://www.v2ex.com/t/887341) 
 - [【V2EX】2022-10-16-看中了一台锐龙小主机，内部有办法加-4g-模块么？](https://www.v2ex.com/t/887340) 
-- [【V2EX】2022-10-16-MacBook-Air-M1-版本-睡眠状态唤醒外接显示器的问题](https://www.v2ex.com/t/887339) 
-- [【V2EX】2022-10-16-时隔两年，又来了，找个-PHP-兼职合作，有稳定时间的,中级技术即可](https://www.v2ex.com/t/887338) 
-- [【V2EX】2022-10-16-Java-调用-c++-swig-第三方依赖](https://www.v2ex.com/t/887337) 
-- [【V2EX】2022-10-16-在自己的小程序实现单词翻译功能用哪里的-api-不侵权](https://www.v2ex.com/t/887335) 
 - [【技术头条】2022-10-16-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-16-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-16-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -138,8 +139,8 @@
 - [【开发者头条】2022-10-16-凹语言支持-JetBrains-Fleet-语法高亮---OSCHINA---中文开源技术交流社区](https://toutiao.io/k/w5hlhsv) 
 - [【开发者头条】2022-10-16-【开源】Mpx2.8-版本正式发布，使用组合式-API-开发小程序](https://toutiao.io/k/1xo8w0v) 
 - [【开发者头条】2022-10-16-打造安全的Open-RAN](https://toutiao.io/k/oap0uwh) 
-- [【开发者头条】2022-10-16-推荐-7000-字-+-24-张图带你彻底弄懂线程池](https://toutiao.io/k/wci1eno) 
 - [【开发者头条】2022-10-16-推荐-超实用！整理了-34-个-Python-自动化办公库](https://toutiao.io/k/5wihja2) 
+- [【开发者头条】2022-10-16-推荐-7000-字-+-24-张图带你彻底弄懂线程池](https://toutiao.io/k/wci1eno) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

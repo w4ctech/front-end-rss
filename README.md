@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-16 09:47:41，:rocket: 更新条数: +2009， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-16 10:16:33，:rocket: 更新条数: +2009， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-10-16-在自己的小程序实现单词翻译功能用哪里的-api-不侵权](https://www.v2ex.com/t/887335) ![](assets/new.png)  
+- [2022-10-16-Adguard-Home-存在的意义是什么？](https://www.v2ex.com/t/887334) ![](assets/new.png)  
+- [2022-10-16-连载一个桌面软件的改造过程-ClashNative](https://www.v2ex.com/t/887333) ![](assets/new.png)  
+- [2022-10-16-做了一个-for-macOS-的英文游戏站-...](https://www.v2ex.com/t/887332) ![](assets/new.png)  
 - [2022-10-16-对于有商业机密的源码，你们是怎么处理的？](https://www.v2ex.com/t/887330) ![](assets/new.png)  
 - [2022-10-16-国际机票采集有什么-API-可用吗？](https://www.v2ex.com/t/887329) ![](assets/new.png)  
 - [2022-10-16-感觉做算法还没有-CRUD-好](https://www.v2ex.com/t/887328) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-10-16-艺爪付费---为网站-App-提供会员、订阅、内购付费功能](https://www.v2ex.com/t/887308) ![](assets/new.png)  
 - [2022-10-16-收入纳税证明细中有两家公司怎么办？](https://www.v2ex.com/t/887307) ![](assets/new.png)  
 - [2022-10-16-就差最后一步，-mac-就能基本满足我的需求了。](https://www.v2ex.com/t/887305) ![](assets/new.png)  
-- [2022-10-16-macos-12.6-外接-dell-u2720-无响应](https://www.v2ex.com/t/887303) ![](assets/new.png)  
-- [2022-10-16-写了个雅思随机单词自测小工具](https://www.v2ex.com/t/887302) ![](assets/new.png)  
-- [2022-10-16-突然发现，其实与其说喜欢折腾，不如说多巴胺成瘾](https://www.v2ex.com/t/887301) ![](assets/new.png)  
-- [2022-10-16-请教生活经验丰富的各位老哥，运动鞋，网面老是顶破怎么办？](https://www.v2ex.com/t/887300) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -554,8 +554,8 @@
 
 
 - [2022-10-16-流程引擎的架构设计](https://toutiao.io/k/3johyl2) ![](assets/new.png)  
-- [2022-10-16-如何在-CentOS7-上搭建一套-ELK-系统？](https://toutiao.io/k/w3p5ee8) ![](assets/new.png)  
 - [2022-10-16-轻松搞定亿级用户中心系统架构](https://toutiao.io/k/tlp6f9a) ![](assets/new.png)  
+- [2022-10-16-如何在-CentOS7-上搭建一套-ELK-系统？](https://toutiao.io/k/w3p5ee8) ![](assets/new.png)  
 - [2022-10-16-高并发整体可用性：一文详解降级、限流和熔断](https://toutiao.io/k/oh16qj7) ![](assets/new.png)  
 - [2022-10-16-Logstash、Fluentd、Fluent-Bit-还是-Vector？如何选择合适的开源日志收集器](https://toutiao.io/k/lfm3xkp) ![](assets/new.png)  
 - [2022-10-16-Flink-Unaligned-Checkpoint-在-Shopee-的优化和实践](https://toutiao.io/k/40oi4qm) ![](assets/new.png)  

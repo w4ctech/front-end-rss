@@ -9953,6 +9953,21 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "一个简单部署的 Stable Diffusion Model，体验自由图像生成",
+        "link": "https://www.v2ex.com/t/887314",
+        "date": "2022-10-16"
+      },
+      {
+        "title": "[记录]-正在远程办公的我被通知研发部需要持续 996 工作制到 11 月底",
+        "link": "https://www.v2ex.com/t/887312",
+        "date": "2022-10-16"
+      },
+      {
+        "title": "如何设置 iterm2 的 tab title 跟随 window title？",
+        "link": "https://www.v2ex.com/t/887311",
+        "date": "2022-10-16"
+      },
+      {
         "title": "看到一个自制触摸屏拓展手机屏幕的视频，市面上有没有现成的？",
         "link": "https://www.v2ex.com/t/887309",
         "date": "2022-10-16"
@@ -9965,11 +9980,6 @@
       {
         "title": "收入纳税证明细中有两家公司怎么办？",
         "link": "https://www.v2ex.com/t/887307",
-        "date": "2022-10-16"
-      },
-      {
-        "title": "我是遇见本地的墙中墙了？",
-        "link": "https://www.v2ex.com/t/887306",
         "date": "2022-10-16"
       },
       {
@@ -10100,26 +10110,6 @@
       {
         "title": "现在怎样才能买到全新 NS 卡带呢",
         "link": "https://www.v2ex.com/t/887268",
-        "date": "2022-10-16"
-      },
-      {
-        "title": "有没有干过大车司机的？",
-        "link": "https://www.v2ex.com/t/887266",
-        "date": "2022-10-16"
-      },
-      {
-        "title": "心碎前端求工作",
-        "link": "https://www.v2ex.com/t/887265",
-        "date": "2022-10-16"
-      },
-      {
-        "title": "lvgljs，用 JS 来写 lvgl UI",
-        "link": "https://www.v2ex.com/t/887263",
-        "date": "2022-10-16"
-      },
-      {
-        "title": "想换小米 12s，问下双卡相关问题",
-        "link": "https://www.v2ex.com/t/887262",
         "date": "2022-10-16"
       }
     ]
@@ -10287,13 +10277,13 @@
         "date": "2022-10-16"
       },
       {
-        "title": "[推荐] 7000 字 + 24 张图带你彻底弄懂线程池",
-        "link": "https://toutiao.io/k/wci1eno",
+        "title": "[推荐] 超实用！整理了 34 个 Python 自动化办公库",
+        "link": "https://toutiao.io/k/5wihja2",
         "date": "2022-10-16"
       },
       {
-        "title": "[推荐] 超实用！整理了 34 个 Python 自动化办公库",
-        "link": "https://toutiao.io/k/5wihja2",
+        "title": "[推荐] 7000 字 + 24 张图带你彻底弄懂线程池",
+        "link": "https://toutiao.io/k/wci1eno",
         "date": "2022-10-16"
       }
     ]

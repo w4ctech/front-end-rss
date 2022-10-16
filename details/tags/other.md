@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-16 04:03:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-16 05:15:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1914,6 +1914,10 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-10-16-mac-上的柠檬清理状态栏清理了什么](https://www.v2ex.com/t/887278) 
+- [2022-10-16-为什么这么贵????太黑了](https://www.v2ex.com/t/887277) 
+- [2022-10-16-YubiKey-5C-NFC-插上-MacBook-之后会挡住另一个-USB-C-口吗？](https://www.v2ex.com/t/887273) 
+- [2022-10-16-A-Port-of-Tcl-to-Go](https://www.v2ex.com/t/887272) 
 - [2022-10-16-Python-程序修改](https://www.v2ex.com/t/887269) 
 - [2022-10-16-现在怎样才能买到全新-NS-卡带呢](https://www.v2ex.com/t/887268) 
 - [2022-10-16-有没有干过大车司机的？](https://www.v2ex.com/t/887266) 
@@ -1939,12 +1943,6 @@
 - [2022-10-16-MacBook-Pro-如何设置不显示扩展屏](https://www.v2ex.com/t/887235) 
 - [2022-10-15-BIOS-里没有关闭硬盘的选项，双硬盘双系统如何互相隔离？](https://www.v2ex.com/t/887230) 
 - [2022-10-15-c/c++多线程读写问题，怎么反驳?](https://www.v2ex.com/t/887229) 
-- [2022-10-15-哪款-Windows-本的主板跟苹果笔记本的主板一样，具有“艺术感”~~？](https://www.v2ex.com/t/887227) 
-- [2022-10-15-telegram-发送消息后总是显示对方在线](https://www.v2ex.com/t/887226) 
-- [2022-10-15-戴尔显示器的质量如此差吗?](https://www.v2ex.com/t/887225) 
-- [2022-10-15-阿里巴巴技术手册:单表行数超过-500-万行或者单表容量超过-2GB，才推荐进行分库分表的理论依据？](https://www.v2ex.com/t/887224) 
-- [2022-10-15-为什么妙控板三代的表面磨砂比-15-年-mbp-的粗，没-mbp-好用](https://www.v2ex.com/t/887222) 
-- [2022-10-15-网页打印中如何做到所见即所得？](https://www.v2ex.com/t/887221) 
 - [2022-10-16-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-16-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-16-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

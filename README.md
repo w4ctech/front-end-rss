@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-16 01:28:11，:rocket: 更新条数: +2011， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-16 04:03:06，:rocket: 更新条数: +2014， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,26 +491,26 @@
 </summary>
 
 
-- [2022-10-16-现在是否已经有文本阅读达到真人效果的技术](https://www.v2ex.com/t/887240) ![](assets/new.png)  
-- [2022-10-16-有手机和手表的双向无线充电器推荐么？](https://www.v2ex.com/t/887239) ![](assets/new.png)  
-- [2022-10-16-最近想捣鼓一个域名邮箱？](https://www.v2ex.com/t/887236) ![](assets/new.png)  
-- [2022-10-16-MacBook-Pro-如何设置不显示扩展屏](https://www.v2ex.com/t/887235) ![](assets/new.png)  
-- [2022-10-16-对玩家来说，你会支持游戏局域网联机吗？](https://www.v2ex.com/t/887234) ![](assets/new.png)  
-- [2022-10-16-分享一下成都电信-IPTV-300+-直播频道的组播地址表，用-udpxy-转换不需电信盒子在家任何地方直接观看](https://www.v2ex.com/t/887233) ![](assets/new.png)  
-- [2022-10-15-BIOS-里没有关闭硬盘的选项，双硬盘双系统如何互相隔离？](https://www.v2ex.com/t/887230) ![](assets/new.png)  
-- [2022-10-15-c/c++多线程读写问题，怎么反驳?](https://www.v2ex.com/t/887229) ![](assets/new.png)  
-- [2022-10-15-哪款-Windows-本的主板跟苹果笔记本的主板一样，具有“艺术感”~~？](https://www.v2ex.com/t/887227) ![](assets/new.png)  
-- [2022-10-15-telegram-发送消息后总是显示对方在线](https://www.v2ex.com/t/887226) ![](assets/new.png)  
-- [2022-10-15-戴尔显示器的质量如此差吗?](https://www.v2ex.com/t/887225) ![](assets/new.png)  
-- [2022-10-15-阿里巴巴技术手册:单表行数超过-500-万行或者单表容量超过-2GB，才推荐进行分库分表的理论依据？](https://www.v2ex.com/t/887224) ![](assets/new.png)  
-- [2022-10-15-RFC:-First-class-support-for-promises-and-async/await](https://www.v2ex.com/t/887223) ![](assets/new.png)  
-- [2022-10-15-为什么妙控板三代的表面磨砂比-15-年-mbp-的粗，没-mbp-好用](https://www.v2ex.com/t/887222) ![](assets/new.png)  
-- [2022-10-15-网页打印中如何做到所见即所得？](https://www.v2ex.com/t/887221) ![](assets/new.png)  
-- [2022-10-15-线上项目并发问题，深夜在线求救](https://www.v2ex.com/t/887220) ![](assets/new.png)  
-- [2022-10-15-抢到-4090FE-的概率和考公上岸的概率哪个更高？](https://www.v2ex.com/t/887218) ![](assets/new.png)  
-- [2022-10-15-延伸模式下主屏桌面内容无法切换自动切换至-Mac-Book-Pro-上？](https://www.v2ex.com/t/887217) ![](assets/new.png)  
-- [2022-10-15-ZFS-和-mdadm-创建的软-Raid1，有什么区别吗？](https://www.v2ex.com/t/887216) ![](assets/new.png)  
-- [2022-10-15-照片生成-3D-动漫头像](https://www.v2ex.com/t/887215) ![](assets/new.png)  
+- [2022-10-16-Python-程序修改](https://www.v2ex.com/t/887269) ![](assets/new.png)  
+- [2022-10-16-现在怎样才能买到全新-NS-卡带呢](https://www.v2ex.com/t/887268) ![](assets/new.png)  
+- [2022-10-16-有没有干过大车司机的？](https://www.v2ex.com/t/887266) ![](assets/new.png)  
+- [2022-10-16-心碎前端求工作](https://www.v2ex.com/t/887265) ![](assets/new.png)  
+- [2022-10-16-lvgljs，用-JS-来写-lvgl-UI](https://www.v2ex.com/t/887263) ![](assets/new.png)  
+- [2022-10-16-想换小米-12s，问下双卡相关问题](https://www.v2ex.com/t/887262) ![](assets/new.png)  
+- [2022-10-16-经过服务器推送的消息是加密的吗](https://www.v2ex.com/t/887260) ![](assets/new.png)  
+- [2022-10-16-高性能-mysql-出第-4-版了](https://www.v2ex.com/t/887259) ![](assets/new.png)  
+- [2022-10-16-16.0.3-有碰到屏幕乱跳的吗](https://www.v2ex.com/t/887257) ![](assets/new.png)  
+- [2022-10-16-Maoxian-网摘插件下架了，有没有代替品？](https://www.v2ex.com/t/887256) ![](assets/new.png)  
+- [2022-10-16-YUV-色彩空间](https://www.v2ex.com/t/887254) ![](assets/new.png)  
+- [2022-10-16-深圳-web3+币圈-公司-急招开发/产品，待遇超大厂，大部分时间-remote](https://www.v2ex.com/t/887253) ![](assets/new.png)  
+- [2022-10-16-开始使用-Yubikey](https://www.v2ex.com/t/887251) ![](assets/new.png)  
+- [2022-10-16-关于鼠标悬停在文字上显示原文对照---谷歌网页翻译](https://www.v2ex.com/t/887250) ![](assets/new.png)  
+- [2022-10-16-你有冥想的习惯吗？](https://www.v2ex.com/t/887249) ![](assets/new.png)  
+- [2022-10-16-接两年前的帖子：一线城市的生活成本真的高嘛？](https://www.v2ex.com/t/887248) ![](assets/new.png)  
+- [2022-10-16-微信聊天记录迁移到电脑功能今天突然找不到了](https://www.v2ex.com/t/887247) ![](assets/new.png)  
+- [2022-10-16-Mac-Chrome-程序退出自己又重新弹起，大伙都这样？](https://www.v2ex.com/t/887246) ![](assets/new.png)  
+- [2022-10-16-所以未来是英特尔的天下了对吗，因为-Apple-的-M-系列芯片-导致-12-代-IU-发生质的变化](https://www.v2ex.com/t/887245) ![](assets/new.png)  
+- [2022-10-16-AirPods-Pro-2-音频延迟问题](https://www.v2ex.com/t/887244) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -554,15 +554,15 @@
 
 
 - [2022-10-16-流程引擎的架构设计](https://toutiao.io/k/3johyl2) ![](assets/new.png)  
-- [2022-10-16-轻松搞定亿级用户中心系统架构](https://toutiao.io/k/tlp6f9a) ![](assets/new.png)  
 - [2022-10-16-如何在-CentOS7-上搭建一套-ELK-系统？](https://toutiao.io/k/w3p5ee8) ![](assets/new.png)  
-- [2022-10-16-ClickHouse-挺快，esProc-SPL-更快](https://toutiao.io/k/bbtd8ga) ![](assets/new.png)  
+- [2022-10-16-轻松搞定亿级用户中心系统架构](https://toutiao.io/k/tlp6f9a) ![](assets/new.png)  
 - [2022-10-16-高并发整体可用性：一文详解降级、限流和熔断](https://toutiao.io/k/oh16qj7) ![](assets/new.png)  
-- [2022-10-16-Flink-Unaligned-Checkpoint-在-Shopee-的优化和实践](https://toutiao.io/k/40oi4qm) ![](assets/new.png)  
 - [2022-10-16-Logstash、Fluentd、Fluent-Bit-还是-Vector？如何选择合适的开源日志收集器](https://toutiao.io/k/lfm3xkp) ![](assets/new.png)  
+- [2022-10-16-Flink-Unaligned-Checkpoint-在-Shopee-的优化和实践](https://toutiao.io/k/40oi4qm) ![](assets/new.png)  
+- [2022-10-16-ClickHouse-挺快，esProc-SPL-更快](https://toutiao.io/k/bbtd8ga) ![](assets/new.png)  
 - [2022-10-16-【开源】Mpx2.8-版本正式发布，使用组合式-API-开发小程序](https://toutiao.io/k/1xo8w0v) ![](assets/new.png)  
-- [2022-10-16-推荐-超实用！整理了-34-个-Python-自动化办公库](https://toutiao.io/k/5wihja2) ![](assets/new.png)  
 - [2022-10-16-推荐-7000-字-+-24-张图带你彻底弄懂线程池](https://toutiao.io/k/wci1eno) ![](assets/new.png)  
+- [2022-10-16-推荐-超实用！整理了-34-个-Python-自动化办公库](https://toutiao.io/k/5wihja2) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

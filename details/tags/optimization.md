@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-16 01:28:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-16 04:03:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -7,4 +7,5 @@
 
 
 
+- [2022-10-16-高性能-mysql-出第-4-版了](https://www.v2ex.com/t/887259) 
 - [2022-10-16-Flink-Unaligned-Checkpoint-在-Shopee-的优化和实践](https://toutiao.io/k/40oi4qm) 

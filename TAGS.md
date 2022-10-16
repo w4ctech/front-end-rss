@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-10-16 12:29:06。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-16 13:15:37。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -121,6 +121,7 @@
 
 
 - [【V2EX】在自己的小程序实现单词翻译功能用哪里的-api-不侵权](https://www.v2ex.com/t/887335)
+- [【开发者头条】【开源】Mpx2.8-版本正式发布，使用组合式-API-开发小程序](https://toutiao.io/k/1xo8w0v)
 - [......【查看更多】......](./details/tags/miniprogram.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -234,7 +235,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】广州17岁男生在定点医院参加高考-特殊考场视频监考](https://m.caixin.com/m/2021-06-05/101723418.html)
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
 - [【V2EX】一个简单部署的-Stable-Diffusion-Model，体验自由图像生成](https://www.v2ex.com/t/887314)
-- [【V2EX】看到一个自制触摸屏拓展手机屏幕的视频，市面上有没有现成的？](https://www.v2ex.com/t/887309)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -251,6 +251,7 @@
 
 
 
+- [【开发者头条】Flink-Unaligned-Checkpoint-在-Shopee-的优化和实践](https://toutiao.io/k/40oi4qm)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -274,6 +275,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
 - [【V2EX】github-上-go-库更新后，本地-go-get-有巨大延迟，怎么解决？](https://www.v2ex.com/t/887344)
+- [【开发者头条】打造安全的Open-RAN](https://toutiao.io/k/oap0uwh)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

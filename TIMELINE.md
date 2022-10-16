@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-16 13:15:37。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-10-16 13:59:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -71,6 +71,14 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-10-16-2022年新出了哪些form表单新特性？](https://www.zhangxinxu.com/wordpress/2022/10/2022-new-form-property/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-12-CSS-::file-selector-button伪元素简介](https://www.zhangxinxu.com/wordpress/2022/10/css-file-selector-button/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-12-更符合书写习惯的CSS媒体查询Range语法](https://www.zhangxinxu.com/wordpress/2022/10/css-media-range-syntax/) 
+- [【V2EX】2022-10-16-寻找一人帮忙上架-electron-产品，有账号](https://www.v2ex.com/t/887372) 
+- [【V2EX】2022-10-16-给网页全屏视频时加一个过渡动画好不好实现](https://www.v2ex.com/t/887371) 
+- [【V2EX】2022-10-16-付费求助，修改-frp-一个小地方，并进行编译。](https://www.v2ex.com/t/887368) 
+- [【V2EX】2022-10-16-世界加钱可及，中国电信商宽-VS-家宽](https://www.v2ex.com/t/887366) 
+- [【V2EX】2022-10-16-初创公司怎么样会吸引你进入？](https://www.v2ex.com/t/887365) 
+- [【V2EX】2022-10-16-0-基础设计自学转码，挑战-30-天看完犀牛书。](https://www.v2ex.com/t/887364) 
+- [【V2EX】2022-10-16-灵动岛体验几天感觉还不如刘海](https://www.v2ex.com/t/887363) 
+- [【V2EX】2022-10-16-给各位安利一部很有意思的美国动画《万神殿》，一部更具深度的《上载新生》](https://www.v2ex.com/t/887362) 
 - [【V2EX】2022-10-16-阿里的桌面客户端老是丢失登录态](https://www.v2ex.com/t/887361) 
 - [【V2EX】2022-10-16-像哔哩哔哩这样直接把番剧中的人名当网站名需要原版权方授权吗？](https://www.v2ex.com/t/887358) 
 - [【V2EX】2022-10-16-群晖如何配置不带端口号访问？](https://www.v2ex.com/t/887357) 
@@ -100,11 +108,6 @@
 - [【V2EX】2022-10-16-The-Data-School](https://www.v2ex.com/t/887327) 
 - [【V2EX】2022-10-16-时隔多年再次遇到-iOS-锁屏-WiFi-断开，解锁-WiFi-重连问题](https://www.v2ex.com/t/887326) 
 - [【V2EX】2022-10-16-淘宝上的礼品卡的出处？](https://www.v2ex.com/t/887324) 
-- [【V2EX】2022-10-16-飞书在线文档下载](https://www.v2ex.com/t/887321) 
-- [【V2EX】2022-10-16-Linux-笔记本------thinkpad-T14-性价比整理](https://www.v2ex.com/t/887320) 
-- [【V2EX】2022-10-16-淘宝真的是越来越烂了。](https://www.v2ex.com/t/887318) 
-- [【V2EX】2022-10-16-一个简单部署的-Stable-Diffusion-Model，体验自由图像生成](https://www.v2ex.com/t/887314) 
-- [【V2EX】2022-10-16-记录-正在远程办公的我被通知研发部需要持续-996-工作制到-11-月底](https://www.v2ex.com/t/887312) 
 - [【技术头条】2022-10-16-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-16-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-16-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

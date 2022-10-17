@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-17 08:31:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-17 09:07:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1914,6 +1914,14 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-10-17-Clion-使用远程开发环境来写-Cuda-项目时出现静态检查提示语法错误的情况](https://www.v2ex.com/t/887557) 
+- [2022-10-17-为什么我的-Oracle-cloud-怎么慢了呢](https://www.v2ex.com/t/887555) 
+- [2022-10-17-如果找不到工作，你愿意降薪入职吗](https://www.v2ex.com/t/887554) 
+- [2022-10-17-北京-知春路-10/13-号线-次卧出租](https://www.v2ex.com/t/887553) 
+- [2022-10-17-google-近半年的疫情数据](https://www.v2ex.com/t/887552) 
+- [2022-10-17-有-V-友正在从事远程开发工作的吗](https://www.v2ex.com/t/887551) 
+- [2022-10-17-数据库公有云-QFusion，填问卷拿-50-京东卡（仅限-DBA/运维）](https://www.v2ex.com/t/887550) 
+- [2022-10-17-有什么好的足球-API？](https://www.v2ex.com/t/887548) 
 - [2022-10-17-你们-iPhone-14-Pro-Max-日常使用时后壳温热吗？](https://www.v2ex.com/t/887546) 
 - [2022-10-17-小孩要不要回老家上小学？](https://www.v2ex.com/t/887545) 
 - [2022-10-17-阿里云国际站腾讯云国际站可提供实名账户，免实名，代充值可付-USDT](https://www.v2ex.com/t/887541) 
@@ -1937,12 +1945,6 @@
 - [2022-10-17-私有化在线协同画图平台-Excalidraw](https://www.v2ex.com/t/887515) 
 - [2022-10-17-中关村实验室有人了解吗？](https://www.v2ex.com/t/887511) 
 - [2022-10-17-遇到-2-个问题,windows-聚焦，-VBS-报错，求助！](https://www.v2ex.com/t/887510) 
-- [2022-10-17-🇯🇵赴日工作移民-位于东京秋叶原，拥有高度人才签证+20-分资格！注重能力提升：考资格费用报销、技术分享、头脑风暴以及云技术培训等。急需-Java-,-C/C++...](https://www.v2ex.com/t/887508) 
-- [2022-10-17-hyper-v-里两个-openwrt-的-dhcp-该如何设置](https://www.v2ex.com/t/887505) 
-- [2022-10-17-北京和义地铁站-1900-超大主卧带阳台-30-平转租](https://www.v2ex.com/t/887504) 
-- [2022-10-17-如何复兴去中心化的内容平台（博客）？](https://www.v2ex.com/t/887503) 
-- [2022-10-17-分享一个核酸检测统计工具-基于微擎框架制作的模块](https://www.v2ex.com/t/887501) 
-- [2022-10-17-ubuntu-22.10-马上要来了，冒险升级，控制更加精致，操作方便性有提高](https://www.v2ex.com/t/887498) 
 - [2022-10-17-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-17-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-17-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

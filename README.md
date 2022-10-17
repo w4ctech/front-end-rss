@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-17 20:48:50，:rocket: 更新条数: +2004， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-17 21:16:30，:rocket: 更新条数: +2004， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-10-17-可以通过快捷指令实现-AOD-功能的开启/关闭吗](https://www.v2ex.com/t/887669) ![](assets/new.png)  
 - [2022-10-17-求助，网络问题](https://www.v2ex.com/t/887668) ![](assets/new.png)  
 - [2022-10-17-转行运维了，一个月工资税后二万五，房补-3-k，小公司，有生之年有可能落户上海吗](https://www.v2ex.com/t/887667) ![](assets/new.png)  
 - [2022-10-17-请教，-mac-的-homebrew-用久了，怎么重置啊~](https://www.v2ex.com/t/887666) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-10-17-QQ-现在还支持-Callkit-吗？](https://www.v2ex.com/t/887648) ![](assets/new.png)  
 - [2022-10-17-凹语言支持-JetBrains-Fleet-语法高亮](https://www.v2ex.com/t/887647) ![](assets/new.png)  
 - [2022-10-17-想养蜘蛛，有养过的大佬吗？](https://www.v2ex.com/t/887646) ![](assets/new.png)  
-- [2022-10-17-想找一个初级-Linux-系统运维的工作，必须掌握哪些技能啊](https://www.v2ex.com/t/887643) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

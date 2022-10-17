@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-17 09:59:22，:rocket: 更新条数: +2005， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-17 10:26:54，:rocket: 更新条数: +2005， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-10-17-Windows-编译环境介绍](https://www.v2ex.com/t/887588) ![](assets/new.png)  
+- [2022-10-17-想把键盘受托版改成可以折叠的,需要怎么改,-我有电转和螺丝,-大家给点意见,-我想做成这个样子,有人能给施工图吗?谢谢-https://imgur.com/a/fUsI0hB](https://www.v2ex.com/t/887587) ![](assets/new.png)  
+- [2022-10-17-求电脑录音软件](https://www.v2ex.com/t/887584) ![](assets/new.png)  
+- [2022-10-17-ZeeStart：使用-Tailwind-CSS-+-Vue-制作的个人导航页，-HTML-纯文本单文件，支持自定义数据和离线部署](https://www.v2ex.com/t/887583) ![](assets/new.png)  
 - [2022-10-17-拼多多是怎么做到分享的助力链接域名不是自己的呢？](https://www.v2ex.com/t/887582) ![](assets/new.png)  
 - [2022-10-17-最近半个月疯狂被封端口,咋办?](https://www.v2ex.com/t/887581) ![](assets/new.png)  
 - [2022-10-17-求大佬提供一下家庭网络方案设计思路](https://www.v2ex.com/t/887580) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-10-17-在-Chrome-商店发了一个浏览器插件，经常收到要商业化的邮件](https://www.v2ex.com/t/887565) ![](assets/new.png)  
 - [2022-10-17-公司要求用户敏感数据加密存储，大伙有什么建议吗？](https://www.v2ex.com/t/887563) ![](assets/new.png)  
 - [2022-10-17-基于声网-iOS-SDK-实现视频直播应用](https://www.v2ex.com/t/887562) ![](assets/new.png)  
-- [2022-10-17-有个-“-短需求交易平台”-的项目想法](https://www.v2ex.com/t/887561) ![](assets/new.png)  
-- [2022-10-17-2k-以内公路车,大佬们推荐一下](https://www.v2ex.com/t/887560) ![](assets/new.png)  
-- [2022-10-17-请问有什么开源的自动化测试平台吗](https://www.v2ex.com/t/887559) ![](assets/new.png)  
-- [2022-10-17-小米路由器-AX6000-内置的-DDNS-服务有人添加成功么？为啥我一直是“保存中”](https://www.v2ex.com/t/887558) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

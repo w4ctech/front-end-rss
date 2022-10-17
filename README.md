@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-17 10:26:54，:rocket: 更新条数: +2005， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-17 10:57:22，:rocket: 更新条数: +2006， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,13 @@
 </summary>
 
 
+- [2022-10-17-想问一下咸鱼的-parallel-desktop-企业版是真的假的，只要一百多](https://www.v2ex.com/t/887595) ![](assets/new.png)  
+- [2022-10-17-在国内提供端到端加密（即依靠客户端上传给服务器的数据无法完成解密）（无任何分享/社交功能）服务是合法的吗？](https://www.v2ex.com/t/887594) ![](assets/new.png)  
+- [2022-10-17-目前（2022.10.17）在北京办理护照的咨询](https://www.v2ex.com/t/887593) ![](assets/new.png)  
+- [2022-10-17-深圳鹰利科技有限公司-30k-诚聘-Java-、运维-和-前端工程师](https://www.v2ex.com/t/887592) ![](assets/new.png)  
+- [2022-10-17-请教，谁手里有-Google-的-G-Suite-要出售的么？](https://www.v2ex.com/t/887591) ![](assets/new.png)  
+- [2022-10-17-SG-升级了，新增文件管理，支持手机到电脑间文件上传下载](https://www.v2ex.com/t/887590) ![](assets/new.png)  
+- [2022-10-17-4090-定价那么高，真怀疑普通玩家能不能从中受益。](https://www.v2ex.com/t/887589) ![](assets/new.png)  
 - [2022-10-17-Windows-编译环境介绍](https://www.v2ex.com/t/887588) ![](assets/new.png)  
 - [2022-10-17-想把键盘受托版改成可以折叠的,需要怎么改,-我有电转和螺丝,-大家给点意见,-我想做成这个样子,有人能给施工图吗?谢谢-https://imgur.com/a/fUsI0hB](https://www.v2ex.com/t/887587) ![](assets/new.png)  
 - [2022-10-17-求电脑录音软件](https://www.v2ex.com/t/887584) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-10-17-b-站咋了，怎么股价大跌啊，也没听说有什么负面新闻啊](https://www.v2ex.com/t/887575) ![](assets/new.png)  
 - [2022-10-17-Linux-编译基础](https://www.v2ex.com/t/887574) ![](assets/new.png)  
 - [2022-10-17-Apple-Watch-有多依赖-iPhone-?](https://www.v2ex.com/t/887572) ![](assets/new.png)  
-- [2022-10-17-为什么-mac-端的-apple-music-歌词是繁体，-iPhone-上却是简体？](https://www.v2ex.com/t/887570) ![](assets/new.png)  
-- [2022-10-17-如何屏蔽银行骚扰电话？](https://www.v2ex.com/t/887569) ![](assets/new.png)  
-- [2022-10-17-kafka-消费者平滑退出一般是怎么做的？](https://www.v2ex.com/t/887568) ![](assets/new.png)  
-- [2022-10-17-走进-VR-世界，-PICO-前端职位火热招聘中，欢迎来聊](https://www.v2ex.com/t/887567) ![](assets/new.png)  
-- [2022-10-17-在-Chrome-商店发了一个浏览器插件，经常收到要商业化的邮件](https://www.v2ex.com/t/887565) ![](assets/new.png)  
-- [2022-10-17-公司要求用户敏感数据加密存储，大伙有什么建议吗？](https://www.v2ex.com/t/887563) ![](assets/new.png)  
-- [2022-10-17-基于声网-iOS-SDK-实现视频直播应用](https://www.v2ex.com/t/887562) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

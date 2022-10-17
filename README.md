@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-17 20:18:58，:rocket: 更新条数: +2003， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-17 20:48:50，:rocket: 更新条数: +2004， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-10-17-求助，网络问题](https://www.v2ex.com/t/887668) ![](assets/new.png)  
 - [2022-10-17-转行运维了，一个月工资税后二万五，房补-3-k，小公司，有生之年有可能落户上海吗](https://www.v2ex.com/t/887667) ![](assets/new.png)  
 - [2022-10-17-请教，-mac-的-homebrew-用久了，怎么重置啊~](https://www.v2ex.com/t/887666) ![](assets/new.png)  
 - [2022-10-17-腾讯云海外便宜云服务器-数据库-云硬盘/储存对象-3.5-折，不限制新老](https://www.v2ex.com/t/887664) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-10-17-凹语言支持-JetBrains-Fleet-语法高亮](https://www.v2ex.com/t/887647) ![](assets/new.png)  
 - [2022-10-17-想养蜘蛛，有养过的大佬吗？](https://www.v2ex.com/t/887646) ![](assets/new.png)  
 - [2022-10-17-想找一个初级-Linux-系统运维的工作，必须掌握哪些技能啊](https://www.v2ex.com/t/887643) ![](assets/new.png)  
-- [2022-10-17-求推荐一个低功耗-2L-小主机，需求非常明确](https://www.v2ex.com/t/887642) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

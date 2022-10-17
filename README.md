@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-17 11:45:17，:rocket: 更新条数: +2005， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-17 12:34:59，:rocket: 更新条数: +2005， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-10-17-从校园人到职场人一个月的经历，还有对现在互联网公司工作的看法的转变和目前感想和计划。](https://www.v2ex.com/t/887615) ![](assets/new.png)  
+- [2022-10-17-推荐一款-Android-第三方推特-app](https://www.v2ex.com/t/887614) ![](assets/new.png)  
+- [2022-10-17-发生了一件怪事](https://www.v2ex.com/t/887613) ![](assets/new.png)  
+- [2022-10-17-为什么同样的镜像，-mac-上没问题，-Linux-下就有问题](https://www.v2ex.com/t/887612) ![](assets/new.png)  
+- [2022-10-17-请问-devonthink-windows-有类似的吗？](https://www.v2ex.com/t/887611) ![](assets/new.png)  
 - [2022-10-17-耳塞贴合度测试还不够，请为你的-AirPods-Pro-选择真正合适的耳塞](https://www.v2ex.com/t/887610) ![](assets/new.png)  
 - [2022-10-17-上海买房地段推荐](https://www.v2ex.com/t/887609) ![](assets/new.png)  
 - [2022-10-17-开局一张图，想知道图片中的键盘型号](https://www.v2ex.com/t/887608) ![](assets/new.png)  
@@ -502,15 +507,10 @@
 - [2022-10-17-想裸辞求锤醒](https://www.v2ex.com/t/887600) ![](assets/new.png)  
 - [2022-10-17-求助-免费打工](https://www.v2ex.com/t/887598) ![](assets/new.png)  
 - [2022-10-17-想换台笔记本，求大佬给参考参考](https://www.v2ex.com/t/887597) ![](assets/new.png)  
-- [2022-10-17-想问一下咸鱼的-parallel-desktop-企业版是真的假的，只要一百多](https://www.v2ex.com/t/887595) ![](assets/new.png)  
 - [2022-10-17-在国内提供端到端加密（即依靠客户端上传给服务器的数据无法完成解密）（无任何分享/社交功能）服务是合法的吗？](https://www.v2ex.com/t/887594) ![](assets/new.png)  
 - [2022-10-17-目前（2022.10.17）在北京办理护照的咨询](https://www.v2ex.com/t/887593) ![](assets/new.png)  
 - [2022-10-17-深圳鹰利科技有限公司-30k-诚聘-Java-、运维-和-前端工程师](https://www.v2ex.com/t/887592) ![](assets/new.png)  
 - [2022-10-17-请教，谁手里有-Google-的-G-Suite-要出售的么？](https://www.v2ex.com/t/887591) ![](assets/new.png)  
-- [2022-10-17-SG-升级了，新增文件管理，支持手机到电脑间文件上传下载](https://www.v2ex.com/t/887590) ![](assets/new.png)  
-- [2022-10-17-4090-定价那么高，真怀疑普通玩家能不能从中受益。](https://www.v2ex.com/t/887589) ![](assets/new.png)  
-- [2022-10-17-Windows-编译环境介绍](https://www.v2ex.com/t/887588) ![](assets/new.png)  
-- [2022-10-17-想把键盘受托版改成可以折叠的,需要怎么改,-我有电转和螺丝,-大家给点意见,-我想做成这个样子,有人能给施工图吗?谢谢-https://imgur.com/a/fUsI0hB](https://www.v2ex.com/t/887587) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

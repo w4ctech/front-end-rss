@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-17 11:45:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-17 12:34:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1914,6 +1914,11 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-10-17-从校园人到职场人一个月的经历，还有对现在互联网公司工作的看法的转变和目前感想和计划。](https://www.v2ex.com/t/887615) 
+- [2022-10-17-推荐一款-Android-第三方推特-app](https://www.v2ex.com/t/887614) 
+- [2022-10-17-发生了一件怪事](https://www.v2ex.com/t/887613) 
+- [2022-10-17-为什么同样的镜像，-mac-上没问题，-Linux-下就有问题](https://www.v2ex.com/t/887612) 
+- [2022-10-17-请问-devonthink-windows-有类似的吗？](https://www.v2ex.com/t/887611) 
 - [2022-10-17-耳塞贴合度测试还不够，请为你的-AirPods-Pro-选择真正合适的耳塞](https://www.v2ex.com/t/887610) 
 - [2022-10-17-上海买房地段推荐](https://www.v2ex.com/t/887609) 
 - [2022-10-17-开局一张图，想知道图片中的键盘型号](https://www.v2ex.com/t/887608) 
@@ -1925,7 +1930,6 @@
 - [2022-10-17-想裸辞求锤醒](https://www.v2ex.com/t/887600) 
 - [2022-10-17-求助-免费打工](https://www.v2ex.com/t/887598) 
 - [2022-10-17-想换台笔记本，求大佬给参考参考](https://www.v2ex.com/t/887597) 
-- [2022-10-17-想问一下咸鱼的-parallel-desktop-企业版是真的假的，只要一百多](https://www.v2ex.com/t/887595) 
 - [2022-10-17-在国内提供端到端加密（即依靠客户端上传给服务器的数据无法完成解密）（无任何分享/社交功能）服务是合法的吗？](https://www.v2ex.com/t/887594) 
 - [2022-10-17-目前（2022.10.17）在北京办理护照的咨询](https://www.v2ex.com/t/887593) 
 - [2022-10-17-深圳鹰利科技有限公司-30k-诚聘-Java-、运维-和-前端工程师](https://www.v2ex.com/t/887592) 
@@ -1946,8 +1950,6 @@
 - [2022-10-17-为什么-mac-端的-apple-music-歌词是繁体，-iPhone-上却是简体？](https://www.v2ex.com/t/887570) 
 - [2022-10-17-如何屏蔽银行骚扰电话？](https://www.v2ex.com/t/887569) 
 - [2022-10-17-kafka-消费者平滑退出一般是怎么做的？](https://www.v2ex.com/t/887568) 
-- [2022-10-17-公司要求用户敏感数据加密存储，大伙有什么建议吗？](https://www.v2ex.com/t/887563) 
-- [2022-10-17-有个-“-短需求交易平台”-的项目想法](https://www.v2ex.com/t/887561) 
 - [2022-10-17-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-17-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-17-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

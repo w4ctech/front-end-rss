@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-17 11:18:18。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-10-17 11:45:17。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -71,6 +71,13 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-10-16-2022年新出了哪些form表单新特性？](https://www.zhangxinxu.com/wordpress/2022/10/2022-new-form-property/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-12-CSS-::file-selector-button伪元素简介](https://www.zhangxinxu.com/wordpress/2022/10/css-file-selector-button/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-12-更符合书写习惯的CSS媒体查询Range语法](https://www.zhangxinxu.com/wordpress/2022/10/css-media-range-syntax/) 
+- [【V2EX】2022-10-17-耳塞贴合度测试还不够，请为你的-AirPods-Pro-选择真正合适的耳塞](https://www.v2ex.com/t/887610) 
+- [【V2EX】2022-10-17-上海买房地段推荐](https://www.v2ex.com/t/887609) 
+- [【V2EX】2022-10-17-开局一张图，想知道图片中的键盘型号](https://www.v2ex.com/t/887608) 
+- [【V2EX】2022-10-17-广州-找云计算售前工程师](https://www.v2ex.com/t/887607) 
+- [【V2EX】2022-10-17-三星手机国行刷港行能用-pay-吗](https://www.v2ex.com/t/887605) 
+- [【V2EX】2022-10-17-前端可以直接预览-PDF-文件么？](https://www.v2ex.com/t/887604) 
+- [【V2EX】2022-10-17-数千万的细小文件，导致-everything-索引崩溃，-out-of-memory。。。。可咋整](https://www.v2ex.com/t/887603) 
 - [【V2EX】2022-10-17-上海-Microfocus-招人。](https://www.v2ex.com/t/887601) 
 - [【V2EX】2022-10-17-想裸辞求锤醒](https://www.v2ex.com/t/887600) 
 - [【V2EX】2022-10-17-求助-免费打工](https://www.v2ex.com/t/887598) 
@@ -103,13 +110,6 @@
 - [【V2EX】2022-10-17-公司要求用户敏感数据加密存储，大伙有什么建议吗？](https://www.v2ex.com/t/887563) 
 - [【V2EX】2022-10-17-基于声网-iOS-SDK-实现视频直播应用](https://www.v2ex.com/t/887562) 
 - [【V2EX】2022-10-17-有个-“-短需求交易平台”-的项目想法](https://www.v2ex.com/t/887561) 
-- [【V2EX】2022-10-17-2k-以内公路车,大佬们推荐一下](https://www.v2ex.com/t/887560) 
-- [【V2EX】2022-10-17-请问有什么开源的自动化测试平台吗](https://www.v2ex.com/t/887559) 
-- [【V2EX】2022-10-17-小米路由器-AX6000-内置的-DDNS-服务有人添加成功么？为啥我一直是“保存中”](https://www.v2ex.com/t/887558) 
-- [【V2EX】2022-10-17-Clion-使用远程开发环境来写-Cuda-项目时出现静态检查提示语法错误的情况](https://www.v2ex.com/t/887557) 
-- [【V2EX】2022-10-17-为什么我的-Oracle-cloud-怎么慢了呢](https://www.v2ex.com/t/887555) 
-- [【V2EX】2022-10-17-如果找不到工作，你愿意降薪入职吗](https://www.v2ex.com/t/887554) 
-- [【V2EX】2022-10-17-北京-知春路-10/13-号线-次卧出租](https://www.v2ex.com/t/887553) 
 - [【技术头条】2022-10-17-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-17-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-17-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

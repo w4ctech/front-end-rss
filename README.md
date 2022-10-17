@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-17 11:18:18，:rocket: 更新条数: +2005， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-17 11:45:17，:rocket: 更新条数: +2005， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,13 @@
 </summary>
 
 
+- [2022-10-17-耳塞贴合度测试还不够，请为你的-AirPods-Pro-选择真正合适的耳塞](https://www.v2ex.com/t/887610) ![](assets/new.png)  
+- [2022-10-17-上海买房地段推荐](https://www.v2ex.com/t/887609) ![](assets/new.png)  
+- [2022-10-17-开局一张图，想知道图片中的键盘型号](https://www.v2ex.com/t/887608) ![](assets/new.png)  
+- [2022-10-17-广州-找云计算售前工程师](https://www.v2ex.com/t/887607) ![](assets/new.png)  
+- [2022-10-17-三星手机国行刷港行能用-pay-吗](https://www.v2ex.com/t/887605) ![](assets/new.png)  
+- [2022-10-17-前端可以直接预览-PDF-文件么？](https://www.v2ex.com/t/887604) ![](assets/new.png)  
+- [2022-10-17-数千万的细小文件，导致-everything-索引崩溃，-out-of-memory。。。。可咋整](https://www.v2ex.com/t/887603) ![](assets/new.png)  
 - [2022-10-17-上海-Microfocus-招人。](https://www.v2ex.com/t/887601) ![](assets/new.png)  
 - [2022-10-17-想裸辞求锤醒](https://www.v2ex.com/t/887600) ![](assets/new.png)  
 - [2022-10-17-求助-免费打工](https://www.v2ex.com/t/887598) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-10-17-4090-定价那么高，真怀疑普通玩家能不能从中受益。](https://www.v2ex.com/t/887589) ![](assets/new.png)  
 - [2022-10-17-Windows-编译环境介绍](https://www.v2ex.com/t/887588) ![](assets/new.png)  
 - [2022-10-17-想把键盘受托版改成可以折叠的,需要怎么改,-我有电转和螺丝,-大家给点意见,-我想做成这个样子,有人能给施工图吗?谢谢-https://imgur.com/a/fUsI0hB](https://www.v2ex.com/t/887587) ![](assets/new.png)  
-- [2022-10-17-求电脑录音软件](https://www.v2ex.com/t/887584) ![](assets/new.png)  
-- [2022-10-17-ZeeStart：使用-Tailwind-CSS-+-Vue-制作的个人导航页，-HTML-纯文本单文件，支持自定义数据和离线部署](https://www.v2ex.com/t/887583) ![](assets/new.png)  
-- [2022-10-17-拼多多是怎么做到分享的助力链接域名不是自己的呢？](https://www.v2ex.com/t/887582) ![](assets/new.png)  
-- [2022-10-17-最近半个月疯狂被封端口,咋办?](https://www.v2ex.com/t/887581) ![](assets/new.png)  
-- [2022-10-17-求大佬提供一下家庭网络方案设计思路](https://www.v2ex.com/t/887580) ![](assets/new.png)  
-- [2022-10-17-预算-5k-到-8.5k。求推荐-macbook](https://www.v2ex.com/t/887579) ![](assets/new.png)  
-- [2022-10-17-做了这几步，-Mac-和-Windows-都能更好地满足我的需求了。](https://www.v2ex.com/t/887577) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

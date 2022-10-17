@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-17 17:27:15，:rocket: 更新条数: +2001， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-17 18:08:07，:rocket: 更新条数: +2002， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-10-17-请教，-mac-的-homebrew-用久了，怎么重置啊~](https://www.v2ex.com/t/887666) ![](assets/new.png)  
 - [2022-10-17-腾讯云海外便宜云服务器-数据库-云硬盘/储存对象-3.5-折，不限制新老](https://www.v2ex.com/t/887664) ![](assets/new.png)  
 - [2022-10-17-MacBook-Air-M1-入手建议](https://www.v2ex.com/t/887663) ![](assets/new.png)  
 - [2022-10-17-如何通过路由器查看连接的设备访问了哪些网址？](https://www.v2ex.com/t/887662) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-10-17-想找一个初级-Linux-系统运维的工作，必须掌握哪些技能啊](https://www.v2ex.com/t/887643) ![](assets/new.png)  
 - [2022-10-17-求推荐一个低功耗-2L-小主机，需求非常明确](https://www.v2ex.com/t/887642) ![](assets/new.png)  
 - [2022-10-17-深圳-8-年前端程序媛，求一份前端工作，线上线下都可](https://www.v2ex.com/t/887640) ![](assets/new.png)  
-- [2022-10-17-创业项目寻找技术开发伙伴/技术合伙人](https://www.v2ex.com/t/887639) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

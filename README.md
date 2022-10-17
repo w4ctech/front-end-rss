@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-17 01:29:22，:rocket: 更新条数: +2017， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-17 04:18:05，:rocket: 更新条数: +2018， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,26 +491,26 @@
 </summary>
 
 
-- [2022-10-17-小米-11u-淘宝-APP-在详情页中返回似乎有问题](https://www.v2ex.com/t/887411) ![](assets/new.png)  
-- [2022-10-17-我准备写个「协作广场」方便找队友、找事做……](https://www.v2ex.com/t/887409) ![](assets/new.png)  
-- [2022-10-17-提加薪了！](https://www.v2ex.com/t/887408) ![](assets/new.png)  
-- [2022-10-17-回顾一下之前的吐槽，-iPhone-14-Pro-Max-6G-内存暂时够用](https://www.v2ex.com/t/887407) ![](assets/new.png)  
-- [2022-10-17-vscode-中的-workspace-在实践中使用广泛吗?](https://www.v2ex.com/t/887405) ![](assets/new.png)  
-- [2022-10-17-macos-上有类似-bitlocker-的功能特性吗？](https://www.v2ex.com/t/887404) ![](assets/new.png)  
-- [2022-10-17-今年学了学建模，以及-three.js-是真的好用](https://www.v2ex.com/t/887403) ![](assets/new.png)  
-- [2022-10-17-各位-v-友，马来西亚的-apple-gift-card-去哪买？有正规渠道了吗](https://www.v2ex.com/t/887402) ![](assets/new.png)  
-- [2022-10-17-Macos-上面有那个软件打开.chm-格式文件，比较好一点](https://www.v2ex.com/t/887401) ![](assets/new.png)  
-- [2022-10-17-14Pro-屏幕突然打不开](https://www.v2ex.com/t/887400) ![](assets/new.png)  
-- [2022-10-16-windows-下面有什么好用的支持列编辑软件么，求推荐](https://www.v2ex.com/t/887399) ![](assets/new.png)  
-- [2022-10-16-20221017-午夜俱乐部](https://www.v2ex.com/t/887398) ![](assets/new.png)  
-- [2022-10-16-YUV-数据分析](https://www.v2ex.com/t/887396) ![](assets/new.png)  
-- [2022-10-16-连续冥想了-999-天了](https://www.v2ex.com/t/887395) ![](assets/new.png)  
-- [2022-10-16-这两天连续遭到好几次陌生人的恶意，心态崩了](https://www.v2ex.com/t/887394) ![](assets/new.png)  
-- [2022-10-16-最近-Ultramobile-的-Wi-Fi-Calling-似乎一直上不去啊](https://www.v2ex.com/t/887393) ![](assets/new.png)  
-- [2022-10-16-还有没有那种百十块钱买-10-年的腾讯云、阿里云优惠路子？](https://www.v2ex.com/t/887392) ![](assets/new.png)  
-- [2022-10-16-Visual-Studio-Code-装了-Copilot-无法激活和使用？](https://www.v2ex.com/t/887389) ![](assets/new.png)  
-- [2022-10-16-大陆如何注册-crypto](https://www.v2ex.com/t/887388) ![](assets/new.png)  
-- [2022-10-16-cloudflare-问下-cloudflare-上面的-24-小时独立-IP-访问-准不准](https://www.v2ex.com/t/887387) ![](assets/new.png)  
+- [2022-10-17-Ansible-出现"Failed-to-validate-the-SSL-certificate"](https://www.v2ex.com/t/887480) ![](assets/new.png)  
+- [2022-10-17-windows-如何做代理服务器？](https://www.v2ex.com/t/887478) ![](assets/new.png)  
+- [2022-10-17-为什么国内把-"Machine-Learning-Engineer"-叫做-"算法工程师"？](https://www.v2ex.com/t/887476) ![](assets/new.png)  
+- [2022-10-17-早教中心怎么选择](https://www.v2ex.com/t/887473) ![](assets/new.png)  
+- [2022-10-17-在个人博客，作品中用一些技术和系统的-logo-图片，会构成侵权嘛？](https://www.v2ex.com/t/887472) ![](assets/new.png)  
+- [2022-10-17-求推荐-golang-入门系列书籍、视频](https://www.v2ex.com/t/887471) ![](assets/new.png)  
+- [2022-10-17-找一份远程前端工作，全职兼职都-ok](https://www.v2ex.com/t/887468) ![](assets/new.png)  
+- [2022-10-17-一键运行的-RSS-聚合开源应用-PocketRSS，支持-RSS-客户端和-Mastodon-客户端](https://www.v2ex.com/t/887467) ![](assets/new.png)  
+- [2022-10-17-招一位资深远程猎头项目经理，从-0-开始筹备猎头项目，-15-20k/月+期权+提成](https://www.v2ex.com/t/887466) ![](assets/new.png)  
+- [2022-10-17-求教局域网-EXCEL-多人编辑协作软件](https://www.v2ex.com/t/887463) ![](assets/new.png)  
+- [2022-10-17-android-录屏时添加遮罩层-应该怎么实现？？](https://www.v2ex.com/t/887461) ![](assets/new.png)  
+- [2022-10-17-怎么用笔记本蓝牙做网络请求接收器？有没有大神有方案？](https://www.v2ex.com/t/887460) ![](assets/new.png)  
+- [2022-10-17-有没有什么可以检查语法错误的翻译软件](https://www.v2ex.com/t/887458) ![](assets/new.png)  
+- [2022-10-17-Mac-上的-imessage-无法正常收发](https://www.v2ex.com/t/887457) ![](assets/new.png)  
+- [2022-10-17-AirPods-3-带上后弹窗不会自动关闭](https://www.v2ex.com/t/887455) ![](assets/new.png)  
+- [2022-10-17-Windows-上有那些程序或插件可以将图片切片成拼图](https://www.v2ex.com/t/887453) ![](assets/new.png)  
+- [2022-10-17-蒙特利尔-零基础转码，挑战-2023.2.9-找到实习](https://www.v2ex.com/t/887452) ![](assets/new.png)  
+- [2022-10-17-给术后恢复的人，一般买什么营养品？](https://www.v2ex.com/t/887451) ![](assets/new.png)  
+- [2022-10-17-各位觉得人生中有哪几件值得个人高兴的大事](https://www.v2ex.com/t/887450) ![](assets/new.png)  
+- [2022-10-17-请教一个-Java-设计模式的问题](https://www.v2ex.com/t/887449) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -554,18 +554,23 @@
 
 
 - [2022-10-17-软件架构的-23-个基本原则](https://toutiao.io/k/mv00es0) ![](assets/new.png)  
-- [2022-10-17-31-个！Golang-常用工具来啦](https://toutiao.io/k/865huja) ![](assets/new.png)  
-- [2022-10-17-Kubernetes-如何优雅地重启-Pod](https://toutiao.io/k/5ir8wfx) ![](assets/new.png)  
-- [2022-10-17-VSCode-扩展之效率提升篇](https://toutiao.io/k/11wzrw8) ![](assets/new.png)  
-- [2022-10-17-CSS-container-queries-are-finally-here](https://toutiao.io/k/7el99bo) ![](assets/new.png)  
-- [2022-10-17-微前端如何做样式隔离？](https://toutiao.io/k/oyqp2bc) ![](assets/new.png)  
 - [2022-10-17-程序员必知的-“大数据”-基础知识](https://toutiao.io/k/qn3o149) ![](assets/new.png)  
+- [2022-10-17-VSCode-扩展之效率提升篇](https://toutiao.io/k/11wzrw8) ![](assets/new.png)  
+- [2022-10-17-Kubernetes-如何优雅地重启-Pod](https://toutiao.io/k/5ir8wfx) ![](assets/new.png)  
+- [2022-10-17-31-个！Golang-常用工具来啦](https://toutiao.io/k/865huja) ![](assets/new.png)  
+- [2022-10-17-微前端如何做样式隔离？](https://toutiao.io/k/oyqp2bc) ![](assets/new.png)  
+- [2022-10-17-CSS-container-queries-are-finally-here](https://toutiao.io/k/7el99bo) ![](assets/new.png)  
 - [2022-10-17-Curve-存储可靠性实验体系](https://toutiao.io/k/lmdu4x6) ![](assets/new.png)  
 - [2022-10-17-Java-互联网事实聊天系统（附源码）](https://toutiao.io/k/igkmny4) ![](assets/new.png)  
 - [2022-10-17-Spark-在大数据开发中的最佳实践](https://toutiao.io/k/i3heesj) ![](assets/new.png)  
+- [2022-10-17-笔记｜Java-性能优化实践-（2-4-章）](https://toutiao.io/k/0v8rtcd) ![](assets/new.png)  
+- [2022-10-17-如何估算项目进度才靠谱？](https://toutiao.io/k/w4rlyix) ![](assets/new.png)  
+- [2022-10-17-因果推断在项目价值评估中的应用](https://toutiao.io/k/hjr58am) ![](assets/new.png)  
+- [2022-10-17-极客的浪漫「GitHub-热点速览-v.22.41」](https://toutiao.io/k/1rl0sl2) ![](assets/new.png)  
+- [2022-10-17-D2C-设计稿转代码是怎么实现的？自己做一个可行吗？](https://toutiao.io/k/rk4k7kv) ![](assets/new.png)  
 - [2022-10-17-推荐-130-个学术网站-26-个科研工具](https://toutiao.io/k/rw2dlfo) ![](assets/new.png)  
-- [2022-10-17-推荐-超实用！整理了-34-个-Python-自动化办公库](https://toutiao.io/k/5wihja2) ![](assets/new.png)  
 - [2022-10-17-推荐-7000-字-+-24-张图带你彻底弄懂线程池](https://toutiao.io/k/wci1eno) ![](assets/new.png)  
+- [2022-10-17-推荐-超实用！整理了-34-个-Python-自动化办公库](https://toutiao.io/k/5wihja2) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

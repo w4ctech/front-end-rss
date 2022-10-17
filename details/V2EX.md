@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2022-10-17 15:57:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-17 16:32:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-10-17-笔记本玩-steam-游戏，小游戏独显也被占用，这个可以调整吗？](https://www.v2ex.com/t/887661) 
+- [2022-10-17-群晖-Cloud-Sync-自动导出的加密密钥是一堆代码咋整](https://www.v2ex.com/t/887660) 
+- [2022-10-17-网友们的-iPhone-有出现奇怪响声吗？](https://www.v2ex.com/t/887659) 
+- [2022-10-17-想干程序员，几乎从零开始，求指点方向](https://www.v2ex.com/t/887658) 
 - [2022-10-17-上海沪-E-两轮电动摩托车有哪些？](https://www.v2ex.com/t/887656) 
 - [2022-10-17-用-Elixir-重写-WebRTC-语音聊天室，自带集群扩容](https://www.v2ex.com/t/887653) 
 - [2022-10-17-Never-trust-a-system-that-seems-to-be-working](https://www.v2ex.com/t/887652) 
@@ -37,7 +41,3 @@
 - [2022-10-17-推荐一款-Android-第三方推特-app](https://www.v2ex.com/t/887614) 
 - [2022-10-17-发生了一件怪事](https://www.v2ex.com/t/887613) 
 - [2022-10-17-为什么同样的镜像，-mac-上没问题，-Linux-下就有问题](https://www.v2ex.com/t/887612) 
-- [2022-10-17-请问-devonthink-windows-有类似的吗？](https://www.v2ex.com/t/887611) 
-- [2022-10-17-耳塞贴合度测试还不够，请为你的-AirPods-Pro-选择真正合适的耳塞](https://www.v2ex.com/t/887610) 
-- [2022-10-17-上海买房地段推荐](https://www.v2ex.com/t/887609) 
-- [2022-10-17-开局一张图，想知道图片中的键盘型号](https://www.v2ex.com/t/887608) 

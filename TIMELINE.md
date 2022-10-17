@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-17 15:57:59。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-10-17 16:32:28。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -71,6 +71,10 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-10-16-2022年新出了哪些form表单新特性？](https://www.zhangxinxu.com/wordpress/2022/10/2022-new-form-property/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-12-CSS-::file-selector-button伪元素简介](https://www.zhangxinxu.com/wordpress/2022/10/css-file-selector-button/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-12-更符合书写习惯的CSS媒体查询Range语法](https://www.zhangxinxu.com/wordpress/2022/10/css-media-range-syntax/) 
+- [【V2EX】2022-10-17-笔记本玩-steam-游戏，小游戏独显也被占用，这个可以调整吗？](https://www.v2ex.com/t/887661) 
+- [【V2EX】2022-10-17-群晖-Cloud-Sync-自动导出的加密密钥是一堆代码咋整](https://www.v2ex.com/t/887660) 
+- [【V2EX】2022-10-17-网友们的-iPhone-有出现奇怪响声吗？](https://www.v2ex.com/t/887659) 
+- [【V2EX】2022-10-17-想干程序员，几乎从零开始，求指点方向](https://www.v2ex.com/t/887658) 
 - [【V2EX】2022-10-17-上海沪-E-两轮电动摩托车有哪些？](https://www.v2ex.com/t/887656) 
 - [【V2EX】2022-10-17-用-Elixir-重写-WebRTC-语音聊天室，自带集群扩容](https://www.v2ex.com/t/887653) 
 - [【V2EX】2022-10-17-Never-trust-a-system-that-seems-to-be-working](https://www.v2ex.com/t/887652) 
@@ -103,10 +107,6 @@
 - [【V2EX】2022-10-17-推荐一款-Android-第三方推特-app](https://www.v2ex.com/t/887614) 
 - [【V2EX】2022-10-17-发生了一件怪事](https://www.v2ex.com/t/887613) 
 - [【V2EX】2022-10-17-为什么同样的镜像，-mac-上没问题，-Linux-下就有问题](https://www.v2ex.com/t/887612) 
-- [【V2EX】2022-10-17-请问-devonthink-windows-有类似的吗？](https://www.v2ex.com/t/887611) 
-- [【V2EX】2022-10-17-耳塞贴合度测试还不够，请为你的-AirPods-Pro-选择真正合适的耳塞](https://www.v2ex.com/t/887610) 
-- [【V2EX】2022-10-17-上海买房地段推荐](https://www.v2ex.com/t/887609) 
-- [【V2EX】2022-10-17-开局一张图，想知道图片中的键盘型号](https://www.v2ex.com/t/887608) 
 - [【技术头条】2022-10-17-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-17-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-17-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

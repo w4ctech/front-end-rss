@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-18 06:56:23，:rocket: 更新条数: +1998， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-18 07:37:17，:rocket: 更新条数: +1999， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,16 @@
 </summary>
 
 
+- [2022-10-18-Advantages-of-WiFi-Wireless-Technology](https://www.v2ex.com/t/887793) ![](assets/new.png)  
+- [2022-10-18-有人在-watch-上弄过移动副卡么？](https://www.v2ex.com/t/887792) ![](assets/new.png)  
+- [2022-10-18-请教下-window-下多网段通信问题](https://www.v2ex.com/t/887791) ![](assets/new.png)  
+- [2022-10-18-微信好像被封了，又好像没有](https://www.v2ex.com/t/887789) ![](assets/new.png)  
+- [2022-10-18-探讨一下分治算法，这里面竟然蕴藏着大自然的奥秘？](https://www.v2ex.com/t/887788) ![](assets/new.png)  
+- [2022-10-18-南通游加招-PHP-后端](https://www.v2ex.com/t/887785) ![](assets/new.png)  
+- [2022-10-18-想听听各位大佬公司里服务器的配置和技术栈](https://www.v2ex.com/t/887784) ![](assets/new.png)  
+- [2022-10-18-卧槽，我的美国小鸡居然可以直连了](https://www.v2ex.com/t/887783) ![](assets/new.png)  
+- [2022-10-18-MacBook-Pro-2021-开机黑屏，有声音，扩展屏可以使用，其他正常，大家有遇到这种情况吗？都如何处理的呢？](https://www.v2ex.com/t/887781) ![](assets/new.png)  
+- [2022-10-18-大佬们，前端学习的技术路线以及学习路径是啥呢？部门就我一个前端了，真心求问。](https://www.v2ex.com/t/887780) ![](assets/new.png)  
 - [2022-10-18-apple-账号开启了两步验证，但忘记了恢复秘钥和密码还能找回吗？](https://www.v2ex.com/t/887778) ![](assets/new.png)  
 - [2022-10-18-想问一下各位大佬，做一个这样的系统，需要学习什么东西呢？](https://www.v2ex.com/t/887777) ![](assets/new.png)  
 - [2022-10-18-8GB-内存，任务管理器里算只用了-4GB-出头，动不动就-OOM（程序被-kill，浏览器页面-crash），怎么找剩下的内存被什么用了？上次看到有用-CPU-性能换降低-JB-IDE...](https://www.v2ex.com/t/887775) ![](assets/new.png)  
@@ -501,16 +511,6 @@
 - [2022-10-18-原来开公网-ip-这么简单…那么问题来了，能用来干嘛呢](https://www.v2ex.com/t/887761) ![](assets/new.png)  
 - [2022-10-18-职业发展瓶颈](https://www.v2ex.com/t/887759) ![](assets/new.png)  
 - [2022-10-18-微信公众号、微博、知乎、小红书有提供谷歌百度那样的搜索语法吗？](https://www.v2ex.com/t/887758) ![](assets/new.png)  
-- [2022-10-18-不用-k8s,docker-情况下-怎么方便的滚动升级很多台的服务](https://www.v2ex.com/t/887757) ![](assets/new.png)  
-- [2022-10-18-家里准备安装网络，做了个拓扑图大家帮看看有坑没有~](https://www.v2ex.com/t/887756) ![](assets/new.png)  
-- [2022-10-18-在本地电脑-RDP-远程海外-win-服务器，能被扫描到吗？](https://www.v2ex.com/t/887755) ![](assets/new.png)  
-- [2022-10-18-纯远程工作，多岗位招聘-产品、PM、策划运营、SEO-等，一家海外的小创业公司](https://www.v2ex.com/t/887754) ![](assets/new.png)  
-- [2022-10-18-m1-休眠后外接显示器-idea-界面全黑](https://www.v2ex.com/t/887753) ![](assets/new.png)  
-- [2022-10-18-Cat9:-A-command-line-shell-written-in-Lua](https://www.v2ex.com/t/887752) ![](assets/new.png)  
-- [2022-10-18-调试基础知识及原理](https://www.v2ex.com/t/887751) ![](assets/new.png)  
-- [2022-10-18-第三方客户端登录-Gmail-失败，提示「出了点问题」](https://www.v2ex.com/t/887750) ![](assets/new.png)  
-- [2022-10-18-Git-如何只添加一行改动？](https://www.v2ex.com/t/887749) ![](assets/new.png)  
-- [2022-10-18-白板或共有画面考算法的时候，标准库函数（API）1，-2-行可以解决的问题，建议直接用嘛？](https://www.v2ex.com/t/887748) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

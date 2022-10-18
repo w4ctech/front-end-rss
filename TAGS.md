@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-10-18 15:21:08。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-18 15:55:10。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -198,6 +198,7 @@
 - [【张鑫旭-鑫空间-鑫生活】更符合书写习惯的CSS媒体查询Range语法](https://www.zhangxinxu.com/wordpress/2022/10/css-media-range-syntax/)
 - [【张鑫旭-鑫空间-鑫生活】介绍2022最期待且已正式支持的CSS-container容器查询](https://www.zhangxinxu.com/wordpress/2022/09/css-container-rule/)
 - [【张鑫旭-鑫空间-鑫生活】来了，来了，CSS-:has伪类她来了](https://www.zhangxinxu.com/wordpress/2022/08/css-has-pseudo-class/)
+- [【V2EX】tailscale-Site-to-site-networking](https://www.v2ex.com/t/887952)
 - [【V2EX】Studio-Display-更新固件一般需要多长时间？](https://www.v2ex.com/t/887916)
 - [......【查看更多】......](./details/tags/css.md)
 
@@ -233,6 +234,7 @@
 
 - [【武汉肺炎防疫全纪录(财新网)】广州17岁男生在定点医院参加高考-特殊考场视频监考](https://m.caixin.com/m/2021-06-05/101723418.html)
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
+- [【V2EX】tvOS-的-Share-Audio-不支持-AirPods-Pro-2](https://www.v2ex.com/t/887944)
 - [【V2EX】是否只有国内的视频-App-有上下拖动调整音量的手势呢？](https://www.v2ex.com/t/887932)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
@@ -272,8 +274,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】腺病毒新冠疫苗引安全忧虑-康希诺称未发现血栓病例](https://m.caixin.com/m/2021-04-14/101691086.html)
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
-- [【V2EX】开发了一款-GitHub-相似仓库推荐/个性化推荐-Chrome-插件](https://www.v2ex.com/t/887896)
-- [【V2EX】老是喜欢在浏览器上开很多标签页，也不舍得关，怎么办](https://www.v2ex.com/t/887894)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -342,7 +342,6 @@
 
 
 - [【V2EX】Web3.0-招聘技术-VP/CTO，工作地点：-home-base，英语口语流利，薪水（具体可谈）](https://www.v2ex.com/t/887929)
-- [【V2EX】面试-pua](https://www.v2ex.com/t/887900)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

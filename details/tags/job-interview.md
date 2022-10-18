@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-18 15:21:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-18 15:55:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -8,4 +8,3 @@
 
 
 - [2022-10-18-Web3.0-招聘技术-VP/CTO，工作地点：-home-base，英语口语流利，薪水（具体可谈）](https://www.v2ex.com/t/887929) 
-- [2022-10-18-面试-pua](https://www.v2ex.com/t/887900) 

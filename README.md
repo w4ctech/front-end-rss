@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-18 21:15:49，:rocket: 更新条数: +2014， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-18 21:45:42，:rocket: 更新条数: +2013， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -493,7 +493,6 @@
 
 - [2022-10-18-如何整合-Spring-Gateway-和-Spring-OAuth2](https://www.v2ex.com/t/887979) ![](assets/new.png)  
 - [2022-10-18-20221019-午夜俱乐部](https://www.v2ex.com/t/887978) ![](assets/new.png)  
-- [2022-10-18-如何整合-Spring-Gateway-和-Spring-OAuth2?](https://www.v2ex.com/t/887977) ![](assets/new.png)  
 - [2022-10-18-我的预测还挺准的](https://www.v2ex.com/t/887976) ![](assets/new.png)  
 - [2022-10-18-有办法转换-IPv4-与-IPv6-的地址么？](https://www.v2ex.com/t/887975) ![](assets/new.png)  
 - [2022-10-18-新域名注册特惠-20](https://www.v2ex.com/t/887974) ![](assets/new.png)  
@@ -511,6 +510,7 @@
 - [2022-10-18-iOS-下是不是已经没有体验很好的视频播放器了？](https://www.v2ex.com/t/887962) ![](assets/new.png)  
 - [2022-10-18-iPad-全线涨价，连老款的-Air-都涨了-400](https://www.v2ex.com/t/887961) ![](assets/new.png)  
 - [2022-10-18-苹果还专为-iPad10-推出新款妙控键盘双面夹](https://www.v2ex.com/t/887960) ![](assets/new.png)  
+- [2022-10-18-Apple-真的打算换-USB-C-了](https://www.v2ex.com/t/887959) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

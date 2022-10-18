@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-18 16:29:37，:rocket: 更新条数: +2011， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-18 17:14:39，:rocket: 更新条数: +2011， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-10-18-百度网盘如何批量下载指定文件？](https://www.v2ex.com/t/887970) ![](assets/new.png)  
+- [2022-10-18-出-绿云-99-圣何塞-EPYC-Zen3](https://www.v2ex.com/t/887969) ![](assets/new.png)  
+- [2022-10-18-我隐约觉得世界是虚拟的。为啥光速是恒定的，各个星球在不分上下左右的乱窜，感觉只有程序员才能设置成这样!](https://www.v2ex.com/t/887968) ![](assets/new.png)  
+- [2022-10-18-关于-macOS-操作系统的物理分辨率和逻辑分辨率的问题？](https://www.v2ex.com/t/887967) ![](assets/new.png)  
 - [2022-10-18-求助天津云主机新因公司业务要一台天津必须天津必须天津的云主机，求助哪个云厂商有天津的-ECS?](https://www.v2ex.com/t/887966) ![](assets/new.png)  
 - [2022-10-18-最近-justmysocks-的订阅一直更新不了咋整？](https://www.v2ex.com/t/887965) ![](assets/new.png)  
 - [2022-10-18-关于健忘问个问题](https://www.v2ex.com/t/887964) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-10-18-tailscale-Site-to-site-networking](https://www.v2ex.com/t/887952) ![](assets/new.png)  
 - [2022-10-18-在发布新-iPad-之后，-iPad-Air-5-官方价格居然涨了-400/500](https://www.v2ex.com/t/887951) ![](assets/new.png)  
 - [2022-10-18-请问这段应该怎么翻译](https://www.v2ex.com/t/887950) ![](assets/new.png)  
-- [2022-10-18-分享使-U-盘更强大的工具](https://www.v2ex.com/t/887949) ![](assets/new.png)  
-- [2022-10-18-apple-tv-2022-款升级点汇总](https://www.v2ex.com/t/887948) ![](assets/new.png)  
-- [2022-10-18-Apple-TV-2022-国内最快啥渠道能买到啊](https://www.v2ex.com/t/887947) ![](assets/new.png)  
-- [2022-10-18-请问国内有什么银行，其手机-APP-提供了最基础最简单的信用卡消费明细查账功能？](https://www.v2ex.com/t/887945) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

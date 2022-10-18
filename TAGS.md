@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-10-18 23:20:10。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-18 23:52:39。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -235,7 +235,6 @@
 - [【V2EX】iOS-下是不是已经没有体验很好的视频播放器了？](https://www.v2ex.com/t/887962)
 - [【V2EX】腾讯视频月卡-12-元一张](https://www.v2ex.com/t/887956)
 - [【V2EX】tvOS-的-Share-Audio-不支持-AirPods-Pro-2](https://www.v2ex.com/t/887944)
-- [【V2EX】是否只有国内的视频-App-有上下拖动调整音量的手势呢？](https://www.v2ex.com/t/887932)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

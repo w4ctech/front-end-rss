@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-18 23:20:10，:rocket: 更新条数: +2013， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-18 23:52:39，:rocket: 更新条数: +2013， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-10-18-支持-80Gbps-的-USB-规范终于来了](https://www.v2ex.com/t/887982) ![](assets/new.png)  
 - [2022-10-18-请问面试被提问优缺点要怎么回答比较好？](https://www.v2ex.com/t/887981) ![](assets/new.png)  
 - [2022-10-18-看苹果新-iPad-有感](https://www.v2ex.com/t/887980) ![](assets/new.png)  
 - [2022-10-18-如何整合-Spring-Gateway-和-Spring-OAuth2](https://www.v2ex.com/t/887979) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-10-18-关于健忘问个问题](https://www.v2ex.com/t/887964) ![](assets/new.png)  
 - [2022-10-18-iPad-Air-5-居然涨价了！？？](https://www.v2ex.com/t/887963) ![](assets/new.png)  
 - [2022-10-18-iOS-下是不是已经没有体验很好的视频播放器了？](https://www.v2ex.com/t/887962) ![](assets/new.png)  
-- [2022-10-18-iPad-全线涨价，连老款的-Air-都涨了-400](https://www.v2ex.com/t/887961) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

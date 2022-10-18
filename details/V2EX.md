@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-10-18 23:20:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-18 23:52:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-10-18-支持-80Gbps-的-USB-规范终于来了](https://www.v2ex.com/t/887982) 
 - [2022-10-18-请问面试被提问优缺点要怎么回答比较好？](https://www.v2ex.com/t/887981) 
 - [2022-10-18-看苹果新-iPad-有感](https://www.v2ex.com/t/887980) 
 - [2022-10-18-如何整合-Spring-Gateway-和-Spring-OAuth2](https://www.v2ex.com/t/887979) 
@@ -51,4 +52,3 @@
 - [2022-10-18-凹语言-v0.2.3-发布](https://www.v2ex.com/t/887935) 
 - [2022-10-18-iPad-第十代已在官网上架](https://www.v2ex.com/t/887934) 
 - [2022-10-18-iptables-规则匹配遇到的问题](https://www.v2ex.com/t/887933) 
-- [2022-10-18-是否只有国内的视频-App-有上下拖动调整音量的手势呢？](https://www.v2ex.com/t/887932) 

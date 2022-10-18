@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-18 05:55:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-18 06:56:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -16,5 +16,3 @@
 - [2022-10-18-调试基础知识及原理](https://www.v2ex.com/t/887751) 
 - [2022-10-18-用-Ubuntu18-与-clion-调试-FFmpeg](https://www.v2ex.com/t/887747) 
 - [2022-10-18-谈谈我是如何高效率的工作，高效率的-Get-Things-Done-和让团队高效率运转](https://www.v2ex.com/t/887733) 
-- [2022-10-18-最近在调研开源的-HTTP-缓存方案，-squid、varnish、问下各-CDN-厂商还有各大厂的同学你们都用的什么？](https://www.v2ex.com/t/887725) 
-- [2022-10-18-北京-初创-安全公司-不加班-急招中高级前端、后端开发工程师（GO、-Java-、C\C++）](https://www.v2ex.com/t/887716) 

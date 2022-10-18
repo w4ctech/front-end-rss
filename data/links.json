@@ -9953,6 +9953,41 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "apple 账号开启了两步验证，但忘记了恢复秘钥和密码还能找回吗？",
+        "link": "https://www.v2ex.com/t/887778",
+        "date": "2022-10-18"
+      },
+      {
+        "title": "想问一下各位大佬，做一个这样的系统，需要学习什么东西呢？",
+        "link": "https://www.v2ex.com/t/887777",
+        "date": "2022-10-18"
+      },
+      {
+        "title": "8GB 内存，任务管理器里算只用了 4GB 出头，动不动就 OOM（程序被 kill，浏览器页面 crash），怎么找剩下的内存被什么用了？上次看到有用 CPU 性能换降低 JB IDE...",
+        "link": "https://www.v2ex.com/t/887775",
+        "date": "2022-10-18"
+      },
+      {
+        "title": "htmx 是复古？还是新潮流？",
+        "link": "https://www.v2ex.com/t/887774",
+        "date": "2022-10-18"
+      },
+      {
+        "title": "不懂就问 关于 Java 动态配置定时任务的问题",
+        "link": "https://www.v2ex.com/t/887771",
+        "date": "2022-10-18"
+      },
+      {
+        "title": "实习生整天坐你旁边怎么办？烦死了",
+        "link": "https://www.v2ex.com/t/887770",
+        "date": "2022-10-18"
+      },
+      {
+        "title": "「GM_脚本」Feedly 标记已读辅助「小代码」",
+        "link": "https://www.v2ex.com/t/887769",
+        "date": "2022-10-18"
+      },
+      {
         "title": "原来开公网 ip 这么简单…那么问题来了，能用来干嘛呢",
         "link": "https://www.v2ex.com/t/887761",
         "date": "2022-10-18"
@@ -10075,76 +10110,6 @@
       {
         "title": "笔记本的板载网卡能升级吗？",
         "link": "https://www.v2ex.com/t/887730",
-        "date": "2022-10-18"
-      },
-      {
-        "title": "C++程序猿最近被迫写写 Java 的感受",
-        "link": "https://www.v2ex.com/t/887729",
-        "date": "2022-10-18"
-      },
-      {
-        "title": "区块链游戏是否真的去中心化？或者存在的必要是为了割韭菜？",
-        "link": "https://www.v2ex.com/t/887728",
-        "date": "2022-10-18"
-      },
-      {
-        "title": "[v 友求助] 工作机会选择",
-        "link": "https://www.v2ex.com/t/887726",
-        "date": "2022-10-18"
-      },
-      {
-        "title": "最近在调研开源的 HTTP 缓存方案， squid、varnish、问下各 CDN 厂商还有各大厂的同学你们都用的什么？",
-        "link": "https://www.v2ex.com/t/887725",
-        "date": "2022-10-18"
-      },
-      {
-        "title": "独立产品灵感周刊 DecoHack #034 - 谷歌的前端开发课程",
-        "link": "https://www.v2ex.com/t/887724",
-        "date": "2022-10-18"
-      },
-      {
-        "title": "新手提问：如何退出 docker 容器而不让容器 exit",
-        "link": "https://www.v2ex.com/t/887723",
-        "date": "2022-10-18"
-      },
-      {
-        "title": "求推荐前端开发好用的代码编辑器",
-        "link": "https://www.v2ex.com/t/887722",
-        "date": "2022-10-18"
-      },
-      {
-        "title": "使用 Golang + Vue3 重构了开源目录列表程序 Zdir",
-        "link": "https://www.v2ex.com/t/887721",
-        "date": "2022-10-18"
-      },
-      {
-        "title": "美国小鸡昨晚正常，今天已无法使用。",
-        "link": "https://www.v2ex.com/t/887719",
-        "date": "2022-10-18"
-      },
-      {
-        "title": "[上海] 15 年程序员寻求合作机会",
-        "link": "https://www.v2ex.com/t/887718",
-        "date": "2022-10-18"
-      },
-      {
-        "title": "我开源了一个百度地图 GL 版 Vue3 组件库",
-        "link": "https://www.v2ex.com/t/887717",
-        "date": "2022-10-18"
-      },
-      {
-        "title": "[北京]-[初创]-[安全公司]-[不加班] 急招中高级前端、后端开发工程师（GO、 Java 、C\\C++）",
-        "link": "https://www.v2ex.com/t/887716",
-        "date": "2022-10-18"
-      },
-      {
-        "title": "国庆刚办完婚礼，现在感觉已经过不下去了",
-        "link": "https://www.v2ex.com/t/887715",
-        "date": "2022-10-18"
-      },
-      {
-        "title": "求助大家，家里人让配一台主机，用于收银办公。",
-        "link": "https://www.v2ex.com/t/887713",
         "date": "2022-10-18"
       }
     ]

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-10-18 05:55:08。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-18 06:56:23。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -56,8 +56,6 @@
 
 
 
-- [【V2EX】使用-Golang-+-Vue3-重构了开源目录列表程序-Zdir](https://www.v2ex.com/t/887721)
-- [【V2EX】我开源了一个百度地图-GL-版-Vue3-组件库](https://www.v2ex.com/t/887717)
 - [......【查看更多】......](./details/tags/vue.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -155,7 +153,6 @@
 
 
 
-- [【V2EX】区块链游戏是否真的去中心化？或者存在的必要是为了割韭菜？](https://www.v2ex.com/t/887728)
 - [......【查看更多】......](./details/tags/dev-game.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -252,6 +249,7 @@
 
 
 
+- [【V2EX】8GB-内存，任务管理器里算只用了-4GB-出头，动不动就-OOM（程序被-kill，浏览器页面-crash），怎么找剩下的内存被什么用了？上次看到有用-CPU-性能换降低-JB-IDE...](https://www.v2ex.com/t/887775)
 - [【V2EX】纯远程工作，多岗位招聘-产品、PM、策划运营、SEO-等，一家海外的小创业公司](https://www.v2ex.com/t/887754)
 - [......【查看更多】......](./details/tags/optimization.md)
 
@@ -278,8 +276,6 @@
 - [【V2EX】调试基础知识及原理](https://www.v2ex.com/t/887751)
 - [【V2EX】用-Ubuntu18-与-clion-调试-FFmpeg](https://www.v2ex.com/t/887747)
 - [【V2EX】谈谈我是如何高效率的工作，高效率的-Get-Things-Done-和让团队高效率运转](https://www.v2ex.com/t/887733)
-- [【V2EX】最近在调研开源的-HTTP-缓存方案，-squid、varnish、问下各-CDN-厂商还有各大厂的同学你们都用的什么？](https://www.v2ex.com/t/887725)
-- [【V2EX】北京-初创-安全公司-不加班-急招中高级前端、后端开发工程师（GO、-Java-、C\C++）](https://www.v2ex.com/t/887716)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -314,7 +310,6 @@
 
 
 
-- [【V2EX】新手提问：如何退出-docker-容器而不让容器-exit](https://www.v2ex.com/t/887723)
 - [【技术头条】GraphQL及元数据驱动架构在后端BFF中的实践-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15395&url=https%3A%2F%2Ftech.meituan.com%2F2021%2F05%2F06%2Fbff-graphql.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/server.md)
 

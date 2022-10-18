@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-18 11:43:45，:rocket: 更新条数: +2006， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-18 12:34:17，:rocket: 更新条数: +2006， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,15 @@
 </summary>
 
 
+- [2022-10-18-老是喜欢在浏览器上开很多标签页，也不舍得关，怎么办](https://www.v2ex.com/t/887894) ![](assets/new.png)  
+- [2022-10-18-苹果商店是准备上新品了吗](https://www.v2ex.com/t/887893) ![](assets/new.png)  
+- [2022-10-18-研二想找个后端-go-的日常实习，大佬们可以帮忙指导下简历吗，感谢！](https://www.v2ex.com/t/887892) ![](assets/new.png)  
+- [2022-10-18-求推荐老人（70+）使用能视频通话的电子产品](https://www.v2ex.com/t/887891) ![](assets/new.png)  
+- [2022-10-18-18-年底入的-Xs，想双十一换个-iPhone-14，大佬们有羊毛攻略分享下吗](https://www.v2ex.com/t/887889) ![](assets/new.png)  
+- [2022-10-18-国内大公司为啥没兴趣做搜索引擎？](https://www.v2ex.com/t/887887) ![](assets/new.png)  
+- [2022-10-18-Apple-官网商店开始更新](https://www.v2ex.com/t/887886) ![](assets/new.png)  
+- [2022-10-18-macos-免费的剪切板工具-DaClipbd](https://www.v2ex.com/t/887885) ![](assets/new.png)  
+- [2022-10-18-有没有人愿意做一个记录两个人心跳同步速度和模式的-APP？感觉挺好玩的](https://www.v2ex.com/t/887884) ![](assets/new.png)  
 - [2022-10-18-分享一个-JavaWeb-鉴权框架-同时支持-RBAC、ABAC-鉴权方式](https://www.v2ex.com/t/887883) ![](assets/new.png)  
 - [2022-10-18-FFmpeg-引入-NVIDIA-硬件编解码扩展](https://www.v2ex.com/t/887882) ![](assets/new.png)  
 - [2022-10-18-纠结-14-寸还是-16-寸的-MacBook-Pro](https://www.v2ex.com/t/887881) ![](assets/new.png)  
@@ -498,19 +507,10 @@
 - [2022-10-18-在浏览器中使用-nedb-作为存储库，在浏览器打开多个标签页情况下，如何实现数据的更新](https://www.v2ex.com/t/887879) ![](assets/new.png)  
 - [2022-10-18-健身记录共享没有朋友数据了怎么办](https://www.v2ex.com/t/887878) ![](assets/new.png)  
 - [2022-10-18-Why-Rust?](https://www.v2ex.com/t/887877) ![](assets/new.png)  
-- [2022-10-18-V-站舔狗收集](https://www.v2ex.com/t/887876) ![](assets/new.png)  
 - [2022-10-18-mbp-2020-长期用-35w-的充电器可以吗](https://www.v2ex.com/t/887875) ![](assets/new.png)  
 - [2022-10-18-LoopAuth-2.X-版本发布——这可能是你第一次使用-ABAC-鉴权](https://www.v2ex.com/t/887873) ![](assets/new.png)  
 - [2022-10-18-使用-telethon-的库被封了好几个-gv-号](https://www.v2ex.com/t/887872) ![](assets/new.png)  
 - [2022-10-18-关于在-Windows-终端执行-Python-文件](https://www.v2ex.com/t/887871) ![](assets/new.png)  
-- [2022-10-18-微信测试版终于适配-Android12L-的-API，平板和折叠屏也能拥有分栏界面了](https://www.v2ex.com/t/887868) ![](assets/new.png)  
-- [2022-10-18-新网域名证书查询系统一点限制都不做嘛？](https://www.v2ex.com/t/887867) ![](assets/new.png)  
-- [2022-10-18-关于婚姻，我对广大男性同胞的建议。](https://www.v2ex.com/t/887866) ![](assets/new.png)  
-- [2022-10-18-如果有更好的理财手段，杭州公积金是不是应该尽可能取出来？](https://www.v2ex.com/t/887865) ![](assets/new.png)  
-- [2022-10-18-网线六类、网卡驱动及路由器均设置正确，为什么带宽只有-100m？？](https://www.v2ex.com/t/887864) ![](assets/new.png)  
-- [2022-10-18-2018-款-MacBook-Pro-蝴蝶键盘又粘滞了，还能走键盘维修计划吗？](https://www.v2ex.com/t/887863) ![](assets/new.png)  
-- [2022-10-18-已解决-eve-ng-模拟器客户端在-macos-的-vnc-问题](https://www.v2ex.com/t/887862) ![](assets/new.png)  
-- [2022-10-18-Minetest-是一个开源类-Minecraft-引擎，-mineclone2-是-MC-生存模式高仿](https://www.v2ex.com/t/887861) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

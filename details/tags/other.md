@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-18 11:16:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-18 11:43:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1914,6 +1914,15 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-10-18-分享一个-JavaWeb-鉴权框架-同时支持-RBAC、ABAC-鉴权方式](https://www.v2ex.com/t/887883) 
+- [2022-10-18-FFmpeg-引入-NVIDIA-硬件编解码扩展](https://www.v2ex.com/t/887882) 
+- [2022-10-18-纠结-14-寸还是-16-寸的-MacBook-Pro](https://www.v2ex.com/t/887881) 
+- [2022-10-18-问前端，画拓扑图都用的啥？](https://www.v2ex.com/t/887880) 
+- [2022-10-18-健身记录共享没有朋友数据了怎么办](https://www.v2ex.com/t/887878) 
+- [2022-10-18-Why-Rust?](https://www.v2ex.com/t/887877) 
+- [2022-10-18-V-站舔狗收集](https://www.v2ex.com/t/887876) 
+- [2022-10-18-mbp-2020-长期用-35w-的充电器可以吗](https://www.v2ex.com/t/887875) 
+- [2022-10-18-LoopAuth-2.X-版本发布——这可能是你第一次使用-ABAC-鉴权](https://www.v2ex.com/t/887873) 
 - [2022-10-18-使用-telethon-的库被封了好几个-gv-号](https://www.v2ex.com/t/887872) 
 - [2022-10-18-关于在-Windows-终端执行-Python-文件](https://www.v2ex.com/t/887871) 
 - [2022-10-18-新网域名证书查询系统一点限制都不做嘛？](https://www.v2ex.com/t/887867) 
@@ -1938,11 +1947,6 @@
 - [2022-10-18-显示器推荐](https://www.v2ex.com/t/887839) 
 - [2022-10-18-airpods-pro-无法在-mac-和-iPhone-上无缝衔接](https://www.v2ex.com/t/887838) 
 - [2022-10-18-自己搭建邮件投递-更新（2）：使用-contabo-实测邮件投递服务](https://www.v2ex.com/t/887834) 
-- [2022-10-18-求助-自建的为知笔记无法登录问题](https://www.v2ex.com/t/887833) 
-- [2022-10-18-Touch-Bar-坏了](https://www.v2ex.com/t/887831) 
-- [2022-10-18-双十一准备换手机，想体验鸿蒙设备，预算-3k，有推荐的吗](https://www.v2ex.com/t/887827) 
-- [2022-10-18-求推荐一个海外云存储服务，支持图片处理功能](https://www.v2ex.com/t/887826) 
-- [2022-10-18-求一款开关，用于将门禁开关改成射频的可以远程控制](https://www.v2ex.com/t/887823) 
 - [2022-10-18-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-18-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-18-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

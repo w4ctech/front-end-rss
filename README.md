@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-18 11:16:10，:rocket: 更新条数: +2003， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-18 11:43:45，:rocket: 更新条数: +2006， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,16 @@
 </summary>
 
 
+- [2022-10-18-分享一个-JavaWeb-鉴权框架-同时支持-RBAC、ABAC-鉴权方式](https://www.v2ex.com/t/887883) ![](assets/new.png)  
+- [2022-10-18-FFmpeg-引入-NVIDIA-硬件编解码扩展](https://www.v2ex.com/t/887882) ![](assets/new.png)  
+- [2022-10-18-纠结-14-寸还是-16-寸的-MacBook-Pro](https://www.v2ex.com/t/887881) ![](assets/new.png)  
+- [2022-10-18-问前端，画拓扑图都用的啥？](https://www.v2ex.com/t/887880) ![](assets/new.png)  
+- [2022-10-18-在浏览器中使用-nedb-作为存储库，在浏览器打开多个标签页情况下，如何实现数据的更新](https://www.v2ex.com/t/887879) ![](assets/new.png)  
+- [2022-10-18-健身记录共享没有朋友数据了怎么办](https://www.v2ex.com/t/887878) ![](assets/new.png)  
+- [2022-10-18-Why-Rust?](https://www.v2ex.com/t/887877) ![](assets/new.png)  
+- [2022-10-18-V-站舔狗收集](https://www.v2ex.com/t/887876) ![](assets/new.png)  
+- [2022-10-18-mbp-2020-长期用-35w-的充电器可以吗](https://www.v2ex.com/t/887875) ![](assets/new.png)  
+- [2022-10-18-LoopAuth-2.X-版本发布——这可能是你第一次使用-ABAC-鉴权](https://www.v2ex.com/t/887873) ![](assets/new.png)  
 - [2022-10-18-使用-telethon-的库被封了好几个-gv-号](https://www.v2ex.com/t/887872) ![](assets/new.png)  
 - [2022-10-18-关于在-Windows-终端执行-Python-文件](https://www.v2ex.com/t/887871) ![](assets/new.png)  
 - [2022-10-18-微信测试版终于适配-Android12L-的-API，平板和折叠屏也能拥有分栏界面了](https://www.v2ex.com/t/887868) ![](assets/new.png)  
@@ -501,16 +511,6 @@
 - [2022-10-18-2018-款-MacBook-Pro-蝴蝶键盘又粘滞了，还能走键盘维修计划吗？](https://www.v2ex.com/t/887863) ![](assets/new.png)  
 - [2022-10-18-已解决-eve-ng-模拟器客户端在-macos-的-vnc-问题](https://www.v2ex.com/t/887862) ![](assets/new.png)  
 - [2022-10-18-Minetest-是一个开源类-Minecraft-引擎，-mineclone2-是-MC-生存模式高仿](https://www.v2ex.com/t/887861) ![](assets/new.png)  
-- [2022-10-18-想收个-iPod-classic-三代，有人出吗？](https://www.v2ex.com/t/887859) ![](assets/new.png)  
-- [2022-10-18-iOS-有哪些多渠道打包方案](https://www.v2ex.com/t/887858) ![](assets/new.png)  
-- [2022-10-18-帮忙看看我的-offer](https://www.v2ex.com/t/887856) ![](assets/new.png)  
-- [2022-10-18-深圳-软件质量工程师](https://www.v2ex.com/t/887855) ![](assets/new.png)  
-- [2022-10-18-谷歌爬虫好像自带支持动态加载内容？那还要做-ssr-吗？](https://www.v2ex.com/t/887854) ![](assets/new.png)  
-- [2022-10-18-开了个-1.19.2-摸鱼服](https://www.v2ex.com/t/887853) ![](assets/new.png)  
-- [2022-10-18-相亲之后，你们一般多久在一起？](https://www.v2ex.com/t/887852) ![](assets/new.png)  
-- [2022-10-18-初学-go,请问这是闭包的高阶函数吗？](https://www.v2ex.com/t/887851) ![](assets/new.png)  
-- [2022-10-18-各位感冒习惯马上去看还是扛过去？](https://www.v2ex.com/t/887850) ![](assets/new.png)  
-- [2022-10-18-ios-设置的通讯录头像为啥不能在-mac-上同步](https://www.v2ex.com/t/887849) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

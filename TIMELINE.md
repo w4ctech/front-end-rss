@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-18 18:03:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-10-18 18:44:52。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -71,6 +71,9 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-10-16-2022年新出了哪些form表单新特性？](https://www.zhangxinxu.com/wordpress/2022/10/2022-new-form-property/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-12-CSS-::file-selector-button伪元素简介](https://www.zhangxinxu.com/wordpress/2022/10/css-file-selector-button/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-12-更符合书写习惯的CSS媒体查询Range语法](https://www.zhangxinxu.com/wordpress/2022/10/css-media-range-syntax/) 
+- [【V2EX】2022-10-18-我的预测还挺准的](https://www.v2ex.com/t/887976) 
+- [【V2EX】2022-10-18-有办法转换-IPv4-与-IPv6-的地址么？](https://www.v2ex.com/t/887975) 
+- [【V2EX】2022-10-18-新域名注册特惠-20](https://www.v2ex.com/t/887974) 
 - [【V2EX】2022-10-18-🇨🇳「中国制霸生成器」中国三十四省级行政区域制霸标记生成工具](https://www.v2ex.com/t/887973) 
 - [【V2EX】2022-10-18-tinywow.com-这个网站很好看,-用什么技术栈的?-whatsrun-看不到](https://www.v2ex.com/t/887972) 
 - [【V2EX】2022-10-18-抖音推广软件如何减小被风控概率？](https://www.v2ex.com/t/887971) 
@@ -115,8 +118,6 @@
 - [【V2EX】2022-10-18-2023-届校招秋招总结](https://www.v2ex.com/t/887930) 
 - [【V2EX】2022-10-18-Web3.0-招聘技术-VP/CTO，工作地点：-home-base，英语口语流利，薪水（具体可谈）](https://www.v2ex.com/t/887929) 
 - [【V2EX】2022-10-18-求一个笔记本无线上网设备](https://www.v2ex.com/t/887928) 
-- [【V2EX】2022-10-18-刚拿到驾照不久，想买辆二手车练手](https://www.v2ex.com/t/887926) 
-- [【V2EX】2022-10-18-Electron-上运行的-Windows-95-发布新版本](https://www.v2ex.com/t/887924) 
 - [【技术头条】2022-10-18-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-18-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-18-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

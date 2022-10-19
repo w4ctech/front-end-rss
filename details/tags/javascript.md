@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-19 08:30:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-19 09:04:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -15,4 +15,5 @@
 - [2021-03-03-港府回应一63岁患者死亡事件-暂无法确定与疫苗相关](https://m.caixin.com/m/2021-03-03/101670052.html) 
 - [2022-10-16-2022年新出了哪些form表单新特性？](https://www.zhangxinxu.com/wordpress/2022/10/2022-new-form-property/) 
 - [2022-08-21-JS-replaceAll-和-matchAll-使用指南不指北](https://www.zhangxinxu.com/wordpress/2022/08/js-replaceall-matchall/) 
+- [2022-10-19-2022-年底了，求推荐可刷-openwrt-的免拆的百元级别千兆无线路由器。](https://www.v2ex.com/t/888162) 
 - [2022-10-19-阿里巴巴-Noslate-正式开源---面向云原生的-JavaScript-容器方案](https://www.v2ex.com/t/888139) 

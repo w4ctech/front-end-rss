@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-19 23:10:26。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-10-19 23:19:52。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -71,6 +71,7 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-10-16-2022年新出了哪些form表单新特性？](https://www.zhangxinxu.com/wordpress/2022/10/2022-new-form-property/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-12-CSS-::file-selector-button伪元素简介](https://www.zhangxinxu.com/wordpress/2022/10/css-file-selector-button/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-12-更符合书写习惯的CSS媒体查询Range语法](https://www.zhangxinxu.com/wordpress/2022/10/css-media-range-syntax/) 
+- [【V2EX】2022-10-19-家用服务器-deskmini-or-deskmeet?-amd-or-intel?](https://www.v2ex.com/t/888274) 
 - [【V2EX】2022-10-19-支持资源管理器标签页的-Windows-11-版本推送了](https://www.v2ex.com/t/888273) 
 - [【V2EX】2022-10-19-20221020-午夜俱乐部](https://www.v2ex.com/t/888272) 
 - [【V2EX】2022-10-19-请问国区-iCloud-账号在国外会慢吗？](https://www.v2ex.com/t/888271) 
@@ -111,7 +112,6 @@
 - [【V2EX】2022-10-19-买房楼层选择问题](https://www.v2ex.com/t/888227) 
 - [【V2EX】2022-10-19-聊一聊副业收入](https://www.v2ex.com/t/888226) 
 - [【V2EX】2022-10-19-深圳露营交友~](https://www.v2ex.com/t/888225) 
-- [【V2EX】2022-10-19-脱毛仪是不是智商税](https://www.v2ex.com/t/888224) 
 - [【技术头条】2022-10-19-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-19-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-19-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-19 07:45:41，:rocket: 更新条数: +1998， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-19 08:30:18，:rocket: 更新条数: +2005， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,26 +491,26 @@
 </summary>
 
 
+- [2022-10-19-openwrt-升级内核问题](https://www.v2ex.com/t/888154) ![](assets/new.png)  
+- [2022-10-19-微信小程序对于中小企业真的有用吗？](https://www.v2ex.com/t/888153) ![](assets/new.png)  
+- [2022-10-19-想问下大家一直说的谷歌服务是什么？](https://www.v2ex.com/t/888152) ![](assets/new.png)  
+- [2022-10-19-URL-如何直接上传到阿里云对象存储](https://www.v2ex.com/t/888150) ![](assets/new.png)  
+- [2022-10-19-上海联通场景化宽带的坑。](https://www.v2ex.com/t/888149) ![](assets/new.png)  
+- [2022-10-19-TP-LINK-拨号获取-IPv6-前缀的问题](https://www.v2ex.com/t/888147) ![](assets/new.png)  
+- [2022-10-19-预算-1000-以下，-xdm-有没有降噪蓝牙-TWS-耳机推荐，最好是支持-aptx-协议以上的？](https://www.v2ex.com/t/888146) ![](assets/new.png)  
+- [2022-10-19-电鸭论坛负责人是什么毛病的心态，国内论坛上，还得讲究个人情世故、报复？-标题带点情绪化，但没其它意思，仅仅拿出来谈论下，学学国内论坛规则，论坛都能独...](https://www.v2ex.com/t/888145) ![](assets/new.png)  
+- [2022-10-19-aptos-上币安给各位的启示?](https://www.v2ex.com/t/888144) ![](assets/new.png)  
+- [2022-10-19-阿里云盘对云盘内文件审核是通过人工还是通过-ai-的图片鉴别](https://www.v2ex.com/t/888143) ![](assets/new.png)  
+- [2022-10-19-在加拿大使用-Google-Fi-的朋友能否分享一下体验？](https://www.v2ex.com/t/888142) ![](assets/new.png)  
+- [2022-10-19-今天把手机和本子都更新到-RC-版了，发现这个将-iPhone-作为网络摄像头的功能很不错。](https://www.v2ex.com/t/888141) ![](assets/new.png)  
+- [2022-10-19-Google-Meeting-和-Zoom-Meeting-中,-共享-Linux-/-Wayland-Gnome-桌面](https://www.v2ex.com/t/888140) ![](assets/new.png)  
+- [2022-10-19-阿里巴巴-Noslate-正式开源---面向云原生的-JavaScript-容器方案](https://www.v2ex.com/t/888139) ![](assets/new.png)  
+- [2022-10-19-你们觉得在杭州哪家运营商（4G/5G）信号和速度比较好？](https://www.v2ex.com/t/888138) ![](assets/new.png)  
+- [2022-10-19-偶然间触发了-AirPods-Pro-有趣的-bug](https://www.v2ex.com/t/888137) ![](assets/new.png)  
+- [2022-10-19-有什么能通过不受信任节点安全防篡改分发文件的方法吗？](https://www.v2ex.com/t/888136) ![](assets/new.png)  
+- [2022-10-19-请教现在有什么好的收短信认证码的方式？](https://www.v2ex.com/t/888135) ![](assets/new.png)  
 - [2022-10-19-坐标北京，今年刚硕士毕业就职于一家国有企业信息岗，想求周六日的兼职/副业。](https://www.v2ex.com/t/888132) ![](assets/new.png)  
 - [2022-10-19-大家有什么推荐的浅色-neovim、终端主题吗](https://www.v2ex.com/t/888131) ![](assets/new.png)  
-- [2022-10-19-iPad-Air5-更新了-iPadOS16-RC-之后连接屏幕只能镜像显示](https://www.v2ex.com/t/888130) ![](assets/new.png)  
-- [2022-10-19-为啥我输入网站名百度搜不到呢？](https://www.v2ex.com/t/888127) ![](assets/new.png)  
-- [2022-10-19-最近要结婚的人可以进来学习一下](https://www.v2ex.com/t/888125) ![](assets/new.png)  
-- [2022-10-19-各位买-Apple-TV-都怎么使用的](https://www.v2ex.com/t/888124) ![](assets/new.png)  
-- [2022-10-19-港版-Macbook-检修要带什么凭证吗？](https://www.v2ex.com/t/888123) ![](assets/new.png)  
-- [2022-10-19-搞了个叫-waynext-的信息开源编辑项目，解决前景规划问题，快来看看~](https://www.v2ex.com/t/888122) ![](assets/new.png)  
-- [2022-10-19-请问，-ultra-mobile-paygo-的默认-SIM-PIN-码是多少，我尝试了两次只有最后一次机会了。。。](https://www.v2ex.com/t/888121) ![](assets/new.png)  
-- [2022-10-19-Python-列表赋值-BUG](https://www.v2ex.com/t/888120) ![](assets/new.png)  
-- [2022-10-19-盖楼送课程兑换券、U-盘、杯子、充电宝](https://www.v2ex.com/t/888119) ![](assets/new.png)  
-- [2022-10-19-数据同步大家都有什么方法？](https://www.v2ex.com/t/888118) ![](assets/new.png)  
-- [2022-10-19-现在有较为轻量且稳定的-Linux-桌面推荐吗](https://www.v2ex.com/t/888115) ![](assets/new.png)  
-- [2022-10-19-ffmpeg-合并-ts-问题](https://www.v2ex.com/t/888114) ![](assets/new.png)  
-- [2022-10-19-阿里云国际站腾讯云国际站可提供实名账户，-aws,gcp,azure-代充值可付-USDT，美金等](https://www.v2ex.com/t/888112) ![](assets/new.png)  
-- [2022-10-19-替代微信的最佳外网工具建议？](https://www.v2ex.com/t/888111) ![](assets/new.png)  
-- [2022-10-19-想学-UE5，幻影峡谷这个配置够么](https://www.v2ex.com/t/888110) ![](assets/new.png)  
-- [2022-10-19-Python-打包-exe-无法使用-socks5-代理，疑似功能包打包失败](https://www.v2ex.com/t/888109) ![](assets/new.png)  
-- [2022-10-19-请教个问题，-hdmi-能否把-mic-的声音回传到主机](https://www.v2ex.com/t/888108) ![](assets/new.png)  
-- [2022-10-19-微信的授权登陆和支付调用都是靠剪切板？](https://www.v2ex.com/t/888107) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

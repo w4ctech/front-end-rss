@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-19 05:57:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-19 07:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -15,4 +15,4 @@
 - [2021-03-03-港府回应一63岁患者死亡事件-暂无法确定与疫苗相关](https://m.caixin.com/m/2021-03-03/101670052.html) 
 - [2022-10-16-2022年新出了哪些form表单新特性？](https://www.zhangxinxu.com/wordpress/2022/10/2022-new-form-property/) 
 - [2022-08-21-JS-replaceAll-和-matchAll-使用指南不指北](https://www.zhangxinxu.com/wordpress/2022/08/js-replaceall-matchall/) 
-- [2022-10-19-Illustrator-的-JSX-脚本输出文件名问题](https://www.v2ex.com/t/888070) 
+- [2022-10-19-Linux-上有类似-fscapture-那种滚动截屏的程序吗?](https://www.v2ex.com/t/888103) 

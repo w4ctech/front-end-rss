@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-19 09:04:27，:rocket: 更新条数: +2006， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-19 09:56:50，:rocket: 更新条数: +2008， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,26 +491,26 @@
 </summary>
 
 
+- [2022-10-19-很焦虑-找不到目标](https://www.v2ex.com/t/888183) ![](assets/new.png)  
+- [2022-10-19-我博客某些链接访问被-301-重定向的奇怪现象](https://www.v2ex.com/t/888182) ![](assets/new.png)  
+- [2022-10-19-好像很多主板在安装独显后就会自动屏蔽掉-cpu-自带的核显,我通过修改-bios-配置将核显再开出来后,能够在系统下正常看到设备,那么请问各位大佬为什么不默认一起启...](https://www.v2ex.com/t/888181) ![](assets/new.png)  
+- [2022-10-19-有不需要认证的国内-IP-代理平台推荐嘛？](https://www.v2ex.com/t/888180) ![](assets/new.png)  
+- [2022-10-19-问大佬一个-nginx-错误日志的问题。](https://www.v2ex.com/t/888179) ![](assets/new.png)  
+- [2022-10-19-瓜-69.7---20-=-39.7-元即可购买-Vscode-代码编辑器官方中文版](https://www.v2ex.com/t/888177) ![](assets/new.png)  
+- [2022-10-19-看到一个吐槽电视的热帖，想买一台-3-7K-的电视，求推荐](https://www.v2ex.com/t/888176) ![](assets/new.png)  
+- [2022-10-19-Apple-TV-怎么下载老版本的-Infuse6.0](https://www.v2ex.com/t/888175) ![](assets/new.png)  
+- [2022-10-19-大家上班没活的时候都在干什么？](https://www.v2ex.com/t/888174) ![](assets/new.png)  
+- [2022-10-19-edge-浏览器-dev-通道已经不能关闭新标签页面的资讯网页了。除了自己画一个导航页还有啥办法吗。](https://www.v2ex.com/t/888173) ![](assets/new.png)  
+- [2022-10-19-有没有一种工具可以让-windows、android、ios-之间传输数据？](https://www.v2ex.com/t/888172) ![](assets/new.png)  
+- [2022-10-19-宽带问题!-一个宽带账号可以弄两条线吗?](https://www.v2ex.com/t/888171) ![](assets/new.png)  
+- [2022-10-19-关于查看某个进程访问了哪些资源](https://www.v2ex.com/t/888169) ![](assets/new.png)  
+- [2022-10-19-办公用途-mac-哪款方便？](https://www.v2ex.com/t/888168) ![](assets/new.png)  
 - [2022-10-19-求推荐拍小孩的相机](https://www.v2ex.com/t/888166) ![](assets/new.png)  
 - [2022-10-19-windows-如何实现快捷键切换投影模式](https://www.v2ex.com/t/888165) ![](assets/new.png)  
 - [2022-10-19-2022-年底了，求推荐可刷-openwrt-的免拆的百元级别千兆无线路由器。](https://www.v2ex.com/t/888162) ![](assets/new.png)  
 - [2022-10-19-外包的小矛盾，如何定义-ticket-的-scope？](https://www.v2ex.com/t/888161) ![](assets/new.png)  
 - [2022-10-19-基带坏了的-xr-且已经恢复出厂](https://www.v2ex.com/t/888160) ![](assets/new.png)  
 - [2022-10-19-Linux-下,-global-variable-在汇编里是什么时候被初始化的呢？](https://www.v2ex.com/t/888159) ![](assets/new.png)  
-- [2022-10-19-有个电竞相关的小破站最近收到好几个电竞主的商单，这能接吗？](https://www.v2ex.com/t/888158) ![](assets/new.png)  
-- [2022-10-19-关于是否跳槽的问题](https://www.v2ex.com/t/888157) ![](assets/new.png)  
-- [2022-10-19-办公室长时间坐着](https://www.v2ex.com/t/888156) ![](assets/new.png)  
-- [2022-10-19-求教使用-Golang-替换-html-的标签里的内容](https://www.v2ex.com/t/888155) ![](assets/new.png)  
-- [2022-10-19-openwrt-升级内核问题](https://www.v2ex.com/t/888154) ![](assets/new.png)  
-- [2022-10-19-微信小程序对于中小企业真的有用吗？](https://www.v2ex.com/t/888153) ![](assets/new.png)  
-- [2022-10-19-想问下大家一直说的谷歌服务是什么？](https://www.v2ex.com/t/888152) ![](assets/new.png)  
-- [2022-10-19-URL-如何直接上传到阿里云对象存储](https://www.v2ex.com/t/888150) ![](assets/new.png)  
-- [2022-10-19-上海联通场景化宽带的坑。](https://www.v2ex.com/t/888149) ![](assets/new.png)  
-- [2022-10-19-TP-LINK-拨号获取-IPv6-前缀的问题](https://www.v2ex.com/t/888147) ![](assets/new.png)  
-- [2022-10-19-预算-1000-以下，-xdm-有没有降噪蓝牙-TWS-耳机推荐，最好是支持-aptx-协议以上的？](https://www.v2ex.com/t/888146) ![](assets/new.png)  
-- [2022-10-19-电鸭论坛负责人是什么毛病的心态，国内论坛上，还得讲究个人情世故、报复？-标题带点情绪化，但没其它意思，仅仅拿出来谈论下，学学国内论坛规则，论坛都能独...](https://www.v2ex.com/t/888145) ![](assets/new.png)  
-- [2022-10-19-aptos-上币安给各位的启示?](https://www.v2ex.com/t/888144) ![](assets/new.png)  
-- [2022-10-19-阿里云盘对云盘内文件审核是通过人工还是通过-ai-的图片鉴别](https://www.v2ex.com/t/888143) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

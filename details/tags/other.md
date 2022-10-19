@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-19 10:24:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-19 10:55:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1914,6 +1914,13 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-10-19-请问-Apple-有自己的自营旗舰店？不是授权经销商哪种？](https://www.v2ex.com/t/888196) 
+- [2022-10-19-想请大佬们帮我分析一下校招-offer](https://www.v2ex.com/t/888195) 
+- [2022-10-19-婚姻真的要门当户对吗](https://www.v2ex.com/t/888194) 
+- [2022-10-19-有用-TAG-或者-FlowerCloud-机场的老哥吗](https://www.v2ex.com/t/888193) 
+- [2022-10-19-某-ZF-网站的验证码逻辑问题](https://www.v2ex.com/t/888191) 
+- [2022-10-19-有没有可以接嵌入式开发的](https://www.v2ex.com/t/888190) 
+- [2022-10-19-有没有-MagSafe-无线充电器散热底座这种东西](https://www.v2ex.com/t/888189) 
 - [2022-10-19-mysql-中的-ib_logfile0/ib_logfile1-如何查看文件中的内容？](https://www.v2ex.com/t/888188) 
 - [2022-10-19-t.bilibili.com-的证书过期了](https://www.v2ex.com/t/888187) 
 - [2022-10-19-请教一个-c/c++的问题](https://www.v2ex.com/t/888186) 
@@ -1942,13 +1949,6 @@
 - [2022-10-19-openwrt-升级内核问题](https://www.v2ex.com/t/888154) 
 - [2022-10-19-想问下大家一直说的谷歌服务是什么？](https://www.v2ex.com/t/888152) 
 - [2022-10-19-上海联通场景化宽带的坑。](https://www.v2ex.com/t/888149) 
-- [2022-10-19-TP-LINK-拨号获取-IPv6-前缀的问题](https://www.v2ex.com/t/888147) 
-- [2022-10-19-预算-1000-以下，-xdm-有没有降噪蓝牙-TWS-耳机推荐，最好是支持-aptx-协议以上的？](https://www.v2ex.com/t/888146) 
-- [2022-10-19-电鸭论坛负责人是什么毛病的心态，国内论坛上，还得讲究个人情世故、报复？-标题带点情绪化，但没其它意思，仅仅拿出来谈论下，学学国内论坛规则，论坛都能独...](https://www.v2ex.com/t/888145) 
-- [2022-10-19-aptos-上币安给各位的启示?](https://www.v2ex.com/t/888144) 
-- [2022-10-19-阿里云盘对云盘内文件审核是通过人工还是通过-ai-的图片鉴别](https://www.v2ex.com/t/888143) 
-- [2022-10-19-在加拿大使用-Google-Fi-的朋友能否分享一下体验？](https://www.v2ex.com/t/888142) 
-- [2022-10-19-Google-Meeting-和-Zoom-Meeting-中,-共享-Linux-/-Wayland-Gnome-桌面](https://www.v2ex.com/t/888140) 
 - [2022-10-19-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-19-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-19-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

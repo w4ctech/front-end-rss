@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-19 10:24:32，:rocket: 更新条数: +2009， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-19 10:55:51，:rocket: 更新条数: +2007， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,13 @@
 </summary>
 
 
+- [2022-10-19-请问-Apple-有自己的自营旗舰店？不是授权经销商哪种？](https://www.v2ex.com/t/888196) ![](assets/new.png)  
+- [2022-10-19-想请大佬们帮我分析一下校招-offer](https://www.v2ex.com/t/888195) ![](assets/new.png)  
+- [2022-10-19-婚姻真的要门当户对吗](https://www.v2ex.com/t/888194) ![](assets/new.png)  
+- [2022-10-19-有用-TAG-或者-FlowerCloud-机场的老哥吗](https://www.v2ex.com/t/888193) ![](assets/new.png)  
+- [2022-10-19-某-ZF-网站的验证码逻辑问题](https://www.v2ex.com/t/888191) ![](assets/new.png)  
+- [2022-10-19-有没有可以接嵌入式开发的](https://www.v2ex.com/t/888190) ![](assets/new.png)  
+- [2022-10-19-有没有-MagSafe-无线充电器散热底座这种东西](https://www.v2ex.com/t/888189) ![](assets/new.png)  
 - [2022-10-19-mysql-中的-ib_logfile0/ib_logfile1-如何查看文件中的内容？](https://www.v2ex.com/t/888188) ![](assets/new.png)  
 - [2022-10-19-t.bilibili.com-的证书过期了](https://www.v2ex.com/t/888187) ![](assets/new.png)  
 - [2022-10-19-请教一个-c/c++的问题](https://www.v2ex.com/t/888186) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-10-19-瓜-69.7---20-=-39.7-元即可购买-Vscode-代码编辑器官方中文版](https://www.v2ex.com/t/888177) ![](assets/new.png)  
 - [2022-10-19-看到一个吐槽电视的热帖，想买一台-3-7K-的电视，求推荐](https://www.v2ex.com/t/888176) ![](assets/new.png)  
 - [2022-10-19-Apple-TV-怎么下载老版本的-Infuse6.0](https://www.v2ex.com/t/888175) ![](assets/new.png)  
-- [2022-10-19-大家上班没活的时候都在干什么？](https://www.v2ex.com/t/888174) ![](assets/new.png)  
-- [2022-10-19-edge-浏览器-dev-通道已经不能关闭新标签页面的资讯网页了。除了自己画一个导航页还有啥办法吗。](https://www.v2ex.com/t/888173) ![](assets/new.png)  
-- [2022-10-19-有没有一种工具可以让-windows、android、ios-之间传输数据？](https://www.v2ex.com/t/888172) ![](assets/new.png)  
-- [2022-10-19-宽带问题!-一个宽带账号可以弄两条线吗?](https://www.v2ex.com/t/888171) ![](assets/new.png)  
-- [2022-10-19-关于查看某个进程访问了哪些资源](https://www.v2ex.com/t/888169) ![](assets/new.png)  
-- [2022-10-19-办公用途-mac-哪款方便？](https://www.v2ex.com/t/888168) ![](assets/new.png)  
-- [2022-10-19-求推荐拍小孩的相机](https://www.v2ex.com/t/888166) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-19 01:24:05，:rocket: 更新条数: +2011， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-19 04:04:13，:rocket: 更新条数: +2005， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,26 +491,26 @@
 </summary>
 
 
-- [2022-10-19-求一些安卓教程](https://www.v2ex.com/t/888001) ![](assets/new.png)  
-- [2022-10-19-watch-在家木地板弄出了划痕=-=](https://www.v2ex.com/t/887999) ![](assets/new.png)  
-- [2022-10-19-2022-年从国内拿到悉尼-220K-AUD-offer-经验分享（四）](https://www.v2ex.com/t/887998) ![](assets/new.png)  
-- [2022-10-19-被带宽限制了，并发上不去，如何解决？](https://www.v2ex.com/t/887997) ![](assets/new.png)  
-- [2022-10-19-2022-年了，买什么净水器比较好？](https://www.v2ex.com/t/887996) ![](assets/new.png)  
-- [2022-10-19-debian11-默认不安装防火墙？](https://www.v2ex.com/t/887995) ![](assets/new.png)  
-- [2022-10-19-Apple-TV-4K-出来了，有什么购买渠道？](https://www.v2ex.com/t/887994) ![](assets/new.png)  
-- [2022-10-19-用酒精湿巾擦屏幕，结果有异味](https://www.v2ex.com/t/887993) ![](assets/new.png)  
-- [2022-10-19-Douban-Book+-一款在线看书、找书的浏览器扩展](https://www.v2ex.com/t/887992) ![](assets/new.png)  
-- [2022-10-19-今年-mbp-还有希望更新么](https://www.v2ex.com/t/887991) ![](assets/new.png)  
-- [2022-10-19-或者程序员需要这个域名](https://www.v2ex.com/t/887990) ![](assets/new.png)  
-- [2022-10-19-想买莆田鞋，有推荐的吗。new-balance-的](https://www.v2ex.com/t/887989) ![](assets/new.png)  
-- [2022-10-19-apple-watch-ultra-有什么好用的三方充电线/器嘛？](https://www.v2ex.com/t/887988) ![](assets/new.png)  
-- [2022-10-19-用“氮化镓+诱骗线”给软路由供电的可行性疑问](https://www.v2ex.com/t/887987) ![](assets/new.png)  
-- [2022-10-19-http://liangshan.gov.cn:5555/login](https://www.v2ex.com/t/887986) ![](assets/new.png)  
-- [2022-10-19-什么-iPad10-啊？叫它砍一刀版-Air4](https://www.v2ex.com/t/887985) ![](assets/new.png)  
-- [2022-10-19-什么设计鬼才，什么电子垃圾](https://www.v2ex.com/t/887984) ![](assets/new.png)  
-- [2022-10-18-支持-80Gbps-的-USB-规范终于来了](https://www.v2ex.com/t/887982) ![](assets/new.png)  
-- [2022-10-18-请问面试被提问优缺点要怎么回答比较好？](https://www.v2ex.com/t/887981) ![](assets/new.png)  
-- [2022-10-18-看苹果新-iPad-有感](https://www.v2ex.com/t/887980) ![](assets/new.png)  
+- [2022-10-19-在-Linux-上的-打印驱动如果没有，可以尝试下-printer-driver-gutenprint](https://www.v2ex.com/t/888069) ![](assets/new.png)  
+- [2022-10-19-「遇见单词-MetWord」2.0-来了，带来了单词发音，书签全文搜索以及-RSS-自动发现功能](https://www.v2ex.com/t/888068) ![](assets/new.png)  
+- [2022-10-19-出于便捷,安全,隐私方面的考虑，大家觉得到底有没有必要从国区云上贵州转到美区-iCloud-呢？未来可能会发生哪些问题？](https://www.v2ex.com/t/888067) ![](assets/new.png)  
+- [2022-10-19-idc-自建-mysql-集群方案推荐](https://www.v2ex.com/t/888066) ![](assets/new.png)  
+- [2022-10-19-苹果新款-iPad-的最大亮点（惊喜）](https://www.v2ex.com/t/888065) ![](assets/new.png)  
+- [2022-10-19-超便携的无线鼠标，除了微软-Arc-系列，还有别的更好选择吗？](https://www.v2ex.com/t/888064) ![](assets/new.png)  
+- [2022-10-19-Apple-有没有可能复活-12-寸-MacBook？](https://www.v2ex.com/t/888063) ![](assets/new.png)  
+- [2022-10-19-想换城市了，目前北京，前端一枚，-V-友们有推荐的地方吗？](https://www.v2ex.com/t/888061) ![](assets/new.png)  
+- [2022-10-19-各位的相册中的“拷贝-iCloud-链接”可以使用吗](https://www.v2ex.com/t/888059) ![](assets/new.png)  
+- [2022-10-19-有没有花呗已经上了征信的小伙伴，给俺看看？](https://www.v2ex.com/t/888058) ![](assets/new.png)  
+- [2022-10-19-熊孩子打篮球噪音扰民，用液压钳暴力剪掉篮筐是否合适？](https://www.v2ex.com/t/888056) ![](assets/new.png)  
+- [2022-10-19-m-系列芯片的-mac-怎么取消按任意键开机](https://www.v2ex.com/t/888055) ![](assets/new.png)  
+- [2022-10-19-想问问各位一般把大量照片储存在哪里，云盘？本地？求推荐](https://www.v2ex.com/t/888054) ![](assets/new.png)  
+- [2022-10-19-杭州有购房资格或者想投资的朋友么？](https://www.v2ex.com/t/888051) ![](assets/new.png)  
+- [2022-10-19-开源/远程-RSS3-提供最酷最理想最自由的工作-|-高薪寻找-DBA/DevOps](https://www.v2ex.com/t/888050) ![](assets/new.png)  
+- [2022-10-19-关于北京电信连接-VPN-的奇怪问题](https://www.v2ex.com/t/888049) ![](assets/new.png)  
+- [2022-10-19-发现自己被注册公司成为股东和高管。。](https://www.v2ex.com/t/888048) ![](assets/new.png)  
+- [2022-10-19-招聘中-/-高级自动化测试工程师可在家工作）](https://www.v2ex.com/t/888047) ![](assets/new.png)  
+- [2022-10-19-Type-C-有无可能取消公母？](https://www.v2ex.com/t/888046) ![](assets/new.png)  
+- [2022-10-19-Let's-encrypt-的-SSL-证书最近有啥问题吗](https://www.v2ex.com/t/888044) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

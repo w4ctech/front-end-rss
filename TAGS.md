@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-10-19 01:24:05。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-19 04:04:13。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -105,6 +105,7 @@
 
 
 
+- [【V2EX】SWC-这一类原生-rust-应用是怎么做到提供给-nodejs-端使用的](https://www.v2ex.com/t/888021)
 - [......【查看更多】......](./details/tags/nodejs.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -177,7 +178,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】港府回应一63岁患者死亡事件-暂无法确定与疫苗相关](https://m.caixin.com/m/2021-03-03/101670052.html)
 - [【张鑫旭-鑫空间-鑫生活】2022年新出了哪些form表单新特性？](https://www.zhangxinxu.com/wordpress/2022/10/2022-new-form-property/)
 - [【张鑫旭-鑫空间-鑫生活】JS-replaceAll-和-matchAll-使用指南不指北](https://www.zhangxinxu.com/wordpress/2022/08/js-replaceall-matchall/)
-- [【V2EX】用“氮化镓+诱骗线”给软路由供电的可行性疑问](https://www.v2ex.com/t/887987)
 - [......【查看更多】......](./details/tags/javascript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -232,8 +232,6 @@
 
 - [【武汉肺炎防疫全纪录(财新网)】广州17岁男生在定点医院参加高考-特殊考场视频监考](https://m.caixin.com/m/2021-06-05/101723418.html)
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
-- [【V2EX】iOS-下是不是已经没有体验很好的视频播放器了？](https://www.v2ex.com/t/887962)
-- [【V2EX】腾讯视频月卡-12-元一张](https://www.v2ex.com/t/887956)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -272,7 +270,8 @@
 - [【武汉肺炎防疫全纪录(财新网)】腺病毒新冠疫苗引安全忧虑-康希诺称未发现血栓病例](https://m.caixin.com/m/2021-04-14/101691086.html)
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
-- [【V2EX】Douban-Book+-一款在线看书、找书的浏览器扩展](https://www.v2ex.com/t/887992)
+- [【V2EX】出于便捷,安全,隐私方面的考虑，大家觉得到底有没有必要从国区云上贵州转到美区-iCloud-呢？未来可能会发生哪些问题？](https://www.v2ex.com/t/888067)
+- [【V2EX】谈公有云服务安全，-Salesforce-是如何做到世界企业信任的？](https://www.v2ex.com/t/888032)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -289,7 +288,6 @@
 
 
 
-- [【V2EX】http://liangshan.gov.cn:5555/login](https://www.v2ex.com/t/887986)
 - [【技术头条】基于AI算法的数据库异常监测系统的设计与实现-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15390&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F09%2F01%2Fdatabase-monitoring-based-on-ai.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
@@ -341,7 +339,8 @@
 
 
 
-- [【V2EX】请问面试被提问优缺点要怎么回答比较好？](https://www.v2ex.com/t/887981)
+- [【V2EX】招聘中-/-高级自动化测试工程师可在家工作）](https://www.v2ex.com/t/888047)
+- [【V2EX】面试官问我-ThreadLocal-为什么这么设计。。。](https://www.v2ex.com/t/888037)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-19 11:17:44，:rocket: 更新条数: +2007， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-19 11:45:34，:rocket: 更新条数: +2006， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-10-19-入职警队之后年近-30-还要参加警队的军训…今天差点晕倒](https://www.v2ex.com/t/888203) ![](assets/new.png)  
+- [2022-10-19-找币圈内推](https://www.v2ex.com/t/888200) ![](assets/new.png)  
 - [2022-10-19-统计一下有多少正常交公积金的公司](https://www.v2ex.com/t/888199) ![](assets/new.png)  
 - [2022-10-19-上海/北京/南京社招内推-大数据基础软件公司-星环科技招人](https://www.v2ex.com/t/888198) ![](assets/new.png)  
 - [2022-10-19-请问-Apple-有自己的自营旗舰店？不是授权经销商哪种？](https://www.v2ex.com/t/888196) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-10-19-有不需要认证的国内-IP-代理平台推荐嘛？](https://www.v2ex.com/t/888180) ![](assets/new.png)  
 - [2022-10-19-问大佬一个-nginx-错误日志的问题。](https://www.v2ex.com/t/888179) ![](assets/new.png)  
 - [2022-10-19-瓜-69.7---20-=-39.7-元即可购买-Vscode-代码编辑器官方中文版](https://www.v2ex.com/t/888177) ![](assets/new.png)  
-- [2022-10-19-看到一个吐槽电视的热帖，想买一台-3-7K-的电视，求推荐](https://www.v2ex.com/t/888176) ![](assets/new.png)  
-- [2022-10-19-Apple-TV-怎么下载老版本的-Infuse6.0](https://www.v2ex.com/t/888175) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

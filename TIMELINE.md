@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-19 11:17:44。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-10-19 11:45:34。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -71,6 +71,8 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-10-16-2022年新出了哪些form表单新特性？](https://www.zhangxinxu.com/wordpress/2022/10/2022-new-form-property/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-12-CSS-::file-selector-button伪元素简介](https://www.zhangxinxu.com/wordpress/2022/10/css-file-selector-button/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-12-更符合书写习惯的CSS媒体查询Range语法](https://www.zhangxinxu.com/wordpress/2022/10/css-media-range-syntax/) 
+- [【V2EX】2022-10-19-入职警队之后年近-30-还要参加警队的军训…今天差点晕倒](https://www.v2ex.com/t/888203) 
+- [【V2EX】2022-10-19-找币圈内推](https://www.v2ex.com/t/888200) 
 - [【V2EX】2022-10-19-统计一下有多少正常交公积金的公司](https://www.v2ex.com/t/888199) 
 - [【V2EX】2022-10-19-上海/北京/南京社招内推-大数据基础软件公司-星环科技招人](https://www.v2ex.com/t/888198) 
 - [【V2EX】2022-10-19-请问-Apple-有自己的自营旗舰店？不是授权经销商哪种？](https://www.v2ex.com/t/888196) 
@@ -109,9 +111,6 @@
 - [【V2EX】2022-10-19-办公室长时间坐着](https://www.v2ex.com/t/888156) 
 - [【V2EX】2022-10-19-求教使用-Golang-替换-html-的标签里的内容](https://www.v2ex.com/t/888155) 
 - [【V2EX】2022-10-19-openwrt-升级内核问题](https://www.v2ex.com/t/888154) 
-- [【V2EX】2022-10-19-微信小程序对于中小企业真的有用吗？](https://www.v2ex.com/t/888153) 
-- [【V2EX】2022-10-19-想问下大家一直说的谷歌服务是什么？](https://www.v2ex.com/t/888152) 
-- [【V2EX】2022-10-19-URL-如何直接上传到阿里云对象存储](https://www.v2ex.com/t/888150) 
 - [【技术头条】2022-10-19-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-19-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-19-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-19 11:45:34。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-10-19 12:33:56。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -71,6 +71,12 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-10-16-2022年新出了哪些form表单新特性？](https://www.zhangxinxu.com/wordpress/2022/10/2022-new-form-property/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-12-CSS-::file-selector-button伪元素简介](https://www.zhangxinxu.com/wordpress/2022/10/css-file-selector-button/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-12-更符合书写习惯的CSS媒体查询Range语法](https://www.zhangxinxu.com/wordpress/2022/10/css-media-range-syntax/) 
+- [【V2EX】2022-10-19-Java-查询历史数据与当前数据对比问题和返回问题](https://www.v2ex.com/t/888213) 
+- [【V2EX】2022-10-19-现在有没有替代-vue、react-的前端技术？](https://www.v2ex.com/t/888211) 
+- [【V2EX】2022-10-19-每到了一年的时间就想离职，说不清楚为什么，感觉每天全身的细胞都在抗拒上班](https://www.v2ex.com/t/888210) 
+- [【V2EX】2022-10-19-龙泽地铁-佰嘉城小区次卧转租-1925-元/月](https://www.v2ex.com/t/888209) 
+- [【V2EX】2022-10-19-Thinkpad-NEO14-用什么扩展坞比较好？](https://www.v2ex.com/t/888207) 
+- [【V2EX】2022-10-19-距离入职两天，公司突然毁约](https://www.v2ex.com/t/888205) 
 - [【V2EX】2022-10-19-入职警队之后年近-30-还要参加警队的军训…今天差点晕倒](https://www.v2ex.com/t/888203) 
 - [【V2EX】2022-10-19-找币圈内推](https://www.v2ex.com/t/888200) 
 - [【V2EX】2022-10-19-统计一下有多少正常交公积金的公司](https://www.v2ex.com/t/888199) 
@@ -103,14 +109,6 @@
 - [【V2EX】2022-10-19-求推荐拍小孩的相机](https://www.v2ex.com/t/888166) 
 - [【V2EX】2022-10-19-windows-如何实现快捷键切换投影模式](https://www.v2ex.com/t/888165) 
 - [【V2EX】2022-10-19-抽奖贴-浅卖自己姑姑家种的红富士大苹果，回馈老哥们](https://www.v2ex.com/t/888164) 
-- [【V2EX】2022-10-19-2022-年底了，求推荐可刷-openwrt-的免拆的百元级别千兆无线路由器。](https://www.v2ex.com/t/888162) 
-- [【V2EX】2022-10-19-基带坏了的-xr-且已经恢复出厂](https://www.v2ex.com/t/888160) 
-- [【V2EX】2022-10-19-Linux-下,-global-variable-在汇编里是什么时候被初始化的呢？](https://www.v2ex.com/t/888159) 
-- [【V2EX】2022-10-19-有个电竞相关的小破站最近收到好几个电竞主的商单，这能接吗？](https://www.v2ex.com/t/888158) 
-- [【V2EX】2022-10-19-关于是否跳槽的问题](https://www.v2ex.com/t/888157) 
-- [【V2EX】2022-10-19-办公室长时间坐着](https://www.v2ex.com/t/888156) 
-- [【V2EX】2022-10-19-求教使用-Golang-替换-html-的标签里的内容](https://www.v2ex.com/t/888155) 
-- [【V2EX】2022-10-19-openwrt-升级内核问题](https://www.v2ex.com/t/888154) 
 - [【技术头条】2022-10-19-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-19-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-19-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-10-19 23:19:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-19 23:52:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-10-19-Pixel-7-Pro-不支持-32-位-apk](https://www.v2ex.com/t/888275) 
 - [2022-10-19-家用服务器-deskmini-or-deskmeet?-amd-or-intel?](https://www.v2ex.com/t/888274) 
 - [2022-10-19-支持资源管理器标签页的-Windows-11-版本推送了](https://www.v2ex.com/t/888273) 
 - [2022-10-19-20221020-午夜俱乐部](https://www.v2ex.com/t/888272) 
@@ -45,4 +46,3 @@
 - [2022-10-19-iOS16-的一个-bug-求解](https://www.v2ex.com/t/888228) 
 - [2022-10-19-买房楼层选择问题](https://www.v2ex.com/t/888227) 
 - [2022-10-19-聊一聊副业收入](https://www.v2ex.com/t/888226) 
-- [2022-10-19-深圳露营交友~](https://www.v2ex.com/t/888225) 

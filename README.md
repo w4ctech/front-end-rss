@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-19 23:19:52，:rocket: 更新条数: +2007， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-19 23:52:24，:rocket: 更新条数: +2007， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-10-19-Pixel-7-Pro-不支持-32-位-apk](https://www.v2ex.com/t/888275) ![](assets/new.png)  
 - [2022-10-19-家用服务器-deskmini-or-deskmeet?-amd-or-intel?](https://www.v2ex.com/t/888274) ![](assets/new.png)  
 - [2022-10-19-支持资源管理器标签页的-Windows-11-版本推送了](https://www.v2ex.com/t/888273) ![](assets/new.png)  
 - [2022-10-19-20221020-午夜俱乐部](https://www.v2ex.com/t/888272) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-10-19-一个神奇的问题](https://www.v2ex.com/t/888256) ![](assets/new.png)  
 - [2022-10-19-广州的神仙互联网外企招人啦-外企-高工资-高福利-不内卷！-devops-测试开发-web-前端-数据分析-大量岗位等着你！-社保公积金➕无限♾️年假➕在家办公➕补充医...](https://www.v2ex.com/t/888254) ![](assets/new.png)  
 - [2022-10-19-打个球碰到个老哥还问我婚姻情况，郁闷](https://www.v2ex.com/t/888253) ![](assets/new.png)  
-- [2022-10-19-上海普华永道-GTS/Cloud-部门怎么样，加班多吗](https://www.v2ex.com/t/888252) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-19 04:04:13，:rocket: 更新条数: +2005， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-19 05:57:01，:rocket: 更新条数: +2003， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,26 +491,26 @@
 </summary>
 
 
-- [2022-10-19-在-Linux-上的-打印驱动如果没有，可以尝试下-printer-driver-gutenprint](https://www.v2ex.com/t/888069) ![](assets/new.png)  
-- [2022-10-19-「遇见单词-MetWord」2.0-来了，带来了单词发音，书签全文搜索以及-RSS-自动发现功能](https://www.v2ex.com/t/888068) ![](assets/new.png)  
-- [2022-10-19-出于便捷,安全,隐私方面的考虑，大家觉得到底有没有必要从国区云上贵州转到美区-iCloud-呢？未来可能会发生哪些问题？](https://www.v2ex.com/t/888067) ![](assets/new.png)  
-- [2022-10-19-idc-自建-mysql-集群方案推荐](https://www.v2ex.com/t/888066) ![](assets/new.png)  
-- [2022-10-19-苹果新款-iPad-的最大亮点（惊喜）](https://www.v2ex.com/t/888065) ![](assets/new.png)  
-- [2022-10-19-超便携的无线鼠标，除了微软-Arc-系列，还有别的更好选择吗？](https://www.v2ex.com/t/888064) ![](assets/new.png)  
-- [2022-10-19-Apple-有没有可能复活-12-寸-MacBook？](https://www.v2ex.com/t/888063) ![](assets/new.png)  
-- [2022-10-19-想换城市了，目前北京，前端一枚，-V-友们有推荐的地方吗？](https://www.v2ex.com/t/888061) ![](assets/new.png)  
-- [2022-10-19-各位的相册中的“拷贝-iCloud-链接”可以使用吗](https://www.v2ex.com/t/888059) ![](assets/new.png)  
-- [2022-10-19-有没有花呗已经上了征信的小伙伴，给俺看看？](https://www.v2ex.com/t/888058) ![](assets/new.png)  
-- [2022-10-19-熊孩子打篮球噪音扰民，用液压钳暴力剪掉篮筐是否合适？](https://www.v2ex.com/t/888056) ![](assets/new.png)  
-- [2022-10-19-m-系列芯片的-mac-怎么取消按任意键开机](https://www.v2ex.com/t/888055) ![](assets/new.png)  
-- [2022-10-19-想问问各位一般把大量照片储存在哪里，云盘？本地？求推荐](https://www.v2ex.com/t/888054) ![](assets/new.png)  
-- [2022-10-19-杭州有购房资格或者想投资的朋友么？](https://www.v2ex.com/t/888051) ![](assets/new.png)  
-- [2022-10-19-开源/远程-RSS3-提供最酷最理想最自由的工作-|-高薪寻找-DBA/DevOps](https://www.v2ex.com/t/888050) ![](assets/new.png)  
-- [2022-10-19-关于北京电信连接-VPN-的奇怪问题](https://www.v2ex.com/t/888049) ![](assets/new.png)  
-- [2022-10-19-发现自己被注册公司成为股东和高管。。](https://www.v2ex.com/t/888048) ![](assets/new.png)  
-- [2022-10-19-招聘中-/-高级自动化测试工程师可在家工作）](https://www.v2ex.com/t/888047) ![](assets/new.png)  
-- [2022-10-19-Type-C-有无可能取消公母？](https://www.v2ex.com/t/888046) ![](assets/new.png)  
-- [2022-10-19-Let's-encrypt-的-SSL-证书最近有啥问题吗](https://www.v2ex.com/t/888044) ![](assets/new.png)  
+- [2022-10-19-Follow-To-Earn-谁来免费领一下-MATIC](https://www.v2ex.com/t/888099) ![](assets/new.png)  
+- [2022-10-19-曝光-广东汇微科技有限公司-垃圾公司](https://www.v2ex.com/t/888098) ![](assets/new.png)  
+- [2022-10-19-小白询问有关使用加速器访问或代理网址的安全问题](https://www.v2ex.com/t/888096) ![](assets/new.png)  
+- [2022-10-19-没有信用卡没有-paypa-如何购买小火箭等](https://www.v2ex.com/t/888095) ![](assets/new.png)  
+- [2022-10-19-surge5-ios-车位还有一位](https://www.v2ex.com/t/888093) ![](assets/new.png)  
+- [2022-10-19-国内有哪些技术提问/回答的网站？](https://www.v2ex.com/t/888091) ![](assets/new.png)  
+- [2022-10-19-想请大家帮我分析一下校招-offer](https://www.v2ex.com/t/888089) ![](assets/new.png)  
+- [2022-10-19-现在做开源项目不容易啊](https://www.v2ex.com/t/888088) ![](assets/new.png)  
+- [2022-10-19-持有一个股票海萝水泥，亏了-30％，接下来该如何处理呢，大家聊聊](https://www.v2ex.com/t/888087) ![](assets/new.png)  
+- [2022-10-19-如果把办公室装修成厅局风样子拍视频会不会涉及一些问题？](https://www.v2ex.com/t/888086) ![](assets/new.png)  
+- [2022-10-19-想小升级一下硬件，有请大大推荐下](https://www.v2ex.com/t/888085) ![](assets/new.png)  
+- [2022-10-19-第一个家用服务器型号求推荐](https://www.v2ex.com/t/888083) ![](assets/new.png)  
+- [2022-10-19-FFmpeg-静态编译](https://www.v2ex.com/t/888082) ![](assets/new.png)  
+- [2022-10-19-PDF-往往不能准确标记](https://www.v2ex.com/t/888080) ![](assets/new.png)  
+- [2022-10-19-不知名院校研三，想找应届生工作，大佬们帮忙看看简历，感谢！](https://www.v2ex.com/t/888078) ![](assets/new.png)  
+- [2022-10-19-升级-13-安装提示不满足门禁策略](https://www.v2ex.com/t/888077) ![](assets/new.png)  
+- [2022-10-19-其实刀圈里我最喜欢的一直是-Mu-神](https://www.v2ex.com/t/888076) ![](assets/new.png)  
+- [2022-10-19-谷歌相册的人脸识别问题](https://www.v2ex.com/t/888075) ![](assets/new.png)  
+- [2022-10-19-短期网络工程实施，有意请联系](https://www.v2ex.com/t/888074) ![](assets/new.png)  
+- [2022-10-19-哪位大神帮忙看下是什么原因导致的五国问题-附日志](https://www.v2ex.com/t/888073) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

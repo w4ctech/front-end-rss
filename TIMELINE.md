@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-19 22:17:17。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-10-19 22:51:37。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -71,6 +71,7 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-10-16-2022年新出了哪些form表单新特性？](https://www.zhangxinxu.com/wordpress/2022/10/2022-new-form-property/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-12-CSS-::file-selector-button伪元素简介](https://www.zhangxinxu.com/wordpress/2022/10/css-file-selector-button/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-12-更符合书写习惯的CSS媒体查询Range语法](https://www.zhangxinxu.com/wordpress/2022/10/css-media-range-syntax/) 
+- [【V2EX】2022-10-19-支持资源管理器标签页的-Windows-11-版本推送了](https://www.v2ex.com/t/888273) 
 - [【V2EX】2022-10-19-20221020-午夜俱乐部](https://www.v2ex.com/t/888272) 
 - [【V2EX】2022-10-19-请问国区-iCloud-账号在国外会慢吗？](https://www.v2ex.com/t/888271) 
 - [【V2EX】2022-10-19-思路看到很多人需要小额-crypto-的需求,-能不能搞个这样的论坛?](https://www.v2ex.com/t/888270) 

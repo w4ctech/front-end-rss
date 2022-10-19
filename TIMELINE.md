@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-19 18:07:27。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-10-19 19:06:41。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -71,6 +71,8 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-10-16-2022年新出了哪些form表单新特性？](https://www.zhangxinxu.com/wordpress/2022/10/2022-new-form-property/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-12-CSS-::file-selector-button伪元素简介](https://www.zhangxinxu.com/wordpress/2022/10/css-file-selector-button/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-12-更符合书写习惯的CSS媒体查询Range语法](https://www.zhangxinxu.com/wordpress/2022/10/css-media-range-syntax/) 
+- [【V2EX】2022-10-19-请问国区-iCloud-账号在国外会慢吗？](https://www.v2ex.com/t/888271) 
+- [【V2EX】2022-10-19-思路看到很多人需要小额-crypto-的需求,-能不能搞个这样的论坛?](https://www.v2ex.com/t/888270) 
 - [【V2EX】2022-10-19-使用-AACS-技术加密的蓝光影片光盘全部副本的密钥都不一样吗？有什么办法完整在不解密的情况下把这个密钥备份进-ISO-吗？想在不对光盘内容做任何改动地备份我这...](https://www.v2ex.com/t/888269) 
 - [【V2EX】2022-10-19-从技术和实际角度上分析,-各大导航软件-高德,-百度,-滴滴-等-为什么通常会选择更绕更堵的线路?](https://www.v2ex.com/t/888268) 
 - [【V2EX】2022-10-19-DNS-查询时间对上网体验的影响](https://www.v2ex.com/t/888267) 
@@ -109,8 +111,6 @@
 - [【V2EX】2022-10-19-深圳露营交友~](https://www.v2ex.com/t/888225) 
 - [【V2EX】2022-10-19-脱毛仪是不是智商税](https://www.v2ex.com/t/888224) 
 - [【V2EX】2022-10-19-求推荐电视，要求：-85-寸，开机无广告](https://www.v2ex.com/t/888222) 
-- [【V2EX】2022-10-19-Mac-上安装小火箭开启-VPN-后-Safari-自带的翻译功能就不能用了,有遇到同样问题的吗?](https://www.v2ex.com/t/888221) 
-- [【V2EX】2022-10-19-杭州有没有靠谱的心理咨询师，最好是男性？收费怎么样？](https://www.v2ex.com/t/888220) 
 - [【技术头条】2022-10-19-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-19-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-19-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

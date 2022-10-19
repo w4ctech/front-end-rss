@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-19 18:07:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-19 19:06:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1914,6 +1914,8 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-10-19-请问国区-iCloud-账号在国外会慢吗？](https://www.v2ex.com/t/888271) 
+- [2022-10-19-思路看到很多人需要小额-crypto-的需求,-能不能搞个这样的论坛?](https://www.v2ex.com/t/888270) 
 - [2022-10-19-使用-AACS-技术加密的蓝光影片光盘全部副本的密钥都不一样吗？有什么办法完整在不解密的情况下把这个密钥备份进-ISO-吗？想在不对光盘内容做任何改动地备份我这...](https://www.v2ex.com/t/888269) 
 - [2022-10-19-从技术和实际角度上分析,-各大导航软件-高德,-百度,-滴滴-等-为什么通常会选择更绕更堵的线路?](https://www.v2ex.com/t/888268) 
 - [2022-10-19-DNS-查询时间对上网体验的影响](https://www.v2ex.com/t/888267) 
@@ -1949,7 +1951,6 @@
 - [2022-10-19-深圳露营交友~](https://www.v2ex.com/t/888225) 
 - [2022-10-19-脱毛仪是不是智商税](https://www.v2ex.com/t/888224) 
 - [2022-10-19-求推荐电视，要求：-85-寸，开机无广告](https://www.v2ex.com/t/888222) 
-- [2022-10-19-杭州有没有靠谱的心理咨询师，最好是男性？收费怎么样？](https://www.v2ex.com/t/888220) 
 - [2022-10-19-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-19-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-19-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

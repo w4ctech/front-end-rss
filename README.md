@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-19 16:29:07，:rocket: 更新条数: +2005， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-19 17:25:33，:rocket: 更新条数: +2005， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,15 @@
 </summary>
 
 
+- [2022-10-19-从技术和实际角度上分析,-各大导航软件-高德,-百度,-滴滴-等-为什么通常会选择更绕更堵的线路?](https://www.v2ex.com/t/888268) ![](assets/new.png)  
+- [2022-10-19-DNS-查询时间对上网体验的影响](https://www.v2ex.com/t/888267) ![](assets/new.png)  
+- [2022-10-19-Windows-10-22H2-推送了](https://www.v2ex.com/t/888266) ![](assets/new.png)  
+- [2022-10-19-Netflix-现在开哪个国家的比较合适？](https://www.v2ex.com/t/888265) ![](assets/new.png)  
+- [2022-10-19-请教一下，关于-nginx-多个子目录反代的问题。](https://www.v2ex.com/t/888264) ![](assets/new.png)  
+- [2022-10-19-通过实体手机号携号转网的-GV-会被回收吗？](https://www.v2ex.com/t/888263) ![](assets/new.png)  
+- [2022-10-19-想建一个关于智能制造的导航或论坛](https://www.v2ex.com/t/888261) ![](assets/new.png)  
+- [2022-10-19-毕业了，想做好职业规划](https://www.v2ex.com/t/888260) ![](assets/new.png)  
+- [2022-10-19-2022-年了，类原生-Android-手机没多少可选的了？](https://www.v2ex.com/t/888259) ![](assets/new.png)  
 - [2022-10-19-nextcloud-onlyoffice-组合如何实现流程化呢？](https://www.v2ex.com/t/888258) ![](assets/new.png)  
 - [2022-10-19-一个神奇的问题](https://www.v2ex.com/t/888256) ![](assets/new.png)  
 - [2022-10-19-广州的神仙互联网外企招人啦-外企-高工资-高福利-不内卷！-devops-测试开发-web-前端-数据分析-大量岗位等着你！-社保公积金➕无限♾️年假➕在家办公➕补充医...](https://www.v2ex.com/t/888254) ![](assets/new.png)  
@@ -502,15 +511,6 @@
 - [2022-10-19-创业团队找-iOS-兼职（有薪）](https://www.v2ex.com/t/888247) ![](assets/new.png)  
 - [2022-10-19-你们是什么时候感受到编程快乐的？](https://www.v2ex.com/t/888246) ![](assets/new.png)  
 - [2022-10-19-深圳南山区哪家健身房的跑步机和椭圆机支持-Apple-Watch？](https://www.v2ex.com/t/888245) ![](assets/new.png)  
-- [2022-10-19-关于-Ventura-的-Spotlight-搜索框](https://www.v2ex.com/t/888244) ![](assets/new.png)  
-- [2022-10-19-利用-SQL-解密的游戏](https://www.v2ex.com/t/888242) ![](assets/new.png)  
-- [2022-10-19-微信读书开始限制网页插件了。](https://www.v2ex.com/t/888241) ![](assets/new.png)  
-- [2022-10-19-创业团队找-iOS-兼职伙伴，有薪](https://www.v2ex.com/t/888240) ![](assets/new.png)  
-- [2022-10-19-四川电信死活不给-IPv6-了？](https://www.v2ex.com/t/888237) ![](assets/new.png)  
-- [2022-10-19-14pro-硅胶官网-399，拼多多-222，如果是正品，淘宝还有存在的必要吗？](https://www.v2ex.com/t/888235) ![](assets/new.png)  
-- [2022-10-19-mbp2015-monterey-command+v-粘贴失效](https://www.v2ex.com/t/888234) ![](assets/new.png)  
-- [2022-10-19-分享最近自己冲刺测试覆盖率-100%-的心得](https://www.v2ex.com/t/888233) ![](assets/new.png)  
-- [2022-10-19-为什么-Wechat-有中文内容的“搜索发现”，还可以绕过授权](https://www.v2ex.com/t/888232) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

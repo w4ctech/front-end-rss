@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-19 09:56:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-19 10:24:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1914,6 +1914,10 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-10-19-mysql-中的-ib_logfile0/ib_logfile1-如何查看文件中的内容？](https://www.v2ex.com/t/888188) 
+- [2022-10-19-t.bilibili.com-的证书过期了](https://www.v2ex.com/t/888187) 
+- [2022-10-19-请教一个-c/c++的问题](https://www.v2ex.com/t/888186) 
+- [2022-10-19-XCode-真的是吃存储的大户，无语了](https://www.v2ex.com/t/888184) 
 - [2022-10-19-很焦虑-找不到目标](https://www.v2ex.com/t/888183) 
 - [2022-10-19-我博客某些链接访问被-301-重定向的奇怪现象](https://www.v2ex.com/t/888182) 
 - [2022-10-19-好像很多主板在安装独显后就会自动屏蔽掉-cpu-自带的核显,我通过修改-bios-配置将核显再开出来后,能够在系统下正常看到设备,那么请问各位大佬为什么不默认一起启...](https://www.v2ex.com/t/888181) 
@@ -1945,9 +1949,6 @@
 - [2022-10-19-阿里云盘对云盘内文件审核是通过人工还是通过-ai-的图片鉴别](https://www.v2ex.com/t/888143) 
 - [2022-10-19-在加拿大使用-Google-Fi-的朋友能否分享一下体验？](https://www.v2ex.com/t/888142) 
 - [2022-10-19-Google-Meeting-和-Zoom-Meeting-中,-共享-Linux-/-Wayland-Gnome-桌面](https://www.v2ex.com/t/888140) 
-- [2022-10-19-你们觉得在杭州哪家运营商（4G/5G）信号和速度比较好？](https://www.v2ex.com/t/888138) 
-- [2022-10-19-偶然间触发了-AirPods-Pro-有趣的-bug](https://www.v2ex.com/t/888137) 
-- [2022-10-19-请教现在有什么好的收短信认证码的方式？](https://www.v2ex.com/t/888135) 
 - [2022-10-19-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-19-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-19-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

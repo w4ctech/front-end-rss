@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-19 09:56:50，:rocket: 更新条数: +2008， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-19 10:24:32，:rocket: 更新条数: +2009， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-10-19-mysql-中的-ib_logfile0/ib_logfile1-如何查看文件中的内容？](https://www.v2ex.com/t/888188) ![](assets/new.png)  
+- [2022-10-19-t.bilibili.com-的证书过期了](https://www.v2ex.com/t/888187) ![](assets/new.png)  
+- [2022-10-19-请教一个-c/c++的问题](https://www.v2ex.com/t/888186) ![](assets/new.png)  
+- [2022-10-19-Edge-浏览器又开始作恶了](https://www.v2ex.com/t/888185) ![](assets/new.png)  
+- [2022-10-19-XCode-真的是吃存储的大户，无语了](https://www.v2ex.com/t/888184) ![](assets/new.png)  
 - [2022-10-19-很焦虑-找不到目标](https://www.v2ex.com/t/888183) ![](assets/new.png)  
 - [2022-10-19-我博客某些链接访问被-301-重定向的奇怪现象](https://www.v2ex.com/t/888182) ![](assets/new.png)  
 - [2022-10-19-好像很多主板在安装独显后就会自动屏蔽掉-cpu-自带的核显,我通过修改-bios-配置将核显再开出来后,能够在系统下正常看到设备,那么请问各位大佬为什么不默认一起启...](https://www.v2ex.com/t/888181) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-10-19-关于查看某个进程访问了哪些资源](https://www.v2ex.com/t/888169) ![](assets/new.png)  
 - [2022-10-19-办公用途-mac-哪款方便？](https://www.v2ex.com/t/888168) ![](assets/new.png)  
 - [2022-10-19-求推荐拍小孩的相机](https://www.v2ex.com/t/888166) ![](assets/new.png)  
-- [2022-10-19-windows-如何实现快捷键切换投影模式](https://www.v2ex.com/t/888165) ![](assets/new.png)  
-- [2022-10-19-2022-年底了，求推荐可刷-openwrt-的免拆的百元级别千兆无线路由器。](https://www.v2ex.com/t/888162) ![](assets/new.png)  
-- [2022-10-19-外包的小矛盾，如何定义-ticket-的-scope？](https://www.v2ex.com/t/888161) ![](assets/new.png)  
-- [2022-10-19-基带坏了的-xr-且已经恢复出厂](https://www.v2ex.com/t/888160) ![](assets/new.png)  
-- [2022-10-19-Linux-下,-global-variable-在汇编里是什么时候被初始化的呢？](https://www.v2ex.com/t/888159) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

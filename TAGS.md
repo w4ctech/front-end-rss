@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-10-20 22:17:03。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-20 22:50:05。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -344,7 +344,6 @@
 - [【V2EX】招聘-UE4TA-寅生科技——坐标上海普陀，技术向美术向都要，大神级别的来！](https://www.v2ex.com/t/888564)
 - [【V2EX】招聘-UE4-主程-寅生科技，坐标上海普陀，大神级别的来](https://www.v2ex.com/t/888558)
 - [【V2EX】准备招聘，怎么尽可能缩减岗位？](https://www.v2ex.com/t/888546)
-- [【V2EX】两年经验了，两周就一个面试，我实在不知道怎么吹我的简历了，请大佬帮我看看怎么吹](https://www.v2ex.com/t/888532)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

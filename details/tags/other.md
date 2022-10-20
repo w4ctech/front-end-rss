@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-20 14:34:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-20 15:21:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,15 +1911,17 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-10-20-告别pointer-events:none使用HTML-inert属性真正禁用](https://www.zhangxinxu.com/wordpress/2022/10/html-inert-disabled-attribute/) 
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-10-20-想问一下大家最爱用的操作系统和最爱用的应用程序是啥](https://www.v2ex.com/t/888557) 
+- [2022-10-20-ESXI-下英特尔-4608P-如何取消-raid？从而使用全部-6T-空间？](https://www.v2ex.com/t/888554) 
 - [2022-10-20-国内要注销一个-app-账号-是真的难](https://www.v2ex.com/t/888553) 
 - [2022-10-20-AGPL-协议开源的软件，如果想允许付费购买商业版的用户不用以-AGPL-协议开源，需要双授权吗，有没有这些项目的-LICENSE-可以参考一下？](https://www.v2ex.com/t/888552) 
 - [2022-10-20-有什么字体文件切块的工具嘛](https://www.v2ex.com/t/888551) 
 - [2022-10-20-不想干了。要不要试用期辞职](https://www.v2ex.com/t/888550) 
 - [2022-10-20-2022-年了，国内的云都不送-ipv6-的。](https://www.v2ex.com/t/888549) 
-- [2022-10-20-欧扎克麦片吃出金属螺丝](https://www.v2ex.com/t/888548) 
 - [2022-10-20-求职！前端！也会写写智能合约！人在北京](https://www.v2ex.com/t/888544) 
 - [2022-10-20-阿里云老用户专享活动！新购服务器低至-3.6-折！](https://www.v2ex.com/t/888543) 
 - [2022-10-20-一天的摸鱼，探索出一个卧室终极隔音方案，住高层也不怕邻居了](https://www.v2ex.com/t/888540) 
@@ -1938,7 +1940,6 @@
 - [2022-10-20-关于一个按需引入的疑问](https://www.v2ex.com/t/888518) 
 - [2022-10-20-为什么说泡菜剩饭有亚硝酸盐，而肉肠却很少有人提？](https://www.v2ex.com/t/888514) 
 - [2022-10-20-请大家帮忙测试一下。](https://www.v2ex.com/t/888513) 
-- [2022-10-20-手贱删除了个-windows-分区，还好没格式化，用一堆数据恢复软件都可以扫到，但没有-license-key](https://www.v2ex.com/t/888505) 
 - [2022-10-20-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-20-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-20-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

@@ -9812,6 +9812,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "告别pointer-events:none使用HTML inert属性真正禁用",
+        "link": "https://www.zhangxinxu.com/wordpress/2022/10/html-inert-disabled-attribute/",
+        "date": "2022-10-20"
+      },
+      {
         "title": "2022年新出了哪些form表单新特性？",
         "link": "https://www.zhangxinxu.com/wordpress/2022/10/2022-new-form-property/",
         "date": "2022-10-16"
@@ -9855,11 +9860,6 @@
         "title": "来了，来了，CSS :has()伪类她来了",
         "link": "https://www.zhangxinxu.com/wordpress/2022/08/css-has-pseudo-class/",
         "date": "2022-08-24"
-      },
-      {
-        "title": "JS replaceAll 和 matchAll 使用指南不指北",
-        "link": "https://www.zhangxinxu.com/wordpress/2022/08/js-replaceall-matchall/",
-        "date": "2022-08-21"
       }
     ]
   },
@@ -9953,6 +9953,21 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "[招聘] [UE4 主程] 寅生科技，坐标上海普陀，大神级别的来",
+        "link": "https://www.v2ex.com/t/888558",
+        "date": "2022-10-20"
+      },
+      {
+        "title": "想问一下大家最爱用的操作系统和最爱用的应用程序是啥",
+        "link": "https://www.v2ex.com/t/888557",
+        "date": "2022-10-20"
+      },
+      {
+        "title": "ESXI 下英特尔 4608P 如何取消 raid？从而使用全部 6T 空间？",
+        "link": "https://www.v2ex.com/t/888554",
+        "date": "2022-10-20"
+      },
+      {
         "title": "国内要注销一个 app 账号 是真的难",
         "link": "https://www.v2ex.com/t/888553",
         "date": "2022-10-20"
@@ -9975,11 +9990,6 @@
       {
         "title": "2022 年了，国内的云都不送 ipv6 的。",
         "link": "https://www.v2ex.com/t/888549",
-        "date": "2022-10-20"
-      },
-      {
-        "title": "欧扎克麦片吃出金属螺丝",
-        "link": "https://www.v2ex.com/t/888548",
         "date": "2022-10-20"
       },
       {
@@ -10135,16 +10145,6 @@
       {
         "title": "整了个关于 storage 的 js 库。借助 proxy，扩展了 web storage 的功能，使用起来，更加方便快捷，也更加强大。主要功能为保持值类型不变，可直接操控 Object、A...",
         "link": "https://www.v2ex.com/t/888509",
-        "date": "2022-10-20"
-      },
-      {
-        "title": "[上海] 招人啦, 招人啦, 兄弟们快来~(全职/兼职) Fabrie 前端招聘 Mac&期权 13-17 薪（15k-40k）",
-        "link": "https://www.v2ex.com/t/888507",
-        "date": "2022-10-20"
-      },
-      {
-        "title": "手贱删除了个 windows 分区，还好没格式化，用一堆数据恢复软件都可以扫到，但没有 license key",
-        "link": "https://www.v2ex.com/t/888505",
         "date": "2022-10-20"
       }
     ]

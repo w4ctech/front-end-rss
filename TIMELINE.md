@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-20 11:45:02。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-10-20 12:33:02。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -71,6 +71,14 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-10-16-2022年新出了哪些form表单新特性？](https://www.zhangxinxu.com/wordpress/2022/10/2022-new-form-property/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-12-CSS-::file-selector-button伪元素简介](https://www.zhangxinxu.com/wordpress/2022/10/css-file-selector-button/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-12-更符合书写习惯的CSS媒体查询Range语法](https://www.zhangxinxu.com/wordpress/2022/10/css-media-range-syntax/) 
+- [【V2EX】2022-10-20-游戏软件-小黑盒是崩了吗？-10-月-20-号-8:30pm](https://www.v2ex.com/t/888525) 
+- [【V2EX】2022-10-20-除了虚拟机还有什么其他办法实现隔离不同用户的打印机和进程吗？](https://www.v2ex.com/t/888524) 
+- [【V2EX】2022-10-20-用过-matebook-e-go-的朋友请进，咨询几个问题。](https://www.v2ex.com/t/888523) 
+- [【V2EX】2022-10-20-iPhone12-系列谨慎升级-iOS15.7.1](https://www.v2ex.com/t/888522) 
+- [【V2EX】2022-10-20-在-GitHub-看到一个有趣的开源项目](https://www.v2ex.com/t/888521) 
+- [【V2EX】2022-10-20-不能使用-stripe-情况下，-2022-境外收款选择哪个好？](https://www.v2ex.com/t/888520) 
+- [【V2EX】2022-10-20-AWS-注册的域名可以全球解析吗](https://www.v2ex.com/t/888519) 
+- [【V2EX】2022-10-20-关于一个按需引入的疑问](https://www.v2ex.com/t/888518) 
 - [【V2EX】2022-10-20-有没有大佬可以借游戏网站会员用一下](https://www.v2ex.com/t/888516) 
 - [【V2EX】2022-10-20-手搓了个-rss-提醒项目，支持-html,rss,json-的抓取](https://www.v2ex.com/t/888515) 
 - [【V2EX】2022-10-20-为什么说泡菜剩饭有亚硝酸盐，而肉肠却很少有人提？](https://www.v2ex.com/t/888514) 
@@ -102,12 +110,6 @@
 - [【V2EX】2022-10-20-你们都在哪体验到的“吹到爆”的戴尔售后服务？](https://www.v2ex.com/t/888479) 
 - [【V2EX】2022-10-20-webhook-验证-nodejs-hmac-md5-加密问题](https://www.v2ex.com/t/888478) 
 - [【V2EX】2022-10-20-QQ-轻聊版不让登录后，用了几天原版-PCQQ，开始怀疑张小龙跳槽到了-QQ-项目组](https://www.v2ex.com/t/888476) 
-- [【V2EX】2022-10-20-求大佬指点](https://www.v2ex.com/t/888475) 
-- [【V2EX】2022-10-20-怎么做到在微信网页中发送一个-get-请求就能打开华为快应用](https://www.v2ex.com/t/888474) 
-- [【V2EX】2022-10-20-每次写文档做设计我都会先将半成品给领导以此来满足它的指导欲](https://www.v2ex.com/t/888471) 
-- [【V2EX】2022-10-20-半年经验本科生求前端工作](https://www.v2ex.com/t/888469) 
-- [【V2EX】2022-10-20-领导偏心怎么办？](https://www.v2ex.com/t/888468) 
-- [【V2EX】2022-10-20-关于鸡皮肤，老铁们有什么好办法嘛](https://www.v2ex.com/t/888467) 
 - [【技术头条】2022-10-20-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-20-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-20-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

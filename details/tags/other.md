@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-20 11:45:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-20 12:33:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1914,6 +1914,12 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-10-20-除了虚拟机还有什么其他办法实现隔离不同用户的打印机和进程吗？](https://www.v2ex.com/t/888524) 
+- [2022-10-20-用过-matebook-e-go-的朋友请进，咨询几个问题。](https://www.v2ex.com/t/888523) 
+- [2022-10-20-iPhone12-系列谨慎升级-iOS15.7.1](https://www.v2ex.com/t/888522) 
+- [2022-10-20-不能使用-stripe-情况下，-2022-境外收款选择哪个好？](https://www.v2ex.com/t/888520) 
+- [2022-10-20-AWS-注册的域名可以全球解析吗](https://www.v2ex.com/t/888519) 
+- [2022-10-20-关于一个按需引入的疑问](https://www.v2ex.com/t/888518) 
 - [2022-10-20-为什么说泡菜剩饭有亚硝酸盐，而肉肠却很少有人提？](https://www.v2ex.com/t/888514) 
 - [2022-10-20-请大家帮忙测试一下。](https://www.v2ex.com/t/888513) 
 - [2022-10-20-手贱删除了个-windows-分区，还好没格式化，用一堆数据恢复软件都可以扫到，但没有-license-key](https://www.v2ex.com/t/888505) 
@@ -1936,11 +1942,6 @@
 - [2022-10-20-PDD，这属于白嫖吗？](https://www.v2ex.com/t/888480) 
 - [2022-10-20-你们都在哪体验到的“吹到爆”的戴尔售后服务？](https://www.v2ex.com/t/888479) 
 - [2022-10-20-QQ-轻聊版不让登录后，用了几天原版-PCQQ，开始怀疑张小龙跳槽到了-QQ-项目组](https://www.v2ex.com/t/888476) 
-- [2022-10-20-求大佬指点](https://www.v2ex.com/t/888475) 
-- [2022-10-20-每次写文档做设计我都会先将半成品给领导以此来满足它的指导欲](https://www.v2ex.com/t/888471) 
-- [2022-10-20-半年经验本科生求前端工作](https://www.v2ex.com/t/888469) 
-- [2022-10-20-领导偏心怎么办？](https://www.v2ex.com/t/888468) 
-- [2022-10-20-关于鸡皮肤，老铁们有什么好办法嘛](https://www.v2ex.com/t/888467) 
 - [2022-10-20-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-20-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-20-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

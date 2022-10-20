@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-20 11:45:02，:rocket: 更新条数: +2003， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-20 12:33:02，:rocket: 更新条数: +2005， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,14 @@
 </summary>
 
 
+- [2022-10-20-游戏软件-小黑盒是崩了吗？-10-月-20-号-8:30pm](https://www.v2ex.com/t/888525) ![](assets/new.png)  
+- [2022-10-20-除了虚拟机还有什么其他办法实现隔离不同用户的打印机和进程吗？](https://www.v2ex.com/t/888524) ![](assets/new.png)  
+- [2022-10-20-用过-matebook-e-go-的朋友请进，咨询几个问题。](https://www.v2ex.com/t/888523) ![](assets/new.png)  
+- [2022-10-20-iPhone12-系列谨慎升级-iOS15.7.1](https://www.v2ex.com/t/888522) ![](assets/new.png)  
+- [2022-10-20-在-GitHub-看到一个有趣的开源项目](https://www.v2ex.com/t/888521) ![](assets/new.png)  
+- [2022-10-20-不能使用-stripe-情况下，-2022-境外收款选择哪个好？](https://www.v2ex.com/t/888520) ![](assets/new.png)  
+- [2022-10-20-AWS-注册的域名可以全球解析吗](https://www.v2ex.com/t/888519) ![](assets/new.png)  
+- [2022-10-20-关于一个按需引入的疑问](https://www.v2ex.com/t/888518) ![](assets/new.png)  
 - [2022-10-20-有没有大佬可以借游戏网站会员用一下](https://www.v2ex.com/t/888516) ![](assets/new.png)  
 - [2022-10-20-手搓了个-rss-提醒项目，支持-html,rss,json-的抓取](https://www.v2ex.com/t/888515) ![](assets/new.png)  
 - [2022-10-20-为什么说泡菜剩饭有亚硝酸盐，而肉肠却很少有人提？](https://www.v2ex.com/t/888514) ![](assets/new.png)  
@@ -503,14 +511,6 @@
 - [2022-10-20-golang-的-data-race-示例，没太理解](https://www.v2ex.com/t/888503) ![](assets/new.png)  
 - [2022-10-20-在-b-站看人直播写代码感觉挺有意思的](https://www.v2ex.com/t/888502) ![](assets/new.png)  
 - [2022-10-20-吐槽下，-IOS-真应该规范下接口，-app-的启动广告，跳过广告按钮，应该统一在下方，且按钮加大](https://www.v2ex.com/t/888500) ![](assets/new.png)  
-- [2022-10-20-滴滴北京-急求前端实习生](https://www.v2ex.com/t/888499) ![](assets/new.png)  
-- [2022-10-20-迫于一次奇葩的需求-分享一下-pdf-页面分割实现](https://www.v2ex.com/t/888498) ![](assets/new.png)  
-- [2022-10-20-迫于第一次用，请问一下-v-友为啥-2K-显示器无法切换到-2K-的分辨率](https://www.v2ex.com/t/888497) ![](assets/new.png)  
-- [2022-10-20-请教-Python-接口统计](https://www.v2ex.com/t/888495) ![](assets/new.png)  
-- [2022-10-20-家人们国内哪家厂商的-4-层负载均衡可以负载云外的资源](https://www.v2ex.com/t/888494) ![](assets/new.png)  
-- [2022-10-20-有没有解析-word-文档为结构化数据的工具](https://www.v2ex.com/t/888493) ![](assets/new.png)  
-- [2022-10-20-m1-mac-配什么键盘好用？](https://www.v2ex.com/t/888492) ![](assets/new.png)  
-- [2022-10-20-七牛云存储的免费规则是怎么算的？](https://www.v2ex.com/t/888491) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

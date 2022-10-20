@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-20 20:49:45，:rocket: 更新条数: +2006， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-20 21:16:04，:rocket: 更新条数: +2006， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-10-20-m1-mac-mini-有办法同时接-LG-的-24-4K-和-27-5K-吗](https://www.v2ex.com/t/888581) ![](assets/new.png)  
 - [2022-10-20-时也，命也](https://www.v2ex.com/t/888580) ![](assets/new.png)  
 - [2022-10-20-不知道是否有人能感觉到显示器的辐射](https://www.v2ex.com/t/888578) ![](assets/new.png)  
 - [2022-10-20-怎么回事？手机桌面上。微信小程序的快捷方式和电报的快捷方式。全部变灰色。点击，则显示未找到应用程序。](https://www.v2ex.com/t/888577) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-10-20-参加活动认识的妹子说比我大很多呢，哎](https://www.v2ex.com/t/888560) ![](assets/new.png)  
 - [2022-10-20-群晖-2022-年-10-月-27-日发布新品](https://www.v2ex.com/t/888559) ![](assets/new.png)  
 - [2022-10-20-招聘-UE4-主程-寅生科技，坐标上海普陀，大神级别的来](https://www.v2ex.com/t/888558) ![](assets/new.png)  
-- [2022-10-20-想问一下大家最爱用的操作系统和最爱用的应用程序是啥](https://www.v2ex.com/t/888557) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

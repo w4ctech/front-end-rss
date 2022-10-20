@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-20 12:33:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-20 13:56:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Git、SVN
 
@@ -8,4 +8,5 @@
 
 
 - [2022-08-31-gitee上撸了个类似飞书OKR输入框的@提及项目](https://www.zhangxinxu.com/wordpress/2022/08/gitee-feishu-okr-at-mention/) 
+- [2022-10-20-申请-github-学生认证一直报错](https://www.v2ex.com/t/888542) 
 - [2022-10-20-在-GitHub-看到一个有趣的开源项目](https://www.v2ex.com/t/888521) 

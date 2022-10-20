@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-20 17:14:15，:rocket: 更新条数: +2004， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-20 18:07:27，:rocket: 更新条数: +2005， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-10-20-不知道是否有人能感觉到显示器的辐射](https://www.v2ex.com/t/888578) ![](assets/new.png)  
+- [2022-10-20-怎么回事？手机桌面上。微信小程序的快捷方式和电报的快捷方式。全部变灰色。点击，则显示未找到应用程序。](https://www.v2ex.com/t/888577) ![](assets/new.png)  
 - [2022-10-20-中科大测速排行](https://www.v2ex.com/t/888576) ![](assets/new.png)  
 - [2022-10-20-第一次当二房东，房子可太难租出去了](https://www.v2ex.com/t/888575) ![](assets/new.png)  
 - [2022-10-20-FFmpeg-的-API-库介绍](https://www.v2ex.com/t/888574) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-10-20-招聘-UE4-主程-寅生科技，坐标上海普陀，大神级别的来](https://www.v2ex.com/t/888558) ![](assets/new.png)  
 - [2022-10-20-想问一下大家最爱用的操作系统和最爱用的应用程序是啥](https://www.v2ex.com/t/888557) ![](assets/new.png)  
 - [2022-10-20-ESXI-下英特尔-4608P-如何取消-raid？从而使用全部-6T-空间？](https://www.v2ex.com/t/888554) ![](assets/new.png)  
-- [2022-10-20-国内要注销一个-app-账号-是真的难](https://www.v2ex.com/t/888553) ![](assets/new.png)  
-- [2022-10-20-AGPL-协议开源的软件，如果想允许付费购买商业版的用户不用以-AGPL-协议开源，需要双授权吗，有没有这些项目的-LICENSE-可以参考一下？](https://www.v2ex.com/t/888552) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

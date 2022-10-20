@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-20 17:14:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-20 18:07:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1915,6 +1915,7 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-10-20-不知道是否有人能感觉到显示器的辐射](https://www.v2ex.com/t/888578) 
 - [2022-10-20-中科大测速排行](https://www.v2ex.com/t/888576) 
 - [2022-10-20-第一次当二房东，房子可太难租出去了](https://www.v2ex.com/t/888575) 
 - [2022-10-20-FFmpeg-的-API-库介绍](https://www.v2ex.com/t/888574) 
@@ -1943,7 +1944,6 @@
 - [2022-10-20-试用期被裁员，希望大佬看下简历](https://www.v2ex.com/t/888535) 
 - [2022-10-20-超哥。我的超哥-😭，-发微博要退役了](https://www.v2ex.com/t/888533) 
 - [2022-10-20-Maybe-退役了](https://www.v2ex.com/t/888531) 
-- [2022-10-20-有没有支持-Ipv6-的网站状态监控工具？](https://www.v2ex.com/t/888527) 
 - [2022-10-20-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-20-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-20-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

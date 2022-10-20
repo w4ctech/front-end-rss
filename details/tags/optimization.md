@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-20 08:21:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-20 08:57:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -6,5 +6,3 @@
 > 关键字：`性能`、`优化`、`加载`、`SEO`、`Hints`、`Prefetch`、`Prerender`、`Preload`
 
 
-
-- [2022-10-20-Gin-中加载模板只加载了子目录是怎么回事？](https://www.v2ex.com/t/888427) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-20 08:57:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-20 09:24:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1914,6 +1914,12 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-10-20-在-Windows10-上无法使用-iCloud-的提醒事项](https://www.v2ex.com/t/888486) 
+- [2022-10-20-关于家庭宽带设备-IP-地址段是否统一的问题及优缺点？](https://www.v2ex.com/t/888484) 
+- [2022-10-20-rename-工具，能在后缀-添加-内含的文件数-num-字段，手动更新，](https://www.v2ex.com/t/888483) 
+- [2022-10-20-8-本-AI-方向内部电子书需要自取](https://www.v2ex.com/t/888482) 
+- [2022-10-20-PDD，这属于白嫖吗？](https://www.v2ex.com/t/888480) 
+- [2022-10-20-你们都在哪体验到的“吹到爆”的戴尔售后服务？](https://www.v2ex.com/t/888479) 
 - [2022-10-20-QQ-轻聊版不让登录后，用了几天原版-PCQQ，开始怀疑张小龙跳槽到了-QQ-项目组](https://www.v2ex.com/t/888476) 
 - [2022-10-20-求大佬指点](https://www.v2ex.com/t/888475) 
 - [2022-10-20-每次写文档做设计我都会先将半成品给领导以此来满足它的指导欲](https://www.v2ex.com/t/888471) 
@@ -1926,7 +1932,6 @@
 - [2022-10-20-各位大佬求给产品提提意见（准备了小礼品）](https://www.v2ex.com/t/888462) 
 - [2022-10-20-预算-1000-以下，兄弟们有没有适合敲代码的时候戴的降噪蓝牙-TWS-耳机推荐，最好是支持-aptx-协议以上的](https://www.v2ex.com/t/888461) 
 - [2022-10-20-记录-目前来说喝过的最难喝的一种金酒](https://www.v2ex.com/t/888459) 
-- [2022-10-20-彭博社爆料，入境将改为-2+5，好日子要来了吗？](https://www.v2ex.com/t/888458) 
 - [2022-10-20-国外有哪些云服务商可以提供匿名购买-vps-的服务啊](https://www.v2ex.com/t/888457) 
 - [2022-10-20-挤脸上的痘痘时发出的声音是怎么回事？](https://www.v2ex.com/t/888456) 
 - [2022-10-20-万物皆可集成系列：低代码通过-Web-API](https://www.v2ex.com/t/888455) 
@@ -1941,11 +1946,6 @@
 - [2022-10-20-女子逃离大城市花-1.5-万全款鹤岗房子-想法](https://www.v2ex.com/t/888442) 
 - [2022-10-20-换来换去，桌面还是-Linux-Mint-稳定好用](https://www.v2ex.com/t/888438) 
 - [2022-10-20-网易云黑胶-VIP7-天自领](https://www.v2ex.com/t/888437) 
-- [2022-10-20-leetcode-cn-年费会员-20%off](https://www.v2ex.com/t/888434) 
-- [2022-10-20-双十一打算装台主机-配置如下-&-抖音的-diy-整机靠谱吗](https://www.v2ex.com/t/888433) 
-- [2022-10-20-2022-了武汉办宽带选电信还是联通？](https://www.v2ex.com/t/888432) 
-- [2022-10-20-微信多窗口的问题](https://www.v2ex.com/t/888431) 
-- [2022-10-20-哪里有电诈警情汇总，目前只看到各地公众号发自己所属区域的电诈警情，没个汇总看着不方便](https://www.v2ex.com/t/888429) 
 - [2022-10-20-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-20-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-20-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

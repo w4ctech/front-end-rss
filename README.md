@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-20 09:24:09，:rocket: 更新条数: +2004， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-20 09:53:36，:rocket: 更新条数: +2004， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-10-20-看到挺多人看久显示器会流泪眼酸头晕，分享个自己的解决办法](https://www.v2ex.com/t/888489) ![](assets/new.png)  
+- [2022-10-20-有没有用游戏本跑-Linux-的，什么显卡比较好，或者有推荐的机器](https://www.v2ex.com/t/888488) ![](assets/new.png)  
 - [2022-10-20-在-Windows10-上无法使用-iCloud-的提醒事项](https://www.v2ex.com/t/888486) ![](assets/new.png)  
 - [2022-10-20-关于家庭宽带设备-IP-地址段是否统一的问题及优缺点？](https://www.v2ex.com/t/888484) ![](assets/new.png)  
 - [2022-10-20-rename-工具，能在后缀-添加-内含的文件数-num-字段，手动更新，](https://www.v2ex.com/t/888483) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-10-20-你们买了-Apple-Watch-后悔了吗？](https://www.v2ex.com/t/888465) ![](assets/new.png)  
 - [2022-10-20-直系亲属可能因病不久于世，各位-v-友会有啥想法？](https://www.v2ex.com/t/888464) ![](assets/new.png)  
 - [2022-10-20-国内航空公司哪家安全性比较好啊](https://www.v2ex.com/t/888463) ![](assets/new.png)  
-- [2022-10-20-各位大佬求给产品提提意见（准备了小礼品）](https://www.v2ex.com/t/888462) ![](assets/new.png)  
-- [2022-10-20-预算-1000-以下，兄弟们有没有适合敲代码的时候戴的降噪蓝牙-TWS-耳机推荐，最好是支持-aptx-协议以上的](https://www.v2ex.com/t/888461) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

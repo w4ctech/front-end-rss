@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-20 09:24:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-20 09:53:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1914,6 +1914,7 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-10-20-看到挺多人看久显示器会流泪眼酸头晕，分享个自己的解决办法](https://www.v2ex.com/t/888489) 
 - [2022-10-20-在-Windows10-上无法使用-iCloud-的提醒事项](https://www.v2ex.com/t/888486) 
 - [2022-10-20-关于家庭宽带设备-IP-地址段是否统一的问题及优缺点？](https://www.v2ex.com/t/888484) 
 - [2022-10-20-rename-工具，能在后缀-添加-内含的文件数-num-字段，手动更新，](https://www.v2ex.com/t/888483) 
@@ -1944,8 +1945,6 @@
 - [2022-10-20-首年半价，你值得拥有](https://www.v2ex.com/t/888447) 
 - [2022-10-20-iCloud-中手机备份占了-22-个-G，能删吗？](https://www.v2ex.com/t/888446) 
 - [2022-10-20-女子逃离大城市花-1.5-万全款鹤岗房子-想法](https://www.v2ex.com/t/888442) 
-- [2022-10-20-换来换去，桌面还是-Linux-Mint-稳定好用](https://www.v2ex.com/t/888438) 
-- [2022-10-20-网易云黑胶-VIP7-天自领](https://www.v2ex.com/t/888437) 
 - [2022-10-20-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-20-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-20-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-20 19:48:24。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-10-20 20:18:22。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -72,6 +72,7 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-10-16-2022年新出了哪些form表单新特性？](https://www.zhangxinxu.com/wordpress/2022/10/2022-new-form-property/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-12-CSS-::file-selector-button伪元素简介](https://www.zhangxinxu.com/wordpress/2022/10/css-file-selector-button/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-12-更符合书写习惯的CSS媒体查询Range语法](https://www.zhangxinxu.com/wordpress/2022/10/css-media-range-syntax/) 
+- [【V2EX】2022-10-20-时也，命也](https://www.v2ex.com/t/888580) 
 - [【V2EX】2022-10-20-不知道是否有人能感觉到显示器的辐射](https://www.v2ex.com/t/888578) 
 - [【V2EX】2022-10-20-怎么回事？手机桌面上。微信小程序的快捷方式和电报的快捷方式。全部变灰色。点击，则显示未找到应用程序。](https://www.v2ex.com/t/888577) 
 - [【V2EX】2022-10-20-中科大测速排行](https://www.v2ex.com/t/888576) 

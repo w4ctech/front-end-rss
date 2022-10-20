@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-20 23:10:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-20 23:20:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1945,7 +1945,6 @@
 - [2022-10-20-旧版本-PC-QQ-是否不能登陆了？](https://www.v2ex.com/t/888539) 
 - [2022-10-20-Apple-tv-用一段时间就比较卡，开了旁白声音变慢或者断断续续](https://www.v2ex.com/t/888536) 
 - [2022-10-20-试用期被裁员，希望大佬看下简历](https://www.v2ex.com/t/888535) 
-- [2022-10-20-超哥。我的超哥-😭，-发微博要退役了](https://www.v2ex.com/t/888533) 
 - [2022-10-20-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-20-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-20-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

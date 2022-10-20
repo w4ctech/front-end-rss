@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-20 23:10:30。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-10-20 23:20:16。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -72,6 +72,7 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-10-16-2022年新出了哪些form表单新特性？](https://www.zhangxinxu.com/wordpress/2022/10/2022-new-form-property/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-12-CSS-::file-selector-button伪元素简介](https://www.zhangxinxu.com/wordpress/2022/10/css-file-selector-button/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-12-更符合书写习惯的CSS媒体查询Range语法](https://www.zhangxinxu.com/wordpress/2022/10/css-media-range-syntax/) 
+- [【V2EX】2022-10-20-Web3-远程-DeBank/Rabby-招聘-产品/数据算法/后端/SRE/前端工程师-$5K-13K](https://www.v2ex.com/t/888583) 
 - [【V2EX】2022-10-20-各位都是怎么使用魔法来上网的？](https://www.v2ex.com/t/888582) 
 - [【V2EX】2022-10-20-m1-mac-mini-有办法同时接-LG-的-24-4K-和-27-5K-吗](https://www.v2ex.com/t/888581) 
 - [【V2EX】2022-10-20-时也，命也](https://www.v2ex.com/t/888580) 
@@ -111,7 +112,6 @@
 - [【V2EX】2022-10-20-RedissonClient,-这种-lock-风格有隐患吗？](https://www.v2ex.com/t/888537) 
 - [【V2EX】2022-10-20-Apple-tv-用一段时间就比较卡，开了旁白声音变慢或者断断续续](https://www.v2ex.com/t/888536) 
 - [【V2EX】2022-10-20-试用期被裁员，希望大佬看下简历](https://www.v2ex.com/t/888535) 
-- [【V2EX】2022-10-20-超哥。我的超哥-😭，-发微博要退役了](https://www.v2ex.com/t/888533) 
 - [【技术头条】2022-10-20-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-20-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-20-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

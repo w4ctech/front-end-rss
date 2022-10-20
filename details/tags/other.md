@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-20 10:53:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-20 11:16:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1914,6 +1914,8 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-10-20-手贱删除了个-windows-分区，还好没格式化，用一堆数据恢复软件都可以扫到，但没有-license-key](https://www.v2ex.com/t/888505) 
+- [2022-10-20-golang-的-data-race-示例，没太理解](https://www.v2ex.com/t/888503) 
 - [2022-10-20-吐槽下，-IOS-真应该规范下接口，-app-的启动广告，跳过广告按钮，应该统一在下方，且按钮加大](https://www.v2ex.com/t/888500) 
 - [2022-10-20-滴滴北京-急求前端实习生](https://www.v2ex.com/t/888499) 
 - [2022-10-20-迫于一次奇葩的需求-分享一下-pdf-页面分割实现](https://www.v2ex.com/t/888498) 
@@ -1943,10 +1945,6 @@
 - [2022-10-20-各位大佬求给产品提提意见（准备了小礼品）](https://www.v2ex.com/t/888462) 
 - [2022-10-20-预算-1000-以下，兄弟们有没有适合敲代码的时候戴的降噪蓝牙-TWS-耳机推荐，最好是支持-aptx-协议以上的](https://www.v2ex.com/t/888461) 
 - [2022-10-20-记录-目前来说喝过的最难喝的一种金酒](https://www.v2ex.com/t/888459) 
-- [2022-10-20-国外有哪些云服务商可以提供匿名购买-vps-的服务啊](https://www.v2ex.com/t/888457) 
-- [2022-10-20-挤脸上的痘痘时发出的声音是怎么回事？](https://www.v2ex.com/t/888456) 
-- [2022-10-20-万物皆可集成系列：低代码通过-Web-API](https://www.v2ex.com/t/888455) 
-- [2022-10-20-求助黑苹果卡顿原因分析](https://www.v2ex.com/t/888453) 
 - [2022-10-20-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-20-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-20-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

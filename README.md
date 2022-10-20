@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-20 10:20:14，:rocket: 更新条数: +2006， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-20 10:53:15，:rocket: 更新条数: +2005， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-10-20-在-b-站看人直播写代码感觉挺有意思的](https://www.v2ex.com/t/888502) ![](assets/new.png)  
+- [2022-10-20-吐槽下，-IOS-真应该规范下接口，-app-的启动广告，跳过广告按钮，应该统一在下方，且按钮加大](https://www.v2ex.com/t/888500) ![](assets/new.png)  
+- [2022-10-20-滴滴北京-急求前端实习生](https://www.v2ex.com/t/888499) ![](assets/new.png)  
+- [2022-10-20-迫于一次奇葩的需求-分享一下-pdf-页面分割实现](https://www.v2ex.com/t/888498) ![](assets/new.png)  
+- [2022-10-20-迫于第一次用，请问一下-v-友为啥-2K-显示器无法切换到-2K-的分辨率](https://www.v2ex.com/t/888497) ![](assets/new.png)  
 - [2022-10-20-请教-Python-接口统计](https://www.v2ex.com/t/888495) ![](assets/new.png)  
 - [2022-10-20-家人们国内哪家厂商的-4-层负载均衡可以负载云外的资源](https://www.v2ex.com/t/888494) ![](assets/new.png)  
 - [2022-10-20-有没有解析-word-文档为结构化数据的工具](https://www.v2ex.com/t/888493) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-10-20-PDD，这属于白嫖吗？](https://www.v2ex.com/t/888480) ![](assets/new.png)  
 - [2022-10-20-你们都在哪体验到的“吹到爆”的戴尔售后服务？](https://www.v2ex.com/t/888479) ![](assets/new.png)  
 - [2022-10-20-webhook-验证-nodejs-hmac-md5-加密问题](https://www.v2ex.com/t/888478) ![](assets/new.png)  
-- [2022-10-20-QQ-轻聊版不让登录后，用了几天原版-PCQQ，开始怀疑张小龙跳槽到了-QQ-项目组](https://www.v2ex.com/t/888476) ![](assets/new.png)  
-- [2022-10-20-求大佬指点](https://www.v2ex.com/t/888475) ![](assets/new.png)  
-- [2022-10-20-怎么做到在微信网页中发送一个-get-请求就能打开华为快应用](https://www.v2ex.com/t/888474) ![](assets/new.png)  
-- [2022-10-20-每次写文档做设计我都会先将半成品给领导以此来满足它的指导欲](https://www.v2ex.com/t/888471) ![](assets/new.png)  
-- [2022-10-20-半年经验本科生求前端工作](https://www.v2ex.com/t/888469) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

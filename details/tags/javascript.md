@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-20 11:16:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-20 11:45:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -15,3 +15,5 @@
 - [2021-03-03-港府回应一63岁患者死亡事件-暂无法确定与疫苗相关](https://m.caixin.com/m/2021-03-03/101670052.html) 
 - [2022-10-16-2022年新出了哪些form表单新特性？](https://www.zhangxinxu.com/wordpress/2022/10/2022-new-form-property/) 
 - [2022-08-21-JS-replaceAll-和-matchAll-使用指南不指北](https://www.zhangxinxu.com/wordpress/2022/08/js-replaceall-matchall/) 
+- [2022-10-20-手搓了个-rss-提醒项目，支持-html,rss,json-的抓取](https://www.v2ex.com/t/888515) 
+- [2022-10-20-整了个关于-storage-的-js-库。借助-proxy，扩展了-web-storage-的功能，使用起来，更加方便快捷，也更加强大。主要功能为保持值类型不变，可直接操控-Object、A...](https://www.v2ex.com/t/888509) 

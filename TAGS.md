@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-10-21 12:33:23。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-21 13:55:09。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -90,7 +90,6 @@
 
 
 - [【武汉肺炎防疫全纪录(财新网)】韩国拟升级首尔疫情管控-法国专业机构建议强制接种疫苗｜大流行手记（7月10日）](https://m.caixin.com/m/2021-07-11/101738786.html)
-- [【V2EX】spring-boot-已经把-gradle-设置为默认构建工具了，有啥好用的配置文档推荐吗？](https://www.v2ex.com/t/888778)
 - [......【查看更多】......](./details/tags/pack-build.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -343,8 +342,7 @@
 
 
 
-- [【V2EX】HireEZ上海张江-或-苏州独墅湖25K---45K-招聘高级-devops-工程师](https://www.v2ex.com/t/888777)
-- [【V2EX】招聘区块链后端负责人，可分布式工作](https://www.v2ex.com/t/888774)
+- [【V2EX】很好奇某些帖子写的招聘要的一本，到底是个什么要求](https://www.v2ex.com/t/888821)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

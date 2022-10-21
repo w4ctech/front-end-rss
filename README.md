@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-21 12:33:23，:rocket: 更新条数: +2006， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-21 13:55:09，:rocket: 更新条数: +2007， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,19 @@
 </summary>
 
 
+- [2022-10-21-求个便宜的-14pm-美版入手方式，不能插卡也行](https://www.v2ex.com/t/888830) ![](assets/new.png)  
+- [2022-10-21-内部微软云渠道](https://www.v2ex.com/t/888829) ![](assets/new.png)  
+- [2022-10-21-在座大部分都是玩软的，有没有玩硬的？现在这局势，有没有可能以后手机都是-14nm-的，还是一举拿下？](https://www.v2ex.com/t/888828) ![](assets/new.png)  
+- [2022-10-21-求助，电饭煲煮汤的时候，在加热垫上不小心夹了一块塑料，过了几分才发现，塑料已经融化了，怎么搞](https://www.v2ex.com/t/888827) ![](assets/new.png)  
+- [2022-10-21-新加坡生活真是不错](https://www.v2ex.com/t/888826) ![](assets/new.png)  
+- [2022-10-21-那些-ocr-库怎么搞的,个人能搞起来吗?比如以下这些](https://www.v2ex.com/t/888825) ![](assets/new.png)  
+- [2022-10-21-苹果的时光机器,太坑了.是我打开的方式不对吗?](https://www.v2ex.com/t/888824) ![](assets/new.png)  
+- [2022-10-21-工作的久了，颈椎不太受得了了，升降台，求推荐](https://www.v2ex.com/t/888822) ![](assets/new.png)  
+- [2022-10-21-很好奇某些帖子写的招聘要的一本，到底是个什么要求](https://www.v2ex.com/t/888821) ![](assets/new.png)  
+- [2022-10-21-13-代酷睿-13700K-搭配-ROG-Z690-E-是不是一个好选择？](https://www.v2ex.com/t/888819) ![](assets/new.png)  
+- [2022-10-21-delphi-编译的程序体积为什么那么小？](https://www.v2ex.com/t/888818) ![](assets/new.png)  
+- [2022-10-21-易导航，一个干净纯粹，简单好用的网址导航](https://www.v2ex.com/t/888817) ![](assets/new.png)  
+- [2022-10-21-Linksys-MX5500-的弱鸡-CPU-会很影响实际使用体验吗？](https://www.v2ex.com/t/888816) ![](assets/new.png)  
 - [2022-10-21-AdGuard-终身九设备仅需-115-元](https://www.v2ex.com/t/888815) ![](assets/new.png)  
 - [2022-10-21-有没有感觉到最新-Mac-上的-网易云音乐-软件特别卡](https://www.v2ex.com/t/888814) ![](assets/new.png)  
 - [2022-10-21-mac-睡眠后有线键盘失效，需要重新拔插才能使用](https://www.v2ex.com/t/888813) ![](assets/new.png)  
@@ -498,19 +511,6 @@
 - [2022-10-21-苹果的三合一充电设备有什么推荐？](https://www.v2ex.com/t/888811) ![](assets/new.png)  
 - [2022-10-21-国内云服务-可以搭-socks5-吗？不跨境-就境内点对点连接](https://www.v2ex.com/t/888810) ![](assets/new.png)  
 - [2022-10-21-有什么方便设计网站业务流程的软件么？](https://www.v2ex.com/t/888808) ![](assets/new.png)  
-- [2022-10-21-win-上有啥好用的游戏加速器?](https://www.v2ex.com/t/888807) ![](assets/new.png)  
-- [2022-10-21-系统升级哪种方式更好呢](https://www.v2ex.com/t/888806) ![](assets/new.png)  
-- [2022-10-21-十月发布会没了，那-Apple-silicon-的-macpro-难产了吧](https://www.v2ex.com/t/888805) ![](assets/new.png)  
-- [2022-10-21-早上起床后怎样让大脑快速清醒](https://www.v2ex.com/t/888804) ![](assets/new.png)  
-- [2022-10-21-向大家推荐一个买高质量大闸蟹的渠道](https://www.v2ex.com/t/888803) ![](assets/new.png)  
-- [2022-10-21-mac-系统应该就在这几天推送了吧？应该不会到-11-月吧](https://www.v2ex.com/t/888801) ![](assets/new.png)  
-- [2022-10-21-前端报错-Proxy-error:-Could-not-proxy-request-/xxx-from-localhost:8080-to-https://xxx.com-ECONN](https://www.v2ex.com/t/888800) ![](assets/new.png)  
-- [2022-10-21-Apple-TV-看-b-站除了投屏还有什么办法呀](https://www.v2ex.com/t/888798) ![](assets/new.png)  
-- [2022-10-21-开一个土区-Cloud+-的车](https://www.v2ex.com/t/888797) ![](assets/new.png)  
-- [2022-10-21-求教，批量处理视频里的二维码和文案](https://www.v2ex.com/t/888796) ![](assets/new.png)  
-- [2022-10-21-Chrome-突然启动报错，求解！](https://www.v2ex.com/t/888795) ![](assets/new.png)  
-- [2022-10-21-在手机上获得电脑的局域网-ip-有什么好办法](https://www.v2ex.com/t/888794) ![](assets/new.png)  
-- [2022-10-21-婚车可以帮接客么](https://www.v2ex.com/t/888792) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-21 14:36:44。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-10-21 15:24:04。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -72,6 +72,12 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-10-16-2022年新出了哪些form表单新特性？](https://www.zhangxinxu.com/wordpress/2022/10/2022-new-form-property/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-12-CSS-::file-selector-button伪元素简介](https://www.zhangxinxu.com/wordpress/2022/10/css-file-selector-button/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-12-更符合书写习惯的CSS媒体查询Range语法](https://www.zhangxinxu.com/wordpress/2022/10/css-media-range-syntax/) 
+- [【V2EX】2022-10-21-在暖气片上加个风扇是不是就能有效的提升屋内的温度了?](https://www.v2ex.com/t/888846) 
+- [【V2EX】2022-10-21-apple-首席设计师离职](https://www.v2ex.com/t/888845) 
+- [【V2EX】2022-10-21-有没有可能让-Chromium-变成共享库](https://www.v2ex.com/t/888843) 
+- [【V2EX】2022-10-21-TGIF-T0-人机工程学座椅怎么样？想海运一个到加拿大。](https://www.v2ex.com/t/888842) 
+- [【V2EX】2022-10-21-买个感冒药就跟买禁药一样](https://www.v2ex.com/t/888841) 
+- [【V2EX】2022-10-21-有没有具有屏蔽功能的-telegram-客户端呢?有删除群内他人消息功能就更好了](https://www.v2ex.com/t/888840) 
 - [【V2EX】2022-10-21-苹果的时光机器,太坑了.ccc-上手有难度.咋办呢?](https://www.v2ex.com/t/888839) 
 - [【V2EX】2022-10-21-想组装个便宜的家用+编程的主机，怎么选购？](https://www.v2ex.com/t/888838) 
 - [【V2EX】2022-10-21-嵌套的-FlexBox-中-flex-basis-的-BUG](https://www.v2ex.com/t/888837) 
@@ -109,12 +115,6 @@
 - [【V2EX】2022-10-21-前端报错-Proxy-error:-Could-not-proxy-request-/xxx-from-localhost:8080-to-https://xxx.com-ECONN](https://www.v2ex.com/t/888800) 
 - [【V2EX】2022-10-21-Apple-TV-看-b-站除了投屏还有什么办法呀](https://www.v2ex.com/t/888798) 
 - [【V2EX】2022-10-21-开一个土区-Cloud+-的车](https://www.v2ex.com/t/888797) 
-- [【V2EX】2022-10-21-求教，批量处理视频里的二维码和文案](https://www.v2ex.com/t/888796) 
-- [【V2EX】2022-10-21-Chrome-突然启动报错，求解！](https://www.v2ex.com/t/888795) 
-- [【V2EX】2022-10-21-在手机上获得电脑的局域网-ip-有什么好办法](https://www.v2ex.com/t/888794) 
-- [【V2EX】2022-10-21-婚车可以帮接客么](https://www.v2ex.com/t/888792) 
-- [【V2EX】2022-10-21-Build-in-pubic:-TinySnap-次月公开运营报告](https://www.v2ex.com/t/888791) 
-- [【V2EX】2022-10-21-Mac-版-Adobe-XD-真的破解不了么？前设计师遗留了一堆-XD-文件](https://www.v2ex.com/t/888790) 
 - [【技术头条】2022-10-21-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-21-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-21-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

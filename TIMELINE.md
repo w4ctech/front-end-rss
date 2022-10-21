@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-21 23:18:52。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-10-21 23:51:11。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -72,6 +72,7 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-10-16-2022年新出了哪些form表单新特性？](https://www.zhangxinxu.com/wordpress/2022/10/2022-new-form-property/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-12-CSS-::file-selector-button伪元素简介](https://www.zhangxinxu.com/wordpress/2022/10/css-file-selector-button/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-12-更符合书写习惯的CSS媒体查询Range语法](https://www.zhangxinxu.com/wordpress/2022/10/css-media-range-syntax/) 
+- [【V2EX】2022-10-21-求助-mbp-睡眠后有线键盘失效](https://www.v2ex.com/t/888873) 
 - [【V2EX】2022-10-21-安徽免费提速-1000M，但新猫不给设置桥接，有什么猫腻，最后还是用的旧猫](https://www.v2ex.com/t/888871) 
 - [【V2EX】2022-10-21-社区云计算（云电脑-提高利用率）](https://www.v2ex.com/t/888870) 
 - [【V2EX】2022-10-21-archive.is-挂掉了吗？](https://www.v2ex.com/t/888869) 
@@ -114,7 +115,6 @@
 - [【V2EX】2022-10-21-新加坡生活真是不错](https://www.v2ex.com/t/888826) 
 - [【V2EX】2022-10-21-那些-ocr-库怎么搞的,个人能搞起来吗?比如以下这些](https://www.v2ex.com/t/888825) 
 - [【V2EX】2022-10-21-苹果的时光机器,太坑了.是我打开的方式不对吗?](https://www.v2ex.com/t/888824) 
-- [【V2EX】2022-10-21-工作的久了，颈椎不太受得了了，升降台，求推荐](https://www.v2ex.com/t/888822) 
 - [【技术头条】2022-10-21-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-21-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-21-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

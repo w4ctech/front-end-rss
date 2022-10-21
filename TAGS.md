@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-10-21 10:19:44。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-21 10:51:31。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -57,7 +57,6 @@
 
 
 
-- [【V2EX】如何使用-npm-install-<git-URL>的方式安装-vue-这个依赖？](https://www.v2ex.com/t/888751)
 - [......【查看更多】......](./details/tags/vue.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -180,7 +179,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】港府回应一63岁患者死亡事件-暂无法确定与疫苗相关](https://m.caixin.com/m/2021-03-03/101670052.html)
 - [【张鑫旭-鑫空间-鑫生活】2022年新出了哪些form表单新特性？](https://www.zhangxinxu.com/wordpress/2022/10/2022-new-form-property/)
 - [【V2EX】电脑的-DNS-服务器,-和路由器有关么](https://www.v2ex.com/t/888756)
-- [【V2EX】奇异事件，我从-RC1-更新到-beta11-了](https://www.v2ex.com/t/888749)
 - [......【查看更多】......](./details/tags/javascript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -293,7 +291,7 @@
 
 
 
-- [【V2EX】从-init.vim-迁移到-init.lua-有什么优势吗？](https://www.v2ex.com/t/888750)
+- [【V2EX】前端报错-Proxy-error:-Could-not-proxy-request-/xxx-from-localhost:8080-to-https://xxx.com-ECONN](https://www.v2ex.com/t/888800)
 - [【技术头条】基于AI算法的数据库异常监测系统的设计与实现-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15390&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F09%2F01%2Fdatabase-monitoring-based-on-ai.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 

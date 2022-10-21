@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-21 08:57:56，:rocket: 更新条数: +2004， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-21 09:24:36，:rocket: 更新条数: +2006， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,13 @@
 </summary>
 
 
+- [2022-10-21-想要写一个-windows-桌面软件考虑-WPF，没有相关经验，需要学习什么？](https://www.v2ex.com/t/888783) ![](assets/new.png)  
+- [2022-10-21-docker-的-ubuntu-容器为什么不自带-ip-命令和-ifconfig-命令？](https://www.v2ex.com/t/888782) ![](assets/new.png)  
+- [2022-10-21-哎哎哎哎哎哎哎哎大家一起来叹气呀](https://www.v2ex.com/t/888781) ![](assets/new.png)  
+- [2022-10-21-有没有开源的英文语义分析库？用于外贸站的客服机器人，分析用户想干什么-assign-给对应部门客服的，目前用的关键词识别，设少了经常识别不出来，设多了经常识别...](https://www.v2ex.com/t/888779) ![](assets/new.png)  
+- [2022-10-21-spring-boot-已经把-gradle-设置为默认构建工具了，有啥好用的配置文档推荐吗？](https://www.v2ex.com/t/888778) ![](assets/new.png)  
+- [2022-10-21-HireEZ上海张江-或-苏州独墅湖25K---45K-招聘高级-devops-工程师](https://www.v2ex.com/t/888777) ![](assets/new.png)  
+- [2022-10-21-我整个了-VS-Code-的扩展](https://www.v2ex.com/t/888776) ![](assets/new.png)  
 - [2022-10-21-你去报销被财务骂过吗？我挨骂挨多了，上新-App-发票盒子](https://www.v2ex.com/t/888775) ![](assets/new.png)  
 - [2022-10-21-招聘区块链后端负责人，可分布式工作](https://www.v2ex.com/t/888774) ![](assets/new.png)  
 - [2022-10-21-ethernetservers-6-刀买到-6-个美国数据中心-IP](https://www.v2ex.com/t/888773) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-10-21-坐标南京，招聘区块链产品实习](https://www.v2ex.com/t/888759) ![](assets/new.png)  
 - [2022-10-21-Mac-下有好的下载工具推荐吗？](https://www.v2ex.com/t/888758) ![](assets/new.png)  
 - [2022-10-21-websocket-服务端已经-response101-但是好像没有连接成功](https://www.v2ex.com/t/888757) ![](assets/new.png)  
-- [2022-10-21-电脑的-DNS-服务器,-和路由器有关么](https://www.v2ex.com/t/888756) ![](assets/new.png)  
-- [2022-10-21-Airpodspro-2-耳机盒声音总是响](https://www.v2ex.com/t/888755) ![](assets/new.png)  
-- [2022-10-21-xdm，对于一键自动化，一想自动化和不用想就自动化怎么看？](https://www.v2ex.com/t/888753) ![](assets/new.png)  
-- [2022-10-21-初学前端应该怎么快速找到想要的方法呢?](https://www.v2ex.com/t/888752) ![](assets/new.png)  
-- [2022-10-21-如何使用-npm-install-<git-URL>的方式安装-vue-这个依赖？](https://www.v2ex.com/t/888751) ![](assets/new.png)  
-- [2022-10-21-从-init.vim-迁移到-init.lua-有什么优势吗？](https://www.v2ex.com/t/888750) ![](assets/new.png)  
-- [2022-10-21-奇异事件，我从-RC1-更新到-beta11-了](https://www.v2ex.com/t/888749) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

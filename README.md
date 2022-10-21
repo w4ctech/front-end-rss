@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-21 09:53:51，:rocket: 更新条数: +2006， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-21 10:19:44，:rocket: 更新条数: +2005， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-10-21-求教，批量处理视频里的二维码和文案](https://www.v2ex.com/t/888796) ![](assets/new.png)  
+- [2022-10-21-Chrome-突然启动报错，求解！](https://www.v2ex.com/t/888795) ![](assets/new.png)  
+- [2022-10-21-在手机上获得电脑的局域网-ip-有什么好办法](https://www.v2ex.com/t/888794) ![](assets/new.png)  
+- [2022-10-21-婚车可以帮接客么](https://www.v2ex.com/t/888792) ![](assets/new.png)  
 - [2022-10-21-Build-in-pubic:-TinySnap-次月公开运营报告](https://www.v2ex.com/t/888791) ![](assets/new.png)  
 - [2022-10-21-Mac-版-Adobe-XD-真的破解不了么？前设计师遗留了一堆-XD-文件](https://www.v2ex.com/t/888790) ![](assets/new.png)  
 - [2022-10-21-react-router-dom-v6-动态路由报错](https://www.v2ex.com/t/888788) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-10-21-你去报销被财务骂过吗？我挨骂挨多了，上新-App-发票盒子](https://www.v2ex.com/t/888775) ![](assets/new.png)  
 - [2022-10-21-招聘区块链后端负责人，可分布式工作](https://www.v2ex.com/t/888774) ![](assets/new.png)  
 - [2022-10-21-ethernetservers-6-刀买到-6-个美国数据中心-IP](https://www.v2ex.com/t/888773) ![](assets/new.png)  
-- [2022-10-21-前辈们，指导一下如何入门-asp.net-core？](https://www.v2ex.com/t/888771) ![](assets/new.png)  
-- [2022-10-21-有没有-M1-14-Pro-Mac-的-MegaSafe-转-Type-C-的转接器？](https://www.v2ex.com/t/888770) ![](assets/new.png)  
-- [2022-10-21-Oracle-always-free-值不值得申一张-visa-卡？](https://www.v2ex.com/t/888769) ![](assets/new.png)  
-- [2022-10-21-明天（10-月-22-日）周六：北京十三陵水库，公路、山地自行车骑行。扫码进群，一起骑行啦](https://www.v2ex.com/t/888768) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-21 20:18:50，:rocket: 更新条数: +2008， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-21 20:48:09，:rocket: 更新条数: +2009， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-10-21-社区云计算（云电脑-提高利用率）](https://www.v2ex.com/t/888870) ![](assets/new.png)  
 - [2022-10-21-archive.is-挂掉了吗？](https://www.v2ex.com/t/888869) ![](assets/new.png)  
 - [2022-10-21-有日本的程序员工作推荐吗](https://www.v2ex.com/t/888868) ![](assets/new.png)  
 - [2022-10-21-互联网+-开源教育（减少重复劳动）](https://www.v2ex.com/t/888867) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-10-21-csdn-谁有积分，能帮忙下载一个关于医保文章不](https://www.v2ex.com/t/888853) ![](assets/new.png)  
 - [2022-10-21-有偿请教，请问谁之前在-蓝港互动-做过技术。](https://www.v2ex.com/t/888852) ![](assets/new.png)  
 - [2022-10-21-求-watch-推荐](https://www.v2ex.com/t/888851) ![](assets/new.png)  
-- [2022-10-21-装-2-块-GPU-的深度学习主机,-主板一定要支持-SLI-吗?](https://www.v2ex.com/t/888849) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

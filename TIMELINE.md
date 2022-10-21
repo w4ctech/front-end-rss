@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-21 18:59:01。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-10-21 19:24:22。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -72,6 +72,7 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-10-16-2022年新出了哪些form表单新特性？](https://www.zhangxinxu.com/wordpress/2022/10/2022-new-form-property/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-12-CSS-::file-selector-button伪元素简介](https://www.zhangxinxu.com/wordpress/2022/10/css-file-selector-button/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-12-更符合书写习惯的CSS媒体查询Range语法](https://www.zhangxinxu.com/wordpress/2022/10/css-media-range-syntax/) 
+- [【V2EX】2022-10-21-有日本的程序员工作推荐吗](https://www.v2ex.com/t/888868) 
 - [【V2EX】2022-10-21-互联网+-开源教育（减少重复劳动）](https://www.v2ex.com/t/888867) 
 - [【V2EX】2022-10-21-我对-AR-眼镜（显示屏）入魔了，手握-NReal-Air，又下单了雷鸟-Air-1S](https://www.v2ex.com/t/888866) 
 - [【V2EX】2022-10-21-求问，有啥办法直接在本地-docker-里创建和-Google-Composer-完全一样的-Airflow-环境吗？](https://www.v2ex.com/t/888865) 
@@ -113,7 +114,6 @@
 - [【V2EX】2022-10-21-工作的久了，颈椎不太受得了了，升降台，求推荐](https://www.v2ex.com/t/888822) 
 - [【V2EX】2022-10-21-很好奇某些帖子写的招聘要的一本，到底是个什么要求](https://www.v2ex.com/t/888821) 
 - [【V2EX】2022-10-21-13-代酷睿-13700K-搭配-ROG-Z690-E-是不是一个好选择？](https://www.v2ex.com/t/888819) 
-- [【V2EX】2022-10-21-delphi-编译的程序体积为什么那么小？](https://www.v2ex.com/t/888818) 
 - [【技术头条】2022-10-21-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-21-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-21-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

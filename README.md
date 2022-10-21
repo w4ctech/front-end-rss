@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-21 17:10:40，:rocket: 更新条数: +2009， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-21 17:57:38，:rocket: 更新条数: +2009， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-10-21-我对-AR-眼镜（显示屏）入魔了，手握-NReal-Air，又下单了雷鸟-Air-1S](https://www.v2ex.com/t/888866) ![](assets/new.png)  
+- [2022-10-21-求问，有啥办法直接在本地-docker-里创建和-Google-Composer-完全一样的-Airflow-环境吗？](https://www.v2ex.com/t/888865) ![](assets/new.png)  
 - [2022-10-21-一个关于解密的小谜题](https://www.v2ex.com/t/888864) ![](assets/new.png)  
 - [2022-10-21-有没有带按摩的洗脚盆推荐](https://www.v2ex.com/t/888863) ![](assets/new.png)  
 - [2022-10-21-有偿寻-PHP-开发一个快递工单系统](https://www.v2ex.com/t/888862) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-10-21-Android-系统有没有对特定联系人自定义短信铃声的-app?](https://www.v2ex.com/t/888848) ![](assets/new.png)  
 - [2022-10-21-广州又没有骑行群啊？](https://www.v2ex.com/t/888847) ![](assets/new.png)  
 - [2022-10-21-在暖气片上加个风扇是不是就能有效的提升屋内的温度了?](https://www.v2ex.com/t/888846) ![](assets/new.png)  
-- [2022-10-21-apple-首席设计师离职](https://www.v2ex.com/t/888845) ![](assets/new.png)  
-- [2022-10-21-有没有可能让-Chromium-变成共享库](https://www.v2ex.com/t/888843) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

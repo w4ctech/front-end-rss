@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-21 17:10:40。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-10-21 17:57:38。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -72,6 +72,8 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-10-16-2022年新出了哪些form表单新特性？](https://www.zhangxinxu.com/wordpress/2022/10/2022-new-form-property/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-12-CSS-::file-selector-button伪元素简介](https://www.zhangxinxu.com/wordpress/2022/10/css-file-selector-button/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-12-更符合书写习惯的CSS媒体查询Range语法](https://www.zhangxinxu.com/wordpress/2022/10/css-media-range-syntax/) 
+- [【V2EX】2022-10-21-我对-AR-眼镜（显示屏）入魔了，手握-NReal-Air，又下单了雷鸟-Air-1S](https://www.v2ex.com/t/888866) 
+- [【V2EX】2022-10-21-求问，有啥办法直接在本地-docker-里创建和-Google-Composer-完全一样的-Airflow-环境吗？](https://www.v2ex.com/t/888865) 
 - [【V2EX】2022-10-21-一个关于解密的小谜题](https://www.v2ex.com/t/888864) 
 - [【V2EX】2022-10-21-有没有带按摩的洗脚盆推荐](https://www.v2ex.com/t/888863) 
 - [【V2EX】2022-10-21-有偿寻-PHP-开发一个快递工单系统](https://www.v2ex.com/t/888862) 
@@ -113,8 +115,6 @@
 - [【V2EX】2022-10-21-13-代酷睿-13700K-搭配-ROG-Z690-E-是不是一个好选择？](https://www.v2ex.com/t/888819) 
 - [【V2EX】2022-10-21-delphi-编译的程序体积为什么那么小？](https://www.v2ex.com/t/888818) 
 - [【V2EX】2022-10-21-易导航，一个干净纯粹，简单好用的网址导航](https://www.v2ex.com/t/888817) 
-- [【V2EX】2022-10-21-Linksys-MX5500-的弱鸡-CPU-会很影响实际使用体验吗？](https://www.v2ex.com/t/888816) 
-- [【V2EX】2022-10-21-AdGuard-终身九设备仅需-115-元](https://www.v2ex.com/t/888815) 
 - [【技术头条】2022-10-21-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-21-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-21-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

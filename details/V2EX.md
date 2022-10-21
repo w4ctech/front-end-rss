@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2022-10-21 17:10:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-21 17:57:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-10-21-我对-AR-眼镜（显示屏）入魔了，手握-NReal-Air，又下单了雷鸟-Air-1S](https://www.v2ex.com/t/888866) 
+- [2022-10-21-求问，有啥办法直接在本地-docker-里创建和-Google-Composer-完全一样的-Airflow-环境吗？](https://www.v2ex.com/t/888865) 
 - [2022-10-21-一个关于解密的小谜题](https://www.v2ex.com/t/888864) 
 - [2022-10-21-有没有带按摩的洗脚盆推荐](https://www.v2ex.com/t/888863) 
 - [2022-10-21-有偿寻-PHP-开发一个快递工单系统](https://www.v2ex.com/t/888862) 
@@ -46,5 +48,3 @@
 - [2022-10-21-13-代酷睿-13700K-搭配-ROG-Z690-E-是不是一个好选择？](https://www.v2ex.com/t/888819) 
 - [2022-10-21-delphi-编译的程序体积为什么那么小？](https://www.v2ex.com/t/888818) 
 - [2022-10-21-易导航，一个干净纯粹，简单好用的网址导航](https://www.v2ex.com/t/888817) 
-- [2022-10-21-Linksys-MX5500-的弱鸡-CPU-会很影响实际使用体验吗？](https://www.v2ex.com/t/888816) 
-- [2022-10-21-AdGuard-终身九设备仅需-115-元](https://www.v2ex.com/t/888815) 

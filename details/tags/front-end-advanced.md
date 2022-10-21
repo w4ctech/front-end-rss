@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-21 01:15:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-21 03:23:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -7,6 +7,5 @@
 
 
 
-- [2022-10-21-社招-组内直推-知乎-广告算法工程师](https://www.v2ex.com/t/888593) 
-- [2022-10-20-Web3-远程-DeBank/Rabby-招聘-产品/数据算法/后端/SRE/前端工程师-$5K-13K](https://www.v2ex.com/t/888583) 
+- [2022-10-21-我独立开发的产品简单简历https://easycv.cn是怎样获得最初的-300-个用户的？](https://www.v2ex.com/t/888638) 
 - [2022-10-21-基于AI算法的数据库异常监测系统的设计与实现-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15390&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F09%2F01%2Fdatabase-monitoring-based-on-ai.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

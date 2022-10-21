@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-21 09:24:36。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-10-21 09:53:51。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -72,6 +72,12 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-10-16-2022年新出了哪些form表单新特性？](https://www.zhangxinxu.com/wordpress/2022/10/2022-new-form-property/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-12-CSS-::file-selector-button伪元素简介](https://www.zhangxinxu.com/wordpress/2022/10/css-file-selector-button/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-12-更符合书写习惯的CSS媒体查询Range语法](https://www.zhangxinxu.com/wordpress/2022/10/css-media-range-syntax/) 
+- [【V2EX】2022-10-21-Build-in-pubic:-TinySnap-次月公开运营报告](https://www.v2ex.com/t/888791) 
+- [【V2EX】2022-10-21-Mac-版-Adobe-XD-真的破解不了么？前设计师遗留了一堆-XD-文件](https://www.v2ex.com/t/888790) 
+- [【V2EX】2022-10-21-react-router-dom-v6-动态路由报错](https://www.v2ex.com/t/888788) 
+- [【V2EX】2022-10-21-302-跳转以后，最终目的网站能知道访客是从哪个-URL-跳转来的吗？](https://www.v2ex.com/t/888787) 
+- [【V2EX】2022-10-21-公司内购价格有点香，现在买-mbp16-会被背刺吗](https://www.v2ex.com/t/888786) 
+- [【V2EX】2022-10-21-家庭-app-控制-HomePod](https://www.v2ex.com/t/888785) 
 - [【V2EX】2022-10-21-想要写一个-windows-桌面软件考虑-WPF，没有相关经验，需要学习什么？](https://www.v2ex.com/t/888783) 
 - [【V2EX】2022-10-21-docker-的-ubuntu-容器为什么不自带-ip-命令和-ifconfig-命令？](https://www.v2ex.com/t/888782) 
 - [【V2EX】2022-10-21-哎哎哎哎哎哎哎哎大家一起来叹气呀](https://www.v2ex.com/t/888781) 
@@ -106,12 +112,6 @@
 - [【V2EX】2022-10-21-Windows/-Linux-下代理软件推荐？](https://www.v2ex.com/t/888744) 
 - [【V2EX】2022-10-21-Android-如何避免-APP-在通知栏拉屎](https://www.v2ex.com/t/888743) 
 - [【V2EX】2022-10-21-你们的扫拖机器人放哪里？](https://www.v2ex.com/t/888742) 
-- [【V2EX】2022-10-21-求助-ESXi-中直通进去的显卡无法安装驱动](https://www.v2ex.com/t/888741) 
-- [【V2EX】2022-10-21-git-rebase-命令主要啥作用](https://www.v2ex.com/t/888739) 
-- [【V2EX】2022-10-21-苹果备忘录的图片一直显示正在载入，请问如何解决？](https://www.v2ex.com/t/888738) 
-- [【V2EX】2022-10-21-youtube-频道播放量超过-200-万，申请不下来广告，如何盈利？](https://www.v2ex.com/t/888737) 
-- [【V2EX】2022-10-21-想请前辈们帮我分析一下校招-offer](https://www.v2ex.com/t/888736) 
-- [【V2EX】2022-10-21-Colima-跟-docker-desktop-到底区别在哪？有哪些优势？](https://www.v2ex.com/t/888735) 
 - [【技术头条】2022-10-21-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-21-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-21-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-21 10:51:31，:rocket: 更新条数: +2003， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-21 11:16:40，:rocket: 更新条数: +2004， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-10-21-系统升级哪种方式更好呢](https://www.v2ex.com/t/888806) ![](assets/new.png)  
+- [2022-10-21-十月发布会没了，那-Apple-silicon-的-macpro-难产了吧](https://www.v2ex.com/t/888805) ![](assets/new.png)  
+- [2022-10-21-早上起床后怎样让大脑快速清醒](https://www.v2ex.com/t/888804) ![](assets/new.png)  
+- [2022-10-21-向大家推荐一个买高质量大闸蟹的渠道](https://www.v2ex.com/t/888803) ![](assets/new.png)  
 - [2022-10-21-mac-系统应该就在这几天推送了吧？应该不会到-11-月吧](https://www.v2ex.com/t/888801) ![](assets/new.png)  
 - [2022-10-21-前端报错-Proxy-error:-Could-not-proxy-request-/xxx-from-localhost:8080-to-https://xxx.com-ECONN](https://www.v2ex.com/t/888800) ![](assets/new.png)  
 - [2022-10-21-Apple-TV-看-b-站除了投屏还有什么办法呀](https://www.v2ex.com/t/888798) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-10-21-家庭-app-控制-HomePod](https://www.v2ex.com/t/888785) ![](assets/new.png)  
 - [2022-10-21-想要写一个-windows-桌面软件考虑-WPF，没有相关经验，需要学习什么？](https://www.v2ex.com/t/888783) ![](assets/new.png)  
 - [2022-10-21-docker-的-ubuntu-容器为什么不自带-ip-命令和-ifconfig-命令？](https://www.v2ex.com/t/888782) ![](assets/new.png)  
-- [2022-10-21-哎哎哎哎哎哎哎哎大家一起来叹气呀](https://www.v2ex.com/t/888781) ![](assets/new.png)  
-- [2022-10-21-有没有开源的英文语义分析库？用于外贸站的客服机器人，分析用户想干什么-assign-给对应部门客服的，目前用的关键词识别，设少了经常识别不出来，设多了经常识别...](https://www.v2ex.com/t/888779) ![](assets/new.png)  
-- [2022-10-21-spring-boot-已经把-gradle-设置为默认构建工具了，有啥好用的配置文档推荐吗？](https://www.v2ex.com/t/888778) ![](assets/new.png)  
-- [2022-10-21-HireEZ上海张江-或-苏州独墅湖25K---45K-招聘高级-devops-工程师](https://www.v2ex.com/t/888777) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

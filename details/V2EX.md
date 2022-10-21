@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2022-10-21 10:51:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-21 11:16:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-10-21-系统升级哪种方式更好呢](https://www.v2ex.com/t/888806) 
+- [2022-10-21-十月发布会没了，那-Apple-silicon-的-macpro-难产了吧](https://www.v2ex.com/t/888805) 
+- [2022-10-21-早上起床后怎样让大脑快速清醒](https://www.v2ex.com/t/888804) 
+- [2022-10-21-向大家推荐一个买高质量大闸蟹的渠道](https://www.v2ex.com/t/888803) 
 - [2022-10-21-mac-系统应该就在这几天推送了吧？应该不会到-11-月吧](https://www.v2ex.com/t/888801) 
 - [2022-10-21-前端报错-Proxy-error:-Could-not-proxy-request-/xxx-from-localhost:8080-to-https://xxx.com-ECONN](https://www.v2ex.com/t/888800) 
 - [2022-10-21-Apple-TV-看-b-站除了投屏还有什么办法呀](https://www.v2ex.com/t/888798) 
@@ -39,6 +43,3 @@
 - [2022-10-21-坐标南京，招聘区块链产品实习](https://www.v2ex.com/t/888759) 
 - [2022-10-21-Mac-下有好的下载工具推荐吗？](https://www.v2ex.com/t/888758) 
 - [2022-10-21-websocket-服务端已经-response101-但是好像没有连接成功](https://www.v2ex.com/t/888757) 
-- [2022-10-21-电脑的-DNS-服务器,-和路由器有关么](https://www.v2ex.com/t/888756) 
-- [2022-10-21-Airpodspro-2-耳机盒声音总是响](https://www.v2ex.com/t/888755) 
-- [2022-10-21-xdm，对于一键自动化，一想自动化和不用想就自动化怎么看？](https://www.v2ex.com/t/888753) 

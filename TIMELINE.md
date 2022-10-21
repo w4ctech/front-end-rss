@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-21 10:51:31。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-10-21 11:16:41。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -72,6 +72,10 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-10-16-2022年新出了哪些form表单新特性？](https://www.zhangxinxu.com/wordpress/2022/10/2022-new-form-property/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-12-CSS-::file-selector-button伪元素简介](https://www.zhangxinxu.com/wordpress/2022/10/css-file-selector-button/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-12-更符合书写习惯的CSS媒体查询Range语法](https://www.zhangxinxu.com/wordpress/2022/10/css-media-range-syntax/) 
+- [【V2EX】2022-10-21-系统升级哪种方式更好呢](https://www.v2ex.com/t/888806) 
+- [【V2EX】2022-10-21-十月发布会没了，那-Apple-silicon-的-macpro-难产了吧](https://www.v2ex.com/t/888805) 
+- [【V2EX】2022-10-21-早上起床后怎样让大脑快速清醒](https://www.v2ex.com/t/888804) 
+- [【V2EX】2022-10-21-向大家推荐一个买高质量大闸蟹的渠道](https://www.v2ex.com/t/888803) 
 - [【V2EX】2022-10-21-mac-系统应该就在这几天推送了吧？应该不会到-11-月吧](https://www.v2ex.com/t/888801) 
 - [【V2EX】2022-10-21-前端报错-Proxy-error:-Could-not-proxy-request-/xxx-from-localhost:8080-to-https://xxx.com-ECONN](https://www.v2ex.com/t/888800) 
 - [【V2EX】2022-10-21-Apple-TV-看-b-站除了投屏还有什么办法呀](https://www.v2ex.com/t/888798) 
@@ -106,9 +110,6 @@
 - [【V2EX】2022-10-21-坐标南京，招聘区块链产品实习](https://www.v2ex.com/t/888759) 
 - [【V2EX】2022-10-21-Mac-下有好的下载工具推荐吗？](https://www.v2ex.com/t/888758) 
 - [【V2EX】2022-10-21-websocket-服务端已经-response101-但是好像没有连接成功](https://www.v2ex.com/t/888757) 
-- [【V2EX】2022-10-21-电脑的-DNS-服务器,-和路由器有关么](https://www.v2ex.com/t/888756) 
-- [【V2EX】2022-10-21-Airpodspro-2-耳机盒声音总是响](https://www.v2ex.com/t/888755) 
-- [【V2EX】2022-10-21-xdm，对于一键自动化，一想自动化和不用想就自动化怎么看？](https://www.v2ex.com/t/888753) 
 - [【技术头条】2022-10-21-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-21-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-21-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

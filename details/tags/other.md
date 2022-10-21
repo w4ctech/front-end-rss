@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-21 15:55:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-21 16:28:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1915,6 +1915,9 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-10-21-FFmpeg-打开输入文件](https://www.v2ex.com/t/888859) 
+- [2022-10-21-寻找国外远程工作的机会](https://www.v2ex.com/t/888858) 
+- [2022-10-21-请问有什么推荐共用行事历软件](https://www.v2ex.com/t/888857) 
 - [2022-10-21-知道一个人的微信号和-qq-怎么查到他的手机号哇，没有手机号无法立案](https://www.v2ex.com/t/888855) 
 - [2022-10-21-苹果的-time-machine,太坑了.是我打开的方式不对吗?](https://www.v2ex.com/t/888854) 
 - [2022-10-21-csdn-谁有积分，能帮忙下载一个关于医保文章不](https://www.v2ex.com/t/888853) 
@@ -1948,8 +1951,6 @@
 - [2022-10-21-QQ-在-mac-下卡，比如打开群聊](https://www.v2ex.com/t/888812) 
 - [2022-10-21-苹果的三合一充电设备有什么推荐？](https://www.v2ex.com/t/888811) 
 - [2022-10-21-国内云服务-可以搭-socks5-吗？不跨境-就境内点对点连接](https://www.v2ex.com/t/888810) 
-- [2022-10-21-有什么方便设计网站业务流程的软件么？](https://www.v2ex.com/t/888808) 
-- [2022-10-21-系统升级哪种方式更好呢](https://www.v2ex.com/t/888806) 
 - [2022-10-21-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-21-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-21-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

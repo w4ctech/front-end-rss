@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-21 15:55:58。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-10-21 16:28:29。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -72,6 +72,10 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-10-16-2022年新出了哪些form表单新特性？](https://www.zhangxinxu.com/wordpress/2022/10/2022-new-form-property/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-12-CSS-::file-selector-button伪元素简介](https://www.zhangxinxu.com/wordpress/2022/10/css-file-selector-button/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-12-更符合书写习惯的CSS媒体查询Range语法](https://www.zhangxinxu.com/wordpress/2022/10/css-media-range-syntax/) 
+- [【V2EX】2022-10-21-FFmpeg-打开输入文件](https://www.v2ex.com/t/888859) 
+- [【V2EX】2022-10-21-寻找国外远程工作的机会](https://www.v2ex.com/t/888858) 
+- [【V2EX】2022-10-21-请问有什么推荐共用行事历软件](https://www.v2ex.com/t/888857) 
+- [【V2EX】2022-10-21-360-涉嫌诱导推广、静默安装且对抗其他安全软件](https://www.v2ex.com/t/888856) 
 - [【V2EX】2022-10-21-知道一个人的微信号和-qq-怎么查到他的手机号哇，没有手机号无法立案](https://www.v2ex.com/t/888855) 
 - [【V2EX】2022-10-21-苹果的-time-machine,太坑了.是我打开的方式不对吗?](https://www.v2ex.com/t/888854) 
 - [【V2EX】2022-10-21-csdn-谁有积分，能帮忙下载一个关于医保文章不](https://www.v2ex.com/t/888853) 
@@ -111,9 +115,6 @@
 - [【V2EX】2022-10-21-QQ-在-mac-下卡，比如打开群聊](https://www.v2ex.com/t/888812) 
 - [【V2EX】2022-10-21-苹果的三合一充电设备有什么推荐？](https://www.v2ex.com/t/888811) 
 - [【V2EX】2022-10-21-国内云服务-可以搭-socks5-吗？不跨境-就境内点对点连接](https://www.v2ex.com/t/888810) 
-- [【V2EX】2022-10-21-有什么方便设计网站业务流程的软件么？](https://www.v2ex.com/t/888808) 
-- [【V2EX】2022-10-21-win-上有啥好用的游戏加速器?](https://www.v2ex.com/t/888807) 
-- [【V2EX】2022-10-21-系统升级哪种方式更好呢](https://www.v2ex.com/t/888806) 
 - [【技术头条】2022-10-21-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-21-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-21-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

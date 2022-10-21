@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-21 11:44:36，:rocket: 更新条数: +2004， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-21 12:33:23，:rocket: 更新条数: +2006， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-10-21-AdGuard-终身九设备仅需-115-元](https://www.v2ex.com/t/888815) ![](assets/new.png)  
+- [2022-10-21-有没有感觉到最新-Mac-上的-网易云音乐-软件特别卡](https://www.v2ex.com/t/888814) ![](assets/new.png)  
+- [2022-10-21-mac-睡眠后有线键盘失效，需要重新拔插才能使用](https://www.v2ex.com/t/888813) ![](assets/new.png)  
+- [2022-10-21-QQ-在-mac-下卡，比如打开群聊](https://www.v2ex.com/t/888812) ![](assets/new.png)  
+- [2022-10-21-苹果的三合一充电设备有什么推荐？](https://www.v2ex.com/t/888811) ![](assets/new.png)  
 - [2022-10-21-国内云服务-可以搭-socks5-吗？不跨境-就境内点对点连接](https://www.v2ex.com/t/888810) ![](assets/new.png)  
 - [2022-10-21-有什么方便设计网站业务流程的软件么？](https://www.v2ex.com/t/888808) ![](assets/new.png)  
 - [2022-10-21-win-上有啥好用的游戏加速器?](https://www.v2ex.com/t/888807) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-10-21-Chrome-突然启动报错，求解！](https://www.v2ex.com/t/888795) ![](assets/new.png)  
 - [2022-10-21-在手机上获得电脑的局域网-ip-有什么好办法](https://www.v2ex.com/t/888794) ![](assets/new.png)  
 - [2022-10-21-婚车可以帮接客么](https://www.v2ex.com/t/888792) ![](assets/new.png)  
-- [2022-10-21-Build-in-pubic:-TinySnap-次月公开运营报告](https://www.v2ex.com/t/888791) ![](assets/new.png)  
-- [2022-10-21-Mac-版-Adobe-XD-真的破解不了么？前设计师遗留了一堆-XD-文件](https://www.v2ex.com/t/888790) ![](assets/new.png)  
-- [2022-10-21-react-router-dom-v6-动态路由报错](https://www.v2ex.com/t/888788) ![](assets/new.png)  
-- [2022-10-21-302-跳转以后，最终目的网站能知道访客是从哪个-URL-跳转来的吗？](https://www.v2ex.com/t/888787) ![](assets/new.png)  
-- [2022-10-21-公司内购价格有点香，现在买-mbp16-会被背刺吗](https://www.v2ex.com/t/888786) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

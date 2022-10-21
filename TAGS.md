@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-10-21 05:49:19。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-21 06:32:44。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -230,6 +230,7 @@
 
 - [【武汉肺炎防疫全纪录(财新网)】广州17岁男生在定点医院参加高考-特殊考场视频监考](https://m.caixin.com/m/2021-06-05/101723418.html)
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
+- [【V2EX】为什么在推特上有的视频可以用-idm-下，有的却不行呢？](https://www.v2ex.com/t/888712)
 - [【V2EX】Firefox-看-B-站视频，无法按-F-切换到全屏](https://www.v2ex.com/t/888697)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
@@ -247,7 +248,6 @@
 
 
 
-- [【V2EX】MacBook-Pro-一直插电连接显示器，优化电池充电不起作用](https://www.v2ex.com/t/888673)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -271,7 +271,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
 - [【V2EX】"使-Windows-的速度与-Microsoft-Edge-一样快！"？](https://www.v2ex.com/t/888690)
-- [【V2EX】上海-招人啦全职/兼职,-Fabrie-前端招聘-Mac-顶配+4K-显示器&期权-13-17-薪（15k-40k）](https://www.v2ex.com/t/888660)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -305,6 +304,7 @@
 
 
 
+- [【V2EX】Colima-跟-docker-desktop-到底区别在哪？](https://www.v2ex.com/t/888722)
 - [【技术头条】GraphQL及元数据驱动架构在后端BFF中的实践-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15395&url=https%3A%2F%2Ftech.meituan.com%2F2021%2F05%2F06%2Fbff-graphql.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/server.md)
 

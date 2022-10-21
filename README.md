@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-21 07:10:51，:rocket: 更新条数: +2002， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-21 07:52:17，:rocket: 更新条数: +2005， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,19 @@
 </summary>
 
 
+- [2022-10-21-如何使用-npm-install-<git-URL>的方式安装-vue-这个依赖？](https://www.v2ex.com/t/888751) ![](assets/new.png)  
+- [2022-10-21-从-init.vim-迁移到-init.lua-有什么优势吗？](https://www.v2ex.com/t/888750) ![](assets/new.png)  
+- [2022-10-21-奇异事件，我从-RC1-更新到-beta11-了](https://www.v2ex.com/t/888749) ![](assets/new.png)  
+- [2022-10-21-狭小卧室电视柜（或者等同功能的家具）应如何布置？](https://www.v2ex.com/t/888748) ![](assets/new.png)  
+- [2022-10-21-出一个-vultr-的-Japan-的-2.5-美金每月的机器。](https://www.v2ex.com/t/888747) ![](assets/new.png)  
+- [2022-10-21-产品商业模式咨询](https://www.v2ex.com/t/888746) ![](assets/new.png)  
+- [2022-10-21-推广一波同学家的大闸蟹](https://www.v2ex.com/t/888745) ![](assets/new.png)  
+- [2022-10-21-Windows/-Linux-下代理软件推荐？](https://www.v2ex.com/t/888744) ![](assets/new.png)  
+- [2022-10-21-Android-如何避免-APP-在通知栏拉屎](https://www.v2ex.com/t/888743) ![](assets/new.png)  
+- [2022-10-21-你们的扫拖机器人放哪里？](https://www.v2ex.com/t/888742) ![](assets/new.png)  
+- [2022-10-21-求助-ESXi-中直通进去的显卡无法安装驱动](https://www.v2ex.com/t/888741) ![](assets/new.png)  
+- [2022-10-21-git-rebase-命令主要啥作用](https://www.v2ex.com/t/888739) ![](assets/new.png)  
+- [2022-10-21-苹果备忘录的图片一直显示正在载入，请问如何解决？](https://www.v2ex.com/t/888738) ![](assets/new.png)  
 - [2022-10-21-youtube-频道播放量超过-200-万，申请不下来广告，如何盈利？](https://www.v2ex.com/t/888737) ![](assets/new.png)  
 - [2022-10-21-想请前辈们帮我分析一下校招-offer](https://www.v2ex.com/t/888736) ![](assets/new.png)  
 - [2022-10-21-Colima-跟-docker-desktop-到底区别在哪？有哪些优势？](https://www.v2ex.com/t/888735) ![](assets/new.png)  
@@ -498,19 +511,6 @@
 - [2022-10-21-各位平均每个月的固定开销多少？我是-1.4-万](https://www.v2ex.com/t/888731) ![](assets/new.png)  
 - [2022-10-21-今天无线-Carplay-直接不能用了，求大家支招](https://www.v2ex.com/t/888728) ![](assets/new.png)  
 - [2022-10-21-怎么改用户名？](https://www.v2ex.com/t/888727) ![](assets/new.png)  
-- [2022-10-21-Spreadsheet-或者多维表格类应用市场占用份额比较高的玩家有哪些？](https://www.v2ex.com/t/888726) ![](assets/new.png)  
-- [2022-10-21-有谁知道-new-database](https://www.v2ex.com/t/888725) ![](assets/new.png)  
-- [2022-10-21-智能门锁求助](https://www.v2ex.com/t/888723) ![](assets/new.png)  
-- [2022-10-21-Colima-跟-docker-desktop-到底区别在哪？](https://www.v2ex.com/t/888722) ![](assets/new.png)  
-- [2022-10-21-招商银行是有大雷吗，怎么会跌成这个样子](https://www.v2ex.com/t/888721) ![](assets/new.png)  
-- [2022-10-21-关于-TL-ER2260T-的-IPV6-问题，以及网络拓扑疑问请教](https://www.v2ex.com/t/888720) ![](assets/new.png)  
-- [2022-10-21-自己工作已完成，-leader-在群里发一句周六来加班，如何应答](https://www.v2ex.com/t/888719) ![](assets/new.png)  
-- [2022-10-21-买阿里的国外服务器有风险么？](https://www.v2ex.com/t/888717) ![](assets/new.png)  
-- [2022-10-21-有一点不解，-gorm-怎么联系-struct-和数据库表的](https://www.v2ex.com/t/888716) ![](assets/new.png)  
-- [2022-10-21-真诚发问，程序员去日本真的有钱途吗？](https://www.v2ex.com/t/888715) ![](assets/new.png)  
-- [2022-10-21-rust-真的是硬盘杀手](https://www.v2ex.com/t/888714) ![](assets/new.png)  
-- [2022-10-21-为什么在推特上有的视频可以用-idm-下，有的却不行呢？](https://www.v2ex.com/t/888712) ![](assets/new.png)  
-- [2022-10-21-有没有做-CPU/显卡同功耗测评的？](https://www.v2ex.com/t/888711) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

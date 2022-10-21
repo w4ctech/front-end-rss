@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-21 19:43:44，:rocket: 更新条数: +2008， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-21 20:18:50，:rocket: 更新条数: +2008， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-10-21-archive.is-挂掉了吗？](https://www.v2ex.com/t/888869) ![](assets/new.png)  
 - [2022-10-21-有日本的程序员工作推荐吗](https://www.v2ex.com/t/888868) ![](assets/new.png)  
 - [2022-10-21-互联网+-开源教育（减少重复劳动）](https://www.v2ex.com/t/888867) ![](assets/new.png)  
 - [2022-10-21-我对-AR-眼镜（显示屏）入魔了，手握-NReal-Air，又下单了雷鸟-Air-1S](https://www.v2ex.com/t/888866) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-10-21-有偿请教，请问谁之前在-蓝港互动-做过技术。](https://www.v2ex.com/t/888852) ![](assets/new.png)  
 - [2022-10-21-求-watch-推荐](https://www.v2ex.com/t/888851) ![](assets/new.png)  
 - [2022-10-21-装-2-块-GPU-的深度学习主机,-主板一定要支持-SLI-吗?](https://www.v2ex.com/t/888849) ![](assets/new.png)  
-- [2022-10-21-Android-系统有没有对特定联系人自定义短信铃声的-app?](https://www.v2ex.com/t/888848) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-22 14:46:33。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-10-22 15:16:37。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -72,6 +72,12 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-10-16-2022年新出了哪些form表单新特性？](https://www.zhangxinxu.com/wordpress/2022/10/2022-new-form-property/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-12-CSS-::file-selector-button伪元素简介](https://www.zhangxinxu.com/wordpress/2022/10/css-file-selector-button/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-12-更符合书写习惯的CSS媒体查询Range语法](https://www.zhangxinxu.com/wordpress/2022/10/css-media-range-syntax/) 
+- [【V2EX】2022-10-22-Windows-上的软件，可以获取自带输入法的历史输入记录吗？](https://www.v2ex.com/t/889025) 
+- [【V2EX】2022-10-22-编程的本质：解决问题](https://www.v2ex.com/t/889024) 
+- [【V2EX】2022-10-22-扫地机器人好用吗？有啥推荐的牌子吗](https://www.v2ex.com/t/889023) 
+- [【V2EX】2022-10-22-Zython:-WebAssembly-Python-for-Servers-and-Browsers](https://www.v2ex.com/t/889022) 
+- [【V2EX】2022-10-22-Apple-Music-可以听-Taylor-Swift-的最新专辑《midnights》了，还不错哦！](https://www.v2ex.com/t/889021) 
+- [【V2EX】2022-10-22-可以看一下你们工作时的桌面布局么？](https://www.v2ex.com/t/889020) 
 - [【V2EX】2022-10-22-双十一快到了，家里需要一台-75-寸左右的电视，有什么推荐吗](https://www.v2ex.com/t/889017) 
 - [【V2EX】2022-10-22-FE-求大佬解释登陆部分代码](https://www.v2ex.com/t/889016) 
 - [【V2EX】2022-10-22-就业，找个小城市躺还是去大城市卷几年回去](https://www.v2ex.com/t/889014) 
@@ -102,13 +108,6 @@
 - [【V2EX】2022-10-22-通过-webdav-访问-Onedrive-提示-Request-timed-out](https://www.v2ex.com/t/888978) 
 - [【V2EX】2022-10-22-chrome-内置的谷歌翻译，修改-hosts-的方法没用了，有解决方案吗？](https://www.v2ex.com/t/888977) 
 - [【V2EX】2022-10-22-大佬们，-onedrive-的文件分享，是什么逻辑？有共享限制吗？](https://www.v2ex.com/t/888976) 
-- [【V2EX】2022-10-22-Adam-Serafini:-Speeding-up-Python-with-Zig](https://www.v2ex.com/t/888975) 
-- [【V2EX】2022-10-22-备份到-icloud-怎么忽略文件呢，-可以实现类似-gitignore-的功能吗？](https://www.v2ex.com/t/888974) 
-- [【V2EX】2022-10-22-有没有熟悉-whatsapp-api-的？需要做一个简单的-CRM-系统](https://www.v2ex.com/t/888973) 
-- [【V2EX】2022-10-22-帮你轻松生成-SQL-语句、假数据和代码，大幅提升开发效率~](https://www.v2ex.com/t/888972) 
-- [【V2EX】2022-10-22-使用-puppeteer-访问谷歌翻译文档目标语言设置无效？](https://www.v2ex.com/t/888971) 
-- [【V2EX】2022-10-22-分享一下解决谷歌翻译频繁失效的事Google-Translate](https://www.v2ex.com/t/888970) 
-- [【V2EX】2022-10-22-请教大佬一个进入全屏的前端问题](https://www.v2ex.com/t/888969) 
 - [【技术头条】2022-10-22-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-22-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-22-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

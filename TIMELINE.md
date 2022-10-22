@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-22 06:25:57。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-10-22 06:58:14。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -72,6 +72,13 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-10-16-2022年新出了哪些form表单新特性？](https://www.zhangxinxu.com/wordpress/2022/10/2022-new-form-property/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-12-CSS-::file-selector-button伪元素简介](https://www.zhangxinxu.com/wordpress/2022/10/css-file-selector-button/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-12-更符合书写习惯的CSS媒体查询Range语法](https://www.zhangxinxu.com/wordpress/2022/10/css-media-range-syntax/) 
+- [【V2EX】2022-10-22-AirPods-Pro-第二代的声音在通话时声音会很奇怪的问题只有我遇到了吗？](https://www.v2ex.com/t/888940) 
+- [【V2EX】2022-10-22-理性分析，开完-20-大之后会变好吗？](https://www.v2ex.com/t/888939) 
+- [【V2EX】2022-10-22-iPad-Pro-现在能连接-sd-存储卡吗？](https://www.v2ex.com/t/888938) 
+- [【V2EX】2022-10-22-有没有比较优雅的多平台-PDF-增量同步工具？](https://www.v2ex.com/t/888937) 
+- [【V2EX】2022-10-22-为什么-mpv-播放器在播放-BD-肉酱盘时跳进度后几秒会出现明显掉帧/画面损坏-播放单个-m2ts-就没有这种问题](https://www.v2ex.com/t/888936) 
+- [【V2EX】2022-10-22-被-antd3-表单-api-折磨的可以进来看看了！（antd4-也适用哦）](https://www.v2ex.com/t/888935) 
+- [【V2EX】2022-10-22-国内互联网卷不动了，有计划花半年准备找-Remote-工作，想请教-&-交流一下](https://www.v2ex.com/t/888934) 
 - [【V2EX】2022-10-22-1password-8-不支持-icloud-了怎么办？](https://www.v2ex.com/t/888933) 
 - [【V2EX】2022-10-22-有没有-iphone13-的保护壳推荐啊，不要太贵的。](https://www.v2ex.com/t/888932) 
 - [【V2EX】2022-10-22-写的一个小应用每天都有一些似乎是漏洞的请求](https://www.v2ex.com/t/888931) 
@@ -102,12 +109,6 @@
 - [【V2EX】2022-10-22-信息流指标里的“详情页-PV”和“详情页到达量”怎么区分？](https://www.v2ex.com/t/888893) 
 - [【V2EX】2022-10-22-付费求-修改-frp-一个小地方，并进行编译](https://www.v2ex.com/t/888892) 
 - [【V2EX】2022-10-22-家里老年人说的补缴养老划不划算？](https://www.v2ex.com/t/888891) 
-- [【V2EX】2022-10-22-黑苹果使用显卡有滋滋的电流声](https://www.v2ex.com/t/888890) 
-- [【V2EX】2022-10-22-查-mac-ssd-的寿命](https://www.v2ex.com/t/888889) 
-- [【V2EX】2022-10-22-888888](https://www.v2ex.com/t/888888) 
-- [【V2EX】2022-10-22-3000-4200-元-75-寸入门电视求推荐](https://www.v2ex.com/t/888887) 
-- [【V2EX】2022-10-22-如何分离-jpeg+raw-格式的照片](https://www.v2ex.com/t/888885) 
-- [【V2EX】2022-10-22-基于-lienol-源码编译的-Openwrt-为什么比-leon-源码稳定的多？](https://www.v2ex.com/t/888884) 
 - [【技术头条】2022-10-22-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-22-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-22-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

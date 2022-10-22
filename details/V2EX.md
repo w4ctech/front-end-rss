@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2022-10-22 15:16:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-22 15:48:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-10-22-才发现-Mac-键盘上的功能键-2020-年后有变动](https://www.v2ex.com/t/889027) 
+- [2022-10-22-之前很火的-16-型人格测试，你们都是什么？](https://www.v2ex.com/t/889026) 
 - [2022-10-22-Windows-上的软件，可以获取自带输入法的历史输入记录吗？](https://www.v2ex.com/t/889025) 
 - [2022-10-22-编程的本质：解决问题](https://www.v2ex.com/t/889024) 
 - [2022-10-22-扫地机器人好用吗？有啥推荐的牌子吗](https://www.v2ex.com/t/889023) 
@@ -39,5 +41,3 @@
 - [2022-10-22-使用-RecyclerView-动态展示-WiFi-列表数据刷新时的闪烁问题](https://www.v2ex.com/t/888983) 
 - [2022-10-22-电脑触控栏问题](https://www.v2ex.com/t/888981) 
 - [2022-10-22-通过-webdav-访问-Onedrive-提示-Request-timed-out](https://www.v2ex.com/t/888978) 
-- [2022-10-22-chrome-内置的谷歌翻译，修改-hosts-的方法没用了，有解决方案吗？](https://www.v2ex.com/t/888977) 
-- [2022-10-22-大佬们，-onedrive-的文件分享，是什么逻辑？有共享限制吗？](https://www.v2ex.com/t/888976) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-22 15:16:37。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-10-22 15:48:49。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -72,6 +72,8 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-10-16-2022年新出了哪些form表单新特性？](https://www.zhangxinxu.com/wordpress/2022/10/2022-new-form-property/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-12-CSS-::file-selector-button伪元素简介](https://www.zhangxinxu.com/wordpress/2022/10/css-file-selector-button/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-12-更符合书写习惯的CSS媒体查询Range语法](https://www.zhangxinxu.com/wordpress/2022/10/css-media-range-syntax/) 
+- [【V2EX】2022-10-22-才发现-Mac-键盘上的功能键-2020-年后有变动](https://www.v2ex.com/t/889027) 
+- [【V2EX】2022-10-22-之前很火的-16-型人格测试，你们都是什么？](https://www.v2ex.com/t/889026) 
 - [【V2EX】2022-10-22-Windows-上的软件，可以获取自带输入法的历史输入记录吗？](https://www.v2ex.com/t/889025) 
 - [【V2EX】2022-10-22-编程的本质：解决问题](https://www.v2ex.com/t/889024) 
 - [【V2EX】2022-10-22-扫地机器人好用吗？有啥推荐的牌子吗](https://www.v2ex.com/t/889023) 
@@ -106,8 +108,6 @@
 - [【V2EX】2022-10-22-使用-RecyclerView-动态展示-WiFi-列表数据刷新时的闪烁问题](https://www.v2ex.com/t/888983) 
 - [【V2EX】2022-10-22-电脑触控栏问题](https://www.v2ex.com/t/888981) 
 - [【V2EX】2022-10-22-通过-webdav-访问-Onedrive-提示-Request-timed-out](https://www.v2ex.com/t/888978) 
-- [【V2EX】2022-10-22-chrome-内置的谷歌翻译，修改-hosts-的方法没用了，有解决方案吗？](https://www.v2ex.com/t/888977) 
-- [【V2EX】2022-10-22-大佬们，-onedrive-的文件分享，是什么逻辑？有共享限制吗？](https://www.v2ex.com/t/888976) 
 - [【技术头条】2022-10-22-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-22-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-22-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

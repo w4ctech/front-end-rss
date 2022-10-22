@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-22 15:16:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-22 15:48:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -15,4 +15,3 @@
 - [2021-01-01-大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html) 
 - [2022-10-22-面包多被-clientHold-了](https://www.v2ex.com/t/889008) 
 - [2022-10-22-使用-RecyclerView-动态展示-WiFi-列表数据刷新时的闪烁问题](https://www.v2ex.com/t/888983) 
-- [2022-10-22-chrome-内置的谷歌翻译，修改-hosts-的方法没用了，有解决方案吗？](https://www.v2ex.com/t/888977) 

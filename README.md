@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-22 15:16:37，:rocket: 更新条数: +2002， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-22 15:48:49，:rocket: 更新条数: +2002， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-10-22-才发现-Mac-键盘上的功能键-2020-年后有变动](https://www.v2ex.com/t/889027) ![](assets/new.png)  
+- [2022-10-22-之前很火的-16-型人格测试，你们都是什么？](https://www.v2ex.com/t/889026) ![](assets/new.png)  
 - [2022-10-22-Windows-上的软件，可以获取自带输入法的历史输入记录吗？](https://www.v2ex.com/t/889025) ![](assets/new.png)  
 - [2022-10-22-编程的本质：解决问题](https://www.v2ex.com/t/889024) ![](assets/new.png)  
 - [2022-10-22-扫地机器人好用吗？有啥推荐的牌子吗](https://www.v2ex.com/t/889023) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-10-22-三年-web-全栈开发React+-Java-被裁，准备找工作，希望前辈们指导一下简历，谢谢！](https://www.v2ex.com/t/889005) ![](assets/new.png)  
 - [2022-10-22-有哪些应用重灾区？比如导航站，-todo-列表，笔记应用](https://www.v2ex.com/t/889004) ![](assets/new.png)  
 - [2022-10-22-求推荐个国内服务器，搭建游戏服务端用](https://www.v2ex.com/t/889003) ![](assets/new.png)  
-- [2022-10-22-有靠谱的-IP-代理服务商推荐吗？](https://www.v2ex.com/t/889001) ![](assets/new.png)  
-- [2022-10-22-一次笔试过程中产生的疑问](https://www.v2ex.com/t/889000) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

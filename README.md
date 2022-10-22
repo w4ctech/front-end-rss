@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-22 17:04:32，:rocket: 更新条数: +2005， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-22 17:53:02，:rocket: 更新条数: +2004， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-10-22-UU-加速器我***，关于-Windows-无法进入睡眠这件事](https://www.v2ex.com/t/889039) ![](assets/new.png)  
 - [2022-10-22-为什么三星原装充电器不能达到最高充电功率](https://www.v2ex.com/t/889036) ![](assets/new.png)  
 - [2022-10-22-深圳-11-月组团钓鱼啊，不要妹子](https://www.v2ex.com/t/889035) ![](assets/new.png)  
 - [2022-10-22-14-寸-MBP-连接贝尔金雷电-3-扩展坞只有-15w-充电功率](https://www.v2ex.com/t/889034) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-10-22-双十一快到了，家里需要一台-75-寸左右的电视，有什么推荐吗](https://www.v2ex.com/t/889017) ![](assets/new.png)  
 - [2022-10-22-FE-求大佬解释登陆部分代码](https://www.v2ex.com/t/889016) ![](assets/new.png)  
 - [2022-10-22-就业，找个小城市躺还是去大城市卷几年回去](https://www.v2ex.com/t/889014) ![](assets/new.png)  
-- [2022-10-22-换绑了-gv-之后就不能通过手机号加国内好友了吗](https://www.v2ex.com/t/889013) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

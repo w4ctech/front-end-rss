@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-22 11:42:32，:rocket: 更新条数: +2005， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-22 12:29:07，:rocket: 更新条数: +2006， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-10-22-一次笔试过程中产生的疑问](https://www.v2ex.com/t/889000) ![](assets/new.png)  
+- [2022-10-22-连接国内网络延迟比国外更高。。。。](https://www.v2ex.com/t/888999) ![](assets/new.png)  
+- [2022-10-22-分享一个-idea，不知道你们觉得咋样，有能力的可以拿去落地](https://www.v2ex.com/t/888997) ![](assets/new.png)  
+- [2022-10-22-刚经历一段渣女。。。](https://www.v2ex.com/t/888996) ![](assets/new.png)  
 - [2022-10-22-网易云音乐「个性推荐」问题：网络不给力哦，请检查你的网络设置~，其他如「歌单」、「排行榜」正常](https://www.v2ex.com/t/888995) ![](assets/new.png)  
 - [2022-10-22-有没有员工手册？方便公开的](https://www.v2ex.com/t/888994) ![](assets/new.png)  
 - [2022-10-22-求一个日本/澳大利亚/新加坡-onsite-的-web3-相关开发工作](https://www.v2ex.com/t/888992) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-10-22-大佬们，-onedrive-的文件分享，是什么逻辑？有共享限制吗？](https://www.v2ex.com/t/888976) ![](assets/new.png)  
 - [2022-10-22-Adam-Serafini:-Speeding-up-Python-with-Zig](https://www.v2ex.com/t/888975) ![](assets/new.png)  
 - [2022-10-22-备份到-icloud-怎么忽略文件呢，-可以实现类似-gitignore-的功能吗？](https://www.v2ex.com/t/888974) ![](assets/new.png)  
-- [2022-10-22-有没有熟悉-whatsapp-api-的？需要做一个简单的-CRM-系统](https://www.v2ex.com/t/888973) ![](assets/new.png)  
-- [2022-10-22-帮你轻松生成-SQL-语句、假数据和代码，大幅提升开发效率~](https://www.v2ex.com/t/888972) ![](assets/new.png)  
-- [2022-10-22-使用-puppeteer-访问谷歌翻译文档目标语言设置无效？](https://www.v2ex.com/t/888971) ![](assets/new.png)  
-- [2022-10-22-分享一下解决谷歌翻译频繁失效的事Google-Translate](https://www.v2ex.com/t/888970) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

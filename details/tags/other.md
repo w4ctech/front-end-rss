@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-22 10:17:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-22 10:49:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1915,6 +1915,7 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-10-22-找一个-Surge-Mac-的车](https://www.v2ex.com/t/888984) 
 - [2022-10-22-电脑触控栏问题](https://www.v2ex.com/t/888981) 
 - [2022-10-22-通过-webdav-访问-Onedrive-提示-Request-timed-out](https://www.v2ex.com/t/888978) 
 - [2022-10-22-大佬们，-onedrive-的文件分享，是什么逻辑？有共享限制吗？](https://www.v2ex.com/t/888976) 
@@ -1944,9 +1945,6 @@
 - [2022-10-22-AirPods-Pro-第二代的声音在通话时声音会很奇怪的问题只有我遇到了吗？](https://www.v2ex.com/t/888940) 
 - [2022-10-22-iPad-Pro-现在能连接-sd-存储卡吗？](https://www.v2ex.com/t/888938) 
 - [2022-10-22-有没有比较优雅的多平台-PDF-增量同步工具？](https://www.v2ex.com/t/888937) 
-- [2022-10-22-国内互联网卷不动了，有计划花半年准备找-Remote-工作，想请教-&-交流一下](https://www.v2ex.com/t/888934) 
-- [2022-10-22-1password-8-不支持-icloud-了怎么办？](https://www.v2ex.com/t/888933) 
-- [2022-10-22-有没有-iphone13-的保护壳推荐啊，不要太贵的。](https://www.v2ex.com/t/888932) 
 - [2022-10-22-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-22-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-22-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

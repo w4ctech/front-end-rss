@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-22 08:54:57，:rocket: 更新条数: +2004， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-22 09:19:44，:rocket: 更新条数: +2005， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,13 @@
 </summary>
 
 
+- [2022-10-22-有没有熟悉-whatsapp-api-的？需要做一个简单的-CRM-系统](https://www.v2ex.com/t/888973) ![](assets/new.png)  
+- [2022-10-22-帮你轻松生成-SQL-语句、假数据和代码，大幅提升开发效率~](https://www.v2ex.com/t/888972) ![](assets/new.png)  
+- [2022-10-22-使用-puppeteer-访问谷歌翻译文档目标语言设置无效？](https://www.v2ex.com/t/888971) ![](assets/new.png)  
+- [2022-10-22-分享一下解决谷歌翻译频繁失效的事Google-Translate](https://www.v2ex.com/t/888970) ![](assets/new.png)  
+- [2022-10-22-请教大佬一个进入全屏的前端问题](https://www.v2ex.com/t/888969) ![](assets/new.png)  
+- [2022-10-22-我的群晖-NAS-Audio-station-为什么不识别歌曲的长短？](https://www.v2ex.com/t/888968) ![](assets/new.png)  
+- [2022-10-22-InfluxDB-Cluster---InfluxDB-Enterprise-集群的开源替代方案](https://www.v2ex.com/t/888967) ![](assets/new.png)  
 - [2022-10-22-广州，找云计算售前](https://www.v2ex.com/t/888966) ![](assets/new.png)  
 - [2022-10-22-推荐一个开源论坛程序，简单管理分享文章](https://www.v2ex.com/t/888965) ![](assets/new.png)  
 - [2022-10-22-客户端真惨](https://www.v2ex.com/t/888962) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-10-22-各位的公司有拆解工资吗？签署薪资确认函](https://www.v2ex.com/t/888954) ![](assets/new.png)  
 - [2022-10-22-求一个可以给他人共享文件的平台/网盘](https://www.v2ex.com/t/888952) ![](assets/new.png)  
 - [2022-10-22-c-语言里面-#if-不可以这样用吗？](https://www.v2ex.com/t/888951) ![](assets/new.png)  
-- [2022-10-22-现在润美帝还是个好选择吗？](https://www.v2ex.com/t/888948) ![](assets/new.png)  
-- [2022-10-22-外企---不加班---深圳优先-招后端-/-前端-/-测试工程师](https://www.v2ex.com/t/888947) ![](assets/new.png)  
-- [2022-10-22-2022-年从国内拿到悉尼-220K-AUD-offer-经验分享（五）](https://www.v2ex.com/t/888946) ![](assets/new.png)  
-- [2022-10-22-个人微信被禁止发消息，朋友圈，加好友，企微相关功能一天](https://www.v2ex.com/t/888945) ![](assets/new.png)  
-- [2022-10-22-刚收到-Pixel-7-Pro](https://www.v2ex.com/t/888943) ![](assets/new.png)  
-- [2022-10-22-乡村振兴共同富裕，求卖特产卖蔬菜的简单平台](https://www.v2ex.com/t/888941) ![](assets/new.png)  
-- [2022-10-22-AirPods-Pro-第二代的声音在通话时声音会很奇怪的问题只有我遇到了吗？](https://www.v2ex.com/t/888940) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

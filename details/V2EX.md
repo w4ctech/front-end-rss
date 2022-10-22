@@ -1,10 +1,17 @@
-:alarm_clock: 更新时间: 2022-10-22 08:54:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-22 09:19:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-10-22-有没有熟悉-whatsapp-api-的？需要做一个简单的-CRM-系统](https://www.v2ex.com/t/888973) 
+- [2022-10-22-帮你轻松生成-SQL-语句、假数据和代码，大幅提升开发效率~](https://www.v2ex.com/t/888972) 
+- [2022-10-22-使用-puppeteer-访问谷歌翻译文档目标语言设置无效？](https://www.v2ex.com/t/888971) 
+- [2022-10-22-分享一下解决谷歌翻译频繁失效的事Google-Translate](https://www.v2ex.com/t/888970) 
+- [2022-10-22-请教大佬一个进入全屏的前端问题](https://www.v2ex.com/t/888969) 
+- [2022-10-22-我的群晖-NAS-Audio-station-为什么不识别歌曲的长短？](https://www.v2ex.com/t/888968) 
+- [2022-10-22-InfluxDB-Cluster---InfluxDB-Enterprise-集群的开源替代方案](https://www.v2ex.com/t/888967) 
 - [2022-10-22-广州，找云计算售前](https://www.v2ex.com/t/888966) 
 - [2022-10-22-推荐一个开源论坛程序，简单管理分享文章](https://www.v2ex.com/t/888965) 
 - [2022-10-22-客户端真惨](https://www.v2ex.com/t/888962) 
@@ -37,9 +44,3 @@
 - [2022-10-22-看到一篇国外-blog-配图很漂亮，且能动态交互，是怎么做出来的？](https://www.v2ex.com/t/888928) 
 - [2022-10-22-求一个可以满速带宽的内网穿透方案](https://www.v2ex.com/t/888926) 
 - [2022-10-22-软考初级->程序员下午题-好-TM-的难啊。](https://www.v2ex.com/t/888925) 
-- [2022-10-22-MacBook-Pro-13-寸，-2021-年版本，开机内存就飙升，是有问题吗？](https://www.v2ex.com/t/888923) 
-- [2022-10-22-窒息了啊，-win-虚拟桌面切换时彻底卡死在切换界面了，有什么方法抢救下保存工作进度吗](https://www.v2ex.com/t/888922) 
-- [2022-10-22-电线接线环和多股线怎么接？](https://www.v2ex.com/t/888921) 
-- [2022-10-22-Python-socket-实现的-Telnet-服务器数据回显格式问题](https://www.v2ex.com/t/888920) 
-- [2022-10-22-寻一个可以本地存放，多设备同步的笔记-app](https://www.v2ex.com/t/888919) 
-- [2022-10-22-想建立个万智牌节点](https://www.v2ex.com/t/888917) 

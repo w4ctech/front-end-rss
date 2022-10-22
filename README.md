@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-22 10:49:11，:rocket: 更新条数: +2005， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-22 11:15:12，:rocket: 更新条数: +2003， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-10-22-目前国内博士生，为了润再出国读个-phd-值得吗？](https://www.v2ex.com/t/888988) ![](assets/new.png)  
+- [2022-10-22-如何在一个-Python-程序中，获取运行另一个-py-文件后，返回输出到终端的内容](https://www.v2ex.com/t/888985) ![](assets/new.png)  
 - [2022-10-22-找一个-Surge-Mac-的车](https://www.v2ex.com/t/888984) ![](assets/new.png)  
 - [2022-10-22-使用-RecyclerView-动态展示-WiFi-列表数据刷新时的闪烁问题](https://www.v2ex.com/t/888983) ![](assets/new.png)  
 - [2022-10-22-电脑触控栏问题](https://www.v2ex.com/t/888981) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-10-22-广州，找云计算售前](https://www.v2ex.com/t/888966) ![](assets/new.png)  
 - [2022-10-22-推荐一个开源论坛程序，简单管理分享文章](https://www.v2ex.com/t/888965) ![](assets/new.png)  
 - [2022-10-22-客户端真惨](https://www.v2ex.com/t/888962) ![](assets/new.png)  
-- [2022-10-22-公司准备给我换-M1-Mac，但我工作上有些无可替代的-Windows-x86-软件，是否无解？](https://www.v2ex.com/t/888961) ![](assets/new.png)  
-- [2022-10-22-用了一段时间-win11-22H2，还是挺香的，也适合做前端开发](https://www.v2ex.com/t/888960) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

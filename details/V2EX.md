@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2022-10-22 14:01:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-22 14:24:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-10-22-换绑了-gv-之后就不能通过手机号加国内好友了吗](https://www.v2ex.com/t/889013) 
+- [2022-10-22-日亚购入的-pixel-watch](https://www.v2ex.com/t/889012) 
 - [2022-10-22-这个世界上还有渡渡鸟吗](https://www.v2ex.com/t/889009) 
 - [2022-10-22-面包多被-clientHold-了](https://www.v2ex.com/t/889008) 
 - [2022-10-22-公司员工手册，大家有没有好的修改意见？](https://www.v2ex.com/t/889007) 
@@ -41,4 +43,3 @@
 - [2022-10-22-InfluxDB-Cluster---InfluxDB-Enterprise-集群的开源替代方案](https://www.v2ex.com/t/888967) 
 - [2022-10-22-广州，找云计算售前](https://www.v2ex.com/t/888966) 
 - [2022-10-22-推荐一个开源论坛程序，简单管理分享文章](https://www.v2ex.com/t/888965) 
-- [2022-10-22-客户端真惨](https://www.v2ex.com/t/888962) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-22 14:01:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-22 14:24:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1915,6 +1915,8 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-10-22-换绑了-gv-之后就不能通过手机号加国内好友了吗](https://www.v2ex.com/t/889013) 
+- [2022-10-22-日亚购入的-pixel-watch](https://www.v2ex.com/t/889012) 
 - [2022-10-22-这个世界上还有渡渡鸟吗](https://www.v2ex.com/t/889009) 
 - [2022-10-22-公司员工手册，大家有没有好的修改意见？](https://www.v2ex.com/t/889007) 
 - [2022-10-22-大家觉得-6800-的-iPhone-14-Plus-256G-划不划算？](https://www.v2ex.com/t/889006) 
@@ -1944,7 +1946,6 @@
 - [2022-10-22-InfluxDB-Cluster---InfluxDB-Enterprise-集群的开源替代方案](https://www.v2ex.com/t/888967) 
 - [2022-10-22-广州，找云计算售前](https://www.v2ex.com/t/888966) 
 - [2022-10-22-推荐一个开源论坛程序，简单管理分享文章](https://www.v2ex.com/t/888965) 
-- [2022-10-22-客户端真惨](https://www.v2ex.com/t/888962) 
 - [2022-10-22-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-22-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-22-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

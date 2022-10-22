@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-22 14:01:10。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-10-22 14:24:00。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -72,6 +72,8 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-10-16-2022年新出了哪些form表单新特性？](https://www.zhangxinxu.com/wordpress/2022/10/2022-new-form-property/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-12-CSS-::file-selector-button伪元素简介](https://www.zhangxinxu.com/wordpress/2022/10/css-file-selector-button/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-12-更符合书写习惯的CSS媒体查询Range语法](https://www.zhangxinxu.com/wordpress/2022/10/css-media-range-syntax/) 
+- [【V2EX】2022-10-22-换绑了-gv-之后就不能通过手机号加国内好友了吗](https://www.v2ex.com/t/889013) 
+- [【V2EX】2022-10-22-日亚购入的-pixel-watch](https://www.v2ex.com/t/889012) 
 - [【V2EX】2022-10-22-这个世界上还有渡渡鸟吗](https://www.v2ex.com/t/889009) 
 - [【V2EX】2022-10-22-面包多被-clientHold-了](https://www.v2ex.com/t/889008) 
 - [【V2EX】2022-10-22-公司员工手册，大家有没有好的修改意见？](https://www.v2ex.com/t/889007) 
@@ -108,7 +110,6 @@
 - [【V2EX】2022-10-22-InfluxDB-Cluster---InfluxDB-Enterprise-集群的开源替代方案](https://www.v2ex.com/t/888967) 
 - [【V2EX】2022-10-22-广州，找云计算售前](https://www.v2ex.com/t/888966) 
 - [【V2EX】2022-10-22-推荐一个开源论坛程序，简单管理分享文章](https://www.v2ex.com/t/888965) 
-- [【V2EX】2022-10-22-客户端真惨](https://www.v2ex.com/t/888962) 
 - [【技术头条】2022-10-22-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-22-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-22-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

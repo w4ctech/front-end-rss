@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-22 14:01:10，:rocket: 更新条数: +2003， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-22 14:24:00，:rocket: 更新条数: +2004， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-10-22-换绑了-gv-之后就不能通过手机号加国内好友了吗](https://www.v2ex.com/t/889013) ![](assets/new.png)  
+- [2022-10-22-日亚购入的-pixel-watch](https://www.v2ex.com/t/889012) ![](assets/new.png)  
 - [2022-10-22-这个世界上还有渡渡鸟吗](https://www.v2ex.com/t/889009) ![](assets/new.png)  
 - [2022-10-22-面包多被-clientHold-了](https://www.v2ex.com/t/889008) ![](assets/new.png)  
 - [2022-10-22-公司员工手册，大家有没有好的修改意见？](https://www.v2ex.com/t/889007) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-10-22-appstore-ios-限免应用](https://www.v2ex.com/t/888990) ![](assets/new.png)  
 - [2022-10-22-求推荐-成都公司团建方案](https://www.v2ex.com/t/888989) ![](assets/new.png)  
 - [2022-10-22-目前国内博士生，为了润再出国读个-phd-值得吗？](https://www.v2ex.com/t/888988) ![](assets/new.png)  
-- [2022-10-22-如何在一个-Python-程序中，获取运行另一个-py-文件后，返回输出到终端的内容](https://www.v2ex.com/t/888985) ![](assets/new.png)  
-- [2022-10-22-找一个-Surge-Mac-的车](https://www.v2ex.com/t/888984) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

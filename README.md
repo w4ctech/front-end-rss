@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-22 12:29:07，:rocket: 更新条数: +2006， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-22 13:17:13，:rocket: 更新条数: +2005， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,10 +491,13 @@
 </summary>
 
 
+- [2022-10-22-三年-web-全栈开发React+-Java-被裁，准备找工作，希望前辈们指导一下简历，谢谢！](https://www.v2ex.com/t/889005) ![](assets/new.png)  
+- [2022-10-22-有哪些应用重灾区？比如导航站，-todo-列表，笔记应用](https://www.v2ex.com/t/889004) ![](assets/new.png)  
+- [2022-10-22-求推荐个国内服务器，搭建游戏服务端用](https://www.v2ex.com/t/889003) ![](assets/new.png)  
+- [2022-10-22-有靠谱的-IP-代理服务商推荐吗？](https://www.v2ex.com/t/889001) ![](assets/new.png)  
 - [2022-10-22-一次笔试过程中产生的疑问](https://www.v2ex.com/t/889000) ![](assets/new.png)  
 - [2022-10-22-连接国内网络延迟比国外更高。。。。](https://www.v2ex.com/t/888999) ![](assets/new.png)  
 - [2022-10-22-分享一个-idea，不知道你们觉得咋样，有能力的可以拿去落地](https://www.v2ex.com/t/888997) ![](assets/new.png)  
-- [2022-10-22-刚经历一段渣女。。。](https://www.v2ex.com/t/888996) ![](assets/new.png)  
 - [2022-10-22-网易云音乐「个性推荐」问题：网络不给力哦，请检查你的网络设置~，其他如「歌单」、「排行榜」正常](https://www.v2ex.com/t/888995) ![](assets/new.png)  
 - [2022-10-22-有没有员工手册？方便公开的](https://www.v2ex.com/t/888994) ![](assets/new.png)  
 - [2022-10-22-求一个日本/澳大利亚/新加坡-onsite-的-web3-相关开发工作](https://www.v2ex.com/t/888992) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-10-22-电脑触控栏问题](https://www.v2ex.com/t/888981) ![](assets/new.png)  
 - [2022-10-22-通过-webdav-访问-Onedrive-提示-Request-timed-out](https://www.v2ex.com/t/888978) ![](assets/new.png)  
 - [2022-10-22-chrome-内置的谷歌翻译，修改-hosts-的方法没用了，有解决方案吗？](https://www.v2ex.com/t/888977) ![](assets/new.png)  
-- [2022-10-22-大佬们，-onedrive-的文件分享，是什么逻辑？有共享限制吗？](https://www.v2ex.com/t/888976) ![](assets/new.png)  
-- [2022-10-22-Adam-Serafini:-Speeding-up-Python-with-Zig](https://www.v2ex.com/t/888975) ![](assets/new.png)  
-- [2022-10-22-备份到-icloud-怎么忽略文件呢，-可以实现类似-gitignore-的功能吗？](https://www.v2ex.com/t/888974) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

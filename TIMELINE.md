@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-22 12:29:07。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-10-22 13:17:13。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -72,10 +72,13 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-10-16-2022年新出了哪些form表单新特性？](https://www.zhangxinxu.com/wordpress/2022/10/2022-new-form-property/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-12-CSS-::file-selector-button伪元素简介](https://www.zhangxinxu.com/wordpress/2022/10/css-file-selector-button/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-12-更符合书写习惯的CSS媒体查询Range语法](https://www.zhangxinxu.com/wordpress/2022/10/css-media-range-syntax/) 
+- [【V2EX】2022-10-22-三年-web-全栈开发React+-Java-被裁，准备找工作，希望前辈们指导一下简历，谢谢！](https://www.v2ex.com/t/889005) 
+- [【V2EX】2022-10-22-有哪些应用重灾区？比如导航站，-todo-列表，笔记应用](https://www.v2ex.com/t/889004) 
+- [【V2EX】2022-10-22-求推荐个国内服务器，搭建游戏服务端用](https://www.v2ex.com/t/889003) 
+- [【V2EX】2022-10-22-有靠谱的-IP-代理服务商推荐吗？](https://www.v2ex.com/t/889001) 
 - [【V2EX】2022-10-22-一次笔试过程中产生的疑问](https://www.v2ex.com/t/889000) 
 - [【V2EX】2022-10-22-连接国内网络延迟比国外更高。。。。](https://www.v2ex.com/t/888999) 
 - [【V2EX】2022-10-22-分享一个-idea，不知道你们觉得咋样，有能力的可以拿去落地](https://www.v2ex.com/t/888997) 
-- [【V2EX】2022-10-22-刚经历一段渣女。。。](https://www.v2ex.com/t/888996) 
 - [【V2EX】2022-10-22-网易云音乐「个性推荐」问题：网络不给力哦，请检查你的网络设置~，其他如「歌单」、「排行榜」正常](https://www.v2ex.com/t/888995) 
 - [【V2EX】2022-10-22-有没有员工手册？方便公开的](https://www.v2ex.com/t/888994) 
 - [【V2EX】2022-10-22-求一个日本/澳大利亚/新加坡-onsite-的-web3-相关开发工作](https://www.v2ex.com/t/888992) 
@@ -108,10 +111,6 @@
 - [【V2EX】2022-10-22-远程外企-Scenius-招聘-App-高级开发工程师-后端高级开发工程师](https://www.v2ex.com/t/888958) 
 - [【V2EX】2022-10-22-有-V-友认识可以代写毕设论文的吗？化学工程专业](https://www.v2ex.com/t/888957) 
 - [【V2EX】2022-10-22-Colube-视觉化知识管理](https://www.v2ex.com/t/888956) 
-- [【V2EX】2022-10-22-用-rust-框架-axum-写了个-todo-demo，即使用-1C1G-的服务器，性能压测-QPS-也很优异](https://www.v2ex.com/t/888955) 
-- [【V2EX】2022-10-22-各位的公司有拆解工资吗？签署薪资确认函](https://www.v2ex.com/t/888954) 
-- [【V2EX】2022-10-22-求一个可以给他人共享文件的平台/网盘](https://www.v2ex.com/t/888952) 
-- [【V2EX】2022-10-22-c-语言里面-#if-不可以这样用吗？](https://www.v2ex.com/t/888951) 
 - [【技术头条】2022-10-22-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-22-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-22-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

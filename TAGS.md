@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-10-22 12:29:07。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-22 13:17:13。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -39,6 +39,7 @@
 
 
 
+- [【V2EX】三年-web-全栈开发React+-Java-被裁，准备找工作，希望前辈们指导一下简历，谢谢！](https://www.v2ex.com/t/889005)
 - [【技术头条】重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/react.md)
 
@@ -153,6 +154,7 @@
 
 
 
+- [【V2EX】求推荐个国内服务器，搭建游戏服务端用](https://www.v2ex.com/t/889003)
 - [......【查看更多】......](./details/tags/dev-game.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -248,7 +250,6 @@
 
 
 
-- [【V2EX】用-rust-框架-axum-写了个-todo-demo，即使用-1C1G-的服务器，性能压测-QPS-也很优异](https://www.v2ex.com/t/888955)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

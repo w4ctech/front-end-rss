@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-22 17:53:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-22 18:20:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -42,4 +42,3 @@
 - [2022-10-22-有没有员工手册？方便公开的](https://www.v2ex.com/t/888994) 
 - [2022-10-22-求一个日本/澳大利亚/新加坡-onsite-的-web3-相关开发工作](https://www.v2ex.com/t/888992) 
 - [2022-10-22-杭州-内推-微策略-又叒招人了！](https://www.v2ex.com/t/888991) 
-- [2022-10-22-appstore-ios-限免应用](https://www.v2ex.com/t/888990) 

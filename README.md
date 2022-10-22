@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-22 16:21:46，:rocket: 更新条数: +2004， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-22 17:04:32，:rocket: 更新条数: +2005， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-10-22-为什么三星原装充电器不能达到最高充电功率](https://www.v2ex.com/t/889036) ![](assets/new.png)  
+- [2022-10-22-深圳-11-月组团钓鱼啊，不要妹子](https://www.v2ex.com/t/889035) ![](assets/new.png)  
+- [2022-10-22-14-寸-MBP-连接贝尔金雷电-3-扩展坞只有-15w-充电功率](https://www.v2ex.com/t/889034) ![](assets/new.png)  
 - [2022-10-22-想加点杭州的群，见见不同的生活](https://www.v2ex.com/t/889033) ![](assets/new.png)  
 - [2022-10-22-前端并发请求控制](https://www.v2ex.com/t/889032) ![](assets/new.png)  
 - [2022-10-22-The-Road-to-Zig-1.0---Andrew-Kelley](https://www.v2ex.com/t/889031) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-10-22-FE-求大佬解释登陆部分代码](https://www.v2ex.com/t/889016) ![](assets/new.png)  
 - [2022-10-22-就业，找个小城市躺还是去大城市卷几年回去](https://www.v2ex.com/t/889014) ![](assets/new.png)  
 - [2022-10-22-换绑了-gv-之后就不能通过手机号加国内好友了吗](https://www.v2ex.com/t/889013) ![](assets/new.png)  
-- [2022-10-22-日亚购入的-pixel-watch](https://www.v2ex.com/t/889012) ![](assets/new.png)  
-- [2022-10-22-这个世界上还有渡渡鸟吗](https://www.v2ex.com/t/889009) ![](assets/new.png)  
-- [2022-10-22-面包多被-clientHold-了](https://www.v2ex.com/t/889008) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-22 16:21:46。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-10-22 17:04:32。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -72,6 +72,9 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-10-16-2022年新出了哪些form表单新特性？](https://www.zhangxinxu.com/wordpress/2022/10/2022-new-form-property/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-12-CSS-::file-selector-button伪元素简介](https://www.zhangxinxu.com/wordpress/2022/10/css-file-selector-button/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-12-更符合书写习惯的CSS媒体查询Range语法](https://www.zhangxinxu.com/wordpress/2022/10/css-media-range-syntax/) 
+- [【V2EX】2022-10-22-为什么三星原装充电器不能达到最高充电功率](https://www.v2ex.com/t/889036) 
+- [【V2EX】2022-10-22-深圳-11-月组团钓鱼啊，不要妹子](https://www.v2ex.com/t/889035) 
+- [【V2EX】2022-10-22-14-寸-MBP-连接贝尔金雷电-3-扩展坞只有-15w-充电功率](https://www.v2ex.com/t/889034) 
 - [【V2EX】2022-10-22-想加点杭州的群，见见不同的生活](https://www.v2ex.com/t/889033) 
 - [【V2EX】2022-10-22-前端并发请求控制](https://www.v2ex.com/t/889032) 
 - [【V2EX】2022-10-22-The-Road-to-Zig-1.0---Andrew-Kelley](https://www.v2ex.com/t/889031) 
@@ -108,8 +111,6 @@
 - [【V2EX】2022-10-22-appstore-ios-限免应用](https://www.v2ex.com/t/888990) 
 - [【V2EX】2022-10-22-求推荐-成都公司团建方案](https://www.v2ex.com/t/888989) 
 - [【V2EX】2022-10-22-目前国内博士生，为了润再出国读个-phd-值得吗？](https://www.v2ex.com/t/888988) 
-- [【V2EX】2022-10-22-如何在一个-Python-程序中，获取运行另一个-py-文件后，返回输出到终端的内容](https://www.v2ex.com/t/888985) 
-- [【V2EX】2022-10-22-找一个-Surge-Mac-的车](https://www.v2ex.com/t/888984) 
 - [【技术头条】2022-10-22-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-22-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-22-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

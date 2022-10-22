@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2022-10-22 16:21:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-22 17:04:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-10-22-为什么三星原装充电器不能达到最高充电功率](https://www.v2ex.com/t/889036) 
+- [2022-10-22-深圳-11-月组团钓鱼啊，不要妹子](https://www.v2ex.com/t/889035) 
+- [2022-10-22-14-寸-MBP-连接贝尔金雷电-3-扩展坞只有-15w-充电功率](https://www.v2ex.com/t/889034) 
 - [2022-10-22-想加点杭州的群，见见不同的生活](https://www.v2ex.com/t/889033) 
 - [2022-10-22-前端并发请求控制](https://www.v2ex.com/t/889032) 
 - [2022-10-22-The-Road-to-Zig-1.0---Andrew-Kelley](https://www.v2ex.com/t/889031) 
@@ -41,5 +44,3 @@
 - [2022-10-22-appstore-ios-限免应用](https://www.v2ex.com/t/888990) 
 - [2022-10-22-求推荐-成都公司团建方案](https://www.v2ex.com/t/888989) 
 - [2022-10-22-目前国内博士生，为了润再出国读个-phd-值得吗？](https://www.v2ex.com/t/888988) 
-- [2022-10-22-如何在一个-Python-程序中，获取运行另一个-py-文件后，返回输出到终端的内容](https://www.v2ex.com/t/888985) 
-- [2022-10-22-找一个-Surge-Mac-的车](https://www.v2ex.com/t/888984) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-22 09:19:44，:rocket: 更新条数: +2005， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-22 09:48:21，:rocket: 更新条数: +2006， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-10-22-大佬们，-onedrive-的文件分享，是什么逻辑？有共享限制吗？](https://www.v2ex.com/t/888976) ![](assets/new.png)  
+- [2022-10-22-Adam-Serafini:-Speeding-up-Python-with-Zig](https://www.v2ex.com/t/888975) ![](assets/new.png)  
+- [2022-10-22-备份到-icloud-怎么忽略文件呢，-可以实现类似-gitignore-的功能吗？](https://www.v2ex.com/t/888974) ![](assets/new.png)  
 - [2022-10-22-有没有熟悉-whatsapp-api-的？需要做一个简单的-CRM-系统](https://www.v2ex.com/t/888973) ![](assets/new.png)  
 - [2022-10-22-帮你轻松生成-SQL-语句、假数据和代码，大幅提升开发效率~](https://www.v2ex.com/t/888972) ![](assets/new.png)  
 - [2022-10-22-使用-puppeteer-访问谷歌翻译文档目标语言设置无效？](https://www.v2ex.com/t/888971) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-10-22-有-V-友认识可以代写毕设论文的吗？化学工程专业](https://www.v2ex.com/t/888957) ![](assets/new.png)  
 - [2022-10-22-Colube-视觉化知识管理](https://www.v2ex.com/t/888956) ![](assets/new.png)  
 - [2022-10-22-用-rust-框架-axum-写了个-todo-demo，即使用-1C1G-的服务器，性能压测-QPS-也很优异](https://www.v2ex.com/t/888955) ![](assets/new.png)  
-- [2022-10-22-各位的公司有拆解工资吗？签署薪资确认函](https://www.v2ex.com/t/888954) ![](assets/new.png)  
-- [2022-10-22-求一个可以给他人共享文件的平台/网盘](https://www.v2ex.com/t/888952) ![](assets/new.png)  
-- [2022-10-22-c-语言里面-#if-不可以这样用吗？](https://www.v2ex.com/t/888951) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

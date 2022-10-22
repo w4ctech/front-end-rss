@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-22 09:19:44。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-10-22 09:48:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -72,6 +72,9 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-10-16-2022年新出了哪些form表单新特性？](https://www.zhangxinxu.com/wordpress/2022/10/2022-new-form-property/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-12-CSS-::file-selector-button伪元素简介](https://www.zhangxinxu.com/wordpress/2022/10/css-file-selector-button/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-12-更符合书写习惯的CSS媒体查询Range语法](https://www.zhangxinxu.com/wordpress/2022/10/css-media-range-syntax/) 
+- [【V2EX】2022-10-22-大佬们，-onedrive-的文件分享，是什么逻辑？有共享限制吗？](https://www.v2ex.com/t/888976) 
+- [【V2EX】2022-10-22-Adam-Serafini:-Speeding-up-Python-with-Zig](https://www.v2ex.com/t/888975) 
+- [【V2EX】2022-10-22-备份到-icloud-怎么忽略文件呢，-可以实现类似-gitignore-的功能吗？](https://www.v2ex.com/t/888974) 
 - [【V2EX】2022-10-22-有没有熟悉-whatsapp-api-的？需要做一个简单的-CRM-系统](https://www.v2ex.com/t/888973) 
 - [【V2EX】2022-10-22-帮你轻松生成-SQL-语句、假数据和代码，大幅提升开发效率~](https://www.v2ex.com/t/888972) 
 - [【V2EX】2022-10-22-使用-puppeteer-访问谷歌翻译文档目标语言设置无效？](https://www.v2ex.com/t/888971) 
@@ -109,8 +112,6 @@
 - [【V2EX】2022-10-22-写的一个小应用每天都有一些似乎是漏洞的请求](https://www.v2ex.com/t/888931) 
 - [【V2EX】2022-10-22-win10-输入法不见了,快捷键也切换不了..](https://www.v2ex.com/t/888930) 
 - [【V2EX】2022-10-22-看到一篇国外-blog-配图很漂亮，且能动态交互，是怎么做出来的？](https://www.v2ex.com/t/888928) 
-- [【V2EX】2022-10-22-求一个可以满速带宽的内网穿透方案](https://www.v2ex.com/t/888926) 
-- [【V2EX】2022-10-22-软考初级->程序员下午题-好-TM-的难啊。](https://www.v2ex.com/t/888925) 
 - [【技术头条】2022-10-22-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-22-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-22-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

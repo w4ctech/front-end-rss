@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-23 20:18:32，:rocket: 更新条数: +2005， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-23 20:47:41，:rocket: 更新条数: +2005， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-10-23-如何润到新加坡？](https://www.v2ex.com/t/889228) ![](assets/new.png)  
 - [2022-10-23-同事使用-MasterGo-做了十几个小时的工作全部丢失](https://www.v2ex.com/t/889227) ![](assets/new.png)  
 - [2022-10-23-创业团队又又找朋友啦，本次招聘-传播运营、项目策划、数据产品经理、数据应用经理、视觉设计，详见正文](https://www.v2ex.com/t/889226) ![](assets/new.png)  
 - [2022-10-23-运维可以找到国外-remote-工作吗?](https://www.v2ex.com/t/889223) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-10-23-关于给普通本科大二学生的建议](https://www.v2ex.com/t/889208) ![](assets/new.png)  
 - [2022-10-23-读研应该选择图像检索和视频编码哪个呢?-前景咋样呢？](https://www.v2ex.com/t/889207) ![](assets/new.png)  
 - [2022-10-23-现在-m1-mac-mini-唤醒外接显示器还会很慢吗？](https://www.v2ex.com/t/889205) ![](assets/new.png)  
-- [2022-10-23-GOOGLE-400-错误-怎么解决？](https://www.v2ex.com/t/889203) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

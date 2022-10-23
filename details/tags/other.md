@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-23 03:53:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-23 05:07:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1915,6 +1915,13 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-10-23-1024-都准备买啥](https://www.v2ex.com/t/889089) 
+- [2022-10-23-软考高级系统架构师有考的吗？坐标杭州](https://www.v2ex.com/t/889088) 
+- [2022-10-23-厦门-准备跑路了，有没有可以介绍的](https://www.v2ex.com/t/889087) 
+- [2022-10-23-jekyll-的-blog-页面，想在-excerpt-里带原文格式，怎么修改-theme-呢？](https://www.v2ex.com/t/889085) 
+- [2022-10-23-寻找一位熟悉前端开发的小伙伴，付费请教或者说是帮忙修改一个开源项目](https://www.v2ex.com/t/889084) 
+- [2022-10-23-美区超大杯五等一](https://www.v2ex.com/t/889079) 
+- [2022-10-23-拒绝迷茫---推荐一款远程端口映射工具，支持-tcp-点对点穿透](https://www.v2ex.com/t/889078) 
 - [2022-10-23-寻找一个-iOS-的-RSS-阅读器：支持-feedly，能自定义字体](https://www.v2ex.com/t/889075) 
 - [2022-10-23-这个-chown-命令咋写哈~~](https://www.v2ex.com/t/889074) 
 - [2022-10-23-老用户在腾讯云双十一买服务器，会比现在便宜吗？](https://www.v2ex.com/t/889073) 
@@ -1940,13 +1947,6 @@
 - [2022-10-22-iPad-OS-16.1-Stage-Manager-投屏功能被阉割了](https://www.v2ex.com/t/889044) 
 - [2022-10-22-此帖跪求-iOS-surge-5.1.3-可用配置](https://www.v2ex.com/t/889043) 
 - [2022-10-22-在内网不能使用公网-IP-连接服务](https://www.v2ex.com/t/889042) 
-- [2022-10-22-UU-加速器我***，关于-Windows-无法进入睡眠这件事](https://www.v2ex.com/t/889039) 
-- [2022-10-22-为什么三星原装充电器不能达到最高充电功率](https://www.v2ex.com/t/889036) 
-- [2022-10-22-深圳-11-月组团钓鱼啊，不要妹子](https://www.v2ex.com/t/889035) 
-- [2022-10-22-14-寸-MBP-连接贝尔金雷电-3-扩展坞只有-15w-充电功率](https://www.v2ex.com/t/889034) 
-- [2022-10-22-想加点杭州的群，见见不同的生活](https://www.v2ex.com/t/889033) 
-- [2022-10-22-The-Road-to-Zig-1.0---Andrew-Kelley](https://www.v2ex.com/t/889031) 
-- [2022-10-22-才发现-Mac-键盘上的功能键-2020-年后有变动](https://www.v2ex.com/t/889027) 
 - [2022-10-23-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-23-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-23-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-23 08:20:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-23 08:52:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -15,4 +15,3 @@
 - [2021-03-03-港府回应一63岁患者死亡事件-暂无法确定与疫苗相关](https://m.caixin.com/m/2021-03-03/101670052.html) 
 - [2022-10-16-2022年新出了哪些form表单新特性？](https://www.zhangxinxu.com/wordpress/2022/10/2022-new-form-property/) 
 - [2022-10-23-go-中，进程退出如何保障异步协程的完整退出。](https://www.v2ex.com/t/889105) 
-- [2022-10-23-setInterval-等读取不到-useState-最新值的问题你们怎么解决？](https://www.v2ex.com/t/889077) 

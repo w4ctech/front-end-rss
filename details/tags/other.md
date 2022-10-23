@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-23 08:20:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-23 08:52:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1915,6 +1915,12 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-10-23-跟老婆小吵了一架，感觉很对不起](https://www.v2ex.com/t/889129) 
+- [2022-10-23-Gnome-Desktop-自带的截屏工具真好用](https://www.v2ex.com/t/889128) 
+- [2022-10-23-刚夸完拼多多百亿补贴，转身就打我脸。](https://www.v2ex.com/t/889127) 
+- [2022-10-23-你们分手后会删前任的联系方式吗](https://www.v2ex.com/t/889126) 
+- [2022-10-23-32G-内存的电脑为什么计算占用了-5G,却显示占用了-16-个-G-呢](https://www.v2ex.com/t/889125) 
+- [2022-10-23-微信支付商户开通也很简单嘛，历时-1-周就搞定了](https://www.v2ex.com/t/889123) 
 - [2022-10-23-上架-appstrore-应用请教支付的一个问题](https://www.v2ex.com/t/889118) 
 - [2022-10-23-问下大家有什么好的方法记忆事情发生的时间、地点？](https://www.v2ex.com/t/889117) 
 - [2022-10-23-debian-没有内置-ufw,-怎么解决?](https://www.v2ex.com/t/889116) 
@@ -1940,10 +1946,6 @@
 - [2022-10-23-厦门-准备跑路了，有没有可以介绍的](https://www.v2ex.com/t/889087) 
 - [2022-10-23-jekyll-的-blog-页面，想在-excerpt-里带原文格式，怎么修改-theme-呢？](https://www.v2ex.com/t/889085) 
 - [2022-10-23-寻找一位熟悉前端开发的小伙伴，付费请教或者说是帮忙修改一个开源项目](https://www.v2ex.com/t/889084) 
-- [2022-10-23-拒绝迷茫---推荐一款远程端口映射工具，支持-tcp-点对点穿透](https://www.v2ex.com/t/889078) 
-- [2022-10-23-寻找一个-iOS-的-RSS-阅读器：支持-feedly，能自定义字体](https://www.v2ex.com/t/889075) 
-- [2022-10-23-这个-chown-命令咋写哈~~](https://www.v2ex.com/t/889074) 
-- [2022-10-23-老用户在腾讯云双十一买服务器，会比现在便宜吗？](https://www.v2ex.com/t/889073) 
 - [2022-10-23-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-23-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-23-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

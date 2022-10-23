@@ -9953,6 +9953,61 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "微信 Windows 版审核 pdf 文件",
+        "link": "https://www.v2ex.com/t/889189",
+        "date": "2022-10-23"
+      },
+      {
+        "title": "m1 macbook pro 连接 2k 屏，如何开启 HIDPI 并开启高刷？",
+        "link": "https://www.v2ex.com/t/889187",
+        "date": "2022-10-23"
+      },
+      {
+        "title": "2021 款 m1 MacbookPro14，外接 4k 显示器的话，设置里可选 60 帧就可以实际达到 60 帧吗？",
+        "link": "https://www.v2ex.com/t/889186",
+        "date": "2022-10-23"
+      },
+      {
+        "title": "idea 直接进入接口真实实现方法快捷键？",
+        "link": "https://www.v2ex.com/t/889185",
+        "date": "2022-10-23"
+      },
+      {
+        "title": "Eglot has landed on master",
+        "link": "https://www.v2ex.com/t/889184",
+        "date": "2022-10-23"
+      },
+      {
+        "title": "plex 或 infuse 字幕激发 HDR 求解",
+        "link": "https://www.v2ex.com/t/889183",
+        "date": "2022-10-23"
+      },
+      {
+        "title": "时忆 Minecraft 正版公益服 插件很少 不换周末",
+        "link": "https://www.v2ex.com/t/889182",
+        "date": "2022-10-23"
+      },
+      {
+        "title": "请问，多肉养植，百科知识，有哪些比较全的网站能学习？",
+        "link": "https://www.v2ex.com/t/889179",
+        "date": "2022-10-23"
+      },
+      {
+        "title": "TrueNAS Core(FreeBSD) 中的 Jails 是否能实现类似 Docker 中 --network host 的效果？",
+        "link": "https://www.v2ex.com/t/889178",
+        "date": "2022-10-23"
+      },
+      {
+        "title": "pocket ios 阅读进度丢失大家有碰到过吗？",
+        "link": "https://www.v2ex.com/t/889175",
+        "date": "2022-10-23"
+      },
+      {
+        "title": "Stack Overflow 宣布推出离线版本",
+        "link": "https://www.v2ex.com/t/889174",
+        "date": "2022-10-23"
+      },
+      {
         "title": "请问一下，有没有什么办法批量转存别人的电报频道到自己自己创建的群组或频道？",
         "link": "https://www.v2ex.com/t/889173",
         "date": "2022-10-23"
@@ -10080,61 +10135,6 @@
       {
         "title": "有对 jenkins 比较了解的吗，他概念中的 Slave 节点（Agent）的定位是像 Gitlab-CI Runner 一样只是构建，返回结果的资源节点，还是最终交付、部署的生产节点？",
         "link": "https://www.v2ex.com/t/889140",
-        "date": "2022-10-23"
-      },
-      {
-        "title": "Apple 官网有翻修版的 mac studio ultra 顶配版出售， 单台优惠 5K~6K",
-        "link": "https://www.v2ex.com/t/889137",
-        "date": "2022-10-23"
-      },
-      {
-        "title": "显卡空负载，仍占用 1~1.5G 的显存?",
-        "link": "https://www.v2ex.com/t/889135",
-        "date": "2022-10-23"
-      },
-      {
-        "title": "怀念之前 1024 买一送一的活动",
-        "link": "https://www.v2ex.com/t/889134",
-        "date": "2022-10-23"
-      },
-      {
-        "title": "Windows 11 个性化——聚焦壁纸来回就几张图片？",
-        "link": "https://www.v2ex.com/t/889132",
-        "date": "2022-10-23"
-      },
-      {
-        "title": "膝盖笔记本电脑支架",
-        "link": "https://www.v2ex.com/t/889131",
-        "date": "2022-10-23"
-      },
-      {
-        "title": "跟老婆小吵了一架，感觉很对不起",
-        "link": "https://www.v2ex.com/t/889129",
-        "date": "2022-10-23"
-      },
-      {
-        "title": "Gnome Desktop 自带的截屏工具真好用",
-        "link": "https://www.v2ex.com/t/889128",
-        "date": "2022-10-23"
-      },
-      {
-        "title": "刚夸完拼多多百亿补贴，转身就打我脸。",
-        "link": "https://www.v2ex.com/t/889127",
-        "date": "2022-10-23"
-      },
-      {
-        "title": "你们分手后会删前任的联系方式吗",
-        "link": "https://www.v2ex.com/t/889126",
-        "date": "2022-10-23"
-      },
-      {
-        "title": "32G 内存的电脑为什么计算占用了 5G,却显示占用了 16 个 G 呢",
-        "link": "https://www.v2ex.com/t/889125",
-        "date": "2022-10-23"
-      },
-      {
-        "title": "如何去掉烦人的 cookie 通知？试了几个插件都没用",
-        "link": "https://www.v2ex.com/t/889124",
         "date": "2022-10-23"
       }
     ]

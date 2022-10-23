@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-23 23:19:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-23 23:51:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1915,6 +1915,8 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-10-23-有没有稳定的机场推荐下](https://www.v2ex.com/t/889232) 
+- [2022-10-23-有同学有-Twitter-Api-的-Bearer-token-吗，付费租用，-400-块一个月。](https://www.v2ex.com/t/889231) 
 - [2022-10-23-分享-Youtube-上一些适合-Coding-以及工作适合听的-play-list](https://www.v2ex.com/t/889230) 
 - [2022-10-23-如何润到新加坡？](https://www.v2ex.com/t/889228) 
 - [2022-10-23-运维可以找到国外-remote-工作吗?](https://www.v2ex.com/t/889223) 
@@ -1945,7 +1947,6 @@
 - [2022-10-23-2021-款-m1-MacbookPro14，外接-4k-显示器的话，设置里可选-60-帧就可以实际达到-60-帧吗？](https://www.v2ex.com/t/889186) 
 - [2022-10-23-idea-直接进入接口真实实现方法快捷键？](https://www.v2ex.com/t/889185) 
 - [2022-10-23-plex-或-infuse-字幕激发-HDR-求解](https://www.v2ex.com/t/889183) 
-- [2022-10-23-时忆-Minecraft-正版公益服-插件很少-不换周末](https://www.v2ex.com/t/889182) 
 - [2022-10-23-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-23-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-23-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

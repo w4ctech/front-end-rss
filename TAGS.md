@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-10-23 19:41:25。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-23 20:18:32。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -288,6 +288,7 @@
 
 
 
+- [【V2EX】同事使用-MasterGo-做了十几个小时的工作全部丢失](https://www.v2ex.com/t/889227)
 - [【V2EX】Eglot-has-landed-on-master](https://www.v2ex.com/t/889184)
 - [【技术头条】基于AI算法的数据库异常监测系统的设计与实现-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15390&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F09%2F01%2Fdatabase-monitoring-based-on-ai.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
@@ -341,6 +342,7 @@
 
 
 
+- [【V2EX】创业团队又又找朋友啦，本次招聘-传播运营、项目策划、数据产品经理、数据应用经理、视觉设计，详见正文](https://www.v2ex.com/t/889226)
 - [【V2EX】远程全职或兼职-美国-web3-创业公司招聘-PHP-程序员](https://www.v2ex.com/t/889211)
 - [......【查看更多】......](./details/tags/job-interview.md)
 

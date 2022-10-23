@@ -9953,6 +9953,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "同事使用 MasterGo 做了十几个小时的工作全部丢失",
+        "link": "https://www.v2ex.com/t/889227",
+        "date": "2022-10-23"
+      },
+      {
+        "title": "创业团队又又找朋友啦，本次招聘 [传播运营、项目策划、数据产品经理、数据应用经理、视觉设计]，详见正文",
+        "link": "https://www.v2ex.com/t/889226",
+        "date": "2022-10-23"
+      },
+      {
         "title": "运维可以找到国外 remote 工作吗?",
         "link": "https://www.v2ex.com/t/889223",
         "date": "2022-10-23"
@@ -10135,11 +10145,6 @@
       {
         "title": "TrueNAS Core(FreeBSD) 中的 Jails 是否能实现类似 Docker 中 --network host 的效果？",
         "link": "https://www.v2ex.com/t/889178",
-        "date": "2022-10-23"
-      },
-      {
-        "title": "pocket ios 阅读进度丢失大家有碰到过吗？",
-        "link": "https://www.v2ex.com/t/889175",
         "date": "2022-10-23"
       }
     ]

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-23 19:41:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-23 20:18:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -7,5 +7,6 @@
 
 
 
+- [2022-10-23-同事使用-MasterGo-做了十几个小时的工作全部丢失](https://www.v2ex.com/t/889227) 
 - [2022-10-23-Eglot-has-landed-on-master](https://www.v2ex.com/t/889184) 
 - [2022-10-23-基于AI算法的数据库异常监测系统的设计与实现-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15390&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F09%2F01%2Fdatabase-monitoring-based-on-ai.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

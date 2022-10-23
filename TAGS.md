@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-10-23 13:22:33。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-23 14:02:37。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -56,6 +56,8 @@
 
 
 
+- [【V2EX】4-年全栈开发经验（-Java-+-Vue-+-运维），想找份在日-IT-工作](https://www.v2ex.com/t/889192)
+- [【V2EX】Vue3-Vite-插件建议使用这几款吗？](https://www.v2ex.com/t/889190)
 - [......【查看更多】......](./details/tags/vue.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -89,7 +91,6 @@
 
 
 - [【武汉肺炎防疫全纪录(财新网)】韩国拟升级首尔疫情管控-法国专业机构建议强制接种疫苗｜大流行手记（7月10日）](https://m.caixin.com/m/2021-07-11/101738786.html)
-- [【V2EX】有对-jenkins-比较了解的吗，他概念中的-Slave-节点（Agent）的定位是像-Gitlab-CI-Runner-一样只是构建，返回结果的资源节点，还是最终交付、部署的生产节点？](https://www.v2ex.com/t/889140)
 - [......【查看更多】......](./details/tags/pack-build.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

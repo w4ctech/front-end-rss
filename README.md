@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-23 07:47:33，:rocket: 更新条数: +2003， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-23 08:20:02，:rocket: 更新条数: +2002， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-10-23-写了个归档-github-stars-的小工具，也可以用来创建自己的-awesome](https://www.v2ex.com/t/889122) ![](assets/new.png)  
+- [2022-10-23-VoNR-视频通话卡顿问题及猜测](https://www.v2ex.com/t/889121) ![](assets/new.png)  
+- [2022-10-23-Chrome-右键翻译，怎么-fix？](https://www.v2ex.com/t/889119) ![](assets/new.png)  
+- [2022-10-23-上架-appstrore-应用请教支付的一个问题](https://www.v2ex.com/t/889118) ![](assets/new.png)  
+- [2022-10-23-问下大家有什么好的方法记忆事情发生的时间、地点？](https://www.v2ex.com/t/889117) ![](assets/new.png)  
+- [2022-10-23-debian-没有内置-ufw,-怎么解决?](https://www.v2ex.com/t/889116) ![](assets/new.png)  
 - [2022-10-23-运维老哥，自用-Linux-系统下的-/opt-一般给什么权限？-777?](https://www.v2ex.com/t/889113) ![](assets/new.png)  
 - [2022-10-23-买的良心云服务器很卡](https://www.v2ex.com/t/889112) ![](assets/new.png)  
 - [2022-10-23-Surface-Pro-8-有推荐的扩展坞吗,可能得带电源的?](https://www.v2ex.com/t/889111) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-10-23-双链笔记-和-mediawiki-链接-有本质区别么？](https://www.v2ex.com/t/889099) ![](assets/new.png)  
 - [2022-10-23-主题页面的主题标题中的英文单词会被换行打断而不带连字符](https://www.v2ex.com/t/889098) ![](assets/new.png)  
 - [2022-10-23-未来-10-年能生孩子吗](https://www.v2ex.com/t/889097) ![](assets/new.png)  
-- [2022-10-23-2022-年的-22-次半马](https://www.v2ex.com/t/889096) ![](assets/new.png)  
-- [2022-10-23-各位大佬,-怎样才能找到工作啊?](https://www.v2ex.com/t/889094) ![](assets/new.png)  
-- [2022-10-23-怎么与喜欢不懂装懂的人相处，忍住不去吐槽？](https://www.v2ex.com/t/889093) ![](assets/new.png)  
-- [2022-10-23-腾讯云按流量-1-元/G-买划算还是买固定带宽划算？](https://www.v2ex.com/t/889091) ![](assets/new.png)  
-- [2022-10-23-Windows-11-右下角日历（非任务栏）如何显示时间？](https://www.v2ex.com/t/889090) ![](assets/new.png)  
-- [2022-10-23-1024-都准备买啥](https://www.v2ex.com/t/889089) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

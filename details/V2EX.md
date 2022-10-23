@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-10-23 23:04:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-23 23:19:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-10-23-分享-Youtube-上一些适合-Coding-以及工作适合听的-play-list](https://www.v2ex.com/t/889230) 
 - [2022-10-23-如何润到新加坡？](https://www.v2ex.com/t/889228) 
 - [2022-10-23-同事使用-MasterGo-做了十几个小时的工作全部丢失](https://www.v2ex.com/t/889227) 
 - [2022-10-23-创业团队又又找朋友啦，本次招聘-传播运营、项目策划、数据产品经理、数据应用经理、视觉设计，详见正文](https://www.v2ex.com/t/889226) 

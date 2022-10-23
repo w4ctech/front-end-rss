@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-10-23 17:04:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-23 17:53:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-10-23-translate-shell-不能用，-404-错误了](https://www.v2ex.com/t/889222) 
 - [2022-10-23-报~-新的-mbp-和-mac-pro-将于数月内发布（rumor）](https://www.v2ex.com/t/889221) 
 - [2022-10-23-中科大测速被玩坏了？](https://www.v2ex.com/t/889220) 
 - [2022-10-23-人结婚确实没什么意思。。。。。-（纯属发泄，不感兴趣的-v-友勿喷）](https://www.v2ex.com/t/889218) 
@@ -43,4 +44,3 @@
 - [2022-10-23-pocket-ios-阅读进度丢失大家有碰到过吗？](https://www.v2ex.com/t/889175) 
 - [2022-10-23-Stack-Overflow-宣布推出离线版本](https://www.v2ex.com/t/889174) 
 - [2022-10-23-请问一下，有没有什么办法批量转存别人的电报频道到自己自己创建的群组或频道？](https://www.v2ex.com/t/889173) 
-- [2022-10-23-如何实现-golang-发送文件-PHP-接收文件](https://www.v2ex.com/t/889172) 

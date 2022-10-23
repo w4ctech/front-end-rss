@@ -9953,6 +9953,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "translate-shell 不能用， 404 错误了",
+        "link": "https://www.v2ex.com/t/889222",
+        "date": "2022-10-23"
+      },
+      {
         "title": "报~ 新的 mbp 和 mac pro 将于数月内发布（rumor）",
         "link": "https://www.v2ex.com/t/889221",
         "date": "2022-10-23"
@@ -10140,11 +10145,6 @@
       {
         "title": "请问一下，有没有什么办法批量转存别人的电报频道到自己自己创建的群组或频道？",
         "link": "https://www.v2ex.com/t/889173",
-        "date": "2022-10-23"
-      },
-      {
-        "title": "如何实现 golang 发送文件 PHP 接收文件",
-        "link": "https://www.v2ex.com/t/889172",
         "date": "2022-10-23"
       }
     ]

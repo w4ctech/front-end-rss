@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-23 17:04:02，:rocket: 更新条数: +2005， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-23 17:53:32，:rocket: 更新条数: +2005， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-10-23-translate-shell-不能用，-404-错误了](https://www.v2ex.com/t/889222) ![](assets/new.png)  
 - [2022-10-23-报~-新的-mbp-和-mac-pro-将于数月内发布（rumor）](https://www.v2ex.com/t/889221) ![](assets/new.png)  
 - [2022-10-23-中科大测速被玩坏了？](https://www.v2ex.com/t/889220) ![](assets/new.png)  
 - [2022-10-23-人结婚确实没什么意思。。。。。-（纯属发泄，不感兴趣的-v-友勿喷）](https://www.v2ex.com/t/889218) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-10-23-借钱给高中同学，有什么需要注意的吗](https://www.v2ex.com/t/889202) ![](assets/new.png)  
 - [2022-10-23-请教一下大神们关于-headscale-组网的问题](https://www.v2ex.com/t/889201) ![](assets/new.png)  
 - [2022-10-23-微软输入法，有什么办法避免-KeePass-自动输入时触发中文输入法？](https://www.v2ex.com/t/889200) ![](assets/new.png)  
-- [2022-10-23-多台-ext4-设备，从外部拷贝相同的文件，导出-RAW-数据发现不一样。](https://www.v2ex.com/t/889197) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-23 07:25:57，:rocket: 更新条数: +2005， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-23 07:47:33，:rocket: 更新条数: +2003， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-10-23-运维老哥，自用-Linux-系统下的-/opt-一般给什么权限？-777?](https://www.v2ex.com/t/889113) ![](assets/new.png)  
 - [2022-10-23-买的良心云服务器很卡](https://www.v2ex.com/t/889112) ![](assets/new.png)  
 - [2022-10-23-Surface-Pro-8-有推荐的扩展坞吗,可能得带电源的?](https://www.v2ex.com/t/889111) ![](assets/new.png)  
 - [2022-10-23-请教一下-西安-现在（2022-年-10-月）-社招-后端--Java--招工-的情况](https://www.v2ex.com/t/889109) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-10-23-腾讯云按流量-1-元/G-买划算还是买固定带宽划算？](https://www.v2ex.com/t/889091) ![](assets/new.png)  
 - [2022-10-23-Windows-11-右下角日历（非任务栏）如何显示时间？](https://www.v2ex.com/t/889090) ![](assets/new.png)  
 - [2022-10-23-1024-都准备买啥](https://www.v2ex.com/t/889089) ![](assets/new.png)  
-- [2022-10-23-软考高级系统架构师有考的吗？坐标杭州](https://www.v2ex.com/t/889088) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

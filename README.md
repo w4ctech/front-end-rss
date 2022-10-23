@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-23 14:48:43，:rocket: 更新条数: +2002， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-23 15:16:43，:rocket: 更新条数: +2002， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-10-23-问个喝水的技术性问题](https://www.v2ex.com/t/889209) ![](assets/new.png)  
+- [2022-10-23-关于给普通本科大二学生的建议](https://www.v2ex.com/t/889208) ![](assets/new.png)  
+- [2022-10-23-读研应该选择图像检索和视频编码哪个呢?-前景咋样呢？](https://www.v2ex.com/t/889207) ![](assets/new.png)  
+- [2022-10-23-现在-m1-mac-mini-唤醒外接显示器还会很慢吗？](https://www.v2ex.com/t/889205) ![](assets/new.png)  
 - [2022-10-23-GOOGLE-400-错误-怎么解决？](https://www.v2ex.com/t/889203) ![](assets/new.png)  
 - [2022-10-23-借钱给高中同学，有什么需要注意的吗](https://www.v2ex.com/t/889202) ![](assets/new.png)  
 - [2022-10-23-请教一下大神们关于-headscale-组网的问题](https://www.v2ex.com/t/889201) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-10-23-m1-macbook-pro-连接-2k-屏，如何开启-HIDPI-并开启高刷？](https://www.v2ex.com/t/889187) ![](assets/new.png)  
 - [2022-10-23-2021-款-m1-MacbookPro14，外接-4k-显示器的话，设置里可选-60-帧就可以实际达到-60-帧吗？](https://www.v2ex.com/t/889186) ![](assets/new.png)  
 - [2022-10-23-idea-直接进入接口真实实现方法快捷键？](https://www.v2ex.com/t/889185) ![](assets/new.png)  
-- [2022-10-23-Eglot-has-landed-on-master](https://www.v2ex.com/t/889184) ![](assets/new.png)  
-- [2022-10-23-plex-或-infuse-字幕激发-HDR-求解](https://www.v2ex.com/t/889183) ![](assets/new.png)  
-- [2022-10-23-时忆-Minecraft-正版公益服-插件很少-不换周末](https://www.v2ex.com/t/889182) ![](assets/new.png)  
-- [2022-10-23-请问，多肉养植，百科知识，有哪些比较全的网站能学习？](https://www.v2ex.com/t/889179) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

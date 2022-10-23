@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-23 11:14:37，:rocket: 更新条数: +2005， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-23 11:42:43，:rocket: 更新条数: +2003， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,13 +491,18 @@
 </summary>
 
 
+- [2022-10-23-小白求问-openwrt-挂载移动硬盘后中文显示问题](https://www.v2ex.com/t/889168) ![](assets/new.png)  
+- [2022-10-23-有人出一个最新的-N2N-的打洞教材吗?-带自建-supernode-的](https://www.v2ex.com/t/889167) ![](assets/new.png)  
+- [2022-10-23-服务器数据备份周期调查](https://www.v2ex.com/t/889164) ![](assets/new.png)  
+- [2022-10-23-写了一个无服务器的简单记账-PWA，支持手动同步不同设备的记录---日计](https://www.v2ex.com/t/889163) ![](assets/new.png)  
+- [2022-10-23-你们的-14-快充发热吗](https://www.v2ex.com/t/889161) ![](assets/new.png)  
+- [2022-10-23-Stack-Overflow-宣布推出离线版本，没网也能查代码错误了](https://www.v2ex.com/t/889160) ![](assets/new.png)  
 - [2022-10-23-新手请教一个问题，重新拨号后速度正常，-10-分钟左右后就被限制在-10MB/s-了](https://www.v2ex.com/t/889159) ![](assets/new.png)  
 - [2022-10-23-有什么工具可以批量检测-VtwoRAY-有效性？](https://www.v2ex.com/t/889157) ![](assets/new.png)  
 - [2022-10-23-Raycast-有没有返回-root-search-的快捷键？](https://www.v2ex.com/t/889156) ![](assets/new.png)  
 - [2022-10-23-当时京东买的，自己加的内存和机械硬盘，现在基本用不到了，想出掉！一直是插电用，没摔过，使用过程中没太在意，所以机身屏幕触摸板都免不了有划痕，具体看咸鱼...](https://www.v2ex.com/t/889155) ![](assets/new.png)  
 - [2022-10-23-手腕受不了鼠标了，入个触摸板是否可缓解](https://www.v2ex.com/t/889154) ![](assets/new.png)  
 - [2022-10-23-双屏环境下如何让「新应用」和「启动台」的打开位置更智能些？](https://www.v2ex.com/t/889153) ![](assets/new.png)  
-- [2022-10-23-你们那里开始白名单了吗？](https://www.v2ex.com/t/889152) ![](assets/new.png)  
 - [2022-10-23-理性讨论国内有没有工作时间朝九晚五，待遇还不错的工作类型](https://www.v2ex.com/t/889151) ![](assets/new.png)  
 - [2022-10-23-这个-App-对灵动岛的应用还蛮巧妙的，实时显示-2FA-的验证码](https://www.v2ex.com/t/889150) ![](assets/new.png)  
 - [2022-10-23-想买-Google-Pixel-4-XL-64GB,-求打醒](https://www.v2ex.com/t/889149) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-10-23-各大厂商云服务器的-WebShell-有速度限制吗？](https://www.v2ex.com/t/889146) ![](assets/new.png)  
 - [2022-10-23-有哪些开源的-im?](https://www.v2ex.com/t/889145) ![](assets/new.png)  
 - [2022-10-23-冰箱制冷结束导致显示器黑屏求助.](https://www.v2ex.com/t/889144) ![](assets/new.png)  
-- [2022-10-23-淘宝现在买不到-Google-兑换码了吗？](https://www.v2ex.com/t/889142) ![](assets/new.png)  
-- [2022-10-23-安装了-easyconnect-的电脑能做代理吗？](https://www.v2ex.com/t/889141) ![](assets/new.png)  
-- [2022-10-23-有对-jenkins-比较了解的吗，他概念中的-Slave-节点（Agent）的定位是像-Gitlab-CI-Runner-一样只是构建，返回结果的资源节点，还是最终交付、部署的生产节点？](https://www.v2ex.com/t/889140) ![](assets/new.png)  
-- [2022-10-23-Apple-官网有翻修版的-mac-studio-ultra-顶配版出售，-单台优惠-5K~6K](https://www.v2ex.com/t/889137) ![](assets/new.png)  
-- [2022-10-23-显卡空负载，仍占用-1~1.5G-的显存?](https://www.v2ex.com/t/889135) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

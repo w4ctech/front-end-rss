@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-23 15:16:43，:rocket: 更新条数: +2002， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-23 15:49:35，:rocket: 更新条数: +2005， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,13 @@
 </summary>
 
 
+- [2022-10-23-来美帝十年了，有什么想问的可以来聊聊](https://www.v2ex.com/t/889216) ![](assets/new.png)  
+- [2022-10-23-把万兆端口的数据镜像到千兆端口，在流量不大的情况下会丢包吗？](https://www.v2ex.com/t/889215) ![](assets/new.png)  
+- [2022-10-23-Google-相册上传重复的照片咋办？](https://www.v2ex.com/t/889214) ![](assets/new.png)  
+- [2022-10-23-深圳联通线路最近小爱音箱无法正常工作？](https://www.v2ex.com/t/889213) ![](assets/new.png)  
+- [2022-10-23-m2-iPad-Pro-内存](https://www.v2ex.com/t/889212) ![](assets/new.png)  
+- [2022-10-23-远程全职或兼职-美国-web3-创业公司招聘-PHP-程序员](https://www.v2ex.com/t/889211) ![](assets/new.png)  
+- [2022-10-23-求推荐好用的触摸板掌托](https://www.v2ex.com/t/889210) ![](assets/new.png)  
 - [2022-10-23-问个喝水的技术性问题](https://www.v2ex.com/t/889209) ![](assets/new.png)  
 - [2022-10-23-关于给普通本科大二学生的建议](https://www.v2ex.com/t/889208) ![](assets/new.png)  
 - [2022-10-23-读研应该选择图像检索和视频编码哪个呢?-前景咋样呢？](https://www.v2ex.com/t/889207) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-10-23-安卓有自动清理通知的功能么](https://www.v2ex.com/t/889195) ![](assets/new.png)  
 - [2022-10-23-微信喜提三天](https://www.v2ex.com/t/889194) ![](assets/new.png)  
 - [2022-10-23-iperf3-在不同平台直接测试的差距...](https://www.v2ex.com/t/889193) ![](assets/new.png)  
-- [2022-10-23-4-年全栈开发经验（-Java-+-Vue-+-运维），想找份在日-IT-工作](https://www.v2ex.com/t/889192) ![](assets/new.png)  
-- [2022-10-23-iMessage-聊天为什么会出现不同的颜色呢？有人遇到过吗？](https://www.v2ex.com/t/889191) ![](assets/new.png)  
-- [2022-10-23-Vue3-Vite-插件建议使用这几款吗？](https://www.v2ex.com/t/889190) ![](assets/new.png)  
-- [2022-10-23-微信-Windows-版审核-pdf-文件](https://www.v2ex.com/t/889189) ![](assets/new.png)  
-- [2022-10-23-m1-macbook-pro-连接-2k-屏，如何开启-HIDPI-并开启高刷？](https://www.v2ex.com/t/889187) ![](assets/new.png)  
-- [2022-10-23-2021-款-m1-MacbookPro14，外接-4k-显示器的话，设置里可选-60-帧就可以实际达到-60-帧吗？](https://www.v2ex.com/t/889186) ![](assets/new.png)  
-- [2022-10-23-idea-直接进入接口真实实现方法快捷键？](https://www.v2ex.com/t/889185) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

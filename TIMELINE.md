@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-23 10:16:50。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-10-23 10:49:18。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -72,6 +72,11 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-10-16-2022年新出了哪些form表单新特性？](https://www.zhangxinxu.com/wordpress/2022/10/2022-new-form-property/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-12-CSS-::file-selector-button伪元素简介](https://www.zhangxinxu.com/wordpress/2022/10/css-file-selector-button/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-12-更符合书写习惯的CSS媒体查询Range语法](https://www.zhangxinxu.com/wordpress/2022/10/css-media-range-syntax/) 
+- [【V2EX】2022-10-23-有什么工具可以批量检测-VtwoRAY-有效性？](https://www.v2ex.com/t/889157) 
+- [【V2EX】2022-10-23-Raycast-有没有返回-root-search-的快捷键？](https://www.v2ex.com/t/889156) 
+- [【V2EX】2022-10-23-当时京东买的，自己加的内存和机械硬盘，现在基本用不到了，想出掉！一直是插电用，没摔过，使用过程中没太在意，所以机身屏幕触摸板都免不了有划痕，具体看咸鱼...](https://www.v2ex.com/t/889155) 
+- [【V2EX】2022-10-23-手腕受不了鼠标了，入个触摸板是否可缓解](https://www.v2ex.com/t/889154) 
+- [【V2EX】2022-10-23-双屏环境下如何让「新应用」和「启动台」的打开位置更智能些？](https://www.v2ex.com/t/889153) 
 - [【V2EX】2022-10-23-你们那里开始白名单了吗？](https://www.v2ex.com/t/889152) 
 - [【V2EX】2022-10-23-理性讨论国内有没有工作时间朝九晚五，待遇还不错的工作类型](https://www.v2ex.com/t/889151) 
 - [【V2EX】2022-10-23-这个-App-对灵动岛的应用还蛮巧妙的，实时显示-2FA-的验证码](https://www.v2ex.com/t/889150) 
@@ -107,10 +112,6 @@
 - [【V2EX】2022-10-23-Surface-Pro-8-有推荐的扩展坞吗,可能得带电源的?](https://www.v2ex.com/t/889111) 
 - [【V2EX】2022-10-23-请教一下-西安-现在（2022-年-10-月）-社招-后端--Java--招工-的情况](https://www.v2ex.com/t/889109) 
 - [【V2EX】2022-10-23-如何让光标永远环绕一个-背景色圆圈？](https://www.v2ex.com/t/889108) 
-- [【V2EX】2022-10-23-3D-建模渲染机装机配置，太久没接触-PC-了，请大佬们指点迷津](https://www.v2ex.com/t/889106) 
-- [【V2EX】2022-10-23-go-中，进程退出如何保障异步协程的完整退出。](https://www.v2ex.com/t/889105) 
-- [【V2EX】2022-10-23-magsafe-外接电池真的很爽](https://www.v2ex.com/t/889104) 
-- [【V2EX】2022-10-23-mac-外接显示器-窗口不能铺满](https://www.v2ex.com/t/889103) 
 - [【技术头条】2022-10-23-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-23-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-23-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

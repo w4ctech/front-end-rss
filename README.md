@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-23 10:16:50，:rocket: 更新条数: +2005， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-23 10:49:18，:rocket: 更新条数: +2006， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-10-23-有什么工具可以批量检测-VtwoRAY-有效性？](https://www.v2ex.com/t/889157) ![](assets/new.png)  
+- [2022-10-23-Raycast-有没有返回-root-search-的快捷键？](https://www.v2ex.com/t/889156) ![](assets/new.png)  
+- [2022-10-23-当时京东买的，自己加的内存和机械硬盘，现在基本用不到了，想出掉！一直是插电用，没摔过，使用过程中没太在意，所以机身屏幕触摸板都免不了有划痕，具体看咸鱼...](https://www.v2ex.com/t/889155) ![](assets/new.png)  
+- [2022-10-23-手腕受不了鼠标了，入个触摸板是否可缓解](https://www.v2ex.com/t/889154) ![](assets/new.png)  
+- [2022-10-23-双屏环境下如何让「新应用」和「启动台」的打开位置更智能些？](https://www.v2ex.com/t/889153) ![](assets/new.png)  
 - [2022-10-23-你们那里开始白名单了吗？](https://www.v2ex.com/t/889152) ![](assets/new.png)  
 - [2022-10-23-理性讨论国内有没有工作时间朝九晚五，待遇还不错的工作类型](https://www.v2ex.com/t/889151) ![](assets/new.png)  
 - [2022-10-23-这个-App-对灵动岛的应用还蛮巧妙的，实时显示-2FA-的验证码](https://www.v2ex.com/t/889150) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-10-23-Apple-官网有翻修版的-mac-studio-ultra-顶配版出售，-单台优惠-5K~6K](https://www.v2ex.com/t/889137) ![](assets/new.png)  
 - [2022-10-23-显卡空负载，仍占用-1~1.5G-的显存?](https://www.v2ex.com/t/889135) ![](assets/new.png)  
 - [2022-10-23-怀念之前-1024-买一送一的活动](https://www.v2ex.com/t/889134) ![](assets/new.png)  
-- [2022-10-23-Windows-11-个性化——聚焦壁纸来回就几张图片？](https://www.v2ex.com/t/889132) ![](assets/new.png)  
-- [2022-10-23-膝盖笔记本电脑支架](https://www.v2ex.com/t/889131) ![](assets/new.png)  
-- [2022-10-23-跟老婆小吵了一架，感觉很对不起](https://www.v2ex.com/t/889129) ![](assets/new.png)  
-- [2022-10-23-Gnome-Desktop-自带的截屏工具真好用](https://www.v2ex.com/t/889128) ![](assets/new.png)  
-- [2022-10-23-刚夸完拼多多百亿补贴，转身就打我脸。](https://www.v2ex.com/t/889127) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

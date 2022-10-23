@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-23 08:52:26，:rocket: 更新条数: +2004， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-23 09:18:27，:rocket: 更新条数: +2005， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-10-23-显卡空负载，仍占用-1~1.5G-的显存?](https://www.v2ex.com/t/889135) ![](assets/new.png)  
+- [2022-10-23-怀念之前-1024-买一送一的活动](https://www.v2ex.com/t/889134) ![](assets/new.png)  
+- [2022-10-23-Windows-11-个性化——聚焦壁纸来回就几张图片？](https://www.v2ex.com/t/889132) ![](assets/new.png)  
+- [2022-10-23-膝盖笔记本电脑支架](https://www.v2ex.com/t/889131) ![](assets/new.png)  
 - [2022-10-23-跟老婆小吵了一架，感觉很对不起](https://www.v2ex.com/t/889129) ![](assets/new.png)  
 - [2022-10-23-Gnome-Desktop-自带的截屏工具真好用](https://www.v2ex.com/t/889128) ![](assets/new.png)  
 - [2022-10-23-刚夸完拼多多百亿补贴，转身就打我脸。](https://www.v2ex.com/t/889127) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-10-23-运维老哥，自用-Linux-系统下的-/opt-一般给什么权限？-777?](https://www.v2ex.com/t/889113) ![](assets/new.png)  
 - [2022-10-23-买的良心云服务器很卡](https://www.v2ex.com/t/889112) ![](assets/new.png)  
 - [2022-10-23-Surface-Pro-8-有推荐的扩展坞吗,可能得带电源的?](https://www.v2ex.com/t/889111) ![](assets/new.png)  
-- [2022-10-23-请教一下-西安-现在（2022-年-10-月）-社招-后端--Java--招工-的情况](https://www.v2ex.com/t/889109) ![](assets/new.png)  
-- [2022-10-23-如何让光标永远环绕一个-背景色圆圈？](https://www.v2ex.com/t/889108) ![](assets/new.png)  
-- [2022-10-23-3D-建模渲染机装机配置，太久没接触-PC-了，请大佬们指点迷津](https://www.v2ex.com/t/889106) ![](assets/new.png)  
-- [2022-10-23-go-中，进程退出如何保障异步协程的完整退出。](https://www.v2ex.com/t/889105) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

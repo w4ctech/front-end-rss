@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-23 08:52:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-23 09:18:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1915,6 +1915,10 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-10-23-显卡空负载，仍占用-1~1.5G-的显存?](https://www.v2ex.com/t/889135) 
+- [2022-10-23-怀念之前-1024-买一送一的活动](https://www.v2ex.com/t/889134) 
+- [2022-10-23-Windows-11-个性化——聚焦壁纸来回就几张图片？](https://www.v2ex.com/t/889132) 
+- [2022-10-23-膝盖笔记本电脑支架](https://www.v2ex.com/t/889131) 
 - [2022-10-23-跟老婆小吵了一架，感觉很对不起](https://www.v2ex.com/t/889129) 
 - [2022-10-23-Gnome-Desktop-自带的截屏工具真好用](https://www.v2ex.com/t/889128) 
 - [2022-10-23-刚夸完拼多多百亿补贴，转身就打我脸。](https://www.v2ex.com/t/889127) 
@@ -1944,8 +1948,6 @@
 - [2022-10-23-1024-都准备买啥](https://www.v2ex.com/t/889089) 
 - [2022-10-23-软考高级系统架构师有考的吗？坐标杭州](https://www.v2ex.com/t/889088) 
 - [2022-10-23-厦门-准备跑路了，有没有可以介绍的](https://www.v2ex.com/t/889087) 
-- [2022-10-23-jekyll-的-blog-页面，想在-excerpt-里带原文格式，怎么修改-theme-呢？](https://www.v2ex.com/t/889085) 
-- [2022-10-23-寻找一位熟悉前端开发的小伙伴，付费请教或者说是帮忙修改一个开源项目](https://www.v2ex.com/t/889084) 
 - [2022-10-23-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-23-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-23-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-24 16:26:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-24 17:10:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1915,8 +1915,8 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-10-24-求问前端多媒体编辑器是怎么实现的](https://www.v2ex.com/t/889547) 
 - [2022-10-24-无聊测测打字速度](https://www.v2ex.com/t/889546) 
-- [2022-10-24-中概互联网又是沉重的一刀,在这个-1024-节日里,大家心里还有波澜吗？](https://www.v2ex.com/t/889544) 
 - [2022-10-24-Citus-的查询效率相比单机而言提升了多少](https://www.v2ex.com/t/889541) 
 - [2022-10-24-我突然发现今年的-1024-程序员节](https://www.v2ex.com/t/889538) 
 - [2022-10-24-有人在-Apple-Store-给过保-Mac-清灰么](https://www.v2ex.com/t/889537) 
@@ -1939,7 +1939,6 @@
 - [2022-10-24-V-友们推荐的剃须泡使用反馈和一个疑问](https://www.v2ex.com/t/889508) 
 - [2022-10-24-为什么-VMware-默认是-2vCPU,-1vCore-per-CPU-而不是-1vCPU,-2vCore？有什么讲究吗？](https://www.v2ex.com/t/889504) 
 - [2022-10-24-Debugging-C-With-Cosmopolitan-Libc](https://www.v2ex.com/t/889501) 
-- [2022-10-24-可远程数据库-云原生数据库厂招募内核开发啦，入职即享-20-天年假哦～](https://www.v2ex.com/t/889497) 
 - [2022-10-24-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-24-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-24-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

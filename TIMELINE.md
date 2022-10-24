@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-24 22:17:08。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-10-24 22:49:32。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -72,6 +72,7 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-10-16-2022年新出了哪些form表单新特性？](https://www.zhangxinxu.com/wordpress/2022/10/2022-new-form-property/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-12-CSS-::file-selector-button伪元素简介](https://www.zhangxinxu.com/wordpress/2022/10/css-file-selector-button/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-12-更符合书写习惯的CSS媒体查询Range语法](https://www.zhangxinxu.com/wordpress/2022/10/css-media-range-syntax/) 
+- [【V2EX】2022-10-24-Mac-Ram-不足](https://www.v2ex.com/t/889553) 
 - [【V2EX】2022-10-24-洗鼻器真的有用么](https://www.v2ex.com/t/889552) 
 - [【V2EX】2022-10-24-C++的指针的-const-&导致了优先队列函数调用出现了错误，不理解](https://www.v2ex.com/t/889551) 
 - [【V2EX】2022-10-24-美区-Apple-One/Music/TV+-涨价](https://www.v2ex.com/t/889550) 
@@ -107,7 +108,6 @@
 - [【V2EX】2022-10-24-今天发现-chrome-的一个扩展-Font-Changer-Plus-会在每个网页中插入广告](https://www.v2ex.com/t/889507) 
 - [【V2EX】2022-10-24-Web3北京/上海-美企元宇宙项目招聘各类技术岗位](https://www.v2ex.com/t/889506) 
 - [【V2EX】2022-10-24-为什么-VMware-默认是-2vCPU,-1vCore-per-CPU-而不是-1vCPU,-2vCore？有什么讲究吗？](https://www.v2ex.com/t/889504) 
-- [【V2EX】2022-10-24-vim-有时候按键-进入了不明状态，有什么万能按键退出？](https://www.v2ex.com/t/889503) 
 - [【技术头条】2022-10-24-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-24-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-24-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

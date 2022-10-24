@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-24 23:18:46，:rocket: 更新条数: +2002， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-24 23:53:06，:rocket: 更新条数: +2002， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-10-24-2022-年从国内拿到悉尼-220K-AUD-offer-经验分享（六）](https://www.v2ex.com/t/889555) ![](assets/new.png)  
 - [2022-10-24-Mac-Ram-不足](https://www.v2ex.com/t/889553) ![](assets/new.png)  
 - [2022-10-24-洗鼻器真的有用么](https://www.v2ex.com/t/889552) ![](assets/new.png)  
 - [2022-10-24-C++的指针的-const-&导致了优先队列函数调用出现了错误，不理解](https://www.v2ex.com/t/889551) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-10-24-1024-电脑主板烧了](https://www.v2ex.com/t/889530) ![](assets/new.png)  
 - [2022-10-24-cnBeta-打不开了](https://www.v2ex.com/t/889529) ![](assets/new.png)  
 - [2022-10-24-服务器能-ping-通，不能-ssh，怎么判断问题？](https://www.v2ex.com/t/889528) ![](assets/new.png)  
-- [2022-10-24-macOS-如果直接选用照片-app-中的照片呢。](https://www.v2ex.com/t/889527) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

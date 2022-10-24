@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-24 04:29:15，:rocket: 更新条数: +2003， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-24 06:02:45，:rocket: 更新条数: +2004， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,26 +491,26 @@
 </summary>
 
 
-- [2022-10-24-SegmentFault-思否正式开源问答社区软件-Answer](https://www.v2ex.com/t/889331) ![](assets/new.png)  
-- [2022-10-24-大妈之家这样无漫画作者授权提供漫画翻译还挂广告的网站真的不侵权吗？看备案号之类都全了，很正规的样子，但我记得字幕组制作外挂字幕都算侵权](https://www.v2ex.com/t/889330) ![](assets/new.png)  
-- [2022-10-24-有在深圳自己交社保的吗？最低多少钱每个月](https://www.v2ex.com/t/889329) ![](assets/new.png)  
-- [2022-10-24-为什么我的-iCloud-总是这个死样子](https://www.v2ex.com/t/889328) ![](assets/new.png)  
-- [2022-10-24-阿里云国际站腾讯云国际站可提供实名账户，代充值可付-USDT。量大优惠](https://www.v2ex.com/t/889327) ![](assets/new.png)  
-- [2022-10-24-Apple-产品的什么功能最吸引你？](https://www.v2ex.com/t/889325) ![](assets/new.png)  
-- [2022-10-24-程序员主页推荐](https://www.v2ex.com/t/889324) ![](assets/new.png)  
-- [2022-10-24-Micro-Focus-内推中高级-Front-Engineer、-Java-、Android、QA、DevOps、Test-Automation-Engineer-欢迎各位大佬联系（转正成功，送手机）](https://www.v2ex.com/t/889322) ![](assets/new.png)  
-- [2022-10-24-Mouse-without-Borders-有办法超过-4-台电脑同时用吗](https://www.v2ex.com/t/889321) ![](assets/new.png)  
-- [2022-10-24-中概跌的这么狠，后面对互联网行业有哪些影响？](https://www.v2ex.com/t/889320) ![](assets/new.png)  
-- [2022-10-24-FFmpeg-读取文件内容-AVPacket](https://www.v2ex.com/t/889319) ![](assets/new.png)  
-- [2022-10-24-求助，如何配置-hyperv-下的-win10-为代理服务器？](https://www.v2ex.com/t/889317) ![](assets/new.png)  
-- [2022-10-24-上海-米哈游-miHoYo-2022.10.24-最新招聘信息-程序专场来啦！（社招、秋招可内推哦）](https://www.v2ex.com/t/889315) ![](assets/new.png)  
-- [2022-10-24-浙江电信宽带史低-1000M-1111-元一年-+50-调测费](https://www.v2ex.com/t/889314) ![](assets/new.png)  
-- [2022-10-24-有哪些口碑比较好的测试培训机构](https://www.v2ex.com/t/889312) ![](assets/new.png)  
-- [2022-10-24-双-11-快到了，求推荐-mac-mini-type-c-扩展坞](https://www.v2ex.com/t/889311) ![](assets/new.png)  
-- [2022-10-24-问下各位大佬，-Go-里面说-‘一个-float32-类型的浮点数可以提供大约-6-个十进制数的精度，而-float64-则可以提供约-15-个十进制数的精度’](https://www.v2ex.com/t/889310) ![](assets/new.png)  
-- [2022-10-24-兄弟们，-Apple-store-预约了线下取货可以修改取货时间吗？](https://www.v2ex.com/t/889309) ![](assets/new.png)  
-- [2022-10-24-你们在面试中被问到算法题都是很轻松的回答出来吗？](https://www.v2ex.com/t/889308) ![](assets/new.png)  
-- [2022-10-24-电脑散件二手群](https://www.v2ex.com/t/889306) ![](assets/new.png)  
+- [2022-10-24-2010-年的老游戏，至今已有-22-年了，当时是-Java-和-PHP-来实现的。](https://www.v2ex.com/t/889363) ![](assets/new.png)  
+- [2022-10-24-找-前两天-卖-招行白金体检的老哥](https://www.v2ex.com/t/889362) ![](assets/new.png)  
+- [2022-10-24-使用-Pycharm-你们会卡么](https://www.v2ex.com/t/889361) ![](assets/new.png)  
+- [2022-10-24-迫于低消宽带不用钱，有什么物尽其用的使用方式？](https://www.v2ex.com/t/889360) ![](assets/new.png)  
+- [2022-10-24-请问有懂车险理赔的吗？](https://www.v2ex.com/t/889359) ![](assets/new.png)  
+- [2022-10-24-ac+2-年到期了，竟然还能再续一年](https://www.v2ex.com/t/889358) ![](assets/new.png)  
+- [2022-10-24-股价跌了对公司有什么影响吗，菜鸟问](https://www.v2ex.com/t/889357) ![](assets/new.png)  
+- [2022-10-24-咸鱼上这种卖-apple-双-C-口充电器是真的吗](https://www.v2ex.com/t/889356) ![](assets/new.png)  
+- [2022-10-24-中概互联有没有站岗的朋友](https://www.v2ex.com/t/889355) ![](assets/new.png)  
+- [2022-10-24-远程桌面-老是提示自动退出是什么原因呢](https://www.v2ex.com/t/889354) ![](assets/new.png)  
+- [2022-10-24-作为一家全球化团队的-CTO，我如何管理团队，以及工具快速迭代背后的经验教训](https://www.v2ex.com/t/889352) ![](assets/new.png)  
+- [2022-10-24-关于-headscale-组网的问题](https://www.v2ex.com/t/889351) ![](assets/new.png)  
+- [2022-10-24-校招生职业规划求建议（Android&安全相关）](https://www.v2ex.com/t/889350) ![](assets/new.png)  
+- [2022-10-24-web-后端开发，想转数据库内核开发](https://www.v2ex.com/t/889348) ![](assets/new.png)  
+- [2022-10-24-觉得自己博客质量太低不想更新了，目前-Google-全域名搜索结果总点击超-10-万了，直接删掉整个子域名解析会不会导致整个域名掉-Google-权重，正确的做法是什么](https://www.v2ex.com/t/889345) ![](assets/new.png)  
+- [2022-10-24-Web3-头部外企热招：全栈-Tech-Leader、密码学专家、前端工程师、Golang-工程师、Android-工程师、智能合约工程师](https://www.v2ex.com/t/889343) ![](assets/new.png)  
+- [2022-10-24-14-寸的-M1-Pro-用了不到一年电池健康已经到-89-了](https://www.v2ex.com/t/889342) ![](assets/new.png)  
+- [2022-10-24-麻了麻了，大家能不能分享一下双十一想买的东西，给咱推荐推荐](https://www.v2ex.com/t/889340) ![](assets/new.png)  
+- [2022-10-24-有史以来最恶心人的方式，开屏摇一摇跳转广告](https://www.v2ex.com/t/889339) ![](assets/new.png)  
+- [2022-10-24-不是前端，想问一下本地端口开的页面是如何操作本地文件的？](https://www.v2ex.com/t/889336) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

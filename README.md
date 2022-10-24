@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-24 11:47:09，:rocket: 更新条数: +2009， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-24 12:33:09，:rocket: 更新条数: +2010， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-10-24-在-Windows/-Linux-平台使用-Apple's-OSX-内置的原生词典](https://www.v2ex.com/t/889496) ![](assets/new.png)  
+- [2022-10-24-AppStore-限免&应用推荐](https://www.v2ex.com/t/889495) ![](assets/new.png)  
+- [2022-10-24-为什么-TCP-允许-ACK-值和发送时不一致？](https://www.v2ex.com/t/889494) ![](assets/new.png)  
+- [2022-10-24-iPhone14pro-摄像头近距离失焦](https://www.v2ex.com/t/889493) ![](assets/new.png)  
+- [2022-10-24-京东英睿达旗舰店，-MX500-4T-SATA-SSD，-1999￥送-50-元-E-卡](https://www.v2ex.com/t/889492) ![](assets/new.png)  
+- [2022-10-24-求儿童电动牙刷推荐](https://www.v2ex.com/t/889491) ![](assets/new.png)  
 - [2022-10-24-有在重庆的程序员交流群吗？小弟年后想去重庆看看机会](https://www.v2ex.com/t/889490) ![](assets/new.png)  
 - [2022-10-24-自考本科考虑留学洛杉矶求解答](https://www.v2ex.com/t/889489) ![](assets/new.png)  
 - [2022-10-24-如何反驳“隐私完全不重要，实际上你并没有什么值得别人看的”](https://www.v2ex.com/t/889488) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-10-24-顺义机场附近次卧找室友](https://www.v2ex.com/t/889478) ![](assets/new.png)  
 - [2022-10-24-转租杭州西湖蒋村房子](https://www.v2ex.com/t/889477) ![](assets/new.png)  
 - [2022-10-24-AndroidStudio-导入图片资源报红](https://www.v2ex.com/t/889476) ![](assets/new.png)  
-- [2022-10-24-想问下大家-iOS-app-提交审核后一般都要等多久？](https://www.v2ex.com/t/889475) ![](assets/new.png)  
-- [2022-10-24-NVIDIA-英伟达-上海或者北京-GPU-计算工程师-自动驾驶方向](https://www.v2ex.com/t/889474) ![](assets/new.png)  
-- [2022-10-24-狂欢吧程序员！今天是你的大节日，留下邮箱，给大佬们发福利！](https://www.v2ex.com/t/889472) ![](assets/new.png)  
-- [2022-10-24-服务器转发资源实现跨域是否可行？](https://www.v2ex.com/t/889471) ![](assets/new.png)  
-- [2022-10-24-南京靠谱机会：-FPGA-工程师，薪水：-20-40k，不加班，双休](https://www.v2ex.com/t/889470) ![](assets/new.png)  
-- [2022-10-24-Mac-和-Windows-局域网共享不能双向实现](https://www.v2ex.com/t/889469) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

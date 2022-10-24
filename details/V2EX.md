@@ -1,10 +1,16 @@
-:alarm_clock: 更新时间: 2022-10-24 11:47:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-24 12:33:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-10-24-在-Windows/-Linux-平台使用-Apple's-OSX-内置的原生词典](https://www.v2ex.com/t/889496) 
+- [2022-10-24-AppStore-限免&应用推荐](https://www.v2ex.com/t/889495) 
+- [2022-10-24-为什么-TCP-允许-ACK-值和发送时不一致？](https://www.v2ex.com/t/889494) 
+- [2022-10-24-iPhone14pro-摄像头近距离失焦](https://www.v2ex.com/t/889493) 
+- [2022-10-24-京东英睿达旗舰店，-MX500-4T-SATA-SSD，-1999￥送-50-元-E-卡](https://www.v2ex.com/t/889492) 
+- [2022-10-24-求儿童电动牙刷推荐](https://www.v2ex.com/t/889491) 
 - [2022-10-24-有在重庆的程序员交流群吗？小弟年后想去重庆看看机会](https://www.v2ex.com/t/889490) 
 - [2022-10-24-自考本科考虑留学洛杉矶求解答](https://www.v2ex.com/t/889489) 
 - [2022-10-24-如何反驳“隐私完全不重要，实际上你并没有什么值得别人看的”](https://www.v2ex.com/t/889488) 
@@ -43,8 +49,3 @@
 - [2022-10-24-iPhone-怎么限制-app-跳转到另外一个-app](https://www.v2ex.com/t/889449) 
 - [2022-10-24-荣如德翻译的动物庄园为啥译本序都是孙仲旭写的?](https://www.v2ex.com/t/889448) 
 - [2022-10-24-iCloud-美区账号使用问题](https://www.v2ex.com/t/889447) 
-- [2022-10-24-为什么-VMware-选-Linux-默认是-2vCPU,-1vCore-per-CPU-而不是-1vCPU,-2vCore？有什么讲究吗？](https://www.v2ex.com/t/889446) 
-- [2022-10-24-最近两个月有出国工作的-V-友吗？](https://www.v2ex.com/t/889445) 
-- [2022-10-24-pixijs-＋-webgl-实现城市交通模拟](https://www.v2ex.com/t/889444) 
-- [2022-10-24-数据库新手求问，用于解决树形结构存储的闭包表，为何能快速获取某个节点的祖先节点/父节点/子节点？](https://www.v2ex.com/t/889443) 
-- [2022-10-24-原创歌曲《山水有相逢》由虚拟歌手伊拾七首唱](https://www.v2ex.com/t/889441) 

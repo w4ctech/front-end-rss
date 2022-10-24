@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-10-24 17:10:47。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-24 18:02:59。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -248,7 +248,6 @@
 
 
 - [【V2EX】提问运维同学一般看性能硬件这种监控到底在看什么啊？](https://www.v2ex.com/t/889542)
-- [【V2EX】高性能-mysql-table-数据对比工具](https://www.v2ex.com/t/889498)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

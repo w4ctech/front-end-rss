@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-10-24 10:23:19。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-24 10:59:23。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -270,6 +270,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】腺病毒新冠疫苗引安全忧虑-康希诺称未发现血栓病例](https://m.caixin.com/m/2021-04-14/101691086.html)
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
+- [【V2EX】服务器转发资源实现跨域是否可行？](https://www.v2ex.com/t/889471)
 - [【V2EX】Ubuntu-LTS-总是更新最新版本内核会比出现已知大安全问题再更新更安全吗？](https://www.v2ex.com/t/889460)
 - [......【查看更多】......](./details/tags/browser.md)
 
@@ -287,6 +288,7 @@
 
 
 
+- [【V2EX】NVIDIA-英伟达-上海或者北京-GPU-计算工程师-自动驾驶方向](https://www.v2ex.com/t/889474)
 - [【技术头条】基于AI算法的数据库异常监测系统的设计与实现-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15390&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F09%2F01%2Fdatabase-monitoring-based-on-ai.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
@@ -339,7 +341,6 @@
 
 
 
-- [【V2EX】校招-2023-届,上海-顽岩资产招聘量化研究员-机器学习方向](https://www.v2ex.com/t/889426)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

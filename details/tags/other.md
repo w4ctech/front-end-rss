@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-24 11:22:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-24 11:47:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1915,6 +1915,9 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-10-24-有在重庆的程序员交流群吗？小弟年后想去重庆看看机会](https://www.v2ex.com/t/889490) 
+- [2022-10-24-自考本科考虑留学洛杉矶求解答](https://www.v2ex.com/t/889489) 
+- [2022-10-24-如何反驳“隐私完全不重要，实际上你并没有什么值得别人看的”](https://www.v2ex.com/t/889488) 
 - [2022-10-24-cnbeta-疑似国内备案被取消-停止国内解析](https://www.v2ex.com/t/889487) 
 - [2022-10-24-请教垂直鼠标正确使用方式?](https://www.v2ex.com/t/889486) 
 - [2022-10-24-中国经济会进入大萧条吗？如果会，大概是什么时候？](https://www.v2ex.com/t/889485) 
@@ -1949,7 +1952,6 @@
 - [2022-10-24-最近两个月有出国工作的-V-友吗？](https://www.v2ex.com/t/889445) 
 - [2022-10-24-数据库新手求问，用于解决树形结构存储的闭包表，为何能快速获取某个节点的祖先节点/父节点/子节点？](https://www.v2ex.com/t/889443) 
 - [2022-10-24-原创歌曲《山水有相逢》由虚拟歌手伊拾七首唱](https://www.v2ex.com/t/889441) 
-- [2022-10-24-如何检测远程桌面链接](https://www.v2ex.com/t/889439) 
 - [2022-10-24-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-24-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-24-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

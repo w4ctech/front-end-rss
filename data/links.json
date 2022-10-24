@@ -9953,6 +9953,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "C++的指针的 const &导致了优先队列函数调用出现了错误，不理解",
+        "link": "https://www.v2ex.com/t/889551",
+        "date": "2022-10-24"
+      },
+      {
         "title": "美区 Apple One/Music/TV+ 涨价",
         "link": "https://www.v2ex.com/t/889550",
         "date": "2022-10-24"
@@ -10120,11 +10125,6 @@
       {
         "title": "vim 有时候按键 进入了不明状态，有什么万能按键退出？",
         "link": "https://www.v2ex.com/t/889503",
-        "date": "2022-10-24"
-      },
-      {
-        "title": "Debugging C With Cosmopolitan Libc",
-        "link": "https://www.v2ex.com/t/889501",
         "date": "2022-10-24"
       }
     ]

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-24 15:22:28，:rocket: 更新条数: +2005， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-24 15:54:52，:rocket: 更新条数: +2000， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,11 +491,14 @@
 </summary>
 
 
+- [2022-10-24-中概互联网又是沉重的一刀,在这个-1024-节日里,大家心里还有波澜吗？](https://www.v2ex.com/t/889544) ![](assets/new.png)  
+- [2022-10-24-提问运维同学一般看性能硬件这种监控到底在看什么啊？](https://www.v2ex.com/t/889542) ![](assets/new.png)  
+- [2022-10-24-Citus-的查询效率相比单机而言提升了多少](https://www.v2ex.com/t/889541) ![](assets/new.png)  
+- [2022-10-24-我突然发现今年的-1024-程序员节](https://www.v2ex.com/t/889538) ![](assets/new.png)  
 - [2022-10-24-有人在-Apple-Store-给过保-Mac-清灰么](https://www.v2ex.com/t/889537) ![](assets/new.png)  
 - [2022-10-24-谁说今年-iPad-Pro-外观没变化](https://www.v2ex.com/t/889535) ![](assets/new.png)  
 - [2022-10-24-买一个二手的-AirPods3，手机总是弹出什么-AirPods-在您附近，是需要卖家操作什么吗？](https://www.v2ex.com/t/889533) ![](assets/new.png)  
 - [2022-10-24-被成都电信限制的只有我一个人吗？](https://www.v2ex.com/t/889532) ![](assets/new.png)  
-- [2022-10-24-微信读书突然被禁](https://www.v2ex.com/t/889531) ![](assets/new.png)  
 - [2022-10-24-1024-电脑主板烧了](https://www.v2ex.com/t/889530) ![](assets/new.png)  
 - [2022-10-24-cnBeta-打不开了](https://www.v2ex.com/t/889529) ![](assets/new.png)  
 - [2022-10-24-服务器能-ping-通，不能-ssh，怎么判断问题？](https://www.v2ex.com/t/889528) ![](assets/new.png)  
@@ -506,11 +509,8 @@
 - [2022-10-24-一个-VPS-商家聚合网站，分享一下](https://www.v2ex.com/t/889521) ![](assets/new.png)  
 - [2022-10-24-求助，-imd-疯了一般地弹出下载-Microsoft-Edge-Installer](https://www.v2ex.com/t/889520) ![](assets/new.png)  
 - [2022-10-24-一个-Java-游戏端，需要调试和修修补补把它正常运行，价格会令您非常满意。](https://www.v2ex.com/t/889519) ![](assets/new.png)  
-- [2022-10-24-你们喜欢上班吗？想看看有多少人是喜欢自己工作的](https://www.v2ex.com/t/889518) ![](assets/new.png)  
 - [2022-10-24-Why-are-Rust-executables-so-huge?](https://www.v2ex.com/t/889517) ![](assets/new.png)  
 - [2022-10-24-最近有用-WeChat-HK-聊天图片损坏的朋友吗？](https://www.v2ex.com/t/889516) ![](assets/new.png)  
-- [2022-10-24-问个小白问题](https://www.v2ex.com/t/889513) ![](assets/new.png)  
-- [2022-10-24-租了一台红蜘蛛-X-给屏幕校了一下色](https://www.v2ex.com/t/889511) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

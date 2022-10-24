@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-24 08:03:52，:rocket: 更新条数: +2006， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-24 09:05:16，:rocket: 更新条数: +1998， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,26 +491,26 @@
 </summary>
 
 
-- [2022-10-24-《纳瓦尔宝典》读书笔记分享](https://www.v2ex.com/t/889409) ![](assets/new.png)  
-- [2022-10-24-深圳-宝安区，哪里能办停车月卡](https://www.v2ex.com/t/889408) ![](assets/new.png)  
-- [2022-10-24-快-23-年了-A7m3-还能买吗](https://www.v2ex.com/t/889406) ![](assets/new.png)  
-- [2022-10-24-2022-年了，男生学-C2-驾照-能行吗](https://www.v2ex.com/t/889405) ![](assets/new.png)  
-- [2022-10-24-有家庭车能带带吗？](https://www.v2ex.com/t/889403) ![](assets/new.png)  
-- [2022-10-24-新系统下的-AirPods-断联好严重](https://www.v2ex.com/t/889402) ![](assets/new.png)  
-- [2022-10-24-中兴-30s-有了解的大佬嘛，现在中兴的质量怎么样呀](https://www.v2ex.com/t/889401) ![](assets/new.png)  
-- [2022-10-24-信用卡到底可以干啥？](https://www.v2ex.com/t/889399) ![](assets/new.png)  
-- [2022-10-24-关于主题切换的疑问](https://www.v2ex.com/t/889397) ![](assets/new.png)  
-- [2022-10-24-官网买的-iPhone-14-Pro-今天要到货了，要不要退掉等双-11-优惠？](https://www.v2ex.com/t/889396) ![](assets/new.png)  
-- [2022-10-24-局域网控制网易云播放](https://www.v2ex.com/t/889395) ![](assets/new.png)  
-- [2022-10-24-求推荐家用投影器](https://www.v2ex.com/t/889394) ![](assets/new.png)  
-- [2022-10-24-29-岁大龄零基础转码,想问问前辈们有什么经验可以少走弯路](https://www.v2ex.com/t/889393) ![](assets/new.png)  
-- [2022-10-24-杭州靠谱机会：-Java-技术专家-数据库内核-，-SQL-引擎研发，薪水-35k-70k](https://www.v2ex.com/t/889392) ![](assets/new.png)  
-- [2022-10-24-请教一套家庭网络方案](https://www.v2ex.com/t/889391) ![](assets/new.png)  
-- [2022-10-24-最近菜类的价格](https://www.v2ex.com/t/889390) ![](assets/new.png)  
-- [2022-10-24-最近学-html-和-css，看-b-站尚硅谷那个视频，感觉有点啰嗦。有没有](https://www.v2ex.com/t/889389) ![](assets/new.png)  
-- [2022-10-24-求推荐项目管理的工具](https://www.v2ex.com/t/889388) ![](assets/new.png)  
-- [2022-10-24-Apple-Watch-的健身-APP（Fitness）数据如何同步？](https://www.v2ex.com/t/889387) ![](assets/new.png)  
-- [2022-10-24-让你们看看程序员卷王的收入。](https://www.v2ex.com/t/889386) ![](assets/new.png)  
+- [2022-10-24-数据库新手求问，用于解决树形结构存储的闭包表，为何能快速获取某个节点的祖先节点/父节点/子节点？](https://www.v2ex.com/t/889443) ![](assets/new.png)  
+- [2022-10-24-原创歌曲《山水有相逢》由虚拟歌手伊拾七首唱](https://www.v2ex.com/t/889441) ![](assets/new.png)  
+- [2022-10-24-如何检测远程桌面链接](https://www.v2ex.com/t/889439) ![](assets/new.png)  
+- [2022-10-24-双-11-我想买点啥？](https://www.v2ex.com/t/889436) ![](assets/new.png)  
+- [2022-10-24-的产品，哪一点最让你觉得不爽。](https://www.v2ex.com/t/889435) ![](assets/new.png)  
+- [2022-10-24-朋友们，移动硬盘尤其是固态的移动硬盘，里面临时存储点儿数据还行，还是别放重要数据了。。。](https://www.v2ex.com/t/889434) ![](assets/new.png)  
+- [2022-10-24-求个-Spotify-美区车](https://www.v2ex.com/t/889433) ![](assets/new.png)  
+- [2022-10-24-Java-项目数据库连接的异常问题,导致项目运行不稳定.](https://www.v2ex.com/t/889431) ![](assets/new.png)  
+- [2022-10-24-各位怎么看待少儿编程？](https://www.v2ex.com/t/889429) ![](assets/new.png)  
+- [2022-10-24-NPS-已经-2-年未更新了，新开了个分支，欢迎大家一起来维护这个项目](https://www.v2ex.com/t/889428) ![](assets/new.png)  
+- [2022-10-24-PD18-在刘海屏的-MacBook-上可以真.全屏么？](https://www.v2ex.com/t/889427) ![](assets/new.png)  
+- [2022-10-24-校招-2023-届,上海-顽岩资产招聘量化研究员-机器学习方向](https://www.v2ex.com/t/889426) ![](assets/new.png)  
+- [2022-10-24-聊聊现在的实习生，感觉非常不理解他们的想法](https://www.v2ex.com/t/889423) ![](assets/new.png)  
+- [2022-10-24-有没有研究方向为区块链的-V-友啊，能交流交流吗？](https://www.v2ex.com/t/889420) ![](assets/new.png)  
+- [2022-10-24-笔记本接电视，有什么好的遥控方案？](https://www.v2ex.com/t/889419) ![](assets/new.png)  
+- [2022-10-24-域名解析多-IP-就能做到高可用？](https://www.v2ex.com/t/889418) ![](assets/new.png)  
+- [2022-10-24-广深数据库社招-字节跳动-Common-Data-Infra-招-数据库内核开发](https://www.v2ex.com/t/889417) ![](assets/new.png)  
+- [2022-10-24-Base-杭州-Web3-外企热招：-IOS-工程师、NFT-产品经理、设计-leader](https://www.v2ex.com/t/889416) ![](assets/new.png)  
+- [2022-10-24-企业微信外部群-PC-版-hook-源码-api-接口-sdk](https://www.v2ex.com/t/889415) ![](assets/new.png)  
+- [2022-10-24-咨询成都地区-V-友，有没有中医院推荐一哈，身体需要调理](https://www.v2ex.com/t/889414) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

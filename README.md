@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-24 15:54:52，:rocket: 更新条数: +2000， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-24 16:26:50，:rocket: 更新条数: +2000， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-10-24-无聊测测打字速度](https://www.v2ex.com/t/889546) ![](assets/new.png)  
+- [2022-10-24-我写了个假的-Gitlab-Runner，可以运行自己的测试和编译自己，在每个星期四运行-job-还会有特殊效果（狗头）](https://www.v2ex.com/t/889545) ![](assets/new.png)  
 - [2022-10-24-中概互联网又是沉重的一刀,在这个-1024-节日里,大家心里还有波澜吗？](https://www.v2ex.com/t/889544) ![](assets/new.png)  
 - [2022-10-24-提问运维同学一般看性能硬件这种监控到底在看什么啊？](https://www.v2ex.com/t/889542) ![](assets/new.png)  
 - [2022-10-24-Citus-的查询效率相比单机而言提升了多少](https://www.v2ex.com/t/889541) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-10-24-一个-VPS-商家聚合网站，分享一下](https://www.v2ex.com/t/889521) ![](assets/new.png)  
 - [2022-10-24-求助，-imd-疯了一般地弹出下载-Microsoft-Edge-Installer](https://www.v2ex.com/t/889520) ![](assets/new.png)  
 - [2022-10-24-一个-Java-游戏端，需要调试和修修补补把它正常运行，价格会令您非常满意。](https://www.v2ex.com/t/889519) ![](assets/new.png)  
-- [2022-10-24-Why-are-Rust-executables-so-huge?](https://www.v2ex.com/t/889517) ![](assets/new.png)  
-- [2022-10-24-最近有用-WeChat-HK-聊天图片损坏的朋友吗？](https://www.v2ex.com/t/889516) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

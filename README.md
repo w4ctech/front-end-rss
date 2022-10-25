@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-25 10:20:56，:rocket: 更新条数: +2006， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-25 10:52:41，:rocket: 更新条数: +2007， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-10-25-假如提供一种自动化决策系统,有且只有全票通过的议案判定为通过,是不是一种好的实践并能改善一些问题?](https://www.v2ex.com/t/889791) ![](assets/new.png)  
+- [2022-10-25-ipados-16-要怎么样才可以外接屏是扩展而不是镜像？](https://www.v2ex.com/t/889790) ![](assets/new.png)  
+- [2022-10-25-短短一个星期内，加的三个技术-QQ-群就被解散了](https://www.v2ex.com/t/889789) ![](assets/new.png)  
+- [2022-10-25-PHP-es-批量作问题](https://www.v2ex.com/t/889788) ![](assets/new.png)  
+- [2022-10-25-Google-Voice-新手入坑记录](https://www.v2ex.com/t/889787) ![](assets/new.png)  
+- [2022-10-25-这是什么东西啊。。。。](https://www.v2ex.com/t/889786) ![](assets/new.png)  
 - [2022-10-25-坏掉的-k40-如何刷机?](https://www.v2ex.com/t/889785) ![](assets/new.png)  
 - [2022-10-25-一个奇葩-m1-环境-node.js-向本地-8080post-数据的问题](https://www.v2ex.com/t/889784) ![](assets/new.png)  
 - [2022-10-25-看到大家买-NAS-硬盘，看能不能给大家搞一个优惠活动](https://www.v2ex.com/t/889783) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-10-25-大佬们，哪里找私活好找一些？](https://www.v2ex.com/t/889772) ![](assets/new.png)  
 - [2022-10-25-上海/深圳-外企-WLB-Flexport-招-Infra-和-Fullstack-工程师](https://www.v2ex.com/t/889771) ![](assets/new.png)  
 - [2022-10-25-企业如何从-0-到-1-搭建-BI-系统](https://www.v2ex.com/t/889770) ![](assets/new.png)  
-- [2022-10-25-阿里轻量云出口+入口总带宽限速-30Mbps-了？](https://www.v2ex.com/t/889769) ![](assets/new.png)  
-- [2022-10-25-有没有用上海联通玩-pt-网站的，求教](https://www.v2ex.com/t/889768) ![](assets/new.png)  
-- [2022-10-25-macOS-Ventura-无法快访问-iCloud-Keychain](https://www.v2ex.com/t/889767) ![](assets/new.png)  
-- [2022-10-25-请问-iPhone-13-能否禁用副卡的语音和短信功能，只保留副卡的流量功能？](https://www.v2ex.com/t/889766) ![](assets/new.png)  
-- [2022-10-25-苹果手机照片如何快速整理/删除不想要的](https://www.v2ex.com/t/889765) ![](assets/new.png)  
-- [2022-10-25-macOS-Ventura-安装包怎么删除](https://www.v2ex.com/t/889763) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

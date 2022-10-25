@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-25 13:57:50，:rocket: 更新条数: +2009， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-25 14:36:11，:rocket: 更新条数: +2009， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,13 @@
 </summary>
 
 
+- [2022-10-25-上海-社招-内推-叠纸游戏招开发、UE4、视觉算法、工具开发、游戏策划各方向大佬！-社保公积金顶格-|-补充医疗商业保险-|-公司氛围超棒-|-多种方向福利](https://www.v2ex.com/t/889832) ![](assets/new.png)  
+- [2022-10-25-有没有类似于-iOS-自带相册，搜索图中文字的第三方应用？](https://www.v2ex.com/t/889831) ![](assets/new.png)  
+- [2022-10-25-升级-iOS-16-后，-Siri-识别不出通讯录中联系人的名字](https://www.v2ex.com/t/889830) ![](assets/new.png)  
+- [2022-10-25-Linux-下的-svn-客户端，除了-kdesvn，还有其他好用的推荐吗](https://www.v2ex.com/t/889828) ![](assets/new.png)  
+- [2022-10-25-升级了-Ubuntu-22.10，感觉遇到好多坑啊](https://www.v2ex.com/t/889827) ![](assets/new.png)  
+- [2022-10-25-2022-年-10-月份,大家来推荐下-IOS-必备-app-吧](https://www.v2ex.com/t/889825) ![](assets/new.png)  
+- [2022-10-25-17MBP-暂时只升了-12.6.1](https://www.v2ex.com/t/889824) ![](assets/new.png)  
 - [2022-10-25-7z.001-类型文件解压安装时如何提高写入速度](https://www.v2ex.com/t/889823) ![](assets/new.png)  
 - [2022-10-25-Mac-系统里的-Dropbox-文件夹里一直有一个名为“-Icon?-”的隐藏文件，删除后会立即重新创建，请问广大的-V-友们，该怎么彻底删掉它或者找到创建它的应用？](https://www.v2ex.com/t/889822) ![](assets/new.png)  
 - [2022-10-25-为什么-QQ-邮箱不能像-Gmail-和-Outlook-一样保持登陆状态？](https://www.v2ex.com/t/889821) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-10-25-求助-怎么在不能-RDP-远程桌面的情况下修改局域网中-win11-电脑的注册表](https://www.v2ex.com/t/889809) ![](assets/new.png)  
 - [2022-10-25-NAS-一次开机扩展-sata-上的硬盘识别不到，需要再次重启才能看到](https://www.v2ex.com/t/889808) ![](assets/new.png)  
 - [2022-10-25-被连续互通相机搞晕菜了，吐槽一下-Apple-这些年的设备互联生态](https://www.v2ex.com/t/889807) ![](assets/new.png)  
-- [2022-10-25-更新了-iOS-16，请问国产-App-到底在读什么勾八玩意？](https://www.v2ex.com/t/889806) ![](assets/new.png)  
-- [2022-10-25-M1-升级了-Ventura-后无法制作-macOS-启动盘](https://www.v2ex.com/t/889805) ![](assets/new.png)  
-- [2022-10-25-为什么大厂都不再做-pc-网页了](https://www.v2ex.com/t/889804) ![](assets/new.png)  
-- [2022-10-25-升级-Ventura-导致-Git-认证失败解法](https://www.v2ex.com/t/889803) ![](assets/new.png)  
-- [2022-10-25-需要使用-windows-上的招商银行软件，-m1-的-mbp-上现在用什么装-windows-虚拟机？](https://www.v2ex.com/t/889802) ![](assets/new.png)  
-- [2022-10-25-双十一了，求推荐健身房用的降噪耳机](https://www.v2ex.com/t/889801) ![](assets/new.png)  
-- [2022-10-25-这-macos13-用起来跟大号平板一样了](https://www.v2ex.com/t/889800) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

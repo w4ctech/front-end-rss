@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-25 17:34:36，:rocket: 更新条数: +2010， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-25 18:42:25，:rocket: 更新条数: +2011， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-10-25-求问大家,-能网页翻译的浏览器插件哪个比较好用](https://www.v2ex.com/t/889864) ![](assets/new.png)  
+- [2022-10-25-跨国小公司-VPN-解决方案](https://www.v2ex.com/t/889863) ![](assets/new.png)  
 - [2022-10-25-iPhone-和-MacOS-升级系统后遗症](https://www.v2ex.com/t/889862) ![](assets/new.png)  
 - [2022-10-25-k8s-上面有什么-PaaS-的解决方案吗](https://www.v2ex.com/t/889861) ![](assets/new.png)  
 - [2022-10-25-见到论坛讲-M1Air-升级到-Ventura13.0，发现温度坐火箭上升，找到原因](https://www.v2ex.com/t/889860) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-10-25-目前的-iPadOS16.1-正式版有沒有-bug](https://www.v2ex.com/t/889847) ![](assets/new.png)  
 - [2022-10-25-30+了才开始审视自己不适合编程](https://www.v2ex.com/t/889846) ![](assets/new.png)  
 - [2022-10-25-机械革命极光-Z-会不会坑？](https://www.v2ex.com/t/889844) ![](assets/new.png)  
-- [2022-10-25-你们用-win11-的小组件功能吗？](https://www.v2ex.com/t/889843) ![](assets/new.png)  
-- [2022-10-25-又是一年双十一，有啥床和床垫可以买么？](https://www.v2ex.com/t/889842) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

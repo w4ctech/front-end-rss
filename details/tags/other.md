@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-25 09:57:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-25 10:20:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1915,6 +1915,11 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-10-25-坏掉的-k40-如何刷机?](https://www.v2ex.com/t/889785) 
+- [2022-10-25-看到大家买-NAS-硬盘，看能不能给大家搞一个优惠活动](https://www.v2ex.com/t/889783) 
+- [2022-10-25-求问-从-13-恢复到-12-的正确方式](https://www.v2ex.com/t/889779) 
+- [2022-10-25-江湖救急，家里的龟隐身了，怎么办？](https://www.v2ex.com/t/889778) 
+- [2022-10-25-大数据-Spark、Flink-对于复杂业务逻辑处理是否有些吃力](https://www.v2ex.com/t/889777) 
 - [2022-10-25-诡异的内存更换问题](https://www.v2ex.com/t/889775) 
 - [2022-10-25-没钱，想配一台普通点的电脑，预算-5000，麻烦各位帮看看这个配置可以不？](https://www.v2ex.com/t/889773) 
 - [2022-10-25-大佬们，哪里找私活好找一些？](https://www.v2ex.com/t/889772) 
@@ -1943,9 +1948,6 @@
 - [2022-10-25-腾讯轻量云日本/首尔/新加坡节点跟香港比延迟差别大吗](https://www.v2ex.com/t/889739) 
 - [2022-10-25-Kubernetes-云平台多租户方案选择](https://www.v2ex.com/t/889737) 
 - [2022-10-25-求助,-twitter-开发者](https://www.v2ex.com/t/889736) 
-- [2022-10-25-16-寸升级-Ventura-翻车了....Window-server-随机-Crash](https://www.v2ex.com/t/889733) 
-- [2022-10-25-钛度显示器啥来头，电竞选手代言我不关心，只关心品质](https://www.v2ex.com/t/889731) 
-- [2022-10-25-电报-tg-登录需要电话号码和代理在一个地区吗？](https://www.v2ex.com/t/889729) 
 - [2022-10-25-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-25-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-25-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-25 19:38:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-25 20:20:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1952,7 +1952,6 @@
 - [2022-10-25-Google-以图搜图永久性被-lens-取代了?](https://www.v2ex.com/t/889819) 
 - [2022-10-25-iPhone-自带音乐-App-的神奇切歌-Bug](https://www.v2ex.com/t/889818) 
 - [2022-10-25-iPhone-有可以电话自动录音的-app-嘛](https://www.v2ex.com/t/889817) 
-- [2022-10-25-京东的未来在哪里](https://www.v2ex.com/t/889815) 
 - [2022-10-25-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-25-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-25-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

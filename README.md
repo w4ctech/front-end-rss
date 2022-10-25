@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-25 07:42:53，:rocket: 更新条数: +2003， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-25 08:28:37，:rocket: 更新条数: +2000， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,8 +491,18 @@
 </summary>
 
 
+- [2022-10-25-假设可以绝对公平公正。所有事情瞬间可以以全国-51%的意见来执行。会超越现在世界的制度体系吗？](https://www.v2ex.com/t/889744) ![](assets/new.png)  
+- [2022-10-25-whatsapp-这是挂了吗？](https://www.v2ex.com/t/889743) ![](assets/new.png)  
+- [2022-10-25-求助：通过-VPS-公网-IP-访问-Zerotier-构建的虚拟局域网](https://www.v2ex.com/t/889742) ![](assets/new.png)  
+- [2022-10-25-上海靠谱上市企业机会：支付方向/物流仓储方向--Java-研发工程师/架构师，希望目前薪水-40k-以上](https://www.v2ex.com/t/889741) ![](assets/new.png)  
+- [2022-10-25-深圳前后端](https://www.v2ex.com/t/889740) ![](assets/new.png)  
+- [2022-10-25-腾讯轻量云日本/首尔/新加坡节点跟香港比延迟差别大吗](https://www.v2ex.com/t/889739) ![](assets/new.png)  
+- [2022-10-25-Kubernetes-云平台多租户方案选择](https://www.v2ex.com/t/889737) ![](assets/new.png)  
+- [2022-10-25-求助,-twitter-开发者](https://www.v2ex.com/t/889736) ![](assets/new.png)  
+- [2022-10-25-16-寸升级-Ventura-翻车了....Window-server-随机-Crash](https://www.v2ex.com/t/889733) ![](assets/new.png)  
+- [2022-10-25-钛度显示器啥来头，电竞选手代言我不关心，只关心品质](https://www.v2ex.com/t/889731) ![](assets/new.png)  
+- [2022-10-25-电报-tg-登录需要电话号码和代理在一个地区吗？](https://www.v2ex.com/t/889729) ![](assets/new.png)  
 - [2022-10-25-http-加密的正确方法](https://www.v2ex.com/t/889726) ![](assets/new.png)  
-- [2022-10-25-出售不背单词+轻听英语账号](https://www.v2ex.com/t/889725) ![](assets/new.png)  
 - [2022-10-25-请问能把某一个-sh-脚本添加到-double_commander-的右键菜单吗](https://www.v2ex.com/t/889724) ![](assets/new.png)  
 - [2022-10-25-ServerCat-一年高级功能兑换码](https://www.v2ex.com/t/889723) ![](assets/new.png)  
 - [2022-10-25-升级-macOS-13-无法打开-PD](https://www.v2ex.com/t/889722) ![](assets/new.png)  
@@ -501,16 +511,6 @@
 - [2022-10-25-macOS-13-Ventura-截图类相关应用无法添加到屏幕录制白名单](https://www.v2ex.com/t/889717) ![](assets/new.png)  
 - [2022-10-25-求求阿里的人，能不能去-JD-和-PDD-学一学如何做好一款-APP？](https://www.v2ex.com/t/889716) ![](assets/new.png)  
 - [2022-10-25-macOS-13-Ventura-喜提外接显示器专属-bug](https://www.v2ex.com/t/889715) ![](assets/new.png)  
-- [2022-10-25-幻-16-顶配和暗影精灵-8p-顶配怎呢抉择](https://www.v2ex.com/t/889713) ![](assets/new.png)  
-- [2022-10-25-请问有什么好的跑步-app？国产的一系列太挫了](https://www.v2ex.com/t/889711) ![](assets/new.png)  
-- [2022-10-25-如何做-CI/CD-Drone-CI/CD-最佳实践](https://www.v2ex.com/t/889710) ![](assets/new.png)  
-- [2022-10-25-Gen10-plus-升级内存](https://www.v2ex.com/t/889708) ![](assets/new.png)  
-- [2022-10-25-用-Dropbox-同步-SQLite-数据库会很慢吗？还有什么适合网盘的数据库格式](https://www.v2ex.com/t/889707) ![](assets/new.png)  
-- [2022-10-25-Gitee-502](https://www.v2ex.com/t/889706) ![](assets/new.png)  
-- [2022-10-25-明天会更好吗？](https://www.v2ex.com/t/889705) ![](assets/new.png)  
-- [2022-10-25-macOS-有什么场景下触控板是不可替代的](https://www.v2ex.com/t/889702) ![](assets/new.png)  
-- [2022-10-25-笔记本-DDR5-内存现在购入是否好时机](https://www.v2ex.com/t/889701) ![](assets/new.png)  
-- [2022-10-25-pycharm-连接远程-jupyter-会自动去除-url-里的下划线](https://www.v2ex.com/t/889700) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

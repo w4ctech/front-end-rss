@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-25 15:22:27，:rocket: 更新条数: +2009， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-25 15:57:10，:rocket: 更新条数: +2008， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,14 @@
 </summary>
 
 
+- [2022-10-25-加班调休扣全勤，有这样的吗](https://www.v2ex.com/t/889851) ![](assets/new.png)  
+- [2022-10-25-育新地铁站次卧招室友-2000/月](https://www.v2ex.com/t/889850) ![](assets/new.png)  
+- [2022-10-25-腾讯云香港是超售的太厉害的还是自己能力不行啊？](https://www.v2ex.com/t/889849) ![](assets/new.png)  
+- [2022-10-25-TravisCI-现在激活后还需要开启-plan-才能使用吗](https://www.v2ex.com/t/889848) ![](assets/new.png)  
+- [2022-10-25-目前的-iPadOS16.1-正式版有沒有-bug](https://www.v2ex.com/t/889847) ![](assets/new.png)  
+- [2022-10-25-30+了才开始审视自己不适合编程](https://www.v2ex.com/t/889846) ![](assets/new.png)  
+- [2022-10-25-机械革命极光-Z-会不会坑？](https://www.v2ex.com/t/889844) ![](assets/new.png)  
+- [2022-10-25-你们用-win11-的小组件功能吗？](https://www.v2ex.com/t/889843) ![](assets/new.png)  
 - [2022-10-25-又是一年双十一，有啥床和床垫可以买么？](https://www.v2ex.com/t/889842) ![](assets/new.png)  
 - [2022-10-25-你朋友圈最早一条的内容是什么？](https://www.v2ex.com/t/889841) ![](assets/new.png)  
 - [2022-10-25-升级-iOS-16-后，-Siri-的悬浮球出现锯齿？](https://www.v2ex.com/t/889840) ![](assets/new.png)  
@@ -503,14 +511,6 @@
 - [2022-10-25-上海-社招-内推-叠纸游戏招开发、UE4、视觉算法、工具开发、游戏策划各方向大佬！-社保公积金顶格-|-补充医疗商业保险-|-公司氛围超棒-|-多种方向福利](https://www.v2ex.com/t/889832) ![](assets/new.png)  
 - [2022-10-25-有没有类似于-iOS-自带相册，搜索图中文字的第三方应用？](https://www.v2ex.com/t/889831) ![](assets/new.png)  
 - [2022-10-25-升级-iOS-16-后，-Siri-识别不出通讯录中联系人的名字](https://www.v2ex.com/t/889830) ![](assets/new.png)  
-- [2022-10-25-Linux-下的-svn-客户端，除了-kdesvn，还有其他好用的推荐吗](https://www.v2ex.com/t/889828) ![](assets/new.png)  
-- [2022-10-25-升级了-Ubuntu-22.10，感觉遇到好多坑啊](https://www.v2ex.com/t/889827) ![](assets/new.png)  
-- [2022-10-25-2022-年-10-月份,大家来推荐下-IOS-必备-app-吧](https://www.v2ex.com/t/889825) ![](assets/new.png)  
-- [2022-10-25-17MBP-暂时只升了-12.6.1](https://www.v2ex.com/t/889824) ![](assets/new.png)  
-- [2022-10-25-7z.001-类型文件解压安装时如何提高写入速度](https://www.v2ex.com/t/889823) ![](assets/new.png)  
-- [2022-10-25-Mac-系统里的-Dropbox-文件夹里一直有一个名为“-Icon?-”的隐藏文件，删除后会立即重新创建，请问广大的-V-友们，该怎么彻底删掉它或者找到创建它的应用？](https://www.v2ex.com/t/889822) ![](assets/new.png)  
-- [2022-10-25-为什么-QQ-邮箱不能像-Gmail-和-Outlook-一样保持登陆状态？](https://www.v2ex.com/t/889821) ![](assets/new.png)  
-- [2022-10-25-instagram-账号被封，解冻需要手持验证码纸条自拍照，这合理吗？](https://www.v2ex.com/t/889820) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

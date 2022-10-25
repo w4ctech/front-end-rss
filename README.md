@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-25 16:32:16，:rocket: 更新条数: +2008， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-25 17:34:36，:rocket: 更新条数: +2010， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-10-25-iPhone-和-MacOS-升级系统后遗症](https://www.v2ex.com/t/889862) ![](assets/new.png)  
+- [2022-10-25-k8s-上面有什么-PaaS-的解决方案吗](https://www.v2ex.com/t/889861) ![](assets/new.png)  
+- [2022-10-25-见到论坛讲-M1Air-升级到-Ventura13.0，发现温度坐火箭上升，找到原因](https://www.v2ex.com/t/889860) ![](assets/new.png)  
+- [2022-10-25-MacOS13（aka：-Ventura）的网络位置去哪儿了](https://www.v2ex.com/t/889859) ![](assets/new.png)  
 - [2022-10-25-请推荐一个支持在线会议（仅限于音频）的-SFU](https://www.v2ex.com/t/889858) ![](assets/new.png)  
 - [2022-10-25-macbook-提醒事项，打开变成空白，是什么冲突造成了吗？](https://www.v2ex.com/t/889857) ![](assets/new.png)  
 - [2022-10-25-Web3.0-招聘技术-CTO，工作地点：-home-base，英语口语流利，薪水（具体可谈）](https://www.v2ex.com/t/889856) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-10-25-机械革命极光-Z-会不会坑？](https://www.v2ex.com/t/889844) ![](assets/new.png)  
 - [2022-10-25-你们用-win11-的小组件功能吗？](https://www.v2ex.com/t/889843) ![](assets/new.png)  
 - [2022-10-25-又是一年双十一，有啥床和床垫可以买么？](https://www.v2ex.com/t/889842) ![](assets/new.png)  
-- [2022-10-25-你朋友圈最早一条的内容是什么？](https://www.v2ex.com/t/889841) ![](assets/new.png)  
-- [2022-10-25-升级-iOS-16-后，-Siri-的悬浮球出现锯齿？](https://www.v2ex.com/t/889840) ![](assets/new.png)  
-- [2022-10-25-我的家庭网络分享](https://www.v2ex.com/t/889839) ![](assets/new.png)  
-- [2022-10-25-frp-挂了吗](https://www.v2ex.com/t/889838) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

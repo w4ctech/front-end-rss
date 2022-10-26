@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-26 10:45:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-26 11:13:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1915,6 +1915,8 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-10-26-联系人的-iMessage-图标突然消失，需要点进详细页面才能出现按钮](https://www.v2ex.com/t/890130) 
+- [2022-10-26-如何优雅地暂用-Mac](https://www.v2ex.com/t/890129) 
 - [2022-10-26-1024-公司动了裁员的刀](https://www.v2ex.com/t/890127) 
 - [2022-10-26-macOS-ventera-让我极其难受的问题](https://www.v2ex.com/t/890126) 
 - [2022-10-26-关于-ffmpeg-转换-mp4-到-HLS-后，字幕时间轴不对问题](https://www.v2ex.com/t/890123) 

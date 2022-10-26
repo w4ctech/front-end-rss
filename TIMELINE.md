@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-26 19:38:14。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-10-26 20:17:13。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -72,6 +72,8 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-10-16-2022年新出了哪些form表单新特性？](https://www.zhangxinxu.com/wordpress/2022/10/2022-new-form-property/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-12-CSS-::file-selector-button伪元素简介](https://www.zhangxinxu.com/wordpress/2022/10/css-file-selector-button/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-12-更符合书写习惯的CSS媒体查询Range语法](https://www.zhangxinxu.com/wordpress/2022/10/css-media-range-syntax/) 
+- [【V2EX】2022-10-26-和大佬合作开发了一个点击-dom-自动打开编辑器跳转到指定源码的打包器插件](https://www.v2ex.com/t/890214) 
+- [【V2EX】2022-10-26-Windows-Terminal-可以移植到-macOS-吗](https://www.v2ex.com/t/890213) 
 - [【V2EX】2022-10-26-请问有没有这样的提醒灯设备？或者相关定时器之类的设备？](https://www.v2ex.com/t/890212) 
 - [【V2EX】2022-10-26-Google-相册里如何筛选出占用空间的照片？](https://www.v2ex.com/t/890211) 
 - [【V2EX】2022-10-26-22-年毕业的程序员如果被劝退，未来应该怎么办？](https://www.v2ex.com/t/890210) 
@@ -103,8 +105,6 @@
 - [【V2EX】2022-10-26-同一台机器两个服务间的带宽是由什么决定的？](https://www.v2ex.com/t/890168) 
 - [【V2EX】2022-10-26-第一次见到需要验证码的钓鱼网站](https://www.v2ex.com/t/890167) 
 - [【V2EX】2022-10-26-大外包与小自研](https://www.v2ex.com/t/890166) 
-- [【V2EX】2022-10-26-住高层信号太差，求解决方案](https://www.v2ex.com/t/890165) 
-- [【V2EX】2022-10-26-投资什么，比较能保值，并且能够多些收益？](https://www.v2ex.com/t/890163) 
 - [【技术头条】2022-10-26-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-26-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-26-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

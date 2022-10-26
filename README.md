@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-26 10:16:16，:rocket: 更新条数: +2002， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-26 10:45:48，:rocket: 更新条数: +1998， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,10 +491,14 @@
 </summary>
 
 
+- [2022-10-26-1024-公司动了裁员的刀](https://www.v2ex.com/t/890127) ![](assets/new.png)  
+- [2022-10-26-macOS-ventera-让我极其难受的问题](https://www.v2ex.com/t/890126) ![](assets/new.png)  
+- [2022-10-26-关于-ffmpeg-转换-mp4-到-HLS-后，字幕时间轴不对问题](https://www.v2ex.com/t/890123) ![](assets/new.png)  
+- [2022-10-26-掘金插件搜索的联想词是怎么请求来的？](https://www.v2ex.com/t/890122) ![](assets/new.png)  
+- [2022-10-26-Surge-for-iOS-车主开车](https://www.v2ex.com/t/890120) ![](assets/new.png)  
 - [2022-10-26-求一个短信转发模块的小白教程，家里有闲置-SIM-卡](https://www.v2ex.com/t/890119) ![](assets/new.png)  
 - [2022-10-26-老-Mac-回春拳~-OpenCore-Legacy-Patcher-0.5.0-正式支持-macOS-Ventura](https://www.v2ex.com/t/890118) ![](assets/new.png)  
 - [2022-10-26-重新申请的证书要怎样跟已上架的-app-关联起来?](https://www.v2ex.com/t/890117) ![](assets/new.png)  
-- [2022-10-26-绿色软件被封了](https://www.v2ex.com/t/890115) ![](assets/new.png)  
 - [2022-10-26-SQL-求助,-使用联合查询怎么安装原始顺序显示,-实现下图这样的效果](https://www.v2ex.com/t/890113) ![](assets/new.png)  
 - [2022-10-26-怎么快速初步搭建前后端项目（uniapp-方向）](https://www.v2ex.com/t/890112) ![](assets/new.png)  
 - [2022-10-26-我的当前软路由应该怎么整，帮忙推荐一下方向](https://www.v2ex.com/t/890111) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-10-26-16.1-如何通过快捷指令-切换锁屏](https://www.v2ex.com/t/890103) ![](assets/new.png)  
 - [2022-10-26-掘金的沸点流量这么高吗?](https://www.v2ex.com/t/890102) ![](assets/new.png)  
 - [2022-10-26-《V-字仇杀队》](https://www.v2ex.com/t/890101) ![](assets/new.png)  
-- [2022-10-26-腾讯云-轻量香港节点改了](https://www.v2ex.com/t/890099) ![](assets/new.png)  
-- [2022-10-26-请大佬们分享下自己-nas-硬盘的规划](https://www.v2ex.com/t/890097) ![](assets/new.png)  
-- [2022-10-26-又一次在人生道路上迷茫了，感觉对什么都提不起兴趣](https://www.v2ex.com/t/890096) ![](assets/new.png)  
-- [2022-10-26-有-intel-macbook-升级了-Ventura-的伙伴说下鼠标指针抖动的问题有没有解决](https://www.v2ex.com/t/890095) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

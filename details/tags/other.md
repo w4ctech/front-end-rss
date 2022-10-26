@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-26 23:04:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-26 23:16:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1915,6 +1915,7 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-10-26-中国平安-37-块，还要补仓吗](https://www.v2ex.com/t/890220) 
 - [2022-10-26-有靠谱的-Web3.0-培训吗,-请推荐-谢谢](https://www.v2ex.com/t/890219) 
 - [2022-10-26-校友邮箱可以终身用-edu-一辈子?](https://www.v2ex.com/t/890217) 
 - [2022-10-26-Windows-Terminal-可以移植到-macOS-吗](https://www.v2ex.com/t/890213) 
@@ -1943,7 +1944,6 @@
 - [2022-10-26-Microsoft-365-，-1-个位置，-35-元](https://www.v2ex.com/t/890175) 
 - [2022-10-26-Cloudflare-Zero-Trust-添加付款方式时一直提示错误](https://www.v2ex.com/t/890172) 
 - [2022-10-26-关于中文公版书的保护事业你是否想要参与？招募志愿者，让知识的传播不再有任何门槛，让文明的硕果源远流长](https://www.v2ex.com/t/890171) 
-- [2022-10-26-Alfred-有没有可能接入聚焦搜索里面照片搜索等新特性](https://www.v2ex.com/t/890170) 
 - [2022-10-26-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-26-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-26-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

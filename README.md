@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-26 14:23:08，:rocket: 更新条数: +2000， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-26 14:47:09，:rocket: 更新条数: +2002， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-10-26-cnbeta-彻底凉了，国外也访问不了了，-DNS-解析没有了](https://www.v2ex.com/t/890181) ![](assets/new.png)  
+- [2022-10-26-PHP-这种查询怎么能写的好看点，优雅点，高级点呢](https://www.v2ex.com/t/890180) ![](assets/new.png)  
+- [2022-10-26-35w-的测开和-26w-的后端怎么选择](https://www.v2ex.com/t/890179) ![](assets/new.png)  
+- [2022-10-26-win2k8r2-上运行-go-编译的-exe-文件提示-illegal-setup-file,-缺了设么东西？](https://www.v2ex.com/t/890178) ![](assets/new.png)  
 - [2022-10-26-Base-广州-，职位：-Android-&-iOS-配-16-寸中高配-Macbook-pro-可居家办公](https://www.v2ex.com/t/890176) ![](assets/new.png)  
 - [2022-10-26-Microsoft-365-，-1-个位置，-35-元](https://www.v2ex.com/t/890175) ![](assets/new.png)  
 - [2022-10-26-在-koa-里使用-axios-请求一个第三方的-api，拿到结果再执行-ctx.body-报-404？怎么解](https://www.v2ex.com/t/890173) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-10-26-有人使用妙控板在-Windows11-电脑上么](https://www.v2ex.com/t/890161) ![](assets/new.png)  
 - [2022-10-26-相思真的无解吗](https://www.v2ex.com/t/890160) ![](assets/new.png)  
 - [2022-10-26-请教社保断交问题](https://www.v2ex.com/t/890158) ![](assets/new.png)  
-- [2022-10-26-升级-Ventura-之后无法用-Apple-Watch-解锁](https://www.v2ex.com/t/890157) ![](assets/new.png)  
-- [2022-10-26-请问今年毕业的非应届本科生，-flutter-学到什么程度能找到新工作](https://www.v2ex.com/t/890150) ![](assets/new.png)  
-- [2022-10-26-既然-socks5-proxy-credentials-都是明文的，那么-authentication-意义何在？](https://www.v2ex.com/t/890149) ![](assets/new.png)  
-- [2022-10-26-购买美股，地缘政治恶化后，是否存在-普通人-资本被没收的风险？-（中美两国）](https://www.v2ex.com/t/890148) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

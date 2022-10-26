@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-26 14:23:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-26 14:47:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1915,6 +1915,10 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-10-26-cnbeta-彻底凉了，国外也访问不了了，-DNS-解析没有了](https://www.v2ex.com/t/890181) 
+- [2022-10-26-PHP-这种查询怎么能写的好看点，优雅点，高级点呢](https://www.v2ex.com/t/890180) 
+- [2022-10-26-35w-的测开和-26w-的后端怎么选择](https://www.v2ex.com/t/890179) 
+- [2022-10-26-win2k8r2-上运行-go-编译的-exe-文件提示-illegal-setup-file,-缺了设么东西？](https://www.v2ex.com/t/890178) 
 - [2022-10-26-Base-广州-，职位：-Android-&-iOS-配-16-寸中高配-Macbook-pro-可居家办公](https://www.v2ex.com/t/890176) 
 - [2022-10-26-Microsoft-365-，-1-个位置，-35-元](https://www.v2ex.com/t/890175) 
 - [2022-10-26-Cloudflare-Zero-Trust-添加付款方式时一直提示错误](https://www.v2ex.com/t/890172) 
@@ -1941,8 +1945,6 @@
 - [2022-10-26-微软推出开发者专用的-Windows-Dev-Kit-2023,配备-32GBRAM、NPU](https://www.v2ex.com/t/890136) 
 - [2022-10-26-在-1024-节日收到老婆送的顶配-MacBook-Pro-2022-后的折腾](https://www.v2ex.com/t/890135) 
 - [2022-10-26-怎么批量注册-gmail？](https://www.v2ex.com/t/890132) 
-- [2022-10-26-联系人的-iMessage-图标突然消失，需要点进详细页面才能出现按钮](https://www.v2ex.com/t/890130) 
-- [2022-10-26-如何优雅地暂用-Mac](https://www.v2ex.com/t/890129) 
 - [2022-10-26-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-26-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-26-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

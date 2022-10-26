@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-26 16:20:43。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-10-26 17:00:53。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -72,6 +72,10 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-10-16-2022年新出了哪些form表单新特性？](https://www.zhangxinxu.com/wordpress/2022/10/2022-new-form-property/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-12-CSS-::file-selector-button伪元素简介](https://www.zhangxinxu.com/wordpress/2022/10/css-file-selector-button/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-12-更符合书写习惯的CSS媒体查询Range语法](https://www.zhangxinxu.com/wordpress/2022/10/css-media-range-syntax/) 
+- [【V2EX】2022-10-26-22-年毕业的程序员如果被劝退，未来应该怎么办？](https://www.v2ex.com/t/890210) 
+- [【V2EX】2022-10-26-请教一下各位大佬，一些网站主页搜索功能是怎么做的](https://www.v2ex.com/t/890206) 
+- [【V2EX】2022-10-26-请教一个配置相关问题](https://www.v2ex.com/t/890205) 
+- [【V2EX】2022-10-26-背古诗-XXX](https://www.v2ex.com/t/890202) 
 - [【V2EX】2022-10-26-遇到一个奇葩问题，请教各位。](https://www.v2ex.com/t/890200) 
 - [【V2EX】2022-10-26-Ios-远程工作岗位](https://www.v2ex.com/t/890198) 
 - [【V2EX】2022-10-26-MacOS-13-的登录界面背景不显示用户设定的壁纸啦？](https://www.v2ex.com/t/890197) 
@@ -101,9 +105,6 @@
 - [【V2EX】2022-10-26-投资什么，比较能保值，并且能够多些收益？](https://www.v2ex.com/t/890163) 
 - [【V2EX】2022-10-26-为什么同样的硬件下-Linux-桌面下-Chrome-性能会大幅提升](https://www.v2ex.com/t/890162) 
 - [【V2EX】2022-10-26-有人使用妙控板在-Windows11-电脑上么](https://www.v2ex.com/t/890161) 
-- [【V2EX】2022-10-26-相思真的无解吗](https://www.v2ex.com/t/890160) 
-- [【V2EX】2022-10-26-请教社保断交问题](https://www.v2ex.com/t/890158) 
-- [【V2EX】2022-10-26-升级-Ventura-之后无法用-Apple-Watch-解锁](https://www.v2ex.com/t/890157) 
 - [【技术头条】2022-10-26-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-26-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-26-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

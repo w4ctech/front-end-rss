@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-26 15:16:30。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-10-26 15:46:48。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -72,6 +72,9 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-10-16-2022年新出了哪些form表单新特性？](https://www.zhangxinxu.com/wordpress/2022/10/2022-new-form-property/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-12-CSS-::file-selector-button伪元素简介](https://www.zhangxinxu.com/wordpress/2022/10/css-file-selector-button/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-12-更符合书写习惯的CSS媒体查询Range语法](https://www.zhangxinxu.com/wordpress/2022/10/css-media-range-syntax/) 
+- [【V2EX】2022-10-26-求一个可以提供日本高度人才签证的工作，最好和-Web3-相关](https://www.v2ex.com/t/890191) 
+- [【V2EX】2022-10-26-电信宽带单线多拨上行叠加](https://www.v2ex.com/t/890189) 
+- [【V2EX】2022-10-26-windows-上同时对多个自选网站搜索一个关键词的方式](https://www.v2ex.com/t/890187) 
 - [【V2EX】2022-10-26-上海松江-转租青春驿站-Loft-超近九亭地铁站-3800/月](https://www.v2ex.com/t/890185) 
 - [【V2EX】2022-10-26-想去小时候幻想的地方](https://www.v2ex.com/t/890184) 
 - [【V2EX】2022-10-26-惨，-jb-全家桶忘记续费了，现在第二年续费比之前第一年还高。](https://www.v2ex.com/t/890183) 
@@ -104,12 +107,6 @@
 - [【V2EX】2022-10-26-对于各类-iPad-保护套，是否有人介意当其支撑起来时，保护套贴合屏幕的那面接触桌面？导致收起保护套后，桌面上的灰尘正好粘到屏幕上？](https://www.v2ex.com/t/890146) 
 - [【V2EX】2022-10-26-哪个-apple-watch-的运动-app-能设置心率区间，一旦出了这个区间，就震动提醒？](https://www.v2ex.com/t/890145) 
 - [【V2EX】2022-10-26-北京-美资外企-招聘-前端/后端/移动端开发/产品经理](https://www.v2ex.com/t/890144) 
-- [【V2EX】2022-10-26-chrome-浏览器右键翻译是不是自动恢复了？](https://www.v2ex.com/t/890143) 
-- [【V2EX】2022-10-26-你们的-Lark-能还打上卡不](https://www.v2ex.com/t/890142) 
-- [【V2EX】2022-10-26-有了一个-toB-项目的想法，可惜没能力落地，大家要不一起来品品，看看咋样？](https://www.v2ex.com/t/890140) 
-- [【V2EX】2022-10-26-虚幻-5-的环境渲染效果太惊人了](https://www.v2ex.com/t/890139) 
-- [【V2EX】2022-10-26-领导让出差到西安（目前有-70-个高风险区）！已经回答说不去了](https://www.v2ex.com/t/890138) 
-- [【V2EX】2022-10-26-微软推出开发者专用的-Windows-Dev-Kit-2023,配备-32GBRAM、NPU](https://www.v2ex.com/t/890136) 
 - [【技术头条】2022-10-26-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-26-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-26-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

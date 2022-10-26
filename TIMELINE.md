@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-26 08:19:58。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-10-26 08:49:07。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -72,6 +72,11 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-10-16-2022年新出了哪些form表单新特性？](https://www.zhangxinxu.com/wordpress/2022/10/2022-new-form-property/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-12-CSS-::file-selector-button伪元素简介](https://www.zhangxinxu.com/wordpress/2022/10/css-file-selector-button/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-12-更符合书写习惯的CSS媒体查询Range语法](https://www.zhangxinxu.com/wordpress/2022/10/css-media-range-syntax/) 
+- [【V2EX】2022-10-26-广州求职数据仓库-数据架构-数据治理](https://www.v2ex.com/t/890086) 
+- [【V2EX】2022-10-26-分享一下最近遇到的无法访问一网通办的事](https://www.v2ex.com/t/890084) 
+- [【V2EX】2022-10-26-今天被催着相亲了](https://www.v2ex.com/t/890083) 
+- [【V2EX】2022-10-26-杭州-滴滴出行-能源技术-岗位开放,-招聘-前端工程师、Android-开发工程师、iOS-开发工程师,-高级/资深都需要🎉🎉🎉](https://www.v2ex.com/t/890082) 
+- [【V2EX】2022-10-26-入了喷色战士-3，但是感觉没有喷色战士-2-好玩，可能我太菜-哈哈哈](https://www.v2ex.com/t/890077) 
 - [【V2EX】2022-10-26-求捞-应届生投-200+简历，仍无-offer](https://www.v2ex.com/t/890076) 
 - [【V2EX】2022-10-26-求一个兼容-wps-的-word-模板方案](https://www.v2ex.com/t/890075) 
 - [【V2EX】2022-10-26-群晖管理界面里怎么直接打印到连接的打印机上](https://www.v2ex.com/t/890074) 
@@ -99,15 +104,6 @@
 - [【V2EX】2022-10-26-今年大家年终奖怎么样？](https://www.v2ex.com/t/890041) 
 - [【V2EX】2022-10-26-拔了耳机还在放歌](https://www.v2ex.com/t/890040) 
 - [【V2EX】2022-10-26-谷歌翻译不能用了，-IDEA-除了-translation-还有什么插件](https://www.v2ex.com/t/890038) 
-- [【V2EX】2022-10-26-小房间用来做啥](https://www.v2ex.com/t/890036) 
-- [【V2EX】2022-10-26-海鲜市场卖的-AWS-优惠码可以买么？](https://www.v2ex.com/t/890034) 
-- [【V2EX】2022-10-26-走过路过，不要错过，阿里云国际站腾讯云国际站可提供实名账户，代充值可付-USDT](https://www.v2ex.com/t/890033) 
-- [【V2EX】2022-10-26-Passwall-无法更新订阅,-提示暂时不支持-src="https-类型的节点订阅，跳过此节点。](https://www.v2ex.com/t/890032) 
-- [【V2EX】2022-10-26-node-有在运行时动态安装依赖的方案吗](https://www.v2ex.com/t/890031) 
-- [【V2EX】2022-10-26-现在有靠谱的移动-VPS-或者-NAT-推荐吗？](https://www.v2ex.com/t/890030) 
-- [【V2EX】2022-10-26-macOS-Ventura-13.0-相册中任何图片右键“拷贝对象”都是灰色](https://www.v2ex.com/t/890029) 
-- [【V2EX】2022-10-26-MacBook-贴键盘按键贴纸是智商税吗？](https://www.v2ex.com/t/890028) 
-- [【V2EX】2022-10-26-请问如何收款国外的美元](https://www.v2ex.com/t/890027) 
 - [【技术头条】2022-10-26-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-26-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-26-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-26 18:50:02，:rocket: 更新条数: +1999， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-26 19:12:55，:rocket: 更新条数: +1999， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-10-26-请问有没有这样的提醒灯设备？或者相关定时器之类的设备？](https://www.v2ex.com/t/890212) ![](assets/new.png)  
 - [2022-10-26-Google-相册里如何筛选出占用空间的照片？](https://www.v2ex.com/t/890211) ![](assets/new.png)  
 - [2022-10-26-22-年毕业的程序员如果被劝退，未来应该怎么办？](https://www.v2ex.com/t/890210) ![](assets/new.png)  
 - [2022-10-26-请教一下各位大佬，一些网站主页搜索功能是怎么做的](https://www.v2ex.com/t/890206) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-10-26-cnbeta-彻底凉了，国外也访问不了了，-DNS-解析没有了](https://www.v2ex.com/t/890181) ![](assets/new.png)  
 - [2022-10-26-PHP-这种查询怎么能写的好看点，优雅点，高级点呢](https://www.v2ex.com/t/890180) ![](assets/new.png)  
 - [2022-10-26-35w-的测开和-26w-的后端怎么选择](https://www.v2ex.com/t/890179) ![](assets/new.png)  
-- [2022-10-26-win2k8r2-上运行-go-编译的-exe-文件提示-illegal-setup-file,-缺了设么东西？](https://www.v2ex.com/t/890178) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

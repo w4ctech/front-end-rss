@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-26 11:39:53，:rocket: 更新条数: +2002， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-26 12:32:21，:rocket: 更新条数: +2002， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,11 +491,18 @@
 </summary>
 
 
+- [2022-10-26-购买美股，地缘政治恶化后，是否存在-普通人-资本被没收的风险？-（中美两国）](https://www.v2ex.com/t/890148) ![](assets/new.png)  
+- [2022-10-26-appstore-物品指南高级功能兑换码](https://www.v2ex.com/t/890147) ![](assets/new.png)  
+- [2022-10-26-对于各类-iPad-保护套，是否有人介意当其支撑起来时，保护套贴合屏幕的那面接触桌面？导致收起保护套后，桌面上的灰尘正好粘到屏幕上？](https://www.v2ex.com/t/890146) ![](assets/new.png)  
+- [2022-10-26-哪个-apple-watch-的运动-app-能设置心率区间，一旦出了这个区间，就震动提醒？](https://www.v2ex.com/t/890145) ![](assets/new.png)  
+- [2022-10-26-北京-美资外企-招聘-前端/后端/移动端开发/产品经理](https://www.v2ex.com/t/890144) ![](assets/new.png)  
+- [2022-10-26-chrome-浏览器右键翻译是不是自动恢复了？](https://www.v2ex.com/t/890143) ![](assets/new.png)  
+- [2022-10-26-你们的-Lark-能还打上卡不](https://www.v2ex.com/t/890142) ![](assets/new.png)  
+- [2022-10-26-有了一个-toB-项目的想法，可惜没能力落地，大家要不一起来品品，看看咋样？](https://www.v2ex.com/t/890140) ![](assets/new.png)  
 - [2022-10-26-虚幻-5-的环境渲染效果太惊人了](https://www.v2ex.com/t/890139) ![](assets/new.png)  
 - [2022-10-26-领导让出差到西安（目前有-70-个高风险区）！已经回答说不去了](https://www.v2ex.com/t/890138) ![](assets/new.png)  
 - [2022-10-26-微软推出开发者专用的-Windows-Dev-Kit-2023,配备-32GBRAM、NPU](https://www.v2ex.com/t/890136) ![](assets/new.png)  
 - [2022-10-26-在-1024-节日收到老婆送的顶配-MacBook-Pro-2022-后的折腾](https://www.v2ex.com/t/890135) ![](assets/new.png)  
-- [2022-10-26-各位大佬，-Mac-支持-vmess-的客户端推荐一个。](https://www.v2ex.com/t/890133) ![](assets/new.png)  
 - [2022-10-26-怎么批量注册-gmail？](https://www.v2ex.com/t/890132) ![](assets/new.png)  
 - [2022-10-26-联系人的-iMessage-图标突然消失，需要点进详细页面才能出现按钮](https://www.v2ex.com/t/890130) ![](assets/new.png)  
 - [2022-10-26-如何优雅地暂用-Mac](https://www.v2ex.com/t/890129) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-10-26-关于-ffmpeg-转换-mp4-到-HLS-后，字幕时间轴不对问题](https://www.v2ex.com/t/890123) ![](assets/new.png)  
 - [2022-10-26-掘金插件搜索的联想词是怎么请求来的？](https://www.v2ex.com/t/890122) ![](assets/new.png)  
 - [2022-10-26-Surge-for-iOS-车主开车](https://www.v2ex.com/t/890120) ![](assets/new.png)  
-- [2022-10-26-求一个短信转发模块的小白教程，家里有闲置-SIM-卡](https://www.v2ex.com/t/890119) ![](assets/new.png)  
-- [2022-10-26-老-Mac-回春拳~-OpenCore-Legacy-Patcher-0.5.0-正式支持-macOS-Ventura](https://www.v2ex.com/t/890118) ![](assets/new.png)  
-- [2022-10-26-重新申请的证书要怎样跟已上架的-app-关联起来?](https://www.v2ex.com/t/890117) ![](assets/new.png)  
-- [2022-10-26-SQL-求助,-使用联合查询怎么安装原始顺序显示,-实现下图这样的效果](https://www.v2ex.com/t/890113) ![](assets/new.png)  
-- [2022-10-26-怎么快速初步搭建前后端项目（uniapp-方向）](https://www.v2ex.com/t/890112) ![](assets/new.png)  
-- [2022-10-26-我的当前软路由应该怎么整，帮忙推荐一下方向](https://www.v2ex.com/t/890111) ![](assets/new.png)  
-- [2022-10-26-持有万科快一年跌了-30％成本-21，现在-15，是跑还是扛](https://www.v2ex.com/t/890110) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

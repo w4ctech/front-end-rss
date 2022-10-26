@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-26 06:55:15。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-10-26 07:17:07。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -72,6 +72,11 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-10-16-2022年新出了哪些form表单新特性？](https://www.zhangxinxu.com/wordpress/2022/10/2022-new-form-property/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-12-CSS-::file-selector-button伪元素简介](https://www.zhangxinxu.com/wordpress/2022/10/css-file-selector-button/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-12-更符合书写习惯的CSS媒体查询Range语法](https://www.zhangxinxu.com/wordpress/2022/10/css-media-range-syntax/) 
+- [【V2EX】2022-10-26-招募小伙伴一起搭建中国公开数据共享平台](https://www.v2ex.com/t/890045) 
+- [【V2EX】2022-10-26-今年大家年终奖怎么样？](https://www.v2ex.com/t/890041) 
+- [【V2EX】2022-10-26-拔了耳机还在放歌](https://www.v2ex.com/t/890040) 
+- [【V2EX】2022-10-26-谷歌翻译不能用了，-IDEA-除了-translation-还有什么插件](https://www.v2ex.com/t/890038) 
+- [【V2EX】2022-10-26-求助-同事脚臭怎么办](https://www.v2ex.com/t/890037) 
 - [【V2EX】2022-10-26-小房间用来做啥](https://www.v2ex.com/t/890036) 
 - [【V2EX】2022-10-26-海鲜市场卖的-AWS-优惠码可以买么？](https://www.v2ex.com/t/890034) 
 - [【V2EX】2022-10-26-走过路过，不要错过，阿里云国际站腾讯云国际站可提供实名账户，代充值可付-USDT](https://www.v2ex.com/t/890033) 
@@ -100,13 +105,6 @@
 - [【V2EX】2022-10-26-Serverless-到底是什么？现在还流行嘛？](https://www.v2ex.com/t/890002) 
 - [【V2EX】2022-10-26-深圳/南山-Web3-招技术总监，技术大佬](https://www.v2ex.com/t/890001) 
 - [【V2EX】2022-10-26-开源的串口/蓝牙/网络调试助手-SerialTest，支持-Windows/-Linux-/Android](https://www.v2ex.com/t/889998) 
-- [【V2EX】2022-10-26-M2-MacBook-Air-雷电口充电和外接失效](https://www.v2ex.com/t/889997) 
-- [【V2EX】2022-10-26-windows-寻找一款辅助软件](https://www.v2ex.com/t/889996) 
-- [【V2EX】2022-10-26-iPadOS-16.1-下备忘录耗电异常，-Apple-Pencil-延迟严重](https://www.v2ex.com/t/889994) 
-- [【V2EX】2022-10-26-公积金有十几万，在不买房的情况下有办法一次性取出来吗？北京地区](https://www.v2ex.com/t/889993) 
-- [【V2EX】2022-10-26-给-monolith-repo-更新包的时候，你会做哪些检查？](https://www.v2ex.com/t/889989) 
-- [【V2EX】2022-10-26-tg-为啥非得要通讯录权限？](https://www.v2ex.com/t/889988) 
-- [【V2EX】2022-10-26-你是怎么打开-V2EX-页面的](https://www.v2ex.com/t/889987) 
 - [【技术头条】2022-10-26-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-26-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-26-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

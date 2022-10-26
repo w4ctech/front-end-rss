@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-26 06:55:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-26 07:17:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1915,6 +1915,11 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-10-26-招募小伙伴一起搭建中国公开数据共享平台](https://www.v2ex.com/t/890045) 
+- [2022-10-26-今年大家年终奖怎么样？](https://www.v2ex.com/t/890041) 
+- [2022-10-26-拔了耳机还在放歌](https://www.v2ex.com/t/890040) 
+- [2022-10-26-谷歌翻译不能用了，-IDEA-除了-translation-还有什么插件](https://www.v2ex.com/t/890038) 
+- [2022-10-26-求助-同事脚臭怎么办](https://www.v2ex.com/t/890037) 
 - [2022-10-26-小房间用来做啥](https://www.v2ex.com/t/890036) 
 - [2022-10-26-海鲜市场卖的-AWS-优惠码可以买么？](https://www.v2ex.com/t/890034) 
 - [2022-10-26-走过路过，不要错过，阿里云国际站腾讯云国际站可提供实名账户，代充值可付-USDT](https://www.v2ex.com/t/890033) 
@@ -1934,13 +1939,6 @@
 - [2022-10-26-想注册个新的-gmail，发现+86-手机号码无法通过验证](https://www.v2ex.com/t/890004) 
 - [2022-10-26-手机上开了代理后京东-app-无法联网，有遇到同样情况的吗？](https://www.v2ex.com/t/890003) 
 - [2022-10-26-深圳/南山-Web3-招技术总监，技术大佬](https://www.v2ex.com/t/890001) 
-- [2022-10-26-M2-MacBook-Air-雷电口充电和外接失效](https://www.v2ex.com/t/889997) 
-- [2022-10-26-windows-寻找一款辅助软件](https://www.v2ex.com/t/889996) 
-- [2022-10-26-iPadOS-16.1-下备忘录耗电异常，-Apple-Pencil-延迟严重](https://www.v2ex.com/t/889994) 
-- [2022-10-26-公积金有十几万，在不买房的情况下有办法一次性取出来吗？北京地区](https://www.v2ex.com/t/889993) 
-- [2022-10-26-给-monolith-repo-更新包的时候，你会做哪些检查？](https://www.v2ex.com/t/889989) 
-- [2022-10-26-tg-为啥非得要通讯录权限？](https://www.v2ex.com/t/889988) 
-- [2022-10-26-你是怎么打开-V2EX-页面的](https://www.v2ex.com/t/889987) 
 - [2022-10-26-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-26-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-26-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

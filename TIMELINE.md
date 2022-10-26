@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-26 22:16:41。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-10-26 22:46:41。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -72,6 +72,7 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-10-16-2022年新出了哪些form表单新特性？](https://www.zhangxinxu.com/wordpress/2022/10/2022-new-form-property/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-12-CSS-::file-selector-button伪元素简介](https://www.zhangxinxu.com/wordpress/2022/10/css-file-selector-button/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-12-更符合书写习惯的CSS媒体查询Range语法](https://www.zhangxinxu.com/wordpress/2022/10/css-media-range-syntax/) 
+- [【V2EX】2022-10-26-有靠谱的-Web3.0-培训吗,-请推荐-谢谢](https://www.v2ex.com/t/890219) 
 - [【V2EX】2022-10-26-校友邮箱可以终身用-edu-一辈子?](https://www.v2ex.com/t/890217) 
 - [【V2EX】2022-10-26-和大佬合作开发了一个点击-dom-自动打开编辑器跳转到指定源码的打包器插件](https://www.v2ex.com/t/890214) 
 - [【V2EX】2022-10-26-Windows-Terminal-可以移植到-macOS-吗](https://www.v2ex.com/t/890213) 
@@ -102,7 +103,6 @@
 - [【V2EX】2022-10-26-Cloudflare-Zero-Trust-添加付款方式时一直提示错误](https://www.v2ex.com/t/890172) 
 - [【V2EX】2022-10-26-关于中文公版书的保护事业你是否想要参与？招募志愿者，让知识的传播不再有任何门槛，让文明的硕果源远流长](https://www.v2ex.com/t/890171) 
 - [【V2EX】2022-10-26-Alfred-有没有可能接入聚焦搜索里面照片搜索等新特性](https://www.v2ex.com/t/890170) 
-- [【V2EX】2022-10-26-升级-macOS13-后开机无限重启](https://www.v2ex.com/t/890169) 
 - [【技术头条】2022-10-26-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-26-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-26-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-26 05:51:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-26 06:20:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1915,6 +1915,10 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-10-26-前端展示中实现批量标签动态生成](https://www.v2ex.com/t/890015) 
+- [2022-10-26-一个关于-AI-能力集成的想法](https://www.v2ex.com/t/890013) 
+- [2022-10-26-升级-macOS13-之后，更搞不懂-MacBook-的刘海到底图啥了](https://www.v2ex.com/t/890012) 
+- [2022-10-26-MacBook-Air-升级-Ventura-后-USB-供电异常](https://www.v2ex.com/t/890010) 
 - [2022-10-26-macbook-外接键盘-cmd-加上-tab-失效](https://www.v2ex.com/t/890008) 
 - [2022-10-26-PyBoke:-极简博客生成器（含一些小功能）](https://www.v2ex.com/t/890007) 
 - [2022-10-26-想注册个新的-gmail，发现+86-手机号码无法通过验证](https://www.v2ex.com/t/890004) 
@@ -1922,7 +1926,6 @@
 - [2022-10-26-深圳/南山-Web3-招技术总监，技术大佬](https://www.v2ex.com/t/890001) 
 - [2022-10-26-M2-MacBook-Air-雷电口充电和外接失效](https://www.v2ex.com/t/889997) 
 - [2022-10-26-windows-寻找一款辅助软件](https://www.v2ex.com/t/889996) 
-- [2022-10-26-最新腾讯云香港服务器-ip-容易被墙，有人也这样么？](https://www.v2ex.com/t/889995) 
 - [2022-10-26-iPadOS-16.1-下备忘录耗电异常，-Apple-Pencil-延迟严重](https://www.v2ex.com/t/889994) 
 - [2022-10-26-公积金有十几万，在不买房的情况下有办法一次性取出来吗？北京地区](https://www.v2ex.com/t/889993) 
 - [2022-10-26-给-monolith-repo-更新包的时候，你会做哪些检查？](https://www.v2ex.com/t/889989) 
@@ -1941,11 +1944,6 @@
 - [2022-10-26-怎么看清华大学-700-多门学科用英语授课](https://www.v2ex.com/t/889972) 
 - [2022-10-26-mac-hosts-文件被锁定，无法解锁，有人遇到吗?](https://www.v2ex.com/t/889971) 
 - [2022-10-26-隔天不运动就浑身疼，正常么？雾霾天怎么办？](https://www.v2ex.com/t/889969) 
-- [2022-10-26-关于台前调度的功能小分享](https://www.v2ex.com/t/889967) 
-- [2022-10-26-异地银行销户到底啥时候完全落地啊](https://www.v2ex.com/t/889966) 
-- [2022-10-26-thinkbook16+-amd6800-每日必掉驱动](https://www.v2ex.com/t/889964) 
-- [2022-10-26-MacBook-新激活设备存在磁盘-power-cycle-200-多次和-60-多小时通电，这个现象正常吗](https://www.v2ex.com/t/889963) 
-- [2022-10-26-前端贴图仔突然有感，同时想转到别的方向](https://www.v2ex.com/t/889961) 
 - [2022-10-26-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-26-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-26-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

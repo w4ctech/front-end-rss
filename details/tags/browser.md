@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-26 05:51:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-26 06:20:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -15,4 +15,3 @@
 - [2021-01-01-大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html) 
 - [2022-10-26-session-p2p-聊天软件安全吗?](https://www.v2ex.com/t/890006) 
 - [2022-10-26-开源的串口/蓝牙/网络调试助手-SerialTest，支持-Windows/-Linux-/Android](https://www.v2ex.com/t/889998) 
-- [2022-10-26-关于-ssh-连接-ubuntu-使用-printk-调试没有输出调试信息的一个提问](https://www.v2ex.com/t/889959) 

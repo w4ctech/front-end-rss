@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2022-10-27 17:32:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-27 17:50:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-10-27-搞了好久的，终于为-SDB-增加了-lua-脚本](https://www.v2ex.com/t/890547) 
+- [2022-10-27-Android-开发工程师.-远程工作岗位](https://www.v2ex.com/t/890545) 
 - [2022-10-27-哪个城市最适合躺平](https://www.v2ex.com/t/890544) 
 - [2022-10-27-Google-Drive-在-Ventura-中会将废纸篓中的文件同步到云盘](https://www.v2ex.com/t/890543) 
 - [2022-10-27-app-安卓前端-远程工作岗位](https://www.v2ex.com/t/890542) 
@@ -36,6 +38,3 @@
 - [2022-10-27-iPadOS-16.1-打开台前调度的一个严重问题](https://www.v2ex.com/t/890502) 
 - [2022-10-27-大龄-29-岁，不写代码已-3-年，还能找到一份-Android-开发的工作吗？](https://www.v2ex.com/t/890501) 
 - [2022-10-27-广州移动-IPV6-莫名其妙丢失-恢复设置后-依然无果](https://www.v2ex.com/t/890500) 
-- [2022-10-27-Dynamic-Island-on-MacBook-Pro-with-notch?](https://www.v2ex.com/t/890497) 
-- [2022-10-27-"先进团队先用飞书"---使用飞书开放接口的各种无语](https://www.v2ex.com/t/890496) 
-- [2022-10-27-vscode-的-C++插件右上角三角形运行按钮消失了是怎么回事](https://www.v2ex.com/t/890495) 

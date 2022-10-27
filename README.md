@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-27 22:15:47，:rocket: 更新条数: +2001， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-27 22:43:10，:rocket: 更新条数: +1999， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -496,10 +496,8 @@
 - [2022-10-27-应届生的-Offer-选择，想听听大家的意见](https://www.v2ex.com/t/890549) ![](assets/new.png)  
 - [2022-10-27-ubiquity-框架怎么国内一点资料都没有](https://www.v2ex.com/t/890548) ![](assets/new.png)  
 - [2022-10-27-搞了好久的，终于为-SDB-增加了-lua-脚本](https://www.v2ex.com/t/890547) ![](assets/new.png)  
-- [2022-10-27-Android-开发工程师.-远程工作岗位](https://www.v2ex.com/t/890545) ![](assets/new.png)  
 - [2022-10-27-哪个城市最适合躺平](https://www.v2ex.com/t/890544) ![](assets/new.png)  
 - [2022-10-27-Google-Drive-在-Ventura-中会将废纸篓中的文件同步到云盘](https://www.v2ex.com/t/890543) ![](assets/new.png)  
-- [2022-10-27-app-安卓前端-远程工作岗位](https://www.v2ex.com/t/890542) ![](assets/new.png)  
 - [2022-10-27-收-E3-MSDN-全局-1-个](https://www.v2ex.com/t/890541) ![](assets/new.png)  
 - [2022-10-27-有了解香港的-V-友吗？香港的高端人才通行证计划是啥概念，满足条件的都能拿通行证过去找工作？](https://www.v2ex.com/t/890540) ![](assets/new.png)  
 - [2022-10-27-偶然间发现，百度搜编程语言，培训班广告已经被撤掉了。。。](https://www.v2ex.com/t/890538) ![](assets/new.png)  
@@ -511,6 +509,8 @@
 - [2022-10-27-广州求职-Node.js-后端开发（4-年经验）](https://www.v2ex.com/t/890527) ![](assets/new.png)  
 - [2022-10-27-我好像发现了一个秘密](https://www.v2ex.com/t/890526) ![](assets/new.png)  
 - [2022-10-27-阿姆斯特丹碳咨询公司招后端~-AWS-Software-Architect-/-Back-End-Developer-Vacancy-in-Amsterdam](https://www.v2ex.com/t/890525) ![](assets/new.png)  
+- [2022-10-27-基于-Apple-Music-开放的-API-做一个偏社交的音乐软件怎么样](https://www.v2ex.com/t/890524) ![](assets/new.png)  
+- [2022-10-27-三星手机微信步数今天突然不更新了](https://www.v2ex.com/t/890523) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

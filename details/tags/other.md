@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-27 17:02:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-27 17:32:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1915,6 +1915,9 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-10-27-哪个城市最适合躺平](https://www.v2ex.com/t/890544) 
+- [2022-10-27-Google-Drive-在-Ventura-中会将废纸篓中的文件同步到云盘](https://www.v2ex.com/t/890543) 
+- [2022-10-27-app-安卓前端-远程工作岗位](https://www.v2ex.com/t/890542) 
 - [2022-10-27-收-E3-MSDN-全局-1-个](https://www.v2ex.com/t/890541) 
 - [2022-10-27-有了解香港的-V-友吗？香港的高端人才通行证计划是啥概念，满足条件的都能拿通行证过去找工作？](https://www.v2ex.com/t/890540) 
 - [2022-10-27-偶然间发现，百度搜编程语言，培训班广告已经被撤掉了。。。](https://www.v2ex.com/t/890538) 
@@ -1941,9 +1944,6 @@
 - [2022-10-27-Dynamic-Island-on-MacBook-Pro-with-notch?](https://www.v2ex.com/t/890497) 
 - [2022-10-27-"先进团队先用飞书"---使用飞书开放接口的各种无语](https://www.v2ex.com/t/890496) 
 - [2022-10-27-vscode-的-C++插件右上角三角形运行按钮消失了是怎么回事](https://www.v2ex.com/t/890495) 
-- [2022-10-27-Choc，-iPod-和-iPad-都用不了？](https://www.v2ex.com/t/890494) 
-- [2022-10-27-红米-Note-12-Pro-和-Note-11T-Pro-如何选？](https://www.v2ex.com/t/890493) 
-- [2022-10-27-搬瓦工啊！又被封啦～](https://www.v2ex.com/t/890492) 
 - [2022-10-27-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-27-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-27-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

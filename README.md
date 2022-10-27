@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-27 17:02:56，:rocket: 更新条数: +2000， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-27 17:32:41，:rocket: 更新条数: +2000， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-10-27-哪个城市最适合躺平](https://www.v2ex.com/t/890544) ![](assets/new.png)  
+- [2022-10-27-Google-Drive-在-Ventura-中会将废纸篓中的文件同步到云盘](https://www.v2ex.com/t/890543) ![](assets/new.png)  
+- [2022-10-27-app-安卓前端-远程工作岗位](https://www.v2ex.com/t/890542) ![](assets/new.png)  
 - [2022-10-27-收-E3-MSDN-全局-1-个](https://www.v2ex.com/t/890541) ![](assets/new.png)  
 - [2022-10-27-有了解香港的-V-友吗？香港的高端人才通行证计划是啥概念，满足条件的都能拿通行证过去找工作？](https://www.v2ex.com/t/890540) ![](assets/new.png)  
 - [2022-10-27-偶然间发现，百度搜编程语言，培训班广告已经被撤掉了。。。](https://www.v2ex.com/t/890538) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-10-27-有没有能实现-Year-Progress-的锁屏小组件](https://www.v2ex.com/t/890521) ![](assets/new.png)  
 - [2022-10-27-字节自研-Linux-操作系统-veLinux](https://www.v2ex.com/t/890519) ![](assets/new.png)  
 - [2022-10-27-双-11-快到了-5k-左右笔记本求推荐](https://www.v2ex.com/t/890518) ![](assets/new.png)  
-- [2022-10-27-家庭网络设置问题](https://www.v2ex.com/t/890517) ![](assets/new.png)  
-- [2022-10-27-手机端-Safari-无法使用-Google-登录-v2ex](https://www.v2ex.com/t/890513) ![](assets/new.png)  
-- [2022-10-27-K8s-经防火墙访问外部业务系统问题](https://www.v2ex.com/t/890510) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

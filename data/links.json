@@ -9953,6 +9953,86 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "RustDesk 招聘远程实习（Rust + Flutter)",
+        "link": "https://www.v2ex.com/t/890426",
+        "date": "2022-10-27"
+      },
+      {
+        "title": "ventura 取消了网络位置功能，有什么办法替代",
+        "link": "https://www.v2ex.com/t/890425",
+        "date": "2022-10-27"
+      },
+      {
+        "title": "mosdns 用 geosite 分流，规则里面是有去广告规则的，有误杀，建议在配置文件中关闭。",
+        "link": "https://www.v2ex.com/t/890424",
+        "date": "2022-10-27"
+      },
+      {
+        "title": "ipv6 无 internet 访问权限是我的问题还是运营商的问题",
+        "link": "https://www.v2ex.com/t/890422",
+        "date": "2022-10-27"
+      },
+      {
+        "title": "各位兄弟，有没有自学 excel 的 网站或者书籍",
+        "link": "https://www.v2ex.com/t/890421",
+        "date": "2022-10-27"
+      },
+      {
+        "title": "有各语言 urlencode 的统一类库或者文章么",
+        "link": "https://www.v2ex.com/t/890419",
+        "date": "2022-10-27"
+      },
+      {
+        "title": "请教各位老哥一个关于 Google Voice 接听电话的问题。",
+        "link": "https://www.v2ex.com/t/890418",
+        "date": "2022-10-27"
+      },
+      {
+        "title": "双十一家里需要一个 NAS, 1. 存手机里的照片和视频 2. 存老婆想看的日剧(中日双字幕) 3. 存娃的学习视频.",
+        "link": "https://www.v2ex.com/t/890417",
+        "date": "2022-10-27"
+      },
+      {
+        "title": "从 macOS Ventura 看，摄像头人物居中似乎靠软件即可实现，为何不在 Mac 自带摄像头上直接实现呢？",
+        "link": "https://www.v2ex.com/t/890416",
+        "date": "2022-10-27"
+      },
+      {
+        "title": "官翻已上 M2 Air",
+        "link": "https://www.v2ex.com/t/890415",
+        "date": "2022-10-27"
+      },
+      {
+        "title": "第二代 Apple Pencil 充电至 98%就不充了",
+        "link": "https://www.v2ex.com/t/890414",
+        "date": "2022-10-27"
+      },
+      {
+        "title": "各位佬，请问私有 registry， mac 的 push 老 503/connection refused 的问题有遇到过吗？",
+        "link": "https://www.v2ex.com/t/890413",
+        "date": "2022-10-27"
+      },
+      {
+        "title": "数码荔枝购买的 License 是一个用户独享吗？",
+        "link": "https://www.v2ex.com/t/890412",
+        "date": "2022-10-27"
+      },
+      {
+        "title": "beta.icloud.com 新的 icloud 页面正在测试 不知道服务端能不能支棱起来",
+        "link": "https://www.v2ex.com/t/890411",
+        "date": "2022-10-27"
+      },
+      {
+        "title": "[程序员的解忧杂货铺] 微信摸鱼群诚邀大佬们加入~",
+        "link": "https://www.v2ex.com/t/890409",
+        "date": "2022-10-27"
+      },
+      {
+        "title": "DeepL 一个月已经出现至少 10 次改变原文意思的翻译了。",
+        "link": "https://www.v2ex.com/t/890408",
+        "date": "2022-10-27"
+      },
+      {
         "title": "Apple Watch S7，运动时，间歇性的不能记录心率",
         "link": "https://www.v2ex.com/t/890406",
         "date": "2022-10-27"
@@ -10070,66 +10150,6 @@
       {
         "title": "有人知道 SIGGRAPH 论文用的是什么字体吗？",
         "link": "https://www.v2ex.com/t/890377",
-        "date": "2022-10-27"
-      },
-      {
-        "title": "所以 16.1 是取消了 LivePhoto 壁纸吗",
-        "link": "https://www.v2ex.com/t/890374",
-        "date": "2022-10-27"
-      },
-      {
-        "title": "校招应届生，目前有几个 offer 可以咨询一下各位德高望重的前辈的建议吗？非常非常感谢！",
-        "link": "https://www.v2ex.com/t/890373",
-        "date": "2022-10-27"
-      },
-      {
-        "title": "页面卡死无法响应，似乎是 GitHub 的 Bug？",
-        "link": "https://www.v2ex.com/t/890372",
-        "date": "2022-10-27"
-      },
-      {
-        "title": "求一个 yubikey 优惠码",
-        "link": "https://www.v2ex.com/t/890369",
-        "date": "2022-10-27"
-      },
-      {
-        "title": "[杭州] 字节电商-前端",
-        "link": "https://www.v2ex.com/t/890368",
-        "date": "2022-10-27"
-      },
-      {
-        "title": "electron-builder 打包后的应用打不开还一直开启进程",
-        "link": "https://www.v2ex.com/t/890367",
-        "date": "2022-10-27"
-      },
-      {
-        "title": "有没有办法在 Windows10 上实现类似 iPhone 的输错多次密码直接抹掉整台电脑（或者抹掉指定硬盘也行）？",
-        "link": "https://www.v2ex.com/t/890366",
-        "date": "2022-10-27"
-      },
-      {
-        "title": "Youtube 会员+google One",
-        "link": "https://www.v2ex.com/t/890363",
-        "date": "2022-10-27"
-      },
-      {
-        "title": "Obsidian 不支持 GitHub 这种链接方式吗？",
-        "link": "https://www.v2ex.com/t/890361",
-        "date": "2022-10-27"
-      },
-      {
-        "title": "公司推出股权认购计划，计划 5 年内上市，不知道要不要投资一下，应该从哪些方面考虑呢？",
-        "link": "https://www.v2ex.com/t/890360",
-        "date": "2022-10-27"
-      },
-      {
-        "title": "GitHub 在看代码的时候卡死了",
-        "link": "https://www.v2ex.com/t/890359",
-        "date": "2022-10-27"
-      },
-      {
-        "title": "项目实战：在线报价采购系统（React +SpreadJS+Echarts）",
-        "link": "https://www.v2ex.com/t/890358",
         "date": "2022-10-27"
       }
     ]

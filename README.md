@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-27 18:21:30，:rocket: 更新条数: +1999， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-27 18:53:48，:rocket: 更新条数: +2000， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-10-27-ubiquity-框架怎么国内一点资料都没有](https://www.v2ex.com/t/890548) ![](assets/new.png)  
 - [2022-10-27-搞了好久的，终于为-SDB-增加了-lua-脚本](https://www.v2ex.com/t/890547) ![](assets/new.png)  
 - [2022-10-27-Android-开发工程师.-远程工作岗位](https://www.v2ex.com/t/890545) ![](assets/new.png)  
 - [2022-10-27-哪个城市最适合躺平](https://www.v2ex.com/t/890544) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-10-27-基于-Apple-Music-开放的-API-做一个偏社交的音乐软件怎么样](https://www.v2ex.com/t/890524) ![](assets/new.png)  
 - [2022-10-27-三星手机微信步数今天突然不更新了](https://www.v2ex.com/t/890523) ![](assets/new.png)  
 - [2022-10-27-TrueNAS-配置能干吗](https://www.v2ex.com/t/890522) ![](assets/new.png)  
-- [2022-10-27-有没有能实现-Year-Progress-的锁屏小组件](https://www.v2ex.com/t/890521) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-10-27 22:43:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-27 23:09:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-10-27-为何-Apple-需要那么多员工，全球总共超-15-万](https://www.v2ex.com/t/890552) 
 - [2022-10-27-iphone6s-还能不能继续苟](https://www.v2ex.com/t/890551) 
 - [2022-10-27-ai-独立游戏开发还要多久](https://www.v2ex.com/t/890550) 
 - [2022-10-27-应届生的-Offer-选择，想听听大家的意见](https://www.v2ex.com/t/890549) 
@@ -37,4 +38,3 @@
 - [2022-10-27-macOS13，为什么键盘有时会用麦克风](https://www.v2ex.com/t/890506) 
 - [2022-10-27-想配个磁盘阵列](https://www.v2ex.com/t/890505) 
 - [2022-10-27-群晖发布会来了~](https://www.v2ex.com/t/890503) 
-- [2022-10-27-iPadOS-16.1-打开台前调度的一个严重问题](https://www.v2ex.com/t/890502) 

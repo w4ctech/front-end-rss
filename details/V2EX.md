@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2022-10-27 14:08:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-27 14:50:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-10-27-双-11-快到了-5k-左右笔记本求推荐](https://www.v2ex.com/t/890518) 
+- [2022-10-27-家庭网络设置问题](https://www.v2ex.com/t/890517) 
+- [2022-10-27-手机端-Safari-无法使用-Google-登录-v2ex](https://www.v2ex.com/t/890513) 
 - [2022-10-27-K8s-经防火墙访问外部业务系统问题](https://www.v2ex.com/t/890510) 
 - [2022-10-27-vercel-部署-github-的-hexo-博客失败](https://www.v2ex.com/t/890509) 
 - [2022-10-27-光猫拨号可以跑到有线-750M-用-AX88U-拨号反而只能跑-400M](https://www.v2ex.com/t/890507) 
@@ -37,8 +40,3 @@
 - [2022-10-27-关于链路聚合突破千兆的一点问题](https://www.v2ex.com/t/890471) 
 - [2022-10-27-好像不让我发帖了](https://www.v2ex.com/t/890470) 
 - [2022-10-27-关于-WebGL-的问题](https://www.v2ex.com/t/890469) 
-- [2022-10-27-开源的串口/蓝牙/网络调试助手-SerialTest，支持-Windows/-Linux-/Android](https://www.v2ex.com/t/890468) 
-- [2022-10-27-CDN-大文件传输到一半终止，如何收费？](https://www.v2ex.com/t/890466) 
-- [2022-10-27-为什么没有手机厂商出售无预装系统的手机？](https://www.v2ex.com/t/890465) 
-- [2022-10-27-elasticsearch-官网-elastic.co-打不开是咋回事？](https://www.v2ex.com/t/890463) 
-- [2022-10-27-有用-dtale-分析数据的大神吗？我遇到问题了请进](https://www.v2ex.com/t/890461) 

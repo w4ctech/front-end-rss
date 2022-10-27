@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2022-10-27 10:46:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-27 11:14:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-10-27-Oracle-的风控策略是否太不尊重人了？](https://www.v2ex.com/t/890472) 
+- [2022-10-27-关于链路聚合突破千兆的一点问题](https://www.v2ex.com/t/890471) 
 - [2022-10-27-好像不让我发帖了](https://www.v2ex.com/t/890470) 
 - [2022-10-27-关于-WebGL-的问题](https://www.v2ex.com/t/890469) 
 - [2022-10-27-开源的串口/蓝牙/网络调试助手-SerialTest，支持-Windows/-Linux-/Android](https://www.v2ex.com/t/890468) 
@@ -42,5 +44,3 @@
 - [2022-10-27-RustDesk-招聘远程实习（Rust-+-Flutter](https://www.v2ex.com/t/890426) 
 - [2022-10-27-ventura-取消了网络位置功能，有什么办法替代](https://www.v2ex.com/t/890425) 
 - [2022-10-27-mosdns-用-geosite-分流，规则里面是有去广告规则的，有误杀，建议在配置文件中关闭。](https://www.v2ex.com/t/890424) 
-- [2022-10-27-ipv6-无-internet-访问权限是我的问题还是运营商的问题](https://www.v2ex.com/t/890422) 
-- [2022-10-27-各位兄弟，有没有自学-excel-的-网站或者书籍](https://www.v2ex.com/t/890421) 

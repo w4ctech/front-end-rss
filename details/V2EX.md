@@ -1,10 +1,20 @@
-:alarm_clock: 更新时间: 2022-10-27 07:15:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-27 07:40:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-10-27-Apple-Watch-S7，运动时，间歇性的不能记录心率](https://www.v2ex.com/t/890406) 
+- [2022-10-27-请推荐款类似-x-shell-的软件，基于-windows-on-ARM-平台](https://www.v2ex.com/t/890405) 
+- [2022-10-27-面包多怎么打不开了](https://www.v2ex.com/t/890403) 
+- [2022-10-27-Apple-watch-更新了-watch-OS9.1，经纬度回来了？](https://www.v2ex.com/t/890402) 
+- [2022-10-27-有人可以帮注册台湾虾皮吗?可付费](https://www.v2ex.com/t/890400) 
+- [2022-10-27-请教大家，想要一个显示器，又能接-xboxs，又能接-mac](https://www.v2ex.com/t/890399) 
+- [2022-10-27-Macbook-的-xdr-显示器在看-YouTube-的某些视频，亮度会非常高](https://www.v2ex.com/t/890398) 
+- [2022-10-27-成家后的收入所属问题](https://www.v2ex.com/t/890397) 
+- [2022-10-27-windows-上有没有管理软件启动的程序，可以在程序退出的情况下重启服务](https://www.v2ex.com/t/890396) 
+- [2022-10-27-怎么改变颓废的状态？](https://www.v2ex.com/t/890395) 
 - [2022-10-27--杭州-字节--国际化电商---后端](https://www.v2ex.com/t/890394) 
 - [2022-10-27-Airpods-pro-返厂后提示“无法重现问题原产品已寄出”。](https://www.v2ex.com/t/890392) 
 - [2022-10-27-6-年-Java-开发，找一份副业，工作日远程，下班和周末可到场（深圳）](https://www.v2ex.com/t/890391) 
@@ -31,12 +41,3 @@
 - [2022-10-27-公司推出股权认购计划，计划-5-年内上市，不知道要不要投资一下，应该从哪些方面考虑呢？](https://www.v2ex.com/t/890360) 
 - [2022-10-27-GitHub-在看代码的时候卡死了](https://www.v2ex.com/t/890359) 
 - [2022-10-27-项目实战：在线报价采购系统（React-+SpreadJS+Echarts）](https://www.v2ex.com/t/890358) 
-- [2022-10-27-求助！升级-Ventura-后，-spotlight-右侧预览消失](https://www.v2ex.com/t/890355) 
-- [2022-10-27-求助：免费-MP3-to-txt-工具](https://www.v2ex.com/t/890354) 
-- [2022-10-27-外派-SAP-的职位（可转正）：-Java-开发，-3-年左右，英语能开口，薪水好谈](https://www.v2ex.com/t/890353) 
-- [2022-10-27-疫情隔离的一个月，你解🔒了哪些新技能？](https://www.v2ex.com/t/890352) 
-- [2022-10-27-大家开发的系统因为疫情都改过哪些逻辑？](https://www.v2ex.com/t/890351) 
-- [2022-10-27-共享厨师计划有人入场吗](https://www.v2ex.com/t/890349) 
-- [2022-10-27-app-苹果前端-远程工作岗位](https://www.v2ex.com/t/890348) 
-- [2022-10-27-有什么好的有声书推荐吗](https://www.v2ex.com/t/890346) 
-- [2022-10-27-每次-git-pull-新版本，都会自动生成一个-merge？](https://www.v2ex.com/t/890345) 

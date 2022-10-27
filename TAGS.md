@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-10-27 07:15:19。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-27 07:40:31。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -234,6 +234,7 @@
 
 - [【武汉肺炎防疫全纪录(财新网)】广州17岁男生在定点医院参加高考-特殊考场视频监考](https://m.caixin.com/m/2021-06-05/101723418.html)
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
+- [【V2EX】Macbook-的-xdr-显示器在看-YouTube-的某些视频，亮度会非常高](https://www.v2ex.com/t/890398)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -327,7 +328,6 @@
 - [【V2EX】页面卡死无法响应，似乎是-GitHub-的-Bug？](https://www.v2ex.com/t/890372)
 - [【V2EX】Obsidian-不支持-GitHub-这种链接方式吗？](https://www.v2ex.com/t/890361)
 - [【V2EX】GitHub-在看代码的时候卡死了](https://www.v2ex.com/t/890359)
-- [【V2EX】每次-git-pull-新版本，都会自动生成一个-merge？](https://www.v2ex.com/t/890345)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

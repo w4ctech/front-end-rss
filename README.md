@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-27 07:15:19，:rocket: 更新条数: +2001， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-27 07:40:31，:rocket: 更新条数: +2002， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,16 @@
 </summary>
 
 
+- [2022-10-27-Apple-Watch-S7，运动时，间歇性的不能记录心率](https://www.v2ex.com/t/890406) ![](assets/new.png)  
+- [2022-10-27-请推荐款类似-x-shell-的软件，基于-windows-on-ARM-平台](https://www.v2ex.com/t/890405) ![](assets/new.png)  
+- [2022-10-27-面包多怎么打不开了](https://www.v2ex.com/t/890403) ![](assets/new.png)  
+- [2022-10-27-Apple-watch-更新了-watch-OS9.1，经纬度回来了？](https://www.v2ex.com/t/890402) ![](assets/new.png)  
+- [2022-10-27-有人可以帮注册台湾虾皮吗?可付费](https://www.v2ex.com/t/890400) ![](assets/new.png)  
+- [2022-10-27-请教大家，想要一个显示器，又能接-xboxs，又能接-mac](https://www.v2ex.com/t/890399) ![](assets/new.png)  
+- [2022-10-27-Macbook-的-xdr-显示器在看-YouTube-的某些视频，亮度会非常高](https://www.v2ex.com/t/890398) ![](assets/new.png)  
+- [2022-10-27-成家后的收入所属问题](https://www.v2ex.com/t/890397) ![](assets/new.png)  
+- [2022-10-27-windows-上有没有管理软件启动的程序，可以在程序退出的情况下重启服务](https://www.v2ex.com/t/890396) ![](assets/new.png)  
+- [2022-10-27-怎么改变颓废的状态？](https://www.v2ex.com/t/890395) ![](assets/new.png)  
 - [2022-10-27--杭州-字节--国际化电商---后端](https://www.v2ex.com/t/890394) ![](assets/new.png)  
 - [2022-10-27-Airpods-pro-返厂后提示“无法重现问题原产品已寄出”。](https://www.v2ex.com/t/890392) ![](assets/new.png)  
 - [2022-10-27-6-年-Java-开发，找一份副业，工作日远程，下班和周末可到场（深圳）](https://www.v2ex.com/t/890391) ![](assets/new.png)  
@@ -501,16 +511,6 @@
 - [2022-10-27-求-Linux-host-上的-windows-guest-虚机启用-3d-加速方法.](https://www.v2ex.com/t/890384) ![](assets/new.png)  
 - [2022-10-27-airpodspro-2-单耳被马桶冲走了，去闲鱼补个以后还能-ac-吗？、](https://www.v2ex.com/t/890383) ![](assets/new.png)  
 - [2022-10-27-以-JSON-为数据的逻辑式编程](https://www.v2ex.com/t/890382) ![](assets/new.png)  
-- [2022-10-27-wsl-安装-cuda-报检测不到驱动,怎么解决呢?](https://www.v2ex.com/t/890381) ![](assets/new.png)  
-- [2022-10-27-招人！-远程工作---Java-/C#/Dotnet-工程师---5-天制](https://www.v2ex.com/t/890379) ![](assets/new.png)  
-- [2022-10-27-上海/杭州字节跳动-国际电商-测开！急急急！](https://www.v2ex.com/t/890378) ![](assets/new.png)  
-- [2022-10-27-有人知道-SIGGRAPH-论文用的是什么字体吗？](https://www.v2ex.com/t/890377) ![](assets/new.png)  
-- [2022-10-27-所以-16.1-是取消了-LivePhoto-壁纸吗](https://www.v2ex.com/t/890374) ![](assets/new.png)  
-- [2022-10-27-校招应届生，目前有几个-offer-可以咨询一下各位德高望重的前辈的建议吗？非常非常感谢！](https://www.v2ex.com/t/890373) ![](assets/new.png)  
-- [2022-10-27-页面卡死无法响应，似乎是-GitHub-的-Bug？](https://www.v2ex.com/t/890372) ![](assets/new.png)  
-- [2022-10-27-求一个-yubikey-优惠码](https://www.v2ex.com/t/890369) ![](assets/new.png)  
-- [2022-10-27-杭州-字节电商-前端](https://www.v2ex.com/t/890368) ![](assets/new.png)  
-- [2022-10-27-electron-builder-打包后的应用打不开还一直开启进程](https://www.v2ex.com/t/890367) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

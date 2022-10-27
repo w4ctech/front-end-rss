@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-27 16:21:13，:rocket: 更新条数: +2000， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-27 17:02:56，:rocket: 更新条数: +2000， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-10-27-收-E3-MSDN-全局-1-个](https://www.v2ex.com/t/890541) ![](assets/new.png)  
+- [2022-10-27-有了解香港的-V-友吗？香港的高端人才通行证计划是啥概念，满足条件的都能拿通行证过去找工作？](https://www.v2ex.com/t/890540) ![](assets/new.png)  
+- [2022-10-27-偶然间发现，百度搜编程语言，培训班广告已经被撤掉了。。。](https://www.v2ex.com/t/890538) ![](assets/new.png)  
+- [2022-10-27-国内力推-IPv6-原是因为-IPv4-生态被美掌握](https://www.v2ex.com/t/890535) ![](assets/new.png)  
+- [2022-10-27-问一个双显示器的问题。](https://www.v2ex.com/t/890534) ![](assets/new.png)  
 - [2022-10-27-用手机谷歌搜索出问题了](https://www.v2ex.com/t/890533) ![](assets/new.png)  
 - [2022-10-27-Chrome/Edge-证书查看器怎么变这么丑，有还原`用系统证书查看器`的设置吗](https://www.v2ex.com/t/890532) ![](assets/new.png)  
 - [2022-10-27-求助-双十一核显电脑配置](https://www.v2ex.com/t/890528) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-10-27-家庭网络设置问题](https://www.v2ex.com/t/890517) ![](assets/new.png)  
 - [2022-10-27-手机端-Safari-无法使用-Google-登录-v2ex](https://www.v2ex.com/t/890513) ![](assets/new.png)  
 - [2022-10-27-K8s-经防火墙访问外部业务系统问题](https://www.v2ex.com/t/890510) ![](assets/new.png)  
-- [2022-10-27-vercel-部署-github-的-hexo-博客失败](https://www.v2ex.com/t/890509) ![](assets/new.png)  
-- [2022-10-27-光猫拨号可以跑到有线-750M-用-AX88U-拨号反而只能跑-400M](https://www.v2ex.com/t/890507) ![](assets/new.png)  
-- [2022-10-27-macOS13，为什么键盘有时会用麦克风](https://www.v2ex.com/t/890506) ![](assets/new.png)  
-- [2022-10-27-想配个磁盘阵列](https://www.v2ex.com/t/890505) ![](assets/new.png)  
-- [2022-10-27-群晖发布会来了~](https://www.v2ex.com/t/890503) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

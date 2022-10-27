@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-27 08:19:48，:rocket: 更新条数: +2006， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-27 08:48:58，:rocket: 更新条数: +2006， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,15 @@
 </summary>
 
 
+- [2022-10-27-有没有开源的大数据平台？](https://www.v2ex.com/t/890436) ![](assets/new.png)  
+- [2022-10-27-双十一小白装机-dy-烈士墙](https://www.v2ex.com/t/890435) ![](assets/new.png)  
+- [2022-10-27-iPad-OS-16-能上下分屏了吗?](https://www.v2ex.com/t/890434) ![](assets/new.png)  
+- [2022-10-27-Offer-选择，求大佬们给下建议](https://www.v2ex.com/t/890433) ![](assets/new.png)  
+- [2022-10-27-2020-年专科毕业-->-考了-3+2-专升本-->-2022-年本科毕业。现在想换工作，请问可以用专科学历包装两年工作经验去应聘吗？](https://www.v2ex.com/t/890432) ![](assets/new.png)  
+- [2022-10-27-求一个-Windows-系统备份的方案，单分区，但是需要排除掉下载目录](https://www.v2ex.com/t/890430) ![](assets/new.png)  
+- [2022-10-27-美区账号-paypal-支付失败](https://www.v2ex.com/t/890429) ![](assets/new.png)  
+- [2022-10-27-有了解过-jaeger-或者-signoz-的大佬么](https://www.v2ex.com/t/890428) ![](assets/new.png)  
+- [2022-10-27-外派-SAP-的职位（可转正）-上海张江：-前端开发，-3-年左右，英语能开口，薪水好谈](https://www.v2ex.com/t/890427) ![](assets/new.png)  
 - [2022-10-27-RustDesk-招聘远程实习（Rust-+-Flutter](https://www.v2ex.com/t/890426) ![](assets/new.png)  
 - [2022-10-27-ventura-取消了网络位置功能，有什么办法替代](https://www.v2ex.com/t/890425) ![](assets/new.png)  
 - [2022-10-27-mosdns-用-geosite-分流，规则里面是有去广告规则的，有误杀，建议在配置文件中关闭。](https://www.v2ex.com/t/890424) ![](assets/new.png)  
@@ -502,15 +511,6 @@
 - [2022-10-27-从-macOS-Ventura-看，摄像头人物居中似乎靠软件即可实现，为何不在-Mac-自带摄像头上直接实现呢？](https://www.v2ex.com/t/890416) ![](assets/new.png)  
 - [2022-10-27-官翻已上-M2-Air](https://www.v2ex.com/t/890415) ![](assets/new.png)  
 - [2022-10-27-第二代-Apple-Pencil-充电至-98%就不充了](https://www.v2ex.com/t/890414) ![](assets/new.png)  
-- [2022-10-27-各位佬，请问私有-registry，-mac-的-push-老-503/connection-refused-的问题有遇到过吗？](https://www.v2ex.com/t/890413) ![](assets/new.png)  
-- [2022-10-27-数码荔枝购买的-License-是一个用户独享吗？](https://www.v2ex.com/t/890412) ![](assets/new.png)  
-- [2022-10-27-beta.icloud.com-新的-icloud-页面正在测试-不知道服务端能不能支棱起来](https://www.v2ex.com/t/890411) ![](assets/new.png)  
-- [2022-10-27-程序员的解忧杂货铺-微信摸鱼群诚邀大佬们加入~](https://www.v2ex.com/t/890409) ![](assets/new.png)  
-- [2022-10-27-DeepL-一个月已经出现至少-10-次改变原文意思的翻译了。](https://www.v2ex.com/t/890408) ![](assets/new.png)  
-- [2022-10-27-Apple-Watch-S7，运动时，间歇性的不能记录心率](https://www.v2ex.com/t/890406) ![](assets/new.png)  
-- [2022-10-27-请推荐款类似-x-shell-的软件，基于-windows-on-ARM-平台](https://www.v2ex.com/t/890405) ![](assets/new.png)  
-- [2022-10-27-面包多怎么打不开了](https://www.v2ex.com/t/890403) ![](assets/new.png)  
-- [2022-10-27-Apple-watch-更新了-watch-OS9.1，经纬度回来了？](https://www.v2ex.com/t/890402) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-27 04:32:06，:rocket: 更新条数: +1999， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-27 05:10:17，:rocket: 更新条数: +2002， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,17 @@
 </summary>
 
 
+- [2022-10-27-没有客户端的刀斯林赶紧去下载](https://www.v2ex.com/t/890344) ![](assets/new.png)  
+- [2022-10-27-iPhone-准备-DFU-升级，请教正确备份和恢复资料的方法是什么](https://www.v2ex.com/t/890343) ![](assets/new.png)  
+- [2022-10-27-M2-MacBookair-macOS13-正式版-触控板缩放偶尔不行](https://www.v2ex.com/t/890342) ![](assets/new.png)  
+- [2022-10-27-怎么应付只知道要求加班的领导](https://www.v2ex.com/t/890339) ![](assets/new.png)  
+- [2022-10-27-买了个网易云音乐会员，买完就感觉没用了，会员能干啥](https://www.v2ex.com/t/890338) ![](assets/new.png)  
+- [2022-10-27-3389-端口开了两天，就被人搞了...](https://www.v2ex.com/t/890337) ![](assets/new.png)  
+- [2022-10-27-抓取-cnbeta-文章自用阅读，刑不刑，有多刑？](https://www.v2ex.com/t/890336) ![](assets/new.png)  
+- [2022-10-27-有没有英语学习的分享群？-华润万家](https://www.v2ex.com/t/890335) ![](assets/new.png)  
+- [2022-10-27-FFmpeg-的错误码](https://www.v2ex.com/t/890334) ![](assets/new.png)  
+- [2022-10-27-临时找-JSWeb-browser-算法开发（语法解释器）](https://www.v2ex.com/t/890333) ![](assets/new.png)  
+- [2022-10-27-升级-Ventura-后-git-ssh-似乎出了问题](https://www.v2ex.com/t/890332) ![](assets/new.png)  
 - [2022-10-27-教师教育优惠购买产品只能在官网吗？](https://www.v2ex.com/t/890331) ![](assets/new.png)  
 - [2022-10-27-光速联宽带提速脚本](https://www.v2ex.com/t/890330) ![](assets/new.png)  
 - [2022-10-27-入手了-官翻-mac-studio-32GB-+-2TB，请教-显示器、防尘、UPS-等](https://www.v2ex.com/t/890329) ![](assets/new.png)  
@@ -500,17 +511,6 @@
 - [2022-10-27-macOS-13-版本更新后，-swiftUI-的-matchedGeometryEffect-动画效果失效了](https://www.v2ex.com/t/890324) ![](assets/new.png)  
 - [2022-10-27-求一个文本编辑器，可以打开几十-G-的文本文件，-v2-有个帖子说过，但是忘记叫啥名字了](https://www.v2ex.com/t/890322) ![](assets/new.png)  
 - [2022-10-27-看到好多人在上那个短信模块的车？想问下这东西是干啥的？](https://www.v2ex.com/t/890321) ![](assets/new.png)  
-- [2022-10-27-chrome107-终于默认支持-hevc-了，-EMBY-测试直接串流](https://www.v2ex.com/t/890320) ![](assets/new.png)  
-- [2022-10-27-求助：找不到在线看的电影资源《还是觉得你最好》粤语版](https://www.v2ex.com/t/890319) ![](assets/new.png)  
-- [2022-10-27-出租自己一部分空余时间，承接各类需求](https://www.v2ex.com/t/890318) ![](assets/new.png)  
-- [2022-10-27-2022-找不到理由续费-Jetbrains-全家桶](https://www.v2ex.com/t/890315) ![](assets/new.png)  
-- [2022-10-27-使用小米云服务恢复数据，流量居然不走-443-走-80-HTTP](https://www.v2ex.com/t/890314) ![](assets/new.png)  
-- [2022-10-27-最近-notion-databases-数据都无法显示出来。。](https://www.v2ex.com/t/890312) ![](assets/new.png)  
-- [2022-10-27-技术大佬需求联系，阿里云国际站腾讯云国际站可提供实名账户，代充值可付-USDT](https://www.v2ex.com/t/890310) ![](assets/new.png)  
-- [2022-10-27-22-届，公司马上要干掉-it-部](https://www.v2ex.com/t/890309) ![](assets/new.png)  
-- [2022-10-27-8-年-Java-开发，找一份兼职，工作日远程，下班和周末可到场（深圳）](https://www.v2ex.com/t/890306) ![](assets/new.png)  
-- [2022-10-27-老婆婚前欠债-30-个，我该不该离婚？](https://www.v2ex.com/t/890304) ![](assets/new.png)  
-- [2022-10-27-请教一个问题，关于安卓里的应用乱拉屎的问题。](https://www.v2ex.com/t/890302) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

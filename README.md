@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-27 14:50:30，:rocket: 更新条数: +2001， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-27 15:15:59，:rocket: 更新条数: +2000， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-10-27-TrueNAS-配置能干吗](https://www.v2ex.com/t/890522) ![](assets/new.png)  
+- [2022-10-27-有没有能实现-Year-Progress-的锁屏小组件](https://www.v2ex.com/t/890521) ![](assets/new.png)  
+- [2022-10-27-字节自研-Linux-操作系统-veLinux](https://www.v2ex.com/t/890519) ![](assets/new.png)  
 - [2022-10-27-双-11-快到了-5k-左右笔记本求推荐](https://www.v2ex.com/t/890518) ![](assets/new.png)  
 - [2022-10-27-家庭网络设置问题](https://www.v2ex.com/t/890517) ![](assets/new.png)  
 - [2022-10-27-手机端-Safari-无法使用-Google-登录-v2ex](https://www.v2ex.com/t/890513) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-10-27-vscode-的-C++插件右上角三角形运行按钮消失了是怎么回事](https://www.v2ex.com/t/890495) ![](assets/new.png)  
 - [2022-10-27-Choc，-iPod-和-iPad-都用不了？](https://www.v2ex.com/t/890494) ![](assets/new.png)  
 - [2022-10-27-红米-Note-12-Pro-和-Note-11T-Pro-如何选？](https://www.v2ex.com/t/890493) ![](assets/new.png)  
-- [2022-10-27-搬瓦工啊！又被封啦～](https://www.v2ex.com/t/890492) ![](assets/new.png)  
-- [2022-10-27-远程兼职-寻-iOS-开发一枚，有一些-App-的开发和维护需求](https://www.v2ex.com/t/890490) ![](assets/new.png)  
-- [2022-10-27-根据羊了个羊有感-创作一个《-每日一箭》的小程序](https://www.v2ex.com/t/890487) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

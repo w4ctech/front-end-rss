@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-27 19:38:18，:rocket: 更新条数: +2001， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-27 20:17:14，:rocket: 更新条数: +2001， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-10-27-iphone6s-还能不能继续苟](https://www.v2ex.com/t/890551) ![](assets/new.png)  
+- [2022-10-27-ai-独立游戏开发还要多久](https://www.v2ex.com/t/890550) ![](assets/new.png)  
 - [2022-10-27-应届生的-Offer-选择，想听听大家的意见](https://www.v2ex.com/t/890549) ![](assets/new.png)  
 - [2022-10-27-ubiquity-框架怎么国内一点资料都没有](https://www.v2ex.com/t/890548) ![](assets/new.png)  
 - [2022-10-27-搞了好久的，终于为-SDB-增加了-lua-脚本](https://www.v2ex.com/t/890547) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-10-27-广州求职-Node.js-后端开发（4-年经验）](https://www.v2ex.com/t/890527) ![](assets/new.png)  
 - [2022-10-27-我好像发现了一个秘密](https://www.v2ex.com/t/890526) ![](assets/new.png)  
 - [2022-10-27-阿姆斯特丹碳咨询公司招后端~-AWS-Software-Architect-/-Back-End-Developer-Vacancy-in-Amsterdam](https://www.v2ex.com/t/890525) ![](assets/new.png)  
-- [2022-10-27-基于-Apple-Music-开放的-API-做一个偏社交的音乐软件怎么样](https://www.v2ex.com/t/890524) ![](assets/new.png)  
-- [2022-10-27-三星手机微信步数今天突然不更新了](https://www.v2ex.com/t/890523) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-27 15:15:59，:rocket: 更新条数: +2000， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-27 15:46:09，:rocket: 更新条数: +2001， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-10-27-我好像发现了一个秘密](https://www.v2ex.com/t/890526) ![](assets/new.png)  
+- [2022-10-27-阿姆斯特丹碳咨询公司招后端~-AWS-Software-Architect-/-Back-End-Developer-Vacancy-in-Amsterdam](https://www.v2ex.com/t/890525) ![](assets/new.png)  
+- [2022-10-27-基于-Apple-Music-开放的-API-做一个偏社交的音乐软件怎么样](https://www.v2ex.com/t/890524) ![](assets/new.png)  
+- [2022-10-27-三星手机微信步数今天突然不更新了](https://www.v2ex.com/t/890523) ![](assets/new.png)  
 - [2022-10-27-TrueNAS-配置能干吗](https://www.v2ex.com/t/890522) ![](assets/new.png)  
 - [2022-10-27-有没有能实现-Year-Progress-的锁屏小组件](https://www.v2ex.com/t/890521) ![](assets/new.png)  
 - [2022-10-27-字节自研-Linux-操作系统-veLinux](https://www.v2ex.com/t/890519) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-10-27-大龄-29-岁，不写代码已-3-年，还能找到一份-Android-开发的工作吗？](https://www.v2ex.com/t/890501) ![](assets/new.png)  
 - [2022-10-27-广州移动-IPV6-莫名其妙丢失-恢复设置后-依然无果](https://www.v2ex.com/t/890500) ![](assets/new.png)  
 - [2022-10-27-Dynamic-Island-on-MacBook-Pro-with-notch?](https://www.v2ex.com/t/890497) ![](assets/new.png)  
-- [2022-10-27-"先进团队先用飞书"---使用飞书开放接口的各种无语](https://www.v2ex.com/t/890496) ![](assets/new.png)  
-- [2022-10-27-vscode-的-C++插件右上角三角形运行按钮消失了是怎么回事](https://www.v2ex.com/t/890495) ![](assets/new.png)  
-- [2022-10-27-Choc，-iPod-和-iPad-都用不了？](https://www.v2ex.com/t/890494) ![](assets/new.png)  
-- [2022-10-27-红米-Note-12-Pro-和-Note-11T-Pro-如何选？](https://www.v2ex.com/t/890493) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

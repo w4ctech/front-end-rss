@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-27 15:15:59。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-10-27 15:46:09。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -72,6 +72,10 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-10-16-2022年新出了哪些form表单新特性？](https://www.zhangxinxu.com/wordpress/2022/10/2022-new-form-property/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-12-CSS-::file-selector-button伪元素简介](https://www.zhangxinxu.com/wordpress/2022/10/css-file-selector-button/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-12-更符合书写习惯的CSS媒体查询Range语法](https://www.zhangxinxu.com/wordpress/2022/10/css-media-range-syntax/) 
+- [【V2EX】2022-10-27-我好像发现了一个秘密](https://www.v2ex.com/t/890526) 
+- [【V2EX】2022-10-27-阿姆斯特丹碳咨询公司招后端~-AWS-Software-Architect-/-Back-End-Developer-Vacancy-in-Amsterdam](https://www.v2ex.com/t/890525) 
+- [【V2EX】2022-10-27-基于-Apple-Music-开放的-API-做一个偏社交的音乐软件怎么样](https://www.v2ex.com/t/890524) 
+- [【V2EX】2022-10-27-三星手机微信步数今天突然不更新了](https://www.v2ex.com/t/890523) 
 - [【V2EX】2022-10-27-TrueNAS-配置能干吗](https://www.v2ex.com/t/890522) 
 - [【V2EX】2022-10-27-有没有能实现-Year-Progress-的锁屏小组件](https://www.v2ex.com/t/890521) 
 - [【V2EX】2022-10-27-字节自研-Linux-操作系统-veLinux](https://www.v2ex.com/t/890519) 
@@ -103,9 +107,6 @@
 - [【V2EX】2022-10-27-VIVO-首席安全官间接承认手机-APP-窃听确实存在？](https://www.v2ex.com/t/890481) 
 - [【V2EX】2022-10-27-V200，找大佬帮忙看个-BUG，不够我加钱](https://www.v2ex.com/t/890479) 
 - [【V2EX】2022-10-27-家用筒灯现在什么牌子型号值得推荐？](https://www.v2ex.com/t/890477) 
-- [【V2EX】2022-10-27-Beancount-记账有办法在卖出时以均价计收入吗?](https://www.v2ex.com/t/890476) 
-- [【V2EX】2022-10-27-求推荐内联-css-的富文本编辑器](https://www.v2ex.com/t/890475) 
-- [【V2EX】2022-10-27-求助-macbook-收到消息通知，只能在通知中心看到，没有横幅提示。](https://www.v2ex.com/t/890474) 
 - [【技术头条】2022-10-27-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-27-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-27-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

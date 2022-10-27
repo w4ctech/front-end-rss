@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-27 15:15:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-27 15:46:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1915,6 +1915,10 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-10-27-我好像发现了一个秘密](https://www.v2ex.com/t/890526) 
+- [2022-10-27-阿姆斯特丹碳咨询公司招后端~-AWS-Software-Architect-/-Back-End-Developer-Vacancy-in-Amsterdam](https://www.v2ex.com/t/890525) 
+- [2022-10-27-基于-Apple-Music-开放的-API-做一个偏社交的音乐软件怎么样](https://www.v2ex.com/t/890524) 
+- [2022-10-27-三星手机微信步数今天突然不更新了](https://www.v2ex.com/t/890523) 
 - [2022-10-27-TrueNAS-配置能干吗](https://www.v2ex.com/t/890522) 
 - [2022-10-27-字节自研-Linux-操作系统-veLinux](https://www.v2ex.com/t/890519) 
 - [2022-10-27-双-11-快到了-5k-左右笔记本求推荐](https://www.v2ex.com/t/890518) 
@@ -1939,8 +1943,6 @@
 - [2022-10-27-求助，-vps-重装系统后，硬盘空间变小了](https://www.v2ex.com/t/890482) 
 - [2022-10-27-V200，找大佬帮忙看个-BUG，不够我加钱](https://www.v2ex.com/t/890479) 
 - [2022-10-27-家用筒灯现在什么牌子型号值得推荐？](https://www.v2ex.com/t/890477) 
-- [2022-10-27-Beancount-记账有办法在卖出时以均价计收入吗?](https://www.v2ex.com/t/890476) 
-- [2022-10-27-求助-macbook-收到消息通知，只能在通知中心看到，没有横幅提示。](https://www.v2ex.com/t/890474) 
 - [2022-10-27-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-27-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-27-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

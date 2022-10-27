@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-27 09:45:54，:rocket: 更新条数: +2007， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-27 10:16:34，:rocket: 更新条数: +2006， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,12 +491,14 @@
 </summary>
 
 
+- [2022-10-27-CDN-大文件传输到一半终止，如何收费？](https://www.v2ex.com/t/890466) ![](assets/new.png)  
+- [2022-10-27-为什么没有手机厂商出售无预装系统的手机？](https://www.v2ex.com/t/890465) ![](assets/new.png)  
+- [2022-10-27-请教各位-V-友，大家是怎么解封微信（国内版）的？](https://www.v2ex.com/t/890464) ![](assets/new.png)  
 - [2022-10-27-elasticsearch-官网-elastic.co-打不开是咋回事？](https://www.v2ex.com/t/890463) ![](assets/new.png)  
 - [2022-10-27-有用-dtale-分析数据的大神吗？我遇到问题了请进](https://www.v2ex.com/t/890461) ![](assets/new.png)  
 - [2022-10-27-杭州的场所码终于不被支付宝垄断了](https://www.v2ex.com/t/890459) ![](assets/new.png)  
 - [2022-10-27-ios-圈（quantumult）能否实现不经过服务器-Over-TLS](https://www.v2ex.com/t/890458) ![](assets/new.png)  
 - [2022-10-27-北京对游戏感兴趣的看过来，云奥赛凡正在找-gopher](https://www.v2ex.com/t/890457) ![](assets/new.png)  
-- [2022-10-27-为什么-V2-没有键委区呢？](https://www.v2ex.com/t/890456) ![](assets/new.png)  
 - [2022-10-27-有哪些文本朗读应用，使用了微软-TTS（Text-To-Speech）](https://www.v2ex.com/t/890454) ![](assets/new.png)  
 - [2022-10-27-大连有没有互联网-wx-群啥的~](https://www.v2ex.com/t/890453) ![](assets/new.png)  
 - [2022-10-27-万物皆可集成系列：低代码对接阿里物流-API-实现快递跟踪](https://www.v2ex.com/t/890452) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-10-27-想换手机，双十一有什么手机好推荐](https://www.v2ex.com/t/890444) ![](assets/new.png)  
 - [2022-10-27-如何在-x86-架构的-Windows-设备上仿真运行-arm-架构的-CentOS？](https://www.v2ex.com/t/890443) ![](assets/new.png)  
 - [2022-10-27-求推荐-一款中老年奶粉](https://www.v2ex.com/t/890441) ![](assets/new.png)  
-- [2022-10-27-清理磁盘空间，用哪个工具最方便?](https://www.v2ex.com/t/890439) ![](assets/new.png)  
-- [2022-10-27-23-秋招-offer-选择和职业发展求建议](https://www.v2ex.com/t/890438) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

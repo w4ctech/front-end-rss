@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2022-10-27 23:18:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-27 23:46:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-10-27-数学是被-发明-的，还是被-发现-的？](https://www.v2ex.com/t/890555) 
+- [2022-10-27-加拿大鹹魚為什麼不能登錄](https://www.v2ex.com/t/890554) 
+- [2022-10-27-明年-7🈷️到期的-Adobe-Creative-不续订了](https://www.v2ex.com/t/890553) 
 - [2022-10-27-为何-Apple-需要那么多员工，全球总共超-15-万](https://www.v2ex.com/t/890552) 
 - [2022-10-27-iphone6s-还能不能继续苟](https://www.v2ex.com/t/890551) 
 - [2022-10-27-ai-独立游戏开发还要多久](https://www.v2ex.com/t/890550) 
@@ -36,5 +39,3 @@
 - [2022-10-27-vercel-部署-github-的-hexo-博客失败](https://www.v2ex.com/t/890509) 
 - [2022-10-27-光猫拨号可以跑到有线-750M-用-AX88U-拨号反而只能跑-400M](https://www.v2ex.com/t/890507) 
 - [2022-10-27-macOS13，为什么键盘有时会用麦克风](https://www.v2ex.com/t/890506) 
-- [2022-10-27-想配个磁盘阵列](https://www.v2ex.com/t/890505) 
-- [2022-10-27-群晖发布会来了~](https://www.v2ex.com/t/890503) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-28 09:44:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-28 10:16:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1915,6 +1915,11 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-10-28-古茗内推](https://www.v2ex.com/t/890788) 
+- [2022-10-28-前端自动打包上传推送钉钉工具](https://www.v2ex.com/t/890787) 
+- [2022-10-28-Widnows-有哪些设置可以让指定网站无法访问？越多越好](https://www.v2ex.com/t/890786) 
+- [2022-10-28-Command+W-关闭-QQ-后，过一分钟左右，-QQ-聊天窗口自动弹出。](https://www.v2ex.com/t/890785) 
+- [2022-10-28-建了个股票期货交流的-vx-群](https://www.v2ex.com/t/890782) 
 - [2022-10-28-天才吧-iwatch-S3-换新之旅](https://www.v2ex.com/t/890781) 
 - [2022-10-28-现在有爱奇艺和-qq-音乐联合会员吗大佬们](https://www.v2ex.com/t/890775) 
 - [2022-10-28-深圳宝安消费券怎么用划算](https://www.v2ex.com/t/890774) 
@@ -1928,7 +1933,6 @@
 - [2022-10-28-帮女朋友转租一下房子，同和地铁-A-口-3-分钟超高性价比一房一厅](https://www.v2ex.com/t/890760) 
 - [2022-10-28-看到一个沙雕图，图上面有一道题：](https://www.v2ex.com/t/890757) 
 - [2022-10-28--杭州-字节--国际化电商---后端---真实岗位](https://www.v2ex.com/t/890756) 
-- [2022-10-28-站长和坛友是怎么看待水深火热节点的](https://www.v2ex.com/t/890753) 
 - [2022-10-28-求助帖-想搭建个网站国外的服务商哪个好？](https://www.v2ex.com/t/890752) 
 - [2022-10-28-都说-magsafe-好用，然而](https://www.v2ex.com/t/890751) 
 - [2022-10-28-请问下,这种效果前端是怎么做的?前端商品衣服标签标注.....](https://www.v2ex.com/t/890750) 
@@ -1937,10 +1941,6 @@
 - [2022-10-28-Mac-有什么软件可以服务器之间传输文件](https://www.v2ex.com/t/890746) 
 - [2022-10-28-Java-有那些大佬的-Blog，公众号或技术网站，已停更的也行，求推荐。](https://www.v2ex.com/t/890742) 
 - [2022-10-28-自建邮箱被黑了，我不理解](https://www.v2ex.com/t/890741) 
-- [2022-10-28-新版本兼容老版本的数据格式有什么方法?](https://www.v2ex.com/t/890739) 
-- [2022-10-28-数据可视化大屏酷炫秘籍之前端开发者自己动手](https://www.v2ex.com/t/890736) 
-- [2022-10-28-MacOS-Ventura-13-麦克风频繁被系统调用](https://www.v2ex.com/t/890735) 
-- [2022-10-28-各位熬夜佬有和我一样遇到眼睑抽搐么,-自己照镜子都能看到,-重揉几下能停下来,-但是过一会儿又开始抽搐了,-不影响什么但是真的很讨厌。平时我基本十二点~一点睡...](https://www.v2ex.com/t/890733) 
 - [2022-10-28-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-28-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-28-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

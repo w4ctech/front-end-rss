@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-28 09:44:08。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-10-28 10:16:34。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -72,6 +72,12 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-10-16-2022年新出了哪些form表单新特性？](https://www.zhangxinxu.com/wordpress/2022/10/2022-new-form-property/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-12-CSS-::file-selector-button伪元素简介](https://www.zhangxinxu.com/wordpress/2022/10/css-file-selector-button/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-12-更符合书写习惯的CSS媒体查询Range语法](https://www.zhangxinxu.com/wordpress/2022/10/css-media-range-syntax/) 
+- [【V2EX】2022-10-28-android10-开机启动优化问题?](https://www.v2ex.com/t/890789) 
+- [【V2EX】2022-10-28-古茗内推](https://www.v2ex.com/t/890788) 
+- [【V2EX】2022-10-28-前端自动打包上传推送钉钉工具](https://www.v2ex.com/t/890787) 
+- [【V2EX】2022-10-28-Widnows-有哪些设置可以让指定网站无法访问？越多越好](https://www.v2ex.com/t/890786) 
+- [【V2EX】2022-10-28-Command+W-关闭-QQ-后，过一分钟左右，-QQ-聊天窗口自动弹出。](https://www.v2ex.com/t/890785) 
+- [【V2EX】2022-10-28-建了个股票期货交流的-vx-群](https://www.v2ex.com/t/890782) 
 - [【V2EX】2022-10-28-天才吧-iwatch-S3-换新之旅](https://www.v2ex.com/t/890781) 
 - [【V2EX】2022-10-28-提问-如何把-PC-主机改造成一台游戏主机](https://www.v2ex.com/t/890780) 
 - [【V2EX】2022-10-28-有什么工具能将无音频的-MP4-转换为-HEIC-吗](https://www.v2ex.com/t/890779) 
@@ -91,7 +97,6 @@
 - [【V2EX】2022-10-28--杭州-字节--国际化电商---后端---真实岗位](https://www.v2ex.com/t/890756) 
 - [【V2EX】2022-10-28-历史版-Chrome-大家推荐安全的网站下载](https://www.v2ex.com/t/890755) 
 - [【V2EX】2022-10-28-人在新西兰，帮大家代购那些游戏-GIFE-卡如何呢？超市就在旁边。](https://www.v2ex.com/t/890754) 
-- [【V2EX】2022-10-28-站长和坛友是怎么看待水深火热节点的](https://www.v2ex.com/t/890753) 
 - [【V2EX】2022-10-28-求助帖-想搭建个网站国外的服务商哪个好？](https://www.v2ex.com/t/890752) 
 - [【V2EX】2022-10-28-都说-magsafe-好用，然而](https://www.v2ex.com/t/890751) 
 - [【V2EX】2022-10-28-请问下,这种效果前端是怎么做的?前端商品衣服标签标注.....](https://www.v2ex.com/t/890750) 
@@ -102,10 +107,6 @@
 - [【V2EX】2022-10-28-招聘-国际远程团队-可以在地表任何角落里写-Python-代码的工作是一种什么样的体验？](https://www.v2ex.com/t/890743) 
 - [【V2EX】2022-10-28-Java-有那些大佬的-Blog，公众号或技术网站，已停更的也行，求推荐。](https://www.v2ex.com/t/890742) 
 - [【V2EX】2022-10-28-自建邮箱被黑了，我不理解](https://www.v2ex.com/t/890741) 
-- [【V2EX】2022-10-28-新版本兼容老版本的数据格式有什么方法?](https://www.v2ex.com/t/890739) 
-- [【V2EX】2022-10-28-数据可视化大屏酷炫秘籍之前端开发者自己动手](https://www.v2ex.com/t/890736) 
-- [【V2EX】2022-10-28-MacOS-Ventura-13-麦克风频繁被系统调用](https://www.v2ex.com/t/890735) 
-- [【V2EX】2022-10-28-各位熬夜佬有和我一样遇到眼睑抽搐么,-自己照镜子都能看到,-重揉几下能停下来,-但是过一会儿又开始抽搐了,-不影响什么但是真的很讨厌。平时我基本十二点~一点睡...](https://www.v2ex.com/t/890733) 
 - [【技术头条】2022-10-28-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-28-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-28-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

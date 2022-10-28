@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-28 18:19:18，:rocket: 更新条数: +2001， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-28 18:49:08，:rocket: 更新条数: +2000， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -501,7 +501,6 @@
 - [2022-10-28-macOS-怎么能够静止所有的程序访问剪贴板？](https://www.v2ex.com/t/890858) ![](assets/new.png)  
 - [2022-10-28-关于手动创建线程池的开销](https://www.v2ex.com/t/890857) ![](assets/new.png)  
 - [2022-10-28-Safari-16.1-tab-拖拽-Bug-大家遇到过吗？](https://www.v2ex.com/t/890856) ![](assets/new.png)  
-- [2022-10-28-问个问题，大家对捐献遗体怎么看？](https://www.v2ex.com/t/890855) ![](assets/new.png)  
 - [2022-10-28-Android-前端开发工程师.-远程工作岗位](https://www.v2ex.com/t/890852) ![](assets/new.png)  
 - [2022-10-28-苏金国、王宇飞翻译的-learning-PHP-design-patterns-真是烂到家了，这两个人是吃翔长大的么？](https://www.v2ex.com/t/890851) ![](assets/new.png)  
 - [2022-10-28-Macbook-开机使用一段时间后响应速度极端慢](https://www.v2ex.com/t/890850) ![](assets/new.png)  
@@ -511,6 +510,7 @@
 - [2022-10-28-手贱啊，黑苹果升级了-mac13，总是用着用着就说有问题，重启了](https://www.v2ex.com/t/890844) ![](assets/new.png)  
 - [2022-10-28-登录项里有一个-junshi-cheng-的程序，关掉后登录界面背景图变了](https://www.v2ex.com/t/890843) ![](assets/new.png)  
 - [2022-10-28-瑞典-沃尔沃-新职位需求：全栈工程师，-Base-哥德堡](https://www.v2ex.com/t/890842) ![](assets/new.png)  
+- [2022-10-28-家里装修，目前在设计家里的网络，想看看大家都怎么弄的，给点建议？](https://www.v2ex.com/t/890840) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

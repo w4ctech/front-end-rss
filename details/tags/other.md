@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-28 18:49:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-28 19:12:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1915,6 +1915,7 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-10-28-有没有便宜的方法买-app-store-的生化危机](https://www.v2ex.com/t/890870) 
 - [2022-10-28-求个-mt/ttg-的💊](https://www.v2ex.com/t/890868) 
 - [2022-10-28-请教一下-control-plane-节点高可用的一些细节问题](https://www.v2ex.com/t/890865) 
 - [2022-10-28-开车违章了，老哥们帮忙看下会怎么处罚](https://www.v2ex.com/t/890863) 
@@ -1942,7 +1943,6 @@
 - [2022-10-28-你们-YouTube-的-UI-更改了吗](https://www.v2ex.com/t/890826) 
 - [2022-10-28-macOS-Ventura-支持-2K-分辨率打开-HiDPI](https://www.v2ex.com/t/890823) 
 - [2022-10-28-vscode-markdown-里图片是-base64-编码，特别长，有办法折叠吗？](https://www.v2ex.com/t/890821) 
-- [2022-10-28-人在国内年入-12-万美元欧洲远程工作四年经验分享（一）](https://www.v2ex.com/t/890820) 
 - [2022-10-28-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-28-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-28-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-28 11:14:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-28 11:40:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1915,6 +1915,8 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-10-28-阿凡达水之道和すずめの戸締まり这两部电影还有机会上映吗](https://www.v2ex.com/t/890813) 
+- [2022-10-28-各位老哥，冬天到了，推荐一些线下买衣服的地方，便宜实惠的。](https://www.v2ex.com/t/890812) 
 - [2022-10-28-M2-Pro-/-Max-是-3nm?](https://www.v2ex.com/t/890811) 
 - [2022-10-28-通过-BT-下载,-看看全球祼连速度.](https://www.v2ex.com/t/890809) 
 - [2022-10-28-los-屏幕关闭，收不到短信](https://www.v2ex.com/t/890808) 
@@ -1942,8 +1944,6 @@
 - [2022-10-28-Apple-watch-能和旧版-iOS-设备配对吗？](https://www.v2ex.com/t/890768) 
 - [2022-10-28-关于-RAID1-的读写机制](https://www.v2ex.com/t/890767) 
 - [2022-10-28-请问怎么搭建一个简单的团购网站呢：开源框架/WordPress/从零开始写？](https://www.v2ex.com/t/890764) 
-- [2022-10-28-iPad-有没有可能在未来支持安装-macos](https://www.v2ex.com/t/890763) 
-- [2022-10-28-4G-Cat1-这个模块刚上车,发现教程打不开了,请问有大佬还有保存的吗](https://www.v2ex.com/t/890762) 
 - [2022-10-28-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-28-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-28-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-28 14:10:24。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-10-28 14:46:27。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -72,6 +72,12 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-10-16-2022年新出了哪些form表单新特性？](https://www.zhangxinxu.com/wordpress/2022/10/2022-new-form-property/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-12-CSS-::file-selector-button伪元素简介](https://www.zhangxinxu.com/wordpress/2022/10/css-file-selector-button/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-12-更符合书写习惯的CSS媒体查询Range语法](https://www.zhangxinxu.com/wordpress/2022/10/css-media-range-syntax/) 
+- [【V2EX】2022-10-28-Android-前端开发工程师.-远程工作岗位](https://www.v2ex.com/t/890852) 
+- [【V2EX】2022-10-28-苏金国、王宇飞翻译的-learning-PHP-design-patterns-真是烂到家了，这两个人是吃翔长大的么？](https://www.v2ex.com/t/890851) 
+- [【V2EX】2022-10-28-Macbook-开机使用一段时间后响应速度极端慢](https://www.v2ex.com/t/890850) 
+- [【V2EX】2022-10-28-iOS-16-生活中的痛点-BUG](https://www.v2ex.com/t/890849) 
+- [【V2EX】2022-10-28-转租无中介迫于工作调度，二号线三墩地铁口-转租-2499-元/月](https://www.v2ex.com/t/890847) 
+- [【V2EX】2022-10-28-Tuxera-NTFS-导致-macOS-Ventura-崩溃](https://www.v2ex.com/t/890846) 
 - [【V2EX】2022-10-28-手贱啊，黑苹果升级了-mac13，总是用着用着就说有问题，重启了](https://www.v2ex.com/t/890844) 
 - [【V2EX】2022-10-28-登录项里有一个-junshi-cheng-的程序，关掉后登录界面背景图变了](https://www.v2ex.com/t/890843) 
 - [【V2EX】2022-10-28-瑞典-沃尔沃-新职位需求：全栈工程师，-Base-哥德堡](https://www.v2ex.com/t/890842) 
@@ -104,13 +110,6 @@
 - [【V2EX】2022-10-28-Time-Machine-显示磁盘空间不足无法备份，可是机制难道不是删掉最旧的备份然后备份新的吗？](https://www.v2ex.com/t/890807) 
 - [【V2EX】2022-10-28-请教一个-nginx-http-转-http-问题](https://www.v2ex.com/t/890806) 
 - [【V2EX】2022-10-28-你平时周末会逛哪些网站?](https://www.v2ex.com/t/890805) 
-- [【V2EX】2022-10-28-招聘求职内推-Base-武汉（主）20-60k、北京、广州、深圳、新加坡等](https://www.v2ex.com/t/890804) 
-- [【V2EX】2022-10-28-5000-预算能装一台性能接近或者超过-1-年前买的-10000-的笔记本吗](https://www.v2ex.com/t/890801) 
-- [【V2EX】2022-10-28-甘肃兰州-高新区-招聘-Python-爬虫、前端开发工程师，待遇不够尽管提](https://www.v2ex.com/t/890800) 
-- [【V2EX】2022-10-28-追逐有前景的公司，而不是大公司](https://www.v2ex.com/t/890799) 
-- [【V2EX】2022-10-28-群晖有没有实时备份的功能，譬如我读写都用-ssd，然后-hdd-在后台偷偷备份数据？](https://www.v2ex.com/t/890798) 
-- [【V2EX】2022-10-28-iPhone-屏幕刮了-2cm-的划痕，比较明显，能用-AC+维修吗](https://www.v2ex.com/t/890797) 
-- [【V2EX】2022-10-28-远程管理配置锁如何解除掉](https://www.v2ex.com/t/890796) 
 - [【技术头条】2022-10-28-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-28-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-28-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

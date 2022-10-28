@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-28 14:10:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-28 14:46:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1915,6 +1915,12 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-10-28-Android-前端开发工程师.-远程工作岗位](https://www.v2ex.com/t/890852) 
+- [2022-10-28-苏金国、王宇飞翻译的-learning-PHP-design-patterns-真是烂到家了，这两个人是吃翔长大的么？](https://www.v2ex.com/t/890851) 
+- [2022-10-28-Macbook-开机使用一段时间后响应速度极端慢](https://www.v2ex.com/t/890850) 
+- [2022-10-28-iOS-16-生活中的痛点-BUG](https://www.v2ex.com/t/890849) 
+- [2022-10-28-转租无中介迫于工作调度，二号线三墩地铁口-转租-2499-元/月](https://www.v2ex.com/t/890847) 
+- [2022-10-28-Tuxera-NTFS-导致-macOS-Ventura-崩溃](https://www.v2ex.com/t/890846) 
 - [2022-10-28-手贱啊，黑苹果升级了-mac13，总是用着用着就说有问题，重启了](https://www.v2ex.com/t/890844) 
 - [2022-10-28-登录项里有一个-junshi-cheng-的程序，关掉后登录界面背景图变了](https://www.v2ex.com/t/890843) 
 - [2022-10-28-家里装修，目前在设计家里的网络，想看看大家都怎么弄的，给点建议？](https://www.v2ex.com/t/890840) 
@@ -1943,10 +1949,6 @@
 - [2022-10-28-los-屏幕关闭，收不到短信](https://www.v2ex.com/t/890808) 
 - [2022-10-28-Time-Machine-显示磁盘空间不足无法备份，可是机制难道不是删掉最旧的备份然后备份新的吗？](https://www.v2ex.com/t/890807) 
 - [2022-10-28-你平时周末会逛哪些网站?](https://www.v2ex.com/t/890805) 
-- [2022-10-28-追逐有前景的公司，而不是大公司](https://www.v2ex.com/t/890799) 
-- [2022-10-28-群晖有没有实时备份的功能，譬如我读写都用-ssd，然后-hdd-在后台偷偷备份数据？](https://www.v2ex.com/t/890798) 
-- [2022-10-28-iPhone-屏幕刮了-2cm-的划痕，比较明显，能用-AC+维修吗](https://www.v2ex.com/t/890797) 
-- [2022-10-28-远程管理配置锁如何解除掉](https://www.v2ex.com/t/890796) 
 - [2022-10-28-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-28-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-28-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

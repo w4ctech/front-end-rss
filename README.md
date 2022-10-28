@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-28 14:10:24，:rocket: 更新条数: +2005， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-28 14:46:27，:rocket: 更新条数: +2004， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-10-28-Android-前端开发工程师.-远程工作岗位](https://www.v2ex.com/t/890852) ![](assets/new.png)  
+- [2022-10-28-苏金国、王宇飞翻译的-learning-PHP-design-patterns-真是烂到家了，这两个人是吃翔长大的么？](https://www.v2ex.com/t/890851) ![](assets/new.png)  
+- [2022-10-28-Macbook-开机使用一段时间后响应速度极端慢](https://www.v2ex.com/t/890850) ![](assets/new.png)  
+- [2022-10-28-iOS-16-生活中的痛点-BUG](https://www.v2ex.com/t/890849) ![](assets/new.png)  
+- [2022-10-28-转租无中介迫于工作调度，二号线三墩地铁口-转租-2499-元/月](https://www.v2ex.com/t/890847) ![](assets/new.png)  
+- [2022-10-28-Tuxera-NTFS-导致-macOS-Ventura-崩溃](https://www.v2ex.com/t/890846) ![](assets/new.png)  
 - [2022-10-28-手贱啊，黑苹果升级了-mac13，总是用着用着就说有问题，重启了](https://www.v2ex.com/t/890844) ![](assets/new.png)  
 - [2022-10-28-登录项里有一个-junshi-cheng-的程序，关掉后登录界面背景图变了](https://www.v2ex.com/t/890843) ![](assets/new.png)  
 - [2022-10-28-瑞典-沃尔沃-新职位需求：全栈工程师，-Base-哥德堡](https://www.v2ex.com/t/890842) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-10-28-跟风的-9.9-元的-4G-Cat1-到底需不需要其他模块](https://www.v2ex.com/t/890829) ![](assets/new.png)  
 - [2022-10-28-关于腾讯云点播，-key-加密防盗的问题](https://www.v2ex.com/t/890828) ![](assets/new.png)  
 - [2022-10-28-你们-YouTube-的-UI-更改了吗](https://www.v2ex.com/t/890826) ![](assets/new.png)  
-- [2022-10-28-macOS-Ventura-支持-2K-分辨率打开-HiDPI](https://www.v2ex.com/t/890823) ![](assets/new.png)  
-- [2022-10-28-Edge-的增强安全模式对性能的影响](https://www.v2ex.com/t/890822) ![](assets/new.png)  
-- [2022-10-28-vscode-markdown-里图片是-base64-编码，特别长，有办法折叠吗？](https://www.v2ex.com/t/890821) ![](assets/new.png)  
-- [2022-10-28-人在国内年入-12-万美元欧洲远程工作四年经验分享（一）](https://www.v2ex.com/t/890820) ![](assets/new.png)  
-- [2022-10-28-疑似天猫超市客服发短信骂我，大家说怎么办？](https://www.v2ex.com/t/890818) ![](assets/new.png)  
-- [2022-10-28-youtebu-能加入家庭组，却依然不是会员，怎么办](https://www.v2ex.com/t/890817) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

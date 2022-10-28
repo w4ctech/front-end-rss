@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-28 03:31:02，:rocket: 更新条数: +2007， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-28 04:31:37，:rocket: 更新条数: +2004， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,26 +491,26 @@
 </summary>
 
 
+- [2022-10-28-已内推-112-人拿到-offer！微软苏州-Microsoft-365-团队招人啦！](https://www.v2ex.com/t/890663) ![](assets/new.png)  
+- [2022-10-28-请假大佬关于面试的问题](https://www.v2ex.com/t/890661) ![](assets/new.png)  
+- [2022-10-28-部分-app-在使用-openwrt-时很卡，切换到小米路由器就正常](https://www.v2ex.com/t/890660) ![](assets/new.png)  
+- [2022-10-28-无内鬼-来点苏联笑话](https://www.v2ex.com/t/890659) ![](assets/new.png)  
+- [2022-10-28-听说郑州风控了半个月-ZF-没钱了？](https://www.v2ex.com/t/890658) ![](assets/new.png)  
+- [2022-10-28-iPad-第十代-USB-C-接口-USB-2.0，明年的-iPhone-接口充满想象力](https://www.v2ex.com/t/890656) ![](assets/new.png)  
+- [2022-10-28-有些领导，自己卷成屎了，看见别人按时吃饭，按时下班。就不高兴](https://www.v2ex.com/t/890654) ![](assets/new.png)  
+- [2022-10-28-纯新手，第一辆-二手车-，以及-二手车-购买平台求推荐](https://www.v2ex.com/t/890653) ![](assets/new.png)  
+- [2022-10-28-知识星球哪里可以看到评分和已购买用户的评价？怎么防止被坑，有人被坑过没？](https://www.v2ex.com/t/890652) ![](assets/new.png)  
+- [2022-10-28-有没有靠谱好用的个人音乐流媒体服务](https://www.v2ex.com/t/890651) ![](assets/new.png)  
+- [2022-10-28-iOS-最新版-TIM](https://www.v2ex.com/t/890650) ![](assets/new.png)  
+- [2022-10-28-One-Tab-Group:-可能是最好的-Chrome/Chromium-based-“标签组”-管理器](https://www.v2ex.com/t/890647) ![](assets/new.png)  
+- [2022-10-28-网线明明是很简单的线材，却快被有心人弄成玄学了](https://www.v2ex.com/t/890645) ![](assets/new.png)  
+- [2022-10-28-最近配了电脑，求推荐一个-300-左右的电脑音响](https://www.v2ex.com/t/890644) ![](assets/new.png)  
+- [2022-10-28-你们用邮件客户端还是直接在-web-端收发邮件](https://www.v2ex.com/t/890643) ![](assets/new.png)  
+- [2022-10-28-发布-WinLisp---使用-LISP-编写-Windows-小程序](https://www.v2ex.com/t/890642) ![](assets/new.png)  
+- [2022-10-28-物理机系统-win11-cpu-intel-i5-9600k-,请问是否可以使用-vmware-部署-aarch64-架构的虚拟机?](https://www.v2ex.com/t/890640) ![](assets/new.png)  
+- [2022-10-28-问问有没有内部的兄弟知道，最近游戏都有强硬的和谐要求吗？](https://www.v2ex.com/t/890639) ![](assets/new.png)  
 - [2022-10-28-固态硬盘直接拔掉-USB-会损坏吗？](https://www.v2ex.com/t/890638) ![](assets/new.png)  
 - [2022-10-28-rust-里-unwrap-用起来真方便,但如果不用-unwrap](https://www.v2ex.com/t/890637) ![](assets/new.png)  
-- [2022-10-28-请问下-Python-需要用到树结构-一般用什么库?](https://www.v2ex.com/t/890636) ![](assets/new.png)  
-- [2022-10-28-Windows-Dev-Kit-2023-ARM64-32GB+512GB-开箱分享](https://www.v2ex.com/t/890635) ![](assets/new.png)  
-- [2022-10-28-Linux-如何减少拷贝大文件到-USB-磁盘时的错误风险](https://www.v2ex.com/t/890634) ![](assets/new.png)  
-- [2022-10-28-Linux-fd-5-是什么文件描述符](https://www.v2ex.com/t/890633) ![](assets/new.png)  
-- [2022-10-28-2022-了。有没有了解-PMP-的考试学习渠道呀？](https://www.v2ex.com/t/890632) ![](assets/new.png)  
-- [2022-10-28-单从带宽上来说，-M1-Max-的-400GB/s-内存，是不是相当于-16-通道的-DDR4-3200？](https://www.v2ex.com/t/890631) ![](assets/new.png)  
-- [2022-10-28-vless-+-ng-+-tls-端口一直被封，请问各位大佬-ip-和域名需要一起换吗](https://www.v2ex.com/t/890630) ![](assets/new.png)  
-- [2022-10-28-mysql-8.0.21-8.0.26-优化了子查询一些操作？，提升蛮大的](https://www.v2ex.com/t/890629) ![](assets/new.png)  
-- [2022-10-28-出京东-plus-年-65、豪华绿钻年-75](https://www.v2ex.com/t/890627) ![](assets/new.png)  
-- [2022-10-28-macbook-pro-14-通过-typec-线外接-dell-U2720qm-使用一段时间右侧边缘变暗，重启可恢复](https://www.v2ex.com/t/890626) ![](assets/new.png)  
-- [2022-10-28-最近使用-pycharm-时候发现一个很奇怪的问题.](https://www.v2ex.com/t/890625) ![](assets/new.png)  
-- [2022-10-28-只备份照片需要-NAS-吗](https://www.v2ex.com/t/890623) ![](assets/new.png)  
-- [2022-10-28-xbox-手柄换-ps-手柄](https://www.v2ex.com/t/890622) ![](assets/new.png)  
-- [2022-10-28-给父亲买红米-note12p、note11TP+-和-k50-怎样选择？](https://www.v2ex.com/t/890620) ![](assets/new.png)  
-- [2022-10-28-纯新手，-30w-左右买什么车合适](https://www.v2ex.com/t/890619) ![](assets/new.png)  
-- [2022-10-28-求推荐-mac-邮件客户端](https://www.v2ex.com/t/890618) ![](assets/new.png)  
-- [2022-10-28-tg-群组搜索机器人](https://www.v2ex.com/t/890616) ![](assets/new.png)  
-- [2022-10-28-到底啥时候能有永久禁止-APP-访问剪切板功能](https://www.v2ex.com/t/890615) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

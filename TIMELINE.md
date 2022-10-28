@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-28 23:17:09。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-10-28 23:45:33。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -72,6 +72,7 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-10-16-2022年新出了哪些form表单新特性？](https://www.zhangxinxu.com/wordpress/2022/10/2022-new-form-property/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-12-CSS-::file-selector-button伪元素简介](https://www.zhangxinxu.com/wordpress/2022/10/css-file-selector-button/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-12-更符合书写习惯的CSS媒体查询Range语法](https://www.zhangxinxu.com/wordpress/2022/10/css-media-range-syntax/) 
+- [【V2EX】2022-10-28-用了快五年的-X-终于换了-14p，求推荐膜、壳](https://www.v2ex.com/t/890878) 
 - [【V2EX】2022-10-28-升级-Ventura-系统后收到的通知-icon-是灰色的](https://www.v2ex.com/t/890876) 
 - [【V2EX】2022-10-28-马后炮，贫困线，系统性风险，小确幸与初心](https://www.v2ex.com/t/890875) 
 - [【V2EX】2022-10-28-都说-Windows-窗口管理-比-Mac-更方便高效，具体表现在哪？超级任务栏-vs-Stage-Manager](https://www.v2ex.com/t/890874) 
@@ -106,7 +107,6 @@
 - [【V2EX】2022-10-28-9-块-9-4G-Cat1-开发版玩法总结](https://www.v2ex.com/t/890832) 
 - [【V2EX】2022-10-28-调查一下，各位程序员如何判断一件事是否值得一试？](https://www.v2ex.com/t/890830) 
 - [【V2EX】2022-10-28-跟风的-9.9-元的-4G-Cat1-到底需不需要其他模块](https://www.v2ex.com/t/890829) 
-- [【V2EX】2022-10-28-关于腾讯云点播，-key-加密防盗的问题](https://www.v2ex.com/t/890828) 
 - [【技术头条】2022-10-28-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-28-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-28-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

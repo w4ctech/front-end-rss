@@ -1,10 +1,21 @@
-:alarm_clock: 更新时间: 2022-10-28 05:50:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-28 06:18:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-10-28-m1-mbp-升级到-macOS-13-后-usb-c-口-给手机充电没快充了？](https://www.v2ex.com/t/890691) 
+- [2022-10-28-evernote-web-clipper-貌似不支持国际版会员登录了？](https://www.v2ex.com/t/890690) 
+- [2022-10-28-想买-Apple-TV，但又觉得不如直接买-Xbox-series-s](https://www.v2ex.com/t/890689) 
+- [2022-10-28-不想在后端卷了，换什么方向好捏](https://www.v2ex.com/t/890688) 
+- [2022-10-28-求一款-database-backup-软件](https://www.v2ex.com/t/890687) 
+- [2022-10-28-eSIM-为什么现在淘宝商家售卖的美版无锁-iPhone-都说不支持-eSIM？](https://www.v2ex.com/t/890686) 
+- [2022-10-28-OPPO-Watch-SE-给小学一年级小朋友适合吗?](https://www.v2ex.com/t/890685) 
+- [2022-10-28-如何在-pipeline-中获取到-pull-request-的链接？](https://www.v2ex.com/t/890683) 
+- [2022-10-28-如何在填报场景中使用数据绑定获取数据源](https://www.v2ex.com/t/890682) 
+- [2022-10-28-红米-Note-11T-Pro-反向升级到-Note-12-Pro-了吗？](https://www.v2ex.com/t/890681) 
+- [2022-10-28-为什么-protobuf-编译器要分成多个仓库/实现?](https://www.v2ex.com/t/890680) 
 - [2022-10-28-想买猎装车，-30W-预算，有私家车位，新车和二手车有推荐的嘛](https://www.v2ex.com/t/890678) 
 - [2022-10-28-苹果正在测试-iPad-Ultra-16-寸和-14-寸](https://www.v2ex.com/t/890676) 
 - [2022-10-28-美团-App-到底在干嘛？-每次打开就想核电站要熔断一样。](https://www.v2ex.com/t/890674) 
@@ -31,14 +42,3 @@
 - [2022-10-28-最近配了电脑，求推荐一个-300-左右的电脑音响](https://www.v2ex.com/t/890644) 
 - [2022-10-28-你们用邮件客户端还是直接在-web-端收发邮件](https://www.v2ex.com/t/890643) 
 - [2022-10-28-发布-WinLisp---使用-LISP-编写-Windows-小程序](https://www.v2ex.com/t/890642) 
-- [2022-10-28-物理机系统-win11-cpu-intel-i5-9600k-,请问是否可以使用-vmware-部署-aarch64-架构的虚拟机?](https://www.v2ex.com/t/890640) 
-- [2022-10-28-固态硬盘直接拔掉-USB-会损坏吗？](https://www.v2ex.com/t/890638) 
-- [2022-10-28-rust-里-unwrap-用起来真方便,但如果不用-unwrap](https://www.v2ex.com/t/890637) 
-- [2022-10-28-请问下-Python-需要用到树结构-一般用什么库?](https://www.v2ex.com/t/890636) 
-- [2022-10-28-Windows-Dev-Kit-2023-ARM64-32GB+512GB-开箱分享](https://www.v2ex.com/t/890635) 
-- [2022-10-28-Linux-如何减少拷贝大文件到-USB-磁盘时的错误风险](https://www.v2ex.com/t/890634) 
-- [2022-10-28-Linux-fd-5-是什么文件描述符](https://www.v2ex.com/t/890633) 
-- [2022-10-28-2022-了。有没有了解-PMP-的考试学习渠道呀？](https://www.v2ex.com/t/890632) 
-- [2022-10-28-单从带宽上来说，-M1-Max-的-400GB/s-内存，是不是相当于-16-通道的-DDR4-3200？](https://www.v2ex.com/t/890631) 
-- [2022-10-28-vless-+-ng-+-tls-端口一直被封，请问各位大佬-ip-和域名需要一起换吗](https://www.v2ex.com/t/890630) 
-- [2022-10-28-mysql-8.0.21-8.0.26-优化了子查询一些操作？，提升蛮大的](https://www.v2ex.com/t/890629) 

@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2022-10-28 14:46:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-28 15:16:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-10-28-Safari-16.1-tab-拖拽-Bug-大家遇到过吗？](https://www.v2ex.com/t/890856) 
+- [2022-10-28-问个问题，大家对捐献遗体怎么看？](https://www.v2ex.com/t/890855) 
 - [2022-10-28-Android-前端开发工程师.-远程工作岗位](https://www.v2ex.com/t/890852) 
 - [2022-10-28-苏金国、王宇飞翻译的-learning-PHP-design-patterns-真是烂到家了，这两个人是吃翔长大的么？](https://www.v2ex.com/t/890851) 
 - [2022-10-28-Macbook-开机使用一段时间后响应速度极端慢](https://www.v2ex.com/t/890850) 
@@ -41,5 +43,3 @@
 - [2022-10-28-通过-BT-下载,-看看全球祼连速度.](https://www.v2ex.com/t/890809) 
 - [2022-10-28-los-屏幕关闭，收不到短信](https://www.v2ex.com/t/890808) 
 - [2022-10-28-Time-Machine-显示磁盘空间不足无法备份，可是机制难道不是删掉最旧的备份然后备份新的吗？](https://www.v2ex.com/t/890807) 
-- [2022-10-28-请教一个-nginx-http-转-http-问题](https://www.v2ex.com/t/890806) 
-- [2022-10-28-你平时周末会逛哪些网站?](https://www.v2ex.com/t/890805) 

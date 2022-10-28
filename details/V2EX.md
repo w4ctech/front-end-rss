@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2022-10-28 19:12:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-28 19:37:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-10-28-macOS-13-频繁跳出-iCloud-更新条款的确认框，点击同意仍然跳。](https://www.v2ex.com/t/890872) 
+- [2022-10-28-群晖能通过代码方式上传文件吗](https://www.v2ex.com/t/890871) 
 - [2022-10-28-有没有便宜的方法买-app-store-的生化危机](https://www.v2ex.com/t/890870) 
 - [2022-10-28-在小县城，出租游戏光盘的实体店怎么样，目前还没看到有这样的店](https://www.v2ex.com/t/890869) 
 - [2022-10-28-求个-mt/ttg-的💊](https://www.v2ex.com/t/890868) 
@@ -37,5 +39,3 @@
 - [2022-10-28-关于腾讯云点播，-key-加密防盗的问题](https://www.v2ex.com/t/890828) 
 - [2022-10-28-你们-YouTube-的-UI-更改了吗](https://www.v2ex.com/t/890826) 
 - [2022-10-28-macOS-Ventura-支持-2K-分辨率打开-HiDPI](https://www.v2ex.com/t/890823) 
-- [2022-10-28-Edge-的增强安全模式对性能的影响](https://www.v2ex.com/t/890822) 
-- [2022-10-28-vscode-markdown-里图片是-base64-编码，特别长，有办法折叠吗？](https://www.v2ex.com/t/890821) 

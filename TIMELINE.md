@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-28 16:18:44。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-10-28 16:58:29。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -106,8 +106,6 @@
 - [【V2EX】2022-10-28-vscode-markdown-里图片是-base64-编码，特别长，有办法折叠吗？](https://www.v2ex.com/t/890821) 
 - [【V2EX】2022-10-28-人在国内年入-12-万美元欧洲远程工作四年经验分享（一）](https://www.v2ex.com/t/890820) 
 - [【V2EX】2022-10-28-疑似天猫超市客服发短信骂我，大家说怎么办？](https://www.v2ex.com/t/890818) 
-- [【V2EX】2022-10-28-youtebu-能加入家庭组，却依然不是会员，怎么办](https://www.v2ex.com/t/890817) 
-- [【V2EX】2022-10-28-请教-ios-土区账号订阅问题](https://www.v2ex.com/t/890816) 
 - [【技术头条】2022-10-28-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-28-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-28-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

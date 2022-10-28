@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-28 10:16:34，:rocket: 更新条数: +2001， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-28 10:45:16，:rocket: 更新条数: +2003， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,14 @@
 </summary>
 
 
+- [2022-10-28-群晖有没有实时备份的功能，譬如我读写都用-ssd，然后-hdd-在后台偷偷备份数据？](https://www.v2ex.com/t/890798) ![](assets/new.png)  
+- [2022-10-28-iPhone-屏幕刮了-2cm-的划痕，比较明显，能用-AC+维修吗](https://www.v2ex.com/t/890797) ![](assets/new.png)  
+- [2022-10-28-远程管理配置锁如何解除掉](https://www.v2ex.com/t/890796) ![](assets/new.png)  
+- [2022-10-28-你觉得什么处男？](https://www.v2ex.com/t/890795) ![](assets/new.png)  
+- [2022-10-28-最近美剧有什么推荐的？](https://www.v2ex.com/t/890793) ![](assets/new.png)  
+- [2022-10-28-涂鸦智能内推（产品/销售/售前/项目经理/技术支持）](https://www.v2ex.com/t/890792) ![](assets/new.png)  
+- [2022-10-28-电信被限号的艰难（没结果）维权](https://www.v2ex.com/t/890791) ![](assets/new.png)  
+- [2022-10-28-查了下百度词条，我有-适应不良综合征](https://www.v2ex.com/t/890790) ![](assets/new.png)  
 - [2022-10-28-android10-开机启动优化问题?](https://www.v2ex.com/t/890789) ![](assets/new.png)  
 - [2022-10-28-古茗内推](https://www.v2ex.com/t/890788) ![](assets/new.png)  
 - [2022-10-28-前端自动打包上传推送钉钉工具](https://www.v2ex.com/t/890787) ![](assets/new.png)  
@@ -503,14 +511,6 @@
 - [2022-10-28-现在有爱奇艺和-qq-音乐联合会员吗大佬们](https://www.v2ex.com/t/890775) ![](assets/new.png)  
 - [2022-10-28-深圳宝安消费券怎么用划算](https://www.v2ex.com/t/890774) ![](assets/new.png)  
 - [2022-10-28-ToDesk-macBookPro-m1-升级-V4.5.0.0-后，-CPU-100%](https://www.v2ex.com/t/890773) ![](assets/new.png)  
-- [2022-10-28-快手的市值还有救吗？](https://www.v2ex.com/t/890772) ![](assets/new.png)  
-- [2022-10-28-谁能分享几个能干掉-youtube,youku,tengxun-视频广告的-adguard-home-rule](https://www.v2ex.com/t/890769) ![](assets/new.png)  
-- [2022-10-28-Apple-watch-能和旧版-iOS-设备配对吗？](https://www.v2ex.com/t/890768) ![](assets/new.png)  
-- [2022-10-28-关于-RAID1-的读写机制](https://www.v2ex.com/t/890767) ![](assets/new.png)  
-- [2022-10-28-请问怎么搭建一个简单的团购网站呢：开源框架/WordPress/从零开始写？](https://www.v2ex.com/t/890764) ![](assets/new.png)  
-- [2022-10-28-iPad-有没有可能在未来支持安装-macos](https://www.v2ex.com/t/890763) ![](assets/new.png)  
-- [2022-10-28-4G-Cat1-这个模块刚上车,发现教程打不开了,请问有大佬还有保存的吗](https://www.v2ex.com/t/890762) ![](assets/new.png)  
-- [2022-10-28-帮女朋友转租一下房子，同和地铁-A-口-3-分钟超高性价比一房一厅](https://www.v2ex.com/t/890760) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

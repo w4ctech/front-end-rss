@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-28 20:43:58，:rocket: 更新条数: +1999， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-28 21:15:05，:rocket: 更新条数: +2000， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-10-28-都说-Windows-窗口管理-比-Mac-更方便高效，具体表现在哪？超级任务栏-vs-Stage-Manager](https://www.v2ex.com/t/890874) ![](assets/new.png)  
 - [2022-10-28-macOS-13-频繁跳出-iCloud-更新条款的确认框，点击同意仍然跳。](https://www.v2ex.com/t/890872) ![](assets/new.png)  
 - [2022-10-28-群晖能通过代码方式上传文件吗](https://www.v2ex.com/t/890871) ![](assets/new.png)  
 - [2022-10-28-有没有便宜的方法买-app-store-的生化危机](https://www.v2ex.com/t/890870) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-10-28-iOS-16-生活中的痛点-BUG](https://www.v2ex.com/t/890849) ![](assets/new.png)  
 - [2022-10-28-转租无中介迫于工作调度，二号线三墩地铁口-转租-2499-元/月](https://www.v2ex.com/t/890847) ![](assets/new.png)  
 - [2022-10-28-Tuxera-NTFS-导致-macOS-Ventura-崩溃](https://www.v2ex.com/t/890846) ![](assets/new.png)  
-- [2022-10-28-手贱啊，黑苹果升级了-mac13，总是用着用着就说有问题，重启了](https://www.v2ex.com/t/890844) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

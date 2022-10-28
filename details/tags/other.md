@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-28 08:53:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-28 09:18:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1915,6 +1915,11 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-10-28-Apple-watch-能和旧版-iOS-设备配对吗？](https://www.v2ex.com/t/890768) 
+- [2022-10-28-关于-RAID1-的读写机制](https://www.v2ex.com/t/890767) 
+- [2022-10-28-请问怎么搭建一个简单的团购网站呢：开源框架/WordPress/从零开始写？](https://www.v2ex.com/t/890764) 
+- [2022-10-28-iPad-有没有可能在未来支持安装-macos](https://www.v2ex.com/t/890763) 
+- [2022-10-28-4G-Cat1-这个模块刚上车,发现教程打不开了,请问有大佬还有保存的吗](https://www.v2ex.com/t/890762) 
 - [2022-10-28-帮女朋友转租一下房子，同和地铁-A-口-3-分钟超高性价比一房一厅](https://www.v2ex.com/t/890760) 
 - [2022-10-28-看到一个沙雕图，图上面有一道题：](https://www.v2ex.com/t/890757) 
 - [2022-10-28--杭州-字节--国际化电商---后端---真实岗位](https://www.v2ex.com/t/890756) 
@@ -1938,12 +1943,6 @@
 - [2022-10-28-Proton-邮箱被封号了！](https://www.v2ex.com/t/890724) 
 - [2022-10-28-iOS16.1-天文墙纸-BUG，如果选择“模糊”，则进入主界面后的墙纸不会随时间更新。](https://www.v2ex.com/t/890721) 
 - [2022-10-28-纯新手，-15w-左右落地能买啥车](https://www.v2ex.com/t/890720) 
-- [2022-10-28-关于每天晚上-iPhone-待机耗电](https://www.v2ex.com/t/890718) 
-- [2022-10-28-刚发现-JetBrains-各大-IDE-的-EAP-版本都提供了-Windows-的-ARM64-版安装包，这意味着-ARM-越来越受重视？](https://www.v2ex.com/t/890716) 
-- [2022-10-28-如何向-6-岁的孩子解释红黑树](https://www.v2ex.com/t/890715) 
-- [2022-10-28-敞篷车会晕车吗？](https://www.v2ex.com/t/890714) 
-- [2022-10-28-做了个信息聚合的站点，聚合中文的技术相关的远程工作机会](https://www.v2ex.com/t/890713) 
-- [2022-10-28-Mac-循环-Panic](https://www.v2ex.com/t/890712) 
 - [2022-10-28-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-28-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-28-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

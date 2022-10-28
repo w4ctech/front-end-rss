@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-28 08:53:50，:rocket: 更新条数: +2002， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-28 09:18:12，:rocket: 更新条数: +2001， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-10-28-Apple-watch-能和旧版-iOS-设备配对吗？](https://www.v2ex.com/t/890768) ![](assets/new.png)  
+- [2022-10-28-关于-RAID1-的读写机制](https://www.v2ex.com/t/890767) ![](assets/new.png)  
+- [2022-10-28-请问怎么搭建一个简单的团购网站呢：开源框架/WordPress/从零开始写？](https://www.v2ex.com/t/890764) ![](assets/new.png)  
+- [2022-10-28-iPad-有没有可能在未来支持安装-macos](https://www.v2ex.com/t/890763) ![](assets/new.png)  
+- [2022-10-28-4G-Cat1-这个模块刚上车,发现教程打不开了,请问有大佬还有保存的吗](https://www.v2ex.com/t/890762) ![](assets/new.png)  
 - [2022-10-28-帮女朋友转租一下房子，同和地铁-A-口-3-分钟超高性价比一房一厅](https://www.v2ex.com/t/890760) ![](assets/new.png)  
 - [2022-10-28-原来-isset$_POST-永远是真值，!empty$_POST才可以判断，坑人啊](https://www.v2ex.com/t/890759) ![](assets/new.png)  
 - [2022-10-28-看到一个沙雕图，图上面有一道题：](https://www.v2ex.com/t/890757) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-10-28-A-电脑如何同步-B-电脑局域网的网络内容？](https://www.v2ex.com/t/890747) ![](assets/new.png)  
 - [2022-10-28-Mac-有什么软件可以服务器之间传输文件](https://www.v2ex.com/t/890746) ![](assets/new.png)  
 - [2022-10-28-招聘-国际远程团队-可以在地表任何角落里写-Python-代码的工作是一种什么样的体验？](https://www.v2ex.com/t/890743) ![](assets/new.png)  
-- [2022-10-28-Java-有那些大佬的-Blog，公众号或技术网站，已停更的也行，求推荐。](https://www.v2ex.com/t/890742) ![](assets/new.png)  
-- [2022-10-28-自建邮箱被黑了，我不理解](https://www.v2ex.com/t/890741) ![](assets/new.png)  
-- [2022-10-28-新版本兼容老版本的数据格式有什么方法?](https://www.v2ex.com/t/890739) ![](assets/new.png)  
-- [2022-10-28-数据可视化大屏酷炫秘籍之前端开发者自己动手](https://www.v2ex.com/t/890736) ![](assets/new.png)  
-- [2022-10-28-MacOS-Ventura-13-麦克风频繁被系统调用](https://www.v2ex.com/t/890735) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

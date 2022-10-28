@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-28 10:45:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-28 11:14:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1915,6 +1915,12 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-10-28-M2-Pro-/-Max-是-3nm?](https://www.v2ex.com/t/890811) 
+- [2022-10-28-通过-BT-下载,-看看全球祼连速度.](https://www.v2ex.com/t/890809) 
+- [2022-10-28-los-屏幕关闭，收不到短信](https://www.v2ex.com/t/890808) 
+- [2022-10-28-Time-Machine-显示磁盘空间不足无法备份，可是机制难道不是删掉最旧的备份然后备份新的吗？](https://www.v2ex.com/t/890807) 
+- [2022-10-28-你平时周末会逛哪些网站?](https://www.v2ex.com/t/890805) 
+- [2022-10-28-追逐有前景的公司，而不是大公司](https://www.v2ex.com/t/890799) 
 - [2022-10-28-群晖有没有实时备份的功能，譬如我读写都用-ssd，然后-hdd-在后台偷偷备份数据？](https://www.v2ex.com/t/890798) 
 - [2022-10-28-iPhone-屏幕刮了-2cm-的划痕，比较明显，能用-AC+维修吗](https://www.v2ex.com/t/890797) 
 - [2022-10-28-远程管理配置锁如何解除掉](https://www.v2ex.com/t/890796) 
@@ -1938,13 +1944,6 @@
 - [2022-10-28-请问怎么搭建一个简单的团购网站呢：开源框架/WordPress/从零开始写？](https://www.v2ex.com/t/890764) 
 - [2022-10-28-iPad-有没有可能在未来支持安装-macos](https://www.v2ex.com/t/890763) 
 - [2022-10-28-4G-Cat1-这个模块刚上车,发现教程打不开了,请问有大佬还有保存的吗](https://www.v2ex.com/t/890762) 
-- [2022-10-28-帮女朋友转租一下房子，同和地铁-A-口-3-分钟超高性价比一房一厅](https://www.v2ex.com/t/890760) 
-- [2022-10-28-看到一个沙雕图，图上面有一道题：](https://www.v2ex.com/t/890757) 
-- [2022-10-28--杭州-字节--国际化电商---后端---真实岗位](https://www.v2ex.com/t/890756) 
-- [2022-10-28-求助帖-想搭建个网站国外的服务商哪个好？](https://www.v2ex.com/t/890752) 
-- [2022-10-28-都说-magsafe-好用，然而](https://www.v2ex.com/t/890751) 
-- [2022-10-28-请问下,这种效果前端是怎么做的?前端商品衣服标签标注.....](https://www.v2ex.com/t/890750) 
-- [2022-10-28-为什么使用-xshell-可以正常连接树莓派，而使用-xftp-的-sftp-却无法连接](https://www.v2ex.com/t/890749) 
 - [2022-10-28-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-28-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-28-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

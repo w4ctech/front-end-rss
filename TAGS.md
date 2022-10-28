@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-10-28 13:32:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-28 14:10:24。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -249,7 +249,6 @@
 
 - [【V2EX】Edge-的增强安全模式对性能的影响](https://www.v2ex.com/t/890822)
 - [【V2EX】5000-预算能装一台性能接近或者超过-1-年前买的-10000-的笔记本吗](https://www.v2ex.com/t/890801)
-- [【V2EX】android10-开机启动优化问题?](https://www.v2ex.com/t/890789)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -288,6 +287,7 @@
 
 
 
+- [【V2EX】瑞典-沃尔沃-新职位需求：全栈工程师，-Base-哥德堡](https://www.v2ex.com/t/890842)
 - [【V2EX】请教一个-nginx-http-转-http-问题](https://www.v2ex.com/t/890806)
 - [【技术头条】基于AI算法的数据库异常监测系统的设计与实现-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15390&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F09%2F01%2Fdatabase-monitoring-based-on-ai.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)

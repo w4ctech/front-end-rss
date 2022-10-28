@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-27 23:46:30，:rocket: 更新条数: +2000， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-28 01:18:36，:rocket: 更新条数: +2001， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,26 +491,26 @@
 </summary>
 
 
+- [2022-10-28-电视台已经标注（终）的日本动画是不是完全没希望出下一季了](https://www.v2ex.com/t/890576) ![](assets/new.png)  
+- [2022-10-28-QQ-邮箱竟然让我绑定手机号，有点奇怪](https://www.v2ex.com/t/890575) ![](assets/new.png)  
+- [2022-10-28-宁用-OS13-正式版的晴空壁纸吗?](https://www.v2ex.com/t/890574) ![](assets/new.png)  
+- [2022-10-28-程序员线上办公都是怎么样的一个模式？](https://www.v2ex.com/t/890573) ![](assets/new.png)  
+- [2022-10-28-海淘-apple-tv](https://www.v2ex.com/t/890572) ![](assets/new.png)  
+- [2022-10-28-好工具周刊（第-35-期）:-HTTPie,-Core-Web-Vitals-Check,-Resource-Hint-Validator,-okso,-Wormhole,-Boring-Avatars,-📙-Emojipedia](https://www.v2ex.com/t/890571) ![](assets/new.png)  
+- [2022-10-28-变现周刊（第-77-期）：文章转短视频工具是如何在短短-5-个月内达到月收入-6000-美元](https://www.v2ex.com/t/890570) ![](assets/new.png)  
+- [2022-10-28-三战字节终无缘](https://www.v2ex.com/t/890569) ![](assets/new.png)  
+- [2022-10-28-iOS-转行干什么？-Java-、React、Go、Vue？](https://www.v2ex.com/t/890568) ![](assets/new.png)  
+- [2022-10-28-电动汽车私桩大量占用公共车位](https://www.v2ex.com/t/890566) ![](assets/new.png)  
+- [2022-10-28-前端同构框架选型推荐](https://www.v2ex.com/t/890565) ![](assets/new.png)  
+- [2022-10-28-能推荐个-macos-下好用的-app-switcher-么？](https://www.v2ex.com/t/890563) ![](assets/new.png)  
+- [2022-10-28-请问（低端）显卡本身有『无法输出某种分辨率（比如-4K）画面』的限制吗？](https://www.v2ex.com/t/890561) ![](assets/new.png)  
+- [2022-10-28-现在能去哪儿买到无饲料喂养的土鸡蛋？](https://www.v2ex.com/t/890560) ![](assets/new.png)  
+- [2022-10-28-在日亚买-Apple-TV，添加银联信用卡支付，没有提示验证-CVV，需要外币信用卡吗？](https://www.v2ex.com/t/890558) ![](assets/new.png)  
+- [2022-10-27-求一个经典-html/css-练习题或网页,-需要如下知识才能做出来](https://www.v2ex.com/t/890556) ![](assets/new.png)  
 - [2022-10-27-数学是被-发明-的，还是被-发现-的？](https://www.v2ex.com/t/890555) ![](assets/new.png)  
 - [2022-10-27-加拿大鹹魚為什麼不能登錄](https://www.v2ex.com/t/890554) ![](assets/new.png)  
 - [2022-10-27-明年-7🈷️到期的-Adobe-Creative-不续订了](https://www.v2ex.com/t/890553) ![](assets/new.png)  
 - [2022-10-27-为何-Apple-需要那么多员工，全球总共超-15-万](https://www.v2ex.com/t/890552) ![](assets/new.png)  
-- [2022-10-27-iphone6s-还能不能继续苟](https://www.v2ex.com/t/890551) ![](assets/new.png)  
-- [2022-10-27-ai-独立游戏开发还要多久](https://www.v2ex.com/t/890550) ![](assets/new.png)  
-- [2022-10-27-应届生的-Offer-选择，想听听大家的意见](https://www.v2ex.com/t/890549) ![](assets/new.png)  
-- [2022-10-27-ubiquity-框架怎么国内一点资料都没有](https://www.v2ex.com/t/890548) ![](assets/new.png)  
-- [2022-10-27-搞了好久的，终于为-SDB-增加了-lua-脚本](https://www.v2ex.com/t/890547) ![](assets/new.png)  
-- [2022-10-27-哪个城市最适合躺平](https://www.v2ex.com/t/890544) ![](assets/new.png)  
-- [2022-10-27-Google-Drive-在-Ventura-中会将废纸篓中的文件同步到云盘](https://www.v2ex.com/t/890543) ![](assets/new.png)  
-- [2022-10-27-收-E3-MSDN-全局-1-个](https://www.v2ex.com/t/890541) ![](assets/new.png)  
-- [2022-10-27-有了解香港的-V-友吗？香港的高端人才通行证计划是啥概念，满足条件的都能拿通行证过去找工作？](https://www.v2ex.com/t/890540) ![](assets/new.png)  
-- [2022-10-27-偶然间发现，百度搜编程语言，培训班广告已经被撤掉了。。。](https://www.v2ex.com/t/890538) ![](assets/new.png)  
-- [2022-10-27-国内力推-IPv6-原是因为-IPv4-生态被美掌握](https://www.v2ex.com/t/890535) ![](assets/new.png)  
-- [2022-10-27-问一个双显示器的问题。](https://www.v2ex.com/t/890534) ![](assets/new.png)  
-- [2022-10-27-用手机谷歌搜索出问题了](https://www.v2ex.com/t/890533) ![](assets/new.png)  
-- [2022-10-27-Chrome/Edge-证书查看器怎么变这么丑，有还原`用系统证书查看器`的设置吗](https://www.v2ex.com/t/890532) ![](assets/new.png)  
-- [2022-10-27-求助-双十一核显电脑配置](https://www.v2ex.com/t/890528) ![](assets/new.png)  
-- [2022-10-27-广州求职-Node.js-后端开发（4-年经验）](https://www.v2ex.com/t/890527) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -522,26 +522,26 @@
 </summary>
 
 
-- [2022-10-27-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-10-27-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-10-27-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-10-27-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-10-27-技术改变了什么？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15400&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fpower-of-technology%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-10-27-失败驱动开发-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15399&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffailure-driven-development%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-10-27-图技术在美团外卖下的场景化应用及探索-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15398&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F09%2F08%2Fgnn-scenariomodeling-subgraphextend-jointtraining.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-10-27-TLS指纹分析研究（上）-blog.nsfocus.net](https://blogread.cn/news/go.php?idItem=15397&url=http%3A%2F%2Fblog.nsfocus.net%2Ftls1-0%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-10-27-Unix-历史：一个伟大作品的诞生-linux.cn](https://blogread.cn/news/go.php?idItem=15396&url=https%3A%2F%2Flinux.cn%2Farticle-15024-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-10-27-GraphQL及元数据驱动架构在后端BFF中的实践-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15395&url=https%3A%2F%2Ftech.meituan.com%2F2021%2F05%2F06%2Fbff-graphql.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-10-27-提升资源利用率与保障服务质量，鱼与熊掌不可兼得？-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15394&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F08%2F11%2Fload-auto-regulator.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-10-27-探索原味BFF模式-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15393&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fbff-history%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-10-27-ARouter-迁移到-TheRouter-使用感受-juejin.cn](https://blogread.cn/news/go.php?idItem=15392&url=https%3A%2F%2Fjuejin.cn%2Fpost%2F7142687645980688397%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-10-27-智能搜索模型预估框架Augur的建设与实践-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15391&url=https%3A%2F%2Ftech.meituan.com%2F2020%2F07%2F16%2Faugur-in-meituan-nlp.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-10-27-基于AI算法的数据库异常监测系统的设计与实现-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15390&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F09%2F01%2Fdatabase-monitoring-based-on-ai.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-10-27-设备指纹技术介绍与综述（二）-blog.nsfocus.net](https://blogread.cn/news/go.php?idItem=15389&url=http%3A%2F%2Fblog.nsfocus.net%2Ffingerprint%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-10-27-向量数据库入坑：传统文本检索方式的降维打击，使用-Faiss-实现向量语义检索-soulteary.com](https://blogread.cn/news/go.php?idItem=15388&url=https%3A%2F%2Fsoulteary.com%2F2022%2F09%2F10%2Fthe-dimensionality-reduction-of-traditional-text-retrieval-methods-using-faiss-to-achieve-vector-semantic-retrieval.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-10-27-全球IPv4-AS拓扑测绘初探-blog.nsfocus.net](https://blogread.cn/news/go.php?idItem=15387&url=http%3A%2F%2Fblog.nsfocus.net%2Fipv4-as%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-10-27-与日俱进，在-Go-1.20-中这种高效转换的方式又变了-colobu.com](https://blogread.cn/news/go.php?idItem=15386&url=https%3A%2F%2Fcolobu.com%2F2022%2F09%2F06%2Fstring-byte-convertion%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-10-27-10-大可以摧毁你的-Linux-的命令-linux.cn](https://blogread.cn/news/go.php?idItem=15385&url=https%3A%2F%2Flinux.cn%2Farticle-15022-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-10-28-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-10-28-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-10-28-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-10-28-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-10-28-技术改变了什么？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15400&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fpower-of-technology%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-10-28-失败驱动开发-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15399&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffailure-driven-development%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-10-28-图技术在美团外卖下的场景化应用及探索-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15398&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F09%2F08%2Fgnn-scenariomodeling-subgraphextend-jointtraining.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-10-28-TLS指纹分析研究（上）-blog.nsfocus.net](https://blogread.cn/news/go.php?idItem=15397&url=http%3A%2F%2Fblog.nsfocus.net%2Ftls1-0%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-10-28-Unix-历史：一个伟大作品的诞生-linux.cn](https://blogread.cn/news/go.php?idItem=15396&url=https%3A%2F%2Flinux.cn%2Farticle-15024-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-10-28-GraphQL及元数据驱动架构在后端BFF中的实践-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15395&url=https%3A%2F%2Ftech.meituan.com%2F2021%2F05%2F06%2Fbff-graphql.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-10-28-提升资源利用率与保障服务质量，鱼与熊掌不可兼得？-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15394&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F08%2F11%2Fload-auto-regulator.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-10-28-探索原味BFF模式-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15393&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fbff-history%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-10-28-ARouter-迁移到-TheRouter-使用感受-juejin.cn](https://blogread.cn/news/go.php?idItem=15392&url=https%3A%2F%2Fjuejin.cn%2Fpost%2F7142687645980688397%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-10-28-智能搜索模型预估框架Augur的建设与实践-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15391&url=https%3A%2F%2Ftech.meituan.com%2F2020%2F07%2F16%2Faugur-in-meituan-nlp.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-10-28-基于AI算法的数据库异常监测系统的设计与实现-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15390&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F09%2F01%2Fdatabase-monitoring-based-on-ai.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-10-28-设备指纹技术介绍与综述（二）-blog.nsfocus.net](https://blogread.cn/news/go.php?idItem=15389&url=http%3A%2F%2Fblog.nsfocus.net%2Ffingerprint%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-10-28-向量数据库入坑：传统文本检索方式的降维打击，使用-Faiss-实现向量语义检索-soulteary.com](https://blogread.cn/news/go.php?idItem=15388&url=https%3A%2F%2Fsoulteary.com%2F2022%2F09%2F10%2Fthe-dimensionality-reduction-of-traditional-text-retrieval-methods-using-faiss-to-achieve-vector-semantic-retrieval.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-10-28-全球IPv4-AS拓扑测绘初探-blog.nsfocus.net](https://blogread.cn/news/go.php?idItem=15387&url=http%3A%2F%2Fblog.nsfocus.net%2Fipv4-as%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-10-28-与日俱进，在-Go-1.20-中这种高效转换的方式又变了-colobu.com](https://blogread.cn/news/go.php?idItem=15386&url=https%3A%2F%2Fcolobu.com%2F2022%2F09%2F06%2Fstring-byte-convertion%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-10-28-10-大可以摧毁你的-Linux-的命令-linux.cn](https://blogread.cn/news/go.php?idItem=15385&url=https%3A%2F%2Flinux.cn%2Farticle-15022-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

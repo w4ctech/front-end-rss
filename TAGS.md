@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-10-28 11:40:08。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-28 12:31:01。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -233,7 +233,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】广州17岁男生在定点医院参加高考-特殊考场视频监考](https://m.caixin.com/m/2021-06-05/101723418.html)
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
 - [【V2EX】有什么工具能将无音频的-MP4-转换为-HEIC-吗](https://www.v2ex.com/t/890779)
-- [【V2EX】谁能分享几个能干掉-youtube,youku,tengxun-视频广告的-adguard-home-rule](https://www.v2ex.com/t/890769)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -250,6 +249,7 @@
 
 
 
+- [【V2EX】Edge-的增强安全模式对性能的影响](https://www.v2ex.com/t/890822)
 - [【V2EX】5000-预算能装一台性能接近或者超过-1-年前买的-10000-的笔记本吗](https://www.v2ex.com/t/890801)
 - [【V2EX】android10-开机启动优化问题?](https://www.v2ex.com/t/890789)
 - [......【查看更多】......](./details/tags/optimization.md)

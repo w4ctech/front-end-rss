@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-28 12:31:01，:rocket: 更新条数: +2006， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-28 13:32:21，:rocket: 更新条数: +2005， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,8 +491,13 @@
 </summary>
 
 
+- [2022-10-28-调查一下，各位程序员如何判断一件事是否值得一试？](https://www.v2ex.com/t/890830) ![](assets/new.png)  
+- [2022-10-28-跟风的-9.9-元的-4G-Cat1-到底需不需要其他模块](https://www.v2ex.com/t/890829) ![](assets/new.png)  
+- [2022-10-28-关于腾讯云点播，-key-加密防盗的问题](https://www.v2ex.com/t/890828) ![](assets/new.png)  
+- [2022-10-28-你们-YouTube-的-UI-更改了吗](https://www.v2ex.com/t/890826) ![](assets/new.png)  
+- [2022-10-28-macOS-Ventura-支持-2K-分辨率打开-HiDPI](https://www.v2ex.com/t/890823) ![](assets/new.png)  
 - [2022-10-28-Edge-的增强安全模式对性能的影响](https://www.v2ex.com/t/890822) ![](assets/new.png)  
-- [2022-10-28-markdown-里图片是-base64-编码，特别长，有办法折叠吗？](https://www.v2ex.com/t/890821) ![](assets/new.png)  
+- [2022-10-28-vscode-markdown-里图片是-base64-编码，特别长，有办法折叠吗？](https://www.v2ex.com/t/890821) ![](assets/new.png)  
 - [2022-10-28-人在国内年入-12-万美元欧洲远程工作四年经验分享（一）](https://www.v2ex.com/t/890820) ![](assets/new.png)  
 - [2022-10-28-疑似天猫超市客服发短信骂我，大家说怎么办？](https://www.v2ex.com/t/890818) ![](assets/new.png)  
 - [2022-10-28-youtebu-能加入家庭组，却依然不是会员，怎么办](https://www.v2ex.com/t/890817) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-10-28-通过-BT-下载,-看看全球祼连速度.](https://www.v2ex.com/t/890809) ![](assets/new.png)  
 - [2022-10-28-los-屏幕关闭，收不到短信](https://www.v2ex.com/t/890808) ![](assets/new.png)  
 - [2022-10-28-Time-Machine-显示磁盘空间不足无法备份，可是机制难道不是删掉最旧的备份然后备份新的吗？](https://www.v2ex.com/t/890807) ![](assets/new.png)  
-- [2022-10-28-请教一个-nginx-http-转-http-问题](https://www.v2ex.com/t/890806) ![](assets/new.png)  
-- [2022-10-28-你平时周末会逛哪些网站?](https://www.v2ex.com/t/890805) ![](assets/new.png)  
-- [2022-10-28-招聘求职内推-Base-武汉（主）20-60k、北京、广州、深圳、新加坡等](https://www.v2ex.com/t/890804) ![](assets/new.png)  
-- [2022-10-28-5000-预算能装一台性能接近或者超过-1-年前买的-10000-的笔记本吗](https://www.v2ex.com/t/890801) ![](assets/new.png)  
-- [2022-10-28-甘肃兰州-高新区-招聘-Python-爬虫、前端开发工程师，待遇不够尽管提](https://www.v2ex.com/t/890800) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

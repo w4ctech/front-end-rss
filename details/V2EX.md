@@ -1,12 +1,17 @@
-:alarm_clock: 更新时间: 2022-10-28 12:31:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-28 13:32:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-10-28-调查一下，各位程序员如何判断一件事是否值得一试？](https://www.v2ex.com/t/890830) 
+- [2022-10-28-跟风的-9.9-元的-4G-Cat1-到底需不需要其他模块](https://www.v2ex.com/t/890829) 
+- [2022-10-28-关于腾讯云点播，-key-加密防盗的问题](https://www.v2ex.com/t/890828) 
+- [2022-10-28-你们-YouTube-的-UI-更改了吗](https://www.v2ex.com/t/890826) 
+- [2022-10-28-macOS-Ventura-支持-2K-分辨率打开-HiDPI](https://www.v2ex.com/t/890823) 
 - [2022-10-28-Edge-的增强安全模式对性能的影响](https://www.v2ex.com/t/890822) 
-- [2022-10-28-markdown-里图片是-base64-编码，特别长，有办法折叠吗？](https://www.v2ex.com/t/890821) 
+- [2022-10-28-vscode-markdown-里图片是-base64-编码，特别长，有办法折叠吗？](https://www.v2ex.com/t/890821) 
 - [2022-10-28-人在国内年入-12-万美元欧洲远程工作四年经验分享（一）](https://www.v2ex.com/t/890820) 
 - [2022-10-28-疑似天猫超市客服发短信骂我，大家说怎么办？](https://www.v2ex.com/t/890818) 
 - [2022-10-28-youtebu-能加入家庭组，却依然不是会员，怎么办](https://www.v2ex.com/t/890817) 
@@ -39,9 +44,3 @@
 - [2022-10-28-Widnows-有哪些设置可以让指定网站无法访问？越多越好](https://www.v2ex.com/t/890786) 
 - [2022-10-28-Command+W-关闭-QQ-后，过一分钟左右，-QQ-聊天窗口自动弹出。](https://www.v2ex.com/t/890785) 
 - [2022-10-28-建了个股票期货交流的-vx-群](https://www.v2ex.com/t/890782) 
-- [2022-10-28-天才吧-iwatch-S3-换新之旅](https://www.v2ex.com/t/890781) 
-- [2022-10-28-提问-如何把-PC-主机改造成一台游戏主机](https://www.v2ex.com/t/890780) 
-- [2022-10-28-有什么工具能将无音频的-MP4-转换为-HEIC-吗](https://www.v2ex.com/t/890779) 
-- [2022-10-28-现在有爱奇艺和-qq-音乐联合会员吗大佬们](https://www.v2ex.com/t/890775) 
-- [2022-10-28-深圳宝安消费券怎么用划算](https://www.v2ex.com/t/890774) 
-- [2022-10-28-ToDesk-macBookPro-m1-升级-V4.5.0.0-后，-CPU-100%](https://www.v2ex.com/t/890773) 

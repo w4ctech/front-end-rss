@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-10-28 21:42:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-28 22:15:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-10-28-马后炮，贫困线，系统性风险，小确幸与初心](https://www.v2ex.com/t/890875) 
 - [2022-10-28-都说-Windows-窗口管理-比-Mac-更方便高效，具体表现在哪？超级任务栏-vs-Stage-Manager](https://www.v2ex.com/t/890874) 
 - [2022-10-28-macOS-13-频繁跳出-iCloud-更新条款的确认框，点击同意仍然跳。](https://www.v2ex.com/t/890872) 
 - [2022-10-28-群晖能通过代码方式上传文件吗](https://www.v2ex.com/t/890871) 

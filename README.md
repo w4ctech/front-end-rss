@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-28 15:47:29，:rocket: 更新条数: +2002， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-28 16:18:44，:rocket: 更新条数: +2002， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-10-28-请教一下-control-plane-节点高可用的一些细节问题](https://www.v2ex.com/t/890865) ![](assets/new.png)  
+- [2022-10-28-请教大佬一个-docker-build-的问题，困扰了好几天一直无解](https://www.v2ex.com/t/890864) ![](assets/new.png)  
+- [2022-10-28-开车违章了，老哥们帮忙看下会怎么处罚](https://www.v2ex.com/t/890863) ![](assets/new.png)  
 - [2022-10-28-Deno-反向代理解决前端跨域问题以及将-http-转为-https](https://www.v2ex.com/t/890862) ![](assets/new.png)  
 - [2022-10-28-现在海外亚马逊买东西多久能收货？](https://www.v2ex.com/t/890861) ![](assets/new.png)  
 - [2022-10-28-macOS-怎么能够静止所有的程序访问剪贴板？](https://www.v2ex.com/t/890858) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-10-28-瑞典-沃尔沃-新职位需求：全栈工程师，-Base-哥德堡](https://www.v2ex.com/t/890842) ![](assets/new.png)  
 - [2022-10-28-家里装修，目前在设计家里的网络，想看看大家都怎么弄的，给点建议？](https://www.v2ex.com/t/890840) ![](assets/new.png)  
 - [2022-10-28-苦恼的问题，时间过长该怎么办](https://www.v2ex.com/t/890839) ![](assets/new.png)  
-- [2022-10-28-广州/上海-字节跳动-高级/资深前端研发工程师---开发者服务-内推](https://www.v2ex.com/t/890838) ![](assets/new.png)  
-- [2022-10-28-全新-Logto-网站：新设计，新内容，新订阅；还有-SaaS-资讯与你相见](https://www.v2ex.com/t/890837) ![](assets/new.png)  
-- [2022-10-28-75-配列的键盘，选哪个](https://www.v2ex.com/t/890836) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

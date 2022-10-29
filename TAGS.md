@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-10-29 03:19:56。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-29 04:12:37。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -155,7 +155,6 @@
 
 
 
-- [【V2EX】在小县城，出租游戏光盘的实体店怎么样，目前还没看到有这样的店](https://www.v2ex.com/t/890869)
 - [......【查看更多】......](./details/tags/dev-game.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -271,7 +270,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】腺病毒新冠疫苗引安全忧虑-康希诺称未发现血栓病例](https://m.caixin.com/m/2021-04-14/101691086.html)
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
-- [【V2EX】Deno-反向代理解决前端跨域问题以及将-http-转为-https](https://www.v2ex.com/t/890862)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -306,7 +304,6 @@
 
 
 - [【V2EX】UniFi6-Pro-可以用-Docker-unifi-controller-控制么？](https://www.v2ex.com/t/890881)
-- [【V2EX】请教大佬一个-docker-build-的问题，困扰了好几天一直无解](https://www.v2ex.com/t/890864)
 - [【技术头条】GraphQL及元数据驱动架构在后端BFF中的实践-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15395&url=https%3A%2F%2Ftech.meituan.com%2F2021%2F05%2F06%2Fbff-graphql.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/server.md)
 
@@ -341,6 +338,7 @@
 
 
 
+- [【V2EX】毕业后在培训班学习了一年，面试的时候面试官问起是否应该实话实说？](https://www.v2ex.com/t/890917)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

@@ -9953,6 +9953,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "关于同一个内网中存在两个 openvpn 服务器无法通过其连接上网的问题",
+        "link": "https://www.v2ex.com/t/891073",
+        "date": "2022-10-29"
+      },
+      {
         "title": "小白提问： Android 有什么类似 okhttp 的 tcp 网络库么？",
         "link": "https://www.v2ex.com/t/891072",
         "date": "2022-10-29"
@@ -10100,11 +10105,6 @@
       {
         "title": "CMIN2 (AS58807) Looking glass",
         "link": "https://www.v2ex.com/t/891026",
-        "date": "2022-10-29"
-      },
-      {
-        "title": "「USDT」一个自己躺枪的瓜",
-        "link": "https://www.v2ex.com/t/891023",
         "date": "2022-10-29"
       }
     ]

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-29 23:05:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-29 23:16:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1915,6 +1915,7 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-10-29-用一个-12pt-的粗体-拯救-windows-的颜值](https://www.v2ex.com/t/891078) 
 - [2022-10-29-iPhone-14-pro-max-语音通话的音质问题](https://www.v2ex.com/t/891077) 
 - [2022-10-29-升级-Windows11-22H2-踩坑之-Hyper-V-虚拟机无网络](https://www.v2ex.com/t/891075) 
 - [2022-10-29-现在所有-Mac-都是-PWM-调光是为了节约成本吗？](https://www.v2ex.com/t/891074) 
@@ -1941,7 +1942,6 @@
 - [2022-10-29-VSCode-如何自定义-Debug-命令](https://www.v2ex.com/t/891036) 
 - [2022-10-29-offer-最后的决赛圈，好人一生平安🙏🏻🙏🏻🙏🏻](https://www.v2ex.com/t/891031) 
 - [2022-10-29-一个素材代下的小项目](https://www.v2ex.com/t/891030) 
-- [2022-10-29-失业了，以后路怎么办](https://www.v2ex.com/t/891028) 
 - [2022-10-29-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-29-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-29-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

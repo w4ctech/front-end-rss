@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-29 14:41:00。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-10-29 15:15:55。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -72,12 +72,13 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-10-16-2022年新出了哪些form表单新特性？](https://www.zhangxinxu.com/wordpress/2022/10/2022-new-form-property/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-12-CSS-::file-selector-button伪元素简介](https://www.zhangxinxu.com/wordpress/2022/10/css-file-selector-button/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-12-更符合书写习惯的CSS媒体查询Range语法](https://www.zhangxinxu.com/wordpress/2022/10/css-media-range-syntax/) 
+- [【V2EX】2022-10-29-续-7-个月前的-2000M-帖子讨论，上车了竟然带的-2.5G-光猫](https://www.v2ex.com/t/891062) 
+- [【V2EX】2022-10-29-如果长期看电脑只用一只眼睛会怎么样](https://www.v2ex.com/t/891060) 
 - [【V2EX】2022-10-29-要不要修呢](https://www.v2ex.com/t/891058) 
 - [【V2EX】2022-10-29-润到坡县-通过-EP-签证拿到-PR-现在一般要多久-国内一线大厂码农。](https://www.v2ex.com/t/891057) 
 - [【V2EX】2022-10-29-有用广东移动线路+MA5671A-猫棒和软路由的小伙伴吗](https://www.v2ex.com/t/891056) 
 - [【V2EX】2022-10-29-请问有没有什么全自动的方法把-gitee-的某个仓库搬运到-GitHub-上？并且可以跟着自动更新仓库。](https://www.v2ex.com/t/891055) 
 - [【V2EX】2022-10-29-macOS13-hyperdock-不可用](https://www.v2ex.com/t/891054) 
-- [【V2EX】2022-10-29-没想到社会主义铁拳即将砸在我的头上，我是被动醒来，看来跟那些主动醒来的境界差的很远](https://www.v2ex.com/t/891053) 
 - [【V2EX】2022-10-29-电动汽车行业站，类似汽车之家，有谁做过类似的，有业务。](https://www.v2ex.com/t/891049) 
 - [【V2EX】2022-10-29-求助求-Miao-Project-链接](https://www.v2ex.com/t/891048) 
 - [【V2EX】2022-10-29-求推荐一款可以在-Linux-ubuntu-和-windows-之间共享键鼠的软件-synergy-收费了目前](https://www.v2ex.com/t/891047) 
@@ -102,9 +103,6 @@
 - [【V2EX】2022-10-29-阿里云-docker-镜像加速问题](https://www.v2ex.com/t/891017) 
 - [【V2EX】2022-10-29-双十一，有无优惠大的显示器推荐](https://www.v2ex.com/t/891016) 
 - [【V2EX】2022-10-29-被裁员后劳动仲裁后续](https://www.v2ex.com/t/891015) 
-- [【V2EX】2022-10-29-有道云笔记服务挂了？](https://www.v2ex.com/t/891013) 
-- [【V2EX】2022-10-29-除了工作，是什么原因让你去上海](https://www.v2ex.com/t/891012) 
-- [【V2EX】2022-10-29-有老哥用过-nx54-吗？求教](https://www.v2ex.com/t/891010) 
 - [【技术头条】2022-10-29-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-29-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-29-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-29 04:12:37，:rocket: 更新条数: +2005， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-29 05:01:37，:rocket: 更新条数: +2003， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,15 @@
 </summary>
 
 
+- [2022-10-29-如何评价-SLF4J-API-的破坏性升级](https://www.v2ex.com/t/890935) ![](assets/new.png)  
+- [2022-10-29-「远程工作」招聘-React/后端/Solidity-工程师，月薪-30-50K-RMB](https://www.v2ex.com/t/890933) ![](assets/new.png)  
+- [2022-10-29-MacBook-显示器](https://www.v2ex.com/t/890930) ![](assets/new.png)  
+- [2022-10-29-ios-远程控制-macos，除了-teamview-还有其他方法做到吗？](https://www.v2ex.com/t/890928) ![](assets/new.png)  
+- [2022-10-29-打算在家部署在线网站，需要买云服务器做流量转发吗？](https://www.v2ex.com/t/890927) ![](assets/new.png)  
+- [2022-10-29-北京海淀区软件园附近柳浪家园北里转租](https://www.v2ex.com/t/890926) ![](assets/new.png)  
+- [2022-10-29-今年阿里云双十一没有-3-年-1-折活动了吗？](https://www.v2ex.com/t/890924) ![](assets/new.png)  
+- [2022-10-29-小白问一个-VueJs-的问题](https://www.v2ex.com/t/890922) ![](assets/new.png)  
+- [2022-10-29-iCloud-页面已经更新](https://www.v2ex.com/t/890921) ![](assets/new.png)  
 - [2022-10-29-安卓手机怎么调低滑动灵敏度？](https://www.v2ex.com/t/890920) ![](assets/new.png)  
 - [2022-10-29-试了一上午没注册成功美区-PayPal，大佬们有没有什么好法子？](https://www.v2ex.com/t/890919) ![](assets/new.png)  
 - [2022-10-29-毕业后在培训班学习了一年，面试的时候面试官问起是否应该实话实说？](https://www.v2ex.com/t/890917) ![](assets/new.png)  
@@ -502,15 +511,6 @@
 - [2022-10-29-2000-以内，我能买到什么样的二手手机...作为备用机，有什么推荐吗？](https://www.v2ex.com/t/890910) ![](assets/new.png)  
 - [2022-10-29-Vue-子组件双向绑定父组件数据对象内部多个属性，应该用什么方式实现？](https://www.v2ex.com/t/890909) ![](assets/new.png)  
 - [2022-10-29-Xeon-Platinum-第三代-P-结尾的和不带-P-的有啥区别？](https://www.v2ex.com/t/890908) ![](assets/new.png)  
-- [2022-10-29-现在看韩剧或美剧都在什么地方看？](https://www.v2ex.com/t/890906) ![](assets/new.png)  
-- [2022-10-29-airpods-pro-2-代相比-1-代有啥改进点？](https://www.v2ex.com/t/890905) ![](assets/new.png)  
-- [2022-10-29-macOS13-+-iOS16-终于支持-FaceTime-在设备间切换了](https://www.v2ex.com/t/890904) ![](assets/new.png)  
-- [2022-10-29-美国卡问题](https://www.v2ex.com/t/890903) ![](assets/new.png)  
-- [2022-10-29-电信和移动两条-1000M-线路-openwrt-下行不能聚合吗](https://www.v2ex.com/t/890901) ![](assets/new.png)  
-- [2022-10-29-the-usb-c-iPhone-won't-happen](https://www.v2ex.com/t/890900) ![](assets/new.png)  
-- [2022-10-29-后端语言选哪个:-C#,-Java-,-Go,-Rust?](https://www.v2ex.com/t/890899) ![](assets/new.png)  
-- [2022-10-29-亲爱的前端朋友们，是时候让接口对接更轻松一点了，来看看这个](https://www.v2ex.com/t/890898) ![](assets/new.png)  
-- [2022-10-29-快充终于质变到量变了，-210-瓦，-9-分钟，-0%-100%](https://www.v2ex.com/t/890897) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

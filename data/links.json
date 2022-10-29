@@ -9953,6 +9953,36 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "Debian 11 Server 如何在 reboot 时能像桌面 GNOME 一样把重启信息显示出来？",
+        "link": "https://www.v2ex.com/t/890948",
+        "date": "2022-10-29"
+      },
+      {
+        "title": "有没有一种 chrome 插件可以支持思考问题时的递归记录存储",
+        "link": "https://www.v2ex.com/t/890947",
+        "date": "2022-10-29"
+      },
+      {
+        "title": "为什么 ios 端的微信这么耗电呢",
+        "link": "https://www.v2ex.com/t/890946",
+        "date": "2022-10-29"
+      },
+      {
+        "title": "奔着 A15 买 Apple TV 的可以歇歇了",
+        "link": "https://www.v2ex.com/t/890945",
+        "date": "2022-10-29"
+      },
+      {
+        "title": "Pure 一个基于 Github Discussion 的极简博客",
+        "link": "https://www.v2ex.com/t/890944",
+        "date": "2022-10-29"
+      },
+      {
+        "title": "奈何加速器不稳定，自建一个节点可行吗？（其实也是想自己建一个玩玩）",
+        "link": "https://www.v2ex.com/t/890943",
+        "date": "2022-10-29"
+      },
+      {
         "title": "双十一了求推荐安卓手机",
         "link": "https://www.v2ex.com/t/890941",
         "date": "2022-10-29"
@@ -10115,36 +10145,6 @@
       {
         "title": "后端语言选哪个: C#, Java , Go, Rust?",
         "link": "https://www.v2ex.com/t/890899",
-        "date": "2022-10-29"
-      },
-      {
-        "title": "亲爱的前端朋友们，是时候让接口对接更轻松一点了，来看看这个",
-        "link": "https://www.v2ex.com/t/890898",
-        "date": "2022-10-29"
-      },
-      {
-        "title": "快充终于质变到量变了， 210 瓦， 9 分钟， 0%-100%",
-        "link": "https://www.v2ex.com/t/890897",
-        "date": "2022-10-29"
-      },
-      {
-        "title": "酷瓜云课堂（内网版）v1.0.3 发布，局域网在线学习解决方案",
-        "link": "https://www.v2ex.com/t/890895",
-        "date": "2022-10-29"
-      },
-      {
-        "title": "有什么基于 DOTNET 开发的数据库管理工具吗？",
-        "link": "https://www.v2ex.com/t/890894",
-        "date": "2022-10-29"
-      },
-      {
-        "title": "入了 M2 air，了解下 win 平台虚拟机的问题",
-        "link": "https://www.v2ex.com/t/890893",
-        "date": "2022-10-29"
-      },
-      {
-        "title": "2022 年旧手机回收哪家比较靠谱",
-        "link": "https://www.v2ex.com/t/890892",
         "date": "2022-10-29"
       }
     ]

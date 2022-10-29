@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-29 05:27:35，:rocket: 更新条数: +2005， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-29 05:44:27，:rocket: 更新条数: +2005， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-10-29-Debian-11-Server-如何在-reboot-时能像桌面-GNOME-一样把重启信息显示出来？](https://www.v2ex.com/t/890948) ![](assets/new.png)  
+- [2022-10-29-有没有一种-chrome-插件可以支持思考问题时的递归记录存储](https://www.v2ex.com/t/890947) ![](assets/new.png)  
+- [2022-10-29-为什么-ios-端的微信这么耗电呢](https://www.v2ex.com/t/890946) ![](assets/new.png)  
+- [2022-10-29-奔着-A15-买-Apple-TV-的可以歇歇了](https://www.v2ex.com/t/890945) ![](assets/new.png)  
+- [2022-10-29-Pure-一个基于-Github-Discussion-的极简博客](https://www.v2ex.com/t/890944) ![](assets/new.png)  
+- [2022-10-29-奈何加速器不稳定，自建一个节点可行吗？（其实也是想自己建一个玩玩）](https://www.v2ex.com/t/890943) ![](assets/new.png)  
 - [2022-10-29-双十一了求推荐安卓手机](https://www.v2ex.com/t/890941) ![](assets/new.png)  
 - [2022-10-29-如何部署远程控制服务器？](https://www.v2ex.com/t/890940) ![](assets/new.png)  
 - [2022-10-29-macOS-启动速度越来越慢了?-电脑开机一次居然要-3-分钟,-有什么办法吗?](https://www.v2ex.com/t/890939) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-10-29-北京海淀区软件园附近柳浪家园北里转租](https://www.v2ex.com/t/890926) ![](assets/new.png)  
 - [2022-10-29-今年阿里云双十一没有-3-年-1-折活动了吗？](https://www.v2ex.com/t/890924) ![](assets/new.png)  
 - [2022-10-29-小白问一个-VueJs-的问题](https://www.v2ex.com/t/890922) ![](assets/new.png)  
-- [2022-10-29-iCloud-页面已经更新](https://www.v2ex.com/t/890921) ![](assets/new.png)  
-- [2022-10-29-安卓手机怎么调低滑动灵敏度？](https://www.v2ex.com/t/890920) ![](assets/new.png)  
-- [2022-10-29-试了一上午没注册成功美区-PayPal，大佬们有没有什么好法子？](https://www.v2ex.com/t/890919) ![](assets/new.png)  
-- [2022-10-29-毕业后在培训班学习了一年，面试的时候面试官问起是否应该实话实说？](https://www.v2ex.com/t/890917) ![](assets/new.png)  
-- [2022-10-29-有个疑问，-M1/M2-如果系统出问题之后？](https://www.v2ex.com/t/890916) ![](assets/new.png)  
-- [2022-10-29-「Universal-Work-在全宇宙都可工作」Solidity-工程师/月薪-30-50K-RMB](https://www.v2ex.com/t/890914) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

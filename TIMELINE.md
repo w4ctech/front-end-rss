@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-29 16:19:44。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-10-29 16:55:51。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -72,6 +72,7 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-10-16-2022年新出了哪些form表单新特性？](https://www.zhangxinxu.com/wordpress/2022/10/2022-new-form-property/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-12-CSS-::file-selector-button伪元素简介](https://www.zhangxinxu.com/wordpress/2022/10/css-file-selector-button/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-12-更符合书写习惯的CSS媒体查询Range语法](https://www.zhangxinxu.com/wordpress/2022/10/css-media-range-syntax/) 
+- [【V2EX】2022-10-29-如何在三个月内将前端学到能找到工作的程度](https://www.v2ex.com/t/891071) 
 - [【V2EX】2022-10-29-日本动漫声优配音后期会用软件调音色吗？为什么和声优平时说话的音色完全不一样？](https://www.v2ex.com/t/891069) 
 - [【V2EX】2022-10-29-目前网站的-IPv6-支持程度](https://www.v2ex.com/t/891068) 
 - [【V2EX】2022-10-29-最近行情比较不错，别人送了一个-eth，推荐一个，开多哪个比较有戏？-备注，我之前一直亏，没有入金玩了。](https://www.v2ex.com/t/891067) 
@@ -102,7 +103,6 @@
 - [【V2EX】2022-10-29-CMIN2-AS58807-Looking-glass](https://www.v2ex.com/t/891026) 
 - [【V2EX】2022-10-29-「USDT」一个自己躺枪的瓜](https://www.v2ex.com/t/891023) 
 - [【V2EX】2022-10-29-好奇,缺百兆光猫,是芯片卡脖子的原因吗?](https://www.v2ex.com/t/891022) 
-- [【V2EX】2022-10-29-结婚电视机取张图做电子屏](https://www.v2ex.com/t/891021) 
 - [【技术头条】2022-10-29-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-29-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-29-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

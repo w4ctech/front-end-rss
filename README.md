@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-29 16:19:44，:rocket: 更新条数: +1997， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-29 16:55:51，:rocket: 更新条数: +1997， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-10-29-如何在三个月内将前端学到能找到工作的程度](https://www.v2ex.com/t/891071) ![](assets/new.png)  
 - [2022-10-29-日本动漫声优配音后期会用软件调音色吗？为什么和声优平时说话的音色完全不一样？](https://www.v2ex.com/t/891069) ![](assets/new.png)  
 - [2022-10-29-目前网站的-IPv6-支持程度](https://www.v2ex.com/t/891068) ![](assets/new.png)  
 - [2022-10-29-最近行情比较不错，别人送了一个-eth，推荐一个，开多哪个比较有戏？-备注，我之前一直亏，没有入金玩了。](https://www.v2ex.com/t/891067) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-10-29-求助：在大陆如何购买使用-google-fi-呢](https://www.v2ex.com/t/891046) ![](assets/new.png)  
 - [2022-10-29-发现了个-Github-Copilot-的平替，能免费用](https://www.v2ex.com/t/891044) ![](assets/new.png)  
 - [2022-10-29-大家觉得编程行业什么时候能回暖？-23-年报计算机志愿算不算-49-年入国军？](https://www.v2ex.com/t/891043) ![](assets/new.png)  
-- [2022-10-29-水星-tplink-路由器虚拟服务器端口映射怎么使用](https://www.v2ex.com/t/891040) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

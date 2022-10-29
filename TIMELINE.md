@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-29 05:01:37。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-10-29 05:27:35。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -72,6 +72,12 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-10-16-2022年新出了哪些form表单新特性？](https://www.zhangxinxu.com/wordpress/2022/10/2022-new-form-property/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-12-CSS-::file-selector-button伪元素简介](https://www.zhangxinxu.com/wordpress/2022/10/css-file-selector-button/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-12-更符合书写习惯的CSS媒体查询Range语法](https://www.zhangxinxu.com/wordpress/2022/10/css-media-range-syntax/) 
+- [【V2EX】2022-10-29-双十一了求推荐安卓手机](https://www.v2ex.com/t/890941) 
+- [【V2EX】2022-10-29-如何部署远程控制服务器？](https://www.v2ex.com/t/890940) 
+- [【V2EX】2022-10-29-macOS-启动速度越来越慢了?-电脑开机一次居然要-3-分钟,-有什么办法吗?](https://www.v2ex.com/t/890939) 
+- [【V2EX】2022-10-29-求问现在入手哪款-iPad-比较合适？](https://www.v2ex.com/t/890938) 
+- [【V2EX】2022-10-29-关于招行系开屏广告去除](https://www.v2ex.com/t/890937) 
+- [【V2EX】2022-10-29-你那里私人充电桩可以装峰谷表吗？](https://www.v2ex.com/t/890936) 
 - [【V2EX】2022-10-29-如何评价-SLF4J-API-的破坏性升级](https://www.v2ex.com/t/890935) 
 - [【V2EX】2022-10-29-「远程工作」招聘-React/后端/Solidity-工程师，月薪-30-50K-RMB](https://www.v2ex.com/t/890933) 
 - [【V2EX】2022-10-29-MacBook-显示器](https://www.v2ex.com/t/890930) 
@@ -105,10 +111,6 @@
 - [【V2EX】2022-10-29-有什么基于-DOTNET-开发的数据库管理工具吗？](https://www.v2ex.com/t/890894) 
 - [【V2EX】2022-10-29-入了-M2-air，了解下-win-平台虚拟机的问题](https://www.v2ex.com/t/890893) 
 - [【V2EX】2022-10-29-2022-年旧手机回收哪家比较靠谱](https://www.v2ex.com/t/890892) 
-- [【V2EX】2022-10-29-学习周刊-总第-76-期-Vue3-右键菜单组件和数据库备份管理平台](https://www.v2ex.com/t/890890) 
-- [【V2EX】2022-10-29-ventura-13.1-开机弹出一堆提醒-怎么破](https://www.v2ex.com/t/890889) 
-- [【V2EX】2022-10-29-我的时间高级功能永久兑换码](https://www.v2ex.com/t/890887) 
-- [【V2EX】2022-10-29-pixel4a-5G-恢复出厂之后安装软件的时长明显增加。是咋回事呀](https://www.v2ex.com/t/890886) 
 - [【技术头条】2022-10-29-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-29-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-29-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

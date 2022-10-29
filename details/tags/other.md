@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-29 05:01:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-29 05:27:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1915,6 +1915,12 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-10-29-双十一了求推荐安卓手机](https://www.v2ex.com/t/890941) 
+- [2022-10-29-如何部署远程控制服务器？](https://www.v2ex.com/t/890940) 
+- [2022-10-29-macOS-启动速度越来越慢了?-电脑开机一次居然要-3-分钟,-有什么办法吗?](https://www.v2ex.com/t/890939) 
+- [2022-10-29-求问现在入手哪款-iPad-比较合适？](https://www.v2ex.com/t/890938) 
+- [2022-10-29-关于招行系开屏广告去除](https://www.v2ex.com/t/890937) 
+- [2022-10-29-你那里私人充电桩可以装峰谷表吗？](https://www.v2ex.com/t/890936) 
 - [2022-10-29-如何评价-SLF4J-API-的破坏性升级](https://www.v2ex.com/t/890935) 
 - [2022-10-29-MacBook-显示器](https://www.v2ex.com/t/890930) 
 - [2022-10-29-打算在家部署在线网站，需要买云服务器做流量转发吗？](https://www.v2ex.com/t/890927) 
@@ -1943,9 +1949,6 @@
 - [2022-10-29-有什么基于-DOTNET-开发的数据库管理工具吗？](https://www.v2ex.com/t/890894) 
 - [2022-10-29-入了-M2-air，了解下-win-平台虚拟机的问题](https://www.v2ex.com/t/890893) 
 - [2022-10-29-2022-年旧手机回收哪家比较靠谱](https://www.v2ex.com/t/890892) 
-- [2022-10-29-ventura-13.1-开机弹出一堆提醒-怎么破](https://www.v2ex.com/t/890889) 
-- [2022-10-29-我的时间高级功能永久兑换码](https://www.v2ex.com/t/890887) 
-- [2022-10-29-pixel4a-5G-恢复出厂之后安装软件的时长明显增加。是咋回事呀](https://www.v2ex.com/t/890886) 
 - [2022-10-29-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-29-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-29-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

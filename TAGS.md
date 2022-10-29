@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-10-29 07:14:34。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-29 07:39:28。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -234,6 +234,7 @@
 
 - [【武汉肺炎防疫全纪录(财新网)】广州17岁男生在定点医院参加高考-特殊考场视频监考](https://m.caixin.com/m/2021-06-05/101723418.html)
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
+- [【V2EX】微信视频手机发热严重，你们也有这样的情况吗？](https://www.v2ex.com/t/890965)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -272,7 +273,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】腺病毒新冠疫苗引安全忧虑-康希诺称未发现血栓病例](https://m.caixin.com/m/2021-04-14/101691086.html)
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
-- [【V2EX】加拿大区-加区-Apple-One-Premier-超大杯-拼车-季付～¥105](https://www.v2ex.com/t/890950)
+- [【V2EX】腾讯翻译浏览器插件，支持-Chrome/Firefox](https://www.v2ex.com/t/890967)
 - [【V2EX】有没有一种-chrome-插件可以支持思考问题时的递归记录存储](https://www.v2ex.com/t/890947)
 - [【V2EX】ios-远程控制-macos，除了-teamview-还有其他方法做到吗？](https://www.v2ex.com/t/890928)
 - [......【查看更多】......](./details/tags/browser.md)
@@ -343,7 +344,6 @@
 
 
 
-- [【V2EX】毕业后在培训班学习了一年，面试的时候面试官问起是否应该实话实说？](https://www.v2ex.com/t/890917)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

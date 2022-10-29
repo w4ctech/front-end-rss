@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-29 07:14:33，:rocket: 更新条数: +2007， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-29 07:39:27，:rocket: 更新条数: +2007， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,14 @@
 </summary>
 
 
+- [2022-10-29-怎么才能联系到腾讯人工客服啊](https://www.v2ex.com/t/890970) ![](assets/new.png)  
+- [2022-10-29-爱思-16.1-不保资料降-15.7](https://www.v2ex.com/t/890969) ![](assets/new.png)  
+- [2022-10-29-上海租房都用什么软件](https://www.v2ex.com/t/890968) ![](assets/new.png)  
+- [2022-10-29-腾讯翻译浏览器插件，支持-Chrome/Firefox](https://www.v2ex.com/t/890967) ![](assets/new.png)  
+- [2022-10-29-现代信息的社会如何避免被追踪？](https://www.v2ex.com/t/890966) ![](assets/new.png)  
+- [2022-10-29-微信视频手机发热严重，你们也有这样的情况吗？](https://www.v2ex.com/t/890965) ![](assets/new.png)  
+- [2022-10-29-请问-SQL-怎么替换两条相同数据某个字段不同的值？](https://www.v2ex.com/t/890963) ![](assets/new.png)  
+- [2022-10-29-我该在公司当扫地僧还是万人嫌？](https://www.v2ex.com/t/890962) ![](assets/new.png)  
 - [2022-10-29-硬盘电源线最可能是罪魁祸首吗？](https://www.v2ex.com/t/890961) ![](assets/new.png)  
 - [2022-10-29-mbp-外接双显示器问题](https://www.v2ex.com/t/890960) ![](assets/new.png)  
 - [2022-10-29-App-Cleaner-&-Uninstaller-升级-macOS-13-后无法继续正常使用](https://www.v2ex.com/t/890959) ![](assets/new.png)  
@@ -502,15 +510,7 @@
 - [2022-10-29-想买个茶吧机，各位有合适的推荐吗](https://www.v2ex.com/t/890953) ![](assets/new.png)  
 - [2022-10-29-哪里有-golang-开发的业务类型的项目源码可以借鉴学习的呢?](https://www.v2ex.com/t/890952) ![](assets/new.png)  
 - [2022-10-29-问一个-IP-方面的问题，关于问卷被同一个-IP-作答千份问卷](https://www.v2ex.com/t/890951) ![](assets/new.png)  
-- [2022-10-29-加拿大区-加区-Apple-One-Premier-超大杯-拼车-季付～¥105](https://www.v2ex.com/t/890950) ![](assets/new.png)  
 - [2022-10-29-大流量下载正常，小流量包巨卡，光猫和路由啥都换了，师傅来了都挠头。](https://www.v2ex.com/t/890949) ![](assets/new.png)  
-- [2022-10-29-Debian-11-Server-如何在-reboot-时能像桌面-GNOME-一样把重启信息显示出来？](https://www.v2ex.com/t/890948) ![](assets/new.png)  
-- [2022-10-29-有没有一种-chrome-插件可以支持思考问题时的递归记录存储](https://www.v2ex.com/t/890947) ![](assets/new.png)  
-- [2022-10-29-为什么-ios-端的微信这么耗电呢](https://www.v2ex.com/t/890946) ![](assets/new.png)  
-- [2022-10-29-奔着-A15-买-Apple-TV-的可以歇歇了](https://www.v2ex.com/t/890945) ![](assets/new.png)  
-- [2022-10-29-Pure-一个基于-Github-Discussion-的极简博客](https://www.v2ex.com/t/890944) ![](assets/new.png)  
-- [2022-10-29-奈何加速器不稳定，自建一个节点可行吗？（其实也是想自己建一个玩玩）](https://www.v2ex.com/t/890943) ![](assets/new.png)  
-- [2022-10-29-双十一了求推荐安卓手机](https://www.v2ex.com/t/890941) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

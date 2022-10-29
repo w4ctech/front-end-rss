@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-29 07:14:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-29 07:39:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1915,6 +1915,12 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-10-29-怎么才能联系到腾讯人工客服啊](https://www.v2ex.com/t/890970) 
+- [2022-10-29-爱思-16.1-不保资料降-15.7](https://www.v2ex.com/t/890969) 
+- [2022-10-29-上海租房都用什么软件](https://www.v2ex.com/t/890968) 
+- [2022-10-29-现代信息的社会如何避免被追踪？](https://www.v2ex.com/t/890966) 
+- [2022-10-29-请问-SQL-怎么替换两条相同数据某个字段不同的值？](https://www.v2ex.com/t/890963) 
+- [2022-10-29-我该在公司当扫地僧还是万人嫌？](https://www.v2ex.com/t/890962) 
 - [2022-10-29-硬盘电源线最可能是罪魁祸首吗？](https://www.v2ex.com/t/890961) 
 - [2022-10-29-mbp-外接双显示器问题](https://www.v2ex.com/t/890960) 
 - [2022-10-29-App-Cleaner-&-Uninstaller-升级-macOS-13-后无法继续正常使用](https://www.v2ex.com/t/890959) 
@@ -1941,12 +1947,6 @@
 - [2022-10-29-北京海淀区软件园附近柳浪家园北里转租](https://www.v2ex.com/t/890926) 
 - [2022-10-29-今年阿里云双十一没有-3-年-1-折活动了吗？](https://www.v2ex.com/t/890924) 
 - [2022-10-29-iCloud-页面已经更新](https://www.v2ex.com/t/890921) 
-- [2022-10-29-安卓手机怎么调低滑动灵敏度？](https://www.v2ex.com/t/890920) 
-- [2022-10-29-试了一上午没注册成功美区-PayPal，大佬们有没有什么好法子？](https://www.v2ex.com/t/890919) 
-- [2022-10-29-有个疑问，-M1/M2-如果系统出问题之后？](https://www.v2ex.com/t/890916) 
-- [2022-10-29-「Universal-Work-在全宇宙都可工作」Solidity-工程师/月薪-30-50K-RMB](https://www.v2ex.com/t/890914) 
-- [2022-10-29-V-友们，-1W2-的预算是买-mbp-多少配置的好？](https://www.v2ex.com/t/890913) 
-- [2022-10-29-你房贷提前还款了吗？](https://www.v2ex.com/t/890912) 
 - [2022-10-29-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-29-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-10-29-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

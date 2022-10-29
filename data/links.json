@@ -9953,6 +9953,26 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "iOS16 Safari 可以直接翻译网页图片中的文字了",
+        "link": "https://www.v2ex.com/t/890983",
+        "date": "2022-10-29"
+      },
+      {
+        "title": "评论系统迁移：使用 giscus 替换 disqus",
+        "link": "https://www.v2ex.com/t/890981",
+        "date": "2022-10-29"
+      },
+      {
+        "title": "从事工程造价行业（甲方成本），想利用 Django 实现建设项目数据管理",
+        "link": "https://www.v2ex.com/t/890980",
+        "date": "2022-10-29"
+      },
+      {
+        "title": "才发现 todesk 的隐私屏也变成付费服务了",
+        "link": "https://www.v2ex.com/t/890979",
+        "date": "2022-10-29"
+      },
+      {
         "title": "早期免费版的 Google Gsutie 还能升级然后降级成免费版么？",
         "link": "https://www.v2ex.com/t/890977",
         "date": "2022-10-29"
@@ -10140,16 +10160,6 @@
       {
         "title": "如何评价 SLF4J-API 的破坏性升级",
         "link": "https://www.v2ex.com/t/890935",
-        "date": "2022-10-29"
-      },
-      {
-        "title": "「远程工作」招聘 React/后端/Solidity 工程师，月薪 30-50K RMB",
-        "link": "https://www.v2ex.com/t/890933",
-        "date": "2022-10-29"
-      },
-      {
-        "title": "MacBook 显示器",
-        "link": "https://www.v2ex.com/t/890930",
         "date": "2022-10-29"
       }
     ]

@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2022-10-29 08:19:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-29 08:47:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-10-29-iOS16-Safari-可以直接翻译网页图片中的文字了](https://www.v2ex.com/t/890983) 
+- [2022-10-29-评论系统迁移：使用-giscus-替换-disqus](https://www.v2ex.com/t/890981) 
+- [2022-10-29-从事工程造价行业（甲方成本），想利用-Django-实现建设项目数据管理](https://www.v2ex.com/t/890980) 
+- [2022-10-29-才发现-todesk-的隐私屏也变成付费服务了](https://www.v2ex.com/t/890979) 
 - [2022-10-29-早期免费版的-Google-Gsutie-还能升级然后降级成免费版么？](https://www.v2ex.com/t/890977) 
 - [2022-10-29-你们说，如果有一个网页版的-autohotkey-该多好啊](https://www.v2ex.com/t/890976) 
 - [2022-10-29-请问一下智能家居可以完全本地化部署吗？](https://www.v2ex.com/t/890973) 
@@ -43,5 +47,3 @@
 - [2022-10-29-关于招行系开屏广告去除](https://www.v2ex.com/t/890937) 
 - [2022-10-29-你那里私人充电桩可以装峰谷表吗？](https://www.v2ex.com/t/890936) 
 - [2022-10-29-如何评价-SLF4J-API-的破坏性升级](https://www.v2ex.com/t/890935) 
-- [2022-10-29-「远程工作」招聘-React/后端/Solidity-工程师，月薪-30-50K-RMB](https://www.v2ex.com/t/890933) 
-- [2022-10-29-MacBook-显示器](https://www.v2ex.com/t/890930) 

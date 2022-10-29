@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-29 08:19:20，:rocket: 更新条数: +2006， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-29 08:47:45，:rocket: 更新条数: +2008， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-10-29-iOS16-Safari-可以直接翻译网页图片中的文字了](https://www.v2ex.com/t/890983) ![](assets/new.png)  
+- [2022-10-29-评论系统迁移：使用-giscus-替换-disqus](https://www.v2ex.com/t/890981) ![](assets/new.png)  
+- [2022-10-29-从事工程造价行业（甲方成本），想利用-Django-实现建设项目数据管理](https://www.v2ex.com/t/890980) ![](assets/new.png)  
+- [2022-10-29-才发现-todesk-的隐私屏也变成付费服务了](https://www.v2ex.com/t/890979) ![](assets/new.png)  
 - [2022-10-29-早期免费版的-Google-Gsutie-还能升级然后降级成免费版么？](https://www.v2ex.com/t/890977) ![](assets/new.png)  
 - [2022-10-29-你们说，如果有一个网页版的-autohotkey-该多好啊](https://www.v2ex.com/t/890976) ![](assets/new.png)  
 - [2022-10-29-请问一下智能家居可以完全本地化部署吗？](https://www.v2ex.com/t/890973) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-10-29-硬盘电源线最可能是罪魁祸首吗？](https://www.v2ex.com/t/890961) ![](assets/new.png)  
 - [2022-10-29-mbp-外接双显示器问题](https://www.v2ex.com/t/890960) ![](assets/new.png)  
 - [2022-10-29-App-Cleaner-&-Uninstaller-升级-macOS-13-后无法继续正常使用](https://www.v2ex.com/t/890959) ![](assets/new.png)  
-- [2022-10-29-国密-CMBSM2SignWithSM3-在-node-上怎么实现](https://www.v2ex.com/t/890958) ![](assets/new.png)  
-- [2022-10-29-都-2022-年了，妙控蓝牙键盘还是没有背光灯](https://www.v2ex.com/t/890957) ![](assets/new.png)  
-- [2022-10-29-知乎相关：在问题下面屏蔽特定用户的插件推荐](https://www.v2ex.com/t/890956) ![](assets/new.png)  
-- [2022-10-29-想润，大家有什么国家或者途径推荐吗](https://www.v2ex.com/t/890955) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

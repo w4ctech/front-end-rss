@@ -9953,6 +9953,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "升级 Windows11 22H2 踩坑之 Hyper-V 虚拟机无网络",
+        "link": "https://www.v2ex.com/t/891075",
+        "date": "2022-10-29"
+      },
+      {
         "title": "现在所有 Mac 都是 PWM 调光是为了节约成本吗？",
         "link": "https://www.v2ex.com/t/891074",
         "date": "2022-10-29"
@@ -10105,11 +10110,6 @@
       {
         "title": "台前调度为什么有的应用不受控制 比如 微信 和 PD",
         "link": "https://www.v2ex.com/t/891027",
-        "date": "2022-10-29"
-      },
-      {
-        "title": "CMIN2 (AS58807) Looking glass",
-        "link": "https://www.v2ex.com/t/891026",
         "date": "2022-10-29"
       }
     ]

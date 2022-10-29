@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-29 10:16:48，:rocket: 更新条数: +2004， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-29 10:45:29，:rocket: 更新条数: +2003， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-10-29-除了工作，是什么原因让你去上海](https://www.v2ex.com/t/891012) ![](assets/new.png)  
+- [2022-10-29-郑州-yq-什么情况，有了解的吗，虽然封了半个月了也不知道啥情况，今天看富士康都是逃疫的，好吓人](https://www.v2ex.com/t/891011) ![](assets/new.png)  
+- [2022-10-29-有老哥用过-nx54-吗？求教](https://www.v2ex.com/t/891010) ![](assets/new.png)  
+- [2022-10-29-阿里-HK-轻量的电信线路好像正常了？](https://www.v2ex.com/t/891008) ![](assets/new.png)  
+- [2022-10-29-iPad-air5-好心动啊](https://www.v2ex.com/t/891007) ![](assets/new.png)  
 - [2022-10-29-显示器漏液还能修吗](https://www.v2ex.com/t/891006) ![](assets/new.png)  
 - [2022-10-29-英文系统，接受中文压缩包时常会解压乱码，有方便的指定编码解压方案吗？](https://www.v2ex.com/t/891005) ![](assets/new.png)  
 - [2022-10-29-大厂基础组件-死亡-ONCALL-要不要裸辞？](https://www.v2ex.com/t/891004) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-10-29-求一个靠谱莆田鞋资源](https://www.v2ex.com/t/890989) ![](assets/new.png)  
 - [2022-10-29-iPhone-的睡觉监测不能记录午觉吗？](https://www.v2ex.com/t/890988) ![](assets/new.png)  
 - [2022-10-29-我的-Linux-上面的-Intel-AX210-无线网卡经常在系统更新后拒绝工作，我探究了原因和解法，写了一篇文章，希望帮到有同样烦恼的同学](https://www.v2ex.com/t/890987) ![](assets/new.png)  
-- [2022-10-29-有没美国住宅-ip-的-vps-推荐呢](https://www.v2ex.com/t/890986) ![](assets/new.png)  
-- [2022-10-29-iOS16-Safari-可以直接翻译网页图片中的文字了](https://www.v2ex.com/t/890983) ![](assets/new.png)  
-- [2022-10-29-评论系统迁移：使用-giscus-替换-disqus](https://www.v2ex.com/t/890981) ![](assets/new.png)  
-- [2022-10-29-从事工程造价行业（甲方成本），想利用-Django-实现建设项目数据管理](https://www.v2ex.com/t/890980) ![](assets/new.png)  
-- [2022-10-29-才发现-todesk-的隐私屏也变成付费服务了](https://www.v2ex.com/t/890979) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

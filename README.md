@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-29 05:44:27，:rocket: 更新条数: +2005， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-29 06:18:31，:rocket: 更新条数: +2006， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-10-29-机器学习项目（有偿提供）](https://www.v2ex.com/t/890954) ![](assets/new.png)  
+- [2022-10-29-想买个茶吧机，各位有合适的推荐吗](https://www.v2ex.com/t/890953) ![](assets/new.png)  
+- [2022-10-29-哪里有-golang-开发的业务类型的项目源码可以借鉴学习的呢?](https://www.v2ex.com/t/890952) ![](assets/new.png)  
+- [2022-10-29-问一个-IP-方面的问题，关于问卷被同一个-IP-作答千份问卷](https://www.v2ex.com/t/890951) ![](assets/new.png)  
+- [2022-10-29-加拿大区-加区-Apple-One-Premier-超大杯-拼车-季付～¥105](https://www.v2ex.com/t/890950) ![](assets/new.png)  
+- [2022-10-29-大流量下载正常，小流量包巨卡，光猫和路由啥都换了，师傅来了都挠头。](https://www.v2ex.com/t/890949) ![](assets/new.png)  
 - [2022-10-29-Debian-11-Server-如何在-reboot-时能像桌面-GNOME-一样把重启信息显示出来？](https://www.v2ex.com/t/890948) ![](assets/new.png)  
 - [2022-10-29-有没有一种-chrome-插件可以支持思考问题时的递归记录存储](https://www.v2ex.com/t/890947) ![](assets/new.png)  
 - [2022-10-29-为什么-ios-端的微信这么耗电呢](https://www.v2ex.com/t/890946) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-10-29-你那里私人充电桩可以装峰谷表吗？](https://www.v2ex.com/t/890936) ![](assets/new.png)  
 - [2022-10-29-如何评价-SLF4J-API-的破坏性升级](https://www.v2ex.com/t/890935) ![](assets/new.png)  
 - [2022-10-29-「远程工作」招聘-React/后端/Solidity-工程师，月薪-30-50K-RMB](https://www.v2ex.com/t/890933) ![](assets/new.png)  
-- [2022-10-29-MacBook-显示器](https://www.v2ex.com/t/890930) ![](assets/new.png)  
-- [2022-10-29-ios-远程控制-macos，除了-teamview-还有其他方法做到吗？](https://www.v2ex.com/t/890928) ![](assets/new.png)  
-- [2022-10-29-打算在家部署在线网站，需要买云服务器做流量转发吗？](https://www.v2ex.com/t/890927) ![](assets/new.png)  
-- [2022-10-29-北京海淀区软件园附近柳浪家园北里转租](https://www.v2ex.com/t/890926) ![](assets/new.png)  
-- [2022-10-29-今年阿里云双十一没有-3-年-1-折活动了吗？](https://www.v2ex.com/t/890924) ![](assets/new.png)  
-- [2022-10-29-小白问一个-VueJs-的问题](https://www.v2ex.com/t/890922) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

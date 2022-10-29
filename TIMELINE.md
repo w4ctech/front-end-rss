@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-29 06:49:30。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-10-29 07:14:34。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -72,6 +72,7 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-10-16-2022年新出了哪些form表单新特性？](https://www.zhangxinxu.com/wordpress/2022/10/2022-new-form-property/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-12-CSS-::file-selector-button伪元素简介](https://www.zhangxinxu.com/wordpress/2022/10/css-file-selector-button/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-12-更符合书写习惯的CSS媒体查询Range语法](https://www.zhangxinxu.com/wordpress/2022/10/css-media-range-syntax/) 
+- [【V2EX】2022-10-29-硬盘电源线最可能是罪魁祸首吗？](https://www.v2ex.com/t/890961) 
 - [【V2EX】2022-10-29-mbp-外接双显示器问题](https://www.v2ex.com/t/890960) 
 - [【V2EX】2022-10-29-App-Cleaner-&-Uninstaller-升级-macOS-13-后无法继续正常使用](https://www.v2ex.com/t/890959) 
 - [【V2EX】2022-10-29-国密-CMBSM2SignWithSM3-在-node-上怎么实现](https://www.v2ex.com/t/890958) 
@@ -112,7 +113,6 @@
 - [【V2EX】2022-10-29-「Universal-Work-在全宇宙都可工作」Solidity-工程师/月薪-30-50K-RMB](https://www.v2ex.com/t/890914) 
 - [【V2EX】2022-10-29-V-友们，-1W2-的预算是买-mbp-多少配置的好？](https://www.v2ex.com/t/890913) 
 - [【V2EX】2022-10-29-你房贷提前还款了吗？](https://www.v2ex.com/t/890912) 
-- [【V2EX】2022-10-29-在-iOS-16-中，设置中的「关于本机」是（自下向上的）弹窗方式显示吗？](https://www.v2ex.com/t/890911) 
 - [【技术头条】2022-10-29-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-29-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-29-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

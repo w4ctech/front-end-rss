@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-29 06:49:30，:rocket: 更新条数: +2007， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-29 07:14:33，:rocket: 更新条数: +2007， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-10-29-硬盘电源线最可能是罪魁祸首吗？](https://www.v2ex.com/t/890961) ![](assets/new.png)  
 - [2022-10-29-mbp-外接双显示器问题](https://www.v2ex.com/t/890960) ![](assets/new.png)  
 - [2022-10-29-App-Cleaner-&-Uninstaller-升级-macOS-13-后无法继续正常使用](https://www.v2ex.com/t/890959) ![](assets/new.png)  
 - [2022-10-29-国密-CMBSM2SignWithSM3-在-node-上怎么实现](https://www.v2ex.com/t/890958) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-10-29-Pure-一个基于-Github-Discussion-的极简博客](https://www.v2ex.com/t/890944) ![](assets/new.png)  
 - [2022-10-29-奈何加速器不稳定，自建一个节点可行吗？（其实也是想自己建一个玩玩）](https://www.v2ex.com/t/890943) ![](assets/new.png)  
 - [2022-10-29-双十一了求推荐安卓手机](https://www.v2ex.com/t/890941) ![](assets/new.png)  
-- [2022-10-29-如何部署远程控制服务器？](https://www.v2ex.com/t/890940) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

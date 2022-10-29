@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-29 15:15:55。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-10-29 15:44:04。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -72,6 +72,7 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-10-16-2022年新出了哪些form表单新特性？](https://www.zhangxinxu.com/wordpress/2022/10/2022-new-form-property/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-12-CSS-::file-selector-button伪元素简介](https://www.zhangxinxu.com/wordpress/2022/10/css-file-selector-button/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-12-更符合书写习惯的CSS媒体查询Range语法](https://www.zhangxinxu.com/wordpress/2022/10/css-media-range-syntax/) 
+- [【V2EX】2022-10-29-m1pro-MBP-使用闪极充电器充电会有持续的高频噪音](https://www.v2ex.com/t/891064) 
 - [【V2EX】2022-10-29-续-7-个月前的-2000M-帖子讨论，上车了竟然带的-2.5G-光猫](https://www.v2ex.com/t/891062) 
 - [【V2EX】2022-10-29-如果长期看电脑只用一只眼睛会怎么样](https://www.v2ex.com/t/891060) 
 - [【V2EX】2022-10-29-要不要修呢](https://www.v2ex.com/t/891058) 

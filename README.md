@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-29 08:47:45，:rocket: 更新条数: +2008， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-29 09:14:34，:rocket: 更新条数: +2005， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-10-29-希望-A15-Apple-TV-4k-散热不会翻船](https://www.v2ex.com/t/890990) ![](assets/new.png)  
+- [2022-10-29-求一个靠谱莆田鞋资源](https://www.v2ex.com/t/890989) ![](assets/new.png)  
+- [2022-10-29-iPhone-的睡觉监测不能记录午觉吗？](https://www.v2ex.com/t/890988) ![](assets/new.png)  
+- [2022-10-29-我的-Linux-上面的-Intel-AX210-无线网卡经常在系统更新后拒绝工作，我探究了原因和解法，写了一篇文章，希望帮到有同样烦恼的同学](https://www.v2ex.com/t/890987) ![](assets/new.png)  
+- [2022-10-29-有没美国住宅-ip-的-vps-推荐呢](https://www.v2ex.com/t/890986) ![](assets/new.png)  
 - [2022-10-29-iOS16-Safari-可以直接翻译网页图片中的文字了](https://www.v2ex.com/t/890983) ![](assets/new.png)  
 - [2022-10-29-评论系统迁移：使用-giscus-替换-disqus](https://www.v2ex.com/t/890981) ![](assets/new.png)  
 - [2022-10-29-从事工程造价行业（甲方成本），想利用-Django-实现建设项目数据管理](https://www.v2ex.com/t/890980) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-10-29-腾讯翻译浏览器插件，支持-Chrome/Firefox](https://www.v2ex.com/t/890967) ![](assets/new.png)  
 - [2022-10-29-现代信息的社会如何避免被追踪？](https://www.v2ex.com/t/890966) ![](assets/new.png)  
 - [2022-10-29-微信视频手机发热严重，你们也有这样的情况吗？](https://www.v2ex.com/t/890965) ![](assets/new.png)  
-- [2022-10-29-请问-SQL-怎么替换两条相同数据某个字段不同的值？](https://www.v2ex.com/t/890963) ![](assets/new.png)  
-- [2022-10-29-我该在公司当扫地僧还是万人嫌？](https://www.v2ex.com/t/890962) ![](assets/new.png)  
-- [2022-10-29-硬盘电源线最可能是罪魁祸首吗？](https://www.v2ex.com/t/890961) ![](assets/new.png)  
-- [2022-10-29-mbp-外接双显示器问题](https://www.v2ex.com/t/890960) ![](assets/new.png)  
-- [2022-10-29-App-Cleaner-&-Uninstaller-升级-macOS-13-后无法继续正常使用](https://www.v2ex.com/t/890959) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

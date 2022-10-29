@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-29 09:41:25，:rocket: 更新条数: +2003， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-29 10:16:48，:rocket: 更新条数: +2004， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,13 @@
 </summary>
 
 
+- [2022-10-29-显示器漏液还能修吗](https://www.v2ex.com/t/891006) ![](assets/new.png)  
+- [2022-10-29-英文系统，接受中文压缩包时常会解压乱码，有方便的指定编码解压方案吗？](https://www.v2ex.com/t/891005) ![](assets/new.png)  
+- [2022-10-29-大厂基础组件-死亡-ONCALL-要不要裸辞？](https://www.v2ex.com/t/891004) ![](assets/new.png)  
+- [2022-10-29-请问电脑风扇转又停是什么问题？](https://www.v2ex.com/t/891003) ![](assets/new.png)  
+- [2022-10-29-双十一快到了，有推荐的安卓平板电脑吗](https://www.v2ex.com/t/891002) ![](assets/new.png)  
+- [2022-10-29-很好奇住公司这个方法是不是真的可行...](https://www.v2ex.com/t/891001) ![](assets/new.png)  
+- [2022-10-29-超六类的网线传输速度只有百兆怎么排查问题](https://www.v2ex.com/t/890999) ![](assets/new.png)  
 - [2022-10-29-FaceTime-接力不可用](https://www.v2ex.com/t/890996) ![](assets/new.png)  
 - [2022-10-29-关于-github-action-的问题，我无解了，麻烦帮忙看看，谢谢](https://www.v2ex.com/t/890995) ![](assets/new.png)  
 - [2022-10-29-安卓电视有什么好用的视频软件啊？](https://www.v2ex.com/t/890994) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-10-29-评论系统迁移：使用-giscus-替换-disqus](https://www.v2ex.com/t/890981) ![](assets/new.png)  
 - [2022-10-29-从事工程造价行业（甲方成本），想利用-Django-实现建设项目数据管理](https://www.v2ex.com/t/890980) ![](assets/new.png)  
 - [2022-10-29-才发现-todesk-的隐私屏也变成付费服务了](https://www.v2ex.com/t/890979) ![](assets/new.png)  
-- [2022-10-29-早期免费版的-Google-Gsutie-还能升级然后降级成免费版么？](https://www.v2ex.com/t/890977) ![](assets/new.png)  
-- [2022-10-29-你们说，如果有一个网页版的-autohotkey-该多好啊](https://www.v2ex.com/t/890976) ![](assets/new.png)  
-- [2022-10-29-请问一下智能家居可以完全本地化部署吗？](https://www.v2ex.com/t/890973) ![](assets/new.png)  
-- [2022-10-29-继续出京东-plus-年-65、绿钻年-75](https://www.v2ex.com/t/890972) ![](assets/new.png)  
-- [2022-10-29-小米-10-烧屏](https://www.v2ex.com/t/890971) ![](assets/new.png)  
-- [2022-10-29-怎么才能联系到腾讯人工客服啊](https://www.v2ex.com/t/890970) ![](assets/new.png)  
-- [2022-10-29-爱思-16.1-不保资料降-15.7](https://www.v2ex.com/t/890969) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

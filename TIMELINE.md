@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-29 13:06:52。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-10-29 13:50:16。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -72,6 +72,12 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-10-16-2022年新出了哪些form表单新特性？](https://www.zhangxinxu.com/wordpress/2022/10/2022-new-form-property/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-12-CSS-::file-selector-button伪元素简介](https://www.zhangxinxu.com/wordpress/2022/10/css-file-selector-button/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-12-更符合书写习惯的CSS媒体查询Range语法](https://www.zhangxinxu.com/wordpress/2022/10/css-media-range-syntax/) 
+- [【V2EX】2022-10-29-发现了个-Github-Copilot-的平替，能免费用](https://www.v2ex.com/t/891044) 
+- [【V2EX】2022-10-29-大家觉得编程行业什么时候能回暖？-23-年报计算机志愿算不算-49-年入国军？](https://www.v2ex.com/t/891043) 
+- [【V2EX】2022-10-29-水星-tplink-路由器虚拟服务器端口映射怎么使用](https://www.v2ex.com/t/891040) 
+- [【V2EX】2022-10-29-窗口调度为啥不让手动分组呢](https://www.v2ex.com/t/891039) 
+- [【V2EX】2022-10-29-换成普通胎，不要备胎，可以吗？](https://www.v2ex.com/t/891038) 
+- [【V2EX】2022-10-29-VSCode-如何自定义-Debug-命令](https://www.v2ex.com/t/891036) 
 - [【V2EX】2022-10-29-offer-最后的决赛圈，好人一生平安🙏🏻🙏🏻🙏🏻](https://www.v2ex.com/t/891031) 
 - [【V2EX】2022-10-29-一个素材代下的小项目](https://www.v2ex.com/t/891030) 
 - [【V2EX】2022-10-29-失业了，以后路怎么办](https://www.v2ex.com/t/891028) 
@@ -99,14 +105,6 @@
 - [【V2EX】2022-10-29-很好奇住公司这个方法是不是真的可行...](https://www.v2ex.com/t/891001) 
 - [【V2EX】2022-10-29-超六类的网线传输速度只有百兆怎么排查问题](https://www.v2ex.com/t/890999) 
 - [【V2EX】2022-10-29-FaceTime-接力不可用](https://www.v2ex.com/t/890996) 
-- [【V2EX】2022-10-29-关于-github-action-的问题，我无解了，麻烦帮忙看看，谢谢](https://www.v2ex.com/t/890995) 
-- [【V2EX】2022-10-29-安卓电视有什么好用的视频软件啊？](https://www.v2ex.com/t/890994) 
-- [【V2EX】2022-10-29-网上买空调，到货后外机有损伤凹陷，要求换货被拒绝，如何维权？](https://www.v2ex.com/t/890993) 
-- [【V2EX】2022-10-29-希望-A15-Apple-TV-4k-散热不会翻船](https://www.v2ex.com/t/890990) 
-- [【V2EX】2022-10-29-求一个靠谱莆田鞋资源](https://www.v2ex.com/t/890989) 
-- [【V2EX】2022-10-29-iPhone-的睡觉监测不能记录午觉吗？](https://www.v2ex.com/t/890988) 
-- [【V2EX】2022-10-29-我的-Linux-上面的-Intel-AX210-无线网卡经常在系统更新后拒绝工作，我探究了原因和解法，写了一篇文章，希望帮到有同样烦恼的同学](https://www.v2ex.com/t/890987) 
-- [【V2EX】2022-10-29-有没美国住宅-ip-的-vps-推荐呢](https://www.v2ex.com/t/890986) 
 - [【技术头条】2022-10-29-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-29-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-29-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

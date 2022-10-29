@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-29 11:39:19，:rocket: 更新条数: +2002， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-29 12:25:27，:rocket: 更新条数: +2002， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-10-29-「USDT」一个自己躺枪的瓜](https://www.v2ex.com/t/891023) ![](assets/new.png)  
+- [2022-10-29-好奇,缺百兆光猫,是芯片卡脖子的原因吗?](https://www.v2ex.com/t/891022) ![](assets/new.png)  
 - [2022-10-29-结婚电视机取张图做电子屏](https://www.v2ex.com/t/891021) ![](assets/new.png)  
 - [2022-10-29-SpringSecurity-前后端分离的情况下，如何防止-CSRF-攻击？](https://www.v2ex.com/t/891020) ![](assets/new.png)  
 - [2022-10-29-请问你们还能在美区官网登陆下单吗?](https://www.v2ex.com/t/891019) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-10-29-请问电脑风扇转又停是什么问题？](https://www.v2ex.com/t/891003) ![](assets/new.png)  
 - [2022-10-29-双十一快到了，有推荐的安卓平板电脑吗](https://www.v2ex.com/t/891002) ![](assets/new.png)  
 - [2022-10-29-很好奇住公司这个方法是不是真的可行...](https://www.v2ex.com/t/891001) ![](assets/new.png)  
-- [2022-10-29-超六类的网线传输速度只有百兆怎么排查问题](https://www.v2ex.com/t/890999) ![](assets/new.png)  
-- [2022-10-29-FaceTime-接力不可用](https://www.v2ex.com/t/890996) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

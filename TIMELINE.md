@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-29 11:39:19。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-10-29 12:25:27。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -72,6 +72,8 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-10-16-2022年新出了哪些form表单新特性？](https://www.zhangxinxu.com/wordpress/2022/10/2022-new-form-property/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-12-CSS-::file-selector-button伪元素简介](https://www.zhangxinxu.com/wordpress/2022/10/css-file-selector-button/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-12-更符合书写习惯的CSS媒体查询Range语法](https://www.zhangxinxu.com/wordpress/2022/10/css-media-range-syntax/) 
+- [【V2EX】2022-10-29-「USDT」一个自己躺枪的瓜](https://www.v2ex.com/t/891023) 
+- [【V2EX】2022-10-29-好奇,缺百兆光猫,是芯片卡脖子的原因吗?](https://www.v2ex.com/t/891022) 
 - [【V2EX】2022-10-29-结婚电视机取张图做电子屏](https://www.v2ex.com/t/891021) 
 - [【V2EX】2022-10-29-SpringSecurity-前后端分离的情况下，如何防止-CSRF-攻击？](https://www.v2ex.com/t/891020) 
 - [【V2EX】2022-10-29-请问你们还能在美区官网登陆下单吗?](https://www.v2ex.com/t/891019) 
@@ -106,8 +108,6 @@
 - [【V2EX】2022-10-29-才发现-todesk-的隐私屏也变成付费服务了](https://www.v2ex.com/t/890979) 
 - [【V2EX】2022-10-29-早期免费版的-Google-Gsutie-还能升级然后降级成免费版么？](https://www.v2ex.com/t/890977) 
 - [【V2EX】2022-10-29-你们说，如果有一个网页版的-autohotkey-该多好啊](https://www.v2ex.com/t/890976) 
-- [【V2EX】2022-10-29-请问一下智能家居可以完全本地化部署吗？](https://www.v2ex.com/t/890973) 
-- [【V2EX】2022-10-29-继续出京东-plus-年-65、绿钻年-75](https://www.v2ex.com/t/890972) 
 - [【技术头条】2022-10-29-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-29-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-29-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

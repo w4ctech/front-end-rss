@@ -1,10 +1,15 @@
-:alarm_clock: 更新时间: 2022-10-29 12:25:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-29 13:06:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-10-29-offer-最后的决赛圈，好人一生平安🙏🏻🙏🏻🙏🏻](https://www.v2ex.com/t/891031) 
+- [2022-10-29-一个素材代下的小项目](https://www.v2ex.com/t/891030) 
+- [2022-10-29-失业了，以后路怎么办](https://www.v2ex.com/t/891028) 
+- [2022-10-29-台前调度为什么有的应用不受控制-比如-微信-和-PD](https://www.v2ex.com/t/891027) 
+- [2022-10-29-CMIN2-AS58807-Looking-glass](https://www.v2ex.com/t/891026) 
 - [2022-10-29-「USDT」一个自己躺枪的瓜](https://www.v2ex.com/t/891023) 
 - [2022-10-29-好奇,缺百兆光猫,是芯片卡脖子的原因吗?](https://www.v2ex.com/t/891022) 
 - [2022-10-29-结婚电视机取张图做电子屏](https://www.v2ex.com/t/891021) 
@@ -35,9 +40,3 @@
 - [2022-10-29-iPhone-的睡觉监测不能记录午觉吗？](https://www.v2ex.com/t/890988) 
 - [2022-10-29-我的-Linux-上面的-Intel-AX210-无线网卡经常在系统更新后拒绝工作，我探究了原因和解法，写了一篇文章，希望帮到有同样烦恼的同学](https://www.v2ex.com/t/890987) 
 - [2022-10-29-有没美国住宅-ip-的-vps-推荐呢](https://www.v2ex.com/t/890986) 
-- [2022-10-29-iOS16-Safari-可以直接翻译网页图片中的文字了](https://www.v2ex.com/t/890983) 
-- [2022-10-29-评论系统迁移：使用-giscus-替换-disqus](https://www.v2ex.com/t/890981) 
-- [2022-10-29-从事工程造价行业（甲方成本），想利用-Django-实现建设项目数据管理](https://www.v2ex.com/t/890980) 
-- [2022-10-29-才发现-todesk-的隐私屏也变成付费服务了](https://www.v2ex.com/t/890979) 
-- [2022-10-29-早期免费版的-Google-Gsutie-还能升级然后降级成免费版么？](https://www.v2ex.com/t/890977) 
-- [2022-10-29-你们说，如果有一个网页版的-autohotkey-该多好啊](https://www.v2ex.com/t/890976) 

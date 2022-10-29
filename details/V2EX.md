@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2022-10-28 23:45:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-29 01:05:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-10-29-UniFi6-Pro-可以用-Docker-unifi-controller-控制么？](https://www.v2ex.com/t/890881) 
+- [2022-10-28-上海-不加班-外企-招-中级-Java-、前端3-年经验起，初中级测试1-年经验起，高级安卓，中级-devOps（3-年起），初级-UI/UX（已毕业）和-C++-实习](https://www.v2ex.com/t/890879) 
 - [2022-10-28-用了快五年的-X-终于换了-14p，求推荐膜、壳](https://www.v2ex.com/t/890878) 
 - [2022-10-28-升级-Ventura-系统后收到的通知-icon-是灰色的](https://www.v2ex.com/t/890876) 
 - [2022-10-28-马后炮，贫困线，系统性风险，小确幸与初心](https://www.v2ex.com/t/890875) 
@@ -22,7 +24,6 @@
 - [2022-10-28-macOS-怎么能够静止所有的程序访问剪贴板？](https://www.v2ex.com/t/890858) 
 - [2022-10-28-关于手动创建线程池的开销](https://www.v2ex.com/t/890857) 
 - [2022-10-28-Safari-16.1-tab-拖拽-Bug-大家遇到过吗？](https://www.v2ex.com/t/890856) 
-- [2022-10-28-Android-前端开发工程师.-远程工作岗位](https://www.v2ex.com/t/890852) 
 - [2022-10-28-苏金国、王宇飞翻译的-learning-PHP-design-patterns-真是烂到家了，这两个人是吃翔长大的么？](https://www.v2ex.com/t/890851) 
 - [2022-10-28-Macbook-开机使用一段时间后响应速度极端慢](https://www.v2ex.com/t/890850) 
 - [2022-10-28-iOS-16-生活中的痛点-BUG](https://www.v2ex.com/t/890849) 
@@ -38,5 +39,3 @@
 - [2022-10-28-75-配列的键盘，选哪个](https://www.v2ex.com/t/890836) 
 - [2022-10-28-有办法基于已有的-Lineage-OS-机型上做修改，自己编译一个安卓固件吗？](https://www.v2ex.com/t/890835) 
 - [2022-10-28-9-块-9-4G-Cat1-开发版玩法总结](https://www.v2ex.com/t/890832) 
-- [2022-10-28-调查一下，各位程序员如何判断一件事是否值得一试？](https://www.v2ex.com/t/890830) 
-- [2022-10-28-跟风的-9.9-元的-4G-Cat1-到底需不需要其他模块](https://www.v2ex.com/t/890829) 

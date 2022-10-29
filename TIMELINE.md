@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-29 21:13:58。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-10-29 21:40:45。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -72,6 +72,7 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-10-16-2022年新出了哪些form表单新特性？](https://www.zhangxinxu.com/wordpress/2022/10/2022-new-form-property/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-12-CSS-::file-selector-button伪元素简介](https://www.zhangxinxu.com/wordpress/2022/10/css-file-selector-button/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-12-更符合书写习惯的CSS媒体查询Range语法](https://www.zhangxinxu.com/wordpress/2022/10/css-media-range-syntax/) 
+- [【V2EX】2022-10-29-iPhone-14-pro-max-语音通话的音质问题](https://www.v2ex.com/t/891077) 
 - [【V2EX】2022-10-29-升级-Windows11-22H2-踩坑之-Hyper-V-虚拟机无网络](https://www.v2ex.com/t/891075) 
 - [【V2EX】2022-10-29-现在所有-Mac-都是-PWM-调光是为了节约成本吗？](https://www.v2ex.com/t/891074) 
 - [【V2EX】2022-10-29-关于同一个内网中存在两个-openvpn-服务器无法通过其连接上网的问题](https://www.v2ex.com/t/891073) 
@@ -103,7 +104,6 @@
 - [【V2EX】2022-10-29-offer-最后的决赛圈，好人一生平安🙏🏻🙏🏻🙏🏻](https://www.v2ex.com/t/891031) 
 - [【V2EX】2022-10-29-一个素材代下的小项目](https://www.v2ex.com/t/891030) 
 - [【V2EX】2022-10-29-失业了，以后路怎么办](https://www.v2ex.com/t/891028) 
-- [【V2EX】2022-10-29-台前调度为什么有的应用不受控制-比如-微信-和-PD](https://www.v2ex.com/t/891027) 
 - [【技术头条】2022-10-29-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-29-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-29-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-29 13:50:16，:rocket: 更新条数: +1999， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-29 14:15:56，:rocket: 更新条数: +1999， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-10-29-没想到社会主义铁拳即将砸在我的头上，我是被动醒来，看来跟那些主动醒来的境界差的很远](https://www.v2ex.com/t/891053) ![](assets/new.png)  
+- [2022-10-29-电动汽车行业站，类似汽车之家，有谁做过类似的，有业务。](https://www.v2ex.com/t/891049) ![](assets/new.png)  
+- [2022-10-29-求助求-Miao-Project-链接](https://www.v2ex.com/t/891048) ![](assets/new.png)  
+- [2022-10-29-求推荐一款可以在-Linux-ubuntu-和-windows-之间共享键鼠的软件-synergy-收费了目前](https://www.v2ex.com/t/891047) ![](assets/new.png)  
+- [2022-10-29-求助：在大陆如何购买使用-google-fi-呢](https://www.v2ex.com/t/891046) ![](assets/new.png)  
 - [2022-10-29-发现了个-Github-Copilot-的平替，能免费用](https://www.v2ex.com/t/891044) ![](assets/new.png)  
 - [2022-10-29-大家觉得编程行业什么时候能回暖？-23-年报计算机志愿算不算-49-年入国军？](https://www.v2ex.com/t/891043) ![](assets/new.png)  
 - [2022-10-29-水星-tplink-路由器虚拟服务器端口映射怎么使用](https://www.v2ex.com/t/891040) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-10-29-好奇,缺百兆光猫,是芯片卡脖子的原因吗?](https://www.v2ex.com/t/891022) ![](assets/new.png)  
 - [2022-10-29-结婚电视机取张图做电子屏](https://www.v2ex.com/t/891021) ![](assets/new.png)  
 - [2022-10-29-SpringSecurity-前后端分离的情况下，如何防止-CSRF-攻击？](https://www.v2ex.com/t/891020) ![](assets/new.png)  
-- [2022-10-29-请问你们还能在美区官网登陆下单吗?](https://www.v2ex.com/t/891019) ![](assets/new.png)  
-- [2022-10-29-有没有-Windows-双栏-Markdown-编辑器推荐？](https://www.v2ex.com/t/891018) ![](assets/new.png)  
-- [2022-10-29-阿里云-docker-镜像加速问题](https://www.v2ex.com/t/891017) ![](assets/new.png)  
-- [2022-10-29-双十一，有无优惠大的显示器推荐](https://www.v2ex.com/t/891016) ![](assets/new.png)  
-- [2022-10-29-被裁员后劳动仲裁后续](https://www.v2ex.com/t/891015) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

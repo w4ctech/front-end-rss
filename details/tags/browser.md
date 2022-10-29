@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-29 09:14:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-29 09:41:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -16,4 +16,3 @@
 - [2022-10-29-iOS16-Safari-可以直接翻译网页图片中的文字了](https://www.v2ex.com/t/890983) 
 - [2022-10-29-早期免费版的-Google-Gsutie-还能升级然后降级成免费版么？](https://www.v2ex.com/t/890977) 
 - [2022-10-29-腾讯翻译浏览器插件，支持-Chrome/Firefox](https://www.v2ex.com/t/890967) 
-- [2022-10-29-有没有一种-chrome-插件可以支持思考问题时的递归记录存储](https://www.v2ex.com/t/890947) 

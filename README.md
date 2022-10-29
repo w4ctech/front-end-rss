@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-29 09:14:34，:rocket: 更新条数: +2005， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-10-29 09:41:25，:rocket: 更新条数: +2003， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-10-29-FaceTime-接力不可用](https://www.v2ex.com/t/890996) ![](assets/new.png)  
+- [2022-10-29-关于-github-action-的问题，我无解了，麻烦帮忙看看，谢谢](https://www.v2ex.com/t/890995) ![](assets/new.png)  
+- [2022-10-29-安卓电视有什么好用的视频软件啊？](https://www.v2ex.com/t/890994) ![](assets/new.png)  
+- [2022-10-29-网上买空调，到货后外机有损伤凹陷，要求换货被拒绝，如何维权？](https://www.v2ex.com/t/890993) ![](assets/new.png)  
 - [2022-10-29-希望-A15-Apple-TV-4k-散热不会翻船](https://www.v2ex.com/t/890990) ![](assets/new.png)  
 - [2022-10-29-求一个靠谱莆田鞋资源](https://www.v2ex.com/t/890989) ![](assets/new.png)  
 - [2022-10-29-iPhone-的睡觉监测不能记录午觉吗？](https://www.v2ex.com/t/890988) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-10-29-小米-10-烧屏](https://www.v2ex.com/t/890971) ![](assets/new.png)  
 - [2022-10-29-怎么才能联系到腾讯人工客服啊](https://www.v2ex.com/t/890970) ![](assets/new.png)  
 - [2022-10-29-爱思-16.1-不保资料降-15.7](https://www.v2ex.com/t/890969) ![](assets/new.png)  
-- [2022-10-29-上海租房都用什么软件](https://www.v2ex.com/t/890968) ![](assets/new.png)  
-- [2022-10-29-腾讯翻译浏览器插件，支持-Chrome/Firefox](https://www.v2ex.com/t/890967) ![](assets/new.png)  
-- [2022-10-29-现代信息的社会如何避免被追踪？](https://www.v2ex.com/t/890966) ![](assets/new.png)  
-- [2022-10-29-微信视频手机发热严重，你们也有这样的情况吗？](https://www.v2ex.com/t/890965) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

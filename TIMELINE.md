@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-29 09:14:34。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-10-29 09:41:25。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -72,6 +72,10 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-10-16-2022年新出了哪些form表单新特性？](https://www.zhangxinxu.com/wordpress/2022/10/2022-new-form-property/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-12-CSS-::file-selector-button伪元素简介](https://www.zhangxinxu.com/wordpress/2022/10/css-file-selector-button/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-12-更符合书写习惯的CSS媒体查询Range语法](https://www.zhangxinxu.com/wordpress/2022/10/css-media-range-syntax/) 
+- [【V2EX】2022-10-29-FaceTime-接力不可用](https://www.v2ex.com/t/890996) 
+- [【V2EX】2022-10-29-关于-github-action-的问题，我无解了，麻烦帮忙看看，谢谢](https://www.v2ex.com/t/890995) 
+- [【V2EX】2022-10-29-安卓电视有什么好用的视频软件啊？](https://www.v2ex.com/t/890994) 
+- [【V2EX】2022-10-29-网上买空调，到货后外机有损伤凹陷，要求换货被拒绝，如何维权？](https://www.v2ex.com/t/890993) 
 - [【V2EX】2022-10-29-希望-A15-Apple-TV-4k-散热不会翻船](https://www.v2ex.com/t/890990) 
 - [【V2EX】2022-10-29-求一个靠谱莆田鞋资源](https://www.v2ex.com/t/890989) 
 - [【V2EX】2022-10-29-iPhone-的睡觉监测不能记录午觉吗？](https://www.v2ex.com/t/890988) 
@@ -105,12 +109,6 @@
 - [【V2EX】2022-10-29-哪里有-golang-开发的业务类型的项目源码可以借鉴学习的呢?](https://www.v2ex.com/t/890952) 
 - [【V2EX】2022-10-29-问一个-IP-方面的问题，关于问卷被同一个-IP-作答千份问卷](https://www.v2ex.com/t/890951) 
 - [【V2EX】2022-10-29-大流量下载正常，小流量包巨卡，光猫和路由啥都换了，师傅来了都挠头。](https://www.v2ex.com/t/890949) 
-- [【V2EX】2022-10-29-Debian-11-Server-如何在-reboot-时能像桌面-GNOME-一样把重启信息显示出来？](https://www.v2ex.com/t/890948) 
-- [【V2EX】2022-10-29-有没有一种-chrome-插件可以支持思考问题时的递归记录存储](https://www.v2ex.com/t/890947) 
-- [【V2EX】2022-10-29-为什么-ios-端的微信这么耗电呢](https://www.v2ex.com/t/890946) 
-- [【V2EX】2022-10-29-奔着-A15-买-Apple-TV-的可以歇歇了](https://www.v2ex.com/t/890945) 
-- [【V2EX】2022-10-29-Pure-一个基于-Github-Discussion-的极简博客](https://www.v2ex.com/t/890944) 
-- [【V2EX】2022-10-29-奈何加速器不稳定，自建一个节点可行吗？（其实也是想自己建一个玩玩）](https://www.v2ex.com/t/890943) 
 - [【技术头条】2022-10-29-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-29-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-10-29-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

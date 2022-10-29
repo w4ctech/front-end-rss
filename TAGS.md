@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-10-29 09:14:34。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-10-29 09:41:25。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -232,6 +232,7 @@
 
 - [【武汉肺炎防疫全纪录(财新网)】广州17岁男生在定点医院参加高考-特殊考场视频监考](https://m.caixin.com/m/2021-06-05/101723418.html)
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
+- [【V2EX】安卓电视有什么好用的视频软件啊？](https://www.v2ex.com/t/890994)
 - [【V2EX】微信视频手机发热严重，你们也有这样的情况吗？](https://www.v2ex.com/t/890965)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
@@ -274,7 +275,6 @@
 - [【V2EX】iOS16-Safari-可以直接翻译网页图片中的文字了](https://www.v2ex.com/t/890983)
 - [【V2EX】早期免费版的-Google-Gsutie-还能升级然后降级成免费版么？](https://www.v2ex.com/t/890977)
 - [【V2EX】腾讯翻译浏览器插件，支持-Chrome/Firefox](https://www.v2ex.com/t/890967)
-- [【V2EX】有没有一种-chrome-插件可以支持思考问题时的递归记录存储](https://www.v2ex.com/t/890947)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -326,7 +326,7 @@
 
 
 - [【张鑫旭-鑫空间-鑫生活】gitee上撸了个类似飞书OKR输入框的@提及项目](https://www.zhangxinxu.com/wordpress/2022/08/gitee-feishu-okr-at-mention/)
-- [【V2EX】Pure-一个基于-Github-Discussion-的极简博客](https://www.v2ex.com/t/890944)
+- [【V2EX】关于-github-action-的问题，我无解了，麻烦帮忙看看，谢谢](https://www.v2ex.com/t/890995)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

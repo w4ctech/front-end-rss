@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-01 09:47:41，:rocket: 更新条数: +2017， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-01 10:16:26，:rocket: 更新条数: +2017， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-11-01-https://cravatar.cn/-报-502-了，有替代产品可选么？](https://www.v2ex.com/t/891854) ![](assets/new.png)  
+- [2022-11-01-有人拿到-iPad-10-了吗？感觉怎样](https://www.v2ex.com/t/891852) ![](assets/new.png)  
+- [2022-11-01-2022-年双十一哪些渠道-MBP14-价格可以入](https://www.v2ex.com/t/891851) ![](assets/new.png)  
+- [2022-11-01-11-代-CPU-笔记本，想装-XP+Win7+Win10+Debian11+黑苹果](https://www.v2ex.com/t/891850) ![](assets/new.png)  
+- [2022-11-01-5-年脂溢性皮炎被维生素解决，然后天天想吃维生素这点事](https://www.v2ex.com/t/891848) ![](assets/new.png)  
+- [2022-11-01-mysql-并发更新某个字段引发的问题和思考](https://www.v2ex.com/t/891847) ![](assets/new.png)  
 - [2022-11-01-资源类站点是如何解决流量费用问题的？](https://www.v2ex.com/t/891846) ![](assets/new.png)  
 - [2022-11-01-获取到的-ipv6-地址无法-ping-通](https://www.v2ex.com/t/891844) ![](assets/new.png)  
 - [2022-11-01-能看下你们双-11-的购物清单吗？](https://www.v2ex.com/t/891843) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-11-01-阿里云双-11-活动上线-服务器-49.68-元/年起-老用户-6.4-折支持代金券](https://www.v2ex.com/t/891830) ![](assets/new.png)  
 - [2022-11-01-升级完-ventura-突然黑屏，类似重启](https://www.v2ex.com/t/891829) ![](assets/new.png)  
 - [2022-11-01-如何写成高性能的代码（三）：巧用稀疏矩阵节省内存占用](https://www.v2ex.com/t/891828) ![](assets/new.png)  
-- [2022-11-01-mac-上微信怎么使用-obs-的虚拟摄像头](https://www.v2ex.com/t/891827) ![](assets/new.png)  
-- [2022-11-01-小米平板-5-vs-红米平板](https://www.v2ex.com/t/891826) ![](assets/new.png)  
-- [2022-11-01-这样的正则该怎么写？](https://www.v2ex.com/t/891825) ![](assets/new.png)  
-- [2022-11-01-Jetbrain-IDE-如何把智能提示的上下移动改为-jk?](https://www.v2ex.com/t/891824) ![](assets/new.png)  
-- [2022-11-01-电信提出-2025-长三角，京津冀，粤港澳，川渝陕-互访延迟降低至-15ms](https://www.v2ex.com/t/891823) ![](assets/new.png)  
-- [2022-11-01-Apple-watch-7-watch-os9-正式版如何降级到正式版-os8？](https://www.v2ex.com/t/891821) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

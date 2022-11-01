@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-01 07:18:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-01 07:42:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1915,6 +1915,12 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-11-01-上海游泳馆开放了吗？](https://www.v2ex.com/t/891799) 
+- [2022-11-01-咨询下-Android-上可以双开-slack-吗？](https://www.v2ex.com/t/891798) 
+- [2022-11-01-决赛圈了，两套-4090-整机选哪个比较划算？](https://www.v2ex.com/t/891797) 
+- [2022-11-01-如果互联网公司被国家注资，变成事业单位，程序员幸福指数会变高么？](https://www.v2ex.com/t/891796) 
+- [2022-11-01-代友发-深圳南山科兴，招运维-1~3-年的-toC-运维经验的同学](https://www.v2ex.com/t/891795) 
+- [2022-11-01-Azuki-的黄金滑板是怎么实现-scan-to-own-的？](https://www.v2ex.com/t/891792) 
 - [2022-11-01-tmux-session-中-Ctrl-l-不能清除屏幕](https://www.v2ex.com/t/891791) 
 - [2022-11-01-今天基金大涨，牛市来了？回本的机会到了？](https://www.v2ex.com/t/891788) 
 - [2022-11-01-iPhone-14pm-16.1，用-5G-就收不到微信和-qq-通知，-WiFi-就行](https://www.v2ex.com/t/891787) 
@@ -1941,11 +1947,6 @@
 - [2022-11-01-cnbeta-活了，换了个域名](https://www.v2ex.com/t/891754) 
 - [2022-11-01-请教-Golang-并发读写的问题](https://www.v2ex.com/t/891753) 
 - [2022-11-01-后续，-Win11-下大小核心调度问题。](https://www.v2ex.com/t/891752) 
-- [2022-11-01-北京联通宽有没有啥性价比高的宽带](https://www.v2ex.com/t/891748) 
-- [2022-11-01-腾讯云这个系统盘怎么那么贵，是我哪里没选对嘛](https://www.v2ex.com/t/891746) 
-- [2022-11-01-国内会有公司支持-PassKey-吗？](https://www.v2ex.com/t/891745) 
-- [2022-11-01-一个玩笑到了大洋彼岸就被当成真的来报道和讨论了](https://www.v2ex.com/t/891744) 
-- [2022-11-01-我是继续呆在北京还是去其他城市，想听听各位朋友的建议](https://www.v2ex.com/t/891743) 
 - [2022-11-01-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-01-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-01-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

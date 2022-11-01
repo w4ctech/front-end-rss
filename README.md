@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-01 16:22:30，:rocket: 更新条数: +84， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-01 17:03:42，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
@@ -65,6 +65,26 @@
 </summary>
 
 
+- [2022-03-11-新冠肺炎防疫全纪录（实时更新中）](https://mappv5.caixin.com/m_topic_detail/1696.html) ![](assets/new.png)  
+- [2022-03-10-吉林一校园现聚集性疫情-党委书记被免](https://m.caixin.com/m/2022-03-10/101853899.html) ![](assets/new.png)  
+- [2022-03-10-广州新增1例新冠确诊病例-疾控中心专家称防控形势严峻](https://m.caixin.com/m/2022-03-10/101853835.html) ![](assets/new.png)  
+- [2022-03-10-【境内疫情观察】全国新增402例本土病例、435例本土无症状感染者（3月9日）](https://database.caixin.com/m/2022-03-10/101853636.html) ![](assets/new.png)  
+- [2022-03-10-香港调整抗疫策略-辉瑞口服药确定在华合作伙伴｜大流行手记（3月9日）](https://m.caixin.com/m/2022-03-10/101853553.html) ![](assets/new.png)  
+- [2022-03-10-新加坡官员：本地奥密克戎疫情已过峰值开始消退](https://m.caixin.com/m/2022-03-10/101853827.html) ![](assets/new.png)  
+- [2022-03-09-一小学被列为中风险地区-上海加强线上教学资源](https://m.caixin.com/m/2022-03-09/101853329.html) ![](assets/new.png)  
+- [2022-03-09-香港调整抗疫策略-全民检测或将推迟](https://m.caixin.com/m/2022-03-09/101853319.html) ![](assets/new.png)  
+- [2022-03-09-字节跳动办公区现确诊病例-公司深夜组织员工回家](https://companies.caixin.com/m/2022-03-09/101852947.html) ![](assets/new.png)  
+- [2022-03-09-【境内疫情观察】全国新增322例本土无症状感染者（3月8日）](https://database.caixin.com/m/2022-03-09/101853141.html) ![](assets/new.png)  
+- [2022-03-09-研究称COVID-19或能导致脑异常-马来西亚4月将重新开放边境｜大流行手记（3月8日）](https://m.caixin.com/m/2022-03-09/101853036.html) ![](assets/new.png)  
+- [2022-03-08-北京新增7例本土确诊-一人曾赴上海团建](https://m.caixin.com/m/2022-03-08/101852668.html) ![](assets/new.png)  
+- [2022-03-08-香港日增病例呈回落趋势-港大预测5月降至两位数](https://m.caixin.com/m/2022-03-08/101852848.html) ![](assets/new.png)  
+- [2022-03-08-北京新增新冠病例涉字节跳动办公区-员工就地隔离过夜](https://m.caixin.com/m/2022-03-08/101852591.html) ![](assets/new.png)  
+- [2022-03-08-深港边境临时搭桥-内地援建香港河套应急医院](https://m.caixin.com/m/2022-03-08/101852776.html) ![](assets/new.png)  
+- [2022-03-08-【境内疫情观察】全国现有确诊病例超4000例（3月7日）](https://database.caixin.com/m/2022-03-08/101852579.html) ![](assets/new.png)  
+- [2022-03-08-研究发现新冠重症患者特殊基因-全球死亡病例超600万｜大流行手记（3月7日）](https://m.caixin.com/m/2022-03-08/101852426.html) ![](assets/new.png)  
+- [2022-03-07-广东惠州基层防疫扑杀宠物狗-街道致歉涉事者停职](https://m.caixin.com/m/2022-03-07/101851565.html) ![](assets/new.png)  
+- [2022-03-07-【境内疫情观察】全国新增214例本土病例（3月6日）](https://database.caixin.com/m/2022-03-07/101851858.html) ![](assets/new.png)  
+- [2022-03-07-苏格兰为弱势群体打第四针-印度尼西亚再放宽旅行限制｜大流行手记（3月6日）](https://m.caixin.com/m/2022-03-07/101851699.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -471,6 +491,10 @@
 </summary>
 
 
+- [2022-11-01-Parallels-Desktop-18-双十一-7-折优惠开始啦](https://www.v2ex.com/t/891931) ![](assets/new.png)  
+- [2022-11-01-家里一台老的-thinkpad-R480-总是蓝屏重启，一气之下装了-ubuntu](https://www.v2ex.com/t/891930) ![](assets/new.png)  
+- [2022-11-01-在筹备自己的开源项目文档，敬请不吝赐教！](https://www.v2ex.com/t/891929) ![](assets/new.png)  
+- [2022-11-01-mac-studio-每天关机对硬盘有影响吗？](https://www.v2ex.com/t/891928) ![](assets/new.png)  
 - [2022-11-01-本站-API-返回的数据和-HTML-不够同步，-API-比-HTML-滞后一些](https://www.v2ex.com/t/891927) ![](assets/new.png)  
 - [2022-11-01-币圈公司热招-ing，待遇超大厂，大部分时间-remote](https://www.v2ex.com/t/891926) ![](assets/new.png)  
 - [2022-11-01-杭州/远程-Mest-招聘-2-位初、中级前端工程师](https://www.v2ex.com/t/891925) ![](assets/new.png)  
@@ -487,10 +511,6 @@
 - [2022-11-01-单位目前业务都是-nginx+手动操作-acme-续期，我想给全整成用-Caddy。目前试着改了一个流量小的业务暂时没发现有什么异常。试问：-Caddy2-能用于正经的生产环境...](https://www.v2ex.com/t/891910) ![](assets/new.png)  
 - [2022-11-01-iPhone-14-pro-烧屏了还是排线问题?](https://www.v2ex.com/t/891909) ![](assets/new.png)  
 - [2022-11-01-Yoga-air-13s-carbon-2022-款发布了近半年竟然还涨价了](https://www.v2ex.com/t/891908) ![](assets/new.png)  
-- [2022-11-01-注销-icloud-变砖起死回生](https://www.v2ex.com/t/891905) ![](assets/new.png)  
-- [2022-11-01-远程-dns-查询会走代理么](https://www.v2ex.com/t/891904) ![](assets/new.png)  
-- [2022-11-01-关于-iPhone13-mini-或者所有-ihpone-电池健康度的疑惑](https://www.v2ex.com/t/891903) ![](assets/new.png)  
-- [2022-11-01-如何团队共用一个储存设备](https://www.v2ex.com/t/891902) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

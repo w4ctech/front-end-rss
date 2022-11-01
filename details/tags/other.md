@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-01 17:03:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-01 17:51:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1915,6 +1915,7 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-11-01-小红书怎么知道我的-iPhone-设备号然后封设备的？](https://www.v2ex.com/t/891932) 
 - [2022-11-01-Parallels-Desktop-18-双十一-7-折优惠开始啦](https://www.v2ex.com/t/891931) 
 - [2022-11-01-家里一台老的-thinkpad-R480-总是蓝屏重启，一气之下装了-ubuntu](https://www.v2ex.com/t/891930) 
 - [2022-11-01-在筹备自己的开源项目文档，敬请不吝赐教！](https://www.v2ex.com/t/891929) 
@@ -1942,10 +1943,6 @@
 - [2022-11-01-Ventura-dock-bug-还是辣鸡百度翻译的锅？](https://www.v2ex.com/t/891892) 
 - [2022-11-01-常用-1688-的同道，可以分享下质量过硬的店铺吗？](https://www.v2ex.com/t/891891) 
 - [2022-11-01-有没有了解进京政策的老哥，人在外地下周去北京坐飞机，面对可能的疫情怎么安排比较好？](https://www.v2ex.com/t/891888) 
-- [2022-11-01-想把-AppleWatch-S7-卖了换-Garmin-Forerunner-955](https://www.v2ex.com/t/891885) 
-- [2022-11-01-现在境外有什么适合放小网站的服务器？](https://www.v2ex.com/t/891884) 
-- [2022-11-01-双非大四-C++后端，-11-月-0Offer,-剩下-5-个月何去何从](https://www.v2ex.com/t/891883) 
-- [2022-11-01-请教各位接过私活的大佬，能否普及一下干私活的流程？](https://www.v2ex.com/t/891882) 
 - [2022-11-01-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-01-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-01-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

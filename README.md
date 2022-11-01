@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-01 17:51:12，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-01 18:19:32，:rocket: 更新条数: +2020， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-11-01-求助：-2018-款-15-寸-MBP-i7-32G-内存-560X-显卡大概可以卖多少钱](https://www.v2ex.com/t/891937) ![](assets/new.png)  
+- [2022-11-01-雷鸟-Air-1S-AR-眼镜到手了，对比-Neral-Air-进步了一些](https://www.v2ex.com/t/891936) ![](assets/new.png)  
 - [2022-11-01-现在-docker-hub-加速都用啥呢](https://www.v2ex.com/t/891933) ![](assets/new.png)  
 - [2022-11-01-小红书怎么知道我的-iPhone-设备号然后封设备的？](https://www.v2ex.com/t/891932) ![](assets/new.png)  
 - [2022-11-01-Parallels-Desktop-18-双十一-7-折优惠开始啦](https://www.v2ex.com/t/891931) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-11-01-职场中的美德，我觉得有一条是不为难他人](https://www.v2ex.com/t/891915) ![](assets/new.png)  
 - [2022-11-01-为什么不为人类设计一门结构化的编程语言（中文编程语言什么的真的是-low-爆了）](https://www.v2ex.com/t/891914) ![](assets/new.png)  
 - [2022-11-01-我花两天糊了一个基于-Apple-Music-的偏社交的音乐软件](https://www.v2ex.com/t/891913) ![](assets/new.png)  
-- [2022-11-01-ios-怎么默认让设闹铃的时候不要用雷达这个铃声](https://www.v2ex.com/t/891912) ![](assets/new.png)  
-- [2022-11-01-单位目前业务都是-nginx+手动操作-acme-续期，我想给全整成用-Caddy。目前试着改了一个流量小的业务暂时没发现有什么异常。试问：-Caddy2-能用于正经的生产环境...](https://www.v2ex.com/t/891910) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

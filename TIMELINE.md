@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-01 13:32:53。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-01 14:06:39。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,9 @@
 </summary>
 
 
+- [【V2EX】2022-11-01-「远程」可兼职，招聘全栈工程师（偏前端）/月薪-30-45K-RMB](https://www.v2ex.com/t/891899) 
+- [【V2EX】2022-11-01-兼职工作:-寻找一位熟悉-flutter-的大前端](https://www.v2ex.com/t/891898) 
+- [【V2EX】2022-11-01-iPhone-怎么使用-macOS-共享的打印机,-或者有什么软件让普通打印机支持隔空打印](https://www.v2ex.com/t/891896) 
 - [【V2EX】2022-11-01-Gogs-配合-Jenkins-做热更新，-webhook-为空](https://www.v2ex.com/t/891893) 
 - [【V2EX】2022-11-01-Ventura-dock-bug-还是辣鸡百度翻译的锅？](https://www.v2ex.com/t/891892) 
 - [【V2EX】2022-11-01-常用-1688-的同道，可以分享下质量过硬的店铺吗？](https://www.v2ex.com/t/891891) 
@@ -101,10 +104,6 @@
 - [【V2EX】2022-11-01-有人拿到-iPad-10-了吗？感觉怎样](https://www.v2ex.com/t/891852) 
 - [【V2EX】2022-11-01-2022-年双十一哪些渠道-MBP14-价格可以入](https://www.v2ex.com/t/891851) 
 - [【V2EX】2022-11-01-11-代-CPU-笔记本，想装-XP+Win7+Win10+Debian11+黑苹果](https://www.v2ex.com/t/891850) 
-- [【V2EX】2022-11-01-5-年脂溢性皮炎被维生素解决，然后天天想吃维生素这点事](https://www.v2ex.com/t/891848) 
-- [【V2EX】2022-11-01-mysql-并发更新某个字段引发的问题和思考](https://www.v2ex.com/t/891847) 
-- [【V2EX】2022-11-01-资源类站点是如何解决流量费用问题的？](https://www.v2ex.com/t/891846) 
-- [【V2EX】2022-11-01-获取到的-ipv6-地址无法-ping-通](https://www.v2ex.com/t/891844) 
 - [【技术头条】2022-11-01-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-01-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-01-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

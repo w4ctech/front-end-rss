@@ -9953,6 +9953,61 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "Gogs 配合 Jenkins 做热更新， webhook 为空",
+        "link": "https://www.v2ex.com/t/891893",
+        "date": "2022-11-01"
+      },
+      {
+        "title": "Ventura dock bug 还是辣鸡百度翻译的锅？",
+        "link": "https://www.v2ex.com/t/891892",
+        "date": "2022-11-01"
+      },
+      {
+        "title": "常用 1688 的同道，可以分享下质量过硬的店铺吗？",
+        "link": "https://www.v2ex.com/t/891891",
+        "date": "2022-11-01"
+      },
+      {
+        "title": "vscode 中 RemoteSSH 的性能",
+        "link": "https://www.v2ex.com/t/891889",
+        "date": "2022-11-01"
+      },
+      {
+        "title": "有没有了解进京政策的老哥，人在外地下周去北京坐飞机，面对可能的疫情怎么安排比较好？",
+        "link": "https://www.v2ex.com/t/891888",
+        "date": "2022-11-01"
+      },
+      {
+        "title": "万能的 v 友们，目前 Steam 有办法入国区禁止的游戏吗？",
+        "link": "https://www.v2ex.com/t/891886",
+        "date": "2022-11-01"
+      },
+      {
+        "title": "想把 AppleWatch S7 卖了换 Garmin Forerunner 955",
+        "link": "https://www.v2ex.com/t/891885",
+        "date": "2022-11-01"
+      },
+      {
+        "title": "现在境外有什么适合放小网站的服务器？",
+        "link": "https://www.v2ex.com/t/891884",
+        "date": "2022-11-01"
+      },
+      {
+        "title": "双非大四 C++后端， 11 月 0Offer, 剩下 5 个月何去何从",
+        "link": "https://www.v2ex.com/t/891883",
+        "date": "2022-11-01"
+      },
+      {
+        "title": "请教各位接过私活的大佬，能否普及一下干私活的流程？",
+        "link": "https://www.v2ex.com/t/891882",
+        "date": "2022-11-01"
+      },
+      {
+        "title": "能否使特定环境变量的更改只对单一进程（不包括其子进程）生效？",
+        "link": "https://www.v2ex.com/t/891881",
+        "date": "2022-11-01"
+      },
+      {
         "title": "腾讯 TIM“云文件”功能将停止服务",
         "link": "https://www.v2ex.com/t/891880",
         "date": "2022-11-01"
@@ -10080,51 +10135,6 @@
       {
         "title": "获取到的 ipv6 地址无法 ping 通",
         "link": "https://www.v2ex.com/t/891844",
-        "date": "2022-11-01"
-      },
-      {
-        "title": "能看下你们双 11 的购物清单吗？",
-        "link": "https://www.v2ex.com/t/891843",
-        "date": "2022-11-01"
-      },
-      {
-        "title": "有没有一些技术大牛的个人博客 推荐 收藏的？",
-        "link": "https://www.v2ex.com/t/891842",
-        "date": "2022-11-01"
-      },
-      {
-        "title": "[数据库内核方向开发职位] [北、上、杭、深、广、西安、成都、remote 等] [30K~70K]",
-        "link": "https://www.v2ex.com/t/891841",
-        "date": "2022-11-01"
-      },
-      {
-        "title": "中厂跳事业单位无编，值得不",
-        "link": "https://www.v2ex.com/t/891840",
-        "date": "2022-11-01"
-      },
-      {
-        "title": "怎样能强制 Mac 选择 wifi6（802.11ax）模式连接无线路由器",
-        "link": "https://www.v2ex.com/t/891839",
-        "date": "2022-11-01"
-      },
-      {
-        "title": "win11 的 usb 驱动是不是有问题",
-        "link": "https://www.v2ex.com/t/891837",
-        "date": "2022-11-01"
-      },
-      {
-        "title": "Vultr 新用户充 5 刀送 100 刀，有坑吗？",
-        "link": "https://www.v2ex.com/t/891836",
-        "date": "2022-11-01"
-      },
-      {
-        "title": "请教软路由 esxi 爱快 op 配置问题",
-        "link": "https://www.v2ex.com/t/891834",
-        "date": "2022-11-01"
-      },
-      {
-        "title": "各路神仙，求解一个问题",
-        "link": "https://www.v2ex.com/t/891833",
         "date": "2022-11-01"
       }
     ]
@@ -10292,11 +10302,6 @@
         "date": "2022-11-01"
       },
       {
-        "title": "Python 3.11 正式版发布，比 3.10 快 10-60%，官方：这或许是最好的版本",
-        "link": "https://toutiao.io/k/zj1yfyv",
-        "date": "2022-11-01"
-      },
-      {
         "title": "互联网的落日余晖",
         "link": "https://toutiao.io/k/ve5umyt",
         "date": "2022-11-01"
@@ -10307,6 +10312,11 @@
         "date": "2022-11-01"
       },
       {
+        "title": "Python 3.11 正式版发布，比 3.10 快 10-60%，官方：这或许是最好的版本",
+        "link": "https://toutiao.io/k/zj1yfyv",
+        "date": "2022-11-01"
+      },
+      {
         "title": "ESLint 核心概念梳理与常用配置指引",
         "link": "https://toutiao.io/k/mag6trz",
         "date": "2022-11-01"
@@ -10314,6 +10324,11 @@
       {
         "title": "流媒体开源生态之分享",
         "link": "https://toutiao.io/k/psimnvt",
+        "date": "2022-11-01"
+      },
+      {
+        "title": "[推荐] 网易经验规整：ClickHouse 开发与使用规范大全",
+        "link": "https://toutiao.io/k/nprygo2",
         "date": "2022-11-01"
       }
     ]

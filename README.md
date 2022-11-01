@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-01 22:17:46，:rocket: 更新条数: +2020， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-01 22:48:32，:rocket: 更新条数: +2020， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-11-01-2022-年优雅的一台主机供多用户同时使用的方案是什么呢？](https://www.v2ex.com/t/891939) ![](assets/new.png)  
 - [2022-11-01-有偿！昨天问了一下，还是没有解决问题，直接有偿求解。](https://www.v2ex.com/t/891938) ![](assets/new.png)  
 - [2022-11-01-求助：-2018-款-15-寸-MBP-i7-32G-内存-560X-显卡大概可以卖多少钱](https://www.v2ex.com/t/891937) ![](assets/new.png)  
 - [2022-11-01-雷鸟-Air-1S-AR-眼镜到手了，对比-Neral-Air-进步了一些](https://www.v2ex.com/t/891936) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-11-01-远程-tmux-连接中断后终端中的鼠标操作出现乱码](https://www.v2ex.com/t/891919) ![](assets/new.png)  
 - [2022-11-01-airpods-pro-2-充电盒异响](https://www.v2ex.com/t/891916) ![](assets/new.png)  
 - [2022-11-01-职场中的美德，我觉得有一条是不为难他人](https://www.v2ex.com/t/891915) ![](assets/new.png)  
-- [2022-11-01-为什么不为人类设计一门结构化的编程语言（中文编程语言什么的真的是-low-爆了）](https://www.v2ex.com/t/891914) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

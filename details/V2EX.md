@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-11-01 22:17:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-01 22:48:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-11-01-2022-年优雅的一台主机供多用户同时使用的方案是什么呢？](https://www.v2ex.com/t/891939) 
 - [2022-11-01-有偿！昨天问了一下，还是没有解决问题，直接有偿求解。](https://www.v2ex.com/t/891938) 
 - [2022-11-01-求助：-2018-款-15-寸-MBP-i7-32G-内存-560X-显卡大概可以卖多少钱](https://www.v2ex.com/t/891937) 
 - [2022-11-01-雷鸟-Air-1S-AR-眼镜到手了，对比-Neral-Air-进步了一些](https://www.v2ex.com/t/891936) 
@@ -42,4 +43,3 @@
 - [2022-11-01-Gogs-配合-Jenkins-做热更新，-webhook-为空](https://www.v2ex.com/t/891893) 
 - [2022-11-01-Ventura-dock-bug-还是辣鸡百度翻译的锅？](https://www.v2ex.com/t/891892) 
 - [2022-11-01-常用-1688-的同道，可以分享下质量过硬的店铺吗？](https://www.v2ex.com/t/891891) 
-- [2022-11-01-vscode-中-RemoteSSH-的性能](https://www.v2ex.com/t/891889) 

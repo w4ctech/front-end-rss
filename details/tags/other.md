@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-01 22:17:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-01 22:48:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1915,6 +1915,7 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-11-01-2022-年优雅的一台主机供多用户同时使用的方案是什么呢？](https://www.v2ex.com/t/891939) 
 - [2022-11-01-有偿！昨天问了一下，还是没有解决问题，直接有偿求解。](https://www.v2ex.com/t/891938) 
 - [2022-11-01-求助：-2018-款-15-寸-MBP-i7-32G-内存-560X-显卡大概可以卖多少钱](https://www.v2ex.com/t/891937) 
 - [2022-11-01-雷鸟-Air-1S-AR-眼镜到手了，对比-Neral-Air-进步了一些](https://www.v2ex.com/t/891936) 

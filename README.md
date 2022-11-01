@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-01 15:16:45，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-01 15:47:23，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-11-01-系统自带了个-iperf-darwin](https://www.v2ex.com/t/891920) ![](assets/new.png)  
+- [2022-11-01-远程-tmux-连接中断后终端中的鼠标操作出现乱码](https://www.v2ex.com/t/891919) ![](assets/new.png)  
+- [2022-11-01-airpods-pro-2-充电盒异响](https://www.v2ex.com/t/891916) ![](assets/new.png)  
+- [2022-11-01-职场中的美德，我觉得有一条是不为难他人](https://www.v2ex.com/t/891915) ![](assets/new.png)  
+- [2022-11-01-为什么不为人类设计一门结构化的编程语言（中文编程语言什么的真的是-low-爆了）](https://www.v2ex.com/t/891914) ![](assets/new.png)  
+- [2022-11-01-我花两天糊了一个基于-Apple-Music-的偏社交的音乐软件](https://www.v2ex.com/t/891913) ![](assets/new.png)  
 - [2022-11-01-ios-怎么默认让设闹铃的时候不要用雷达这个铃声](https://www.v2ex.com/t/891912) ![](assets/new.png)  
 - [2022-11-01-单位目前业务都是-nginx+手动操作-acme-续期，我想给全整成用-Caddy。目前试着改了一个流量小的业务暂时没发现有什么异常。试问：-Caddy2-能用于正经的生产环境...](https://www.v2ex.com/t/891910) ![](assets/new.png)  
 - [2022-11-01-iPhone-14-pro-烧屏了还是排线问题?](https://www.v2ex.com/t/891909) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-11-01-兼职工作:-寻找一位熟悉-flutter-的大前端](https://www.v2ex.com/t/891898) ![](assets/new.png)  
 - [2022-11-01-iPhone-怎么使用-macOS-共享的打印机,-或者有什么软件让普通打印机支持隔空打印](https://www.v2ex.com/t/891896) ![](assets/new.png)  
 - [2022-11-01-Gogs-配合-Jenkins-做热更新，-webhook-为空](https://www.v2ex.com/t/891893) ![](assets/new.png)  
-- [2022-11-01-Ventura-dock-bug-还是辣鸡百度翻译的锅？](https://www.v2ex.com/t/891892) ![](assets/new.png)  
-- [2022-11-01-常用-1688-的同道，可以分享下质量过硬的店铺吗？](https://www.v2ex.com/t/891891) ![](assets/new.png)  
-- [2022-11-01-vscode-中-RemoteSSH-的性能](https://www.v2ex.com/t/891889) ![](assets/new.png)  
-- [2022-11-01-有没有了解进京政策的老哥，人在外地下周去北京坐飞机，面对可能的疫情怎么安排比较好？](https://www.v2ex.com/t/891888) ![](assets/new.png)  
-- [2022-11-01-万能的-v-友们，目前-Steam-有办法入国区禁止的游戏吗？](https://www.v2ex.com/t/891886) ![](assets/new.png)  
-- [2022-11-01-想把-AppleWatch-S7-卖了换-Garmin-Forerunner-955](https://www.v2ex.com/t/891885) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -561,8 +561,8 @@
 - [2022-11-01-Git-提交，工作量评估？](https://toutiao.io/k/ovcdi83) ![](assets/new.png)  
 - [2022-11-01-笔记｜Java-性能优化实践（第-8-章）](https://toutiao.io/k/kaxw11u) ![](assets/new.png)  
 - [2022-11-01-iOS-OOM-问题分析与优化实践](https://toutiao.io/k/vxf1dza) ![](assets/new.png)  
-- [2022-11-01-从-1.5-开始搭建一个微服务框架——链路追踪-traceId](https://toutiao.io/k/xd4lz51) ![](assets/new.png)  
 - [2022-11-01-MySQL读写分离，写完读不到问题如何解决](https://toutiao.io/k/s3o36g1) ![](assets/new.png)  
+- [2022-11-01-从-1.5-开始搭建一个微服务框架——链路追踪-traceId](https://toutiao.io/k/xd4lz51) ![](assets/new.png)  
 - [2022-11-01-互联网的落日余晖](https://toutiao.io/k/ve5umyt) ![](assets/new.png)  
 - [2022-11-01-开源月刊《HelloGitHub》第-79-期](https://toutiao.io/k/mn76oq9) ![](assets/new.png)  
 - [2022-11-01-Python-3.11-正式版发布，比-3.10-快-10-60%，官方：这或许是最好的版本](https://toutiao.io/k/zj1yfyv) ![](assets/new.png)  

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-01 23:17:00。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-01 23:45:59。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -105,7 +105,6 @@
 - [【V2EX】2022-11-01-iPhone-怎么使用-macOS-共享的打印机,-或者有什么软件让普通打印机支持隔空打印](https://www.v2ex.com/t/891896) 
 - [【V2EX】2022-11-01-Gogs-配合-Jenkins-做热更新，-webhook-为空](https://www.v2ex.com/t/891893) 
 - [【V2EX】2022-11-01-Ventura-dock-bug-还是辣鸡百度翻译的锅？](https://www.v2ex.com/t/891892) 
-- [【V2EX】2022-11-01-常用-1688-的同道，可以分享下质量过硬的店铺吗？](https://www.v2ex.com/t/891891) 
 - [【技术头条】2022-11-01-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-01-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-01-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

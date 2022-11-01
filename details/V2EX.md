@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-01 23:17:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-01 23:45:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -42,4 +42,3 @@
 - [2022-11-01-iPhone-怎么使用-macOS-共享的打印机,-或者有什么软件让普通打印机支持隔空打印](https://www.v2ex.com/t/891896) 
 - [2022-11-01-Gogs-配合-Jenkins-做热更新，-webhook-为空](https://www.v2ex.com/t/891893) 
 - [2022-11-01-Ventura-dock-bug-还是辣鸡百度翻译的锅？](https://www.v2ex.com/t/891892) 
-- [2022-11-01-常用-1688-的同道，可以分享下质量过硬的店铺吗？](https://www.v2ex.com/t/891891) 

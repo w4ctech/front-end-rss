@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-11-01 05:11:56。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-01 06:04:08。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -156,7 +156,6 @@
 
 
 - [【V2EX】福建有线上的独立游戏开发社团吗，并且会参与各种-GameJam？](https://www.v2ex.com/t/891736)
-- [【V2EX】北京招聘游戏-UI-设计师（可远程全职）、Unity-开发工程师](https://www.v2ex.com/t/891696)
 - [......【查看更多】......](./details/tags/dev-game.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -180,7 +179,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】香港再现数例疫苗接种严重异常事件-专家初判与疫苗无关](https://china.caixin.com/m/2021-03-08/101672619.html)
 - [【武汉肺炎防疫全纪录(财新网)】港府回应一63岁患者死亡事件-暂无法确定与疫苗相关](https://m.caixin.com/m/2021-03-03/101670052.html)
 - [【张鑫旭-鑫空间-鑫生活】2022年新出了哪些form表单新特性？](https://www.zhangxinxu.com/wordpress/2022/10/2022-new-form-property/)
-- [【V2EX】iPhone-14-pro-max-微距对焦到底是三方-APP-没适配，还是系统-BUG？](https://www.v2ex.com/t/891689)
 - [......【查看更多】......](./details/tags/javascript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -276,6 +274,8 @@
 - [【武汉肺炎防疫全纪录(财新网)】腺病毒新冠疫苗引安全忧虑-康希诺称未发现血栓病例](https://m.caixin.com/m/2021-04-14/101691086.html)
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
+- [【V2EX】请问有没有隐藏浏览器地址栏的好方法？](https://www.v2ex.com/t/891742)
+- [【V2EX】马斯克让推特员工打印纸质代码，用来-review-的新闻，竟然是真的。](https://www.v2ex.com/t/891741)
 - [【V2EX】想知道金融软件里的折线图，是-后端传数据-前端渲染-还是-后端用-Matplotlib-之类画出来传给前端流？](https://www.v2ex.com/t/891709)
 - [......【查看更多】......](./details/tags/browser.md)
 
@@ -293,7 +293,6 @@
 
 
 
-- [【V2EX】远程工作15k-30k-招募全栈方向的工程师](https://www.v2ex.com/t/891702)
 - [【技术头条】基于AI算法的数据库异常监测系统的设计与实现-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15390&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F09%2F01%2Fdatabase-monitoring-based-on-ai.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】Docker-+-WebAssembly-集成简介](https://toutiao.io/k/duazmjs)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
@@ -312,6 +311,8 @@
 
 
 
+- [【V2EX】docker-pull-镜像很慢](https://www.v2ex.com/t/891757)
+- [【V2EX】docker-pull-一个冷门镜像，半天拉不下来](https://www.v2ex.com/t/891755)
 - [【技术头条】GraphQL及元数据驱动架构在后端BFF中的实践-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15395&url=https%3A%2F%2Ftech.meituan.com%2F2021%2F05%2F06%2Fbff-graphql.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/server.md)
 
@@ -348,7 +349,6 @@
 
 
 
-- [【V2EX】360-数科北京社招招聘研发工程师](https://www.v2ex.com/t/891699)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

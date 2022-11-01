@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-01 10:46:55，:rocket: 更新条数: +2017， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-01 11:13:54，:rocket: 更新条数: +2017， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-11-01-Real-time-Web-应用开发新体验](https://www.v2ex.com/t/891861) ![](assets/new.png)  
 - [2022-11-01-江苏联通到-AWS-日本已经开始绕路新加坡](https://www.v2ex.com/t/891860) ![](assets/new.png)  
 - [2022-11-01-惊喜,-原来手指甲难看也是可以修复的](https://www.v2ex.com/t/891859) ![](assets/new.png)  
 - [2022-11-01-nginx-反向代理时怎么针对文件类型来决定缓存与否？](https://www.v2ex.com/t/891858) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-11-01-怎样能强制-Mac-选择-wifi6（802.11ax）模式连接无线路由器](https://www.v2ex.com/t/891839) ![](assets/new.png)  
 - [2022-11-01-win11-的-usb-驱动是不是有问题](https://www.v2ex.com/t/891837) ![](assets/new.png)  
 - [2022-11-01-Vultr-新用户充-5-刀送-100-刀，有坑吗？](https://www.v2ex.com/t/891836) ![](assets/new.png)  
-- [2022-11-01-请教软路由-esxi-爱快-op-配置问题](https://www.v2ex.com/t/891834) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

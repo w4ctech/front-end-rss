@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-01 09:16:27。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-01 09:47:41。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,17 @@
 </summary>
 
 
+- [【V2EX】2022-11-01-资源类站点是如何解决流量费用问题的？](https://www.v2ex.com/t/891846) 
+- [【V2EX】2022-11-01-获取到的-ipv6-地址无法-ping-通](https://www.v2ex.com/t/891844) 
+- [【V2EX】2022-11-01-能看下你们双-11-的购物清单吗？](https://www.v2ex.com/t/891843) 
+- [【V2EX】2022-11-01-有没有一些技术大牛的个人博客-推荐-收藏的？](https://www.v2ex.com/t/891842) 
+- [【V2EX】2022-11-01-数据库内核方向开发职位-北、上、杭、深、广、西安、成都、remote-等-30K~70K](https://www.v2ex.com/t/891841) 
+- [【V2EX】2022-11-01-中厂跳事业单位无编，值得不](https://www.v2ex.com/t/891840) 
+- [【V2EX】2022-11-01-怎样能强制-Mac-选择-wifi6（802.11ax）模式连接无线路由器](https://www.v2ex.com/t/891839) 
+- [【V2EX】2022-11-01-win11-的-usb-驱动是不是有问题](https://www.v2ex.com/t/891837) 
+- [【V2EX】2022-11-01-Vultr-新用户充-5-刀送-100-刀，有坑吗？](https://www.v2ex.com/t/891836) 
+- [【V2EX】2022-11-01-请教软路由-esxi-爱快-op-配置问题](https://www.v2ex.com/t/891834) 
+- [【V2EX】2022-11-01-各路神仙，求解一个问题](https://www.v2ex.com/t/891833) 
 - [【V2EX】2022-11-01-阿里云双-11-活动上线-服务器-49.68-元/年起-老用户-6.4-折支持代金券](https://www.v2ex.com/t/891830) 
 - [【V2EX】2022-11-01-升级完-ventura-突然黑屏，类似重启](https://www.v2ex.com/t/891829) 
 - [【V2EX】2022-11-01-如何写成高性能的代码（三）：巧用稀疏矩阵节省内存占用](https://www.v2ex.com/t/891828) 
@@ -93,16 +104,6 @@
 - [【V2EX】2022-11-01-上海游泳馆开放了吗？](https://www.v2ex.com/t/891799) 
 - [【V2EX】2022-11-01-咨询下-Android-上可以双开-slack-吗？](https://www.v2ex.com/t/891798) 
 - [【V2EX】2022-11-01-决赛圈了，两套-4090-整机选哪个比较划算？](https://www.v2ex.com/t/891797) 
-- [【V2EX】2022-11-01-如果互联网公司被国家注资，变成事业单位，程序员幸福指数会变高么？](https://www.v2ex.com/t/891796) 
-- [【V2EX】2022-11-01-代友发-深圳南山科兴，招运维-1~3-年的-toC-运维经验的同学](https://www.v2ex.com/t/891795) 
-- [【V2EX】2022-11-01-Azuki-的黄金滑板是怎么实现-scan-to-own-的？](https://www.v2ex.com/t/891792) 
-- [【V2EX】2022-11-01-tmux-session-中-Ctrl-l-不能清除屏幕](https://www.v2ex.com/t/891791) 
-- [【V2EX】2022-11-01-TikTok-视频下载器取名...](https://www.v2ex.com/t/891790) 
-- [【V2EX】2022-11-01-今天基金大涨，牛市来了？回本的机会到了？](https://www.v2ex.com/t/891788) 
-- [【V2EX】2022-11-01-iPhone-14pm-16.1，用-5G-就收不到微信和-qq-通知，-WiFi-就行](https://www.v2ex.com/t/891787) 
-- [【V2EX】2022-11-01-Ventura-外接-BUG-以及特性](https://www.v2ex.com/t/891786) 
-- [【V2EX】2022-11-01-win11-递归修改文件夹的用户权限很慢，有无其它方法？](https://www.v2ex.com/t/891783) 
-- [【V2EX】2022-11-01-央视三国真的很不错。哎,-"玉可碎而不可改其白，竹可焚而不可毁其节"](https://www.v2ex.com/t/891782) 
 - [【技术头条】2022-11-01-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-01-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-01-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -136,8 +137,8 @@
 - [【开发者头条】2022-11-01-Python-3.11-正式版发布，比-3.10-快-10-60%，官方：这或许是最好的版本](https://toutiao.io/k/zj1yfyv) 
 - [【开发者头条】2022-11-01-开源月刊《HelloGitHub》第-79-期](https://toutiao.io/k/mn76oq9) 
 - [【开发者头条】2022-11-01-ESLint-核心概念梳理与常用配置指引](https://toutiao.io/k/mag6trz) 
-- [【开发者头条】2022-11-01-流媒体开源生态之分享](https://toutiao.io/k/psimnvt) 
 - [【开发者头条】2022-11-01-互联网的落日余晖](https://toutiao.io/k/ve5umyt) 
+- [【开发者头条】2022-11-01-流媒体开源生态之分享](https://toutiao.io/k/psimnvt) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

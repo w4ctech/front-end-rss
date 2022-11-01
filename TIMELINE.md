@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-01 18:19:32。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-01 18:51:52。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,7 @@
 </summary>
 
 
+- [【V2EX】2022-11-01-有偿！昨天问了一下，还是没有解决问题，直接有偿求解。](https://www.v2ex.com/t/891938) 
 - [【V2EX】2022-11-01-求助：-2018-款-15-寸-MBP-i7-32G-内存-560X-显卡大概可以卖多少钱](https://www.v2ex.com/t/891937) 
 - [【V2EX】2022-11-01-雷鸟-Air-1S-AR-眼镜到手了，对比-Neral-Air-进步了一些](https://www.v2ex.com/t/891936) 
 - [【V2EX】2022-11-01-现在-docker-hub-加速都用啥呢](https://www.v2ex.com/t/891933) 
@@ -105,7 +106,6 @@
 - [【V2EX】2022-11-01-Ventura-dock-bug-还是辣鸡百度翻译的锅？](https://www.v2ex.com/t/891892) 
 - [【V2EX】2022-11-01-常用-1688-的同道，可以分享下质量过硬的店铺吗？](https://www.v2ex.com/t/891891) 
 - [【V2EX】2022-11-01-vscode-中-RemoteSSH-的性能](https://www.v2ex.com/t/891889) 
-- [【V2EX】2022-11-01-有没有了解进京政策的老哥，人在外地下周去北京坐飞机，面对可能的疫情怎么安排比较好？](https://www.v2ex.com/t/891888) 
 - [【技术头条】2022-11-01-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-01-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-01-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

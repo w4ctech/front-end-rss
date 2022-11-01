@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-01 07:42:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-01 08:20:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1915,6 +1915,14 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-11-01-我要不要买个鼠标对冲一下](https://www.v2ex.com/t/891811) 
+- [2022-11-01-内网服务开放外网映射后，-PUT/DELETE-方法被-net::ERR_CONNECTION_RESET。该如何设置服务器允许-PUT/DELETE-方法？](https://www.v2ex.com/t/891810) 
+- [2022-11-01-写了一个开车的-API-服务](https://www.v2ex.com/t/891809) 
+- [2022-11-01-双十一海外云服务器只要-20/月（良心云）？](https://www.v2ex.com/t/891807) 
+- [2022-11-01-iOS-怎么让-b-站客户端走-sock5-代理访问](https://www.v2ex.com/t/891805) 
+- [2022-11-01-写一个免签的支付宝通知工具有市场吗](https://www.v2ex.com/t/891804) 
+- [2022-11-01-想买一个-3000-左右屏幕素质高点的安卓机，-兄弟们有啥推荐的吗](https://www.v2ex.com/t/891801) 
+- [2022-11-01-咨询个买家电，发现某些团购方式便宜很多，这种方式是有什么套路，或者缺点吗？](https://www.v2ex.com/t/891800) 
 - [2022-11-01-上海游泳馆开放了吗？](https://www.v2ex.com/t/891799) 
 - [2022-11-01-咨询下-Android-上可以双开-slack-吗？](https://www.v2ex.com/t/891798) 
 - [2022-11-01-决赛圈了，两套-4090-整机选哪个比较划算？](https://www.v2ex.com/t/891797) 
@@ -1942,11 +1950,6 @@
 - [2022-11-01-隐私合规真是门好生意](https://www.v2ex.com/t/891766) 
 - [2022-11-01-acme.sh-更新-ssl-证书总是被墙,-有好办法吗](https://www.v2ex.com/t/891764) 
 - [2022-11-01-妙记多-Mojidoc（一款项目协同笔记，主打「沟通」和「接力」）发布-1.4-版本](https://www.v2ex.com/t/891763) 
-- [2022-11-01-京东-5526，群晖-DS420+-希捷酷狼-4TBx4，这个价格美丽吗](https://www.v2ex.com/t/891758) 
-- [2022-11-01-做开源真的需要强大的内心，遇到这样的妖怪一天的心情都被他破坏了](https://www.v2ex.com/t/891756) 
-- [2022-11-01-cnbeta-活了，换了个域名](https://www.v2ex.com/t/891754) 
-- [2022-11-01-请教-Golang-并发读写的问题](https://www.v2ex.com/t/891753) 
-- [2022-11-01-后续，-Win11-下大小核心调度问题。](https://www.v2ex.com/t/891752) 
 - [2022-11-01-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-01-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-01-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

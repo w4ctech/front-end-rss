@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-01 10:16:26，:rocket: 更新条数: +2017， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-01 10:46:55，:rocket: 更新条数: +2017， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-11-01-江苏联通到-AWS-日本已经开始绕路新加坡](https://www.v2ex.com/t/891860) ![](assets/new.png)  
+- [2022-11-01-惊喜,-原来手指甲难看也是可以修复的](https://www.v2ex.com/t/891859) ![](assets/new.png)  
+- [2022-11-01-nginx-反向代理时怎么针对文件类型来决定缓存与否？](https://www.v2ex.com/t/891858) ![](assets/new.png)  
+- [2022-11-01-目前-Windows-有没有媲美-macbook-pro-的笔记本？](https://www.v2ex.com/t/891857) ![](assets/new.png)  
 - [2022-11-01-https://cravatar.cn/-报-502-了，有替代产品可选么？](https://www.v2ex.com/t/891854) ![](assets/new.png)  
 - [2022-11-01-有人拿到-iPad-10-了吗？感觉怎样](https://www.v2ex.com/t/891852) ![](assets/new.png)  
 - [2022-11-01-2022-年双十一哪些渠道-MBP14-价格可以入](https://www.v2ex.com/t/891851) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-11-01-win11-的-usb-驱动是不是有问题](https://www.v2ex.com/t/891837) ![](assets/new.png)  
 - [2022-11-01-Vultr-新用户充-5-刀送-100-刀，有坑吗？](https://www.v2ex.com/t/891836) ![](assets/new.png)  
 - [2022-11-01-请教软路由-esxi-爱快-op-配置问题](https://www.v2ex.com/t/891834) ![](assets/new.png)  
-- [2022-11-01-各路神仙，求解一个问题](https://www.v2ex.com/t/891833) ![](assets/new.png)  
-- [2022-11-01-阿里云双-11-活动上线-服务器-49.68-元/年起-老用户-6.4-折支持代金券](https://www.v2ex.com/t/891830) ![](assets/new.png)  
-- [2022-11-01-升级完-ventura-突然黑屏，类似重启](https://www.v2ex.com/t/891829) ![](assets/new.png)  
-- [2022-11-01-如何写成高性能的代码（三）：巧用稀疏矩阵节省内存占用](https://www.v2ex.com/t/891828) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

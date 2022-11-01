@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2022-11-01 10:16:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-01 10:46:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-11-01-江苏联通到-AWS-日本已经开始绕路新加坡](https://www.v2ex.com/t/891860) 
+- [2022-11-01-惊喜,-原来手指甲难看也是可以修复的](https://www.v2ex.com/t/891859) 
+- [2022-11-01-nginx-反向代理时怎么针对文件类型来决定缓存与否？](https://www.v2ex.com/t/891858) 
+- [2022-11-01-目前-Windows-有没有媲美-macbook-pro-的笔记本？](https://www.v2ex.com/t/891857) 
 - [2022-11-01-https://cravatar.cn/-报-502-了，有替代产品可选么？](https://www.v2ex.com/t/891854) 
 - [2022-11-01-有人拿到-iPad-10-了吗？感觉怎样](https://www.v2ex.com/t/891852) 
 - [2022-11-01-2022-年双十一哪些渠道-MBP14-价格可以入](https://www.v2ex.com/t/891851) 
@@ -37,7 +41,3 @@
 - [2022-11-01-有没有微软公司的小伙伴](https://www.v2ex.com/t/891815) 
 - [2022-11-01-皖南川藏线自驾归来，我又来分享游记了](https://www.v2ex.com/t/891814) 
 - [2022-11-01-我要不要买个鼠标对冲一下](https://www.v2ex.com/t/891811) 
-- [2022-11-01-内网服务开放外网映射后，-PUT/DELETE-方法被-net::ERR_CONNECTION_RESET。该如何设置服务器允许-PUT/DELETE-方法？](https://www.v2ex.com/t/891810) 
-- [2022-11-01-写了一个开车的-API-服务](https://www.v2ex.com/t/891809) 
-- [2022-11-01-双十一海外云服务器只要-20/月（良心云）？](https://www.v2ex.com/t/891807) 
-- [2022-11-01-iOS-怎么让-b-站客户端走-sock5-代理访问](https://www.v2ex.com/t/891805) 

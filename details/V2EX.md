@@ -1,12 +1,14 @@
-:alarm_clock: 更新时间: 2022-11-01 14:50:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-01 15:16:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
-- [2022-11-01-疫情三年，就是他的一生。](https://www.v2ex.com/t/891907) 
-- [2022-11-01-为什么我支持动态清零](https://www.v2ex.com/t/891906) 
+- [2022-11-01-ios-怎么默认让设闹铃的时候不要用雷达这个铃声](https://www.v2ex.com/t/891912) 
+- [2022-11-01-单位目前业务都是-nginx+手动操作-acme-续期，我想给全整成用-Caddy。目前试着改了一个流量小的业务暂时没发现有什么异常。试问：-Caddy2-能用于正经的生产环境...](https://www.v2ex.com/t/891910) 
+- [2022-11-01-iPhone-14-pro-烧屏了还是排线问题?](https://www.v2ex.com/t/891909) 
+- [2022-11-01-Yoga-air-13s-carbon-2022-款发布了近半年竟然还涨价了](https://www.v2ex.com/t/891908) 
 - [2022-11-01-注销-icloud-变砖起死回生](https://www.v2ex.com/t/891905) 
 - [2022-11-01-远程-dns-查询会走代理么](https://www.v2ex.com/t/891904) 
 - [2022-11-01-关于-iPhone13-mini-或者所有-ihpone-电池健康度的疑惑](https://www.v2ex.com/t/891903) 
@@ -40,7 +42,3 @@
 - [2022-11-01-Proton-邮箱开始黑五折扣，最高-40%](https://www.v2ex.com/t/891865) 
 - [2022-11-01-推荐<尸体变化图鉴>一书](https://www.v2ex.com/t/891864) 
 - [2022-11-01-求推荐-win-本使用的-type-c-扩展坞](https://www.v2ex.com/t/891863) 
-- [2022-11-01-Real-time-Web-应用开发新体验](https://www.v2ex.com/t/891861) 
-- [2022-11-01-江苏联通到-AWS-日本已经开始绕路新加坡](https://www.v2ex.com/t/891860) 
-- [2022-11-01-惊喜,-原来手指甲难看也是可以修复的](https://www.v2ex.com/t/891859) 
-- [2022-11-01-nginx-反向代理时怎么针对文件类型来决定缓存与否？](https://www.v2ex.com/t/891858) 

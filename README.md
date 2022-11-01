@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-01 14:50:56，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-01 15:16:45，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,8 +491,10 @@
 </summary>
 
 
-- [2022-11-01-疫情三年，就是他的一生。](https://www.v2ex.com/t/891907) ![](assets/new.png)  
-- [2022-11-01-为什么我支持动态清零](https://www.v2ex.com/t/891906) ![](assets/new.png)  
+- [2022-11-01-ios-怎么默认让设闹铃的时候不要用雷达这个铃声](https://www.v2ex.com/t/891912) ![](assets/new.png)  
+- [2022-11-01-单位目前业务都是-nginx+手动操作-acme-续期，我想给全整成用-Caddy。目前试着改了一个流量小的业务暂时没发现有什么异常。试问：-Caddy2-能用于正经的生产环境...](https://www.v2ex.com/t/891910) ![](assets/new.png)  
+- [2022-11-01-iPhone-14-pro-烧屏了还是排线问题?](https://www.v2ex.com/t/891909) ![](assets/new.png)  
+- [2022-11-01-Yoga-air-13s-carbon-2022-款发布了近半年竟然还涨价了](https://www.v2ex.com/t/891908) ![](assets/new.png)  
 - [2022-11-01-注销-icloud-变砖起死回生](https://www.v2ex.com/t/891905) ![](assets/new.png)  
 - [2022-11-01-远程-dns-查询会走代理么](https://www.v2ex.com/t/891904) ![](assets/new.png)  
 - [2022-11-01-关于-iPhone13-mini-或者所有-ihpone-电池健康度的疑惑](https://www.v2ex.com/t/891903) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-11-01-有没有了解进京政策的老哥，人在外地下周去北京坐飞机，面对可能的疫情怎么安排比较好？](https://www.v2ex.com/t/891888) ![](assets/new.png)  
 - [2022-11-01-万能的-v-友们，目前-Steam-有办法入国区禁止的游戏吗？](https://www.v2ex.com/t/891886) ![](assets/new.png)  
 - [2022-11-01-想把-AppleWatch-S7-卖了换-Garmin-Forerunner-955](https://www.v2ex.com/t/891885) ![](assets/new.png)  
-- [2022-11-01-现在境外有什么适合放小网站的服务器？](https://www.v2ex.com/t/891884) ![](assets/new.png)  
-- [2022-11-01-双非大四-C++后端，-11-月-0Offer,-剩下-5-个月何去何从](https://www.v2ex.com/t/891883) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

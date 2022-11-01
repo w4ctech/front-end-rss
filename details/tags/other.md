@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-01 14:50:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-01 15:16:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1915,8 +1915,9 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
-- [2022-11-01-疫情三年，就是他的一生。](https://www.v2ex.com/t/891907) 
-- [2022-11-01-为什么我支持动态清零](https://www.v2ex.com/t/891906) 
+- [2022-11-01-ios-怎么默认让设闹铃的时候不要用雷达这个铃声](https://www.v2ex.com/t/891912) 
+- [2022-11-01-iPhone-14-pro-烧屏了还是排线问题?](https://www.v2ex.com/t/891909) 
+- [2022-11-01-Yoga-air-13s-carbon-2022-款发布了近半年竟然还涨价了](https://www.v2ex.com/t/891908) 
 - [2022-11-01-注销-icloud-变砖起死回生](https://www.v2ex.com/t/891905) 
 - [2022-11-01-远程-dns-查询会走代理么](https://www.v2ex.com/t/891904) 
 - [2022-11-01-关于-iPhone13-mini-或者所有-ihpone-电池健康度的疑惑](https://www.v2ex.com/t/891903) 
@@ -1944,9 +1945,6 @@
 - [2022-11-01-Proton-邮箱开始黑五折扣，最高-40%](https://www.v2ex.com/t/891865) 
 - [2022-11-01-推荐<尸体变化图鉴>一书](https://www.v2ex.com/t/891864) 
 - [2022-11-01-求推荐-win-本使用的-type-c-扩展坞](https://www.v2ex.com/t/891863) 
-- [2022-11-01-Real-time-Web-应用开发新体验](https://www.v2ex.com/t/891861) 
-- [2022-11-01-江苏联通到-AWS-日本已经开始绕路新加坡](https://www.v2ex.com/t/891860) 
-- [2022-11-01-惊喜,-原来手指甲难看也是可以修复的](https://www.v2ex.com/t/891859) 
 - [2022-11-01-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-01-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-01-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

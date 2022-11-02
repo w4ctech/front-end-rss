@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-02 11:40:36，:rocket: 更新条数: +2016， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-02 12:31:19，:rocket: 更新条数: +2014， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,14 @@
 </summary>
 
 
+- [2022-11-02-MacOS-的通知提醒，有个横幅模式，有个提醒模式。你的横幅模式也是闪一下就不见么？](https://www.v2ex.com/t/892196) ![](assets/new.png)  
+- [2022-11-02-网站还未上线这个流量咋解释](https://www.v2ex.com/t/892195) ![](assets/new.png)  
+- [2022-11-02-阳性居然是敏感词了，现在文字管控这么严格吗](https://www.v2ex.com/t/892194) ![](assets/new.png)  
+- [2022-11-02-8+256-的-m1-mba-外接-4k-显示器看高码率-4k-电影会卡吗？](https://www.v2ex.com/t/892193) ![](assets/new.png)  
+- [2022-11-02-招人-需要-Go-后端、测试、BA、产品、项目经理、Node.js、JavaScript-全栈](https://www.v2ex.com/t/892192) ![](assets/new.png)  
+- [2022-11-02-想问问大家-ROI-报表怎么实现的？](https://www.v2ex.com/t/892189) ![](assets/new.png)  
+- [2022-11-02-IOS-能升级到已关闭验证的版本吗？](https://www.v2ex.com/t/892188) ![](assets/new.png)  
+- [2022-11-02-请教为何-Vercel-的服务器有香港节点，但在国内仍然几乎无法打开？](https://www.v2ex.com/t/892187) ![](assets/new.png)  
 - [2022-11-02-求助！关于微信打开网页下载视频问题-Content-Disposition:-attachment](https://www.v2ex.com/t/892185) ![](assets/new.png)  
 - [2022-11-02-MacBook-Pro-唤醒时有概率不点亮外接显示器（USB-C）](https://www.v2ex.com/t/892184) ![](assets/new.png)  
 - [2022-11-02-macOS-Ventura-登录项-允许在后台-Fenrir-Chengdu-Inc.-什么鬼？](https://www.v2ex.com/t/892183) ![](assets/new.png)  
@@ -503,14 +511,6 @@
 - [2022-11-02-小米手机-Google-one-备份一直失败是怎么回事？](https://www.v2ex.com/t/892171) ![](assets/new.png)  
 - [2022-11-02-Java-后端三年开发上海-在职求内推-跳槽](https://www.v2ex.com/t/892170) ![](assets/new.png)  
 - [2022-11-02-有没有这样的软件（PC）](https://www.v2ex.com/t/892166) ![](assets/new.png)  
-- [2022-11-02-2022-款-Apple-TV-4K-啥时会有媒体-Review](https://www.v2ex.com/t/892163) ![](assets/new.png)  
-- [2022-11-02-x2ray-outbound-为域名的话，是不是会出现死循环](https://www.v2ex.com/t/892162) ![](assets/new.png)  
-- [2022-11-02-相对客观的媒体](https://www.v2ex.com/t/892160) ![](assets/new.png)  
-- [2022-11-02-想预埋几条音响线，请-V-友们帮忙出出主意](https://www.v2ex.com/t/892159) ![](assets/new.png)  
-- [2022-11-02-对不起，因为您的套餐到期时间过长，所以不允许参加双十一活动](https://www.v2ex.com/t/892158) ![](assets/new.png)  
-- [2022-11-02-酷优客-kuycon-5K-这款显示器可以上车吗？](https://www.v2ex.com/t/892157) ![](assets/new.png)  
-- [2022-11-02-Clash-for-windows-是否是闭源软件？-大家在使用么？](https://www.v2ex.com/t/892156) ![](assets/new.png)  
-- [2022-11-02-双十一主机配置方案，求指点](https://www.v2ex.com/t/892155) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -558,9 +558,9 @@
 - [2022-11-02-无-Sidecar-又成为新的趋势了？](https://toutiao.io/k/bg297mu) ![](assets/new.png)  
 - [2022-11-02-笔记｜Java-性能优化实践（第-9-章）](https://toutiao.io/k/1w1dwjz) ![](assets/new.png)  
 - [2022-11-02-RocketMQ-重试机制详解及最佳实践](https://toutiao.io/k/fbw6d12) ![](assets/new.png)  
+- [2022-11-02-简单聊聊从-nginx-到-kong-的进化](https://toutiao.io/k/ulb8kwl) ![](assets/new.png)  
 - [2022-11-02-Go-try-新提案靠谱吗？想简化错误处理了](https://toutiao.io/k/db1nkru) ![](assets/new.png)  
 - [2022-11-02-Flink-反压原理深入浅出及解决思路](https://toutiao.io/k/cnvz5r1) ![](assets/new.png)  
-- [2022-11-02-简单聊聊从-nginx-到-kong-的进化](https://toutiao.io/k/ulb8kwl) ![](assets/new.png)  
 - [2022-11-02-Jenkins-+-Docker-一键自动化部署-Java-Spring-Boot-应用最精简流程](https://toutiao.io/k/hmhr50d) ![](assets/new.png)  
 - [2022-11-02-一文读懂遗传算法工作原理（附-Python-实现）](https://toutiao.io/k/3rz8ru3) ![](assets/new.png)  
 - [2022-11-02-Python-3.11-新加入的和类型系统相关的新特性](https://toutiao.io/k/7oqpyy2) ![](assets/new.png)  

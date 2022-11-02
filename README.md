@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-02 05:44:50，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-02 06:23:35，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,18 @@
 </summary>
 
 
+- [2022-11-02-如果作为-RSS-提供方，有什么办法能保障自己的-Feed-能在各大-RSS-阅读器上及时、较好地呈现...](https://www.v2ex.com/t/892084) ![](assets/new.png)  
+- [2022-11-02-用-T5-SSD-做-Time-Machine-备份是不是有点太奢侈](https://www.v2ex.com/t/892083) ![](assets/new.png)  
+- [2022-11-02-上海电信升级宽带以后，-ssh-到海外的云服务器经常被阻断。](https://www.v2ex.com/t/892082) ![](assets/new.png)  
+- [2022-11-02-求推荐能代理-TCP-长连接的代理池](https://www.v2ex.com/t/892081) ![](assets/new.png)  
+- [2022-11-02-基于开源项目-gin-vue-admin-实现-redis-管理页面](https://www.v2ex.com/t/892079) ![](assets/new.png)  
+- [2022-11-02-在-Jenkins-执行-dotnet-publish-编译脚本报错,-相同脚本直接在终端执行却正常](https://www.v2ex.com/t/892077) ![](assets/new.png)  
+- [2022-11-02-想开发个微信小程序，自用](https://www.v2ex.com/t/892075) ![](assets/new.png)  
+- [2022-11-02-求教-win-下做-nodejs-react-前后端开发的最佳姿势是什么？用-docker-合适吗？](https://www.v2ex.com/t/892074) ![](assets/new.png)  
+- [2022-11-02-高级前端一枚，求一份兼职工作](https://www.v2ex.com/t/892073) ![](assets/new.png)  
+- [2022-11-02-最近微信通过访问-url-链接无法预览多-sheet-的-excel？](https://www.v2ex.com/t/892072) ![](assets/new.png)  
+- [2022-11-02-300-出-Surge5-iOS-购于-23/10/22](https://www.v2ex.com/t/892071) ![](assets/new.png)  
+- [2022-11-02-买了-iPhone14-系列的老哥们，你们的听筒那里的边框有缝隙吗？](https://www.v2ex.com/t/892070) ![](assets/new.png)  
 - [2022-11-02-请教MBA-M1-不识别移动硬盘](https://www.v2ex.com/t/892069) ![](assets/new.png)  
 - [2022-11-02-魔都周家渡街道整租房间转租，-5700-月租，近-7-号线云台路地铁站-2022-年-11-月底可起租](https://www.v2ex.com/t/892068) ![](assets/new.png)  
 - [2022-11-02-air780e-有什么好玩法](https://www.v2ex.com/t/892067) ![](assets/new.png)  
@@ -499,18 +511,6 @@
 - [2022-11-02-为什么访问有些人的-V2EX-主页会是-404](https://www.v2ex.com/t/892064) ![](assets/new.png)  
 - [2022-11-02-如何处理-iPhone-原装屏?](https://www.v2ex.com/t/892063) ![](assets/new.png)  
 - [2022-11-02-武汉购房请教](https://www.v2ex.com/t/892061) ![](assets/new.png)  
-- [2022-11-02-回顾今年2022看过的剧，挺-nice-的](https://www.v2ex.com/t/892060) ![](assets/new.png)  
-- [2022-11-02-MavenHelper-插件有-jenkins-或者-sonarqube-版本吗？](https://www.v2ex.com/t/892059) ![](assets/new.png)  
-- [2022-11-02-请问各位你们跳槽从准备，面试，到敲定-offer-平均花费多长时间？](https://www.v2ex.com/t/892058) ![](assets/new.png)  
-- [2022-11-02-分享个歌-children-of-the-dark](https://www.v2ex.com/t/892057) ![](assets/new.png)  
-- [2022-11-02-各位-V-友-双-11-哪家云主机优惠力度大一点，腾讯云今年全是-1-年的机器-后面续费怕是坑](https://www.v2ex.com/t/892056) ![](assets/new.png)  
-- [2022-11-02-iCloud-邮箱发送大附件无法下载](https://www.v2ex.com/t/892055) ![](assets/new.png)  
-- [2022-11-02-遇到了-React-性能的一点问题，求调试思路](https://www.v2ex.com/t/892054) ![](assets/new.png)  
-- [2022-11-02-问问各位大佬-有没有-wordpress-好用的落地页插件](https://www.v2ex.com/t/892053) ![](assets/new.png)  
-- [2022-11-02-求大佬们通俗的告知下这些大数据名词的含义](https://www.v2ex.com/t/892052) ![](assets/new.png)  
-- [2022-11-02-监工和-leader-的区别](https://www.v2ex.com/t/892049) ![](assets/new.png)  
-- [2022-11-02-实验室意外翻出个上古-mac，，在想能用来干嘛](https://www.v2ex.com/t/892048) ![](assets/new.png)  
-- [2022-11-02-有人试过曲面主屏+直面侧屏的方案吗？](https://www.v2ex.com/t/892047) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -558,14 +558,16 @@
 - [2022-11-02-无-Sidecar-又成为新的趋势了？](https://toutiao.io/k/bg297mu) ![](assets/new.png)  
 - [2022-11-02-Go-try-新提案靠谱吗？想简化错误处理了](https://toutiao.io/k/db1nkru) ![](assets/new.png)  
 - [2022-11-02-Flink-反压原理深入浅出及解决思路](https://toutiao.io/k/cnvz5r1) ![](assets/new.png)  
-- [2022-11-02-RocketMQ-重试机制详解及最佳实践](https://toutiao.io/k/fbw6d12) ![](assets/new.png)  
 - [2022-11-02-笔记｜Java-性能优化实践（第-9-章）](https://toutiao.io/k/1w1dwjz) ![](assets/new.png)  
+- [2022-11-02-RocketMQ-重试机制详解及最佳实践](https://toutiao.io/k/fbw6d12) ![](assets/new.png)  
 - [2022-11-02-简单聊聊从-nginx-到-kong-的进化](https://toutiao.io/k/ulb8kwl) ![](assets/new.png)  
 - [2022-11-02-一文读懂遗传算法工作原理（附-Python-实现）](https://toutiao.io/k/3rz8ru3) ![](assets/new.png)  
 - [2022-11-02-Python-3.11-新加入的和类型系统相关的新特性](https://toutiao.io/k/7oqpyy2) ![](assets/new.png)  
 - [2022-11-02-Kubernetes-CRD-详解（Custom-Resource-Definition）](https://toutiao.io/k/j4xjnbq) ![](assets/new.png)  
 - [2022-11-02-Jenkins-+-Docker-一键自动化部署-Java-Spring-Boot-应用最精简流程](https://toutiao.io/k/hmhr50d) ![](assets/new.png)  
 - [2022-11-02-分布式锁实战：基于-Zookeeper-的实现](https://toutiao.io/k/baa0jr1) ![](assets/new.png)  
+- [2022-11-02-《领域驱动设计》：从领域视角深入仓储（Repository）的设计和实现](https://toutiao.io/k/gpl0k3c) ![](assets/new.png)  
+- [2022-11-02-数据标准化红宝书权威发布！一文速读核心内容~~](https://toutiao.io/k/bw9aq9q) ![](assets/new.png)  
 - [2022-11-02-推荐-网易经验规整：ClickHouse-开发与使用规范大全](https://toutiao.io/k/nprygo2) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

@@ -9953,6 +9953,66 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "如果作为 RSS 提供方，有什么办法能保障自己的 Feed 能在各大 RSS 阅读器上及时、较好地呈现...",
+        "link": "https://www.v2ex.com/t/892084",
+        "date": "2022-11-02"
+      },
+      {
+        "title": "用 T5 SSD 做 Time Machine 备份是不是有点太奢侈",
+        "link": "https://www.v2ex.com/t/892083",
+        "date": "2022-11-02"
+      },
+      {
+        "title": "上海电信升级宽带以后， ssh 到海外的云服务器经常被阻断。",
+        "link": "https://www.v2ex.com/t/892082",
+        "date": "2022-11-02"
+      },
+      {
+        "title": "求推荐能代理 TCP 长连接的代理池",
+        "link": "https://www.v2ex.com/t/892081",
+        "date": "2022-11-02"
+      },
+      {
+        "title": "基于开源项目 gin-vue-admin 实现 redis 管理页面",
+        "link": "https://www.v2ex.com/t/892079",
+        "date": "2022-11-02"
+      },
+      {
+        "title": "在 Jenkins 执行 dotnet publish 编译脚本报错, 相同脚本直接在终端执行却正常",
+        "link": "https://www.v2ex.com/t/892077",
+        "date": "2022-11-02"
+      },
+      {
+        "title": "想开发个微信小程序，自用",
+        "link": "https://www.v2ex.com/t/892075",
+        "date": "2022-11-02"
+      },
+      {
+        "title": "求教 win 下做 nodejs react 前后端开发的最佳姿势是什么？用 docker 合适吗？",
+        "link": "https://www.v2ex.com/t/892074",
+        "date": "2022-11-02"
+      },
+      {
+        "title": "高级前端一枚，求一份兼职工作",
+        "link": "https://www.v2ex.com/t/892073",
+        "date": "2022-11-02"
+      },
+      {
+        "title": "最近微信通过访问 url 链接无法预览多 sheet 的 excel？",
+        "link": "https://www.v2ex.com/t/892072",
+        "date": "2022-11-02"
+      },
+      {
+        "title": "300 出 Surge5 iOS 购于 23/10/22",
+        "link": "https://www.v2ex.com/t/892071",
+        "date": "2022-11-02"
+      },
+      {
+        "title": "买了 iPhone14 系列的老哥们，你们的听筒那里的边框有缝隙吗？",
+        "link": "https://www.v2ex.com/t/892070",
+        "date": "2022-11-02"
+      },
+      {
         "title": "[请教]MBA M1 不识别移动硬盘",
         "link": "https://www.v2ex.com/t/892069",
         "date": "2022-11-02"
@@ -10098,68 +10158,8 @@
         "date": "2022-11-02"
       },
       {
-        "title": "身在核酸之都你累吗？",
-        "link": "https://www.v2ex.com/t/892036",
-        "date": "2022-11-02"
-      },
-      {
         "title": "MacBook 使用触控板在操作在线文档时鼠标错乱。",
         "link": "https://www.v2ex.com/t/892035",
-        "date": "2022-11-02"
-      },
-      {
-        "title": "公司深信服行为管理禁止了 代理工具",
-        "link": "https://www.v2ex.com/t/892033",
-        "date": "2022-11-02"
-      },
-      {
-        "title": "最近 V 站经常出现 403 错误",
-        "link": "https://www.v2ex.com/t/892032",
-        "date": "2022-11-02"
-      },
-      {
-        "title": "继续留在北京还是去天津？",
-        "link": "https://www.v2ex.com/t/892030",
-        "date": "2022-11-02"
-      },
-      {
-        "title": "今年 MacBook Pro 14/16 不更新 M2 Max 了?",
-        "link": "https://www.v2ex.com/t/892029",
-        "date": "2022-11-02"
-      },
-      {
-        "title": "求助各位，有没有了解马来西亚当地 7*24 技术支持外包价格的？",
-        "link": "https://www.v2ex.com/t/892028",
-        "date": "2022-11-02"
-      },
-      {
-        "title": "Obox 无了",
-        "link": "https://www.v2ex.com/t/892027",
-        "date": "2022-11-02"
-      },
-      {
-        "title": "想办张美国运通卡，不太懂，求推荐",
-        "link": "https://www.v2ex.com/t/892025",
-        "date": "2022-11-02"
-      },
-      {
-        "title": "mac 怎么通过触摸板快速调亮度和音量？",
-        "link": "https://www.v2ex.com/t/892024",
-        "date": "2022-11-02"
-      },
-      {
-        "title": "有没有轻量级的 Maven 库呀",
-        "link": "https://www.v2ex.com/t/892023",
-        "date": "2022-11-02"
-      },
-      {
-        "title": "开启台前调度后， Photoshop 导致三指上滑进入调度中心的动画掉帧",
-        "link": "https://www.v2ex.com/t/892021",
-        "date": "2022-11-02"
-      },
-      {
-        "title": "有没有准备去日本工作的小伙伴？组团学日语",
-        "link": "https://www.v2ex.com/t/892020",
         "date": "2022-11-02"
       }
     ]
@@ -10302,13 +10302,13 @@
         "date": "2022-11-02"
       },
       {
-        "title": "RocketMQ 重试机制详解及最佳实践",
-        "link": "https://toutiao.io/k/fbw6d12",
+        "title": "笔记｜Java 性能优化实践（第 9 章）",
+        "link": "https://toutiao.io/k/1w1dwjz",
         "date": "2022-11-02"
       },
       {
-        "title": "笔记｜Java 性能优化实践（第 9 章）",
-        "link": "https://toutiao.io/k/1w1dwjz",
+        "title": "RocketMQ 重试机制详解及最佳实践",
+        "link": "https://toutiao.io/k/fbw6d12",
         "date": "2022-11-02"
       },
       {
@@ -10339,6 +10339,16 @@
       {
         "title": "分布式锁实战：基于 Zookeeper 的实现",
         "link": "https://toutiao.io/k/baa0jr1",
+        "date": "2022-11-02"
+      },
+      {
+        "title": "《领域驱动设计》：从领域视角深入仓储（Repository）的设计和实现",
+        "link": "https://toutiao.io/k/gpl0k3c",
+        "date": "2022-11-02"
+      },
+      {
+        "title": "数据标准化红宝书权威发布！一文速读核心内容~~",
+        "link": "https://toutiao.io/k/bw9aq9q",
         "date": "2022-11-02"
       },
       {

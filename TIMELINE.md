@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-02 19:37:24。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-02 20:15:31。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,8 @@
 </summary>
 
 
+- [【V2EX】2022-11-02-SQL-中-on-条件与-where-条件的区别](https://www.v2ex.com/t/892254) 
+- [【V2EX】2022-11-02-请问-hashme-哪里能购买呀？](https://www.v2ex.com/t/892253) 
 - [【V2EX】2022-11-02-人在国外如何申请国内手机号？](https://www.v2ex.com/t/892252) 
 - [【V2EX】2022-11-02-OldNewThing-博客的不少链接好像挂了](https://www.v2ex.com/t/892251) 
 - [【V2EX】2022-11-02-有没有或者如何写这样一种代理下载程序](https://www.v2ex.com/t/892250) 
@@ -101,8 +103,6 @@
 - [【V2EX】2022-11-02-火星了，美区-apple-买-gift-card-可以填中国-billing-地址了吗](https://www.v2ex.com/t/892207) 
 - [【V2EX】2022-11-02-435RMB-买一个罗技-Master-3S-配-Mac-合适吗？](https://www.v2ex.com/t/892206) 
 - [【V2EX】2022-11-02-日本仙台市寻人求助](https://www.v2ex.com/t/892205) 
-- [【V2EX】2022-11-02-不愧是你啊，群晖](https://www.v2ex.com/t/892204) 
-- [【V2EX】2022-11-02-请问一主多从系统数据同步方案如何设计](https://www.v2ex.com/t/892203) 
 - [【技术头条】2022-11-02-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-02-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-02-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

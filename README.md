@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-02 15:16:53，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-02 15:47:15，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-11-02-Google-one-结算货币跟什么有关？](https://www.v2ex.com/t/892239) ![](assets/new.png)  
+- [2022-11-02-Mac-键盘快捷键自定义，重启电脑后就恢复默认](https://www.v2ex.com/t/892238) ![](assets/new.png)  
+- [2022-11-02-编了个段子一笑而过。。。](https://www.v2ex.com/t/892237) ![](assets/new.png)  
+- [2022-11-02-macbookpro-14-寸-通过-docker-desktop-安装-kubernetes-问题](https://www.v2ex.com/t/892236) ![](assets/new.png)  
+- [2022-11-02-有好用的内网搭建的-wiki-或笔记系统吗？](https://www.v2ex.com/t/892235) ![](assets/new.png)  
+- [2022-11-02-记一次-Next.js-样式异常的排查与-pr-修复](https://www.v2ex.com/t/892233) ![](assets/new.png)  
 - [2022-11-02-请问如何让-ls-命令显示的-“文件夹”-使用斜体？](https://www.v2ex.com/t/892232) ![](assets/new.png)  
 - [2022-11-02-如何配置数据库连接池](https://www.v2ex.com/t/892231) ![](assets/new.png)  
 - [2022-11-02-腾讯云-CDN-新增按-HTTPS-请求数收费规则](https://www.v2ex.com/t/892230) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-11-02-定居杭州或天津，大家怎么考虑这件事？](https://www.v2ex.com/t/892218) ![](assets/new.png)  
 - [2022-11-02-30-分钟网页设计竞赛](https://www.v2ex.com/t/892217) ![](assets/new.png)  
 - [2022-11-02-你们的-Iphone14-网络信号会差吗？](https://www.v2ex.com/t/892216) ![](assets/new.png)  
-- [2022-11-02-大疆总部大楼，好酷](https://www.v2ex.com/t/892214) ![](assets/new.png)  
-- [2022-11-02-上海可办居住证](https://www.v2ex.com/t/892212) ![](assets/new.png)  
-- [2022-11-02-耳机死活从查找中移除不掉](https://www.v2ex.com/t/892210) ![](assets/new.png)  
-- [2022-11-02-macOS-有什么命令行工具查看当前硬件状态](https://www.v2ex.com/t/892209) ![](assets/new.png)  
-- [2022-11-02-v2-都是做技术的大佬吗？没有从事销售的吗？](https://www.v2ex.com/t/892208) ![](assets/new.png)  
-- [2022-11-02-火星了，美区-apple-买-gift-card-可以填中国-billing-地址了吗](https://www.v2ex.com/t/892207) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,9 +563,9 @@
 - [2022-11-02-Flink-反压原理深入浅出及解决思路](https://toutiao.io/k/cnvz5r1) ![](assets/new.png)  
 - [2022-11-02-Jenkins-+-Docker-一键自动化部署-Java-Spring-Boot-应用最精简流程](https://toutiao.io/k/hmhr50d) ![](assets/new.png)  
 - [2022-11-02-Kubernetes-CRD-详解（Custom-Resource-Definition）](https://toutiao.io/k/j4xjnbq) ![](assets/new.png)  
+- [2022-11-02-分布式锁实战：基于-Zookeeper-的实现](https://toutiao.io/k/baa0jr1) ![](assets/new.png)  
 - [2022-11-02-一文读懂遗传算法工作原理（附-Python-实现）](https://toutiao.io/k/3rz8ru3) ![](assets/new.png)  
 - [2022-11-02-Python-3.11-新加入的和类型系统相关的新特性](https://toutiao.io/k/7oqpyy2) ![](assets/new.png)  
-- [2022-11-02-分布式锁实战：基于-Zookeeper-的实现](https://toutiao.io/k/baa0jr1) ![](assets/new.png)  
 - [2022-11-02-《领域驱动设计》：从领域视角深入仓储（Repository）的设计和实现](https://toutiao.io/k/gpl0k3c) ![](assets/new.png)  
 - [2022-11-02-数据标准化红宝书权威发布！一文速读核心内容~~](https://toutiao.io/k/bw9aq9q) ![](assets/new.png)  
 - [2022-11-02-推荐-网易经验规整：ClickHouse-开发与使用规范大全](https://toutiao.io/k/nprygo2) ![](assets/new.png)  

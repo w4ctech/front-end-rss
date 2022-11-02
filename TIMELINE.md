@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-02 15:16:53。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-02 15:47:15。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,12 @@
 </summary>
 
 
+- [【V2EX】2022-11-02-Google-one-结算货币跟什么有关？](https://www.v2ex.com/t/892239) 
+- [【V2EX】2022-11-02-Mac-键盘快捷键自定义，重启电脑后就恢复默认](https://www.v2ex.com/t/892238) 
+- [【V2EX】2022-11-02-编了个段子一笑而过。。。](https://www.v2ex.com/t/892237) 
+- [【V2EX】2022-11-02-macbookpro-14-寸-通过-docker-desktop-安装-kubernetes-问题](https://www.v2ex.com/t/892236) 
+- [【V2EX】2022-11-02-有好用的内网搭建的-wiki-或笔记系统吗？](https://www.v2ex.com/t/892235) 
+- [【V2EX】2022-11-02-记一次-Next.js-样式异常的排查与-pr-修复](https://www.v2ex.com/t/892233) 
 - [【V2EX】2022-11-02-请问如何让-ls-命令显示的-“文件夹”-使用斜体？](https://www.v2ex.com/t/892232) 
 - [【V2EX】2022-11-02-如何配置数据库连接池](https://www.v2ex.com/t/892231) 
 - [【V2EX】2022-11-02-腾讯云-CDN-新增按-HTTPS-请求数收费规则](https://www.v2ex.com/t/892230) 
@@ -101,12 +107,6 @@
 - [【V2EX】2022-11-02-阳性居然是敏感词了，现在文字管控这么严格吗](https://www.v2ex.com/t/892194) 
 - [【V2EX】2022-11-02-8+256-的-m1-mba-外接-4k-显示器看高码率-4k-电影会卡吗？](https://www.v2ex.com/t/892193) 
 - [【V2EX】2022-11-02-招人-需要-Go-后端、测试、BA、产品、项目经理、Node.js、JavaScript-全栈](https://www.v2ex.com/t/892192) 
-- [【V2EX】2022-11-02-想问问大家-ROI-报表怎么实现的？](https://www.v2ex.com/t/892189) 
-- [【V2EX】2022-11-02-IOS-能升级到已关闭验证的版本吗？](https://www.v2ex.com/t/892188) 
-- [【V2EX】2022-11-02-请教为何-Vercel-的服务器有香港节点，但在国内仍然几乎无法打开？](https://www.v2ex.com/t/892187) 
-- [【V2EX】2022-11-02-求助！关于微信打开网页下载视频问题-Content-Disposition:-attachment](https://www.v2ex.com/t/892185) 
-- [【V2EX】2022-11-02-MacBook-Pro-唤醒时有概率不点亮外接显示器（USB-C）](https://www.v2ex.com/t/892184) 
-- [【V2EX】2022-11-02-macOS-Ventura-登录项-允许在后台-Fenrir-Chengdu-Inc.-什么鬼？](https://www.v2ex.com/t/892183) 
 - [【技术头条】2022-11-02-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-02-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-02-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -137,9 +137,9 @@
 - [【开发者头条】2022-11-02-Flink-反压原理深入浅出及解决思路](https://toutiao.io/k/cnvz5r1) 
 - [【开发者头条】2022-11-02-Jenkins-+-Docker-一键自动化部署-Java-Spring-Boot-应用最精简流程](https://toutiao.io/k/hmhr50d) 
 - [【开发者头条】2022-11-02-Kubernetes-CRD-详解（Custom-Resource-Definition）](https://toutiao.io/k/j4xjnbq) 
+- [【开发者头条】2022-11-02-分布式锁实战：基于-Zookeeper-的实现](https://toutiao.io/k/baa0jr1) 
 - [【开发者头条】2022-11-02-一文读懂遗传算法工作原理（附-Python-实现）](https://toutiao.io/k/3rz8ru3) 
 - [【开发者头条】2022-11-02-Python-3.11-新加入的和类型系统相关的新特性](https://toutiao.io/k/7oqpyy2) 
-- [【开发者头条】2022-11-02-分布式锁实战：基于-Zookeeper-的实现](https://toutiao.io/k/baa0jr1) 
 - [【开发者头条】2022-11-02-《领域驱动设计》：从领域视角深入仓储（Repository）的设计和实现](https://toutiao.io/k/gpl0k3c) 
 - [【开发者头条】2022-11-02-数据标准化红宝书权威发布！一文速读核心内容~~](https://toutiao.io/k/bw9aq9q) 
 - [【开发者头条】2022-11-02-推荐-网易经验规整：ClickHouse-开发与使用规范大全](https://toutiao.io/k/nprygo2) 

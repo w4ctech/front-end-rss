@@ -9953,6 +9953,36 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "Google one 结算货币跟什么有关？",
+        "link": "https://www.v2ex.com/t/892239",
+        "date": "2022-11-02"
+      },
+      {
+        "title": "Mac 键盘快捷键自定义，重启电脑后就恢复默认",
+        "link": "https://www.v2ex.com/t/892238",
+        "date": "2022-11-02"
+      },
+      {
+        "title": "编了个段子一笑而过。。。",
+        "link": "https://www.v2ex.com/t/892237",
+        "date": "2022-11-02"
+      },
+      {
+        "title": "macbookpro 14 寸 通过 docker-desktop 安装 kubernetes 问题",
+        "link": "https://www.v2ex.com/t/892236",
+        "date": "2022-11-02"
+      },
+      {
+        "title": "有好用的内网搭建的 wiki 或笔记系统吗？",
+        "link": "https://www.v2ex.com/t/892235",
+        "date": "2022-11-02"
+      },
+      {
+        "title": "记一次 Next.js 样式异常的排查与 pr 修复",
+        "link": "https://www.v2ex.com/t/892233",
+        "date": "2022-11-02"
+      },
+      {
         "title": "请问如何让 ls 命令显示的 “文件夹” 使用斜体？",
         "link": "https://www.v2ex.com/t/892232",
         "date": "2022-11-02"
@@ -10115,36 +10145,6 @@
       {
         "title": "[招人] 需要 Go 后端、测试、BA、产品、项目经理、Node.js、JavaScript 全栈",
         "link": "https://www.v2ex.com/t/892192",
-        "date": "2022-11-02"
-      },
-      {
-        "title": "想问问大家 ROI 报表怎么实现的？",
-        "link": "https://www.v2ex.com/t/892189",
-        "date": "2022-11-02"
-      },
-      {
-        "title": "IOS 能升级到已关闭验证的版本吗？",
-        "link": "https://www.v2ex.com/t/892188",
-        "date": "2022-11-02"
-      },
-      {
-        "title": "请教为何 Vercel 的服务器有香港节点，但在国内仍然几乎无法打开？",
-        "link": "https://www.v2ex.com/t/892187",
-        "date": "2022-11-02"
-      },
-      {
-        "title": "求助！关于微信打开网页下载视频问题 Content-Disposition: attachment",
-        "link": "https://www.v2ex.com/t/892185",
-        "date": "2022-11-02"
-      },
-      {
-        "title": "MacBook Pro 唤醒时有概率不点亮外接显示器（USB-C）",
-        "link": "https://www.v2ex.com/t/892184",
-        "date": "2022-11-02"
-      },
-      {
-        "title": "macOS Ventura 登录项 允许在后台 Fenrir Chengdu Inc. 什么鬼？",
-        "link": "https://www.v2ex.com/t/892183",
         "date": "2022-11-02"
       }
     ]
@@ -10312,6 +10312,11 @@
         "date": "2022-11-02"
       },
       {
+        "title": "分布式锁实战：基于 Zookeeper 的实现",
+        "link": "https://toutiao.io/k/baa0jr1",
+        "date": "2022-11-02"
+      },
+      {
         "title": "一文读懂遗传算法工作原理（附 Python 实现）",
         "link": "https://toutiao.io/k/3rz8ru3",
         "date": "2022-11-02"
@@ -10319,11 +10324,6 @@
       {
         "title": "Python 3.11 新加入的和类型系统相关的新特性",
         "link": "https://toutiao.io/k/7oqpyy2",
-        "date": "2022-11-02"
-      },
-      {
-        "title": "分布式锁实战：基于 Zookeeper 的实现",
-        "link": "https://toutiao.io/k/baa0jr1",
         "date": "2022-11-02"
       },
       {

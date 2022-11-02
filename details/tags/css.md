@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-02 01:18:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-02 03:38:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## CSS
 
@@ -11,3 +11,4 @@
 - [2022-10-12-更符合书写习惯的CSS媒体查询Range语法](https://www.zhangxinxu.com/wordpress/2022/10/css-media-range-syntax/) 
 - [2022-09-26-介绍2022最期待且已正式支持的CSS-container容器查询](https://www.zhangxinxu.com/wordpress/2022/09/css-container-rule/) 
 - [2022-08-24-来了，来了，CSS-:has伪类她来了](https://www.zhangxinxu.com/wordpress/2022/08/css-has-pseudo-class/) 
+- [2022-11-02-开启台前调度后，-Photoshop-导致三指上滑进入调度中心的动画掉帧](https://www.v2ex.com/t/892021) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-02 01:18:53，:rocket: 更新条数: +2013， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-02 03:38:26，:rocket: 更新条数: +2018， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,26 +491,26 @@
 </summary>
 
 
-- [2022-11-02-国外便宜好用的服务器求推荐](https://www.v2ex.com/t/891958) ![](assets/new.png)  
-- [2022-11-02-如果嘴巴不能呼吸的话](https://www.v2ex.com/t/891954) ![](assets/new.png)  
-- [2022-11-02-IDM-淘宝荔枝数码两件参加满-200-30-活动，叠加优惠单价-88.5，有拼单的吗？](https://www.v2ex.com/t/891953) ![](assets/new.png)  
-- [2022-11-02-Steam-游戏内覆盖的浏览器有没有其他代替.](https://www.v2ex.com/t/891952) ![](assets/new.png)  
-- [2022-11-02-一个-Rust-小玩具，命令行听-Code-Radio-音乐电台](https://www.v2ex.com/t/891951) ![](assets/new.png)  
-- [2022-11-02-大佬都爱用什么远程管理工具呢？](https://www.v2ex.com/t/891950) ![](assets/new.png)  
-- [2022-11-02-月经贴：分享你正在订阅的-newsletter](https://www.v2ex.com/t/891949) ![](assets/new.png)  
-- [2022-11-02-对于使用-h-大老毛子固件的一些问题](https://www.v2ex.com/t/891948) ![](assets/new.png)  
-- [2022-11-02-现在这个社会信息太多，如何快速获取领域内相对正确的知识？而不是被带偏了。或者如何找到领域内的前沿信息？](https://www.v2ex.com/t/891947) ![](assets/new.png)  
-- [2022-11-02-躺平、摆烂才是最好的状态](https://www.v2ex.com/t/891946) ![](assets/new.png)  
-- [2022-11-02-50-多名特斯拉工程师入驻推特](https://www.v2ex.com/t/891945) ![](assets/new.png)  
-- [2022-11-02-下单了-Apple-tv-日亚，请问买什么电视机？](https://www.v2ex.com/t/891943) ![](assets/new.png)  
-- [2022-11-02-用电脑当电视盒子的最好解决方案是什么？](https://www.v2ex.com/t/891942) ![](assets/new.png)  
-- [2022-11-01-2022-年优雅的一台主机供多用户同时使用的方案是什么呢？](https://www.v2ex.com/t/891939) ![](assets/new.png)  
-- [2022-11-01-有偿！昨天问了一下，还是没有解决问题，直接有偿求解。](https://www.v2ex.com/t/891938) ![](assets/new.png)  
-- [2022-11-01-求助：-2018-款-15-寸-MBP-i7-32G-内存-560X-显卡大概可以卖多少钱](https://www.v2ex.com/t/891937) ![](assets/new.png)  
-- [2022-11-01-雷鸟-Air-1S-AR-眼镜到手了，对比-Neral-Air-进步了一些](https://www.v2ex.com/t/891936) ![](assets/new.png)  
-- [2022-11-01-现在-docker-hub-加速都用啥呢](https://www.v2ex.com/t/891933) ![](assets/new.png)  
-- [2022-11-01-小红书怎么知道我的-iPhone-设备号然后封设备的？](https://www.v2ex.com/t/891932) ![](assets/new.png)  
-- [2022-11-01-Parallels-Desktop-18-双十一-7-折优惠开始啦](https://www.v2ex.com/t/891931) ![](assets/new.png)  
+- [2022-11-02-公司深信服行为管理禁止了-代理工具](https://www.v2ex.com/t/892033) ![](assets/new.png)  
+- [2022-11-02-最近-V-站经常出现-403-错误](https://www.v2ex.com/t/892032) ![](assets/new.png)  
+- [2022-11-02-继续留在北京还是去天津？](https://www.v2ex.com/t/892030) ![](assets/new.png)  
+- [2022-11-02-今年-MacBook-Pro-14/16-不更新-M2-Max-了?](https://www.v2ex.com/t/892029) ![](assets/new.png)  
+- [2022-11-02-求助各位，有没有了解马来西亚当地-7*24-技术支持外包价格的？](https://www.v2ex.com/t/892028) ![](assets/new.png)  
+- [2022-11-02-Obox-无了](https://www.v2ex.com/t/892027) ![](assets/new.png)  
+- [2022-11-02-想办张美国运通卡，不太懂，求推荐](https://www.v2ex.com/t/892025) ![](assets/new.png)  
+- [2022-11-02-mac-怎么通过触摸板快速调亮度和音量？](https://www.v2ex.com/t/892024) ![](assets/new.png)  
+- [2022-11-02-有没有轻量级的-Maven-库呀](https://www.v2ex.com/t/892023) ![](assets/new.png)  
+- [2022-11-02-开启台前调度后，-Photoshop-导致三指上滑进入调度中心的动画掉帧](https://www.v2ex.com/t/892021) ![](assets/new.png)  
+- [2022-11-02-有没有准备去日本工作的小伙伴？组团学日语](https://www.v2ex.com/t/892020) ![](assets/new.png)  
+- [2022-11-02-TP-Link-TL-WR706N-客户端模式下，局域网内部分设备无法-Ping-通](https://www.v2ex.com/t/892019) ![](assets/new.png)  
+- [2022-11-02-Android-关闭-USB-侦错，是以现在技术不会被读取资料了吗？](https://www.v2ex.com/t/892018) ![](assets/new.png)  
+- [2022-11-02-初中，单亲妈妈，怎样达到月薪五千](https://www.v2ex.com/t/892015) ![](assets/new.png)  
+- [2022-11-02-打开-parallels-desktop-以后-qq-就没法发送图片了](https://www.v2ex.com/t/892014) ![](assets/new.png)  
+- [2022-11-02-发现一个-149-可以买一年-jd-plus-会员和得-100jd-卡](https://www.v2ex.com/t/892013) ![](assets/new.png)  
+- [2022-11-02-安卓下普通-app-貌似可以随意获取已安装-app-列表](https://www.v2ex.com/t/892011) ![](assets/new.png)  
+- [2022-11-02-google-的联系人问题](https://www.v2ex.com/t/892010) ![](assets/new.png)  
+- [2022-11-02-Win11-的好多窗口都要-Alt-+-F4-才能关闭了。。。](https://www.v2ex.com/t/892009) ![](assets/new.png)  
+- [2022-11-02-求代理-IP-推荐-一个请求一个-IP-那种](https://www.v2ex.com/t/892007) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -555,14 +555,17 @@
 
 - [2022-11-02-推荐-4-个开源工具](https://toutiao.io/k/g30nqhu) ![](assets/new.png)  
 - [2022-11-02-认识区块链，认知区块链——Web3](https://toutiao.io/k/78f76n5) ![](assets/new.png)  
-- [2022-11-02-Flink-反压原理深入浅出及解决思路](https://toutiao.io/k/cnvz5r1) ![](assets/new.png)  
 - [2022-11-02-Go-try-新提案靠谱吗？想简化错误处理了](https://toutiao.io/k/db1nkru) ![](assets/new.png)  
+- [2022-11-02-Flink-反压原理深入浅出及解决思路](https://toutiao.io/k/cnvz5r1) ![](assets/new.png)  
+- [2022-11-02-无-Sidecar-又成为新的趋势了？](https://toutiao.io/k/bg297mu) ![](assets/new.png)  
 - [2022-11-02-RocketMQ-重试机制详解及最佳实践](https://toutiao.io/k/fbw6d12) ![](assets/new.png)  
+- [2022-11-02-笔记｜Java-性能优化实践（第-9-章）](https://toutiao.io/k/1w1dwjz) ![](assets/new.png)  
 - [2022-11-02-一文读懂遗传算法工作原理（附-Python-实现）](https://toutiao.io/k/3rz8ru3) ![](assets/new.png)  
 - [2022-11-02-Python-3.11-新加入的和类型系统相关的新特性](https://toutiao.io/k/7oqpyy2) ![](assets/new.png)  
-- [2022-11-02-无-Sidecar-又成为新的趋势了？](https://toutiao.io/k/bg297mu) ![](assets/new.png)  
-- [2022-11-02-笔记｜Java-性能优化实践（第-9-章）](https://toutiao.io/k/1w1dwjz) ![](assets/new.png)  
 - [2022-11-02-Kubernetes-CRD-详解（Custom-Resource-Definition）](https://toutiao.io/k/j4xjnbq) ![](assets/new.png)  
+- [2022-11-02-简单聊聊从-nginx-到-kong-的进化](https://toutiao.io/k/ulb8kwl) ![](assets/new.png)  
+- [2022-11-02-分布式锁实战：基于-Zookeeper-的实现](https://toutiao.io/k/baa0jr1) ![](assets/new.png)  
+- [2022-11-02-Jenkins-+-Docker-一键自动化部署-Java-Spring-Boot-应用最精简流程](https://toutiao.io/k/hmhr50d) ![](assets/new.png)  
 - [2022-11-02-推荐-网易经验规整：ClickHouse-开发与使用规范大全](https://toutiao.io/k/nprygo2) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

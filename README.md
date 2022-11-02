@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-02 14:47:41，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-02 15:16:53，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-11-02-请问如何让-ls-命令显示的-“文件夹”-使用斜体？](https://www.v2ex.com/t/892232) ![](assets/new.png)  
+- [2022-11-02-如何配置数据库连接池](https://www.v2ex.com/t/892231) ![](assets/new.png)  
+- [2022-11-02-腾讯云-CDN-新增按-HTTPS-请求数收费规则](https://www.v2ex.com/t/892230) ![](assets/new.png)  
+- [2022-11-02-为什么有的时候-windows-删除被占用的文件报错时能给出对应的进程名，有的时候只说“被另一程序占用”？](https://www.v2ex.com/t/892228) ![](assets/new.png)  
+- [2022-11-02-废废国区-iCloud-登录不上去网页端](https://www.v2ex.com/t/892227) ![](assets/new.png)  
 - [2022-11-02-有没有好用的-b-站-TV-版客户端？](https://www.v2ex.com/t/892226) ![](assets/new.png)  
 - [2022-11-02-澳洲咨询公司，还需要中高级全栈开发，全职远程，不加班，法定节假日](https://www.v2ex.com/t/892225) ![](assets/new.png)  
 - [2022-11-02-你有梦想吗？你的梦想是什么？](https://www.v2ex.com/t/892224) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-11-02-macOS-有什么命令行工具查看当前硬件状态](https://www.v2ex.com/t/892209) ![](assets/new.png)  
 - [2022-11-02-v2-都是做技术的大佬吗？没有从事销售的吗？](https://www.v2ex.com/t/892208) ![](assets/new.png)  
 - [2022-11-02-火星了，美区-apple-买-gift-card-可以填中国-billing-地址了吗](https://www.v2ex.com/t/892207) ![](assets/new.png)  
-- [2022-11-02-435RMB-买一个罗技-Master-3S-配-Mac-合适吗？](https://www.v2ex.com/t/892206) ![](assets/new.png)  
-- [2022-11-02-日本仙台市寻人求助](https://www.v2ex.com/t/892205) ![](assets/new.png)  
-- [2022-11-02-不愧是你啊，群晖](https://www.v2ex.com/t/892204) ![](assets/new.png)  
-- [2022-11-02-请问一主多从系统数据同步方案如何设计](https://www.v2ex.com/t/892203) ![](assets/new.png)  
-- [2022-11-02-为什么现在千兆无线路由器都没有-AP-模式了？](https://www.v2ex.com/t/892202) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

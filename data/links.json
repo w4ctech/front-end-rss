@@ -9953,6 +9953,31 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "请问如何让 ls 命令显示的 “文件夹” 使用斜体？",
+        "link": "https://www.v2ex.com/t/892232",
+        "date": "2022-11-02"
+      },
+      {
+        "title": "如何配置数据库连接池",
+        "link": "https://www.v2ex.com/t/892231",
+        "date": "2022-11-02"
+      },
+      {
+        "title": "腾讯云 CDN 新增按 HTTPS 请求数收费规则",
+        "link": "https://www.v2ex.com/t/892230",
+        "date": "2022-11-02"
+      },
+      {
+        "title": "为什么有的时候 windows 删除被占用的文件报错时能给出对应的进程名，有的时候只说“被另一程序占用”？",
+        "link": "https://www.v2ex.com/t/892228",
+        "date": "2022-11-02"
+      },
+      {
+        "title": "废废国区 iCloud 登录不上去网页端",
+        "link": "https://www.v2ex.com/t/892227",
+        "date": "2022-11-02"
+      },
+      {
         "title": "有没有好用的 b 站 TV 版客户端？",
         "link": "https://www.v2ex.com/t/892226",
         "date": "2022-11-02"
@@ -10120,21 +10145,6 @@
       {
         "title": "macOS Ventura 登录项 允许在后台 Fenrir Chengdu Inc. 什么鬼？",
         "link": "https://www.v2ex.com/t/892183",
-        "date": "2022-11-02"
-      },
-      {
-        "title": "公司电脑 Edge 升级 107 之后打开即闪退",
-        "link": "https://www.v2ex.com/t/892182",
-        "date": "2022-11-02"
-      },
-      {
-        "title": "逆向分析安卓 App 的 Api 接口有感",
-        "link": "https://www.v2ex.com/t/892181",
-        "date": "2022-11-02"
-      },
-      {
-        "title": "[开源] 用 Java 开发的前后端 CMS 内容管理系统",
-        "link": "https://www.v2ex.com/t/892180",
         "date": "2022-11-02"
       }
     ]

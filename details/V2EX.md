@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-11-02 23:15:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-02 23:45:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-11-02-遇到假公网-ip-了？](https://www.v2ex.com/t/892259) 
 - [2022-11-02-如何让-Apple-TV-与-PC-共用一对监听音响？](https://www.v2ex.com/t/892257) 
 - [2022-11-02-为什么-formspree-可以跨域-ajax？](https://www.v2ex.com/t/892256) 
 - [2022-11-02-在人人都用微信语音通话的如今，为何-FaceTime-音频还是被阉割？](https://www.v2ex.com/t/892255) 
@@ -38,5 +39,3 @@
 - [2022-11-02-你们的-Iphone14-网络信号会差吗？](https://www.v2ex.com/t/892216) 
 - [2022-11-02-上海可办居住证](https://www.v2ex.com/t/892212) 
 - [2022-11-02-耳机死活从查找中移除不掉](https://www.v2ex.com/t/892210) 
-- [2022-11-02-macOS-有什么命令行工具查看当前硬件状态](https://www.v2ex.com/t/892209) 
-- [2022-11-02-v2-都是做技术的大佬吗？没有从事销售的吗？](https://www.v2ex.com/t/892208) 

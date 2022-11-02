@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-02 06:54:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-02 07:16:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1915,6 +1915,9 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-11-02-Golang-web-开发问题请教](https://www.v2ex.com/t/892100) 
+- [2022-11-02-FFmpeg-解码器如何识别码流格式变了？](https://www.v2ex.com/t/892099) 
+- [2022-11-02-最好的-4K-电视盒子是？](https://www.v2ex.com/t/892095) 
 - [2022-11-02-大家能否分享下在-Windows-上写-Go-的姿势？](https://www.v2ex.com/t/892093) 
 - [2022-11-02-不懂就问，黑群晖-nas-装上-ups-不能关机了咋回事](https://www.v2ex.com/t/892091) 
 - [2022-11-02-关于颗粒捕捉器](https://www.v2ex.com/t/892089) 
@@ -1945,11 +1948,6 @@
 - [2022-11-02-iCloud-邮箱发送大附件无法下载](https://www.v2ex.com/t/892055) 
 - [2022-11-02-问问各位大佬-有没有-wordpress-好用的落地页插件](https://www.v2ex.com/t/892053) 
 - [2022-11-02-求大佬们通俗的告知下这些大数据名词的含义](https://www.v2ex.com/t/892052) 
-- [2022-11-02-监工和-leader-的区别](https://www.v2ex.com/t/892049) 
-- [2022-11-02-实验室意外翻出个上古-mac，，在想能用来干嘛](https://www.v2ex.com/t/892048) 
-- [2022-11-02-有人试过曲面主屏+直面侧屏的方案吗？](https://www.v2ex.com/t/892047) 
-- [2022-11-02-各位有没有发现今天墙松了](https://www.v2ex.com/t/892046) 
-- [2022-11-02-UI-来问：-app-内嵌入字体什么方式合适](https://www.v2ex.com/t/892045) 
 - [2022-11-02-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-02-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-02-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

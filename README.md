@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-02 06:54:57，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-02 07:16:34，:rocket: 更新条数: +2023， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-11-02-Golang-web-开发问题请教](https://www.v2ex.com/t/892100) ![](assets/new.png)  
+- [2022-11-02-FFmpeg-解码器如何识别码流格式变了？](https://www.v2ex.com/t/892099) ![](assets/new.png)  
+- [2022-11-02-求推荐个-SSD，给-Nas-跑-Docker-用](https://www.v2ex.com/t/892097) ![](assets/new.png)  
+- [2022-11-02-最好的-4K-电视盒子是？](https://www.v2ex.com/t/892095) ![](assets/new.png)  
 - [2022-11-02-招聘全职远程岗位：安全测试工程师、golang-游戏开发工程师、区块链市场专员、主-C++移动端播放器开发工程师](https://www.v2ex.com/t/892094) ![](assets/new.png)  
 - [2022-11-02-大家能否分享下在-Windows-上写-Go-的姿势？](https://www.v2ex.com/t/892093) ![](assets/new.png)  
 - [2022-11-02-不懂就问，黑群晖-nas-装上-ups-不能关机了咋回事](https://www.v2ex.com/t/892091) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-11-02-在-Jenkins-执行-dotnet-publish-编译脚本报错,-相同脚本直接在终端执行却正常](https://www.v2ex.com/t/892077) ![](assets/new.png)  
 - [2022-11-02-想开发个微信小程序，自用](https://www.v2ex.com/t/892075) ![](assets/new.png)  
 - [2022-11-02-求教-win-下做-nodejs-react-前后端开发的最佳姿势是什么？用-docker-合适吗？](https://www.v2ex.com/t/892074) ![](assets/new.png)  
-- [2022-11-02-高级前端一枚，求一份兼职工作](https://www.v2ex.com/t/892073) ![](assets/new.png)  
-- [2022-11-02-最近微信通过访问-url-链接无法预览多-sheet-的-excel？](https://www.v2ex.com/t/892072) ![](assets/new.png)  
-- [2022-11-02-300-出-Surge5-iOS-购于-23/10/22](https://www.v2ex.com/t/892071) ![](assets/new.png)  
-- [2022-11-02-买了-iPhone14-系列的老哥们，你们的听筒那里的边框有缝隙吗？](https://www.v2ex.com/t/892070) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,8 +563,8 @@
 - [2022-11-02-简单聊聊从-nginx-到-kong-的进化](https://toutiao.io/k/ulb8kwl) ![](assets/new.png)  
 - [2022-11-02-一文读懂遗传算法工作原理（附-Python-实现）](https://toutiao.io/k/3rz8ru3) ![](assets/new.png)  
 - [2022-11-02-Python-3.11-新加入的和类型系统相关的新特性](https://toutiao.io/k/7oqpyy2) ![](assets/new.png)  
-- [2022-11-02-Kubernetes-CRD-详解（Custom-Resource-Definition）](https://toutiao.io/k/j4xjnbq) ![](assets/new.png)  
 - [2022-11-02-Jenkins-+-Docker-一键自动化部署-Java-Spring-Boot-应用最精简流程](https://toutiao.io/k/hmhr50d) ![](assets/new.png)  
+- [2022-11-02-Kubernetes-CRD-详解（Custom-Resource-Definition）](https://toutiao.io/k/j4xjnbq) ![](assets/new.png)  
 - [2022-11-02-分布式锁实战：基于-Zookeeper-的实现](https://toutiao.io/k/baa0jr1) ![](assets/new.png)  
 - [2022-11-02-《领域驱动设计》：从领域视角深入仓储（Repository）的设计和实现](https://toutiao.io/k/gpl0k3c) ![](assets/new.png)  
 - [2022-11-02-数据标准化红宝书权威发布！一文速读核心内容~~](https://toutiao.io/k/bw9aq9q) ![](assets/new.png)  

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-02 06:23:35。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-02 06:54:57。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,14 @@
 </summary>
 
 
+- [【V2EX】2022-11-02-招聘全职远程岗位：安全测试工程师、golang-游戏开发工程师、区块链市场专员、主-C++移动端播放器开发工程师](https://www.v2ex.com/t/892094) 
+- [【V2EX】2022-11-02-大家能否分享下在-Windows-上写-Go-的姿势？](https://www.v2ex.com/t/892093) 
+- [【V2EX】2022-11-02-不懂就问，黑群晖-nas-装上-ups-不能关机了咋回事](https://www.v2ex.com/t/892091) 
+- [【V2EX】2022-11-02-关于颗粒捕捉器](https://www.v2ex.com/t/892089) 
+- [【V2EX】2022-11-02-MBP-自行更换电池](https://www.v2ex.com/t/892088) 
+- [【V2EX】2022-11-02-求教b.-PHP-页面-include-引入-a.html,如果只改-b.-PHP-,怎么才能修改/隐藏-b.-PHP-的网页标签<title>xx</title>?](https://www.v2ex.com/t/892087) 
+- [【V2EX】2022-11-02-MBA-M2-和-MBP-M1-14-的选择纠结](https://www.v2ex.com/t/892086) 
+- [【V2EX】2022-11-02-win11-的音量和亮度调整时的弹窗消失了](https://www.v2ex.com/t/892085) 
 - [【V2EX】2022-11-02-如果作为-RSS-提供方，有什么办法能保障自己的-Feed-能在各大-RSS-阅读器上及时、较好地呈现...](https://www.v2ex.com/t/892084) 
 - [【V2EX】2022-11-02-用-T5-SSD-做-Time-Machine-备份是不是有点太奢侈](https://www.v2ex.com/t/892083) 
 - [【V2EX】2022-11-02-上海电信升级宽带以后，-ssh-到海外的云服务器经常被阻断。](https://www.v2ex.com/t/892082) 
@@ -102,14 +110,6 @@
 - [【V2EX】2022-11-02-有人试过曲面主屏+直面侧屏的方案吗？](https://www.v2ex.com/t/892047) 
 - [【V2EX】2022-11-02-各位有没有发现今天墙松了](https://www.v2ex.com/t/892046) 
 - [【V2EX】2022-11-02-UI-来问：-app-内嵌入字体什么方式合适](https://www.v2ex.com/t/892045) 
-- [【V2EX】2022-11-02-今年大四应届，目前在校，时间比较充裕，想找点项目搞一下](https://www.v2ex.com/t/892044) 
-- [【V2EX】2022-11-02-关于一个垃圾背景想润🇨🇦的提问：](https://www.v2ex.com/t/892043) 
-- [【V2EX】2022-11-02-有雄激素脱发居然不能买好医保](https://www.v2ex.com/t/892042) 
-- [【V2EX】2022-11-02-django+-celery-的-gevent-模式使用-sync_to_async-时报错,-请问有什么好的处理方案吗?](https://www.v2ex.com/t/892041) 
-- [【V2EX】2022-11-02-请教-Kerberos-完成认证后后续的通信加密是如何完成的？](https://www.v2ex.com/t/892040) 
-- [【V2EX】2022-11-02-后悔买小了硬盘，如何正确的给-MBP-扩容你额](https://www.v2ex.com/t/892038) 
-- [【V2EX】2022-11-02-大佬们，求错误码的设计方案参考资料](https://www.v2ex.com/t/892037) 
-- [【V2EX】2022-11-02-MacBook-使用触控板在操作在线文档时鼠标错乱。](https://www.v2ex.com/t/892035) 
 - [【技术头条】2022-11-02-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-02-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-02-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -133,9 +133,9 @@
 - [【开发者头条】2022-11-02-推荐-4-个开源工具](https://toutiao.io/k/g30nqhu) 
 - [【开发者头条】2022-11-02-认识区块链，认知区块链——Web3](https://toutiao.io/k/78f76n5) 
 - [【开发者头条】2022-11-02-无-Sidecar-又成为新的趋势了？](https://toutiao.io/k/bg297mu) 
+- [【开发者头条】2022-11-02-笔记｜Java-性能优化实践（第-9-章）](https://toutiao.io/k/1w1dwjz) 
 - [【开发者头条】2022-11-02-Go-try-新提案靠谱吗？想简化错误处理了](https://toutiao.io/k/db1nkru) 
 - [【开发者头条】2022-11-02-Flink-反压原理深入浅出及解决思路](https://toutiao.io/k/cnvz5r1) 
-- [【开发者头条】2022-11-02-笔记｜Java-性能优化实践（第-9-章）](https://toutiao.io/k/1w1dwjz) 
 - [【开发者头条】2022-11-02-RocketMQ-重试机制详解及最佳实践](https://toutiao.io/k/fbw6d12) 
 - [【开发者头条】2022-11-02-简单聊聊从-nginx-到-kong-的进化](https://toutiao.io/k/ulb8kwl) 
 - [【开发者头条】2022-11-02-一文读懂遗传算法工作原理（附-Python-实现）](https://toutiao.io/k/3rz8ru3) 

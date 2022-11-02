@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-02 06:23:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-02 06:54:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1915,6 +1915,13 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-11-02-大家能否分享下在-Windows-上写-Go-的姿势？](https://www.v2ex.com/t/892093) 
+- [2022-11-02-不懂就问，黑群晖-nas-装上-ups-不能关机了咋回事](https://www.v2ex.com/t/892091) 
+- [2022-11-02-关于颗粒捕捉器](https://www.v2ex.com/t/892089) 
+- [2022-11-02-MBP-自行更换电池](https://www.v2ex.com/t/892088) 
+- [2022-11-02-求教b.-PHP-页面-include-引入-a.html,如果只改-b.-PHP-,怎么才能修改/隐藏-b.-PHP-的网页标签<title>xx</title>?](https://www.v2ex.com/t/892087) 
+- [2022-11-02-MBA-M2-和-MBP-M1-14-的选择纠结](https://www.v2ex.com/t/892086) 
+- [2022-11-02-win11-的音量和亮度调整时的弹窗消失了](https://www.v2ex.com/t/892085) 
 - [2022-11-02-如果作为-RSS-提供方，有什么办法能保障自己的-Feed-能在各大-RSS-阅读器上及时、较好地呈现...](https://www.v2ex.com/t/892084) 
 - [2022-11-02-用-T5-SSD-做-Time-Machine-备份是不是有点太奢侈](https://www.v2ex.com/t/892083) 
 - [2022-11-02-上海电信升级宽带以后，-ssh-到海外的云服务器经常被阻断。](https://www.v2ex.com/t/892082) 
@@ -1943,13 +1950,6 @@
 - [2022-11-02-有人试过曲面主屏+直面侧屏的方案吗？](https://www.v2ex.com/t/892047) 
 - [2022-11-02-各位有没有发现今天墙松了](https://www.v2ex.com/t/892046) 
 - [2022-11-02-UI-来问：-app-内嵌入字体什么方式合适](https://www.v2ex.com/t/892045) 
-- [2022-11-02-今年大四应届，目前在校，时间比较充裕，想找点项目搞一下](https://www.v2ex.com/t/892044) 
-- [2022-11-02-关于一个垃圾背景想润🇨🇦的提问：](https://www.v2ex.com/t/892043) 
-- [2022-11-02-有雄激素脱发居然不能买好医保](https://www.v2ex.com/t/892042) 
-- [2022-11-02-请教-Kerberos-完成认证后后续的通信加密是如何完成的？](https://www.v2ex.com/t/892040) 
-- [2022-11-02-后悔买小了硬盘，如何正确的给-MBP-扩容你额](https://www.v2ex.com/t/892038) 
-- [2022-11-02-大佬们，求错误码的设计方案参考资料](https://www.v2ex.com/t/892037) 
-- [2022-11-02-MacBook-使用触控板在操作在线文档时鼠标错乱。](https://www.v2ex.com/t/892035) 
 - [2022-11-02-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-02-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-02-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

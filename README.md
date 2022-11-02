@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-02 23:03:04，:rocket: 更新条数: +2017， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-02 23:15:42，:rocket: 更新条数: +2017， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-11-02-如何让-Apple-TV-与-PC-共用一对监听音响？](https://www.v2ex.com/t/892257) ![](assets/new.png)  
 - [2022-11-02-为什么-formspree-可以跨域-ajax？](https://www.v2ex.com/t/892256) ![](assets/new.png)  
 - [2022-11-02-在人人都用微信语音通话的如今，为何-FaceTime-音频还是被阉割？](https://www.v2ex.com/t/892255) ![](assets/new.png)  
 - [2022-11-02-SQL-中-on-条件与-where-条件的区别](https://www.v2ex.com/t/892254) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-11-02-记一次-Next.js-样式异常的排查与-pr-修复](https://www.v2ex.com/t/892233) ![](assets/new.png)  
 - [2022-11-02-请问如何让-ls-命令显示的-“文件夹”-使用斜体？](https://www.v2ex.com/t/892232) ![](assets/new.png)  
 - [2022-11-02-如何配置数据库连接池](https://www.v2ex.com/t/892231) ![](assets/new.png)  
-- [2022-11-02-腾讯云-CDN-新增按-HTTPS-请求数收费规则](https://www.v2ex.com/t/892230) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

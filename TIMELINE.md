@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-02 08:49:22。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-02 09:15:25。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,16 @@
 </summary>
 
 
+- [【V2EX】2022-11-02-fleet-使用感受](https://www.v2ex.com/t/892151) 
+- [【V2EX】2022-11-02-想入手一个-2000-元以下的-4k-屏，求推荐](https://www.v2ex.com/t/892150) 
+- [【V2EX】2022-11-02-求助，眼镜戴久了耳朵长痘痘](https://www.v2ex.com/t/892149) 
+- [【V2EX】2022-11-02-Base-杭州-Web3-外企热招：-IOS-工程师、Android-工程师、测试/测开工程师、区块链安全工程师、NFT-产品经理、设计-leader](https://www.v2ex.com/t/892147) 
+- [【V2EX】2022-11-02-mac-使用-KTC-的-M27P20-有个疑问，问了客服也不懂](https://www.v2ex.com/t/892146) 
+- [【V2EX】2022-11-02-iPad-Pro-2022-使用-Procreate-卡成狗](https://www.v2ex.com/t/892145) 
+- [【V2EX】2022-11-02-最近想休息两天，想请两天假，不知道用什么借口合适](https://www.v2ex.com/t/892144) 
+- [【V2EX】2022-11-02-请教下-QQ-聊天记录-ImageGroup2-的命名规则是啥](https://www.v2ex.com/t/892143) 
+- [【V2EX】2022-11-02-知乎关闭了部分问题的"时间排序"功能](https://www.v2ex.com/t/892142) 
+- [【V2EX】2022-11-02-请教各位一个问题。-iOS-如何让-RSS-客户端推送通知呢，比如-Breaking-News-啥的](https://www.v2ex.com/t/892141) 
 - [【V2EX】2022-11-02-Linux-有什么好用的邮件客户端](https://www.v2ex.com/t/892139) 
 - [【V2EX】2022-11-02-有没有一个一对多管理系统？](https://www.v2ex.com/t/892138) 
 - [【V2EX】2022-11-02-记一次神奇的光纤冷接经历](https://www.v2ex.com/t/892137) 
@@ -98,14 +108,6 @@
 - [【V2EX】2022-11-02-Ventura-的-App-Store-如何切换账号或者登出账号](https://www.v2ex.com/t/892106) 
 - [【V2EX】2022-11-02-Win10-外挂移动硬盘盒疯狂掉盘](https://www.v2ex.com/t/892105) 
 - [【V2EX】2022-11-02-iPhone-投屏到-studio-display](https://www.v2ex.com/t/892103) 
-- [【V2EX】2022-11-02-🇯🇵赴日工作-位于东京秋叶原，拥有高度人才签证+20-分资格！注重能力提升：考资格费用报销、技术分享、以及云技术培训等。急需-Java-,-C/C++,-VB.Net,-CO...](https://www.v2ex.com/t/892101) 
-- [【V2EX】2022-11-02-Golang-web-开发问题请教](https://www.v2ex.com/t/892100) 
-- [【V2EX】2022-11-02-FFmpeg-解码器如何识别码流格式变了？](https://www.v2ex.com/t/892099) 
-- [【V2EX】2022-11-02-求推荐个-SSD，给-Nas-跑-Docker-用](https://www.v2ex.com/t/892097) 
-- [【V2EX】2022-11-02-最好的-4K-电视盒子是？](https://www.v2ex.com/t/892095) 
-- [【V2EX】2022-11-02-招聘全职远程岗位：安全测试工程师、golang-游戏开发工程师、区块链市场专员、主-C++移动端播放器开发工程师](https://www.v2ex.com/t/892094) 
-- [【V2EX】2022-11-02-大家能否分享下在-Windows-上写-Go-的姿势？](https://www.v2ex.com/t/892093) 
-- [【V2EX】2022-11-02-不懂就问，黑群晖-nas-装上-ups-不能关机了咋回事](https://www.v2ex.com/t/892091) 
 - [【技术头条】2022-11-02-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-02-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-02-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -139,8 +141,8 @@
 - [【开发者头条】2022-11-02-Python-3.11-新加入的和类型系统相关的新特性](https://toutiao.io/k/7oqpyy2) 
 - [【开发者头条】2022-11-02-Kubernetes-CRD-详解（Custom-Resource-Definition）](https://toutiao.io/k/j4xjnbq) 
 - [【开发者头条】2022-11-02-分布式锁实战：基于-Zookeeper-的实现](https://toutiao.io/k/baa0jr1) 
-- [【开发者头条】2022-11-02-数据标准化红宝书权威发布！一文速读核心内容~~](https://toutiao.io/k/bw9aq9q) 
 - [【开发者头条】2022-11-02-《领域驱动设计》：从领域视角深入仓储（Repository）的设计和实现](https://toutiao.io/k/gpl0k3c) 
+- [【开发者头条】2022-11-02-数据标准化红宝书权威发布！一文速读核心内容~~](https://toutiao.io/k/bw9aq9q) 
 - [【开发者头条】2022-11-02-推荐-网易经验规整：ClickHouse-开发与使用规范大全](https://toutiao.io/k/nprygo2) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>

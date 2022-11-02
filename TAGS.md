@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-11-02 08:49:22。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-02 09:15:25。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -153,7 +153,6 @@
 
 
 
-- [【V2EX】招聘全职远程岗位：安全测试工程师、golang-游戏开发工程师、区块链市场专员、主-C++移动端播放器开发工程师](https://www.v2ex.com/t/892094)
 - [......【查看更多】......](./details/tags/dev-game.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -275,6 +274,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】腺病毒新冠疫苗引安全忧虑-康希诺称未发现血栓病例](https://m.caixin.com/m/2021-04-14/101691086.html)
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
+- [【V2EX】Base-杭州-Web3-外企热招：-IOS-工程师、Android-工程师、测试/测开工程师、区块链安全工程师、NFT-产品经理、设计-leader](https://www.v2ex.com/t/892147)
 - [【V2EX】请教一个请求莫名其妙被阻塞的问题](https://www.v2ex.com/t/892114)
 - [......【查看更多】......](./details/tags/browser.md)
 
@@ -310,7 +310,6 @@
 
 
 
-- [【V2EX】求推荐个-SSD，给-Nas-跑-Docker-用](https://www.v2ex.com/t/892097)
 - [【技术头条】GraphQL及元数据驱动架构在后端BFF中的实践-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15395&url=https%3A%2F%2Ftech.meituan.com%2F2021%2F05%2F06%2Fbff-graphql.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】简单聊聊从-nginx-到-kong-的进化](https://toutiao.io/k/ulb8kwl)
 - [【开发者头条】Jenkins-+-Docker-一键自动化部署-Java-Spring-Boot-应用最精简流程](https://toutiao.io/k/hmhr50d)

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-02 07:16:34。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-02 07:41:33。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,13 @@
 </summary>
 
 
+- [【V2EX】2022-11-02-非华为手机安装-hms-core-能否像-fcm-一样唤醒应用接受推送](https://www.v2ex.com/t/892113) 
+- [【V2EX】2022-11-02-直真-6-板](https://www.v2ex.com/t/892112) 
+- [【V2EX】2022-11-02-美区买充值卡不能内购吗](https://www.v2ex.com/t/892111) 
+- [【V2EX】2022-11-02-Ventura-的-App-Store-如何切换账号或者登出账号](https://www.v2ex.com/t/892106) 
+- [【V2EX】2022-11-02-Win10-外挂移动硬盘盒疯狂掉盘](https://www.v2ex.com/t/892105) 
+- [【V2EX】2022-11-02-iPhone-投屏到-studio-display](https://www.v2ex.com/t/892103) 
+- [【V2EX】2022-11-02-🇯🇵赴日工作-位于东京秋叶原，拥有高度人才签证+20-分资格！注重能力提升：考资格费用报销、技术分享、以及云技术培训等。急需-Java-,-C/C++,-VB.Net,-CO...](https://www.v2ex.com/t/892101) 
 - [【V2EX】2022-11-02-Golang-web-开发问题请教](https://www.v2ex.com/t/892100) 
 - [【V2EX】2022-11-02-FFmpeg-解码器如何识别码流格式变了？](https://www.v2ex.com/t/892099) 
 - [【V2EX】2022-11-02-求推荐个-SSD，给-Nas-跑-Docker-用](https://www.v2ex.com/t/892097) 
@@ -98,17 +105,6 @@
 - [【V2EX】2022-11-02-升级-ventura-系统后经常-cpu-满载，鼠标变为转圈圈](https://www.v2ex.com/t/892066) 
 - [【V2EX】2022-11-02-国内便宜好用服务器求推荐](https://www.v2ex.com/t/892065) 
 - [【V2EX】2022-11-02-为什么访问有些人的-V2EX-主页会是-404](https://www.v2ex.com/t/892064) 
-- [【V2EX】2022-11-02-如何处理-iPhone-原装屏?](https://www.v2ex.com/t/892063) 
-- [【V2EX】2022-11-02-武汉购房请教](https://www.v2ex.com/t/892061) 
-- [【V2EX】2022-11-02-回顾今年2022看过的剧，挺-nice-的](https://www.v2ex.com/t/892060) 
-- [【V2EX】2022-11-02-MavenHelper-插件有-jenkins-或者-sonarqube-版本吗？](https://www.v2ex.com/t/892059) 
-- [【V2EX】2022-11-02-请问各位你们跳槽从准备，面试，到敲定-offer-平均花费多长时间？](https://www.v2ex.com/t/892058) 
-- [【V2EX】2022-11-02-分享个歌-children-of-the-dark](https://www.v2ex.com/t/892057) 
-- [【V2EX】2022-11-02-各位-V-友-双-11-哪家云主机优惠力度大一点，腾讯云今年全是-1-年的机器-后面续费怕是坑](https://www.v2ex.com/t/892056) 
-- [【V2EX】2022-11-02-iCloud-邮箱发送大附件无法下载](https://www.v2ex.com/t/892055) 
-- [【V2EX】2022-11-02-遇到了-React-性能的一点问题，求调试思路](https://www.v2ex.com/t/892054) 
-- [【V2EX】2022-11-02-问问各位大佬-有没有-wordpress-好用的落地页插件](https://www.v2ex.com/t/892053) 
-- [【V2EX】2022-11-02-求大佬们通俗的告知下这些大数据名词的含义](https://www.v2ex.com/t/892052) 
 - [【技术头条】2022-11-02-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-02-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-02-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -142,8 +138,8 @@
 - [【开发者头条】2022-11-02-Jenkins-+-Docker-一键自动化部署-Java-Spring-Boot-应用最精简流程](https://toutiao.io/k/hmhr50d) 
 - [【开发者头条】2022-11-02-Kubernetes-CRD-详解（Custom-Resource-Definition）](https://toutiao.io/k/j4xjnbq) 
 - [【开发者头条】2022-11-02-分布式锁实战：基于-Zookeeper-的实现](https://toutiao.io/k/baa0jr1) 
-- [【开发者头条】2022-11-02-《领域驱动设计》：从领域视角深入仓储（Repository）的设计和实现](https://toutiao.io/k/gpl0k3c) 
 - [【开发者头条】2022-11-02-数据标准化红宝书权威发布！一文速读核心内容~~](https://toutiao.io/k/bw9aq9q) 
+- [【开发者头条】2022-11-02-《领域驱动设计》：从领域视角深入仓储（Repository）的设计和实现](https://toutiao.io/k/gpl0k3c) 
 - [【开发者头条】2022-11-02-推荐-网易经验规整：ClickHouse-开发与使用规范大全](https://toutiao.io/k/nprygo2) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>

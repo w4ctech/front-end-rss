@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-02 07:16:34，:rocket: 更新条数: +2023， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-02 07:41:33，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,13 @@
 </summary>
 
 
+- [2022-11-02-非华为手机安装-hms-core-能否像-fcm-一样唤醒应用接受推送](https://www.v2ex.com/t/892113) ![](assets/new.png)  
+- [2022-11-02-直真-6-板](https://www.v2ex.com/t/892112) ![](assets/new.png)  
+- [2022-11-02-美区买充值卡不能内购吗](https://www.v2ex.com/t/892111) ![](assets/new.png)  
+- [2022-11-02-Ventura-的-App-Store-如何切换账号或者登出账号](https://www.v2ex.com/t/892106) ![](assets/new.png)  
+- [2022-11-02-Win10-外挂移动硬盘盒疯狂掉盘](https://www.v2ex.com/t/892105) ![](assets/new.png)  
+- [2022-11-02-iPhone-投屏到-studio-display](https://www.v2ex.com/t/892103) ![](assets/new.png)  
+- [2022-11-02-🇯🇵赴日工作-位于东京秋叶原，拥有高度人才签证+20-分资格！注重能力提升：考资格费用报销、技术分享、以及云技术培训等。急需-Java-,-C/C++,-VB.Net,-CO...](https://www.v2ex.com/t/892101) ![](assets/new.png)  
 - [2022-11-02-Golang-web-开发问题请教](https://www.v2ex.com/t/892100) ![](assets/new.png)  
 - [2022-11-02-FFmpeg-解码器如何识别码流格式变了？](https://www.v2ex.com/t/892099) ![](assets/new.png)  
 - [2022-11-02-求推荐个-SSD，给-Nas-跑-Docker-用](https://www.v2ex.com/t/892097) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-11-02-MBA-M2-和-MBP-M1-14-的选择纠结](https://www.v2ex.com/t/892086) ![](assets/new.png)  
 - [2022-11-02-win11-的音量和亮度调整时的弹窗消失了](https://www.v2ex.com/t/892085) ![](assets/new.png)  
 - [2022-11-02-如果作为-RSS-提供方，有什么办法能保障自己的-Feed-能在各大-RSS-阅读器上及时、较好地呈现...](https://www.v2ex.com/t/892084) ![](assets/new.png)  
-- [2022-11-02-用-T5-SSD-做-Time-Machine-备份是不是有点太奢侈](https://www.v2ex.com/t/892083) ![](assets/new.png)  
-- [2022-11-02-上海电信升级宽带以后，-ssh-到海外的云服务器经常被阻断。](https://www.v2ex.com/t/892082) ![](assets/new.png)  
-- [2022-11-02-求推荐能代理-TCP-长连接的代理池](https://www.v2ex.com/t/892081) ![](assets/new.png)  
-- [2022-11-02-基于开源项目-gin-vue-admin-实现-redis-管理页面](https://www.v2ex.com/t/892079) ![](assets/new.png)  
-- [2022-11-02-在-Jenkins-执行-dotnet-publish-编译脚本报错,-相同脚本直接在终端执行却正常](https://www.v2ex.com/t/892077) ![](assets/new.png)  
-- [2022-11-02-想开发个微信小程序，自用](https://www.v2ex.com/t/892075) ![](assets/new.png)  
-- [2022-11-02-求教-win-下做-nodejs-react-前后端开发的最佳姿势是什么？用-docker-合适吗？](https://www.v2ex.com/t/892074) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -566,8 +566,8 @@
 - [2022-11-02-Jenkins-+-Docker-一键自动化部署-Java-Spring-Boot-应用最精简流程](https://toutiao.io/k/hmhr50d) ![](assets/new.png)  
 - [2022-11-02-Kubernetes-CRD-详解（Custom-Resource-Definition）](https://toutiao.io/k/j4xjnbq) ![](assets/new.png)  
 - [2022-11-02-分布式锁实战：基于-Zookeeper-的实现](https://toutiao.io/k/baa0jr1) ![](assets/new.png)  
-- [2022-11-02-《领域驱动设计》：从领域视角深入仓储（Repository）的设计和实现](https://toutiao.io/k/gpl0k3c) ![](assets/new.png)  
 - [2022-11-02-数据标准化红宝书权威发布！一文速读核心内容~~](https://toutiao.io/k/bw9aq9q) ![](assets/new.png)  
+- [2022-11-02-《领域驱动设计》：从领域视角深入仓储（Repository）的设计和实现](https://toutiao.io/k/gpl0k3c) ![](assets/new.png)  
 - [2022-11-02-推荐-网易经验规整：ClickHouse-开发与使用规范大全](https://toutiao.io/k/nprygo2) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

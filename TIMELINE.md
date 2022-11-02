@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-02 10:17:07。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-02 10:46:52。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,11 @@
 </summary>
 
 
+- [【V2EX】2022-11-02-本二-golang-后端九月份被裁，有没有工作推荐-/-私活](https://www.v2ex.com/t/892175) 
+- [【V2EX】2022-11-02-求助-Ventura，-tima-machine-恢复后访达的图片文件夹出不来。](https://www.v2ex.com/t/892174) 
+- [【V2EX】2022-11-02-字节跳动-的同学，和腾讯一样天天废接口.gif](https://www.v2ex.com/t/892173) 
+- [【V2EX】2022-11-02-小米手机-Google-one-备份一直失败是怎么回事？](https://www.v2ex.com/t/892171) 
+- [【V2EX】2022-11-02-Java-后端三年开发上海-在职求内推-跳槽](https://www.v2ex.com/t/892170) 
 - [【V2EX】2022-11-02-有没有这样的软件（PC）](https://www.v2ex.com/t/892166) 
 - [【V2EX】2022-11-02-2022-款-Apple-TV-4K-啥时会有媒体-Review](https://www.v2ex.com/t/892163) 
 - [【V2EX】2022-11-02-x2ray-outbound-为域名的话，是不是会出现死循环](https://www.v2ex.com/t/892162) 
@@ -99,16 +104,6 @@
 - [【V2EX】2022-11-02-如何看待每天一个坏消息](https://www.v2ex.com/t/892132) 
 - [【V2EX】2022-11-02-为了离家近回老家（老家省会），真的值得吗？](https://www.v2ex.com/t/892131) 
 - [【V2EX】2022-11-02-Windows-怎么像-macOS-那样按下-Command+`-快速切换当前应用的多个窗口](https://www.v2ex.com/t/892130) 
-- [【V2EX】2022-11-02-上海/北京-特斯拉-Tesla-车机/手机软件团队招聘](https://www.v2ex.com/t/892129) 
-- [【V2EX】2022-11-02-合并两个正则表达式](https://www.v2ex.com/t/892128) 
-- [【V2EX】2022-11-02-目前使用最广的区块链开发框架是什么？](https://www.v2ex.com/t/892127) 
-- [【V2EX】2022-11-02-5-年.net-有人捞一下吗，-base-杭州](https://www.v2ex.com/t/892126) 
-- [【V2EX】2022-11-02-有电视有网，看电视节目直播-的最佳方案是什么](https://www.v2ex.com/t/892125) 
-- [【V2EX】2022-11-02-目前市售的路由器-rfc9096-支持程度如何](https://www.v2ex.com/t/892124) 
-- [【V2EX】2022-11-02-广州有找-iOS-实习的同学吗？](https://www.v2ex.com/t/892123) 
-- [【V2EX】2022-11-02-RMB-如何换成美金💲](https://www.v2ex.com/t/892122) 
-- [【V2EX】2022-11-02-小米-12S-Ultra-概念机首次公布：双-1-英寸传感器外接徕卡-M-镜头](https://www.v2ex.com/t/892121) 
-- [【V2EX】2022-11-02-晒一晒我的-V2-屏蔽人数，目前已经突破-300，感觉论坛氛围越来越好🐶](https://www.v2ex.com/t/892120) 
 - [【技术头条】2022-11-02-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-02-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-02-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -134,8 +129,8 @@
 - [【开发者头条】2022-11-02-无-Sidecar-又成为新的趋势了？](https://toutiao.io/k/bg297mu) 
 - [【开发者头条】2022-11-02-笔记｜Java-性能优化实践（第-9-章）](https://toutiao.io/k/1w1dwjz) 
 - [【开发者头条】2022-11-02-Go-try-新提案靠谱吗？想简化错误处理了](https://toutiao.io/k/db1nkru) 
-- [【开发者头条】2022-11-02-Flink-反压原理深入浅出及解决思路](https://toutiao.io/k/cnvz5r1) 
 - [【开发者头条】2022-11-02-RocketMQ-重试机制详解及最佳实践](https://toutiao.io/k/fbw6d12) 
+- [【开发者头条】2022-11-02-Flink-反压原理深入浅出及解决思路](https://toutiao.io/k/cnvz5r1) 
 - [【开发者头条】2022-11-02-简单聊聊从-nginx-到-kong-的进化](https://toutiao.io/k/ulb8kwl) 
 - [【开发者头条】2022-11-02-Jenkins-+-Docker-一键自动化部署-Java-Spring-Boot-应用最精简流程](https://toutiao.io/k/hmhr50d) 
 - [【开发者头条】2022-11-02-一文读懂遗传算法工作原理（附-Python-实现）](https://toutiao.io/k/3rz8ru3) 

@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-11-02 21:41:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-02 22:15:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-11-02-在人人都用微信语音通话的如今，为何-FaceTime-音频还是被阉割？](https://www.v2ex.com/t/892255) 
 - [2022-11-02-SQL-中-on-条件与-where-条件的区别](https://www.v2ex.com/t/892254) 
 - [2022-11-02-请问-hashme-哪里能购买呀？](https://www.v2ex.com/t/892253) 
 - [2022-11-02-人在国外如何申请国内手机号？](https://www.v2ex.com/t/892252) 
@@ -39,4 +40,3 @@
 - [2022-11-02-v2-都是做技术的大佬吗？没有从事销售的吗？](https://www.v2ex.com/t/892208) 
 - [2022-11-02-火星了，美区-apple-买-gift-card-可以填中国-billing-地址了吗](https://www.v2ex.com/t/892207) 
 - [2022-11-02-435RMB-买一个罗技-Master-3S-配-Mac-合适吗？](https://www.v2ex.com/t/892206) 
-- [2022-11-02-日本仙台市寻人求助](https://www.v2ex.com/t/892205) 

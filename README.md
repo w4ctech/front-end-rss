@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-02 17:56:33，:rocket: 更新条数: +2017， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-02 18:19:47，:rocket: 更新条数: +2017， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-11-02-OldNewThing-博客的不少链接好像挂了](https://www.v2ex.com/t/892251) ![](assets/new.png)  
+- [2022-11-02-有没有或者如何写这样一种代理下载程序](https://www.v2ex.com/t/892250) ![](assets/new.png)  
 - [2022-11-02-M1-MacBook-Air-播放-YouTube-TV-的-4K-直播非常流畅，但是-11-代低压-U-下却会时常卡顿](https://www.v2ex.com/t/892249) ![](assets/new.png)  
 - [2022-11-02-日元到底了没，要不要买入一些？](https://www.v2ex.com/t/892248) ![](assets/new.png)  
 - [2022-11-02-pydantic-V2-将核心功能拆解到使用-Rust-实现的-pydantic-core，目标带来-10-倍以上的性能提升](https://www.v2ex.com/t/892246) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-11-02-有没有好用的-b-站-TV-版客户端？](https://www.v2ex.com/t/892226) ![](assets/new.png)  
 - [2022-11-02-澳洲咨询公司，还需要中高级全栈开发，全职远程，不加班，法定节假日](https://www.v2ex.com/t/892225) ![](assets/new.png)  
 - [2022-11-02-怎么买-MacBook-最便宜](https://www.v2ex.com/t/892223) ![](assets/new.png)  
-- [2022-11-02-MIUI-13-欧版-xiaomi.eu-通知栏上多出来的这个回形的图标是什么意思？](https://www.v2ex.com/t/892222) ![](assets/new.png)  
-- [2022-11-02-学校区域无法连接-mysql-原因？](https://www.v2ex.com/t/892221) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

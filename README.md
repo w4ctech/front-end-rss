@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-02 15:47:15，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-02 16:22:17，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-11-02-问：类似-03k.org-作者搭建-KMS-服务，不会被微软请喝茶吗？](https://www.v2ex.com/t/892242) ![](assets/new.png)  
+- [2022-11-02-擦窗机器人有用过的没？怎么价格差这么多？](https://www.v2ex.com/t/892241) ![](assets/new.png)  
 - [2022-11-02-Google-one-结算货币跟什么有关？](https://www.v2ex.com/t/892239) ![](assets/new.png)  
 - [2022-11-02-Mac-键盘快捷键自定义，重启电脑后就恢复默认](https://www.v2ex.com/t/892238) ![](assets/new.png)  
 - [2022-11-02-编了个段子一笑而过。。。](https://www.v2ex.com/t/892237) ![](assets/new.png)  
@@ -504,13 +506,11 @@
 - [2022-11-02-废废国区-iCloud-登录不上去网页端](https://www.v2ex.com/t/892227) ![](assets/new.png)  
 - [2022-11-02-有没有好用的-b-站-TV-版客户端？](https://www.v2ex.com/t/892226) ![](assets/new.png)  
 - [2022-11-02-澳洲咨询公司，还需要中高级全栈开发，全职远程，不加班，法定节假日](https://www.v2ex.com/t/892225) ![](assets/new.png)  
-- [2022-11-02-你有梦想吗？你的梦想是什么？](https://www.v2ex.com/t/892224) ![](assets/new.png)  
 - [2022-11-02-怎么买-MacBook-最便宜](https://www.v2ex.com/t/892223) ![](assets/new.png)  
 - [2022-11-02-MIUI-13-欧版-xiaomi.eu-通知栏上多出来的这个回形的图标是什么意思？](https://www.v2ex.com/t/892222) ![](assets/new.png)  
 - [2022-11-02-学校区域无法连接-mysql-原因？](https://www.v2ex.com/t/892221) ![](assets/new.png)  
 - [2022-11-02-定居杭州或天津，大家怎么考虑这件事？](https://www.v2ex.com/t/892218) ![](assets/new.png)  
 - [2022-11-02-30-分钟网页设计竞赛](https://www.v2ex.com/t/892217) ![](assets/new.png)  
-- [2022-11-02-你们的-Iphone14-网络信号会差吗？](https://www.v2ex.com/t/892216) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

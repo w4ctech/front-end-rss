@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-02 17:07:33，:rocket: 更新条数: +2018， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-02 17:56:33，:rocket: 更新条数: +2017， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,8 +491,9 @@
 </summary>
 
 
-- [2022-11-02-怎么看公私合营-供销社-国营饭店-又回来了](https://www.v2ex.com/t/892243) ![](assets/new.png)  
-- [2022-11-02-问：类似-03k.org-作者搭建-KMS-服务，不会被微软请喝茶吗？](https://www.v2ex.com/t/892242) ![](assets/new.png)  
+- [2022-11-02-M1-MacBook-Air-播放-YouTube-TV-的-4K-直播非常流畅，但是-11-代低压-U-下却会时常卡顿](https://www.v2ex.com/t/892249) ![](assets/new.png)  
+- [2022-11-02-日元到底了没，要不要买入一些？](https://www.v2ex.com/t/892248) ![](assets/new.png)  
+- [2022-11-02-pydantic-V2-将核心功能拆解到使用-Rust-实现的-pydantic-core，目标带来-10-倍以上的性能提升](https://www.v2ex.com/t/892246) ![](assets/new.png)  
 - [2022-11-02-擦窗机器人有用过的没？怎么价格差这么多？](https://www.v2ex.com/t/892241) ![](assets/new.png)  
 - [2022-11-02-Google-one-结算货币跟什么有关？](https://www.v2ex.com/t/892239) ![](assets/new.png)  
 - [2022-11-02-Mac-键盘快捷键自定义，重启电脑后就恢复默认](https://www.v2ex.com/t/892238) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-11-02-怎么买-MacBook-最便宜](https://www.v2ex.com/t/892223) ![](assets/new.png)  
 - [2022-11-02-MIUI-13-欧版-xiaomi.eu-通知栏上多出来的这个回形的图标是什么意思？](https://www.v2ex.com/t/892222) ![](assets/new.png)  
 - [2022-11-02-学校区域无法连接-mysql-原因？](https://www.v2ex.com/t/892221) ![](assets/new.png)  
-- [2022-11-02-定居杭州或天津，大家怎么考虑这件事？](https://www.v2ex.com/t/892218) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

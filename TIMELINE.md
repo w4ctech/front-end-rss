@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-02 17:07:33。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-02 17:56:33。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,8 +68,9 @@
 </summary>
 
 
-- [【V2EX】2022-11-02-怎么看公私合营-供销社-国营饭店-又回来了](https://www.v2ex.com/t/892243) 
-- [【V2EX】2022-11-02-问：类似-03k.org-作者搭建-KMS-服务，不会被微软请喝茶吗？](https://www.v2ex.com/t/892242) 
+- [【V2EX】2022-11-02-M1-MacBook-Air-播放-YouTube-TV-的-4K-直播非常流畅，但是-11-代低压-U-下却会时常卡顿](https://www.v2ex.com/t/892249) 
+- [【V2EX】2022-11-02-日元到底了没，要不要买入一些？](https://www.v2ex.com/t/892248) 
+- [【V2EX】2022-11-02-pydantic-V2-将核心功能拆解到使用-Rust-实现的-pydantic-core，目标带来-10-倍以上的性能提升](https://www.v2ex.com/t/892246) 
 - [【V2EX】2022-11-02-擦窗机器人有用过的没？怎么价格差这么多？](https://www.v2ex.com/t/892241) 
 - [【V2EX】2022-11-02-Google-one-结算货币跟什么有关？](https://www.v2ex.com/t/892239) 
 - [【V2EX】2022-11-02-Mac-键盘快捷键自定义，重启电脑后就恢复默认](https://www.v2ex.com/t/892238) 
@@ -102,8 +103,6 @@
 - [【V2EX】2022-11-02-为什么现在千兆无线路由器都没有-AP-模式了？](https://www.v2ex.com/t/892202) 
 - [【V2EX】2022-11-02-FRP-服务器端总是无故进程断了，是怎么回事](https://www.v2ex.com/t/892201) 
 - [【V2EX】2022-11-02-上个月找我借-3k-的表哥又发来了消息、应该如何是好](https://www.v2ex.com/t/892200) 
-- [【V2EX】2022-11-02-有什么办法能让一个人口味变淡,重视健康](https://www.v2ex.com/t/892198) 
-- [【V2EX】2022-11-02-MacOS-的通知提醒，有个横幅模式，有个提醒模式。你的横幅模式也是闪一下就不见么？](https://www.v2ex.com/t/892196) 
 - [【技术头条】2022-11-02-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-02-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-02-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

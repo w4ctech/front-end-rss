@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-02 13:31:47，:rocket: 更新条数: +2016， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-02 14:09:44，:rocket: 更新条数: +2017， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-11-02-学校区域无法连接-mysql-原因？](https://www.v2ex.com/t/892221) ![](assets/new.png)  
+- [2022-11-02-定居杭州或天津，大家怎么考虑这件事？](https://www.v2ex.com/t/892218) ![](assets/new.png)  
+- [2022-11-02-30-分钟网页设计竞赛](https://www.v2ex.com/t/892217) ![](assets/new.png)  
+- [2022-11-02-你们的-Iphone14-网络信号会差吗？](https://www.v2ex.com/t/892216) ![](assets/new.png)  
+- [2022-11-02-大疆总部大楼，好酷](https://www.v2ex.com/t/892214) ![](assets/new.png)  
+- [2022-11-02-上海可办居住证](https://www.v2ex.com/t/892212) ![](assets/new.png)  
 - [2022-11-02-耳机死活从查找中移除不掉](https://www.v2ex.com/t/892210) ![](assets/new.png)  
 - [2022-11-02-macOS-有什么命令行工具查看当前硬件状态](https://www.v2ex.com/t/892209) ![](assets/new.png)  
 - [2022-11-02-v2-都是做技术的大佬吗？没有从事销售的吗？](https://www.v2ex.com/t/892208) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-11-02-有什么办法能让一个人口味变淡,重视健康](https://www.v2ex.com/t/892198) ![](assets/new.png)  
 - [2022-11-02-MacOS-的通知提醒，有个横幅模式，有个提醒模式。你的横幅模式也是闪一下就不见么？](https://www.v2ex.com/t/892196) ![](assets/new.png)  
 - [2022-11-02-网站还未上线这个流量咋解释](https://www.v2ex.com/t/892195) ![](assets/new.png)  
-- [2022-11-02-阳性居然是敏感词了，现在文字管控这么严格吗](https://www.v2ex.com/t/892194) ![](assets/new.png)  
-- [2022-11-02-8+256-的-m1-mba-外接-4k-显示器看高码率-4k-电影会卡吗？](https://www.v2ex.com/t/892193) ![](assets/new.png)  
-- [2022-11-02-招人-需要-Go-后端、测试、BA、产品、项目经理、Node.js、JavaScript-全栈](https://www.v2ex.com/t/892192) ![](assets/new.png)  
-- [2022-11-02-想问问大家-ROI-报表怎么实现的？](https://www.v2ex.com/t/892189) ![](assets/new.png)  
-- [2022-11-02-IOS-能升级到已关闭验证的版本吗？](https://www.v2ex.com/t/892188) ![](assets/new.png)  
-- [2022-11-02-请教为何-Vercel-的服务器有香港节点，但在国内仍然几乎无法打开？](https://www.v2ex.com/t/892187) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,8 +563,8 @@
 - [2022-11-02-Flink-反压原理深入浅出及解决思路](https://toutiao.io/k/cnvz5r1) ![](assets/new.png)  
 - [2022-11-02-Jenkins-+-Docker-一键自动化部署-Java-Spring-Boot-应用最精简流程](https://toutiao.io/k/hmhr50d) ![](assets/new.png)  
 - [2022-11-02-一文读懂遗传算法工作原理（附-Python-实现）](https://toutiao.io/k/3rz8ru3) ![](assets/new.png)  
-- [2022-11-02-Python-3.11-新加入的和类型系统相关的新特性](https://toutiao.io/k/7oqpyy2) ![](assets/new.png)  
 - [2022-11-02-Kubernetes-CRD-详解（Custom-Resource-Definition）](https://toutiao.io/k/j4xjnbq) ![](assets/new.png)  
+- [2022-11-02-Python-3.11-新加入的和类型系统相关的新特性](https://toutiao.io/k/7oqpyy2) ![](assets/new.png)  
 - [2022-11-02-分布式锁实战：基于-Zookeeper-的实现](https://toutiao.io/k/baa0jr1) ![](assets/new.png)  
 - [2022-11-02-《领域驱动设计》：从领域视角深入仓储（Repository）的设计和实现](https://toutiao.io/k/gpl0k3c) ![](assets/new.png)  
 - [2022-11-02-数据标准化红宝书权威发布！一文速读核心内容~~](https://toutiao.io/k/bw9aq9q) ![](assets/new.png)  

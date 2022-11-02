@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-02 09:44:10。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-02 10:17:07。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,8 @@
 </summary>
 
 
+- [【V2EX】2022-11-02-有没有这样的软件（PC）](https://www.v2ex.com/t/892166) 
+- [【V2EX】2022-11-02-2022-款-Apple-TV-4K-啥时会有媒体-Review](https://www.v2ex.com/t/892163) 
 - [【V2EX】2022-11-02-x2ray-outbound-为域名的话，是不是会出现死循环](https://www.v2ex.com/t/892162) 
 - [【V2EX】2022-11-02-寻找-UI-外包，可长期合作，最好在深圳](https://www.v2ex.com/t/892161) 
 - [【V2EX】2022-11-02-相对客观的媒体](https://www.v2ex.com/t/892160) 
@@ -107,11 +109,6 @@
 - [【V2EX】2022-11-02-RMB-如何换成美金💲](https://www.v2ex.com/t/892122) 
 - [【V2EX】2022-11-02-小米-12S-Ultra-概念机首次公布：双-1-英寸传感器外接徕卡-M-镜头](https://www.v2ex.com/t/892121) 
 - [【V2EX】2022-11-02-晒一晒我的-V2-屏蔽人数，目前已经突破-300，感觉论坛氛围越来越好🐶](https://www.v2ex.com/t/892120) 
-- [【V2EX】2022-11-02-Python-使用-c-语言写的这些-lib-的-py-binding-的最佳实践是什么，好像没办法在-venv-的环境里直接用](https://www.v2ex.com/t/892119) 
-- [【V2EX】2022-11-02-给想移民加拿大的普通人](https://www.v2ex.com/t/892116) 
-- [【V2EX】2022-11-02-Installd-真是凶猛！](https://www.v2ex.com/t/892115) 
-- [【V2EX】2022-11-02-请教一个请求莫名其妙被阻塞的问题](https://www.v2ex.com/t/892114) 
-- [【V2EX】2022-11-02-非华为手机安装-hms-core-能否像-fcm-一样唤醒应用接受推送](https://www.v2ex.com/t/892113) 
 - [【技术头条】2022-11-02-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-02-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-02-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

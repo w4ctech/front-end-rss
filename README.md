@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-02 09:44:10，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-02 10:17:07，:rocket: 更新条数: +2023， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-11-02-有没有这样的软件（PC）](https://www.v2ex.com/t/892166) ![](assets/new.png)  
+- [2022-11-02-2022-款-Apple-TV-4K-啥时会有媒体-Review](https://www.v2ex.com/t/892163) ![](assets/new.png)  
 - [2022-11-02-x2ray-outbound-为域名的话，是不是会出现死循环](https://www.v2ex.com/t/892162) ![](assets/new.png)  
 - [2022-11-02-寻找-UI-外包，可长期合作，最好在深圳](https://www.v2ex.com/t/892161) ![](assets/new.png)  
 - [2022-11-02-相对客观的媒体](https://www.v2ex.com/t/892160) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-11-02-最近想休息两天，想请两天假，不知道用什么借口合适](https://www.v2ex.com/t/892144) ![](assets/new.png)  
 - [2022-11-02-请教下-QQ-聊天记录-ImageGroup2-的命名规则是啥](https://www.v2ex.com/t/892143) ![](assets/new.png)  
 - [2022-11-02-知乎关闭了部分问题的"时间排序"功能](https://www.v2ex.com/t/892142) ![](assets/new.png)  
-- [2022-11-02-请教各位一个问题。-iOS-如何让-RSS-客户端推送通知呢，比如-Breaking-News-啥的](https://www.v2ex.com/t/892141) ![](assets/new.png)  
-- [2022-11-02-Linux-有什么好用的邮件客户端](https://www.v2ex.com/t/892139) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

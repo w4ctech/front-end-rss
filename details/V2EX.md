@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2022-11-02 09:44:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-02 10:17:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-11-02-有没有这样的软件（PC）](https://www.v2ex.com/t/892166) 
+- [2022-11-02-2022-款-Apple-TV-4K-啥时会有媒体-Review](https://www.v2ex.com/t/892163) 
 - [2022-11-02-x2ray-outbound-为域名的话，是不是会出现死循环](https://www.v2ex.com/t/892162) 
 - [2022-11-02-寻找-UI-外包，可长期合作，最好在深圳](https://www.v2ex.com/t/892161) 
 - [2022-11-02-相对客观的媒体](https://www.v2ex.com/t/892160) 
@@ -44,8 +46,3 @@
 - [2022-11-02-RMB-如何换成美金💲](https://www.v2ex.com/t/892122) 
 - [2022-11-02-小米-12S-Ultra-概念机首次公布：双-1-英寸传感器外接徕卡-M-镜头](https://www.v2ex.com/t/892121) 
 - [2022-11-02-晒一晒我的-V2-屏蔽人数，目前已经突破-300，感觉论坛氛围越来越好🐶](https://www.v2ex.com/t/892120) 
-- [2022-11-02-Python-使用-c-语言写的这些-lib-的-py-binding-的最佳实践是什么，好像没办法在-venv-的环境里直接用](https://www.v2ex.com/t/892119) 
-- [2022-11-02-给想移民加拿大的普通人](https://www.v2ex.com/t/892116) 
-- [2022-11-02-Installd-真是凶猛！](https://www.v2ex.com/t/892115) 
-- [2022-11-02-请教一个请求莫名其妙被阻塞的问题](https://www.v2ex.com/t/892114) 
-- [2022-11-02-非华为手机安装-hms-core-能否像-fcm-一样唤醒应用接受推送](https://www.v2ex.com/t/892113) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-02 16:22:17，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-02 17:07:33，:rocket: 更新条数: +2018， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-11-02-怎么看公私合营-供销社-国营饭店-又回来了](https://www.v2ex.com/t/892243) ![](assets/new.png)  
 - [2022-11-02-问：类似-03k.org-作者搭建-KMS-服务，不会被微软请喝茶吗？](https://www.v2ex.com/t/892242) ![](assets/new.png)  
 - [2022-11-02-擦窗机器人有用过的没？怎么价格差这么多？](https://www.v2ex.com/t/892241) ![](assets/new.png)  
 - [2022-11-02-Google-one-结算货币跟什么有关？](https://www.v2ex.com/t/892239) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-11-02-MIUI-13-欧版-xiaomi.eu-通知栏上多出来的这个回形的图标是什么意思？](https://www.v2ex.com/t/892222) ![](assets/new.png)  
 - [2022-11-02-学校区域无法连接-mysql-原因？](https://www.v2ex.com/t/892221) ![](assets/new.png)  
 - [2022-11-02-定居杭州或天津，大家怎么考虑这件事？](https://www.v2ex.com/t/892218) ![](assets/new.png)  
-- [2022-11-02-30-分钟网页设计竞赛](https://www.v2ex.com/t/892217) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

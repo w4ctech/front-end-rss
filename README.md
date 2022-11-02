@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-02 14:09:44，:rocket: 更新条数: +2017， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-02 14:47:41，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-11-02-有没有好用的-b-站-TV-版客户端？](https://www.v2ex.com/t/892226) ![](assets/new.png)  
+- [2022-11-02-澳洲咨询公司，还需要中高级全栈开发，全职远程，不加班，法定节假日](https://www.v2ex.com/t/892225) ![](assets/new.png)  
+- [2022-11-02-你有梦想吗？你的梦想是什么？](https://www.v2ex.com/t/892224) ![](assets/new.png)  
+- [2022-11-02-怎么买-MacBook-最便宜](https://www.v2ex.com/t/892223) ![](assets/new.png)  
+- [2022-11-02-MIUI-13-欧版-xiaomi.eu-通知栏上多出来的这个回形的图标是什么意思？](https://www.v2ex.com/t/892222) ![](assets/new.png)  
 - [2022-11-02-学校区域无法连接-mysql-原因？](https://www.v2ex.com/t/892221) ![](assets/new.png)  
 - [2022-11-02-定居杭州或天津，大家怎么考虑这件事？](https://www.v2ex.com/t/892218) ![](assets/new.png)  
 - [2022-11-02-30-分钟网页设计竞赛](https://www.v2ex.com/t/892217) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-11-02-不愧是你啊，群晖](https://www.v2ex.com/t/892204) ![](assets/new.png)  
 - [2022-11-02-请问一主多从系统数据同步方案如何设计](https://www.v2ex.com/t/892203) ![](assets/new.png)  
 - [2022-11-02-为什么现在千兆无线路由器都没有-AP-模式了？](https://www.v2ex.com/t/892202) ![](assets/new.png)  
-- [2022-11-02-FRP-服务器端总是无故进程断了，是怎么回事](https://www.v2ex.com/t/892201) ![](assets/new.png)  
-- [2022-11-02-上个月找我借-3k-的表哥又发来了消息、应该如何是好](https://www.v2ex.com/t/892200) ![](assets/new.png)  
-- [2022-11-02-有什么办法能让一个人口味变淡,重视健康](https://www.v2ex.com/t/892198) ![](assets/new.png)  
-- [2022-11-02-MacOS-的通知提醒，有个横幅模式，有个提醒模式。你的横幅模式也是闪一下就不见么？](https://www.v2ex.com/t/892196) ![](assets/new.png)  
-- [2022-11-02-网站还未上线这个流量咋解释](https://www.v2ex.com/t/892195) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -562,8 +562,8 @@
 - [2022-11-02-Go-try-新提案靠谱吗？想简化错误处理了](https://toutiao.io/k/db1nkru) ![](assets/new.png)  
 - [2022-11-02-Flink-反压原理深入浅出及解决思路](https://toutiao.io/k/cnvz5r1) ![](assets/new.png)  
 - [2022-11-02-Jenkins-+-Docker-一键自动化部署-Java-Spring-Boot-应用最精简流程](https://toutiao.io/k/hmhr50d) ![](assets/new.png)  
-- [2022-11-02-一文读懂遗传算法工作原理（附-Python-实现）](https://toutiao.io/k/3rz8ru3) ![](assets/new.png)  
 - [2022-11-02-Kubernetes-CRD-详解（Custom-Resource-Definition）](https://toutiao.io/k/j4xjnbq) ![](assets/new.png)  
+- [2022-11-02-一文读懂遗传算法工作原理（附-Python-实现）](https://toutiao.io/k/3rz8ru3) ![](assets/new.png)  
 - [2022-11-02-Python-3.11-新加入的和类型系统相关的新特性](https://toutiao.io/k/7oqpyy2) ![](assets/new.png)  
 - [2022-11-02-分布式锁实战：基于-Zookeeper-的实现](https://toutiao.io/k/baa0jr1) ![](assets/new.png)  
 - [2022-11-02-《领域驱动设计》：从领域视角深入仓储（Repository）的设计和实现](https://toutiao.io/k/gpl0k3c) ![](assets/new.png)  

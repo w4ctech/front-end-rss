@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-02 14:09:44。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-02 14:47:41。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,11 @@
 </summary>
 
 
+- [【V2EX】2022-11-02-有没有好用的-b-站-TV-版客户端？](https://www.v2ex.com/t/892226) 
+- [【V2EX】2022-11-02-澳洲咨询公司，还需要中高级全栈开发，全职远程，不加班，法定节假日](https://www.v2ex.com/t/892225) 
+- [【V2EX】2022-11-02-你有梦想吗？你的梦想是什么？](https://www.v2ex.com/t/892224) 
+- [【V2EX】2022-11-02-怎么买-MacBook-最便宜](https://www.v2ex.com/t/892223) 
+- [【V2EX】2022-11-02-MIUI-13-欧版-xiaomi.eu-通知栏上多出来的这个回形的图标是什么意思？](https://www.v2ex.com/t/892222) 
 - [【V2EX】2022-11-02-学校区域无法连接-mysql-原因？](https://www.v2ex.com/t/892221) 
 - [【V2EX】2022-11-02-定居杭州或天津，大家怎么考虑这件事？](https://www.v2ex.com/t/892218) 
 - [【V2EX】2022-11-02-30-分钟网页设计竞赛](https://www.v2ex.com/t/892217) 
@@ -100,9 +105,6 @@
 - [【V2EX】2022-11-02-公司电脑-Edge-升级-107-之后打开即闪退](https://www.v2ex.com/t/892182) 
 - [【V2EX】2022-11-02-逆向分析安卓-App-的-Api-接口有感](https://www.v2ex.com/t/892181) 
 - [【V2EX】2022-11-02-开源-用-Java-开发的前后端-CMS-内容管理系统](https://www.v2ex.com/t/892180) 
-- [【V2EX】2022-11-02-本二-golang-后端九月份被裁，有没有工作推荐-/-私活](https://www.v2ex.com/t/892175) 
-- [【V2EX】2022-11-02-求助-Ventura，-tima-machine-恢复后访达的图片文件夹出不来。](https://www.v2ex.com/t/892174) 
-- [【V2EX】2022-11-02-字节跳动-的同学，和腾讯一样天天废接口.gif](https://www.v2ex.com/t/892173) 
 - [【技术头条】2022-11-02-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-02-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-02-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -132,8 +134,8 @@
 - [【开发者头条】2022-11-02-Go-try-新提案靠谱吗？想简化错误处理了](https://toutiao.io/k/db1nkru) 
 - [【开发者头条】2022-11-02-Flink-反压原理深入浅出及解决思路](https://toutiao.io/k/cnvz5r1) 
 - [【开发者头条】2022-11-02-Jenkins-+-Docker-一键自动化部署-Java-Spring-Boot-应用最精简流程](https://toutiao.io/k/hmhr50d) 
-- [【开发者头条】2022-11-02-一文读懂遗传算法工作原理（附-Python-实现）](https://toutiao.io/k/3rz8ru3) 
 - [【开发者头条】2022-11-02-Kubernetes-CRD-详解（Custom-Resource-Definition）](https://toutiao.io/k/j4xjnbq) 
+- [【开发者头条】2022-11-02-一文读懂遗传算法工作原理（附-Python-实现）](https://toutiao.io/k/3rz8ru3) 
 - [【开发者头条】2022-11-02-Python-3.11-新加入的和类型系统相关的新特性](https://toutiao.io/k/7oqpyy2) 
 - [【开发者头条】2022-11-02-分布式锁实战：基于-Zookeeper-的实现](https://toutiao.io/k/baa0jr1) 
 - [【开发者头条】2022-11-02-《领域驱动设计》：从领域视角深入仓储（Repository）的设计和实现](https://toutiao.io/k/gpl0k3c) 

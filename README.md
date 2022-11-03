@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-03 23:16:14，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-03 23:42:15，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-11-03-美国创业公司招后端（非-web3）](https://www.v2ex.com/t/892523) ![](assets/new.png)  
 - [2022-11-03-我的-login-item-有两项很奇怪的-item,看起来是国内公司-app,但是在进程和-find-里面都找不到](https://www.v2ex.com/t/892522) ![](assets/new.png)  
 - [2022-11-03-Seafile-配合-iCloud-还挺好用](https://www.v2ex.com/t/892521) ![](assets/new.png)  
 - [2022-11-03-前端初学-SQL，求帮忙修改一个简单-MySQL-联查语句](https://www.v2ex.com/t/892520) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-11-03-App-Store-里，-Google-Photos-的评分和投票数都比-Photos-高](https://www.v2ex.com/t/892503) ![](assets/new.png)  
 - [2022-11-03-感觉这个视频讲-web3-挺清楚的](https://www.v2ex.com/t/892502) ![](assets/new.png)  
 - [2022-11-03-这个视频我要笑死了，行为艺术](https://www.v2ex.com/t/892501) ![](assets/new.png)  
-- [2022-11-03-你们碰到过什么有意思的-TG-群](https://www.v2ex.com/t/892500) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

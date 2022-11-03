@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-03 23:16:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-03 23:42:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1915,6 +1915,7 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-11-03-美国创业公司招后端（非-web3）](https://www.v2ex.com/t/892523) 
 - [2022-11-03-我的-login-item-有两项很奇怪的-item,看起来是国内公司-app,但是在进程和-find-里面都找不到](https://www.v2ex.com/t/892522) 
 - [2022-11-03-Seafile-配合-iCloud-还挺好用](https://www.v2ex.com/t/892521) 
 - [2022-11-03-前端初学-SQL，求帮忙修改一个简单-MySQL-联查语句](https://www.v2ex.com/t/892520) 

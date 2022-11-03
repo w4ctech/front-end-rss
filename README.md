@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-03 08:49:09，:rocket: 更新条数: +2020， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-03 09:15:42，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-11-03-XGP-购买请教](https://www.v2ex.com/t/892415) ![](assets/new.png)  
+- [2022-11-03-关于硬件接口判断的问题](https://www.v2ex.com/t/892414) ![](assets/new.png)  
+- [2022-11-03-升级到-Ventura-之后-Dock-的清理废纸篓没反应了](https://www.v2ex.com/t/892413) ![](assets/new.png)  
+- [2022-11-03-proto-validator-使用介绍](https://www.v2ex.com/t/892412) ![](assets/new.png)  
+- [2022-11-03-年纪大了有个坏毛病，不想学新东西，就想用一把锤子，敲天下所有的钉子。](https://www.v2ex.com/t/892410) ![](assets/new.png)  
 - [2022-11-03-云服务器换平台怎么迁移好](https://www.v2ex.com/t/892407) ![](assets/new.png)  
 - [2022-11-03-续聊-电鸭仅凭用户投诉，对帖子项目乱打标签，删帖且删除仍有余额账号](https://www.v2ex.com/t/892406) ![](assets/new.png)  
 - [2022-11-03-如何在-Neovim-切换-Python-的虚拟环境？](https://www.v2ex.com/t/892404) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-11-03-广州-字节飞书人事部门持续招前端，还有大量-HC，抓紧上车了](https://www.v2ex.com/t/892391) ![](assets/new.png)  
 - [2022-11-03-iMac-更换固态硬盘问题](https://www.v2ex.com/t/892389) ![](assets/new.png)  
 - [2022-11-03-好多-YouTube-tech-review-频道除了视频做的漂亮，没啥技术含量](https://www.v2ex.com/t/892387) ![](assets/new.png)  
-- [2022-11-03-上海-招人啦,-招人啦,-兄弟们快来~全职-Fabrie-后端-Nodejs-招聘-Mac&期权-13-17-薪（15-40k）](https://www.v2ex.com/t/892386) ![](assets/new.png)  
-- [2022-11-03-普通用户怎么手动升级-Glibc？](https://www.v2ex.com/t/892385) ![](assets/new.png)  
-- [2022-11-03-能直连的国外权威新闻网站有哪些？](https://www.v2ex.com/t/892383) ![](assets/new.png)  
-- [2022-11-03-Java---有啥好用的-Webp-转换工具库吗？](https://www.v2ex.com/t/892382) ![](assets/new.png)  
-- [2022-11-03-安卓的小私活，有兴趣的看一下。](https://www.v2ex.com/t/892381) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -556,8 +556,8 @@
 - [2022-11-03-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) ![](assets/new.png)  
 - [2022-11-03-如何优雅的解决线上问题？](https://toutiao.io/k/6u6eytw) ![](assets/new.png)  
 - [2022-11-03-使用-StringUtils.split-的坑](https://toutiao.io/k/0xsnf61) ![](assets/new.png)  
-- [2022-11-03-Kubernetes-网络流量流转路径](https://toutiao.io/k/ty9p91p) ![](assets/new.png)  
 - [2022-11-03-流程引擎的架构设计](https://toutiao.io/k/lyviyk3) ![](assets/new.png)  
+- [2022-11-03-Kubernetes-网络流量流转路径](https://toutiao.io/k/ty9p91p) ![](assets/new.png)  
 - [2022-11-03-一文看懂分布式链路监控系统](https://toutiao.io/k/dr1suza) ![](assets/new.png)  
 - [2022-11-03-手写-Puppeteer：远程控制-Chromium](https://toutiao.io/k/stnv9bt) ![](assets/new.png)  
 - [2022-11-03-携程度假零成本微前端框架：零界](https://toutiao.io/k/gx5xmk5) ![](assets/new.png)  

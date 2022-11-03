@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-03 08:49:09。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-03 09:15:42。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,11 @@
 </summary>
 
 
+- [【V2EX】2022-11-03-XGP-购买请教](https://www.v2ex.com/t/892415) 
+- [【V2EX】2022-11-03-关于硬件接口判断的问题](https://www.v2ex.com/t/892414) 
+- [【V2EX】2022-11-03-升级到-Ventura-之后-Dock-的清理废纸篓没反应了](https://www.v2ex.com/t/892413) 
+- [【V2EX】2022-11-03-proto-validator-使用介绍](https://www.v2ex.com/t/892412) 
+- [【V2EX】2022-11-03-年纪大了有个坏毛病，不想学新东西，就想用一把锤子，敲天下所有的钉子。](https://www.v2ex.com/t/892410) 
 - [【V2EX】2022-11-03-云服务器换平台怎么迁移好](https://www.v2ex.com/t/892407) 
 - [【V2EX】2022-11-03-续聊-电鸭仅凭用户投诉，对帖子项目乱打标签，删帖且删除仍有余额账号](https://www.v2ex.com/t/892406) 
 - [【V2EX】2022-11-03-如何在-Neovim-切换-Python-的虚拟环境？](https://www.v2ex.com/t/892404) 
@@ -100,12 +105,6 @@
 - [【V2EX】2022-11-03-狗东真是越来越抠门了，-plus-的百元券根本领不到，不想续费了](https://www.v2ex.com/t/892368) 
 - [【V2EX】2022-11-03-推荐两个-Python-框架](https://www.v2ex.com/t/892367) 
 - [【V2EX】2022-11-03-虹桥-华漕诸翟合租](https://www.v2ex.com/t/892366) 
-- [【V2EX】2022-11-03-Casbin-开源社区《Talent-明日之星-2022》远程开源预选生，火热招募中！](https://www.v2ex.com/t/892365) 
-- [【V2EX】2022-11-03-关于购房那点事](https://www.v2ex.com/t/892364) 
-- [【V2EX】2022-11-03-Java-后端，-M1-Pro-16g-还是-m2-air-24g](https://www.v2ex.com/t/892363) 
-- [【V2EX】2022-11-03-日亚下单的今天陆续扣款了](https://www.v2ex.com/t/892361) 
-- [【V2EX】2022-11-03-macOS-给我推送-13-的更新了](https://www.v2ex.com/t/892360) 
-- [【V2EX】2022-11-03-macmini2014-丐版-跑-surge-性能够么](https://www.v2ex.com/t/892358) 
 - [【技术头条】2022-11-03-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-03-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-03-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -129,8 +128,8 @@
 - [【开发者头条】2022-11-03-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) 
 - [【开发者头条】2022-11-03-如何优雅的解决线上问题？](https://toutiao.io/k/6u6eytw) 
 - [【开发者头条】2022-11-03-使用-StringUtils.split-的坑](https://toutiao.io/k/0xsnf61) 
-- [【开发者头条】2022-11-03-Kubernetes-网络流量流转路径](https://toutiao.io/k/ty9p91p) 
 - [【开发者头条】2022-11-03-流程引擎的架构设计](https://toutiao.io/k/lyviyk3) 
+- [【开发者头条】2022-11-03-Kubernetes-网络流量流转路径](https://toutiao.io/k/ty9p91p) 
 - [【开发者头条】2022-11-03-一文看懂分布式链路监控系统](https://toutiao.io/k/dr1suza) 
 - [【开发者头条】2022-11-03-手写-Puppeteer：远程控制-Chromium](https://toutiao.io/k/stnv9bt) 
 - [【开发者头条】2022-11-03-携程度假零成本微前端框架：零界](https://toutiao.io/k/gx5xmk5) 

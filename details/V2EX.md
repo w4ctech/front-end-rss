@@ -1,10 +1,15 @@
-:alarm_clock: 更新时间: 2022-11-03 08:49:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-03 09:15:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-11-03-XGP-购买请教](https://www.v2ex.com/t/892415) 
+- [2022-11-03-关于硬件接口判断的问题](https://www.v2ex.com/t/892414) 
+- [2022-11-03-升级到-Ventura-之后-Dock-的清理废纸篓没反应了](https://www.v2ex.com/t/892413) 
+- [2022-11-03-proto-validator-使用介绍](https://www.v2ex.com/t/892412) 
+- [2022-11-03-年纪大了有个坏毛病，不想学新东西，就想用一把锤子，敲天下所有的钉子。](https://www.v2ex.com/t/892410) 
 - [2022-11-03-云服务器换平台怎么迁移好](https://www.v2ex.com/t/892407) 
 - [2022-11-03-续聊-电鸭仅凭用户投诉，对帖子项目乱打标签，删帖且删除仍有余额账号](https://www.v2ex.com/t/892406) 
 - [2022-11-03-如何在-Neovim-切换-Python-的虚拟环境？](https://www.v2ex.com/t/892404) 
@@ -37,9 +42,3 @@
 - [2022-11-03-狗东真是越来越抠门了，-plus-的百元券根本领不到，不想续费了](https://www.v2ex.com/t/892368) 
 - [2022-11-03-推荐两个-Python-框架](https://www.v2ex.com/t/892367) 
 - [2022-11-03-虹桥-华漕诸翟合租](https://www.v2ex.com/t/892366) 
-- [2022-11-03-Casbin-开源社区《Talent-明日之星-2022》远程开源预选生，火热招募中！](https://www.v2ex.com/t/892365) 
-- [2022-11-03-关于购房那点事](https://www.v2ex.com/t/892364) 
-- [2022-11-03-Java-后端，-M1-Pro-16g-还是-m2-air-24g](https://www.v2ex.com/t/892363) 
-- [2022-11-03-日亚下单的今天陆续扣款了](https://www.v2ex.com/t/892361) 
-- [2022-11-03-macOS-给我推送-13-的更新了](https://www.v2ex.com/t/892360) 
-- [2022-11-03-macmini2014-丐版-跑-surge-性能够么](https://www.v2ex.com/t/892358) 

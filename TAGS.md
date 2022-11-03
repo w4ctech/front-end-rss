@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-11-03 08:20:32。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-03 08:49:09。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -154,7 +154,6 @@
 
 
 
-- [【V2EX】撒币新功能-抽奖小游戏](https://www.v2ex.com/t/892350)
 - [......【查看更多】......](./details/tags/dev-game.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -251,7 +250,6 @@
 
 
 - [【V2EX】macmini2014-丐版-跑-surge-性能够么](https://www.v2ex.com/t/892358)
-- [【V2EX】如何提高-pc-网页端访问-iCloud-速度，加载实在是太慢了，一直正在载入](https://www.v2ex.com/t/892356)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -274,6 +272,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】腺病毒新冠疫苗引安全忧虑-康希诺称未发现血栓病例](https://m.caixin.com/m/2021-04-14/101691086.html)
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
+- [【V2EX】Mac-使用-URL-Scheme-快速添加-shadowrocket-规则](https://www.v2ex.com/t/892402)
 - [【开发者头条】手写-Puppeteer：远程控制-Chromium](https://toutiao.io/k/stnv9bt)
 - [......【查看更多】......](./details/tags/browser.md)
 
@@ -291,6 +290,7 @@
 
 
 
+- [【V2EX】如何在-Neovim-切换-Python-的虚拟环境？](https://www.v2ex.com/t/892404)
 - [【技术头条】基于AI算法的数据库异常监测系统的设计与实现-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15390&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F09%2F01%2Fdatabase-monitoring-based-on-ai.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
@@ -308,7 +308,6 @@
 
 
 
-- [【V2EX】请问在-wsl2-里创建的-docker-容器怎么访问宿主机？](https://www.v2ex.com/t/892355)
 - [【技术头条】GraphQL及元数据驱动架构在后端BFF中的实践-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15395&url=https%3A%2F%2Ftech.meituan.com%2F2021%2F05%2F06%2Fbff-graphql.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/server.md)
 

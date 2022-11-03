@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-03 14:04:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-03 14:42:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -14,5 +14,4 @@
 - [2021-01-08-解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html) 
 - [2021-01-01-大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html) 
 - [2022-11-03-单页-html-加上密码的这种方式安全吗？](https://www.v2ex.com/t/892473) 
-- [2022-11-03-iOS-也能无追一下，无追-for-Safari-扩展发布啦，帮你将-Safari-默认搜索设置为无追-可使用无追-@指令-切换搜索](https://www.v2ex.com/t/892446) 
 - [2022-11-03-手写-Puppeteer：远程控制-Chromium](https://toutiao.io/k/stnv9bt) 

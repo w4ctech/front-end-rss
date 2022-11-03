@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-03 15:20:53，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-03 15:56:45，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-11-03-各种-httpclient-未实现类似-slf4j-的门面模式是否是一个遗憾？](https://www.v2ex.com/t/892508) ![](assets/new.png)  
+- [2022-11-03-安卓系统如何强制安装-apk？？](https://www.v2ex.com/t/892507) ![](assets/new.png)  
+- [2022-11-03-分享一下我最近录制的一套-Solidity-教程，名字叫《Solidity-高级程序设计》，目前在-B-站和-Youtube-上持续更新](https://www.v2ex.com/t/892506) ![](assets/new.png)  
+- [2022-11-03-V-友们，请教个提取两个字符串中的语句并加引号的-sed-写法](https://www.v2ex.com/t/892505) ![](assets/new.png)  
+- [2022-11-03-ToMemo-iOS-上懒人短语+快捷键盘+剪切板配上捷径，使用起来事倍功半](https://www.v2ex.com/t/892504) ![](assets/new.png)  
 - [2022-11-03-App-Store-里，-Google-Photos-的评分和投票数都比-Photos-高](https://www.v2ex.com/t/892503) ![](assets/new.png)  
 - [2022-11-03-感觉这个视频讲-web3-挺清楚的](https://www.v2ex.com/t/892502) ![](assets/new.png)  
 - [2022-11-03-这个视频我要笑死了，行为艺术](https://www.v2ex.com/t/892501) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-11-03-求推荐靠谱的数据备份方案](https://www.v2ex.com/t/892489) ![](assets/new.png)  
 - [2022-11-03-LinkBuds-骑行听书感觉很好，也没有想象中的挑耳朵](https://www.v2ex.com/t/892487) ![](assets/new.png)  
 - [2022-11-03-有胎压报警还有必要装胎压显示吗？](https://www.v2ex.com/t/892485) ![](assets/new.png)  
-- [2022-11-03-出一个-surge-mac](https://www.v2ex.com/t/892484) ![](assets/new.png)  
-- [2022-11-03-推荐-macwk-的替代品：-minorpatch.com](https://www.v2ex.com/t/892482) ![](assets/new.png)  
-- [2022-11-03-C++-Java-Python-哪个（远程）岗位多？](https://www.v2ex.com/t/892480) ![](assets/new.png)  
-- [2022-11-03-在哪里能看到<三体>三部曲电子书?](https://www.v2ex.com/t/892479) ![](assets/new.png)  
-- [2022-11-03-有没有靠谱的-Pixel-3a-xl-路子](https://www.v2ex.com/t/892477) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

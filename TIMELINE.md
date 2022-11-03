@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-03 15:20:53。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-03 15:56:45。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,11 @@
 </summary>
 
 
+- [【V2EX】2022-11-03-各种-httpclient-未实现类似-slf4j-的门面模式是否是一个遗憾？](https://www.v2ex.com/t/892508) 
+- [【V2EX】2022-11-03-安卓系统如何强制安装-apk？？](https://www.v2ex.com/t/892507) 
+- [【V2EX】2022-11-03-分享一下我最近录制的一套-Solidity-教程，名字叫《Solidity-高级程序设计》，目前在-B-站和-Youtube-上持续更新](https://www.v2ex.com/t/892506) 
+- [【V2EX】2022-11-03-V-友们，请教个提取两个字符串中的语句并加引号的-sed-写法](https://www.v2ex.com/t/892505) 
+- [【V2EX】2022-11-03-ToMemo-iOS-上懒人短语+快捷键盘+剪切板配上捷径，使用起来事倍功半](https://www.v2ex.com/t/892504) 
 - [【V2EX】2022-11-03-App-Store-里，-Google-Photos-的评分和投票数都比-Photos-高](https://www.v2ex.com/t/892503) 
 - [【V2EX】2022-11-03-感觉这个视频讲-web3-挺清楚的](https://www.v2ex.com/t/892502) 
 - [【V2EX】2022-11-03-这个视频我要笑死了，行为艺术](https://www.v2ex.com/t/892501) 
@@ -105,11 +110,6 @@
 - [【V2EX】2022-11-03-求教，一个字符串内同时包含门店地址与门店名称，且地址与名称之间没有可用于分隔的文字，如何使用正则分别匹配出地址与名称？](https://www.v2ex.com/t/892461) 
 - [【V2EX】2022-11-03-Mac-没有单手可以操作-delete-键让我心态爆炸](https://www.v2ex.com/t/892460) 
 - [【V2EX】2022-11-03-求助-我好像再也没学会另外一门编程语言！](https://www.v2ex.com/t/892459) 
-- [【V2EX】2022-11-03-Apple-Studio-Display-怎么选](https://www.v2ex.com/t/892458) 
-- [【V2EX】2022-11-03-摸了个制作静态图的工具](https://www.v2ex.com/t/892457) 
-- [【V2EX】2022-11-03-VisualizerService-x86-是何方神圣，还是-intel](https://www.v2ex.com/t/892456) 
-- [【V2EX】2022-11-03-Yubikey-发车](https://www.v2ex.com/t/892455) 
-- [【V2EX】2022-11-03-微信被未知设备登录纯属误解](https://www.v2ex.com/t/892454) 
 - [【技术头条】2022-11-03-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-03-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-03-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

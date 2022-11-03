@@ -9953,6 +9953,31 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "各种 httpclient 未实现类似 slf4j 的门面模式是否是一个遗憾？",
+        "link": "https://www.v2ex.com/t/892508",
+        "date": "2022-11-03"
+      },
+      {
+        "title": "安卓系统如何强制安装 apk？？",
+        "link": "https://www.v2ex.com/t/892507",
+        "date": "2022-11-03"
+      },
+      {
+        "title": "分享一下我最近录制的一套 Solidity 教程，名字叫《Solidity 高级程序设计》，目前在 B 站和 Youtube 上持续更新",
+        "link": "https://www.v2ex.com/t/892506",
+        "date": "2022-11-03"
+      },
+      {
+        "title": "V 友们，请教个提取两个字符串中的语句并加引号的 sed 写法",
+        "link": "https://www.v2ex.com/t/892505",
+        "date": "2022-11-03"
+      },
+      {
+        "title": "[ToMemo] iOS 上懒人短语+快捷键盘+剪切板配上捷径，使用起来事倍功半",
+        "link": "https://www.v2ex.com/t/892504",
+        "date": "2022-11-03"
+      },
+      {
         "title": "App Store 里， Google Photos 的评分和投票数都比 Photos 高",
         "link": "https://www.v2ex.com/t/892503",
         "date": "2022-11-03"
@@ -10135,31 +10160,6 @@
       {
         "title": "[求助] 我好像再也没学会另外一门编程语言！",
         "link": "https://www.v2ex.com/t/892459",
-        "date": "2022-11-03"
-      },
-      {
-        "title": "Apple Studio Display 怎么选",
-        "link": "https://www.v2ex.com/t/892458",
-        "date": "2022-11-03"
-      },
-      {
-        "title": "摸了个制作静态图的工具",
-        "link": "https://www.v2ex.com/t/892457",
-        "date": "2022-11-03"
-      },
-      {
-        "title": "VisualizerService-x86 是何方神圣，还是 intel",
-        "link": "https://www.v2ex.com/t/892456",
-        "date": "2022-11-03"
-      },
-      {
-        "title": "Yubikey 发车",
-        "link": "https://www.v2ex.com/t/892455",
-        "date": "2022-11-03"
-      },
-      {
-        "title": "微信被未知设备登录纯属误解",
-        "link": "https://www.v2ex.com/t/892454",
         "date": "2022-11-03"
       }
     ]

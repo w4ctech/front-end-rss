@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-11-02 23:45:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-03 01:11:38。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -250,7 +250,6 @@
 
 
 - [【V2EX】pydantic-V2-将核心功能拆解到使用-Rust-实现的-pydantic-core，目标带来-10-倍以上的性能提升](https://www.v2ex.com/t/892246)
-- [【开发者头条】笔记｜Java-性能优化实践（第-9-章）](https://toutiao.io/k/1w1dwjz)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -275,6 +274,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
 - [【V2EX】为什么-formspree-可以跨域-ajax？](https://www.v2ex.com/t/892256)
 - [【V2EX】腾讯云-CDN-新增按-HTTPS-请求数收费规则](https://www.v2ex.com/t/892230)
+- [【开发者头条】手写-Puppeteer：远程控制-Chromium](https://toutiao.io/k/stnv9bt)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -293,7 +293,6 @@
 
 - [【V2EX】澳洲咨询公司，还需要中高级全栈开发，全职远程，不加班，法定节假日](https://www.v2ex.com/t/892225)
 - [【技术头条】基于AI算法的数据库异常监测系统的设计与实现-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15390&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F09%2F01%2Fdatabase-monitoring-based-on-ai.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
-- [【开发者头条】一文读懂遗传算法工作原理（附-Python-实现）](https://toutiao.io/k/3rz8ru3)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -312,8 +311,6 @@
 
 - [【V2EX】macbookpro-14-寸-通过-docker-desktop-安装-kubernetes-问题](https://www.v2ex.com/t/892236)
 - [【技术头条】GraphQL及元数据驱动架构在后端BFF中的实践-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15395&url=https%3A%2F%2Ftech.meituan.com%2F2021%2F05%2F06%2Fbff-graphql.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
-- [【开发者头条】简单聊聊从-nginx-到-kong-的进化](https://toutiao.io/k/ulb8kwl)
-- [【开发者头条】Jenkins-+-Docker-一键自动化部署-Java-Spring-Boot-应用最精简流程](https://toutiao.io/k/hmhr50d)
 - [......【查看更多】......](./details/tags/server.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

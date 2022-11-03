@@ -9953,6 +9953,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "前端初学 SQL，求帮忙修改一个简单 MySQL 联查语句",
+        "link": "https://www.v2ex.com/t/892520",
+        "date": "2022-11-03"
+      },
+      {
+        "title": "强力球的头奖奖金已经增加到 15 亿美元了",
+        "link": "https://www.v2ex.com/t/892519",
+        "date": "2022-11-03"
+      },
+      {
         "title": "豆列（豆瓣合集）是否有按评分、评论数排序的增强功能？",
         "link": "https://www.v2ex.com/t/892518",
         "date": "2022-11-03"
@@ -10140,11 +10150,6 @@
       {
         "title": "CAReportingService 是个啥？内存拉满了",
         "link": "https://www.v2ex.com/t/892471",
-        "date": "2022-11-03"
-      },
-      {
-        "title": "使用 ec20 搭建了 asterisk",
-        "link": "https://www.v2ex.com/t/892469",
         "date": "2022-11-03"
       }
     ]

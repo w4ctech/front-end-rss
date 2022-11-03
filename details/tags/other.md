@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-03 07:13:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-03 07:39:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1915,6 +1915,9 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-11-03-普通用户怎么手动升级-Glibc？](https://www.v2ex.com/t/892385) 
+- [2022-11-03-能直连的国外权威新闻网站有哪些？](https://www.v2ex.com/t/892383) 
+- [2022-11-03-安卓的小私活，有兴趣的看一下。](https://www.v2ex.com/t/892381) 
 - [2022-11-03-xcode-语法检查反应特别迟钝有办法吗？](https://www.v2ex.com/t/892380) 
 - [2022-11-03-请问有什么办法让安装了-Win10-的硬盘通过-USB-接口读取？](https://www.v2ex.com/t/892379) 
 - [2022-11-03-c#-多年，求份远程](https://www.v2ex.com/t/892378) 
@@ -1944,9 +1947,6 @@
 - [2022-11-03-iPad-网络不如-iPhone-吗？](https://www.v2ex.com/t/892341) 
 - [2022-11-03-广州西门口工作，住同德还是鹅掌坦呀](https://www.v2ex.com/t/892339) 
 - [2022-11-03-应该上哪投诉-中邮海外购-这类-转运-企业？](https://www.v2ex.com/t/892338) 
-- [2022-11-03-最近机械硬盘，每次开机都会自检，工具检查很多坏道了，求推荐性价比高点的机械硬盘。](https://www.v2ex.com/t/892335) 
-- [2022-11-03-Raid5-三块磁盘，一块掉了，一块被我不小心标记为-faulty，如何恢复？](https://www.v2ex.com/t/892332) 
-- [2022-11-03-有什么与-third-part-同步类型的框架或者解决方案吗？](https://www.v2ex.com/t/892331) 
 - [2022-11-03-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-03-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-03-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1971,8 +1971,8 @@
 - [2022-11-03-一文看懂分布式链路监控系统](https://toutiao.io/k/dr1suza) 
 - [2022-11-03-流程引擎的架构设计](https://toutiao.io/k/lyviyk3) 
 - [2022-11-03-携程度假零成本微前端框架：零界](https://toutiao.io/k/gx5xmk5) 
-- [2022-11-03-手撸源码系列：-cache2go](https://toutiao.io/k/9wmhmbx) 
 - [2022-11-03-科普-|-NFT-如何在链上存储？又如何去中心化的在链下存储？](https://toutiao.io/k/43w7xzr) 
+- [2022-11-03-手撸源码系列：-cache2go](https://toutiao.io/k/9wmhmbx) 
 - [2022-11-03-10-分钟彻底搞懂-Flink-流数据传输原理](https://toutiao.io/k/hh69je5) 
 - [2022-11-03-如何免安装使用-Python？推荐-17-个在线的-Python-解释器！](https://toutiao.io/k/9yb6r1p) 
 - [2022-11-03-独立开发变现周刊（第76期）：一款两性关系治愈类iPhone应用是如何盈利的？](https://toutiao.io/k/mdlsjva) 

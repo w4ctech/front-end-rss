@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-03 05:03:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-03 05:43:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1915,6 +1915,8 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-11-03-Universal-Control-最低要求-macOS-什么版本？](https://www.v2ex.com/t/892348) 
+- [2022-11-03-macos-通用控制-iPad-的两个问题](https://www.v2ex.com/t/892347) 
 - [2022-11-03-使用-nix-包管理器解决-glibc-兼容问题](https://www.v2ex.com/t/892346) 
 - [2022-11-03-现在主流的群聊-app-技术是什么？怎么实现质检的？](https://www.v2ex.com/t/892344) 
 - [2022-11-03-求推荐后端程序员易于上手的前端框架](https://www.v2ex.com/t/892342) 
@@ -1924,7 +1926,6 @@
 - [2022-11-03-最近机械硬盘，每次开机都会自检，工具检查很多坏道了，求推荐性价比高点的机械硬盘。](https://www.v2ex.com/t/892335) 
 - [2022-11-03-Raid5-三块磁盘，一块掉了，一块被我不小心标记为-faulty，如何恢复？](https://www.v2ex.com/t/892332) 
 - [2022-11-03-有什么与-third-part-同步类型的框架或者解决方案吗？](https://www.v2ex.com/t/892331) 
-- [2022-11-03-Surge-Mac-开车](https://www.v2ex.com/t/892330) 
 - [2022-11-03-想请教各位，-监控网络延迟用什么软件](https://www.v2ex.com/t/892329) 
 - [2022-11-03-老哥们，接的外包财务必须要求公对公签合同了，这一时半会上哪找去](https://www.v2ex.com/t/892328) 
 - [2022-11-03-最近支付宝的学生认证没了](https://www.v2ex.com/t/892327) 
@@ -1936,7 +1937,6 @@
 - [2022-11-03-腾讯云才是套路云吧？](https://www.v2ex.com/t/892320) 
 - [2022-11-03-Paypal-不能换-IP-登录么](https://www.v2ex.com/t/892316) 
 - [2022-11-03-阿里云老用户新购服务器低至-3.6-折-新用户-50-元/年](https://www.v2ex.com/t/892315) 
-- [2022-11-03-V2EX-里-RUN-氛围这么浓么？](https://www.v2ex.com/t/892314) 
 - [2022-11-03-家里宽带用了-4-年的公网-IP-突然被回收了，该怎么办？](https://www.v2ex.com/t/892313) 
 - [2022-11-03-开源的无代码平台-NocoBase-开始提供插件管理器和开发文档，请大家帮忙试用](https://www.v2ex.com/t/892312) 
 - [2022-11-03-老年痴呆症+被害妄想症](https://www.v2ex.com/t/892308) 
@@ -1944,9 +1944,6 @@
 - [2022-11-03-华硕博通系列无法跑满千兆求助](https://www.v2ex.com/t/892305) 
 - [2022-11-03-Mac-ventura-你们有这个问题吗？-cpu-经常被他用到-50+](https://www.v2ex.com/t/892304) 
 - [2022-11-03-Tomcat-调优之从-Linux-内核源码层面看-Tcp-backlog](https://www.v2ex.com/t/892300) 
-- [2022-11-03-广州穗岁康可以新一年的续费了？-180-元一年，考虑续费吗](https://www.v2ex.com/t/892299) 
-- [2022-11-03-企业的-ipsec-断了](https://www.v2ex.com/t/892298) 
-- [2022-11-03-Windows11-可以快捷键打开《请勿打扰》吗？](https://www.v2ex.com/t/892297) 
 - [2022-11-03-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-03-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-03-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

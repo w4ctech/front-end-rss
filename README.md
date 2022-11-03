@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-03 05:03:23，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-03 05:43:33，:rocket: 更新条数: +2017， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-11-03-单设备长期少折腾的路由器有推荐的吗](https://www.v2ex.com/t/892349) ![](assets/new.png)  
+- [2022-11-03-Universal-Control-最低要求-macOS-什么版本？](https://www.v2ex.com/t/892348) ![](assets/new.png)  
+- [2022-11-03-macos-通用控制-iPad-的两个问题](https://www.v2ex.com/t/892347) ![](assets/new.png)  
 - [2022-11-03-使用-nix-包管理器解决-glibc-兼容问题](https://www.v2ex.com/t/892346) ![](assets/new.png)  
 - [2022-11-03-现在主流的群聊-app-技术是什么？怎么实现质检的？](https://www.v2ex.com/t/892344) ![](assets/new.png)  
 - [2022-11-03-华硕路由器-NAT-类型问题](https://www.v2ex.com/t/892343) ![](assets/new.png)  
@@ -503,14 +506,11 @@
 - [2022-11-03-请教一个问题，关于微信的小程序可以转-H5-吗？](https://www.v2ex.com/t/892334) ![](assets/new.png)  
 - [2022-11-03-Raid5-三块磁盘，一块掉了，一块被我不小心标记为-faulty，如何恢复？](https://www.v2ex.com/t/892332) ![](assets/new.png)  
 - [2022-11-03-有什么与-third-part-同步类型的框架或者解决方案吗？](https://www.v2ex.com/t/892331) ![](assets/new.png)  
-- [2022-11-03-Surge-Mac-开车](https://www.v2ex.com/t/892330) ![](assets/new.png)  
 - [2022-11-03-想请教各位，-监控网络延迟用什么软件](https://www.v2ex.com/t/892329) ![](assets/new.png)  
 - [2022-11-03-老哥们，接的外包财务必须要求公对公签合同了，这一时半会上哪找去](https://www.v2ex.com/t/892328) ![](assets/new.png)  
 - [2022-11-03-最近支付宝的学生认证没了](https://www.v2ex.com/t/892327) ![](assets/new.png)  
 - [2022-11-03-请教一下，最近电信网无法连接到任何境外网站](https://www.v2ex.com/t/892326) ![](assets/new.png)  
 - [2022-11-03-解决-Windows-下百度网盘启动速度极慢的方法](https://www.v2ex.com/t/892325) ![](assets/new.png)  
-- [2022-11-03-求推荐旁路有配置](https://www.v2ex.com/t/892324) ![](assets/new.png)  
-- [2022-11-03-公司注册资本由-100-万变为一万，是要跑路的前奏吗](https://www.v2ex.com/t/892323) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

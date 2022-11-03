@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-03 04:12:02，:rocket: 更新条数: +2020， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-03 05:03:23，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-11-03-使用-nix-包管理器解决-glibc-兼容问题](https://www.v2ex.com/t/892346) ![](assets/new.png)  
+- [2022-11-03-现在主流的群聊-app-技术是什么？怎么实现质检的？](https://www.v2ex.com/t/892344) ![](assets/new.png)  
+- [2022-11-03-华硕路由器-NAT-类型问题](https://www.v2ex.com/t/892343) ![](assets/new.png)  
+- [2022-11-03-求推荐后端程序员易于上手的前端框架](https://www.v2ex.com/t/892342) ![](assets/new.png)  
 - [2022-11-03-iPad-网络不如-iPhone-吗？](https://www.v2ex.com/t/892341) ![](assets/new.png)  
 - [2022-11-03-广州西门口工作，住同德还是鹅掌坦呀](https://www.v2ex.com/t/892339) ![](assets/new.png)  
 - [2022-11-03-应该上哪投诉-中邮海外购-这类-转运-企业？](https://www.v2ex.com/t/892338) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-11-03-解决-Windows-下百度网盘启动速度极慢的方法](https://www.v2ex.com/t/892325) ![](assets/new.png)  
 - [2022-11-03-求推荐旁路有配置](https://www.v2ex.com/t/892324) ![](assets/new.png)  
 - [2022-11-03-公司注册资本由-100-万变为一万，是要跑路的前奏吗](https://www.v2ex.com/t/892323) ![](assets/new.png)  
-- [2022-11-03-最近家里的光猫老断网](https://www.v2ex.com/t/892322) ![](assets/new.png)  
-- [2022-11-03-腾讯云才是套路云吧？](https://www.v2ex.com/t/892320) ![](assets/new.png)  
-- [2022-11-03-索尼电视自带的百兆网口，读取-4K-视频够用吗？](https://www.v2ex.com/t/892319) ![](assets/new.png)  
-- [2022-11-03-Paypal-不能换-IP-登录么](https://www.v2ex.com/t/892316) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

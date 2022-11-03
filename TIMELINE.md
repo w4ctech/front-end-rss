@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-03 04:12:03。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-03 05:03:23。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,10 @@
 </summary>
 
 
+- [【V2EX】2022-11-03-使用-nix-包管理器解决-glibc-兼容问题](https://www.v2ex.com/t/892346) 
+- [【V2EX】2022-11-03-现在主流的群聊-app-技术是什么？怎么实现质检的？](https://www.v2ex.com/t/892344) 
+- [【V2EX】2022-11-03-华硕路由器-NAT-类型问题](https://www.v2ex.com/t/892343) 
+- [【V2EX】2022-11-03-求推荐后端程序员易于上手的前端框架](https://www.v2ex.com/t/892342) 
 - [【V2EX】2022-11-03-iPad-网络不如-iPhone-吗？](https://www.v2ex.com/t/892341) 
 - [【V2EX】2022-11-03-广州西门口工作，住同德还是鹅掌坦呀](https://www.v2ex.com/t/892339) 
 - [【V2EX】2022-11-03-应该上哪投诉-中邮海外购-这类-转运-企业？](https://www.v2ex.com/t/892338) 
@@ -104,11 +108,6 @@
 - [【V2EX】2022-11-03-广州穗岁康可以新一年的续费了？-180-元一年，考虑续费吗](https://www.v2ex.com/t/892299) 
 - [【V2EX】2022-11-03-企业的-ipsec-断了](https://www.v2ex.com/t/892298) 
 - [【V2EX】2022-11-03-Windows11-可以快捷键打开《请勿打扰》吗？](https://www.v2ex.com/t/892297) 
-- [【V2EX】2022-11-03-MacOs-13-如何让-stage-manager-只对某一个-space-生效](https://www.v2ex.com/t/892296) 
-- [【V2EX】2022-11-03-腾讯云香港云服务器，经常连不上](https://www.v2ex.com/t/892295) 
-- [【V2EX】2022-11-03-被薛定谔的裁员，请教如何应对？](https://www.v2ex.com/t/892294) 
-- [【V2EX】2022-11-03-阿里云双-11-消费礼品活动](https://www.v2ex.com/t/892293) 
-- [【V2EX】2022-11-03-想入手-mbp，不知哪个渠道更靠谱？](https://www.v2ex.com/t/892292) 
 - [【技术头条】2022-11-03-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-03-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-03-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

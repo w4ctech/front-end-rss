@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-03 21:13:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-03 21:36:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1915,6 +1915,7 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-11-03-Seafile-配合-iCloud-还挺好用](https://www.v2ex.com/t/892521) 
 - [2022-11-03-前端初学-SQL，求帮忙修改一个简单-MySQL-联查语句](https://www.v2ex.com/t/892520) 
 - [2022-11-03-强力球的头奖奖金已经增加到-15-亿美元了](https://www.v2ex.com/t/892519) 
 - [2022-11-03-豆列（豆瓣合集）是否有按评分、评论数排序的增强功能？](https://www.v2ex.com/t/892518) 
@@ -1947,7 +1948,6 @@
 - [2022-11-03-有没有好用的-Windows-剪贴板](https://www.v2ex.com/t/892475) 
 - [2022-11-03-求一份-小米电视-1-升级包或救砖包](https://www.v2ex.com/t/892474) 
 - [2022-11-03-征名-20-红包求助一个期刊论文的征名](https://www.v2ex.com/t/892472) 
-- [2022-11-03-CAReportingService-是个啥？内存拉满了](https://www.v2ex.com/t/892471) 
 - [2022-11-03-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-03-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-03-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

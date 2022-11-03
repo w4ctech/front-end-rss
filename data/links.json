@@ -9953,6 +9953,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "我的 login item 有两项很奇怪的 item,看起来是国内公司 app,但是在进程和 find 里面都找不到",
+        "link": "https://www.v2ex.com/t/892522",
+        "date": "2022-11-03"
+      },
+      {
         "title": "Seafile 配合 iCloud 还挺好用",
         "link": "https://www.v2ex.com/t/892521",
         "date": "2022-11-03"
@@ -10146,11 +10151,6 @@
         "title": "单页 html 加上密码的这种方式安全吗？",
         "link": "https://www.v2ex.com/t/892473",
         "date": "2022-11-03"
-      },
-      {
-        "title": "[征名] 20 红包求助一个期刊论文的征名",
-        "link": "https://www.v2ex.com/t/892472",
-        "date": "2022-11-03"
       }
     ]
   },
@@ -10332,13 +10332,13 @@
         "date": "2022-11-03"
       },
       {
-        "title": "独立开发变现周刊（第76期）：一款两性关系治愈类iPhone应用是如何盈利的？",
-        "link": "https://toutiao.io/k/mdlsjva",
+        "title": "多图深入理解 Redis",
+        "link": "https://toutiao.io/k/ta6vh93",
         "date": "2022-11-03"
       },
       {
-        "title": "多图深入理解 Redis",
-        "link": "https://toutiao.io/k/ta6vh93",
+        "title": "独立开发变现周刊（第76期）：一款两性关系治愈类iPhone应用是如何盈利的？",
+        "link": "https://toutiao.io/k/mdlsjva",
         "date": "2022-11-03"
       },
       {

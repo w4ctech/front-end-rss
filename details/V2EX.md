@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-11-03 22:13:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-03 22:40:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-11-03-我的-login-item-有两项很奇怪的-item,看起来是国内公司-app,但是在进程和-find-里面都找不到](https://www.v2ex.com/t/892522) 
 - [2022-11-03-Seafile-配合-iCloud-还挺好用](https://www.v2ex.com/t/892521) 
 - [2022-11-03-前端初学-SQL，求帮忙修改一个简单-MySQL-联查语句](https://www.v2ex.com/t/892520) 
 - [2022-11-03-强力球的头奖奖金已经增加到-15-亿美元了](https://www.v2ex.com/t/892519) 
@@ -44,4 +45,3 @@
 - [2022-11-03-有没有好用的-Windows-剪贴板](https://www.v2ex.com/t/892475) 
 - [2022-11-03-求一份-小米电视-1-升级包或救砖包](https://www.v2ex.com/t/892474) 
 - [2022-11-03-单页-html-加上密码的这种方式安全吗？](https://www.v2ex.com/t/892473) 
-- [2022-11-03-征名-20-红包求助一个期刊论文的征名](https://www.v2ex.com/t/892472) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-03 22:13:57，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-03 22:40:09，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-11-03-我的-login-item-有两项很奇怪的-item,看起来是国内公司-app,但是在进程和-find-里面都找不到](https://www.v2ex.com/t/892522) ![](assets/new.png)  
 - [2022-11-03-Seafile-配合-iCloud-还挺好用](https://www.v2ex.com/t/892521) ![](assets/new.png)  
 - [2022-11-03-前端初学-SQL，求帮忙修改一个简单-MySQL-联查语句](https://www.v2ex.com/t/892520) ![](assets/new.png)  
 - [2022-11-03-强力球的头奖奖金已经增加到-15-亿美元了](https://www.v2ex.com/t/892519) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-11-03-感觉这个视频讲-web3-挺清楚的](https://www.v2ex.com/t/892502) ![](assets/new.png)  
 - [2022-11-03-这个视频我要笑死了，行为艺术](https://www.v2ex.com/t/892501) ![](assets/new.png)  
 - [2022-11-03-你们碰到过什么有意思的-TG-群](https://www.v2ex.com/t/892500) ![](assets/new.png)  
-- [2022-11-03-手头有两本书，先看哪一本比较好？](https://www.v2ex.com/t/892499) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -566,8 +566,8 @@
 - [2022-11-03-10-分钟彻底搞懂-Flink-流数据传输原理](https://toutiao.io/k/hh69je5) ![](assets/new.png)  
 - [2022-11-03-如何免安装使用-Python？推荐-17-个在线的-Python-解释器！](https://toutiao.io/k/9yb6r1p) ![](assets/new.png)  
 - [2022-11-03-刘润2022年度演讲：在公域，用钱购买流量；在私域，用心经营信任](https://toutiao.io/k/5w1r5m0) ![](assets/new.png)  
-- [2022-11-03-独立开发变现周刊（第76期）：一款两性关系治愈类iPhone应用是如何盈利的？](https://toutiao.io/k/mdlsjva) ![](assets/new.png)  
 - [2022-11-03-多图深入理解-Redis](https://toutiao.io/k/ta6vh93) ![](assets/new.png)  
+- [2022-11-03-独立开发变现周刊（第76期）：一款两性关系治愈类iPhone应用是如何盈利的？](https://toutiao.io/k/mdlsjva) ![](assets/new.png)  
 - [2022-11-03-推荐-网易经验规整：ClickHouse-开发与使用规范大全](https://toutiao.io/k/nprygo2) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

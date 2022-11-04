@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-04 06:49:10。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-04 07:14:04。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,14 @@
 </summary>
 
 
+- [【V2EX】2022-11-04-分享一下搬新家的网络解决方案，拉满了](https://www.v2ex.com/t/892663) 
+- [【V2EX】2022-11-04-写了一个投胎模拟器](https://www.v2ex.com/t/892662) 
+- [【V2EX】2022-11-04-华为出-3-年服务器活动，-2-核-4g5m3-年-1093，最大-16-核-64g10m](https://www.v2ex.com/t/892661) 
+- [【V2EX】2022-11-04-macbook-pro-14-2021-双-dp-扩展有低成本方案吗](https://www.v2ex.com/t/892660) 
+- [【V2EX】2022-11-04-双层夹胶玻璃对有开窗需求的阳台和饭厅，是否有减少低频噪音的效果？](https://www.v2ex.com/t/892659) 
+- [【V2EX】2022-11-04-yt-dlp-下载最高画质问题](https://www.v2ex.com/t/892658) 
+- [【V2EX】2022-11-04-最近京东人工一直是-人工客服繁忙](https://www.v2ex.com/t/892657) 
+- [【V2EX】2022-11-04-微信宣布上线搜索结果广告](https://www.v2ex.com/t/892656) 
 - [【V2EX】2022-11-04-新买的-K50-至尊版坚持不了一天正常么？](https://www.v2ex.com/t/892655) 
 - [【V2EX】2022-11-04-请问各位大佬，干技术的人如果想拍短视频有什么方向呢？直播写代码？](https://www.v2ex.com/t/892654) 
 - [【V2EX】2022-11-04-Java-on-Azure-Tooling-的更新-–-2022-年-10-月-最新的路线图和-Azure-Functions-Deployment-Slot-支持](https://www.v2ex.com/t/892653) 
@@ -93,11 +101,6 @@
 - [【V2EX】2022-11-04-8-年+-Java-1-年+rust-求远程](https://www.v2ex.com/t/892618) 
 - [【V2EX】2022-11-04-广州---腰椎间盘突出，应不应该去做微创手术？](https://www.v2ex.com/t/892616) 
 - [【V2EX】2022-11-04-flutter+go-写了个下载器，全平台可以用，支持-http-和-bt-协议](https://www.v2ex.com/t/892614) 
-- [【V2EX】2022-11-04-vue-router-居然在小版本号中引入破坏性更改](https://www.v2ex.com/t/892613) 
-- [【V2EX】2022-11-04-iPhone-13-半夜自动重启问题](https://www.v2ex.com/t/892611) 
-- [【V2EX】2022-11-04-onionshare-每次关闭都会闪过一个弹窗，-signal-电脑版二维码加载不出来](https://www.v2ex.com/t/892610) 
-- [【V2EX】2022-11-04-数字货币量化交易课程推荐](https://www.v2ex.com/t/892609) 
-- [【V2EX】2022-11-04-突然发现-V2EX-的经济系统很有趣](https://www.v2ex.com/t/892606) 
 - [【技术头条】2022-11-04-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-04-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-04-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -128,8 +131,8 @@
 - [【开发者头条】2022-11-04-RocksDB-7-终于解决了-Compaction-时性能下降问题](https://toutiao.io/k/1h7uror) 
 - [【开发者头条】2022-11-04-Go-大佬良心发现，愿意给-map-加清除了？](https://toutiao.io/k/51qc8cp) 
 - [【开发者头条】2022-11-04-图数据-3D-可视化在-Explorer-中的应用](https://toutiao.io/k/w06q7ne) 
-- [【开发者头条】2022-11-04-Swift-Package-Manager-工程实践](https://toutiao.io/k/15b3gnj) 
 - [【开发者头条】2022-11-04-.NET-零开销抽象指南](https://toutiao.io/k/56ej42c) 
+- [【开发者头条】2022-11-04-Swift-Package-Manager-工程实践](https://toutiao.io/k/15b3gnj) 
 - [【开发者头条】2022-11-04-golang-源码分析：json格式请求grpc服务](https://toutiao.io/k/pr0kwwx) 
 - [【开发者头条】2022-11-04-双11前系统如何做好高可用](https://toutiao.io/k/huk9zfa) 
 - [【开发者头条】2022-11-04-聊聊运营活动的设计与实现逻辑](https://toutiao.io/k/dznftw6) 

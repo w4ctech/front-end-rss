@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-04 08:50:35。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-04 09:14:24。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,15 @@
 </summary>
 
 
+- [【V2EX】2022-11-04-新一代-CI-即将到来！](https://www.v2ex.com/t/892731) 
+- [【V2EX】2022-11-04-国外服务器加国内-cdn，面向国内用户使用，这样会有什么问题吗？](https://www.v2ex.com/t/892729) 
+- [【V2EX】2022-11-04-最近很火的-LG-C2-42-寸可能并不适合作为显示器来用，别被那些视频博主忽悠了](https://www.v2ex.com/t/892728) 
+- [【V2EX】2022-11-04-GitHub-Sponsor-💗-but-using-Crypto...](https://www.v2ex.com/t/892726) 
+- [【V2EX】2022-11-04-求小程序可以接的高精度地图：百度、高德腾讯在农村精度不够。](https://www.v2ex.com/t/892725) 
+- [【V2EX】2022-11-04-怎么获取雀魂里的数据](https://www.v2ex.com/t/892724) 
+- [【V2EX】2022-11-04-最近国家大力扶持新能源行业，转行投资开个电动车电池工厂有木有前景](https://www.v2ex.com/t/892723) 
+- [【V2EX】2022-11-04-求教，-24-小时过期删除思路](https://www.v2ex.com/t/892722) 
+- [【V2EX】2022-11-04-中国大陆地区到-Vultr-全球机房简单测试](https://www.v2ex.com/t/892720) 
 - [【V2EX】2022-11-04-聊聊东南亚工作，大家会考虑往东南亚发展吗？](https://www.v2ex.com/t/892719) 
 - [【V2EX】2022-11-04-发现个好东西](https://www.v2ex.com/t/892717) 
 - [【V2EX】2022-11-04-求助！求推荐好用的视频资料整理软件](https://www.v2ex.com/t/892716) 
@@ -102,15 +111,6 @@
 - [【V2EX】2022-11-04-现在海淘邮寄有什么新政策吗?](https://www.v2ex.com/t/892684) 
 - [【V2EX】2022-11-04-各位有了解咖啡机的吗？](https://www.v2ex.com/t/892683) 
 - [【V2EX】2022-11-04-GitHub-Copilot-被告了，喜提集体诉讼](https://www.v2ex.com/t/892682) 
-- [【V2EX】2022-11-04-嵌入式开发工程师-成熟商业模式公司，薪资多多、福利多多，直接内推，通过率高。欢迎投递简历-hr@cece.com](https://www.v2ex.com/t/892681) 
-- [【V2EX】2022-11-04-Model-Y-一年记](https://www.v2ex.com/t/892680) 
-- [【V2EX】2022-11-04-用go写telegram的-bot-连不上-API](https://www.v2ex.com/t/892679) 
-- [【V2EX】2022-11-04-其他技术也属于-Java-后端岗位的范畴吗](https://www.v2ex.com/t/892678) 
-- [【V2EX】2022-11-04-招募海外软件运营人员-1-名](https://www.v2ex.com/t/892677) 
-- [【V2EX】2022-11-04-智慧校园、智慧酒店有哪些成熟方案和头部供应商？](https://www.v2ex.com/t/892676) 
-- [【V2EX】2022-11-04-古人的感悟-今人的迷惑](https://www.v2ex.com/t/892672) 
-- [【V2EX】2022-11-04-有没有轻一些的安卓性能机](https://www.v2ex.com/t/892671) 
-- [【V2EX】2022-11-04-你觉得-2022-年度值得买的电子产品有哪些？](https://www.v2ex.com/t/892670) 
 - [【技术头条】2022-11-04-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-04-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-04-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

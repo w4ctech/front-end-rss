@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-11-04 08:50:35。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-04 09:14:24。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -123,6 +123,7 @@
 
 
 
+- [【V2EX】求小程序可以接的高精度地图：百度、高德腾讯在农村精度不够。](https://www.v2ex.com/t/892725)
 - [......【查看更多】......](./details/tags/miniprogram.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -235,6 +236,7 @@
 
 - [【武汉肺炎防疫全纪录(财新网)】广州17岁男生在定点医院参加高考-特殊考场视频监考](https://m.caixin.com/m/2021-06-05/101723418.html)
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
+- [【V2EX】最近很火的-LG-C2-42-寸可能并不适合作为显示器来用，别被那些视频博主忽悠了](https://www.v2ex.com/t/892728)
 - [【V2EX】求助！求推荐好用的视频资料整理软件](https://www.v2ex.com/t/892716)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
@@ -252,7 +254,6 @@
 
 
 
-- [【V2EX】有没有轻一些的安卓性能机](https://www.v2ex.com/t/892671)
 - [【开发者头条】每个-C++-工程师都要了解的十个性能陷阱](https://toutiao.io/k/s1p9biy)
 - [【开发者头条】RocksDB-7-终于解决了-Compaction-时性能下降问题](https://toutiao.io/k/1h7uror)
 - [......【查看更多】......](./details/tags/optimization.md)
@@ -329,6 +330,7 @@
 
 
 - [【张鑫旭-鑫空间-鑫生活】gitee上撸了个类似飞书OKR输入框的@提及项目](https://www.zhangxinxu.com/wordpress/2022/08/gitee-feishu-okr-at-mention/)
+- [【V2EX】GitHub-Sponsor-💗-but-using-Crypto...](https://www.v2ex.com/t/892726)
 - [【V2EX】GitHub-copilot-扣费](https://www.v2ex.com/t/892708)
 - [【V2EX】GitHub-Copilot-被告了，喜提集体诉讼](https://www.v2ex.com/t/892682)
 - [......【查看更多】......](./details/tags/git-svn.md)

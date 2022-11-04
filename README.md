@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-04 08:20:24，:rocket: 更新条数: +2023， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-04 08:50:35，:rocket: 更新条数: +2025， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,26 +491,26 @@
 </summary>
 
 
+- [2022-11-04-聊聊东南亚工作，大家会考虑往东南亚发展吗？](https://www.v2ex.com/t/892719) ![](assets/new.png)  
+- [2022-11-04-发现个好东西](https://www.v2ex.com/t/892717) ![](assets/new.png)  
+- [2022-11-04-求助！求推荐好用的视频资料整理软件](https://www.v2ex.com/t/892716) ![](assets/new.png)  
+- [2022-11-04-Netgear-路由器刷机](https://www.v2ex.com/t/892715) ![](assets/new.png)  
+- [2022-11-04-VS-Code-的安装的扩展程序中的命令如何在-Terminal-中运行?](https://www.v2ex.com/t/892714) ![](assets/new.png)  
+- [2022-11-04-Windows-10-C-盘经常突然被塞满怎么办](https://www.v2ex.com/t/892713) ![](assets/new.png)  
+- [2022-11-04-新版-LeetCode-的界面里面如何查看用时和自己一样的代码？](https://www.v2ex.com/t/892711) ![](assets/new.png)  
+- [2022-11-04-Ubuntu-Rime-输入法两个问题](https://www.v2ex.com/t/892710) ![](assets/new.png)  
+- [2022-11-04-求助-65532-是如何转成-float--0.02-这个数的](https://www.v2ex.com/t/892709) ![](assets/new.png)  
+- [2022-11-04-GitHub-copilot-扣费](https://www.v2ex.com/t/892708) ![](assets/new.png)  
+- [2022-11-04-中亚也可以买-ATV-了](https://www.v2ex.com/t/892707) ![](assets/new.png)  
+- [2022-11-04-送小孩礼物](https://www.v2ex.com/t/892706) ![](assets/new.png)  
+- [2022-11-04-开源论坛软件推荐（node.js/React/Sqlite）无依赖一键部署启动](https://www.v2ex.com/t/892705) ![](assets/new.png)  
+- [2022-11-04-大家是怎么养自己的征信的？](https://www.v2ex.com/t/892704) ![](assets/new.png)  
+- [2022-11-04-nbio-近期的一些功能更新，来骗点-star](https://www.v2ex.com/t/892703) ![](assets/new.png)  
+- [2022-11-04-关于-wpf-文件打包-exe-的问题](https://www.v2ex.com/t/892702) ![](assets/new.png)  
+- [2022-11-04-请教一个-Eth-合约调用-Gas-的计算问题.](https://www.v2ex.com/t/892701) ![](assets/new.png)  
+- [2022-11-04-必须要提前一个月提出辞职申请吗？](https://www.v2ex.com/t/892700) ![](assets/new.png)  
 - [2022-11-04-台区-am-发车](https://www.v2ex.com/t/892699) ![](assets/new.png)  
 - [2022-11-04-nodejs-写的后端-常驻内存Rss慢慢增长很高-请问一下如何排查是什么出了问题呢](https://www.v2ex.com/t/892698) ![](assets/new.png)  
-- [2022-11-04-Java-on-Azure-Tooling-的更新-–-2022-年-10-月-最新的路线图与-Azure-Functions-Deployment-Slot-支持](https://www.v2ex.com/t/892697) ![](assets/new.png)  
-- [2022-11-04-汽车贴扎堆，我也凑个热闹来和大家收集和分享一下今年买到的好用的车用品](https://www.v2ex.com/t/892695) ![](assets/new.png)  
-- [2022-11-04-南半球的-Apple-产品能在北半球直接使用吗，物理渣请教！](https://www.v2ex.com/t/892694) ![](assets/new.png)  
-- [2022-11-04-华强北的山寨苹果耳机是咋回事](https://www.v2ex.com/t/892693) ![](assets/new.png)  
-- [2022-11-04-以系统休眠（挂起到硬盘）的方式，-Win-与-Linux-之间"半重启"切换？（相当于暂停一个系统）](https://www.v2ex.com/t/892692) ![](assets/new.png)  
-- [2022-11-04-求推荐电话卡/流量卡](https://www.v2ex.com/t/892690) ![](assets/new.png)  
-- [2022-11-04-有什么好用的汇率查询-API？](https://www.v2ex.com/t/892689) ![](assets/new.png)  
-- [2022-11-04-Model-Y-21-款标续开了一年了，有什么想问的吗](https://www.v2ex.com/t/892688) ![](assets/new.png)  
-- [2022-11-04-求助！请推荐一个可以给-airpods-更换电池的靠谱淘宝店铺](https://www.v2ex.com/t/892687) ![](assets/new.png)  
-- [2022-11-04-腾讯云优惠服务器购买](https://www.v2ex.com/t/892686) ![](assets/new.png)  
-- [2022-11-04-电瓶车电池被迫要拿到屋里充电-焦虑](https://www.v2ex.com/t/892685) ![](assets/new.png)  
-- [2022-11-04-现在海淘邮寄有什么新政策吗?](https://www.v2ex.com/t/892684) ![](assets/new.png)  
-- [2022-11-04-各位有了解咖啡机的吗？](https://www.v2ex.com/t/892683) ![](assets/new.png)  
-- [2022-11-04-GitHub-Copilot-被告了，喜提集体诉讼](https://www.v2ex.com/t/892682) ![](assets/new.png)  
-- [2022-11-04-嵌入式开发工程师-成熟商业模式公司，薪资多多、福利多多，直接内推，通过率高。欢迎投递简历-hr@cece.com](https://www.v2ex.com/t/892681) ![](assets/new.png)  
-- [2022-11-04-Model-Y-一年记](https://www.v2ex.com/t/892680) ![](assets/new.png)  
-- [2022-11-04-用go写telegram的-bot-连不上-API](https://www.v2ex.com/t/892679) ![](assets/new.png)  
-- [2022-11-04-其他技术也属于-Java-后端岗位的范畴吗](https://www.v2ex.com/t/892678) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

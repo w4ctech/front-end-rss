@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-04 16:57:40。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-04 17:18:45。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,8 @@
 </summary>
 
 
+- [【V2EX】2022-11-04-在公网-IPv4-严重缺乏的今天，最简单的获取方式是连接上海的公共-WiFi](https://www.v2ex.com/t/892826) 
+- [【V2EX】2022-11-04-这种-Z-形的笔记本支架-真的耐久吗](https://www.v2ex.com/t/892825) 
 - [【V2EX】2022-11-04-你们怎么管理自己的-leetcode-代码？](https://www.v2ex.com/t/892824) 
 - [【V2EX】2022-11-04-只封端口不封-IP，还有等的必要嘛](https://www.v2ex.com/t/892823) 
 - [【V2EX】2022-11-04-有了解香港“高端人才通行證計劃”的吗？](https://www.v2ex.com/t/892820) 
@@ -103,7 +105,6 @@
 - [【V2EX】2022-11-04-amd-大降价!，历史第一次。](https://www.v2ex.com/t/892780) 
 - [【V2EX】2022-11-04-音乐社交是一个不存在的概念](https://www.v2ex.com/t/892779) 
 - [【V2EX】2022-11-04-旁路由用-r70se-还是-mac-mini+surge](https://www.v2ex.com/t/892778) 
-- [【V2EX】2022-11-04-请问-B-站-TV-版（第三方）是不是只能看-360P-了？](https://www.v2ex.com/t/892775) 
 - [【技术头条】2022-11-04-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-04-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-04-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -139,8 +140,8 @@
 - [【开发者头条】2022-11-04-Swift-Package-Manager-工程实践](https://toutiao.io/k/15b3gnj) 
 - [【开发者头条】2022-11-04-golang-源码分析：json格式请求grpc服务](https://toutiao.io/k/pr0kwwx) 
 - [【开发者头条】2022-11-04-聊聊运营活动的设计与实现逻辑](https://toutiao.io/k/dznftw6) 
-- [【开发者头条】2022-11-04-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) 
 - [【开发者头条】2022-11-04-推荐-网易经验规整：ClickHouse-开发与使用规范大全](https://toutiao.io/k/nprygo2) 
+- [【开发者头条】2022-11-04-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

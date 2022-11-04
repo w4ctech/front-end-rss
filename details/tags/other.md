@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-04 16:57:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-04 17:18:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1915,6 +1915,8 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-11-04-在公网-IPv4-严重缺乏的今天，最简单的获取方式是连接上海的公共-WiFi](https://www.v2ex.com/t/892826) 
+- [2022-11-04-这种-Z-形的笔记本支架-真的耐久吗](https://www.v2ex.com/t/892825) 
 - [2022-11-04-你们怎么管理自己的-leetcode-代码？](https://www.v2ex.com/t/892824) 
 - [2022-11-04-只封端口不封-IP，还有等的必要嘛](https://www.v2ex.com/t/892823) 
 - [2022-11-04-有了解香港“高端人才通行證計劃”的吗？](https://www.v2ex.com/t/892820) 
@@ -1944,7 +1946,6 @@
 - [2022-11-04-最近收到-3-次说是-JD-客服打过来说要注销金条的电话，就没人管管吗？](https://www.v2ex.com/t/892781) 
 - [2022-11-04-amd-大降价!，历史第一次。](https://www.v2ex.com/t/892780) 
 - [2022-11-04-音乐社交是一个不存在的概念](https://www.v2ex.com/t/892779) 
-- [2022-11-04-请问-B-站-TV-版（第三方）是不是只能看-360P-了？](https://www.v2ex.com/t/892775) 
 - [2022-11-04-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-04-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-04-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1972,5 +1973,5 @@
 - [2022-11-04-.NET-零开销抽象指南](https://toutiao.io/k/56ej42c) 
 - [2022-11-04-Swift-Package-Manager-工程实践](https://toutiao.io/k/15b3gnj) 
 - [2022-11-04-聊聊运营活动的设计与实现逻辑](https://toutiao.io/k/dznftw6) 
-- [2022-11-04-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) 
 - [2022-11-04-推荐-网易经验规整：ClickHouse-开发与使用规范大全](https://toutiao.io/k/nprygo2) 
+- [2022-11-04-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) 

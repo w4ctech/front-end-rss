@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-04 16:57:40，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-04 17:18:45，:rocket: 更新条数: +2020， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-11-04-在公网-IPv4-严重缺乏的今天，最简单的获取方式是连接上海的公共-WiFi](https://www.v2ex.com/t/892826) ![](assets/new.png)  
+- [2022-11-04-这种-Z-形的笔记本支架-真的耐久吗](https://www.v2ex.com/t/892825) ![](assets/new.png)  
 - [2022-11-04-你们怎么管理自己的-leetcode-代码？](https://www.v2ex.com/t/892824) ![](assets/new.png)  
 - [2022-11-04-只封端口不封-IP，还有等的必要嘛](https://www.v2ex.com/t/892823) ![](assets/new.png)  
 - [2022-11-04-有了解香港“高端人才通行證計劃”的吗？](https://www.v2ex.com/t/892820) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-11-04-30-岁-ui-设计师想留学移民，该继续读设计还是转行做前端或者软件开发呢](https://www.v2ex.com/t/892804) ![](assets/new.png)  
 - [2022-11-04-疫情期间的跨省搬家有人有经验吗](https://www.v2ex.com/t/892802) ![](assets/new.png)  
 - [2022-11-04-三年多-C++-简历求指导-&-求职-&-职业规划困惑](https://www.v2ex.com/t/892801) ![](assets/new.png)  
-- [2022-11-04-很想买一款墨水屏平板电脑，有用过的说说，会沦落到吃灰的命运吗？](https://www.v2ex.com/t/892800) ![](assets/new.png)  
-- [2022-11-04-基于-chrome-开发的应用系统,-没人维护简直是灾难](https://www.v2ex.com/t/892799) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -568,8 +568,8 @@
 - [2022-11-04-Swift-Package-Manager-工程实践](https://toutiao.io/k/15b3gnj) ![](assets/new.png)  
 - [2022-11-04-golang-源码分析：json格式请求grpc服务](https://toutiao.io/k/pr0kwwx) ![](assets/new.png)  
 - [2022-11-04-聊聊运营活动的设计与实现逻辑](https://toutiao.io/k/dznftw6) ![](assets/new.png)  
-- [2022-11-04-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) ![](assets/new.png)  
 - [2022-11-04-推荐-网易经验规整：ClickHouse-开发与使用规范大全](https://toutiao.io/k/nprygo2) ![](assets/new.png)  
+- [2022-11-04-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

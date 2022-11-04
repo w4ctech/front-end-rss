@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-04 09:40:26，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-04 10:16:25，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,13 @@
 </summary>
 
 
+- [2022-11-04-go-写业务，也可以很简单](https://www.v2ex.com/t/892750) ![](assets/new.png)  
+- [2022-11-04-好烦呀-Zlib-寄寄了](https://www.v2ex.com/t/892749) ![](assets/new.png)  
+- [2022-11-04-是否转向-vr/ar/mr-行业](https://www.v2ex.com/t/892748) ![](assets/new.png)  
+- [2022-11-04-mac-command-+-tab-有时候不显示](https://www.v2ex.com/t/892745) ![](assets/new.png)  
+- [2022-11-04-软考的证是不是越来越鸡肋了](https://www.v2ex.com/t/892744) ![](assets/new.png)  
+- [2022-11-04-getx-列表更新问题，没有生效](https://www.v2ex.com/t/892742) ![](assets/new.png)  
+- [2022-11-04-寻找海外业务运营人员一名](https://www.v2ex.com/t/892741) ![](assets/new.png)  
 - [2022-11-04-有没有专门讲解万事万物的第一性原理的网站？](https://www.v2ex.com/t/892740) ![](assets/new.png)  
 - [2022-11-04-英伟达-NVIDIA-上海-高级分布式系统研发工程师--AI-基础架构](https://www.v2ex.com/t/892739) ![](assets/new.png)  
 - [2022-11-04-有没有可以根据磁力链接获取文件列表的工具库或者-API-服务？](https://www.v2ex.com/t/892738) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-11-04-求小程序可以接的高精度地图：百度、高德腾讯在农村精度不够。](https://www.v2ex.com/t/892725) ![](assets/new.png)  
 - [2022-11-04-怎么获取雀魂里的数据](https://www.v2ex.com/t/892724) ![](assets/new.png)  
 - [2022-11-04-最近国家大力扶持新能源行业，转行投资开个电动车电池工厂有木有前景](https://www.v2ex.com/t/892723) ![](assets/new.png)  
-- [2022-11-04-求教，-24-小时过期删除思路](https://www.v2ex.com/t/892722) ![](assets/new.png)  
-- [2022-11-04-中国大陆地区到-Vultr-全球机房简单测试](https://www.v2ex.com/t/892720) ![](assets/new.png)  
-- [2022-11-04-聊聊东南亚工作，大家会考虑往东南亚发展吗？](https://www.v2ex.com/t/892719) ![](assets/new.png)  
-- [2022-11-04-发现个好东西](https://www.v2ex.com/t/892717) ![](assets/new.png)  
-- [2022-11-04-求助！求推荐好用的视频资料整理软件](https://www.v2ex.com/t/892716) ![](assets/new.png)  
-- [2022-11-04-Netgear-路由器刷机](https://www.v2ex.com/t/892715) ![](assets/new.png)  
-- [2022-11-04-VS-Code-的安装的扩展程序中的命令如何在-Terminal-中运行?](https://www.v2ex.com/t/892714) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

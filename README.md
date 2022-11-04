@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-04 05:44:19，:rocket: 更新条数: +2023， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-04 06:18:30，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,13 @@
 </summary>
 
 
+- [2022-11-04-网易云黑胶-VIP7-天自领，-11-月共-5-张](https://www.v2ex.com/t/892641) ![](assets/new.png)  
+- [2022-11-04-有没有划词添加待办事项的软件，-macos](https://www.v2ex.com/t/892639) ![](assets/new.png)  
+- [2022-11-04-Z-lib-被永久关停了？](https://www.v2ex.com/t/892637) ![](assets/new.png)  
+- [2022-11-04-路由器的-DNS-服务器应该设置什么？](https://www.v2ex.com/t/892636) ![](assets/new.png)  
+- [2022-11-04-没想到电信营业厅还能有相对实惠业务](https://www.v2ex.com/t/892634) ![](assets/new.png)  
+- [2022-11-04-surge-for-mac-车位](https://www.v2ex.com/t/892633) ![](assets/new.png)  
+- [2022-11-04-当父母在我这个年纪的时候，我的生活是怎么样的？](https://www.v2ex.com/t/892632) ![](assets/new.png)  
 - [2022-11-04-我的-hotmail-邮箱无法登录了,-是因为长期未登录而被删除了吗?](https://www.v2ex.com/t/892631) ![](assets/new.png)  
 - [2022-11-04-求教-github-加速](https://www.v2ex.com/t/892630) ![](assets/new.png)  
 - [2022-11-04-VMware-Fusion-Pro-11-Mac-能打开-windows-的-VMware16-的虚拟机镜像吗？](https://www.v2ex.com/t/892629) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-11-04-8-年+-Java-1-年+rust-求远程](https://www.v2ex.com/t/892618) ![](assets/new.png)  
 - [2022-11-04-广州---腰椎间盘突出，应不应该去做微创手术？](https://www.v2ex.com/t/892616) ![](assets/new.png)  
 - [2022-11-04-flutter+go-写了个下载器，全平台可以用，支持-http-和-bt-协议](https://www.v2ex.com/t/892614) ![](assets/new.png)  
-- [2022-11-04-vue-router-居然在小版本号中引入破坏性更改](https://www.v2ex.com/t/892613) ![](assets/new.png)  
-- [2022-11-04-iPhone-13-半夜自动重启问题](https://www.v2ex.com/t/892611) ![](assets/new.png)  
-- [2022-11-04-onionshare-每次关闭都会闪过一个弹窗，-signal-电脑版二维码加载不出来](https://www.v2ex.com/t/892610) ![](assets/new.png)  
-- [2022-11-04-数字货币量化交易课程推荐](https://www.v2ex.com/t/892609) ![](assets/new.png)  
-- [2022-11-04-突然发现-V2EX-的经济系统很有趣](https://www.v2ex.com/t/892606) ![](assets/new.png)  
-- [2022-11-04-九号线-中春路-主卧-2400](https://www.v2ex.com/t/892605) ![](assets/new.png)  
-- [2022-11-04-为了不被马斯克裁员，推特员工每周疯狂工作-84-小时...](https://www.v2ex.com/t/892604) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,8 +563,8 @@
 - [2022-11-04-RocksDB-7-终于解决了-Compaction-时性能下降问题](https://toutiao.io/k/1h7uror) ![](assets/new.png)  
 - [2022-11-04-Go-大佬良心发现，愿意给-map-加清除了？](https://toutiao.io/k/51qc8cp) ![](assets/new.png)  
 - [2022-11-04-图数据-3D-可视化在-Explorer-中的应用](https://toutiao.io/k/w06q7ne) ![](assets/new.png)  
-- [2022-11-04-.NET-零开销抽象指南](https://toutiao.io/k/56ej42c) ![](assets/new.png)  
 - [2022-11-04-Swift-Package-Manager-工程实践](https://toutiao.io/k/15b3gnj) ![](assets/new.png)  
+- [2022-11-04-.NET-零开销抽象指南](https://toutiao.io/k/56ej42c) ![](assets/new.png)  
 - [2022-11-04-golang-源码分析：json格式请求grpc服务](https://toutiao.io/k/pr0kwwx) ![](assets/new.png)  
 - [2022-11-04-双11前系统如何做好高可用](https://toutiao.io/k/huk9zfa) ![](assets/new.png)  
 - [2022-11-04-聊聊运营活动的设计与实现逻辑](https://toutiao.io/k/dznftw6) ![](assets/new.png)  

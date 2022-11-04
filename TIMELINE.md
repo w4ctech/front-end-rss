@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-04 05:44:19。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-04 06:18:30。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,13 @@
 </summary>
 
 
+- [【V2EX】2022-11-04-网易云黑胶-VIP7-天自领，-11-月共-5-张](https://www.v2ex.com/t/892641) 
+- [【V2EX】2022-11-04-有没有划词添加待办事项的软件，-macos](https://www.v2ex.com/t/892639) 
+- [【V2EX】2022-11-04-Z-lib-被永久关停了？](https://www.v2ex.com/t/892637) 
+- [【V2EX】2022-11-04-路由器的-DNS-服务器应该设置什么？](https://www.v2ex.com/t/892636) 
+- [【V2EX】2022-11-04-没想到电信营业厅还能有相对实惠业务](https://www.v2ex.com/t/892634) 
+- [【V2EX】2022-11-04-surge-for-mac-车位](https://www.v2ex.com/t/892633) 
+- [【V2EX】2022-11-04-当父母在我这个年纪的时候，我的生活是怎么样的？](https://www.v2ex.com/t/892632) 
 - [【V2EX】2022-11-04-我的-hotmail-邮箱无法登录了,-是因为长期未登录而被删除了吗?](https://www.v2ex.com/t/892631) 
 - [【V2EX】2022-11-04-求教-github-加速](https://www.v2ex.com/t/892630) 
 - [【V2EX】2022-11-04-VMware-Fusion-Pro-11-Mac-能打开-windows-的-VMware16-的虚拟机镜像吗？](https://www.v2ex.com/t/892629) 
@@ -96,19 +103,8 @@
 - [【V2EX】2022-11-04-决赛圈-卡罗拉和朗逸怎么选？](https://www.v2ex.com/t/892598) 
 - [【V2EX】2022-11-04-有上车的吗，打算开一波菲区的-Spotfy-会员车](https://www.v2ex.com/t/892597) 
 - [【V2EX】2022-11-04-请教-关于文本替换多个相同字符串的方法](https://www.v2ex.com/t/892595) 
-- [【V2EX】2022-11-04-论三年来的核酸咽喉拭子样本是否可建立国内最大的-DNA-样本库](https://www.v2ex.com/t/892594) 
 - [【V2EX】2022-11-04-Mastodon-的原理是什么？怎么理解？](https://www.v2ex.com/t/892593) 
 - [【V2EX】2022-11-04-运行完-cmd-命令后，回车隐藏当前窗口不关闭该怎么写？](https://www.v2ex.com/t/892592) 
-- [【V2EX】2022-11-04-foxmail-无法登录-office365-的邮箱](https://www.v2ex.com/t/892591) 
-- [【V2EX】2022-11-04-如何在-npm-i-的时候指定-sssh-key-?](https://www.v2ex.com/t/892590) 
-- [【V2EX】2022-11-04-surge-厂前几年出的另一个-app-叫啥来着](https://www.v2ex.com/t/892589) 
-- [【V2EX】2022-11-04-请大佬指教-Swift-codable-的问题](https://www.v2ex.com/t/892588) 
-- [【V2EX】2022-11-04-东哥走了，京东开始摆烂了](https://www.v2ex.com/t/892587) 
-- [【V2EX】2022-11-04-iPhone-13-IOS-16.1-耗电](https://www.v2ex.com/t/892586) 
-- [【V2EX】2022-11-04-现在-iphone14-发货时间要多久？-31-号天猫旗舰店买了-14pm，还没发货，心痒痒](https://www.v2ex.com/t/892585) 
-- [【V2EX】2022-11-04-一款项目协同笔记，主打「沟通」和「接力」#猜猜是谁](https://www.v2ex.com/t/892584) 
-- [【V2EX】2022-11-04-广州黄埔区-英伟达-NVIDIA-高级测试开发工程师](https://www.v2ex.com/t/892583) 
-- [【V2EX】2022-11-04-聊聊理想](https://www.v2ex.com/t/892582) 
 - [【技术头条】2022-11-04-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-04-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-04-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -139,8 +135,8 @@
 - [【开发者头条】2022-11-04-RocksDB-7-终于解决了-Compaction-时性能下降问题](https://toutiao.io/k/1h7uror) 
 - [【开发者头条】2022-11-04-Go-大佬良心发现，愿意给-map-加清除了？](https://toutiao.io/k/51qc8cp) 
 - [【开发者头条】2022-11-04-图数据-3D-可视化在-Explorer-中的应用](https://toutiao.io/k/w06q7ne) 
-- [【开发者头条】2022-11-04-.NET-零开销抽象指南](https://toutiao.io/k/56ej42c) 
 - [【开发者头条】2022-11-04-Swift-Package-Manager-工程实践](https://toutiao.io/k/15b3gnj) 
+- [【开发者头条】2022-11-04-.NET-零开销抽象指南](https://toutiao.io/k/56ej42c) 
 - [【开发者头条】2022-11-04-golang-源码分析：json格式请求grpc服务](https://toutiao.io/k/pr0kwwx) 
 - [【开发者头条】2022-11-04-双11前系统如何做好高可用](https://toutiao.io/k/huk9zfa) 
 - [【开发者头条】2022-11-04-聊聊运营活动的设计与实现逻辑](https://toutiao.io/k/dznftw6) 

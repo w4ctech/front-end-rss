@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-04 19:37:04，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-04 20:16:34，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-11-04-如何通过-vpn-实现本地电脑与-k8s-集群的-Pod-互通](https://www.v2ex.com/t/892829) ![](assets/new.png)  
 - [2022-11-04-在公网-IPv4-严重缺乏的今天，最简单的获取方式是连接上海的公共-WiFi](https://www.v2ex.com/t/892826) ![](assets/new.png)  
 - [2022-11-04-这种-Z-形的笔记本支架-真的耐久吗](https://www.v2ex.com/t/892825) ![](assets/new.png)  
 - [2022-11-04-你们怎么管理自己的-leetcode-代码？](https://www.v2ex.com/t/892824) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-11-04-AGPL-协议开源的软件如果想注明作者持有随时更换开源许可证的权利，对之后的版本生效，要求-PR-作者同意，应该写在许可证中还是-PR-的模板中？有没有开源项目有...](https://www.v2ex.com/t/892805) ![](assets/new.png)  
 - [2022-11-04-30-岁-ui-设计师想留学移民，该继续读设计还是转行做前端或者软件开发呢](https://www.v2ex.com/t/892804) ![](assets/new.png)  
 - [2022-11-04-疫情期间的跨省搬家有人有经验吗](https://www.v2ex.com/t/892802) ![](assets/new.png)  
-- [2022-11-04-三年多-C++-简历求指导-&-求职-&-职业规划困惑](https://www.v2ex.com/t/892801) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -568,8 +568,8 @@
 - [2022-11-04-Swift-Package-Manager-工程实践](https://toutiao.io/k/15b3gnj) ![](assets/new.png)  
 - [2022-11-04-golang-源码分析：json格式请求grpc服务](https://toutiao.io/k/pr0kwwx) ![](assets/new.png)  
 - [2022-11-04-聊聊运营活动的设计与实现逻辑](https://toutiao.io/k/dznftw6) ![](assets/new.png)  
-- [2022-11-04-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) ![](assets/new.png)  
 - [2022-11-04-推荐-网易经验规整：ClickHouse-开发与使用规范大全](https://toutiao.io/k/nprygo2) ![](assets/new.png)  
+- [2022-11-04-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

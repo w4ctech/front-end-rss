@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-11-04 04:25:14。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-04 05:05:13。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -56,6 +56,7 @@
 
 
 
+- [【V2EX】vue-router-居然在小版本号中引入破坏性更改](https://www.v2ex.com/t/892613)
 - [......【查看更多】......](./details/tags/vue.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -139,6 +140,7 @@
 
 
 
+- [【V2EX】flutter+go-写了个下载器，全平台可以用，支持-http-和-bt-协议](https://www.v2ex.com/t/892614)
 - [......【查看更多】......](./details/tags/dev-mobile.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -215,6 +217,7 @@
 
 
 
+- [【V2EX】双-11-来了，想买台-3d-打印机玩玩，有推荐的吗](https://www.v2ex.com/t/892619)
 - [【开发者头条】图数据-3D-可视化在-Explorer-中的应用](https://toutiao.io/k/w06q7ne)
 - [......【查看更多】......](./details/tags/canvas-image.md)
 
@@ -234,7 +237,6 @@
 
 - [【武汉肺炎防疫全纪录(财新网)】广州17岁男生在定点医院参加高考-特殊考场视频监考](https://m.caixin.com/m/2021-06-05/101723418.html)
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
-- [【V2EX】腾讯王卡-6-周年庆，充-300-送-12-月视频会员崩了](https://www.v2ex.com/t/892569)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -251,6 +253,7 @@
 
 
 
+- [【V2EX】onionshare-每次关闭都会闪过一个弹窗，-signal-电脑版二维码加载不出来](https://www.v2ex.com/t/892610)
 - [【开发者头条】每个-C++-工程师都要了解的十个性能陷阱](https://toutiao.io/k/s1p9biy)
 - [【开发者头条】RocksDB-7-终于解决了-Compaction-时性能下降问题](https://toutiao.io/k/1h7uror)
 - [......【查看更多】......](./details/tags/optimization.md)
@@ -312,7 +315,6 @@
 
 
 - [【V2EX】BI-系统打包-Docker-镜像及部署的技术难度和实现](https://www.v2ex.com/t/892602)
-- [【V2EX】Win11-上-运行-Nginx-会打开空白终端](https://www.v2ex.com/t/892567)
 - [【技术头条】GraphQL及元数据驱动架构在后端BFF中的实践-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15395&url=https%3A%2F%2Ftech.meituan.com%2F2021%2F05%2F06%2Fbff-graphql.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/server.md)
 

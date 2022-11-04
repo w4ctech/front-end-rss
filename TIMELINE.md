@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-04 04:25:14。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-04 05:05:13。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,15 @@
 </summary>
 
 
+- [【V2EX】2022-11-04-有没有老哥用过这款-kvm-切换器](https://www.v2ex.com/t/892620) 
+- [【V2EX】2022-11-04-双-11-来了，想买台-3d-打印机玩玩，有推荐的吗](https://www.v2ex.com/t/892619) 
+- [【V2EX】2022-11-04-8-年+-Java-1-年+rust-求远程](https://www.v2ex.com/t/892618) 
+- [【V2EX】2022-11-04-广州---腰椎间盘突出，应不应该去做微创手术？](https://www.v2ex.com/t/892616) 
+- [【V2EX】2022-11-04-flutter+go-写了个下载器，全平台可以用，支持-http-和-bt-协议](https://www.v2ex.com/t/892614) 
+- [【V2EX】2022-11-04-vue-router-居然在小版本号中引入破坏性更改](https://www.v2ex.com/t/892613) 
+- [【V2EX】2022-11-04-iPhone-13-半夜自动重启问题](https://www.v2ex.com/t/892611) 
+- [【V2EX】2022-11-04-onionshare-每次关闭都会闪过一个弹窗，-signal-电脑版二维码加载不出来](https://www.v2ex.com/t/892610) 
+- [【V2EX】2022-11-04-数字货币量化交易课程推荐](https://www.v2ex.com/t/892609) 
 - [【V2EX】2022-11-04-突然发现-V2EX-的经济系统很有趣](https://www.v2ex.com/t/892606) 
 - [【V2EX】2022-11-04-九号线-中春路-主卧-2400](https://www.v2ex.com/t/892605) 
 - [【V2EX】2022-11-04-为了不被马斯克裁员，推特员工每周疯狂工作-84-小时...](https://www.v2ex.com/t/892604) 
@@ -98,17 +107,6 @@
 - [【V2EX】2022-11-04-招商银行闪电贷建额有礼🎁，利率-3.95%起](https://www.v2ex.com/t/892575) 
 - [【V2EX】2022-11-04-现在的人戾气这么重了？](https://www.v2ex.com/t/892572) 
 - [【V2EX】2022-11-04-iqoo-neo-5-能不能开启-WiFicalling-vowifi功能](https://www.v2ex.com/t/892571) 
-- [【V2EX】2022-11-04-zlibrary-今天宕机，生死未卜](https://www.v2ex.com/t/892570) 
-- [【V2EX】2022-11-04-腾讯王卡-6-周年庆，充-300-送-12-月视频会员崩了](https://www.v2ex.com/t/892569) 
-- [【V2EX】2022-11-04-升级到-Ventura-以后，电脑变的比以前卡多了](https://www.v2ex.com/t/892568) 
-- [【V2EX】2022-11-04-Win11-上-运行-Nginx-会打开空白终端](https://www.v2ex.com/t/892567) 
-- [【V2EX】2022-11-04-在线缆方面，-tb2-和-miniDP-到底啥区别？](https://www.v2ex.com/t/892566) 
-- [【V2EX】2022-11-04-微软悄悄改图标！-Win11-测试新版任务栏搜索图标，你的变了吗？3-种新样式&附恢复方法](https://www.v2ex.com/t/892565) 
-- [【V2EX】2022-11-04-k8s-pod-时区问题，有什么简单快捷的处理办法吗](https://www.v2ex.com/t/892564) 
-- [【V2EX】2022-11-04-大家有在家里和车里备灭火器的吗？](https://www.v2ex.com/t/892563) 
-- [【V2EX】2022-11-04-开始写一个-Python-编程入门](https://www.v2ex.com/t/892561) 
-- [【V2EX】2022-11-04-有什么好的物品交换论坛，社区推荐](https://www.v2ex.com/t/892560) 
-- [【V2EX】2022-11-04-访达遇到一个神奇的-bug，请大神指点！](https://www.v2ex.com/t/892559) 
 - [【技术头条】2022-11-04-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-04-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-04-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -135,8 +133,8 @@
 - [【开发者头条】2022-11-04-Redis-大-key-多-key-拆分方案](https://toutiao.io/k/4yfxfj2) 
 - [【开发者头条】2022-11-04-为何选-MPP-架构？](https://toutiao.io/k/3f3qlj8) 
 - [【开发者头条】2022-11-04-安全漏洞：SpringBoot-该如何预防-XSS-攻击？](https://toutiao.io/k/o3wesfc) 
-- [【开发者头条】2022-11-04-Go-大佬良心发现，愿意给-map-加清除了？](https://toutiao.io/k/51qc8cp) 
 - [【开发者头条】2022-11-04-Python-3.11有哪些有用的新特性或者功能?](https://toutiao.io/k/2rrkmak) 
+- [【开发者头条】2022-11-04-Go-大佬良心发现，愿意给-map-加清除了？](https://toutiao.io/k/51qc8cp) 
 - [【开发者头条】2022-11-04-RocksDB-7-终于解决了-Compaction-时性能下降问题](https://toutiao.io/k/1h7uror) 
 - [【开发者头条】2022-11-04-图数据-3D-可视化在-Explorer-中的应用](https://toutiao.io/k/w06q7ne) 
 - [【开发者头条】2022-11-04-.NET-零开销抽象指南](https://toutiao.io/k/56ej42c) 

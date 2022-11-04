@@ -9953,6 +9953,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "iOS 16.1，锁屏一段时间后解锁， Wi-Fi 会断",
+        "link": "https://www.v2ex.com/t/892830",
+        "date": "2022-11-04"
+      },
+      {
         "title": "如何通过 vpn 实现本地电脑与 k8s 集群的 Pod 互通",
         "link": "https://www.v2ex.com/t/892829",
         "date": "2022-11-04"
@@ -10125,11 +10130,6 @@
       {
         "title": "最近收到 3 次说是 JD 客服打过来说要注销金条的电话，就没人管管吗？",
         "link": "https://www.v2ex.com/t/892781",
-        "date": "2022-11-04"
-      },
-      {
-        "title": "amd 大降价!，历史第一次。",
-        "link": "https://www.v2ex.com/t/892780",
         "date": "2022-11-04"
       }
     ]
@@ -10322,13 +10322,13 @@
         "date": "2022-11-04"
       },
       {
-        "title": "[推荐] 网易经验规整：ClickHouse 开发与使用规范大全",
-        "link": "https://toutiao.io/k/nprygo2",
+        "title": "[推荐] 如何画出一张优秀的架构图？（老鸟必备）",
+        "link": "https://toutiao.io/k/xiqybrh",
         "date": "2022-11-04"
       },
       {
-        "title": "[推荐] 如何画出一张优秀的架构图？（老鸟必备）",
-        "link": "https://toutiao.io/k/xiqybrh",
+        "title": "[推荐] 网易经验规整：ClickHouse 开发与使用规范大全",
+        "link": "https://toutiao.io/k/nprygo2",
         "date": "2022-11-04"
       }
     ]

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-04 22:41:55。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-04 23:03:51。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -103,7 +103,6 @@
 - [【V2EX】2022-11-04-矿卡性价比之选，大家给个建议](https://www.v2ex.com/t/892787) 
 - [【V2EX】2022-11-04-好焦虑啊](https://www.v2ex.com/t/892786) 
 - [【V2EX】2022-11-04-在筹备自己的开源项目文档，敬请不吝赐教！（第二弹）](https://www.v2ex.com/t/892785) 
-- [【V2EX】2022-11-04-最近收到-3-次说是-JD-客服打过来说要注销金条的电话，就没人管管吗？](https://www.v2ex.com/t/892781) 
 - [【技术头条】2022-11-04-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-04-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-04-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

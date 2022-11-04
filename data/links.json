@@ -9953,6 +9953,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "vue3，如何在 tsx 中使用动态组件",
+        "link": "https://www.v2ex.com/t/892793",
+        "date": "2022-11-04"
+      },
+      {
         "title": "很好奇，天猫/京东等国内主流平台售卖的第三方充电器/USB 数据线没有经过 Apple MFI 认证，那么是怎么可以给 iPhone 手机正常充电的？",
         "link": "https://www.v2ex.com/t/892790",
         "date": "2022-11-04"
@@ -10125,11 +10130,6 @@
       {
         "title": "软考的证是不是越来越鸡肋了",
         "link": "https://www.v2ex.com/t/892744",
-        "date": "2022-11-04"
-      },
-      {
-        "title": "getx 列表更新问题，没有生效",
-        "link": "https://www.v2ex.com/t/892742",
         "date": "2022-11-04"
       }
     ]

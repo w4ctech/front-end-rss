@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-04 13:56:17。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-04 14:13:22。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,7 @@
 </summary>
 
 
+- [【V2EX】2022-11-04-vue3，如何在-tsx-中使用动态组件](https://www.v2ex.com/t/892793) 
 - [【V2EX】2022-11-04-很好奇，天猫/京东等国内主流平台售卖的第三方充电器/USB-数据线没有经过-Apple-MFI-认证，那么是怎么可以给-iPhone-手机正常充电的？](https://www.v2ex.com/t/892790) 
 - [【V2EX】2022-11-04-UU-加速器高级会员朋友们更优惠的方案吗](https://www.v2ex.com/t/892789) 
 - [【V2EX】2022-11-04-个人养老金政策发布了，大家有什么看法？](https://www.v2ex.com/t/892788) 
@@ -103,7 +104,6 @@
 - [【V2EX】2022-11-04-是否转向-vr/ar/mr-行业](https://www.v2ex.com/t/892748) 
 - [【V2EX】2022-11-04-mac-command-+-tab-有时候不显示](https://www.v2ex.com/t/892745) 
 - [【V2EX】2022-11-04-软考的证是不是越来越鸡肋了](https://www.v2ex.com/t/892744) 
-- [【V2EX】2022-11-04-getx-列表更新问题，没有生效](https://www.v2ex.com/t/892742) 
 - [【技术头条】2022-11-04-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-04-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-04-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

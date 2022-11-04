@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-04 18:47:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-04 19:13:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1973,5 +1973,5 @@
 - [2022-11-04-.NET-零开销抽象指南](https://toutiao.io/k/56ej42c) 
 - [2022-11-04-Swift-Package-Manager-工程实践](https://toutiao.io/k/15b3gnj) 
 - [2022-11-04-聊聊运营活动的设计与实现逻辑](https://toutiao.io/k/dznftw6) 
-- [2022-11-04-推荐-网易经验规整：ClickHouse-开发与使用规范大全](https://toutiao.io/k/nprygo2) 
 - [2022-11-04-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) 
+- [2022-11-04-推荐-网易经验规整：ClickHouse-开发与使用规范大全](https://toutiao.io/k/nprygo2) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-04 15:45:46，:rocket: 更新条数: +2018， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-04 16:19:44，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-11-04-alfred-搜索-iterm2，回车后，不会弹出终端窗口，只在-dock-栏显示打开了](https://www.v2ex.com/t/892814) ![](assets/new.png)  
+- [2022-11-04-双十一电信宽带办理耍猴](https://www.v2ex.com/t/892813) ![](assets/new.png)  
+- [2022-11-04-视频转码是否是核心/多线程越多速度越快消耗时间越小？](https://www.v2ex.com/t/892812) ![](assets/new.png)  
 - [2022-11-04-zlib-的-tg-机器人复活了，之前绑定过账号的可以通过-tg-机器人下载了](https://www.v2ex.com/t/892810) ![](assets/new.png)  
 - [2022-11-04-官宣要封岛-3-天了。很多人趁还有一点时间在离开](https://www.v2ex.com/t/892809) ![](assets/new.png)  
 - [2022-11-04-JetBrains-发布自动化测试-IDE-Aqua（预览版）](https://www.v2ex.com/t/892808) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-11-04-vue3，如何在-tsx-中使用动态组件](https://www.v2ex.com/t/892793) ![](assets/new.png)  
 - [2022-11-04-很好奇，天猫/京东等国内主流平台售卖的第三方充电器/USB-数据线没有经过-Apple-MFI-认证，那么是怎么可以给-iPhone-手机正常充电的？](https://www.v2ex.com/t/892790) ![](assets/new.png)  
 - [2022-11-04-UU-加速器高级会员朋友们更优惠的方案吗](https://www.v2ex.com/t/892789) ![](assets/new.png)  
-- [2022-11-04-个人养老金政策发布了，大家有什么看法？](https://www.v2ex.com/t/892788) ![](assets/new.png)  
-- [2022-11-04-矿卡性价比之选，大家给个建议](https://www.v2ex.com/t/892787) ![](assets/new.png)  
-- [2022-11-04-好焦虑啊](https://www.v2ex.com/t/892786) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -568,6 +568,7 @@
 - [2022-11-04-Swift-Package-Manager-工程实践](https://toutiao.io/k/15b3gnj) ![](assets/new.png)  
 - [2022-11-04-golang-源码分析：json格式请求grpc服务](https://toutiao.io/k/pr0kwwx) ![](assets/new.png)  
 - [2022-11-04-聊聊运营活动的设计与实现逻辑](https://toutiao.io/k/dznftw6) ![](assets/new.png)  
+- [2022-11-04-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) ![](assets/new.png)  
 - [2022-11-04-推荐-网易经验规整：ClickHouse-开发与使用规范大全](https://toutiao.io/k/nprygo2) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

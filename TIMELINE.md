@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-04 15:45:46。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-04 16:19:45。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,9 @@
 </summary>
 
 
+- [【V2EX】2022-11-04-alfred-搜索-iterm2，回车后，不会弹出终端窗口，只在-dock-栏显示打开了](https://www.v2ex.com/t/892814) 
+- [【V2EX】2022-11-04-双十一电信宽带办理耍猴](https://www.v2ex.com/t/892813) 
+- [【V2EX】2022-11-04-视频转码是否是核心/多线程越多速度越快消耗时间越小？](https://www.v2ex.com/t/892812) 
 - [【V2EX】2022-11-04-zlib-的-tg-机器人复活了，之前绑定过账号的可以通过-tg-机器人下载了](https://www.v2ex.com/t/892810) 
 - [【V2EX】2022-11-04-官宣要封岛-3-天了。很多人趁还有一点时间在离开](https://www.v2ex.com/t/892809) 
 - [【V2EX】2022-11-04-JetBrains-发布自动化测试-IDE-Aqua（预览版）](https://www.v2ex.com/t/892808) 
@@ -101,9 +104,6 @@
 - [【V2EX】2022-11-04-Ventura-的-safari-看视频会竖过来，是什么-bug？](https://www.v2ex.com/t/892769) 
 - [【V2EX】2022-11-04-利用-certbot-的-webroot-给-SSL-更新的注意事项](https://www.v2ex.com/t/892768) 
 - [【V2EX】2022-11-04-6-个月实习期的游戏公司可以去吗？](https://www.v2ex.com/t/892767) 
-- [【V2EX】2022-11-04-Anydesk-在-4K-屏幕下的界面没有正常缩放](https://www.v2ex.com/t/892764) 
-- [【V2EX】2022-11-04-写了一个练习的-eth-钱包小应用，分享一下](https://www.v2ex.com/t/892763) 
-- [【V2EX】2022-11-04-从负责人混成打杂，还不想看书，哈哈，为自己悲哀](https://www.v2ex.com/t/892762) 
 - [【技术头条】2022-11-04-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-04-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-04-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -139,6 +139,7 @@
 - [【开发者头条】2022-11-04-Swift-Package-Manager-工程实践](https://toutiao.io/k/15b3gnj) 
 - [【开发者头条】2022-11-04-golang-源码分析：json格式请求grpc服务](https://toutiao.io/k/pr0kwwx) 
 - [【开发者头条】2022-11-04-聊聊运营活动的设计与实现逻辑](https://toutiao.io/k/dznftw6) 
+- [【开发者头条】2022-11-04-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) 
 - [【开发者头条】2022-11-04-推荐-网易经验规整：ClickHouse-开发与使用规范大全](https://toutiao.io/k/nprygo2) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>

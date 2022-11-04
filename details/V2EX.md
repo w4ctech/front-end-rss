@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2022-11-04 15:45:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-04 16:19:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-11-04-alfred-搜索-iterm2，回车后，不会弹出终端窗口，只在-dock-栏显示打开了](https://www.v2ex.com/t/892814) 
+- [2022-11-04-双十一电信宽带办理耍猴](https://www.v2ex.com/t/892813) 
+- [2022-11-04-视频转码是否是核心/多线程越多速度越快消耗时间越小？](https://www.v2ex.com/t/892812) 
 - [2022-11-04-zlib-的-tg-机器人复活了，之前绑定过账号的可以通过-tg-机器人下载了](https://www.v2ex.com/t/892810) 
 - [2022-11-04-官宣要封岛-3-天了。很多人趁还有一点时间在离开](https://www.v2ex.com/t/892809) 
 - [2022-11-04-JetBrains-发布自动化测试-IDE-Aqua（预览版）](https://www.v2ex.com/t/892808) 
@@ -38,6 +41,3 @@
 - [2022-11-04-Ventura-的-safari-看视频会竖过来，是什么-bug？](https://www.v2ex.com/t/892769) 
 - [2022-11-04-利用-certbot-的-webroot-给-SSL-更新的注意事项](https://www.v2ex.com/t/892768) 
 - [2022-11-04-6-个月实习期的游戏公司可以去吗？](https://www.v2ex.com/t/892767) 
-- [2022-11-04-Anydesk-在-4K-屏幕下的界面没有正常缩放](https://www.v2ex.com/t/892764) 
-- [2022-11-04-写了一个练习的-eth-钱包小应用，分享一下](https://www.v2ex.com/t/892763) 
-- [2022-11-04-从负责人混成打杂，还不想看书，哈哈，为自己悲哀](https://www.v2ex.com/t/892762) 

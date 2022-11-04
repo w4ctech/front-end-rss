@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-04 06:18:30。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-04 06:49:10。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,12 +68,17 @@
 </summary>
 
 
+- [【V2EX】2022-11-04-新买的-K50-至尊版坚持不了一天正常么？](https://www.v2ex.com/t/892655) 
+- [【V2EX】2022-11-04-请问各位大佬，干技术的人如果想拍短视频有什么方向呢？直播写代码？](https://www.v2ex.com/t/892654) 
+- [【V2EX】2022-11-04-Java-on-Azure-Tooling-的更新-–-2022-年-10-月-最新的路线图和-Azure-Functions-Deployment-Slot-支持](https://www.v2ex.com/t/892653) 
+- [【V2EX】2022-11-04-周末了，-大家平时空闲的时间都干啥呀-hhh](https://www.v2ex.com/t/892651) 
+- [【V2EX】2022-11-04-广州明天软考，成考等-5-项考试的后续，又怂又勇？短信电话反复轰炸](https://www.v2ex.com/t/892649) 
+- [【V2EX】2022-11-04-现在“微信”改绑国个手机号还能变“wechat”么？](https://www.v2ex.com/t/892645) 
 - [【V2EX】2022-11-04-网易云黑胶-VIP7-天自领，-11-月共-5-张](https://www.v2ex.com/t/892641) 
 - [【V2EX】2022-11-04-有没有划词添加待办事项的软件，-macos](https://www.v2ex.com/t/892639) 
 - [【V2EX】2022-11-04-Z-lib-被永久关停了？](https://www.v2ex.com/t/892637) 
 - [【V2EX】2022-11-04-路由器的-DNS-服务器应该设置什么？](https://www.v2ex.com/t/892636) 
 - [【V2EX】2022-11-04-没想到电信营业厅还能有相对实惠业务](https://www.v2ex.com/t/892634) 
-- [【V2EX】2022-11-04-surge-for-mac-车位](https://www.v2ex.com/t/892633) 
 - [【V2EX】2022-11-04-当父母在我这个年纪的时候，我的生活是怎么样的？](https://www.v2ex.com/t/892632) 
 - [【V2EX】2022-11-04-我的-hotmail-邮箱无法登录了,-是因为长期未登录而被删除了吗?](https://www.v2ex.com/t/892631) 
 - [【V2EX】2022-11-04-求教-github-加速](https://www.v2ex.com/t/892630) 
@@ -93,18 +98,6 @@
 - [【V2EX】2022-11-04-onionshare-每次关闭都会闪过一个弹窗，-signal-电脑版二维码加载不出来](https://www.v2ex.com/t/892610) 
 - [【V2EX】2022-11-04-数字货币量化交易课程推荐](https://www.v2ex.com/t/892609) 
 - [【V2EX】2022-11-04-突然发现-V2EX-的经济系统很有趣](https://www.v2ex.com/t/892606) 
-- [【V2EX】2022-11-04-九号线-中春路-主卧-2400](https://www.v2ex.com/t/892605) 
-- [【V2EX】2022-11-04-为了不被马斯克裁员，推特员工每周疯狂工作-84-小时...](https://www.v2ex.com/t/892604) 
-- [【V2EX】2022-11-04-使用-UTM-评估-macOS-13-Ventura](https://www.v2ex.com/t/892603) 
-- [【V2EX】2022-11-04-BI-系统打包-Docker-镜像及部署的技术难度和实现](https://www.v2ex.com/t/892602) 
-- [【V2EX】2022-11-04-Python-HTTP-框架咨询](https://www.v2ex.com/t/892601) 
-- [【V2EX】2022-11-04-淘宝满-300-50-的活动今天停止了吗？](https://www.v2ex.com/t/892600) 
-- [【V2EX】2022-11-04-大家的-iOS16-有间歇性断网的问题吗](https://www.v2ex.com/t/892599) 
-- [【V2EX】2022-11-04-决赛圈-卡罗拉和朗逸怎么选？](https://www.v2ex.com/t/892598) 
-- [【V2EX】2022-11-04-有上车的吗，打算开一波菲区的-Spotfy-会员车](https://www.v2ex.com/t/892597) 
-- [【V2EX】2022-11-04-请教-关于文本替换多个相同字符串的方法](https://www.v2ex.com/t/892595) 
-- [【V2EX】2022-11-04-Mastodon-的原理是什么？怎么理解？](https://www.v2ex.com/t/892593) 
-- [【V2EX】2022-11-04-运行完-cmd-命令后，回车隐藏当前窗口不关闭该怎么写？](https://www.v2ex.com/t/892592) 
 - [【技术头条】2022-11-04-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-04-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-04-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-04 06:18:30，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-04 06:49:10，:rocket: 更新条数: +2012， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,12 +491,17 @@
 </summary>
 
 
+- [2022-11-04-新买的-K50-至尊版坚持不了一天正常么？](https://www.v2ex.com/t/892655) ![](assets/new.png)  
+- [2022-11-04-请问各位大佬，干技术的人如果想拍短视频有什么方向呢？直播写代码？](https://www.v2ex.com/t/892654) ![](assets/new.png)  
+- [2022-11-04-Java-on-Azure-Tooling-的更新-–-2022-年-10-月-最新的路线图和-Azure-Functions-Deployment-Slot-支持](https://www.v2ex.com/t/892653) ![](assets/new.png)  
+- [2022-11-04-周末了，-大家平时空闲的时间都干啥呀-hhh](https://www.v2ex.com/t/892651) ![](assets/new.png)  
+- [2022-11-04-广州明天软考，成考等-5-项考试的后续，又怂又勇？短信电话反复轰炸](https://www.v2ex.com/t/892649) ![](assets/new.png)  
+- [2022-11-04-现在“微信”改绑国个手机号还能变“wechat”么？](https://www.v2ex.com/t/892645) ![](assets/new.png)  
 - [2022-11-04-网易云黑胶-VIP7-天自领，-11-月共-5-张](https://www.v2ex.com/t/892641) ![](assets/new.png)  
 - [2022-11-04-有没有划词添加待办事项的软件，-macos](https://www.v2ex.com/t/892639) ![](assets/new.png)  
 - [2022-11-04-Z-lib-被永久关停了？](https://www.v2ex.com/t/892637) ![](assets/new.png)  
 - [2022-11-04-路由器的-DNS-服务器应该设置什么？](https://www.v2ex.com/t/892636) ![](assets/new.png)  
 - [2022-11-04-没想到电信营业厅还能有相对实惠业务](https://www.v2ex.com/t/892634) ![](assets/new.png)  
-- [2022-11-04-surge-for-mac-车位](https://www.v2ex.com/t/892633) ![](assets/new.png)  
 - [2022-11-04-当父母在我这个年纪的时候，我的生活是怎么样的？](https://www.v2ex.com/t/892632) ![](assets/new.png)  
 - [2022-11-04-我的-hotmail-邮箱无法登录了,-是因为长期未登录而被删除了吗?](https://www.v2ex.com/t/892631) ![](assets/new.png)  
 - [2022-11-04-求教-github-加速](https://www.v2ex.com/t/892630) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-11-04-Windows-下多人共享的网盘类工具？](https://www.v2ex.com/t/892625) ![](assets/new.png)  
 - [2022-11-04-看-netlix-视频需要多高的带宽](https://www.v2ex.com/t/892623) ![](assets/new.png)  
 - [2022-11-04-机械键盘是不是很容易连击？](https://www.v2ex.com/t/892621) ![](assets/new.png)  
-- [2022-11-04-有没有老哥用过这款-kvm-切换器](https://www.v2ex.com/t/892620) ![](assets/new.png)  
-- [2022-11-04-双-11-来了，想买台-3d-打印机玩玩，有推荐的吗](https://www.v2ex.com/t/892619) ![](assets/new.png)  
-- [2022-11-04-8-年+-Java-1-年+rust-求远程](https://www.v2ex.com/t/892618) ![](assets/new.png)  
-- [2022-11-04-广州---腰椎间盘突出，应不应该去做微创手术？](https://www.v2ex.com/t/892616) ![](assets/new.png)  
-- [2022-11-04-flutter+go-写了个下载器，全平台可以用，支持-http-和-bt-协议](https://www.v2ex.com/t/892614) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

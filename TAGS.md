@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-11-04 06:18:30。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-04 06:49:10。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -236,6 +236,7 @@
 
 - [【武汉肺炎防疫全纪录(财新网)】广州17岁男生在定点医院参加高考-特殊考场视频监考](https://m.caixin.com/m/2021-06-05/101723418.html)
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
+- [【V2EX】请问各位大佬，干技术的人如果想拍短视频有什么方向呢？直播写代码？](https://www.v2ex.com/t/892654)
 - [【V2EX】看-netlix-视频需要多高的带宽](https://www.v2ex.com/t/892623)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
@@ -295,8 +296,6 @@
 
 
 
-- [【V2EX】Python-HTTP-框架咨询](https://www.v2ex.com/t/892601)
-- [【V2EX】Mastodon-的原理是什么？怎么理解？](https://www.v2ex.com/t/892593)
 - [【技术头条】基于AI算法的数据库异常监测系统的设计与实现-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15390&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F09%2F01%2Fdatabase-monitoring-based-on-ai.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
@@ -314,7 +313,6 @@
 
 
 
-- [【V2EX】BI-系统打包-Docker-镜像及部署的技术难度和实现](https://www.v2ex.com/t/892602)
 - [【技术头条】GraphQL及元数据驱动架构在后端BFF中的实践-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15395&url=https%3A%2F%2Ftech.meituan.com%2F2021%2F05%2F06%2Fbff-graphql.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/server.md)
 

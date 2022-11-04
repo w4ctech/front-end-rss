@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-04 12:29:48。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-04 13:22:51。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,12 @@
 </summary>
 
 
+- [【V2EX】2022-11-04-最近收到-3-次说是-JD-客服打过来说要注销金条的电话，就没人管管吗？](https://www.v2ex.com/t/892781) 
+- [【V2EX】2022-11-04-amd-大降价!，历史第一次。](https://www.v2ex.com/t/892780) 
+- [【V2EX】2022-11-04-音乐社交是一个不存在的概念](https://www.v2ex.com/t/892779) 
+- [【V2EX】2022-11-04-旁路由用-r70se-还是-mac-mini+surge](https://www.v2ex.com/t/892778) 
+- [【V2EX】2022-11-04-请问-B-站-TV-版（第三方）是不是只能看-360P-了？](https://www.v2ex.com/t/892775) 
+- [【V2EX】2022-11-04-B-站非官方-TV-客户端是不是最近被限制只能看-360P-清晰度的视频了？](https://www.v2ex.com/t/892773) 
 - [【V2EX】2022-11-04-双十一到了，你们都有啥购物清单呢](https://www.v2ex.com/t/892772) 
 - [【V2EX】2022-11-04-雷电硬盘盒-外置系统-不能触发雷电？](https://www.v2ex.com/t/892771) 
 - [【V2EX】2022-11-04-中亚是怎么转成自己的链接](https://www.v2ex.com/t/892770) 
@@ -82,7 +88,6 @@
 - [【V2EX】2022-11-04-求一个-Mac-surge-上车](https://www.v2ex.com/t/892758) 
 - [【V2EX】2022-11-04-为啥-js-引用其他文件的函数相对来说要麻烦一些?](https://www.v2ex.com/t/892757) 
 - [【V2EX】2022-11-04-［-iOS］第三方-APP-还能获取设备-IMEI-UUID-吗](https://www.v2ex.com/t/892756) 
-- [【V2EX】2022-11-04-v-站怎么注销？](https://www.v2ex.com/t/892755) 
 - [【V2EX】2022-11-04-Discord-客户端在-m1-mac-下的代理问题](https://www.v2ex.com/t/892754) 
 - [【V2EX】2022-11-04-随缘的兼职--「优客计划」升级为公众号服务](https://www.v2ex.com/t/892753) 
 - [【V2EX】2022-11-04-求大佬推荐文档系统，类似-notion，可以私有化部署的](https://www.v2ex.com/t/892752) 
@@ -98,15 +103,6 @@
 - [【V2EX】2022-11-04-英伟达-NVIDIA-上海-高级分布式系统研发工程师--AI-基础架构](https://www.v2ex.com/t/892739) 
 - [【V2EX】2022-11-04-有没有可以根据磁力链接获取文件列表的工具库或者-API-服务？](https://www.v2ex.com/t/892738) 
 - [【V2EX】2022-11-04-失业俩月了，-10-月份花掉了-6000-块，惊掉下巴](https://www.v2ex.com/t/892737) 
-- [【V2EX】2022-11-04-介于目前的-OTP-小程序都太丑，自己撸了一个，欢迎体验与反馈](https://www.v2ex.com/t/892733) 
-- [【V2EX】2022-11-04-AI-绘画作品搜索小程序—由滴滴-MPX-框架创建](https://www.v2ex.com/t/892732) 
-- [【V2EX】2022-11-04-新一代-CI-即将到来！](https://www.v2ex.com/t/892731) 
-- [【V2EX】2022-11-04-国外服务器加国内-cdn，面向国内用户使用，这样会有什么问题吗？](https://www.v2ex.com/t/892729) 
-- [【V2EX】2022-11-04-最近很火的-LG-C2-42-寸可能并不适合作为显示器来用，别被那些视频博主忽悠了](https://www.v2ex.com/t/892728) 
-- [【V2EX】2022-11-04-GitHub-Sponsor-💗-but-using-Crypto...](https://www.v2ex.com/t/892726) 
-- [【V2EX】2022-11-04-求小程序可以接的高精度地图：百度、高德腾讯在农村精度不够。](https://www.v2ex.com/t/892725) 
-- [【V2EX】2022-11-04-怎么获取雀魂里的数据](https://www.v2ex.com/t/892724) 
-- [【V2EX】2022-11-04-最近国家大力扶持新能源行业，转行投资开个电动车电池工厂有木有前景](https://www.v2ex.com/t/892723) 
 - [【技术头条】2022-11-04-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-04-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-04-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -127,6 +123,22 @@
 - [【技术头条】2022-11-04-全球IPv4-AS拓扑测绘初探-blog.nsfocus.net](https://blogread.cn/news/go.php?idItem=15387&url=http%3A%2F%2Fblog.nsfocus.net%2Fipv4-as%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-04-与日俱进，在-Go-1.20-中这种高效转换的方式又变了-colobu.com](https://blogread.cn/news/go.php?idItem=15386&url=https%3A%2F%2Fcolobu.com%2F2022%2F09%2F06%2Fstring-byte-convertion%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-04-10-大可以摧毁你的-Linux-的命令-linux.cn](https://blogread.cn/news/go.php?idItem=15385&url=https%3A%2F%2Flinux.cn%2Farticle-15022-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【开发者头条】2022-11-04-IoT-运维：如何部署一套高可用-K8S-集群](https://toutiao.io/k/pzgvequ) 
+- [【开发者头条】2022-11-04-每个-C++-工程师都要了解的十个性能陷阱](https://toutiao.io/k/s1p9biy) 
+- [【开发者头条】2022-11-04-一步一图带你深入理解-Linux-虚拟内存管理](https://toutiao.io/k/d6580o6) 
+- [【开发者头条】2022-11-04-Redis-大-key-多-key-拆分方案](https://toutiao.io/k/4yfxfj2) 
+- [【开发者头条】2022-11-04-安全漏洞：SpringBoot-该如何预防-XSS-攻击？](https://toutiao.io/k/o3wesfc) 
+- [【开发者头条】2022-11-04-为何选-MPP-架构？](https://toutiao.io/k/3f3qlj8) 
+- [【开发者头条】2022-11-04-Python-3.11有哪些有用的新特性或者功能?](https://toutiao.io/k/2rrkmak) 
+- [【开发者头条】2022-11-04-Go-大佬良心发现，愿意给-map-加清除了？](https://toutiao.io/k/51qc8cp) 
+- [【开发者头条】2022-11-04-RocksDB-7-终于解决了-Compaction-时性能下降问题](https://toutiao.io/k/1h7uror) 
+- [【开发者头条】2022-11-04-Swift-Package-Manager-工程实践](https://toutiao.io/k/15b3gnj) 
+- [【开发者头条】2022-11-04-.NET-零开销抽象指南](https://toutiao.io/k/56ej42c) 
+- [【开发者头条】2022-11-04-图数据-3D-可视化在-Explorer-中的应用](https://toutiao.io/k/w06q7ne) 
+- [【开发者头条】2022-11-04-golang-源码分析：json格式请求grpc服务](https://toutiao.io/k/pr0kwwx) 
+- [【开发者头条】2022-11-04-双11前系统如何做好高可用](https://toutiao.io/k/huk9zfa) 
+- [【开发者头条】2022-11-04-聊聊运营活动的设计与实现逻辑](https://toutiao.io/k/dznftw6) 
+- [【开发者头条】2022-11-04-推荐-网易经验规整：ClickHouse-开发与使用规范大全](https://toutiao.io/k/nprygo2) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-04 15:15:15，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-04 15:45:46，:rocket: 更新条数: +2018， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-11-04-zlib-的-tg-机器人复活了，之前绑定过账号的可以通过-tg-机器人下载了](https://www.v2ex.com/t/892810) ![](assets/new.png)  
+- [2022-11-04-官宣要封岛-3-天了。很多人趁还有一点时间在离开](https://www.v2ex.com/t/892809) ![](assets/new.png)  
+- [2022-11-04-JetBrains-发布自动化测试-IDE-Aqua（预览版）](https://www.v2ex.com/t/892808) ![](assets/new.png)  
+- [2022-11-04-有人试过在-xbox-的-edge-中使用-yikm.net-吗？](https://www.v2ex.com/t/892806) ![](assets/new.png)  
 - [2022-11-04-AGPL-协议开源的软件如果想注明作者持有随时更换开源许可证的权利，对之后的版本生效，要求-PR-作者同意，应该写在许可证中还是-PR-的模板中？有没有开源项目有...](https://www.v2ex.com/t/892805) ![](assets/new.png)  
 - [2022-11-04-30-岁-ui-设计师想留学移民，该继续读设计还是转行做前端或者软件开发呢](https://www.v2ex.com/t/892804) ![](assets/new.png)  
 - [2022-11-04-疫情期间的跨省搬家有人有经验吗](https://www.v2ex.com/t/892802) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-11-04-个人养老金政策发布了，大家有什么看法？](https://www.v2ex.com/t/892788) ![](assets/new.png)  
 - [2022-11-04-矿卡性价比之选，大家给个建议](https://www.v2ex.com/t/892787) ![](assets/new.png)  
 - [2022-11-04-好焦虑啊](https://www.v2ex.com/t/892786) ![](assets/new.png)  
-- [2022-11-04-在筹备自己的开源项目文档，敬请不吝赐教！（第二弹）](https://www.v2ex.com/t/892785) ![](assets/new.png)  
-- [2022-11-04-最近收到-3-次说是-JD-客服打过来说要注销金条的电话，就没人管管吗？](https://www.v2ex.com/t/892781) ![](assets/new.png)  
-- [2022-11-04-amd-大降价!，历史第一次。](https://www.v2ex.com/t/892780) ![](assets/new.png)  
-- [2022-11-04-音乐社交是一个不存在的概念](https://www.v2ex.com/t/892779) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

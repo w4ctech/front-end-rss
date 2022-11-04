@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-04 14:39:29，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-04 15:15:15，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-11-04-AGPL-协议开源的软件如果想注明作者持有随时更换开源许可证的权利，对之后的版本生效，要求-PR-作者同意，应该写在许可证中还是-PR-的模板中？有没有开源项目有...](https://www.v2ex.com/t/892805) ![](assets/new.png)  
+- [2022-11-04-30-岁-ui-设计师想留学移民，该继续读设计还是转行做前端或者软件开发呢](https://www.v2ex.com/t/892804) ![](assets/new.png)  
+- [2022-11-04-疫情期间的跨省搬家有人有经验吗](https://www.v2ex.com/t/892802) ![](assets/new.png)  
+- [2022-11-04-三年多-C++-简历求指导-&-求职-&-职业规划困惑](https://www.v2ex.com/t/892801) ![](assets/new.png)  
 - [2022-11-04-很想买一款墨水屏平板电脑，有用过的说说，会沦落到吃灰的命运吗？](https://www.v2ex.com/t/892800) ![](assets/new.png)  
 - [2022-11-04-基于-chrome-开发的应用系统,-没人维护简直是灾难](https://www.v2ex.com/t/892799) ![](assets/new.png)  
 - [2022-11-04-win11-22H2-终于推送了](https://www.v2ex.com/t/892797) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-11-04-最近收到-3-次说是-JD-客服打过来说要注销金条的电话，就没人管管吗？](https://www.v2ex.com/t/892781) ![](assets/new.png)  
 - [2022-11-04-amd-大降价!，历史第一次。](https://www.v2ex.com/t/892780) ![](assets/new.png)  
 - [2022-11-04-音乐社交是一个不存在的概念](https://www.v2ex.com/t/892779) ![](assets/new.png)  
-- [2022-11-04-旁路由用-r70se-还是-mac-mini+surge](https://www.v2ex.com/t/892778) ![](assets/new.png)  
-- [2022-11-04-请问-B-站-TV-版（第三方）是不是只能看-360P-了？](https://www.v2ex.com/t/892775) ![](assets/new.png)  
-- [2022-11-04-B-站非官方-TV-客户端是不是最近被限制只能看-360P-清晰度的视频了？](https://www.v2ex.com/t/892773) ![](assets/new.png)  
-- [2022-11-04-双十一到了，你们都有啥购物清单呢](https://www.v2ex.com/t/892772) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -555,17 +555,17 @@
 
 - [2022-11-04-IoT-运维：如何部署一套高可用-K8S-集群](https://toutiao.io/k/pzgvequ) ![](assets/new.png)  
 - [2022-11-04-每个-C++-工程师都要了解的十个性能陷阱](https://toutiao.io/k/s1p9biy) ![](assets/new.png)  
-- [2022-11-04-一步一图带你深入理解-Linux-虚拟内存管理](https://toutiao.io/k/d6580o6) ![](assets/new.png)  
 - [2022-11-04-Redis-大-key-多-key-拆分方案](https://toutiao.io/k/4yfxfj2) ![](assets/new.png)  
+- [2022-11-04-一步一图带你深入理解-Linux-虚拟内存管理](https://toutiao.io/k/d6580o6) ![](assets/new.png)  
 - [2022-11-04-安全漏洞：SpringBoot-该如何预防-XSS-攻击？](https://toutiao.io/k/o3wesfc) ![](assets/new.png)  
 - [2022-11-04-为何选-MPP-架构？](https://toutiao.io/k/3f3qlj8) ![](assets/new.png)  
 - [2022-11-04-Python-3.11有哪些有用的新特性或者功能?](https://toutiao.io/k/2rrkmak) ![](assets/new.png)  
 - [2022-11-04-Go-大佬良心发现，愿意给-map-加清除了？](https://toutiao.io/k/51qc8cp) ![](assets/new.png)  
 - [2022-11-04-RocksDB-7-终于解决了-Compaction-时性能下降问题](https://toutiao.io/k/1h7uror) ![](assets/new.png)  
+- [2022-11-04-双11前系统如何做好高可用](https://toutiao.io/k/huk9zfa) ![](assets/new.png)  
+- [2022-11-04-图数据-3D-可视化在-Explorer-中的应用](https://toutiao.io/k/w06q7ne) ![](assets/new.png)  
 - [2022-11-04-.NET-零开销抽象指南](https://toutiao.io/k/56ej42c) ![](assets/new.png)  
 - [2022-11-04-Swift-Package-Manager-工程实践](https://toutiao.io/k/15b3gnj) ![](assets/new.png)  
-- [2022-11-04-图数据-3D-可视化在-Explorer-中的应用](https://toutiao.io/k/w06q7ne) ![](assets/new.png)  
-- [2022-11-04-双11前系统如何做好高可用](https://toutiao.io/k/huk9zfa) ![](assets/new.png)  
 - [2022-11-04-golang-源码分析：json格式请求grpc服务](https://toutiao.io/k/pr0kwwx) ![](assets/new.png)  
 - [2022-11-04-聊聊运营活动的设计与实现逻辑](https://toutiao.io/k/dznftw6) ![](assets/new.png)  
 - [2022-11-04-推荐-网易经验规整：ClickHouse-开发与使用规范大全](https://toutiao.io/k/nprygo2) ![](assets/new.png)  

@@ -9953,6 +9953,26 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "AGPL 协议开源的软件如果想注明作者持有随时更换开源许可证的权利，对之后的版本生效，要求 PR 作者同意，应该写在许可证中还是 PR 的模板中？有没有开源项目有...",
+        "link": "https://www.v2ex.com/t/892805",
+        "date": "2022-11-04"
+      },
+      {
+        "title": "30 岁 ui 设计师想留学移民，该继续读设计还是转行做前端或者软件开发呢",
+        "link": "https://www.v2ex.com/t/892804",
+        "date": "2022-11-04"
+      },
+      {
+        "title": "疫情期间的跨省搬家有人有经验吗",
+        "link": "https://www.v2ex.com/t/892802",
+        "date": "2022-11-04"
+      },
+      {
+        "title": "三年多 C++ 简历求指导 & 求职 & 职业规划困惑",
+        "link": "https://www.v2ex.com/t/892801",
+        "date": "2022-11-04"
+      },
+      {
         "title": "很想买一款墨水屏平板电脑，有用过的说说，会沦落到吃灰的命运吗？",
         "link": "https://www.v2ex.com/t/892800",
         "date": "2022-11-04"
@@ -10116,26 +10136,6 @@
         "title": "［ iOS］第三方 APP 还能获取设备 IMEI UUID 吗",
         "link": "https://www.v2ex.com/t/892756",
         "date": "2022-11-04"
-      },
-      {
-        "title": "Discord 客户端在 m1 mac 下的代理问题",
-        "link": "https://www.v2ex.com/t/892754",
-        "date": "2022-11-04"
-      },
-      {
-        "title": "随缘的兼职 -「优客计划」升级为公众号服务",
-        "link": "https://www.v2ex.com/t/892753",
-        "date": "2022-11-04"
-      },
-      {
-        "title": "求大佬推荐文档系统，类似 notion，可以私有化部署的",
-        "link": "https://www.v2ex.com/t/892752",
-        "date": "2022-11-04"
-      },
-      {
-        "title": "YouTube premium 土区涨价个人会员会涨吗",
-        "link": "https://www.v2ex.com/t/892751",
-        "date": "2022-11-04"
       }
     ]
   },
@@ -10262,13 +10262,13 @@
         "date": "2022-11-04"
       },
       {
-        "title": "一步一图带你深入理解 Linux 虚拟内存管理",
-        "link": "https://toutiao.io/k/d6580o6",
+        "title": "Redis 大 key 多 key 拆分方案",
+        "link": "https://toutiao.io/k/4yfxfj2",
         "date": "2022-11-04"
       },
       {
-        "title": "Redis 大 key 多 key 拆分方案",
-        "link": "https://toutiao.io/k/4yfxfj2",
+        "title": "一步一图带你深入理解 Linux 虚拟内存管理",
+        "link": "https://toutiao.io/k/d6580o6",
         "date": "2022-11-04"
       },
       {
@@ -10297,13 +10297,8 @@
         "date": "2022-11-04"
       },
       {
-        "title": ".NET 零开销抽象指南",
-        "link": "https://toutiao.io/k/56ej42c",
-        "date": "2022-11-04"
-      },
-      {
-        "title": "Swift Package Manager 工程实践",
-        "link": "https://toutiao.io/k/15b3gnj",
+        "title": "双11前系统如何做好高可用",
+        "link": "https://toutiao.io/k/huk9zfa",
         "date": "2022-11-04"
       },
       {
@@ -10312,8 +10307,13 @@
         "date": "2022-11-04"
       },
       {
-        "title": "双11前系统如何做好高可用",
-        "link": "https://toutiao.io/k/huk9zfa",
+        "title": ".NET 零开销抽象指南",
+        "link": "https://toutiao.io/k/56ej42c",
+        "date": "2022-11-04"
+      },
+      {
+        "title": "Swift Package Manager 工程实践",
+        "link": "https://toutiao.io/k/15b3gnj",
         "date": "2022-11-04"
       },
       {

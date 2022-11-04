@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-04 14:39:29。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-04 15:15:15。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,10 @@
 </summary>
 
 
+- [【V2EX】2022-11-04-AGPL-协议开源的软件如果想注明作者持有随时更换开源许可证的权利，对之后的版本生效，要求-PR-作者同意，应该写在许可证中还是-PR-的模板中？有没有开源项目有...](https://www.v2ex.com/t/892805) 
+- [【V2EX】2022-11-04-30-岁-ui-设计师想留学移民，该继续读设计还是转行做前端或者软件开发呢](https://www.v2ex.com/t/892804) 
+- [【V2EX】2022-11-04-疫情期间的跨省搬家有人有经验吗](https://www.v2ex.com/t/892802) 
+- [【V2EX】2022-11-04-三年多-C++-简历求指导-&-求职-&-职业规划困惑](https://www.v2ex.com/t/892801) 
 - [【V2EX】2022-11-04-很想买一款墨水屏平板电脑，有用过的说说，会沦落到吃灰的命运吗？](https://www.v2ex.com/t/892800) 
 - [【V2EX】2022-11-04-基于-chrome-开发的应用系统,-没人维护简直是灾难](https://www.v2ex.com/t/892799) 
 - [【V2EX】2022-11-04-win11-22H2-终于推送了](https://www.v2ex.com/t/892797) 
@@ -101,10 +105,6 @@
 - [【V2EX】2022-11-04-求一个-Mac-surge-上车](https://www.v2ex.com/t/892758) 
 - [【V2EX】2022-11-04-为啥-js-引用其他文件的函数相对来说要麻烦一些?](https://www.v2ex.com/t/892757) 
 - [【V2EX】2022-11-04-［-iOS］第三方-APP-还能获取设备-IMEI-UUID-吗](https://www.v2ex.com/t/892756) 
-- [【V2EX】2022-11-04-Discord-客户端在-m1-mac-下的代理问题](https://www.v2ex.com/t/892754) 
-- [【V2EX】2022-11-04-随缘的兼职--「优客计划」升级为公众号服务](https://www.v2ex.com/t/892753) 
-- [【V2EX】2022-11-04-求大佬推荐文档系统，类似-notion，可以私有化部署的](https://www.v2ex.com/t/892752) 
-- [【V2EX】2022-11-04-YouTube-premium-土区涨价个人会员会涨吗](https://www.v2ex.com/t/892751) 
 - [【技术头条】2022-11-04-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-04-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-04-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -127,17 +127,17 @@
 - [【技术头条】2022-11-04-10-大可以摧毁你的-Linux-的命令-linux.cn](https://blogread.cn/news/go.php?idItem=15385&url=https%3A%2F%2Flinux.cn%2Farticle-15022-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【开发者头条】2022-11-04-IoT-运维：如何部署一套高可用-K8S-集群](https://toutiao.io/k/pzgvequ) 
 - [【开发者头条】2022-11-04-每个-C++-工程师都要了解的十个性能陷阱](https://toutiao.io/k/s1p9biy) 
-- [【开发者头条】2022-11-04-一步一图带你深入理解-Linux-虚拟内存管理](https://toutiao.io/k/d6580o6) 
 - [【开发者头条】2022-11-04-Redis-大-key-多-key-拆分方案](https://toutiao.io/k/4yfxfj2) 
+- [【开发者头条】2022-11-04-一步一图带你深入理解-Linux-虚拟内存管理](https://toutiao.io/k/d6580o6) 
 - [【开发者头条】2022-11-04-安全漏洞：SpringBoot-该如何预防-XSS-攻击？](https://toutiao.io/k/o3wesfc) 
 - [【开发者头条】2022-11-04-为何选-MPP-架构？](https://toutiao.io/k/3f3qlj8) 
 - [【开发者头条】2022-11-04-Python-3.11有哪些有用的新特性或者功能?](https://toutiao.io/k/2rrkmak) 
 - [【开发者头条】2022-11-04-Go-大佬良心发现，愿意给-map-加清除了？](https://toutiao.io/k/51qc8cp) 
 - [【开发者头条】2022-11-04-RocksDB-7-终于解决了-Compaction-时性能下降问题](https://toutiao.io/k/1h7uror) 
+- [【开发者头条】2022-11-04-双11前系统如何做好高可用](https://toutiao.io/k/huk9zfa) 
+- [【开发者头条】2022-11-04-图数据-3D-可视化在-Explorer-中的应用](https://toutiao.io/k/w06q7ne) 
 - [【开发者头条】2022-11-04-.NET-零开销抽象指南](https://toutiao.io/k/56ej42c) 
 - [【开发者头条】2022-11-04-Swift-Package-Manager-工程实践](https://toutiao.io/k/15b3gnj) 
-- [【开发者头条】2022-11-04-图数据-3D-可视化在-Explorer-中的应用](https://toutiao.io/k/w06q7ne) 
-- [【开发者头条】2022-11-04-双11前系统如何做好高可用](https://toutiao.io/k/huk9zfa) 
 - [【开发者头条】2022-11-04-golang-源码分析：json格式请求grpc服务](https://toutiao.io/k/pr0kwwx) 
 - [【开发者头条】2022-11-04-聊聊运营活动的设计与实现逻辑](https://toutiao.io/k/dznftw6) 
 - [【开发者头条】2022-11-04-推荐-网易经验规整：ClickHouse-开发与使用规范大全](https://toutiao.io/k/nprygo2) 

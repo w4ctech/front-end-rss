@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-11-04 23:16:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-04 23:43:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-11-04-有没有什么工具可以把-excel-或-md-写好的-mysql-文档转成-SQL-脚本的](https://www.v2ex.com/t/892832) 
 - [2022-11-04-iOS-16.1，锁屏一段时间后解锁，-Wi-Fi-会断](https://www.v2ex.com/t/892830) 
 - [2022-11-04-如何通过-vpn-实现本地电脑与-k8s-集群的-Pod-互通](https://www.v2ex.com/t/892829) 
 - [2022-11-04-在公网-IPv4-严重缺乏的今天，最简单的获取方式是连接上海的公共-WiFi](https://www.v2ex.com/t/892826) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-04 23:16:38。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-04 23:43:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,7 @@
 </summary>
 
 
+- [【V2EX】2022-11-04-有没有什么工具可以把-excel-或-md-写好的-mysql-文档转成-SQL-脚本的](https://www.v2ex.com/t/892832) 
 - [【V2EX】2022-11-04-iOS-16.1，锁屏一段时间后解锁，-Wi-Fi-会断](https://www.v2ex.com/t/892830) 
 - [【V2EX】2022-11-04-如何通过-vpn-实现本地电脑与-k8s-集群的-Pod-互通](https://www.v2ex.com/t/892829) 
 - [【V2EX】2022-11-04-在公网-IPv4-严重缺乏的今天，最简单的获取方式是连接上海的公共-WiFi](https://www.v2ex.com/t/892826) 
@@ -138,8 +139,8 @@
 - [【开发者头条】2022-11-04-Swift-Package-Manager-工程实践](https://toutiao.io/k/15b3gnj) 
 - [【开发者头条】2022-11-04-golang-源码分析：json格式请求grpc服务](https://toutiao.io/k/pr0kwwx) 
 - [【开发者头条】2022-11-04-聊聊运营活动的设计与实现逻辑](https://toutiao.io/k/dznftw6) 
-- [【开发者头条】2022-11-04-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) 
 - [【开发者头条】2022-11-04-推荐-网易经验规整：ClickHouse-开发与使用规范大全](https://toutiao.io/k/nprygo2) 
+- [【开发者头条】2022-11-04-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

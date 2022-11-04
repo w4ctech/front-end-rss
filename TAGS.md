@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-11-04 09:14:24。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-04 09:40:26。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -123,6 +123,8 @@
 
 
 
+- [【V2EX】介于目前的-OTP-小程序都太丑，自己撸了一个，欢迎体验与反馈](https://www.v2ex.com/t/892733)
+- [【V2EX】AI-绘画作品搜索小程序—由滴滴-MPX-框架创建](https://www.v2ex.com/t/892732)
 - [【V2EX】求小程序可以接的高精度地图：百度、高德腾讯在农村精度不够。](https://www.v2ex.com/t/892725)
 - [......【查看更多】......](./details/tags/miniprogram.md)
 
@@ -332,7 +334,6 @@
 - [【张鑫旭-鑫空间-鑫生活】gitee上撸了个类似飞书OKR输入框的@提及项目](https://www.zhangxinxu.com/wordpress/2022/08/gitee-feishu-okr-at-mention/)
 - [【V2EX】GitHub-Sponsor-💗-but-using-Crypto...](https://www.v2ex.com/t/892726)
 - [【V2EX】GitHub-copilot-扣费](https://www.v2ex.com/t/892708)
-- [【V2EX】GitHub-Copilot-被告了，喜提集体诉讼](https://www.v2ex.com/t/892682)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

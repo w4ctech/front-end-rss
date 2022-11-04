@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-04 09:14:24。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-04 09:40:26。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,12 @@
 </summary>
 
 
+- [【V2EX】2022-11-04-有没有专门讲解万事万物的第一性原理的网站？](https://www.v2ex.com/t/892740) 
+- [【V2EX】2022-11-04-英伟达-NVIDIA-上海-高级分布式系统研发工程师--AI-基础架构](https://www.v2ex.com/t/892739) 
+- [【V2EX】2022-11-04-有没有可以根据磁力链接获取文件列表的工具库或者-API-服务？](https://www.v2ex.com/t/892738) 
+- [【V2EX】2022-11-04-失业俩月了，-10-月份花掉了-6000-块，惊掉下巴](https://www.v2ex.com/t/892737) 
+- [【V2EX】2022-11-04-介于目前的-OTP-小程序都太丑，自己撸了一个，欢迎体验与反馈](https://www.v2ex.com/t/892733) 
+- [【V2EX】2022-11-04-AI-绘画作品搜索小程序—由滴滴-MPX-框架创建](https://www.v2ex.com/t/892732) 
 - [【V2EX】2022-11-04-新一代-CI-即将到来！](https://www.v2ex.com/t/892731) 
 - [【V2EX】2022-11-04-国外服务器加国内-cdn，面向国内用户使用，这样会有什么问题吗？](https://www.v2ex.com/t/892729) 
 - [【V2EX】2022-11-04-最近很火的-LG-C2-42-寸可能并不适合作为显示器来用，别被那些视频博主忽悠了](https://www.v2ex.com/t/892728) 
@@ -102,15 +108,6 @@
 - [【V2EX】2022-11-04-南半球的-Apple-产品能在北半球直接使用吗，物理渣请教！](https://www.v2ex.com/t/892694) 
 - [【V2EX】2022-11-04-华强北的山寨苹果耳机是咋回事](https://www.v2ex.com/t/892693) 
 - [【V2EX】2022-11-04-以系统休眠（挂起到硬盘）的方式，-Win-与-Linux-之间"半重启"切换？（相当于暂停一个系统）](https://www.v2ex.com/t/892692) 
-- [【V2EX】2022-11-04-求推荐电话卡/流量卡](https://www.v2ex.com/t/892690) 
-- [【V2EX】2022-11-04-有什么好用的汇率查询-API？](https://www.v2ex.com/t/892689) 
-- [【V2EX】2022-11-04-Model-Y-21-款标续开了一年了，有什么想问的吗](https://www.v2ex.com/t/892688) 
-- [【V2EX】2022-11-04-求助！请推荐一个可以给-airpods-更换电池的靠谱淘宝店铺](https://www.v2ex.com/t/892687) 
-- [【V2EX】2022-11-04-腾讯云优惠服务器购买](https://www.v2ex.com/t/892686) 
-- [【V2EX】2022-11-04-电瓶车电池被迫要拿到屋里充电-焦虑](https://www.v2ex.com/t/892685) 
-- [【V2EX】2022-11-04-现在海淘邮寄有什么新政策吗?](https://www.v2ex.com/t/892684) 
-- [【V2EX】2022-11-04-各位有了解咖啡机的吗？](https://www.v2ex.com/t/892683) 
-- [【V2EX】2022-11-04-GitHub-Copilot-被告了，喜提集体诉讼](https://www.v2ex.com/t/892682) 
 - [【技术头条】2022-11-04-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-04-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-04-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

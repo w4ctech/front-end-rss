@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-04 09:14:23，:rocket: 更新条数: +2025， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-04 09:40:26，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-11-04-有没有专门讲解万事万物的第一性原理的网站？](https://www.v2ex.com/t/892740) ![](assets/new.png)  
+- [2022-11-04-英伟达-NVIDIA-上海-高级分布式系统研发工程师--AI-基础架构](https://www.v2ex.com/t/892739) ![](assets/new.png)  
+- [2022-11-04-有没有可以根据磁力链接获取文件列表的工具库或者-API-服务？](https://www.v2ex.com/t/892738) ![](assets/new.png)  
+- [2022-11-04-失业俩月了，-10-月份花掉了-6000-块，惊掉下巴](https://www.v2ex.com/t/892737) ![](assets/new.png)  
+- [2022-11-04-介于目前的-OTP-小程序都太丑，自己撸了一个，欢迎体验与反馈](https://www.v2ex.com/t/892733) ![](assets/new.png)  
+- [2022-11-04-AI-绘画作品搜索小程序—由滴滴-MPX-框架创建](https://www.v2ex.com/t/892732) ![](assets/new.png)  
 - [2022-11-04-新一代-CI-即将到来！](https://www.v2ex.com/t/892731) ![](assets/new.png)  
 - [2022-11-04-国外服务器加国内-cdn，面向国内用户使用，这样会有什么问题吗？](https://www.v2ex.com/t/892729) ![](assets/new.png)  
 - [2022-11-04-最近很火的-LG-C2-42-寸可能并不适合作为显示器来用，别被那些视频博主忽悠了](https://www.v2ex.com/t/892728) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-11-04-求助！求推荐好用的视频资料整理软件](https://www.v2ex.com/t/892716) ![](assets/new.png)  
 - [2022-11-04-Netgear-路由器刷机](https://www.v2ex.com/t/892715) ![](assets/new.png)  
 - [2022-11-04-VS-Code-的安装的扩展程序中的命令如何在-Terminal-中运行?](https://www.v2ex.com/t/892714) ![](assets/new.png)  
-- [2022-11-04-Windows-10-C-盘经常突然被塞满怎么办](https://www.v2ex.com/t/892713) ![](assets/new.png)  
-- [2022-11-04-新版-LeetCode-的界面里面如何查看用时和自己一样的代码？](https://www.v2ex.com/t/892711) ![](assets/new.png)  
-- [2022-11-04-Ubuntu-Rime-输入法两个问题](https://www.v2ex.com/t/892710) ![](assets/new.png)  
-- [2022-11-04-求助-65532-是如何转成-float--0.02-这个数的](https://www.v2ex.com/t/892709) ![](assets/new.png)  
-- [2022-11-04-GitHub-copilot-扣费](https://www.v2ex.com/t/892708) ![](assets/new.png)  
-- [2022-11-04-中亚也可以买-ATV-了](https://www.v2ex.com/t/892707) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-04 10:16:25。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-04 10:44:00。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,10 @@
 </summary>
 
 
+- [【V2EX】2022-11-04-Discord-客户端在-m1-mac-下的代理问题](https://www.v2ex.com/t/892754) 
+- [【V2EX】2022-11-04-随缘的兼职--「优客计划」升级为公众号服务](https://www.v2ex.com/t/892753) 
+- [【V2EX】2022-11-04-求大佬推荐文档系统，类似-notion，可以私有化部署的](https://www.v2ex.com/t/892752) 
+- [【V2EX】2022-11-04-YouTube-premium-土区涨价个人会员会涨吗](https://www.v2ex.com/t/892751) 
 - [【V2EX】2022-11-04-go-写业务，也可以很简单](https://www.v2ex.com/t/892750) 
 - [【V2EX】2022-11-04-好烦呀-Zlib-寄寄了](https://www.v2ex.com/t/892749) 
 - [【V2EX】2022-11-04-是否转向-vr/ar/mr-行业](https://www.v2ex.com/t/892748) 
@@ -103,10 +107,6 @@
 - [【V2EX】2022-11-04-中亚也可以买-ATV-了](https://www.v2ex.com/t/892707) 
 - [【V2EX】2022-11-04-送小孩礼物](https://www.v2ex.com/t/892706) 
 - [【V2EX】2022-11-04-开源论坛软件推荐（node.js/React/Sqlite）无依赖一键部署启动](https://www.v2ex.com/t/892705) 
-- [【V2EX】2022-11-04-大家是怎么养自己的征信的？](https://www.v2ex.com/t/892704) 
-- [【V2EX】2022-11-04-nbio-近期的一些功能更新，来骗点-star](https://www.v2ex.com/t/892703) 
-- [【V2EX】2022-11-04-关于-wpf-文件打包-exe-的问题](https://www.v2ex.com/t/892702) 
-- [【V2EX】2022-11-04-请教一个-Eth-合约调用-Gas-的计算问题.](https://www.v2ex.com/t/892701) 
 - [【技术头条】2022-11-04-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-04-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-04-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -134,8 +134,8 @@
 - [【开发者头条】2022-11-04-为何选-MPP-架构？](https://toutiao.io/k/3f3qlj8) 
 - [【开发者头条】2022-11-04-安全漏洞：SpringBoot-该如何预防-XSS-攻击？](https://toutiao.io/k/o3wesfc) 
 - [【开发者头条】2022-11-04-Python-3.11有哪些有用的新特性或者功能?](https://toutiao.io/k/2rrkmak) 
-- [【开发者头条】2022-11-04-RocksDB-7-终于解决了-Compaction-时性能下降问题](https://toutiao.io/k/1h7uror) 
 - [【开发者头条】2022-11-04-Go-大佬良心发现，愿意给-map-加清除了？](https://toutiao.io/k/51qc8cp) 
+- [【开发者头条】2022-11-04-RocksDB-7-终于解决了-Compaction-时性能下降问题](https://toutiao.io/k/1h7uror) 
 - [【开发者头条】2022-11-04-.NET-零开销抽象指南](https://toutiao.io/k/56ej42c) 
 - [【开发者头条】2022-11-04-图数据-3D-可视化在-Explorer-中的应用](https://toutiao.io/k/w06q7ne) 
 - [【开发者头条】2022-11-04-Swift-Package-Manager-工程实践](https://toutiao.io/k/15b3gnj) 

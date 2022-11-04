@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-04 10:16:25，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-04 10:44:00，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-11-04-Discord-客户端在-m1-mac-下的代理问题](https://www.v2ex.com/t/892754) ![](assets/new.png)  
+- [2022-11-04-随缘的兼职--「优客计划」升级为公众号服务](https://www.v2ex.com/t/892753) ![](assets/new.png)  
+- [2022-11-04-求大佬推荐文档系统，类似-notion，可以私有化部署的](https://www.v2ex.com/t/892752) ![](assets/new.png)  
+- [2022-11-04-YouTube-premium-土区涨价个人会员会涨吗](https://www.v2ex.com/t/892751) ![](assets/new.png)  
 - [2022-11-04-go-写业务，也可以很简单](https://www.v2ex.com/t/892750) ![](assets/new.png)  
 - [2022-11-04-好烦呀-Zlib-寄寄了](https://www.v2ex.com/t/892749) ![](assets/new.png)  
 - [2022-11-04-是否转向-vr/ar/mr-行业](https://www.v2ex.com/t/892748) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-11-04-新一代-CI-即将到来！](https://www.v2ex.com/t/892731) ![](assets/new.png)  
 - [2022-11-04-国外服务器加国内-cdn，面向国内用户使用，这样会有什么问题吗？](https://www.v2ex.com/t/892729) ![](assets/new.png)  
 - [2022-11-04-最近很火的-LG-C2-42-寸可能并不适合作为显示器来用，别被那些视频博主忽悠了](https://www.v2ex.com/t/892728) ![](assets/new.png)  
-- [2022-11-04-GitHub-Sponsor-💗-but-using-Crypto...](https://www.v2ex.com/t/892726) ![](assets/new.png)  
-- [2022-11-04-求小程序可以接的高精度地图：百度、高德腾讯在农村精度不够。](https://www.v2ex.com/t/892725) ![](assets/new.png)  
-- [2022-11-04-怎么获取雀魂里的数据](https://www.v2ex.com/t/892724) ![](assets/new.png)  
-- [2022-11-04-最近国家大力扶持新能源行业，转行投资开个电动车电池工厂有木有前景](https://www.v2ex.com/t/892723) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -560,8 +560,8 @@
 - [2022-11-04-为何选-MPP-架构？](https://toutiao.io/k/3f3qlj8) ![](assets/new.png)  
 - [2022-11-04-安全漏洞：SpringBoot-该如何预防-XSS-攻击？](https://toutiao.io/k/o3wesfc) ![](assets/new.png)  
 - [2022-11-04-Python-3.11有哪些有用的新特性或者功能?](https://toutiao.io/k/2rrkmak) ![](assets/new.png)  
-- [2022-11-04-RocksDB-7-终于解决了-Compaction-时性能下降问题](https://toutiao.io/k/1h7uror) ![](assets/new.png)  
 - [2022-11-04-Go-大佬良心发现，愿意给-map-加清除了？](https://toutiao.io/k/51qc8cp) ![](assets/new.png)  
+- [2022-11-04-RocksDB-7-终于解决了-Compaction-时性能下降问题](https://toutiao.io/k/1h7uror) ![](assets/new.png)  
 - [2022-11-04-.NET-零开销抽象指南](https://toutiao.io/k/56ej42c) ![](assets/new.png)  
 - [2022-11-04-图数据-3D-可视化在-Explorer-中的应用](https://toutiao.io/k/w06q7ne) ![](assets/new.png)  
 - [2022-11-04-Swift-Package-Manager-工程实践](https://toutiao.io/k/15b3gnj) ![](assets/new.png)  

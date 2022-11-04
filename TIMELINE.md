@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-04 07:14:04。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-04 07:38:15。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,15 @@
 </summary>
 
 
+- [【V2EX】2022-11-04-招募海外软件运营人员-1-名](https://www.v2ex.com/t/892677) 
+- [【V2EX】2022-11-04-智慧校园、智慧酒店有哪些成熟方案和头部供应商？](https://www.v2ex.com/t/892676) 
+- [【V2EX】2022-11-04-古人的感悟-今人的迷惑](https://www.v2ex.com/t/892672) 
+- [【V2EX】2022-11-04-有没有轻一些的安卓性能机](https://www.v2ex.com/t/892671) 
+- [【V2EX】2022-11-04-你觉得-2022-年度值得买的电子产品有哪些？](https://www.v2ex.com/t/892670) 
+- [【V2EX】2022-11-04-Java-on-Azure-Tooling-的更新-–-2022-年-10-月-Azure-Functions-Deployment-Slot-支持与最新的路线图](https://www.v2ex.com/t/892669) 
+- [【V2EX】2022-11-04-ios-平台有可以自定义-mp3-快进快退时间的免费-app-吗，学英语用](https://www.v2ex.com/t/892668) 
+- [【V2EX】2022-11-04-求-Android-3D-Model-显示框架](https://www.v2ex.com/t/892666) 
+- [【V2EX】2022-11-04-编程入门一定要从语法开始吗？感觉从工程更快一些啊，问一问大家的看法](https://www.v2ex.com/t/892664) 
 - [【V2EX】2022-11-04-分享一下搬新家的网络解决方案，拉满了](https://www.v2ex.com/t/892663) 
 - [【V2EX】2022-11-04-写了一个投胎模拟器](https://www.v2ex.com/t/892662) 
 - [【V2EX】2022-11-04-华为出-3-年服务器活动，-2-核-4g5m3-年-1093，最大-16-核-64g10m](https://www.v2ex.com/t/892661) 
@@ -91,16 +100,6 @@
 - [【V2EX】2022-11-04-我的-hotmail-邮箱无法登录了,-是因为长期未登录而被删除了吗?](https://www.v2ex.com/t/892631) 
 - [【V2EX】2022-11-04-求教-github-加速](https://www.v2ex.com/t/892630) 
 - [【V2EX】2022-11-04-VMware-Fusion-Pro-11-Mac-能打开-windows-的-VMware16-的虚拟机镜像吗？](https://www.v2ex.com/t/892629) 
-- [【V2EX】2022-11-04-iOS-版度盘下载的文件现在都没法本地查看了？压缩包类型的](https://www.v2ex.com/t/892627) 
-- [【V2EX】2022-11-04-用了-10-年的微信被炸了……](https://www.v2ex.com/t/892626) 
-- [【V2EX】2022-11-04-Windows-下多人共享的网盘类工具？](https://www.v2ex.com/t/892625) 
-- [【V2EX】2022-11-04-看-netlix-视频需要多高的带宽](https://www.v2ex.com/t/892623) 
-- [【V2EX】2022-11-04-机械键盘是不是很容易连击？](https://www.v2ex.com/t/892621) 
-- [【V2EX】2022-11-04-有没有老哥用过这款-kvm-切换器](https://www.v2ex.com/t/892620) 
-- [【V2EX】2022-11-04-双-11-来了，想买台-3d-打印机玩玩，有推荐的吗](https://www.v2ex.com/t/892619) 
-- [【V2EX】2022-11-04-8-年+-Java-1-年+rust-求远程](https://www.v2ex.com/t/892618) 
-- [【V2EX】2022-11-04-广州---腰椎间盘突出，应不应该去做微创手术？](https://www.v2ex.com/t/892616) 
-- [【V2EX】2022-11-04-flutter+go-写了个下载器，全平台可以用，支持-http-和-bt-协议](https://www.v2ex.com/t/892614) 
 - [【技术头条】2022-11-04-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-04-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-04-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

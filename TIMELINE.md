@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-04 11:38:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-04 12:29:48。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,13 @@
 </summary>
 
 
+- [【V2EX】2022-11-04-双十一到了，你们都有啥购物清单呢](https://www.v2ex.com/t/892772) 
+- [【V2EX】2022-11-04-雷电硬盘盒-外置系统-不能触发雷电？](https://www.v2ex.com/t/892771) 
+- [【V2EX】2022-11-04-中亚是怎么转成自己的链接](https://www.v2ex.com/t/892770) 
+- [【V2EX】2022-11-04-Ventura-的-safari-看视频会竖过来，是什么-bug？](https://www.v2ex.com/t/892769) 
+- [【V2EX】2022-11-04-利用-certbot-的-webroot-给-SSL-更新的注意事项](https://www.v2ex.com/t/892768) 
+- [【V2EX】2022-11-04-6-个月实习期的游戏公司可以去吗？](https://www.v2ex.com/t/892767) 
+- [【V2EX】2022-11-04-Anydesk-在-4K-屏幕下的界面没有正常缩放](https://www.v2ex.com/t/892764) 
 - [【V2EX】2022-11-04-写了一个练习的-eth-钱包小应用，分享一下](https://www.v2ex.com/t/892763) 
 - [【V2EX】2022-11-04-从负责人混成打杂，还不想看书，哈哈，为自己悲哀](https://www.v2ex.com/t/892762) 
 - [【V2EX】2022-11-04-有沒有在-la-的前後端開發？](https://www.v2ex.com/t/892760) 
@@ -100,13 +107,6 @@
 - [【V2EX】2022-11-04-求小程序可以接的高精度地图：百度、高德腾讯在农村精度不够。](https://www.v2ex.com/t/892725) 
 - [【V2EX】2022-11-04-怎么获取雀魂里的数据](https://www.v2ex.com/t/892724) 
 - [【V2EX】2022-11-04-最近国家大力扶持新能源行业，转行投资开个电动车电池工厂有木有前景](https://www.v2ex.com/t/892723) 
-- [【V2EX】2022-11-04-求教，-24-小时过期删除思路](https://www.v2ex.com/t/892722) 
-- [【V2EX】2022-11-04-中国大陆地区到-Vultr-全球机房简单测试](https://www.v2ex.com/t/892720) 
-- [【V2EX】2022-11-04-聊聊东南亚工作，大家会考虑往东南亚发展吗？](https://www.v2ex.com/t/892719) 
-- [【V2EX】2022-11-04-发现个好东西](https://www.v2ex.com/t/892717) 
-- [【V2EX】2022-11-04-求助！求推荐好用的视频资料整理软件](https://www.v2ex.com/t/892716) 
-- [【V2EX】2022-11-04-Netgear-路由器刷机](https://www.v2ex.com/t/892715) 
-- [【V2EX】2022-11-04-VS-Code-的安装的扩展程序中的命令如何在-Terminal-中运行?](https://www.v2ex.com/t/892714) 
 - [【技术头条】2022-11-04-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-04-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-04-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -127,22 +127,6 @@
 - [【技术头条】2022-11-04-全球IPv4-AS拓扑测绘初探-blog.nsfocus.net](https://blogread.cn/news/go.php?idItem=15387&url=http%3A%2F%2Fblog.nsfocus.net%2Fipv4-as%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-04-与日俱进，在-Go-1.20-中这种高效转换的方式又变了-colobu.com](https://blogread.cn/news/go.php?idItem=15386&url=https%3A%2F%2Fcolobu.com%2F2022%2F09%2F06%2Fstring-byte-convertion%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-04-10-大可以摧毁你的-Linux-的命令-linux.cn](https://blogread.cn/news/go.php?idItem=15385&url=https%3A%2F%2Flinux.cn%2Farticle-15022-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [【开发者头条】2022-11-04-IoT-运维：如何部署一套高可用-K8S-集群](https://toutiao.io/k/pzgvequ) 
-- [【开发者头条】2022-11-04-每个-C++-工程师都要了解的十个性能陷阱](https://toutiao.io/k/s1p9biy) 
-- [【开发者头条】2022-11-04-一步一图带你深入理解-Linux-虚拟内存管理](https://toutiao.io/k/d6580o6) 
-- [【开发者头条】2022-11-04-Redis-大-key-多-key-拆分方案](https://toutiao.io/k/4yfxfj2) 
-- [【开发者头条】2022-11-04-为何选-MPP-架构？](https://toutiao.io/k/3f3qlj8) 
-- [【开发者头条】2022-11-04-安全漏洞：SpringBoot-该如何预防-XSS-攻击？](https://toutiao.io/k/o3wesfc) 
-- [【开发者头条】2022-11-04-Python-3.11有哪些有用的新特性或者功能?](https://toutiao.io/k/2rrkmak) 
-- [【开发者头条】2022-11-04-RocksDB-7-终于解决了-Compaction-时性能下降问题](https://toutiao.io/k/1h7uror) 
-- [【开发者头条】2022-11-04-Go-大佬良心发现，愿意给-map-加清除了？](https://toutiao.io/k/51qc8cp) 
-- [【开发者头条】2022-11-04-.NET-零开销抽象指南](https://toutiao.io/k/56ej42c) 
-- [【开发者头条】2022-11-04-Swift-Package-Manager-工程实践](https://toutiao.io/k/15b3gnj) 
-- [【开发者头条】2022-11-04-图数据-3D-可视化在-Explorer-中的应用](https://toutiao.io/k/w06q7ne) 
-- [【开发者头条】2022-11-04-golang-源码分析：json格式请求grpc服务](https://toutiao.io/k/pr0kwwx) 
-- [【开发者头条】2022-11-04-双11前系统如何做好高可用](https://toutiao.io/k/huk9zfa) 
-- [【开发者头条】2022-11-04-聊聊运营活动的设计与实现逻辑](https://toutiao.io/k/dznftw6) 
-- [【开发者头条】2022-11-04-推荐-网易经验规整：ClickHouse-开发与使用规范大全](https://toutiao.io/k/nprygo2) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

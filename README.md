@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-05 04:03:53，:rocket: 更新条数: +2013， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-05 04:52:04，:rocket: 更新条数: +2015， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,13 @@
 </summary>
 
 
+- [2022-11-05-telegram-封号规则？](https://www.v2ex.com/t/892880) ![](assets/new.png)  
+- [2022-11-05-Netch-不能使用是什么问题](https://www.v2ex.com/t/892879) ![](assets/new.png)  
+- [2022-11-05-想在成都找一份-web-前端的工作](https://www.v2ex.com/t/892878) ![](assets/new.png)  
+- [2022-11-05--Aqua-Menu-Bar.app-让你用回经典-Mac-菜单栏](https://www.v2ex.com/t/892877) ![](assets/new.png)  
+- [2022-11-05-YubiKey-优惠组队](https://www.v2ex.com/t/892876) ![](assets/new.png)  
+- [2022-11-05-老哥们，家长总是买一些直播带货的杂牌物品，怎么办呀-？](https://www.v2ex.com/t/892875) ![](assets/new.png)  
+- [2022-11-05-酷安官方：“部分酷友信息已被取证，后续可能会被提起法律诉讼。”](https://www.v2ex.com/t/892874) ![](assets/new.png)  
 - [2022-11-05-今天开始学习双拼](https://www.v2ex.com/t/892873) ![](assets/new.png)  
 - [2022-11-05-用的-13-，昨天发现墙纸打不开了，应该怎么解决？](https://www.v2ex.com/t/892872) ![](assets/new.png)  
 - [2022-11-05-人在国内年入-12-万美元欧洲远程工作四年经验分享（三）](https://www.v2ex.com/t/892871) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-11-05-设计模式项目推荐）](https://www.v2ex.com/t/892862) ![](assets/new.png)  
 - [2022-11-05-V2-免代理可访问了？](https://www.v2ex.com/t/892860) ![](assets/new.png)  
 - [2022-11-05-学习周刊-总第-78-期-k8s-管理平台与可视化正则](https://www.v2ex.com/t/892859) ![](assets/new.png)  
-- [2022-11-05-求推荐用于学习虚拟机的迷你-Linux-主机](https://www.v2ex.com/t/892858) ![](assets/new.png)  
-- [2022-11-05-远程/兼职-Listary-招聘啦，桌面端/全栈，一起打造精品桌面应用](https://www.v2ex.com/t/892856) ![](assets/new.png)  
-- [2022-11-05-有朋友试过-airpods-pro1-耳机加-2-代耳机盒使用吗](https://www.v2ex.com/t/892855) ![](assets/new.png)  
-- [2022-11-05-内推-知名外企-Cloud-System-Engineer-系统工程师](https://www.v2ex.com/t/892854) ![](assets/new.png)  
-- [2022-11-05-天文遐想，近一年接触摄影和拍摄星空银河之后，一直很好奇，银河的全貌到底长啥样](https://www.v2ex.com/t/892853) ![](assets/new.png)  
-- [2022-11-05-开源-博客系统](https://www.v2ex.com/t/892851) ![](assets/new.png)  
-- [2022-11-05-出-USDT，要的来？](https://www.v2ex.com/t/892850) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -561,8 +561,8 @@
 - [2022-11-05-一次-MySQL-查询导致-CPU-飙升的排查记录](https://toutiao.io/k/m4qbj4w) ![](assets/new.png)  
 - [2022-11-05-立足对国产-CPU-平台的思考，贡献社区：OpenPPL-在中国开源年会的演讲](https://toutiao.io/k/ny6eloq) ![](assets/new.png)  
 - [2022-11-05-检索式对话系统在美团客服场景的探索与实践](https://toutiao.io/k/eg7cx8l) ![](assets/new.png)  
-- [2022-11-05-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) ![](assets/new.png)  
 - [2022-11-05-推荐-网易经验规整：ClickHouse-开发与使用规范大全](https://toutiao.io/k/nprygo2) ![](assets/new.png)  
+- [2022-11-05-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

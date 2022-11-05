@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-11-05 04:52:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-05 05:13:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-11-05-2022-近年底，你们降薪了吗？我降了-:-](https://www.v2ex.com/t/892882) 
 - [2022-11-05-telegram-封号规则？](https://www.v2ex.com/t/892880) 
 - [2022-11-05-Netch-不能使用是什么问题](https://www.v2ex.com/t/892879) 
 - [2022-11-05-想在成都找一份-web-前端的工作](https://www.v2ex.com/t/892878) 
@@ -42,5 +43,3 @@
 - [2022-11-05-浏览器不登录-B-站能否有查看所有评论的方法？](https://www.v2ex.com/t/892837) 
 - [2022-11-05-Today-is-your-last-working-day-at-the-company](https://www.v2ex.com/t/892836) 
 - [2022-11-05-请教大佬，-TP-Link-AX6000-值得入手吗](https://www.v2ex.com/t/892834) 
-- [2022-11-04-上海-不加班-外企-招-中级-Java-、前端3-年经验起，中级测试3-年经验起，高级安卓，中级-devOps（3-年起）和-C++-实习](https://www.v2ex.com/t/892833) 
-- [2022-11-04-有没有什么工具可以把-excel-或-md-写好的-mysql-文档转成-SQL-脚本的](https://www.v2ex.com/t/892832) 

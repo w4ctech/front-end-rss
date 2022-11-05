@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-05 04:52:04，:rocket: 更新条数: +2015， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-05 05:13:22，:rocket: 更新条数: +2014， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-11-05-2022-近年底，你们降薪了吗？我降了-:-](https://www.v2ex.com/t/892882) ![](assets/new.png)  
 - [2022-11-05-telegram-封号规则？](https://www.v2ex.com/t/892880) ![](assets/new.png)  
 - [2022-11-05-Netch-不能使用是什么问题](https://www.v2ex.com/t/892879) ![](assets/new.png)  
 - [2022-11-05-想在成都找一份-web-前端的工作](https://www.v2ex.com/t/892878) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-11-05-大家有什么推荐的爵士乐吗？](https://www.v2ex.com/t/892863) ![](assets/new.png)  
 - [2022-11-05-设计模式项目推荐）](https://www.v2ex.com/t/892862) ![](assets/new.png)  
 - [2022-11-05-V2-免代理可访问了？](https://www.v2ex.com/t/892860) ![](assets/new.png)  
-- [2022-11-05-学习周刊-总第-78-期-k8s-管理平台与可视化正则](https://www.v2ex.com/t/892859) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -561,8 +561,8 @@
 - [2022-11-05-一次-MySQL-查询导致-CPU-飙升的排查记录](https://toutiao.io/k/m4qbj4w) ![](assets/new.png)  
 - [2022-11-05-立足对国产-CPU-平台的思考，贡献社区：OpenPPL-在中国开源年会的演讲](https://toutiao.io/k/ny6eloq) ![](assets/new.png)  
 - [2022-11-05-检索式对话系统在美团客服场景的探索与实践](https://toutiao.io/k/eg7cx8l) ![](assets/new.png)  
-- [2022-11-05-推荐-网易经验规整：ClickHouse-开发与使用规范大全](https://toutiao.io/k/nprygo2) ![](assets/new.png)  
 - [2022-11-05-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) ![](assets/new.png)  
+- [2022-11-05-推荐-网易经验规整：ClickHouse-开发与使用规范大全](https://toutiao.io/k/nprygo2) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

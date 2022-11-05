@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-05 10:16:05。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-05 10:43:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,7 @@
 </summary>
 
 
+- [【V2EX】2022-11-05-Angular-SPA-分包加载后如果不同包没有同时更新，跳转路由经常会导致浏览器缓存的旧版本的包被加载，必须要手动刷新一下，怎么解决？](https://www.v2ex.com/t/892950) 
 - [【V2EX】2022-11-05-手机里突然在同一个目录里出现三个-Android-文件夹](https://www.v2ex.com/t/892949) 
 - [【V2EX】2022-11-05-马斯克算厚道吗？](https://www.v2ex.com/t/892948) 
 - [【V2EX】2022-11-05-分享一下我做的工具箱，基于-WPF，可以谷歌翻译。](https://www.v2ex.com/t/892947) 
@@ -106,8 +107,6 @@
 - [【V2EX】2022-11-05-求支持多用户的-web-邮箱系统](https://www.v2ex.com/t/892907) 
 - [【V2EX】2022-11-05-想做一个可以实现可以实现将代码通过-git-加密同步到平台的工具，如果有同类产品求劝退](https://www.v2ex.com/t/892905) 
 - [【V2EX】2022-11-05-老哥们给电脑估个价并给点意见](https://www.v2ex.com/t/892903) 
-- [【V2EX】2022-11-05-六年老前端有公司要吗](https://www.v2ex.com/t/892901) 
-- [【V2EX】2022-11-05-向大佬们请教下-http-协议](https://www.v2ex.com/t/892900) 
 - [【技术头条】2022-11-05-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-05-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-05-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

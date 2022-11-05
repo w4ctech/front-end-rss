@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-05 10:16:05，:rocket: 更新条数: +2018， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-05 10:43:21，:rocket: 更新条数: +2017， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-11-05-Angular-SPA-分包加载后如果不同包没有同时更新，跳转路由经常会导致浏览器缓存的旧版本的包被加载，必须要手动刷新一下，怎么解决？](https://www.v2ex.com/t/892950) ![](assets/new.png)  
 - [2022-11-05-手机里突然在同一个目录里出现三个-Android-文件夹](https://www.v2ex.com/t/892949) ![](assets/new.png)  
 - [2022-11-05-马斯克算厚道吗？](https://www.v2ex.com/t/892948) ![](assets/new.png)  
 - [2022-11-05-分享一下我做的工具箱，基于-WPF，可以谷歌翻译。](https://www.v2ex.com/t/892947) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-11-05-如何使用-Redis-或其它方法使多个程序的-EF-Core-共享缓存？现在程序-1-修改数据库后，程序-2-Find-/-Include-之类的方法拿到的都是修改前的值，必须重启程序-2...](https://www.v2ex.com/t/892930) ![](assets/new.png)  
 - [2022-11-05-请问一下各位是怎么解决键盘印问题的？](https://www.v2ex.com/t/892929) ![](assets/new.png)  
 - [2022-11-05-请教一个-Google-Docs-的网络请求的抓包](https://www.v2ex.com/t/892928) ![](assets/new.png)  
-- [2022-11-05-看这波裁员，-AI-和大数据这股风估计要凉了](https://www.v2ex.com/t/892927) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

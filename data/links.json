@@ -9953,6 +9953,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "Angular SPA 分包加载后如果不同包没有同时更新，跳转路由经常会导致浏览器缓存的旧版本的包被加载，必须要手动刷新一下，怎么解决？",
+        "link": "https://www.v2ex.com/t/892950",
+        "date": "2022-11-05"
+      },
+      {
         "title": "手机里突然在同一个目录里出现三个 Android 文件夹",
         "link": "https://www.v2ex.com/t/892949",
         "date": "2022-11-05"
@@ -10140,16 +10145,6 @@
       {
         "title": "老哥们给电脑估个价并给点意见",
         "link": "https://www.v2ex.com/t/892903",
-        "date": "2022-11-05"
-      },
-      {
-        "title": "六年老前端有公司要吗",
-        "link": "https://www.v2ex.com/t/892901",
-        "date": "2022-11-05"
-      },
-      {
-        "title": "向大佬们请教下 http 协议",
-        "link": "https://www.v2ex.com/t/892900",
         "date": "2022-11-05"
       }
     ]

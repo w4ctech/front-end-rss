@@ -1,10 +1,15 @@
-:alarm_clock: 更新时间: 2022-11-05 13:02:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-05 13:35:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-11-05-如何查询自己-B-站账户发过的评论和弹幕?](https://www.v2ex.com/t/892980) 
+- [2022-11-05-怎么实现对翻译引擎的术语库进行自定义](https://www.v2ex.com/t/892979) 
+- [2022-11-05-大哥们，-VMware-Fusion-Pro-11-Mac-怎么导入-windows-上-VMware16-的虚拟机镜像啊？](https://www.v2ex.com/t/892977) 
+- [2022-11-05-iPad-Pro-2021-扩展坞接显示器没反应](https://www.v2ex.com/t/892976) 
+- [2022-11-05-请问有单机版吃鸡游戏吗？那种-VS-人机的.](https://www.v2ex.com/t/892975) 
 - [2022-11-05-跨城搬家大家有操作过，求支招](https://www.v2ex.com/t/892974) 
 - [2022-11-05-我一直很认同“程序员拼的不是打字速度”，直到我看了这个视频……](https://www.v2ex.com/t/892973) 
 - [2022-11-05-pycharm-的-pycharm.vmoptions-路径怎么重设](https://www.v2ex.com/t/892972) 
@@ -38,8 +43,3 @@
 - [2022-11-05-c#-多年-winform-,wpf，求远程，电鸭有托吗](https://www.v2ex.com/t/892935) 
 - [2022-11-05-家里一地鸡毛，真心求助各位老哥前辈们](https://www.v2ex.com/t/892932) 
 - [2022-11-05-请问-Macbook-Air-M1-版安装-parallels-18-长时间运行续航怎么样？](https://www.v2ex.com/t/892931) 
-- [2022-11-05-如何使用-Redis-或其它方法使多个程序的-EF-Core-共享缓存？现在程序-1-修改数据库后，程序-2-Find-/-Include-之类的方法拿到的都是修改前的值，必须重启程序-2...](https://www.v2ex.com/t/892930) 
-- [2022-11-05-请问一下各位是怎么解决键盘印问题的？](https://www.v2ex.com/t/892929) 
-- [2022-11-05-请教一个-Google-Docs-的网络请求的抓包](https://www.v2ex.com/t/892928) 
-- [2022-11-05-看这波裁员，-AI-和大数据这股风估计要凉了](https://www.v2ex.com/t/892927) 
-- [2022-11-05-从应用日志中提取监控-metrics](https://www.v2ex.com/t/892925) 

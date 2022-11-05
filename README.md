@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-05 05:38:57，:rocket: 更新条数: +2013， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-05 06:18:08，:rocket: 更新条数: +2014， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-11-05-macbook-air-m2-用线单接显示器可以吗？](https://www.v2ex.com/t/892897) ![](assets/new.png)  
+- [2022-11-05-内燃机为啥最终被设计成了活塞往复这种形态](https://www.v2ex.com/t/892896) ![](assets/new.png)  
+- [2022-11-05-奇怪，服务器被-D-了](https://www.v2ex.com/t/892891) ![](assets/new.png)  
+- [2022-11-05-Alook-播放-YouTube-时如何选择视频分辨率](https://www.v2ex.com/t/892890) ![](assets/new.png)  
+- [2022-11-05-出一个甲骨文春川，-130-天，带邮箱，-270](https://www.v2ex.com/t/892888) ![](assets/new.png)  
 - [2022-11-05-环境-Windows10，-CMD-窗口运行。yt-dlp+aria2-使用的时候，如何在下载失败的时候，删除缓存文件](https://www.v2ex.com/t/892887) ![](assets/new.png)  
 - [2022-11-05-红米-K50U-刷欧洲版适配那个型号？](https://www.v2ex.com/t/892885) ![](assets/new.png)  
 - [2022-11-05-2022-近年底，你们降薪了吗？我降了-:-](https://www.v2ex.com/t/892882) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-11-05-人在国内年入-12-万美元欧洲远程工作四年经验分享（三）](https://www.v2ex.com/t/892871) ![](assets/new.png)  
 - [2022-11-05-想组装一台-8-代顶配的台式机，有推荐的渠道吗？](https://www.v2ex.com/t/892870) ![](assets/new.png)  
 - [2022-11-05-东北大米选购指北](https://www.v2ex.com/t/892869) ![](assets/new.png)  
-- [2022-11-05-在国内，能正常访问-proton-mail,-outlook.com-吗？](https://www.v2ex.com/t/892867) ![](assets/new.png)  
-- [2022-11-05-请教如何定时重发-rxjs-的-webSocket-multiplex-的-subMsg](https://www.v2ex.com/t/892866) ![](assets/new.png)  
-- [2022-11-05-微软：-Outlook-将于明年底不再向个人提供个性化电子邮件地址服务](https://www.v2ex.com/t/892865) ![](assets/new.png)  
-- [2022-11-05-现在这个时间点入-MBA-M1-算不算-49-入国军](https://www.v2ex.com/t/892864) ![](assets/new.png)  
-- [2022-11-05-大家有什么推荐的爵士乐吗？](https://www.v2ex.com/t/892863) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -561,6 +561,8 @@
 - [2022-11-05-一次-MySQL-查询导致-CPU-飙升的排查记录](https://toutiao.io/k/m4qbj4w) ![](assets/new.png)  
 - [2022-11-05-立足对国产-CPU-平台的思考，贡献社区：OpenPPL-在中国开源年会的演讲](https://toutiao.io/k/ny6eloq) ![](assets/new.png)  
 - [2022-11-05-检索式对话系统在美团客服场景的探索与实践](https://toutiao.io/k/eg7cx8l) ![](assets/new.png)  
+- [2022-11-05-Rust-vs-C++-深度比较](https://toutiao.io/k/ctz8ib8) ![](assets/new.png)  
+- [2022-11-05-千亿级的数据储能、毫秒级的查询耗时-！](https://toutiao.io/k/kc74uje) ![](assets/new.png)  
 - [2022-11-05-推荐-网易经验规整：ClickHouse-开发与使用规范大全](https://toutiao.io/k/nprygo2) ![](assets/new.png)  
 - [2022-11-05-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)

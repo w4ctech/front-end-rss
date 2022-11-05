@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-05 05:38:57。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-05 06:18:09。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,11 @@
 </summary>
 
 
+- [【V2EX】2022-11-05-macbook-air-m2-用线单接显示器可以吗？](https://www.v2ex.com/t/892897) 
+- [【V2EX】2022-11-05-内燃机为啥最终被设计成了活塞往复这种形态](https://www.v2ex.com/t/892896) 
+- [【V2EX】2022-11-05-奇怪，服务器被-D-了](https://www.v2ex.com/t/892891) 
+- [【V2EX】2022-11-05-Alook-播放-YouTube-时如何选择视频分辨率](https://www.v2ex.com/t/892890) 
+- [【V2EX】2022-11-05-出一个甲骨文春川，-130-天，带邮箱，-270](https://www.v2ex.com/t/892888) 
 - [【V2EX】2022-11-05-环境-Windows10，-CMD-窗口运行。yt-dlp+aria2-使用的时候，如何在下载失败的时候，删除缓存文件](https://www.v2ex.com/t/892887) 
 - [【V2EX】2022-11-05-红米-K50U-刷欧洲版适配那个型号？](https://www.v2ex.com/t/892885) 
 - [【V2EX】2022-11-05-2022-近年底，你们降薪了吗？我降了-:-](https://www.v2ex.com/t/892882) 
@@ -99,12 +104,6 @@
 - [【V2EX】2022-11-05-开源-博客系统](https://www.v2ex.com/t/892851) 
 - [【V2EX】2022-11-05-出-USDT，要的来？](https://www.v2ex.com/t/892850) 
 - [【V2EX】2022-11-05-美区-apple-id，-app-store-最近用美国-ip-连不上了](https://www.v2ex.com/t/892849) 
-- [【V2EX】2022-11-05-木耳朵求推荐耳机](https://www.v2ex.com/t/892846) 
-- [【V2EX】2022-11-05-发现-jetbrains-出了个自动化-ide-「Aqua」](https://www.v2ex.com/t/892845) 
-- [【V2EX】2022-11-05-马斯克开始在推特-996-了…](https://www.v2ex.com/t/892844) 
-- [【V2EX】2022-11-05-更新-macOS-13.0-之后，每次格式化代码，-IntelliJ-IDEA-疯狂闪屏](https://www.v2ex.com/t/892843) 
-- [【V2EX】2022-11-05-有没有可能把一个数据库的-text-field-变成可拓展、易阅读的数据格式？](https://www.v2ex.com/t/892842) 
-- [【V2EX】2022-11-05-🎉-用-Pake-打包了一个极简-Twitter-Mac-版本](https://www.v2ex.com/t/892840) 
 - [【技术头条】2022-11-05-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-05-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-05-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -133,6 +132,8 @@
 - [【开发者头条】2022-11-05-一次-MySQL-查询导致-CPU-飙升的排查记录](https://toutiao.io/k/m4qbj4w) 
 - [【开发者头条】2022-11-05-立足对国产-CPU-平台的思考，贡献社区：OpenPPL-在中国开源年会的演讲](https://toutiao.io/k/ny6eloq) 
 - [【开发者头条】2022-11-05-检索式对话系统在美团客服场景的探索与实践](https://toutiao.io/k/eg7cx8l) 
+- [【开发者头条】2022-11-05-Rust-vs-C++-深度比较](https://toutiao.io/k/ctz8ib8) 
+- [【开发者头条】2022-11-05-千亿级的数据储能、毫秒级的查询耗时-！](https://toutiao.io/k/kc74uje) 
 - [【开发者头条】2022-11-05-推荐-网易经验规整：ClickHouse-开发与使用规范大全](https://toutiao.io/k/nprygo2) 
 - [【开发者头条】2022-11-05-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) 
 

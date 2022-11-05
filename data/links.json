@@ -9812,6 +9812,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "关于list-style-type项目符号你应该知道的事情",
+        "link": "https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/",
+        "date": "2022-11-05"
+      },
+      {
         "title": "告别pointer-events:none使用HTML inert属性真正禁用",
         "link": "https://www.zhangxinxu.com/wordpress/2022/10/html-inert-disabled-attribute/",
         "date": "2022-10-20"
@@ -9855,11 +9860,6 @@
         "title": "gitee上撸了个类似飞书OKR输入框的@提及项目",
         "link": "https://www.zhangxinxu.com/wordpress/2022/08/gitee-feishu-okr-at-mention/",
         "date": "2022-08-31"
-      },
-      {
-        "title": "来了，来了，CSS :has()伪类她来了",
-        "link": "https://www.zhangxinxu.com/wordpress/2022/08/css-has-pseudo-class/",
-        "date": "2022-08-24"
       }
     ]
   },
@@ -9953,6 +9953,26 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "大家的打字速度都是多少，我刚才测了下是 127 字每分钟。",
+        "link": "https://www.v2ex.com/t/892996",
+        "date": "2022-11-05"
+      },
+      {
+        "title": "在 vue3 中， computed 计算属性性能问题",
+        "link": "https://www.v2ex.com/t/892995",
+        "date": "2022-11-05"
+      },
+      {
+        "title": "穷人的 twitter 替代：用 git 的 commit 作为时间轴",
+        "link": "https://www.v2ex.com/t/892994",
+        "date": "2022-11-05"
+      },
+      {
+        "title": "Openwrt 并不可靠",
+        "link": "https://www.v2ex.com/t/892993",
+        "date": "2022-11-05"
+      },
+      {
         "title": "为什么欲望这个词会很少和女性相关?",
         "link": "https://www.v2ex.com/t/892992",
         "date": "2022-11-05"
@@ -10043,6 +10063,11 @@
         "date": "2022-11-05"
       },
       {
+        "title": "关于 MacOs 挂载威联通的问题",
+        "link": "https://www.v2ex.com/t/892971",
+        "date": "2022-11-05"
+      },
+      {
         "title": "30 了现在学编程还来得及吗？",
         "link": "https://www.v2ex.com/t/892970",
         "date": "2022-11-05"
@@ -10125,21 +10150,6 @@
       {
         "title": "马斯克算厚道吗？",
         "link": "https://www.v2ex.com/t/892948",
-        "date": "2022-11-05"
-      },
-      {
-        "title": "分享一下我做的工具箱，基于 WPF，可以谷歌翻译。",
-        "link": "https://www.v2ex.com/t/892947",
-        "date": "2022-11-05"
-      },
-      {
-        "title": "请问一下 openvpn over socks 的问题",
-        "link": "https://www.v2ex.com/t/892944",
-        "date": "2022-11-05"
-      },
-      {
-        "title": "大家好，我开发了一个扫块的 工具包，可以用来方便的监听 交易动态",
-        "link": "https://www.v2ex.com/t/892943",
         "date": "2022-11-05"
       }
     ]

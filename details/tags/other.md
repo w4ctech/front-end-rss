@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-05 23:04:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-05 23:14:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1916,6 +1916,7 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-11-05-年底更新了一下-iPad-pro-12.9](https://www.v2ex.com/t/893015) 
 - [2022-11-05-求解梦，经常梦到被人追赶](https://www.v2ex.com/t/893014) 
 - [2022-11-05-请教大家多台电脑怎么更方便自己使用/多设备工作流/私有云/Homelab](https://www.v2ex.com/t/893013) 
 - [2022-11-05-Windows-有什么好用的备份软件吗？](https://www.v2ex.com/t/893012) 
@@ -1979,5 +1980,5 @@
 - [2022-11-05-检索式对话系统在美团客服场景的探索与实践](https://toutiao.io/k/eg7cx8l) 
 - [2022-11-05-千亿级的数据储能、毫秒级的查询耗时-！](https://toutiao.io/k/kc74uje) 
 - [2022-11-05-Rust-vs-C++-深度比较](https://toutiao.io/k/ctz8ib8) 
-- [2022-11-05-推荐-网易经验规整：ClickHouse-开发与使用规范大全](https://toutiao.io/k/nprygo2) 
 - [2022-11-05-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) 
+- [2022-11-05-推荐-网易经验规整：ClickHouse-开发与使用规范大全](https://toutiao.io/k/nprygo2) 

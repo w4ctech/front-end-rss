@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-05 01:12:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-05 03:11:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -7,5 +7,6 @@
 
 
 
+- [2022-11-05-远程/兼职-Listary-招聘啦，桌面端/全栈，一起打造精品桌面应用](https://www.v2ex.com/t/892856) 
 - [2022-11-05-Today-is-your-last-working-day-at-the-company](https://www.v2ex.com/t/892836) 
 - [2022-11-05-基于AI算法的数据库异常监测系统的设计与实现-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15390&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F09%2F01%2Fdatabase-monitoring-based-on-ai.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2022-11-05 05:13:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-05 05:38:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-11-05-环境-Windows10，-CMD-窗口运行。yt-dlp+aria2-使用的时候，如何在下载失败的时候，删除缓存文件](https://www.v2ex.com/t/892887) 
+- [2022-11-05-红米-K50U-刷欧洲版适配那个型号？](https://www.v2ex.com/t/892885) 
 - [2022-11-05-2022-近年底，你们降薪了吗？我降了-:-](https://www.v2ex.com/t/892882) 
 - [2022-11-05-telegram-封号规则？](https://www.v2ex.com/t/892880) 
 - [2022-11-05-Netch-不能使用是什么问题](https://www.v2ex.com/t/892879) 
@@ -40,6 +42,3 @@
 - [2022-11-05-更新-macOS-13.0-之后，每次格式化代码，-IntelliJ-IDEA-疯狂闪屏](https://www.v2ex.com/t/892843) 
 - [2022-11-05-有没有可能把一个数据库的-text-field-变成可拓展、易阅读的数据格式？](https://www.v2ex.com/t/892842) 
 - [2022-11-05-🎉-用-Pake-打包了一个极简-Twitter-Mac-版本](https://www.v2ex.com/t/892840) 
-- [2022-11-05-浏览器不登录-B-站能否有查看所有评论的方法？](https://www.v2ex.com/t/892837) 
-- [2022-11-05-Today-is-your-last-working-day-at-the-company](https://www.v2ex.com/t/892836) 
-- [2022-11-05-请教大佬，-TP-Link-AX6000-值得入手吗](https://www.v2ex.com/t/892834) 

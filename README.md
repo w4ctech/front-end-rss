@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-05 15:40:56，:rocket: 更新条数: +2018， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-05 16:18:02，:rocket: 更新条数: +2020， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-11-05-新安装的-macos12.6.1-finder-无法以标签页打开文件夹](https://www.v2ex.com/t/893003) ![](assets/new.png)  
+- [2022-11-05-遇到了做网线不通的玄学原因？](https://www.v2ex.com/t/893002) ![](assets/new.png)  
+- [2022-11-05-求助:如何重置为知笔记私有部署的管理员账号密码](https://www.v2ex.com/t/893001) ![](assets/new.png)  
+- [2022-11-05-红米手机-67W-的-Type-C-充电器可以给-m1-pro-充电么？](https://www.v2ex.com/t/893000) ![](assets/new.png)  
+- [2022-11-05-手机有半斤吗？因为这个我和五个人大吵一架](https://www.v2ex.com/t/892999) ![](assets/new.png)  
 - [2022-11-05-Zlib-电子书下载储存的方案探讨](https://www.v2ex.com/t/892998) ![](assets/new.png)  
 - [2022-11-05-大家的打字速度都是多少，我刚才测了下是-127-字每分钟。](https://www.v2ex.com/t/892996) ![](assets/new.png)  
 - [2022-11-05-在-vue3-中，-computed-计算属性性能问题](https://www.v2ex.com/t/892995) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-11-05-当你解析-JSON-时，-Number-类型双精度丢失可以尝试使用-json-bn](https://www.v2ex.com/t/892983) ![](assets/new.png)  
 - [2022-11-05-Kubernetes-集群初始化镜像下载代理请教](https://www.v2ex.com/t/892982) ![](assets/new.png)  
 - [2022-11-05-偶然看到一个-AI-辅助写作的故事（看起来像是推广软文，我就不提软件名字了），但是限制很多（合法合规），速度又慢（10-秒内），于是我想自己开发一个类似功能...](https://www.v2ex.com/t/892981) ![](assets/new.png)  
-- [2022-11-05-如何查询自己-B-站账户发过的评论和弹幕?](https://www.v2ex.com/t/892980) ![](assets/new.png)  
-- [2022-11-05-怎么实现对翻译引擎的术语库进行自定义](https://www.v2ex.com/t/892979) ![](assets/new.png)  
-- [2022-11-05-大哥们，-VMware-Fusion-Pro-11-Mac-怎么导入-windows-上-VMware16-的虚拟机镜像啊？](https://www.v2ex.com/t/892977) ![](assets/new.png)  
-- [2022-11-05-iPad-Pro-2021-扩展坞接显示器没反应](https://www.v2ex.com/t/892976) ![](assets/new.png)  
-- [2022-11-05-请问有单机版吃鸡游戏吗？那种-VS-人机的.](https://www.v2ex.com/t/892975) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

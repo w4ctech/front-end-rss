@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-05 06:18:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-05 06:46:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1915,6 +1915,8 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-11-05-MAC-内存机制，空闲的时候也会压缩内存吗？](https://www.v2ex.com/t/892899) 
+- [2022-11-05-小区内扫楼贴小广告的那种人怎么治最有效？](https://www.v2ex.com/t/892898) 
 - [2022-11-05-macbook-air-m2-用线单接显示器可以吗？](https://www.v2ex.com/t/892897) 
 - [2022-11-05-内燃机为啥最终被设计成了活塞往复这种形态](https://www.v2ex.com/t/892896) 
 - [2022-11-05-奇怪，服务器被-D-了](https://www.v2ex.com/t/892891) 
@@ -1942,8 +1944,6 @@
 - [2022-11-05-内推-知名外企-Cloud-System-Engineer-系统工程师](https://www.v2ex.com/t/892854) 
 - [2022-11-05-天文遐想，近一年接触摄影和拍摄星空银河之后，一直很好奇，银河的全貌到底长啥样](https://www.v2ex.com/t/892853) 
 - [2022-11-05-开源-博客系统](https://www.v2ex.com/t/892851) 
-- [2022-11-05-出-USDT，要的来？](https://www.v2ex.com/t/892850) 
-- [2022-11-05-美区-apple-id，-app-store-最近用美国-ip-连不上了](https://www.v2ex.com/t/892849) 
 - [2022-11-05-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-05-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-05-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

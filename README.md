@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-05 11:12:08，:rocket: 更新条数: +2017， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-05 11:36:46，:rocket: 更新条数: +2017， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-11-05-各位男性程序员有好用的剃须刀推荐吗？](https://www.v2ex.com/t/892964) ![](assets/new.png)  
+- [2022-11-05-Android-手机外接键盘，去哪里能找到支持的快捷键列表？](https://www.v2ex.com/t/892963) ![](assets/new.png)  
+- [2022-11-05-可远程数据库-云原生数据库厂招募内核开发啦，入职即享-20-天年假哦～](https://www.v2ex.com/t/892962) ![](assets/new.png)  
+- [2022-11-05-iOS-16.1-省电模式掉帧](https://www.v2ex.com/t/892960) ![](assets/new.png)  
+- [2022-11-05-有-APP、网站设计参考的网站推荐吗](https://www.v2ex.com/t/892959) ![](assets/new.png)  
 - [2022-11-05-孙燕姿音乐录影带以杜比视界重置呈现！玩笑](https://www.v2ex.com/t/892958) ![](assets/new.png)  
 - [2022-11-05-北京-B-圈行业公司内推，非猎头收集简历，招后端和测试同学](https://www.v2ex.com/t/892956) ![](assets/new.png)  
 - [2022-11-05-凹语言开源季度总结](https://www.v2ex.com/t/892954) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-11-05-30-而立-有没有过来人经验指点迷津](https://www.v2ex.com/t/892940) ![](assets/new.png)  
 - [2022-11-05-React-Native-Webview-监听网页内部资源加载的探索](https://www.v2ex.com/t/892939) ![](assets/new.png)  
 - [2022-11-05-go-新手，为啥这个导包会报错啊/ㄒoㄒ/~~](https://www.v2ex.com/t/892938) ![](assets/new.png)  
-- [2022-11-05-土耳其-apple-礼品卡-oyunfor-买不了？](https://www.v2ex.com/t/892937) ![](assets/new.png)  
-- [2022-11-05-MBP-新电池只用了-5-个月，电池健康就掉到-90%-了，这正常吗？](https://www.v2ex.com/t/892936) ![](assets/new.png)  
-- [2022-11-05-c#-多年-winform-,wpf，求远程，电鸭有托吗](https://www.v2ex.com/t/892935) ![](assets/new.png)  
-- [2022-11-05-身处郑州，在家封控的第-21-天，讲一讲这么多天的所见所感。](https://www.v2ex.com/t/892933) ![](assets/new.png)  
-- [2022-11-05-家里一地鸡毛，真心求助各位老哥前辈们](https://www.v2ex.com/t/892932) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,8 +563,8 @@
 - [2022-11-05-检索式对话系统在美团客服场景的探索与实践](https://toutiao.io/k/eg7cx8l) ![](assets/new.png)  
 - [2022-11-05-Rust-vs-C++-深度比较](https://toutiao.io/k/ctz8ib8) ![](assets/new.png)  
 - [2022-11-05-千亿级的数据储能、毫秒级的查询耗时-！](https://toutiao.io/k/kc74uje) ![](assets/new.png)  
-- [2022-11-05-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) ![](assets/new.png)  
 - [2022-11-05-推荐-网易经验规整：ClickHouse-开发与使用规范大全](https://toutiao.io/k/nprygo2) ![](assets/new.png)  
+- [2022-11-05-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

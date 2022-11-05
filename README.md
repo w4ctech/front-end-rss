@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-05 17:39:57，:rocket: 更新条数: +2020， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-05 18:16:55，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-11-05-Windows-有什么好用的备份软件吗？](https://www.v2ex.com/t/893012) ![](assets/new.png)  
+- [2022-11-05-华为平板用了两年坏了，是品质有问题还是我使用不当？](https://www.v2ex.com/t/893011) ![](assets/new.png)  
+- [2022-11-05-中国电信现在屏蔽家宽-Web-服务的规则到底是什么，为什么群晖的-Web-管理端不受影响？](https://www.v2ex.com/t/893010) ![](assets/new.png)  
 - [2022-11-05-大佬们，我建了个谷歌-gsoc-2023-的-qq-群，方便交流信息](https://www.v2ex.com/t/893009) ![](assets/new.png)  
 - [2022-11-05-阿里云盘啥时候能原生支持群晖-Cloud-Sync](https://www.v2ex.com/t/893008) ![](assets/new.png)  
 - [2022-11-05-DVORAK、Colemak,-等非-QWERTY-的键盘布局能否真的可以提高打字速度?](https://www.v2ex.com/t/893007) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-11-05-为什么欲望这个词会很少和女性相关?](https://www.v2ex.com/t/892992) ![](assets/new.png)  
 - [2022-11-05-VMware-公司的远程工作哪些是中国大陆人能申请的？](https://www.v2ex.com/t/892991) ![](assets/new.png)  
 - [2022-11-05-为啥-Java-里就没有一个好用一点的异步-TcpClient?](https://www.v2ex.com/t/892990) ![](assets/new.png)  
-- [2022-11-05-VS-Code-无法运行有中文的-py-文件怎么办？](https://www.v2ex.com/t/892987) ![](assets/new.png)  
-- [2022-11-05-误点了关闭蓝牙，怎样取消提示窗口？](https://www.v2ex.com/t/892986) ![](assets/new.png)  
-- [2022-11-05-内推北京不加班招-Java-后端/Web/iOS/-Python-/测试/风控策略等](https://www.v2ex.com/t/892985) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

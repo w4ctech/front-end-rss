@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-04 23:43:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-05 01:12:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -15,4 +15,4 @@
 - [2021-01-01-大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html) 
 - [2022-11-04-有人试过在-xbox-的-edge-中使用-yikm.net-吗？](https://www.v2ex.com/t/892806) 
 - [2022-11-04-基于-chrome-开发的应用系统,-没人维护简直是灾难](https://www.v2ex.com/t/892799) 
-- [2022-11-04-安全漏洞：SpringBoot-该如何预防-XSS-攻击？](https://toutiao.io/k/o3wesfc) 
+- [2022-11-05-我好不容易混进了-BAT，发现大公司居然是这样设计他们的缓存架构的](https://toutiao.io/k/d1rw03b) 

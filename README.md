@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-05 17:13:54，:rocket: 更新条数: +2020， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-05 17:39:57，:rocket: 更新条数: +2020， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-11-05-大佬们，我建了个谷歌-gsoc-2023-的-qq-群，方便交流信息](https://www.v2ex.com/t/893009) ![](assets/new.png)  
+- [2022-11-05-阿里云盘啥时候能原生支持群晖-Cloud-Sync](https://www.v2ex.com/t/893008) ![](assets/new.png)  
 - [2022-11-05-DVORAK、Colemak,-等非-QWERTY-的键盘布局能否真的可以提高打字速度?](https://www.v2ex.com/t/893007) ![](assets/new.png)  
 - [2022-11-05-是不是离婚一旦说出口，就是深思熟虑过的？](https://www.v2ex.com/t/893006) ![](assets/new.png)  
 - [2022-11-05-cs61a-的一道题，有大佬讲解一下吗？](https://www.v2ex.com/t/893005) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-11-05-VS-Code-无法运行有中文的-py-文件怎么办？](https://www.v2ex.com/t/892987) ![](assets/new.png)  
 - [2022-11-05-误点了关闭蓝牙，怎样取消提示窗口？](https://www.v2ex.com/t/892986) ![](assets/new.png)  
 - [2022-11-05-内推北京不加班招-Java-后端/Web/iOS/-Python-/测试/风控策略等](https://www.v2ex.com/t/892985) ![](assets/new.png)  
-- [2022-11-05-租房碰到这种情况应该怎么办](https://www.v2ex.com/t/892984) ![](assets/new.png)  
-- [2022-11-05-当你解析-JSON-时，-Number-类型双精度丢失可以尝试使用-json-bn](https://www.v2ex.com/t/892983) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,8 +563,8 @@
 - [2022-11-05-检索式对话系统在美团客服场景的探索与实践](https://toutiao.io/k/eg7cx8l) ![](assets/new.png)  
 - [2022-11-05-千亿级的数据储能、毫秒级的查询耗时-！](https://toutiao.io/k/kc74uje) ![](assets/new.png)  
 - [2022-11-05-Rust-vs-C++-深度比较](https://toutiao.io/k/ctz8ib8) ![](assets/new.png)  
-- [2022-11-05-推荐-网易经验规整：ClickHouse-开发与使用规范大全](https://toutiao.io/k/nprygo2) ![](assets/new.png)  
 - [2022-11-05-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) ![](assets/new.png)  
+- [2022-11-05-推荐-网易经验规整：ClickHouse-开发与使用规范大全](https://toutiao.io/k/nprygo2) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

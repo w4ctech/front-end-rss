@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-05 11:36:47。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-05 12:23:26。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,8 @@
 </summary>
 
 
+- [【V2EX】2022-11-05-5-年拿英国绿卡靠谱吗?](https://www.v2ex.com/t/892967) 
+- [【V2EX】2022-11-05-悬赏高报酬咨询一个-expo-eas-build-打包问题，-expo-高手进](https://www.v2ex.com/t/892966) 
 - [【V2EX】2022-11-05-各位男性程序员有好用的剃须刀推荐吗？](https://www.v2ex.com/t/892964) 
 - [【V2EX】2022-11-05-Android-手机外接键盘，去哪里能找到支持的快捷键列表？](https://www.v2ex.com/t/892963) 
 - [【V2EX】2022-11-05-可远程数据库-云原生数据库厂招募内核开发啦，入职即享-20-天年假哦～](https://www.v2ex.com/t/892962) 
@@ -91,7 +93,6 @@
 - [【V2EX】2022-11-05-土耳其-apple-礼品卡-oyunfor-买不了？](https://www.v2ex.com/t/892937) 
 - [【V2EX】2022-11-05-MBP-新电池只用了-5-个月，电池健康就掉到-90%-了，这正常吗？](https://www.v2ex.com/t/892936) 
 - [【V2EX】2022-11-05-c#-多年-winform-,wpf，求远程，电鸭有托吗](https://www.v2ex.com/t/892935) 
-- [【V2EX】2022-11-05-身处郑州，在家封控的第-21-天，讲一讲这么多天的所见所感。](https://www.v2ex.com/t/892933) 
 - [【V2EX】2022-11-05-家里一地鸡毛，真心求助各位老哥前辈们](https://www.v2ex.com/t/892932) 
 - [【V2EX】2022-11-05-请问-Macbook-Air-M1-版安装-parallels-18-长时间运行续航怎么样？](https://www.v2ex.com/t/892931) 
 - [【V2EX】2022-11-05-如何使用-Redis-或其它方法使多个程序的-EF-Core-共享缓存？现在程序-1-修改数据库后，程序-2-Find-/-Include-之类的方法拿到的都是修改前的值，必须重启程序-2...](https://www.v2ex.com/t/892930) 
@@ -104,9 +105,6 @@
 - [【V2EX】2022-11-05-Azure-香港看视频速度上不去。](https://www.v2ex.com/t/892922) 
 - [【V2EX】2022-11-05-请拉黑-mtcgame](https://www.v2ex.com/t/892919) 
 - [【V2EX】2022-11-05-出租屋网络出现异常波动，请问可能是什么原因导致？-具体下面详细说](https://www.v2ex.com/t/892918) 
-- [【V2EX】2022-11-05-在国外使用有运营商锁的黑名单手机会有什么法律风险吗？](https://www.v2ex.com/t/892917) 
-- [【V2EX】2022-11-05-现在做前端开发的工资行情怎么样？](https://www.v2ex.com/t/892916) 
-- [【V2EX】2022-11-05-投胎模拟器](https://www.v2ex.com/t/892915) 
 - [【技术头条】2022-11-05-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-05-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-05-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

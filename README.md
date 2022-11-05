@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-05 08:17:43，:rocket: 更新条数: +2014， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-05 08:44:38，:rocket: 更新条数: +2012， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,14 @@
 </summary>
 
 
+- [2022-11-05-看这波裁员，-AI-和大数据这股风估计要凉了](https://www.v2ex.com/t/892927) ![](assets/new.png)  
+- [2022-11-05-从应用日志中提取监控-metrics](https://www.v2ex.com/t/892925) ![](assets/new.png)  
+- [2022-11-05-有没有人遇到过-ikbc-键盘蓝牙偶发的无法输入的问题](https://www.v2ex.com/t/892924) ![](assets/new.png)  
+- [2022-11-05-iCloud-照片中的关键词、说明信息储存位置在哪？](https://www.v2ex.com/t/892923) ![](assets/new.png)  
+- [2022-11-05-Azure-香港看视频速度上不去。](https://www.v2ex.com/t/892922) ![](assets/new.png)  
+- [2022-11-05-请拉黑-mtcgame](https://www.v2ex.com/t/892919) ![](assets/new.png)  
+- [2022-11-05-出租屋网络出现异常波动，请问可能是什么原因导致？-具体下面详细说](https://www.v2ex.com/t/892918) ![](assets/new.png)  
+- [2022-11-05-在国外使用有运营商锁的黑名单手机会有什么法律风险吗？](https://www.v2ex.com/t/892917) ![](assets/new.png)  
 - [2022-11-05-现在做前端开发的工资行情怎么样？](https://www.v2ex.com/t/892916) ![](assets/new.png)  
 - [2022-11-05-投胎模拟器](https://www.v2ex.com/t/892915) ![](assets/new.png)  
 - [2022-11-05-如何解决-iOS-上知乎卡顿，闪退的问题](https://www.v2ex.com/t/892914) ![](assets/new.png)  
@@ -503,14 +511,6 @@
 - [2022-11-05-想做一个可以实现可以实现将代码通过-git-加密同步到平台的工具，如果有同类产品求劝退](https://www.v2ex.com/t/892905) ![](assets/new.png)  
 - [2022-11-05-老哥们给电脑估个价并给点意见](https://www.v2ex.com/t/892903) ![](assets/new.png)  
 - [2022-11-05-六年老前端有公司要吗](https://www.v2ex.com/t/892901) ![](assets/new.png)  
-- [2022-11-05-向大佬们请教下-http-协议](https://www.v2ex.com/t/892900) ![](assets/new.png)  
-- [2022-11-05-MAC-内存机制，空闲的时候也会压缩内存吗？](https://www.v2ex.com/t/892899) ![](assets/new.png)  
-- [2022-11-05-小区内扫楼贴小广告的那种人怎么治最有效？](https://www.v2ex.com/t/892898) ![](assets/new.png)  
-- [2022-11-05-macbook-air-m2-用线单接显示器可以吗？](https://www.v2ex.com/t/892897) ![](assets/new.png)  
-- [2022-11-05-内燃机为啥最终被设计成了活塞往复这种形态](https://www.v2ex.com/t/892896) ![](assets/new.png)  
-- [2022-11-05-奇怪，服务器被-D-了](https://www.v2ex.com/t/892891) ![](assets/new.png)  
-- [2022-11-05-Alook-播放-YouTube-时如何选择视频分辨率](https://www.v2ex.com/t/892890) ![](assets/new.png)  
-- [2022-11-05-出一个甲骨文春川，-130-天，带邮箱，-270](https://www.v2ex.com/t/892888) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -561,10 +561,10 @@
 - [2022-11-05-一次-MySQL-查询导致-CPU-飙升的排查记录](https://toutiao.io/k/m4qbj4w) ![](assets/new.png)  
 - [2022-11-05-立足对国产-CPU-平台的思考，贡献社区：OpenPPL-在中国开源年会的演讲](https://toutiao.io/k/ny6eloq) ![](assets/new.png)  
 - [2022-11-05-检索式对话系统在美团客服场景的探索与实践](https://toutiao.io/k/eg7cx8l) ![](assets/new.png)  
-- [2022-11-05-Rust-vs-C++-深度比较](https://toutiao.io/k/ctz8ib8) ![](assets/new.png)  
 - [2022-11-05-千亿级的数据储能、毫秒级的查询耗时-！](https://toutiao.io/k/kc74uje) ![](assets/new.png)  
-- [2022-11-05-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) ![](assets/new.png)  
+- [2022-11-05-Rust-vs-C++-深度比较](https://toutiao.io/k/ctz8ib8) ![](assets/new.png)  
 - [2022-11-05-推荐-网易经验规整：ClickHouse-开发与使用规范大全](https://toutiao.io/k/nprygo2) ![](assets/new.png)  
+- [2022-11-05-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

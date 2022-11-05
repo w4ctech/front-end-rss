@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-05 08:44:38。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-05 09:14:47。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,13 @@
 </summary>
 
 
+- [【V2EX】2022-11-05-c#-多年-winform-,wpf，求远程，电鸭有托吗](https://www.v2ex.com/t/892935) 
+- [【V2EX】2022-11-05-身处郑州，在家封控的第-21-天，讲一讲这么多天的所见所感。](https://www.v2ex.com/t/892933) 
+- [【V2EX】2022-11-05-家里一地鸡毛，真心求助各位老哥前辈们](https://www.v2ex.com/t/892932) 
+- [【V2EX】2022-11-05-请问-Macbook-Air-M1-版安装-parallels-18-长时间运行续航怎么样？](https://www.v2ex.com/t/892931) 
+- [【V2EX】2022-11-05-如何使用-Redis-或其它方法使多个程序的-EF-Core-共享缓存？现在程序-1-修改数据库后，程序-2-Find-/-Include-之类的方法拿到的都是修改前的值，必须重启程序-2...](https://www.v2ex.com/t/892930) 
+- [【V2EX】2022-11-05-请问一下各位是怎么解决键盘印问题的？](https://www.v2ex.com/t/892929) 
+- [【V2EX】2022-11-05-请教一个-Google-Docs-的网络请求的抓包](https://www.v2ex.com/t/892928) 
 - [【V2EX】2022-11-05-看这波裁员，-AI-和大数据这股风估计要凉了](https://www.v2ex.com/t/892927) 
 - [【V2EX】2022-11-05-从应用日志中提取监控-metrics](https://www.v2ex.com/t/892925) 
 - [【V2EX】2022-11-05-有没有人遇到过-ikbc-键盘蓝牙偶发的无法输入的问题](https://www.v2ex.com/t/892924) 
@@ -97,11 +104,6 @@
 - [【V2EX】2022-11-05-Alook-播放-YouTube-时如何选择视频分辨率](https://www.v2ex.com/t/892890) 
 - [【V2EX】2022-11-05-出一个甲骨文春川，-130-天，带邮箱，-270](https://www.v2ex.com/t/892888) 
 - [【V2EX】2022-11-05-环境-Windows10，-CMD-窗口运行。yt-dlp+aria2-使用的时候，如何在下载失败的时候，删除缓存文件](https://www.v2ex.com/t/892887) 
-- [【V2EX】2022-11-05-红米-K50U-刷欧洲版适配那个型号？](https://www.v2ex.com/t/892885) 
-- [【V2EX】2022-11-05-2022-近年底，你们降薪了吗？我降了-:-](https://www.v2ex.com/t/892882) 
-- [【V2EX】2022-11-05-telegram-封号规则？](https://www.v2ex.com/t/892880) 
-- [【V2EX】2022-11-05-Netch-不能使用是什么问题](https://www.v2ex.com/t/892879) 
-- [【V2EX】2022-11-05-想在成都找一份-web-前端的工作](https://www.v2ex.com/t/892878) 
 - [【技术头条】2022-11-05-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-05-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-05-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -130,10 +132,10 @@
 - [【开发者头条】2022-11-05-一次-MySQL-查询导致-CPU-飙升的排查记录](https://toutiao.io/k/m4qbj4w) 
 - [【开发者头条】2022-11-05-立足对国产-CPU-平台的思考，贡献社区：OpenPPL-在中国开源年会的演讲](https://toutiao.io/k/ny6eloq) 
 - [【开发者头条】2022-11-05-检索式对话系统在美团客服场景的探索与实践](https://toutiao.io/k/eg7cx8l) 
-- [【开发者头条】2022-11-05-千亿级的数据储能、毫秒级的查询耗时-！](https://toutiao.io/k/kc74uje) 
 - [【开发者头条】2022-11-05-Rust-vs-C++-深度比较](https://toutiao.io/k/ctz8ib8) 
-- [【开发者头条】2022-11-05-推荐-网易经验规整：ClickHouse-开发与使用规范大全](https://toutiao.io/k/nprygo2) 
+- [【开发者头条】2022-11-05-千亿级的数据储能、毫秒级的查询耗时-！](https://toutiao.io/k/kc74uje) 
 - [【开发者头条】2022-11-05-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) 
+- [【开发者头条】2022-11-05-推荐-网易经验规整：ClickHouse-开发与使用规范大全](https://toutiao.io/k/nprygo2) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

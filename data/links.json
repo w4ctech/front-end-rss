@@ -9953,6 +9953,41 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "c# 多年 winform ,wpf，求远程，电鸭有托吗",
+        "link": "https://www.v2ex.com/t/892935",
+        "date": "2022-11-05"
+      },
+      {
+        "title": "身处郑州，在家封控的第 21 天，讲一讲这么多天的所见所感。",
+        "link": "https://www.v2ex.com/t/892933",
+        "date": "2022-11-05"
+      },
+      {
+        "title": "家里一地鸡毛，真心求助各位老哥前辈们",
+        "link": "https://www.v2ex.com/t/892932",
+        "date": "2022-11-05"
+      },
+      {
+        "title": "请问 Macbook Air M1 版安装 parallels 18 长时间运行续航怎么样？",
+        "link": "https://www.v2ex.com/t/892931",
+        "date": "2022-11-05"
+      },
+      {
+        "title": "如何使用 Redis 或其它方法使多个程序的 EF Core 共享缓存？现在程序 1 修改数据库后，程序 2 Find / Include 之类的方法拿到的都是修改前的值，必须重启程序 2...",
+        "link": "https://www.v2ex.com/t/892930",
+        "date": "2022-11-05"
+      },
+      {
+        "title": "请问一下各位是怎么解决键盘印问题的？",
+        "link": "https://www.v2ex.com/t/892929",
+        "date": "2022-11-05"
+      },
+      {
+        "title": "请教一个 Google Docs 的网络请求的抓包",
+        "link": "https://www.v2ex.com/t/892928",
+        "date": "2022-11-05"
+      },
+      {
         "title": "看这波裁员， AI 和大数据这股风估计要凉了",
         "link": "https://www.v2ex.com/t/892927",
         "date": "2022-11-05"
@@ -10095,31 +10130,6 @@
       {
         "title": "环境 Windows10， CMD 窗口运行。yt-dlp+aria2 使用的时候，如何在下载失败的时候，删除缓存文件",
         "link": "https://www.v2ex.com/t/892887",
-        "date": "2022-11-05"
-      },
-      {
-        "title": "红米 K50U 刷欧洲版适配那个型号？",
-        "link": "https://www.v2ex.com/t/892885",
-        "date": "2022-11-05"
-      },
-      {
-        "title": "2022 近年底，你们降薪了吗？我降了 :-(",
-        "link": "https://www.v2ex.com/t/892882",
-        "date": "2022-11-05"
-      },
-      {
-        "title": "telegram 封号规则？",
-        "link": "https://www.v2ex.com/t/892880",
-        "date": "2022-11-05"
-      },
-      {
-        "title": "Netch 不能使用是什么问题",
-        "link": "https://www.v2ex.com/t/892879",
-        "date": "2022-11-05"
-      },
-      {
-        "title": "想在成都找一份 web 前端的工作",
-        "link": "https://www.v2ex.com/t/892878",
         "date": "2022-11-05"
       }
     ]
@@ -10277,23 +10287,23 @@
         "date": "2022-11-05"
       },
       {
-        "title": "千亿级的数据储能、毫秒级的查询耗时 ！",
-        "link": "https://toutiao.io/k/kc74uje",
-        "date": "2022-11-05"
-      },
-      {
         "title": "Rust vs C++ 深度比较",
         "link": "https://toutiao.io/k/ctz8ib8",
         "date": "2022-11-05"
       },
       {
-        "title": "[推荐] 网易经验规整：ClickHouse 开发与使用规范大全",
-        "link": "https://toutiao.io/k/nprygo2",
+        "title": "千亿级的数据储能、毫秒级的查询耗时 ！",
+        "link": "https://toutiao.io/k/kc74uje",
         "date": "2022-11-05"
       },
       {
         "title": "[推荐] 如何画出一张优秀的架构图？（老鸟必备）",
         "link": "https://toutiao.io/k/xiqybrh",
+        "date": "2022-11-05"
+      },
+      {
+        "title": "[推荐] 网易经验规整：ClickHouse 开发与使用规范大全",
+        "link": "https://toutiao.io/k/nprygo2",
         "date": "2022-11-05"
       }
     ]

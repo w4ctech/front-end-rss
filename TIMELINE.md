@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-05 15:14:45。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-05 15:40:57。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -69,6 +69,7 @@
 
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-05-Zlib-电子书下载储存的方案探讨](https://www.v2ex.com/t/892998) 
 - [【V2EX】2022-11-05-大家的打字速度都是多少，我刚才测了下是-127-字每分钟。](https://www.v2ex.com/t/892996) 
 - [【V2EX】2022-11-05-在-vue3-中，-computed-计算属性性能问题](https://www.v2ex.com/t/892995) 
 - [【V2EX】2022-11-05-穷人的-twitter-替代：用-git-的-commit-作为时间轴](https://www.v2ex.com/t/892994) 
@@ -108,7 +109,6 @@
 - [【V2EX】2022-11-05-下一个十年，风口在哪里？](https://www.v2ex.com/t/892953) 
 - [【V2EX】2022-11-05-Angular-SPA-分包加载后如果不同包没有同时更新，跳转路由经常会导致浏览器缓存的旧版本的包被加载，必须要手动刷新一下，怎么解决？](https://www.v2ex.com/t/892950) 
 - [【V2EX】2022-11-05-手机里突然在同一个目录里出现三个-Android-文件夹](https://www.v2ex.com/t/892949) 
-- [【V2EX】2022-11-05-马斯克算厚道吗？](https://www.v2ex.com/t/892948) 
 - [【技术头条】2022-11-05-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-05-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-05-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -139,8 +139,8 @@
 - [【开发者头条】2022-11-05-检索式对话系统在美团客服场景的探索与实践](https://toutiao.io/k/eg7cx8l) 
 - [【开发者头条】2022-11-05-千亿级的数据储能、毫秒级的查询耗时-！](https://toutiao.io/k/kc74uje) 
 - [【开发者头条】2022-11-05-Rust-vs-C++-深度比较](https://toutiao.io/k/ctz8ib8) 
-- [【开发者头条】2022-11-05-推荐-网易经验规整：ClickHouse-开发与使用规范大全](https://toutiao.io/k/nprygo2) 
 - [【开发者头条】2022-11-05-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) 
+- [【开发者头条】2022-11-05-推荐-网易经验规整：ClickHouse-开发与使用规范大全](https://toutiao.io/k/nprygo2) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

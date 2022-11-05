@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-05 15:14:45，:rocket: 更新条数: +2018， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-05 15:40:56，:rocket: 更新条数: +2018， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-11-05-Zlib-电子书下载储存的方案探讨](https://www.v2ex.com/t/892998) ![](assets/new.png)  
 - [2022-11-05-大家的打字速度都是多少，我刚才测了下是-127-字每分钟。](https://www.v2ex.com/t/892996) ![](assets/new.png)  
 - [2022-11-05-在-vue3-中，-computed-计算属性性能问题](https://www.v2ex.com/t/892995) ![](assets/new.png)  
 - [2022-11-05-穷人的-twitter-替代：用-git-的-commit-作为时间轴](https://www.v2ex.com/t/892994) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-11-05-大哥们，-VMware-Fusion-Pro-11-Mac-怎么导入-windows-上-VMware16-的虚拟机镜像啊？](https://www.v2ex.com/t/892977) ![](assets/new.png)  
 - [2022-11-05-iPad-Pro-2021-扩展坞接显示器没反应](https://www.v2ex.com/t/892976) ![](assets/new.png)  
 - [2022-11-05-请问有单机版吃鸡游戏吗？那种-VS-人机的.](https://www.v2ex.com/t/892975) ![](assets/new.png)  
-- [2022-11-05-跨城搬家大家有操作过，求支招](https://www.v2ex.com/t/892974) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,8 +563,8 @@
 - [2022-11-05-检索式对话系统在美团客服场景的探索与实践](https://toutiao.io/k/eg7cx8l) ![](assets/new.png)  
 - [2022-11-05-千亿级的数据储能、毫秒级的查询耗时-！](https://toutiao.io/k/kc74uje) ![](assets/new.png)  
 - [2022-11-05-Rust-vs-C++-深度比较](https://toutiao.io/k/ctz8ib8) ![](assets/new.png)  
-- [2022-11-05-推荐-网易经验规整：ClickHouse-开发与使用规范大全](https://toutiao.io/k/nprygo2) ![](assets/new.png)  
 - [2022-11-05-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) ![](assets/new.png)  
+- [2022-11-05-推荐-网易经验规整：ClickHouse-开发与使用规范大全](https://toutiao.io/k/nprygo2) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

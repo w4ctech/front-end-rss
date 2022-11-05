@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-05 10:43:21，:rocket: 更新条数: +2017， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-05 11:12:08，:rocket: 更新条数: +2017， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-11-05-孙燕姿音乐录影带以杜比视界重置呈现！玩笑](https://www.v2ex.com/t/892958) ![](assets/new.png)  
+- [2022-11-05-北京-B-圈行业公司内推，非猎头收集简历，招后端和测试同学](https://www.v2ex.com/t/892956) ![](assets/new.png)  
+- [2022-11-05-凹语言开源季度总结](https://www.v2ex.com/t/892954) ![](assets/new.png)  
+- [2022-11-05-下一个十年，风口在哪里？](https://www.v2ex.com/t/892953) ![](assets/new.png)  
 - [2022-11-05-Angular-SPA-分包加载后如果不同包没有同时更新，跳转路由经常会导致浏览器缓存的旧版本的包被加载，必须要手动刷新一下，怎么解决？](https://www.v2ex.com/t/892950) ![](assets/new.png)  
 - [2022-11-05-手机里突然在同一个目录里出现三个-Android-文件夹](https://www.v2ex.com/t/892949) ![](assets/new.png)  
 - [2022-11-05-马斯克算厚道吗？](https://www.v2ex.com/t/892948) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-11-05-c#-多年-winform-,wpf，求远程，电鸭有托吗](https://www.v2ex.com/t/892935) ![](assets/new.png)  
 - [2022-11-05-身处郑州，在家封控的第-21-天，讲一讲这么多天的所见所感。](https://www.v2ex.com/t/892933) ![](assets/new.png)  
 - [2022-11-05-家里一地鸡毛，真心求助各位老哥前辈们](https://www.v2ex.com/t/892932) ![](assets/new.png)  
-- [2022-11-05-请问-Macbook-Air-M1-版安装-parallels-18-长时间运行续航怎么样？](https://www.v2ex.com/t/892931) ![](assets/new.png)  
-- [2022-11-05-如何使用-Redis-或其它方法使多个程序的-EF-Core-共享缓存？现在程序-1-修改数据库后，程序-2-Find-/-Include-之类的方法拿到的都是修改前的值，必须重启程序-2...](https://www.v2ex.com/t/892930) ![](assets/new.png)  
-- [2022-11-05-请问一下各位是怎么解决键盘印问题的？](https://www.v2ex.com/t/892929) ![](assets/new.png)  
-- [2022-11-05-请教一个-Google-Docs-的网络请求的抓包](https://www.v2ex.com/t/892928) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

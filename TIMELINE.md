@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-05 10:43:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-05 11:12:08。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,10 @@
 </summary>
 
 
+- [【V2EX】2022-11-05-孙燕姿音乐录影带以杜比视界重置呈现！玩笑](https://www.v2ex.com/t/892958) 
+- [【V2EX】2022-11-05-北京-B-圈行业公司内推，非猎头收集简历，招后端和测试同学](https://www.v2ex.com/t/892956) 
+- [【V2EX】2022-11-05-凹语言开源季度总结](https://www.v2ex.com/t/892954) 
+- [【V2EX】2022-11-05-下一个十年，风口在哪里？](https://www.v2ex.com/t/892953) 
 - [【V2EX】2022-11-05-Angular-SPA-分包加载后如果不同包没有同时更新，跳转路由经常会导致浏览器缓存的旧版本的包被加载，必须要手动刷新一下，怎么解决？](https://www.v2ex.com/t/892950) 
 - [【V2EX】2022-11-05-手机里突然在同一个目录里出现三个-Android-文件夹](https://www.v2ex.com/t/892949) 
 - [【V2EX】2022-11-05-马斯克算厚道吗？](https://www.v2ex.com/t/892948) 
@@ -103,10 +107,6 @@
 - [【V2EX】2022-11-05-如何让-PS5-的流媒体应用走代理？](https://www.v2ex.com/t/892911) 
 - [【V2EX】2022-11-05-深圳内推招聘信息安全专家，-20k-40k，有甲方工作经验优先](https://www.v2ex.com/t/892910) 
 - [【V2EX】2022-11-05-求助兄弟们，为什么手机里会同时出现三个-Android-文件夹](https://www.v2ex.com/t/892909) 
-- [【V2EX】2022-11-05-现在的奈雪是真的越来越难喝了,-感觉和喜茶的差距越来越大](https://www.v2ex.com/t/892908) 
-- [【V2EX】2022-11-05-求支持多用户的-web-邮箱系统](https://www.v2ex.com/t/892907) 
-- [【V2EX】2022-11-05-想做一个可以实现可以实现将代码通过-git-加密同步到平台的工具，如果有同类产品求劝退](https://www.v2ex.com/t/892905) 
-- [【V2EX】2022-11-05-老哥们给电脑估个价并给点意见](https://www.v2ex.com/t/892903) 
 - [【技术头条】2022-11-05-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-05-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-05-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

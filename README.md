@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-05 07:38:29，:rocket: 更新条数: +2014， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-05 08:17:43，:rocket: 更新条数: +2014， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,11 +491,16 @@
 </summary>
 
 
+- [2022-11-05-现在做前端开发的工资行情怎么样？](https://www.v2ex.com/t/892916) ![](assets/new.png)  
+- [2022-11-05-投胎模拟器](https://www.v2ex.com/t/892915) ![](assets/new.png)  
+- [2022-11-05-如何解决-iOS-上知乎卡顿，闪退的问题](https://www.v2ex.com/t/892914) ![](assets/new.png)  
+- [2022-11-05-双-11-换了一台红米至尊-K50Ultra，但是发现日历-app-没有原来华为的日历好用！](https://www.v2ex.com/t/892913) ![](assets/new.png)  
+- [2022-11-05-如何让-PS5-的流媒体应用走代理？](https://www.v2ex.com/t/892911) ![](assets/new.png)  
+- [2022-11-05-深圳内推招聘信息安全专家，-20k-40k，有甲方工作经验优先](https://www.v2ex.com/t/892910) ![](assets/new.png)  
 - [2022-11-05-求助兄弟们，为什么手机里会同时出现三个-Android-文件夹](https://www.v2ex.com/t/892909) ![](assets/new.png)  
 - [2022-11-05-现在的奈雪是真的越来越难喝了,-感觉和喜茶的差距越来越大](https://www.v2ex.com/t/892908) ![](assets/new.png)  
 - [2022-11-05-求支持多用户的-web-邮箱系统](https://www.v2ex.com/t/892907) ![](assets/new.png)  
 - [2022-11-05-想做一个可以实现可以实现将代码通过-git-加密同步到平台的工具，如果有同类产品求劝退](https://www.v2ex.com/t/892905) ![](assets/new.png)  
-- [2022-11-05-北京健康宝弹窗是否有以下监控漏洞](https://www.v2ex.com/t/892904) ![](assets/new.png)  
 - [2022-11-05-老哥们给电脑估个价并给点意见](https://www.v2ex.com/t/892903) ![](assets/new.png)  
 - [2022-11-05-六年老前端有公司要吗](https://www.v2ex.com/t/892901) ![](assets/new.png)  
 - [2022-11-05-向大佬们请教下-http-协议](https://www.v2ex.com/t/892900) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-11-05-奇怪，服务器被-D-了](https://www.v2ex.com/t/892891) ![](assets/new.png)  
 - [2022-11-05-Alook-播放-YouTube-时如何选择视频分辨率](https://www.v2ex.com/t/892890) ![](assets/new.png)  
 - [2022-11-05-出一个甲骨文春川，-130-天，带邮箱，-270](https://www.v2ex.com/t/892888) ![](assets/new.png)  
-- [2022-11-05-环境-Windows10，-CMD-窗口运行。yt-dlp+aria2-使用的时候，如何在下载失败的时候，删除缓存文件](https://www.v2ex.com/t/892887) ![](assets/new.png)  
-- [2022-11-05-红米-K50U-刷欧洲版适配那个型号？](https://www.v2ex.com/t/892885) ![](assets/new.png)  
-- [2022-11-05-2022-近年底，你们降薪了吗？我降了-:-](https://www.v2ex.com/t/892882) ![](assets/new.png)  
-- [2022-11-05-telegram-封号规则？](https://www.v2ex.com/t/892880) ![](assets/new.png)  
-- [2022-11-05-Netch-不能使用是什么问题](https://www.v2ex.com/t/892879) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,8 +563,8 @@
 - [2022-11-05-检索式对话系统在美团客服场景的探索与实践](https://toutiao.io/k/eg7cx8l) ![](assets/new.png)  
 - [2022-11-05-Rust-vs-C++-深度比较](https://toutiao.io/k/ctz8ib8) ![](assets/new.png)  
 - [2022-11-05-千亿级的数据储能、毫秒级的查询耗时-！](https://toutiao.io/k/kc74uje) ![](assets/new.png)  
-- [2022-11-05-推荐-网易经验规整：ClickHouse-开发与使用规范大全](https://toutiao.io/k/nprygo2) ![](assets/new.png)  
 - [2022-11-05-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) ![](assets/new.png)  
+- [2022-11-05-推荐-网易经验规整：ClickHouse-开发与使用规范大全](https://toutiao.io/k/nprygo2) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

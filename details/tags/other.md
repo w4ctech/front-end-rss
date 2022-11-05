@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-05 07:13:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-05 07:38:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1915,6 +1915,9 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-11-05-求助兄弟们，为什么手机里会同时出现三个-Android-文件夹](https://www.v2ex.com/t/892909) 
+- [2022-11-05-现在的奈雪是真的越来越难喝了,-感觉和喜茶的差距越来越大](https://www.v2ex.com/t/892908) 
+- [2022-11-05-求支持多用户的-web-邮箱系统](https://www.v2ex.com/t/892907) 
 - [2022-11-05-北京健康宝弹窗是否有以下监控漏洞](https://www.v2ex.com/t/892904) 
 - [2022-11-05-老哥们给电脑估个价并给点意见](https://www.v2ex.com/t/892903) 
 - [2022-11-05-六年老前端有公司要吗](https://www.v2ex.com/t/892901) 
@@ -1941,7 +1944,6 @@
 - [2022-11-05-现在这个时间点入-MBA-M1-算不算-49-入国军](https://www.v2ex.com/t/892864) 
 - [2022-11-05-大家有什么推荐的爵士乐吗？](https://www.v2ex.com/t/892863) 
 - [2022-11-05-设计模式项目推荐）](https://www.v2ex.com/t/892862) 
-- [2022-11-05-求推荐用于学习虚拟机的迷你-Linux-主机](https://www.v2ex.com/t/892858) 
 - [2022-11-05-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-05-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-05-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1968,5 +1970,5 @@
 - [2022-11-05-检索式对话系统在美团客服场景的探索与实践](https://toutiao.io/k/eg7cx8l) 
 - [2022-11-05-Rust-vs-C++-深度比较](https://toutiao.io/k/ctz8ib8) 
 - [2022-11-05-千亿级的数据储能、毫秒级的查询耗时-！](https://toutiao.io/k/kc74uje) 
-- [2022-11-05-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) 
 - [2022-11-05-推荐-网易经验规整：ClickHouse-开发与使用规范大全](https://toutiao.io/k/nprygo2) 
+- [2022-11-05-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) 

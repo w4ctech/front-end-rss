@@ -9953,6 +9953,21 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "求助兄弟们，为什么手机里会同时出现三个 Android 文件夹",
+        "link": "https://www.v2ex.com/t/892909",
+        "date": "2022-11-05"
+      },
+      {
+        "title": "现在的奈雪是真的越来越难喝了, 感觉和喜茶的差距越来越大",
+        "link": "https://www.v2ex.com/t/892908",
+        "date": "2022-11-05"
+      },
+      {
+        "title": "求支持多用户的 web 邮箱系统",
+        "link": "https://www.v2ex.com/t/892907",
+        "date": "2022-11-05"
+      },
+      {
         "title": "想做一个可以实现可以实现将代码通过 git 加密同步到平台的工具，如果有同类产品求劝退",
         "link": "https://www.v2ex.com/t/892905",
         "date": "2022-11-05"
@@ -10115,16 +10130,6 @@
       {
         "title": "设计模式(项目推荐）",
         "link": "https://www.v2ex.com/t/892862",
-        "date": "2022-11-05"
-      },
-      {
-        "title": "学习周刊-总第 78 期-k8s 管理平台与可视化正则",
-        "link": "https://www.v2ex.com/t/892859",
-        "date": "2022-11-05"
-      },
-      {
-        "title": "求推荐用于学习虚拟机的迷你 Linux 主机",
-        "link": "https://www.v2ex.com/t/892858",
         "date": "2022-11-05"
       }
     ]
@@ -10292,13 +10297,13 @@
         "date": "2022-11-05"
       },
       {
-        "title": "[推荐] 如何画出一张优秀的架构图？（老鸟必备）",
-        "link": "https://toutiao.io/k/xiqybrh",
+        "title": "[推荐] 网易经验规整：ClickHouse 开发与使用规范大全",
+        "link": "https://toutiao.io/k/nprygo2",
         "date": "2022-11-05"
       },
       {
-        "title": "[推荐] 网易经验规整：ClickHouse 开发与使用规范大全",
-        "link": "https://toutiao.io/k/nprygo2",
+        "title": "[推荐] 如何画出一张优秀的架构图？（老鸟必备）",
+        "link": "https://toutiao.io/k/xiqybrh",
         "date": "2022-11-05"
       }
     ]

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-05 06:46:20，:rocket: 更新条数: +2015， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-05 07:13:53，:rocket: 更新条数: +2013， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,7 +491,11 @@
 </summary>
 
 
-- [2022-11-05-询问下-http-协议](https://www.v2ex.com/t/892900) ![](assets/new.png)  
+- [2022-11-05-想做一个可以实现可以实现将代码通过-git-加密同步到平台的工具，如果有同类产品求劝退](https://www.v2ex.com/t/892905) ![](assets/new.png)  
+- [2022-11-05-北京健康宝弹窗是否有以下监控漏洞](https://www.v2ex.com/t/892904) ![](assets/new.png)  
+- [2022-11-05-老哥们给电脑估个价并给点意见](https://www.v2ex.com/t/892903) ![](assets/new.png)  
+- [2022-11-05-六年老前端有公司要吗](https://www.v2ex.com/t/892901) ![](assets/new.png)  
+- [2022-11-05-向大佬们请教下-http-协议](https://www.v2ex.com/t/892900) ![](assets/new.png)  
 - [2022-11-05-MAC-内存机制，空闲的时候也会压缩内存吗？](https://www.v2ex.com/t/892899) ![](assets/new.png)  
 - [2022-11-05-小区内扫楼贴小广告的那种人怎么治最有效？](https://www.v2ex.com/t/892898) ![](assets/new.png)  
 - [2022-11-05-macbook-air-m2-用线单接显示器可以吗？](https://www.v2ex.com/t/892897) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-11-05-想在成都找一份-web-前端的工作](https://www.v2ex.com/t/892878) ![](assets/new.png)  
 - [2022-11-05--Aqua-Menu-Bar.app-让你用回经典-Mac-菜单栏](https://www.v2ex.com/t/892877) ![](assets/new.png)  
 - [2022-11-05-YubiKey-优惠组队](https://www.v2ex.com/t/892876) ![](assets/new.png)  
-- [2022-11-05-老哥们，家长总是买一些直播带货的杂牌物品，怎么办呀-？](https://www.v2ex.com/t/892875) ![](assets/new.png)  
-- [2022-11-05-酷安官方：“部分酷友信息已被取证，后续可能会被提起法律诉讼。”](https://www.v2ex.com/t/892874) ![](assets/new.png)  
-- [2022-11-05-今天开始学习双拼](https://www.v2ex.com/t/892873) ![](assets/new.png)  
-- [2022-11-05-用的-13-，昨天发现墙纸打不开了，应该怎么解决？](https://www.v2ex.com/t/892872) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,8 +563,8 @@
 - [2022-11-05-检索式对话系统在美团客服场景的探索与实践](https://toutiao.io/k/eg7cx8l) ![](assets/new.png)  
 - [2022-11-05-Rust-vs-C++-深度比较](https://toutiao.io/k/ctz8ib8) ![](assets/new.png)  
 - [2022-11-05-千亿级的数据储能、毫秒级的查询耗时-！](https://toutiao.io/k/kc74uje) ![](assets/new.png)  
-- [2022-11-05-推荐-网易经验规整：ClickHouse-开发与使用规范大全](https://toutiao.io/k/nprygo2) ![](assets/new.png)  
 - [2022-11-05-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) ![](assets/new.png)  
+- [2022-11-05-推荐-网易经验规整：ClickHouse-开发与使用规范大全](https://toutiao.io/k/nprygo2) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

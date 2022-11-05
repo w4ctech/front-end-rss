@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-05 06:46:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-05 07:13:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1915,6 +1915,9 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-11-05-北京健康宝弹窗是否有以下监控漏洞](https://www.v2ex.com/t/892904) 
+- [2022-11-05-老哥们给电脑估个价并给点意见](https://www.v2ex.com/t/892903) 
+- [2022-11-05-六年老前端有公司要吗](https://www.v2ex.com/t/892901) 
 - [2022-11-05-MAC-内存机制，空闲的时候也会压缩内存吗？](https://www.v2ex.com/t/892899) 
 - [2022-11-05-小区内扫楼贴小广告的那种人怎么治最有效？](https://www.v2ex.com/t/892898) 
 - [2022-11-05-macbook-air-m2-用线单接显示器可以吗？](https://www.v2ex.com/t/892897) 
@@ -1938,12 +1941,7 @@
 - [2022-11-05-现在这个时间点入-MBA-M1-算不算-49-入国军](https://www.v2ex.com/t/892864) 
 - [2022-11-05-大家有什么推荐的爵士乐吗？](https://www.v2ex.com/t/892863) 
 - [2022-11-05-设计模式项目推荐）](https://www.v2ex.com/t/892862) 
-- [2022-11-05-V2-免代理可访问了？](https://www.v2ex.com/t/892860) 
 - [2022-11-05-求推荐用于学习虚拟机的迷你-Linux-主机](https://www.v2ex.com/t/892858) 
-- [2022-11-05-有朋友试过-airpods-pro1-耳机加-2-代耳机盒使用吗](https://www.v2ex.com/t/892855) 
-- [2022-11-05-内推-知名外企-Cloud-System-Engineer-系统工程师](https://www.v2ex.com/t/892854) 
-- [2022-11-05-天文遐想，近一年接触摄影和拍摄星空银河之后，一直很好奇，银河的全貌到底长啥样](https://www.v2ex.com/t/892853) 
-- [2022-11-05-开源-博客系统](https://www.v2ex.com/t/892851) 
 - [2022-11-05-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-05-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-05-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1970,5 +1968,5 @@
 - [2022-11-05-检索式对话系统在美团客服场景的探索与实践](https://toutiao.io/k/eg7cx8l) 
 - [2022-11-05-Rust-vs-C++-深度比较](https://toutiao.io/k/ctz8ib8) 
 - [2022-11-05-千亿级的数据储能、毫秒级的查询耗时-！](https://toutiao.io/k/kc74uje) 
-- [2022-11-05-推荐-网易经验规整：ClickHouse-开发与使用规范大全](https://toutiao.io/k/nprygo2) 
 - [2022-11-05-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) 
+- [2022-11-05-推荐-网易经验规整：ClickHouse-开发与使用规范大全](https://toutiao.io/k/nprygo2) 

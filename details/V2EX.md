@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2022-11-06 06:46:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-06 07:13:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-11-06-找对象，要做出多少牺牲呢？](https://www.v2ex.com/t/893070) 
+- [2022-11-06-有人感觉这几天-B-站很卡吗？我看-YouTube-比-B-站快，-B-站卡到音画不同步了都，有人知道为啥吗？](https://www.v2ex.com/t/893068) 
 - [2022-11-06-No-SIM-Available](https://www.v2ex.com/t/893066) 
 - [2022-11-06-前段时间-9.9-拼团的-Air780E-开发板是翻车了吗](https://www.v2ex.com/t/893065) 
 - [2022-11-06-出-cloudcone-2c2g40gSSD,16.52-刀/年-SC2](https://www.v2ex.com/t/893063) 
@@ -40,5 +42,3 @@
 - [2022-11-06-Magsafe-充电的动画原理是啥](https://www.v2ex.com/t/893024) 
 - [2022-11-06-国行的-iPhone14-出去支持-esim-吗](https://www.v2ex.com/t/893022) 
 - [2022-11-06-为什么-mac-的-telegram-里面有些图片不显示，用手机看就能看到？](https://www.v2ex.com/t/893021) 
-- [2022-11-06-HomePod-用-Siri-播放-Apple-Music-时不能用中文名字了](https://www.v2ex.com/t/893020) 
-- [2022-11-06-求推荐给老人的安卓手机，期望要求是：-1-便宜，-2-能用的年限久一点（几乎只用微信）](https://www.v2ex.com/t/893017) 

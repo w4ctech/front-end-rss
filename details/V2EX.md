@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-11-06 23:03:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-06 23:15:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-11-06-程序员的机会来了吗？](https://www.v2ex.com/t/893181) 
 - [2022-11-06-你们待在一线的理由是什么呢？](https://www.v2ex.com/t/893180) 
 - [2022-11-06-你现在睡觉还给手机开飞行模式吗？](https://www.v2ex.com/t/893179) 
 - [2022-11-06-寻找精通-Figma+Tailwindcss-设计师](https://www.v2ex.com/t/893178) 
@@ -49,4 +50,3 @@
 - [2022-11-06-PonconJS-前端简易路由控制工具](https://www.v2ex.com/t/893134) 
 - [2022-11-06-Help，自打水晶头，-8-芯通了-7-芯](https://www.v2ex.com/t/893133) 
 - [2022-11-06-sqldb：一个利用-Go-泛型及反射简化数据库模型操作的库](https://www.v2ex.com/t/893132) 
-- [2022-11-06-来看我写会儿代码,不提-PR-不回家🥺](https://www.v2ex.com/t/893131) 

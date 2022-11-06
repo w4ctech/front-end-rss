@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-06 15:16:05。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-06 15:42:47。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,9 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-06-个人服务器推荐](https://www.v2ex.com/t/893169) 
+- [【V2EX】2022-11-06-说说自己的程序之路吧-三十而立-有点儿迷茫](https://www.v2ex.com/t/893167) 
+- [【V2EX】2022-11-06-从头学一门移动开发框架，有什么推荐？](https://www.v2ex.com/t/893166) 
 - [【V2EX】2022-11-06-求推荐电报一些有意思的群组](https://www.v2ex.com/t/893165) 
 - [【V2EX】2022-11-06-.one-域名下个月将翻倍涨价](https://www.v2ex.com/t/893164) 
 - [【V2EX】2022-11-06-生活中的邮局-VS-网络中的邮局](https://www.v2ex.com/t/893163) 
@@ -110,10 +113,6 @@
 - [【V2EX】2022-11-06-家里闲置性能不错的小服务器几台，电费不计家宽上行-30M-下行-1000M-能做点什么?](https://www.v2ex.com/t/893126) 
 - [【V2EX】2022-11-06-现在还有什么低配要求，-macOS-能玩的-MMORPG-游戏吗，除了魔兽世界。](https://www.v2ex.com/t/893124) 
 - [【V2EX】2022-11-06-服务器上部署了网站，-443-被占用，导致-NginxProxyManager-不能用-443-端口](https://www.v2ex.com/t/893123) 
-- [【V2EX】2022-11-06-电脑如何加一块自定义键盘按键？](https://www.v2ex.com/t/893119) 
-- [【V2EX】2022-11-06-看见有人在大学死磕-C++找不到工作有感（OP-没有-C++相关的工作经历）](https://www.v2ex.com/t/893118) 
-- [【V2EX】2022-11-06-Meta-开源全新音频压缩技术-EnCodec，比-MP3-小-10-倍](https://www.v2ex.com/t/893117) 
-- [【V2EX】2022-11-06-发现一个-Downie-免费平替产品](https://www.v2ex.com/t/893116) 
 - [【技术头条】2022-11-06-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-06-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-06-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -145,8 +144,8 @@
 - [【开发者头条】2022-11-06-微前端场景下的代码共享](https://toutiao.io/k/a7vptvu) 
 - [【开发者头条】2022-11-06-别用XShell了，这款SSH工具绝对惊艳，还支持网页版.....](https://toutiao.io/k/ewd8p4o) 
 - [【开发者头条】2022-11-06-记一次CLOSE_WAIT引发的血案](https://toutiao.io/k/3wz0cg8) 
-- [【开发者头条】2022-11-06-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) 
 - [【开发者头条】2022-11-06-推荐-网易经验规整：ClickHouse-开发与使用规范大全](https://toutiao.io/k/nprygo2) 
+- [【开发者头条】2022-11-06-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

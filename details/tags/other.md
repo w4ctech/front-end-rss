@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-06 15:16:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-06 15:42:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1917,6 +1917,8 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-11-06-个人服务器推荐](https://www.v2ex.com/t/893169) 
+- [2022-11-06-说说自己的程序之路吧-三十而立-有点儿迷茫](https://www.v2ex.com/t/893167) 
 - [2022-11-06-求推荐电报一些有意思的群组](https://www.v2ex.com/t/893165) 
 - [2022-11-06-.one-域名下个月将翻倍涨价](https://www.v2ex.com/t/893164) 
 - [2022-11-06-生活中的邮局-VS-网络中的邮局](https://www.v2ex.com/t/893163) 
@@ -1950,8 +1952,6 @@
 - [2022-11-06-大家用的什么椅子?](https://www.v2ex.com/t/893130) 
 - [2022-11-06-有人收到过这种邮件吗？](https://www.v2ex.com/t/893129) 
 - [2022-11-06-春招想找-Java-后端工作，目前的准备情况是这样的，想知道大家有什么建议](https://www.v2ex.com/t/893127) 
-- [2022-11-06-电脑如何加一块自定义键盘按键？](https://www.v2ex.com/t/893119) 
-- [2022-11-06-看见有人在大学死磕-C++找不到工作有感（OP-没有-C++相关的工作经历）](https://www.v2ex.com/t/893118) 
 - [2022-11-06-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-06-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-06-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1979,5 +1979,5 @@
 - [2022-11-06-微前端场景下的代码共享](https://toutiao.io/k/a7vptvu) 
 - [2022-11-06-别用XShell了，这款SSH工具绝对惊艳，还支持网页版.....](https://toutiao.io/k/ewd8p4o) 
 - [2022-11-06-记一次CLOSE_WAIT引发的血案](https://toutiao.io/k/3wz0cg8) 
-- [2022-11-06-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) 
 - [2022-11-06-推荐-网易经验规整：ClickHouse-开发与使用规范大全](https://toutiao.io/k/nprygo2) 
+- [2022-11-06-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) 

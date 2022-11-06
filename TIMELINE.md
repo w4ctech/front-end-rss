@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-06 11:12:50。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-06 11:36:55。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,9 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-06-发现一个-Downie-免费平替产品](https://www.v2ex.com/t/893116) 
+- [【V2EX】2022-11-06-求助，-debian8-怎么能安装-php7.0-以上的版本](https://www.v2ex.com/t/893114) 
+- [【V2EX】2022-11-06-卖房子可以找多个中介吗？](https://www.v2ex.com/t/893113) 
 - [【V2EX】2022-11-06-请教关于学习新语言、技术学习时精力的配比](https://www.v2ex.com/t/893112) 
 - [【V2EX】2022-11-06-有没有铁子平时思考一些耳熟能详的词语?](https://www.v2ex.com/t/893111) 
 - [【V2EX】2022-11-06-山寨网线和大牌网线的区别](https://www.v2ex.com/t/893110) 
@@ -104,9 +107,6 @@
 - [【V2EX】2022-11-06-windows-远程访问问题](https://www.v2ex.com/t/893071) 
 - [【V2EX】2022-11-06-找对象，要做出多少牺牲呢？](https://www.v2ex.com/t/893070) 
 - [【V2EX】2022-11-06-有人感觉这几天-B-站很卡吗？我看-YouTube-比-B-站快，-B-站卡到音画不同步了都，有人知道为啥吗？](https://www.v2ex.com/t/893068) 
-- [【V2EX】2022-11-06-No-SIM-Available](https://www.v2ex.com/t/893066) 
-- [【V2EX】2022-11-06-前段时间-9.9-拼团的-Air780E-开发板是翻车了吗](https://www.v2ex.com/t/893065) 
-- [【V2EX】2022-11-06-出-cloudcone-2c2g40gSSD,16.52-刀/年-SC2](https://www.v2ex.com/t/893063) 
 - [【技术头条】2022-11-06-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-06-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-06-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -131,8 +131,8 @@
 - [【开发者头条】2022-11-06-如何将进程、线程与-CPU-核进行绑定](https://toutiao.io/k/q0ifce4) 
 - [【开发者头条】2022-11-06-美团高性能终端实时日志系统建设实践](https://toutiao.io/k/sewret8) 
 - [【开发者头条】2022-11-06-一文搞懂-XaaS](https://toutiao.io/k/b59020l) 
-- [【开发者头条】2022-11-06-CDN，总绕不过-DNS](https://toutiao.io/k/gzi57yd) 
 - [【开发者头条】2022-11-06-Arctic-基于-Hive-的流批一体实践](https://toutiao.io/k/byhxi7m) 
+- [【开发者头条】2022-11-06-CDN，总绕不过-DNS](https://toutiao.io/k/gzi57yd) 
 - [【开发者头条】2022-11-06-超详细配置教程：用-Windows-电脑训练深度学习模型](https://toutiao.io/k/g3xxijc) 
 - [【开发者头条】2022-11-06-牛逼哄哄的-JD-hotkey-！](https://toutiao.io/k/tp38w8w) 
 - [【开发者头条】2022-11-06-微前端场景下的代码共享](https://toutiao.io/k/a7vptvu) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-06 11:12:50，:rocket: 更新条数: +2016， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-06 11:36:55，:rocket: 更新条数: +2016， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-11-06-发现一个-Downie-免费平替产品](https://www.v2ex.com/t/893116) ![](assets/new.png)  
+- [2022-11-06-求助，-debian8-怎么能安装-php7.0-以上的版本](https://www.v2ex.com/t/893114) ![](assets/new.png)  
+- [2022-11-06-卖房子可以找多个中介吗？](https://www.v2ex.com/t/893113) ![](assets/new.png)  
 - [2022-11-06-请教关于学习新语言、技术学习时精力的配比](https://www.v2ex.com/t/893112) ![](assets/new.png)  
 - [2022-11-06-有没有铁子平时思考一些耳熟能详的词语?](https://www.v2ex.com/t/893111) ![](assets/new.png)  
 - [2022-11-06-山寨网线和大牌网线的区别](https://www.v2ex.com/t/893110) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-11-06-he-的-ipv6-隧道网站被掐了。](https://www.v2ex.com/t/893094) ![](assets/new.png)  
 - [2022-11-06-各位电脑外设的无线设备，怎么及时充电的？](https://www.v2ex.com/t/893093) ![](assets/new.png)  
 - [2022-11-06-领势-Linksys-E8450-路由器-openwrt-ubi-固件-几乎全新](https://www.v2ex.com/t/893092) ![](assets/new.png)  
-- [2022-11-06-mac-系统数据-100-多-G-了，有什么清理的办法吗？](https://www.v2ex.com/t/893091) ![](assets/new.png)  
-- [2022-11-06-购买日期未验证](https://www.v2ex.com/t/893090) ![](assets/new.png)  
-- [2022-11-06-小宇宙导入不了播客，怎么办？](https://www.v2ex.com/t/893089) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -557,8 +557,8 @@
 - [2022-11-06-如何将进程、线程与-CPU-核进行绑定](https://toutiao.io/k/q0ifce4) ![](assets/new.png)  
 - [2022-11-06-美团高性能终端实时日志系统建设实践](https://toutiao.io/k/sewret8) ![](assets/new.png)  
 - [2022-11-06-一文搞懂-XaaS](https://toutiao.io/k/b59020l) ![](assets/new.png)  
-- [2022-11-06-CDN，总绕不过-DNS](https://toutiao.io/k/gzi57yd) ![](assets/new.png)  
 - [2022-11-06-Arctic-基于-Hive-的流批一体实践](https://toutiao.io/k/byhxi7m) ![](assets/new.png)  
+- [2022-11-06-CDN，总绕不过-DNS](https://toutiao.io/k/gzi57yd) ![](assets/new.png)  
 - [2022-11-06-超详细配置教程：用-Windows-电脑训练深度学习模型](https://toutiao.io/k/g3xxijc) ![](assets/new.png)  
 - [2022-11-06-牛逼哄哄的-JD-hotkey-！](https://toutiao.io/k/tp38w8w) ![](assets/new.png)  
 - [2022-11-06-微前端场景下的代码共享](https://toutiao.io/k/a7vptvu) ![](assets/new.png)  

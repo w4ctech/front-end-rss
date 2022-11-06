@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-06 22:15:01。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-06 22:42:09。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,7 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-06-你现在睡觉还给手机开飞行模式吗？](https://www.v2ex.com/t/893179) 
 - [【V2EX】2022-11-06-寻找精通-Figma+Tailwindcss-设计师](https://www.v2ex.com/t/893178) 
 - [【V2EX】2022-11-06-有没有利用开源组件建立一个-Web-端的本地搜索引擎？](https://www.v2ex.com/t/893177) 
 - [【V2EX】2022-11-06-想请教下奔富-389-入购渠道～](https://www.v2ex.com/t/893176) 
@@ -114,7 +115,6 @@
 - [【V2EX】2022-11-06-sqldb：一个利用-Go-泛型及反射简化数据库模型操作的库](https://www.v2ex.com/t/893132) 
 - [【V2EX】2022-11-06-来看我写会儿代码,不提-PR-不回家🥺](https://www.v2ex.com/t/893131) 
 - [【V2EX】2022-11-06-大家用的什么椅子?](https://www.v2ex.com/t/893130) 
-- [【V2EX】2022-11-06-有人收到过这种邮件吗？](https://www.v2ex.com/t/893129) 
 - [【技术头条】2022-11-06-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-06-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-06-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -146,9 +146,9 @@
 - [【开发者头条】2022-11-06-别用XShell了，这款SSH工具绝对惊艳，还支持网页版.....](https://toutiao.io/k/ewd8p4o) 
 - [【开发者头条】2022-11-06-微前端场景下的代码共享](https://toutiao.io/k/a7vptvu) 
 - [【开发者头条】2022-11-06-记一次CLOSE_WAIT引发的血案](https://toutiao.io/k/3wz0cg8) 
+- [【开发者头条】2022-11-06-推荐-网易经验规整：ClickHouse-开发与使用规范大全](https://toutiao.io/k/nprygo2) 
 - [【开发者头条】2022-11-06-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) 
 - [【开发者头条】2022-11-06-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) 
-- [【开发者头条】2022-11-06-推荐-网易经验规整：ClickHouse-开发与使用规范大全](https://toutiao.io/k/nprygo2) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

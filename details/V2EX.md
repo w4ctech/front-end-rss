@@ -1,10 +1,15 @@
-:alarm_clock: 更新时间: 2022-11-06 10:42:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-06 11:12:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-11-06-请教关于学习新语言、技术学习时精力的配比](https://www.v2ex.com/t/893112) 
+- [2022-11-06-有没有铁子平时思考一些耳熟能详的词语?](https://www.v2ex.com/t/893111) 
+- [2022-11-06-山寨网线和大牌网线的区别](https://www.v2ex.com/t/893110) 
+- [2022-11-06-如何注册没有两步验证的-Apple-ID？请问各位](https://www.v2ex.com/t/893109) 
+- [2022-11-06-如果拼多-多做一款微信，会成功吗？](https://www.v2ex.com/t/893108) 
 - [2022-11-06-千万小心-macOS-Ventura-下的-app-management-权限](https://www.v2ex.com/t/893106) 
 - [2022-11-06-Zlib-的数据量怎么这么少，才-31T-的书籍？](https://www.v2ex.com/t/893105) 
 - [2022-11-06-13pro-可以升-iOS16-吗，目前还是出厂的-15.4.1，有点担心升级之后容易发热](https://www.v2ex.com/t/893104) 
@@ -37,8 +42,3 @@
 - [2022-11-06-No-SIM-Available](https://www.v2ex.com/t/893066) 
 - [2022-11-06-前段时间-9.9-拼团的-Air780E-开发板是翻车了吗](https://www.v2ex.com/t/893065) 
 - [2022-11-06-出-cloudcone-2c2g40gSSD,16.52-刀/年-SC2](https://www.v2ex.com/t/893063) 
-- [2022-11-06-MacBook-的屏幕亮度会随着眼睛的注视自动调整？](https://www.v2ex.com/t/893062) 
-- [2022-11-06-恭喜-DRX-夺冠！](https://www.v2ex.com/t/893061) 
-- [2022-11-06-drx-打野演员啊-这都能拿冠军](https://www.v2ex.com/t/893060) 
-- [2022-11-06-参加校友会的爬山，太内向不敢主动和人说话](https://www.v2ex.com/t/893059) 
-- [2022-11-06-为什么编程对我就像母语？](https://www.v2ex.com/t/893058) 

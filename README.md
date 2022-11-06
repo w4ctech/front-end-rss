@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-06 10:42:40，:rocket: 更新条数: +2016， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-06 11:12:50，:rocket: 更新条数: +2016， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-11-06-请教关于学习新语言、技术学习时精力的配比](https://www.v2ex.com/t/893112) ![](assets/new.png)  
+- [2022-11-06-有没有铁子平时思考一些耳熟能详的词语?](https://www.v2ex.com/t/893111) ![](assets/new.png)  
+- [2022-11-06-山寨网线和大牌网线的区别](https://www.v2ex.com/t/893110) ![](assets/new.png)  
+- [2022-11-06-如何注册没有两步验证的-Apple-ID？请问各位](https://www.v2ex.com/t/893109) ![](assets/new.png)  
+- [2022-11-06-如果拼多-多做一款微信，会成功吗？](https://www.v2ex.com/t/893108) ![](assets/new.png)  
 - [2022-11-06-千万小心-macOS-Ventura-下的-app-management-权限](https://www.v2ex.com/t/893106) ![](assets/new.png)  
 - [2022-11-06-Zlib-的数据量怎么这么少，才-31T-的书籍？](https://www.v2ex.com/t/893105) ![](assets/new.png)  
 - [2022-11-06-13pro-可以升-iOS16-吗，目前还是出厂的-15.4.1，有点担心升级之后容易发热](https://www.v2ex.com/t/893104) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-11-06-mac-系统数据-100-多-G-了，有什么清理的办法吗？](https://www.v2ex.com/t/893091) ![](assets/new.png)  
 - [2022-11-06-购买日期未验证](https://www.v2ex.com/t/893090) ![](assets/new.png)  
 - [2022-11-06-小宇宙导入不了播客，怎么办？](https://www.v2ex.com/t/893089) ![](assets/new.png)  
-- [2022-11-06-双拼的邪路，致打算学习双拼的朋友](https://www.v2ex.com/t/893088) ![](assets/new.png)  
-- [2022-11-06-关于微信被异地登录然后被腾讯官方辟谣的事儿](https://www.v2ex.com/t/893085) ![](assets/new.png)  
-- [2022-11-06-更新-Ventura-后可能会影响在家考托福/GRE](https://www.v2ex.com/t/893084) ![](assets/new.png)  
-- [2022-11-06-macos-outlook-不通知提醒](https://www.v2ex.com/t/893083) ![](assets/new.png)  
-- [2022-11-06-win10-系统连续运行-5-天以上操作就会变得卡顿](https://www.v2ex.com/t/893082) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,8 +564,8 @@
 - [2022-11-06-微前端场景下的代码共享](https://toutiao.io/k/a7vptvu) ![](assets/new.png)  
 - [2022-11-06-别用XShell了，这款SSH工具绝对惊艳，还支持网页版.....](https://toutiao.io/k/ewd8p4o) ![](assets/new.png)  
 - [2022-11-06-记一次CLOSE_WAIT引发的血案](https://toutiao.io/k/3wz0cg8) ![](assets/new.png)  
-- [2022-11-06-推荐-网易经验规整：ClickHouse-开发与使用规范大全](https://toutiao.io/k/nprygo2) ![](assets/new.png)  
 - [2022-11-06-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) ![](assets/new.png)  
+- [2022-11-06-推荐-网易经验规整：ClickHouse-开发与使用规范大全](https://toutiao.io/k/nprygo2) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

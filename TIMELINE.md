@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-06 03:14:55。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-06 04:03:55。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -69,6 +69,10 @@
 
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-06-除了微信，还有什么高清的视频通话软件适合老人用的吗](https://www.v2ex.com/t/893045) 
+- [【V2EX】2022-11-06-手机打开全局之后。然后热点分享给电脑和其他手机。-其他手机能全局吗？](https://www.v2ex.com/t/893043) 
+- [【V2EX】2022-11-06-寻找-Apple-TV-观看网页视频解决方案](https://www.v2ex.com/t/893042) 
+- [【V2EX】2022-11-06-在职创业，跳槽该怎么搞？](https://www.v2ex.com/t/893041) 
 - [【V2EX】2022-11-06-「火龙-8-gen1」真的那么热吗？有没有用过的小伙伴解答一下](https://www.v2ex.com/t/893040) 
 - [【V2EX】2022-11-06-更新-Ventura-后，罗技-option+每次重启后都要重新关开辅助功能后才能正常起作用](https://www.v2ex.com/t/893039) 
 - [【V2EX】2022-11-06-双-11-买-8+-Gen-1-会不会太晚](https://www.v2ex.com/t/893037) 
@@ -103,11 +107,6 @@
 - [【V2EX】2022-11-05-求助:如何重置为知笔记私有部署的管理员账号密码](https://www.v2ex.com/t/893001) 
 - [【V2EX】2022-11-05-红米手机-67W-的-Type-C-充电器可以给-m1-pro-充电么？](https://www.v2ex.com/t/893000) 
 - [【V2EX】2022-11-05-手机有半斤吗？因为这个我和五个人大吵一架](https://www.v2ex.com/t/892999) 
-- [【V2EX】2022-11-05-大家的打字速度都是多少，我刚才测了下是-127-字每分钟。](https://www.v2ex.com/t/892996) 
-- [【V2EX】2022-11-05-在-vue3-中，-computed-计算属性性能问题](https://www.v2ex.com/t/892995) 
-- [【V2EX】2022-11-05-穷人的-twitter-替代：用-git-的-commit-作为时间轴](https://www.v2ex.com/t/892994) 
-- [【V2EX】2022-11-05-为什么欲望这个词会很少和女性相关?](https://www.v2ex.com/t/892992) 
-- [【V2EX】2022-11-05-VMware-公司的远程工作哪些是中国大陆人能申请的？](https://www.v2ex.com/t/892991) 
 - [【技术头条】2022-11-06-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-06-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-06-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -134,11 +133,11 @@
 - [【开发者头条】2022-11-06-一文搞懂-XaaS](https://toutiao.io/k/b59020l) 
 - [【开发者头条】2022-11-06-Arctic-基于-Hive-的流批一体实践](https://toutiao.io/k/byhxi7m) 
 - [【开发者头条】2022-11-06-CDN，总绕不过-DNS](https://toutiao.io/k/gzi57yd) 
-- [【开发者头条】2022-11-06-牛逼哄哄的-JD-hotkey-！](https://toutiao.io/k/tp38w8w) 
 - [【开发者头条】2022-11-06-超详细配置教程：用-Windows-电脑训练深度学习模型](https://toutiao.io/k/g3xxijc) 
+- [【开发者头条】2022-11-06-牛逼哄哄的-JD-hotkey-！](https://toutiao.io/k/tp38w8w) 
 - [【开发者头条】2022-11-06-微前端场景下的代码共享](https://toutiao.io/k/a7vptvu) 
-- [【开发者头条】2022-11-06-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) 
 - [【开发者头条】2022-11-06-推荐-网易经验规整：ClickHouse-开发与使用规范大全](https://toutiao.io/k/nprygo2) 
+- [【开发者头条】2022-11-06-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

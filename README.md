@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-06 03:14:55，:rocket: 更新条数: +2016， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-06 04:03:55，:rocket: 更新条数: +2015， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-11-06-除了微信，还有什么高清的视频通话软件适合老人用的吗](https://www.v2ex.com/t/893045) ![](assets/new.png)  
+- [2022-11-06-手机打开全局之后。然后热点分享给电脑和其他手机。-其他手机能全局吗？](https://www.v2ex.com/t/893043) ![](assets/new.png)  
+- [2022-11-06-寻找-Apple-TV-观看网页视频解决方案](https://www.v2ex.com/t/893042) ![](assets/new.png)  
+- [2022-11-06-在职创业，跳槽该怎么搞？](https://www.v2ex.com/t/893041) ![](assets/new.png)  
 - [2022-11-06-「火龙-8-gen1」真的那么热吗？有没有用过的小伙伴解答一下](https://www.v2ex.com/t/893040) ![](assets/new.png)  
 - [2022-11-06-更新-Ventura-后，罗技-option+每次重启后都要重新关开辅助功能后才能正常起作用](https://www.v2ex.com/t/893039) ![](assets/new.png)  
 - [2022-11-06-双-11-买-8+-Gen-1-会不会太晚](https://www.v2ex.com/t/893037) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-11-06-国行的-iPhone14-出去支持-esim-吗](https://www.v2ex.com/t/893022) ![](assets/new.png)  
 - [2022-11-06-为什么-mac-的-telegram-里面有些图片不显示，用手机看就能看到？](https://www.v2ex.com/t/893021) ![](assets/new.png)  
 - [2022-11-06-HomePod-用-Siri-播放-Apple-Music-时不能用中文名字了](https://www.v2ex.com/t/893020) ![](assets/new.png)  
-- [2022-11-06-求推荐给老人的安卓手机，期望要求是：-1-便宜，-2-能用的年限久一点（几乎只用微信）](https://www.v2ex.com/t/893017) ![](assets/new.png)  
-- [2022-11-05-年底更新了一下-iPad-pro-12.9](https://www.v2ex.com/t/893015) ![](assets/new.png)  
-- [2022-11-05-求解梦，经常梦到被人追赶](https://www.v2ex.com/t/893014) ![](assets/new.png)  
-- [2022-11-05-请教大家多台电脑怎么更方便自己使用/多设备工作流/私有云/Homelab](https://www.v2ex.com/t/893013) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -559,11 +559,11 @@
 - [2022-11-06-一文搞懂-XaaS](https://toutiao.io/k/b59020l) ![](assets/new.png)  
 - [2022-11-06-Arctic-基于-Hive-的流批一体实践](https://toutiao.io/k/byhxi7m) ![](assets/new.png)  
 - [2022-11-06-CDN，总绕不过-DNS](https://toutiao.io/k/gzi57yd) ![](assets/new.png)  
-- [2022-11-06-牛逼哄哄的-JD-hotkey-！](https://toutiao.io/k/tp38w8w) ![](assets/new.png)  
 - [2022-11-06-超详细配置教程：用-Windows-电脑训练深度学习模型](https://toutiao.io/k/g3xxijc) ![](assets/new.png)  
+- [2022-11-06-牛逼哄哄的-JD-hotkey-！](https://toutiao.io/k/tp38w8w) ![](assets/new.png)  
 - [2022-11-06-微前端场景下的代码共享](https://toutiao.io/k/a7vptvu) ![](assets/new.png)  
-- [2022-11-06-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) ![](assets/new.png)  
 - [2022-11-06-推荐-网易经验规整：ClickHouse-开发与使用规范大全](https://toutiao.io/k/nprygo2) ![](assets/new.png)  
+- [2022-11-06-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-06 14:13:29，:rocket: 更新条数: +2023， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-06 14:39:20，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-11-06-cnbeta-是永久回不来了吗？](https://www.v2ex.com/t/893158) ![](assets/new.png)  
+- [2022-11-06-iCloud-居然不支持-heif-上传](https://www.v2ex.com/t/893157) ![](assets/new.png)  
 - [2022-11-06-当开源社区遇到公然违反开源协议的商业公司，除了无能为力，我们还能做什么](https://www.v2ex.com/t/893156) ![](assets/new.png)  
 - [2022-11-06-车被电瓶车撞了](https://www.v2ex.com/t/893155) ![](assets/new.png)  
 - [2022-11-06-7-年产品，求工作机会，经验关键词-SaaS、NLP、Chatbot、RPA、B2C、B2B](https://www.v2ex.com/t/893154) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-11-06-写了个使用-GitHub-Action-备份-shsh2-的脚本](https://www.v2ex.com/t/893141) ![](assets/new.png)  
 - [2022-11-06-升级-ios16.2-后来信息不亮屏了……](https://www.v2ex.com/t/893140) ![](assets/new.png)  
 - [2022-11-06-分享今天本人经历，同时劝大家千万别碰网络赌博！-今天无聊玩了电子老虎机，结果上头了，输了-50，真的太后悔，有这钱买点啥不好，高估了自己的意志力，有了解...](https://www.v2ex.com/t/893139) ![](assets/new.png)  
-- [2022-11-06-求助：-使用-MagSafe-3-休眠充电问题](https://www.v2ex.com/t/893138) ![](assets/new.png)  
-- [2022-11-06-求一份-coderwhy-系统课](https://www.v2ex.com/t/893137) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,8 +564,8 @@
 - [2022-11-06-微前端场景下的代码共享](https://toutiao.io/k/a7vptvu) ![](assets/new.png)  
 - [2022-11-06-别用XShell了，这款SSH工具绝对惊艳，还支持网页版.....](https://toutiao.io/k/ewd8p4o) ![](assets/new.png)  
 - [2022-11-06-记一次CLOSE_WAIT引发的血案](https://toutiao.io/k/3wz0cg8) ![](assets/new.png)  
-- [2022-11-06-推荐-网易经验规整：ClickHouse-开发与使用规范大全](https://toutiao.io/k/nprygo2) ![](assets/new.png)  
 - [2022-11-06-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) ![](assets/new.png)  
+- [2022-11-06-推荐-网易经验规整：ClickHouse-开发与使用规范大全](https://toutiao.io/k/nprygo2) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-06 12:25:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-06 13:03:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1917,6 +1917,13 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-11-06-升级-ios16.2-后来信息不亮屏了……](https://www.v2ex.com/t/893140) 
+- [2022-11-06-分享今天本人经历，同时劝大家千万别碰网络赌博！-今天无聊玩了电子老虎机，结果上头了，输了-50，真的太后悔，有这钱买点啥不好，高估了自己的意志力，有了解...](https://www.v2ex.com/t/893139) 
+- [2022-11-06-求助：-使用-MagSafe-3-休眠充电问题](https://www.v2ex.com/t/893138) 
+- [2022-11-06-求一份-coderwhy-系统课](https://www.v2ex.com/t/893137) 
+- [2022-11-06-VMOS-安卓手机上的虚拟机运行不稳定-求同类型的虚拟机](https://www.v2ex.com/t/893136) 
+- [2022-11-06-推荐好用的超长-USB-C-to-USB-C-线？（用来把-iPad-作为-PC-的外接显示器用）](https://www.v2ex.com/t/893135) 
+- [2022-11-06-Help，自打水晶头，-8-芯通了-7-芯](https://www.v2ex.com/t/893133) 
 - [2022-11-06-sqldb：一个利用-Go-泛型及反射简化数据库模型操作的库](https://www.v2ex.com/t/893132) 
 - [2022-11-06-来看我写会儿代码,不提-PR-不回家🥺](https://www.v2ex.com/t/893131) 
 - [2022-11-06-大家用的什么椅子?](https://www.v2ex.com/t/893130) 
@@ -1942,12 +1949,6 @@
 - [2022-11-06-he-的-ipv6-隧道网站被掐了。](https://www.v2ex.com/t/893094) 
 - [2022-11-06-各位电脑外设的无线设备，怎么及时充电的？](https://www.v2ex.com/t/893093) 
 - [2022-11-06-mac-系统数据-100-多-G-了，有什么清理的办法吗？](https://www.v2ex.com/t/893091) 
-- [2022-11-06-购买日期未验证](https://www.v2ex.com/t/893090) 
-- [2022-11-06-小宇宙导入不了播客，怎么办？](https://www.v2ex.com/t/893089) 
-- [2022-11-06-双拼的邪路，致打算学习双拼的朋友](https://www.v2ex.com/t/893088) 
-- [2022-11-06-关于微信被异地登录然后被腾讯官方辟谣的事儿](https://www.v2ex.com/t/893085) 
-- [2022-11-06-更新-Ventura-后可能会影响在家考托福/GRE](https://www.v2ex.com/t/893084) 
-- [2022-11-06-macos-outlook-不通知提醒](https://www.v2ex.com/t/893083) 
 - [2022-11-06-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-06-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-06-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

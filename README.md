@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-06 01:10:22，:rocket: 更新条数: +2017， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-06 03:14:55，:rocket: 更新条数: +2016， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,19 @@
 </summary>
 
 
+- [2022-11-06-「火龙-8-gen1」真的那么热吗？有没有用过的小伙伴解答一下](https://www.v2ex.com/t/893040) ![](assets/new.png)  
+- [2022-11-06-更新-Ventura-后，罗技-option+每次重启后都要重新关开辅助功能后才能正常起作用](https://www.v2ex.com/t/893039) ![](assets/new.png)  
+- [2022-11-06-双-11-买-8+-Gen-1-会不会太晚](https://www.v2ex.com/t/893037) ![](assets/new.png)  
+- [2022-11-06-大家看-S12-了吗？](https://www.v2ex.com/t/893036) ![](assets/new.png)  
+- [2022-11-06-北京联通家宽固定公网-ip-业务开售](https://www.v2ex.com/t/893035) ![](assets/new.png)  
+- [2022-11-06-在-macOS/iOS-地图上发现了有史以来最长的酒店中文名](https://www.v2ex.com/t/893034) ![](assets/new.png)  
+- [2022-11-06-Windows10-的设备管理器在疯狂刷新，求救](https://www.v2ex.com/t/893033) ![](assets/new.png)  
+- [2022-11-06-针对衣服上抖动产生的毛絮和灰尘空气净化器有用吗？小房间-15-平左右](https://www.v2ex.com/t/893032) ![](assets/new.png)  
+- [2022-11-06-telegram](https://www.v2ex.com/t/893030) ![](assets/new.png)  
+- [2022-11-06-google-workspace-能关-AI-扫描，个人版-gmail-能不能关掉-AI-扫描吗？](https://www.v2ex.com/t/893029) ![](assets/new.png)  
+- [2022-11-06-一年时间，用-Golang-写了个一个博客系统](https://www.v2ex.com/t/893027) ![](assets/new.png)  
+- [2022-11-06-请教下：-ios-手机怎么用命令清理-safari-的数据了](https://www.v2ex.com/t/893026) ![](assets/new.png)  
+- [2022-11-06-Magsafe-充电的动画原理是啥](https://www.v2ex.com/t/893024) ![](assets/new.png)  
 - [2022-11-06-国行的-iPhone14-出去支持-esim-吗](https://www.v2ex.com/t/893022) ![](assets/new.png)  
 - [2022-11-06-为什么-mac-的-telegram-里面有些图片不显示，用手机看就能看到？](https://www.v2ex.com/t/893021) ![](assets/new.png)  
 - [2022-11-06-HomePod-用-Siri-播放-Apple-Music-时不能用中文名字了](https://www.v2ex.com/t/893020) ![](assets/new.png)  
@@ -498,19 +511,6 @@
 - [2022-11-05-年底更新了一下-iPad-pro-12.9](https://www.v2ex.com/t/893015) ![](assets/new.png)  
 - [2022-11-05-求解梦，经常梦到被人追赶](https://www.v2ex.com/t/893014) ![](assets/new.png)  
 - [2022-11-05-请教大家多台电脑怎么更方便自己使用/多设备工作流/私有云/Homelab](https://www.v2ex.com/t/893013) ![](assets/new.png)  
-- [2022-11-05-Windows-有什么好用的备份软件吗？](https://www.v2ex.com/t/893012) ![](assets/new.png)  
-- [2022-11-05-华为平板用了两年坏了，是品质有问题还是我使用不当？](https://www.v2ex.com/t/893011) ![](assets/new.png)  
-- [2022-11-05-中国电信现在屏蔽家宽-Web-服务的规则到底是什么，为什么群晖的-Web-管理端不受影响？](https://www.v2ex.com/t/893010) ![](assets/new.png)  
-- [2022-11-05-大佬们，我建了个谷歌-gsoc-2023-的-qq-群，方便交流信息](https://www.v2ex.com/t/893009) ![](assets/new.png)  
-- [2022-11-05-阿里云盘啥时候能原生支持群晖-Cloud-Sync](https://www.v2ex.com/t/893008) ![](assets/new.png)  
-- [2022-11-05-DVORAK、Colemak,-等非-QWERTY-的键盘布局能否真的可以提高打字速度?](https://www.v2ex.com/t/893007) ![](assets/new.png)  
-- [2022-11-05-是不是离婚一旦说出口，就是深思熟虑过的？](https://www.v2ex.com/t/893006) ![](assets/new.png)  
-- [2022-11-05-cs61a-的一道题，有大佬讲解一下吗？](https://www.v2ex.com/t/893005) ![](assets/new.png)  
-- [2022-11-05-这是不是微信-BUG？](https://www.v2ex.com/t/893004) ![](assets/new.png)  
-- [2022-11-05-新安装的-macos12.6.1-finder-无法以标签页打开文件夹](https://www.v2ex.com/t/893003) ![](assets/new.png)  
-- [2022-11-05-遇到了做网线不通的玄学原因？](https://www.v2ex.com/t/893002) ![](assets/new.png)  
-- [2022-11-05-求助:如何重置为知笔记私有部署的管理员账号密码](https://www.v2ex.com/t/893001) ![](assets/new.png)  
-- [2022-11-05-红米手机-67W-的-Type-C-充电器可以给-m1-pro-充电么？](https://www.v2ex.com/t/893000) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -555,13 +555,13 @@
 
 - [2022-11-06-欢迎加入读者圈子，一起交流！](https://toutiao.io/k/mtrqmru) ![](assets/new.png)  
 - [2022-11-06-如何将进程、线程与-CPU-核进行绑定](https://toutiao.io/k/q0ifce4) ![](assets/new.png)  
-- [2022-11-06-一文搞懂-XaaS](https://toutiao.io/k/b59020l) ![](assets/new.png)  
 - [2022-11-06-美团高性能终端实时日志系统建设实践](https://toutiao.io/k/sewret8) ![](assets/new.png)  
+- [2022-11-06-一文搞懂-XaaS](https://toutiao.io/k/b59020l) ![](assets/new.png)  
 - [2022-11-06-Arctic-基于-Hive-的流批一体实践](https://toutiao.io/k/byhxi7m) ![](assets/new.png)  
 - [2022-11-06-CDN，总绕不过-DNS](https://toutiao.io/k/gzi57yd) ![](assets/new.png)  
 - [2022-11-06-牛逼哄哄的-JD-hotkey-！](https://toutiao.io/k/tp38w8w) ![](assets/new.png)  
-- [2022-11-06-微前端场景下的代码共享](https://toutiao.io/k/a7vptvu) ![](assets/new.png)  
 - [2022-11-06-超详细配置教程：用-Windows-电脑训练深度学习模型](https://toutiao.io/k/g3xxijc) ![](assets/new.png)  
+- [2022-11-06-微前端场景下的代码共享](https://toutiao.io/k/a7vptvu) ![](assets/new.png)  
 - [2022-11-06-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) ![](assets/new.png)  
 - [2022-11-06-推荐-网易经验规整：ClickHouse-开发与使用规范大全](https://toutiao.io/k/nprygo2) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)

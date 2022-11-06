@@ -9953,6 +9953,71 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "「火龙 8 gen1」真的那么热吗？有没有用过的小伙伴解答一下",
+        "link": "https://www.v2ex.com/t/893040",
+        "date": "2022-11-06"
+      },
+      {
+        "title": "更新 Ventura 后，罗技 option+每次重启后都要重新关开辅助功能后才能正常起作用",
+        "link": "https://www.v2ex.com/t/893039",
+        "date": "2022-11-06"
+      },
+      {
+        "title": "双 11 买 8+ Gen 1 会不会太晚",
+        "link": "https://www.v2ex.com/t/893037",
+        "date": "2022-11-06"
+      },
+      {
+        "title": "大家看 S12 了吗？",
+        "link": "https://www.v2ex.com/t/893036",
+        "date": "2022-11-06"
+      },
+      {
+        "title": "北京联通家宽固定公网 ip 业务开售",
+        "link": "https://www.v2ex.com/t/893035",
+        "date": "2022-11-06"
+      },
+      {
+        "title": "在 macOS/iOS 地图上发现了有史以来最长的酒店中文名",
+        "link": "https://www.v2ex.com/t/893034",
+        "date": "2022-11-06"
+      },
+      {
+        "title": "Windows10 的设备管理器在疯狂刷新，求救",
+        "link": "https://www.v2ex.com/t/893033",
+        "date": "2022-11-06"
+      },
+      {
+        "title": "针对衣服上抖动产生的毛絮和灰尘空气净化器有用吗？小房间 15 平左右",
+        "link": "https://www.v2ex.com/t/893032",
+        "date": "2022-11-06"
+      },
+      {
+        "title": "[telegram]",
+        "link": "https://www.v2ex.com/t/893030",
+        "date": "2022-11-06"
+      },
+      {
+        "title": "google workspace 能关 AI 扫描，个人版 gmail 能不能关掉 AI 扫描吗？",
+        "link": "https://www.v2ex.com/t/893029",
+        "date": "2022-11-06"
+      },
+      {
+        "title": "一年时间，用 Golang 写了个一个博客系统",
+        "link": "https://www.v2ex.com/t/893027",
+        "date": "2022-11-06"
+      },
+      {
+        "title": "请教下： ios 手机怎么用命令清理 safari 的数据了",
+        "link": "https://www.v2ex.com/t/893026",
+        "date": "2022-11-06"
+      },
+      {
+        "title": "Magsafe 充电的动画原理是啥",
+        "link": "https://www.v2ex.com/t/893024",
+        "date": "2022-11-06"
+      },
+      {
         "title": "国行的 iPhone14 出去支持 esim 吗",
         "link": "https://www.v2ex.com/t/893022",
         "date": "2022-11-06"
@@ -10081,76 +10146,6 @@
         "title": "VMware 公司的远程工作哪些是中国大陆人能申请的？",
         "link": "https://www.v2ex.com/t/892991",
         "date": "2022-11-05"
-      },
-      {
-        "title": "为啥 Java 里就没有一个好用一点的异步 TcpClient?",
-        "link": "https://www.v2ex.com/t/892990",
-        "date": "2022-11-05"
-      },
-      {
-        "title": "VS Code 无法运行有中文的 py 文件怎么办？",
-        "link": "https://www.v2ex.com/t/892987",
-        "date": "2022-11-05"
-      },
-      {
-        "title": "误点了关闭蓝牙，怎样取消提示窗口？",
-        "link": "https://www.v2ex.com/t/892986",
-        "date": "2022-11-05"
-      },
-      {
-        "title": "[内推][北京][不加班]招 Java 后端/Web/iOS/ Python /测试/风控策略等",
-        "link": "https://www.v2ex.com/t/892985",
-        "date": "2022-11-05"
-      },
-      {
-        "title": "租房碰到这种情况应该怎么办",
-        "link": "https://www.v2ex.com/t/892984",
-        "date": "2022-11-05"
-      },
-      {
-        "title": "当你解析 JSON 时， Number 类型双精度丢失可以尝试使用 json-bn",
-        "link": "https://www.v2ex.com/t/892983",
-        "date": "2022-11-05"
-      },
-      {
-        "title": "Kubernetes 集群初始化镜像下载代理请教",
-        "link": "https://www.v2ex.com/t/892982",
-        "date": "2022-11-05"
-      },
-      {
-        "title": "偶然看到一个 AI 辅助写作的故事（看起来像是推广软文，我就不提软件名字了），但是限制很多（合法合规），速度又慢（10 秒内），于是我想自己开发一个类似功能...",
-        "link": "https://www.v2ex.com/t/892981",
-        "date": "2022-11-05"
-      },
-      {
-        "title": "如何查询自己 B 站账户发过的评论和弹幕?",
-        "link": "https://www.v2ex.com/t/892980",
-        "date": "2022-11-05"
-      },
-      {
-        "title": "怎么实现对翻译引擎的术语库进行自定义",
-        "link": "https://www.v2ex.com/t/892979",
-        "date": "2022-11-05"
-      },
-      {
-        "title": "大哥们， VMware Fusion Pro 11 Mac 怎么导入 windows 上 VMware16 的虚拟机镜像啊？",
-        "link": "https://www.v2ex.com/t/892977",
-        "date": "2022-11-05"
-      },
-      {
-        "title": "iPad Pro 2021 扩展坞接显示器没反应",
-        "link": "https://www.v2ex.com/t/892976",
-        "date": "2022-11-05"
-      },
-      {
-        "title": "请问有单机版吃鸡游戏吗？那种 VS 人机的.",
-        "link": "https://www.v2ex.com/t/892975",
-        "date": "2022-11-05"
-      },
-      {
-        "title": "跨城搬家大家有操作过，求支招",
-        "link": "https://www.v2ex.com/t/892974",
-        "date": "2022-11-05"
       }
     ]
   },
@@ -10277,13 +10272,13 @@
         "date": "2022-11-06"
       },
       {
-        "title": "一文搞懂 XaaS",
-        "link": "https://toutiao.io/k/b59020l",
+        "title": "美团高性能终端实时日志系统建设实践",
+        "link": "https://toutiao.io/k/sewret8",
         "date": "2022-11-06"
       },
       {
-        "title": "美团高性能终端实时日志系统建设实践",
-        "link": "https://toutiao.io/k/sewret8",
+        "title": "一文搞懂 XaaS",
+        "link": "https://toutiao.io/k/b59020l",
         "date": "2022-11-06"
       },
       {
@@ -10302,13 +10297,13 @@
         "date": "2022-11-06"
       },
       {
-        "title": "微前端场景下的代码共享",
-        "link": "https://toutiao.io/k/a7vptvu",
+        "title": "超详细配置教程：用 Windows 电脑训练深度学习模型",
+        "link": "https://toutiao.io/k/g3xxijc",
         "date": "2022-11-06"
       },
       {
-        "title": "超详细配置教程：用 Windows 电脑训练深度学习模型",
-        "link": "https://toutiao.io/k/g3xxijc",
+        "title": "微前端场景下的代码共享",
+        "link": "https://toutiao.io/k/a7vptvu",
         "date": "2022-11-06"
       },
       {

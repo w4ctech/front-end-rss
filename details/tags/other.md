@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-06 05:38:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-06 06:18:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1916,6 +1916,11 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-11-06-出-cloudcone-2c2g40gSSD,16.52-刀/年-SC2](https://www.v2ex.com/t/893063) 
+- [2022-11-06-MacBook-的屏幕亮度会随着眼睛的注视自动调整？](https://www.v2ex.com/t/893062) 
+- [2022-11-06-恭喜-DRX-夺冠！](https://www.v2ex.com/t/893061) 
+- [2022-11-06-drx-打野演员啊-这都能拿冠军](https://www.v2ex.com/t/893060) 
+- [2022-11-06-参加校友会的爬山，太内向不敢主动和人说话](https://www.v2ex.com/t/893059) 
 - [2022-11-06-为什么编程对我就像母语？](https://www.v2ex.com/t/893058) 
 - [2022-11-06-一台旧-MacBook-Pro-能拿来做什么呢？](https://www.v2ex.com/t/893057) 
 - [2022-11-06-Mac-Os-13-Ventura-必现-bug。](https://www.v2ex.com/t/893056) 
@@ -1943,12 +1948,6 @@
 - [2022-11-06-HomePod-用-Siri-播放-Apple-Music-时不能用中文名字了](https://www.v2ex.com/t/893020) 
 - [2022-11-06-求推荐给老人的安卓手机，期望要求是：-1-便宜，-2-能用的年限久一点（几乎只用微信）](https://www.v2ex.com/t/893017) 
 - [2022-11-05-年底更新了一下-iPad-pro-12.9](https://www.v2ex.com/t/893015) 
-- [2022-11-05-求解梦，经常梦到被人追赶](https://www.v2ex.com/t/893014) 
-- [2022-11-05-请教大家多台电脑怎么更方便自己使用/多设备工作流/私有云/Homelab](https://www.v2ex.com/t/893013) 
-- [2022-11-05-Windows-有什么好用的备份软件吗？](https://www.v2ex.com/t/893012) 
-- [2022-11-05-华为平板用了两年坏了，是品质有问题还是我使用不当？](https://www.v2ex.com/t/893011) 
-- [2022-11-05-中国电信现在屏蔽家宽-Web-服务的规则到底是什么，为什么群晖的-Web-管理端不受影响？](https://www.v2ex.com/t/893010) 
-- [2022-11-05-大佬们，我建了个谷歌-gsoc-2023-的-qq-群，方便交流信息](https://www.v2ex.com/t/893009) 
 - [2022-11-06-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-06-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-06-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1974,5 +1973,7 @@
 - [2022-11-06-超详细配置教程：用-Windows-电脑训练深度学习模型](https://toutiao.io/k/g3xxijc) 
 - [2022-11-06-牛逼哄哄的-JD-hotkey-！](https://toutiao.io/k/tp38w8w) 
 - [2022-11-06-微前端场景下的代码共享](https://toutiao.io/k/a7vptvu) 
+- [2022-11-06-别用XShell了，这款SSH工具绝对惊艳，还支持网页版.....](https://toutiao.io/k/ewd8p4o) 
+- [2022-11-06-记一次CLOSE_WAIT引发的血案](https://toutiao.io/k/3wz0cg8) 
 - [2022-11-06-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) 
 - [2022-11-06-推荐-网易经验规整：ClickHouse-开发与使用规范大全](https://toutiao.io/k/nprygo2) 

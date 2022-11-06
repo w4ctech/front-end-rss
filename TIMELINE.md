@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-06 05:38:37。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-06 06:18:03。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -69,6 +69,11 @@
 
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-06-出-cloudcone-2c2g40gSSD,16.52-刀/年-SC2](https://www.v2ex.com/t/893063) 
+- [【V2EX】2022-11-06-MacBook-的屏幕亮度会随着眼睛的注视自动调整？](https://www.v2ex.com/t/893062) 
+- [【V2EX】2022-11-06-恭喜-DRX-夺冠！](https://www.v2ex.com/t/893061) 
+- [【V2EX】2022-11-06-drx-打野演员啊-这都能拿冠军](https://www.v2ex.com/t/893060) 
+- [【V2EX】2022-11-06-参加校友会的爬山，太内向不敢主动和人说话](https://www.v2ex.com/t/893059) 
 - [【V2EX】2022-11-06-为什么编程对我就像母语？](https://www.v2ex.com/t/893058) 
 - [【V2EX】2022-11-06-一台旧-MacBook-Pro-能拿来做什么呢？](https://www.v2ex.com/t/893057) 
 - [【V2EX】2022-11-06-Mac-Os-13-Ventura-必现-bug。](https://www.v2ex.com/t/893056) 
@@ -100,12 +105,6 @@
 - [【V2EX】2022-11-06-HomePod-用-Siri-播放-Apple-Music-时不能用中文名字了](https://www.v2ex.com/t/893020) 
 - [【V2EX】2022-11-06-求推荐给老人的安卓手机，期望要求是：-1-便宜，-2-能用的年限久一点（几乎只用微信）](https://www.v2ex.com/t/893017) 
 - [【V2EX】2022-11-05-年底更新了一下-iPad-pro-12.9](https://www.v2ex.com/t/893015) 
-- [【V2EX】2022-11-05-求解梦，经常梦到被人追赶](https://www.v2ex.com/t/893014) 
-- [【V2EX】2022-11-05-请教大家多台电脑怎么更方便自己使用/多设备工作流/私有云/Homelab](https://www.v2ex.com/t/893013) 
-- [【V2EX】2022-11-05-Windows-有什么好用的备份软件吗？](https://www.v2ex.com/t/893012) 
-- [【V2EX】2022-11-05-华为平板用了两年坏了，是品质有问题还是我使用不当？](https://www.v2ex.com/t/893011) 
-- [【V2EX】2022-11-05-中国电信现在屏蔽家宽-Web-服务的规则到底是什么，为什么群晖的-Web-管理端不受影响？](https://www.v2ex.com/t/893010) 
-- [【V2EX】2022-11-05-大佬们，我建了个谷歌-gsoc-2023-的-qq-群，方便交流信息](https://www.v2ex.com/t/893009) 
 - [【技术头条】2022-11-06-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-06-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-06-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -127,14 +126,16 @@
 - [【技术头条】2022-11-06-与日俱进，在-Go-1.20-中这种高效转换的方式又变了-colobu.com](https://blogread.cn/news/go.php?idItem=15386&url=https%3A%2F%2Fcolobu.com%2F2022%2F09%2F06%2Fstring-byte-convertion%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-06-10-大可以摧毁你的-Linux-的命令-linux.cn](https://blogread.cn/news/go.php?idItem=15385&url=https%3A%2F%2Flinux.cn%2Farticle-15022-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【开发者头条】2022-11-06-欢迎加入读者圈子，一起交流！](https://toutiao.io/k/mtrqmru) 
-- [【开发者头条】2022-11-06-美团高性能终端实时日志系统建设实践](https://toutiao.io/k/sewret8) 
 - [【开发者头条】2022-11-06-如何将进程、线程与-CPU-核进行绑定](https://toutiao.io/k/q0ifce4) 
+- [【开发者头条】2022-11-06-美团高性能终端实时日志系统建设实践](https://toutiao.io/k/sewret8) 
 - [【开发者头条】2022-11-06-一文搞懂-XaaS](https://toutiao.io/k/b59020l) 
 - [【开发者头条】2022-11-06-Arctic-基于-Hive-的流批一体实践](https://toutiao.io/k/byhxi7m) 
 - [【开发者头条】2022-11-06-CDN，总绕不过-DNS](https://toutiao.io/k/gzi57yd) 
 - [【开发者头条】2022-11-06-超详细配置教程：用-Windows-电脑训练深度学习模型](https://toutiao.io/k/g3xxijc) 
 - [【开发者头条】2022-11-06-牛逼哄哄的-JD-hotkey-！](https://toutiao.io/k/tp38w8w) 
 - [【开发者头条】2022-11-06-微前端场景下的代码共享](https://toutiao.io/k/a7vptvu) 
+- [【开发者头条】2022-11-06-别用XShell了，这款SSH工具绝对惊艳，还支持网页版.....](https://toutiao.io/k/ewd8p4o) 
+- [【开发者头条】2022-11-06-记一次CLOSE_WAIT引发的血案](https://toutiao.io/k/3wz0cg8) 
 - [【开发者头条】2022-11-06-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) 
 - [【开发者头条】2022-11-06-推荐-网易经验规整：ClickHouse-开发与使用规范大全](https://toutiao.io/k/nprygo2) 
 

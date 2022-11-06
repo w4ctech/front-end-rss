@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-06 14:39:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-06 15:16:05。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,7 +70,13 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
-- [【V2EX】2022-11-06-cnbeta-是永久回不来了吗？](https://www.v2ex.com/t/893158) 
+- [【V2EX】2022-11-06-求推荐电报一些有意思的群组](https://www.v2ex.com/t/893165) 
+- [【V2EX】2022-11-06-.one-域名下个月将翻倍涨价](https://www.v2ex.com/t/893164) 
+- [【V2EX】2022-11-06-生活中的邮局-VS-网络中的邮局](https://www.v2ex.com/t/893163) 
+- [【V2EX】2022-11-06-京东撸货，单太多了，现在需要能吃我单子的人。](https://www.v2ex.com/t/893162) 
+- [【V2EX】2022-11-06-NutsDB-v0.11.0-发布，启动速度提高一倍](https://www.v2ex.com/t/893161) 
+- [【V2EX】2022-11-06-现在是不是没有-LCD-屏幕的手机了？](https://www.v2ex.com/t/893160) 
+- [【V2EX】2022-11-06-后端该如何学习前端？来自小白的一些疑惑~](https://www.v2ex.com/t/893159) 
 - [【V2EX】2022-11-06-iCloud-居然不支持-heif-上传](https://www.v2ex.com/t/893157) 
 - [【V2EX】2022-11-06-当开源社区遇到公然违反开源协议的商业公司，除了无能为力，我们还能做什么](https://www.v2ex.com/t/893156) 
 - [【V2EX】2022-11-06-车被电瓶车撞了](https://www.v2ex.com/t/893155) 
@@ -79,7 +85,6 @@
 - [【V2EX】2022-11-06-求推荐个-apple-pencil-1-的平替](https://www.v2ex.com/t/893152) 
 - [【V2EX】2022-11-06-关于试用期的问题](https://www.v2ex.com/t/893151) 
 - [【V2EX】2022-11-06-mac-显卡拓展坞用于深度学习运行一些小-demo](https://www.v2ex.com/t/893150) 
-- [【V2EX】2022-11-06-机场有推荐的吗？](https://www.v2ex.com/t/893149) 
 - [【V2EX】2022-11-06-迭代-一款小而美的-Markdown-静态博客程序](https://www.v2ex.com/t/893148) 
 - [【V2EX】2022-11-06-“我们国家得病了，因为一种带着王冠的病毒”](https://www.v2ex.com/t/893147) 
 - [【V2EX】2022-11-06-大脑是一个读-O1复杂度的数据结构。](https://www.v2ex.com/t/893146) 
@@ -109,12 +114,6 @@
 - [【V2EX】2022-11-06-看见有人在大学死磕-C++找不到工作有感（OP-没有-C++相关的工作经历）](https://www.v2ex.com/t/893118) 
 - [【V2EX】2022-11-06-Meta-开源全新音频压缩技术-EnCodec，比-MP3-小-10-倍](https://www.v2ex.com/t/893117) 
 - [【V2EX】2022-11-06-发现一个-Downie-免费平替产品](https://www.v2ex.com/t/893116) 
-- [【V2EX】2022-11-06-求助，-debian8-怎么能安装-php7.0-以上的版本](https://www.v2ex.com/t/893114) 
-- [【V2EX】2022-11-06-卖房子可以找多个中介吗？](https://www.v2ex.com/t/893113) 
-- [【V2EX】2022-11-06-请教关于学习新语言、技术学习时精力的配比](https://www.v2ex.com/t/893112) 
-- [【V2EX】2022-11-06-有没有铁子平时思考一些耳熟能详的词语?](https://www.v2ex.com/t/893111) 
-- [【V2EX】2022-11-06-山寨网线和大牌网线的区别](https://www.v2ex.com/t/893110) 
-- [【V2EX】2022-11-06-如何注册没有两步验证的-Apple-ID？请问各位](https://www.v2ex.com/t/893109) 
 - [【技术头条】2022-11-06-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-06-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-06-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

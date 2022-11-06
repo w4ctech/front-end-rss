@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-11-06 09:15:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-06 09:40:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-11-06-easycar:一个用-Go-实现的分布式事务框架](https://www.v2ex.com/t/893097) 
 - [2022-11-06-he-的-ipv6-隧道网站被掐了。](https://www.v2ex.com/t/893094) 
 - [2022-11-06-各位电脑外设的无线设备，怎么及时充电的？](https://www.v2ex.com/t/893093) 
 - [2022-11-06-领势-Linksys-E8450-路由器-openwrt-ubi-固件-几乎全新](https://www.v2ex.com/t/893092) 
@@ -39,5 +40,3 @@
 - [2022-11-06-求一个-dogma-的极简-hexo-主题，非常的简约](https://www.v2ex.com/t/893053) 
 - [2022-11-06-单机同时跑前、后端还想部署-CICD，求-Jenkins-轻量化的替代品](https://www.v2ex.com/t/893052) 
 - [2022-11-06-提醒：京东价格保护有坑](https://www.v2ex.com/t/893050) 
-- [2022-11-06-manifold-让-Java-支持-操作符重载、预处理、字符串模板、拓展方法，等等](https://www.v2ex.com/t/893048) 
-- [2022-11-06-XDM，准备入-PRO14-寸丐版不知道-M2-会不会马上更新](https://www.v2ex.com/t/893047) 

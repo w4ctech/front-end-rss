@@ -9812,6 +9812,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "Web前端开发中的反向与倒序",
+        "link": "https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/",
+        "date": "2022-11-06"
+      },
+      {
         "title": "关于list-style-type项目符号你应该知道的事情",
         "link": "https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/",
         "date": "2022-11-05"
@@ -9855,11 +9860,6 @@
         "title": "聊聊:autofill和autocomplete自动填充",
         "link": "https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/",
         "date": "2022-09-19"
-      },
-      {
-        "title": "gitee上撸了个类似飞书OKR输入框的@提及项目",
-        "link": "https://www.zhangxinxu.com/wordpress/2022/08/gitee-feishu-okr-at-mention/",
-        "date": "2022-08-31"
       }
     ]
   },
@@ -9952,6 +9952,11 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "easycar:一个用 Go 实现的分布式事务框架",
+        "link": "https://www.v2ex.com/t/893097",
+        "date": "2022-11-06"
+      },
       {
         "title": "he 的 ipv6 隧道网站被掐了。",
         "link": "https://www.v2ex.com/t/893094",
@@ -10120,16 +10125,6 @@
       {
         "title": "提醒：京东价格保护有坑",
         "link": "https://www.v2ex.com/t/893050",
-        "date": "2022-11-06"
-      },
-      {
-        "title": "manifold 让 Java 支持 操作符重载、预处理、字符串模板、拓展方法，等等",
-        "link": "https://www.v2ex.com/t/893048",
-        "date": "2022-11-06"
-      },
-      {
-        "title": "XDM，准备入 PRO14 寸丐版不知道 M2 会不会马上更新",
-        "link": "https://www.v2ex.com/t/893047",
         "date": "2022-11-06"
       }
     ]

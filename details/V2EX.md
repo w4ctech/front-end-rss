@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2022-11-06 07:13:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-06 07:37:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-11-06-上门核酸检测是怎么工作的？](https://www.v2ex.com/t/893074) 
+- [2022-11-06-rsync-开了校验后，我没看见它的校验过程](https://www.v2ex.com/t/893072) 
+- [2022-11-06-windows-远程访问问题](https://www.v2ex.com/t/893071) 
 - [2022-11-06-找对象，要做出多少牺牲呢？](https://www.v2ex.com/t/893070) 
 - [2022-11-06-有人感觉这几天-B-站很卡吗？我看-YouTube-比-B-站快，-B-站卡到音画不同步了都，有人知道为啥吗？](https://www.v2ex.com/t/893068) 
 - [2022-11-06-No-SIM-Available](https://www.v2ex.com/t/893066) 
@@ -39,6 +42,3 @@
 - [2022-11-06-google-workspace-能关-AI-扫描，个人版-gmail-能不能关掉-AI-扫描吗？](https://www.v2ex.com/t/893029) 
 - [2022-11-06-一年时间，用-Golang-写了个一个博客系统](https://www.v2ex.com/t/893027) 
 - [2022-11-06-请教下：-ios-手机怎么用命令清理-safari-的数据了](https://www.v2ex.com/t/893026) 
-- [2022-11-06-Magsafe-充电的动画原理是啥](https://www.v2ex.com/t/893024) 
-- [2022-11-06-国行的-iPhone14-出去支持-esim-吗](https://www.v2ex.com/t/893022) 
-- [2022-11-06-为什么-mac-的-telegram-里面有些图片不显示，用手机看就能看到？](https://www.v2ex.com/t/893021) 

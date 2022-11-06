@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-06 07:13:55，:rocket: 更新条数: +2016， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-06 07:37:37，:rocket: 更新条数: +2016， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-11-06-上门核酸检测是怎么工作的？](https://www.v2ex.com/t/893074) ![](assets/new.png)  
+- [2022-11-06-rsync-开了校验后，我没看见它的校验过程](https://www.v2ex.com/t/893072) ![](assets/new.png)  
+- [2022-11-06-windows-远程访问问题](https://www.v2ex.com/t/893071) ![](assets/new.png)  
 - [2022-11-06-找对象，要做出多少牺牲呢？](https://www.v2ex.com/t/893070) ![](assets/new.png)  
 - [2022-11-06-有人感觉这几天-B-站很卡吗？我看-YouTube-比-B-站快，-B-站卡到音画不同步了都，有人知道为啥吗？](https://www.v2ex.com/t/893068) ![](assets/new.png)  
 - [2022-11-06-No-SIM-Available](https://www.v2ex.com/t/893066) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-11-06-单机同时跑前、后端还想部署-CICD，求-Jenkins-轻量化的替代品](https://www.v2ex.com/t/893052) ![](assets/new.png)  
 - [2022-11-06-提醒：京东价格保护有坑](https://www.v2ex.com/t/893050) ![](assets/new.png)  
 - [2022-11-06-manifold-让-Java-支持-操作符重载、预处理、字符串模板、拓展方法，等等](https://www.v2ex.com/t/893048) ![](assets/new.png)  
-- [2022-11-06-XDM，准备入-PRO14-寸丐版不知道-M2-会不会马上更新](https://www.v2ex.com/t/893047) ![](assets/new.png)  
-- [2022-11-06-除了微信，还有什么高清的视频通话软件适合老人用的吗](https://www.v2ex.com/t/893045) ![](assets/new.png)  
-- [2022-11-06-手机打开全局之后。然后热点分享给电脑和其他手机。-其他手机能全局吗？](https://www.v2ex.com/t/893043) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

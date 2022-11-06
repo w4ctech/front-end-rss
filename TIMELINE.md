@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-06 13:46:51。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-06 14:13:30。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,15 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-06-当开源社区遇到公然违反开源协议的商业公司，除了无能为力，我们还能做什么](https://www.v2ex.com/t/893156) 
+- [【V2EX】2022-11-06-车被电瓶车撞了](https://www.v2ex.com/t/893155) 
+- [【V2EX】2022-11-06-7-年产品，求工作机会，经验关键词-SaaS、NLP、Chatbot、RPA、B2C、B2B](https://www.v2ex.com/t/893154) 
+- [【V2EX】2022-11-06-qq/tim-不上线的情况下,怎么查看聊天记录?](https://www.v2ex.com/t/893153) 
+- [【V2EX】2022-11-06-求推荐个-apple-pencil-1-的平替](https://www.v2ex.com/t/893152) 
+- [【V2EX】2022-11-06-关于试用期的问题](https://www.v2ex.com/t/893151) 
+- [【V2EX】2022-11-06-mac-显卡拓展坞用于深度学习运行一些小-demo](https://www.v2ex.com/t/893150) 
+- [【V2EX】2022-11-06-机场有推荐的吗？](https://www.v2ex.com/t/893149) 
+- [【V2EX】2022-11-06-迭代-一款小而美的-Markdown-静态博客程序](https://www.v2ex.com/t/893148) 
 - [【V2EX】2022-11-06-“我们国家得病了，因为一种带着王冠的病毒”](https://www.v2ex.com/t/893147) 
 - [【V2EX】2022-11-06-大脑是一个读-O1复杂度的数据结构。](https://www.v2ex.com/t/893146) 
 - [【V2EX】2022-11-06-玩-js-逆向的朋友，来挑战下这个吧，不是常规-webpack，对我感觉有点难度](https://www.v2ex.com/t/893145) 
@@ -105,14 +114,6 @@
 - [【V2EX】2022-11-06-山寨网线和大牌网线的区别](https://www.v2ex.com/t/893110) 
 - [【V2EX】2022-11-06-如何注册没有两步验证的-Apple-ID？请问各位](https://www.v2ex.com/t/893109) 
 - [【V2EX】2022-11-06-如果拼多-多做一款微信，会成功吗？](https://www.v2ex.com/t/893108) 
-- [【V2EX】2022-11-06-千万小心-macOS-Ventura-下的-app-management-权限](https://www.v2ex.com/t/893106) 
-- [【V2EX】2022-11-06-Zlib-的数据量怎么这么少，才-31T-的书籍？](https://www.v2ex.com/t/893105) 
-- [【V2EX】2022-11-06-13pro-可以升-iOS16-吗，目前还是出厂的-15.4.1，有点担心升级之后容易发热](https://www.v2ex.com/t/893104) 
-- [【V2EX】2022-11-06-怎么实现一个并发安全的，对写多读少友好的-go-数据结构？](https://www.v2ex.com/t/893103) 
-- [【V2EX】2022-11-06-开源-MacWk-下载站已倒闭，帮我众筹下一个-MacWk](https://www.v2ex.com/t/893102) 
-- [【V2EX】2022-11-06-小区所谓的宽带（联通）升级，拨号后-IP-变成局域网的](https://www.v2ex.com/t/893101) 
-- [【V2EX】2022-11-06-和一个相亲对象女生聊天，她说她喜欢说唱，我说我喜欢摇滚，她说她喜欢说唱是因为帅，我说偶像也很帅，她说她喜欢痞帅，但是我本人不怎么帅的，我还要聊下去吗。](https://www.v2ex.com/t/893100) 
-- [【V2EX】2022-11-06-线下菜场价格分享工具](https://www.v2ex.com/t/893099) 
 - [【技术头条】2022-11-06-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-06-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-06-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -144,8 +145,8 @@
 - [【开发者头条】2022-11-06-微前端场景下的代码共享](https://toutiao.io/k/a7vptvu) 
 - [【开发者头条】2022-11-06-别用XShell了，这款SSH工具绝对惊艳，还支持网页版.....](https://toutiao.io/k/ewd8p4o) 
 - [【开发者头条】2022-11-06-记一次CLOSE_WAIT引发的血案](https://toutiao.io/k/3wz0cg8) 
-- [【开发者头条】2022-11-06-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) 
 - [【开发者头条】2022-11-06-推荐-网易经验规整：ClickHouse-开发与使用规范大全](https://toutiao.io/k/nprygo2) 
+- [【开发者头条】2022-11-06-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

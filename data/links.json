@@ -9953,6 +9953,51 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "当开源社区遇到公然违反开源协议的商业公司，除了无能为力，我们还能做什么",
+        "link": "https://www.v2ex.com/t/893156",
+        "date": "2022-11-06"
+      },
+      {
+        "title": "车被电瓶车撞了",
+        "link": "https://www.v2ex.com/t/893155",
+        "date": "2022-11-06"
+      },
+      {
+        "title": "7 年产品，求工作机会，经验关键词 SaaS、NLP、Chatbot、RPA、B2C、B2B",
+        "link": "https://www.v2ex.com/t/893154",
+        "date": "2022-11-06"
+      },
+      {
+        "title": "qq/tim 不上线的情况下,怎么查看聊天记录?",
+        "link": "https://www.v2ex.com/t/893153",
+        "date": "2022-11-06"
+      },
+      {
+        "title": "求推荐个 apple pencil 1 的平替",
+        "link": "https://www.v2ex.com/t/893152",
+        "date": "2022-11-06"
+      },
+      {
+        "title": "关于试用期的问题",
+        "link": "https://www.v2ex.com/t/893151",
+        "date": "2022-11-06"
+      },
+      {
+        "title": "mac 显卡拓展坞用于深度学习运行一些小 demo",
+        "link": "https://www.v2ex.com/t/893150",
+        "date": "2022-11-06"
+      },
+      {
+        "title": "机场有推荐的吗？",
+        "link": "https://www.v2ex.com/t/893149",
+        "date": "2022-11-06"
+      },
+      {
+        "title": "[迭代] 一款小而美的 Markdown 静态博客程序",
+        "link": "https://www.v2ex.com/t/893148",
+        "date": "2022-11-06"
+      },
+      {
         "title": "“我们国家得病了，因为一种带着王冠的病毒”",
         "link": "https://www.v2ex.com/t/893147",
         "date": "2022-11-06"
@@ -10126,46 +10171,6 @@
         "title": "如果拼多 多做一款微信，会成功吗？",
         "link": "https://www.v2ex.com/t/893108",
         "date": "2022-11-06"
-      },
-      {
-        "title": "千万小心 macOS Ventura 下的 app management 权限",
-        "link": "https://www.v2ex.com/t/893106",
-        "date": "2022-11-06"
-      },
-      {
-        "title": "Zlib 的数据量怎么这么少，才 31T 的书籍？",
-        "link": "https://www.v2ex.com/t/893105",
-        "date": "2022-11-06"
-      },
-      {
-        "title": "13pro 可以升 iOS16 吗，目前还是出厂的 15.4.1，有点担心升级之后容易发热",
-        "link": "https://www.v2ex.com/t/893104",
-        "date": "2022-11-06"
-      },
-      {
-        "title": "怎么实现一个并发安全的，对写多读少友好的 go 数据结构？",
-        "link": "https://www.v2ex.com/t/893103",
-        "date": "2022-11-06"
-      },
-      {
-        "title": "[开源] MacWk 下载站已倒闭，帮我众筹下一个 MacWk",
-        "link": "https://www.v2ex.com/t/893102",
-        "date": "2022-11-06"
-      },
-      {
-        "title": "小区所谓的宽带（联通）升级，拨号后 IP 变成局域网的",
-        "link": "https://www.v2ex.com/t/893101",
-        "date": "2022-11-06"
-      },
-      {
-        "title": "和一个相亲对象女生聊天，她说她喜欢说唱，我说我喜欢摇滚，她说她喜欢说唱是因为帅，我说偶像也很帅，她说她喜欢痞帅，但是我本人不怎么帅的，我还要聊下去吗。",
-        "link": "https://www.v2ex.com/t/893100",
-        "date": "2022-11-06"
-      },
-      {
-        "title": "线下菜场价格分享工具",
-        "link": "https://www.v2ex.com/t/893099",
-        "date": "2022-11-06"
       }
     ]
   },
@@ -10337,13 +10342,13 @@
         "date": "2022-11-06"
       },
       {
-        "title": "[推荐] 如何画出一张优秀的架构图？（老鸟必备）",
-        "link": "https://toutiao.io/k/xiqybrh",
+        "title": "[推荐] 网易经验规整：ClickHouse 开发与使用规范大全",
+        "link": "https://toutiao.io/k/nprygo2",
         "date": "2022-11-06"
       },
       {
-        "title": "[推荐] 网易经验规整：ClickHouse 开发与使用规范大全",
-        "link": "https://toutiao.io/k/nprygo2",
+        "title": "[推荐] 如何画出一张优秀的架构图？（老鸟必备）",
+        "link": "https://toutiao.io/k/xiqybrh",
         "date": "2022-11-06"
       }
     ]

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-11-06 11:36:55。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-06 12:25:12。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -153,6 +153,7 @@
 
 
 
+- [【V2EX】现在还有什么低配要求，-macOS-能玩的-MMORPG-游戏吗，除了魔兽世界。](https://www.v2ex.com/t/893124)
 - [......【查看更多】......](./details/tags/dev-game.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -230,6 +231,7 @@
 
 - [【武汉肺炎防疫全纪录(财新网)】广州17岁男生在定点医院参加高考-特殊考场视频监考](https://m.caixin.com/m/2021-06-05/101723418.html)
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
+- [【V2EX】Meta-开源全新音频压缩技术-EnCodec，比-MP3-小-10-倍](https://www.v2ex.com/t/893117)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -246,6 +248,7 @@
 
 
 
+- [【V2EX】家里闲置性能不错的小服务器几台，电费不计家宽上行-30M-下行-1000M-能做点什么?](https://www.v2ex.com/t/893126)
 - [【开发者头条】美团高性能终端实时日志系统建设实践](https://toutiao.io/k/sewret8)
 - [......【查看更多】......](./details/tags/optimization.md)
 
@@ -271,7 +274,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
 - [【V2EX】发现一个-Downie-免费平替产品](https://www.v2ex.com/t/893116)
 - [【V2EX】怎么实现一个并发安全的，对写多读少友好的-go-数据结构？](https://www.v2ex.com/t/893103)
-- [【V2EX】PVE-WIndows-建议不要安装-360-安全卫士](https://www.v2ex.com/t/893081)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -305,6 +307,8 @@
 
 
 
+- [【V2EX】nginx-反代-halo-8090-端口-+SSL，网站一会能访问一会不行](https://www.v2ex.com/t/893128)
+- [【V2EX】服务器上部署了网站，-443-被占用，导致-NginxProxyManager-不能用-443-端口](https://www.v2ex.com/t/893123)
 - [【技术头条】GraphQL及元数据驱动架构在后端BFF中的实践-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15395&url=https%3A%2F%2Ftech.meituan.com%2F2021%2F05%2F06%2Fbff-graphql.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/server.md)
 

@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-11-06 21:38:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-06 22:15:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-11-06-寻找精通-Figma+Tailwindcss-设计师](https://www.v2ex.com/t/893178) 
 - [2022-11-06-有没有利用开源组件建立一个-Web-端的本地搜索引擎？](https://www.v2ex.com/t/893177) 
 - [2022-11-06-想请教下奔富-389-入购渠道～](https://www.v2ex.com/t/893176) 
 - [2022-11-06-Netflix-土区账号信用卡到期了](https://www.v2ex.com/t/893174) 
@@ -49,4 +50,3 @@
 - [2022-11-06-来看我写会儿代码,不提-PR-不回家🥺](https://www.v2ex.com/t/893131) 
 - [2022-11-06-大家用的什么椅子?](https://www.v2ex.com/t/893130) 
 - [2022-11-06-有人收到过这种邮件吗？](https://www.v2ex.com/t/893129) 
-- [2022-11-06-nginx-反代-halo-8090-端口-+SSL，网站一会能访问一会不行](https://www.v2ex.com/t/893128) 

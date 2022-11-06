@@ -9953,6 +9953,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "求一个 dogma 的极简 hexo 主题，非常的简约",
+        "link": "https://www.v2ex.com/t/893053",
+        "date": "2022-11-06"
+      },
+      {
         "title": "单机同时跑前、后端还想部署 CICD，求 Jenkins 轻量化的替代品",
         "link": "https://www.v2ex.com/t/893052",
         "date": "2022-11-06"
@@ -10131,16 +10136,6 @@
         "title": "cs61a 的一道题，有大佬讲解一下吗？",
         "link": "https://www.v2ex.com/t/893005",
         "date": "2022-11-05"
-      },
-      {
-        "title": "这是不是微信 BUG？",
-        "link": "https://www.v2ex.com/t/893004",
-        "date": "2022-11-05"
-      },
-      {
-        "title": "新安装的 macos12.6.1 finder 无法以标签页打开文件夹",
-        "link": "https://www.v2ex.com/t/893003",
-        "date": "2022-11-05"
       }
     ]
   },
@@ -10302,13 +10297,13 @@
         "date": "2022-11-06"
       },
       {
-        "title": "[推荐] 网易经验规整：ClickHouse 开发与使用规范大全",
-        "link": "https://toutiao.io/k/nprygo2",
+        "title": "[推荐] 如何画出一张优秀的架构图？（老鸟必备）",
+        "link": "https://toutiao.io/k/xiqybrh",
         "date": "2022-11-06"
       },
       {
-        "title": "[推荐] 如何画出一张优秀的架构图？（老鸟必备）",
-        "link": "https://toutiao.io/k/xiqybrh",
+        "title": "[推荐] 网易经验规整：ClickHouse 开发与使用规范大全",
+        "link": "https://toutiao.io/k/nprygo2",
         "date": "2022-11-06"
       }
     ]

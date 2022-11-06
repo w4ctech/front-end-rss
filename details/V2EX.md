@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-11-06 04:52:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-06 05:14:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-11-06-求一个-dogma-的极简-hexo-主题，非常的简约](https://www.v2ex.com/t/893053) 
 - [2022-11-06-单机同时跑前、后端还想部署-CICD，求-Jenkins-轻量化的替代品](https://www.v2ex.com/t/893052) 
 - [2022-11-06-提醒：京东价格保护有坑](https://www.v2ex.com/t/893050) 
 - [2022-11-06-manifold-让-Java-支持-操作符重载、预处理、字符串模板、拓展方法，等等](https://www.v2ex.com/t/893048) 
@@ -41,5 +42,3 @@
 - [2022-11-05-DVORAK、Colemak,-等非-QWERTY-的键盘布局能否真的可以提高打字速度?](https://www.v2ex.com/t/893007) 
 - [2022-11-05-是不是离婚一旦说出口，就是深思熟虑过的？](https://www.v2ex.com/t/893006) 
 - [2022-11-05-cs61a-的一道题，有大佬讲解一下吗？](https://www.v2ex.com/t/893005) 
-- [2022-11-05-这是不是微信-BUG？](https://www.v2ex.com/t/893004) 
-- [2022-11-05-新安装的-macos12.6.1-finder-无法以标签页打开文件夹](https://www.v2ex.com/t/893003) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-06 04:52:35，:rocket: 更新条数: +2015， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-06 05:14:07，:rocket: 更新条数: +2014， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-11-06-求一个-dogma-的极简-hexo-主题，非常的简约](https://www.v2ex.com/t/893053) ![](assets/new.png)  
 - [2022-11-06-单机同时跑前、后端还想部署-CICD，求-Jenkins-轻量化的替代品](https://www.v2ex.com/t/893052) ![](assets/new.png)  
 - [2022-11-06-提醒：京东价格保护有坑](https://www.v2ex.com/t/893050) ![](assets/new.png)  
 - [2022-11-06-manifold-让-Java-支持-操作符重载、预处理、字符串模板、拓展方法，等等](https://www.v2ex.com/t/893048) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-11-06-telegram](https://www.v2ex.com/t/893030) ![](assets/new.png)  
 - [2022-11-06-google-workspace-能关-AI-扫描，个人版-gmail-能不能关掉-AI-扫描吗？](https://www.v2ex.com/t/893029) ![](assets/new.png)  
 - [2022-11-06-一年时间，用-Golang-写了个一个博客系统](https://www.v2ex.com/t/893027) ![](assets/new.png)  
-- [2022-11-06-请教下：-ios-手机怎么用命令清理-safari-的数据了](https://www.v2ex.com/t/893026) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -562,8 +562,8 @@
 - [2022-11-06-超详细配置教程：用-Windows-电脑训练深度学习模型](https://toutiao.io/k/g3xxijc) ![](assets/new.png)  
 - [2022-11-06-牛逼哄哄的-JD-hotkey-！](https://toutiao.io/k/tp38w8w) ![](assets/new.png)  
 - [2022-11-06-微前端场景下的代码共享](https://toutiao.io/k/a7vptvu) ![](assets/new.png)  
-- [2022-11-06-推荐-网易经验规整：ClickHouse-开发与使用规范大全](https://toutiao.io/k/nprygo2) ![](assets/new.png)  
 - [2022-11-06-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) ![](assets/new.png)  
+- [2022-11-06-推荐-网易经验规整：ClickHouse-开发与使用规范大全](https://toutiao.io/k/nprygo2) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

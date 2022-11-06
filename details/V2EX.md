@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2022-11-05 23:41:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-06 01:10:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-11-06-国行的-iPhone14-出去支持-esim-吗](https://www.v2ex.com/t/893022) 
+- [2022-11-06-为什么-mac-的-telegram-里面有些图片不显示，用手机看就能看到？](https://www.v2ex.com/t/893021) 
+- [2022-11-06-HomePod-用-Siri-播放-Apple-Music-时不能用中文名字了](https://www.v2ex.com/t/893020) 
+- [2022-11-06-求推荐给老人的安卓手机，期望要求是：-1-便宜，-2-能用的年限久一点（几乎只用微信）](https://www.v2ex.com/t/893017) 
 - [2022-11-05-年底更新了一下-iPad-pro-12.9](https://www.v2ex.com/t/893015) 
 - [2022-11-05-求解梦，经常梦到被人追赶](https://www.v2ex.com/t/893014) 
 - [2022-11-05-请教大家多台电脑怎么更方便自己使用/多设备工作流/私有云/Homelab](https://www.v2ex.com/t/893013) 
@@ -41,10 +45,3 @@
 - [2022-11-05-iPad-Pro-2021-扩展坞接显示器没反应](https://www.v2ex.com/t/892976) 
 - [2022-11-05-请问有单机版吃鸡游戏吗？那种-VS-人机的.](https://www.v2ex.com/t/892975) 
 - [2022-11-05-跨城搬家大家有操作过，求支招](https://www.v2ex.com/t/892974) 
-- [2022-11-05-我一直很认同“程序员拼的不是打字速度”，直到我看了这个视频……](https://www.v2ex.com/t/892973) 
-- [2022-11-05-pycharm-的-pycharm.vmoptions-路径怎么重设](https://www.v2ex.com/t/892972) 
-- [2022-11-05-关于-MacOs-挂载威联通的问题](https://www.v2ex.com/t/892971) 
-- [2022-11-05-30-了现在学编程还来得及吗？](https://www.v2ex.com/t/892970) 
-- [2022-11-05-求接口重构后回归的工具](https://www.v2ex.com/t/892969) 
-- [2022-11-05-bilibili-tv-端只能看-360p-了？](https://www.v2ex.com/t/892968) 
-- [2022-11-05-5-年拿英国绿卡靠谱吗?](https://www.v2ex.com/t/892967) 

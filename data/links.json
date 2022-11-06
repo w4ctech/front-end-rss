@@ -9953,6 +9953,26 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "单机同时跑前、后端还想部署 CICD，求 Jenkins 轻量化的替代品",
+        "link": "https://www.v2ex.com/t/893052",
+        "date": "2022-11-06"
+      },
+      {
+        "title": "提醒：京东价格保护有坑",
+        "link": "https://www.v2ex.com/t/893050",
+        "date": "2022-11-06"
+      },
+      {
+        "title": "manifold 让 Java 支持 操作符重载、预处理、字符串模板、拓展方法，等等",
+        "link": "https://www.v2ex.com/t/893048",
+        "date": "2022-11-06"
+      },
+      {
+        "title": "XDM，准备入 PRO14 寸丐版不知道 M2 会不会马上更新",
+        "link": "https://www.v2ex.com/t/893047",
+        "date": "2022-11-06"
+      },
+      {
         "title": "除了微信，还有什么高清的视频通话软件适合老人用的吗",
         "link": "https://www.v2ex.com/t/893045",
         "date": "2022-11-06"
@@ -10121,26 +10141,6 @@
         "title": "新安装的 macos12.6.1 finder 无法以标签页打开文件夹",
         "link": "https://www.v2ex.com/t/893003",
         "date": "2022-11-05"
-      },
-      {
-        "title": "遇到了做网线不通的玄学原因？",
-        "link": "https://www.v2ex.com/t/893002",
-        "date": "2022-11-05"
-      },
-      {
-        "title": "求助:如何重置为知笔记私有部署的管理员账号密码",
-        "link": "https://www.v2ex.com/t/893001",
-        "date": "2022-11-05"
-      },
-      {
-        "title": "红米手机 67W 的 Type-C 充电器可以给 m1 pro 充电么？",
-        "link": "https://www.v2ex.com/t/893000",
-        "date": "2022-11-05"
-      },
-      {
-        "title": "手机有半斤吗？因为这个我和五个人大吵一架",
-        "link": "https://www.v2ex.com/t/892999",
-        "date": "2022-11-05"
       }
     ]
   },
@@ -10262,13 +10262,13 @@
         "date": "2022-11-06"
       },
       {
-        "title": "如何将进程、线程与 CPU 核进行绑定",
-        "link": "https://toutiao.io/k/q0ifce4",
+        "title": "美团高性能终端实时日志系统建设实践",
+        "link": "https://toutiao.io/k/sewret8",
         "date": "2022-11-06"
       },
       {
-        "title": "美团高性能终端实时日志系统建设实践",
-        "link": "https://toutiao.io/k/sewret8",
+        "title": "如何将进程、线程与 CPU 核进行绑定",
+        "link": "https://toutiao.io/k/q0ifce4",
         "date": "2022-11-06"
       },
       {

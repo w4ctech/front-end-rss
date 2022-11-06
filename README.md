@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-06 04:03:55，:rocket: 更新条数: +2015， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-06 04:52:35，:rocket: 更新条数: +2015， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-11-06-单机同时跑前、后端还想部署-CICD，求-Jenkins-轻量化的替代品](https://www.v2ex.com/t/893052) ![](assets/new.png)  
+- [2022-11-06-提醒：京东价格保护有坑](https://www.v2ex.com/t/893050) ![](assets/new.png)  
+- [2022-11-06-manifold-让-Java-支持-操作符重载、预处理、字符串模板、拓展方法，等等](https://www.v2ex.com/t/893048) ![](assets/new.png)  
+- [2022-11-06-XDM，准备入-PRO14-寸丐版不知道-M2-会不会马上更新](https://www.v2ex.com/t/893047) ![](assets/new.png)  
 - [2022-11-06-除了微信，还有什么高清的视频通话软件适合老人用的吗](https://www.v2ex.com/t/893045) ![](assets/new.png)  
 - [2022-11-06-手机打开全局之后。然后热点分享给电脑和其他手机。-其他手机能全局吗？](https://www.v2ex.com/t/893043) ![](assets/new.png)  
 - [2022-11-06-寻找-Apple-TV-观看网页视频解决方案](https://www.v2ex.com/t/893042) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-11-06-google-workspace-能关-AI-扫描，个人版-gmail-能不能关掉-AI-扫描吗？](https://www.v2ex.com/t/893029) ![](assets/new.png)  
 - [2022-11-06-一年时间，用-Golang-写了个一个博客系统](https://www.v2ex.com/t/893027) ![](assets/new.png)  
 - [2022-11-06-请教下：-ios-手机怎么用命令清理-safari-的数据了](https://www.v2ex.com/t/893026) ![](assets/new.png)  
-- [2022-11-06-Magsafe-充电的动画原理是啥](https://www.v2ex.com/t/893024) ![](assets/new.png)  
-- [2022-11-06-国行的-iPhone14-出去支持-esim-吗](https://www.v2ex.com/t/893022) ![](assets/new.png)  
-- [2022-11-06-为什么-mac-的-telegram-里面有些图片不显示，用手机看就能看到？](https://www.v2ex.com/t/893021) ![](assets/new.png)  
-- [2022-11-06-HomePod-用-Siri-播放-Apple-Music-时不能用中文名字了](https://www.v2ex.com/t/893020) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -554,8 +554,8 @@
 
 
 - [2022-11-06-欢迎加入读者圈子，一起交流！](https://toutiao.io/k/mtrqmru) ![](assets/new.png)  
-- [2022-11-06-如何将进程、线程与-CPU-核进行绑定](https://toutiao.io/k/q0ifce4) ![](assets/new.png)  
 - [2022-11-06-美团高性能终端实时日志系统建设实践](https://toutiao.io/k/sewret8) ![](assets/new.png)  
+- [2022-11-06-如何将进程、线程与-CPU-核进行绑定](https://toutiao.io/k/q0ifce4) ![](assets/new.png)  
 - [2022-11-06-一文搞懂-XaaS](https://toutiao.io/k/b59020l) ![](assets/new.png)  
 - [2022-11-06-Arctic-基于-Hive-的流批一体实践](https://toutiao.io/k/byhxi7m) ![](assets/new.png)  
 - [2022-11-06-CDN，总绕不过-DNS](https://toutiao.io/k/gzi57yd) ![](assets/new.png)  

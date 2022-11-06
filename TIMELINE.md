@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-06 04:03:55。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-06 04:52:35。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -69,6 +69,10 @@
 
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-06-单机同时跑前、后端还想部署-CICD，求-Jenkins-轻量化的替代品](https://www.v2ex.com/t/893052) 
+- [【V2EX】2022-11-06-提醒：京东价格保护有坑](https://www.v2ex.com/t/893050) 
+- [【V2EX】2022-11-06-manifold-让-Java-支持-操作符重载、预处理、字符串模板、拓展方法，等等](https://www.v2ex.com/t/893048) 
+- [【V2EX】2022-11-06-XDM，准备入-PRO14-寸丐版不知道-M2-会不会马上更新](https://www.v2ex.com/t/893047) 
 - [【V2EX】2022-11-06-除了微信，还有什么高清的视频通话软件适合老人用的吗](https://www.v2ex.com/t/893045) 
 - [【V2EX】2022-11-06-手机打开全局之后。然后热点分享给电脑和其他手机。-其他手机能全局吗？](https://www.v2ex.com/t/893043) 
 - [【V2EX】2022-11-06-寻找-Apple-TV-观看网页视频解决方案](https://www.v2ex.com/t/893042) 
@@ -103,10 +107,6 @@
 - [【V2EX】2022-11-05-cs61a-的一道题，有大佬讲解一下吗？](https://www.v2ex.com/t/893005) 
 - [【V2EX】2022-11-05-这是不是微信-BUG？](https://www.v2ex.com/t/893004) 
 - [【V2EX】2022-11-05-新安装的-macos12.6.1-finder-无法以标签页打开文件夹](https://www.v2ex.com/t/893003) 
-- [【V2EX】2022-11-05-遇到了做网线不通的玄学原因？](https://www.v2ex.com/t/893002) 
-- [【V2EX】2022-11-05-求助:如何重置为知笔记私有部署的管理员账号密码](https://www.v2ex.com/t/893001) 
-- [【V2EX】2022-11-05-红米手机-67W-的-Type-C-充电器可以给-m1-pro-充电么？](https://www.v2ex.com/t/893000) 
-- [【V2EX】2022-11-05-手机有半斤吗？因为这个我和五个人大吵一架](https://www.v2ex.com/t/892999) 
 - [【技术头条】2022-11-06-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-06-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-06-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -128,8 +128,8 @@
 - [【技术头条】2022-11-06-与日俱进，在-Go-1.20-中这种高效转换的方式又变了-colobu.com](https://blogread.cn/news/go.php?idItem=15386&url=https%3A%2F%2Fcolobu.com%2F2022%2F09%2F06%2Fstring-byte-convertion%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-06-10-大可以摧毁你的-Linux-的命令-linux.cn](https://blogread.cn/news/go.php?idItem=15385&url=https%3A%2F%2Flinux.cn%2Farticle-15022-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【开发者头条】2022-11-06-欢迎加入读者圈子，一起交流！](https://toutiao.io/k/mtrqmru) 
-- [【开发者头条】2022-11-06-如何将进程、线程与-CPU-核进行绑定](https://toutiao.io/k/q0ifce4) 
 - [【开发者头条】2022-11-06-美团高性能终端实时日志系统建设实践](https://toutiao.io/k/sewret8) 
+- [【开发者头条】2022-11-06-如何将进程、线程与-CPU-核进行绑定](https://toutiao.io/k/q0ifce4) 
 - [【开发者头条】2022-11-06-一文搞懂-XaaS](https://toutiao.io/k/b59020l) 
 - [【开发者头条】2022-11-06-Arctic-基于-Hive-的流批一体实践](https://toutiao.io/k/byhxi7m) 
 - [【开发者头条】2022-11-06-CDN，总绕不过-DNS](https://toutiao.io/k/gzi57yd) 

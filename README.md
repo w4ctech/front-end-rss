@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-06 13:03:03，:rocket: 更新条数: +2020， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-06 13:46:51，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,13 @@
 </summary>
 
 
+- [2022-11-06-“我们国家得病了，因为一种带着王冠的病毒”](https://www.v2ex.com/t/893147) ![](assets/new.png)  
+- [2022-11-06-大脑是一个读-O1复杂度的数据结构。](https://www.v2ex.com/t/893146) ![](assets/new.png)  
+- [2022-11-06-玩-js-逆向的朋友，来挑战下这个吧，不是常规-webpack，对我感觉有点难度](https://www.v2ex.com/t/893145) ![](assets/new.png)  
+- [2022-11-06-双-11，在考虑要不要把云服务器续到-2028-年？](https://www.v2ex.com/t/893144) ![](assets/new.png)  
+- [2022-11-06-air780e-的板子到了，怎么工作起来](https://www.v2ex.com/t/893143) ![](assets/new.png)  
+- [2022-11-06-通过反馈能让苹果升级-API-的概率有多高？](https://www.v2ex.com/t/893142) ![](assets/new.png)  
+- [2022-11-06-写了个使用-GitHub-Action-备份-shsh2-的脚本](https://www.v2ex.com/t/893141) ![](assets/new.png)  
 - [2022-11-06-升级-ios16.2-后来信息不亮屏了……](https://www.v2ex.com/t/893140) ![](assets/new.png)  
 - [2022-11-06-分享今天本人经历，同时劝大家千万别碰网络赌博！-今天无聊玩了电子老虎机，结果上头了，输了-50，真的太后悔，有这钱买点啥不好，高估了自己的意志力，有了解...](https://www.v2ex.com/t/893139) ![](assets/new.png)  
 - [2022-11-06-求助：-使用-MagSafe-3-休眠充电问题](https://www.v2ex.com/t/893138) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-11-06-大家用的什么椅子?](https://www.v2ex.com/t/893130) ![](assets/new.png)  
 - [2022-11-06-有人收到过这种邮件吗？](https://www.v2ex.com/t/893129) ![](assets/new.png)  
 - [2022-11-06-nginx-反代-halo-8090-端口-+SSL，网站一会能访问一会不行](https://www.v2ex.com/t/893128) ![](assets/new.png)  
-- [2022-11-06-春招想找-Java-后端工作，目前的准备情况是这样的，想知道大家有什么建议](https://www.v2ex.com/t/893127) ![](assets/new.png)  
-- [2022-11-06-家里闲置性能不错的小服务器几台，电费不计家宽上行-30M-下行-1000M-能做点什么?](https://www.v2ex.com/t/893126) ![](assets/new.png)  
-- [2022-11-06-现在还有什么低配要求，-macOS-能玩的-MMORPG-游戏吗，除了魔兽世界。](https://www.v2ex.com/t/893124) ![](assets/new.png)  
-- [2022-11-06-服务器上部署了网站，-443-被占用，导致-NginxProxyManager-不能用-443-端口](https://www.v2ex.com/t/893123) ![](assets/new.png)  
-- [2022-11-06-电脑如何加一块自定义键盘按键？](https://www.v2ex.com/t/893119) ![](assets/new.png)  
-- [2022-11-06-看见有人在大学死磕-C++找不到工作有感（OP-没有-C++相关的工作经历）](https://www.v2ex.com/t/893118) ![](assets/new.png)  
-- [2022-11-06-Meta-开源全新音频压缩技术-EnCodec，比-MP3-小-10-倍](https://www.v2ex.com/t/893117) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

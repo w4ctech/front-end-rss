@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-06 23:15:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-06 23:42:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -49,4 +49,3 @@
 - [2022-11-06-推荐好用的超长-USB-C-to-USB-C-线？（用来把-iPad-作为-PC-的外接显示器用）](https://www.v2ex.com/t/893135) 
 - [2022-11-06-PonconJS-前端简易路由控制工具](https://www.v2ex.com/t/893134) 
 - [2022-11-06-Help，自打水晶头，-8-芯通了-7-芯](https://www.v2ex.com/t/893133) 
-- [2022-11-06-sqldb：一个利用-Go-泛型及反射简化数据库模型操作的库](https://www.v2ex.com/t/893132) 

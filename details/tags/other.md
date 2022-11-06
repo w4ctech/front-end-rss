@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-06 23:15:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-06 23:42:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1955,7 +1955,6 @@
 - [2022-11-06-VMOS-安卓手机上的虚拟机运行不稳定-求同类型的虚拟机](https://www.v2ex.com/t/893136) 
 - [2022-11-06-推荐好用的超长-USB-C-to-USB-C-线？（用来把-iPad-作为-PC-的外接显示器用）](https://www.v2ex.com/t/893135) 
 - [2022-11-06-Help，自打水晶头，-8-芯通了-7-芯](https://www.v2ex.com/t/893133) 
-- [2022-11-06-sqldb：一个利用-Go-泛型及反射简化数据库模型操作的库](https://www.v2ex.com/t/893132) 
 - [2022-11-06-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-06-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-06-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1983,6 +1982,6 @@
 - [2022-11-06-别用XShell了，这款SSH工具绝对惊艳，还支持网页版.....](https://toutiao.io/k/ewd8p4o) 
 - [2022-11-06-微前端场景下的代码共享](https://toutiao.io/k/a7vptvu) 
 - [2022-11-06-记一次CLOSE_WAIT引发的血案](https://toutiao.io/k/3wz0cg8) 
-- [2022-11-06-推荐-网易经验规整：ClickHouse-开发与使用规范大全](https://toutiao.io/k/nprygo2) 
 - [2022-11-06-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) 
+- [2022-11-06-推荐-网易经验规整：ClickHouse-开发与使用规范大全](https://toutiao.io/k/nprygo2) 
 - [2022-11-06-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) 

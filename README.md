@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-06 05:14:07，:rocket: 更新条数: +2014， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-06 05:38:37，:rocket: 更新条数: +2014， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-11-06-为什么编程对我就像母语？](https://www.v2ex.com/t/893058) ![](assets/new.png)  
+- [2022-11-06-一台旧-MacBook-Pro-能拿来做什么呢？](https://www.v2ex.com/t/893057) ![](assets/new.png)  
+- [2022-11-06-Mac-Os-13-Ventura-必现-bug。](https://www.v2ex.com/t/893056) ![](assets/new.png)  
+- [2022-11-06-推荐一个扫块的-工具包，可以用来方便的监听-交易动态](https://www.v2ex.com/t/893055) ![](assets/new.png)  
 - [2022-11-06-求一个-dogma-的极简-hexo-主题，非常的简约](https://www.v2ex.com/t/893053) ![](assets/new.png)  
 - [2022-11-06-单机同时跑前、后端还想部署-CICD，求-Jenkins-轻量化的替代品](https://www.v2ex.com/t/893052) ![](assets/new.png)  
 - [2022-11-06-提醒：京东价格保护有坑](https://www.v2ex.com/t/893050) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-11-06-北京联通家宽固定公网-ip-业务开售](https://www.v2ex.com/t/893035) ![](assets/new.png)  
 - [2022-11-06-在-macOS/iOS-地图上发现了有史以来最长的酒店中文名](https://www.v2ex.com/t/893034) ![](assets/new.png)  
 - [2022-11-06-Windows10-的设备管理器在疯狂刷新，求救](https://www.v2ex.com/t/893033) ![](assets/new.png)  
-- [2022-11-06-针对衣服上抖动产生的毛絮和灰尘空气净化器有用吗？小房间-15-平左右](https://www.v2ex.com/t/893032) ![](assets/new.png)  
-- [2022-11-06-telegram](https://www.v2ex.com/t/893030) ![](assets/new.png)  
-- [2022-11-06-google-workspace-能关-AI-扫描，个人版-gmail-能不能关掉-AI-扫描吗？](https://www.v2ex.com/t/893029) ![](assets/new.png)  
-- [2022-11-06-一年时间，用-Golang-写了个一个博客系统](https://www.v2ex.com/t/893027) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-07 16:56:36。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-07 17:24:13。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,8 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-07-标准宝塔环境-NGINX-被挂码问题排查](https://www.v2ex.com/t/893465) 
+- [【V2EX】2022-11-07-istio-的主要问题是资源消耗，次要问题是基本只支持-HTTP](https://www.v2ex.com/t/893464) 
 - [【V2EX】2022-11-07-索尼-A7R4-连拍就黑屏重启](https://www.v2ex.com/t/893463) 
 - [【V2EX】2022-11-07-远离国产软件，只配在虚拟机和沙箱里跑！](https://www.v2ex.com/t/893462) 
 - [【V2EX】2022-11-07-发现个奇怪的问题，访问接口一次-就会有个奇怪的-IP-重复访问一下这个接口](https://www.v2ex.com/t/893461) 
@@ -111,8 +113,6 @@
 - [【V2EX】2022-11-07-做出海应用常用的-App-推广方式都有哪些？](https://www.v2ex.com/t/893418) 
 - [【V2EX】2022-11-07-MEV](https://www.v2ex.com/t/893417) 
 - [【V2EX】2022-11-07-最近同学在学雕刻，想问问万能的朋友知道原材料从哪儿买吗？](https://www.v2ex.com/t/893416) 
-- [【V2EX】2022-11-07-试用期如何保障自己的权益，要去一家风评不太好的公司](https://www.v2ex.com/t/893415) 
-- [【V2EX】2022-11-07-咨询网页下载文件获取文件名和文件大小出错问题-Content-Disposition:-attachment](https://www.v2ex.com/t/893414) 
 - [【技术头条】2022-11-07-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-07-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-07-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

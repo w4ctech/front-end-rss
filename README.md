@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-07 16:56:36，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-07 17:24:13，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-11-07-标准宝塔环境-NGINX-被挂码问题排查](https://www.v2ex.com/t/893465) ![](assets/new.png)  
+- [2022-11-07-istio-的主要问题是资源消耗，次要问题是基本只支持-HTTP](https://www.v2ex.com/t/893464) ![](assets/new.png)  
 - [2022-11-07-索尼-A7R4-连拍就黑屏重启](https://www.v2ex.com/t/893463) ![](assets/new.png)  
 - [2022-11-07-远离国产软件，只配在虚拟机和沙箱里跑！](https://www.v2ex.com/t/893462) ![](assets/new.png)  
 - [2022-11-07-发现个奇怪的问题，访问接口一次-就会有个奇怪的-IP-重复访问一下这个接口](https://www.v2ex.com/t/893461) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-11-07-20221107-午夜俱乐部](https://www.v2ex.com/t/893446) ![](assets/new.png)  
 - [2022-11-07-上海-米哈游-miHoYo-2022.11.7-最新招聘信息来啦！（可内推哦）](https://www.v2ex.com/t/893445) ![](assets/new.png)  
 - [2022-11-07-国内有没有类似-TVB-的那种财经新闻媒体？求推荐。](https://www.v2ex.com/t/893442) ![](assets/new.png)  
-- [2022-11-07-自如的宽带偷偷降配置了？](https://www.v2ex.com/t/893440) ![](assets/new.png)  
-- [2022-11-07-杭州-2-年前端开发一枚求职](https://www.v2ex.com/t/893439) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

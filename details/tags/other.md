@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-07 15:15:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-07 15:43:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1917,6 +1917,11 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-11-07-jvm-想-full-gc-之后老年代占用-90%再-dump，且与上次-dump-相隔超过-10s，该怎么实现好？](https://www.v2ex.com/t/893453) 
+- [2022-11-07-编译-aosp-并且刷入-pixel-后无限重启，各位有什么排查问题妙招](https://www.v2ex.com/t/893452) 
+- [2022-11-07-求-Mac-上好用的-keepass-客户端推荐](https://www.v2ex.com/t/893451) 
+- [2022-11-07-求助，更新插件之后，无法访问-OP-后台](https://www.v2ex.com/t/893450) 
+- [2022-11-07-gboard-一直等待下载语言包](https://www.v2ex.com/t/893447) 
 - [2022-11-07-20221107-午夜俱乐部](https://www.v2ex.com/t/893446) 
 - [2022-11-07-国内有没有类似-TVB-的那种财经新闻媒体？求推荐。](https://www.v2ex.com/t/893442) 
 - [2022-11-07-自如的宽带偷偷降配置了？](https://www.v2ex.com/t/893440) 
@@ -1949,10 +1954,6 @@
 - [2022-11-07-如果没有硬件阉割，-M1-M2-芯片理论上是否原生支持-2-台显示器](https://www.v2ex.com/t/893407) 
 - [2022-11-07-家里有空间，健身器材优先整啥？](https://www.v2ex.com/t/893406) 
 - [2022-11-07-Oracle-Cloud-首尔，北京移动宽带无法连接](https://www.v2ex.com/t/893404) 
-- [2022-11-07-北京-|-杭州-字节跳动-飞书-IM-团队-IM-团队缺人，欢迎社招简历投递内推](https://www.v2ex.com/t/893403) 
-- [2022-11-07-升级-iOS-16.1-后，每次本地备份都要输入密码，好烦](https://www.v2ex.com/t/893399) 
-- [2022-11-07-单身活动要怎么操作（或者表现自己）？](https://www.v2ex.com/t/893398) 
-- [2022-11-07-Mac-连接-Dell-2720Q-的问题](https://www.v2ex.com/t/893397) 
 - [2022-11-07-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-07-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-07-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1978,6 +1979,6 @@
 - [2022-11-07-Go-每日一库之调用外部命令的几种姿势](https://toutiao.io/k/c2st1a1) 
 - [2022-11-07-源码级深度理解-Java-SPI](https://toutiao.io/k/w8ouyx6) 
 - [2022-11-07-MyBatis-的执行流程分析](https://toutiao.io/k/qksp872) 
+- [2022-11-07-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) 
 - [2022-11-07-推荐-网易经验规整：ClickHouse-开发与使用规范大全](https://toutiao.io/k/nprygo2) 
 - [2022-11-07-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) 
-- [2022-11-07-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) 

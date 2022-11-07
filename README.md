@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-07 12:30:52，:rocket: 更新条数: +2007， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-07 13:22:30，:rocket: 更新条数: +2025， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)  
 - [物联网智库](#物联网智库)  
 
@@ -491,6 +491,13 @@
 </summary>
 
 
+- [2022-11-07-如果每个国际快递被海关退运的概率是-5%，任取-10-个国际快递，其中至少有一个被退运的概率是多少-要怎么计算？记得中学学过，太久了全还给老师了](https://www.v2ex.com/t/893426) ![](assets/new.png)  
+- [2022-11-07-今年真难，求助-v-友问下，入职公司已经满一年了，但是公司裁员只赔-0.3n](https://www.v2ex.com/t/893425) ![](assets/new.png)  
+- [2022-11-07-Java-求解如何优化-100-个-if-判断？](https://www.v2ex.com/t/893424) ![](assets/new.png)  
+- [2022-11-07-golang-mongodb-mgo-封装-query-查询慢，请教](https://www.v2ex.com/t/893422) ![](assets/new.png)  
+- [2022-11-07-上海洗车哪家强？](https://www.v2ex.com/t/893421) ![](assets/new.png)  
+- [2022-11-07-Mac-难道没有好用的数据库建模工具吗](https://www.v2ex.com/t/893420) ![](assets/new.png)  
+- [2022-11-07-Mac-连接两个-VPN-出现了奇怪的问题](https://www.v2ex.com/t/893419) ![](assets/new.png)  
 - [2022-11-07-做出海应用常用的-App-推广方式都有哪些？](https://www.v2ex.com/t/893418) ![](assets/new.png)  
 - [2022-11-07-MEV](https://www.v2ex.com/t/893417) ![](assets/new.png)  
 - [2022-11-07-最近同学在学雕刻，想问问万能的朋友知道原材料从哪儿买吗？](https://www.v2ex.com/t/893416) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-11-07-如果没有硬件阉割，-M1-M2-芯片理论上是否原生支持-2-台显示器](https://www.v2ex.com/t/893407) ![](assets/new.png)  
 - [2022-11-07-家里有空间，健身器材优先整啥？](https://www.v2ex.com/t/893406) ![](assets/new.png)  
 - [2022-11-07-Oracle-Cloud-首尔，北京移动宽带无法连接](https://www.v2ex.com/t/893404) ![](assets/new.png)  
-- [2022-11-07-北京-|-杭州-字节跳动-飞书-IM-团队-IM-团队缺人，欢迎社招简历投递内推](https://www.v2ex.com/t/893403) ![](assets/new.png)  
-- [2022-11-07-來個遠程-UI](https://www.v2ex.com/t/893401) ![](assets/new.png)  
-- [2022-11-07-升级-iOS-16.1-后，每次本地备份都要输入密码，好烦](https://www.v2ex.com/t/893399) ![](assets/new.png)  
-- [2022-11-07-单身活动要怎么操作（或者表现自己）？](https://www.v2ex.com/t/893398) ![](assets/new.png)  
-- [2022-11-07-Mac-连接-Dell-2720Q-的问题](https://www.v2ex.com/t/893397) ![](assets/new.png)  
-- [2022-11-07-举个例子说明-react-和-vue-生态的异同](https://www.v2ex.com/t/893396) ![](assets/new.png)  
-- [2022-11-07-nas-有哪些实用的玩法？](https://www.v2ex.com/t/893395) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -553,6 +553,24 @@
 </summary>
 
 
+- [2022-11-07-20+-前端开发好用组件-&-插件轮子](https://toutiao.io/k/eugemzz) ![](assets/new.png)  
+- [2022-11-07-QPS-和-TPS-是什么？](https://toutiao.io/k/978p5gj) ![](assets/new.png)  
+- [2022-11-07-聊聊-K8S：K8S-集群搭建实战](https://toutiao.io/k/qap844a) ![](assets/new.png)  
+- [2022-11-07-从程序员到架构师开发运维场景实战篇：一人一套测试环境](https://toutiao.io/k/vcznb5m) ![](assets/new.png)  
+- [2022-11-07-Python-类型系统发展史](https://toutiao.io/k/gcene6a) ![](assets/new.png)  
+- [2022-11-07-经典的目标检测算法：CenterNet](https://toutiao.io/k/wxuzrud) ![](assets/new.png)  
+- [2022-11-07-SpringBoot-在-IDEA-中同一个项目用不同端口启动](https://toutiao.io/k/kldllli) ![](assets/new.png)  
+- [2022-11-07-京东二面：ElasticSearch-如何解决深分页问题？](https://toutiao.io/k/i5615h2) ![](assets/new.png)  
+- [2022-11-07-Go-每日一库之调用外部命令的几种姿势](https://toutiao.io/k/c2st1a1) ![](assets/new.png)  
+- [2022-11-07-项目里没用过设计模式？看看-Nest.js-怎么用的](https://toutiao.io/k/82vwf6v) ![](assets/new.png)  
+- [2022-11-07-Java-语言性能技术（读书之-Java-性能优化实践-第-11-章）](https://toutiao.io/k/m5s3eq6) ![](assets/new.png)  
+- [2022-11-07-IM-消息-ID-技术专题（七）：网易严选分布式-ID-的技术选型、优化、落地实践](https://toutiao.io/k/xhse1l1) ![](assets/new.png)  
+- [2022-11-07-源码级深度理解-Java-SPI](https://toutiao.io/k/w8ouyx6) ![](assets/new.png)  
+- [2022-11-07-大麦-Android-选座场景性能优化全解析](https://toutiao.io/k/9vm9s9o) ![](assets/new.png)  
+- [2022-11-07-MyBatis-的执行流程分析](https://toutiao.io/k/qksp872) ![](assets/new.png)  
+- [2022-11-07-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) ![](assets/new.png)  
+- [2022-11-07-推荐-网易经验规整：ClickHouse-开发与使用规范大全](https://toutiao.io/k/nprygo2) ![](assets/new.png)  
+- [2022-11-07-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

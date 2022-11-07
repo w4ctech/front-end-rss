@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-07 11:38:28，:rocket: 更新条数: +2023， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-07 12:30:52，:rocket: 更新条数: +2007， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
-- [开发者头条](#开发者头条)![](assets/dot.png)   
+- [开发者头条](#开发者头条)  
 - [安全热点](#安全热点)  
 - [物联网智库](#物联网智库)  
 
@@ -491,6 +491,13 @@
 </summary>
 
 
+- [2022-11-07-做出海应用常用的-App-推广方式都有哪些？](https://www.v2ex.com/t/893418) ![](assets/new.png)  
+- [2022-11-07-MEV](https://www.v2ex.com/t/893417) ![](assets/new.png)  
+- [2022-11-07-最近同学在学雕刻，想问问万能的朋友知道原材料从哪儿买吗？](https://www.v2ex.com/t/893416) ![](assets/new.png)  
+- [2022-11-07-试用期如何保障自己的权益，要去一家风评不太好的公司](https://www.v2ex.com/t/893415) ![](assets/new.png)  
+- [2022-11-07-咨询网页下载文件获取文件名和文件大小出错问题-Content-Disposition:-attachment](https://www.v2ex.com/t/893414) ![](assets/new.png)  
+- [2022-11-07-去中心化存储的完整性问题是否可以通过定期合约解决-即卖家抵押一部分财产-约定在-X-日内存储某些数据-到买家下载完成两次（校验+真正下载）后自动失效删除-这样...](https://www.v2ex.com/t/893413) ![](assets/new.png)  
+- [2022-11-07-求推荐办公室工位防偷窥设备](https://www.v2ex.com/t/893412) ![](assets/new.png)  
 - [2022-11-07-分享一下你在-b-站发现的宝藏-up？-Java-技术类最好。](https://www.v2ex.com/t/893411) ![](assets/new.png)  
 - [2022-11-07-时隔三年，新项目招募基石用户-——-缤纷云-S4-对象存储-Preview，希望做独立开发者、创业者、创意人士的贴心伙伴](https://www.v2ex.com/t/893410) ![](assets/new.png)  
 - [2022-11-07-都请病假说身体不舒服了，部门主管还让远程查问题，我该怎么拒绝？](https://www.v2ex.com/t/893409) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-11-07-Mac-连接-Dell-2720Q-的问题](https://www.v2ex.com/t/893397) ![](assets/new.png)  
 - [2022-11-07-举个例子说明-react-和-vue-生态的异同](https://www.v2ex.com/t/893396) ![](assets/new.png)  
 - [2022-11-07-nas-有哪些实用的玩法？](https://www.v2ex.com/t/893395) ![](assets/new.png)  
-- [2022-11-07-国内交规是右转弯路权最低么？有转弯灯呢？怎么可能注意看四面？](https://www.v2ex.com/t/893393) ![](assets/new.png)  
-- [2022-11-07-你们都是怎么购买机票的？国内和国外，虽然现在出国比较麻烦但也想了解下，方便以后或许吧](https://www.v2ex.com/t/893392) ![](assets/new.png)  
-- [2022-11-07-你怎么看待房东，公共区域装摄像头你怎么看](https://www.v2ex.com/t/893391) ![](assets/new.png)  
-- [2022-11-07-各位后端大佬:-我想自学-Java-后端开发,-请推荐培训视频和书籍-谢谢](https://www.v2ex.com/t/893390) ![](assets/new.png)  
-- [2022-11-07-#直播点歌的路人是英伟达创始人黄仁勋#](https://www.v2ex.com/t/893389) ![](assets/new.png)  
-- [2022-11-07-今年双-11，阿里云是一点优惠都没么](https://www.v2ex.com/t/893388) ![](assets/new.png)  
-- [2022-11-07-不正当途径获取信息问题，想请教一下](https://www.v2ex.com/t/893387) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -553,24 +553,6 @@
 </summary>
 
 
-- [2022-11-07-20+-前端开发好用组件-&-插件轮子](https://toutiao.io/k/eugemzz) ![](assets/new.png)  
-- [2022-11-07-QPS-和-TPS-是什么？](https://toutiao.io/k/978p5gj) ![](assets/new.png)  
-- [2022-11-07-聊聊-K8S：K8S-集群搭建实战](https://toutiao.io/k/qap844a) ![](assets/new.png)  
-- [2022-11-07-从程序员到架构师开发运维场景实战篇：一人一套测试环境](https://toutiao.io/k/vcznb5m) ![](assets/new.png)  
-- [2022-11-07-Python-类型系统发展史](https://toutiao.io/k/gcene6a) ![](assets/new.png)  
-- [2022-11-07-经典的目标检测算法：CenterNet](https://toutiao.io/k/wxuzrud) ![](assets/new.png)  
-- [2022-11-07-SpringBoot-在-IDEA-中同一个项目用不同端口启动](https://toutiao.io/k/kldllli) ![](assets/new.png)  
-- [2022-11-07-Go-每日一库之调用外部命令的几种姿势](https://toutiao.io/k/c2st1a1) ![](assets/new.png)  
-- [2022-11-07-项目里没用过设计模式？看看-Nest.js-怎么用的](https://toutiao.io/k/82vwf6v) ![](assets/new.png)  
-- [2022-11-07-京东二面：ElasticSearch-如何解决深分页问题？](https://toutiao.io/k/i5615h2) ![](assets/new.png)  
-- [2022-11-07-Java-语言性能技术（读书之-Java-性能优化实践-第-11-章）](https://toutiao.io/k/m5s3eq6) ![](assets/new.png)  
-- [2022-11-07-IM-消息-ID-技术专题（七）：网易严选分布式-ID-的技术选型、优化、落地实践](https://toutiao.io/k/xhse1l1) ![](assets/new.png)  
-- [2022-11-07-源码级深度理解-Java-SPI](https://toutiao.io/k/w8ouyx6) ![](assets/new.png)  
-- [2022-11-07-大麦-Android-选座场景性能优化全解析](https://toutiao.io/k/9vm9s9o) ![](assets/new.png)  
-- [2022-11-07-MyBatis-的执行流程分析](https://toutiao.io/k/qksp872) ![](assets/new.png)  
-- [2022-11-07-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) ![](assets/new.png)  
-- [2022-11-07-推荐-网易经验规整：ClickHouse-开发与使用规范大全](https://toutiao.io/k/nprygo2) ![](assets/new.png)  
-- [2022-11-07-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

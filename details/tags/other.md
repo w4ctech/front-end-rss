@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-07 06:19:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-07 06:48:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1925,7 +1925,6 @@
 - [2022-11-07-求推荐不带轮子的人工体学椅子](https://www.v2ex.com/t/893305) 
 - [2022-11-07-996，真的是为了生活吗？](https://www.v2ex.com/t/893304) 
 - [2022-11-07-小白学完-channel-马上就不会了-——-现在会了（大概）](https://www.v2ex.com/t/893302) 
-- [2022-11-07-出-surge-mac-车位](https://www.v2ex.com/t/893300) 
 - [2022-11-07-Twitter-貌似出了问题又在把裁掉的人请回来。](https://www.v2ex.com/t/893298) 
 - [2022-11-07-描述文件和-VPN-会影响-AirPods-和手机的连接](https://www.v2ex.com/t/893297) 
 - [2022-11-07-K8S-入门大家是从何开始的？](https://www.v2ex.com/t/893296) 
@@ -1947,7 +1946,6 @@
 - [2022-11-07-PS5-不能连挂梯子的-wifi-了](https://www.v2ex.com/t/893271) 
 - [2022-11-07-网盘项目列表接口，查询条件使用-path，不用-id，有什么妙处](https://www.v2ex.com/t/893269) 
 - [2022-11-07-对程序员来说，一个好用的数据建模工具应该是什么样的？分享一个来自真实项目的经验。](https://www.v2ex.com/t/893267) 
-- [2022-11-07-有没有人喉结那里长胡子的，有没有合适的剃须刀推荐啊？](https://www.v2ex.com/t/893266) 
 - [2022-11-07-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-07-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-07-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1973,6 +1971,6 @@
 - [2022-11-07-Go-每日一库之调用外部命令的几种姿势](https://toutiao.io/k/c2st1a1) 
 - [2022-11-07-MyBatis-的执行流程分析](https://toutiao.io/k/qksp872) 
 - [2022-11-07-源码级深度理解-Java-SPI](https://toutiao.io/k/w8ouyx6) 
+- [2022-11-07-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) 
 - [2022-11-07-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) 
 - [2022-11-07-推荐-网易经验规整：ClickHouse-开发与使用规范大全](https://toutiao.io/k/nprygo2) 
-- [2022-11-07-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) 

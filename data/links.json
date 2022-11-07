@@ -9953,6 +9953,56 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "公司有一批服务器装了 AMD 的 EPYC 7313 或者 EPYC 7513，但是大部分服务器跑我们的业务时频率就会上不去",
+        "link": "https://www.v2ex.com/t/893313",
+        "date": "2022-11-07"
+      },
+      {
+        "title": "Win11 22H2 更新后出现长时间不使用电脑自动死机",
+        "link": "https://www.v2ex.com/t/893312",
+        "date": "2022-11-07"
+      },
+      {
+        "title": "Vue3 生态里现在有哪些优秀的开源前端 Admin",
+        "link": "https://www.v2ex.com/t/893311",
+        "date": "2022-11-07"
+      },
+      {
+        "title": "腾讯云 dns 解析控制台挂了？",
+        "link": "https://www.v2ex.com/t/893310",
+        "date": "2022-11-07"
+      },
+      {
+        "title": "youtube premium 美区换土区求助",
+        "link": "https://www.v2ex.com/t/893307",
+        "date": "2022-11-07"
+      },
+      {
+        "title": "天翼云双 11 全场 3 折",
+        "link": "https://www.v2ex.com/t/893306",
+        "date": "2022-11-07"
+      },
+      {
+        "title": "求推荐不带轮子的人工体学椅子",
+        "link": "https://www.v2ex.com/t/893305",
+        "date": "2022-11-07"
+      },
+      {
+        "title": "996，真的是为了生活吗？",
+        "link": "https://www.v2ex.com/t/893304",
+        "date": "2022-11-07"
+      },
+      {
+        "title": "[内推]深圳垂直领域云服务商招聘高级 Golang 后台研发",
+        "link": "https://www.v2ex.com/t/893303",
+        "date": "2022-11-07"
+      },
+      {
+        "title": "小白学完 channel 马上就不会了 —— 现在会了（大概）",
+        "link": "https://www.v2ex.com/t/893302",
+        "date": "2022-11-07"
+      },
+      {
         "title": "出 surge mac 车位",
         "link": "https://www.v2ex.com/t/893300",
         "date": "2022-11-07"
@@ -10070,61 +10120,6 @@
       {
         "title": "有没有人喉结那里长胡子的，有没有合适的剃须刀推荐啊？",
         "link": "https://www.v2ex.com/t/893266",
-        "date": "2022-11-07"
-      },
-      {
-        "title": "我天， Ventura 简直是个半成品吧！",
-        "link": "https://www.v2ex.com/t/893263",
-        "date": "2022-11-07"
-      },
-      {
-        "title": "求一个便宜的国内移动流量中专香港 vps。",
-        "link": "https://www.v2ex.com/t/893262",
-        "date": "2022-11-07"
-      },
-      {
-        "title": "创了个公众号，有没有一些创意提供给我让我加一下",
-        "link": "https://www.v2ex.com/t/893261",
-        "date": "2022-11-07"
-      },
-      {
-        "title": "慎用井井标签打印机",
-        "link": "https://www.v2ex.com/t/893260",
-        "date": "2022-11-07"
-      },
-      {
-        "title": "typec 线之间的区别，是不是和 DP/HDMI 一样，不区分版本，只是传输速度的差异，功能上没区别？",
-        "link": "https://www.v2ex.com/t/893259",
-        "date": "2022-11-07"
-      },
-      {
-        "title": "招游戏测试和游戏数值策划各一名",
-        "link": "https://www.v2ex.com/t/893258",
-        "date": "2022-11-07"
-      },
-      {
-        "title": "logging 输出日志怎样对文件过滤",
-        "link": "https://www.v2ex.com/t/893257",
-        "date": "2022-11-07"
-      },
-      {
-        "title": "二十七八不想待在小县城",
-        "link": "https://www.v2ex.com/t/893256",
-        "date": "2022-11-07"
-      },
-      {
-        "title": "因产研沟通低效率,求推荐产研沟通相关的书籍",
-        "link": "https://www.v2ex.com/t/893255",
-        "date": "2022-11-07"
-      },
-      {
-        "title": "Meta 将启动史上首次大规模裁员， v 站上赛博润人的梦碎了",
-        "link": "https://www.v2ex.com/t/893254",
-        "date": "2022-11-07"
-      },
-      {
-        "title": "成年人考试缺考的不少",
-        "link": "https://www.v2ex.com/t/893253",
         "date": "2022-11-07"
       }
     ]
@@ -10302,18 +10297,23 @@
         "date": "2022-11-07"
       },
       {
-        "title": "MyBatis 的执行流程分析",
-        "link": "https://toutiao.io/k/qksp872",
-        "date": "2022-11-07"
-      },
-      {
         "title": "IM 消息 ID 技术专题（七）：网易严选分布式 ID 的技术选型、优化、落地实践",
         "link": "https://toutiao.io/k/xhse1l1",
         "date": "2022-11-07"
       },
       {
+        "title": "MyBatis 的执行流程分析",
+        "link": "https://toutiao.io/k/qksp872",
+        "date": "2022-11-07"
+      },
+      {
         "title": "源码级深度理解 Java SPI",
         "link": "https://toutiao.io/k/w8ouyx6",
+        "date": "2022-11-07"
+      },
+      {
+        "title": "[推荐] 如何画出一张优秀的架构图？（老鸟必备）",
+        "link": "https://toutiao.io/k/xiqybrh",
         "date": "2022-11-07"
       },
       {
@@ -10324,11 +10324,6 @@
       {
         "title": "[推荐] 新来个技术总监，仅花 2 小时，撸出一个多线程永动任务，看完直接跪了，真牛逼",
         "link": "https://toutiao.io/k/6u3q7ke",
-        "date": "2022-11-07"
-      },
-      {
-        "title": "[推荐] 如何画出一张优秀的架构图？（老鸟必备）",
-        "link": "https://toutiao.io/k/xiqybrh",
         "date": "2022-11-07"
       }
     ]

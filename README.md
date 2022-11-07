@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-07 05:47:15，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-07 06:19:05，:rocket: 更新条数: +2018， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,16 @@
 </summary>
 
 
+- [2022-11-07-公司有一批服务器装了-AMD-的-EPYC-7313-或者-EPYC-7513，但是大部分服务器跑我们的业务时频率就会上不去](https://www.v2ex.com/t/893313) ![](assets/new.png)  
+- [2022-11-07-Win11-22H2-更新后出现长时间不使用电脑自动死机](https://www.v2ex.com/t/893312) ![](assets/new.png)  
+- [2022-11-07-Vue3-生态里现在有哪些优秀的开源前端-Admin](https://www.v2ex.com/t/893311) ![](assets/new.png)  
+- [2022-11-07-腾讯云-dns-解析控制台挂了？](https://www.v2ex.com/t/893310) ![](assets/new.png)  
+- [2022-11-07-youtube-premium-美区换土区求助](https://www.v2ex.com/t/893307) ![](assets/new.png)  
+- [2022-11-07-天翼云双-11-全场-3-折](https://www.v2ex.com/t/893306) ![](assets/new.png)  
+- [2022-11-07-求推荐不带轮子的人工体学椅子](https://www.v2ex.com/t/893305) ![](assets/new.png)  
+- [2022-11-07-996，真的是为了生活吗？](https://www.v2ex.com/t/893304) ![](assets/new.png)  
+- [2022-11-07-内推深圳垂直领域云服务商招聘高级-Golang-后台研发](https://www.v2ex.com/t/893303) ![](assets/new.png)  
+- [2022-11-07-小白学完-channel-马上就不会了-——-现在会了（大概）](https://www.v2ex.com/t/893302) ![](assets/new.png)  
 - [2022-11-07-出-surge-mac-车位](https://www.v2ex.com/t/893300) ![](assets/new.png)  
 - [2022-11-07-Twitter-貌似出了问题又在把裁掉的人请回来。](https://www.v2ex.com/t/893298) ![](assets/new.png)  
 - [2022-11-07-描述文件和-VPN-会影响-AirPods-和手机的连接](https://www.v2ex.com/t/893297) ![](assets/new.png)  
@@ -501,16 +511,6 @@
 - [2022-11-07-pdd-百亿补贴貌似买到后封-apple-watch-s7-了，怎么处理啊](https://www.v2ex.com/t/893289) ![](assets/new.png)  
 - [2022-11-07-上海那边的小厂,-一个熟练的开发一年能拿多少?](https://www.v2ex.com/t/893288) ![](assets/new.png)  
 - [2022-11-07-现在从杭州去上海-ok-吗，杭州实在找不到工作了](https://www.v2ex.com/t/893286) ![](assets/new.png)  
-- [2022-11-07-目前最佳游戏体验可能就是-PC-上-4K60-的-switch-游戏了](https://www.v2ex.com/t/893285) ![](assets/new.png)  
-- [2022-11-07-大家-iPhone-14-Pro-Max-距离传感器失灵了没？](https://www.v2ex.com/t/893283) ![](assets/new.png)  
-- [2022-11-07-小白有偿请大佬解决一个问题](https://www.v2ex.com/t/893282) ![](assets/new.png)  
-- [2022-11-07-应-V-友要求，分享墨水屏写代码的使用体验。](https://www.v2ex.com/t/893280) ![](assets/new.png)  
-- [2022-11-07-macOS-自带的-SMB-有加密吗?](https://www.v2ex.com/t/893279) ![](assets/new.png)  
-- [2022-11-07-Pixel-7-日淘流程分享-禁止转载内容-可分享连接](https://www.v2ex.com/t/893277) ![](assets/new.png)  
-- [2022-11-07-上海新房-600-万左右打新抱团取暖](https://www.v2ex.com/t/893276) ![](assets/new.png)  
-- [2022-11-07-nexus6p-无法识别-adb-有什么办法解决?](https://www.v2ex.com/t/893275) ![](assets/new.png)  
-- [2022-11-07-不懂就问，-AirPods-Pro-用久了后降噪效果会变差吗？](https://www.v2ex.com/t/893274) ![](assets/new.png)  
-- [2022-11-07-看了这么多帖子，最终要组一台-NAS+家用服务器还是纠结](https://www.v2ex.com/t/893273) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -565,12 +565,12 @@
 - [2022-11-07-Java-语言性能技术（读书之-Java-性能优化实践-第-11-章）](https://toutiao.io/k/m5s3eq6) ![](assets/new.png)  
 - [2022-11-07-京东二面：ElasticSearch-如何解决深分页问题？](https://toutiao.io/k/i5615h2) ![](assets/new.png)  
 - [2022-11-07-大麦-Android-选座场景性能优化全解析](https://toutiao.io/k/9vm9s9o) ![](assets/new.png)  
-- [2022-11-07-MyBatis-的执行流程分析](https://toutiao.io/k/qksp872) ![](assets/new.png)  
 - [2022-11-07-IM-消息-ID-技术专题（七）：网易严选分布式-ID-的技术选型、优化、落地实践](https://toutiao.io/k/xhse1l1) ![](assets/new.png)  
+- [2022-11-07-MyBatis-的执行流程分析](https://toutiao.io/k/qksp872) ![](assets/new.png)  
 - [2022-11-07-源码级深度理解-Java-SPI](https://toutiao.io/k/w8ouyx6) ![](assets/new.png)  
+- [2022-11-07-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) ![](assets/new.png)  
 - [2022-11-07-推荐-网易经验规整：ClickHouse-开发与使用规范大全](https://toutiao.io/k/nprygo2) ![](assets/new.png)  
 - [2022-11-07-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) ![](assets/new.png)  
-- [2022-11-07-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

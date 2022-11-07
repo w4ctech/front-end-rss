@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-07 17:24:13，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-07 17:49:23，:rocket: 更新条数: +2025， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-11-07-请问京东专员是什么样一种神奇的存在？](https://www.v2ex.com/t/893466) ![](assets/new.png)  
 - [2022-11-07-标准宝塔环境-NGINX-被挂码问题排查](https://www.v2ex.com/t/893465) ![](assets/new.png)  
 - [2022-11-07-istio-的主要问题是资源消耗，次要问题是基本只支持-HTTP](https://www.v2ex.com/t/893464) ![](assets/new.png)  
 - [2022-11-07-索尼-A7R4-连拍就黑屏重启](https://www.v2ex.com/t/893463) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-11-07-gboard-一直等待下载语言包](https://www.v2ex.com/t/893447) ![](assets/new.png)  
 - [2022-11-07-20221107-午夜俱乐部](https://www.v2ex.com/t/893446) ![](assets/new.png)  
 - [2022-11-07-上海-米哈游-miHoYo-2022.11.7-最新招聘信息来啦！（可内推哦）](https://www.v2ex.com/t/893445) ![](assets/new.png)  
-- [2022-11-07-国内有没有类似-TVB-的那种财经新闻媒体？求推荐。](https://www.v2ex.com/t/893442) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -568,8 +568,8 @@
 - [2022-11-07-源码级深度理解-Java-SPI](https://toutiao.io/k/w8ouyx6) ![](assets/new.png)  
 - [2022-11-07-MyBatis-的执行流程分析](https://toutiao.io/k/qksp872) ![](assets/new.png)  
 - [2022-11-07-大麦-Android-选座场景性能优化全解析](https://toutiao.io/k/9vm9s9o) ![](assets/new.png)  
-- [2022-11-07-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) ![](assets/new.png)  
 - [2022-11-07-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) ![](assets/new.png)  
+- [2022-11-07-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

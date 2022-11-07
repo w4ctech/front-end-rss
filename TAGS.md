@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-11-06 23:42:41。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-07 01:07:51。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -179,7 +179,8 @@
 - [【武汉肺炎防疫全纪录(财新网)】港府回应一63岁患者死亡事件-暂无法确定与疫苗相关](https://m.caixin.com/m/2021-03-03/101670052.html)
 - [【张鑫旭-鑫空间-鑫生活】2022年新出了哪些form表单新特性？](https://www.zhangxinxu.com/wordpress/2022/10/2022-new-form-property/)
 - [【V2EX】有没有利用开源组件建立一个-Web-端的本地搜索引擎？](https://www.v2ex.com/t/893177)
-- [【V2EX】PonconJS-前端简易路由控制工具](https://www.v2ex.com/t/893134)
+- [【开发者头条】20+-前端开发好用组件-&-插件轮子](https://toutiao.io/k/eugemzz)
+- [【开发者头条】项目里没用过设计模式？看看-Nest.js-怎么用的](https://toutiao.io/k/82vwf6v)
 - [......【查看更多】......](./details/tags/javascript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -234,6 +235,8 @@
 
 - [【武汉肺炎防疫全纪录(财新网)】广州17岁男生在定点医院参加高考-特殊考场视频监考](https://m.caixin.com/m/2021-06-05/101723418.html)
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
+- [【V2EX】连接-wireguard-节点刷视频卡顿严重](https://www.v2ex.com/t/893189)
+- [【V2EX】B-站有桌面端插件可以实现只在播放列表和分-P-视频中自动连播吗？](https://www.v2ex.com/t/893186)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -250,7 +253,7 @@
 
 
 
-- [【开发者头条】美团高性能终端实时日志系统建设实践](https://toutiao.io/k/sewret8)
+- [【开发者头条】大麦-Android-选座场景性能优化全解析](https://toutiao.io/k/9vm9s9o)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -290,6 +293,7 @@
 
 
 - [【技术头条】基于AI算法的数据库异常监测系统的设计与实现-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15390&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F09%2F01%2Fdatabase-monitoring-based-on-ai.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
+- [【开发者头条】经典的目标检测算法：CenterNet](https://toutiao.io/k/wxuzrud)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -323,7 +327,6 @@
 
 
 
-- [【V2EX】写了个使用-GitHub-Action-备份-shsh2-的脚本](https://www.v2ex.com/t/893141)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

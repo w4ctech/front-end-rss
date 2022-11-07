@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-07 11:13:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-07 11:38:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -15,6 +15,5 @@
 - [2021-03-03-港府回应一63岁患者死亡事件-暂无法确定与疫苗相关](https://m.caixin.com/m/2021-03-03/101670052.html) 
 - [2022-10-16-2022年新出了哪些form表单新特性？](https://www.zhangxinxu.com/wordpress/2022/10/2022-new-form-property/) 
 - [2022-11-07-iOS-16-实时活动功能，饿了么适配了，感觉体验不错](https://www.v2ex.com/t/893374) 
-- [2022-11-07-现在有什么好用的移动端-UI-组件库吗？或者说现在前端如何开发？](https://www.v2ex.com/t/893358) 
 - [2022-11-07-20+-前端开发好用组件-&-插件轮子](https://toutiao.io/k/eugemzz) 
 - [2022-11-07-项目里没用过设计模式？看看-Nest.js-怎么用的](https://toutiao.io/k/82vwf6v) 

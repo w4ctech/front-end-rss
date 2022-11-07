@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-07 05:04:15，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-07 05:47:15，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-11-07-出-surge-mac-车位](https://www.v2ex.com/t/893300) ![](assets/new.png)  
+- [2022-11-07-Twitter-貌似出了问题又在把裁掉的人请回来。](https://www.v2ex.com/t/893298) ![](assets/new.png)  
+- [2022-11-07-描述文件和-VPN-会影响-AirPods-和手机的连接](https://www.v2ex.com/t/893297) ![](assets/new.png)  
+- [2022-11-07-K8S-入门大家是从何开始的？](https://www.v2ex.com/t/893296) ![](assets/new.png)  
+- [2022-11-07-求推荐-m1-pro-罗技-m590-鼠标-自定义按键-软件](https://www.v2ex.com/t/893295) ![](assets/new.png)  
+- [2022-11-07-给孩子推荐一下笔记本电脑吧](https://www.v2ex.com/t/893293) ![](assets/new.png)  
 - [2022-11-07-Stash-for-Mac-正式版本发布了，一周限时折扣（三种付费方式）](https://www.v2ex.com/t/893291) ![](assets/new.png)  
 - [2022-11-07-pdd-百亿补贴貌似买到后封-apple-watch-s7-了，怎么处理啊](https://www.v2ex.com/t/893289) ![](assets/new.png)  
 - [2022-11-07-上海那边的小厂,-一个熟练的开发一年能拿多少?](https://www.v2ex.com/t/893288) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-11-07-nexus6p-无法识别-adb-有什么办法解决?](https://www.v2ex.com/t/893275) ![](assets/new.png)  
 - [2022-11-07-不懂就问，-AirPods-Pro-用久了后降噪效果会变差吗？](https://www.v2ex.com/t/893274) ![](assets/new.png)  
 - [2022-11-07-看了这么多帖子，最终要组一台-NAS+家用服务器还是纠结](https://www.v2ex.com/t/893273) ![](assets/new.png)  
-- [2022-11-07-PS5-不能连挂梯子的-wifi-了](https://www.v2ex.com/t/893271) ![](assets/new.png)  
-- [2022-11-07-网盘项目列表接口，查询条件使用-path，不用-id，有什么妙处](https://www.v2ex.com/t/893269) ![](assets/new.png)  
-- [2022-11-07-对程序员来说，一个好用的数据建模工具应该是什么样的？分享一个来自真实项目的经验。](https://www.v2ex.com/t/893267) ![](assets/new.png)  
-- [2022-11-07-有没有人喉结那里长胡子的，有没有合适的剃须刀推荐啊？](https://www.v2ex.com/t/893266) ![](assets/new.png)  
-- [2022-11-07-我天，-Ventura-简直是个半成品吧！](https://www.v2ex.com/t/893263) ![](assets/new.png)  
-- [2022-11-07-求一个便宜的国内移动流量中专香港-vps。](https://www.v2ex.com/t/893262) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -568,9 +568,9 @@
 - [2022-11-07-MyBatis-的执行流程分析](https://toutiao.io/k/qksp872) ![](assets/new.png)  
 - [2022-11-07-IM-消息-ID-技术专题（七）：网易严选分布式-ID-的技术选型、优化、落地实践](https://toutiao.io/k/xhse1l1) ![](assets/new.png)  
 - [2022-11-07-源码级深度理解-Java-SPI](https://toutiao.io/k/w8ouyx6) ![](assets/new.png)  
-- [2022-11-07-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) ![](assets/new.png)  
 - [2022-11-07-推荐-网易经验规整：ClickHouse-开发与使用规范大全](https://toutiao.io/k/nprygo2) ![](assets/new.png)  
 - [2022-11-07-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) ![](assets/new.png)  
+- [2022-11-07-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

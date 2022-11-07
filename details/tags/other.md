@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-07 14:04:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-07 14:43:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1917,6 +1917,13 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-11-07-国内有没有类似-TVB-的那种财经新闻媒体可以关注一下的？](https://www.v2ex.com/t/893442) 
+- [2022-11-07-自如的宽带偷偷降配置了？](https://www.v2ex.com/t/893440) 
+- [2022-11-07-杭州-2-年前端开发一枚求职](https://www.v2ex.com/t/893439) 
+- [2022-11-07-《航拍中国》第四季上线~](https://www.v2ex.com/t/893438) 
+- [2022-11-07-jvm-生产环境出现了两次-oom-的错误，前来请教一下](https://www.v2ex.com/t/893437) 
+- [2022-11-07-可以推荐一款耐用的智能手机吗？](https://www.v2ex.com/t/893436) 
+- [2022-11-07-原创歌曲---星愿](https://www.v2ex.com/t/893435) 
 - [2022-11-07-体育综艺-有没有人记得-1998-1999-年-CCTV5-的《城市之间》？](https://www.v2ex.com/t/893434) 
 - [2022-11-07-在-Windows-资源管理器中连接-WebDAV-可能会导致死机](https://www.v2ex.com/t/893433) 
 - [2022-11-07-推特解雇-90%-以上的印度员工，仅留下十几人](https://www.v2ex.com/t/893432) 
@@ -1948,10 +1955,6 @@
 - [2022-11-07-Mac-连接-Dell-2720Q-的问题](https://www.v2ex.com/t/893397) 
 - [2022-11-07-nas-有哪些实用的玩法？](https://www.v2ex.com/t/893395) 
 - [2022-11-07-国内交规是右转弯路权最低么？有转弯灯呢？怎么可能注意看四面？](https://www.v2ex.com/t/893393) 
-- [2022-11-07-你们都是怎么购买机票的？国内和国外，虽然现在出国比较麻烦但也想了解下，方便以后或许吧](https://www.v2ex.com/t/893392) 
-- [2022-11-07-今年双-11，阿里云是一点优惠都没么](https://www.v2ex.com/t/893388) 
-- [2022-11-07-不正当途径获取信息问题，想请教一下](https://www.v2ex.com/t/893387) 
-- [2022-11-07-纯小白-请问怎么保护自己的服务器](https://www.v2ex.com/t/893386) 
 - [2022-11-07-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-07-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-07-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1977,6 +1980,6 @@
 - [2022-11-07-Go-每日一库之调用外部命令的几种姿势](https://toutiao.io/k/c2st1a1) 
 - [2022-11-07-源码级深度理解-Java-SPI](https://toutiao.io/k/w8ouyx6) 
 - [2022-11-07-MyBatis-的执行流程分析](https://toutiao.io/k/qksp872) 
-- [2022-11-07-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) 
 - [2022-11-07-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) 
 - [2022-11-07-推荐-网易经验规整：ClickHouse-开发与使用规范大全](https://toutiao.io/k/nprygo2) 
+- [2022-11-07-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) 

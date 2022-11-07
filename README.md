@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-07 10:16:23，:rocket: 更新条数: +2023， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-07 10:47:34，:rocket: 更新条数: +2023， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-11-07-Mac-连接-Dell-2720Q-的问题](https://www.v2ex.com/t/893397) ![](assets/new.png)  
+- [2022-11-07-举个例子说明-react-和-vue-生态的异同](https://www.v2ex.com/t/893396) ![](assets/new.png)  
+- [2022-11-07-nas-有哪些实用的玩法？](https://www.v2ex.com/t/893395) ![](assets/new.png)  
+- [2022-11-07-国内交规是右转弯路权最低么？有转弯灯呢？怎么可能注意看四面？](https://www.v2ex.com/t/893393) ![](assets/new.png)  
 - [2022-11-07-你们都是怎么购买机票的？国内和国外，虽然现在出国比较麻烦但也想了解下，方便以后或许吧](https://www.v2ex.com/t/893392) ![](assets/new.png)  
 - [2022-11-07-你怎么看待房东，公共区域装摄像头你怎么看](https://www.v2ex.com/t/893391) ![](assets/new.png)  
 - [2022-11-07-各位后端大佬:-我想自学-Java-后端开发,-请推荐培训视频和书籍-谢谢](https://www.v2ex.com/t/893390) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-11-07-张江外企内推中高级-Front-Engineer、-Java-、Android、QA、DevOps、Test-Automation-Engineer-欢迎各位大佬联系（转正成功，送手机）](https://www.v2ex.com/t/893376) ![](assets/new.png)  
 - [2022-11-07-小学乘法口诀竟然是汉字版的？](https://www.v2ex.com/t/893375) ![](assets/new.png)  
 - [2022-11-07-iOS-16-实时活动功能，饿了么适配了，感觉体验不错](https://www.v2ex.com/t/893374) ![](assets/new.png)  
-- [2022-11-07-安装-Ubuntu-Server-发现不了本地网络](https://www.v2ex.com/t/893372) ![](assets/new.png)  
-- [2022-11-07-LG-和-Dell-4K-显示器-哪个更适合-Mac](https://www.v2ex.com/t/893371) ![](assets/new.png)  
-- [2022-11-07-Surge-Mac-5-缺-3](https://www.v2ex.com/t/893370) ![](assets/new.png)  
-- [2022-11-07-机械硬盘（仓库盘）寿命问题](https://www.v2ex.com/t/893369) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -568,8 +568,8 @@
 - [2022-11-07-源码级深度理解-Java-SPI](https://toutiao.io/k/w8ouyx6) ![](assets/new.png)  
 - [2022-11-07-大麦-Android-选座场景性能优化全解析](https://toutiao.io/k/9vm9s9o) ![](assets/new.png)  
 - [2022-11-07-MyBatis-的执行流程分析](https://toutiao.io/k/qksp872) ![](assets/new.png)  
-- [2022-11-07-推荐-网易经验规整：ClickHouse-开发与使用规范大全](https://toutiao.io/k/nprygo2) ![](assets/new.png)  
 - [2022-11-07-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) ![](assets/new.png)  
+- [2022-11-07-推荐-网易经验规整：ClickHouse-开发与使用规范大全](https://toutiao.io/k/nprygo2) ![](assets/new.png)  
 - [2022-11-07-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

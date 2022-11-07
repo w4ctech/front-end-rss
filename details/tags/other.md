@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-07 10:16:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-07 10:47:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1917,6 +1917,9 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-11-07-Mac-连接-Dell-2720Q-的问题](https://www.v2ex.com/t/893397) 
+- [2022-11-07-nas-有哪些实用的玩法？](https://www.v2ex.com/t/893395) 
+- [2022-11-07-国内交规是右转弯路权最低么？有转弯灯呢？怎么可能注意看四面？](https://www.v2ex.com/t/893393) 
 - [2022-11-07-你们都是怎么购买机票的？国内和国外，虽然现在出国比较麻烦但也想了解下，方便以后或许吧](https://www.v2ex.com/t/893392) 
 - [2022-11-07-今年双-11，阿里云是一点优惠都没么](https://www.v2ex.com/t/893388) 
 - [2022-11-07-不正当途径获取信息问题，想请教一下](https://www.v2ex.com/t/893387) 
@@ -1945,8 +1948,6 @@
 - [2022-11-07-ios-扭一扭/摇一摇的开屏广告有什么好办法解决么？](https://www.v2ex.com/t/893352) 
 - [2022-11-07-喝胶囊咖啡的一些问题](https://www.v2ex.com/t/893351) 
 - [2022-11-07-Windows-下-PC-企业微信机器人自动定时发送消息提醒](https://www.v2ex.com/t/893348) 
-- [2022-11-07-股票战绩](https://www.v2ex.com/t/893347) 
-- [2022-11-07-AirPods-Pro2-为什么有股菠萝蜜的味道](https://www.v2ex.com/t/893343) 
 - [2022-11-07-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-07-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-07-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1972,6 +1973,6 @@
 - [2022-11-07-Go-每日一库之调用外部命令的几种姿势](https://toutiao.io/k/c2st1a1) 
 - [2022-11-07-源码级深度理解-Java-SPI](https://toutiao.io/k/w8ouyx6) 
 - [2022-11-07-MyBatis-的执行流程分析](https://toutiao.io/k/qksp872) 
-- [2022-11-07-推荐-网易经验规整：ClickHouse-开发与使用规范大全](https://toutiao.io/k/nprygo2) 
 - [2022-11-07-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) 
+- [2022-11-07-推荐-网易经验规整：ClickHouse-开发与使用规范大全](https://toutiao.io/k/nprygo2) 
 - [2022-11-07-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) 

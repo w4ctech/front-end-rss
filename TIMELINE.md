@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-07 19:13:32。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-07 19:37:00。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,8 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-07-升级完挂载-overlay-后，系统版本号就回退](https://www.v2ex.com/t/893470) 
+- [【V2EX】2022-11-07-推荐一些我认为认真搞技术的-up-主](https://www.v2ex.com/t/893469) 
 - [【V2EX】2022-11-07-楼下的住户在凌晨一点到三点用铁锤砸墙，求助](https://www.v2ex.com/t/893468) 
 - [【V2EX】2022-11-07-请问京东专员是什么样一种神奇的存在？](https://www.v2ex.com/t/893466) 
 - [【V2EX】2022-11-07-标准宝塔环境-NGINX-被挂码问题排查](https://www.v2ex.com/t/893465) 
@@ -109,8 +111,6 @@
 - [【V2EX】2022-11-07-Java-求解如何优化-100-个-if-判断？](https://www.v2ex.com/t/893424) 
 - [【V2EX】2022-11-07-golang-mongodb-mgo-封装-query-查询慢，请教](https://www.v2ex.com/t/893422) 
 - [【V2EX】2022-11-07-上海洗车哪家强？](https://www.v2ex.com/t/893421) 
-- [【V2EX】2022-11-07-Mac-难道没有好用的数据库建模工具吗](https://www.v2ex.com/t/893420) 
-- [【V2EX】2022-11-07-Mac-连接两个-VPN-出现了奇怪的问题](https://www.v2ex.com/t/893419) 
 - [【技术头条】2022-11-07-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-07-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-07-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

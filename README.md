@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-07 19:13:32，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-07 19:37:00，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-11-07-升级完挂载-overlay-后，系统版本号就回退](https://www.v2ex.com/t/893470) ![](assets/new.png)  
+- [2022-11-07-推荐一些我认为认真搞技术的-up-主](https://www.v2ex.com/t/893469) ![](assets/new.png)  
 - [2022-11-07-楼下的住户在凌晨一点到三点用铁锤砸墙，求助](https://www.v2ex.com/t/893468) ![](assets/new.png)  
 - [2022-11-07-请问京东专员是什么样一种神奇的存在？](https://www.v2ex.com/t/893466) ![](assets/new.png)  
 - [2022-11-07-标准宝塔环境-NGINX-被挂码问题排查](https://www.v2ex.com/t/893465) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-11-07-求-Mac-上好用的-keepass-客户端推荐](https://www.v2ex.com/t/893451) ![](assets/new.png)  
 - [2022-11-07-求助，更新插件之后，无法访问-OP-后台](https://www.v2ex.com/t/893450) ![](assets/new.png)  
 - [2022-11-07-Lightflus：一款新型的云端-Dataflow-数据计算框架（Preview-for-Developer）](https://www.v2ex.com/t/893449) ![](assets/new.png)  
-- [2022-11-07-gboard-一直等待下载语言包](https://www.v2ex.com/t/893447) ![](assets/new.png)  
-- [2022-11-07-20221107-午夜俱乐部](https://www.v2ex.com/t/893446) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

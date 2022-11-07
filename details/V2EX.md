@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2022-11-07 19:13:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-07 19:37:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-11-07-升级完挂载-overlay-后，系统版本号就回退](https://www.v2ex.com/t/893470) 
+- [2022-11-07-推荐一些我认为认真搞技术的-up-主](https://www.v2ex.com/t/893469) 
 - [2022-11-07-楼下的住户在凌晨一点到三点用铁锤砸墙，求助](https://www.v2ex.com/t/893468) 
 - [2022-11-07-请问京东专员是什么样一种神奇的存在？](https://www.v2ex.com/t/893466) 
 - [2022-11-07-标准宝塔环境-NGINX-被挂码问题排查](https://www.v2ex.com/t/893465) 
@@ -44,5 +46,3 @@
 - [2022-11-07-Java-求解如何优化-100-个-if-判断？](https://www.v2ex.com/t/893424) 
 - [2022-11-07-golang-mongodb-mgo-封装-query-查询慢，请教](https://www.v2ex.com/t/893422) 
 - [2022-11-07-上海洗车哪家强？](https://www.v2ex.com/t/893421) 
-- [2022-11-07-Mac-难道没有好用的数据库建模工具吗](https://www.v2ex.com/t/893420) 
-- [2022-11-07-Mac-连接两个-VPN-出现了奇怪的问题](https://www.v2ex.com/t/893419) 

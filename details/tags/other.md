@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-07 20:42:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-07 21:14:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1949,7 +1949,6 @@
 - [2022-11-07-如果每个国际快递被海关退运的概率是-5%，任取-10-个国际快递，其中至少有一个被退运的概率是多少-要怎么计算？记得中学学过，太久了全还给老师了](https://www.v2ex.com/t/893426) 
 - [2022-11-07-今年真难，求助-v-友问下，入职公司已经满一年了，但是公司裁员只赔-0.3n](https://www.v2ex.com/t/893425) 
 - [2022-11-07-golang-mongodb-mgo-封装-query-查询慢，请教](https://www.v2ex.com/t/893422) 
-- [2022-11-07-上海洗车哪家强？](https://www.v2ex.com/t/893421) 
 - [2022-11-07-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-07-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-07-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

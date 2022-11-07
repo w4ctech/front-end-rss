@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-07 08:50:52。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-07 09:15:06。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,13 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-07-安装-Ubuntu-Server-发现不了本地网络](https://www.v2ex.com/t/893372) 
+- [【V2EX】2022-11-07-LG-和-Dell-4K-显示器-哪个更适合-Mac](https://www.v2ex.com/t/893371) 
+- [【V2EX】2022-11-07-Surge-Mac-5-缺-3](https://www.v2ex.com/t/893370) 
+- [【V2EX】2022-11-07-机械硬盘（仓库盘）寿命问题](https://www.v2ex.com/t/893369) 
+- [【V2EX】2022-11-07-打算更新显卡，选了三款显卡型号，求大佬给些建议，感谢-！](https://www.v2ex.com/t/893367) 
+- [【V2EX】2022-11-07-K8S-修改节点-IP-有没有比较好的方案](https://www.v2ex.com/t/893365) 
+- [【V2EX】2022-11-07-对不起，绷不住了，哈哈](https://www.v2ex.com/t/893364) 
 - [【V2EX】2022-11-07-100-多的-nas-和-1000-多的有啥区别](https://www.v2ex.com/t/893363) 
 - [【V2EX】2022-11-07-你们恐惧死亡吗？](https://www.v2ex.com/t/893362) 
 - [【V2EX】2022-11-07-taro-和-uni-app-哪个用起来更爽呢？](https://www.v2ex.com/t/893360) 
@@ -101,13 +108,6 @@
 - [【V2EX】2022-11-07-第一季-小小老弟相亲记](https://www.v2ex.com/t/893326) 
 - [【V2EX】2022-11-07-自建-bitwarden-的各位都是怎么备份数据的](https://www.v2ex.com/t/893325) 
 - [【V2EX】2022-11-07-RF-Modules-for-Smartphones](https://www.v2ex.com/t/893324) 
-- [【V2EX】2022-11-07-各位用佛山电信的兄弟，你们的公网-ip-还安好吗？](https://www.v2ex.com/t/893323) 
-- [【V2EX】2022-11-07-管理-Jupyter-Notebooks-的最佳实践（简化版）](https://www.v2ex.com/t/893320) 
-- [【V2EX】2022-11-07-这种能覆盖在支付宝付款金额上面的手法叫什么?感觉有点搞头的样子](https://www.v2ex.com/t/893319) 
-- [【V2EX】2022-11-07-14pro-16.1-版本，通知中心左滑清除通知的时候明显的掉帧啊，看着好难受](https://www.v2ex.com/t/893318) 
-- [【V2EX】2022-11-07-为什么扩展中的-fetch-请求会触发-CSP](https://www.v2ex.com/t/893317) 
-- [【V2EX】2022-11-07-外派-SAP-的职位（可转正）-上海张江：-前端开发/-Java-开发，-3-年-5-年工作经验，英语要能说一些，希望人就在上海，因为需要现场面试](https://www.v2ex.com/t/893316) 
-- [【V2EX】2022-11-07-各位有-PC-游戏-3D-立体化显示的经验吗？](https://www.v2ex.com/t/893315) 
 - [【技术头条】2022-11-07-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-07-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-07-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

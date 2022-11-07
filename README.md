@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-07 08:50:52，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-07 09:15:06，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,13 @@
 </summary>
 
 
+- [2022-11-07-安装-Ubuntu-Server-发现不了本地网络](https://www.v2ex.com/t/893372) ![](assets/new.png)  
+- [2022-11-07-LG-和-Dell-4K-显示器-哪个更适合-Mac](https://www.v2ex.com/t/893371) ![](assets/new.png)  
+- [2022-11-07-Surge-Mac-5-缺-3](https://www.v2ex.com/t/893370) ![](assets/new.png)  
+- [2022-11-07-机械硬盘（仓库盘）寿命问题](https://www.v2ex.com/t/893369) ![](assets/new.png)  
+- [2022-11-07-打算更新显卡，选了三款显卡型号，求大佬给些建议，感谢-！](https://www.v2ex.com/t/893367) ![](assets/new.png)  
+- [2022-11-07-K8S-修改节点-IP-有没有比较好的方案](https://www.v2ex.com/t/893365) ![](assets/new.png)  
+- [2022-11-07-对不起，绷不住了，哈哈](https://www.v2ex.com/t/893364) ![](assets/new.png)  
 - [2022-11-07-100-多的-nas-和-1000-多的有啥区别](https://www.v2ex.com/t/893363) ![](assets/new.png)  
 - [2022-11-07-你们恐惧死亡吗？](https://www.v2ex.com/t/893362) ![](assets/new.png)  
 - [2022-11-07-taro-和-uni-app-哪个用起来更爽呢？](https://www.v2ex.com/t/893360) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-11-07-喝胶囊咖啡的一些问题](https://www.v2ex.com/t/893351) ![](assets/new.png)  
 - [2022-11-07-Windows-下-PC-企业微信机器人自动定时发送消息提醒](https://www.v2ex.com/t/893348) ![](assets/new.png)  
 - [2022-11-07-股票战绩](https://www.v2ex.com/t/893347) ![](assets/new.png)  
-- [2022-11-07-Visual-Studio-Code-Python-–-2022-年-11-月更新-isort、Pylint-和-flake8-扩展、关闭自动导入和笔记本单元调试](https://www.v2ex.com/t/893346) ![](assets/new.png)  
-- [2022-11-07-现在微信小程序的人民法院在线小程序不能提交民间借贷的立案了吗？](https://www.v2ex.com/t/893344) ![](assets/new.png)  
-- [2022-11-07-AirPods-Pro2-为什么有股菠萝蜜的味道](https://www.v2ex.com/t/893343) ![](assets/new.png)  
-- [2022-11-07-apple-tv-缺货](https://www.v2ex.com/t/893342) ![](assets/new.png)  
-- [2022-11-07-隔壁公司有一个挺漂亮的女孩子，该怎么不失礼貌的去认识一下呢？](https://www.v2ex.com/t/893340) ![](assets/new.png)  
-- [2022-11-07-双十一优惠腾讯云服务器购买,有资源的留言.](https://www.v2ex.com/t/893339) ![](assets/new.png)  
-- [2022-11-07-Altium-designer-单机版授权的疑问，多用户登录是否算是违规使用？](https://www.v2ex.com/t/893338) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

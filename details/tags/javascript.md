@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-07 08:50:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-07 09:15:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -16,6 +16,5 @@
 - [2022-10-16-2022年新出了哪些form表单新特性？](https://www.zhangxinxu.com/wordpress/2022/10/2022-new-form-property/) 
 - [2022-11-07-现在有什么好用的移动端-UI-组件库吗？或者说现在前端如何开发？](https://www.v2ex.com/t/893358) 
 - [2022-11-07-RF-Modules-for-Smartphones](https://www.v2ex.com/t/893324) 
-- [2022-11-07-为什么扩展中的-fetch-请求会触发-CSP](https://www.v2ex.com/t/893317) 
 - [2022-11-07-20+-前端开发好用组件-&-插件轮子](https://toutiao.io/k/eugemzz) 
 - [2022-11-07-项目里没用过设计模式？看看-Nest.js-怎么用的](https://toutiao.io/k/82vwf6v) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-07 15:43:51。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-07 16:20:31。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,14 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-07-远离国产软件，只配在虚拟机和沙箱里跑！](https://www.v2ex.com/t/893462) 
+- [【V2EX】2022-11-07-发现个奇怪的问题，访问接口一次-就会有个奇怪的-IP-重复访问一下这个接口](https://www.v2ex.com/t/893461) 
+- [【V2EX】2022-11-07-LSI-9265-做的-RAID5，坏了一个盘，关于换盘的问题。。。](https://www.v2ex.com/t/893460) 
+- [【V2EX】2022-11-07-问下各位香港-bybit-值得一去吗？](https://www.v2ex.com/t/893459) 
+- [【V2EX】2022-11-07-如何让-NAT-走指定的公网出口，或如何伪造发起-http-的-IP](https://www.v2ex.com/t/893458) 
+- [【V2EX】2022-11-07-MPC-HC-如何设置才可以按照文件夹中视频文件的顺序播放，而不是按照-A-Z-的顺序播放？](https://www.v2ex.com/t/893457) 
+- [【V2EX】2022-11-07-SEO-求助，价格好说](https://www.v2ex.com/t/893456) 
+- [【V2EX】2022-11-07-用-Rust-开发跨平台-App-的一次探索与实践](https://www.v2ex.com/t/893455) 
 - [【V2EX】2022-11-07-jvm-想-full-gc-之后老年代占用-90%再-dump，且与上次-dump-相隔超过-10s，该怎么实现好？](https://www.v2ex.com/t/893453) 
 - [【V2EX】2022-11-07-编译-aosp-并且刷入-pixel-后无限重启，各位有什么排查问题妙招](https://www.v2ex.com/t/893452) 
 - [【V2EX】2022-11-07-求-Mac-上好用的-keepass-客户端推荐](https://www.v2ex.com/t/893451) 
@@ -105,13 +113,6 @@
 - [【V2EX】2022-11-07-试用期如何保障自己的权益，要去一家风评不太好的公司](https://www.v2ex.com/t/893415) 
 - [【V2EX】2022-11-07-咨询网页下载文件获取文件名和文件大小出错问题-Content-Disposition:-attachment](https://www.v2ex.com/t/893414) 
 - [【V2EX】2022-11-07-去中心化存储的完整性问题是否可以通过定期合约解决-即卖家抵押一部分财产-约定在-X-日内存储某些数据-到买家下载完成两次（校验+真正下载）后自动失效删除-这样...](https://www.v2ex.com/t/893413) 
-- [【V2EX】2022-11-07-求推荐办公室工位防偷窥设备](https://www.v2ex.com/t/893412) 
-- [【V2EX】2022-11-07-分享一下你在-b-站发现的宝藏-up？-Java-技术类最好。](https://www.v2ex.com/t/893411) 
-- [【V2EX】2022-11-07-时隔三年，新项目招募基石用户-——-缤纷云-S4-对象存储-Preview，希望做独立开发者、创业者、创意人士的贴心伙伴](https://www.v2ex.com/t/893410) 
-- [【V2EX】2022-11-07-都请病假说身体不舒服了，部门主管还让远程查问题，我该怎么拒绝？](https://www.v2ex.com/t/893409) 
-- [【V2EX】2022-11-07-如果没有硬件阉割，-M1-M2-芯片理论上是否原生支持-2-台显示器](https://www.v2ex.com/t/893407) 
-- [【V2EX】2022-11-07-家里有空间，健身器材优先整啥？](https://www.v2ex.com/t/893406) 
-- [【V2EX】2022-11-07-Oracle-Cloud-首尔，北京移动宽带无法连接](https://www.v2ex.com/t/893404) 
 - [【技术头条】2022-11-07-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-07-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-07-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -147,9 +148,8 @@
 - [【开发者头条】2022-11-07-源码级深度理解-Java-SPI](https://toutiao.io/k/w8ouyx6) 
 - [【开发者头条】2022-11-07-MyBatis-的执行流程分析](https://toutiao.io/k/qksp872) 
 - [【开发者头条】2022-11-07-大麦-Android-选座场景性能优化全解析](https://toutiao.io/k/9vm9s9o) 
-- [【开发者头条】2022-11-07-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) 
-- [【开发者头条】2022-11-07-推荐-网易经验规整：ClickHouse-开发与使用规范大全](https://toutiao.io/k/nprygo2) 
 - [【开发者头条】2022-11-07-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) 
+- [【开发者头条】2022-11-07-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

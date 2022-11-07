@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-07 15:43:51，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-07 16:20:31，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,14 @@
 </summary>
 
 
+- [2022-11-07-远离国产软件，只配在虚拟机和沙箱里跑！](https://www.v2ex.com/t/893462) ![](assets/new.png)  
+- [2022-11-07-发现个奇怪的问题，访问接口一次-就会有个奇怪的-IP-重复访问一下这个接口](https://www.v2ex.com/t/893461) ![](assets/new.png)  
+- [2022-11-07-LSI-9265-做的-RAID5，坏了一个盘，关于换盘的问题。。。](https://www.v2ex.com/t/893460) ![](assets/new.png)  
+- [2022-11-07-问下各位香港-bybit-值得一去吗？](https://www.v2ex.com/t/893459) ![](assets/new.png)  
+- [2022-11-07-如何让-NAT-走指定的公网出口，或如何伪造发起-http-的-IP](https://www.v2ex.com/t/893458) ![](assets/new.png)  
+- [2022-11-07-MPC-HC-如何设置才可以按照文件夹中视频文件的顺序播放，而不是按照-A-Z-的顺序播放？](https://www.v2ex.com/t/893457) ![](assets/new.png)  
+- [2022-11-07-SEO-求助，价格好说](https://www.v2ex.com/t/893456) ![](assets/new.png)  
+- [2022-11-07-用-Rust-开发跨平台-App-的一次探索与实践](https://www.v2ex.com/t/893455) ![](assets/new.png)  
 - [2022-11-07-jvm-想-full-gc-之后老年代占用-90%再-dump，且与上次-dump-相隔超过-10s，该怎么实现好？](https://www.v2ex.com/t/893453) ![](assets/new.png)  
 - [2022-11-07-编译-aosp-并且刷入-pixel-后无限重启，各位有什么排查问题妙招](https://www.v2ex.com/t/893452) ![](assets/new.png)  
 - [2022-11-07-求-Mac-上好用的-keepass-客户端推荐](https://www.v2ex.com/t/893451) ![](assets/new.png)  
@@ -503,14 +511,6 @@
 - [2022-11-07-自如的宽带偷偷降配置了？](https://www.v2ex.com/t/893440) ![](assets/new.png)  
 - [2022-11-07-杭州-2-年前端开发一枚求职](https://www.v2ex.com/t/893439) ![](assets/new.png)  
 - [2022-11-07-《航拍中国》第四季上线~](https://www.v2ex.com/t/893438) ![](assets/new.png)  
-- [2022-11-07-jvm-生产环境出现了两次-oom-的错误，前来请教一下](https://www.v2ex.com/t/893437) ![](assets/new.png)  
-- [2022-11-07-可以推荐一款耐用的智能手机吗？](https://www.v2ex.com/t/893436) ![](assets/new.png)  
-- [2022-11-07-原创歌曲---星愿](https://www.v2ex.com/t/893435) ![](assets/new.png)  
-- [2022-11-07-体育综艺-有没有人记得-1998-1999-年-CCTV5-的《城市之间》？](https://www.v2ex.com/t/893434) ![](assets/new.png)  
-- [2022-11-07-在-Windows-资源管理器中连接-WebDAV-可能会导致死机](https://www.v2ex.com/t/893433) ![](assets/new.png)  
-- [2022-11-07-推特解雇-90%-以上的印度员工，仅留下十几人](https://www.v2ex.com/t/893432) ![](assets/new.png)  
-- [2022-11-07-这篇论文属实给我看乐了](https://www.v2ex.com/t/893431) ![](assets/new.png)  
-- [2022-11-07-有闲置的北京联通-200M-宽带的么，-700-元/年收](https://www.v2ex.com/t/893430) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -568,9 +568,8 @@
 - [2022-11-07-源码级深度理解-Java-SPI](https://toutiao.io/k/w8ouyx6) ![](assets/new.png)  
 - [2022-11-07-MyBatis-的执行流程分析](https://toutiao.io/k/qksp872) ![](assets/new.png)  
 - [2022-11-07-大麦-Android-选座场景性能优化全解析](https://toutiao.io/k/9vm9s9o) ![](assets/new.png)  
-- [2022-11-07-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) ![](assets/new.png)  
-- [2022-11-07-推荐-网易经验规整：ClickHouse-开发与使用规范大全](https://toutiao.io/k/nprygo2) ![](assets/new.png)  
 - [2022-11-07-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) ![](assets/new.png)  
+- [2022-11-07-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

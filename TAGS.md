@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-11-07 15:43:51。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-07 16:20:31。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -232,6 +232,7 @@
 
 - [【武汉肺炎防疫全纪录(财新网)】广州17岁男生在定点医院参加高考-特殊考场视频监考](https://m.caixin.com/m/2021-06-05/101723418.html)
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
+- [【V2EX】MPC-HC-如何设置才可以按照文件夹中视频文件的顺序播放，而不是按照-A-Z-的顺序播放？](https://www.v2ex.com/t/893457)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -248,6 +249,7 @@
 
 
 
+- [【V2EX】SEO-求助，价格好说](https://www.v2ex.com/t/893456)
 - [【V2EX】Java-求解如何优化-100-个-if-判断？](https://www.v2ex.com/t/893424)
 - [【开发者头条】Java-语言性能技术（读书之-Java-性能优化实践-第-11-章）](https://toutiao.io/k/m5s3eq6)
 - [【开发者头条】IM-消息-ID-技术专题（七）：网易严选分布式-ID-的技术选型、优化、落地实践](https://toutiao.io/k/xhse1l1)
@@ -275,7 +277,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
 - [【V2EX】Lightflus：一款新型的云端-Dataflow-数据计算框架（Preview-for-Developer）](https://www.v2ex.com/t/893449)
-- [【V2EX】时隔三年，新项目招募基石用户-——-缤纷云-S4-对象存储-Preview，希望做独立开发者、创业者、创意人士的贴心伙伴](https://www.v2ex.com/t/893410)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -292,6 +293,7 @@
 
 
 
+- [【V2EX】如何让-NAT-走指定的公网出口，或如何伪造发起-http-的-IP](https://www.v2ex.com/t/893458)
 - [【技术头条】基于AI算法的数据库异常监测系统的设计与实现-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15390&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F09%2F01%2Fdatabase-monitoring-based-on-ai.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】经典的目标检测算法：CenterNet](https://toutiao.io/k/wxuzrud)
 - [【开发者头条】京东二面：ElasticSearch-如何解决深分页问题？](https://toutiao.io/k/i5615h2)

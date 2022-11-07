@@ -9953,6 +9953,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "索尼 A7R4 连拍就黑屏重启",
+        "link": "https://www.v2ex.com/t/893463",
+        "date": "2022-11-07"
+      },
+      {
         "title": "远离国产软件，只配在虚拟机和沙箱里跑！",
         "link": "https://www.v2ex.com/t/893462",
         "date": "2022-11-07"
@@ -10161,11 +10166,6 @@
         "title": "咨询网页下载文件获取文件名和文件大小出错问题 Content-Disposition: attachment",
         "link": "https://www.v2ex.com/t/893414",
         "date": "2022-11-07"
-      },
-      {
-        "title": "去中心化存储的完整性问题是否可以通过定期合约解决 即卖家抵押一部分财产 约定在 X 日内存储某些数据 到买家下载完成两次（校验+真正下载）后自动失效删除 这样...",
-        "link": "https://www.v2ex.com/t/893413",
-        "date": "2022-11-07"
       }
     ]
   },
@@ -10357,13 +10357,13 @@
         "date": "2022-11-07"
       },
       {
-        "title": "[推荐] 新来个技术总监，仅花 2 小时，撸出一个多线程永动任务，看完直接跪了，真牛逼",
-        "link": "https://toutiao.io/k/6u3q7ke",
+        "title": "[推荐] 如何画出一张优秀的架构图？（老鸟必备）",
+        "link": "https://toutiao.io/k/xiqybrh",
         "date": "2022-11-07"
       },
       {
-        "title": "[推荐] 如何画出一张优秀的架构图？（老鸟必备）",
-        "link": "https://toutiao.io/k/xiqybrh",
+        "title": "[推荐] 新来个技术总监，仅花 2 小时，撸出一个多线程永动任务，看完直接跪了，真牛逼",
+        "link": "https://toutiao.io/k/6u3q7ke",
         "date": "2022-11-07"
       }
     ]

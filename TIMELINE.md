@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-08 07:14:01。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-08 07:38:42。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,9 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-08-亲戚要招一个货运解决方案的互联网平台，大家有没有推荐的呢](https://www.v2ex.com/t/893598) 
+- [【V2EX】2022-11-08-请问有无网页客服聊天系统可支持转发消息到微信的。](https://www.v2ex.com/t/893597) 
+- [【V2EX】2022-11-08-pdd-百-Y-补贴多人团的公众号或者是机器人有人做吗？](https://www.v2ex.com/t/893596) 
 - [【V2EX】2022-11-08-Express.js-生成一次性下载链接](https://www.v2ex.com/t/893595) 
 - [【V2EX】2022-11-08-英伟达-NVIDIA-上海-自动驾驶软件经理](https://www.v2ex.com/t/893593) 
 - [【V2EX】2022-11-08-电脑小白求助，想自己组一台电脑。](https://www.v2ex.com/t/893592) 
@@ -99,10 +102,6 @@
 - [【V2EX】2022-11-08-M-芯片外接-Dell-S2721Qs-闪屏](https://www.v2ex.com/t/893553) 
 - [【V2EX】2022-11-08-Ent-中文文档](https://www.v2ex.com/t/893552) 
 - [【V2EX】2022-11-08-阿里云主机编译安卓源码有推荐吗？](https://www.v2ex.com/t/893550) 
-- [【V2EX】2022-11-08-北京-程序化交易-Linux-内核相关岗位](https://www.v2ex.com/t/893549) 
-- [【V2EX】2022-11-08-上海有好的人体工学座椅线下的体验店吗？](https://www.v2ex.com/t/893548) 
-- [【V2EX】2022-11-08-建议在京东购买食品饮料时，一定要问好生产日期](https://www.v2ex.com/t/893547) 
-- [【V2EX】2022-11-08-估计要进行裁员了，接下来该怎么做？](https://www.v2ex.com/t/893546) 
 - [【技术头条】2022-11-08-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-08-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-08-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -132,10 +131,10 @@
 - [【开发者头条】2022-11-08-Vue3-+-Vant-开发微信公众号网页爬坑不完全指北](https://toutiao.io/k/2p8b4vg) 
 - [【开发者头条】2022-11-08-划分需求优先级的三种方法](https://toutiao.io/k/uaz2o31) 
 - [【开发者头条】2022-11-08-离职交接，心态要好](https://toutiao.io/k/yq7cat1) 
-- [【开发者头条】2022-11-08-再来一次，新技术搞定老业务「GitHub-热点速览-v.22.44」](https://toutiao.io/k/kfjshll) 
-- [【开发者头条】2022-11-08-浅谈数据：聊一聊数据分析中的一些基础统计学知识](https://toutiao.io/k/6ndw6sx) 
 - [【开发者头条】2022-11-08-基于-k8s-的发布系统的实现](https://toutiao.io/k/62uj8oo) 
 - [【开发者头条】2022-11-08-云音乐-iOS-端代码静态检测实践](https://toutiao.io/k/at8j88l) 
+- [【开发者头条】2022-11-08-再来一次，新技术搞定老业务「GitHub-热点速览-v.22.44」](https://toutiao.io/k/kfjshll) 
+- [【开发者头条】2022-11-08-浅谈数据：聊一聊数据分析中的一些基础统计学知识](https://toutiao.io/k/6ndw6sx) 
 - [【开发者头条】2022-11-08-利于集成的分支策略](https://toutiao.io/k/ktkaxbt) 
 - [【开发者头条】2022-11-08-Kaggle-知识点：12-种回归评价指标](https://toutiao.io/k/s937slo) 
 - [【开发者头条】2022-11-08-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) 

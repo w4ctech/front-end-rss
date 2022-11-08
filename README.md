@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-08 07:14:01，:rocket: 更新条数: +2016， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-08 07:38:42，:rocket: 更新条数: +2015， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-11-08-亲戚要招一个货运解决方案的互联网平台，大家有没有推荐的呢](https://www.v2ex.com/t/893598) ![](assets/new.png)  
+- [2022-11-08-请问有无网页客服聊天系统可支持转发消息到微信的。](https://www.v2ex.com/t/893597) ![](assets/new.png)  
+- [2022-11-08-pdd-百-Y-补贴多人团的公众号或者是机器人有人做吗？](https://www.v2ex.com/t/893596) ![](assets/new.png)  
 - [2022-11-08-Express.js-生成一次性下载链接](https://www.v2ex.com/t/893595) ![](assets/new.png)  
 - [2022-11-08-英伟达-NVIDIA-上海-自动驾驶软件经理](https://www.v2ex.com/t/893593) ![](assets/new.png)  
 - [2022-11-08-电脑小白求助，想自己组一台电脑。](https://www.v2ex.com/t/893592) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-11-08-产品离职了，开摸](https://www.v2ex.com/t/893570) ![](assets/new.png)  
 - [2022-11-08-日经贴，帮忙看看攒机配置？感谢！](https://www.v2ex.com/t/893569) ![](assets/new.png)  
 - [2022-11-08-m2-mba-有碰到爆音的朋友吗？](https://www.v2ex.com/t/893568) ![](assets/new.png)  
-- [2022-11-08-openwrt-重启后跟-lan-口的路由器-ip-冲突，咋搞？](https://www.v2ex.com/t/893566) ![](assets/new.png)  
-- [2022-11-08-iOS-上-App-Store-更新问题](https://www.v2ex.com/t/893565) ![](assets/new.png)  
-- [2022-11-08-Win11-22H2-空闲几分钟后-Systemntoskrnl进程持续占用百分之-20CPU](https://www.v2ex.com/t/893564) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -562,10 +562,10 @@
 - [2022-11-08-Vue3-+-Vant-开发微信公众号网页爬坑不完全指北](https://toutiao.io/k/2p8b4vg) ![](assets/new.png)  
 - [2022-11-08-划分需求优先级的三种方法](https://toutiao.io/k/uaz2o31) ![](assets/new.png)  
 - [2022-11-08-离职交接，心态要好](https://toutiao.io/k/yq7cat1) ![](assets/new.png)  
-- [2022-11-08-再来一次，新技术搞定老业务「GitHub-热点速览-v.22.44」](https://toutiao.io/k/kfjshll) ![](assets/new.png)  
-- [2022-11-08-浅谈数据：聊一聊数据分析中的一些基础统计学知识](https://toutiao.io/k/6ndw6sx) ![](assets/new.png)  
 - [2022-11-08-基于-k8s-的发布系统的实现](https://toutiao.io/k/62uj8oo) ![](assets/new.png)  
 - [2022-11-08-云音乐-iOS-端代码静态检测实践](https://toutiao.io/k/at8j88l) ![](assets/new.png)  
+- [2022-11-08-再来一次，新技术搞定老业务「GitHub-热点速览-v.22.44」](https://toutiao.io/k/kfjshll) ![](assets/new.png)  
+- [2022-11-08-浅谈数据：聊一聊数据分析中的一些基础统计学知识](https://toutiao.io/k/6ndw6sx) ![](assets/new.png)  
 - [2022-11-08-利于集成的分支策略](https://toutiao.io/k/ktkaxbt) ![](assets/new.png)  
 - [2022-11-08-Kaggle-知识点：12-种回归评价指标](https://toutiao.io/k/s937slo) ![](assets/new.png)  
 - [2022-11-08-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) ![](assets/new.png)  

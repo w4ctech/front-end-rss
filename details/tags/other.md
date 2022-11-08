@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-08 07:14:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-08 07:38:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1917,6 +1917,9 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-11-08-亲戚要招一个货运解决方案的互联网平台，大家有没有推荐的呢](https://www.v2ex.com/t/893598) 
+- [2022-11-08-请问有无网页客服聊天系统可支持转发消息到微信的。](https://www.v2ex.com/t/893597) 
+- [2022-11-08-pdd-百-Y-补贴多人团的公众号或者是机器人有人做吗？](https://www.v2ex.com/t/893596) 
 - [2022-11-08-英伟达-NVIDIA-上海-自动驾驶软件经理](https://www.v2ex.com/t/893593) 
 - [2022-11-08-电脑小白求助，想自己组一台电脑。](https://www.v2ex.com/t/893592) 
 - [2022-11-08-我给做外贸的家人做的尺码表生成工具升级了](https://www.v2ex.com/t/893590) 
@@ -1942,10 +1945,6 @@
 - [2022-11-08-M-芯片外接-Dell-S2721Qs-闪屏](https://www.v2ex.com/t/893553) 
 - [2022-11-08-Ent-中文文档](https://www.v2ex.com/t/893552) 
 - [2022-11-08-阿里云主机编译安卓源码有推荐吗？](https://www.v2ex.com/t/893550) 
-- [2022-11-08-北京-程序化交易-Linux-内核相关岗位](https://www.v2ex.com/t/893549) 
-- [2022-11-08-上海有好的人体工学座椅线下的体验店吗？](https://www.v2ex.com/t/893548) 
-- [2022-11-08-建议在京东购买食品饮料时，一定要问好生产日期](https://www.v2ex.com/t/893547) 
-- [2022-11-08-估计要进行裁员了，接下来该怎么做？](https://www.v2ex.com/t/893546) 
 - [2022-11-08-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-08-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-08-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1970,9 +1969,9 @@
 - [2022-11-08-从-0-到-1-教你写好系分](https://toutiao.io/k/ngju61q) 
 - [2022-11-08-划分需求优先级的三种方法](https://toutiao.io/k/uaz2o31) 
 - [2022-11-08-离职交接，心态要好](https://toutiao.io/k/yq7cat1) 
-- [2022-11-08-浅谈数据：聊一聊数据分析中的一些基础统计学知识](https://toutiao.io/k/6ndw6sx) 
 - [2022-11-08-基于-k8s-的发布系统的实现](https://toutiao.io/k/62uj8oo) 
 - [2022-11-08-云音乐-iOS-端代码静态检测实践](https://toutiao.io/k/at8j88l) 
+- [2022-11-08-浅谈数据：聊一聊数据分析中的一些基础统计学知识](https://toutiao.io/k/6ndw6sx) 
 - [2022-11-08-利于集成的分支策略](https://toutiao.io/k/ktkaxbt) 
 - [2022-11-08-Kaggle-知识点：12-种回归评价指标](https://toutiao.io/k/s937slo) 
 - [2022-11-08-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) 

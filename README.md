@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-08 04:21:26，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-08 05:06:11，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-11-08-M-芯片外接-Dell-S2721Qs-闪屏](https://www.v2ex.com/t/893553) ![](assets/new.png)  
+- [2022-11-08-Ent-中文文档](https://www.v2ex.com/t/893552) ![](assets/new.png)  
+- [2022-11-08-阿里云主机编译安卓源码有推荐吗？](https://www.v2ex.com/t/893550) ![](assets/new.png)  
+- [2022-11-08-北京-程序化交易-Linux-内核相关岗位](https://www.v2ex.com/t/893549) ![](assets/new.png)  
+- [2022-11-08-上海有好的人体工学座椅线下的体验店吗？](https://www.v2ex.com/t/893548) ![](assets/new.png)  
 - [2022-11-08-建议在京东购买食品饮料时，一定要问好生产日期](https://www.v2ex.com/t/893547) ![](assets/new.png)  
 - [2022-11-08-估计要进行裁员了，接下来该怎么做？](https://www.v2ex.com/t/893546) ![](assets/new.png)  
 - [2022-11-08-Xmake-v2.7.3-发布，包组件和-C++-模块增量构建支持](https://www.v2ex.com/t/893545) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-11-08-iphone14pro-的百度地图-app-会后台驻留灵动岛？](https://www.v2ex.com/t/893533) ![](assets/new.png)  
 - [2022-11-08-home-assistant-有没有些好玩的玩法推荐？](https://www.v2ex.com/t/893532) ![](assets/new.png)  
 - [2022-11-08-Mac-现在能实现分用户加密吗?](https://www.v2ex.com/t/893531) ![](assets/new.png)  
-- [2022-11-08-请教广州租房子](https://www.v2ex.com/t/893530) ![](assets/new.png)  
-- [2022-11-08-close-异常](https://www.v2ex.com/t/893529) ![](assets/new.png)  
-- [2022-11-08-iPhone-13-有没有摄像头不加高的保护壳？](https://www.v2ex.com/t/893528) ![](assets/new.png)  
-- [2022-11-08-心率应急通知的手表有推荐的嘛](https://www.v2ex.com/t/893526) ![](assets/new.png)  
-- [2022-11-08-这个鼠须管-Rime-到底应该怎么配置双拼啊？](https://www.v2ex.com/t/893525) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -558,18 +558,18 @@
 - [2022-11-08-跟着这-12-张图，重新复习-Redis](https://toutiao.io/k/25u7bi6) ![](assets/new.png)  
 - [2022-11-08-如何快速打造一个高性能数据库原型](https://toutiao.io/k/tkvf7rp) ![](assets/new.png)  
 - [2022-11-08-万字详解数仓分层设计架构-ODS-DWD-DWS-ADS](https://toutiao.io/k/rwbg5v2) ![](assets/new.png)  
+- [2022-11-08-从-0-到-1-教你写好系分](https://toutiao.io/k/ngju61q) ![](assets/new.png)  
 - [2022-11-08-Vue3-+-Vant-开发微信公众号网页爬坑不完全指北](https://toutiao.io/k/2p8b4vg) ![](assets/new.png)  
 - [2022-11-08-离职交接，心态要好](https://toutiao.io/k/yq7cat1) ![](assets/new.png)  
-- [2022-11-08-从-0-到-1-教你写好系分](https://toutiao.io/k/ngju61q) ![](assets/new.png)  
 - [2022-11-08-再来一次，新技术搞定老业务「GitHub-热点速览-v.22.44」](https://toutiao.io/k/kfjshll) ![](assets/new.png)  
-- [2022-11-08-基于-k8s-的发布系统的实现](https://toutiao.io/k/62uj8oo) ![](assets/new.png)  
 - [2022-11-08-浅谈数据：聊一聊数据分析中的一些基础统计学知识](https://toutiao.io/k/6ndw6sx) ![](assets/new.png)  
+- [2022-11-08-基于-k8s-的发布系统的实现](https://toutiao.io/k/62uj8oo) ![](assets/new.png)  
 - [2022-11-08-划分需求优先级的三种方法](https://toutiao.io/k/uaz2o31) ![](assets/new.png)  
+- [2022-11-08-云音乐-iOS-端代码静态检测实践](https://toutiao.io/k/at8j88l) ![](assets/new.png)  
 - [2022-11-08-利于集成的分支策略](https://toutiao.io/k/ktkaxbt) ![](assets/new.png)  
 - [2022-11-08-Kaggle-知识点：12-种回归评价指标](https://toutiao.io/k/s937slo) ![](assets/new.png)  
-- [2022-11-08-云音乐-iOS-端代码静态检测实践](https://toutiao.io/k/at8j88l) ![](assets/new.png)  
-- [2022-11-08-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) ![](assets/new.png)  
 - [2022-11-08-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) ![](assets/new.png)  
+- [2022-11-08-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-08 04:21:26。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-08 05:06:11。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,11 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-08-M-芯片外接-Dell-S2721Qs-闪屏](https://www.v2ex.com/t/893553) 
+- [【V2EX】2022-11-08-Ent-中文文档](https://www.v2ex.com/t/893552) 
+- [【V2EX】2022-11-08-阿里云主机编译安卓源码有推荐吗？](https://www.v2ex.com/t/893550) 
+- [【V2EX】2022-11-08-北京-程序化交易-Linux-内核相关岗位](https://www.v2ex.com/t/893549) 
+- [【V2EX】2022-11-08-上海有好的人体工学座椅线下的体验店吗？](https://www.v2ex.com/t/893548) 
 - [【V2EX】2022-11-08-建议在京东购买食品饮料时，一定要问好生产日期](https://www.v2ex.com/t/893547) 
 - [【V2EX】2022-11-08-估计要进行裁员了，接下来该怎么做？](https://www.v2ex.com/t/893546) 
 - [【V2EX】2022-11-08-Xmake-v2.7.3-发布，包组件和-C++-模块增量构建支持](https://www.v2ex.com/t/893545) 
@@ -106,13 +111,6 @@
 - [【V2EX】2022-11-08-Vue-3-可使用-Vue-2-开发的组件吗？](https://www.v2ex.com/t/893509) 
 - [【V2EX】2022-11-08-icloud-邮箱偶发性的错误提示：发生-SSL-错误，无法建立到该服务器的安全连接。](https://www.v2ex.com/t/893508) 
 - [【V2EX】2022-11-08-各位帮我分析下键盘坏了会是什么原因](https://www.v2ex.com/t/893507) 
-- [【V2EX】2022-11-08-🎉-Gopeed-下载器-v1.1.0-发布，支持-HTTP、BT-协议，全平台可用并且开源免费](https://www.v2ex.com/t/893505) 
-- [【V2EX】2022-11-08-写了个竹白专栏检索的小工具](https://www.v2ex.com/t/893504) 
-- [【V2EX】2022-11-08-可交互-Flutter-图表](https://www.v2ex.com/t/893503) 
-- [【V2EX】2022-11-08-求助，蝶式键盘问题](https://www.v2ex.com/t/893502) 
-- [【V2EX】2022-11-08-2-张-200-京东-e-卡-98-折出](https://www.v2ex.com/t/893501) 
-- [【V2EX】2022-11-08-Github-的-Star-出-BUG-了？](https://www.v2ex.com/t/893500) 
-- [【V2EX】2022-11-08-分享一款在线工具箱，集成了-200-多款实用工具](https://www.v2ex.com/t/893498) 
 - [【技术头条】2022-11-08-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-08-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-08-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -138,18 +136,18 @@
 - [【开发者头条】2022-11-08-跟着这-12-张图，重新复习-Redis](https://toutiao.io/k/25u7bi6) 
 - [【开发者头条】2022-11-08-如何快速打造一个高性能数据库原型](https://toutiao.io/k/tkvf7rp) 
 - [【开发者头条】2022-11-08-万字详解数仓分层设计架构-ODS-DWD-DWS-ADS](https://toutiao.io/k/rwbg5v2) 
+- [【开发者头条】2022-11-08-从-0-到-1-教你写好系分](https://toutiao.io/k/ngju61q) 
 - [【开发者头条】2022-11-08-Vue3-+-Vant-开发微信公众号网页爬坑不完全指北](https://toutiao.io/k/2p8b4vg) 
 - [【开发者头条】2022-11-08-离职交接，心态要好](https://toutiao.io/k/yq7cat1) 
-- [【开发者头条】2022-11-08-从-0-到-1-教你写好系分](https://toutiao.io/k/ngju61q) 
 - [【开发者头条】2022-11-08-再来一次，新技术搞定老业务「GitHub-热点速览-v.22.44」](https://toutiao.io/k/kfjshll) 
-- [【开发者头条】2022-11-08-基于-k8s-的发布系统的实现](https://toutiao.io/k/62uj8oo) 
 - [【开发者头条】2022-11-08-浅谈数据：聊一聊数据分析中的一些基础统计学知识](https://toutiao.io/k/6ndw6sx) 
+- [【开发者头条】2022-11-08-基于-k8s-的发布系统的实现](https://toutiao.io/k/62uj8oo) 
 - [【开发者头条】2022-11-08-划分需求优先级的三种方法](https://toutiao.io/k/uaz2o31) 
+- [【开发者头条】2022-11-08-云音乐-iOS-端代码静态检测实践](https://toutiao.io/k/at8j88l) 
 - [【开发者头条】2022-11-08-利于集成的分支策略](https://toutiao.io/k/ktkaxbt) 
 - [【开发者头条】2022-11-08-Kaggle-知识点：12-种回归评价指标](https://toutiao.io/k/s937slo) 
-- [【开发者头条】2022-11-08-云音乐-iOS-端代码静态检测实践](https://toutiao.io/k/at8j88l) 
-- [【开发者头条】2022-11-08-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) 
 - [【开发者头条】2022-11-08-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) 
+- [【开发者头条】2022-11-08-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-08 14:27:31。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-08 14:44:32。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,11 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-08-目前显示器是-fight-5k,-双-dp-才能实现-5K-显示，手头的电脑是-M1-air,-要哪些扩展坞或者转换头-才能实现-5K-的显示呢？](https://www.v2ex.com/t/893703) 
+- [【V2EX】2022-11-08-上海幼升小给我整-emo-了](https://www.v2ex.com/t/893702) 
+- [【V2EX】2022-11-08-Linux-下有什么工具可以给整个文件夹生成一个-SHA256，像-7z-Windows-版一样，方便比较两个文件夹内容是否完全相同？](https://www.v2ex.com/t/893701) 
+- [【V2EX】2022-11-08-iPhone-通知中心不显示提醒](https://www.v2ex.com/t/893700) 
+- [【V2EX】2022-11-08-大家做登录认证用的是-SpringSession-还是-token？说下用和不用的理由](https://www.v2ex.com/t/893698) 
 - [【V2EX】2022-11-08-Corp.IT外企）-上海凌空-SOHO：-Java-Manager，-91-年-88-年，年薪-60W，英语流利](https://www.v2ex.com/t/893697) 
 - [【V2EX】2022-11-08-招聘安服工程师一名](https://www.v2ex.com/t/893696) 
 - [【V2EX】2022-11-08-大容量-iPhone-备份还原真的超级慢](https://www.v2ex.com/t/893695) 
@@ -101,10 +106,6 @@
 - [【V2EX】2022-11-08-美区苹果-id-赠送-app-不能用-paypal-付款么？](https://www.v2ex.com/t/893659) 
 - [【V2EX】2022-11-08-武汉电信宽带-上行速率终于可以升-100M-了！](https://www.v2ex.com/t/893658) 
 - [【V2EX】2022-11-08-zlibrary-没了，是时候配备>18T-硬盘了，宝贵的东西必须有冷备](https://www.v2ex.com/t/893656) 
-- [【V2EX】2022-11-08-IOS-国内目前用哪家的统计-sdk-比较多？](https://www.v2ex.com/t/893652) 
-- [【V2EX】2022-11-08-求推荐个-app-类似-Clear-的提醒事项](https://www.v2ex.com/t/893651) 
-- [【V2EX】2022-11-08-现在有没有什么软件/服务可以拨打网络电话的？目的是防拉黑](https://www.v2ex.com/t/893649) 
-- [【V2EX】2022-11-08-2022-年搭建一个对外服务的网站需要采购什么云计算服务？](https://www.v2ex.com/t/893648) 
 - [【技术头条】2022-11-08-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-08-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-08-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -140,8 +141,8 @@
 - [【开发者头条】2022-11-08-浅谈数据：聊一聊数据分析中的一些基础统计学知识](https://toutiao.io/k/6ndw6sx) 
 - [【开发者头条】2022-11-08-利于集成的分支策略](https://toutiao.io/k/ktkaxbt) 
 - [【开发者头条】2022-11-08-Kaggle-知识点：12-种回归评价指标](https://toutiao.io/k/s937slo) 
-- [【开发者头条】2022-11-08-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) 
 - [【开发者头条】2022-11-08-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) 
+- [【开发者头条】2022-11-08-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

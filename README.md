@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-08 17:04:22，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-08 17:47:04，:rocket: 更新条数: +2023， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-11-08-收费帮人制作抢购脚本有法律风险吗？](https://www.v2ex.com/t/893724) ![](assets/new.png)  
+- [2022-11-08-为什么-List-可以转成-Stream-而-map-和-set-不能转成-Stream？](https://www.v2ex.com/t/893723) ![](assets/new.png)  
+- [2022-11-08-如何下载电报频道里不能保存，也不能转发的影片？](https://www.v2ex.com/t/893722) ![](assets/new.png)  
 - [2022-11-08-秋招结束后应该干点啥？](https://www.v2ex.com/t/893721) ![](assets/new.png)  
 - [2022-11-08-触控板-Command-+-Click-问题还在，-ventura13.0、m2-MacBookair](https://www.v2ex.com/t/893720) ![](assets/new.png)  
 - [2022-11-08-请教-Apple-ID-用的不是-icloud-邮箱，怎么查看-iCloud-邮箱密码？](https://www.v2ex.com/t/893719) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-11-08-分享今天是我签到第-100-天的日子](https://www.v2ex.com/t/893705) ![](assets/new.png)  
 - [2022-11-08-取消重复的-axios-请求时如何避免失败？](https://www.v2ex.com/t/893704) ![](assets/new.png)  
 - [2022-11-08-目前显示器是-fight-5k,-双-dp-才能实现-5K-显示，手头的电脑是-M1-air,-要哪些扩展坞或者转换头-才能实现-5K-的显示呢？](https://www.v2ex.com/t/893703) ![](assets/new.png)  
-- [2022-11-08-上海幼升小给我整-emo-了](https://www.v2ex.com/t/893702) ![](assets/new.png)  
-- [2022-11-08-Linux-下有什么工具可以给整个文件夹生成一个-SHA256，像-7z-Windows-版一样，方便比较两个文件夹内容是否完全相同？](https://www.v2ex.com/t/893701) ![](assets/new.png)  
-- [2022-11-08-iPhone-通知中心不显示提醒](https://www.v2ex.com/t/893700) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

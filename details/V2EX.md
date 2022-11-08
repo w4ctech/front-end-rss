@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2022-11-08 17:04:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-08 17:47:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-11-08-收费帮人制作抢购脚本有法律风险吗？](https://www.v2ex.com/t/893724) 
+- [2022-11-08-为什么-List-可以转成-Stream-而-map-和-set-不能转成-Stream？](https://www.v2ex.com/t/893723) 
+- [2022-11-08-如何下载电报频道里不能保存，也不能转发的影片？](https://www.v2ex.com/t/893722) 
 - [2022-11-08-秋招结束后应该干点啥？](https://www.v2ex.com/t/893721) 
 - [2022-11-08-触控板-Command-+-Click-问题还在，-ventura13.0、m2-MacBookair](https://www.v2ex.com/t/893720) 
 - [2022-11-08-请教-Apple-ID-用的不是-icloud-邮箱，怎么查看-iCloud-邮箱密码？](https://www.v2ex.com/t/893719) 
@@ -42,5 +45,3 @@
 - [2022-11-08-求问-qBittorrent-为何下-PT-及种子均无法下载（状态显示-未联系）](https://www.v2ex.com/t/893681) 
 - [2022-11-08-有丰富-API-的流程类插件吗？](https://www.v2ex.com/t/893678) 
 - [2022-11-08-大家-iOS-上用什么骚扰拦截](https://www.v2ex.com/t/893676) 
-- [2022-11-08-有无懂哥试过静态编译或者尽可能静态编译-openresty](https://www.v2ex.com/t/893674) 
-- [2022-11-08-写了个爬取-Quora-生成公众号文章的程序，它还可以用来干什么？](https://www.v2ex.com/t/893672) 

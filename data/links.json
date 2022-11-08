@@ -9953,6 +9953,21 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "收费帮人制作抢购脚本有法律风险吗？",
+        "link": "https://www.v2ex.com/t/893724",
+        "date": "2022-11-08"
+      },
+      {
+        "title": "为什么 List 可以转成 Stream 而 map 和 set 不能转成 Stream？",
+        "link": "https://www.v2ex.com/t/893723",
+        "date": "2022-11-08"
+      },
+      {
+        "title": "如何下载电报频道里不能保存，也不能转发的影片？",
+        "link": "https://www.v2ex.com/t/893722",
+        "date": "2022-11-08"
+      },
+      {
         "title": "秋招结束后应该干点啥？",
         "link": "https://www.v2ex.com/t/893721",
         "date": "2022-11-08"
@@ -10135,16 +10150,6 @@
       {
         "title": "大家 iOS 上用什么骚扰拦截",
         "link": "https://www.v2ex.com/t/893676",
-        "date": "2022-11-08"
-      },
-      {
-        "title": "有无懂哥试过静态编译或者尽可能静态编译 openresty",
-        "link": "https://www.v2ex.com/t/893674",
-        "date": "2022-11-08"
-      },
-      {
-        "title": "写了个爬取 Quora 生成公众号文章的程序，它还可以用来干什么？",
-        "link": "https://www.v2ex.com/t/893672",
         "date": "2022-11-08"
       }
     ]

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-08 06:50:26。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-08 07:14:01。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,10 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-08-Express.js-生成一次性下载链接](https://www.v2ex.com/t/893595) 
+- [【V2EX】2022-11-08-英伟达-NVIDIA-上海-自动驾驶软件经理](https://www.v2ex.com/t/893593) 
+- [【V2EX】2022-11-08-电脑小白求助，想自己组一台电脑。](https://www.v2ex.com/t/893592) 
+- [【V2EX】2022-11-08-我给做外贸的家人做的尺码表生成工具升级了](https://www.v2ex.com/t/893590) 
 - [【V2EX】2022-11-08-工单系统求推荐](https://www.v2ex.com/t/893588) 
 - [【V2EX】2022-11-08-Macbook-Pro-16-M1-pro-能同时输出-3-台-4K-60hz-的显示器吗？-那-M1-Max-呢](https://www.v2ex.com/t/893586) 
 - [【V2EX】2022-11-08-Alfred-eject-workflow-求分享](https://www.v2ex.com/t/893583) 
@@ -99,12 +103,6 @@
 - [【V2EX】2022-11-08-上海有好的人体工学座椅线下的体验店吗？](https://www.v2ex.com/t/893548) 
 - [【V2EX】2022-11-08-建议在京东购买食品饮料时，一定要问好生产日期](https://www.v2ex.com/t/893547) 
 - [【V2EX】2022-11-08-估计要进行裁员了，接下来该怎么做？](https://www.v2ex.com/t/893546) 
-- [【V2EX】2022-11-08-Xmake-v2.7.3-发布，包组件和-C++-模块增量构建支持](https://www.v2ex.com/t/893545) 
-- [【V2EX】2022-11-08-你们上一次笑是什么时候？](https://www.v2ex.com/t/893544) 
-- [【V2EX】2022-11-08-现在年轻人租房挺难伺候的](https://www.v2ex.com/t/893543) 
-- [【V2EX】2022-11-08-量化交易有啥好的入门资料或者论坛嘛，国内国外的都行](https://www.v2ex.com/t/893542) 
-- [【V2EX】2022-11-08-经过签名后的-apk-文件，无法升级](https://www.v2ex.com/t/893541) 
-- [【V2EX】2022-11-08-求推荐缓解咽痛、扁桃体发炎或者感冒的薄荷含片](https://www.v2ex.com/t/893540) 
 - [【技术头条】2022-11-08-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-08-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-08-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

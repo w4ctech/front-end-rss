@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-08 06:50:26，:rocket: 更新条数: +2018， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-08 07:14:01，:rocket: 更新条数: +2016， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-11-08-Express.js-生成一次性下载链接](https://www.v2ex.com/t/893595) ![](assets/new.png)  
+- [2022-11-08-英伟达-NVIDIA-上海-自动驾驶软件经理](https://www.v2ex.com/t/893593) ![](assets/new.png)  
+- [2022-11-08-电脑小白求助，想自己组一台电脑。](https://www.v2ex.com/t/893592) ![](assets/new.png)  
+- [2022-11-08-我给做外贸的家人做的尺码表生成工具升级了](https://www.v2ex.com/t/893590) ![](assets/new.png)  
 - [2022-11-08-工单系统求推荐](https://www.v2ex.com/t/893588) ![](assets/new.png)  
 - [2022-11-08-Macbook-Pro-16-M1-pro-能同时输出-3-台-4K-60hz-的显示器吗？-那-M1-Max-呢](https://www.v2ex.com/t/893586) ![](assets/new.png)  
 - [2022-11-08-Alfred-eject-workflow-求分享](https://www.v2ex.com/t/893583) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-11-08-openwrt-重启后跟-lan-口的路由器-ip-冲突，咋搞？](https://www.v2ex.com/t/893566) ![](assets/new.png)  
 - [2022-11-08-iOS-上-App-Store-更新问题](https://www.v2ex.com/t/893565) ![](assets/new.png)  
 - [2022-11-08-Win11-22H2-空闲几分钟后-Systemntoskrnl进程持续占用百分之-20CPU](https://www.v2ex.com/t/893564) ![](assets/new.png)  
-- [2022-11-08-CupertinoPageRoute-滑动返回后，操作延时的-Bug](https://www.v2ex.com/t/893563) ![](assets/new.png)  
-- [2022-11-08-iPhone-跟-Mac-的-Wi-Fi-自动加入问题](https://www.v2ex.com/t/893561) ![](assets/new.png)  
-- [2022-11-08-AirPods-空间音频的追踪头部是怎么用的，感觉就是一边声音大一边声音小，头偏向哪边哪边声音就大，有什么实际用途吗？](https://www.v2ex.com/t/893560) ![](assets/new.png)  
-- [2022-11-08-使用-autohotkey-让-87-键键盘快速输入数字键盘](https://www.v2ex.com/t/893559) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

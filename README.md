@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-08 13:22:37，:rocket: 更新条数: +2018， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-08 14:01:57，:rocket: 更新条数: +2017， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-11-08-23-届-校招前端开发求职](https://www.v2ex.com/t/893693) ![](assets/new.png)  
+- [2022-11-08-网易云音乐宕机了？](https://www.v2ex.com/t/893692) ![](assets/new.png)  
+- [2022-11-08-刚买没多久的-MAC-M2-AIR，使用-magsafe-充电的时候，闪烁黄色，这是咋回事？](https://www.v2ex.com/t/893691) ![](assets/new.png)  
+- [2022-11-08-大家双-11-买了啥显示器](https://www.v2ex.com/t/893687) ![](assets/new.png)  
 - [2022-11-08-Apple-ID-换区后原来购买的-app-会跟着转区吗？](https://www.v2ex.com/t/893686) ![](assets/new.png)  
 - [2022-11-08-想要润德国的，可以先从了解相关签证和工作许可知识开始](https://www.v2ex.com/t/893685) ![](assets/new.png)  
 - [2022-11-08-setstate-问题求助大佬](https://www.v2ex.com/t/893684) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-11-08-国际短信服务](https://www.v2ex.com/t/893667) ![](assets/new.png)  
 - [2022-11-08-AirPods-pro2-真的比-AirPods-pro-提升很多吗](https://www.v2ex.com/t/893666) ![](assets/new.png)  
 - [2022-11-08-mini-server+轻量-NAS-矿渣方案纠结](https://www.v2ex.com/t/893665) ![](assets/new.png)  
-- [2022-11-08-开源中国-奥思网络科技是外包吗](https://www.v2ex.com/t/893664) ![](assets/new.png)  
-- [2022-11-08-有谁用过-zellij-不？-rust-写的终端复用，哪儿比-tmux-强？](https://www.v2ex.com/t/893663) ![](assets/new.png)  
-- [2022-11-08-新人第一次发帖-想请问下有没有在游戏公司做引擎、图程类工作的大佬，这方面目前市场如何](https://www.v2ex.com/t/893662) ![](assets/new.png)  
-- [2022-11-08-一台显示器，两台运行着的电脑，能否做到快速切换，一台-windows，一台-Linux-系统](https://www.v2ex.com/t/893661) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -559,8 +559,8 @@
 - [2022-11-08-如何快速打造一个高性能数据库原型](https://toutiao.io/k/tkvf7rp) ![](assets/new.png)  
 - [2022-11-08-万字详解数仓分层设计架构-ODS-DWD-DWS-ADS](https://toutiao.io/k/rwbg5v2) ![](assets/new.png)  
 - [2022-11-08-从-0-到-1-教你写好系分](https://toutiao.io/k/ngju61q) ![](assets/new.png)  
-- [2022-11-08-Vue3-+-Vant-开发微信公众号网页爬坑不完全指北](https://toutiao.io/k/2p8b4vg) ![](assets/new.png)  
 - [2022-11-08-云音乐-iOS-端代码静态检测实践](https://toutiao.io/k/at8j88l) ![](assets/new.png)  
+- [2022-11-08-Vue3-+-Vant-开发微信公众号网页爬坑不完全指北](https://toutiao.io/k/2p8b4vg) ![](assets/new.png)  
 - [2022-11-08-划分需求优先级的三种方法](https://toutiao.io/k/uaz2o31) ![](assets/new.png)  
 - [2022-11-08-基于-k8s-的发布系统的实现](https://toutiao.io/k/62uj8oo) ![](assets/new.png)  
 - [2022-11-08-离职交接，心态要好](https://toutiao.io/k/yq7cat1) ![](assets/new.png)  
@@ -568,8 +568,8 @@
 - [2022-11-08-浅谈数据：聊一聊数据分析中的一些基础统计学知识](https://toutiao.io/k/6ndw6sx) ![](assets/new.png)  
 - [2022-11-08-利于集成的分支策略](https://toutiao.io/k/ktkaxbt) ![](assets/new.png)  
 - [2022-11-08-Kaggle-知识点：12-种回归评价指标](https://toutiao.io/k/s937slo) ![](assets/new.png)  
-- [2022-11-08-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) ![](assets/new.png)  
 - [2022-11-08-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) ![](assets/new.png)  
+- [2022-11-08-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

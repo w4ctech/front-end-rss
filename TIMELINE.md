@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-08 13:22:37。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-08 14:01:57。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,10 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-08-23-届-校招前端开发求职](https://www.v2ex.com/t/893693) 
+- [【V2EX】2022-11-08-网易云音乐宕机了？](https://www.v2ex.com/t/893692) 
+- [【V2EX】2022-11-08-刚买没多久的-MAC-M2-AIR，使用-magsafe-充电的时候，闪烁黄色，这是咋回事？](https://www.v2ex.com/t/893691) 
+- [【V2EX】2022-11-08-大家双-11-买了啥显示器](https://www.v2ex.com/t/893687) 
 - [【V2EX】2022-11-08-Apple-ID-换区后原来购买的-app-会跟着转区吗？](https://www.v2ex.com/t/893686) 
 - [【V2EX】2022-11-08-想要润德国的，可以先从了解相关签证和工作许可知识开始](https://www.v2ex.com/t/893685) 
 - [【V2EX】2022-11-08-setstate-问题求助大佬](https://www.v2ex.com/t/893684) 
@@ -100,11 +104,6 @@
 - [【V2EX】2022-11-08-从今天开始，和我一起“不背单词”](https://www.v2ex.com/t/893646) 
 - [【V2EX】2022-11-08-灰色屏幕的一天](https://www.v2ex.com/t/893645) 
 - [【V2EX】2022-11-08-Stack-Overflow-开发者年度调查报告](https://www.v2ex.com/t/893644) 
-- [【V2EX】2022-11-08-今天你们都赚了多少](https://www.v2ex.com/t/893642) 
-- [【V2EX】2022-11-08-跪式设计了解下](https://www.v2ex.com/t/893641) 
-- [【V2EX】2022-11-08-求一个数据库导出-excel-的工具或方法](https://www.v2ex.com/t/893640) 
-- [【V2EX】2022-11-08-想回上海](https://www.v2ex.com/t/893639) 
-- [【V2EX】2022-11-08-推荐一个网页划线高亮笔记工具](https://www.v2ex.com/t/893637) 
 - [【技术头条】2022-11-08-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-08-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-08-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -131,8 +130,8 @@
 - [【开发者头条】2022-11-08-如何快速打造一个高性能数据库原型](https://toutiao.io/k/tkvf7rp) 
 - [【开发者头条】2022-11-08-万字详解数仓分层设计架构-ODS-DWD-DWS-ADS](https://toutiao.io/k/rwbg5v2) 
 - [【开发者头条】2022-11-08-从-0-到-1-教你写好系分](https://toutiao.io/k/ngju61q) 
-- [【开发者头条】2022-11-08-Vue3-+-Vant-开发微信公众号网页爬坑不完全指北](https://toutiao.io/k/2p8b4vg) 
 - [【开发者头条】2022-11-08-云音乐-iOS-端代码静态检测实践](https://toutiao.io/k/at8j88l) 
+- [【开发者头条】2022-11-08-Vue3-+-Vant-开发微信公众号网页爬坑不完全指北](https://toutiao.io/k/2p8b4vg) 
 - [【开发者头条】2022-11-08-划分需求优先级的三种方法](https://toutiao.io/k/uaz2o31) 
 - [【开发者头条】2022-11-08-基于-k8s-的发布系统的实现](https://toutiao.io/k/62uj8oo) 
 - [【开发者头条】2022-11-08-离职交接，心态要好](https://toutiao.io/k/yq7cat1) 
@@ -140,8 +139,8 @@
 - [【开发者头条】2022-11-08-浅谈数据：聊一聊数据分析中的一些基础统计学知识](https://toutiao.io/k/6ndw6sx) 
 - [【开发者头条】2022-11-08-利于集成的分支策略](https://toutiao.io/k/ktkaxbt) 
 - [【开发者头条】2022-11-08-Kaggle-知识点：12-种回归评价指标](https://toutiao.io/k/s937slo) 
-- [【开发者头条】2022-11-08-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) 
 - [【开发者头条】2022-11-08-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) 
+- [【开发者头条】2022-11-08-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

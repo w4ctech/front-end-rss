@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-08 20:43:02，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-08 21:15:04，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-11-08-UWP-回环怎么恢复出厂设置？](https://www.v2ex.com/t/893730) ![](assets/new.png)  
 - [2022-11-08-你们-lark-的销售人员能少打点骚扰电话吗？](https://www.v2ex.com/t/893729) ![](assets/new.png)  
 - [2022-11-08-今晚会见证历史吗?-第二个-luna](https://www.v2ex.com/t/893728) ![](assets/new.png)  
 - [2022-11-08-网易云黑胶-vip7-天-11-月五张，需要的自取](https://www.v2ex.com/t/893727) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-11-08-有没有-FFmpeg-大神，帮看个操作](https://www.v2ex.com/t/893713) ![](assets/new.png)  
 - [2022-11-08-最近访问网页断断续续出现证书错误，会指向-MIWIFI-SERVER-CERT](https://www.v2ex.com/t/893711) ![](assets/new.png)  
 - [2022-11-08-20221108-午夜俱乐部](https://www.v2ex.com/t/893709) ![](assets/new.png)  
-- [2022-11-08-用-Google-Sheet-炒股，分析公司财务也不是不行](https://www.v2ex.com/t/893708) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

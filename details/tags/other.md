@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-08 10:47:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-08 11:13:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1917,6 +1917,9 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-11-08-武汉电信宽带-上行速率终于可以升-100M-了！](https://www.v2ex.com/t/893658) 
+- [2022-11-08-zlibrary-没了，是时候配备>18T-硬盘了，宝贵的东西必须有冷备](https://www.v2ex.com/t/893656) 
+- [2022-11-08-IOS-国内目前用哪家的统计-sdk-比较多？](https://www.v2ex.com/t/893652) 
 - [2022-11-08-求推荐个-app-类似-Clear-的提醒事项](https://www.v2ex.com/t/893651) 
 - [2022-11-08-现在有没有什么软件/服务可以拨打网络电话的？目的是防拉黑](https://www.v2ex.com/t/893649) 
 - [2022-11-08-2022-年搭建一个对外服务的网站需要采购什么云计算服务？](https://www.v2ex.com/t/893648) 
@@ -1946,10 +1949,6 @@
 - [2022-11-08-MacBook-外接显示器问题](https://www.v2ex.com/t/893611) 
 - [2022-11-08-Linux-下-如何虚拟串口-1-进-2-出](https://www.v2ex.com/t/893610) 
 - [2022-11-08-最近剧荒了-刚看完唐朝诡事录，求推荐其他剧-英美剧-国产电视剧都可以-（浴血黑帮-绝命毒师-斯巴达克斯-权游-这些已看过了）](https://www.v2ex.com/t/893609) 
-- [2022-11-08-远程开发工作机会聚合，有少量产品经理工作机会](https://www.v2ex.com/t/893607) 
-- [2022-11-08-突发奇想用-option-+-字母输入数字键符号](https://www.v2ex.com/t/893606) 
-- [2022-11-08-性价比较高的运行-OpenVPN-的-Linux-硬件？](https://www.v2ex.com/t/893605) 
-- [2022-11-08-求职-深圳-5-年-Golang/2-年-C++](https://www.v2ex.com/t/893604) 
 - [2022-11-08-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-08-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-08-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-08 14:01:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-08 14:27:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1917,6 +1917,9 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-11-08-Corp.IT外企）-上海凌空-SOHO：-Java-Manager，-91-年-88-年，年薪-60W，英语流利](https://www.v2ex.com/t/893697) 
+- [2022-11-08-大容量-iPhone-备份还原真的超级慢](https://www.v2ex.com/t/893695) 
+- [2022-11-08-建议大家去看看自己的颈椎和腰椎！](https://www.v2ex.com/t/893694) 
 - [2022-11-08-23-届-校招前端开发求职](https://www.v2ex.com/t/893693) 
 - [2022-11-08-网易云音乐宕机了？](https://www.v2ex.com/t/893692) 
 - [2022-11-08-刚买没多久的-MAC-M2-AIR，使用-magsafe-充电的时候，闪烁黄色，这是咋回事？](https://www.v2ex.com/t/893691) 
@@ -1946,9 +1949,6 @@
 - [2022-11-08-求推荐个-app-类似-Clear-的提醒事项](https://www.v2ex.com/t/893651) 
 - [2022-11-08-现在有没有什么软件/服务可以拨打网络电话的？目的是防拉黑](https://www.v2ex.com/t/893649) 
 - [2022-11-08-2022-年搭建一个对外服务的网站需要采购什么云计算服务？](https://www.v2ex.com/t/893648) 
-- [2022-11-08-从今天开始，和我一起“不背单词”](https://www.v2ex.com/t/893646) 
-- [2022-11-08-灰色屏幕的一天](https://www.v2ex.com/t/893645) 
-- [2022-11-08-Stack-Overflow-开发者年度调查报告](https://www.v2ex.com/t/893644) 
 - [2022-11-08-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-08-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-08-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1978,5 +1978,5 @@
 - [2022-11-08-浅谈数据：聊一聊数据分析中的一些基础统计学知识](https://toutiao.io/k/6ndw6sx) 
 - [2022-11-08-利于集成的分支策略](https://toutiao.io/k/ktkaxbt) 
 - [2022-11-08-Kaggle-知识点：12-种回归评价指标](https://toutiao.io/k/s937slo) 
-- [2022-11-08-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) 
 - [2022-11-08-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) 
+- [2022-11-08-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) 

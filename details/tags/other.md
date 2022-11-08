@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-08 21:15:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-08 21:39:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1917,6 +1917,7 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-11-08-本来以为生成器了解的差不多了，结果这段代码把我看懵了](https://www.v2ex.com/t/893731) 
 - [2022-11-08-UWP-回环怎么恢复出厂设置？](https://www.v2ex.com/t/893730) 
 - [2022-11-08-你们-lark-的销售人员能少打点骚扰电话吗？](https://www.v2ex.com/t/893729) 
 - [2022-11-08-今晚会见证历史吗?-第二个-luna](https://www.v2ex.com/t/893728) 
@@ -1957,7 +1958,6 @@
 - [2022-11-08-setstate-问题求助大佬](https://www.v2ex.com/t/893684) 
 - [2022-11-08-与时同行-“云寄-•-时光邮局”|-我和我朋友的一个想法](https://www.v2ex.com/t/893683) 
 - [2022-11-08-老哥们有没有-fn1、fn2-映射快捷键的一键切换方式呢？](https://www.v2ex.com/t/893682) 
-- [2022-11-08-求问-qBittorrent-为何下-PT-及种子均无法下载（状态显示-未联系）](https://www.v2ex.com/t/893681) 
 - [2022-11-08-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-08-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-08-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1987,5 +1987,5 @@
 - [2022-11-08-浅谈数据：聊一聊数据分析中的一些基础统计学知识](https://toutiao.io/k/6ndw6sx) 
 - [2022-11-08-利于集成的分支策略](https://toutiao.io/k/ktkaxbt) 
 - [2022-11-08-Kaggle-知识点：12-种回归评价指标](https://toutiao.io/k/s937slo) 
-- [2022-11-08-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) 
 - [2022-11-08-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) 
+- [2022-11-08-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) 

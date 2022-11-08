@@ -1,10 +1,15 @@
-:alarm_clock: 更新时间: 2022-11-08 08:20:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-08 08:49:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-11-08-雅迪电动自行车-DE2-值得买吗？](https://www.v2ex.com/t/893615) 
+- [2022-11-08-Windows-也支持只能充电了？](https://www.v2ex.com/t/893614) 
+- [2022-11-08-当回到家，-Wi-Fi-通话自动打开后，蜂窝网络的耗电量会自动降低吗？](https://www.v2ex.com/t/893613) 
+- [2022-11-08-MacBook-外接显示器问题](https://www.v2ex.com/t/893611) 
+- [2022-11-08-Linux-下-如何虚拟串口-1-进-2-出](https://www.v2ex.com/t/893610) 
 - [2022-11-08-最近剧荒了-刚看完唐朝诡事录，求推荐其他剧-英美剧-国产电视剧都可以-（浴血黑帮-绝命毒师-斯巴达克斯-权游-这些已看过了）](https://www.v2ex.com/t/893609) 
 - [2022-11-08-远程开发工作机会聚合，有少量产品经理工作机会](https://www.v2ex.com/t/893607) 
 - [2022-11-08-突发奇想用-option-+-字母输入数字键符号](https://www.v2ex.com/t/893606) 
@@ -33,8 +38,3 @@
 - [2022-11-08-日经贴，帮忙看看攒机配置？感谢！](https://www.v2ex.com/t/893569) 
 - [2022-11-08-m2-mba-有碰到爆音的朋友吗？](https://www.v2ex.com/t/893568) 
 - [2022-11-08-openwrt-重启后跟-lan-口的路由器-ip-冲突，咋搞？](https://www.v2ex.com/t/893566) 
-- [2022-11-08-iOS-上-App-Store-更新问题](https://www.v2ex.com/t/893565) 
-- [2022-11-08-Win11-22H2-空闲几分钟后-Systemntoskrnl进程持续占用百分之-20CPU](https://www.v2ex.com/t/893564) 
-- [2022-11-08-CupertinoPageRoute-滑动返回后，操作延时的-Bug](https://www.v2ex.com/t/893563) 
-- [2022-11-08-iPhone-跟-Mac-的-Wi-Fi-自动加入问题](https://www.v2ex.com/t/893561) 
-- [2022-11-08-AirPods-空间音频的追踪头部是怎么用的，感觉就是一边声音大一边声音小，头偏向哪边哪边声音就大，有什么实际用途吗？](https://www.v2ex.com/t/893560) 

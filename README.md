@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-08 08:20:52，:rocket: 更新条数: +2016， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-08 08:49:13，:rocket: 更新条数: +2016， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-11-08-雅迪电动自行车-DE2-值得买吗？](https://www.v2ex.com/t/893615) ![](assets/new.png)  
+- [2022-11-08-Windows-也支持只能充电了？](https://www.v2ex.com/t/893614) ![](assets/new.png)  
+- [2022-11-08-当回到家，-Wi-Fi-通话自动打开后，蜂窝网络的耗电量会自动降低吗？](https://www.v2ex.com/t/893613) ![](assets/new.png)  
+- [2022-11-08-MacBook-外接显示器问题](https://www.v2ex.com/t/893611) ![](assets/new.png)  
+- [2022-11-08-Linux-下-如何虚拟串口-1-进-2-出](https://www.v2ex.com/t/893610) ![](assets/new.png)  
 - [2022-11-08-最近剧荒了-刚看完唐朝诡事录，求推荐其他剧-英美剧-国产电视剧都可以-（浴血黑帮-绝命毒师-斯巴达克斯-权游-这些已看过了）](https://www.v2ex.com/t/893609) ![](assets/new.png)  
 - [2022-11-08-远程开发工作机会聚合，有少量产品经理工作机会](https://www.v2ex.com/t/893607) ![](assets/new.png)  
 - [2022-11-08-突发奇想用-option-+-字母输入数字键符号](https://www.v2ex.com/t/893606) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-11-08-电脑小白求助，想自己组一台电脑。](https://www.v2ex.com/t/893592) ![](assets/new.png)  
 - [2022-11-08-我给做外贸的家人做的尺码表生成工具升级了](https://www.v2ex.com/t/893590) ![](assets/new.png)  
 - [2022-11-08-工单系统求推荐](https://www.v2ex.com/t/893588) ![](assets/new.png)  
-- [2022-11-08-Macbook-Pro-16-M1-pro-能同时输出-3-台-4K-60hz-的显示器吗？-那-M1-Max-呢](https://www.v2ex.com/t/893586) ![](assets/new.png)  
-- [2022-11-08-Alfred-eject-workflow-求分享](https://www.v2ex.com/t/893583) ![](assets/new.png)  
-- [2022-11-08-EPOLL](https://www.v2ex.com/t/893582) ![](assets/new.png)  
-- [2022-11-08-Storm-Sniffer-抓包-App-开车](https://www.v2ex.com/t/893579) ![](assets/new.png)  
-- [2022-11-08-Kubernetes-多集群管理，基于-tekton-二次开发-CICD](https://www.v2ex.com/t/893578) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-08 08:20:52。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-08 08:49:13。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,11 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-08-雅迪电动自行车-DE2-值得买吗？](https://www.v2ex.com/t/893615) 
+- [【V2EX】2022-11-08-Windows-也支持只能充电了？](https://www.v2ex.com/t/893614) 
+- [【V2EX】2022-11-08-当回到家，-Wi-Fi-通话自动打开后，蜂窝网络的耗电量会自动降低吗？](https://www.v2ex.com/t/893613) 
+- [【V2EX】2022-11-08-MacBook-外接显示器问题](https://www.v2ex.com/t/893611) 
+- [【V2EX】2022-11-08-Linux-下-如何虚拟串口-1-进-2-出](https://www.v2ex.com/t/893610) 
 - [【V2EX】2022-11-08-最近剧荒了-刚看完唐朝诡事录，求推荐其他剧-英美剧-国产电视剧都可以-（浴血黑帮-绝命毒师-斯巴达克斯-权游-这些已看过了）](https://www.v2ex.com/t/893609) 
 - [【V2EX】2022-11-08-远程开发工作机会聚合，有少量产品经理工作机会](https://www.v2ex.com/t/893607) 
 - [【V2EX】2022-11-08-突发奇想用-option-+-字母输入数字键符号](https://www.v2ex.com/t/893606) 
@@ -98,11 +103,6 @@
 - [【V2EX】2022-11-08-日经贴，帮忙看看攒机配置？感谢！](https://www.v2ex.com/t/893569) 
 - [【V2EX】2022-11-08-m2-mba-有碰到爆音的朋友吗？](https://www.v2ex.com/t/893568) 
 - [【V2EX】2022-11-08-openwrt-重启后跟-lan-口的路由器-ip-冲突，咋搞？](https://www.v2ex.com/t/893566) 
-- [【V2EX】2022-11-08-iOS-上-App-Store-更新问题](https://www.v2ex.com/t/893565) 
-- [【V2EX】2022-11-08-Win11-22H2-空闲几分钟后-Systemntoskrnl进程持续占用百分之-20CPU](https://www.v2ex.com/t/893564) 
-- [【V2EX】2022-11-08-CupertinoPageRoute-滑动返回后，操作延时的-Bug](https://www.v2ex.com/t/893563) 
-- [【V2EX】2022-11-08-iPhone-跟-Mac-的-Wi-Fi-自动加入问题](https://www.v2ex.com/t/893561) 
-- [【V2EX】2022-11-08-AirPods-空间音频的追踪头部是怎么用的，感觉就是一边声音大一边声音小，头偏向哪边哪边声音就大，有什么实际用途吗？](https://www.v2ex.com/t/893560) 
 - [【技术头条】2022-11-08-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-08-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-08-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-07 23:44:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-08 01:07:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -9,6 +9,4 @@
 
 - [2022-11-07-istio-的主要问题是资源消耗，次要问题是基本只支持-HTTP](https://www.v2ex.com/t/893464) 
 - [2022-11-07-如何让-NAT-走指定的公网出口，或如何伪造发起-http-的-IP](https://www.v2ex.com/t/893458) 
-- [2022-11-07-基于AI算法的数据库异常监测系统的设计与实现-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15390&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F09%2F01%2Fdatabase-monitoring-based-on-ai.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [2022-11-07-经典的目标检测算法：CenterNet](https://toutiao.io/k/wxuzrud) 
-- [2022-11-07-京东二面：ElasticSearch-如何解决深分页问题？](https://toutiao.io/k/i5615h2) 
+- [2022-11-08-基于AI算法的数据库异常监测系统的设计与实现-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15390&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F09%2F01%2Fdatabase-monitoring-based-on-ai.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-07 23:44:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-08 01:07:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -8,6 +8,4 @@
 
 
 - [2022-11-07-SEO-求助，价格好说](https://www.v2ex.com/t/893456) 
-- [2022-11-07-Java-语言性能技术（读书之-Java-性能优化实践-第-11-章）](https://toutiao.io/k/m5s3eq6) 
-- [2022-11-07-IM-消息-ID-技术专题（七）：网易严选分布式-ID-的技术选型、优化、落地实践](https://toutiao.io/k/xhse1l1) 
-- [2022-11-07-大麦-Android-选座场景性能优化全解析](https://toutiao.io/k/9vm9s9o) 
+- [2022-11-08-如何快速打造一个高性能数据库原型](https://toutiao.io/k/tkvf7rp) 

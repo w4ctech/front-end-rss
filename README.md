@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-08 11:13:07，:rocket: 更新条数: +2020， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-08 11:38:50，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-11-08-一台显示器，两台运行着的电脑，能否做到快速切换，一台-windows，一台-Linux-系统](https://www.v2ex.com/t/893661) ![](assets/new.png)  
+- [2022-11-08-美区苹果-id-赠送-app-不能用-paypal-付款么？](https://www.v2ex.com/t/893659) ![](assets/new.png)  
 - [2022-11-08-武汉电信宽带-上行速率终于可以升-100M-了！](https://www.v2ex.com/t/893658) ![](assets/new.png)  
 - [2022-11-08-zlibrary-没了，是时候配备>18T-硬盘了，宝贵的东西必须有冷备](https://www.v2ex.com/t/893656) ![](assets/new.png)  
 - [2022-11-08-IOS-国内目前用哪家的统计-sdk-比较多？](https://www.v2ex.com/t/893652) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-11-08-5000-大洋买了个-nvme-的固态盘，肉疼](https://www.v2ex.com/t/893636) ![](assets/new.png)  
 - [2022-11-08-每天通勤都好累](https://www.v2ex.com/t/893635) ![](assets/new.png)  
 - [2022-11-08-松江月厦新天地公寓出租](https://www.v2ex.com/t/893634) ![](assets/new.png)  
-- [2022-11-08-分享我家的三只猫猫～（测试一下怎么直接显示图片，顺便把狗骗进来杀）](https://www.v2ex.com/t/893633) ![](assets/new.png)  
-- [2022-11-08-有用过广电视讯宽带的吗?100Mbps-对等400-元/年](https://www.v2ex.com/t/893632) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -561,15 +561,15 @@
 - [2022-11-08-从-0-到-1-教你写好系分](https://toutiao.io/k/ngju61q) ![](assets/new.png)  
 - [2022-11-08-Vue3-+-Vant-开发微信公众号网页爬坑不完全指北](https://toutiao.io/k/2p8b4vg) ![](assets/new.png)  
 - [2022-11-08-划分需求优先级的三种方法](https://toutiao.io/k/uaz2o31) ![](assets/new.png)  
-- [2022-11-08-云音乐-iOS-端代码静态检测实践](https://toutiao.io/k/at8j88l) ![](assets/new.png)  
 - [2022-11-08-基于-k8s-的发布系统的实现](https://toutiao.io/k/62uj8oo) ![](assets/new.png)  
+- [2022-11-08-云音乐-iOS-端代码静态检测实践](https://toutiao.io/k/at8j88l) ![](assets/new.png)  
 - [2022-11-08-离职交接，心态要好](https://toutiao.io/k/yq7cat1) ![](assets/new.png)  
 - [2022-11-08-再来一次，新技术搞定老业务「GitHub-热点速览-v.22.44」](https://toutiao.io/k/kfjshll) ![](assets/new.png)  
 - [2022-11-08-浅谈数据：聊一聊数据分析中的一些基础统计学知识](https://toutiao.io/k/6ndw6sx) ![](assets/new.png)  
 - [2022-11-08-利于集成的分支策略](https://toutiao.io/k/ktkaxbt) ![](assets/new.png)  
 - [2022-11-08-Kaggle-知识点：12-种回归评价指标](https://toutiao.io/k/s937slo) ![](assets/new.png)  
-- [2022-11-08-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) ![](assets/new.png)  
 - [2022-11-08-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) ![](assets/new.png)  
+- [2022-11-08-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

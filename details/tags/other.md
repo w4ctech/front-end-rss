@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-08 11:13:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-08 11:38:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1917,6 +1917,8 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-11-08-一台显示器，两台运行着的电脑，能否做到快速切换，一台-windows，一台-Linux-系统](https://www.v2ex.com/t/893661) 
+- [2022-11-08-美区苹果-id-赠送-app-不能用-paypal-付款么？](https://www.v2ex.com/t/893659) 
 - [2022-11-08-武汉电信宽带-上行速率终于可以升-100M-了！](https://www.v2ex.com/t/893658) 
 - [2022-11-08-zlibrary-没了，是时候配备>18T-硬盘了，宝贵的东西必须有冷备](https://www.v2ex.com/t/893656) 
 - [2022-11-08-IOS-国内目前用哪家的统计-sdk-比较多？](https://www.v2ex.com/t/893652) 
@@ -1946,9 +1948,6 @@
 - [2022-11-08-雅迪电动自行车-DE2-值得买吗？](https://www.v2ex.com/t/893615) 
 - [2022-11-08-Windows-也支持只能充电了？](https://www.v2ex.com/t/893614) 
 - [2022-11-08-当回到家，-Wi-Fi-通话自动打开后，蜂窝网络的耗电量会自动降低吗？](https://www.v2ex.com/t/893613) 
-- [2022-11-08-MacBook-外接显示器问题](https://www.v2ex.com/t/893611) 
-- [2022-11-08-Linux-下-如何虚拟串口-1-进-2-出](https://www.v2ex.com/t/893610) 
-- [2022-11-08-最近剧荒了-刚看完唐朝诡事录，求推荐其他剧-英美剧-国产电视剧都可以-（浴血黑帮-绝命毒师-斯巴达克斯-权游-这些已看过了）](https://www.v2ex.com/t/893609) 
 - [2022-11-08-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-08-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-08-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1972,11 +1971,11 @@
 - [2022-11-08-万字详解数仓分层设计架构-ODS-DWD-DWS-ADS](https://toutiao.io/k/rwbg5v2) 
 - [2022-11-08-从-0-到-1-教你写好系分](https://toutiao.io/k/ngju61q) 
 - [2022-11-08-划分需求优先级的三种方法](https://toutiao.io/k/uaz2o31) 
-- [2022-11-08-云音乐-iOS-端代码静态检测实践](https://toutiao.io/k/at8j88l) 
 - [2022-11-08-基于-k8s-的发布系统的实现](https://toutiao.io/k/62uj8oo) 
+- [2022-11-08-云音乐-iOS-端代码静态检测实践](https://toutiao.io/k/at8j88l) 
 - [2022-11-08-离职交接，心态要好](https://toutiao.io/k/yq7cat1) 
 - [2022-11-08-浅谈数据：聊一聊数据分析中的一些基础统计学知识](https://toutiao.io/k/6ndw6sx) 
 - [2022-11-08-利于集成的分支策略](https://toutiao.io/k/ktkaxbt) 
 - [2022-11-08-Kaggle-知识点：12-种回归评价指标](https://toutiao.io/k/s937slo) 
-- [2022-11-08-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) 
 - [2022-11-08-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) 
+- [2022-11-08-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) 

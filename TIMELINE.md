@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-08 16:19:56。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-08 17:04:22。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,10 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-08-秋招结束后应该干点啥？](https://www.v2ex.com/t/893721) 
+- [【V2EX】2022-11-08-触控板-Command-+-Click-问题还在，-ventura13.0、m2-MacBookair](https://www.v2ex.com/t/893720) 
+- [【V2EX】2022-11-08-请教-Apple-ID-用的不是-icloud-邮箱，怎么查看-iCloud-邮箱密码？](https://www.v2ex.com/t/893719) 
+- [【V2EX】2022-11-08-印象笔记加密内容变成图片](https://www.v2ex.com/t/893718) 
 - [【V2EX】2022-11-08-国产-AirPods-Pro-2-遇上个奇怪的-bug](https://www.v2ex.com/t/893717) 
 - [【V2EX】2022-11-08-2022-年怎么入门小程序？原生？-uniapp?taro?-求助帖](https://www.v2ex.com/t/893716) 
 - [【V2EX】2022-11-08-有没什么能把-joplin-笔记的元信息插入到正文末尾](https://www.v2ex.com/t/893715) 
@@ -105,9 +109,6 @@
 - [【V2EX】2022-11-08-大家-iOS-上用什么骚扰拦截](https://www.v2ex.com/t/893676) 
 - [【V2EX】2022-11-08-有无懂哥试过静态编译或者尽可能静态编译-openresty](https://www.v2ex.com/t/893674) 
 - [【V2EX】2022-11-08-写了个爬取-Quora-生成公众号文章的程序，它还可以用来干什么？](https://www.v2ex.com/t/893672) 
-- [【V2EX】2022-11-08-14-寸-m1-pro-的续航为啥只有-7-小时](https://www.v2ex.com/t/893671) 
-- [【V2EX】2022-11-08-Pod-有两个容器，如果能让容器-A-可以使用容器-B-里面的命令](https://www.v2ex.com/t/893669) 
-- [【V2EX】2022-11-08-月全食！你们看到了吗？](https://www.v2ex.com/t/893668) 
 - [【技术头条】2022-11-08-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-08-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-08-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -143,8 +144,8 @@
 - [【开发者头条】2022-11-08-浅谈数据：聊一聊数据分析中的一些基础统计学知识](https://toutiao.io/k/6ndw6sx) 
 - [【开发者头条】2022-11-08-利于集成的分支策略](https://toutiao.io/k/ktkaxbt) 
 - [【开发者头条】2022-11-08-Kaggle-知识点：12-种回归评价指标](https://toutiao.io/k/s937slo) 
-- [【开发者头条】2022-11-08-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) 
 - [【开发者头条】2022-11-08-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) 
+- [【开发者头条】2022-11-08-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

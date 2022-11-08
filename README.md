@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-08 16:19:56，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-08 17:04:22，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-11-08-秋招结束后应该干点啥？](https://www.v2ex.com/t/893721) ![](assets/new.png)  
+- [2022-11-08-触控板-Command-+-Click-问题还在，-ventura13.0、m2-MacBookair](https://www.v2ex.com/t/893720) ![](assets/new.png)  
+- [2022-11-08-请教-Apple-ID-用的不是-icloud-邮箱，怎么查看-iCloud-邮箱密码？](https://www.v2ex.com/t/893719) ![](assets/new.png)  
+- [2022-11-08-印象笔记加密内容变成图片](https://www.v2ex.com/t/893718) ![](assets/new.png)  
 - [2022-11-08-国产-AirPods-Pro-2-遇上个奇怪的-bug](https://www.v2ex.com/t/893717) ![](assets/new.png)  
 - [2022-11-08-2022-年怎么入门小程序？原生？-uniapp?taro?-求助帖](https://www.v2ex.com/t/893716) ![](assets/new.png)  
 - [2022-11-08-有没什么能把-joplin-笔记的元信息插入到正文末尾](https://www.v2ex.com/t/893715) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-11-08-上海幼升小给我整-emo-了](https://www.v2ex.com/t/893702) ![](assets/new.png)  
 - [2022-11-08-Linux-下有什么工具可以给整个文件夹生成一个-SHA256，像-7z-Windows-版一样，方便比较两个文件夹内容是否完全相同？](https://www.v2ex.com/t/893701) ![](assets/new.png)  
 - [2022-11-08-iPhone-通知中心不显示提醒](https://www.v2ex.com/t/893700) ![](assets/new.png)  
-- [2022-11-08-大家做登录认证用的是-SpringSession-还是-token？说下用和不用的理由](https://www.v2ex.com/t/893698) ![](assets/new.png)  
-- [2022-11-08-Corp.IT外企）-上海凌空-SOHO：-Java-Manager，-91-年-88-年，年薪-60W，英语流利](https://www.v2ex.com/t/893697) ![](assets/new.png)  
-- [2022-11-08-招聘安服工程师一名](https://www.v2ex.com/t/893696) ![](assets/new.png)  
-- [2022-11-08-大容量-iPhone-备份还原真的超级慢](https://www.v2ex.com/t/893695) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -568,8 +568,8 @@
 - [2022-11-08-浅谈数据：聊一聊数据分析中的一些基础统计学知识](https://toutiao.io/k/6ndw6sx) ![](assets/new.png)  
 - [2022-11-08-利于集成的分支策略](https://toutiao.io/k/ktkaxbt) ![](assets/new.png)  
 - [2022-11-08-Kaggle-知识点：12-种回归评价指标](https://toutiao.io/k/s937slo) ![](assets/new.png)  
-- [2022-11-08-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) ![](assets/new.png)  
 - [2022-11-08-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) ![](assets/new.png)  
+- [2022-11-08-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

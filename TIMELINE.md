@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-08 18:18:36。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-08 18:58:26。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,7 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-08-各位-AWS-需要折扣的可以找我](https://www.v2ex.com/t/893725) 
 - [【V2EX】2022-11-08-收费帮人制作抢购脚本有法律风险吗？](https://www.v2ex.com/t/893724) 
 - [【V2EX】2022-11-08-为什么-List-可以转成-Stream-而-map-和-set-不能转成-Stream？](https://www.v2ex.com/t/893723) 
 - [【V2EX】2022-11-08-如何下载电报频道里不能保存，也不能转发的影片？](https://www.v2ex.com/t/893722) 

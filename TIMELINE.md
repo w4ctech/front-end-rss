@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-08 09:41:13。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-08 10:16:17。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,14 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-08-Stack-Overflow-开发者年度调查报告](https://www.v2ex.com/t/893644) 
+- [【V2EX】2022-11-08-看到隔壁远离国产软件帖子，啥证据没有，就说有问题，结果一看大部分人还同意,-还一本正经发个图说什么链接动态库获取-root-权限，笑尿了。这真的是六爷吃两碗粉...](https://www.v2ex.com/t/893643) 
+- [【V2EX】2022-11-08-今天你们都赚了多少](https://www.v2ex.com/t/893642) 
+- [【V2EX】2022-11-08-跪式设计了解下](https://www.v2ex.com/t/893641) 
+- [【V2EX】2022-11-08-求一个数据库导出-excel-的工具或方法](https://www.v2ex.com/t/893640) 
+- [【V2EX】2022-11-08-想回上海](https://www.v2ex.com/t/893639) 
+- [【V2EX】2022-11-08-推荐一个网页划线高亮笔记工具](https://www.v2ex.com/t/893637) 
+- [【V2EX】2022-11-08-5000-大洋买了个-nvme-的固态盘，肉疼](https://www.v2ex.com/t/893636) 
 - [【V2EX】2022-11-08-每天通勤都好累](https://www.v2ex.com/t/893635) 
 - [【V2EX】2022-11-08-松江月厦新天地公寓出租](https://www.v2ex.com/t/893634) 
 - [【V2EX】2022-11-08-分享我家的三只猫猫～（测试一下怎么直接显示图片，顺便把狗骗进来杀）](https://www.v2ex.com/t/893633) 
@@ -101,11 +109,6 @@
 - [【V2EX】2022-11-08-请问有无网页客服聊天系统可支持转发消息到微信的。](https://www.v2ex.com/t/893597) 
 - [【V2EX】2022-11-08-pdd-百-Y-补贴多人团的公众号或者是机器人有人做吗？](https://www.v2ex.com/t/893596) 
 - [【V2EX】2022-11-08-Express.js-生成一次性下载链接](https://www.v2ex.com/t/893595) 
-- [【V2EX】2022-11-08-英伟达-NVIDIA-上海-自动驾驶软件经理](https://www.v2ex.com/t/893593) 
-- [【V2EX】2022-11-08-电脑小白求助，想自己组一台电脑。](https://www.v2ex.com/t/893592) 
-- [【V2EX】2022-11-08-我给做外贸的家人做的尺码表生成工具升级了](https://www.v2ex.com/t/893590) 
-- [【V2EX】2022-11-08-工单系统求推荐](https://www.v2ex.com/t/893588) 
-- [【V2EX】2022-11-08-Macbook-Pro-16-M1-pro-能同时输出-3-台-4K-60hz-的显示器吗？-那-M1-Max-呢](https://www.v2ex.com/t/893586) 
 - [【技术头条】2022-11-08-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-08-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-08-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -141,8 +144,8 @@
 - [【开发者头条】2022-11-08-浅谈数据：聊一聊数据分析中的一些基础统计学知识](https://toutiao.io/k/6ndw6sx) 
 - [【开发者头条】2022-11-08-利于集成的分支策略](https://toutiao.io/k/ktkaxbt) 
 - [【开发者头条】2022-11-08-Kaggle-知识点：12-种回归评价指标](https://toutiao.io/k/s937slo) 
-- [【开发者头条】2022-11-08-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) 
 - [【开发者头条】2022-11-08-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) 
+- [【开发者头条】2022-11-08-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

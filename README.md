@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-08 09:41:13，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-08 10:16:17，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,14 @@
 </summary>
 
 
+- [2022-11-08-Stack-Overflow-开发者年度调查报告](https://www.v2ex.com/t/893644) ![](assets/new.png)  
+- [2022-11-08-看到隔壁远离国产软件帖子，啥证据没有，就说有问题，结果一看大部分人还同意,-还一本正经发个图说什么链接动态库获取-root-权限，笑尿了。这真的是六爷吃两碗粉...](https://www.v2ex.com/t/893643) ![](assets/new.png)  
+- [2022-11-08-今天你们都赚了多少](https://www.v2ex.com/t/893642) ![](assets/new.png)  
+- [2022-11-08-跪式设计了解下](https://www.v2ex.com/t/893641) ![](assets/new.png)  
+- [2022-11-08-求一个数据库导出-excel-的工具或方法](https://www.v2ex.com/t/893640) ![](assets/new.png)  
+- [2022-11-08-想回上海](https://www.v2ex.com/t/893639) ![](assets/new.png)  
+- [2022-11-08-推荐一个网页划线高亮笔记工具](https://www.v2ex.com/t/893637) ![](assets/new.png)  
+- [2022-11-08-5000-大洋买了个-nvme-的固态盘，肉疼](https://www.v2ex.com/t/893636) ![](assets/new.png)  
 - [2022-11-08-每天通勤都好累](https://www.v2ex.com/t/893635) ![](assets/new.png)  
 - [2022-11-08-松江月厦新天地公寓出租](https://www.v2ex.com/t/893634) ![](assets/new.png)  
 - [2022-11-08-分享我家的三只猫猫～（测试一下怎么直接显示图片，顺便把狗骗进来杀）](https://www.v2ex.com/t/893633) ![](assets/new.png)  
@@ -503,14 +511,6 @@
 - [2022-11-08-（全职远程招聘）高级-IOS、安全测试工程师、移动端播放器开发工程师、区块链市场专员](https://www.v2ex.com/t/893624) ![](assets/new.png)  
 - [2022-11-08-求一段-PHP-代码，可把-vps-文件夹内-mp3-文件转换为-podcast](https://www.v2ex.com/t/893622) ![](assets/new.png)  
 - [2022-11-08-k8s-port-forward-开放的端口在集群外是不能访问的吗？](https://www.v2ex.com/t/893620) ![](assets/new.png)  
-- [2022-11-08-ahk-的脚本好难写啊](https://www.v2ex.com/t/893618) ![](assets/new.png)  
-- [2022-11-08-请教：-115-网盘在线观看视频是否可以切换音轨？](https://www.v2ex.com/t/893617) ![](assets/new.png)  
-- [2022-11-08-Apple:您的手机经过非授权改装，-Apple-不予维修。](https://www.v2ex.com/t/893616) ![](assets/new.png)  
-- [2022-11-08-雅迪电动自行车-DE2-值得买吗？](https://www.v2ex.com/t/893615) ![](assets/new.png)  
-- [2022-11-08-Windows-也支持只能充电了？](https://www.v2ex.com/t/893614) ![](assets/new.png)  
-- [2022-11-08-当回到家，-Wi-Fi-通话自动打开后，蜂窝网络的耗电量会自动降低吗？](https://www.v2ex.com/t/893613) ![](assets/new.png)  
-- [2022-11-08-MacBook-外接显示器问题](https://www.v2ex.com/t/893611) ![](assets/new.png)  
-- [2022-11-08-Linux-下-如何虚拟串口-1-进-2-出](https://www.v2ex.com/t/893610) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -568,8 +568,8 @@
 - [2022-11-08-浅谈数据：聊一聊数据分析中的一些基础统计学知识](https://toutiao.io/k/6ndw6sx) ![](assets/new.png)  
 - [2022-11-08-利于集成的分支策略](https://toutiao.io/k/ktkaxbt) ![](assets/new.png)  
 - [2022-11-08-Kaggle-知识点：12-种回归评价指标](https://toutiao.io/k/s937slo) ![](assets/new.png)  
-- [2022-11-08-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) ![](assets/new.png)  
 - [2022-11-08-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) ![](assets/new.png)  
+- [2022-11-08-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

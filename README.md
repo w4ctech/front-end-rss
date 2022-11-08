@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-08 10:16:17，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-08 10:47:25，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-11-08-求推荐个-app-类似-Clear-的提醒事项](https://www.v2ex.com/t/893651) ![](assets/new.png)  
+- [2022-11-08-现在有没有什么软件/服务可以拨打网络电话的？目的是防拉黑](https://www.v2ex.com/t/893649) ![](assets/new.png)  
+- [2022-11-08-2022-年搭建一个对外服务的网站需要采购什么云计算服务？](https://www.v2ex.com/t/893648) ![](assets/new.png)  
+- [2022-11-08-从今天开始，和我一起“不背单词”](https://www.v2ex.com/t/893646) ![](assets/new.png)  
+- [2022-11-08-灰色屏幕的一天](https://www.v2ex.com/t/893645) ![](assets/new.png)  
 - [2022-11-08-Stack-Overflow-开发者年度调查报告](https://www.v2ex.com/t/893644) ![](assets/new.png)  
 - [2022-11-08-看到隔壁远离国产软件帖子，啥证据没有，就说有问题，结果一看大部分人还同意,-还一本正经发个图说什么链接动态库获取-root-权限，笑尿了。这真的是六爷吃两碗粉...](https://www.v2ex.com/t/893643) ![](assets/new.png)  
 - [2022-11-08-今天你们都赚了多少](https://www.v2ex.com/t/893642) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-11-08-求问-vue-有没有优秀的-ios/android-跨端方案，不用小程序，甚至不用-h5](https://www.v2ex.com/t/893631) ![](assets/new.png)  
 - [2022-11-08-成都这边有一起拼车买-ATV-的吗？](https://www.v2ex.com/t/893629) ![](assets/new.png)  
 - [2022-11-08-Linux-多-IP-多网关分流](https://www.v2ex.com/t/893627) ![](assets/new.png)  
-- [2022-11-08-原来-MSVC-已经提供-128bit-整型的支持了](https://www.v2ex.com/t/893626) ![](assets/new.png)  
-- [2022-11-08-MIUI13-下横竖屏转换-Chrome-会自动刷新一次，是新特性还是-bug？](https://www.v2ex.com/t/893625) ![](assets/new.png)  
-- [2022-11-08-（全职远程招聘）高级-IOS、安全测试工程师、移动端播放器开发工程师、区块链市场专员](https://www.v2ex.com/t/893624) ![](assets/new.png)  
-- [2022-11-08-求一段-PHP-代码，可把-vps-文件夹内-mp3-文件转换为-podcast](https://www.v2ex.com/t/893622) ![](assets/new.png)  
-- [2022-11-08-k8s-port-forward-开放的端口在集群外是不能访问的吗？](https://www.v2ex.com/t/893620) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -561,8 +561,8 @@
 - [2022-11-08-从-0-到-1-教你写好系分](https://toutiao.io/k/ngju61q) ![](assets/new.png)  
 - [2022-11-08-Vue3-+-Vant-开发微信公众号网页爬坑不完全指北](https://toutiao.io/k/2p8b4vg) ![](assets/new.png)  
 - [2022-11-08-划分需求优先级的三种方法](https://toutiao.io/k/uaz2o31) ![](assets/new.png)  
-- [2022-11-08-基于-k8s-的发布系统的实现](https://toutiao.io/k/62uj8oo) ![](assets/new.png)  
 - [2022-11-08-云音乐-iOS-端代码静态检测实践](https://toutiao.io/k/at8j88l) ![](assets/new.png)  
+- [2022-11-08-基于-k8s-的发布系统的实现](https://toutiao.io/k/62uj8oo) ![](assets/new.png)  
 - [2022-11-08-离职交接，心态要好](https://toutiao.io/k/yq7cat1) ![](assets/new.png)  
 - [2022-11-08-再来一次，新技术搞定老业务「GitHub-热点速览-v.22.44」](https://toutiao.io/k/kfjshll) ![](assets/new.png)  
 - [2022-11-08-浅谈数据：聊一聊数据分析中的一些基础统计学知识](https://toutiao.io/k/6ndw6sx) ![](assets/new.png)  

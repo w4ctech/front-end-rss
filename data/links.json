@@ -9953,6 +9953,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "最近访问网页断断续续出现证书错误，会指向 MIWIFI SERVER CERT",
+        "link": "https://www.v2ex.com/t/893711",
+        "date": "2022-11-08"
+      },
+      {
         "title": "20221108 午夜俱乐部",
         "link": "https://www.v2ex.com/t/893709",
         "date": "2022-11-08"
@@ -10140,11 +10145,6 @@
       {
         "title": "新人第一次发帖 想请问下有没有在游戏公司做引擎、图程类工作的大佬，这方面目前市场如何",
         "link": "https://www.v2ex.com/t/893662",
-        "date": "2022-11-08"
-      },
-      {
-        "title": "一台显示器，两台运行着的电脑，能否做到快速切换，一台 windows，一台 Linux 系统",
-        "link": "https://www.v2ex.com/t/893661",
         "date": "2022-11-08"
       }
     ]
@@ -10337,13 +10337,13 @@
         "date": "2022-11-08"
       },
       {
-        "title": "[推荐] 如何画出一张优秀的架构图？（老鸟必备）",
-        "link": "https://toutiao.io/k/xiqybrh",
+        "title": "[推荐] 新来个技术总监，仅花 2 小时，撸出一个多线程永动任务，看完直接跪了，真牛逼",
+        "link": "https://toutiao.io/k/6u3q7ke",
         "date": "2022-11-08"
       },
       {
-        "title": "[推荐] 新来个技术总监，仅花 2 小时，撸出一个多线程永动任务，看完直接跪了，真牛逼",
-        "link": "https://toutiao.io/k/6u3q7ke",
+        "title": "[推荐] 如何画出一张优秀的架构图？（老鸟必备）",
+        "link": "https://toutiao.io/k/xiqybrh",
         "date": "2022-11-08"
       }
     ]

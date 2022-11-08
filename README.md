@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-08 15:15:32，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-08 15:44:28，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-11-08-最近访问网页断断续续出现证书错误，会指向-MIWIFI-SERVER-CERT](https://www.v2ex.com/t/893711) ![](assets/new.png)  
 - [2022-11-08-20221108-午夜俱乐部](https://www.v2ex.com/t/893709) ![](assets/new.png)  
 - [2022-11-08-用-Google-Sheet-炒股，分析公司财务也不是不行](https://www.v2ex.com/t/893708) ![](assets/new.png)  
 - [2022-11-08-关于远程工作是如何找到我的这事](https://www.v2ex.com/t/893707) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-11-08-网易云音乐宕机了？](https://www.v2ex.com/t/893692) ![](assets/new.png)  
 - [2022-11-08-刚买没多久的-MAC-M2-AIR，使用-magsafe-充电的时候，闪烁黄色，这是咋回事？](https://www.v2ex.com/t/893691) ![](assets/new.png)  
 - [2022-11-08-大家双-11-买了啥显示器](https://www.v2ex.com/t/893687) ![](assets/new.png)  
-- [2022-11-08-Apple-ID-换区后原来购买的-app-会跟着转区吗？](https://www.v2ex.com/t/893686) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -568,8 +568,8 @@
 - [2022-11-08-浅谈数据：聊一聊数据分析中的一些基础统计学知识](https://toutiao.io/k/6ndw6sx) ![](assets/new.png)  
 - [2022-11-08-利于集成的分支策略](https://toutiao.io/k/ktkaxbt) ![](assets/new.png)  
 - [2022-11-08-Kaggle-知识点：12-种回归评价指标](https://toutiao.io/k/s937slo) ![](assets/new.png)  
-- [2022-11-08-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) ![](assets/new.png)  
 - [2022-11-08-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) ![](assets/new.png)  
+- [2022-11-08-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

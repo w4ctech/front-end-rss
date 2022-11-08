@@ -9953,8 +9953,38 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
-        "title": "久坐为什么对性功能有影响呢？",
-        "link": "https://www.v2ex.com/t/893677",
+        "title": "Apple ID 换区后原来购买的 app 会跟着转区吗？",
+        "link": "https://www.v2ex.com/t/893686",
+        "date": "2022-11-08"
+      },
+      {
+        "title": "想要润德国的，可以先从了解相关签证和工作许可知识开始",
+        "link": "https://www.v2ex.com/t/893685",
+        "date": "2022-11-08"
+      },
+      {
+        "title": "setstate 问题求助大佬",
+        "link": "https://www.v2ex.com/t/893684",
+        "date": "2022-11-08"
+      },
+      {
+        "title": "与时同行 “云寄 • 时光邮局”| 我和我朋友的一个想法",
+        "link": "https://www.v2ex.com/t/893683",
+        "date": "2022-11-08"
+      },
+      {
+        "title": "老哥们有没有 fn1、fn2 映射快捷键的一键切换方式呢？",
+        "link": "https://www.v2ex.com/t/893682",
+        "date": "2022-11-08"
+      },
+      {
+        "title": "求问 qBittorrent 为何下 PT 及种子均无法下载（状态显示 未联系）",
+        "link": "https://www.v2ex.com/t/893681",
+        "date": "2022-11-08"
+      },
+      {
+        "title": "有丰富 API 的流程类插件吗？",
+        "link": "https://www.v2ex.com/t/893678",
         "date": "2022-11-08"
       },
       {
@@ -10073,11 +10103,6 @@
         "date": "2022-11-08"
       },
       {
-        "title": "看到隔壁远离国产软件帖子，啥证据没有，就说有问题，结果一看大部分人还同意, 还一本正经发个图说什么链接动态库获取 root 权限，笑尿了。这真的是六爷吃两碗粉...",
-        "link": "https://www.v2ex.com/t/893643",
-        "date": "2022-11-08"
-      },
-      {
         "title": "今天你们都赚了多少",
         "link": "https://www.v2ex.com/t/893642",
         "date": "2022-11-08"
@@ -10100,41 +10125,6 @@
       {
         "title": "推荐一个网页划线高亮笔记工具",
         "link": "https://www.v2ex.com/t/893637",
-        "date": "2022-11-08"
-      },
-      {
-        "title": "5000 大洋买了个 nvme 的固态盘，肉疼",
-        "link": "https://www.v2ex.com/t/893636",
-        "date": "2022-11-08"
-      },
-      {
-        "title": "每天通勤都好累",
-        "link": "https://www.v2ex.com/t/893635",
-        "date": "2022-11-08"
-      },
-      {
-        "title": "松江月厦新天地公寓出租",
-        "link": "https://www.v2ex.com/t/893634",
-        "date": "2022-11-08"
-      },
-      {
-        "title": "分享我家的三只猫猫～（测试一下怎么直接显示图片，顺便把狗骗进来杀）",
-        "link": "https://www.v2ex.com/t/893633",
-        "date": "2022-11-08"
-      },
-      {
-        "title": "有用过广电视讯宽带的吗?100Mbps 对等(400 元/年)",
-        "link": "https://www.v2ex.com/t/893632",
-        "date": "2022-11-08"
-      },
-      {
-        "title": "求问 vue 有没有优秀的 ios/android 跨端方案，不用小程序，甚至不用 h5",
-        "link": "https://www.v2ex.com/t/893631",
-        "date": "2022-11-08"
-      },
-      {
-        "title": "成都这边有一起拼车买 ATV 的吗？",
-        "link": "https://www.v2ex.com/t/893629",
         "date": "2022-11-08"
       }
     ]
@@ -10250,7 +10240,93 @@
     "rss": "https://front-rss.herokuapp.com/toutiao/today",
     "title": "开发者头条",
     "link": "https://toutiao.io",
-    "items": []
+    "items": [
+      {
+        "title": "软件架构可视化及 C4 模型：架构设计不仅仅是 UML",
+        "link": "https://toutiao.io/k/6fx50ha",
+        "date": "2022-11-08"
+      },
+      {
+        "title": "ThreadLocal 夺命 11 连问",
+        "link": "https://toutiao.io/k/dtj3btq",
+        "date": "2022-11-08"
+      },
+      {
+        "title": "跟着这 12 张图，重新复习 Redis",
+        "link": "https://toutiao.io/k/25u7bi6",
+        "date": "2022-11-08"
+      },
+      {
+        "title": "如何快速打造一个高性能数据库原型",
+        "link": "https://toutiao.io/k/tkvf7rp",
+        "date": "2022-11-08"
+      },
+      {
+        "title": "万字详解数仓分层设计架构 ODS-DWD-DWS-ADS",
+        "link": "https://toutiao.io/k/rwbg5v2",
+        "date": "2022-11-08"
+      },
+      {
+        "title": "从 0 到 1 教你写好系分",
+        "link": "https://toutiao.io/k/ngju61q",
+        "date": "2022-11-08"
+      },
+      {
+        "title": "Vue3 + Vant 开发微信公众号网页爬坑不完全指北",
+        "link": "https://toutiao.io/k/2p8b4vg",
+        "date": "2022-11-08"
+      },
+      {
+        "title": "云音乐 iOS 端代码静态检测实践",
+        "link": "https://toutiao.io/k/at8j88l",
+        "date": "2022-11-08"
+      },
+      {
+        "title": "划分需求优先级的三种方法",
+        "link": "https://toutiao.io/k/uaz2o31",
+        "date": "2022-11-08"
+      },
+      {
+        "title": "基于 k8s 的发布系统的实现",
+        "link": "https://toutiao.io/k/62uj8oo",
+        "date": "2022-11-08"
+      },
+      {
+        "title": "离职交接，心态要好",
+        "link": "https://toutiao.io/k/yq7cat1",
+        "date": "2022-11-08"
+      },
+      {
+        "title": "再来一次，新技术搞定老业务「GitHub 热点速览 v.22.44」",
+        "link": "https://toutiao.io/k/kfjshll",
+        "date": "2022-11-08"
+      },
+      {
+        "title": "浅谈数据：聊一聊数据分析中的一些基础统计学知识",
+        "link": "https://toutiao.io/k/6ndw6sx",
+        "date": "2022-11-08"
+      },
+      {
+        "title": "利于集成的分支策略",
+        "link": "https://toutiao.io/k/ktkaxbt",
+        "date": "2022-11-08"
+      },
+      {
+        "title": "Kaggle 知识点：12 种回归评价指标",
+        "link": "https://toutiao.io/k/s937slo",
+        "date": "2022-11-08"
+      },
+      {
+        "title": "[推荐] 如何画出一张优秀的架构图？（老鸟必备）",
+        "link": "https://toutiao.io/k/xiqybrh",
+        "date": "2022-11-08"
+      },
+      {
+        "title": "[推荐] 新来个技术总监，仅花 2 小时，撸出一个多线程永动任务，看完直接跪了，真牛逼",
+        "link": "https://toutiao.io/k/6u3q7ke",
+        "date": "2022-11-08"
+      }
+    ]
   },
   {
     "rss": "https://sec.thief.one/atom.xml",

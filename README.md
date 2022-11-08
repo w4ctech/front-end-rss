@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-08 12:31:19，:rocket: 更新条数: +2003， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-08 13:22:37，:rocket: 更新条数: +2018， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)  
 - [物联网智库](#物联网智库)  
 
@@ -491,7 +491,13 @@
 </summary>
 
 
-- [2022-11-08-久坐为什么对性功能有影响呢？](https://www.v2ex.com/t/893677) ![](assets/new.png)  
+- [2022-11-08-Apple-ID-换区后原来购买的-app-会跟着转区吗？](https://www.v2ex.com/t/893686) ![](assets/new.png)  
+- [2022-11-08-想要润德国的，可以先从了解相关签证和工作许可知识开始](https://www.v2ex.com/t/893685) ![](assets/new.png)  
+- [2022-11-08-setstate-问题求助大佬](https://www.v2ex.com/t/893684) ![](assets/new.png)  
+- [2022-11-08-与时同行-“云寄-•-时光邮局”|-我和我朋友的一个想法](https://www.v2ex.com/t/893683) ![](assets/new.png)  
+- [2022-11-08-老哥们有没有-fn1、fn2-映射快捷键的一键切换方式呢？](https://www.v2ex.com/t/893682) ![](assets/new.png)  
+- [2022-11-08-求问-qBittorrent-为何下-PT-及种子均无法下载（状态显示-未联系）](https://www.v2ex.com/t/893681) ![](assets/new.png)  
+- [2022-11-08-有丰富-API-的流程类插件吗？](https://www.v2ex.com/t/893678) ![](assets/new.png)  
 - [2022-11-08-大家-iOS-上用什么骚扰拦截](https://www.v2ex.com/t/893676) ![](assets/new.png)  
 - [2022-11-08-有无懂哥试过静态编译或者尽可能静态编译-openresty](https://www.v2ex.com/t/893674) ![](assets/new.png)  
 - [2022-11-08-写了个爬取-Quora-生成公众号文章的程序，它还可以用来干什么？](https://www.v2ex.com/t/893672) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-11-08-有谁用过-zellij-不？-rust-写的终端复用，哪儿比-tmux-强？](https://www.v2ex.com/t/893663) ![](assets/new.png)  
 - [2022-11-08-新人第一次发帖-想请问下有没有在游戏公司做引擎、图程类工作的大佬，这方面目前市场如何](https://www.v2ex.com/t/893662) ![](assets/new.png)  
 - [2022-11-08-一台显示器，两台运行着的电脑，能否做到快速切换，一台-windows，一台-Linux-系统](https://www.v2ex.com/t/893661) ![](assets/new.png)  
-- [2022-11-08-美区苹果-id-赠送-app-不能用-paypal-付款么？](https://www.v2ex.com/t/893659) ![](assets/new.png)  
-- [2022-11-08-武汉电信宽带-上行速率终于可以升-100M-了！](https://www.v2ex.com/t/893658) ![](assets/new.png)  
-- [2022-11-08-zlibrary-没了，是时候配备>18T-硬盘了，宝贵的东西必须有冷备](https://www.v2ex.com/t/893656) ![](assets/new.png)  
-- [2022-11-08-IOS-国内目前用哪家的统计-sdk-比较多？](https://www.v2ex.com/t/893652) ![](assets/new.png)  
-- [2022-11-08-求推荐个-app-类似-Clear-的提醒事项](https://www.v2ex.com/t/893651) ![](assets/new.png)  
-- [2022-11-08-现在有没有什么软件/服务可以拨打网络电话的？目的是防拉黑](https://www.v2ex.com/t/893649) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -553,6 +553,23 @@
 </summary>
 
 
+- [2022-11-08-软件架构可视化及-C4-模型：架构设计不仅仅是-UML](https://toutiao.io/k/6fx50ha) ![](assets/new.png)  
+- [2022-11-08-ThreadLocal-夺命-11-连问](https://toutiao.io/k/dtj3btq) ![](assets/new.png)  
+- [2022-11-08-跟着这-12-张图，重新复习-Redis](https://toutiao.io/k/25u7bi6) ![](assets/new.png)  
+- [2022-11-08-如何快速打造一个高性能数据库原型](https://toutiao.io/k/tkvf7rp) ![](assets/new.png)  
+- [2022-11-08-万字详解数仓分层设计架构-ODS-DWD-DWS-ADS](https://toutiao.io/k/rwbg5v2) ![](assets/new.png)  
+- [2022-11-08-从-0-到-1-教你写好系分](https://toutiao.io/k/ngju61q) ![](assets/new.png)  
+- [2022-11-08-Vue3-+-Vant-开发微信公众号网页爬坑不完全指北](https://toutiao.io/k/2p8b4vg) ![](assets/new.png)  
+- [2022-11-08-云音乐-iOS-端代码静态检测实践](https://toutiao.io/k/at8j88l) ![](assets/new.png)  
+- [2022-11-08-划分需求优先级的三种方法](https://toutiao.io/k/uaz2o31) ![](assets/new.png)  
+- [2022-11-08-基于-k8s-的发布系统的实现](https://toutiao.io/k/62uj8oo) ![](assets/new.png)  
+- [2022-11-08-离职交接，心态要好](https://toutiao.io/k/yq7cat1) ![](assets/new.png)  
+- [2022-11-08-再来一次，新技术搞定老业务「GitHub-热点速览-v.22.44」](https://toutiao.io/k/kfjshll) ![](assets/new.png)  
+- [2022-11-08-浅谈数据：聊一聊数据分析中的一些基础统计学知识](https://toutiao.io/k/6ndw6sx) ![](assets/new.png)  
+- [2022-11-08-利于集成的分支策略](https://toutiao.io/k/ktkaxbt) ![](assets/new.png)  
+- [2022-11-08-Kaggle-知识点：12-种回归评价指标](https://toutiao.io/k/s937slo) ![](assets/new.png)  
+- [2022-11-08-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) ![](assets/new.png)  
+- [2022-11-08-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

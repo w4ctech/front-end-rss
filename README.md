@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-08 14:44:32，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-08 15:15:32，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-11-08-20221108-午夜俱乐部](https://www.v2ex.com/t/893709) ![](assets/new.png)  
+- [2022-11-08-用-Google-Sheet-炒股，分析公司财务也不是不行](https://www.v2ex.com/t/893708) ![](assets/new.png)  
+- [2022-11-08-关于远程工作是如何找到我的这事](https://www.v2ex.com/t/893707) ![](assets/new.png)  
+- [2022-11-08-想收台甲骨文阿联酋，最好注册时间久一点的](https://www.v2ex.com/t/893706) ![](assets/new.png)  
+- [2022-11-08-分享今天是我签到第-100-天的日子](https://www.v2ex.com/t/893705) ![](assets/new.png)  
+- [2022-11-08-取消重复的-axios-请求时如何避免失败？](https://www.v2ex.com/t/893704) ![](assets/new.png)  
 - [2022-11-08-目前显示器是-fight-5k,-双-dp-才能实现-5K-显示，手头的电脑是-M1-air,-要哪些扩展坞或者转换头-才能实现-5K-的显示呢？](https://www.v2ex.com/t/893703) ![](assets/new.png)  
 - [2022-11-08-上海幼升小给我整-emo-了](https://www.v2ex.com/t/893702) ![](assets/new.png)  
 - [2022-11-08-Linux-下有什么工具可以给整个文件夹生成一个-SHA256，像-7z-Windows-版一样，方便比较两个文件夹内容是否完全相同？](https://www.v2ex.com/t/893701) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-11-08-刚买没多久的-MAC-M2-AIR，使用-magsafe-充电的时候，闪烁黄色，这是咋回事？](https://www.v2ex.com/t/893691) ![](assets/new.png)  
 - [2022-11-08-大家双-11-买了啥显示器](https://www.v2ex.com/t/893687) ![](assets/new.png)  
 - [2022-11-08-Apple-ID-换区后原来购买的-app-会跟着转区吗？](https://www.v2ex.com/t/893686) ![](assets/new.png)  
-- [2022-11-08-想要润德国的，可以先从了解相关签证和工作许可知识开始](https://www.v2ex.com/t/893685) ![](assets/new.png)  
-- [2022-11-08-setstate-问题求助大佬](https://www.v2ex.com/t/893684) ![](assets/new.png)  
-- [2022-11-08-与时同行-“云寄-•-时光邮局”|-我和我朋友的一个想法](https://www.v2ex.com/t/893683) ![](assets/new.png)  
-- [2022-11-08-老哥们有没有-fn1、fn2-映射快捷键的一键切换方式呢？](https://www.v2ex.com/t/893682) ![](assets/new.png)  
-- [2022-11-08-求问-qBittorrent-为何下-PT-及种子均无法下载（状态显示-未联系）](https://www.v2ex.com/t/893681) ![](assets/new.png)  
-- [2022-11-08-有丰富-API-的流程类插件吗？](https://www.v2ex.com/t/893678) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -568,8 +568,8 @@
 - [2022-11-08-浅谈数据：聊一聊数据分析中的一些基础统计学知识](https://toutiao.io/k/6ndw6sx) ![](assets/new.png)  
 - [2022-11-08-利于集成的分支策略](https://toutiao.io/k/ktkaxbt) ![](assets/new.png)  
 - [2022-11-08-Kaggle-知识点：12-种回归评价指标](https://toutiao.io/k/s937slo) ![](assets/new.png)  
-- [2022-11-08-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) ![](assets/new.png)  
 - [2022-11-08-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) ![](assets/new.png)  
+- [2022-11-08-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

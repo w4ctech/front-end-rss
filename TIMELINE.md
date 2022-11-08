@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-08 06:18:26。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-08 06:50:26。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,12 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-08-工单系统求推荐](https://www.v2ex.com/t/893588) 
+- [【V2EX】2022-11-08-Macbook-Pro-16-M1-pro-能同时输出-3-台-4K-60hz-的显示器吗？-那-M1-Max-呢](https://www.v2ex.com/t/893586) 
+- [【V2EX】2022-11-08-Alfred-eject-workflow-求分享](https://www.v2ex.com/t/893583) 
+- [【V2EX】2022-11-08-EPOLL](https://www.v2ex.com/t/893582) 
+- [【V2EX】2022-11-08-Storm-Sniffer-抓包-App-开车](https://www.v2ex.com/t/893579) 
+- [【V2EX】2022-11-08-Kubernetes-多集群管理，基于-tekton-二次开发-CICD](https://www.v2ex.com/t/893578) 
 - [【V2EX】2022-11-08-想换电脑了，-MAC-or-ThinkPad](https://www.v2ex.com/t/893577) 
 - [【V2EX】2022-11-08-在国内，为何有这么多的强迫症？](https://www.v2ex.com/t/893575) 
 - [【V2EX】2022-11-08-chrome-107-版本闪退-bug](https://www.v2ex.com/t/893574) 
@@ -99,16 +105,6 @@
 - [【V2EX】2022-11-08-量化交易有啥好的入门资料或者论坛嘛，国内国外的都行](https://www.v2ex.com/t/893542) 
 - [【V2EX】2022-11-08-经过签名后的-apk-文件，无法升级](https://www.v2ex.com/t/893541) 
 - [【V2EX】2022-11-08-求推荐缓解咽痛、扁桃体发炎或者感冒的薄荷含片](https://www.v2ex.com/t/893540) 
-- [【V2EX】2022-11-08-平安信贷天天打贷款电话，有什么办法解决？](https://www.v2ex.com/t/893539) 
-- [【V2EX】2022-11-08-QQ-安全中心辅助好友认证最后一步-404](https://www.v2ex.com/t/893538) 
-- [【V2EX】2022-11-08-Vue-3-插槽支持类型推断了](https://www.v2ex.com/t/893537) 
-- [【V2EX】2022-11-08-mbp-16-寸-intel-闪屏，透视及教训](https://www.v2ex.com/t/893535) 
-- [【V2EX】2022-11-08-iphone14pro-的百度地图-app-会后台驻留灵动岛？](https://www.v2ex.com/t/893533) 
-- [【V2EX】2022-11-08-home-assistant-有没有些好玩的玩法推荐？](https://www.v2ex.com/t/893532) 
-- [【V2EX】2022-11-08-Mac-现在能实现分用户加密吗?](https://www.v2ex.com/t/893531) 
-- [【V2EX】2022-11-08-请教广州租房子](https://www.v2ex.com/t/893530) 
-- [【V2EX】2022-11-08-close-异常](https://www.v2ex.com/t/893529) 
-- [【V2EX】2022-11-08-iPhone-13-有没有摄像头不加高的保护壳？](https://www.v2ex.com/t/893528) 
 - [【技术头条】2022-11-08-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-08-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-08-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -136,16 +132,16 @@
 - [【开发者头条】2022-11-08-万字详解数仓分层设计架构-ODS-DWD-DWS-ADS](https://toutiao.io/k/rwbg5v2) 
 - [【开发者头条】2022-11-08-从-0-到-1-教你写好系分](https://toutiao.io/k/ngju61q) 
 - [【开发者头条】2022-11-08-Vue3-+-Vant-开发微信公众号网页爬坑不完全指北](https://toutiao.io/k/2p8b4vg) 
-- [【开发者头条】2022-11-08-离职交接，心态要好](https://toutiao.io/k/yq7cat1) 
 - [【开发者头条】2022-11-08-划分需求优先级的三种方法](https://toutiao.io/k/uaz2o31) 
+- [【开发者头条】2022-11-08-离职交接，心态要好](https://toutiao.io/k/yq7cat1) 
 - [【开发者头条】2022-11-08-再来一次，新技术搞定老业务「GitHub-热点速览-v.22.44」](https://toutiao.io/k/kfjshll) 
 - [【开发者头条】2022-11-08-浅谈数据：聊一聊数据分析中的一些基础统计学知识](https://toutiao.io/k/6ndw6sx) 
 - [【开发者头条】2022-11-08-基于-k8s-的发布系统的实现](https://toutiao.io/k/62uj8oo) 
 - [【开发者头条】2022-11-08-云音乐-iOS-端代码静态检测实践](https://toutiao.io/k/at8j88l) 
 - [【开发者头条】2022-11-08-利于集成的分支策略](https://toutiao.io/k/ktkaxbt) 
 - [【开发者头条】2022-11-08-Kaggle-知识点：12-种回归评价指标](https://toutiao.io/k/s937slo) 
-- [【开发者头条】2022-11-08-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) 
 - [【开发者头条】2022-11-08-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) 
+- [【开发者头条】2022-11-08-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

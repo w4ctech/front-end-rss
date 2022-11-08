@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-08 06:18:26，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-08 06:50:26，:rocket: 更新条数: +2018， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-11-08-工单系统求推荐](https://www.v2ex.com/t/893588) ![](assets/new.png)  
+- [2022-11-08-Macbook-Pro-16-M1-pro-能同时输出-3-台-4K-60hz-的显示器吗？-那-M1-Max-呢](https://www.v2ex.com/t/893586) ![](assets/new.png)  
+- [2022-11-08-Alfred-eject-workflow-求分享](https://www.v2ex.com/t/893583) ![](assets/new.png)  
+- [2022-11-08-EPOLL](https://www.v2ex.com/t/893582) ![](assets/new.png)  
+- [2022-11-08-Storm-Sniffer-抓包-App-开车](https://www.v2ex.com/t/893579) ![](assets/new.png)  
+- [2022-11-08-Kubernetes-多集群管理，基于-tekton-二次开发-CICD](https://www.v2ex.com/t/893578) ![](assets/new.png)  
 - [2022-11-08-想换电脑了，-MAC-or-ThinkPad](https://www.v2ex.com/t/893577) ![](assets/new.png)  
 - [2022-11-08-在国内，为何有这么多的强迫症？](https://www.v2ex.com/t/893575) ![](assets/new.png)  
 - [2022-11-08-chrome-107-版本闪退-bug](https://www.v2ex.com/t/893574) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-11-08-iPhone-跟-Mac-的-Wi-Fi-自动加入问题](https://www.v2ex.com/t/893561) ![](assets/new.png)  
 - [2022-11-08-AirPods-空间音频的追踪头部是怎么用的，感觉就是一边声音大一边声音小，头偏向哪边哪边声音就大，有什么实际用途吗？](https://www.v2ex.com/t/893560) ![](assets/new.png)  
 - [2022-11-08-使用-autohotkey-让-87-键键盘快速输入数字键盘](https://www.v2ex.com/t/893559) ![](assets/new.png)  
-- [2022-11-08-如何拯救被人遗忘的老代码？](https://www.v2ex.com/t/893558) ![](assets/new.png)  
-- [2022-11-08-电脑可以上网但是显示无-Internet-怎么办？](https://www.v2ex.com/t/893557) ![](assets/new.png)  
-- [2022-11-08-M-芯片外接-Dell-S2721Qs-闪屏](https://www.v2ex.com/t/893553) ![](assets/new.png)  
-- [2022-11-08-Ent-中文文档](https://www.v2ex.com/t/893552) ![](assets/new.png)  
-- [2022-11-08-阿里云主机编译安卓源码有推荐吗？](https://www.v2ex.com/t/893550) ![](assets/new.png)  
-- [2022-11-08-北京-程序化交易-Linux-内核相关岗位](https://www.v2ex.com/t/893549) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -560,16 +560,16 @@
 - [2022-11-08-万字详解数仓分层设计架构-ODS-DWD-DWS-ADS](https://toutiao.io/k/rwbg5v2) ![](assets/new.png)  
 - [2022-11-08-从-0-到-1-教你写好系分](https://toutiao.io/k/ngju61q) ![](assets/new.png)  
 - [2022-11-08-Vue3-+-Vant-开发微信公众号网页爬坑不完全指北](https://toutiao.io/k/2p8b4vg) ![](assets/new.png)  
-- [2022-11-08-离职交接，心态要好](https://toutiao.io/k/yq7cat1) ![](assets/new.png)  
 - [2022-11-08-划分需求优先级的三种方法](https://toutiao.io/k/uaz2o31) ![](assets/new.png)  
+- [2022-11-08-离职交接，心态要好](https://toutiao.io/k/yq7cat1) ![](assets/new.png)  
 - [2022-11-08-再来一次，新技术搞定老业务「GitHub-热点速览-v.22.44」](https://toutiao.io/k/kfjshll) ![](assets/new.png)  
 - [2022-11-08-浅谈数据：聊一聊数据分析中的一些基础统计学知识](https://toutiao.io/k/6ndw6sx) ![](assets/new.png)  
 - [2022-11-08-基于-k8s-的发布系统的实现](https://toutiao.io/k/62uj8oo) ![](assets/new.png)  
 - [2022-11-08-云音乐-iOS-端代码静态检测实践](https://toutiao.io/k/at8j88l) ![](assets/new.png)  
 - [2022-11-08-利于集成的分支策略](https://toutiao.io/k/ktkaxbt) ![](assets/new.png)  
 - [2022-11-08-Kaggle-知识点：12-种回归评价指标](https://toutiao.io/k/s937slo) ![](assets/new.png)  
-- [2022-11-08-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) ![](assets/new.png)  
 - [2022-11-08-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) ![](assets/new.png)  
+- [2022-11-08-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

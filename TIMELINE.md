@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-08 05:06:11。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-08 05:45:12。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,14 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-08-iOS-上-App-Store-更新问题](https://www.v2ex.com/t/893565) 
+- [【V2EX】2022-11-08-Win11-22H2-空闲几分钟后-Systemntoskrnl进程持续占用百分之-20CPU](https://www.v2ex.com/t/893564) 
+- [【V2EX】2022-11-08-CupertinoPageRoute-滑动返回后，操作延时的-Bug](https://www.v2ex.com/t/893563) 
+- [【V2EX】2022-11-08-iPhone-跟-Mac-的-Wi-Fi-自动加入问题](https://www.v2ex.com/t/893561) 
+- [【V2EX】2022-11-08-AirPods-空间音频的追踪头部是怎么用的，感觉就是一边声音大一边声音小，头偏向哪边哪边声音就大，有什么实际用途吗？](https://www.v2ex.com/t/893560) 
+- [【V2EX】2022-11-08-使用-autohotkey-让-87-键键盘快速输入数字键盘](https://www.v2ex.com/t/893559) 
+- [【V2EX】2022-11-08-如何拯救被人遗忘的老代码？](https://www.v2ex.com/t/893558) 
+- [【V2EX】2022-11-08-电脑可以上网但是显示无-Internet-怎么办？](https://www.v2ex.com/t/893557) 
 - [【V2EX】2022-11-08-M-芯片外接-Dell-S2721Qs-闪屏](https://www.v2ex.com/t/893553) 
 - [【V2EX】2022-11-08-Ent-中文文档](https://www.v2ex.com/t/893552) 
 - [【V2EX】2022-11-08-阿里云主机编译安卓源码有推荐吗？](https://www.v2ex.com/t/893550) 
@@ -104,13 +112,6 @@
 - [【V2EX】2022-11-08-Paste-App-家庭组招人中](https://www.v2ex.com/t/893518) 
 - [【V2EX】2022-11-08-i3wm-最近的几次更新引入了两个-bug](https://www.v2ex.com/t/893517) 
 - [【V2EX】2022-11-08-求各位推荐一下平民级电脑桌](https://www.v2ex.com/t/893516) 
-- [【V2EX】2022-11-08-感觉自己快活不下去了，兄弟们给指条路吧](https://www.v2ex.com/t/893514) 
-- [【V2EX】2022-11-08-MacBook-Air-怎么清洁屏幕和键盘比较好](https://www.v2ex.com/t/893513) 
-- [【V2EX】2022-11-08-Spark-程序提交到-Yarn-集群执行-这个日志怎么收集？](https://www.v2ex.com/t/893511) 
-- [【V2EX】2022-11-08-代码中乘-1.0f/72-和直接除-72f-有什么区别呢？](https://www.v2ex.com/t/893510) 
-- [【V2EX】2022-11-08-Vue-3-可使用-Vue-2-开发的组件吗？](https://www.v2ex.com/t/893509) 
-- [【V2EX】2022-11-08-icloud-邮箱偶发性的错误提示：发生-SSL-错误，无法建立到该服务器的安全连接。](https://www.v2ex.com/t/893508) 
-- [【V2EX】2022-11-08-各位帮我分析下键盘坏了会是什么原因](https://www.v2ex.com/t/893507) 
 - [【技术头条】2022-11-08-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-08-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-08-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -141,13 +142,13 @@
 - [【开发者头条】2022-11-08-离职交接，心态要好](https://toutiao.io/k/yq7cat1) 
 - [【开发者头条】2022-11-08-再来一次，新技术搞定老业务「GitHub-热点速览-v.22.44」](https://toutiao.io/k/kfjshll) 
 - [【开发者头条】2022-11-08-浅谈数据：聊一聊数据分析中的一些基础统计学知识](https://toutiao.io/k/6ndw6sx) 
-- [【开发者头条】2022-11-08-基于-k8s-的发布系统的实现](https://toutiao.io/k/62uj8oo) 
 - [【开发者头条】2022-11-08-划分需求优先级的三种方法](https://toutiao.io/k/uaz2o31) 
+- [【开发者头条】2022-11-08-基于-k8s-的发布系统的实现](https://toutiao.io/k/62uj8oo) 
 - [【开发者头条】2022-11-08-云音乐-iOS-端代码静态检测实践](https://toutiao.io/k/at8j88l) 
 - [【开发者头条】2022-11-08-利于集成的分支策略](https://toutiao.io/k/ktkaxbt) 
 - [【开发者头条】2022-11-08-Kaggle-知识点：12-种回归评价指标](https://toutiao.io/k/s937slo) 
-- [【开发者头条】2022-11-08-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) 
 - [【开发者头条】2022-11-08-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) 
+- [【开发者头条】2022-11-08-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

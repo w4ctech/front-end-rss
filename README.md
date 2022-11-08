@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-08 08:49:13，:rocket: 更新条数: +2016， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-08 09:15:34，:rocket: 更新条数: +2017， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,14 @@
 </summary>
 
 
+- [2022-11-08-原来-MSVC-已经提供-128bit-整型的支持了](https://www.v2ex.com/t/893626) ![](assets/new.png)  
+- [2022-11-08-MIUI13-下横竖屏转换-Chrome-会自动刷新一次，是新特性还是-bug？](https://www.v2ex.com/t/893625) ![](assets/new.png)  
+- [2022-11-08-（全职远程招聘）高级-IOS、安全测试工程师、移动端播放器开发工程师、区块链市场专员](https://www.v2ex.com/t/893624) ![](assets/new.png)  
+- [2022-11-08-求一段-PHP-代码，可把-vps-文件夹内-mp3-文件转换为-podcast](https://www.v2ex.com/t/893622) ![](assets/new.png)  
+- [2022-11-08-k8s-port-forward-开放的端口在集群外是不能访问的吗？](https://www.v2ex.com/t/893620) ![](assets/new.png)  
+- [2022-11-08-ahk-的脚本好难写啊](https://www.v2ex.com/t/893618) ![](assets/new.png)  
+- [2022-11-08-请教：-115-网盘在线观看视频是否可以切换音轨？](https://www.v2ex.com/t/893617) ![](assets/new.png)  
+- [2022-11-08-Apple:您的手机经过非授权改装，-Apple-不予维修。](https://www.v2ex.com/t/893616) ![](assets/new.png)  
 - [2022-11-08-雅迪电动自行车-DE2-值得买吗？](https://www.v2ex.com/t/893615) ![](assets/new.png)  
 - [2022-11-08-Windows-也支持只能充电了？](https://www.v2ex.com/t/893614) ![](assets/new.png)  
 - [2022-11-08-当回到家，-Wi-Fi-通话自动打开后，蜂窝网络的耗电量会自动降低吗？](https://www.v2ex.com/t/893613) ![](assets/new.png)  
@@ -503,14 +511,6 @@
 - [2022-11-08-求职-深圳-5-年-Golang/2-年-C++](https://www.v2ex.com/t/893604) ![](assets/new.png)  
 - [2022-11-08-分享订阅的-rss-源有哪些](https://www.v2ex.com/t/893601) ![](assets/new.png)  
 - [2022-11-08-广州人工智能后端工程师](https://www.v2ex.com/t/893600) ![](assets/new.png)  
-- [2022-11-08-亲戚要招一个货运解决方案的互联网平台，大家有没有推荐的呢](https://www.v2ex.com/t/893598) ![](assets/new.png)  
-- [2022-11-08-请问有无网页客服聊天系统可支持转发消息到微信的。](https://www.v2ex.com/t/893597) ![](assets/new.png)  
-- [2022-11-08-pdd-百-Y-补贴多人团的公众号或者是机器人有人做吗？](https://www.v2ex.com/t/893596) ![](assets/new.png)  
-- [2022-11-08-Express.js-生成一次性下载链接](https://www.v2ex.com/t/893595) ![](assets/new.png)  
-- [2022-11-08-英伟达-NVIDIA-上海-自动驾驶软件经理](https://www.v2ex.com/t/893593) ![](assets/new.png)  
-- [2022-11-08-电脑小白求助，想自己组一台电脑。](https://www.v2ex.com/t/893592) ![](assets/new.png)  
-- [2022-11-08-我给做外贸的家人做的尺码表生成工具升级了](https://www.v2ex.com/t/893590) ![](assets/new.png)  
-- [2022-11-08-工单系统求推荐](https://www.v2ex.com/t/893588) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

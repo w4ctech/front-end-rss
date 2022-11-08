@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-08 08:49:13。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-08 09:15:34。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,14 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-08-原来-MSVC-已经提供-128bit-整型的支持了](https://www.v2ex.com/t/893626) 
+- [【V2EX】2022-11-08-MIUI13-下横竖屏转换-Chrome-会自动刷新一次，是新特性还是-bug？](https://www.v2ex.com/t/893625) 
+- [【V2EX】2022-11-08-（全职远程招聘）高级-IOS、安全测试工程师、移动端播放器开发工程师、区块链市场专员](https://www.v2ex.com/t/893624) 
+- [【V2EX】2022-11-08-求一段-PHP-代码，可把-vps-文件夹内-mp3-文件转换为-podcast](https://www.v2ex.com/t/893622) 
+- [【V2EX】2022-11-08-k8s-port-forward-开放的端口在集群外是不能访问的吗？](https://www.v2ex.com/t/893620) 
+- [【V2EX】2022-11-08-ahk-的脚本好难写啊](https://www.v2ex.com/t/893618) 
+- [【V2EX】2022-11-08-请教：-115-网盘在线观看视频是否可以切换音轨？](https://www.v2ex.com/t/893617) 
+- [【V2EX】2022-11-08-Apple:您的手机经过非授权改装，-Apple-不予维修。](https://www.v2ex.com/t/893616) 
 - [【V2EX】2022-11-08-雅迪电动自行车-DE2-值得买吗？](https://www.v2ex.com/t/893615) 
 - [【V2EX】2022-11-08-Windows-也支持只能充电了？](https://www.v2ex.com/t/893614) 
 - [【V2EX】2022-11-08-当回到家，-Wi-Fi-通话自动打开后，蜂窝网络的耗电量会自动降低吗？](https://www.v2ex.com/t/893613) 
@@ -96,13 +104,6 @@
 - [【V2EX】2022-11-08-Storm-Sniffer-抓包-App-开车](https://www.v2ex.com/t/893579) 
 - [【V2EX】2022-11-08-Kubernetes-多集群管理，基于-tekton-二次开发-CICD](https://www.v2ex.com/t/893578) 
 - [【V2EX】2022-11-08-想换电脑了，-MAC-or-ThinkPad](https://www.v2ex.com/t/893577) 
-- [【V2EX】2022-11-08-在国内，为何有这么多的强迫症？](https://www.v2ex.com/t/893575) 
-- [【V2EX】2022-11-08-chrome-107-版本闪退-bug](https://www.v2ex.com/t/893574) 
-- [【V2EX】2022-11-08-苹果-14-蜂窝网络经常没网，信号有](https://www.v2ex.com/t/893572) 
-- [【V2EX】2022-11-08-产品离职了，开摸](https://www.v2ex.com/t/893570) 
-- [【V2EX】2022-11-08-日经贴，帮忙看看攒机配置？感谢！](https://www.v2ex.com/t/893569) 
-- [【V2EX】2022-11-08-m2-mba-有碰到爆音的朋友吗？](https://www.v2ex.com/t/893568) 
-- [【V2EX】2022-11-08-openwrt-重启后跟-lan-口的路由器-ip-冲突，咋搞？](https://www.v2ex.com/t/893566) 
 - [【技术头条】2022-11-08-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-08-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-08-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

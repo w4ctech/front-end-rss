@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-08 08:49:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-08 09:15:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1917,6 +1917,10 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-11-08-原来-MSVC-已经提供-128bit-整型的支持了](https://www.v2ex.com/t/893626) 
+- [2022-11-08-k8s-port-forward-开放的端口在集群外是不能访问的吗？](https://www.v2ex.com/t/893620) 
+- [2022-11-08-ahk-的脚本好难写啊](https://www.v2ex.com/t/893618) 
+- [2022-11-08-Apple:您的手机经过非授权改装，-Apple-不予维修。](https://www.v2ex.com/t/893616) 
 - [2022-11-08-雅迪电动自行车-DE2-值得买吗？](https://www.v2ex.com/t/893615) 
 - [2022-11-08-Windows-也支持只能充电了？](https://www.v2ex.com/t/893614) 
 - [2022-11-08-当回到家，-Wi-Fi-通话自动打开后，蜂窝网络的耗电量会自动降低吗？](https://www.v2ex.com/t/893613) 
@@ -1942,11 +1946,6 @@
 - [2022-11-08-Storm-Sniffer-抓包-App-开车](https://www.v2ex.com/t/893579) 
 - [2022-11-08-Kubernetes-多集群管理，基于-tekton-二次开发-CICD](https://www.v2ex.com/t/893578) 
 - [2022-11-08-想换电脑了，-MAC-or-ThinkPad](https://www.v2ex.com/t/893577) 
-- [2022-11-08-在国内，为何有这么多的强迫症？](https://www.v2ex.com/t/893575) 
-- [2022-11-08-苹果-14-蜂窝网络经常没网，信号有](https://www.v2ex.com/t/893572) 
-- [2022-11-08-产品离职了，开摸](https://www.v2ex.com/t/893570) 
-- [2022-11-08-日经贴，帮忙看看攒机配置？感谢！](https://www.v2ex.com/t/893569) 
-- [2022-11-08-m2-mba-有碰到爆音的朋友吗？](https://www.v2ex.com/t/893568) 
 - [2022-11-08-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-08-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-08-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

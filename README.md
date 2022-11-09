@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-09 22:14:36，:rocket: 更新条数: +2023， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-09 22:41:54，:rocket: 更新条数: +2023， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -554,8 +554,8 @@
 
 
 - [2022-11-09-MySQL-基于-binlake-同步-ES-积压解决方案](https://toutiao.io/k/qkyv5bw) ![](assets/new.png)  
-- [2022-11-09-Go-十年了，终于想起要统一-log-库了](https://toutiao.io/k/pljw7jn) ![](assets/new.png)  
 - [2022-11-09-实时数仓架构设计](https://toutiao.io/k/7w1ndgi) ![](assets/new.png)  
+- [2022-11-09-Go-十年了，终于想起要统一-log-库了](https://toutiao.io/k/pljw7jn) ![](assets/new.png)  
 - [2022-11-09-如何实现一个-SQL-解析器](https://toutiao.io/k/6ynbonf) ![](assets/new.png)  
 - [2022-11-09-面试官：你懂-HTTP-缓存，那说下浏览器强制刷新是怎么实现的？](https://toutiao.io/k/63uiuvh) ![](assets/new.png)  
 - [2022-11-09-RocketMQ-核心原理解析](https://toutiao.io/k/vlg238y) ![](assets/new.png)  

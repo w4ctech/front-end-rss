@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-09 14:30:27，:rocket: 更新条数: +2007， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-09 14:46:58，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)  
 - [物联网智库](#物联网智库)  
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-11-09-印象笔记国内版是一件人事都不干呐](https://www.v2ex.com/t/893979) ![](assets/new.png)  
+- [2022-11-09-Wireguard-走虚拟局域网访问-VPS-上的服务需不需要部署-https？](https://www.v2ex.com/t/893978) ![](assets/new.png)  
+- [2022-11-09-NTKO-Web-Chrome](https://www.v2ex.com/t/893977) ![](assets/new.png)  
 - [2022-11-09-ipadOS-的台前调度砍了吗？](https://www.v2ex.com/t/893976) ![](assets/new.png)  
 - [2022-11-09-女朋友要求戒指-5-7w-预算过分么。](https://www.v2ex.com/t/893975) ![](assets/new.png)  
 - [2022-11-09-WLB-外企-Coupang-内推-薪资接得住任何大厂-大量-hc-Java-p6,p7p8-机器学习](https://www.v2ex.com/t/893974) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-11-09-Affinity-：新一代软件限时折扣-40%](https://www.v2ex.com/t/893961) ![](assets/new.png)  
 - [2022-11-09-微信开发者工具能不能像-vim-一样，根据-写过单词-自动查找补全？](https://www.v2ex.com/t/893960) ![](assets/new.png)  
 - [2022-11-09-iPhone-的提醒事项和-Mac-上不同步有解决办法吗？](https://www.v2ex.com/t/893957) ![](assets/new.png)  
-- [2022-11-09-Todesk-macos-版本后台进程长期接近-100%-CPU-占用](https://www.v2ex.com/t/893956) ![](assets/new.png)  
-- [2022-11-09-让-iPhone-X-以及之前的机型支持广电卡](https://www.v2ex.com/t/893955) ![](assets/new.png)  
-- [2022-11-09-你们在图书-APP-上有遇到过这个问题吗](https://www.v2ex.com/t/893953) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -553,6 +553,23 @@
 </summary>
 
 
+- [2022-11-09-MySQL-基于-binlake-同步-ES-积压解决方案](https://toutiao.io/k/qkyv5bw) ![](assets/new.png)  
+- [2022-11-09-Go-十年了，终于想起要统一-log-库了](https://toutiao.io/k/pljw7jn) ![](assets/new.png)  
+- [2022-11-09-实时数仓架构设计](https://toutiao.io/k/7w1ndgi) ![](assets/new.png)  
+- [2022-11-09-如何实现一个-SQL-解析器](https://toutiao.io/k/6ynbonf) ![](assets/new.png)  
+- [2022-11-09-面试官：你懂-HTTP-缓存，那说下浏览器强制刷新是怎么实现的？](https://toutiao.io/k/63uiuvh) ![](assets/new.png)  
+- [2022-11-09-RocketMQ-核心原理解析](https://toutiao.io/k/vlg238y) ![](assets/new.png)  
+- [2022-11-09-从-0-开始做一个-WPF-+-Blazor-对话小程序](https://toutiao.io/k/bweopcp) ![](assets/new.png)  
+- [2022-11-09-JDK-中自带的-JVM-分析工具](https://toutiao.io/k/fm8b4d0) ![](assets/new.png)  
+- [2022-11-09-拒绝暴力-kill--9-！我选择这样优雅停止-SpringBoot-服务](https://toutiao.io/k/6mkguyh) ![](assets/new.png)  
+- [2022-11-09-这-10-种神级性能优化手段，你用过几个？](https://toutiao.io/k/ihvxsb3) ![](assets/new.png)  
+- [2022-11-09-深度学习中常用的激活函数](https://toutiao.io/k/rnh5ll8) ![](assets/new.png)  
+- [2022-11-09-聊聊在-Spring-Boot-项目中如何配置多个-Kafka-消费者](https://toutiao.io/k/5g1dxrn) ![](assets/new.png)  
+- [2022-11-09-手把手教你写-Dart-ffi](https://toutiao.io/k/kw9ljhv) ![](assets/new.png)  
+- [2022-11-09-再有人问你如何实现订单到期关闭，就把这篇文章发给他](https://toutiao.io/k/osseclq) ![](assets/new.png)  
+- [2022-11-09-使用访问控制策略访问服务网格内的服务](https://toutiao.io/k/mjdbfkl) ![](assets/new.png)  
+- [2022-11-09-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) ![](assets/new.png)  
+- [2022-11-09-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -9953,6 +9953,21 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "印象笔记国内版是一件人事都不干呐",
+        "link": "https://www.v2ex.com/t/893979",
+        "date": "2022-11-09"
+      },
+      {
+        "title": "Wireguard 走虚拟局域网访问 VPS 上的服务需不需要部署 https？",
+        "link": "https://www.v2ex.com/t/893978",
+        "date": "2022-11-09"
+      },
+      {
+        "title": "NTKO Web Chrome",
+        "link": "https://www.v2ex.com/t/893977",
+        "date": "2022-11-09"
+      },
+      {
         "title": "ipadOS 的台前调度砍了吗？",
         "link": "https://www.v2ex.com/t/893976",
         "date": "2022-11-09"
@@ -10141,21 +10156,6 @@
         "title": "Ubuntu 的在 Snap Store 里更新 Snap Store 会报错\"'snap-store'正在运行\"，是遵循了什么设计哲学吗？",
         "link": "https://www.v2ex.com/t/893930",
         "date": "2022-11-09"
-      },
-      {
-        "title": "iOS 国行测试版增加限制，仅能对所有人开启十分钟 Airdrop",
-        "link": "https://www.v2ex.com/t/893929",
-        "date": "2022-11-09"
-      },
-      {
-        "title": ".NET 7 AOT 支持不支持 macOS",
-        "link": "https://www.v2ex.com/t/893928",
-        "date": "2022-11-09"
-      },
-      {
-        "title": "Jenkins 配置 slave 节点连接失败： Connection closed before acknowledgement sent",
-        "link": "https://www.v2ex.com/t/893927",
-        "date": "2022-11-09"
       }
     ]
   },
@@ -10270,7 +10270,93 @@
     "rss": "https://front-rss.herokuapp.com/toutiao/today",
     "title": "开发者头条",
     "link": "https://toutiao.io",
-    "items": []
+    "items": [
+      {
+        "title": "MySQL 基于 binlake 同步 ES 积压解决方案",
+        "link": "https://toutiao.io/k/qkyv5bw",
+        "date": "2022-11-09"
+      },
+      {
+        "title": "Go 十年了，终于想起要统一 log 库了",
+        "link": "https://toutiao.io/k/pljw7jn",
+        "date": "2022-11-09"
+      },
+      {
+        "title": "实时数仓架构设计",
+        "link": "https://toutiao.io/k/7w1ndgi",
+        "date": "2022-11-09"
+      },
+      {
+        "title": "如何实现一个 SQL 解析器",
+        "link": "https://toutiao.io/k/6ynbonf",
+        "date": "2022-11-09"
+      },
+      {
+        "title": "面试官：你懂 HTTP 缓存，那说下浏览器强制刷新是怎么实现的？",
+        "link": "https://toutiao.io/k/63uiuvh",
+        "date": "2022-11-09"
+      },
+      {
+        "title": "RocketMQ 核心原理解析",
+        "link": "https://toutiao.io/k/vlg238y",
+        "date": "2022-11-09"
+      },
+      {
+        "title": "从 0 开始做一个 WPF + Blazor 对话小程序",
+        "link": "https://toutiao.io/k/bweopcp",
+        "date": "2022-11-09"
+      },
+      {
+        "title": "JDK 中自带的 JVM 分析工具",
+        "link": "https://toutiao.io/k/fm8b4d0",
+        "date": "2022-11-09"
+      },
+      {
+        "title": "拒绝暴力 kill -9 ！我选择这样优雅停止 SpringBoot 服务",
+        "link": "https://toutiao.io/k/6mkguyh",
+        "date": "2022-11-09"
+      },
+      {
+        "title": "这 10 种神级性能优化手段，你用过几个？",
+        "link": "https://toutiao.io/k/ihvxsb3",
+        "date": "2022-11-09"
+      },
+      {
+        "title": "深度学习中常用的激活函数",
+        "link": "https://toutiao.io/k/rnh5ll8",
+        "date": "2022-11-09"
+      },
+      {
+        "title": "聊聊在 Spring Boot 项目中如何配置多个 Kafka 消费者",
+        "link": "https://toutiao.io/k/5g1dxrn",
+        "date": "2022-11-09"
+      },
+      {
+        "title": "手把手教你写 Dart ffi",
+        "link": "https://toutiao.io/k/kw9ljhv",
+        "date": "2022-11-09"
+      },
+      {
+        "title": "再有人问你如何实现订单到期关闭，就把这篇文章发给他",
+        "link": "https://toutiao.io/k/osseclq",
+        "date": "2022-11-09"
+      },
+      {
+        "title": "使用访问控制策略访问服务网格内的服务",
+        "link": "https://toutiao.io/k/mjdbfkl",
+        "date": "2022-11-09"
+      },
+      {
+        "title": "[推荐] 新来个技术总监，仅花 2 小时，撸出一个多线程永动任务，看完直接跪了，真牛逼",
+        "link": "https://toutiao.io/k/6u3q7ke",
+        "date": "2022-11-09"
+      },
+      {
+        "title": "[推荐] 如何画出一张优秀的架构图？（老鸟必备）",
+        "link": "https://toutiao.io/k/xiqybrh",
+        "date": "2022-11-09"
+      }
+    ]
   },
   {
     "rss": "https://sec.thief.one/atom.xml",

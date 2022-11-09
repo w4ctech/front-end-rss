@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-09 09:15:00。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-09 09:41:46。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,14 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-09-想法需要保存下来吗](https://www.v2ex.com/t/893919) 
+- [【V2EX】2022-11-09-手机相册同步备份最佳方案](https://www.v2ex.com/t/893917) 
+- [【V2EX】2022-11-09-远程办公-招聘啦！-区块链老牌大厂多个岗位开放，-20～-60k，-15-薪，欢迎小伙伴们来撩～](https://www.v2ex.com/t/893916) 
+- [【V2EX】2022-11-09-Github-Page-自定义域名不能关闭-HTTPS](https://www.v2ex.com/t/893915) 
+- [【V2EX】2022-11-09-5950x-现在可以入手了不？](https://www.v2ex.com/t/893913) 
+- [【V2EX】2022-11-09-chrome-新版本-107.0.5304.88-和小米路由器冲突](https://www.v2ex.com/t/893912) 
+- [【V2EX】2022-11-09-有骑摩托的兄弟们吗-决赛圈了-pcx160-豪爵-uhr-阿普利亚-sr250max-求指导](https://www.v2ex.com/t/893911) 
+- [【V2EX】2022-11-09-有云电脑为啥没有云电视？](https://www.v2ex.com/t/893910) 
 - [【V2EX】2022-11-09-Rust-闭包可变借用参数生命周期如何处理?](https://www.v2ex.com/t/893906) 
 - [【V2EX】2022-11-09-GOOGLE-VOICE-搞了批发价-不知道有没有大佬批量要？](https://www.v2ex.com/t/893905) 
 - [【V2EX】2022-11-09-陪我五年多的键盘坏掉了](https://www.v2ex.com/t/893904) 
@@ -98,16 +106,6 @@
 - [【V2EX】2022-11-09-老婆孕后记忆力严重下降，花了两周给她写了待办事项提醒](https://www.v2ex.com/t/893873) 
 - [【V2EX】2022-11-09-由于被人说推广，这次啥都不说，直接送。](https://www.v2ex.com/t/893872) 
 - [【V2EX】2022-11-09-面试做算法好烦，老程序员实在做不了](https://www.v2ex.com/t/893871) 
-- [【V2EX】2022-11-09-WIN11-发布-1-年零-1-个月了,-WIN11-能用/好用么?](https://www.v2ex.com/t/893869) 
-- [【V2EX】2022-11-09-WonderPen-妙笔写作软件双十一-7-折优惠](https://www.v2ex.com/t/893868) 
-- [【V2EX】2022-11-09-决赛圈-model-S-or-...](https://www.v2ex.com/t/893866) 
-- [【V2EX】2022-11-09-kafka-生产者和业务耦合的关系](https://www.v2ex.com/t/893864) 
-- [【V2EX】2022-11-09-26-岁相亲被嫌年纪大](https://www.v2ex.com/t/893863) 
-- [【V2EX】2022-11-09-我最近在写作-《高可用服务体系最佳实践》,-过来看看？](https://www.v2ex.com/t/893862) 
-- [【V2EX】2022-11-09-你们会屏蔽应用收集数据的-sdk-吗](https://www.v2ex.com/t/893861) 
-- [【V2EX】2022-11-09-大家有新标签页扩展推荐么](https://www.v2ex.com/t/893860) 
-- [【V2EX】2022-11-09-错怪-iPhone-了，-16G-内存-iPad-Pro-一样闪退](https://www.v2ex.com/t/893859) 
-- [【V2EX】2022-11-09-Arc-浏览器注册账号的时候提示-unknown-server-error](https://www.v2ex.com/t/893858) 
 - [【技术头条】2022-11-09-DDD的哲学意味（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15405&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fddd-philosophy-entity-value-object%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-09-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-09-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -143,8 +141,8 @@
 - [【开发者头条】2022-11-09-聊聊在-Spring-Boot-项目中如何配置多个-Kafka-消费者](https://toutiao.io/k/5g1dxrn) 
 - [【开发者头条】2022-11-09-再有人问你如何实现订单到期关闭，就把这篇文章发给他](https://toutiao.io/k/osseclq) 
 - [【开发者头条】2022-11-09-使用访问控制策略访问服务网格内的服务](https://toutiao.io/k/mjdbfkl) 
-- [【开发者头条】2022-11-09-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) 
 - [【开发者头条】2022-11-09-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) 
+- [【开发者头条】2022-11-09-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

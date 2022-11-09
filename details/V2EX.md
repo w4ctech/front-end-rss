@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2022-11-09 16:59:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-09 17:23:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-11-09-Ubuntu-上-百度网盘客户端篡改-html-文件默认打开方式问题，如何管理文件访问权限？](https://www.v2ex.com/t/894000) 
+- [2022-11-09-debian-阿里源慢](https://www.v2ex.com/t/893999) 
 - [2022-11-09-21-款凯美瑞车机有啥好玩的玩法？](https://www.v2ex.com/t/893998) 
 - [2022-11-09-突发奇想，注册了个域名，是否是一种另类的一眼“记住”呢哈哈哈？-mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm.me](https://www.v2ex.com/t/893997) 
 - [2022-11-09-为什么如此多的-App-都会提供代理设定](https://www.v2ex.com/t/893996) 

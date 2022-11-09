@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-09 07:15:58，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-09 07:39:08，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,13 @@
 </summary>
 
 
+- [2022-11-09-由于被人说推广，这次啥都不说，直接送。](https://www.v2ex.com/t/893872) ![](assets/new.png)  
+- [2022-11-09-面试做算法好烦，老程序员实在做不了](https://www.v2ex.com/t/893871) ![](assets/new.png)  
+- [2022-11-09-WIN11-发布-1-年零-1-个月了,-WIN11-能用/好用么?](https://www.v2ex.com/t/893869) ![](assets/new.png)  
+- [2022-11-09-WonderPen-妙笔写作软件双十一-7-折优惠](https://www.v2ex.com/t/893868) ![](assets/new.png)  
+- [2022-11-09-决赛圈-model-S-or-...](https://www.v2ex.com/t/893866) ![](assets/new.png)  
+- [2022-11-09-kafka-生产者和业务耦合的关系](https://www.v2ex.com/t/893864) ![](assets/new.png)  
+- [2022-11-09-26-岁相亲被嫌年纪大](https://www.v2ex.com/t/893863) ![](assets/new.png)  
 - [2022-11-09-我最近在写作-《高可用服务体系最佳实践》,-过来看看？](https://www.v2ex.com/t/893862) ![](assets/new.png)  
 - [2022-11-09-你们会屏蔽应用收集数据的-sdk-吗](https://www.v2ex.com/t/893861) ![](assets/new.png)  
 - [2022-11-09-大家有新标签页扩展推荐么](https://www.v2ex.com/t/893860) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-11-09-mac-vscode-里面的终端不能使用鼠标点击中键粘贴吗？](https://www.v2ex.com/t/893850) ![](assets/new.png)  
 - [2022-11-09-分享Win-11-真香](https://www.v2ex.com/t/893847) ![](assets/new.png)  
 - [2022-11-09-80-岁老人独自操作视频通话用什么设备合适](https://www.v2ex.com/t/893845) ![](assets/new.png)  
-- [2022-11-09-数据可视化分析之新技能——魔数图](https://www.v2ex.com/t/893844) ![](assets/new.png)  
-- [2022-11-09-vpn-共享问题](https://www.v2ex.com/t/893841) ![](assets/new.png)  
-- [2022-11-09-把-idea-换回来-2018-版本，久违的流畅呀](https://www.v2ex.com/t/893840) ![](assets/new.png)  
-- [2022-11-09-针对-SaaS-系统离线使用的技术方案](https://www.v2ex.com/t/893838) ![](assets/new.png)  
-- [2022-11-09-微信不返回省份、城市、性别数据，有什么替代方法](https://www.v2ex.com/t/893836) ![](assets/new.png)  
-- [2022-11-09-注册了一个域名](https://www.v2ex.com/t/893835) ![](assets/new.png)  
-- [2022-11-09-那些决定回老家的程序员最终都去做什么了？](https://www.v2ex.com/t/893834) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -561,15 +561,15 @@
 - [2022-11-09-面试官：你懂-HTTP-缓存，那说下浏览器强制刷新是怎么实现的？](https://toutiao.io/k/63uiuvh) ![](assets/new.png)  
 - [2022-11-09-从-0-开始做一个-WPF-+-Blazor-对话小程序](https://toutiao.io/k/bweopcp) ![](assets/new.png)  
 - [2022-11-09-深度学习中常用的激活函数](https://toutiao.io/k/rnh5ll8) ![](assets/new.png)  
-- [2022-11-09-拒绝暴力-kill--9-！我选择这样优雅停止-SpringBoot-服务](https://toutiao.io/k/6mkguyh) ![](assets/new.png)  
 - [2022-11-09-JDK-中自带的-JVM-分析工具](https://toutiao.io/k/fm8b4d0) ![](assets/new.png)  
+- [2022-11-09-拒绝暴力-kill--9-！我选择这样优雅停止-SpringBoot-服务](https://toutiao.io/k/6mkguyh) ![](assets/new.png)  
 - [2022-11-09-手把手教你写-Dart-ffi](https://toutiao.io/k/kw9ljhv) ![](assets/new.png)  
 - [2022-11-09-这-10-种神级性能优化手段，你用过几个？](https://toutiao.io/k/ihvxsb3) ![](assets/new.png)  
 - [2022-11-09-聊聊在-Spring-Boot-项目中如何配置多个-Kafka-消费者](https://toutiao.io/k/5g1dxrn) ![](assets/new.png)  
 - [2022-11-09-再有人问你如何实现订单到期关闭，就把这篇文章发给他](https://toutiao.io/k/osseclq) ![](assets/new.png)  
 - [2022-11-09-使用访问控制策略访问服务网格内的服务](https://toutiao.io/k/mjdbfkl) ![](assets/new.png)  
-- [2022-11-09-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) ![](assets/new.png)  
 - [2022-11-09-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) ![](assets/new.png)  
+- [2022-11-09-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

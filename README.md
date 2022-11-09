@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-09 10:16:19，:rocket: 更新条数: +2020， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-09 10:44:17，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-11-09-问问大家-ipv4-优先与-ipv6-优先有什么差别呀？](https://www.v2ex.com/t/893933) ![](assets/new.png)  
+- [2022-11-09-M1-Ventura-13.0-界面崩溃](https://www.v2ex.com/t/893932) ![](assets/new.png)  
+- [2022-11-09-在成都工作的各位，都住在那个地方呀](https://www.v2ex.com/t/893931) ![](assets/new.png)  
+- [2022-11-09-Ubuntu-的在-Snap-Store-里更新-Snap-Store-会报错"'snap-store'正在运行"，是遵循了什么设计哲学吗？](https://www.v2ex.com/t/893930) ![](assets/new.png)  
 - [2022-11-09-iOS-国行测试版增加限制，仅能对所有人开启十分钟-Airdrop](https://www.v2ex.com/t/893929) ![](assets/new.png)  
 - [2022-11-09-.NET-7-AOT-支持不支持-macOS](https://www.v2ex.com/t/893928) ![](assets/new.png)  
 - [2022-11-09-Jenkins-配置-slave-节点连接失败：-Connection-closed-before-acknowledgement-sent](https://www.v2ex.com/t/893927) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-11-09-5950x-现在可以入手了不？](https://www.v2ex.com/t/893913) ![](assets/new.png)  
 - [2022-11-09-chrome-新版本-107.0.5304.88-和小米路由器冲突](https://www.v2ex.com/t/893912) ![](assets/new.png)  
 - [2022-11-09-有骑摩托的兄弟们吗-决赛圈了-pcx160-豪爵-uhr-阿普利亚-sr250max-求指导](https://www.v2ex.com/t/893911) ![](assets/new.png)  
-- [2022-11-09-有云电脑为啥没有云电视？](https://www.v2ex.com/t/893910) ![](assets/new.png)  
-- [2022-11-09-Rust-闭包可变借用参数生命周期如何处理?](https://www.v2ex.com/t/893906) ![](assets/new.png)  
-- [2022-11-09-GOOGLE-VOICE-搞了批发价-不知道有没有大佬批量要？](https://www.v2ex.com/t/893905) ![](assets/new.png)  
-- [2022-11-09-陪我五年多的键盘坏掉了](https://www.v2ex.com/t/893904) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -562,8 +562,8 @@
 - [2022-11-09-从-0-开始做一个-WPF-+-Blazor-对话小程序](https://toutiao.io/k/bweopcp) ![](assets/new.png)  
 - [2022-11-09-JDK-中自带的-JVM-分析工具](https://toutiao.io/k/fm8b4d0) ![](assets/new.png)  
 - [2022-11-09-拒绝暴力-kill--9-！我选择这样优雅停止-SpringBoot-服务](https://toutiao.io/k/6mkguyh) ![](assets/new.png)  
-- [2022-11-09-深度学习中常用的激活函数](https://toutiao.io/k/rnh5ll8) ![](assets/new.png)  
 - [2022-11-09-这-10-种神级性能优化手段，你用过几个？](https://toutiao.io/k/ihvxsb3) ![](assets/new.png)  
+- [2022-11-09-深度学习中常用的激活函数](https://toutiao.io/k/rnh5ll8) ![](assets/new.png)  
 - [2022-11-09-手把手教你写-Dart-ffi](https://toutiao.io/k/kw9ljhv) ![](assets/new.png)  
 - [2022-11-09-聊聊在-Spring-Boot-项目中如何配置多个-Kafka-消费者](https://toutiao.io/k/5g1dxrn) ![](assets/new.png)  
 - [2022-11-09-再有人问你如何实现订单到期关闭，就把这篇文章发给他](https://toutiao.io/k/osseclq) ![](assets/new.png)  

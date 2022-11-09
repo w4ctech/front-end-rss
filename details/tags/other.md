@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-09 10:16:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-09 10:44:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1917,6 +1917,10 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-11-09-问问大家-ipv4-优先与-ipv6-优先有什么差别呀？](https://www.v2ex.com/t/893933) 
+- [2022-11-09-M1-Ventura-13.0-界面崩溃](https://www.v2ex.com/t/893932) 
+- [2022-11-09-在成都工作的各位，都住在那个地方呀](https://www.v2ex.com/t/893931) 
+- [2022-11-09-Ubuntu-的在-Snap-Store-里更新-Snap-Store-会报错"'snap-store'正在运行"，是遵循了什么设计哲学吗？](https://www.v2ex.com/t/893930) 
 - [2022-11-09-iOS-国行测试版增加限制，仅能对所有人开启十分钟-Airdrop](https://www.v2ex.com/t/893929) 
 - [2022-11-09-.NET-7-AOT-支持不支持-macOS](https://www.v2ex.com/t/893928) 
 - [2022-11-09-关于-Firstrade-问一下用过的朋友](https://www.v2ex.com/t/893926) 
@@ -1941,9 +1945,6 @@
 - [2022-11-09-求一个甲骨文-VPS](https://www.v2ex.com/t/893892) 
 - [2022-11-09-配置工具又上瘾了，求打醒](https://www.v2ex.com/t/893891) 
 - [2022-11-09-做公司官网，更推荐-nuxt-还是-next？](https://www.v2ex.com/t/893888) 
-- [2022-11-09-想了解一下各位前辈入行至今的学习路线及学习方式](https://www.v2ex.com/t/893883) 
-- [2022-11-09-说说你有没有被职场-pua-过的经历](https://www.v2ex.com/t/893882) 
-- [2022-11-09-jetbrains-开源许可证要到期了](https://www.v2ex.com/t/893880) 
 - [2022-11-09-DDD的哲学意味（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15405&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fddd-philosophy-entity-value-object%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-09-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-09-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

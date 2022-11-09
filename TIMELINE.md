@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-09 10:16:19。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-09 10:44:18。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,10 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-09-问问大家-ipv4-优先与-ipv6-优先有什么差别呀？](https://www.v2ex.com/t/893933) 
+- [【V2EX】2022-11-09-M1-Ventura-13.0-界面崩溃](https://www.v2ex.com/t/893932) 
+- [【V2EX】2022-11-09-在成都工作的各位，都住在那个地方呀](https://www.v2ex.com/t/893931) 
+- [【V2EX】2022-11-09-Ubuntu-的在-Snap-Store-里更新-Snap-Store-会报错"'snap-store'正在运行"，是遵循了什么设计哲学吗？](https://www.v2ex.com/t/893930) 
 - [【V2EX】2022-11-09-iOS-国行测试版增加限制，仅能对所有人开启十分钟-Airdrop](https://www.v2ex.com/t/893929) 
 - [【V2EX】2022-11-09-.NET-7-AOT-支持不支持-macOS](https://www.v2ex.com/t/893928) 
 - [【V2EX】2022-11-09-Jenkins-配置-slave-节点连接失败：-Connection-closed-before-acknowledgement-sent](https://www.v2ex.com/t/893927) 
@@ -104,9 +108,6 @@
 - [【V2EX】2022-11-09-做公司官网，更推荐-nuxt-还是-next？](https://www.v2ex.com/t/893888) 
 - [【V2EX】2022-11-09-iphone13-pro-微信拍照稳定要卡-2-4-秒，拍视频则经常卡死，需要退出重进。](https://www.v2ex.com/t/893886) 
 - [【V2EX】2022-11-09-Kong-Inc.-中国研发中心火热🔥🔥招聘：后端开发，前端开发，-CRE-等](https://www.v2ex.com/t/893885) 
-- [【V2EX】2022-11-09-想了解一下各位前辈入行至今的学习路线及学习方式](https://www.v2ex.com/t/893883) 
-- [【V2EX】2022-11-09-说说你有没有被职场-pua-过的经历](https://www.v2ex.com/t/893882) 
-- [【V2EX】2022-11-09-jetbrains-开源许可证要到期了](https://www.v2ex.com/t/893880) 
 - [【技术头条】2022-11-09-DDD的哲学意味（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15405&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fddd-philosophy-entity-value-object%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-09-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-09-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -136,8 +137,8 @@
 - [【开发者头条】2022-11-09-从-0-开始做一个-WPF-+-Blazor-对话小程序](https://toutiao.io/k/bweopcp) 
 - [【开发者头条】2022-11-09-JDK-中自带的-JVM-分析工具](https://toutiao.io/k/fm8b4d0) 
 - [【开发者头条】2022-11-09-拒绝暴力-kill--9-！我选择这样优雅停止-SpringBoot-服务](https://toutiao.io/k/6mkguyh) 
-- [【开发者头条】2022-11-09-深度学习中常用的激活函数](https://toutiao.io/k/rnh5ll8) 
 - [【开发者头条】2022-11-09-这-10-种神级性能优化手段，你用过几个？](https://toutiao.io/k/ihvxsb3) 
+- [【开发者头条】2022-11-09-深度学习中常用的激活函数](https://toutiao.io/k/rnh5ll8) 
 - [【开发者头条】2022-11-09-手把手教你写-Dart-ffi](https://toutiao.io/k/kw9ljhv) 
 - [【开发者头条】2022-11-09-聊聊在-Spring-Boot-项目中如何配置多个-Kafka-消费者](https://toutiao.io/k/5g1dxrn) 
 - [【开发者头条】2022-11-09-再有人问你如何实现订单到期关闭，就把这篇文章发给他](https://toutiao.io/k/osseclq) 

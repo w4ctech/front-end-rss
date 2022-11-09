@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-09 08:47:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-09 09:15:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1917,6 +1917,13 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-11-09-Rust-闭包可变借用参数生命周期如何处理?](https://www.v2ex.com/t/893906) 
+- [2022-11-09-GOOGLE-VOICE-搞了批发价-不知道有没有大佬批量要？](https://www.v2ex.com/t/893905) 
+- [2022-11-09-陪我五年多的键盘坏掉了](https://www.v2ex.com/t/893904) 
+- [2022-11-09-新国标电动车，小刀小罗曼电动车怎么解除限速？](https://www.v2ex.com/t/893903) 
+- [2022-11-09-北京校招-Offer-如何选：大厂-or-央企](https://www.v2ex.com/t/893902) 
+- [2022-11-09-个人对-MAC-和-Win-选择的一些看法，和-MAC-下-Parallels-Desktop-虚拟机使用体验](https://www.v2ex.com/t/893901) 
+- [2022-11-09-求大佬帮忙做-WordPress-网站，长期合作](https://www.v2ex.com/t/893900) 
 - [2022-11-09-形势有点不妙，广州会不会跟三月份的上海一样？](https://www.v2ex.com/t/893896) 
 - [2022-11-09-天翼云服务器双-11-全场-3-折](https://www.v2ex.com/t/893895) 
 - [2022-11-09-小米手机如何禁止-APP-自动运行](https://www.v2ex.com/t/893893) 
@@ -1941,12 +1948,6 @@
 - [2022-11-09-你们会屏蔽应用收集数据的-sdk-吗](https://www.v2ex.com/t/893861) 
 - [2022-11-09-大家有新标签页扩展推荐么](https://www.v2ex.com/t/893860) 
 - [2022-11-09-错怪-iPhone-了，-16G-内存-iPad-Pro-一样闪退](https://www.v2ex.com/t/893859) 
-- [2022-11-09-大家有什么优雅的密码管理方法](https://www.v2ex.com/t/893857) 
-- [2022-11-09-有啥学习英语好用的-app-吗？本人基础比较差，-4-级-460-分](https://www.v2ex.com/t/893856) 
-- [2022-11-09-家装师傅给我换了-7-类线是智商税吗](https://www.v2ex.com/t/893852) 
-- [2022-11-09-杭州-阿里淘宝技术-P5\P6-前端后端，老板靠谱不卷](https://www.v2ex.com/t/893851) 
-- [2022-11-09-mac-vscode-里面的终端不能使用鼠标点击中键粘贴吗？](https://www.v2ex.com/t/893850) 
-- [2022-11-09-分享Win-11-真香](https://www.v2ex.com/t/893847) 
 - [2022-11-09-DDD的哲学意味（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15405&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fddd-philosophy-entity-value-object%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-09-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-09-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

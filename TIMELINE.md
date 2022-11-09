@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-09 08:47:59。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-09 09:15:00。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,16 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-09-Rust-闭包可变借用参数生命周期如何处理?](https://www.v2ex.com/t/893906) 
+- [【V2EX】2022-11-09-GOOGLE-VOICE-搞了批发价-不知道有没有大佬批量要？](https://www.v2ex.com/t/893905) 
+- [【V2EX】2022-11-09-陪我五年多的键盘坏掉了](https://www.v2ex.com/t/893904) 
+- [【V2EX】2022-11-09-新国标电动车，小刀小罗曼电动车怎么解除限速？](https://www.v2ex.com/t/893903) 
+- [【V2EX】2022-11-09-北京校招-Offer-如何选：大厂-or-央企](https://www.v2ex.com/t/893902) 
+- [【V2EX】2022-11-09-个人对-MAC-和-Win-选择的一些看法，和-MAC-下-Parallels-Desktop-虚拟机使用体验](https://www.v2ex.com/t/893901) 
+- [【V2EX】2022-11-09-求大佬帮忙做-WordPress-网站，长期合作](https://www.v2ex.com/t/893900) 
+- [【V2EX】2022-11-09-elasticsearch-首次搜索过慢的问题，-4-千万数据](https://www.v2ex.com/t/893899) 
+- [【V2EX】2022-11-09-关于演员、电影、分类的-restful-api-设计](https://www.v2ex.com/t/893898) 
+- [【V2EX】2022-11-09-Easter-Eggs-一个-Android-彩蛋集](https://www.v2ex.com/t/893897) 
 - [【V2EX】2022-11-09-形势有点不妙，广州会不会跟三月份的上海一样？](https://www.v2ex.com/t/893896) 
 - [【V2EX】2022-11-09-天翼云服务器双-11-全场-3-折](https://www.v2ex.com/t/893895) 
 - [【V2EX】2022-11-09-小米手机如何禁止-APP-自动运行](https://www.v2ex.com/t/893893) 
@@ -98,13 +108,6 @@
 - [【V2EX】2022-11-09-大家有新标签页扩展推荐么](https://www.v2ex.com/t/893860) 
 - [【V2EX】2022-11-09-错怪-iPhone-了，-16G-内存-iPad-Pro-一样闪退](https://www.v2ex.com/t/893859) 
 - [【V2EX】2022-11-09-Arc-浏览器注册账号的时候提示-unknown-server-error](https://www.v2ex.com/t/893858) 
-- [【V2EX】2022-11-09-大家有什么优雅的密码管理方法](https://www.v2ex.com/t/893857) 
-- [【V2EX】2022-11-09-有啥学习英语好用的-app-吗？本人基础比较差，-4-级-460-分](https://www.v2ex.com/t/893856) 
-- [【V2EX】2022-11-09-美企-remote-Klarity-Health-招聘产品、开发、增长、运营、设计](https://www.v2ex.com/t/893853) 
-- [【V2EX】2022-11-09-家装师傅给我换了-7-类线是智商税吗](https://www.v2ex.com/t/893852) 
-- [【V2EX】2022-11-09-杭州-阿里淘宝技术-P5\P6-前端后端，老板靠谱不卷](https://www.v2ex.com/t/893851) 
-- [【V2EX】2022-11-09-mac-vscode-里面的终端不能使用鼠标点击中键粘贴吗？](https://www.v2ex.com/t/893850) 
-- [【V2EX】2022-11-09-分享Win-11-真香](https://www.v2ex.com/t/893847) 
 - [【技术头条】2022-11-09-DDD的哲学意味（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15405&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fddd-philosophy-entity-value-object%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-09-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-09-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

@@ -1,10 +1,19 @@
-:alarm_clock: 更新时间: 2022-11-09 09:41:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-09 10:16:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-11-09-iOS-国行测试版增加限制，仅能对所有人开启十分钟-Airdrop](https://www.v2ex.com/t/893929) 
+- [2022-11-09-.NET-7-AOT-支持不支持-macOS](https://www.v2ex.com/t/893928) 
+- [2022-11-09-Jenkins-配置-slave-节点连接失败：-Connection-closed-before-acknowledgement-sent](https://www.v2ex.com/t/893927) 
+- [2022-11-09-关于-Firstrade-问一下用过的朋友](https://www.v2ex.com/t/893926) 
+- [2022-11-09-动态周生成动态表格问题](https://www.v2ex.com/t/893925) 
+- [2022-11-09-微信有什么好的备份方法吗？](https://www.v2ex.com/t/893924) 
+- [2022-11-09-忍痛俄区回国区，发现其实更好了](https://www.v2ex.com/t/893922) 
+- [2022-11-09-触控板用了几个月手指疼](https://www.v2ex.com/t/893921) 
+- [2022-11-09-北京抽屉招聘网站编辑/社区运营](https://www.v2ex.com/t/893920) 
 - [2022-11-09-想法需要保存下来吗](https://www.v2ex.com/t/893919) 
 - [2022-11-09-手机相册同步备份最佳方案](https://www.v2ex.com/t/893917) 
 - [2022-11-09-远程办公-招聘啦！-区块链老牌大厂多个岗位开放，-20～-60k，-15-薪，欢迎小伙伴们来撩～](https://www.v2ex.com/t/893916) 
@@ -23,7 +32,6 @@
 - [2022-11-09-elasticsearch-首次搜索过慢的问题，-4-千万数据](https://www.v2ex.com/t/893899) 
 - [2022-11-09-关于演员、电影、分类的-restful-api-设计](https://www.v2ex.com/t/893898) 
 - [2022-11-09-Easter-Eggs-一个-Android-彩蛋集](https://www.v2ex.com/t/893897) 
-- [2022-11-09-形势有点不妙，广州会不会跟三月份的上海一样？](https://www.v2ex.com/t/893896) 
 - [2022-11-09-天翼云服务器双-11-全场-3-折](https://www.v2ex.com/t/893895) 
 - [2022-11-09-小米手机如何禁止-APP-自动运行](https://www.v2ex.com/t/893893) 
 - [2022-11-09-求一个甲骨文-VPS](https://www.v2ex.com/t/893892) 
@@ -34,10 +42,3 @@
 - [2022-11-09-想了解一下各位前辈入行至今的学习路线及学习方式](https://www.v2ex.com/t/893883) 
 - [2022-11-09-说说你有没有被职场-pua-过的经历](https://www.v2ex.com/t/893882) 
 - [2022-11-09-jetbrains-开源许可证要到期了](https://www.v2ex.com/t/893880) 
-- [2022-11-09-合同更换到另一家公司要同意吗？](https://www.v2ex.com/t/893879) 
-- [2022-11-09-大佬们-ubuntu-如何把多个-DEB-安装包打包成一个呢](https://www.v2ex.com/t/893877) 
-- [2022-11-09-macOS-的-map-跟-iOS-的-map-数据提供商不同](https://www.v2ex.com/t/893876) 
-- [2022-11-09-想每天记录与中年生活和疾病对抗的-blog，有技术老哥指导下嘛](https://www.v2ex.com/t/893875) 
-- [2022-11-09-老婆孕后记忆力严重下降，花了两周给她写了待办事项提醒](https://www.v2ex.com/t/893873) 
-- [2022-11-09-由于被人说推广，这次啥都不说，直接送。](https://www.v2ex.com/t/893872) 
-- [2022-11-09-面试做算法好烦，老程序员实在做不了](https://www.v2ex.com/t/893871) 

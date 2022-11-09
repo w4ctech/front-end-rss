@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-09 15:15:38。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-09 15:45:32。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,10 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-09-显卡驱动在高负载下容易不定时崩坏](https://www.v2ex.com/t/893989) 
+- [【V2EX】2022-11-09-这样的工作性价比高还是低？](https://www.v2ex.com/t/893988) 
+- [【V2EX】2022-11-09-zlibrary-书籍无法下载的问题](https://www.v2ex.com/t/893987) 
+- [【V2EX】2022-11-09-全职前端远程工作机会](https://www.v2ex.com/t/893984) 
 - [【V2EX】2022-11-09-chrome-网址栏输入-v2ex。com-会奔溃闪退？](https://www.v2ex.com/t/893983) 
 - [【V2EX】2022-11-09-做一个监控各个外包平台的监控，一有新的发通知，支持关键词过滤，会有人愿意付费吗](https://www.v2ex.com/t/893982) 
 - [【V2EX】2022-11-09-建了个期货交流的群](https://www.v2ex.com/t/893981) 
@@ -104,13 +108,6 @@
 - [【V2EX】2022-11-09-前端新玩具：-Nashi.js](https://www.v2ex.com/t/893944) 
 - [【V2EX】2022-11-09-tim-安卓版邮箱模块没有了？](https://www.v2ex.com/t/893943) 
 - [【V2EX】2022-11-09-惊闻-Meta-裁员……有没有海的那边的朋友讲讲，现在美国程序员就业情况怎么样？](https://www.v2ex.com/t/893942) 
-- [【V2EX】2022-11-09-把每个月的工资当最后的一次工资](https://www.v2ex.com/t/893941) 
-- [【V2EX】2022-11-09-双十一想买个投影，没经验，请大家给推荐个](https://www.v2ex.com/t/893940) 
-- [【V2EX】2022-11-09-升级了-macOS-13-的，设置-通用-登录项-允许在后台，可以看到申请后台启动的项目了，并且会标记来自不明的开发者](https://www.v2ex.com/t/893939) 
-- [【V2EX】2022-11-09-河北联通千兆宽带的上传好像翻倍了](https://www.v2ex.com/t/893938) 
-- [【V2EX】2022-11-09-有必要把我的微信换到港区手机号上么？](https://www.v2ex.com/t/893937) 
-- [【V2EX】2022-11-09-阿里云老用户新购服务器低至-3.6-折-新用户-50-元/年](https://www.v2ex.com/t/893936) 
-- [【V2EX】2022-11-09-这..刚要提离职，还没说呢领导给我加薪了](https://www.v2ex.com/t/893934) 
 - [【技术头条】2022-11-09-DDD的哲学意味（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15405&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fddd-philosophy-entity-value-object%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-09-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-09-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -134,8 +131,8 @@
 - [【开发者头条】2022-11-09-MySQL-基于-binlake-同步-ES-积压解决方案](https://toutiao.io/k/qkyv5bw) 
 - [【开发者头条】2022-11-09-Go-十年了，终于想起要统一-log-库了](https://toutiao.io/k/pljw7jn) 
 - [【开发者头条】2022-11-09-实时数仓架构设计](https://toutiao.io/k/7w1ndgi) 
-- [【开发者头条】2022-11-09-面试官：你懂-HTTP-缓存，那说下浏览器强制刷新是怎么实现的？](https://toutiao.io/k/63uiuvh) 
 - [【开发者头条】2022-11-09-如何实现一个-SQL-解析器](https://toutiao.io/k/6ynbonf) 
+- [【开发者头条】2022-11-09-面试官：你懂-HTTP-缓存，那说下浏览器强制刷新是怎么实现的？](https://toutiao.io/k/63uiuvh) 
 - [【开发者头条】2022-11-09-RocketMQ-核心原理解析](https://toutiao.io/k/vlg238y) 
 - [【开发者头条】2022-11-09-从-0-开始做一个-WPF-+-Blazor-对话小程序](https://toutiao.io/k/bweopcp) 
 - [【开发者头条】2022-11-09-JDK-中自带的-JVM-分析工具](https://toutiao.io/k/fm8b4d0) 

@@ -9953,6 +9953,26 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "显卡驱动在高负载下容易不定时崩坏",
+        "link": "https://www.v2ex.com/t/893989",
+        "date": "2022-11-09"
+      },
+      {
+        "title": "这样的工作性价比高还是低？",
+        "link": "https://www.v2ex.com/t/893988",
+        "date": "2022-11-09"
+      },
+      {
+        "title": "zlibrary 书籍无法下载的问题",
+        "link": "https://www.v2ex.com/t/893987",
+        "date": "2022-11-09"
+      },
+      {
+        "title": "[全职]前端远程工作机会",
+        "link": "https://www.v2ex.com/t/893984",
+        "date": "2022-11-09"
+      },
+      {
         "title": "chrome 网址栏输入 v2ex。com 会奔溃闪退？",
         "link": "https://www.v2ex.com/t/893983",
         "date": "2022-11-09"
@@ -10121,41 +10141,6 @@
         "title": "惊闻 Meta 裁员……有没有海的那边的朋友讲讲，现在美国程序员就业情况怎么样？",
         "link": "https://www.v2ex.com/t/893942",
         "date": "2022-11-09"
-      },
-      {
-        "title": "把每个月的工资当最后的一次工资",
-        "link": "https://www.v2ex.com/t/893941",
-        "date": "2022-11-09"
-      },
-      {
-        "title": "双十一想买个投影，没经验，请大家给推荐个",
-        "link": "https://www.v2ex.com/t/893940",
-        "date": "2022-11-09"
-      },
-      {
-        "title": "升级了 macOS 13 的，设置-通用-登录项-允许在后台，可以看到申请后台启动的项目了，并且会标记来自不明的开发者",
-        "link": "https://www.v2ex.com/t/893939",
-        "date": "2022-11-09"
-      },
-      {
-        "title": "河北联通千兆宽带的上传好像翻倍了",
-        "link": "https://www.v2ex.com/t/893938",
-        "date": "2022-11-09"
-      },
-      {
-        "title": "有必要把我的微信换到港区手机号上么？",
-        "link": "https://www.v2ex.com/t/893937",
-        "date": "2022-11-09"
-      },
-      {
-        "title": "阿里云老用户新购服务器低至 3.6 折 新用户 50 元/年",
-        "link": "https://www.v2ex.com/t/893936",
-        "date": "2022-11-09"
-      },
-      {
-        "title": "这..刚要提离职，还没说呢领导给我加薪了",
-        "link": "https://www.v2ex.com/t/893934",
-        "date": "2022-11-09"
       }
     ]
   },
@@ -10287,13 +10272,13 @@
         "date": "2022-11-09"
       },
       {
-        "title": "面试官：你懂 HTTP 缓存，那说下浏览器强制刷新是怎么实现的？",
-        "link": "https://toutiao.io/k/63uiuvh",
+        "title": "如何实现一个 SQL 解析器",
+        "link": "https://toutiao.io/k/6ynbonf",
         "date": "2022-11-09"
       },
       {
-        "title": "如何实现一个 SQL 解析器",
-        "link": "https://toutiao.io/k/6ynbonf",
+        "title": "面试官：你懂 HTTP 缓存，那说下浏览器强制刷新是怎么实现的？",
+        "link": "https://toutiao.io/k/63uiuvh",
         "date": "2022-11-09"
       },
       {

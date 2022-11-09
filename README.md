@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-09 15:15:38，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-09 15:45:32，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-11-09-显卡驱动在高负载下容易不定时崩坏](https://www.v2ex.com/t/893989) ![](assets/new.png)  
+- [2022-11-09-这样的工作性价比高还是低？](https://www.v2ex.com/t/893988) ![](assets/new.png)  
+- [2022-11-09-zlibrary-书籍无法下载的问题](https://www.v2ex.com/t/893987) ![](assets/new.png)  
+- [2022-11-09-全职前端远程工作机会](https://www.v2ex.com/t/893984) ![](assets/new.png)  
 - [2022-11-09-chrome-网址栏输入-v2ex。com-会奔溃闪退？](https://www.v2ex.com/t/893983) ![](assets/new.png)  
 - [2022-11-09-做一个监控各个外包平台的监控，一有新的发通知，支持关键词过滤，会有人愿意付费吗](https://www.v2ex.com/t/893982) ![](assets/new.png)  
 - [2022-11-09-建了个期货交流的群](https://www.v2ex.com/t/893981) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-11-09-广东电信好像慢慢也不给公网-ip-了](https://www.v2ex.com/t/893969) ![](assets/new.png)  
 - [2022-11-09-如何对一个-docker-实例进行-netstat-？](https://www.v2ex.com/t/893968) ![](assets/new.png)  
 - [2022-11-09-WLB-外企-Coupang-内推-薪资接得住任何大厂-大量-Java-p6,p7p8-机器学习](https://www.v2ex.com/t/893967) ![](assets/new.png)  
-- [2022-11-09-无能的领导最恶心](https://www.v2ex.com/t/893966) ![](assets/new.png)  
-- [2022-11-09-iPhone-X-换-iPhone-13-Mini-还是-iPhone-13？](https://www.v2ex.com/t/893965) ![](assets/new.png)  
-- [2022-11-09-日本東京-KKday-招募-Technical-Lead・需要精通日語](https://www.v2ex.com/t/893964) ![](assets/new.png)  
-- [2022-11-09-有出租整租的房子的](https://www.v2ex.com/t/893963) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -556,8 +556,8 @@
 - [2022-11-09-MySQL-基于-binlake-同步-ES-积压解决方案](https://toutiao.io/k/qkyv5bw) ![](assets/new.png)  
 - [2022-11-09-Go-十年了，终于想起要统一-log-库了](https://toutiao.io/k/pljw7jn) ![](assets/new.png)  
 - [2022-11-09-实时数仓架构设计](https://toutiao.io/k/7w1ndgi) ![](assets/new.png)  
-- [2022-11-09-面试官：你懂-HTTP-缓存，那说下浏览器强制刷新是怎么实现的？](https://toutiao.io/k/63uiuvh) ![](assets/new.png)  
 - [2022-11-09-如何实现一个-SQL-解析器](https://toutiao.io/k/6ynbonf) ![](assets/new.png)  
+- [2022-11-09-面试官：你懂-HTTP-缓存，那说下浏览器强制刷新是怎么实现的？](https://toutiao.io/k/63uiuvh) ![](assets/new.png)  
 - [2022-11-09-RocketMQ-核心原理解析](https://toutiao.io/k/vlg238y) ![](assets/new.png)  
 - [2022-11-09-从-0-开始做一个-WPF-+-Blazor-对话小程序](https://toutiao.io/k/bweopcp) ![](assets/new.png)  
 - [2022-11-09-JDK-中自带的-JVM-分析工具](https://toutiao.io/k/fm8b4d0) ![](assets/new.png)  

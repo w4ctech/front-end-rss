@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-09 04:28:10。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-09 05:09:18。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,11 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-09-燃气公司有没有义务推送账单](https://www.v2ex.com/t/893821) 
+- [【V2EX】2022-11-09-“韩剧-TV”APP-5-名相关负责人被判处三年至一年三个月不等。大家接私活、远程要注意下是否合规呀](https://www.v2ex.com/t/893820) 
+- [【V2EX】2022-11-09-怎样练成看见垃圾能自动视而不见的能力呢](https://www.v2ex.com/t/893819) 
+- [【V2EX】2022-11-09-求职-深圳-项目管理岗-硕士学历-有互联网大厂经历](https://www.v2ex.com/t/893818) 
+- [【V2EX】2022-11-09-前天发现百度居然能改名了,-但是有坑...](https://www.v2ex.com/t/893817) 
 - [【V2EX】2022-11-09-不懂就问，什么协议能支持-web-上远程-win-或者-Linux-？](https://www.v2ex.com/t/893816) 
 - [【V2EX】2022-11-09-双十一想买台-mac，可在纠结-air-还是-pro](https://www.v2ex.com/t/893815) 
 - [【V2EX】2022-11-09-海淘日亚-Apple-TV-2022，快两周了还没发货](https://www.v2ex.com/t/893814) 
@@ -103,9 +108,6 @@
 - [【V2EX】2022-11-09-SAO.FM-一个极小众轻量型的音频及电台收听网站](https://www.v2ex.com/t/893779) 
 - [【V2EX】2022-11-09-感觉简悦是一个很奇怪的服务](https://www.v2ex.com/t/893776) 
 - [【V2EX】2022-11-09-用-Apple-TV，仅仅投屏体验如何，如仅开通手机端会员](https://www.v2ex.com/t/893774) 
-- [【V2EX】2022-11-09-我的矿卡好像-75%确定翻车了。。。喜闻乐见版](https://www.v2ex.com/t/893770) 
-- [【V2EX】2022-11-09-昨晚刚选下单的-airpods-pro2-今天暴雷了，在犹豫要不要退掉](https://www.v2ex.com/t/893769) 
-- [【V2EX】2022-11-09-Win11-22H-页面闲置太久，按快捷键会让整个资源管理器会崩溃](https://www.v2ex.com/t/893768) 
 - [【技术头条】2022-11-09-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-09-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-09-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

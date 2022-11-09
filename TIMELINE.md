@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-09 11:38:34。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-09 12:31:37。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,18 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-09-你们在图书-APP-上有遇到过这个问题吗](https://www.v2ex.com/t/893953) 
+- [【V2EX】2022-11-09-Java-怎么使用自签证书访问双向认证的网站？](https://www.v2ex.com/t/893952) 
+- [【V2EX】2022-11-09-Mirai-https://github.com/mamoe/mirai-这个-qq-机器人支持库-我想用它开发一个-web-qq-纯开源的话有法律风险吗](https://www.v2ex.com/t/893951) 
+- [【V2EX】2022-11-09-短信，-sms，国际短信，群发短信，出海短信](https://www.v2ex.com/t/893949) 
+- [【V2EX】2022-11-09-我们提供国际短信服务](https://www.v2ex.com/t/893946) 
+- [【V2EX】2022-11-09-阿里云无影杭州/北京/上海/深圳招聘-Java-开发和测试开发](https://www.v2ex.com/t/893945) 
+- [【V2EX】2022-11-09-前端新玩具：-Nashi.js](https://www.v2ex.com/t/893944) 
+- [【V2EX】2022-11-09-tim-安卓版邮箱模块没有了？](https://www.v2ex.com/t/893943) 
+- [【V2EX】2022-11-09-惊闻-Meta-裁员……有没有海的那边的朋友讲讲，现在美国程序员就业情况怎么样？](https://www.v2ex.com/t/893942) 
+- [【V2EX】2022-11-09-把每个月的工资当最后的一次工资](https://www.v2ex.com/t/893941) 
+- [【V2EX】2022-11-09-双十一想买个投影，没经验，请大家给推荐个](https://www.v2ex.com/t/893940) 
+- [【V2EX】2022-11-09-升级了-macOS-13-的，设置-通用-登录项-允许在后台，可以看到申请后台启动的项目了，并且会标记来自不明的开发者](https://www.v2ex.com/t/893939) 
 - [【V2EX】2022-11-09-河北联通千兆宽带的上传好像翻倍了](https://www.v2ex.com/t/893938) 
 - [【V2EX】2022-11-09-有必要把我的微信换到港区手机号上么？](https://www.v2ex.com/t/893937) 
 - [【V2EX】2022-11-09-阿里云老用户新购服务器低至-3.6-折-新用户-50-元/年](https://www.v2ex.com/t/893936) 
@@ -98,17 +110,6 @@
 - [【V2EX】2022-11-09-Rust-闭包可变借用参数生命周期如何处理?](https://www.v2ex.com/t/893906) 
 - [【V2EX】2022-11-09-GOOGLE-VOICE-搞了批发价-不知道有没有大佬批量要？](https://www.v2ex.com/t/893905) 
 - [【V2EX】2022-11-09-陪我五年多的键盘坏掉了](https://www.v2ex.com/t/893904) 
-- [【V2EX】2022-11-09-新国标电动车，小刀小罗曼电动车怎么解除限速？](https://www.v2ex.com/t/893903) 
-- [【V2EX】2022-11-09-北京校招-Offer-如何选：大厂-or-央企](https://www.v2ex.com/t/893902) 
-- [【V2EX】2022-11-09-个人对-MAC-和-Win-选择的一些看法，和-MAC-下-Parallels-Desktop-虚拟机使用体验](https://www.v2ex.com/t/893901) 
-- [【V2EX】2022-11-09-求大佬帮忙做-WordPress-网站，长期合作](https://www.v2ex.com/t/893900) 
-- [【V2EX】2022-11-09-elasticsearch-首次搜索过慢的问题，-4-千万数据](https://www.v2ex.com/t/893899) 
-- [【V2EX】2022-11-09-关于演员、电影、分类的-restful-api-设计](https://www.v2ex.com/t/893898) 
-- [【V2EX】2022-11-09-Easter-Eggs-一个-Android-彩蛋集](https://www.v2ex.com/t/893897) 
-- [【V2EX】2022-11-09-天翼云服务器双-11-全场-3-折](https://www.v2ex.com/t/893895) 
-- [【V2EX】2022-11-09-小米手机如何禁止-APP-自动运行](https://www.v2ex.com/t/893893) 
-- [【V2EX】2022-11-09-求一个甲骨文-VPS](https://www.v2ex.com/t/893892) 
-- [【V2EX】2022-11-09-配置工具又上瘾了，求打醒](https://www.v2ex.com/t/893891) 
 - [【技术头条】2022-11-09-DDD的哲学意味（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15405&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fddd-philosophy-entity-value-object%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-09-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-09-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -144,8 +145,8 @@
 - [【开发者头条】2022-11-09-聊聊在-Spring-Boot-项目中如何配置多个-Kafka-消费者](https://toutiao.io/k/5g1dxrn) 
 - [【开发者头条】2022-11-09-再有人问你如何实现订单到期关闭，就把这篇文章发给他](https://toutiao.io/k/osseclq) 
 - [【开发者头条】2022-11-09-使用访问控制策略访问服务网格内的服务](https://toutiao.io/k/mjdbfkl) 
-- [【开发者头条】2022-11-09-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) 
 - [【开发者头条】2022-11-09-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) 
+- [【开发者头条】2022-11-09-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

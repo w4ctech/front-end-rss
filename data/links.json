@@ -9953,6 +9953,66 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "你们在图书 APP 上有遇到过这个问题吗",
+        "link": "https://www.v2ex.com/t/893953",
+        "date": "2022-11-09"
+      },
+      {
+        "title": "Java 怎么使用自签证书访问双向认证的网站？",
+        "link": "https://www.v2ex.com/t/893952",
+        "date": "2022-11-09"
+      },
+      {
+        "title": "Mirai https://github.com/mamoe/mirai 这个 qq 机器人支持库 我想用它开发一个 web qq 纯开源的话有法律风险吗",
+        "link": "https://www.v2ex.com/t/893951",
+        "date": "2022-11-09"
+      },
+      {
+        "title": "短信， sms，国际短信，群发短信，出海短信",
+        "link": "https://www.v2ex.com/t/893949",
+        "date": "2022-11-09"
+      },
+      {
+        "title": "我们提供国际短信服务",
+        "link": "https://www.v2ex.com/t/893946",
+        "date": "2022-11-09"
+      },
+      {
+        "title": "[阿里云][无影][杭州/北京/上海/深圳]招聘 Java 开发和测试开发",
+        "link": "https://www.v2ex.com/t/893945",
+        "date": "2022-11-09"
+      },
+      {
+        "title": "前端新玩具： Nashi.js",
+        "link": "https://www.v2ex.com/t/893944",
+        "date": "2022-11-09"
+      },
+      {
+        "title": "tim 安卓版邮箱模块没有了？",
+        "link": "https://www.v2ex.com/t/893943",
+        "date": "2022-11-09"
+      },
+      {
+        "title": "惊闻 Meta 裁员……有没有海的那边的朋友讲讲，现在美国程序员就业情况怎么样？",
+        "link": "https://www.v2ex.com/t/893942",
+        "date": "2022-11-09"
+      },
+      {
+        "title": "把每个月的工资当最后的一次工资",
+        "link": "https://www.v2ex.com/t/893941",
+        "date": "2022-11-09"
+      },
+      {
+        "title": "双十一想买个投影，没经验，请大家给推荐个",
+        "link": "https://www.v2ex.com/t/893940",
+        "date": "2022-11-09"
+      },
+      {
+        "title": "升级了 macOS 13 的，设置-通用-登录项-允许在后台，可以看到申请后台启动的项目了，并且会标记来自不明的开发者",
+        "link": "https://www.v2ex.com/t/893939",
+        "date": "2022-11-09"
+      },
+      {
         "title": "河北联通千兆宽带的上传好像翻倍了",
         "link": "https://www.v2ex.com/t/893938",
         "date": "2022-11-09"
@@ -10090,61 +10150,6 @@
       {
         "title": "陪我五年多的键盘坏掉了",
         "link": "https://www.v2ex.com/t/893904",
-        "date": "2022-11-09"
-      },
-      {
-        "title": "新国标电动车，小刀小罗曼电动车怎么解除限速？",
-        "link": "https://www.v2ex.com/t/893903",
-        "date": "2022-11-09"
-      },
-      {
-        "title": "北京校招 Offer 如何选：大厂 or 央企",
-        "link": "https://www.v2ex.com/t/893902",
-        "date": "2022-11-09"
-      },
-      {
-        "title": "个人对 MAC 和 Win 选择的一些看法，和 MAC 下 Parallels Desktop 虚拟机使用体验",
-        "link": "https://www.v2ex.com/t/893901",
-        "date": "2022-11-09"
-      },
-      {
-        "title": "求大佬帮忙做 WordPress 网站，长期合作",
-        "link": "https://www.v2ex.com/t/893900",
-        "date": "2022-11-09"
-      },
-      {
-        "title": "elasticsearch 首次搜索过慢的问题， 4 千万数据",
-        "link": "https://www.v2ex.com/t/893899",
-        "date": "2022-11-09"
-      },
-      {
-        "title": "关于演员、电影、分类的 restful api 设计",
-        "link": "https://www.v2ex.com/t/893898",
-        "date": "2022-11-09"
-      },
-      {
-        "title": "Easter Eggs 一个 Android 彩蛋集",
-        "link": "https://www.v2ex.com/t/893897",
-        "date": "2022-11-09"
-      },
-      {
-        "title": "天翼云服务器双 11 全场 3 折",
-        "link": "https://www.v2ex.com/t/893895",
-        "date": "2022-11-09"
-      },
-      {
-        "title": "小米手机如何禁止 APP 自动运行",
-        "link": "https://www.v2ex.com/t/893893",
-        "date": "2022-11-09"
-      },
-      {
-        "title": "求一个甲骨文 VPS",
-        "link": "https://www.v2ex.com/t/893892",
-        "date": "2022-11-09"
-      },
-      {
-        "title": "配置工具又上瘾了，求打醒",
-        "link": "https://www.v2ex.com/t/893891",
         "date": "2022-11-09"
       }
     ]
@@ -10337,13 +10342,13 @@
         "date": "2022-11-09"
       },
       {
-        "title": "[推荐] 如何画出一张优秀的架构图？（老鸟必备）",
-        "link": "https://toutiao.io/k/xiqybrh",
+        "title": "[推荐] 新来个技术总监，仅花 2 小时，撸出一个多线程永动任务，看完直接跪了，真牛逼",
+        "link": "https://toutiao.io/k/6u3q7ke",
         "date": "2022-11-09"
       },
       {
-        "title": "[推荐] 新来个技术总监，仅花 2 小时，撸出一个多线程永动任务，看完直接跪了，真牛逼",
-        "link": "https://toutiao.io/k/6u3q7ke",
+        "title": "[推荐] 如何画出一张优秀的架构图？（老鸟必备）",
+        "link": "https://toutiao.io/k/xiqybrh",
         "date": "2022-11-09"
       }
     ]

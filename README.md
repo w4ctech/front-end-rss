@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-09 11:38:33，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-09 12:31:36，:rocket: 更新条数: +2023， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,18 @@
 </summary>
 
 
+- [2022-11-09-你们在图书-APP-上有遇到过这个问题吗](https://www.v2ex.com/t/893953) ![](assets/new.png)  
+- [2022-11-09-Java-怎么使用自签证书访问双向认证的网站？](https://www.v2ex.com/t/893952) ![](assets/new.png)  
+- [2022-11-09-Mirai-https://github.com/mamoe/mirai-这个-qq-机器人支持库-我想用它开发一个-web-qq-纯开源的话有法律风险吗](https://www.v2ex.com/t/893951) ![](assets/new.png)  
+- [2022-11-09-短信，-sms，国际短信，群发短信，出海短信](https://www.v2ex.com/t/893949) ![](assets/new.png)  
+- [2022-11-09-我们提供国际短信服务](https://www.v2ex.com/t/893946) ![](assets/new.png)  
+- [2022-11-09-阿里云无影杭州/北京/上海/深圳招聘-Java-开发和测试开发](https://www.v2ex.com/t/893945) ![](assets/new.png)  
+- [2022-11-09-前端新玩具：-Nashi.js](https://www.v2ex.com/t/893944) ![](assets/new.png)  
+- [2022-11-09-tim-安卓版邮箱模块没有了？](https://www.v2ex.com/t/893943) ![](assets/new.png)  
+- [2022-11-09-惊闻-Meta-裁员……有没有海的那边的朋友讲讲，现在美国程序员就业情况怎么样？](https://www.v2ex.com/t/893942) ![](assets/new.png)  
+- [2022-11-09-把每个月的工资当最后的一次工资](https://www.v2ex.com/t/893941) ![](assets/new.png)  
+- [2022-11-09-双十一想买个投影，没经验，请大家给推荐个](https://www.v2ex.com/t/893940) ![](assets/new.png)  
+- [2022-11-09-升级了-macOS-13-的，设置-通用-登录项-允许在后台，可以看到申请后台启动的项目了，并且会标记来自不明的开发者](https://www.v2ex.com/t/893939) ![](assets/new.png)  
 - [2022-11-09-河北联通千兆宽带的上传好像翻倍了](https://www.v2ex.com/t/893938) ![](assets/new.png)  
 - [2022-11-09-有必要把我的微信换到港区手机号上么？](https://www.v2ex.com/t/893937) ![](assets/new.png)  
 - [2022-11-09-阿里云老用户新购服务器低至-3.6-折-新用户-50-元/年](https://www.v2ex.com/t/893936) ![](assets/new.png)  
@@ -499,18 +511,6 @@
 - [2022-11-09-M1-Ventura-13.0-界面崩溃](https://www.v2ex.com/t/893932) ![](assets/new.png)  
 - [2022-11-09-在成都工作的各位，都住在那个地方呀](https://www.v2ex.com/t/893931) ![](assets/new.png)  
 - [2022-11-09-Ubuntu-的在-Snap-Store-里更新-Snap-Store-会报错"'snap-store'正在运行"，是遵循了什么设计哲学吗？](https://www.v2ex.com/t/893930) ![](assets/new.png)  
-- [2022-11-09-iOS-国行测试版增加限制，仅能对所有人开启十分钟-Airdrop](https://www.v2ex.com/t/893929) ![](assets/new.png)  
-- [2022-11-09-.NET-7-AOT-支持不支持-macOS](https://www.v2ex.com/t/893928) ![](assets/new.png)  
-- [2022-11-09-Jenkins-配置-slave-节点连接失败：-Connection-closed-before-acknowledgement-sent](https://www.v2ex.com/t/893927) ![](assets/new.png)  
-- [2022-11-09-关于-Firstrade-问一下用过的朋友](https://www.v2ex.com/t/893926) ![](assets/new.png)  
-- [2022-11-09-动态周生成动态表格问题](https://www.v2ex.com/t/893925) ![](assets/new.png)  
-- [2022-11-09-微信有什么好的备份方法吗？](https://www.v2ex.com/t/893924) ![](assets/new.png)  
-- [2022-11-09-忍痛俄区回国区，发现其实更好了](https://www.v2ex.com/t/893922) ![](assets/new.png)  
-- [2022-11-09-触控板用了几个月手指疼](https://www.v2ex.com/t/893921) ![](assets/new.png)  
-- [2022-11-09-北京抽屉招聘网站编辑/社区运营](https://www.v2ex.com/t/893920) ![](assets/new.png)  
-- [2022-11-09-想法需要保存下来吗](https://www.v2ex.com/t/893919) ![](assets/new.png)  
-- [2022-11-09-手机相册同步备份最佳方案](https://www.v2ex.com/t/893917) ![](assets/new.png)  
-- [2022-11-09-远程办公-招聘啦！-区块链老牌大厂多个岗位开放，-20～-60k，-15-薪，欢迎小伙伴们来撩～](https://www.v2ex.com/t/893916) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -568,8 +568,8 @@
 - [2022-11-09-聊聊在-Spring-Boot-项目中如何配置多个-Kafka-消费者](https://toutiao.io/k/5g1dxrn) ![](assets/new.png)  
 - [2022-11-09-再有人问你如何实现订单到期关闭，就把这篇文章发给他](https://toutiao.io/k/osseclq) ![](assets/new.png)  
 - [2022-11-09-使用访问控制策略访问服务网格内的服务](https://toutiao.io/k/mjdbfkl) ![](assets/new.png)  
-- [2022-11-09-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) ![](assets/new.png)  
 - [2022-11-09-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) ![](assets/new.png)  
+- [2022-11-09-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

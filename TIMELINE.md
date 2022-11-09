@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-09 15:45:32。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-09 16:20:31。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,9 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-09-如果有一款软件，可以-24-小时帮您盯着网络上的一切感兴趣的内容，一旦有符合条件的变更立即通知你，你愿意为它点个赞吗？](https://www.v2ex.com/t/893995) 
+- [【V2EX】2022-11-09-国区-iCloud2T+Apple-Music-四缺二](https://www.v2ex.com/t/893993) 
+- [【V2EX】2022-11-09-KTC-M27P20-不支持-HIDPI？有用过的兄弟没](https://www.v2ex.com/t/893992) 
 - [【V2EX】2022-11-09-显卡驱动在高负载下容易不定时崩坏](https://www.v2ex.com/t/893989) 
 - [【V2EX】2022-11-09-这样的工作性价比高还是低？](https://www.v2ex.com/t/893988) 
 - [【V2EX】2022-11-09-zlibrary-书籍无法下载的问题](https://www.v2ex.com/t/893987) 
@@ -104,10 +107,6 @@
 - [【V2EX】2022-11-09-Java-怎么使用自签证书访问双向认证的网站？](https://www.v2ex.com/t/893952) 
 - [【V2EX】2022-11-09-Mirai-https://github.com/mamoe/mirai-这个-qq-机器人支持库-我想用它开发一个-web-qq-纯开源的话有法律风险吗](https://www.v2ex.com/t/893951) 
 - [【V2EX】2022-11-09-我们提供国际短信服务](https://www.v2ex.com/t/893946) 
-- [【V2EX】2022-11-09-阿里云无影杭州/北京/上海/深圳招聘-Java-开发和测试开发](https://www.v2ex.com/t/893945) 
-- [【V2EX】2022-11-09-前端新玩具：-Nashi.js](https://www.v2ex.com/t/893944) 
-- [【V2EX】2022-11-09-tim-安卓版邮箱模块没有了？](https://www.v2ex.com/t/893943) 
-- [【V2EX】2022-11-09-惊闻-Meta-裁员……有没有海的那边的朋友讲讲，现在美国程序员就业情况怎么样？](https://www.v2ex.com/t/893942) 
 - [【技术头条】2022-11-09-DDD的哲学意味（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15405&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fddd-philosophy-entity-value-object%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-09-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-09-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

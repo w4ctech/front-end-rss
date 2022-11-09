@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-09 06:55:25，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-09 07:15:58，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,16 @@
 </summary>
 
 
+- [2022-11-09-我最近在写作-《高可用服务体系最佳实践》,-过来看看？](https://www.v2ex.com/t/893862) ![](assets/new.png)  
+- [2022-11-09-你们会屏蔽应用收集数据的-sdk-吗](https://www.v2ex.com/t/893861) ![](assets/new.png)  
+- [2022-11-09-大家有新标签页扩展推荐么](https://www.v2ex.com/t/893860) ![](assets/new.png)  
+- [2022-11-09-错怪-iPhone-了，-16G-内存-iPad-Pro-一样闪退](https://www.v2ex.com/t/893859) ![](assets/new.png)  
+- [2022-11-09-Arc-浏览器注册账号的时候提示-unknown-server-error](https://www.v2ex.com/t/893858) ![](assets/new.png)  
+- [2022-11-09-大家有什么优雅的密码管理方法](https://www.v2ex.com/t/893857) ![](assets/new.png)  
+- [2022-11-09-有啥学习英语好用的-app-吗？本人基础比较差，-4-级-460-分](https://www.v2ex.com/t/893856) ![](assets/new.png)  
+- [2022-11-09-美企-remote-Klarity-Health-招聘产品、开发、增长、运营、设计](https://www.v2ex.com/t/893853) ![](assets/new.png)  
+- [2022-11-09-家装师傅给我换了-7-类线是智商税吗](https://www.v2ex.com/t/893852) ![](assets/new.png)  
+- [2022-11-09-杭州-阿里淘宝技术-P5\P6-前端后端，老板靠谱不卷](https://www.v2ex.com/t/893851) ![](assets/new.png)  
 - [2022-11-09-mac-vscode-里面的终端不能使用鼠标点击中键粘贴吗？](https://www.v2ex.com/t/893850) ![](assets/new.png)  
 - [2022-11-09-分享Win-11-真香](https://www.v2ex.com/t/893847) ![](assets/new.png)  
 - [2022-11-09-80-岁老人独自操作视频通话用什么设备合适](https://www.v2ex.com/t/893845) ![](assets/new.png)  
@@ -501,16 +511,6 @@
 - [2022-11-09-微信不返回省份、城市、性别数据，有什么替代方法](https://www.v2ex.com/t/893836) ![](assets/new.png)  
 - [2022-11-09-注册了一个域名](https://www.v2ex.com/t/893835) ![](assets/new.png)  
 - [2022-11-09-那些决定回老家的程序员最终都去做什么了？](https://www.v2ex.com/t/893834) ![](assets/new.png)  
-- [2022-11-09-v2ray-修改配置后如何优雅的重启不影响现有的链接](https://www.v2ex.com/t/893833) ![](assets/new.png)  
-- [2022-11-09-求图中代码字体](https://www.v2ex.com/t/893830) ![](assets/new.png)  
-- [2022-11-09-家里想给自己个-100-平左右的店铺，做些什么好？](https://www.v2ex.com/t/893829) ![](assets/new.png)  
-- [2022-11-09-想在网上配个眼镜，烦请有经验的-V-友指点一下。](https://www.v2ex.com/t/893828) ![](assets/new.png)  
-- [2022-11-09-听说-FTX-炸了](https://www.v2ex.com/t/893827) ![](assets/new.png)  
-- [2022-11-09-md2report-一个用于将-Markdown-文件转换为可以直接提交给学校的实验报告的工具](https://www.v2ex.com/t/893826) ![](assets/new.png)  
-- [2022-11-09-各位有在用石头-G10s-扫地机的朋友，帮忙分享下体验](https://www.v2ex.com/t/893825) ![](assets/new.png)  
-- [2022-11-09-网页浏览中的划词翻译](https://www.v2ex.com/t/893824) ![](assets/new.png)  
-- [2022-11-09-性价比高的联合会员，求推荐](https://www.v2ex.com/t/893823) ![](assets/new.png)  
-- [2022-11-09-日经：-iOS-输入法选择](https://www.v2ex.com/t/893822) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -562,14 +562,14 @@
 - [2022-11-09-从-0-开始做一个-WPF-+-Blazor-对话小程序](https://toutiao.io/k/bweopcp) ![](assets/new.png)  
 - [2022-11-09-深度学习中常用的激活函数](https://toutiao.io/k/rnh5ll8) ![](assets/new.png)  
 - [2022-11-09-拒绝暴力-kill--9-！我选择这样优雅停止-SpringBoot-服务](https://toutiao.io/k/6mkguyh) ![](assets/new.png)  
-- [2022-11-09-手把手教你写-Dart-ffi](https://toutiao.io/k/kw9ljhv) ![](assets/new.png)  
 - [2022-11-09-JDK-中自带的-JVM-分析工具](https://toutiao.io/k/fm8b4d0) ![](assets/new.png)  
+- [2022-11-09-手把手教你写-Dart-ffi](https://toutiao.io/k/kw9ljhv) ![](assets/new.png)  
 - [2022-11-09-这-10-种神级性能优化手段，你用过几个？](https://toutiao.io/k/ihvxsb3) ![](assets/new.png)  
 - [2022-11-09-聊聊在-Spring-Boot-项目中如何配置多个-Kafka-消费者](https://toutiao.io/k/5g1dxrn) ![](assets/new.png)  
 - [2022-11-09-再有人问你如何实现订单到期关闭，就把这篇文章发给他](https://toutiao.io/k/osseclq) ![](assets/new.png)  
 - [2022-11-09-使用访问控制策略访问服务网格内的服务](https://toutiao.io/k/mjdbfkl) ![](assets/new.png)  
-- [2022-11-09-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) ![](assets/new.png)  
 - [2022-11-09-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) ![](assets/new.png)  
+- [2022-11-09-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

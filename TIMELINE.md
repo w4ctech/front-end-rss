@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-09 06:55:25。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-09 07:15:58。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,16 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-09-我最近在写作-《高可用服务体系最佳实践》,-过来看看？](https://www.v2ex.com/t/893862) 
+- [【V2EX】2022-11-09-你们会屏蔽应用收集数据的-sdk-吗](https://www.v2ex.com/t/893861) 
+- [【V2EX】2022-11-09-大家有新标签页扩展推荐么](https://www.v2ex.com/t/893860) 
+- [【V2EX】2022-11-09-错怪-iPhone-了，-16G-内存-iPad-Pro-一样闪退](https://www.v2ex.com/t/893859) 
+- [【V2EX】2022-11-09-Arc-浏览器注册账号的时候提示-unknown-server-error](https://www.v2ex.com/t/893858) 
+- [【V2EX】2022-11-09-大家有什么优雅的密码管理方法](https://www.v2ex.com/t/893857) 
+- [【V2EX】2022-11-09-有啥学习英语好用的-app-吗？本人基础比较差，-4-级-460-分](https://www.v2ex.com/t/893856) 
+- [【V2EX】2022-11-09-美企-remote-Klarity-Health-招聘产品、开发、增长、运营、设计](https://www.v2ex.com/t/893853) 
+- [【V2EX】2022-11-09-家装师傅给我换了-7-类线是智商税吗](https://www.v2ex.com/t/893852) 
+- [【V2EX】2022-11-09-杭州-阿里淘宝技术-P5\P6-前端后端，老板靠谱不卷](https://www.v2ex.com/t/893851) 
 - [【V2EX】2022-11-09-mac-vscode-里面的终端不能使用鼠标点击中键粘贴吗？](https://www.v2ex.com/t/893850) 
 - [【V2EX】2022-11-09-分享Win-11-真香](https://www.v2ex.com/t/893847) 
 - [【V2EX】2022-11-09-80-岁老人独自操作视频通话用什么设备合适](https://www.v2ex.com/t/893845) 
@@ -98,14 +108,6 @@
 - [【V2EX】2022-11-09-不懂就问，什么协议能支持-web-上远程-win-或者-Linux-？](https://www.v2ex.com/t/893816) 
 - [【V2EX】2022-11-09-双十一想买台-mac，可在纠结-air-还是-pro](https://www.v2ex.com/t/893815) 
 - [【V2EX】2022-11-09-海淘日亚-Apple-TV-2022，快两周了还没发货](https://www.v2ex.com/t/893814) 
-- [【V2EX】2022-11-09-chrome-的-bitwarden-扩展经常内存占用第一位](https://www.v2ex.com/t/893812) 
-- [【V2EX】2022-11-09-final-cut-pro-可以发票不？各位老哥](https://www.v2ex.com/t/893810) 
-- [【V2EX】2022-11-09-家用-PC-能不能这样](https://www.v2ex.com/t/893807) 
-- [【V2EX】2022-11-09-infuse-识别不了老友记？](https://www.v2ex.com/t/893806) 
-- [【V2EX】2022-11-09-媳妇弟弟想出国，户口想挂靠我们户口本上，有啥影响吗？](https://www.v2ex.com/t/893805) 
-- [【V2EX】2022-11-09-为社么不能密码登录-Linux](https://www.v2ex.com/t/893804) 
-- [【V2EX】2022-11-09-一句话惹怒了-数据机构与算法之美的作者-小争哥](https://www.v2ex.com/t/893803) 
-- [【V2EX】2022-11-09-ios&ipados-16.2-beta2-修复中文拼音候选点击无响应-bug](https://www.v2ex.com/t/893801) 
 - [【技术头条】2022-11-09-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-09-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-09-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -135,14 +137,14 @@
 - [【开发者头条】2022-11-09-从-0-开始做一个-WPF-+-Blazor-对话小程序](https://toutiao.io/k/bweopcp) 
 - [【开发者头条】2022-11-09-深度学习中常用的激活函数](https://toutiao.io/k/rnh5ll8) 
 - [【开发者头条】2022-11-09-拒绝暴力-kill--9-！我选择这样优雅停止-SpringBoot-服务](https://toutiao.io/k/6mkguyh) 
-- [【开发者头条】2022-11-09-手把手教你写-Dart-ffi](https://toutiao.io/k/kw9ljhv) 
 - [【开发者头条】2022-11-09-JDK-中自带的-JVM-分析工具](https://toutiao.io/k/fm8b4d0) 
+- [【开发者头条】2022-11-09-手把手教你写-Dart-ffi](https://toutiao.io/k/kw9ljhv) 
 - [【开发者头条】2022-11-09-这-10-种神级性能优化手段，你用过几个？](https://toutiao.io/k/ihvxsb3) 
 - [【开发者头条】2022-11-09-聊聊在-Spring-Boot-项目中如何配置多个-Kafka-消费者](https://toutiao.io/k/5g1dxrn) 
 - [【开发者头条】2022-11-09-再有人问你如何实现订单到期关闭，就把这篇文章发给他](https://toutiao.io/k/osseclq) 
 - [【开发者头条】2022-11-09-使用访问控制策略访问服务网格内的服务](https://toutiao.io/k/mjdbfkl) 
-- [【开发者头条】2022-11-09-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) 
 - [【开发者头条】2022-11-09-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) 
+- [【开发者头条】2022-11-09-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

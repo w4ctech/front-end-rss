@@ -9953,6 +9953,36 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "jetbrains 开源许可证要到期了",
+        "link": "https://www.v2ex.com/t/893880",
+        "date": "2022-11-09"
+      },
+      {
+        "title": "合同更换到另一家公司要同意吗？",
+        "link": "https://www.v2ex.com/t/893879",
+        "date": "2022-11-09"
+      },
+      {
+        "title": "大佬们 ubuntu 如何把多个 DEB 安装包打包成一个呢",
+        "link": "https://www.v2ex.com/t/893877",
+        "date": "2022-11-09"
+      },
+      {
+        "title": "macOS 的 map 跟 iOS 的 map 数据提供商不同",
+        "link": "https://www.v2ex.com/t/893876",
+        "date": "2022-11-09"
+      },
+      {
+        "title": "想每天记录与中年生活和疾病对抗的 blog，有技术老哥指导下嘛",
+        "link": "https://www.v2ex.com/t/893875",
+        "date": "2022-11-09"
+      },
+      {
+        "title": "老婆孕后记忆力严重下降，花了两周给她写了待办事项提醒",
+        "link": "https://www.v2ex.com/t/893873",
+        "date": "2022-11-09"
+      },
+      {
         "title": "由于被人说推广，这次啥都不说，直接送。",
         "link": "https://www.v2ex.com/t/893872",
         "date": "2022-11-09"
@@ -10091,46 +10121,6 @@
         "title": "v2ray 修改配置后如何优雅的重启(不影响现有的链接)",
         "link": "https://www.v2ex.com/t/893833",
         "date": "2022-11-09"
-      },
-      {
-        "title": "求图中代码字体",
-        "link": "https://www.v2ex.com/t/893830",
-        "date": "2022-11-09"
-      },
-      {
-        "title": "家里想给自己个 100 平左右的店铺，做些什么好？",
-        "link": "https://www.v2ex.com/t/893829",
-        "date": "2022-11-09"
-      },
-      {
-        "title": "想在网上配个眼镜，烦请有经验的 V 友指点一下。",
-        "link": "https://www.v2ex.com/t/893828",
-        "date": "2022-11-09"
-      },
-      {
-        "title": "听说 FTX 炸了",
-        "link": "https://www.v2ex.com/t/893827",
-        "date": "2022-11-09"
-      },
-      {
-        "title": "md2report-一个用于将 Markdown 文件转换为可以直接提交给学校的实验报告的工具",
-        "link": "https://www.v2ex.com/t/893826",
-        "date": "2022-11-09"
-      },
-      {
-        "title": "各位有在用石头 G10s 扫地机的朋友，帮忙分享下体验",
-        "link": "https://www.v2ex.com/t/893825",
-        "date": "2022-11-09"
-      },
-      {
-        "title": "网页浏览中的划词翻译",
-        "link": "https://www.v2ex.com/t/893824",
-        "date": "2022-11-09"
-      },
-      {
-        "title": "性价比高的联合会员，求推荐",
-        "link": "https://www.v2ex.com/t/893823",
-        "date": "2022-11-09"
       }
     ]
   },
@@ -10139,6 +10129,11 @@
     "title": "技术头条",
     "link": "http://blogread.cn/news/newest.php",
     "items": [
+      {
+        "title": "DDD的哲学意味（上） (insights.thoughtworks.cn)",
+        "link": "https://blogread.cn/news/go.php?idItem=15405&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fddd-philosophy-entity-value-object%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2022-11-09"
+      },
       {
         "title": "重新思考 React 项目架构 (teobler.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
@@ -10233,11 +10228,6 @@
         "title": "与日俱进，在 Go 1.20 中这种高效转换的方式又变了 (colobu.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15386&url=https%3A%2F%2Fcolobu.com%2F2022%2F09%2F06%2Fstring-byte-convertion%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
         "date": "2022-11-09"
-      },
-      {
-        "title": "10 大可以摧毁你的 Linux 的命令 (linux.cn)",
-        "link": "https://blogread.cn/news/go.php?idItem=15385&url=https%3A%2F%2Flinux.cn%2Farticle-15022-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-11-09"
       }
     ]
   },
@@ -10282,11 +10272,6 @@
         "date": "2022-11-09"
       },
       {
-        "title": "深度学习中常用的激活函数",
-        "link": "https://toutiao.io/k/rnh5ll8",
-        "date": "2022-11-09"
-      },
-      {
         "title": "JDK 中自带的 JVM 分析工具",
         "link": "https://toutiao.io/k/fm8b4d0",
         "date": "2022-11-09"
@@ -10294,6 +10279,11 @@
       {
         "title": "拒绝暴力 kill -9 ！我选择这样优雅停止 SpringBoot 服务",
         "link": "https://toutiao.io/k/6mkguyh",
+        "date": "2022-11-09"
+      },
+      {
+        "title": "深度学习中常用的激活函数",
+        "link": "https://toutiao.io/k/rnh5ll8",
         "date": "2022-11-09"
       },
       {

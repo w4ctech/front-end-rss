@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-09 07:39:08，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-09 08:20:29，:rocket: 更新条数: +2017， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-11-09-jetbrains-开源许可证要到期了](https://www.v2ex.com/t/893880) ![](assets/new.png)  
+- [2022-11-09-合同更换到另一家公司要同意吗？](https://www.v2ex.com/t/893879) ![](assets/new.png)  
+- [2022-11-09-大佬们-ubuntu-如何把多个-DEB-安装包打包成一个呢](https://www.v2ex.com/t/893877) ![](assets/new.png)  
+- [2022-11-09-macOS-的-map-跟-iOS-的-map-数据提供商不同](https://www.v2ex.com/t/893876) ![](assets/new.png)  
+- [2022-11-09-想每天记录与中年生活和疾病对抗的-blog，有技术老哥指导下嘛](https://www.v2ex.com/t/893875) ![](assets/new.png)  
+- [2022-11-09-老婆孕后记忆力严重下降，花了两周给她写了待办事项提醒](https://www.v2ex.com/t/893873) ![](assets/new.png)  
 - [2022-11-09-由于被人说推广，这次啥都不说，直接送。](https://www.v2ex.com/t/893872) ![](assets/new.png)  
 - [2022-11-09-面试做算法好烦，老程序员实在做不了](https://www.v2ex.com/t/893871) ![](assets/new.png)  
 - [2022-11-09-WIN11-发布-1-年零-1-个月了,-WIN11-能用/好用么?](https://www.v2ex.com/t/893869) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-11-09-Arc-浏览器注册账号的时候提示-unknown-server-error](https://www.v2ex.com/t/893858) ![](assets/new.png)  
 - [2022-11-09-大家有什么优雅的密码管理方法](https://www.v2ex.com/t/893857) ![](assets/new.png)  
 - [2022-11-09-有啥学习英语好用的-app-吗？本人基础比较差，-4-级-460-分](https://www.v2ex.com/t/893856) ![](assets/new.png)  
-- [2022-11-09-美企-remote-Klarity-Health-招聘产品、开发、增长、运营、设计](https://www.v2ex.com/t/893853) ![](assets/new.png)  
-- [2022-11-09-家装师傅给我换了-7-类线是智商税吗](https://www.v2ex.com/t/893852) ![](assets/new.png)  
-- [2022-11-09-杭州-阿里淘宝技术-P5\P6-前端后端，老板靠谱不卷](https://www.v2ex.com/t/893851) ![](assets/new.png)  
-- [2022-11-09-mac-vscode-里面的终端不能使用鼠标点击中键粘贴吗？](https://www.v2ex.com/t/893850) ![](assets/new.png)  
-- [2022-11-09-分享Win-11-真香](https://www.v2ex.com/t/893847) ![](assets/new.png)  
-- [2022-11-09-80-岁老人独自操作视频通话用什么设备合适](https://www.v2ex.com/t/893845) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -522,6 +522,7 @@
 </summary>
 
 
+- [2022-11-09-DDD的哲学意味（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15405&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fddd-philosophy-entity-value-object%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-11-09-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-11-09-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-11-09-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
@@ -541,7 +542,6 @@
 - [2022-11-09-向量数据库入坑：传统文本检索方式的降维打击，使用-Faiss-实现向量语义检索-soulteary.com](https://blogread.cn/news/go.php?idItem=15388&url=https%3A%2F%2Fsoulteary.com%2F2022%2F09%2F10%2Fthe-dimensionality-reduction-of-traditional-text-retrieval-methods-using-faiss-to-achieve-vector-semantic-retrieval.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-11-09-全球IPv4-AS拓扑测绘初探-blog.nsfocus.net](https://blogread.cn/news/go.php?idItem=15387&url=http%3A%2F%2Fblog.nsfocus.net%2Fipv4-as%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-11-09-与日俱进，在-Go-1.20-中这种高效转换的方式又变了-colobu.com](https://blogread.cn/news/go.php?idItem=15386&url=https%3A%2F%2Fcolobu.com%2F2022%2F09%2F06%2Fstring-byte-convertion%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-11-09-10-大可以摧毁你的-Linux-的命令-linux.cn](https://blogread.cn/news/go.php?idItem=15385&url=https%3A%2F%2Flinux.cn%2Farticle-15022-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -560,9 +560,9 @@
 - [2022-11-09-RocketMQ-核心原理解析](https://toutiao.io/k/vlg238y) ![](assets/new.png)  
 - [2022-11-09-面试官：你懂-HTTP-缓存，那说下浏览器强制刷新是怎么实现的？](https://toutiao.io/k/63uiuvh) ![](assets/new.png)  
 - [2022-11-09-从-0-开始做一个-WPF-+-Blazor-对话小程序](https://toutiao.io/k/bweopcp) ![](assets/new.png)  
-- [2022-11-09-深度学习中常用的激活函数](https://toutiao.io/k/rnh5ll8) ![](assets/new.png)  
 - [2022-11-09-JDK-中自带的-JVM-分析工具](https://toutiao.io/k/fm8b4d0) ![](assets/new.png)  
 - [2022-11-09-拒绝暴力-kill--9-！我选择这样优雅停止-SpringBoot-服务](https://toutiao.io/k/6mkguyh) ![](assets/new.png)  
+- [2022-11-09-深度学习中常用的激活函数](https://toutiao.io/k/rnh5ll8) ![](assets/new.png)  
 - [2022-11-09-手把手教你写-Dart-ffi](https://toutiao.io/k/kw9ljhv) ![](assets/new.png)  
 - [2022-11-09-这-10-种神级性能优化手段，你用过几个？](https://toutiao.io/k/ihvxsb3) ![](assets/new.png)  
 - [2022-11-09-聊聊在-Spring-Boot-项目中如何配置多个-Kafka-消费者](https://toutiao.io/k/5g1dxrn) ![](assets/new.png)  

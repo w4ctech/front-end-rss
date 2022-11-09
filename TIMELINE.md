@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-09 19:36:57。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-09 20:16:59。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,7 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-09-如何干掉-Google-助手的蓝牙唤醒](https://www.v2ex.com/t/894011) 
 - [【V2EX】2022-11-09-深夜提-ToDesk-五个问题](https://www.v2ex.com/t/894010) 
 - [【V2EX】2022-11-09-求职-Flutter远程-3-年开发经验](https://www.v2ex.com/t/894009) 
 - [【V2EX】2022-11-09-关于重复提交的问题](https://www.v2ex.com/t/894008) 
@@ -83,7 +84,6 @@
 - [【V2EX】2022-11-09-21-款凯美瑞车机有啥好玩的玩法？](https://www.v2ex.com/t/893998) 
 - [【V2EX】2022-11-09-为什么如此多的-App-都会提供代理设定](https://www.v2ex.com/t/893996) 
 - [【V2EX】2022-11-09-如果有一款软件，可以-24-小时帮您盯着网络上的一切感兴趣的内容，一旦有符合条件的变更立即通知你，你愿意为它点个赞吗？](https://www.v2ex.com/t/893995) 
-- [【V2EX】2022-11-09-国区-iCloud2T+Apple-Music-四缺二](https://www.v2ex.com/t/893993) 
 - [【V2EX】2022-11-09-KTC-M27P20-不支持-HIDPI？有用过的兄弟没](https://www.v2ex.com/t/893992) 
 - [【V2EX】2022-11-09-显卡驱动在高负载下容易不定时崩坏](https://www.v2ex.com/t/893989) 
 - [【V2EX】2022-11-09-这样的工作性价比高还是低？](https://www.v2ex.com/t/893988) 
@@ -110,7 +110,6 @@
 - [【V2EX】2022-11-09-日本東京-KKday-招募-Technical-Lead・需要精通日語](https://www.v2ex.com/t/893964) 
 - [【V2EX】2022-11-09-有出租整租的房子的](https://www.v2ex.com/t/893963) 
 - [【V2EX】2022-11-09-有没有办法能让微信，别人看不到我的正在输入中](https://www.v2ex.com/t/893962) 
-- [【V2EX】2022-11-09-Affinity-：新一代软件限时折扣-40%](https://www.v2ex.com/t/893961) 
 - [【技术头条】2022-11-09-DDD的哲学意味（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15405&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fddd-philosophy-entity-value-object%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-09-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-09-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

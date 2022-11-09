@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-09 14:46:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-09 15:15:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1917,6 +1917,9 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-11-09-做一个监控各个外包平台的监控，一有新的发通知，支持关键词过滤，会有人愿意付费吗](https://www.v2ex.com/t/893982) 
+- [2022-11-09-建了个期货交流的群](https://www.v2ex.com/t/893981) 
+- [2022-11-09-21-款-mbp-升级到-13.0-后,-好像睡眠有问题](https://www.v2ex.com/t/893980) 
 - [2022-11-09-印象笔记国内版是一件人事都不干呐](https://www.v2ex.com/t/893979) 
 - [2022-11-09-ipadOS-的台前调度砍了吗？](https://www.v2ex.com/t/893976) 
 - [2022-11-09-女朋友要求戒指-5-7w-预算过分么。](https://www.v2ex.com/t/893975) 
@@ -1947,10 +1950,6 @@
 - [2022-11-09-有必要把我的微信换到港区手机号上么？](https://www.v2ex.com/t/893937) 
 - [2022-11-09-阿里云老用户新购服务器低至-3.6-折-新用户-50-元/年](https://www.v2ex.com/t/893936) 
 - [2022-11-09-这..刚要提离职，还没说呢领导给我加薪了](https://www.v2ex.com/t/893934) 
-- [2022-11-09-问问大家-ipv4-优先与-ipv6-优先有什么差别呀？](https://www.v2ex.com/t/893933) 
-- [2022-11-09-M1-Ventura-13.0-界面崩溃](https://www.v2ex.com/t/893932) 
-- [2022-11-09-在成都工作的各位，都住在那个地方呀](https://www.v2ex.com/t/893931) 
-- [2022-11-09-Ubuntu-的在-Snap-Store-里更新-Snap-Store-会报错"'snap-store'正在运行"，是遵循了什么设计哲学吗？](https://www.v2ex.com/t/893930) 
 - [2022-11-09-DDD的哲学意味（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15405&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fddd-philosophy-entity-value-object%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-09-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-09-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1980,5 +1979,5 @@
 - [2022-11-09-手把手教你写-Dart-ffi](https://toutiao.io/k/kw9ljhv) 
 - [2022-11-09-再有人问你如何实现订单到期关闭，就把这篇文章发给他](https://toutiao.io/k/osseclq) 
 - [2022-11-09-使用访问控制策略访问服务网格内的服务](https://toutiao.io/k/mjdbfkl) 
-- [2022-11-09-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) 
 - [2022-11-09-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) 
+- [2022-11-09-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) 

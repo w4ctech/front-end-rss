@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-09 17:44:31。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-09 18:17:52。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,11 +70,12 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
-- [【V2EX】2022-11-09-你还在看中文内容吗?](https://www.v2ex.com/t/894001) 
+- [【V2EX】2022-11-09-大佬能通过这几行字符得出规则吗](https://www.v2ex.com/t/894004) 
+- [【V2EX】2022-11-09-Windows-上有什么骚包炫酷的软件？](https://www.v2ex.com/t/894003) 
+- [【V2EX】2022-11-09-同一地址，-gpon-和-xg-pon-的-olt-速率模版一样吗？](https://www.v2ex.com/t/894002) 
 - [【V2EX】2022-11-09-Ubuntu-上-百度网盘客户端篡改-html-文件默认打开方式问题，如何管理文件访问权限？](https://www.v2ex.com/t/894000) 
 - [【V2EX】2022-11-09-debian-阿里源慢](https://www.v2ex.com/t/893999) 
 - [【V2EX】2022-11-09-21-款凯美瑞车机有啥好玩的玩法？](https://www.v2ex.com/t/893998) 
-- [【V2EX】2022-11-09-突发奇想，注册了个域名，是否是一种另类的一眼“记住”呢哈哈哈？-mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm.me](https://www.v2ex.com/t/893997) 
 - [【V2EX】2022-11-09-为什么如此多的-App-都会提供代理设定](https://www.v2ex.com/t/893996) 
 - [【V2EX】2022-11-09-如果有一款软件，可以-24-小时帮您盯着网络上的一切感兴趣的内容，一旦有符合条件的变更立即通知你，你愿意为它点个赞吗？](https://www.v2ex.com/t/893995) 
 - [【V2EX】2022-11-09-国区-iCloud2T+Apple-Music-四缺二](https://www.v2ex.com/t/893993) 
@@ -108,9 +109,6 @@
 - [【V2EX】2022-11-09-微信开发者工具能不能像-vim-一样，根据-写过单词-自动查找补全？](https://www.v2ex.com/t/893960) 
 - [【V2EX】2022-11-09-iPhone-的提醒事项和-Mac-上不同步有解决办法吗？](https://www.v2ex.com/t/893957) 
 - [【V2EX】2022-11-09-Todesk-macos-版本后台进程长期接近-100%-CPU-占用](https://www.v2ex.com/t/893956) 
-- [【V2EX】2022-11-09-让-iPhone-X-以及之前的机型支持广电卡](https://www.v2ex.com/t/893955) 
-- [【V2EX】2022-11-09-你们在图书-APP-上有遇到过这个问题吗](https://www.v2ex.com/t/893953) 
-- [【V2EX】2022-11-09-Java-怎么使用自签证书访问双向认证的网站？](https://www.v2ex.com/t/893952) 
 - [【技术头条】2022-11-09-DDD的哲学意味（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15405&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fddd-philosophy-entity-value-object%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-09-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-09-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -146,8 +144,8 @@
 - [【开发者头条】2022-11-09-手把手教你写-Dart-ffi](https://toutiao.io/k/kw9ljhv) 
 - [【开发者头条】2022-11-09-再有人问你如何实现订单到期关闭，就把这篇文章发给他](https://toutiao.io/k/osseclq) 
 - [【开发者头条】2022-11-09-使用访问控制策略访问服务网格内的服务](https://toutiao.io/k/mjdbfkl) 
-- [【开发者头条】2022-11-09-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) 
 - [【开发者头条】2022-11-09-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) 
+- [【开发者头条】2022-11-09-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

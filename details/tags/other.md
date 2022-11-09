@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-09 16:20:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-09 16:59:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1917,6 +1917,9 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-11-09-21-款凯美瑞车机有啥好玩的玩法？](https://www.v2ex.com/t/893998) 
+- [2022-11-09-突发奇想，注册了个域名，是否是一种另类的一眼“记住”呢哈哈哈？-mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm.me](https://www.v2ex.com/t/893997) 
+- [2022-11-09-为什么如此多的-App-都会提供代理设定](https://www.v2ex.com/t/893996) 
 - [2022-11-09-如果有一款软件，可以-24-小时帮您盯着网络上的一切感兴趣的内容，一旦有符合条件的变更立即通知你，你愿意为它点个赞吗？](https://www.v2ex.com/t/893995) 
 - [2022-11-09-国区-iCloud2T+Apple-Music-四缺二](https://www.v2ex.com/t/893993) 
 - [2022-11-09-KTC-M27P20-不支持-HIDPI？有用过的兄弟没](https://www.v2ex.com/t/893992) 
@@ -1947,7 +1950,6 @@
 - [2022-11-09-让-iPhone-X-以及之前的机型支持广电卡](https://www.v2ex.com/t/893955) 
 - [2022-11-09-你们在图书-APP-上有遇到过这个问题吗](https://www.v2ex.com/t/893953) 
 - [2022-11-09-Java-怎么使用自签证书访问双向认证的网站？](https://www.v2ex.com/t/893952) 
-- [2022-11-09-我们提供国际短信服务](https://www.v2ex.com/t/893946) 
 - [2022-11-09-DDD的哲学意味（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15405&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fddd-philosophy-entity-value-object%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-09-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-09-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-09 16:20:31，:rocket: 更新条数: +2020， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-09 16:59:50，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-11-09-21-款凯美瑞车机有啥好玩的玩法？](https://www.v2ex.com/t/893998) ![](assets/new.png)  
+- [2022-11-09-突发奇想，注册了个域名，是否是一种另类的一眼“记住”呢哈哈哈？-mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm.me](https://www.v2ex.com/t/893997) ![](assets/new.png)  
+- [2022-11-09-为什么如此多的-App-都会提供代理设定](https://www.v2ex.com/t/893996) ![](assets/new.png)  
 - [2022-11-09-如果有一款软件，可以-24-小时帮您盯着网络上的一切感兴趣的内容，一旦有符合条件的变更立即通知你，你愿意为它点个赞吗？](https://www.v2ex.com/t/893995) ![](assets/new.png)  
 - [2022-11-09-国区-iCloud2T+Apple-Music-四缺二](https://www.v2ex.com/t/893993) ![](assets/new.png)  
 - [2022-11-09-KTC-M27P20-不支持-HIDPI？有用过的兄弟没](https://www.v2ex.com/t/893992) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-11-09-ipadOS-的台前调度砍了吗？](https://www.v2ex.com/t/893976) ![](assets/new.png)  
 - [2022-11-09-女朋友要求戒指-5-7w-预算过分么。](https://www.v2ex.com/t/893975) ![](assets/new.png)  
 - [2022-11-09-WLB-外企-Coupang-内推-薪资接得住任何大厂-大量-hc-Java-p6,p7p8-机器学习](https://www.v2ex.com/t/893974) ![](assets/new.png)  
-- [2022-11-09-20221110-午夜俱乐部](https://www.v2ex.com/t/893973) ![](assets/new.png)  
-- [2022-11-09-前端开发都这么厉害的吗？能无操作直接转账？](https://www.v2ex.com/t/893972) ![](assets/new.png)  
-- [2022-11-09-为什么-iOS-地区设成日本后自带日历图标会变成黑白的？](https://www.v2ex.com/t/893970) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

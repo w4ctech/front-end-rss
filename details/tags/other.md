@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-10 16:19:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-10 16:57:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1917,6 +1917,9 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-11-10-惊喜！移动宽带现在这一刻（深夜）正常访问-V2。](https://www.v2ex.com/t/894303) 
+- [2022-11-10-广州、深圳地区的千峰、黑马、尚硅谷-Java-培训哪个好点](https://www.v2ex.com/t/894302) 
+- [2022-11-10-yaml-作为配置文件的问题](https://www.v2ex.com/t/894300) 
 - [2022-11-10-印象笔记有退会员成功的吗？](https://www.v2ex.com/t/894297) 
 - [2022-11-10-最幸运的应该是去年比特币-5-6-万美元左右离场的人吧](https://www.v2ex.com/t/894295) 
 - [2022-11-10-自从开始上幼儿园，小孩子经常生病了。怎么搞呢？](https://www.v2ex.com/t/894293) 
@@ -1940,11 +1943,6 @@
 - [2022-11-10-今晚双十一，你们都买了啥](https://www.v2ex.com/t/894263) 
 - [2022-11-10-有用华强北耳机的不？体验咋样？](https://www.v2ex.com/t/894262) 
 - [2022-11-10-WSL2-里面的-ssh-服务可真特么坑爹啊！](https://www.v2ex.com/t/894260) 
-- [2022-11-10-分享以前做-windows-开发的一些工具](https://www.v2ex.com/t/894253) 
-- [2022-11-10-我去！惊掉下巴](https://www.v2ex.com/t/894252) 
-- [2022-11-10-请教-88VIP-转让了优酷会员的同学](https://www.v2ex.com/t/894250) 
-- [2022-11-10-目前苹果国行所有设备一共有多少限制？](https://www.v2ex.com/t/894249) 
-- [2022-11-10-app-市场为啥不采取推荐机制呢？](https://www.v2ex.com/t/894248) 
 - [2022-11-10-DDD的哲学意味（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15405&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fddd-philosophy-entity-value-object%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-10-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-10-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1972,5 +1970,5 @@
 - [2022-11-10-DDD-的哲学意味（上）](https://toutiao.io/k/t075lrm) 
 - [2022-11-10-带你手把手实操一个-RPC-框架](https://toutiao.io/k/n9hibup) 
 - [2022-11-10-OKR-之剑（理念篇一）：OKR-带给我们的改变我们的改变](https://toutiao.io/k/kj8sqe3) 
-- [2022-11-10-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) 
 - [2022-11-10-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) 
+- [2022-11-10-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-10 16:19:38。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-10 16:57:10。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,11 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-10-惊喜！移动宽带现在这一刻（深夜）正常访问-V2。](https://www.v2ex.com/t/894303) 
+- [【V2EX】2022-11-10-广州、深圳地区的千峰、黑马、尚硅谷-Java-培训哪个好点](https://www.v2ex.com/t/894302) 
+- [【V2EX】2022-11-10-做了个仿星巴克外卖小程序-··-欢迎体验·](https://www.v2ex.com/t/894301) 
+- [【V2EX】2022-11-10-yaml-作为配置文件的问题](https://www.v2ex.com/t/894300) 
+- [【V2EX】2022-11-10-推荐一个简单好用的-HTTPS-证书监控工具](https://www.v2ex.com/t/894298) 
 - [【V2EX】2022-11-10-印象笔记有退会员成功的吗？](https://www.v2ex.com/t/894297) 
 - [【V2EX】2022-11-10-最幸运的应该是去年比特币-5-6-万美元左右离场的人吧](https://www.v2ex.com/t/894295) 
 - [【V2EX】2022-11-10-关于多个-docker-应用服务的统一的用户认证应该怎么做](https://www.v2ex.com/t/894294) 
@@ -98,12 +103,6 @@
 - [【V2EX】2022-11-10-mac-edge-占用内存过高怎么优化呢？](https://www.v2ex.com/t/894261) 
 - [【V2EX】2022-11-10-WSL2-里面的-ssh-服务可真特么坑爹啊！](https://www.v2ex.com/t/894260) 
 - [【V2EX】2022-11-10-GitHub-测试新功能，程序员可用声音写代码](https://www.v2ex.com/t/894259) 
-- [【V2EX】2022-11-10-分享以前做-windows-开发的一些工具](https://www.v2ex.com/t/894253) 
-- [【V2EX】2022-11-10-我去！惊掉下巴](https://www.v2ex.com/t/894252) 
-- [【V2EX】2022-11-10-求助：-gitlab-的工程怎么按分支给开发人员分配权限呢](https://www.v2ex.com/t/894251) 
-- [【V2EX】2022-11-10-请教-88VIP-转让了优酷会员的同学](https://www.v2ex.com/t/894250) 
-- [【V2EX】2022-11-10-目前苹果国行所有设备一共有多少限制？](https://www.v2ex.com/t/894249) 
-- [【V2EX】2022-11-10-app-市场为啥不采取推荐机制呢？](https://www.v2ex.com/t/894248) 
 - [【技术头条】2022-11-10-DDD的哲学意味（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15405&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fddd-philosophy-entity-value-object%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-10-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-10-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -139,8 +138,8 @@
 - [【开发者头条】2022-11-10-DDD-的哲学意味（上）](https://toutiao.io/k/t075lrm) 
 - [【开发者头条】2022-11-10-带你手把手实操一个-RPC-框架](https://toutiao.io/k/n9hibup) 
 - [【开发者头条】2022-11-10-OKR-之剑（理念篇一）：OKR-带给我们的改变我们的改变](https://toutiao.io/k/kj8sqe3) 
-- [【开发者头条】2022-11-10-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) 
 - [【开发者头条】2022-11-10-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) 
+- [【开发者头条】2022-11-10-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

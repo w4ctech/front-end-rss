@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-11-10 16:19:38。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-10 16:57:10。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -123,6 +123,7 @@
 
 
 
+- [【V2EX】做了个仿星巴克外卖小程序-··-欢迎体验·](https://www.v2ex.com/t/894301)
 - [......【查看更多】......](./details/tags/miniprogram.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -287,6 +288,7 @@
 
 
 
+- [【V2EX】推荐一个简单好用的-HTTPS-证书监控工具](https://www.v2ex.com/t/894298)
 - [【技术头条】基于AI算法的数据库异常监测系统的设计与实现-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15390&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F09%2F01%2Fdatabase-monitoring-based-on-ai.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】Paxos-分布式系统共识算法？我愿称其为点歌算法…](https://toutiao.io/k/z4zjxey)
 - [【开发者头条】MD5-到底算不算一种加密算法？](https://toutiao.io/k/izalowf)
@@ -325,7 +327,6 @@
 
 
 - [【V2EX】GitHub-测试新功能，程序员可用声音写代码](https://www.v2ex.com/t/894259)
-- [【V2EX】求助：-gitlab-的工程怎么按分支给开发人员分配权限呢](https://www.v2ex.com/t/894251)
 - [【开发者头条】推特按照代码行数来裁员？赶快看一下自己在-Git-仓库中的贡献有多少](https://toutiao.io/k/x6jr41i)
 - [......【查看更多】......](./details/tags/git-svn.md)
 

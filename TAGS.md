@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-11-10 06:18:36。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-10 06:48:09。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -157,6 +157,7 @@
 
 
 
+- [【V2EX】《可远程》求一名专职游戏测试员](https://www.v2ex.com/t/894137)
 - [......【查看更多】......](./details/tags/dev-game.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -180,6 +181,8 @@
 - [【武汉肺炎防疫全纪录(财新网)】香港再现数例疫苗接种严重异常事件-专家初判与疫苗无关](https://china.caixin.com/m/2021-03-08/101672619.html)
 - [【武汉肺炎防疫全纪录(财新网)】港府回应一63岁患者死亡事件-暂无法确定与疫苗相关](https://m.caixin.com/m/2021-03-03/101670052.html)
 - [【张鑫旭-鑫空间-鑫生活】2022年新出了哪些form表单新特性？](https://www.zhangxinxu.com/wordpress/2022/10/2022-new-form-property/)
+- [【V2EX】请问-go-获取-post-请求返回体的-字符类型为uint8,-但是是-xml-的格式，怎么转换成-json](https://www.v2ex.com/t/894145)
+- [【V2EX】tailwindcss-和组件库怎么结合？](https://www.v2ex.com/t/894127)
 - [【V2EX】PVE-无-7.2-法连接-shell-和-console](https://www.v2ex.com/t/894125)
 - [......【查看更多】......](./details/tags/javascript.md)
 
@@ -272,7 +275,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】腺病毒新冠疫苗引安全忧虑-康希诺称未发现血栓病例](https://m.caixin.com/m/2021-04-14/101691086.html)
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
-- [【V2EX】您好-求解手机版-chrome-浏览器-"关闭标签组"功能](https://www.v2ex.com/t/894089)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -289,7 +291,6 @@
 
 
 
-- [【V2EX】居家办公.英文办公-20K-40K*16-薪-全栈偏后端工程师-we-are-hiring-无中介直聘](https://www.v2ex.com/t/894080)
 - [【技术头条】基于AI算法的数据库异常监测系统的设计与实现-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15390&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F09%2F01%2Fdatabase-monitoring-based-on-ai.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】MD5-到底算不算一种加密算法？](https://toutiao.io/k/izalowf)
 - [【开发者头条】Paxos-分布式系统共识算法？我愿称其为点歌算法…](https://toutiao.io/k/z4zjxey)
@@ -326,7 +327,6 @@
 
 
 
-- [【V2EX】GitHub-Codespaces-对个人用户开放了，每个月有-60-小时的免费使用时间](https://www.v2ex.com/t/894094)
 - [【开发者头条】推特按照代码行数来裁员？赶快看一下自己在-Git-仓库中的贡献有多少](https://toutiao.io/k/x6jr41i)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
@@ -344,6 +344,7 @@
 
 
 
+- [【V2EX】上海Hybrid-办公WLB-带资创业项目招聘人工智能方向技术合伙人](https://www.v2ex.com/t/894139)
 - [【开发者头条】面试官：在-Java-中-new-一个对象的流程是怎样的？彻底被问懵了](https://toutiao.io/k/q557n2e)
 - [......【查看更多】......](./details/tags/job-interview.md)
 

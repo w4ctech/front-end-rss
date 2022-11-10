@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-10 05:05:11，:rocket: 更新条数: +2023， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-10 05:45:25，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-11-10-有买了-PN64-升级-64GB（32×2）内存成功的么？](https://www.v2ex.com/t/894117) ![](assets/new.png)  
+- [2022-11-10-分享一下目前还在招人的“中而美”或者“小而美”的公司](https://www.v2ex.com/t/894116) ![](assets/new.png)  
+- [2022-11-10-腾讯云-CDN-突然-ERR_CONNECTION_RESET，有遇上过的吗？](https://www.v2ex.com/t/894114) ![](assets/new.png)  
+- [2022-11-10-有把程序内部状态实时映射到表的实现思路吗？](https://www.v2ex.com/t/894113) ![](assets/new.png)  
+- [2022-11-10-去哪买水货-iPhone](https://www.v2ex.com/t/894112) ![](assets/new.png)  
+- [2022-11-10-求推荐一款千元以下的家居电脑椅](https://www.v2ex.com/t/894111) ![](assets/new.png)  
 - [2022-11-10-Mac-使用软件分享，抛砖引玉](https://www.v2ex.com/t/894110) ![](assets/new.png)  
 - [2022-11-10-React.useEffect-的效果，为什么还跟帧率有关？-bug-到底出在哪里？](https://www.v2ex.com/t/894109) ![](assets/new.png)  
 - [2022-11-10-分享一下你在-b-站发现的宝藏-up？-Java-技术类最好](https://www.v2ex.com/t/894108) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-11-10-做了一个简单的-Todo-应用,Todobird](https://www.v2ex.com/t/894096) ![](assets/new.png)  
 - [2022-11-10-17-款-13-寸-mbp-无法开机，充电没反应，这种情况有人遇到过吗](https://www.v2ex.com/t/894095) ![](assets/new.png)  
 - [2022-11-10-GitHub-Codespaces-对个人用户开放了，每个月有-60-小时的免费使用时间](https://www.v2ex.com/t/894094) ![](assets/new.png)  
-- [2022-11-10-通货膨胀为什么要裁员,-不是应该猛招人把钱用掉吗?](https://www.v2ex.com/t/894092) ![](assets/new.png)  
-- [2022-11-10-求助-这种在线-CS-是什么神仙技术？](https://www.v2ex.com/t/894091) ![](assets/new.png)  
-- [2022-11-10-您好-求解手机版-chrome-浏览器-"关闭标签组"功能](https://www.v2ex.com/t/894089) ![](assets/new.png)  
-- [2022-11-10-双十一想买个相机？决赛圈了](https://www.v2ex.com/t/894088) ![](assets/new.png)  
-- [2022-11-10-Mac-升级了一下系统之后-navicat-就用不了](https://www.v2ex.com/t/894086) ![](assets/new.png)  
-- [2022-11-10-macbook-配置求推荐](https://www.v2ex.com/t/894085) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -562,11 +562,11 @@
 - [2022-11-10-Data-Parallel-Actors：千行代码构建高性能-OLAP-数据库](https://toutiao.io/k/blbdcl0) ![](assets/new.png)  
 - [2022-11-10-面试官：在-Java-中-new-一个对象的流程是怎样的？彻底被问懵了](https://toutiao.io/k/q557n2e) ![](assets/new.png)  
 - [2022-11-10-MD5-到底算不算一种加密算法？](https://toutiao.io/k/izalowf) ![](assets/new.png)  
-- [2022-11-10-Paxos-分布式系统共识算法？我愿称其为点歌算法…](https://toutiao.io/k/z4zjxey) ![](assets/new.png)  
 - [2022-11-10-这是一份全面-&-详细的-Android-车载系统开发入门指南](https://toutiao.io/k/tapcqg1) ![](assets/new.png)  
+- [2022-11-10-Paxos-分布式系统共识算法？我愿称其为点歌算法…](https://toutiao.io/k/z4zjxey) ![](assets/new.png)  
 - [2022-11-10-DDD-的哲学意味（上）](https://toutiao.io/k/t075lrm) ![](assets/new.png)  
-- [2022-11-10-OKR-之剑（理念篇一）：OKR-带给我们的改变我们的改变](https://toutiao.io/k/kj8sqe3) ![](assets/new.png)  
 - [2022-11-10-系统稳定性治理最佳实践](https://toutiao.io/k/cy3t720) ![](assets/new.png)  
+- [2022-11-10-OKR-之剑（理念篇一）：OKR-带给我们的改变我们的改变](https://toutiao.io/k/kj8sqe3) ![](assets/new.png)  
 - [2022-11-10-带你手把手实操一个-RPC-框架](https://toutiao.io/k/n9hibup) ![](assets/new.png)  
 - [2022-11-10-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) ![](assets/new.png)  
 - [2022-11-10-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) ![](assets/new.png)  

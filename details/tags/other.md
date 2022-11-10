@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-10 15:44:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-10 16:19:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1917,6 +1917,9 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-11-10-印象笔记有退会员成功的吗？](https://www.v2ex.com/t/894297) 
+- [2022-11-10-最幸运的应该是去年比特币-5-6-万美元左右离场的人吧](https://www.v2ex.com/t/894295) 
+- [2022-11-10-自从开始上幼儿园，小孩子经常生病了。怎么搞呢？](https://www.v2ex.com/t/894293) 
 - [2022-11-10-有哪里可以买到一体的鱼缸，就是整个鱼缸是一体成型的，-4-边都有点圆角，现在市面看大多都是有两边是切割粘合的。](https://www.v2ex.com/t/894291) 
 - [2022-11-10-V2EX-用户平均年龄？这个有没有类似的帖子参考](https://www.v2ex.com/t/894289) 
 - [2022-11-10-Paypal-老帐户移除信用卡后新账户绑卡失败](https://www.v2ex.com/t/894287) 
@@ -1942,8 +1945,6 @@
 - [2022-11-10-请教-88VIP-转让了优酷会员的同学](https://www.v2ex.com/t/894250) 
 - [2022-11-10-目前苹果国行所有设备一共有多少限制？](https://www.v2ex.com/t/894249) 
 - [2022-11-10-app-市场为啥不采取推荐机制呢？](https://www.v2ex.com/t/894248) 
-- [2022-11-10-UBNT-的-UDM-SE-能用其他品牌的-AP-面板吗？求推荐](https://www.v2ex.com/t/894245) 
-- [2022-11-10-苹果那么贵，为什么不用安卓？](https://www.v2ex.com/t/894244) 
 - [2022-11-10-DDD的哲学意味（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15405&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fddd-philosophy-entity-value-object%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-10-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-10-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1971,5 +1972,5 @@
 - [2022-11-10-DDD-的哲学意味（上）](https://toutiao.io/k/t075lrm) 
 - [2022-11-10-带你手把手实操一个-RPC-框架](https://toutiao.io/k/n9hibup) 
 - [2022-11-10-OKR-之剑（理念篇一）：OKR-带给我们的改变我们的改变](https://toutiao.io/k/kj8sqe3) 
-- [2022-11-10-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) 
 - [2022-11-10-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) 
+- [2022-11-10-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) 

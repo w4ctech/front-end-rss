@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-11-10 21:40:47。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-10 22:15:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -198,6 +198,7 @@
 - [【张鑫旭-鑫空间-鑫生活】CSS-::file-selector-button伪元素简介](https://www.zhangxinxu.com/wordpress/2022/10/css-file-selector-button/)
 - [【张鑫旭-鑫空间-鑫生活】更符合书写习惯的CSS媒体查询Range语法](https://www.zhangxinxu.com/wordpress/2022/10/css-media-range-syntax/)
 - [【张鑫旭-鑫空间-鑫生活】介绍2022最期待且已正式支持的CSS-container容器查询](https://www.zhangxinxu.com/wordpress/2022/09/css-container-rule/)
+- [【V2EX】Remote-Python-developer-position](https://www.v2ex.com/t/894315)
 - [【V2EX】想问下，公司官网的动画和好看的特效都是用的什么技术实现的呀](https://www.v2ex.com/t/894292)
 - [......【查看更多】......](./details/tags/css.md)
 

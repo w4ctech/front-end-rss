@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-10 22:42:26。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-10 23:04:56。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,7 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-10-ventura-的-mail.app-有个-BUG](https://www.v2ex.com/t/894317) 
 - [【V2EX】2022-11-10-提前过个黑五](https://www.v2ex.com/t/894316) 
 - [【V2EX】2022-11-10-Remote-Python-developer-position](https://www.v2ex.com/t/894315) 
 - [【V2EX】2022-11-10-看到了-B-站的一个关于开源协议纠纷的瓜，挺乐的，想看看-V-友们是什么态度](https://www.v2ex.com/t/894314) 
@@ -141,8 +142,8 @@
 - [【开发者头条】2022-11-10-DDD-的哲学意味（上）](https://toutiao.io/k/t075lrm) 
 - [【开发者头条】2022-11-10-带你手把手实操一个-RPC-框架](https://toutiao.io/k/n9hibup) 
 - [【开发者头条】2022-11-10-OKR-之剑（理念篇一）：OKR-带给我们的改变我们的改变](https://toutiao.io/k/kj8sqe3) 
-- [【开发者头条】2022-11-10-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) 
 - [【开发者头条】2022-11-10-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) 
+- [【开发者头条】2022-11-10-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

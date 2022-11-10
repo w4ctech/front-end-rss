@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-11-10 22:42:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-10 23:04:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-11-10-ventura-的-mail.app-有个-BUG](https://www.v2ex.com/t/894317) 
 - [2022-11-10-提前过个黑五](https://www.v2ex.com/t/894316) 
 - [2022-11-10-Remote-Python-developer-position](https://www.v2ex.com/t/894315) 
 - [2022-11-10-看到了-B-站的一个关于开源协议纠纷的瓜，挺乐的，想看看-V-友们是什么态度](https://www.v2ex.com/t/894314) 

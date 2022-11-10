@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-10 22:42:26，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-10 23:04:56，:rocket: 更新条数: +2020， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-11-10-ventura-的-mail.app-有个-BUG](https://www.v2ex.com/t/894317) ![](assets/new.png)  
 - [2022-11-10-提前过个黑五](https://www.v2ex.com/t/894316) ![](assets/new.png)  
 - [2022-11-10-Remote-Python-developer-position](https://www.v2ex.com/t/894315) ![](assets/new.png)  
 - [2022-11-10-看到了-B-站的一个关于开源协议纠纷的瓜，挺乐的，想看看-V-友们是什么态度](https://www.v2ex.com/t/894314) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-11-10-最幸运的应该是去年比特币-5-6-万美元左右离场的人吧](https://www.v2ex.com/t/894295) ![](assets/new.png)  
 - [2022-11-10-关于多个-docker-应用服务的统一的用户认证应该怎么做](https://www.v2ex.com/t/894294) ![](assets/new.png)  
 - [2022-11-10-自从开始上幼儿园，小孩子经常生病了。怎么搞呢？](https://www.v2ex.com/t/894293) ![](assets/new.png)  
-- [2022-11-10-想问下，公司官网的动画和好看的特效都是用的什么技术实现的呀](https://www.v2ex.com/t/894292) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -568,8 +568,8 @@
 - [2022-11-10-DDD-的哲学意味（上）](https://toutiao.io/k/t075lrm) ![](assets/new.png)  
 - [2022-11-10-带你手把手实操一个-RPC-框架](https://toutiao.io/k/n9hibup) ![](assets/new.png)  
 - [2022-11-10-OKR-之剑（理念篇一）：OKR-带给我们的改变我们的改变](https://toutiao.io/k/kj8sqe3) ![](assets/new.png)  
-- [2022-11-10-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) ![](assets/new.png)  
 - [2022-11-10-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) ![](assets/new.png)  
+- [2022-11-10-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-10 07:39:18，:rocket: 更新条数: +2018， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-10 08:20:01，:rocket: 更新条数: +2017， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,14 @@
 </summary>
 
 
+- [2022-11-10-求推荐适合戴眼镜的头戴式耳机](https://www.v2ex.com/t/894177) ![](assets/new.png)  
+- [2022-11-10-BI-智慧工程行业应用方案丨文末获取三重资源包](https://www.v2ex.com/t/894176) ![](assets/new.png)  
+- [2022-11-10-分享一个-AIR724（电信卡）利用-bark-短信转发的操作，-AIR780E-或许也能直接用](https://www.v2ex.com/t/894175) ![](assets/new.png)  
+- [2022-11-10-Ventura-外接显示器依旧发蓝](https://www.v2ex.com/t/894174) ![](assets/new.png)  
+- [2022-11-10-求推荐安卓平安-pdf-笔记软件，能和-windows-电脑端同步的。](https://www.v2ex.com/t/894172) ![](assets/new.png)  
+- [2022-11-10-国行-iPad-mini6-更新到-iPad-OS-16.1.1-明显的-bug-没修复，就给了个-AirDrop-限制-10-分钟，大家知道苹果发版都是以什么为依据的吗？](https://www.v2ex.com/t/894171) ![](assets/new.png)  
+- [2022-11-10-关于-pdd-多人团购短链接](https://www.v2ex.com/t/894169) ![](assets/new.png)  
+- [2022-11-10-新版-apple-tv-播放本地视频能支持杜比-TureHD-天空声道了吗](https://www.v2ex.com/t/894168) ![](assets/new.png)  
 - [2022-11-10-联通连接-AWS-日本改回直连了](https://www.v2ex.com/t/894163) ![](assets/new.png)  
 - [2022-11-10-有用过-jasper-report-的小伙伴吗,-一个-jasper-报表生成很慢的问题](https://www.v2ex.com/t/894162) ![](assets/new.png)  
 - [2022-11-10-为什么有些大龄程序员去跑滴滴，送外卖？](https://www.v2ex.com/t/894161) ![](assets/new.png)  
@@ -503,14 +511,6 @@
 - [2022-11-10-把自己开发了一年的记账项目开源了，需要记账的朋友可以自己部署一套](https://www.v2ex.com/t/894154) ![](assets/new.png)  
 - [2022-11-10-一个睡眠问题](https://www.v2ex.com/t/894153) ![](assets/new.png)  
 - [2022-11-10-想问一下大家的单程开车通勤时长都是多少](https://www.v2ex.com/t/894152) ![](assets/new.png)  
-- [2022-11-10-升级-13-后，-sublime-打不开了](https://www.v2ex.com/t/894148) ![](assets/new.png)  
-- [2022-11-10-刚刚看公司群里说今日酒仙桥及酒仙桥中路地区的楼宇被封控了？](https://www.v2ex.com/t/894146) ![](assets/new.png)  
-- [2022-11-10-请问-go-获取-post-请求返回体的-字符类型为uint8,-但是是-xml-的格式，怎么转换成-json](https://www.v2ex.com/t/894145) ![](assets/new.png)  
-- [2022-11-10-双十一有啥比较划得来的](https://www.v2ex.com/t/894144) ![](assets/new.png)  
-- [2022-11-10-感觉苹果对召唤的售后开始摆烂了。](https://www.v2ex.com/t/894143) ![](assets/new.png)  
-- [2022-11-10-win11-这-Bug-有点明显，有和我一样的吗？](https://www.v2ex.com/t/894142) ![](assets/new.png)  
-- [2022-11-10-互联网行业](https://www.v2ex.com/t/894140) ![](assets/new.png)  
-- [2022-11-10-上海Hybrid-办公WLB-带资创业项目招聘人工智能方向技术合伙人](https://www.v2ex.com/t/894139) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -561,15 +561,15 @@
 - [2022-11-10-推特按照代码行数来裁员？赶快看一下自己在-Git-仓库中的贡献有多少](https://toutiao.io/k/x6jr41i) ![](assets/new.png)  
 - [2022-11-10-Data-Parallel-Actors：千行代码构建高性能-OLAP-数据库](https://toutiao.io/k/blbdcl0) ![](assets/new.png)  
 - [2022-11-10-面试官：在-Java-中-new-一个对象的流程是怎样的？彻底被问懵了](https://toutiao.io/k/q557n2e) ![](assets/new.png)  
-- [2022-11-10-MD5-到底算不算一种加密算法？](https://toutiao.io/k/izalowf) ![](assets/new.png)  
 - [2022-11-10-系统稳定性治理最佳实践](https://toutiao.io/k/cy3t720) ![](assets/new.png)  
+- [2022-11-10-MD5-到底算不算一种加密算法？](https://toutiao.io/k/izalowf) ![](assets/new.png)  
 - [2022-11-10-这是一份全面-&-详细的-Android-车载系统开发入门指南](https://toutiao.io/k/tapcqg1) ![](assets/new.png)  
 - [2022-11-10-Paxos-分布式系统共识算法？我愿称其为点歌算法…](https://toutiao.io/k/z4zjxey) ![](assets/new.png)  
 - [2022-11-10-DDD-的哲学意味（上）](https://toutiao.io/k/t075lrm) ![](assets/new.png)  
 - [2022-11-10-OKR-之剑（理念篇一）：OKR-带给我们的改变我们的改变](https://toutiao.io/k/kj8sqe3) ![](assets/new.png)  
 - [2022-11-10-带你手把手实操一个-RPC-框架](https://toutiao.io/k/n9hibup) ![](assets/new.png)  
-- [2022-11-10-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) ![](assets/new.png)  
 - [2022-11-10-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) ![](assets/new.png)  
+- [2022-11-10-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

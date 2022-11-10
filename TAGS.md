@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-11-10 08:52:48。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-10 09:15:57。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -154,7 +154,6 @@
 
 
 
-- [【V2EX】《可远程》求一名专职游戏测试员](https://www.v2ex.com/t/894137)
 - [......【查看更多】......](./details/tags/dev-game.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -179,7 +178,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】港府回应一63岁患者死亡事件-暂无法确定与疫苗相关](https://m.caixin.com/m/2021-03-03/101670052.html)
 - [【张鑫旭-鑫空间-鑫生活】2022年新出了哪些form表单新特性？](https://www.zhangxinxu.com/wordpress/2022/10/2022-new-form-property/)
 - [【V2EX】坐标上海黄浦市中心，美资物流科技类软件-WLB-外企，.net-+Js-全栈多个-HC（另有-GIS-开发），需要英语能说但不卡学历，流程快+领导特别好+晋升制度完善+海外工...](https://www.v2ex.com/t/894180)
-- [【V2EX】请问-go-获取-post-请求返回体的-字符类型为uint8,-但是是-xml-的格式，怎么转换成-json](https://www.v2ex.com/t/894145)
 - [......【查看更多】......](./details/tags/javascript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -199,6 +197,7 @@
 - [【张鑫旭-鑫空间-鑫生活】CSS-::file-selector-button伪元素简介](https://www.zhangxinxu.com/wordpress/2022/10/css-file-selector-button/)
 - [【张鑫旭-鑫空间-鑫生活】更符合书写习惯的CSS媒体查询Range语法](https://www.zhangxinxu.com/wordpress/2022/10/css-media-range-syntax/)
 - [【张鑫旭-鑫空间-鑫生活】介绍2022最期待且已正式支持的CSS-container容器查询](https://www.zhangxinxu.com/wordpress/2022/09/css-container-rule/)
+- [【V2EX】请问-APP-操作指导的教程动画都是怎么制作的？](https://www.v2ex.com/t/894191)
 - [......【查看更多】......](./details/tags/css.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -272,6 +271,8 @@
 - [【武汉肺炎防疫全纪录(财新网)】腺病毒新冠疫苗引安全忧虑-康希诺称未发现血栓病例](https://m.caixin.com/m/2021-04-14/101691086.html)
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
+- [【V2EX】关于使用机场安全隐私的疑问，那我是不是可以在机场外在套一层自己的节点](https://www.v2ex.com/t/894198)
+- [【V2EX】chrome-如何像-vscode-那样进行-remote-操作？](https://www.v2ex.com/t/894193)
 - [【V2EX】大家有没有-深-i-您-的-url-scheme-啊](https://www.v2ex.com/t/894160)
 - [......【查看更多】......](./details/tags/browser.md)
 
@@ -342,7 +343,7 @@
 
 
 
-- [【V2EX】上海Hybrid-办公WLB-带资创业项目招聘人工智能方向技术合伙人](https://www.v2ex.com/t/894139)
+- [【V2EX】新加坡-web3-公司，招聘资深前端开发工程师，资深后端开发（go,资深测试工程师等职位。提供工签，技术移民机会。职位可选新加坡或香港。可中文面试。](https://www.v2ex.com/t/894189)
 - [【开发者头条】面试官：在-Java-中-new-一个对象的流程是怎样的？彻底被问懵了](https://toutiao.io/k/q557n2e)
 - [......【查看更多】......](./details/tags/job-interview.md)
 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-10 22:15:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-10 22:42:26。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,7 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-10-提前过个黑五](https://www.v2ex.com/t/894316) 
 - [【V2EX】2022-11-10-Remote-Python-developer-position](https://www.v2ex.com/t/894315) 
 - [【V2EX】2022-11-10-看到了-B-站的一个关于开源协议纠纷的瓜，挺乐的，想看看-V-友们是什么态度](https://www.v2ex.com/t/894314) 
 - [【V2EX】2022-11-10-chrome-间歇性卡顿的原因分析（DNS-over-TCP-导致的问题）](https://www.v2ex.com/t/894313) 

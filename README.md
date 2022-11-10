@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-10 22:15:20，:rocket: 更新条数: +2018， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-10 22:42:26，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-11-10-提前过个黑五](https://www.v2ex.com/t/894316) ![](assets/new.png)  
 - [2022-11-10-Remote-Python-developer-position](https://www.v2ex.com/t/894315) ![](assets/new.png)  
 - [2022-11-10-看到了-B-站的一个关于开源协议纠纷的瓜，挺乐的，想看看-V-友们是什么态度](https://www.v2ex.com/t/894314) ![](assets/new.png)  
 - [2022-11-10-chrome-间歇性卡顿的原因分析（DNS-over-TCP-导致的问题）](https://www.v2ex.com/t/894313) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-11-10-关于多个-docker-应用服务的统一的用户认证应该怎么做](https://www.v2ex.com/t/894294) ![](assets/new.png)  
 - [2022-11-10-自从开始上幼儿园，小孩子经常生病了。怎么搞呢？](https://www.v2ex.com/t/894293) ![](assets/new.png)  
 - [2022-11-10-想问下，公司官网的动画和好看的特效都是用的什么技术实现的呀](https://www.v2ex.com/t/894292) ![](assets/new.png)  
-- [2022-11-10-有哪里可以买到一体的鱼缸，就是整个鱼缸是一体成型的，-4-边都有点圆角，现在市面看大多都是有两边是切割粘合的。](https://www.v2ex.com/t/894291) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

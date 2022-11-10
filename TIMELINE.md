@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-10 21:15:38。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-10 21:40:47。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,7 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-10-看到了-B-站的一个关于开源协议纠纷的瓜，挺乐的，想看看-V-友们是什么态度](https://www.v2ex.com/t/894314) 
 - [【V2EX】2022-11-10-chrome-间歇性卡顿的原因分析（DNS-over-TCP-导致的问题）](https://www.v2ex.com/t/894313) 
 - [【V2EX】2022-11-10-AirDrop-限制可能回推广到其他地区](https://www.v2ex.com/t/894312) 
 - [【V2EX】2022-11-10-Surge-for-Mac-5-车位缺-3-个](https://www.v2ex.com/t/894310) 
@@ -104,7 +105,6 @@
 - [【V2EX】2022-11-10-VSCode-顶部出现常驻搜索栏](https://www.v2ex.com/t/894271) 
 - [【V2EX】2022-11-10-双十一，来冲一波特惠服务器了，错过等半年](https://www.v2ex.com/t/894270) 
 - [【V2EX】2022-11-10-电信客服：机房分光器主纤被恶意剪断](https://www.v2ex.com/t/894265) 
-- [【V2EX】2022-11-10-导致旧手机卡顿的原因是啥？](https://www.v2ex.com/t/894264) 
 - [【技术头条】2022-11-10-DDD的哲学意味（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15405&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fddd-philosophy-entity-value-object%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-10-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-10-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-10 21:15:38，:rocket: 更新条数: +2018， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-10 21:40:47，:rocket: 更新条数: +2018， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-11-10-看到了-B-站的一个关于开源协议纠纷的瓜，挺乐的，想看看-V-友们是什么态度](https://www.v2ex.com/t/894314) ![](assets/new.png)  
 - [2022-11-10-chrome-间歇性卡顿的原因分析（DNS-over-TCP-导致的问题）](https://www.v2ex.com/t/894313) ![](assets/new.png)  
 - [2022-11-10-AirDrop-限制可能回推广到其他地区](https://www.v2ex.com/t/894312) ![](assets/new.png)  
 - [2022-11-10-Surge-for-Mac-5-车位缺-3-个](https://www.v2ex.com/t/894310) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-11-10-想问下，公司官网的动画和好看的特效都是用的什么技术实现的呀](https://www.v2ex.com/t/894292) ![](assets/new.png)  
 - [2022-11-10-有哪里可以买到一体的鱼缸，就是整个鱼缸是一体成型的，-4-边都有点圆角，现在市面看大多都是有两边是切割粘合的。](https://www.v2ex.com/t/894291) ![](assets/new.png)  
 - [2022-11-10-V2EX-用户平均年龄？这个有没有类似的帖子参考](https://www.v2ex.com/t/894289) ![](assets/new.png)  
-- [2022-11-10-Paypal-老帐户移除信用卡后新账户绑卡失败](https://www.v2ex.com/t/894287) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

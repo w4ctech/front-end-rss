@@ -9953,6 +9953,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "看到了 B 站的一个关于开源协议纠纷的瓜，挺乐的，想看看 V 友们是什么态度",
+        "link": "https://www.v2ex.com/t/894314",
+        "date": "2022-11-10"
+      },
+      {
         "title": "chrome 间歇性卡顿的原因分析（DNS over TCP 导致的问题）",
         "link": "https://www.v2ex.com/t/894313",
         "date": "2022-11-10"
@@ -10120,11 +10125,6 @@
       {
         "title": "电信客服：机房分光器主纤被恶意剪断",
         "link": "https://www.v2ex.com/t/894265",
-        "date": "2022-11-10"
-      },
-      {
-        "title": "导致旧手机卡顿的原因是啥？",
-        "link": "https://www.v2ex.com/t/894264",
         "date": "2022-11-10"
       }
     ]

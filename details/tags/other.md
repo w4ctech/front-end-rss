@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-10 17:44:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-10 18:18:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1917,6 +1917,8 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-11-10-Surge-for-Mac-5-车位缺-3-个](https://www.v2ex.com/t/894310) 
+- [2022-11-10-国外笔记本能拿到国内维修吗？](https://www.v2ex.com/t/894309) 
 - [2022-11-10-整租一室户-11/18-号线御桥地铁站](https://www.v2ex.com/t/894308) 
 - [2022-11-10-替换式密码无密钥如何解密？](https://www.v2ex.com/t/894307) 
 - [2022-11-10-显示器，-WQHD-带鱼屏还是-4K-？](https://www.v2ex.com/t/894306) 
@@ -1945,7 +1947,6 @@
 - [2022-11-10-导致旧手机卡顿的原因是啥？](https://www.v2ex.com/t/894264) 
 - [2022-11-10-今晚双十一，你们都买了啥](https://www.v2ex.com/t/894263) 
 - [2022-11-10-有用华强北耳机的不？体验咋样？](https://www.v2ex.com/t/894262) 
-- [2022-11-10-WSL2-里面的-ssh-服务可真特么坑爹啊！](https://www.v2ex.com/t/894260) 
 - [2022-11-10-DDD的哲学意味（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15405&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fddd-philosophy-entity-value-object%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-10-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-10-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

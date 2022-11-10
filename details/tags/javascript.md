@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-10 08:20:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-10 08:52:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -14,4 +14,5 @@
 - [2021-03-08-香港再现数例疫苗接种严重异常事件-专家初判与疫苗无关](https://china.caixin.com/m/2021-03-08/101672619.html) 
 - [2021-03-03-港府回应一63岁患者死亡事件-暂无法确定与疫苗相关](https://m.caixin.com/m/2021-03-03/101670052.html) 
 - [2022-10-16-2022年新出了哪些form表单新特性？](https://www.zhangxinxu.com/wordpress/2022/10/2022-new-form-property/) 
+- [2022-11-10-坐标上海黄浦市中心，美资物流科技类软件-WLB-外企，.net-+Js-全栈多个-HC（另有-GIS-开发），需要英语能说但不卡学历，流程快+领导特别好+晋升制度完善+海外工...](https://www.v2ex.com/t/894180) 
 - [2022-11-10-请问-go-获取-post-请求返回体的-字符类型为uint8,-但是是-xml-的格式，怎么转换成-json](https://www.v2ex.com/t/894145) 

@@ -9953,6 +9953,31 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "Wechat 使用电信宽带连不上了？",
+        "link": "https://www.v2ex.com/t/894018",
+        "date": "2022-11-10"
+      },
+      {
+        "title": "保养去 4s 还是途虎？",
+        "link": "https://www.v2ex.com/t/894017",
+        "date": "2022-11-10"
+      },
+      {
+        "title": "怎么才能接受自己的平凡",
+        "link": "https://www.v2ex.com/t/894016",
+        "date": "2022-11-10"
+      },
+      {
+        "title": "wsl --version 怎么不能打印出版本信息呢",
+        "link": "https://www.v2ex.com/t/894015",
+        "date": "2022-11-10"
+      },
+      {
+        "title": "家里门禁室内对讲机坏了，物业大宝贝说更换费用 1200",
+        "link": "https://www.v2ex.com/t/894014",
+        "date": "2022-11-09"
+      },
+      {
         "title": "請教光纖皮線",
         "link": "https://www.v2ex.com/t/894013",
         "date": "2022-11-09"
@@ -10126,31 +10151,6 @@
         "title": "广东电信好像慢慢也不给公网 ip 了",
         "link": "https://www.v2ex.com/t/893969",
         "date": "2022-11-09"
-      },
-      {
-        "title": "如何对一个 docker 实例进行 netstat ？",
-        "link": "https://www.v2ex.com/t/893968",
-        "date": "2022-11-09"
-      },
-      {
-        "title": "[WLB] 外企 Coupang 内推 薪资接得住任何大厂 大量 Java (p6,p7p8) 机器学习",
-        "link": "https://www.v2ex.com/t/893967",
-        "date": "2022-11-09"
-      },
-      {
-        "title": "无能的领导最恶心",
-        "link": "https://www.v2ex.com/t/893966",
-        "date": "2022-11-09"
-      },
-      {
-        "title": "iPhone X 换 iPhone 13 Mini 还是 iPhone 13？",
-        "link": "https://www.v2ex.com/t/893965",
-        "date": "2022-11-09"
-      },
-      {
-        "title": "[日本東京] [KKday] 招募 Technical Lead・需要精通日語",
-        "link": "https://www.v2ex.com/t/893964",
-        "date": "2022-11-09"
       }
     ]
   },
@@ -10162,102 +10162,102 @@
       {
         "title": "DDD的哲学意味（上） (insights.thoughtworks.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=15405&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fddd-philosophy-entity-value-object%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-11-09"
+        "date": "2022-11-10"
       },
       {
         "title": "重新思考 React 项目架构 (teobler.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-11-09"
+        "date": "2022-11-10"
       },
       {
         "title": "日志记录的最佳实践 (insights.thoughtworks.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-11-09"
+        "date": "2022-11-10"
       },
       {
         "title": "一个非教条式的TDD例子 (insights.thoughtworks.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-11-09"
+        "date": "2022-11-10"
       },
       {
         "title": "我是怎么读代码的 (insights.thoughtworks.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-11-09"
+        "date": "2022-11-10"
       },
       {
         "title": "技术改变了什么？ (insights.thoughtworks.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=15400&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fpower-of-technology%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-11-09"
+        "date": "2022-11-10"
       },
       {
         "title": "失败驱动开发 (insights.thoughtworks.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=15399&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffailure-driven-development%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-11-09"
+        "date": "2022-11-10"
       },
       {
         "title": "图技术在美团外卖下的场景化应用及探索 (tech.meituan.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15398&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F09%2F08%2Fgnn-scenariomodeling-subgraphextend-jointtraining.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-11-09"
+        "date": "2022-11-10"
       },
       {
         "title": "TLS指纹分析研究（上） (blog.nsfocus.net)",
         "link": "https://blogread.cn/news/go.php?idItem=15397&url=http%3A%2F%2Fblog.nsfocus.net%2Ftls1-0%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-11-09"
+        "date": "2022-11-10"
       },
       {
         "title": "Unix 历史：一个伟大作品的诞生 (linux.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=15396&url=https%3A%2F%2Flinux.cn%2Farticle-15024-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-11-09"
+        "date": "2022-11-10"
       },
       {
         "title": "GraphQL及元数据驱动架构在后端BFF中的实践 (tech.meituan.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15395&url=https%3A%2F%2Ftech.meituan.com%2F2021%2F05%2F06%2Fbff-graphql.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-11-09"
+        "date": "2022-11-10"
       },
       {
         "title": "提升资源利用率与保障服务质量，鱼与熊掌不可兼得？ (tech.meituan.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15394&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F08%2F11%2Fload-auto-regulator.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-11-09"
+        "date": "2022-11-10"
       },
       {
         "title": "探索原味BFF模式 (insights.thoughtworks.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=15393&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fbff-history%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-11-09"
+        "date": "2022-11-10"
       },
       {
         "title": "ARouter 迁移到 TheRouter 使用感受 (juejin.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=15392&url=https%3A%2F%2Fjuejin.cn%2Fpost%2F7142687645980688397%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-11-09"
+        "date": "2022-11-10"
       },
       {
         "title": "智能搜索模型预估框架Augur的建设与实践 (tech.meituan.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15391&url=https%3A%2F%2Ftech.meituan.com%2F2020%2F07%2F16%2Faugur-in-meituan-nlp.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-11-09"
+        "date": "2022-11-10"
       },
       {
         "title": "基于AI算法的数据库异常监测系统的设计与实现 (tech.meituan.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15390&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F09%2F01%2Fdatabase-monitoring-based-on-ai.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-11-09"
+        "date": "2022-11-10"
       },
       {
         "title": "设备指纹技术介绍与综述（二） (blog.nsfocus.net)",
         "link": "https://blogread.cn/news/go.php?idItem=15389&url=http%3A%2F%2Fblog.nsfocus.net%2Ffingerprint%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-11-09"
+        "date": "2022-11-10"
       },
       {
         "title": "向量数据库入坑：传统文本检索方式的降维打击，使用 Faiss 实现向量语义检索 (soulteary.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15388&url=https%3A%2F%2Fsoulteary.com%2F2022%2F09%2F10%2Fthe-dimensionality-reduction-of-traditional-text-retrieval-methods-using-faiss-to-achieve-vector-semantic-retrieval.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-11-09"
+        "date": "2022-11-10"
       },
       {
         "title": "全球IPv4 AS拓扑测绘初探 (blog.nsfocus.net)",
         "link": "https://blogread.cn/news/go.php?idItem=15387&url=http%3A%2F%2Fblog.nsfocus.net%2Fipv4-as%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-11-09"
+        "date": "2022-11-10"
       },
       {
         "title": "与日俱进，在 Go 1.20 中这种高效转换的方式又变了 (colobu.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15386&url=https%3A%2F%2Fcolobu.com%2F2022%2F09%2F06%2Fstring-byte-convertion%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-11-09"
+        "date": "2022-11-10"
       }
     ]
   },
@@ -10267,89 +10267,64 @@
     "link": "https://toutiao.io",
     "items": [
       {
-        "title": "MySQL 基于 binlake 同步 ES 积压解决方案",
-        "link": "https://toutiao.io/k/qkyv5bw",
-        "date": "2022-11-09"
+        "title": "最适合程序员的画图工具？",
+        "link": "https://toutiao.io/k/hlv8j4z",
+        "date": "2022-11-10"
       },
       {
-        "title": "Go 十年了，终于想起要统一 log 库了",
-        "link": "https://toutiao.io/k/pljw7jn",
-        "date": "2022-11-09"
+        "title": "五大模型揭秘深度学习用于时序预测的最新进展",
+        "link": "https://toutiao.io/k/ej101yr",
+        "date": "2022-11-10"
       },
       {
-        "title": "实时数仓架构设计",
-        "link": "https://toutiao.io/k/7w1ndgi",
-        "date": "2022-11-09"
+        "title": "从 Java 8 升级到 Java 17 踩坑全过程，建议收藏",
+        "link": "https://toutiao.io/k/16y0ile",
+        "date": "2022-11-10"
       },
       {
-        "title": "面试官：你懂 HTTP 缓存，那说下浏览器强制刷新是怎么实现的？",
-        "link": "https://toutiao.io/k/63uiuvh",
-        "date": "2022-11-09"
+        "title": "Darknet 中的学习率调整策略",
+        "link": "https://toutiao.io/k/o466hbz",
+        "date": "2022-11-10"
       },
       {
-        "title": "如何实现一个 SQL 解析器",
-        "link": "https://toutiao.io/k/6ynbonf",
-        "date": "2022-11-09"
+        "title": "502 问题怎么排查？",
+        "link": "https://toutiao.io/k/bi198ci",
+        "date": "2022-11-10"
       },
       {
-        "title": "RocketMQ 核心原理解析",
-        "link": "https://toutiao.io/k/vlg238y",
-        "date": "2022-11-09"
+        "title": "推特按照代码行数来裁员？赶快看一下自己在 Git 仓库中的贡献有多少",
+        "link": "https://toutiao.io/k/x6jr41i",
+        "date": "2022-11-10"
       },
       {
-        "title": "从 0 开始做一个 WPF + Blazor 对话小程序",
-        "link": "https://toutiao.io/k/bweopcp",
-        "date": "2022-11-09"
+        "title": "面试官：在 Java 中 new 一个对象的流程是怎样的？彻底被问懵了",
+        "link": "https://toutiao.io/k/q557n2e",
+        "date": "2022-11-10"
       },
       {
-        "title": "JDK 中自带的 JVM 分析工具",
-        "link": "https://toutiao.io/k/fm8b4d0",
-        "date": "2022-11-09"
+        "title": "Paxos 分布式系统共识算法？我愿称其为点歌算法…",
+        "link": "https://toutiao.io/k/z4zjxey",
+        "date": "2022-11-10"
       },
       {
-        "title": "拒绝暴力 kill -9 ！我选择这样优雅停止 SpringBoot 服务",
-        "link": "https://toutiao.io/k/6mkguyh",
-        "date": "2022-11-09"
+        "title": "这是一份全面 & 详细的 Android 车载系统开发入门指南",
+        "link": "https://toutiao.io/k/tapcqg1",
+        "date": "2022-11-10"
       },
       {
-        "title": "这 10 种神级性能优化手段，你用过几个？",
-        "link": "https://toutiao.io/k/ihvxsb3",
-        "date": "2022-11-09"
-      },
-      {
-        "title": "深度学习中常用的激活函数",
-        "link": "https://toutiao.io/k/rnh5ll8",
-        "date": "2022-11-09"
-      },
-      {
-        "title": "聊聊在 Spring Boot 项目中如何配置多个 Kafka 消费者",
-        "link": "https://toutiao.io/k/5g1dxrn",
-        "date": "2022-11-09"
-      },
-      {
-        "title": "手把手教你写 Dart ffi",
-        "link": "https://toutiao.io/k/kw9ljhv",
-        "date": "2022-11-09"
-      },
-      {
-        "title": "再有人问你如何实现订单到期关闭，就把这篇文章发给他",
-        "link": "https://toutiao.io/k/osseclq",
-        "date": "2022-11-09"
-      },
-      {
-        "title": "使用访问控制策略访问服务网格内的服务",
-        "link": "https://toutiao.io/k/mjdbfkl",
-        "date": "2022-11-09"
-      },
-      {
-        "title": "[推荐] 如何画出一张优秀的架构图？（老鸟必备）",
-        "link": "https://toutiao.io/k/xiqybrh",
-        "date": "2022-11-09"
+        "title": "MD5 到底算不算一种加密算法？",
+        "link": "https://toutiao.io/k/izalowf",
+        "date": "2022-11-10"
       },
       {
         "title": "[推荐] 新来个技术总监，仅花 2 小时，撸出一个多线程永动任务，看完直接跪了，真牛逼",
         "link": "https://toutiao.io/k/6u3q7ke",
-        "date": "2022-11-09"
+        "date": "2022-11-10"
+      },
+      {
+        "title": "[推荐] 如何画出一张优秀的架构图？（老鸟必备）",
+        "link": "https://toutiao.io/k/xiqybrh",
+        "date": "2022-11-10"
       }
     ]
   },

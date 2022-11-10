@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-09 23:44:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-10 01:09:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -15,4 +15,3 @@
 - [2021-01-01-大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html) 
 - [2022-11-09-chrome-网址栏输入-v2ex。com-会奔溃闪退？](https://www.v2ex.com/t/893983) 
 - [2022-11-09-NTKO-Web-Chrome](https://www.v2ex.com/t/893977) 
-- [2022-11-09-面试官：你懂-HTTP-缓存，那说下浏览器强制刷新是怎么实现的？](https://toutiao.io/k/63uiuvh) 

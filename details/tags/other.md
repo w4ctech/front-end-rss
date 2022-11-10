@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-10 10:15:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-10 10:44:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1917,6 +1917,10 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-11-10-odoo-有了解的吗，不知道者这是否可以成为大龄程序员的一个选择呢](https://www.v2ex.com/t/894226) 
+- [2022-11-10-Mac-OS-13.0-Ventura-爆内存?](https://www.v2ex.com/t/894225) 
+- [2022-11-10-有人使用西数的-My-book-吗？用起来怎么样？](https://www.v2ex.com/t/894224) 
+- [2022-11-10-你们用广告拦截插件是不对的吧？](https://www.v2ex.com/t/894222) 
 - [2022-11-10-预算两三百-JD-上能买到什么机械键盘。](https://www.v2ex.com/t/894221) 
 - [2022-11-10-新公司不交社保，可以申请失业金吗？](https://www.v2ex.com/t/894220) 
 - [2022-11-10-功能管理（Feature-management）搭建实战篇](https://www.v2ex.com/t/894219) 
@@ -1944,10 +1948,6 @@
 - [2022-11-10-有大神知道-博智计算机终端保密检查系统-吗](https://www.v2ex.com/t/894181) 
 - [2022-11-10-win-的-usb-设备拷贝文件提示需要管理员权限，疑似配置文件出问题，求解](https://www.v2ex.com/t/894178) 
 - [2022-11-10-求推荐适合戴眼镜的头戴式耳机](https://www.v2ex.com/t/894177) 
-- [2022-11-10-BI-智慧工程行业应用方案丨文末获取三重资源包](https://www.v2ex.com/t/894176) 
-- [2022-11-10-分享一个-AIR724（电信卡）利用-bark-短信转发的操作，-AIR780E-或许也能直接用](https://www.v2ex.com/t/894175) 
-- [2022-11-10-Ventura-外接显示器依旧发蓝](https://www.v2ex.com/t/894174) 
-- [2022-11-10-求推荐安卓平安-pdf-笔记软件，能和-windows-电脑端同步的。](https://www.v2ex.com/t/894172) 
 - [2022-11-10-DDD的哲学意味（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15405&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fddd-philosophy-entity-value-object%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-10-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-10-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1975,5 +1975,5 @@
 - [2022-11-10-DDD-的哲学意味（上）](https://toutiao.io/k/t075lrm) 
 - [2022-11-10-带你手把手实操一个-RPC-框架](https://toutiao.io/k/n9hibup) 
 - [2022-11-10-OKR-之剑（理念篇一）：OKR-带给我们的改变我们的改变](https://toutiao.io/k/kj8sqe3) 
-- [2022-11-10-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) 
 - [2022-11-10-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) 
+- [2022-11-10-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) 

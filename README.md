@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-10 10:15:56，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-10 10:44:46，:rocket: 更新条数: +2020， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-11-10-odoo-有了解的吗，不知道者这是否可以成为大龄程序员的一个选择呢](https://www.v2ex.com/t/894226) ![](assets/new.png)  
+- [2022-11-10-Mac-OS-13.0-Ventura-爆内存?](https://www.v2ex.com/t/894225) ![](assets/new.png)  
+- [2022-11-10-有人使用西数的-My-book-吗？用起来怎么样？](https://www.v2ex.com/t/894224) ![](assets/new.png)  
+- [2022-11-10-DNSPod-现已支持-SVCB/HTTPS-记录](https://www.v2ex.com/t/894223) ![](assets/new.png)  
+- [2022-11-10-你们用广告拦截插件是不对的吧？](https://www.v2ex.com/t/894222) ![](assets/new.png)  
 - [2022-11-10-预算两三百-JD-上能买到什么机械键盘。](https://www.v2ex.com/t/894221) ![](assets/new.png)  
 - [2022-11-10-新公司不交社保，可以申请失业金吗？](https://www.v2ex.com/t/894220) ![](assets/new.png)  
 - [2022-11-10-功能管理（Feature-management）搭建实战篇](https://www.v2ex.com/t/894219) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-11-10-各位有什么好用的剪刀推荐吗？](https://www.v2ex.com/t/894206) ![](assets/new.png)  
 - [2022-11-10-notion-头像更新](https://www.v2ex.com/t/894205) ![](assets/new.png)  
 - [2022-11-10-工资从每月-10-号调整到-20-号发放了](https://www.v2ex.com/t/894203) ![](assets/new.png)  
-- [2022-11-10-一个暧昧好几年的女生闪婚了，这几天好难受怎么办？](https://www.v2ex.com/t/894201) ![](assets/new.png)  
-- [2022-11-10-咸鱼的验货宝有用过的吗？靠谱吗？](https://www.v2ex.com/t/894199) ![](assets/new.png)  
-- [2022-11-10-TP-XDR5480-小米-AX6000-和华硕-AX86U-个人使用体验](https://www.v2ex.com/t/894197) ![](assets/new.png)  
-- [2022-11-10-Linux-小主机推荐一下？](https://www.v2ex.com/t/894194) ![](assets/new.png)  
-- [2022-11-10-chrome-如何像-vscode-那样进行-remote-操作？](https://www.v2ex.com/t/894193) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -568,8 +568,8 @@
 - [2022-11-10-DDD-的哲学意味（上）](https://toutiao.io/k/t075lrm) ![](assets/new.png)  
 - [2022-11-10-带你手把手实操一个-RPC-框架](https://toutiao.io/k/n9hibup) ![](assets/new.png)  
 - [2022-11-10-OKR-之剑（理念篇一）：OKR-带给我们的改变我们的改变](https://toutiao.io/k/kj8sqe3) ![](assets/new.png)  
-- [2022-11-10-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) ![](assets/new.png)  
 - [2022-11-10-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) ![](assets/new.png)  
+- [2022-11-10-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

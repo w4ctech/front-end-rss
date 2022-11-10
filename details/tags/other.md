@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-10 09:15:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-10 09:42:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1917,6 +1917,12 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-11-10-#随感-在-2022-年使用一台直板-9-键的手机](https://www.v2ex.com/t/894207) 
+- [2022-11-10-各位有什么好用的剪刀推荐吗？](https://www.v2ex.com/t/894206) 
+- [2022-11-10-notion-头像更新](https://www.v2ex.com/t/894205) 
+- [2022-11-10-工资从每月-10-号调整到-20-号发放了](https://www.v2ex.com/t/894203) 
+- [2022-11-10-一个暧昧好几年的女生闪婚了，这几天好难受怎么办？](https://www.v2ex.com/t/894201) 
+- [2022-11-10-咸鱼的验货宝有用过的吗？靠谱吗？](https://www.v2ex.com/t/894199) 
 - [2022-11-10-TP-XDR5480-小米-AX6000-和华硕-AX86U-个人使用体验](https://www.v2ex.com/t/894197) 
 - [2022-11-10-求稳定可用机场推荐](https://www.v2ex.com/t/894196) 
 - [2022-11-10-Linux-小主机推荐一下？](https://www.v2ex.com/t/894194) 
@@ -1940,12 +1946,6 @@
 - [2022-11-10-为什么有些大龄程序员去跑滴滴，送外卖？](https://www.v2ex.com/t/894161) 
 - [2022-11-10-机车选择，二手-z400-VS-新-MT03](https://www.v2ex.com/t/894159) 
 - [2022-11-10-大家平时都喝什么咖啡](https://www.v2ex.com/t/894158) 
-- [2022-11-10-大家有没有明明有信号-但是别人反馈电话打不通的情况](https://www.v2ex.com/t/894157) 
-- [2022-11-10-为啥这么多-gh-账号指责被盗号刷星？](https://www.v2ex.com/t/894156) 
-- [2022-11-10-要买一大堆黑白家电家装和小电子，哪个需要双十一买？](https://www.v2ex.com/t/894155) 
-- [2022-11-10-把自己开发了一年的记账项目开源了，需要记账的朋友可以自己部署一套](https://www.v2ex.com/t/894154) 
-- [2022-11-10-一个睡眠问题](https://www.v2ex.com/t/894153) 
-- [2022-11-10-想问一下大家的单程开车通勤时长都是多少](https://www.v2ex.com/t/894152) 
 - [2022-11-10-DDD的哲学意味（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15405&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fddd-philosophy-entity-value-object%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-10-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-10-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-10 11:14:05，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-10 11:38:47，:rocket: 更新条数: +2023， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-11-10-Drone-runner-代理问题](https://www.v2ex.com/t/894236) ![](assets/new.png)  
+- [2022-11-10-分享-一个开源的基于-pipeline-的高性能-AI-推理框架-Modelbox](https://www.v2ex.com/t/894235) ![](assets/new.png)  
+- [2022-11-10-苹果把-YouTube-上二十年前的-WWDC-Session-视频投诉下架了](https://www.v2ex.com/t/894234) ![](assets/new.png)  
 - [2022-11-10-有啥可自建的云函数平台么](https://www.v2ex.com/t/894233) ![](assets/new.png)  
 - [2022-11-10-ethernet-包头中的-type-字段与-IPv4/IPv6-包头中的-version-字段问题](https://www.v2ex.com/t/894232) ![](assets/new.png)  
 - [2022-11-10-明天去掏羊锅](https://www.v2ex.com/t/894231) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-11-10-哪有链接文本中间拖选复制的脚本？](https://www.v2ex.com/t/894218) ![](assets/new.png)  
 - [2022-11-10-办公笔记本-ThinkPad-和-MateBook-选择？](https://www.v2ex.com/t/894217) ![](assets/new.png)  
 - [2022-11-10-帮朋友转发的职位，大数据类基础软件头部上市公司，-Java-/Golang数据平台开发/数据库-or-数据安全产品经理/-Java-/Go/Scala数据库开发职位，大量-HC，学...](https://www.v2ex.com/t/894216) ![](assets/new.png)  
-- [2022-11-10-收个电瓶车，最好在新塘附近的](https://www.v2ex.com/t/894215) ![](assets/new.png)  
-- [2022-11-10-有人-pdd-百人团互助网站的业务有没有搞头](https://www.v2ex.com/t/894212) ![](assets/new.png)  
-- [2022-11-10-为什么使用-@Autowired-进行-set-注入会出现概率失败问题](https://www.v2ex.com/t/894211) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

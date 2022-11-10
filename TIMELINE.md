@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-10 11:14:05。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-10 11:38:47。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,9 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-10-Drone-runner-代理问题](https://www.v2ex.com/t/894236) 
+- [【V2EX】2022-11-10-分享-一个开源的基于-pipeline-的高性能-AI-推理框架-Modelbox](https://www.v2ex.com/t/894235) 
+- [【V2EX】2022-11-10-苹果把-YouTube-上二十年前的-WWDC-Session-视频投诉下架了](https://www.v2ex.com/t/894234) 
 - [【V2EX】2022-11-10-有啥可自建的云函数平台么](https://www.v2ex.com/t/894233) 
 - [【V2EX】2022-11-10-ethernet-包头中的-type-字段与-IPv4/IPv6-包头中的-version-字段问题](https://www.v2ex.com/t/894232) 
 - [【V2EX】2022-11-10-明天去掏羊锅](https://www.v2ex.com/t/894231) 
@@ -107,8 +110,6 @@
 - [【V2EX】2022-11-10-新加坡-web3-公司，招聘资深前端开发工程师，资深后端开发（go,资深测试工程师等职位。提供工签，技术移民机会。职位可选新加坡或香港。可中文面试。](https://www.v2ex.com/t/894189) 
 - [【V2EX】2022-11-10-除了华为，信号强的安卓机求推荐](https://www.v2ex.com/t/894188) 
 - [【V2EX】2022-11-10-有公众号刷赞的渠道吗？](https://www.v2ex.com/t/894187) 
-- [【V2EX】2022-11-10-Sparkmail-Android-客户端不能同步邮箱账号，其他客户端可以，不会是-Bug-吧，网络环境是相同的。](https://www.v2ex.com/t/894186) 
-- [【V2EX】2022-11-10-你们为学习做过哪些投资](https://www.v2ex.com/t/894185) 
 - [【技术头条】2022-11-10-DDD的哲学意味（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15405&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fddd-philosophy-entity-value-object%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-10-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-10-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

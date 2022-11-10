@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-10 07:14:17。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-10 07:39:18。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,13 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-10-联通连接-AWS-日本改回直连了](https://www.v2ex.com/t/894163) 
+- [【V2EX】2022-11-10-有用过-jasper-report-的小伙伴吗,-一个-jasper-报表生成很慢的问题](https://www.v2ex.com/t/894162) 
+- [【V2EX】2022-11-10-为什么有些大龄程序员去跑滴滴，送外卖？](https://www.v2ex.com/t/894161) 
+- [【V2EX】2022-11-10-大家有没有-深-i-您-的-url-scheme-啊](https://www.v2ex.com/t/894160) 
+- [【V2EX】2022-11-10-机车选择，二手-z400-VS-新-MT03](https://www.v2ex.com/t/894159) 
+- [【V2EX】2022-11-10-大家平时都喝什么咖啡](https://www.v2ex.com/t/894158) 
+- [【V2EX】2022-11-10-大家有没有明明有信号-但是别人反馈电话打不通的情况](https://www.v2ex.com/t/894157) 
 - [【V2EX】2022-11-10-为啥这么多-gh-账号指责被盗号刷星？](https://www.v2ex.com/t/894156) 
 - [【V2EX】2022-11-10-要买一大堆黑白家电家装和小电子，哪个需要双十一买？](https://www.v2ex.com/t/894155) 
 - [【V2EX】2022-11-10-把自己开发了一年的记账项目开源了，需要记账的朋友可以自己部署一套](https://www.v2ex.com/t/894154) 
@@ -98,14 +105,6 @@
 - [【V2EX】2022-11-10-浙江明年非标电车-不能上路了，有路子买二手的-1000-多的速度-50-码往上的新国标电车么？](https://www.v2ex.com/t/894121) 
 - [【V2EX】2022-11-10-React-谷歌浏览器自动化脚本求助，大佬们过来康康](https://www.v2ex.com/t/894120) 
 - [【V2EX】2022-11-10-有买了-PN64-升级-64GB（32×2）内存成功的么？](https://www.v2ex.com/t/894117) 
-- [【V2EX】2022-11-10-分享一下目前还在招人的“中而美”或者“小而美”的公司](https://www.v2ex.com/t/894116) 
-- [【V2EX】2022-11-10-腾讯云-CDN-突然-ERR_CONNECTION_RESET，有遇上过的吗？](https://www.v2ex.com/t/894114) 
-- [【V2EX】2022-11-10-有把程序内部状态实时映射到表的实现思路吗？](https://www.v2ex.com/t/894113) 
-- [【V2EX】2022-11-10-去哪买水货-iPhone](https://www.v2ex.com/t/894112) 
-- [【V2EX】2022-11-10-求推荐一款千元以下的家居电脑椅](https://www.v2ex.com/t/894111) 
-- [【V2EX】2022-11-10-Mac-使用软件分享，抛砖引玉](https://www.v2ex.com/t/894110) 
-- [【V2EX】2022-11-10-React.useEffect-的效果，为什么还跟帧率有关？-bug-到底出在哪里？](https://www.v2ex.com/t/894109) 
-- [【V2EX】2022-11-10-分享一下你在-b-站发现的宝藏-up？-Java-技术类最好](https://www.v2ex.com/t/894108) 
 - [【技术头条】2022-11-10-DDD的哲学意味（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15405&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fddd-philosophy-entity-value-object%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-10-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-10-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -135,14 +134,14 @@
 - [【开发者头条】2022-11-10-Data-Parallel-Actors：千行代码构建高性能-OLAP-数据库](https://toutiao.io/k/blbdcl0) 
 - [【开发者头条】2022-11-10-面试官：在-Java-中-new-一个对象的流程是怎样的？彻底被问懵了](https://toutiao.io/k/q557n2e) 
 - [【开发者头条】2022-11-10-MD5-到底算不算一种加密算法？](https://toutiao.io/k/izalowf) 
+- [【开发者头条】2022-11-10-系统稳定性治理最佳实践](https://toutiao.io/k/cy3t720) 
 - [【开发者头条】2022-11-10-这是一份全面-&-详细的-Android-车载系统开发入门指南](https://toutiao.io/k/tapcqg1) 
 - [【开发者头条】2022-11-10-Paxos-分布式系统共识算法？我愿称其为点歌算法…](https://toutiao.io/k/z4zjxey) 
-- [【开发者头条】2022-11-10-系统稳定性治理最佳实践](https://toutiao.io/k/cy3t720) 
 - [【开发者头条】2022-11-10-DDD-的哲学意味（上）](https://toutiao.io/k/t075lrm) 
 - [【开发者头条】2022-11-10-OKR-之剑（理念篇一）：OKR-带给我们的改变我们的改变](https://toutiao.io/k/kj8sqe3) 
 - [【开发者头条】2022-11-10-带你手把手实操一个-RPC-框架](https://toutiao.io/k/n9hibup) 
-- [【开发者头条】2022-11-10-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) 
 - [【开发者头条】2022-11-10-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) 
+- [【开发者头条】2022-11-10-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

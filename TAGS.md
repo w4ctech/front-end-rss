@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-11-10 04:11:15。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-10 05:05:11。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -39,6 +39,7 @@
 
 
 
+- [【V2EX】React.useEffect-的效果，为什么还跟帧率有关？-bug-到底出在哪里？](https://www.v2ex.com/t/894109)
 - [【技术头条】重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/react.md)
 
@@ -247,7 +248,6 @@
 
 
 
-- [【V2EX】MacBook-16-寸-2019-显卡内存长期飙高，有优化方案吗](https://www.v2ex.com/t/894056)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -326,7 +326,6 @@
 
 
 - [【V2EX】GitHub-Codespaces-对个人用户开放了，每个月有-60-小时的免费使用时间](https://www.v2ex.com/t/894094)
-- [【V2EX】使用-Sponsor-在-Github-赞助开发者，被赞助者可以收到-NFT](https://www.v2ex.com/t/894057)
 - [【开发者头条】推特按照代码行数来裁员？赶快看一下自己在-Git-仓库中的贡献有多少](https://toutiao.io/k/x6jr41i)
 - [......【查看更多】......](./details/tags/git-svn.md)
 

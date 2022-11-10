@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-10 10:44:46。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-10 11:14:05。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,12 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-10-有啥可自建的云函数平台么](https://www.v2ex.com/t/894233) 
+- [【V2EX】2022-11-10-ethernet-包头中的-type-字段与-IPv4/IPv6-包头中的-version-字段问题](https://www.v2ex.com/t/894232) 
+- [【V2EX】2022-11-10-明天去掏羊锅](https://www.v2ex.com/t/894231) 
+- [【V2EX】2022-11-10-类似这种网页背景的动图是怎么实现的呢](https://www.v2ex.com/t/894230) 
+- [【V2EX】2022-11-10-没有-party-的全民投票?](https://www.v2ex.com/t/894229) 
+- [【V2EX】2022-11-10-C-转-DP-线会干扰-2.4G-无线键鼠吗？](https://www.v2ex.com/t/894227) 
 - [【V2EX】2022-11-10-odoo-有了解的吗，不知道者这是否可以成为大龄程序员的一个选择呢](https://www.v2ex.com/t/894226) 
 - [【V2EX】2022-11-10-Mac-OS-13.0-Ventura-爆内存?](https://www.v2ex.com/t/894225) 
 - [【V2EX】2022-11-10-有人使用西数的-My-book-吗？用起来怎么样？](https://www.v2ex.com/t/894224) 
@@ -103,10 +109,6 @@
 - [【V2EX】2022-11-10-有公众号刷赞的渠道吗？](https://www.v2ex.com/t/894187) 
 - [【V2EX】2022-11-10-Sparkmail-Android-客户端不能同步邮箱账号，其他客户端可以，不会是-Bug-吧，网络环境是相同的。](https://www.v2ex.com/t/894186) 
 - [【V2EX】2022-11-10-你们为学习做过哪些投资](https://www.v2ex.com/t/894185) 
-- [【V2EX】2022-11-10-有大神知道-博智计算机终端保密检查系统-吗](https://www.v2ex.com/t/894181) 
-- [【V2EX】2022-11-10-坐标上海黄浦市中心，美资物流科技类软件-WLB-外企，.net-+Js-全栈多个-HC（另有-GIS-开发），需要英语能说但不卡学历，流程快+领导特别好+晋升制度完善+海外工...](https://www.v2ex.com/t/894180) 
-- [【V2EX】2022-11-10-win-的-usb-设备拷贝文件提示需要管理员权限，疑似配置文件出问题，求解](https://www.v2ex.com/t/894178) 
-- [【V2EX】2022-11-10-求推荐适合戴眼镜的头戴式耳机](https://www.v2ex.com/t/894177) 
 - [【技术头条】2022-11-10-DDD的哲学意味（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15405&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fddd-philosophy-entity-value-object%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-10-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-10-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

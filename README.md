@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-11 13:24:22，:rocket: 更新条数: +2023， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-11 14:00:14，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-11-11-升级-Ventura-13.0.1-后应用损坏](https://www.v2ex.com/t/894601) ![](assets/new.png)  
+- [2022-11-11-选购路由器，-V-友们给点建议](https://www.v2ex.com/t/894598) ![](assets/new.png)  
 - [2022-11-11-怎么鉴别-apple-watch-的充电线是真品啊](https://www.v2ex.com/t/894597) ![](assets/new.png)  
 - [2022-11-11-苹果可以唤醒+内容同时执行,-别的要先唤醒进入监听状态,然后再说内容,-这个区别的难度大么](https://www.v2ex.com/t/894596) ![](assets/new.png)  
 - [2022-11-11-字节抖音-深圳-隐私合规-客户端研发（Android/iOS）](https://www.v2ex.com/t/894595) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-11-11-有什么办法能在滚动条显示时自动增加-div-的高度吗？](https://www.v2ex.com/t/894576) ![](assets/new.png)  
 - [2022-11-11-IPTV-抓包求助](https://www.v2ex.com/t/894575) ![](assets/new.png)  
 - [2022-11-11-mac-上有什么能记住工作目录的-sftp-传输工具](https://www.v2ex.com/t/894574) ![](assets/new.png)  
-- [2022-11-11-字节跳动---飞书-多地多岗位招聘，海量-HC，求简历～](https://www.v2ex.com/t/894573) ![](assets/new.png)  
-- [2022-11-11-问下程序员，短信回-T-退订是真是假？](https://www.v2ex.com/t/894572) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -558,8 +558,8 @@
 - [2022-11-11-云架构师进阶攻略（完整版）](https://toutiao.io/k/aghcor1) ![](assets/new.png)  
 - [2022-11-11-万字好文：从无栈协程到-C++-异步框架](https://toutiao.io/k/0dwmcej) ![](assets/new.png)  
 - [2022-11-11-图片不压缩，前端要背锅](https://toutiao.io/k/w3um3sg) ![](assets/new.png)  
-- [2022-11-11-黑客“劫持”了一颗卫星，用它直播黑客大会和放电影](https://toutiao.io/k/5x7x2f4) ![](assets/new.png)  
 - [2022-11-11-我设计的异步架构把公司的核心系统性能提升-100-倍，领导给我加鸡腿](https://toutiao.io/k/acsx48v) ![](assets/new.png)  
+- [2022-11-11-黑客“劫持”了一颗卫星，用它直播黑客大会和放电影](https://toutiao.io/k/5x7x2f4) ![](assets/new.png)  
 - [2022-11-11-五分钟搞定-YAML](https://toutiao.io/k/q00m7wl) ![](assets/new.png)  
 - [2022-11-11-漏洞管理十大度量指标](https://toutiao.io/k/61eawap) ![](assets/new.png)  
 - [2022-11-11-教你如何用-TensorRT-部署-YOLOX（附代码）](https://toutiao.io/k/jzwc3hy) ![](assets/new.png)  
@@ -568,8 +568,8 @@
 - [2022-11-11-C2D-代码转设计稿是怎么实现的？](https://toutiao.io/k/e3mrkfm) ![](assets/new.png)  
 - [2022-11-11-这个假微信软件有点套路](https://toutiao.io/k/ao711fi) ![](assets/new.png)  
 - [2022-11-11-增加内存会让计算机变快吗？](https://toutiao.io/k/5ytqja5) ![](assets/new.png)  
-- [2022-11-11-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) ![](assets/new.png)  
 - [2022-11-11-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) ![](assets/new.png)  
+- [2022-11-11-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

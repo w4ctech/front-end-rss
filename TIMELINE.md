@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-11 13:24:22。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-11 14:00:14。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,8 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-11-升级-Ventura-13.0.1-后应用损坏](https://www.v2ex.com/t/894601) 
+- [【V2EX】2022-11-11-选购路由器，-V-友们给点建议](https://www.v2ex.com/t/894598) 
 - [【V2EX】2022-11-11-怎么鉴别-apple-watch-的充电线是真品啊](https://www.v2ex.com/t/894597) 
 - [【V2EX】2022-11-11-苹果可以唤醒+内容同时执行,-别的要先唤醒进入监听状态,然后再说内容,-这个区别的难度大么](https://www.v2ex.com/t/894596) 
 - [【V2EX】2022-11-11-字节抖音-深圳-隐私合规-客户端研发（Android/iOS）](https://www.v2ex.com/t/894595) 
@@ -106,10 +108,6 @@
 - [【V2EX】2022-11-11-前端都是用什么软件设计-ui-的](https://www.v2ex.com/t/894555) 
 - [【V2EX】2022-11-11-关于工业制图的问题?](https://www.v2ex.com/t/894554) 
 - [【V2EX】2022-11-11-11.87KiB/s-和-96Kbps-哪个音质更好?](https://www.v2ex.com/t/894553) 
-- [【V2EX】2022-11-11-ETL-方案有哪些](https://www.v2ex.com/t/894551) 
-- [【V2EX】2022-11-11-问，前端埋点一般都有哪些解决方案开源?](https://www.v2ex.com/t/894550) 
-- [【V2EX】2022-11-11-寻找丢失的批量水印添加软件](https://www.v2ex.com/t/894549) 
-- [【V2EX】2022-11-11-MAKATI~钻石大厦~-岗位：-#-PHP-，#H5-，#安卓-，#产品经理-，#SEO-学徒-，#招商-，#财务-，#客服-，#电维-，#推广-纸飞机：-@ksnana66](https://www.v2ex.com/t/894548) 
 - [【技术头条】2022-11-11-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-11-以综合指数观察和评价研发效能的趋势-link.zhihu.com](https://blogread.cn/news/go.php?idItem=15406&url=https%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttps%253A%2F%2Finsights.thoughtworks.cn%2Fobserving-evaluating-research-development-efficiency-trend%2F%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-11-DDD的哲学意味（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15405&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fddd-philosophy-entity-value-object%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -135,8 +133,8 @@
 - [【开发者头条】2022-11-11-云架构师进阶攻略（完整版）](https://toutiao.io/k/aghcor1) 
 - [【开发者头条】2022-11-11-万字好文：从无栈协程到-C++-异步框架](https://toutiao.io/k/0dwmcej) 
 - [【开发者头条】2022-11-11-图片不压缩，前端要背锅](https://toutiao.io/k/w3um3sg) 
-- [【开发者头条】2022-11-11-黑客“劫持”了一颗卫星，用它直播黑客大会和放电影](https://toutiao.io/k/5x7x2f4) 
 - [【开发者头条】2022-11-11-我设计的异步架构把公司的核心系统性能提升-100-倍，领导给我加鸡腿](https://toutiao.io/k/acsx48v) 
+- [【开发者头条】2022-11-11-黑客“劫持”了一颗卫星，用它直播黑客大会和放电影](https://toutiao.io/k/5x7x2f4) 
 - [【开发者头条】2022-11-11-五分钟搞定-YAML](https://toutiao.io/k/q00m7wl) 
 - [【开发者头条】2022-11-11-漏洞管理十大度量指标](https://toutiao.io/k/61eawap) 
 - [【开发者头条】2022-11-11-教你如何用-TensorRT-部署-YOLOX（附代码）](https://toutiao.io/k/jzwc3hy) 
@@ -145,8 +143,8 @@
 - [【开发者头条】2022-11-11-C2D-代码转设计稿是怎么实现的？](https://toutiao.io/k/e3mrkfm) 
 - [【开发者头条】2022-11-11-这个假微信软件有点套路](https://toutiao.io/k/ao711fi) 
 - [【开发者头条】2022-11-11-增加内存会让计算机变快吗？](https://toutiao.io/k/5ytqja5) 
-- [【开发者头条】2022-11-11-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) 
 - [【开发者头条】2022-11-11-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) 
+- [【开发者头条】2022-11-11-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

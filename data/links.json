@@ -9953,6 +9953,56 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "使用 git 在多设备间同步 obsidian 时，需要同步.obsidian 这个目录吗？",
+        "link": "https://www.v2ex.com/t/894500",
+        "date": "2022-11-11"
+      },
+      {
+        "title": "西班牙程序员工资",
+        "link": "https://www.v2ex.com/t/894499",
+        "date": "2022-11-11"
+      },
+      {
+        "title": "[杭州]NoSQL 数据库产品开发工程师",
+        "link": "https://www.v2ex.com/t/894498",
+        "date": "2022-11-11"
+      },
+      {
+        "title": "element plus 按钮的问题，求帮助",
+        "link": "https://www.v2ex.com/t/894497",
+        "date": "2022-11-11"
+      },
+      {
+        "title": "如何实现在浏览器匿名访问的情况下，推荐用户下载 App，之后重新在 App 中打开对应的页面",
+        "link": "https://www.v2ex.com/t/894496",
+        "date": "2022-11-11"
+      },
+      {
+        "title": "深圳户外交友 test",
+        "link": "https://www.v2ex.com/t/894492",
+        "date": "2022-11-11"
+      },
+      {
+        "title": "Mac 上的微信，商店版和官网版，有什么区别吗？",
+        "link": "https://www.v2ex.com/t/894491",
+        "date": "2022-11-11"
+      },
+      {
+        "title": "交通银行白金信用卡可以通过什么方式快捷的免除年费",
+        "link": "https://www.v2ex.com/t/894490",
+        "date": "2022-11-11"
+      },
+      {
+        "title": "Python 菜鸟请教一个在 Windows 下使用 os.popen 调用 copy 命令复制文件的问题",
+        "link": "https://www.v2ex.com/t/894489",
+        "date": "2022-11-11"
+      },
+      {
+        "title": "Apple:您的手机经过非授权改装， Apple 不予维修。——苹果新回复",
+        "link": "https://www.v2ex.com/t/894488",
+        "date": "2022-11-11"
+      },
+      {
         "title": "最近在做一个内容风控的 cms 系统，大家觉得有需求不？",
         "link": "https://www.v2ex.com/t/894487",
         "date": "2022-11-11"
@@ -10075,61 +10125,6 @@
       {
         "title": "为什么 MBP 的屏幕这么通透",
         "link": "https://www.v2ex.com/t/894453",
-        "date": "2022-11-11"
-      },
-      {
-        "title": "坐标上海 20 年毕业 专科 前端工作有点难找啊，外包也不要。。。",
-        "link": "https://www.v2ex.com/t/894449",
-        "date": "2022-11-11"
-      },
-      {
-        "title": "企微互通功能被封永久了",
-        "link": "https://www.v2ex.com/t/894448",
-        "date": "2022-11-11"
-      },
-      {
-        "title": "取消 2FA",
-        "link": "https://www.v2ex.com/t/894447",
-        "date": "2022-11-11"
-      },
-      {
-        "title": "写了一篇算法复杂度分析入门的文章，分享给程序员朋友们",
-        "link": "https://www.v2ex.com/t/894446",
-        "date": "2022-11-11"
-      },
-      {
-        "title": "分享一个自己多年以前写的坦克大战游戏",
-        "link": "https://www.v2ex.com/t/894445",
-        "date": "2022-11-11"
-      },
-      {
-        "title": "请教下 hotkeyp 软件，映射`Ctrl 和+`的组合键宏命令怎么写",
-        "link": "https://www.v2ex.com/t/894444",
-        "date": "2022-11-11"
-      },
-      {
-        "title": "时隔 2 个月，网站再升级，我把副业、外包、远程工作、创意灵感等统统搞到了一起！",
-        "link": "https://www.v2ex.com/t/894443",
-        "date": "2022-11-11"
-      },
-      {
-        "title": "macOS Ventura 每次重启均需为软件准许相关权限",
-        "link": "https://www.v2ex.com/t/894442",
-        "date": "2022-11-11"
-      },
-      {
-        "title": "网页版 QQ 邮箱无法收到短信验证码",
-        "link": "https://www.v2ex.com/t/894440",
-        "date": "2022-11-11"
-      },
-      {
-        "title": "pandas 读取 Excel 参数文件，提交接口报错，打印出来的 dict 复制出来提交却正常",
-        "link": "https://www.v2ex.com/t/894439",
-        "date": "2022-11-11"
-      },
-      {
-        "title": "外卖软件能否优先展示店铺的环境？",
-        "link": "https://www.v2ex.com/t/894438",
         "date": "2022-11-11"
       }
     ]
@@ -10297,13 +10292,13 @@
         "date": "2022-11-11"
       },
       {
-        "title": "Java 并发技术（读书之 Java 性能优化实践第 12 章）",
-        "link": "https://toutiao.io/k/p1nngaf",
+        "title": "当 LinkedList 不是列表时，速度快的兔子都追不上!",
+        "link": "https://toutiao.io/k/p5xadxq",
         "date": "2022-11-11"
       },
       {
-        "title": "当 LinkedList 不是列表时，速度快的兔子都追不上!",
-        "link": "https://toutiao.io/k/p5xadxq",
+        "title": "Java 并发技术（读书之 Java 性能优化实践第 12 章）",
+        "link": "https://toutiao.io/k/p1nngaf",
         "date": "2022-11-11"
       },
       {
@@ -10322,13 +10317,13 @@
         "date": "2022-11-11"
       },
       {
-        "title": "[推荐] 新来个技术总监，仅花 2 小时，撸出一个多线程永动任务，看完直接跪了，真牛逼",
-        "link": "https://toutiao.io/k/6u3q7ke",
+        "title": "[推荐] 如何画出一张优秀的架构图？（老鸟必备）",
+        "link": "https://toutiao.io/k/xiqybrh",
         "date": "2022-11-11"
       },
       {
-        "title": "[推荐] 如何画出一张优秀的架构图？（老鸟必备）",
-        "link": "https://toutiao.io/k/xiqybrh",
+        "title": "[推荐] 新来个技术总监，仅花 2 小时，撸出一个多线程永动任务，看完直接跪了，真牛逼",
+        "link": "https://toutiao.io/k/6u3q7ke",
         "date": "2022-11-11"
       }
     ]

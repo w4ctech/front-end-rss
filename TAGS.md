@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-11-11 07:15:35。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-11 07:39:34。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -153,7 +153,6 @@
 
 
 
-- [【V2EX】分享一个自己多年以前写的坦克大战游戏](https://www.v2ex.com/t/894445)
 - [......【查看更多】......](./details/tags/dev-game.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -274,6 +273,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】腺病毒新冠疫苗引安全忧虑-康希诺称未发现血栓病例](https://m.caixin.com/m/2021-04-14/101691086.html)
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
+- [【V2EX】如何实现在浏览器匿名访问的情况下，推荐用户下载-App，之后重新在-App-中打开对应的页面](https://www.v2ex.com/t/894496)
 - [【V2EX】SwiftUI-中如何在-ContentView-之外使用-CoreData-?](https://www.v2ex.com/t/894478)
 - [......【查看更多】......](./details/tags/browser.md)
 
@@ -292,7 +292,6 @@
 
 
 - [【V2EX】记录-中午在公司宿舍做的-One-Pot-Pasta-meal](https://www.v2ex.com/t/894474)
-- [【V2EX】写了一篇算法复杂度分析入门的文章，分享给程序员朋友们](https://www.v2ex.com/t/894446)
 - [【技术头条】基于AI算法的数据库异常监测系统的设计与实现-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15390&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F09%2F01%2Fdatabase-monitoring-based-on-ai.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】解密负载均衡技术和负载均衡算法](https://toutiao.io/k/q1jz8l3)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
@@ -328,6 +327,7 @@
 
 
 
+- [【V2EX】使用-git-在多设备间同步-obsidian-时，需要同步.obsidian-这个目录吗？](https://www.v2ex.com/t/894500)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

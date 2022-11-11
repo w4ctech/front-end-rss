@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-11 15:44:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-11 16:20:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1917,6 +1917,9 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-11-11-大家腾讯云-HK-还炸吗](https://www.v2ex.com/t/894622) 
+- [2022-11-11-想请大家帮助我进行-testflight-测试](https://www.v2ex.com/t/894621) 
+- [2022-11-11-最新版-mac-QQ-如何多开？](https://www.v2ex.com/t/894619) 
 - [2022-11-11-有人提取过-buymeacoffee-里面的钱到支付宝吗？](https://www.v2ex.com/t/894616) 
 - [2022-11-11-南京前端心里有点难受](https://www.v2ex.com/t/894615) 
 - [2022-11-11-支持全文搜索、点对点同步、完全离线的稍后读软件](https://www.v2ex.com/t/894614) 
@@ -1943,10 +1946,6 @@
 - [2022-11-11-买了金条金片-并剪成条弯成圈了-怎么把接口焊起来当戒指送给女朋友呢](https://www.v2ex.com/t/894578) 
 - [2022-11-11-Cloudflare-cdn-电信有低延迟的线路吗](https://www.v2ex.com/t/894577) 
 - [2022-11-11-IPTV-抓包求助](https://www.v2ex.com/t/894575) 
-- [2022-11-11-mac-上有什么能记住工作目录的-sftp-传输工具](https://www.v2ex.com/t/894574) 
-- [2022-11-11-问下程序员，短信回-T-退订是真是假？](https://www.v2ex.com/t/894572) 
-- [2022-11-11-shell-脚本中调用-adb-出现的奇怪显现象](https://www.v2ex.com/t/894571) 
-- [2022-11-11-出以前的搬瓦工套餐,-有需要的嘛](https://www.v2ex.com/t/894570) 
 - [2022-11-11-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-11-以综合指数观察和评价研发效能的趋势-link.zhihu.com](https://blogread.cn/news/go.php?idItem=15406&url=https%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttps%253A%2F%2Finsights.thoughtworks.cn%2Fobserving-evaluating-research-development-efficiency-trend%2F%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-11-DDD的哲学意味（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15405&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fddd-philosophy-entity-value-object%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1971,5 +1970,5 @@
 - [2022-11-11-C2D-代码转设计稿是怎么实现的？](https://toutiao.io/k/e3mrkfm) 
 - [2022-11-11-这个假微信软件有点套路](https://toutiao.io/k/ao711fi) 
 - [2022-11-11-增加内存会让计算机变快吗？](https://toutiao.io/k/5ytqja5) 
-- [2022-11-11-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) 
 - [2022-11-11-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) 
+- [2022-11-11-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) 

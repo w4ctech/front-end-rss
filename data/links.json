@@ -9953,6 +9953,26 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "Pasteburn - self-hosted, 端到端加密，阅后即焚的 pastebin",
+        "link": "https://www.v2ex.com/t/894623",
+        "date": "2022-11-11"
+      },
+      {
+        "title": "大家腾讯云 HK 还炸吗",
+        "link": "https://www.v2ex.com/t/894622",
+        "date": "2022-11-11"
+      },
+      {
+        "title": "想请大家帮助我进行 testflight 测试",
+        "link": "https://www.v2ex.com/t/894621",
+        "date": "2022-11-11"
+      },
+      {
+        "title": "最新版 mac QQ 如何多开？",
+        "link": "https://www.v2ex.com/t/894619",
+        "date": "2022-11-11"
+      },
+      {
         "title": "[北京] IGT 国际游戏技术公司招聘（前端）软件工程师",
         "link": "https://www.v2ex.com/t/894618",
         "date": "2022-11-11"
@@ -10110,36 +10130,6 @@
       {
         "title": "IPTV 抓包求助",
         "link": "https://www.v2ex.com/t/894575",
-        "date": "2022-11-11"
-      },
-      {
-        "title": "mac 上有什么能记住工作目录的 sftp 传输工具",
-        "link": "https://www.v2ex.com/t/894574",
-        "date": "2022-11-11"
-      },
-      {
-        "title": "[字节跳动 - 飞书] 多地多岗位招聘，海量 HC，求简历～",
-        "link": "https://www.v2ex.com/t/894573",
-        "date": "2022-11-11"
-      },
-      {
-        "title": "问下程序员，短信回 T 退订是真是假？",
-        "link": "https://www.v2ex.com/t/894572",
-        "date": "2022-11-11"
-      },
-      {
-        "title": "shell 脚本中调用 adb 出现的奇怪显现象",
-        "link": "https://www.v2ex.com/t/894571",
-        "date": "2022-11-11"
-      },
-      {
-        "title": "出以前的搬瓦工套餐, 有需要的嘛",
-        "link": "https://www.v2ex.com/t/894570",
-        "date": "2022-11-11"
-      },
-      {
-        "title": "发现 macOS 端的 Safari 可以识别和选中图片、视频里的文字",
-        "link": "https://www.v2ex.com/t/894569",
         "date": "2022-11-11"
       }
     ]
@@ -10312,13 +10302,13 @@
         "date": "2022-11-11"
       },
       {
-        "title": "[推荐] 如何画出一张优秀的架构图？（老鸟必备）",
-        "link": "https://toutiao.io/k/xiqybrh",
+        "title": "[推荐] 新来个技术总监，仅花 2 小时，撸出一个多线程永动任务，看完直接跪了，真牛逼",
+        "link": "https://toutiao.io/k/6u3q7ke",
         "date": "2022-11-11"
       },
       {
-        "title": "[推荐] 新来个技术总监，仅花 2 小时，撸出一个多线程永动任务，看完直接跪了，真牛逼",
-        "link": "https://toutiao.io/k/6u3q7ke",
+        "title": "[推荐] 如何画出一张优秀的架构图？（老鸟必备）",
+        "link": "https://toutiao.io/k/xiqybrh",
         "date": "2022-11-11"
       }
     ]

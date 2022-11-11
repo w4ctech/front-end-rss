@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-11-11 15:44:32。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-11 16:20:01。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -236,7 +236,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】广州17岁男生在定点医院参加高考-特殊考场视频监考](https://m.caixin.com/m/2021-06-05/101723418.html)
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
 - [【V2EX】有没有什么低成本的屏蔽微信发现页的视频号的方法？](https://www.v2ex.com/t/894591)
-- [【V2EX】发现-macOS-端的-Safari-可以识别和选中图片、视频里的文字](https://www.v2ex.com/t/894569)
 - [【开发者头条】黑客“劫持”了一颗卫星，用它直播黑客大会和放电影](https://toutiao.io/k/5x7x2f4)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
@@ -293,6 +292,7 @@
 
 
 
+- [【V2EX】Pasteburn---self-hosted,-端到端加密，阅后即焚的-pastebin](https://www.v2ex.com/t/894623)
 - [【开发者头条】解密负载均衡技术和负载均衡算法](https://toutiao.io/k/q1jz8l3)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
@@ -344,7 +344,6 @@
 
 
 - [【V2EX】「远程」招聘-UI-视觉设计师-/月薪-25-45K-RMB](https://www.v2ex.com/t/894590)
-- [【V2EX】字节跳动---飞书-多地多岗位招聘，海量-HC，求简历～](https://www.v2ex.com/t/894573)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

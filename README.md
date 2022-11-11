@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-11 08:49:21，:rocket: 更新条数: +2023， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-11 09:15:39，:rocket: 更新条数: +2023， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-11-11-给父母买了好医保，是不是不是最好的选择？](https://www.v2ex.com/t/894534) ![](assets/new.png)  
+- [2022-11-11-国外流媒体是怎么控制电影分级的](https://www.v2ex.com/t/894533) ![](assets/new.png)  
+- [2022-11-11-SPA-配置错误导致-index.html-被用户浏览器缓存了，不刷新页面就一直是旧版本，有办法在-SPA-请求的-API-请求的响应头中告诉浏览器需要清除全部页面的缓存吗？-S...](https://www.v2ex.com/t/894532) ![](assets/new.png)  
 - [2022-11-11-discord-bot-机器人应用](https://www.v2ex.com/t/894530) ![](assets/new.png)  
 - [2022-11-11-Windows-10-上有那些三方的暗色主题推荐](https://www.v2ex.com/t/894529) ![](assets/new.png)  
 - [2022-11-11-测试一下图床](https://www.v2ex.com/t/894528) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-11-11-一个关于投资决策辅助工具的-有奖问卷-来啦，完成可领随机红包哟！](https://www.v2ex.com/t/894513) ![](assets/new.png)  
 - [2022-11-11-数学一考试中哪部分是基础题呢？](https://www.v2ex.com/t/894512) ![](assets/new.png)  
 - [2022-11-11-低功耗测量](https://www.v2ex.com/t/894511) ![](assets/new.png)  
-- [2022-11-11-关于微信开发的一些问题](https://www.v2ex.com/t/894510) ![](assets/new.png)  
-- [2022-11-11-双-11-求推荐净水器](https://www.v2ex.com/t/894509) ![](assets/new.png)  
-- [2022-11-11-海外-前端跟安卓](https://www.v2ex.com/t/894508) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -559,8 +559,8 @@
 - [2022-11-11-万字好文：从无栈协程到-C++-异步框架](https://toutiao.io/k/0dwmcej) ![](assets/new.png)  
 - [2022-11-11-黑客“劫持”了一颗卫星，用它直播黑客大会和放电影](https://toutiao.io/k/5x7x2f4) ![](assets/new.png)  
 - [2022-11-11-图片不压缩，前端要背锅](https://toutiao.io/k/w3um3sg) ![](assets/new.png)  
-- [2022-11-11-漏洞管理十大度量指标](https://toutiao.io/k/61eawap) ![](assets/new.png)  
 - [2022-11-11-五分钟搞定-YAML](https://toutiao.io/k/q00m7wl) ![](assets/new.png)  
+- [2022-11-11-漏洞管理十大度量指标](https://toutiao.io/k/61eawap) ![](assets/new.png)  
 - [2022-11-11-教你如何用-TensorRT-部署-YOLOX（附代码）](https://toutiao.io/k/jzwc3hy) ![](assets/new.png)  
 - [2022-11-11-我设计的异步架构把公司的核心系统性能提升-100-倍，领导给我加鸡腿](https://toutiao.io/k/acsx48v) ![](assets/new.png)  
 - [2022-11-11-Java-并发技术（读书之-Java-性能优化实践第-12-章）](https://toutiao.io/k/p1nngaf) ![](assets/new.png)  
@@ -568,8 +568,8 @@
 - [2022-11-11-C2D-代码转设计稿是怎么实现的？](https://toutiao.io/k/e3mrkfm) ![](assets/new.png)  
 - [2022-11-11-这个假微信软件有点套路](https://toutiao.io/k/ao711fi) ![](assets/new.png)  
 - [2022-11-11-增加内存会让计算机变快吗？](https://toutiao.io/k/5ytqja5) ![](assets/new.png)  
-- [2022-11-11-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) ![](assets/new.png)  
 - [2022-11-11-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) ![](assets/new.png)  
+- [2022-11-11-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

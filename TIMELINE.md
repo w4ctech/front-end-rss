@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-11 09:41:54。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-11 10:16:11。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,15 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-11-ETL-方案有哪些](https://www.v2ex.com/t/894551) 
+- [【V2EX】2022-11-11-问，前端埋点一般都有哪些解决方案开源?](https://www.v2ex.com/t/894550) 
+- [【V2EX】2022-11-11-寻找丢失的批量水印添加软件](https://www.v2ex.com/t/894549) 
+- [【V2EX】2022-11-11-MAKATI~钻石大厦~-岗位：-#-PHP-，#H5-，#安卓-，#产品经理-，#SEO-学徒-，#招商-，#财务-，#客服-，#电维-，#推广-纸飞机：-@ksnana66](https://www.v2ex.com/t/894548) 
+- [【V2EX】2022-11-11-京东超市送优惠卷的电话是机器人？](https://www.v2ex.com/t/894547) 
+- [【V2EX】2022-11-11-一忙都忘记发帖了，自家毛衣店铺，双-11-大促](https://www.v2ex.com/t/894546) 
+- [【V2EX】2022-11-11-现在-google-photo-的识别能力显著提高](https://www.v2ex.com/t/894545) 
+- [【V2EX】2022-11-11-软路由选择-R2S-or-R4SE](https://www.v2ex.com/t/894544) 
+- [【V2EX】2022-11-11-求教lsp-pyright-该如何配置虚拟环境？](https://www.v2ex.com/t/894542) 
 - [【V2EX】2022-11-11-今天受美国消息和疫情放松的消息的影响，大-A-大涨，我奇怪的是，房地产大部分涨停，是因为什么，为什么前段时间好多大-V-都说房地产不行了，现在突然就上来了，...](https://www.v2ex.com/t/894541) 
 - [【V2EX】2022-11-11-各位用什么洗发水](https://www.v2ex.com/t/894540) 
 - [【V2EX】2022-11-11-鉴于当下大环境，准备开一个国外银行账户，请问选哪家好](https://www.v2ex.com/t/894539) 
@@ -103,13 +112,6 @@
 - [【V2EX】2022-11-11-pdd-这是怎么做到在图床的图片里添加点击事件的](https://www.v2ex.com/t/894505) 
 - [【V2EX】2022-11-11-请问墙外-WordPress-托管服务哪家强？](https://www.v2ex.com/t/894504) 
 - [【V2EX】2022-11-11-有天津的兄弟回复下当地防疫情况？](https://www.v2ex.com/t/894503) 
-- [【V2EX】2022-11-11-如何解析动态类型的-json？](https://www.v2ex.com/t/894502) 
-- [【V2EX】2022-11-11-有没有在-Telegram-上裸聊被诈骗的？由-Twitter-到-Telegram](https://www.v2ex.com/t/894501) 
-- [【V2EX】2022-11-11-使用-git-在多设备间同步-obsidian-时，需要同步.obsidian-这个目录吗？](https://www.v2ex.com/t/894500) 
-- [【V2EX】2022-11-11-西班牙程序员工资](https://www.v2ex.com/t/894499) 
-- [【V2EX】2022-11-11-杭州NoSQL-数据库产品开发工程师](https://www.v2ex.com/t/894498) 
-- [【V2EX】2022-11-11-element-plus-按钮的问题，求帮助](https://www.v2ex.com/t/894497) 
-- [【V2EX】2022-11-11-如何实现在浏览器匿名访问的情况下，推荐用户下载-App，之后重新在-App-中打开对应的页面](https://www.v2ex.com/t/894496) 
 - [【技术头条】2022-11-11-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-11-以综合指数观察和评价研发效能的趋势-link.zhihu.com](https://blogread.cn/news/go.php?idItem=15406&url=https%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttps%253A%2F%2Finsights.thoughtworks.cn%2Fobserving-evaluating-research-development-efficiency-trend%2F%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-11-DDD的哲学意味（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15405&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fddd-philosophy-entity-value-object%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -138,15 +140,15 @@
 - [【开发者头条】2022-11-11-图片不压缩，前端要背锅](https://toutiao.io/k/w3um3sg) 
 - [【开发者头条】2022-11-11-五分钟搞定-YAML](https://toutiao.io/k/q00m7wl) 
 - [【开发者头条】2022-11-11-漏洞管理十大度量指标](https://toutiao.io/k/61eawap) 
-- [【开发者头条】2022-11-11-教你如何用-TensorRT-部署-YOLOX（附代码）](https://toutiao.io/k/jzwc3hy) 
 - [【开发者头条】2022-11-11-我设计的异步架构把公司的核心系统性能提升-100-倍，领导给我加鸡腿](https://toutiao.io/k/acsx48v) 
+- [【开发者头条】2022-11-11-教你如何用-TensorRT-部署-YOLOX（附代码）](https://toutiao.io/k/jzwc3hy) 
 - [【开发者头条】2022-11-11-Java-并发技术（读书之-Java-性能优化实践第-12-章）](https://toutiao.io/k/p1nngaf) 
 - [【开发者头条】2022-11-11-当-LinkedList-不是列表时，速度快的兔子都追不上!](https://toutiao.io/k/p5xadxq) 
 - [【开发者头条】2022-11-11-C2D-代码转设计稿是怎么实现的？](https://toutiao.io/k/e3mrkfm) 
 - [【开发者头条】2022-11-11-这个假微信软件有点套路](https://toutiao.io/k/ao711fi) 
 - [【开发者头条】2022-11-11-增加内存会让计算机变快吗？](https://toutiao.io/k/5ytqja5) 
-- [【开发者头条】2022-11-11-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) 
 - [【开发者头条】2022-11-11-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) 
+- [【开发者头条】2022-11-11-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

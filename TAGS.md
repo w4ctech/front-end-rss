@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-11-11 09:41:54。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-11 10:16:11。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -176,8 +176,9 @@
 - [【武汉肺炎防疫全纪录(财新网)】香港再现数例疫苗接种严重异常事件-专家初判与疫苗无关](https://china.caixin.com/m/2021-03-08/101672619.html)
 - [【武汉肺炎防疫全纪录(财新网)】港府回应一63岁患者死亡事件-暂无法确定与疫苗相关](https://m.caixin.com/m/2021-03-03/101670052.html)
 - [【张鑫旭-鑫空间-鑫生活】2022年新出了哪些form表单新特性？](https://www.zhangxinxu.com/wordpress/2022/10/2022-new-form-property/)
+- [【V2EX】MAKATI~钻石大厦~-岗位：-#-PHP-，#H5-，#安卓-，#产品经理-，#SEO-学徒-，#招商-，#财务-，#客服-，#电维-，#推广-纸飞机：-@ksnana66](https://www.v2ex.com/t/894548)
+- [【V2EX】软路由选择-R2S-or-R4SE](https://www.v2ex.com/t/894544)
 - [【V2EX】pdd-这是怎么做到在图床的图片里添加点击事件的](https://www.v2ex.com/t/894505)
-- [【V2EX】如何解析动态类型的-json？](https://www.v2ex.com/t/894502)
 - [【开发者头条】万字好文：从无栈协程到-C++-异步框架](https://toutiao.io/k/0dwmcej)
 - [【开发者头条】我设计的异步架构把公司的核心系统性能提升-100-倍，领导给我加鸡腿](https://toutiao.io/k/acsx48v)
 - [......【查看更多】......](./details/tags/javascript.md)
@@ -276,7 +277,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
 - [【V2EX】SPA-配置错误导致-index.html-被用户浏览器缓存了，不刷新页面就一直是旧版本，有办法在-SPA-请求的-API-请求的响应头中告诉浏览器需要清除全部页面的缓存吗？-S...](https://www.v2ex.com/t/894532)
 - [【V2EX】百亿补贴上买的-Apple-Watch-Series-7-是不是正品啊，好像是商家自己封的](https://www.v2ex.com/t/894522)
-- [【V2EX】如何实现在浏览器匿名访问的情况下，推荐用户下载-App，之后重新在-App-中打开对应的页面](https://www.v2ex.com/t/894496)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -328,7 +328,6 @@
 
 
 
-- [【V2EX】使用-git-在多设备间同步-obsidian-时，需要同步.obsidian-这个目录吗？](https://www.v2ex.com/t/894500)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

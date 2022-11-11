@@ -9953,6 +9953,51 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "ETL 方案有哪些",
+        "link": "https://www.v2ex.com/t/894551",
+        "date": "2022-11-11"
+      },
+      {
+        "title": "问，前端埋点一般都有哪些解决方案(开源)?",
+        "link": "https://www.v2ex.com/t/894550",
+        "date": "2022-11-11"
+      },
+      {
+        "title": "寻找丢失的批量水印添加软件",
+        "link": "https://www.v2ex.com/t/894549",
+        "date": "2022-11-11"
+      },
+      {
+        "title": "MAKATI~钻石大厦~\r\n岗位： # PHP ，#H5 ，#安卓 ，#产品经理 ，#SEO 学徒 ，#招商 ，#财务 ，#客服 ，#电维 ，#推广\r\n纸飞机： @ksnana66",
+        "link": "https://www.v2ex.com/t/894548",
+        "date": "2022-11-11"
+      },
+      {
+        "title": "京东超市送优惠卷的电话是机器人？",
+        "link": "https://www.v2ex.com/t/894547",
+        "date": "2022-11-11"
+      },
+      {
+        "title": "一忙都忘记发帖了，自家毛衣店铺，双 11 大促",
+        "link": "https://www.v2ex.com/t/894546",
+        "date": "2022-11-11"
+      },
+      {
+        "title": "现在 google photo 的识别能力显著提高",
+        "link": "https://www.v2ex.com/t/894545",
+        "date": "2022-11-11"
+      },
+      {
+        "title": "软路由选择 R2S or R4SE",
+        "link": "https://www.v2ex.com/t/894544",
+        "date": "2022-11-11"
+      },
+      {
+        "title": "[求教]lsp-pyright 该如何配置虚拟环境？",
+        "link": "https://www.v2ex.com/t/894542",
+        "date": "2022-11-11"
+      },
+      {
         "title": "今天受美国消息和疫情放松的消息的影响，大 A 大涨，我奇怪的是，房地产大部分涨停，是因为什么，为什么前段时间好多大 V 都说房地产不行了，现在突然就上来了，...",
         "link": "https://www.v2ex.com/t/894541",
         "date": "2022-11-11"
@@ -10116,41 +10161,6 @@
         "title": "有天津的兄弟回复下当地防疫情况？",
         "link": "https://www.v2ex.com/t/894503",
         "date": "2022-11-11"
-      },
-      {
-        "title": "如何解析动态类型的 json？",
-        "link": "https://www.v2ex.com/t/894502",
-        "date": "2022-11-11"
-      },
-      {
-        "title": "有没有在 Telegram 上裸聊被诈骗的？由 Twitter 到 Telegram",
-        "link": "https://www.v2ex.com/t/894501",
-        "date": "2022-11-11"
-      },
-      {
-        "title": "使用 git 在多设备间同步 obsidian 时，需要同步.obsidian 这个目录吗？",
-        "link": "https://www.v2ex.com/t/894500",
-        "date": "2022-11-11"
-      },
-      {
-        "title": "西班牙程序员工资",
-        "link": "https://www.v2ex.com/t/894499",
-        "date": "2022-11-11"
-      },
-      {
-        "title": "[杭州]NoSQL 数据库产品开发工程师",
-        "link": "https://www.v2ex.com/t/894498",
-        "date": "2022-11-11"
-      },
-      {
-        "title": "element plus 按钮的问题，求帮助",
-        "link": "https://www.v2ex.com/t/894497",
-        "date": "2022-11-11"
-      },
-      {
-        "title": "如何实现在浏览器匿名访问的情况下，推荐用户下载 App，之后重新在 App 中打开对应的页面",
-        "link": "https://www.v2ex.com/t/894496",
-        "date": "2022-11-11"
       }
     ]
   },
@@ -10307,13 +10317,13 @@
         "date": "2022-11-11"
       },
       {
-        "title": "教你如何用 TensorRT 部署 YOLOX（附代码）",
-        "link": "https://toutiao.io/k/jzwc3hy",
+        "title": "我设计的异步架构把公司的核心系统性能提升 100 倍，领导给我加鸡腿",
+        "link": "https://toutiao.io/k/acsx48v",
         "date": "2022-11-11"
       },
       {
-        "title": "我设计的异步架构把公司的核心系统性能提升 100 倍，领导给我加鸡腿",
-        "link": "https://toutiao.io/k/acsx48v",
+        "title": "教你如何用 TensorRT 部署 YOLOX（附代码）",
+        "link": "https://toutiao.io/k/jzwc3hy",
         "date": "2022-11-11"
       },
       {
@@ -10342,13 +10352,13 @@
         "date": "2022-11-11"
       },
       {
-        "title": "[推荐] 新来个技术总监，仅花 2 小时，撸出一个多线程永动任务，看完直接跪了，真牛逼",
-        "link": "https://toutiao.io/k/6u3q7ke",
+        "title": "[推荐] 如何画出一张优秀的架构图？（老鸟必备）",
+        "link": "https://toutiao.io/k/xiqybrh",
         "date": "2022-11-11"
       },
       {
-        "title": "[推荐] 如何画出一张优秀的架构图？（老鸟必备）",
-        "link": "https://toutiao.io/k/xiqybrh",
+        "title": "[推荐] 新来个技术总监，仅花 2 小时，撸出一个多线程永动任务，看完直接跪了，真牛逼",
+        "link": "https://toutiao.io/k/6u3q7ke",
         "date": "2022-11-11"
       }
     ]

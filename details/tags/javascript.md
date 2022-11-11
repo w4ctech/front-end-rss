@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-11 10:47:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-11 11:13:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -13,6 +13,8 @@
 - [2021-03-14-张文宏：怎么看待疫苗接种偶发不良反应事件](https://opinion.caixin.com/m/2021-03-14/101675088.html) 
 - [2021-03-08-香港再现数例疫苗接种严重异常事件-专家初判与疫苗无关](https://china.caixin.com/m/2021-03-08/101672619.html) 
 - [2021-03-03-港府回应一63岁患者死亡事件-暂无法确定与疫苗相关](https://m.caixin.com/m/2021-03-03/101670052.html) 
+- [2022-10-16-2022年新出了哪些form表单新特性？](https://www.zhangxinxu.com/wordpress/2022/10/2022-new-form-property/) 
+- [2022-11-11-MAKATI~钻石大厦~-岗位：-#-PHP-，#H5-，#安卓-，#产品经理-，#SEO-学徒-，#招商-，#财务-，#客服-，#电维-，#推广-纸飞机：-@PURRGISKAV](https://www.v2ex.com/t/894564) 
 - [2022-11-11-家里路由器运行-SS-服务端安全吗？](https://www.v2ex.com/t/894557) 
 - [2022-11-11-MAKATI~钻石大厦~-岗位：-#-PHP-，#H5-，#安卓-，#产品经理-，#SEO-学徒-，#招商-，#财务-，#客服-，#电维-，#推广-纸飞机：-@ksnana66](https://www.v2ex.com/t/894548) 
 - [2022-11-11-软路由选择-R2S-or-R4SE](https://www.v2ex.com/t/894544) 

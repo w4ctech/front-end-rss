@@ -1,10 +1,16 @@
-:alarm_clock: 更新时间: 2022-11-11 10:47:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-11 11:13:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-11-11-出以前的搬瓦工套餐,-有需要的嘛](https://www.v2ex.com/t/894570) 
+- [2022-11-11-发现-macOS-端的-Safari-可以识别和选中图片、视频里的文字](https://www.v2ex.com/t/894569) 
+- [2022-11-11-传说中的涩图生成器](https://www.v2ex.com/t/894568) 
+- [2022-11-11-大家在-iOS-上用-safari-还是-chrome](https://www.v2ex.com/t/894567) 
+- [2022-11-11-Github-官方发布了两款新字体：-Mona-Sans-&-Hubot-Sans](https://www.v2ex.com/t/894566) 
+- [2022-11-11-MAKATI~钻石大厦~-岗位：-#-PHP-，#H5-，#安卓-，#产品经理-，#SEO-学徒-，#招商-，#财务-，#客服-，#电维-，#推广-纸飞机：-@PURRGISKAV](https://www.v2ex.com/t/894564) 
 - [2022-11-11-jetbrains-搞一次-7-折活动，个人版-pycharm-也就能卖个两百多套？](https://www.v2ex.com/t/894563) 
 - [2022-11-11-如何快速背单词，有好的方式吗](https://www.v2ex.com/t/894561) 
 - [2022-11-11-发布一组实用工具：按配置一键部署你的电脑，推荐用于双十一新机开箱](https://www.v2ex.com/t/894560) 
@@ -41,8 +47,3 @@
 - [2022-11-11-怎么回事，有人-M1-听歌越到这个问题吗？](https://www.v2ex.com/t/894524) 
 - [2022-11-11-百亿补贴上买的-Apple-Watch-Series-7-是不是正品啊，好像是商家自己封的](https://www.v2ex.com/t/894522) 
 - [2022-11-11-telegram-电报怎么把电脑的账户转移到手机上?](https://www.v2ex.com/t/894521) 
-- [2022-11-11-通过自签名+TestFlight-分发-uYou+的方案可以吗](https://www.v2ex.com/t/894520) 
-- [2022-11-11-为什么显示器刷新率会有-59.94Hz-和-60Hz-这两个选项](https://www.v2ex.com/t/894518) 
-- [2022-11-11-Mac-如何只让屏幕休眠模型接着跑](https://www.v2ex.com/t/894517) 
-- [2022-11-11-自己搭的富强小鸡，国外-ip-最开始能有满速,过一会就只剩下-6m-应该查什么东西导致限速的呢](https://www.v2ex.com/t/894516) 
-- [2022-11-11-javaee-有无父子依赖项目的-rmi-服务注册发现规范类似-spi](https://www.v2ex.com/t/894514) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-11 05:28:57，:rocket: 更新条数: +2017， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-11 05:44:37，:rocket: 更新条数: +2016， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-11-11-关于双十一，昨天晚上熬到凌晨-2-点多，买了一套-diy-主机配件。我今天中午就全部又退款退订单了，买的时候是用信用卡付的钱，今天上午感觉钱包越来越疼，反思起...](https://www.v2ex.com/t/894455) ![](assets/new.png)  
+- [2022-11-11-为什么-MBP-的屏幕这么通透](https://www.v2ex.com/t/894453) ![](assets/new.png)  
 - [2022-11-11-坐标上海-20-年毕业-专科-前端工作有点难找啊，外包也不要。。。](https://www.v2ex.com/t/894449) ![](assets/new.png)  
 - [2022-11-11-企微互通功能被封永久了](https://www.v2ex.com/t/894448) ![](assets/new.png)  
 - [2022-11-11-取消-2FA](https://www.v2ex.com/t/894447) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-11-11-Window-计算器疑惑](https://www.v2ex.com/t/894432) ![](assets/new.png)  
 - [2022-11-11-谷歌优化](https://www.v2ex.com/t/894430) ![](assets/new.png)  
 - [2022-11-11-北京-字节跳动-今日头条-后端-招聘高级、资深研发架构师/技术-leader、2023-校招、2024-实习（内推渠道，效率反馈，进度可追踪）](https://www.v2ex.com/t/894429) ![](assets/new.png)  
-- [2022-11-11-Find-My-正品，直接苹果-Find-使用，-38-元包邮](https://www.v2ex.com/t/894428) ![](assets/new.png)  
-- [2022-11-11-今年-34-了，老是忘事，](https://www.v2ex.com/t/894427) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -522,6 +522,7 @@
 </summary>
 
 
+- [2022-11-11-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-11-11-以综合指数观察和评价研发效能的趋势-link.zhihu.com](https://blogread.cn/news/go.php?idItem=15406&url=https%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttps%253A%2F%2Finsights.thoughtworks.cn%2Fobserving-evaluating-research-development-efficiency-trend%2F%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-11-11-DDD的哲学意味（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15405&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fddd-philosophy-entity-value-object%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-11-11-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
@@ -541,7 +542,6 @@
 - [2022-11-11-基于AI算法的数据库异常监测系统的设计与实现-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15390&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F09%2F01%2Fdatabase-monitoring-based-on-ai.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-11-11-设备指纹技术介绍与综述（二）-blog.nsfocus.net](https://blogread.cn/news/go.php?idItem=15389&url=http%3A%2F%2Fblog.nsfocus.net%2Ffingerprint%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-11-11-向量数据库入坑：传统文本检索方式的降维打击，使用-Faiss-实现向量语义检索-soulteary.com](https://blogread.cn/news/go.php?idItem=15388&url=https%3A%2F%2Fsoulteary.com%2F2022%2F09%2F10%2Fthe-dimensionality-reduction-of-traditional-text-retrieval-methods-using-faiss-to-achieve-vector-semantic-retrieval.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-11-11-全球IPv4-AS拓扑测绘初探-blog.nsfocus.net](https://blogread.cn/news/go.php?idItem=15387&url=http%3A%2F%2Fblog.nsfocus.net%2Fipv4-as%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -555,15 +555,15 @@
 
 - [2022-11-11-解密负载均衡技术和负载均衡算法](https://toutiao.io/k/q1jz8l3) ![](assets/new.png)  
 - [2022-11-11-分布式-ID-生成系统-Leaf-的设计思路，源码解读](https://toutiao.io/k/7onx06i) ![](assets/new.png)  
-- [2022-11-11-黑客“劫持”了一颗卫星，用它直播黑客大会和放电影](https://toutiao.io/k/5x7x2f4) ![](assets/new.png)  
 - [2022-11-11-云架构师进阶攻略（完整版）](https://toutiao.io/k/aghcor1) ![](assets/new.png)  
+- [2022-11-11-黑客“劫持”了一颗卫星，用它直播黑客大会和放电影](https://toutiao.io/k/5x7x2f4) ![](assets/new.png)  
 - [2022-11-11-图片不压缩，前端要背锅](https://toutiao.io/k/w3um3sg) ![](assets/new.png)  
 - [2022-11-11-万字好文：从无栈协程到-C++-异步框架](https://toutiao.io/k/0dwmcej) ![](assets/new.png)  
 - [2022-11-11-漏洞管理十大度量指标](https://toutiao.io/k/61eawap) ![](assets/new.png)  
 - [2022-11-11-五分钟搞定-YAML](https://toutiao.io/k/q00m7wl) ![](assets/new.png)  
 - [2022-11-11-教你如何用-TensorRT-部署-YOLOX（附代码）](https://toutiao.io/k/jzwc3hy) ![](assets/new.png)  
-- [2022-11-11-Java-并发技术（读书之-Java-性能优化实践第-12-章）](https://toutiao.io/k/p1nngaf) ![](assets/new.png)  
 - [2022-11-11-我设计的异步架构把公司的核心系统性能提升-100-倍，领导给我加鸡腿](https://toutiao.io/k/acsx48v) ![](assets/new.png)  
+- [2022-11-11-Java-并发技术（读书之-Java-性能优化实践第-12-章）](https://toutiao.io/k/p1nngaf) ![](assets/new.png)  
 - [2022-11-11-当-LinkedList-不是列表时，速度快的兔子都追不上!](https://toutiao.io/k/p5xadxq) ![](assets/new.png)  
 - [2022-11-11-C2D-代码转设计稿是怎么实现的？](https://toutiao.io/k/e3mrkfm) ![](assets/new.png)  
 - [2022-11-11-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) ![](assets/new.png)  

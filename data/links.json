@@ -9953,6 +9953,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "关于双十一，昨天晚上熬到凌晨 2 点多，买了一套 diy 主机配件。我今天中午就全部又退款退订单了，买的时候是用信用卡付的钱，今天上午感觉钱包越来越疼，反思起...",
+        "link": "https://www.v2ex.com/t/894455",
+        "date": "2022-11-11"
+      },
+      {
+        "title": "为什么 MBP 的屏幕这么通透",
+        "link": "https://www.v2ex.com/t/894453",
+        "date": "2022-11-11"
+      },
+      {
         "title": "坐标上海 20 年毕业 专科 前端工作有点难找啊，外包也不要。。。",
         "link": "https://www.v2ex.com/t/894449",
         "date": "2022-11-11"
@@ -10116,21 +10126,6 @@
         "title": "国内票务 [话剧/演唱会/音乐节] 不可退票 是否属于霸王条款？",
         "link": "https://www.v2ex.com/t/894406",
         "date": "2022-11-11"
-      },
-      {
-        "title": "有好吃的即食燕麦片推荐吗",
-        "link": "https://www.v2ex.com/t/894405",
-        "date": "2022-11-11"
-      },
-      {
-        "title": "大家会升级 ios 系统吗",
-        "link": "https://www.v2ex.com/t/894404",
-        "date": "2022-11-11"
-      },
-      {
-        "title": "有推荐的 iPad Pro 保护壳吗？",
-        "link": "https://www.v2ex.com/t/894403",
-        "date": "2022-11-11"
       }
     ]
   },
@@ -10139,6 +10134,11 @@
     "title": "技术头条",
     "link": "http://blogread.cn/news/newest.php",
     "items": [
+      {
+        "title": "前端测试体系和最佳实践 (insights.thoughtworks.cn)",
+        "link": "https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2022-11-11"
+      },
       {
         "title": "以综合指数观察和评价研发效能的趋势 (link.zhihu.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15406&url=https%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttps%253A%2F%2Finsights.thoughtworks.cn%2Fobserving-evaluating-research-development-efficiency-trend%2F%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
@@ -10233,11 +10233,6 @@
         "title": "向量数据库入坑：传统文本检索方式的降维打击，使用 Faiss 实现向量语义检索 (soulteary.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15388&url=https%3A%2F%2Fsoulteary.com%2F2022%2F09%2F10%2Fthe-dimensionality-reduction-of-traditional-text-retrieval-methods-using-faiss-to-achieve-vector-semantic-retrieval.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
         "date": "2022-11-11"
-      },
-      {
-        "title": "全球IPv4 AS拓扑测绘初探 (blog.nsfocus.net)",
-        "link": "https://blogread.cn/news/go.php?idItem=15387&url=http%3A%2F%2Fblog.nsfocus.net%2Fipv4-as%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-11-11"
       }
     ]
   },
@@ -10257,13 +10252,13 @@
         "date": "2022-11-11"
       },
       {
-        "title": "黑客“劫持”了一颗卫星，用它直播黑客大会和放电影",
-        "link": "https://toutiao.io/k/5x7x2f4",
+        "title": "云架构师进阶攻略（完整版）",
+        "link": "https://toutiao.io/k/aghcor1",
         "date": "2022-11-11"
       },
       {
-        "title": "云架构师进阶攻略（完整版）",
-        "link": "https://toutiao.io/k/aghcor1",
+        "title": "黑客“劫持”了一颗卫星，用它直播黑客大会和放电影",
+        "link": "https://toutiao.io/k/5x7x2f4",
         "date": "2022-11-11"
       },
       {
@@ -10292,13 +10287,13 @@
         "date": "2022-11-11"
       },
       {
-        "title": "Java 并发技术（读书之 Java 性能优化实践第 12 章）",
-        "link": "https://toutiao.io/k/p1nngaf",
+        "title": "我设计的异步架构把公司的核心系统性能提升 100 倍，领导给我加鸡腿",
+        "link": "https://toutiao.io/k/acsx48v",
         "date": "2022-11-11"
       },
       {
-        "title": "我设计的异步架构把公司的核心系统性能提升 100 倍，领导给我加鸡腿",
-        "link": "https://toutiao.io/k/acsx48v",
+        "title": "Java 并发技术（读书之 Java 性能优化实践第 12 章）",
+        "link": "https://toutiao.io/k/p1nngaf",
         "date": "2022-11-11"
       },
       {

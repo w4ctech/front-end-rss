@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-11 05:28:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-11 05:44:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1917,6 +1917,8 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-11-11-关于双十一，昨天晚上熬到凌晨-2-点多，买了一套-diy-主机配件。我今天中午就全部又退款退订单了，买的时候是用信用卡付的钱，今天上午感觉钱包越来越疼，反思起...](https://www.v2ex.com/t/894455) 
+- [2022-11-11-为什么-MBP-的屏幕这么通透](https://www.v2ex.com/t/894453) 
 - [2022-11-11-坐标上海-20-年毕业-专科-前端工作有点难找啊，外包也不要。。。](https://www.v2ex.com/t/894449) 
 - [2022-11-11-企微互通功能被封永久了](https://www.v2ex.com/t/894448) 
 - [2022-11-11-取消-2FA](https://www.v2ex.com/t/894447) 
@@ -1942,9 +1944,7 @@
 - [2022-11-11-双十一，签到天数也是双十一，铁定杆到底了呗...](https://www.v2ex.com/t/894410) 
 - [2022-11-11-3500x+b450m-迫击炮-max,-最新-bios-全默认,-仅有内存条开-xmp-3600c18,-fpu-居然会重启,-是-cpu-拉了吗](https://www.v2ex.com/t/894408) 
 - [2022-11-11-国内票务-话剧/演唱会/音乐节-不可退票-是否属于霸王条款？](https://www.v2ex.com/t/894406) 
-- [2022-11-11-有好吃的即食燕麦片推荐吗](https://www.v2ex.com/t/894405) 
-- [2022-11-11-大家会升级-ios-系统吗](https://www.v2ex.com/t/894404) 
-- [2022-11-11-有推荐的-iPad-Pro-保护壳吗？](https://www.v2ex.com/t/894403) 
+- [2022-11-11-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-11-以综合指数观察和评价研发效能的趋势-link.zhihu.com](https://blogread.cn/news/go.php?idItem=15406&url=https%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttps%253A%2F%2Finsights.thoughtworks.cn%2Fobserving-evaluating-research-development-efficiency-trend%2F%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-11-DDD的哲学意味（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15405&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fddd-philosophy-entity-value-object%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-11-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1961,7 +1961,6 @@
 - [2022-11-11-智能搜索模型预估框架Augur的建设与实践-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15391&url=https%3A%2F%2Ftech.meituan.com%2F2020%2F07%2F16%2Faugur-in-meituan-nlp.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-11-设备指纹技术介绍与综述（二）-blog.nsfocus.net](https://blogread.cn/news/go.php?idItem=15389&url=http%3A%2F%2Fblog.nsfocus.net%2Ffingerprint%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-11-向量数据库入坑：传统文本检索方式的降维打击，使用-Faiss-实现向量语义检索-soulteary.com](https://blogread.cn/news/go.php?idItem=15388&url=https%3A%2F%2Fsoulteary.com%2F2022%2F09%2F10%2Fthe-dimensionality-reduction-of-traditional-text-retrieval-methods-using-faiss-to-achieve-vector-semantic-retrieval.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [2022-11-11-全球IPv4-AS拓扑测绘初探-blog.nsfocus.net](https://blogread.cn/news/go.php?idItem=15387&url=http%3A%2F%2Fblog.nsfocus.net%2Fipv4-as%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-11-分布式-ID-生成系统-Leaf-的设计思路，源码解读](https://toutiao.io/k/7onx06i) 
 - [2022-11-11-云架构师进阶攻略（完整版）](https://toutiao.io/k/aghcor1) 
 - [2022-11-11-图片不压缩，前端要背锅](https://toutiao.io/k/w3um3sg) 

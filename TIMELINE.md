@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-11 17:17:57。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-11 17:43:15。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,8 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-11-tg-里那种要点一下才能看到的文字消息是怎么发的啊](https://www.v2ex.com/t/894630) 
+- [【V2EX】2022-11-11-R2S-每天晚上准时死机，如何排查](https://www.v2ex.com/t/894629) 
 - [【V2EX】2022-11-11-笔记本电脑外接硬盘如何达到最大传输速率](https://www.v2ex.com/t/894628) 
 - [【V2EX】2022-11-11-Linux-宝塔环境-crond-问题排查](https://www.v2ex.com/t/894626) 
 - [【V2EX】2022-11-11-Pasteburn---self-hosted,-端到端加密，阅后即焚的-pastebin](https://www.v2ex.com/t/894623) 
@@ -101,7 +103,6 @@
 - [【V2EX】2022-11-11-问一下批处理文件清空-txt-内容上的问题](https://www.v2ex.com/t/894585) 
 - [【V2EX】2022-11-11-电信运营商强制跳转江苏反诈公益宣传何解？](https://www.v2ex.com/t/894583) 
 - [【V2EX】2022-11-11-据说小米后期将会禁止解锁-BL，不在提供解锁功能](https://www.v2ex.com/t/894581) 
-- [【V2EX】2022-11-11-第一次去清吧听音乐，不知道感觉如何](https://www.v2ex.com/t/894579) 
 - [【技术头条】2022-11-11-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-11-以综合指数观察和评价研发效能的趋势-link.zhihu.com](https://blogread.cn/news/go.php?idItem=15406&url=https%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttps%253A%2F%2Finsights.thoughtworks.cn%2Fobserving-evaluating-research-development-efficiency-trend%2F%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-11-DDD的哲学意味（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15405&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fddd-philosophy-entity-value-object%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -133,8 +134,8 @@
 - [【开发者头条】2022-11-11-C2D-代码转设计稿是怎么实现的？](https://toutiao.io/k/e3mrkfm) 
 - [【开发者头条】2022-11-11-这个假微信软件有点套路](https://toutiao.io/k/ao711fi) 
 - [【开发者头条】2022-11-11-增加内存会让计算机变快吗？](https://toutiao.io/k/5ytqja5) 
-- [【开发者头条】2022-11-11-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) 
 - [【开发者头条】2022-11-11-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) 
+- [【开发者头条】2022-11-11-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

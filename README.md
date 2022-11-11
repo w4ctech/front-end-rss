@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-11 16:56:13，:rocket: 更新条数: +2011， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-11 17:17:57，:rocket: 更新条数: +2011， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-11-11-笔记本电脑外接硬盘如何达到最大传输速率](https://www.v2ex.com/t/894628) ![](assets/new.png)  
 - [2022-11-11-Linux-宝塔环境-crond-问题排查](https://www.v2ex.com/t/894626) ![](assets/new.png)  
 - [2022-11-11-Pasteburn---self-hosted,-端到端加密，阅后即焚的-pastebin](https://www.v2ex.com/t/894623) ![](assets/new.png)  
 - [2022-11-11-大家腾讯云-HK-还炸吗](https://www.v2ex.com/t/894622) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-11-11-Android-端-Tim-消息推送延迟问题](https://www.v2ex.com/t/894604) ![](assets/new.png)  
 - [2022-11-11-升级-Ventura-13.0.1-后应用损坏](https://www.v2ex.com/t/894601) ![](assets/new.png)  
 - [2022-11-11-选购路由器，-V-友们给点建议](https://www.v2ex.com/t/894598) ![](assets/new.png)  
-- [2022-11-11-怎么鉴别-apple-watch-的充电线是真品啊](https://www.v2ex.com/t/894597) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,8 +564,8 @@
 - [2022-11-11-C2D-代码转设计稿是怎么实现的？](https://toutiao.io/k/e3mrkfm) ![](assets/new.png)  
 - [2022-11-11-这个假微信软件有点套路](https://toutiao.io/k/ao711fi) ![](assets/new.png)  
 - [2022-11-11-增加内存会让计算机变快吗？](https://toutiao.io/k/5ytqja5) ![](assets/new.png)  
-- [2022-11-11-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) ![](assets/new.png)  
 - [2022-11-11-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) ![](assets/new.png)  
+- [2022-11-11-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

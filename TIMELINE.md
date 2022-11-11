@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-11 19:37:25。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-11 20:15:53。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -102,7 +102,6 @@
 - [【V2EX】2022-11-11-「远程」招聘-UI-视觉设计师-/月薪-25-45K-RMB](https://www.v2ex.com/t/894590) 
 - [【V2EX】2022-11-11-顶级域名、一级域名、二级域名，到底是啥啊](https://www.v2ex.com/t/894589) 
 - [【V2EX】2022-11-11-MBP-的充电器能给小米手机充电不，充电器在公司忘记拿回家了](https://www.v2ex.com/t/894586) 
-- [【V2EX】2022-11-11-问一下批处理文件清空-txt-内容上的问题](https://www.v2ex.com/t/894585) 
 - [【技术头条】2022-11-11-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-11-以综合指数观察和评价研发效能的趋势-link.zhihu.com](https://blogread.cn/news/go.php?idItem=15406&url=https%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttps%253A%2F%2Finsights.thoughtworks.cn%2Fobserving-evaluating-research-development-efficiency-trend%2F%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-11-DDD的哲学意味（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15405&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fddd-philosophy-entity-value-object%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

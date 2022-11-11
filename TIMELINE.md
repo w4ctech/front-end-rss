@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-11 16:20:01。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-11 16:56:13。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,7 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-11-Linux-宝塔环境-crond-问题排查](https://www.v2ex.com/t/894626) 
 - [【V2EX】2022-11-11-Pasteburn---self-hosted,-端到端加密，阅后即焚的-pastebin](https://www.v2ex.com/t/894623) 
 - [【V2EX】2022-11-11-大家腾讯云-HK-还炸吗](https://www.v2ex.com/t/894622) 
 - [【V2EX】2022-11-11-想请大家帮助我进行-testflight-测试](https://www.v2ex.com/t/894621) 
@@ -83,7 +84,6 @@
 - [【V2EX】2022-11-11-请问国内/外有哪些研究路由器刷机、固件的论坛？](https://www.v2ex.com/t/894611) 
 - [【V2EX】2022-11-11-各-app-的摇一摇跳转也太敏感了吧？！](https://www.v2ex.com/t/894609) 
 - [【V2EX】2022-11-11-lua-公共接口](https://www.v2ex.com/t/894608) 
-- [【V2EX】2022-11-11-有想进拼多多百人拼团群的么？-不是广告，点击即可参与。](https://www.v2ex.com/t/894607) 
 - [【V2EX】2022-11-11-可以用-ipadmini6-的数据线给-mac-充电吗](https://www.v2ex.com/t/894606) 
 - [【V2EX】2022-11-11-美区-paypal-个人账号和企业账号有什么区别](https://www.v2ex.com/t/894605) 
 - [【V2EX】2022-11-11-Android-端-Tim-消息推送延迟问题](https://www.v2ex.com/t/894604) 
@@ -99,13 +99,9 @@
 - [【V2EX】2022-11-11-MBP-的充电器能给小米手机充电不，充电器在公司忘记拿回家了](https://www.v2ex.com/t/894586) 
 - [【V2EX】2022-11-11-问一下批处理文件清空-txt-内容上的问题](https://www.v2ex.com/t/894585) 
 - [【V2EX】2022-11-11-电信运营商强制跳转江苏反诈公益宣传何解？](https://www.v2ex.com/t/894583) 
-- [【V2EX】2022-11-11-想问下升级了-Ventura-后不可描述版的-pd18-还能用么？](https://www.v2ex.com/t/894582) 
 - [【V2EX】2022-11-11-据说小米后期将会禁止解锁-BL，不在提供解锁功能](https://www.v2ex.com/t/894581) 
 - [【V2EX】2022-11-11-第一次去清吧听音乐，不知道感觉如何](https://www.v2ex.com/t/894579) 
 - [【V2EX】2022-11-11-买了金条金片-并剪成条弯成圈了-怎么把接口焊起来当戒指送给女朋友呢](https://www.v2ex.com/t/894578) 
-- [【V2EX】2022-11-11-Cloudflare-cdn-电信有低延迟的线路吗](https://www.v2ex.com/t/894577) 
-- [【V2EX】2022-11-11-有什么办法能在滚动条显示时自动增加-div-的高度吗？](https://www.v2ex.com/t/894576) 
-- [【V2EX】2022-11-11-IPTV-抓包求助](https://www.v2ex.com/t/894575) 
 - [【技术头条】2022-11-11-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-11-以综合指数观察和评价研发效能的趋势-link.zhihu.com](https://blogread.cn/news/go.php?idItem=15406&url=https%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttps%253A%2F%2Finsights.thoughtworks.cn%2Fobserving-evaluating-research-development-efficiency-trend%2F%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-11-DDD的哲学意味（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15405&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fddd-philosophy-entity-value-object%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

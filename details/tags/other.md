@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-11 05:02:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-11 05:28:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1917,6 +1917,9 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-11-11-坐标上海-20-年毕业-专科-前端工作有点难找啊，外包也不要。。。](https://www.v2ex.com/t/894449) 
+- [2022-11-11-企微互通功能被封永久了](https://www.v2ex.com/t/894448) 
+- [2022-11-11-取消-2FA](https://www.v2ex.com/t/894447) 
 - [2022-11-11-请教下-hotkeyp-软件，映射`Ctrl-和+`的组合键宏命令怎么写](https://www.v2ex.com/t/894444) 
 - [2022-11-11-时隔-2-个月，网站再升级，我把副业、外包、远程工作、创意灵感等统统搞到了一起！](https://www.v2ex.com/t/894443) 
 - [2022-11-11-macOS-Ventura-每次重启均需为软件准许相关权限](https://www.v2ex.com/t/894442) 
@@ -1942,8 +1945,6 @@
 - [2022-11-11-有好吃的即食燕麦片推荐吗](https://www.v2ex.com/t/894405) 
 - [2022-11-11-大家会升级-ios-系统吗](https://www.v2ex.com/t/894404) 
 - [2022-11-11-有推荐的-iPad-Pro-保护壳吗？](https://www.v2ex.com/t/894403) 
-- [2022-11-11-比特大陆内推，硬件，芯片，服务端，嵌入式，产品等。](https://www.v2ex.com/t/894401) 
-- [2022-11-11-炒股怎么入门？](https://www.v2ex.com/t/894399) 
 - [2022-11-11-以综合指数观察和评价研发效能的趋势-link.zhihu.com](https://blogread.cn/news/go.php?idItem=15406&url=https%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttps%253A%2F%2Finsights.thoughtworks.cn%2Fobserving-evaluating-research-development-efficiency-trend%2F%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-11-DDD的哲学意味（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15405&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fddd-philosophy-entity-value-object%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-11-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

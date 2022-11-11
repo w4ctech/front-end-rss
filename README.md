@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-11 10:16:11，:rocket: 更新条数: +2025， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-11 10:47:50，:rocket: 更新条数: +2014， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -36,7 +36,7 @@
 - [前端瓶子君](#前端瓶子君)  
 - [程序员成长指北](#程序员成长指北)  
 - [Nodejs技术栈](#nodejs技术栈)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)  
@@ -316,16 +316,6 @@
 </summary>
 
 
-- [2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) ![](assets/new.png)  
-- [2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) ![](assets/new.png)  
-- [2022-10-20-告别pointer-events:none使用HTML-inert属性真正禁用](https://www.zhangxinxu.com/wordpress/2022/10/html-inert-disabled-attribute/) ![](assets/new.png)  
-- [2022-10-16-2022年新出了哪些form表单新特性？](https://www.zhangxinxu.com/wordpress/2022/10/2022-new-form-property/) ![](assets/new.png)  
-- [2022-10-12-CSS-::file-selector-button伪元素简介](https://www.zhangxinxu.com/wordpress/2022/10/css-file-selector-button/) ![](assets/new.png)  
-- [2022-10-12-更符合书写习惯的CSS媒体查询Range语法](https://www.zhangxinxu.com/wordpress/2022/10/css-media-range-syntax/) ![](assets/new.png)  
-- [2022-09-26-介绍2022最期待且已正式支持的CSS-container容器查询](https://www.zhangxinxu.com/wordpress/2022/09/css-container-rule/) ![](assets/new.png)  
-- [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) ![](assets/new.png)  
-- [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) ![](assets/new.png)  
-- [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) ![](assets/new.png)  
 - [......【查看更多】......](./details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -491,6 +481,15 @@
 </summary>
 
 
+- [2022-11-11-jetbrains-搞一次-7-折活动，个人版-pycharm-也就能卖个两百多套？](https://www.v2ex.com/t/894563) ![](assets/new.png)  
+- [2022-11-11-如何快速背单词，有好的方式吗](https://www.v2ex.com/t/894561) ![](assets/new.png)  
+- [2022-11-11-发布一组实用工具：按配置一键部署你的电脑，推荐用于双十一新机开箱](https://www.v2ex.com/t/894560) ![](assets/new.png)  
+- [2022-11-11-clion-写-c，如何配置对应的头文件自动填充](https://www.v2ex.com/t/894559) ![](assets/new.png)  
+- [2022-11-11-edge-浏览器已经越来越臃肿了](https://www.v2ex.com/t/894558) ![](assets/new.png)  
+- [2022-11-11-家里路由器运行-SS-服务端安全吗？](https://www.v2ex.com/t/894557) ![](assets/new.png)  
+- [2022-11-11-前端都是用什么软件设计-ui-的](https://www.v2ex.com/t/894555) ![](assets/new.png)  
+- [2022-11-11-关于工业制图的问题?](https://www.v2ex.com/t/894554) ![](assets/new.png)  
+- [2022-11-11-11.87KiB/s-和-96Kbps-哪个音质更好?](https://www.v2ex.com/t/894553) ![](assets/new.png)  
 - [2022-11-11-ETL-方案有哪些](https://www.v2ex.com/t/894551) ![](assets/new.png)  
 - [2022-11-11-问，前端埋点一般都有哪些解决方案开源?](https://www.v2ex.com/t/894550) ![](assets/new.png)  
 - [2022-11-11-寻找丢失的批量水印添加软件](https://www.v2ex.com/t/894549) ![](assets/new.png)  
@@ -502,15 +501,6 @@
 - [2022-11-11-求教lsp-pyright-该如何配置虚拟环境？](https://www.v2ex.com/t/894542) ![](assets/new.png)  
 - [2022-11-11-今天受美国消息和疫情放松的消息的影响，大-A-大涨，我奇怪的是，房地产大部分涨停，是因为什么，为什么前段时间好多大-V-都说房地产不行了，现在突然就上来了，...](https://www.v2ex.com/t/894541) ![](assets/new.png)  
 - [2022-11-11-各位用什么洗发水](https://www.v2ex.com/t/894540) ![](assets/new.png)  
-- [2022-11-11-鉴于当下大环境，准备开一个国外银行账户，请问选哪家好](https://www.v2ex.com/t/894539) ![](assets/new.png)  
-- [2022-11-11-大家会买京东和淘宝的增值服务不（全保修和换新等）？](https://www.v2ex.com/t/894538) ![](assets/new.png)  
-- [2022-11-11-请教下大佬-中转协议会暴露落地鸡-IP-和端口吗？](https://www.v2ex.com/t/894537) ![](assets/new.png)  
-- [2022-11-11-🎉🎉-One-Tab-Group-v1.0.0-发布，支持云同步功能，正值-11.11，发放一些折扣码](https://www.v2ex.com/t/894535) ![](assets/new.png)  
-- [2022-11-11-给父母买了好医保，是不是不是最好的选择？](https://www.v2ex.com/t/894534) ![](assets/new.png)  
-- [2022-11-11-国外流媒体是怎么控制电影分级的](https://www.v2ex.com/t/894533) ![](assets/new.png)  
-- [2022-11-11-SPA-配置错误导致-index.html-被用户浏览器缓存了，不刷新页面就一直是旧版本，有办法在-SPA-请求的-API-请求的响应头中告诉浏览器需要清除全部页面的缓存吗？-S...](https://www.v2ex.com/t/894532) ![](assets/new.png)  
-- [2022-11-11-discord-bot-机器人应用](https://www.v2ex.com/t/894530) ![](assets/new.png)  
-- [2022-11-11-Windows-10-上有那些三方的暗色主题推荐](https://www.v2ex.com/t/894529) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -560,16 +550,16 @@
 - [2022-11-11-黑客“劫持”了一颗卫星，用它直播黑客大会和放电影](https://toutiao.io/k/5x7x2f4) ![](assets/new.png)  
 - [2022-11-11-图片不压缩，前端要背锅](https://toutiao.io/k/w3um3sg) ![](assets/new.png)  
 - [2022-11-11-五分钟搞定-YAML](https://toutiao.io/k/q00m7wl) ![](assets/new.png)  
-- [2022-11-11-漏洞管理十大度量指标](https://toutiao.io/k/61eawap) ![](assets/new.png)  
 - [2022-11-11-我设计的异步架构把公司的核心系统性能提升-100-倍，领导给我加鸡腿](https://toutiao.io/k/acsx48v) ![](assets/new.png)  
+- [2022-11-11-漏洞管理十大度量指标](https://toutiao.io/k/61eawap) ![](assets/new.png)  
 - [2022-11-11-教你如何用-TensorRT-部署-YOLOX（附代码）](https://toutiao.io/k/jzwc3hy) ![](assets/new.png)  
 - [2022-11-11-Java-并发技术（读书之-Java-性能优化实践第-12-章）](https://toutiao.io/k/p1nngaf) ![](assets/new.png)  
 - [2022-11-11-当-LinkedList-不是列表时，速度快的兔子都追不上!](https://toutiao.io/k/p5xadxq) ![](assets/new.png)  
 - [2022-11-11-C2D-代码转设计稿是怎么实现的？](https://toutiao.io/k/e3mrkfm) ![](assets/new.png)  
 - [2022-11-11-这个假微信软件有点套路](https://toutiao.io/k/ao711fi) ![](assets/new.png)  
 - [2022-11-11-增加内存会让计算机变快吗？](https://toutiao.io/k/5ytqja5) ![](assets/new.png)  
-- [2022-11-11-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) ![](assets/new.png)  
 - [2022-11-11-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) ![](assets/new.png)  
+- [2022-11-11-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

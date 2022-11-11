@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-11 14:00:14。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-11 14:20:36。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,10 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-11-有想进拼多多百人拼团群的么？-不是广告，点击即可参与。](https://www.v2ex.com/t/894607) 
+- [【V2EX】2022-11-11-可以用-ipadmini6-的数据线给-mac-充电吗](https://www.v2ex.com/t/894606) 
+- [【V2EX】2022-11-11-美区-paypal-个人账号和企业账号有什么区别](https://www.v2ex.com/t/894605) 
+- [【V2EX】2022-11-11-Android-端-Tim-消息推送延迟问题](https://www.v2ex.com/t/894604) 
 - [【V2EX】2022-11-11-升级-Ventura-13.0.1-后应用损坏](https://www.v2ex.com/t/894601) 
 - [【V2EX】2022-11-11-选购路由器，-V-友们给点建议](https://www.v2ex.com/t/894598) 
 - [【V2EX】2022-11-11-怎么鉴别-apple-watch-的充电线是真品啊](https://www.v2ex.com/t/894597) 
@@ -104,10 +108,6 @@
 - [【V2EX】2022-11-11-发布一组实用工具：按配置一键部署你的电脑，推荐用于双十一新机开箱](https://www.v2ex.com/t/894560) 
 - [【V2EX】2022-11-11-clion-写-c，如何配置对应的头文件自动填充](https://www.v2ex.com/t/894559) 
 - [【V2EX】2022-11-11-edge-浏览器已经越来越臃肿了](https://www.v2ex.com/t/894558) 
-- [【V2EX】2022-11-11-家里路由器运行-SS-服务端安全吗？](https://www.v2ex.com/t/894557) 
-- [【V2EX】2022-11-11-前端都是用什么软件设计-ui-的](https://www.v2ex.com/t/894555) 
-- [【V2EX】2022-11-11-关于工业制图的问题?](https://www.v2ex.com/t/894554) 
-- [【V2EX】2022-11-11-11.87KiB/s-和-96Kbps-哪个音质更好?](https://www.v2ex.com/t/894553) 
 - [【技术头条】2022-11-11-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-11-以综合指数观察和评价研发效能的趋势-link.zhihu.com](https://blogread.cn/news/go.php?idItem=15406&url=https%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttps%253A%2F%2Finsights.thoughtworks.cn%2Fobserving-evaluating-research-development-efficiency-trend%2F%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-11-DDD的哲学意味（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15405&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fddd-philosophy-entity-value-object%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

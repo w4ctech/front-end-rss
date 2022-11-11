@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-11 12:30:56，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-11 13:24:22，:rocket: 更新条数: +2023， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,13 @@
 </summary>
 
 
+- [2022-11-11-怎么鉴别-apple-watch-的充电线是真品啊](https://www.v2ex.com/t/894597) ![](assets/new.png)  
+- [2022-11-11-苹果可以唤醒+内容同时执行,-别的要先唤醒进入监听状态,然后再说内容,-这个区别的难度大么](https://www.v2ex.com/t/894596) ![](assets/new.png)  
+- [2022-11-11-字节抖音-深圳-隐私合规-客户端研发（Android/iOS）](https://www.v2ex.com/t/894595) ![](assets/new.png)  
+- [2022-11-11-划船机买水阻磁阻还是风阻？](https://www.v2ex.com/t/894594) ![](assets/new.png)  
+- [2022-11-11-有没有什么低成本的屏蔽微信发现页的视频号的方法？](https://www.v2ex.com/t/894591) ![](assets/new.png)  
+- [2022-11-11-「远程」招聘-UI-视觉设计师-/月薪-25-45K-RMB](https://www.v2ex.com/t/894590) ![](assets/new.png)  
+- [2022-11-11-顶级域名、一级域名、二级域名，到底是啥啊](https://www.v2ex.com/t/894589) ![](assets/new.png)  
 - [2022-11-11-MBP-的充电器能给小米手机充电不，充电器在公司忘记拿回家了](https://www.v2ex.com/t/894586) ![](assets/new.png)  
 - [2022-11-11-问一下批处理文件清空-txt-内容上的问题](https://www.v2ex.com/t/894585) ![](assets/new.png)  
 - [2022-11-11-电信运营商强制跳转江苏反诈公益宣传何解？](https://www.v2ex.com/t/894583) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-11-11-mac-上有什么能记住工作目录的-sftp-传输工具](https://www.v2ex.com/t/894574) ![](assets/new.png)  
 - [2022-11-11-字节跳动---飞书-多地多岗位招聘，海量-HC，求简历～](https://www.v2ex.com/t/894573) ![](assets/new.png)  
 - [2022-11-11-问下程序员，短信回-T-退订是真是假？](https://www.v2ex.com/t/894572) ![](assets/new.png)  
-- [2022-11-11-shell-脚本中调用-adb-出现的奇怪显现象](https://www.v2ex.com/t/894571) ![](assets/new.png)  
-- [2022-11-11-出以前的搬瓦工套餐,-有需要的嘛](https://www.v2ex.com/t/894570) ![](assets/new.png)  
-- [2022-11-11-发现-macOS-端的-Safari-可以识别和选中图片、视频里的文字](https://www.v2ex.com/t/894569) ![](assets/new.png)  
-- [2022-11-11-传说中的涩图生成器](https://www.v2ex.com/t/894568) ![](assets/new.png)  
-- [2022-11-11-大家在-iOS-上用-safari-还是-chrome](https://www.v2ex.com/t/894567) ![](assets/new.png)  
-- [2022-11-11-Github-官方发布了两款新字体：-Mona-Sans-&-Hubot-Sans](https://www.v2ex.com/t/894566) ![](assets/new.png)  
-- [2022-11-11-MAKATI~钻石大厦~-岗位：-#-PHP-，#H5-，#安卓-，#产品经理-，#SEO-学徒-，#招商-，#财务-，#客服-，#电维-，#推广-纸飞机：-@PURRGISKAV](https://www.v2ex.com/t/894564) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

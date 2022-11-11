@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-11 12:30:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-11 13:24:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1917,6 +1917,11 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-11-11-怎么鉴别-apple-watch-的充电线是真品啊](https://www.v2ex.com/t/894597) 
+- [2022-11-11-苹果可以唤醒+内容同时执行,-别的要先唤醒进入监听状态,然后再说内容,-这个区别的难度大么](https://www.v2ex.com/t/894596) 
+- [2022-11-11-字节抖音-深圳-隐私合规-客户端研发（Android/iOS）](https://www.v2ex.com/t/894595) 
+- [2022-11-11-划船机买水阻磁阻还是风阻？](https://www.v2ex.com/t/894594) 
+- [2022-11-11-顶级域名、一级域名、二级域名，到底是啥啊](https://www.v2ex.com/t/894589) 
 - [2022-11-11-MBP-的充电器能给小米手机充电不，充电器在公司忘记拿回家了](https://www.v2ex.com/t/894586) 
 - [2022-11-11-问一下批处理文件清空-txt-内容上的问题](https://www.v2ex.com/t/894585) 
 - [2022-11-11-电信运营商强制跳转江苏反诈公益宣传何解？](https://www.v2ex.com/t/894583) 
@@ -1941,15 +1946,6 @@
 - [2022-11-11-ETL-方案有哪些](https://www.v2ex.com/t/894551) 
 - [2022-11-11-问，前端埋点一般都有哪些解决方案开源?](https://www.v2ex.com/t/894550) 
 - [2022-11-11-寻找丢失的批量水印添加软件](https://www.v2ex.com/t/894549) 
-- [2022-11-11-京东超市送优惠卷的电话是机器人？](https://www.v2ex.com/t/894547) 
-- [2022-11-11-一忙都忘记发帖了，自家毛衣店铺，双-11-大促](https://www.v2ex.com/t/894546) 
-- [2022-11-11-现在-google-photo-的识别能力显著提高](https://www.v2ex.com/t/894545) 
-- [2022-11-11-求教lsp-pyright-该如何配置虚拟环境？](https://www.v2ex.com/t/894542) 
-- [2022-11-11-今天受美国消息和疫情放松的消息的影响，大-A-大涨，我奇怪的是，房地产大部分涨停，是因为什么，为什么前段时间好多大-V-都说房地产不行了，现在突然就上来了，...](https://www.v2ex.com/t/894541) 
-- [2022-11-11-各位用什么洗发水](https://www.v2ex.com/t/894540) 
-- [2022-11-11-鉴于当下大环境，准备开一个国外银行账户，请问选哪家好](https://www.v2ex.com/t/894539) 
-- [2022-11-11-大家会买京东和淘宝的增值服务不（全保修和换新等）？](https://www.v2ex.com/t/894538) 
-- [2022-11-11-请教下大佬-中转协议会暴露落地鸡-IP-和端口吗？](https://www.v2ex.com/t/894537) 
 - [2022-11-11-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-11-以综合指数观察和评价研发效能的趋势-link.zhihu.com](https://blogread.cn/news/go.php?idItem=15406&url=https%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttps%253A%2F%2Finsights.thoughtworks.cn%2Fobserving-evaluating-research-development-efficiency-trend%2F%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-11-DDD的哲学意味（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15405&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fddd-philosophy-entity-value-object%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

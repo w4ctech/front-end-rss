@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-11 01:12:36，:rocket: 更新条数: +2016， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-11 03:16:25，:rocket: 更新条数: +2012， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,26 +491,26 @@
 </summary>
 
 
-- [2022-11-11-今年的双十一感觉冷清很多](https://www.v2ex.com/t/894339) ![](assets/new.png)  
-- [2022-11-11-变现周刊#79-期：一个产品页面流灵感网站，每月-4.5K-美元](https://www.v2ex.com/t/894338) ![](assets/new.png)  
-- [2022-11-11-sublime-text-如何隐藏标题栏？](https://www.v2ex.com/t/894335) ![](assets/new.png)  
-- [2022-11-11-这几天都在关注上门打小孩的问题，我就想问问怎么拍的](https://www.v2ex.com/t/894334) ![](assets/new.png)  
-- [2022-11-11-官宣！-Hippo4j-1.4.x-新版本正式发布，探索更多玩法](https://www.v2ex.com/t/894332) ![](assets/new.png)  
-- [2022-11-11-大佬们，-mac-电脑笔记本进了一直蟑螂，今早看到的，这可怎么办啊？](https://www.v2ex.com/t/894331) ![](assets/new.png)  
-- [2022-11-11-腾讯云双十一活动新老用户共享，-2-核-2G-最低-50-元/年](https://www.v2ex.com/t/894329) ![](assets/new.png)  
-- [2022-11-11-双-11，问问-V2EX-的单身占比情况？大佬们跟帖评论一下吗？](https://www.v2ex.com/t/894328) ![](assets/new.png)  
-- [2022-11-11-Vue-js-有没有这样的流程设计组件-和飞书审批的流程相似的](https://www.v2ex.com/t/894326) ![](assets/new.png)  
-- [2022-11-11-ios-上有什么好用的浏览器](https://www.v2ex.com/t/894325) ![](assets/new.png)  
-- [2022-11-11-共享图库不支持跨地区使用有解决办法吗？](https://www.v2ex.com/t/894324) ![](assets/new.png)  
-- [2022-11-11-处理内置键盘油污的方法](https://www.v2ex.com/t/894323) ![](assets/new.png)  
-- [2022-11-11-组建-2.5G-内网，旁路由的连接](https://www.v2ex.com/t/894322) ![](assets/new.png)  
-- [2022-11-10--M1-Pro-14-和-16-寸-MBP-官网标明最多两台-6K-是否有诈](https://www.v2ex.com/t/894320) ![](assets/new.png)  
-- [2022-11-10-美股暴涨！回了点血](https://www.v2ex.com/t/894319) ![](assets/new.png)  
-- [2022-11-10-兼职-寻找-1%的设计师，-Figma+Tailwindcss](https://www.v2ex.com/t/894318) ![](assets/new.png)  
-- [2022-11-10-ventura-的-mail.app-有个-BUG](https://www.v2ex.com/t/894317) ![](assets/new.png)  
-- [2022-11-10-提前过个黑五](https://www.v2ex.com/t/894316) ![](assets/new.png)  
-- [2022-11-10-Remote-Python-developer-position](https://www.v2ex.com/t/894315) ![](assets/new.png)  
-- [2022-11-10-看到了-B-站的一个关于开源协议纠纷的瓜，挺乐的，想看看-V-友们是什么态度](https://www.v2ex.com/t/894314) ![](assets/new.png)  
+- [2022-11-11-双十一，签到天数也是双十一，铁定杆到底了呗...](https://www.v2ex.com/t/894410) ![](assets/new.png)  
+- [2022-11-11-3500x+b450m-迫击炮-max,-最新-bios-全默认,-仅有内存条开-xmp-3600c18,-fpu-居然会重启,-是-cpu-拉了吗](https://www.v2ex.com/t/894408) ![](assets/new.png)  
+- [2022-11-11-国内票务-话剧/演唱会/音乐节-不可退票-是否属于霸王条款？](https://www.v2ex.com/t/894406) ![](assets/new.png)  
+- [2022-11-11-有好吃的即食燕麦片推荐吗](https://www.v2ex.com/t/894405) ![](assets/new.png)  
+- [2022-11-11-大家会升级-ios-系统吗](https://www.v2ex.com/t/894404) ![](assets/new.png)  
+- [2022-11-11-有推荐的-iPad-Pro-保护壳吗？](https://www.v2ex.com/t/894403) ![](assets/new.png)  
+- [2022-11-11-Google-优化-/谷歌-SEO-/-谷歌优化](https://www.v2ex.com/t/894402) ![](assets/new.png)  
+- [2022-11-11-比特大陆内推，硬件，芯片，服务端，嵌入式，产品等。](https://www.v2ex.com/t/894401) ![](assets/new.png)  
+- [2022-11-11-分享两篇文章：开源密码管理器更安全吗？](https://www.v2ex.com/t/894400) ![](assets/new.png)  
+- [2022-11-11-炒股怎么入门？](https://www.v2ex.com/t/894399) ![](assets/new.png)  
+- [2022-11-11-合肥招募海外电商运营总监-1-名](https://www.v2ex.com/t/894395) ![](assets/new.png)  
+- [2022-11-11-请问下各位有在-MacBook-Air-上使用-Dell-DA305/310-扩展坞的没，不支持-4K-60Hz](https://www.v2ex.com/t/894392) ![](assets/new.png)  
+- [2022-11-11-选择纠结！](https://www.v2ex.com/t/894390) ![](assets/new.png)  
+- [2022-11-11-新手上架了人生第一个-iOS-App，记录一下](https://www.v2ex.com/t/894389) ![](assets/new.png)  
+- [2022-11-11-双十一还是得看拼多多](https://www.v2ex.com/t/894385) ![](assets/new.png)  
+- [2022-11-11-Prometheus-纪录片完整版（中英双语），带你了解-Prometheus-的前世今生](https://www.v2ex.com/t/894384) ![](assets/new.png)  
+- [2022-11-11-各位有没有什么家居整理的神器](https://www.v2ex.com/t/894382) ![](assets/new.png)  
+- [2022-11-11-大家在学习某项技术的时候是喜欢看教学视频还是文档/书籍](https://www.v2ex.com/t/894381) ![](assets/new.png)  
+- [2022-11-11-9.9-的-ESP32-C2-开发板](https://www.v2ex.com/t/894380) ![](assets/new.png)  
+- [2022-11-11-请教下如何获取网站手机版-ui-数据](https://www.v2ex.com/t/894379) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -522,6 +522,7 @@
 </summary>
 
 
+- [2022-11-11-以综合指数观察和评价研发效能的趋势-link.zhihu.com](https://blogread.cn/news/go.php?idItem=15406&url=https%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttps%253A%2F%2Finsights.thoughtworks.cn%2Fobserving-evaluating-research-development-efficiency-trend%2F%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-11-11-DDD的哲学意味（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15405&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fddd-philosophy-entity-value-object%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-11-11-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-11-11-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
@@ -541,7 +542,6 @@
 - [2022-11-11-设备指纹技术介绍与综述（二）-blog.nsfocus.net](https://blogread.cn/news/go.php?idItem=15389&url=http%3A%2F%2Fblog.nsfocus.net%2Ffingerprint%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-11-11-向量数据库入坑：传统文本检索方式的降维打击，使用-Faiss-实现向量语义检索-soulteary.com](https://blogread.cn/news/go.php?idItem=15388&url=https%3A%2F%2Fsoulteary.com%2F2022%2F09%2F10%2Fthe-dimensionality-reduction-of-traditional-text-retrieval-methods-using-faiss-to-achieve-vector-semantic-retrieval.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-11-11-全球IPv4-AS拓扑测绘初探-blog.nsfocus.net](https://blogread.cn/news/go.php?idItem=15387&url=http%3A%2F%2Fblog.nsfocus.net%2Fipv4-as%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-11-11-与日俱进，在-Go-1.20-中这种高效转换的方式又变了-colobu.com](https://blogread.cn/news/go.php?idItem=15386&url=https%3A%2F%2Fcolobu.com%2F2022%2F09%2F06%2Fstring-byte-convertion%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -554,17 +554,20 @@
 
 
 - [2022-11-11-解密负载均衡技术和负载均衡算法](https://toutiao.io/k/q1jz8l3) ![](assets/new.png)  
+- [2022-11-11-分布式-ID-生成系统-Leaf-的设计思路，源码解读](https://toutiao.io/k/7onx06i) ![](assets/new.png)  
 - [2022-11-11-黑客“劫持”了一颗卫星，用它直播黑客大会和放电影](https://toutiao.io/k/5x7x2f4) ![](assets/new.png)  
 - [2022-11-11-云架构师进阶攻略（完整版）](https://toutiao.io/k/aghcor1) ![](assets/new.png)  
-- [2022-11-11-分布式-ID-生成系统-Leaf-的设计思路，源码解读](https://toutiao.io/k/7onx06i) ![](assets/new.png)  
 - [2022-11-11-图片不压缩，前端要背锅](https://toutiao.io/k/w3um3sg) ![](assets/new.png)  
-- [2022-11-11-Java-并发技术（读书之-Java-性能优化实践第-12-章）](https://toutiao.io/k/p1nngaf) ![](assets/new.png)  
-- [2022-11-11-漏洞管理十大度量指标](https://toutiao.io/k/61eawap) ![](assets/new.png)  
-- [2022-11-11-当-LinkedList-不是列表时，速度快的兔子都追不上!](https://toutiao.io/k/p5xadxq) ![](assets/new.png)  
 - [2022-11-11-万字好文：从无栈协程到-C++-异步框架](https://toutiao.io/k/0dwmcej) ![](assets/new.png)  
+- [2022-11-11-漏洞管理十大度量指标](https://toutiao.io/k/61eawap) ![](assets/new.png)  
+- [2022-11-11-Java-并发技术（读书之-Java-性能优化实践第-12-章）](https://toutiao.io/k/p1nngaf) ![](assets/new.png)  
+- [2022-11-11-当-LinkedList-不是列表时，速度快的兔子都追不上!](https://toutiao.io/k/p5xadxq) ![](assets/new.png)  
 - [2022-11-11-C2D-代码转设计稿是怎么实现的？](https://toutiao.io/k/e3mrkfm) ![](assets/new.png)  
-- [2022-11-11-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) ![](assets/new.png)  
+- [2022-11-11-五分钟搞定-YAML](https://toutiao.io/k/q00m7wl) ![](assets/new.png)  
+- [2022-11-11-教你如何用-TensorRT-部署-YOLOX（附代码）](https://toutiao.io/k/jzwc3hy) ![](assets/new.png)  
+- [2022-11-11-我设计的异步架构把公司的核心系统性能提升-100-倍，领导给我加鸡腿](https://toutiao.io/k/acsx48v) ![](assets/new.png)  
 - [2022-11-11-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) ![](assets/new.png)  
+- [2022-11-11-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

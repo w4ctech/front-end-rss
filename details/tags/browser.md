@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-11 11:13:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-11 11:39:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -16,4 +16,3 @@
 - [2022-11-11-大家在-iOS-上用-safari-还是-chrome](https://www.v2ex.com/t/894567) 
 - [2022-11-11-edge-浏览器已经越来越臃肿了](https://www.v2ex.com/t/894558) 
 - [2022-11-11-SPA-配置错误导致-index.html-被用户浏览器缓存了，不刷新页面就一直是旧版本，有办法在-SPA-请求的-API-请求的响应头中告诉浏览器需要清除全部页面的缓存吗？-S...](https://www.v2ex.com/t/894532) 
-- [2022-11-11-百亿补贴上买的-Apple-Watch-Series-7-是不是正品啊，好像是商家自己封的](https://www.v2ex.com/t/894522) 

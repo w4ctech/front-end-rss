@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-11 11:13:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-11 11:39:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1917,6 +1917,11 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-11-11-Cloudflare-cdn-电信有低延迟的线路吗](https://www.v2ex.com/t/894577) 
+- [2022-11-11-IPTV-抓包求助](https://www.v2ex.com/t/894575) 
+- [2022-11-11-mac-上有什么能记住工作目录的-sftp-传输工具](https://www.v2ex.com/t/894574) 
+- [2022-11-11-问下程序员，短信回-T-退订是真是假？](https://www.v2ex.com/t/894572) 
+- [2022-11-11-shell-脚本中调用-adb-出现的奇怪显现象](https://www.v2ex.com/t/894571) 
 - [2022-11-11-出以前的搬瓦工套餐,-有需要的嘛](https://www.v2ex.com/t/894570) 
 - [2022-11-11-传说中的涩图生成器](https://www.v2ex.com/t/894568) 
 - [2022-11-11-jetbrains-搞一次-7-折活动，个人版-pycharm-也就能卖个两百多套？](https://www.v2ex.com/t/894563) 
@@ -1944,11 +1949,6 @@
 - [2022-11-11-discord-bot-机器人应用](https://www.v2ex.com/t/894530) 
 - [2022-11-11-Windows-10-上有那些三方的暗色主题推荐](https://www.v2ex.com/t/894529) 
 - [2022-11-11-测试一下图床](https://www.v2ex.com/t/894528) 
-- [2022-11-11-终于知道为什么我们开发的时候要把用户当白痴了](https://www.v2ex.com/t/894527) 
-- [2022-11-11-拼多多百人拼团群，有想加入的么？只能拼团，禁止广告。](https://www.v2ex.com/t/894526) 
-- [2022-11-11-2022-年，家庭厨房用净水器有什么进化没，有型号推荐吗](https://www.v2ex.com/t/894525) 
-- [2022-11-11-怎么回事，有人-M1-听歌越到这个问题吗？](https://www.v2ex.com/t/894524) 
-- [2022-11-11-telegram-电报怎么把电脑的账户转移到手机上?](https://www.v2ex.com/t/894521) 
 - [2022-11-11-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-11-以综合指数观察和评价研发效能的趋势-link.zhihu.com](https://blogread.cn/news/go.php?idItem=15406&url=https%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttps%253A%2F%2Finsights.thoughtworks.cn%2Fobserving-evaluating-research-development-efficiency-trend%2F%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-11-DDD的哲学意味（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15405&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fddd-philosophy-entity-value-object%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1974,7 +1974,7 @@
 - [2022-11-11-教你如何用-TensorRT-部署-YOLOX（附代码）](https://toutiao.io/k/jzwc3hy) 
 - [2022-11-11-当-LinkedList-不是列表时，速度快的兔子都追不上!](https://toutiao.io/k/p5xadxq) 
 - [2022-11-11-C2D-代码转设计稿是怎么实现的？](https://toutiao.io/k/e3mrkfm) 
-- [2022-11-11-这个假微信软件有点套路](https://toutiao.io/k/ao711fi) 
 - [2022-11-11-增加内存会让计算机变快吗？](https://toutiao.io/k/5ytqja5) 
+- [2022-11-11-这个假微信软件有点套路](https://toutiao.io/k/ao711fi) 
 - [2022-11-11-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) 
 - [2022-11-11-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) 

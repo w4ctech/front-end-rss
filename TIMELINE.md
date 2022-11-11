@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-11 11:39:48。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-11 12:30:56。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,13 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-11-MBP-的充电器能给小米手机充电不，充电器在公司忘记拿回家了](https://www.v2ex.com/t/894586) 
+- [【V2EX】2022-11-11-问一下批处理文件清空-txt-内容上的问题](https://www.v2ex.com/t/894585) 
+- [【V2EX】2022-11-11-电信运营商强制跳转江苏反诈公益宣传何解？](https://www.v2ex.com/t/894583) 
+- [【V2EX】2022-11-11-想问下升级了-Ventura-后不可描述版的-pd18-还能用么？](https://www.v2ex.com/t/894582) 
+- [【V2EX】2022-11-11-据说小米后期将会禁止解锁-BL，不在提供解锁功能](https://www.v2ex.com/t/894581) 
+- [【V2EX】2022-11-11-第一次去清吧听音乐，不知道感觉如何](https://www.v2ex.com/t/894579) 
+- [【V2EX】2022-11-11-买了金条金片-并剪成条弯成圈了-怎么把接口焊起来当戒指送给女朋友呢](https://www.v2ex.com/t/894578) 
 - [【V2EX】2022-11-11-Cloudflare-cdn-电信有低延迟的线路吗](https://www.v2ex.com/t/894577) 
 - [【V2EX】2022-11-11-有什么办法能在滚动条显示时自动增加-div-的高度吗？](https://www.v2ex.com/t/894576) 
 - [【V2EX】2022-11-11-IPTV-抓包求助](https://www.v2ex.com/t/894575) 
@@ -106,13 +113,6 @@
 - [【V2EX】2022-11-11-鉴于当下大环境，准备开一个国外银行账户，请问选哪家好](https://www.v2ex.com/t/894539) 
 - [【V2EX】2022-11-11-大家会买京东和淘宝的增值服务不（全保修和换新等）？](https://www.v2ex.com/t/894538) 
 - [【V2EX】2022-11-11-请教下大佬-中转协议会暴露落地鸡-IP-和端口吗？](https://www.v2ex.com/t/894537) 
-- [【V2EX】2022-11-11-🎉🎉-One-Tab-Group-v1.0.0-发布，支持云同步功能，正值-11.11，发放一些折扣码](https://www.v2ex.com/t/894535) 
-- [【V2EX】2022-11-11-给父母买了好医保，是不是不是最好的选择？](https://www.v2ex.com/t/894534) 
-- [【V2EX】2022-11-11-国外流媒体是怎么控制电影分级的](https://www.v2ex.com/t/894533) 
-- [【V2EX】2022-11-11-SPA-配置错误导致-index.html-被用户浏览器缓存了，不刷新页面就一直是旧版本，有办法在-SPA-请求的-API-请求的响应头中告诉浏览器需要清除全部页面的缓存吗？-S...](https://www.v2ex.com/t/894532) 
-- [【V2EX】2022-11-11-discord-bot-机器人应用](https://www.v2ex.com/t/894530) 
-- [【V2EX】2022-11-11-Windows-10-上有那些三方的暗色主题推荐](https://www.v2ex.com/t/894529) 
-- [【V2EX】2022-11-11-测试一下图床](https://www.v2ex.com/t/894528) 
 - [【技术头条】2022-11-11-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-11-以综合指数观察和评价研发效能的趋势-link.zhihu.com](https://blogread.cn/news/go.php?idItem=15406&url=https%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttps%253A%2F%2Finsights.thoughtworks.cn%2Fobserving-evaluating-research-development-efficiency-trend%2F%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-11-DDD的哲学意味（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15405&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fddd-philosophy-entity-value-object%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -146,10 +146,10 @@
 - [【开发者头条】2022-11-11-Java-并发技术（读书之-Java-性能优化实践第-12-章）](https://toutiao.io/k/p1nngaf) 
 - [【开发者头条】2022-11-11-当-LinkedList-不是列表时，速度快的兔子都追不上!](https://toutiao.io/k/p5xadxq) 
 - [【开发者头条】2022-11-11-C2D-代码转设计稿是怎么实现的？](https://toutiao.io/k/e3mrkfm) 
-- [【开发者头条】2022-11-11-增加内存会让计算机变快吗？](https://toutiao.io/k/5ytqja5) 
 - [【开发者头条】2022-11-11-这个假微信软件有点套路](https://toutiao.io/k/ao711fi) 
-- [【开发者头条】2022-11-11-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) 
+- [【开发者头条】2022-11-11-增加内存会让计算机变快吗？](https://toutiao.io/k/5ytqja5) 
 - [【开发者头条】2022-11-11-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) 
+- [【开发者头条】2022-11-11-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

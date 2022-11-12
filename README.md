@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-12 03:11:56，:rocket: 更新条数: +2005， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-12 04:07:22，:rocket: 更新条数: +2004， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,15 @@
 </summary>
 
 
+- [2022-11-12-14-寸低配-M1-Pro-玩游戏如-GTA5-是否会极大影响电脑寿命？](https://www.v2ex.com/t/894674) ![](assets/new.png)  
+- [2022-11-12-Python-里不使用-def-而是简单粘贴对程序有影响吗](https://www.v2ex.com/t/894673) ![](assets/new.png)  
+- [2022-11-12-中羽联已经-2-天打不开](https://www.v2ex.com/t/894672) ![](assets/new.png)  
+- [2022-11-12-为什么现在的-wsl2-还是无法挂载-ext4-文件系统](https://www.v2ex.com/t/894670) ![](assets/new.png)  
+- [2022-11-12-被北京联通无通知停机，浪费-2-个小时，发出来避免大家踩雷](https://www.v2ex.com/t/894669) ![](assets/new.png)  
+- [2022-11-12-第一款独立产品做好了，但还有很多难以抉择的东西...](https://www.v2ex.com/t/894668) ![](assets/new.png)  
+- [2022-11-12-出售-cosmos|evm-链解决方案](https://www.v2ex.com/t/894667) ![](assets/new.png)  
+- [2022-11-12-13.0-怎么设置-wifi-优先级？](https://www.v2ex.com/t/894665) ![](assets/new.png)  
+- [2022-11-12-XPusher，一个接口把富文本内容推送到-微信、邮箱或任意-webhook](https://www.v2ex.com/t/894664) ![](assets/new.png)  
 - [2022-11-12-请教哪家谷歌验证码打码平台速度快一些？](https://www.v2ex.com/t/894662) ![](assets/new.png)  
 - [2022-11-12-报丢的-kindle](https://www.v2ex.com/t/894661) ![](assets/new.png)  
 - [2022-11-12-有没有办法缩短两个-br-标签的间距](https://www.v2ex.com/t/894660) ![](assets/new.png)  
@@ -502,15 +511,6 @@
 - [2022-11-12-Chrome-升级后，-Vimium-C-的上一页、下一页快捷键失效](https://www.v2ex.com/t/894649) ![](assets/new.png)  
 - [2022-11-12-mac-todesk-最小化后再次打开窗口就会无法操作远程桌面-需要等好一会次可以再次操作或者需要重新打开-这个问题有方法可以设置下吗](https://www.v2ex.com/t/894647) ![](assets/new.png)  
 - [2022-11-12-昨晚天猫放量那么大，抢到茅子了吗](https://www.v2ex.com/t/894646) ![](assets/new.png)  
-- [2022-11-12-IOS-Airdrop-10-分钟限制将在明年向全球推送。](https://www.v2ex.com/t/894644) ![](assets/new.png)  
-- [2022-11-12-奇思妙想-都说会哭的孩子有奶吃-郑州哭这么大声，会不会有新机会](https://www.v2ex.com/t/894643) ![](assets/new.png)  
-- [2022-11-11-Heex:-一个面相墙外网站的评论系统](https://www.v2ex.com/t/894642) ![](assets/new.png)  
-- [2022-11-11-请问这个回程路由走了什么线路？目标地址是上海精品网-ip](https://www.v2ex.com/t/894639) ![](assets/new.png)  
-- [2022-11-11-telnet-127.0.0.1-445-不通怎么回事?](https://www.v2ex.com/t/894637) ![](assets/new.png)  
-- [2022-11-11-潮水退去，人们才发现-Sam-Bankrupt-Fried-在裸泳](https://www.v2ex.com/t/894636) ![](assets/new.png)  
-- [2022-11-11-找了一个月，下周要入职了](https://www.v2ex.com/t/894634) ![](assets/new.png)  
-- [2022-11-11-有关-RAID-数据能不能直接读取](https://www.v2ex.com/t/894633) ![](assets/new.png)  
-- [2022-11-11-tg-里那种要点一下才能看到的文字消息是怎么发的啊](https://www.v2ex.com/t/894630) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -551,13 +551,13 @@
 - [2022-11-12-优质网站同好者周刊（第-091-期）-|-倾城博客](https://toutiao.io/k/6nb4sth) ![](assets/new.png)  
 - [2022-11-12-深度学习在携程搜索词义解析中的应用](https://toutiao.io/k/nce8xtm) ![](assets/new.png)  
 - [2022-11-12-Go-语言项目源码解析：定时任务库-cron](https://toutiao.io/k/0ilu8ik) ![](assets/new.png)  
-- [2022-11-12-干货｜-火山引擎在行为分析场景下的ClickHouse-JOIN优化](https://toutiao.io/k/1haelxz) ![](assets/new.png)  
 - [2022-11-12-转行数据分析？你可能需要这块敲门砖！](https://toutiao.io/k/zk74lch) ![](assets/new.png)  
-- [2022-11-12-美团图灵机器学习平台性能起飞的秘密（一）](https://toutiao.io/k/akfvkbe) ![](assets/new.png)  
+- [2022-11-12-干货｜-火山引擎在行为分析场景下的ClickHouse-JOIN优化](https://toutiao.io/k/1haelxz) ![](assets/new.png)  
 - [2022-11-12-10-分钟搞定！Golang-分布式-ID-集合](https://toutiao.io/k/8nbnmk1) ![](assets/new.png)  
+- [2022-11-12-美团图灵机器学习平台性能起飞的秘密（一）](https://toutiao.io/k/akfvkbe) ![](assets/new.png)  
 - [2022-11-12-如何在-Python-中获取时间戳？](https://toutiao.io/k/6ao6m5u) ![](assets/new.png)  
-- [2022-11-12-React-性能优化的那些事儿](https://toutiao.io/k/n5sbfdg) ![](assets/new.png)  
 - [2022-11-12-盘点-Material-Design-3-最新设计规范](https://toutiao.io/k/a6llryg) ![](assets/new.png)  
+- [2022-11-12-React-性能优化的那些事儿](https://toutiao.io/k/n5sbfdg) ![](assets/new.png)  
 - [2022-11-12-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) ![](assets/new.png)  
 - [2022-11-12-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)

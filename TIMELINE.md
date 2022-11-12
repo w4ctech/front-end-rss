@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-12 18:16:25。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-12 18:45:59。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,7 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-12-08-年-macbookpro-开机启动问题](https://www.v2ex.com/t/894794) 
 - [【V2EX】2022-11-12-有什么办法可以让谷歌搜索结果居中?](https://www.v2ex.com/t/894793) 
 - [【V2EX】2022-11-12-一直觉得-Apple-Music-杜比全景声设置选项设计的挺智障的](https://www.v2ex.com/t/894792) 
 - [【V2EX】2022-11-12-好奇一个问题，“欢迎使用中国移动”这种弹窗是为了什么弄出来的？](https://www.v2ex.com/t/894791) 
@@ -107,7 +108,6 @@
 - [【V2EX】2022-11-12-Parallels-Desktop-太流氓。。。](https://www.v2ex.com/t/894750) 
 - [【V2EX】2022-11-12-闭包怪异问题:-为啥这个闭包函数不缓存-count-值?](https://www.v2ex.com/t/894749) 
 - [【V2EX】2022-11-12-现在京东入驻的第三方店铺是没人能管了吗](https://www.v2ex.com/t/894748) 
-- [【V2EX】2022-11-12-请教-Airpods-Pro-搭配低版本-iOS-会有哪些功能无法使用-或者-bug?](https://www.v2ex.com/t/894744) 
 - [【技术头条】2022-11-12-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-12-以综合指数观察和评价研发效能的趋势-link.zhihu.com](https://blogread.cn/news/go.php?idItem=15406&url=https%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttps%253A%2F%2Finsights.thoughtworks.cn%2Fobserving-evaluating-research-development-efficiency-trend%2F%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-12-DDD的哲学意味（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15405&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fddd-philosophy-entity-value-object%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -127,8 +127,8 @@
 - [【开发者头条】2022-11-12-10-分钟搞定！Golang-分布式-ID-集合](https://toutiao.io/k/8nbnmk1) 
 - [【开发者头条】2022-11-12-盘点-Material-Design-3-最新设计规范](https://toutiao.io/k/a6llryg) 
 - [【开发者头条】2022-11-12-如何在-Python-中获取时间戳？](https://toutiao.io/k/6ao6m5u) 
-- [【开发者头条】2022-11-12-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) 
 - [【开发者头条】2022-11-12-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) 
+- [【开发者头条】2022-11-12-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

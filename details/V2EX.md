@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-11-12 18:16:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-12 18:45:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-11-12-08-年-macbookpro-开机启动问题](https://www.v2ex.com/t/894794) 
 - [2022-11-12-有什么办法可以让谷歌搜索结果居中?](https://www.v2ex.com/t/894793) 
 - [2022-11-12-一直觉得-Apple-Music-杜比全景声设置选项设计的挺智障的](https://www.v2ex.com/t/894792) 
 - [2022-11-12-好奇一个问题，“欢迎使用中国移动”这种弹窗是为了什么弄出来的？](https://www.v2ex.com/t/894791) 
@@ -42,4 +43,3 @@
 - [2022-11-12-Parallels-Desktop-太流氓。。。](https://www.v2ex.com/t/894750) 
 - [2022-11-12-闭包怪异问题:-为啥这个闭包函数不缓存-count-值?](https://www.v2ex.com/t/894749) 
 - [2022-11-12-现在京东入驻的第三方店铺是没人能管了吗](https://www.v2ex.com/t/894748) 
-- [2022-11-12-请教-Airpods-Pro-搭配低版本-iOS-会有哪些功能无法使用-或者-bug?](https://www.v2ex.com/t/894744) 

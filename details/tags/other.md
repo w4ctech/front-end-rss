@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-12 14:39:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-12 15:15:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1917,6 +1917,9 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-11-12-使用雷电-4-数据线进行-mac-迁移速度很慢](https://www.v2ex.com/t/894773) 
+- [2022-11-12-想租个深圳灵芝地铁站付附近的房子,预算-1800-2300-以内.......](https://www.v2ex.com/t/894770) 
+- [2022-11-12-如何躺平，大家教教我？](https://www.v2ex.com/t/894769) 
 - [2022-11-12-经历：在-mobilesms.io-接码平台被骗](https://www.v2ex.com/t/894767) 
 - [2022-11-12-是不是一直到现在-iOS-和-iPadOS-依然不支持外接蓝牙键盘时使用第三方输入法](https://www.v2ex.com/t/894766) 
 - [2022-11-12-GridMove：-Fancyzones-的轻量平替；-Windows-下手动窗口管理](https://www.v2ex.com/t/894765) 
@@ -1940,9 +1943,6 @@
 - [2022-11-12-有没有免企业认证的国外短信服务商推荐？](https://www.v2ex.com/t/894733) 
 - [2022-11-12-上海-不加班-外企-招-中级前端3-年经验起，高级安卓（5-年起），中级-devOps（3-年起）和-C++-实习](https://www.v2ex.com/t/894730) 
 - [2022-11-12-企业办公网使用-Windows-Server-操作系统风险大不大？](https://www.v2ex.com/t/894727) 
-- [2022-11-12-西部某-211-研-深处迷茫焦虑-求职业规划建议](https://www.v2ex.com/t/894726) 
-- [2022-11-12-M2-的-MAC，微信读书有没有办法更改字体？](https://www.v2ex.com/t/894724) 
-- [2022-11-12-关于-App-Store-app-兑换码的问题](https://www.v2ex.com/t/894723) 
 - [2022-11-12-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-12-以综合指数观察和评价研发效能的趋势-link.zhihu.com](https://blogread.cn/news/go.php?idItem=15406&url=https%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttps%253A%2F%2Finsights.thoughtworks.cn%2Fobserving-evaluating-research-development-efficiency-trend%2F%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-12-DDD的哲学意味（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15405&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fddd-philosophy-entity-value-object%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1962,5 +1962,5 @@
 - [2022-11-12-10-分钟搞定！Golang-分布式-ID-集合](https://toutiao.io/k/8nbnmk1) 
 - [2022-11-12-盘点-Material-Design-3-最新设计规范](https://toutiao.io/k/a6llryg) 
 - [2022-11-12-如何在-Python-中获取时间戳？](https://toutiao.io/k/6ao6m5u) 
-- [2022-11-12-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) 
 - [2022-11-12-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) 
+- [2022-11-12-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) 

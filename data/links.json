@@ -9953,6 +9953,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "Monterey 以来 Safari 的一个非常令人困扰的 bug，不知道各位遇到过吗？",
+        "link": "https://www.v2ex.com/t/894799",
+        "date": "2022-11-12"
+      },
+      {
         "title": "我不理解这 bug 果子居然能一直留到现在",
         "link": "https://www.v2ex.com/t/894798",
         "date": "2022-11-12"
@@ -10145,11 +10150,6 @@
       {
         "title": "Parallels Desktop 太流氓。。。",
         "link": "https://www.v2ex.com/t/894750",
-        "date": "2022-11-12"
-      },
-      {
-        "title": "闭包怪异问题: 为啥这个闭包函数不缓存 count 值?",
-        "link": "https://www.v2ex.com/t/894749",
         "date": "2022-11-12"
       }
     ]

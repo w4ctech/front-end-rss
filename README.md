@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-12 13:46:41，:rocket: 更新条数: +2005， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-12 14:12:57，:rocket: 更新条数: +2004， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-11-12-请问各位大神为啥最近-fire-TV-stick-4K-忽然间没货且价格飙升？](https://www.v2ex.com/t/894760) ![](assets/new.png)  
+- [2022-11-12-求助！推荐个-AirPods-补单支耳机靠谱的店铺](https://www.v2ex.com/t/894759) ![](assets/new.png)  
+- [2022-11-12-FTX-的身后事？](https://www.v2ex.com/t/894758) ![](assets/new.png)  
+- [2022-11-12-能自动翻译外国电影电视剧综艺节目并自动转化声音的软件？](https://www.v2ex.com/t/894756) ![](assets/new.png)  
 - [2022-11-12-研-0，希望前辈给一些建议](https://www.v2ex.com/t/894755) ![](assets/new.png)  
 - [2022-11-12-20221112-午夜俱乐部](https://www.v2ex.com/t/894752) ![](assets/new.png)  
 - [2022-11-12-6-7-万内，纯电动有什么推荐？](https://www.v2ex.com/t/894751) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-11-12-S7-41mm-watchos-9.1-蜂窝你们跑-10-公里掉电多少？](https://www.v2ex.com/t/894734) ![](assets/new.png)  
 - [2022-11-12-有没有免企业认证的国外短信服务商推荐？](https://www.v2ex.com/t/894733) ![](assets/new.png)  
 - [2022-11-12-上海-不加班-外企-招-中级前端3-年经验起，高级安卓（5-年起），中级-devOps（3-年起）和-C++-实习](https://www.v2ex.com/t/894730) ![](assets/new.png)  
-- [2022-11-12-企业办公网使用-Windows-Server-操作系统风险大不大？](https://www.v2ex.com/t/894727) ![](assets/new.png)  
-- [2022-11-12-西部某-211-研-深处迷茫焦虑-求职业规划建议](https://www.v2ex.com/t/894726) ![](assets/new.png)  
-- [2022-11-12-IOS-上的浏览器除了夸克，其他都没法用啊](https://www.v2ex.com/t/894725) ![](assets/new.png)  
-- [2022-11-12-M2-的-MAC，微信读书有没有办法更改字体？](https://www.v2ex.com/t/894724) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

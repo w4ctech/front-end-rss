@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-12 06:47:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-12 07:14:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1917,6 +1917,9 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-11-12-gcore-新注册用户送-200-欧元，可开-cloud-服务器-CDN-streamming-等](https://www.v2ex.com/t/894696) 
+- [2022-11-12-大佬们-编程真的就像搭乐高-盖房子吗](https://www.v2ex.com/t/894695) 
+- [2022-11-12-以苹果的产品思路和设计风格，重新做一款家庭私有云，会是什么样的？](https://www.v2ex.com/t/894694) 
 - [2022-11-12-想去法罗群岛养羊，有希望吗？](https://www.v2ex.com/t/894692) 
 - [2022-11-12-1-号线双桥_京烟宿舍小区_次卧-1600](https://www.v2ex.com/t/894691) 
 - [2022-11-12-实际应用，-win11-的重置，还是-OEM-重置，不是干净重装](https://www.v2ex.com/t/894690) 
@@ -1940,8 +1943,6 @@
 - [2022-11-12-Windows11-永远点不中托盘的小图标](https://www.v2ex.com/t/894653) 
 - [2022-11-12-Apple-官方网站真漂亮，是自己内部设计制作的-还是委托第三方](https://www.v2ex.com/t/894652) 
 - [2022-11-12-mac-todesk-最小化后再次打开窗口就会无法操作远程桌面-需要等好一会次可以再次操作或者需要重新打开-这个问题有方法可以设置下吗](https://www.v2ex.com/t/894647) 
-- [2022-11-12-昨晚天猫放量那么大，抢到茅子了吗](https://www.v2ex.com/t/894646) 
-- [2022-11-12-IOS-Airdrop-10-分钟限制将在明年向全球推送。](https://www.v2ex.com/t/894644) 
 - [2022-11-12-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-12-以综合指数观察和评价研发效能的趋势-link.zhihu.com](https://blogread.cn/news/go.php?idItem=15406&url=https%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttps%253A%2F%2Finsights.thoughtworks.cn%2Fobserving-evaluating-research-development-efficiency-trend%2F%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-12-DDD的哲学意味（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15405&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fddd-philosophy-entity-value-object%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

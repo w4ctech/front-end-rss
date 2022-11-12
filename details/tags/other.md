@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-12 04:55:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-12 05:15:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1917,6 +1917,9 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-11-12-可以利用银行的低息贷款腾挪多套房贷的高利率](https://www.v2ex.com/t/894683) 
+- [2022-11-12-CF-跑满宽带；-Cloudflare-优选-IP-台湾；大陆-Ping-延迟-45ms；下载-70MB/S。](https://www.v2ex.com/t/894682) 
+- [2022-11-12-对于笔记型应用，大家更喜欢是本地客户端类型的（保存本地文件，自行同步），还是-web-应用类型的（自部署或公共服务，自带同步）？更喜欢是-markdown-还是富文...](https://www.v2ex.com/t/894680) 
 - [2022-11-12-Python-里不使用-def-而是简单粘贴对程序有影响吗](https://www.v2ex.com/t/894673) 
 - [2022-11-12-中羽联已经-2-天打不开](https://www.v2ex.com/t/894672) 
 - [2022-11-12-为什么现在的-wsl2-还是无法挂载-ext4-文件系统](https://www.v2ex.com/t/894670) 
@@ -1937,10 +1940,6 @@
 - [2022-11-11-Heex:-一个面相墙外网站的评论系统](https://www.v2ex.com/t/894642) 
 - [2022-11-11-telnet-127.0.0.1-445-不通怎么回事?](https://www.v2ex.com/t/894637) 
 - [2022-11-11-找了一个月，下周要入职了](https://www.v2ex.com/t/894634) 
-- [2022-11-11-有关-RAID-数据能不能直接读取](https://www.v2ex.com/t/894633) 
-- [2022-11-11-tg-里那种要点一下才能看到的文字消息是怎么发的啊](https://www.v2ex.com/t/894630) 
-- [2022-11-11-R2S-每天晚上准时死机，如何排查](https://www.v2ex.com/t/894629) 
-- [2022-11-11-笔记本电脑外接硬盘如何达到最大传输速率](https://www.v2ex.com/t/894628) 
 - [2022-11-12-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-12-以综合指数观察和评价研发效能的趋势-link.zhihu.com](https://blogread.cn/news/go.php?idItem=15406&url=https%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttps%253A%2F%2Finsights.thoughtworks.cn%2Fobserving-evaluating-research-development-efficiency-trend%2F%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-12-DDD的哲学意味（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15405&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fddd-philosophy-entity-value-object%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1961,5 +1960,5 @@
 - [2022-11-12-10-分钟搞定！Golang-分布式-ID-集合](https://toutiao.io/k/8nbnmk1) 
 - [2022-11-12-盘点-Material-Design-3-最新设计规范](https://toutiao.io/k/a6llryg) 
 - [2022-11-12-如何在-Python-中获取时间戳？](https://toutiao.io/k/6ao6m5u) 
-- [2022-11-12-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) 
 - [2022-11-12-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) 
+- [2022-11-12-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) 

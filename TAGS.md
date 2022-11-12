@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-11-12 13:03:59。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-12 13:46:41。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -249,7 +249,6 @@
 
 
 
-- [【V2EX】有没有发现-Android-系统的性能缺陷被硬件的发展给掩盖了](https://www.v2ex.com/t/894703)
 - [【开发者头条】美团图灵机器学习平台性能起飞的秘密（一）](https://toutiao.io/k/akfvkbe)
 - [【开发者头条】干货｜-火山引擎在行为分析场景下的ClickHouse-JOIN优化](https://toutiao.io/k/1haelxz)
 - [......【查看更多】......](./details/tags/optimization.md)
@@ -274,6 +273,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】腺病毒新冠疫苗引安全忧虑-康希诺称未发现血栓病例](https://m.caixin.com/m/2021-04-14/101691086.html)
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
+- [【V2EX】闭包怪异问题:-为啥这个闭包函数不缓存-count-值?](https://www.v2ex.com/t/894749)
 - [【V2EX】IOS-上的浏览器除了夸克，其他都没法用啊](https://www.v2ex.com/t/894725)
 - [【V2EX】用-Python-通过-api-用-post-上传文件怎么分块？](https://www.v2ex.com/t/894722)
 - [【V2EX】WebApp-的静态-index.html-是不是也不应该设置-CDN-缓存？](https://www.v2ex.com/t/894718)

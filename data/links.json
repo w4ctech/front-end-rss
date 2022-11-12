@@ -9953,6 +9953,21 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "如何去除 MacOS 系统偏好设置右上角红色上标",
+        "link": "https://www.v2ex.com/t/894740",
+        "date": "2022-11-12"
+      },
+      {
+        "title": "golang 处理浮点数的疑问",
+        "link": "https://www.v2ex.com/t/894739",
+        "date": "2022-11-12"
+      },
+      {
+        "title": "想问问大家有啥下饭视频推荐，一个人吃饭很无聊",
+        "link": "https://www.v2ex.com/t/894738",
+        "date": "2022-11-12"
+      },
+      {
         "title": "双十一 有什么软件优惠?",
         "link": "https://www.v2ex.com/t/894736",
         "date": "2022-11-12"
@@ -10121,11 +10136,6 @@
         "title": "1 号线双桥_京烟宿舍小区_次卧 1600",
         "link": "https://www.v2ex.com/t/894691",
         "date": "2022-11-12"
-      },
-      {
-        "title": "实际应用， win11 的重置，还是 OEM 重置，不是干净重装",
-        "link": "https://www.v2ex.com/t/894690",
-        "date": "2022-11-12"
       }
     ]
   },
@@ -10237,13 +10247,13 @@
         "date": "2022-11-12"
       },
       {
-        "title": "干货｜ 火山引擎在行为分析场景下的ClickHouse JOIN优化",
-        "link": "https://toutiao.io/k/1haelxz",
+        "title": "转行数据分析？你可能需要这块敲门砖！",
+        "link": "https://toutiao.io/k/zk74lch",
         "date": "2022-11-12"
       },
       {
-        "title": "转行数据分析？你可能需要这块敲门砖！",
-        "link": "https://toutiao.io/k/zk74lch",
+        "title": "干货｜ 火山引擎在行为分析场景下的ClickHouse JOIN优化",
+        "link": "https://toutiao.io/k/1haelxz",
         "date": "2022-11-12"
       },
       {
@@ -10262,13 +10272,13 @@
         "date": "2022-11-12"
       },
       {
-        "title": "[推荐] 如何画出一张优秀的架构图？（老鸟必备）",
-        "link": "https://toutiao.io/k/xiqybrh",
+        "title": "[推荐] 新来个技术总监，仅花 2 小时，撸出一个多线程永动任务，看完直接跪了，真牛逼",
+        "link": "https://toutiao.io/k/6u3q7ke",
         "date": "2022-11-12"
       },
       {
-        "title": "[推荐] 新来个技术总监，仅花 2 小时，撸出一个多线程永动任务，看完直接跪了，真牛逼",
-        "link": "https://toutiao.io/k/6u3q7ke",
+        "title": "[推荐] 如何画出一张优秀的架构图？（老鸟必备）",
+        "link": "https://toutiao.io/k/xiqybrh",
         "date": "2022-11-12"
       }
     ]

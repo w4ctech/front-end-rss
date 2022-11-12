@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-12 18:45:59，:rocket: 更新条数: +2005， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-12 19:11:56，:rocket: 更新条数: +2006， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-11-12-搞了台刀片发现不会玩，有懂的同学吗？](https://www.v2ex.com/t/894796) ![](assets/new.png)  
 - [2022-11-12-08-年-macbookpro-开机启动问题](https://www.v2ex.com/t/894794) ![](assets/new.png)  
 - [2022-11-12-有什么办法可以让谷歌搜索结果居中?](https://www.v2ex.com/t/894793) ![](assets/new.png)  
 - [2022-11-12-一直觉得-Apple-Music-杜比全景声设置选项设计的挺智障的](https://www.v2ex.com/t/894792) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-11-12-C++求教：如何优雅实现运行时类型选择](https://www.v2ex.com/t/894777) ![](assets/new.png)  
 - [2022-11-12-2022-年-11-月，到底是自己组装游戏-PC，还是买-PS5-with-6nm-AMD-Oberon-Plus-chip，还是买-Xbox-Series-X？](https://www.v2ex.com/t/894776) ![](assets/new.png)  
 - [2022-11-12-通过-PHP-或者其它语言如何快速判断字符串符合多个正则中某一条正则？](https://www.v2ex.com/t/894775) ![](assets/new.png)  
-- [2022-11-12-使用雷电-4-数据线进行-mac-迁移速度很慢](https://www.v2ex.com/t/894773) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

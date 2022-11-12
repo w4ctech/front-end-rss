@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-12 07:14:15，:rocket: 更新条数: +2006， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-12 07:38:11，:rocket: 更新条数: +2009， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,13 @@
 </summary>
 
 
+- [2022-11-12-有没有发现-Android-系统的性能缺陷被硬件的发展给掩盖了](https://www.v2ex.com/t/894703) ![](assets/new.png)  
+- [2022-11-12-做了一个摄影和生活的-Newsletter](https://www.v2ex.com/t/894702) ![](assets/new.png)  
+- [2022-11-12-ios-app-右滑不会返回的-BUG](https://www.v2ex.com/t/894701) ![](assets/new.png)  
+- [2022-11-12-询问一下-clash-relay-代理模式是否为层层加密](https://www.v2ex.com/t/894700) ![](assets/new.png)  
+- [2022-11-12-如何在中国登录环境下保持-tiktok-长期稳定在线?](https://www.v2ex.com/t/894699) ![](assets/new.png)  
+- [2022-11-12-如何让自己对某件事情有源源不断的动力？](https://www.v2ex.com/t/894698) ![](assets/new.png)  
+- [2022-11-12-IPv6-时代，如何穿透防火墙进行-p2p-通讯？](https://www.v2ex.com/t/894697) ![](assets/new.png)  
 - [2022-11-12-gcore-新注册用户送-200-欧元，可开-cloud-服务器-CDN-streamming-等](https://www.v2ex.com/t/894696) ![](assets/new.png)  
 - [2022-11-12-大佬们-编程真的就像搭乐高-盖房子吗](https://www.v2ex.com/t/894695) ![](assets/new.png)  
 - [2022-11-12-以苹果的产品思路和设计风格，重新做一款家庭私有云，会是什么样的？](https://www.v2ex.com/t/894694) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-11-12-CF-跑满宽带；-Cloudflare-优选-IP-台湾；大陆-Ping-延迟-45ms；下载-70MB/S。](https://www.v2ex.com/t/894682) ![](assets/new.png)  
 - [2022-11-12-对于笔记型应用，大家更喜欢是本地客户端类型的（保存本地文件，自行同步），还是-web-应用类型的（自部署或公共服务，自带同步）？更喜欢是-markdown-还是富文...](https://www.v2ex.com/t/894680) ![](assets/new.png)  
 - [2022-11-12-Downie-4-出一个激活码，-18-元](https://www.v2ex.com/t/894677) ![](assets/new.png)  
-- [2022-11-12-有没有能修改医院支付宝小程序-saas-版本的，有偿找个人帮修改下](https://www.v2ex.com/t/894676) ![](assets/new.png)  
-- [2022-11-12-14-寸低配-M1-Pro-玩游戏如-GTA5-是否会极大影响电脑寿命？](https://www.v2ex.com/t/894674) ![](assets/new.png)  
-- [2022-11-12-Python-里不使用-def-而是简单粘贴对程序有影响吗](https://www.v2ex.com/t/894673) ![](assets/new.png)  
-- [2022-11-12-中羽联已经-2-天打不开](https://www.v2ex.com/t/894672) ![](assets/new.png)  
-- [2022-11-12-为什么现在的-wsl2-还是无法挂载-ext4-文件系统](https://www.v2ex.com/t/894670) ![](assets/new.png)  
-- [2022-11-12-被北京联通无通知停机，浪费-2-个小时，发出来避免大家踩雷](https://www.v2ex.com/t/894669) ![](assets/new.png)  
-- [2022-11-12-第一款独立产品做好了，但还有很多难以抉择的东西...](https://www.v2ex.com/t/894668) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -552,9 +552,9 @@
 - [2022-11-12-深度学习在携程搜索词义解析中的应用](https://toutiao.io/k/nce8xtm) ![](assets/new.png)  
 - [2022-11-12-Go-语言项目源码解析：定时任务库-cron](https://toutiao.io/k/0ilu8ik) ![](assets/new.png)  
 - [2022-11-12-React-性能优化的那些事儿](https://toutiao.io/k/n5sbfdg) ![](assets/new.png)  
+- [2022-11-12-美团图灵机器学习平台性能起飞的秘密（一）](https://toutiao.io/k/akfvkbe) ![](assets/new.png)  
 - [2022-11-12-转行数据分析？你可能需要这块敲门砖！](https://toutiao.io/k/zk74lch) ![](assets/new.png)  
 - [2022-11-12-干货｜-火山引擎在行为分析场景下的ClickHouse-JOIN优化](https://toutiao.io/k/1haelxz) ![](assets/new.png)  
-- [2022-11-12-美团图灵机器学习平台性能起飞的秘密（一）](https://toutiao.io/k/akfvkbe) ![](assets/new.png)  
 - [2022-11-12-10-分钟搞定！Golang-分布式-ID-集合](https://toutiao.io/k/8nbnmk1) ![](assets/new.png)  
 - [2022-11-12-盘点-Material-Design-3-最新设计规范](https://toutiao.io/k/a6llryg) ![](assets/new.png)  
 - [2022-11-12-如何在-Python-中获取时间戳？](https://toutiao.io/k/6ao6m5u) ![](assets/new.png)  

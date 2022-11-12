@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-12 15:42:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-12 16:19:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1917,6 +1917,8 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-11-12-如果注册邮局服务的邮箱丢失了。。。](https://www.v2ex.com/t/894785) 
+- [2022-11-12-北京有人没出京但反复弹窗的吗？](https://www.v2ex.com/t/894784) 
 - [2022-11-12-trojan-爬墙-iPhone-始终比安卓快的不明现象](https://www.v2ex.com/t/894780) 
 - [2022-11-12-现在外面行情实际情况到底咋样？](https://www.v2ex.com/t/894779) 
 - [2022-11-12-新版-PC-微信的-OCR-识别效率和准确度都不错](https://www.v2ex.com/t/894778) 
@@ -1942,9 +1944,6 @@
 - [2022-11-12-如何去除-MacOS-系统偏好设置右上角红色上标](https://www.v2ex.com/t/894740) 
 - [2022-11-12-golang-处理浮点数的疑问](https://www.v2ex.com/t/894739) 
 - [2022-11-12-双十一-有什么软件优惠?](https://www.v2ex.com/t/894736) 
-- [2022-11-12-如何把-ESXi7.0u3-的虚拟机迁移到-6.7-呢？](https://www.v2ex.com/t/894735) 
-- [2022-11-12-S7-41mm-watchos-9.1-蜂窝你们跑-10-公里掉电多少？](https://www.v2ex.com/t/894734) 
-- [2022-11-12-有没有免企业认证的国外短信服务商推荐？](https://www.v2ex.com/t/894733) 
 - [2022-11-12-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-12-以综合指数观察和评价研发效能的趋势-link.zhihu.com](https://blogread.cn/news/go.php?idItem=15406&url=https%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttps%253A%2F%2Finsights.thoughtworks.cn%2Fobserving-evaluating-research-development-efficiency-trend%2F%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-12-DDD的哲学意味（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15405&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fddd-philosophy-entity-value-object%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1960,5 +1959,5 @@
 - [2022-11-12-10-分钟搞定！Golang-分布式-ID-集合](https://toutiao.io/k/8nbnmk1) 
 - [2022-11-12-盘点-Material-Design-3-最新设计规范](https://toutiao.io/k/a6llryg) 
 - [2022-11-12-如何在-Python-中获取时间戳？](https://toutiao.io/k/6ao6m5u) 
-- [2022-11-12-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) 
 - [2022-11-12-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) 
+- [2022-11-12-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) 

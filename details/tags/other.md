@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-12 12:23:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-12 13:03:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1941,8 +1941,6 @@
 - [2022-11-12-询问一下-clash-relay-代理模式是否为层层加密](https://www.v2ex.com/t/894700) 
 - [2022-11-12-如何在中国登录环境下保持-tiktok-长期稳定在线?](https://www.v2ex.com/t/894699) 
 - [2022-11-12-如何让自己对某件事情有源源不断的动力？](https://www.v2ex.com/t/894698) 
-- [2022-11-12-IPv6-时代，如何穿透防火墙进行-p2p-通讯？](https://www.v2ex.com/t/894697) 
-- [2022-11-12-gcore-新注册用户送-200-欧元，可开-cloud-服务器-CDN-streamming-等](https://www.v2ex.com/t/894696) 
 - [2022-11-12-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-12-以综合指数观察和评价研发效能的趋势-link.zhihu.com](https://blogread.cn/news/go.php?idItem=15406&url=https%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttps%253A%2F%2Finsights.thoughtworks.cn%2Fobserving-evaluating-research-development-efficiency-trend%2F%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-12-DDD的哲学意味（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15405&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fddd-philosophy-entity-value-object%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1962,5 +1960,5 @@
 - [2022-11-12-10-分钟搞定！Golang-分布式-ID-集合](https://toutiao.io/k/8nbnmk1) 
 - [2022-11-12-盘点-Material-Design-3-最新设计规范](https://toutiao.io/k/a6llryg) 
 - [2022-11-12-如何在-Python-中获取时间戳？](https://toutiao.io/k/6ao6m5u) 
-- [2022-11-12-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) 
 - [2022-11-12-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) 
+- [2022-11-12-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) 

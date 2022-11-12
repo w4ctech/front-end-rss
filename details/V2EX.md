@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-12 12:23:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-12 13:03:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -38,5 +38,3 @@
 - [2022-11-12-询问一下-clash-relay-代理模式是否为层层加密](https://www.v2ex.com/t/894700) 
 - [2022-11-12-如何在中国登录环境下保持-tiktok-长期稳定在线?](https://www.v2ex.com/t/894699) 
 - [2022-11-12-如何让自己对某件事情有源源不断的动力？](https://www.v2ex.com/t/894698) 
-- [2022-11-12-IPv6-时代，如何穿透防火墙进行-p2p-通讯？](https://www.v2ex.com/t/894697) 
-- [2022-11-12-gcore-新注册用户送-200-欧元，可开-cloud-服务器-CDN-streamming-等](https://www.v2ex.com/t/894696) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-12 22:41:06，:rocket: 更新条数: +2007， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-12 23:03:02，:rocket: 更新条数: +2007， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-11-12-我不理解这-bug-果子居然能一直留到现在](https://www.v2ex.com/t/894798) ![](assets/new.png)  
 - [2022-11-12-iOS-有没有办法只禁止单个-App-自动更新？](https://www.v2ex.com/t/894797) ![](assets/new.png)  
 - [2022-11-12-搞了台刀片发现不会玩，有懂的同学吗？](https://www.v2ex.com/t/894796) ![](assets/new.png)  
 - [2022-11-12-08-年-macbookpro-开机启动问题](https://www.v2ex.com/t/894794) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-11-12-现在外面行情实际情况到底咋样？](https://www.v2ex.com/t/894779) ![](assets/new.png)  
 - [2022-11-12-新版-PC-微信的-OCR-识别效率和准确度都不错](https://www.v2ex.com/t/894778) ![](assets/new.png)  
 - [2022-11-12-C++求教：如何优雅实现运行时类型选择](https://www.v2ex.com/t/894777) ![](assets/new.png)  
-- [2022-11-12-2022-年-11-月，到底是自己组装游戏-PC，还是买-PS5-with-6nm-AMD-Oberon-Plus-chip，还是买-Xbox-Series-X？](https://www.v2ex.com/t/894776) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -552,8 +552,8 @@
 - [2022-11-12-盘点-Material-Design-3-最新设计规范](https://toutiao.io/k/a6llryg) ![](assets/new.png)  
 - [2022-11-12-10-分钟搞定！Golang-分布式-ID-集合](https://toutiao.io/k/8nbnmk1) ![](assets/new.png)  
 - [2022-11-12-如何在-Python-中获取时间戳？](https://toutiao.io/k/6ao6m5u) ![](assets/new.png)  
-- [2022-11-12-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) ![](assets/new.png)  
 - [2022-11-12-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) ![](assets/new.png)  
+- [2022-11-12-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

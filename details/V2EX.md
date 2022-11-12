@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-11-12 22:41:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-12 23:03:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-11-12-我不理解这-bug-果子居然能一直留到现在](https://www.v2ex.com/t/894798) 
 - [2022-11-12-iOS-有没有办法只禁止单个-App-自动更新？](https://www.v2ex.com/t/894797) 
 - [2022-11-12-搞了台刀片发现不会玩，有懂的同学吗？](https://www.v2ex.com/t/894796) 
 - [2022-11-12-08-年-macbookpro-开机启动问题](https://www.v2ex.com/t/894794) 
@@ -44,4 +45,3 @@
 - [2022-11-12-6-7-万内，纯电动有什么推荐？](https://www.v2ex.com/t/894751) 
 - [2022-11-12-Parallels-Desktop-太流氓。。。](https://www.v2ex.com/t/894750) 
 - [2022-11-12-闭包怪异问题:-为啥这个闭包函数不缓存-count-值?](https://www.v2ex.com/t/894749) 
-- [2022-11-12-现在京东入驻的第三方店铺是没人能管了吗](https://www.v2ex.com/t/894748) 

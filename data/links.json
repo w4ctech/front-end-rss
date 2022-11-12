@@ -9953,6 +9953,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "我不理解这 bug 果子居然能一直留到现在",
+        "link": "https://www.v2ex.com/t/894798",
+        "date": "2022-11-12"
+      },
+      {
         "title": "iOS 有没有办法只禁止单个 App 自动更新？",
         "link": "https://www.v2ex.com/t/894797",
         "date": "2022-11-12"
@@ -10146,11 +10151,6 @@
         "title": "闭包怪异问题: 为啥这个闭包函数不缓存 count 值?",
         "link": "https://www.v2ex.com/t/894749",
         "date": "2022-11-12"
-      },
-      {
-        "title": "现在京东入驻的第三方店铺是没人能管了吗",
-        "link": "https://www.v2ex.com/t/894748",
-        "date": "2022-11-12"
       }
     ]
   },
@@ -10262,13 +10262,13 @@
         "date": "2022-11-12"
       },
       {
-        "title": "[推荐] 如何画出一张优秀的架构图？（老鸟必备）",
-        "link": "https://toutiao.io/k/xiqybrh",
+        "title": "[推荐] 新来个技术总监，仅花 2 小时，撸出一个多线程永动任务，看完直接跪了，真牛逼",
+        "link": "https://toutiao.io/k/6u3q7ke",
         "date": "2022-11-12"
       },
       {
-        "title": "[推荐] 新来个技术总监，仅花 2 小时，撸出一个多线程永动任务，看完直接跪了，真牛逼",
-        "link": "https://toutiao.io/k/6u3q7ke",
+        "title": "[推荐] 如何画出一张优秀的架构图？（老鸟必备）",
+        "link": "https://toutiao.io/k/xiqybrh",
         "date": "2022-11-12"
       }
     ]

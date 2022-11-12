@@ -9953,6 +9953,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "iOS 有没有办法只禁止单个 App 自动更新？",
+        "link": "https://www.v2ex.com/t/894797",
+        "date": "2022-11-12"
+      },
+      {
         "title": "搞了台刀片发现不会玩，有懂的同学吗？",
         "link": "https://www.v2ex.com/t/894796",
         "date": "2022-11-12"
@@ -10242,13 +10247,13 @@
         "date": "2022-11-12"
       },
       {
-        "title": "10 分钟搞定！Golang 分布式 ID 集合",
-        "link": "https://toutiao.io/k/8nbnmk1",
+        "title": "盘点 Material Design 3 最新设计规范",
+        "link": "https://toutiao.io/k/a6llryg",
         "date": "2022-11-12"
       },
       {
-        "title": "盘点 Material Design 3 最新设计规范",
-        "link": "https://toutiao.io/k/a6llryg",
+        "title": "10 分钟搞定！Golang 分布式 ID 集合",
+        "link": "https://toutiao.io/k/8nbnmk1",
         "date": "2022-11-12"
       },
       {
@@ -10257,13 +10262,13 @@
         "date": "2022-11-12"
       },
       {
-        "title": "[推荐] 新来个技术总监，仅花 2 小时，撸出一个多线程永动任务，看完直接跪了，真牛逼",
-        "link": "https://toutiao.io/k/6u3q7ke",
+        "title": "[推荐] 如何画出一张优秀的架构图？（老鸟必备）",
+        "link": "https://toutiao.io/k/xiqybrh",
         "date": "2022-11-12"
       },
       {
-        "title": "[推荐] 如何画出一张优秀的架构图？（老鸟必备）",
-        "link": "https://toutiao.io/k/xiqybrh",
+        "title": "[推荐] 新来个技术总监，仅花 2 小时，撸出一个多线程永动任务，看完直接跪了，真牛逼",
+        "link": "https://toutiao.io/k/6u3q7ke",
         "date": "2022-11-12"
       }
     ]

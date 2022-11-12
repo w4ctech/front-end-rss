@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-11-12 21:39:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-12 22:13:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-11-12-iOS-有没有办法只禁止单个-App-自动更新？](https://www.v2ex.com/t/894797) 
 - [2022-11-12-搞了台刀片发现不会玩，有懂的同学吗？](https://www.v2ex.com/t/894796) 
 - [2022-11-12-08-年-macbookpro-开机启动问题](https://www.v2ex.com/t/894794) 
 - [2022-11-12-有什么办法可以让谷歌搜索结果居中?](https://www.v2ex.com/t/894793) 

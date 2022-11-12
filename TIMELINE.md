@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-12 15:15:43。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-12 15:42:33。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,12 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-12-undetected_chromedriver-模块打开谷歌浏览器无法使用代理问题](https://www.v2ex.com/t/894782) 
+- [【V2EX】2022-11-12-Nginx-如何把-HTTP-和-HTTPS-开在同一个端口？（客户提的奇葩需求）](https://www.v2ex.com/t/894781) 
+- [【V2EX】2022-11-12-trojan-爬墙-iPhone-始终比安卓快的不明现象](https://www.v2ex.com/t/894780) 
+- [【V2EX】2022-11-12-现在外面行情实际情况到底咋样？](https://www.v2ex.com/t/894779) 
+- [【V2EX】2022-11-12-新版-PC-微信的-OCR-识别效率和准确度都不错](https://www.v2ex.com/t/894778) 
+- [【V2EX】2022-11-12-C++求教：如何优雅实现运行时类型选择](https://www.v2ex.com/t/894777) 
 - [【V2EX】2022-11-12-2022-年-11-月，到底是自己组装游戏-PC，还是买-PS5-with-6nm-AMD-Oberon-Plus-chip，还是买-Xbox-Series-X？](https://www.v2ex.com/t/894776) 
 - [【V2EX】2022-11-12-通过-PHP-或者其它语言如何快速判断字符串符合多个正则中某一条正则？](https://www.v2ex.com/t/894775) 
 - [【V2EX】2022-11-12-使用雷电-4-数据线进行-mac-迁移速度很慢](https://www.v2ex.com/t/894773) 
@@ -100,8 +106,6 @@
 - [【V2EX】2022-11-12-如何把-ESXi7.0u3-的虚拟机迁移到-6.7-呢？](https://www.v2ex.com/t/894735) 
 - [【V2EX】2022-11-12-S7-41mm-watchos-9.1-蜂窝你们跑-10-公里掉电多少？](https://www.v2ex.com/t/894734) 
 - [【V2EX】2022-11-12-有没有免企业认证的国外短信服务商推荐？](https://www.v2ex.com/t/894733) 
-- [【V2EX】2022-11-12-上海-不加班-外企-招-中级前端3-年经验起，高级安卓（5-年起），中级-devOps（3-年起）和-C++-实习](https://www.v2ex.com/t/894730) 
-- [【V2EX】2022-11-12-企业办公网使用-Windows-Server-操作系统风险大不大？](https://www.v2ex.com/t/894727) 
 - [【技术头条】2022-11-12-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-12-以综合指数观察和评价研发效能的趋势-link.zhihu.com](https://blogread.cn/news/go.php?idItem=15406&url=https%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttps%253A%2F%2Finsights.thoughtworks.cn%2Fobserving-evaluating-research-development-efficiency-trend%2F%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-12-DDD的哲学意味（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15405&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fddd-philosophy-entity-value-object%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -111,11 +115,6 @@
 - [【技术头条】2022-11-12-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-12-技术改变了什么？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15400&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fpower-of-technology%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-12-失败驱动开发-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15399&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffailure-driven-development%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [【技术头条】2022-11-12-图技术在美团外卖下的场景化应用及探索-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15398&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F09%2F08%2Fgnn-scenariomodeling-subgraphextend-jointtraining.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [【技术头条】2022-11-12-TLS指纹分析研究（上）-blog.nsfocus.net](https://blogread.cn/news/go.php?idItem=15397&url=http%3A%2F%2Fblog.nsfocus.net%2Ftls1-0%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [【技术头条】2022-11-12-Unix-历史：一个伟大作品的诞生-linux.cn](https://blogread.cn/news/go.php?idItem=15396&url=https%3A%2F%2Flinux.cn%2Farticle-15024-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [【技术头条】2022-11-12-GraphQL及元数据驱动架构在后端BFF中的实践-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15395&url=https%3A%2F%2Ftech.meituan.com%2F2021%2F05%2F06%2Fbff-graphql.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [【技术头条】2022-11-12-提升资源利用率与保障服务质量，鱼与熊掌不可兼得？-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15394&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F08%2F11%2Fload-auto-regulator.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【开发者头条】2022-11-12-优质网站同好者周刊（第-091-期）-|-倾城博客](https://toutiao.io/k/6nb4sth) 
 - [【开发者头条】2022-11-12-Go-语言项目源码解析：定时任务库-cron](https://toutiao.io/k/0ilu8ik) 
 - [【开发者头条】2022-11-12-深度学习在携程搜索词义解析中的应用](https://toutiao.io/k/nce8xtm) 

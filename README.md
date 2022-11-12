@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-12 15:15:43，:rocket: 更新条数: +2004， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-12 15:42:33，:rocket: 更新条数: +2003， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-11-12-undetected_chromedriver-模块打开谷歌浏览器无法使用代理问题](https://www.v2ex.com/t/894782) ![](assets/new.png)  
+- [2022-11-12-Nginx-如何把-HTTP-和-HTTPS-开在同一个端口？（客户提的奇葩需求）](https://www.v2ex.com/t/894781) ![](assets/new.png)  
+- [2022-11-12-trojan-爬墙-iPhone-始终比安卓快的不明现象](https://www.v2ex.com/t/894780) ![](assets/new.png)  
+- [2022-11-12-现在外面行情实际情况到底咋样？](https://www.v2ex.com/t/894779) ![](assets/new.png)  
+- [2022-11-12-新版-PC-微信的-OCR-识别效率和准确度都不错](https://www.v2ex.com/t/894778) ![](assets/new.png)  
+- [2022-11-12-C++求教：如何优雅实现运行时类型选择](https://www.v2ex.com/t/894777) ![](assets/new.png)  
 - [2022-11-12-2022-年-11-月，到底是自己组装游戏-PC，还是买-PS5-with-6nm-AMD-Oberon-Plus-chip，还是买-Xbox-Series-X？](https://www.v2ex.com/t/894776) ![](assets/new.png)  
 - [2022-11-12-通过-PHP-或者其它语言如何快速判断字符串符合多个正则中某一条正则？](https://www.v2ex.com/t/894775) ![](assets/new.png)  
 - [2022-11-12-使用雷电-4-数据线进行-mac-迁移速度很慢](https://www.v2ex.com/t/894773) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-11-12-请问各位大神为啥最近-fire-TV-stick-4K-忽然间没货且价格飙升？](https://www.v2ex.com/t/894760) ![](assets/new.png)  
 - [2022-11-12-求助！推荐个-AirPods-补单支耳机靠谱的店铺](https://www.v2ex.com/t/894759) ![](assets/new.png)  
 - [2022-11-12-FTX-的身后事？](https://www.v2ex.com/t/894758) ![](assets/new.png)  
-- [2022-11-12-能自动翻译外国电影电视剧综艺节目并自动转化声音的软件？](https://www.v2ex.com/t/894756) ![](assets/new.png)  
-- [2022-11-12-研-0，希望前辈给一些建议](https://www.v2ex.com/t/894755) ![](assets/new.png)  
-- [2022-11-12-20221112-午夜俱乐部](https://www.v2ex.com/t/894752) ![](assets/new.png)  
-- [2022-11-12-6-7-万内，纯电动有什么推荐？](https://www.v2ex.com/t/894751) ![](assets/new.png)  
-- [2022-11-12-Parallels-Desktop-太流氓。。。](https://www.v2ex.com/t/894750) ![](assets/new.png)  
-- [2022-11-12-闭包怪异问题:-为啥这个闭包函数不缓存-count-值?](https://www.v2ex.com/t/894749) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -531,11 +531,6 @@
 - [2022-11-12-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-11-12-技术改变了什么？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15400&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fpower-of-technology%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-11-12-失败驱动开发-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15399&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffailure-driven-development%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-11-12-图技术在美团外卖下的场景化应用及探索-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15398&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F09%2F08%2Fgnn-scenariomodeling-subgraphextend-jointtraining.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-11-12-TLS指纹分析研究（上）-blog.nsfocus.net](https://blogread.cn/news/go.php?idItem=15397&url=http%3A%2F%2Fblog.nsfocus.net%2Ftls1-0%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-11-12-Unix-历史：一个伟大作品的诞生-linux.cn](https://blogread.cn/news/go.php?idItem=15396&url=https%3A%2F%2Flinux.cn%2Farticle-15024-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-11-12-GraphQL及元数据驱动架构在后端BFF中的实践-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15395&url=https%3A%2F%2Ftech.meituan.com%2F2021%2F05%2F06%2Fbff-graphql.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-11-12-提升资源利用率与保障服务质量，鱼与熊掌不可兼得？-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15394&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F08%2F11%2Fload-auto-regulator.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

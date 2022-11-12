@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-12 17:14:59。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-12 17:40:36。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,8 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-12-原神和哈利波特魔法觉醒为啥要在-icloud-备份里放这么多玩意](https://www.v2ex.com/t/894790) 
+- [【V2EX】2022-11-12-win11-有遇到过电脑无法自动熄屏或睡眠的吗？](https://www.v2ex.com/t/894789) 
 - [【V2EX】2022-11-12-做一个无广告，不接受捐赠的纯公益日文歌歌词分享社区有版权风险吗？](https://www.v2ex.com/t/894787) 
 - [【V2EX】2022-11-12-求助，-iPhone-YouTube-出错，无法播放](https://www.v2ex.com/t/894786) 
 - [【V2EX】2022-11-12-如果注册邮局服务的邮箱丢失了。。。](https://www.v2ex.com/t/894785) 
@@ -104,9 +106,6 @@
 - [【V2EX】2022-11-12-现在京东入驻的第三方店铺是没人能管了吗](https://www.v2ex.com/t/894748) 
 - [【V2EX】2022-11-12-请教-Airpods-Pro-搭配低版本-iOS-会有哪些功能无法使用-或者-bug?](https://www.v2ex.com/t/894744) 
 - [【V2EX】2022-11-12-有没有人租过相机镜头](https://www.v2ex.com/t/894742) 
-- [【V2EX】2022-11-12-如何去除-MacOS-系统偏好设置右上角红色上标](https://www.v2ex.com/t/894740) 
-- [【V2EX】2022-11-12-golang-处理浮点数的疑问](https://www.v2ex.com/t/894739) 
-- [【V2EX】2022-11-12-想问问大家有啥下饭视频推荐，一个人吃饭很无聊](https://www.v2ex.com/t/894738) 
 - [【技术头条】2022-11-12-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-12-以综合指数观察和评价研发效能的趋势-link.zhihu.com](https://blogread.cn/news/go.php?idItem=15406&url=https%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttps%253A%2F%2Finsights.thoughtworks.cn%2Fobserving-evaluating-research-development-efficiency-trend%2F%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-12-DDD的哲学意味（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15405&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fddd-philosophy-entity-value-object%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

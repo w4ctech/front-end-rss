@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-12 08:18:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-12 08:45:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1917,6 +1917,10 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-11-12-希望有大佬指一指方向，大二本科生，越学越来迷茫](https://www.v2ex.com/t/894713) 
+- [2022-11-12-企业微信机器人-sdk-实现发送消息的功能-api（文本消息，图片消息，图片+文字消息）](https://www.v2ex.com/t/894711) 
+- [2022-11-12-IOS-怎么设置让用户不能使用-某些-app？一分钟都不行](https://www.v2ex.com/t/894709) 
+- [2022-11-12-使用-win11-两周，感觉微软的调整还是很正向的。](https://www.v2ex.com/t/894708) 
 - [2022-11-12-我的触摸板规则配置及说明](https://www.v2ex.com/t/894707) 
 - [2022-11-12-做了一个摄影和生活的-Newsletter](https://www.v2ex.com/t/894702) 
 - [2022-11-12-ios-app-右滑不会返回的-BUG](https://www.v2ex.com/t/894701) 
@@ -1941,10 +1945,6 @@
 - [2022-11-12-被北京联通无通知停机，浪费-2-个小时，发出来避免大家踩雷](https://www.v2ex.com/t/894669) 
 - [2022-11-12-第一款独立产品做好了，但还有很多难以抉择的东西...](https://www.v2ex.com/t/894668) 
 - [2022-11-12-出售-cosmos|evm-链解决方案](https://www.v2ex.com/t/894667) 
-- [2022-11-12-13.0-怎么设置-wifi-优先级？](https://www.v2ex.com/t/894665) 
-- [2022-11-12-请教哪家谷歌验证码打码平台速度快一些？](https://www.v2ex.com/t/894662) 
-- [2022-11-12-报丢的-kindle](https://www.v2ex.com/t/894661) 
-- [2022-11-12-有没有办法缩短两个-br-标签的间距](https://www.v2ex.com/t/894660) 
 - [2022-11-12-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-12-以综合指数观察和评价研发效能的趋势-link.zhihu.com](https://blogread.cn/news/go.php?idItem=15406&url=https%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttps%253A%2F%2Finsights.thoughtworks.cn%2Fobserving-evaluating-research-development-efficiency-trend%2F%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-12-DDD的哲学意味（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15405&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fddd-philosophy-entity-value-object%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

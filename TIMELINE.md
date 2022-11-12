@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-12 10:42:29。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-12 11:12:37。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,8 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-12-双十一-有什么软件优惠?](https://www.v2ex.com/t/894736) 
+- [【V2EX】2022-11-12-如何把-ESXi7.0u3-的虚拟机迁移到-6.7-呢？](https://www.v2ex.com/t/894735) 
 - [【V2EX】2022-11-12-S7-41mm-watchos-9.1-蜂窝你们跑-10-公里掉电多少？](https://www.v2ex.com/t/894734) 
 - [【V2EX】2022-11-12-有没有免企业认证的国外短信服务商推荐？](https://www.v2ex.com/t/894733) 
 - [【V2EX】2022-11-12-上海-不加班-外企-招-中级前端3-年经验起，高级安卓（5-年起），中级-devOps（3-年起）和-C++-实习](https://www.v2ex.com/t/894730) 
@@ -103,8 +105,6 @@
 - [【V2EX】2022-11-12-想去法罗群岛养羊，有希望吗？](https://www.v2ex.com/t/894692) 
 - [【V2EX】2022-11-12-1-号线双桥_京烟宿舍小区_次卧-1600](https://www.v2ex.com/t/894691) 
 - [【V2EX】2022-11-12-实际应用，-win11-的重置，还是-OEM-重置，不是干净重装](https://www.v2ex.com/t/894690) 
-- [【V2EX】2022-11-12-nvme-固态-QLC-的-Intel-670p-同读同写只有-110MB/s-附近-好垃圾啊](https://www.v2ex.com/t/894686) 
-- [【V2EX】2022-11-12-求助-7950x-在-x265-1080p-下的性能问题](https://www.v2ex.com/t/894685) 
 - [【技术头条】2022-11-12-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-12-以综合指数观察和评价研发效能的趋势-link.zhihu.com](https://blogread.cn/news/go.php?idItem=15406&url=https%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttps%253A%2F%2Finsights.thoughtworks.cn%2Fobserving-evaluating-research-development-efficiency-trend%2F%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-12-DDD的哲学意味（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15405&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fddd-philosophy-entity-value-object%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -129,8 +129,8 @@
 - [【开发者头条】2022-11-12-10-分钟搞定！Golang-分布式-ID-集合](https://toutiao.io/k/8nbnmk1) 
 - [【开发者头条】2022-11-12-盘点-Material-Design-3-最新设计规范](https://toutiao.io/k/a6llryg) 
 - [【开发者头条】2022-11-12-如何在-Python-中获取时间戳？](https://toutiao.io/k/6ao6m5u) 
-- [【开发者头条】2022-11-12-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) 
 - [【开发者头条】2022-11-12-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) 
+- [【开发者头条】2022-11-12-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

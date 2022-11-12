@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-12 10:42:29，:rocket: 更新条数: +2007， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-12 11:12:37，:rocket: 更新条数: +2007， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-11-12-双十一-有什么软件优惠?](https://www.v2ex.com/t/894736) ![](assets/new.png)  
+- [2022-11-12-如何把-ESXi7.0u3-的虚拟机迁移到-6.7-呢？](https://www.v2ex.com/t/894735) ![](assets/new.png)  
 - [2022-11-12-S7-41mm-watchos-9.1-蜂窝你们跑-10-公里掉电多少？](https://www.v2ex.com/t/894734) ![](assets/new.png)  
 - [2022-11-12-有没有免企业认证的国外短信服务商推荐？](https://www.v2ex.com/t/894733) ![](assets/new.png)  
 - [2022-11-12-上海-不加班-外企-招-中级前端3-年经验起，高级安卓（5-年起），中级-devOps（3-年起）和-C++-实习](https://www.v2ex.com/t/894730) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-11-12-为什么打不开-Cloudflare-worker.dev](https://www.v2ex.com/t/894710) ![](assets/new.png)  
 - [2022-11-12-IOS-怎么设置让用户不能使用-某些-app？一分钟都不行](https://www.v2ex.com/t/894709) ![](assets/new.png)  
 - [2022-11-12-使用-win11-两周，感觉微软的调整还是很正向的。](https://www.v2ex.com/t/894708) ![](assets/new.png)  
-- [2022-11-12-我的触摸板规则配置及说明](https://www.v2ex.com/t/894707) ![](assets/new.png)  
-- [2022-11-12-github-新推出了-codespaces-大家觉得怎么样？](https://www.v2ex.com/t/894706) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -557,8 +557,8 @@
 - [2022-11-12-10-分钟搞定！Golang-分布式-ID-集合](https://toutiao.io/k/8nbnmk1) ![](assets/new.png)  
 - [2022-11-12-盘点-Material-Design-3-最新设计规范](https://toutiao.io/k/a6llryg) ![](assets/new.png)  
 - [2022-11-12-如何在-Python-中获取时间戳？](https://toutiao.io/k/6ao6m5u) ![](assets/new.png)  
-- [2022-11-12-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) ![](assets/new.png)  
 - [2022-11-12-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) ![](assets/new.png)  
+- [2022-11-12-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

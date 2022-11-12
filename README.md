@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-12 06:18:08，:rocket: 更新条数: +2003， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-12 06:47:21，:rocket: 更新条数: +2005， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-11-12-想去法罗群岛养羊，有希望吗？](https://www.v2ex.com/t/894692) ![](assets/new.png)  
+- [2022-11-12-1-号线双桥_京烟宿舍小区_次卧-1600](https://www.v2ex.com/t/894691) ![](assets/new.png)  
+- [2022-11-12-实际应用，-win11-的重置，还是-OEM-重置，不是干净重装](https://www.v2ex.com/t/894690) ![](assets/new.png)  
 - [2022-11-12-nvme-固态-QLC-的-Intel-670p-同读同写只有-110MB/s-附近-好垃圾啊](https://www.v2ex.com/t/894686) ![](assets/new.png)  
 - [2022-11-12-求助-7950x-在-x265-1080p-下的性能问题](https://www.v2ex.com/t/894685) ![](assets/new.png)  
 - [2022-11-12-皇家骑士团-2-重制再重制版今天发售](https://www.v2ex.com/t/894684) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-11-12-出售-cosmos|evm-链解决方案](https://www.v2ex.com/t/894667) ![](assets/new.png)  
 - [2022-11-12-13.0-怎么设置-wifi-优先级？](https://www.v2ex.com/t/894665) ![](assets/new.png)  
 - [2022-11-12-XPusher，一个接口把富文本内容推送到-微信、邮箱或任意-webhook](https://www.v2ex.com/t/894664) ![](assets/new.png)  
-- [2022-11-12-请教哪家谷歌验证码打码平台速度快一些？](https://www.v2ex.com/t/894662) ![](assets/new.png)  
-- [2022-11-12-报丢的-kindle](https://www.v2ex.com/t/894661) ![](assets/new.png)  
-- [2022-11-12-有没有办法缩短两个-br-标签的间距](https://www.v2ex.com/t/894660) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-12 14:12:57，:rocket: 更新条数: +2004， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-12 14:39:05，:rocket: 更新条数: +2003， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-11-12-经历：在-mobilesms.io-接码平台被骗](https://www.v2ex.com/t/894767) ![](assets/new.png)  
+- [2022-11-12-是不是一直到现在-iOS-和-iPadOS-依然不支持外接蓝牙键盘时使用第三方输入法](https://www.v2ex.com/t/894766) ![](assets/new.png)  
+- [2022-11-12-GridMove：-Fancyzones-的轻量平替；-Windows-下手动窗口管理](https://www.v2ex.com/t/894765) ![](assets/new.png)  
+- [2022-11-12-如何在现代文明中做到传统文化自信？](https://www.v2ex.com/t/894764) ![](assets/new.png)  
 - [2022-11-12-请问各位大神为啥最近-fire-TV-stick-4K-忽然间没货且价格飙升？](https://www.v2ex.com/t/894760) ![](assets/new.png)  
 - [2022-11-12-求助！推荐个-AirPods-补单支耳机靠谱的店铺](https://www.v2ex.com/t/894759) ![](assets/new.png)  
 - [2022-11-12-FTX-的身后事？](https://www.v2ex.com/t/894758) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-11-12-golang-处理浮点数的疑问](https://www.v2ex.com/t/894739) ![](assets/new.png)  
 - [2022-11-12-想问问大家有啥下饭视频推荐，一个人吃饭很无聊](https://www.v2ex.com/t/894738) ![](assets/new.png)  
 - [2022-11-12-双十一-有什么软件优惠?](https://www.v2ex.com/t/894736) ![](assets/new.png)  
-- [2022-11-12-如何把-ESXi7.0u3-的虚拟机迁移到-6.7-呢？](https://www.v2ex.com/t/894735) ![](assets/new.png)  
-- [2022-11-12-S7-41mm-watchos-9.1-蜂窝你们跑-10-公里掉电多少？](https://www.v2ex.com/t/894734) ![](assets/new.png)  
-- [2022-11-12-有没有免企业认证的国外短信服务商推荐？](https://www.v2ex.com/t/894733) ![](assets/new.png)  
-- [2022-11-12-上海-不加班-外企-招-中级前端3-年经验起，高级安卓（5-年起），中级-devOps（3-年起）和-C++-实习](https://www.v2ex.com/t/894730) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-12 09:40:14。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-12 10:14:53。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,10 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-12-上海-不加班-外企-招-中级前端3-年经验起，高级安卓（5-年起），中级-devOps（3-年起）和-C++-实习](https://www.v2ex.com/t/894730) 
+- [【V2EX】2022-11-12-企业办公网使用-Windows-Server-操作系统风险大不大？](https://www.v2ex.com/t/894727) 
+- [【V2EX】2022-11-12-西部某-211-研-深处迷茫焦虑-求职业规划建议](https://www.v2ex.com/t/894726) 
+- [【V2EX】2022-11-12-IOS-上的浏览器除了夸克，其他都没法用啊](https://www.v2ex.com/t/894725) 
 - [【V2EX】2022-11-12-M2-的-MAC，微信读书有没有办法更改字体？](https://www.v2ex.com/t/894724) 
 - [【V2EX】2022-11-12-关于-App-Store-app-兑换码的问题](https://www.v2ex.com/t/894723) 
 - [【V2EX】2022-11-12-用-Python-通过-api-用-post-上传文件怎么分块？](https://www.v2ex.com/t/894722) 
@@ -102,9 +106,6 @@
 - [【V2EX】2022-11-12-皇家骑士团-2-重制再重制版今天发售](https://www.v2ex.com/t/894684) 
 - [【V2EX】2022-11-12-可以利用银行的低息贷款腾挪多套房贷的高利率](https://www.v2ex.com/t/894683) 
 - [【V2EX】2022-11-12-CF-跑满宽带；-Cloudflare-优选-IP-台湾；大陆-Ping-延迟-45ms；下载-70MB/S。](https://www.v2ex.com/t/894682) 
-- [【V2EX】2022-11-12-对于笔记型应用，大家更喜欢是本地客户端类型的（保存本地文件，自行同步），还是-web-应用类型的（自部署或公共服务，自带同步）？更喜欢是-markdown-还是富文...](https://www.v2ex.com/t/894680) 
-- [【V2EX】2022-11-12-Downie-4-出一个激活码，-18-元](https://www.v2ex.com/t/894677) 
-- [【V2EX】2022-11-12-有没有能修改医院支付宝小程序-saas-版本的，有偿找个人帮修改下](https://www.v2ex.com/t/894676) 
 - [【技术头条】2022-11-12-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-12-以综合指数观察和评价研发效能的趋势-link.zhihu.com](https://blogread.cn/news/go.php?idItem=15406&url=https%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttps%253A%2F%2Finsights.thoughtworks.cn%2Fobserving-evaluating-research-development-efficiency-trend%2F%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-12-DDD的哲学意味（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15405&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fddd-philosophy-entity-value-object%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -124,8 +125,8 @@
 - [【开发者头条】2022-11-12-Go-语言项目源码解析：定时任务库-cron](https://toutiao.io/k/0ilu8ik) 
 - [【开发者头条】2022-11-12-React-性能优化的那些事儿](https://toutiao.io/k/n5sbfdg) 
 - [【开发者头条】2022-11-12-美团图灵机器学习平台性能起飞的秘密（一）](https://toutiao.io/k/akfvkbe) 
-- [【开发者头条】2022-11-12-转行数据分析？你可能需要这块敲门砖！](https://toutiao.io/k/zk74lch) 
 - [【开发者头条】2022-11-12-干货｜-火山引擎在行为分析场景下的ClickHouse-JOIN优化](https://toutiao.io/k/1haelxz) 
+- [【开发者头条】2022-11-12-转行数据分析？你可能需要这块敲门砖！](https://toutiao.io/k/zk74lch) 
 - [【开发者头条】2022-11-12-10-分钟搞定！Golang-分布式-ID-集合](https://toutiao.io/k/8nbnmk1) 
 - [【开发者头条】2022-11-12-盘点-Material-Design-3-最新设计规范](https://toutiao.io/k/a6llryg) 
 - [【开发者头条】2022-11-12-如何在-Python-中获取时间戳？](https://toutiao.io/k/6ao6m5u) 

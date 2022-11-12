@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-11-12 09:40:14。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-12 10:14:53。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -122,7 +122,6 @@
 
 
 
-- [【V2EX】有没有能修改医院支付宝小程序-saas-版本的，有偿找个人帮修改下](https://www.v2ex.com/t/894676)
 - [......【查看更多】......](./details/tags/miniprogram.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -275,9 +274,9 @@
 - [【武汉肺炎防疫全纪录(财新网)】腺病毒新冠疫苗引安全忧虑-康希诺称未发现血栓病例](https://m.caixin.com/m/2021-04-14/101691086.html)
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
+- [【V2EX】IOS-上的浏览器除了夸克，其他都没法用啊](https://www.v2ex.com/t/894725)
 - [【V2EX】用-Python-通过-api-用-post-上传文件怎么分块？](https://www.v2ex.com/t/894722)
 - [【V2EX】WebApp-的静态-index.html-是不是也不应该设置-CDN-缓存？](https://www.v2ex.com/t/894718)
-- [【V2EX】Downie-4-出一个激活码，-18-元](https://www.v2ex.com/t/894677)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

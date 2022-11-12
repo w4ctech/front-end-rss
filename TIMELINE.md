@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-12 09:15:13。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-12 09:40:14。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,8 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-12-M2-的-MAC，微信读书有没有办法更改字体？](https://www.v2ex.com/t/894724) 
+- [【V2EX】2022-11-12-关于-App-Store-app-兑换码的问题](https://www.v2ex.com/t/894723) 
 - [【V2EX】2022-11-12-用-Python-通过-api-用-post-上传文件怎么分块？](https://www.v2ex.com/t/894722) 
 - [【V2EX】2022-11-12-WebApp-的静态-index.html-是不是也不应该设置-CDN-缓存？](https://www.v2ex.com/t/894718) 
 - [【V2EX】2022-11-12-想跑赢银行定期,现在该买股票型/债券型/货币型基金?](https://www.v2ex.com/t/894717) 
@@ -103,8 +105,6 @@
 - [【V2EX】2022-11-12-对于笔记型应用，大家更喜欢是本地客户端类型的（保存本地文件，自行同步），还是-web-应用类型的（自部署或公共服务，自带同步）？更喜欢是-markdown-还是富文...](https://www.v2ex.com/t/894680) 
 - [【V2EX】2022-11-12-Downie-4-出一个激活码，-18-元](https://www.v2ex.com/t/894677) 
 - [【V2EX】2022-11-12-有没有能修改医院支付宝小程序-saas-版本的，有偿找个人帮修改下](https://www.v2ex.com/t/894676) 
-- [【V2EX】2022-11-12-14-寸低配-M1-Pro-玩游戏如-GTA5-是否会极大影响电脑寿命？](https://www.v2ex.com/t/894674) 
-- [【V2EX】2022-11-12-Python-里不使用-def-而是简单粘贴对程序有影响吗](https://www.v2ex.com/t/894673) 
 - [【技术头条】2022-11-12-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-12-以综合指数观察和评价研发效能的趋势-link.zhihu.com](https://blogread.cn/news/go.php?idItem=15406&url=https%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttps%253A%2F%2Finsights.thoughtworks.cn%2Fobserving-evaluating-research-development-efficiency-trend%2F%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-12-DDD的哲学意味（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15405&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fddd-philosophy-entity-value-object%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -119,19 +119,18 @@
 - [【技术头条】2022-11-12-Unix-历史：一个伟大作品的诞生-linux.cn](https://blogread.cn/news/go.php?idItem=15396&url=https%3A%2F%2Flinux.cn%2Farticle-15024-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-12-GraphQL及元数据驱动架构在后端BFF中的实践-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15395&url=https%3A%2F%2Ftech.meituan.com%2F2021%2F05%2F06%2Fbff-graphql.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-12-提升资源利用率与保障服务质量，鱼与熊掌不可兼得？-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15394&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F08%2F11%2Fload-auto-regulator.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [【技术头条】2022-11-12-探索原味BFF模式-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15393&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fbff-history%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【开发者头条】2022-11-12-优质网站同好者周刊（第-091-期）-|-倾城博客](https://toutiao.io/k/6nb4sth) 
 - [【开发者头条】2022-11-12-深度学习在携程搜索词义解析中的应用](https://toutiao.io/k/nce8xtm) 
+- [【开发者头条】2022-11-12-Go-语言项目源码解析：定时任务库-cron](https://toutiao.io/k/0ilu8ik) 
 - [【开发者头条】2022-11-12-React-性能优化的那些事儿](https://toutiao.io/k/n5sbfdg) 
 - [【开发者头条】2022-11-12-美团图灵机器学习平台性能起飞的秘密（一）](https://toutiao.io/k/akfvkbe) 
-- [【开发者头条】2022-11-12-Go-语言项目源码解析：定时任务库-cron](https://toutiao.io/k/0ilu8ik) 
 - [【开发者头条】2022-11-12-转行数据分析？你可能需要这块敲门砖！](https://toutiao.io/k/zk74lch) 
 - [【开发者头条】2022-11-12-干货｜-火山引擎在行为分析场景下的ClickHouse-JOIN优化](https://toutiao.io/k/1haelxz) 
 - [【开发者头条】2022-11-12-10-分钟搞定！Golang-分布式-ID-集合](https://toutiao.io/k/8nbnmk1) 
 - [【开发者头条】2022-11-12-盘点-Material-Design-3-最新设计规范](https://toutiao.io/k/a6llryg) 
 - [【开发者头条】2022-11-12-如何在-Python-中获取时间戳？](https://toutiao.io/k/6ao6m5u) 
-- [【开发者头条】2022-11-12-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) 
 - [【开发者头条】2022-11-12-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) 
+- [【开发者头条】2022-11-12-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-12 09:15:13，:rocket: 更新条数: +2008， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-12 09:40:13，:rocket: 更新条数: +2007， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-11-12-M2-的-MAC，微信读书有没有办法更改字体？](https://www.v2ex.com/t/894724) ![](assets/new.png)  
+- [2022-11-12-关于-App-Store-app-兑换码的问题](https://www.v2ex.com/t/894723) ![](assets/new.png)  
 - [2022-11-12-用-Python-通过-api-用-post-上传文件怎么分块？](https://www.v2ex.com/t/894722) ![](assets/new.png)  
 - [2022-11-12-WebApp-的静态-index.html-是不是也不应该设置-CDN-缓存？](https://www.v2ex.com/t/894718) ![](assets/new.png)  
 - [2022-11-12-想跑赢银行定期,现在该买股票型/债券型/货币型基金?](https://www.v2ex.com/t/894717) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-11-12-询问一下-clash-relay-代理模式是否为层层加密](https://www.v2ex.com/t/894700) ![](assets/new.png)  
 - [2022-11-12-如何在中国登录环境下保持-tiktok-长期稳定在线?](https://www.v2ex.com/t/894699) ![](assets/new.png)  
 - [2022-11-12-如何让自己对某件事情有源源不断的动力？](https://www.v2ex.com/t/894698) ![](assets/new.png)  
-- [2022-11-12-IPv6-时代，如何穿透防火墙进行-p2p-通讯？](https://www.v2ex.com/t/894697) ![](assets/new.png)  
-- [2022-11-12-gcore-新注册用户送-200-欧元，可开-cloud-服务器-CDN-streamming-等](https://www.v2ex.com/t/894696) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -536,7 +536,6 @@
 - [2022-11-12-Unix-历史：一个伟大作品的诞生-linux.cn](https://blogread.cn/news/go.php?idItem=15396&url=https%3A%2F%2Flinux.cn%2Farticle-15024-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-11-12-GraphQL及元数据驱动架构在后端BFF中的实践-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15395&url=https%3A%2F%2Ftech.meituan.com%2F2021%2F05%2F06%2Fbff-graphql.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-11-12-提升资源利用率与保障服务质量，鱼与熊掌不可兼得？-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15394&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F08%2F11%2Fload-auto-regulator.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-11-12-探索原味BFF模式-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15393&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fbff-history%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -550,16 +549,16 @@
 
 - [2022-11-12-优质网站同好者周刊（第-091-期）-|-倾城博客](https://toutiao.io/k/6nb4sth) ![](assets/new.png)  
 - [2022-11-12-深度学习在携程搜索词义解析中的应用](https://toutiao.io/k/nce8xtm) ![](assets/new.png)  
+- [2022-11-12-Go-语言项目源码解析：定时任务库-cron](https://toutiao.io/k/0ilu8ik) ![](assets/new.png)  
 - [2022-11-12-React-性能优化的那些事儿](https://toutiao.io/k/n5sbfdg) ![](assets/new.png)  
 - [2022-11-12-美团图灵机器学习平台性能起飞的秘密（一）](https://toutiao.io/k/akfvkbe) ![](assets/new.png)  
-- [2022-11-12-Go-语言项目源码解析：定时任务库-cron](https://toutiao.io/k/0ilu8ik) ![](assets/new.png)  
 - [2022-11-12-转行数据分析？你可能需要这块敲门砖！](https://toutiao.io/k/zk74lch) ![](assets/new.png)  
 - [2022-11-12-干货｜-火山引擎在行为分析场景下的ClickHouse-JOIN优化](https://toutiao.io/k/1haelxz) ![](assets/new.png)  
 - [2022-11-12-10-分钟搞定！Golang-分布式-ID-集合](https://toutiao.io/k/8nbnmk1) ![](assets/new.png)  
 - [2022-11-12-盘点-Material-Design-3-最新设计规范](https://toutiao.io/k/a6llryg) ![](assets/new.png)  
 - [2022-11-12-如何在-Python-中获取时间戳？](https://toutiao.io/k/6ao6m5u) ![](assets/new.png)  
-- [2022-11-12-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) ![](assets/new.png)  
 - [2022-11-12-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) ![](assets/new.png)  
+- [2022-11-12-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

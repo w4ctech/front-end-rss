@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-13 07:39:12。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-13 08:18:12。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,11 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-13-有什么游戏-modding-向中文社区推荐么？](https://www.v2ex.com/t/894881) 
+- [【V2EX】2022-11-13-Linux-软件安装位置](https://www.v2ex.com/t/894880) 
+- [【V2EX】2022-11-13-macOS-下如何快速方便的转移一个-SSD-的所有数据到另一个-SSD?](https://www.v2ex.com/t/894879) 
+- [【V2EX】2022-11-13-用国外-VPS-代理下载国内访问速度慢的资源，最佳实践方案有么？](https://www.v2ex.com/t/894878) 
+- [【V2EX】2022-11-13-国内有哪些便宜-vps-或云分配有免费可用的-ipv6](https://www.v2ex.com/t/894877) 
 - [【V2EX】2022-11-13-有会议软件可以替代腾讯会议吗](https://www.v2ex.com/t/894876) 
 - [【V2EX】2022-11-13-我已经有-A-公司的-offer，现在跟-B-公司谈薪资，我可以透露-A-公司开的薪水吗？](https://www.v2ex.com/t/894875) 
 - [【V2EX】2022-11-13-求助-Netflix-和软路由相关](https://www.v2ex.com/t/894873) 
@@ -103,9 +108,6 @@
 - [【V2EX】2022-11-13-爱快-iKuai-双线如何开启-IPv6](https://www.v2ex.com/t/894834) 
 - [【V2EX】2022-11-13-刷-LeetCode-有什么策略吗？](https://www.v2ex.com/t/894833) 
 - [【V2EX】2022-11-13-edge-不能正常访问一些网站提示-当前无法使用此页面](https://www.v2ex.com/t/894832) 
-- [【V2EX】2022-11-13-IDEA-有一个调试插件忘记叫什么名字了](https://www.v2ex.com/t/894831) 
-- [【V2EX】2022-11-13-今日寻求苹果客户服务的感受：三个客服，两种感受](https://www.v2ex.com/t/894829) 
-- [【V2EX】2022-11-13-2022-卡塔尔世界杯-比赛日历订阅](https://www.v2ex.com/t/894827) 
 - [【技术头条】2022-11-13-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-13-以综合指数观察和评价研发效能的趋势-link.zhihu.com](https://blogread.cn/news/go.php?idItem=15406&url=https%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttps%253A%2F%2Finsights.thoughtworks.cn%2Fobserving-evaluating-research-development-efficiency-trend%2F%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-13-DDD的哲学意味（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15405&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fddd-philosophy-entity-value-object%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -118,8 +120,8 @@
 - [【开发者头条】2022-11-13-网关系统就该这么设计（万能通用），稳的一批](https://toutiao.io/k/f4lr8a4) 
 - [【开发者头条】2022-11-13-还不会日志异常检测？看完这篇文章就够了](https://toutiao.io/k/ee2apjn) 
 - [【开发者头条】2022-11-13-记一次跨域配置引发的思考](https://toutiao.io/k/91gckgl) 
-- [【开发者头条】2022-11-13-「云原生时代的-Java-虚拟机」针对于-GraalVM-的技术知识脉络的重塑和探究](https://toutiao.io/k/asjh7gh) 
 - [【开发者头条】2022-11-13-聊一聊责任链模式](https://toutiao.io/k/zqs36e9) 
+- [【开发者头条】2022-11-13-「云原生时代的-Java-虚拟机」针对于-GraalVM-的技术知识脉络的重塑和探究](https://toutiao.io/k/asjh7gh) 
 - [【开发者头条】2022-11-13-概念详解：数据仓库、数据湖、湖仓一体，究竟有什么区别](https://toutiao.io/k/qjpgmq0) 
 - [【开发者头条】2022-11-13-小米创业思考-读后感](https://toutiao.io/k/lnkg9bi) 
 - [【开发者头条】2022-11-13-GitLink-如何使用-OpenSumi-突破代码托管平台-3-大体验瓶颈？](https://toutiao.io/k/ytxvzma) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-13 07:39:12，:rocket: 更新条数: +2003， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-13 08:18:12，:rocket: 更新条数: +2005， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-11-13-有什么游戏-modding-向中文社区推荐么？](https://www.v2ex.com/t/894881) ![](assets/new.png)  
+- [2022-11-13-Linux-软件安装位置](https://www.v2ex.com/t/894880) ![](assets/new.png)  
+- [2022-11-13-macOS-下如何快速方便的转移一个-SSD-的所有数据到另一个-SSD?](https://www.v2ex.com/t/894879) ![](assets/new.png)  
+- [2022-11-13-用国外-VPS-代理下载国内访问速度慢的资源，最佳实践方案有么？](https://www.v2ex.com/t/894878) ![](assets/new.png)  
+- [2022-11-13-国内有哪些便宜-vps-或云分配有免费可用的-ipv6](https://www.v2ex.com/t/894877) ![](assets/new.png)  
 - [2022-11-13-有会议软件可以替代腾讯会议吗](https://www.v2ex.com/t/894876) ![](assets/new.png)  
 - [2022-11-13-我已经有-A-公司的-offer，现在跟-B-公司谈薪资，我可以透露-A-公司开的薪水吗？](https://www.v2ex.com/t/894875) ![](assets/new.png)  
 - [2022-11-13-求助-Netflix-和软路由相关](https://www.v2ex.com/t/894873) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-11-13-企业家好累，天天拼刺刀](https://www.v2ex.com/t/894860) ![](assets/new.png)  
 - [2022-11-13-光猫通过-DHCPv6-PD-派发的地址为何与-PD-前缀不同呢](https://www.v2ex.com/t/894859) ![](assets/new.png)  
 - [2022-11-13-关于-XBOXS-上的-BesTV-无法正常打开的问题](https://www.v2ex.com/t/894857) ![](assets/new.png)  
-- [2022-11-13-XGPU-快到期了，不知道黑周五有没有活动](https://www.v2ex.com/t/894856) ![](assets/new.png)  
-- [2022-11-13-safari-里直接复制图片中的文字，但是不支持日文？](https://www.v2ex.com/t/894855) ![](assets/new.png)  
-- [2022-11-13-Gotech-Inc-直聘-「海外」SEO/-PHP-/前端/运维/测试等技术岗位「-20-k--80-k-RMB」](https://www.v2ex.com/t/894854) ![](assets/new.png)  
-- [2022-11-13-是否有今年阿里云-ECS-续费的最佳实践](https://www.v2ex.com/t/894853) ![](assets/new.png)  
-- [2022-11-13-我又来了，-android-第三方相册，-时隔-3-月，-再次来到-v2ex.](https://www.v2ex.com/t/894851) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -545,8 +545,8 @@
 - [2022-11-13-网关系统就该这么设计（万能通用），稳的一批](https://toutiao.io/k/f4lr8a4) ![](assets/new.png)  
 - [2022-11-13-还不会日志异常检测？看完这篇文章就够了](https://toutiao.io/k/ee2apjn) ![](assets/new.png)  
 - [2022-11-13-记一次跨域配置引发的思考](https://toutiao.io/k/91gckgl) ![](assets/new.png)  
-- [2022-11-13-「云原生时代的-Java-虚拟机」针对于-GraalVM-的技术知识脉络的重塑和探究](https://toutiao.io/k/asjh7gh) ![](assets/new.png)  
 - [2022-11-13-聊一聊责任链模式](https://toutiao.io/k/zqs36e9) ![](assets/new.png)  
+- [2022-11-13-「云原生时代的-Java-虚拟机」针对于-GraalVM-的技术知识脉络的重塑和探究](https://toutiao.io/k/asjh7gh) ![](assets/new.png)  
 - [2022-11-13-概念详解：数据仓库、数据湖、湖仓一体，究竟有什么区别](https://toutiao.io/k/qjpgmq0) ![](assets/new.png)  
 - [2022-11-13-小米创业思考-读后感](https://toutiao.io/k/lnkg9bi) ![](assets/new.png)  
 - [2022-11-13-GitLink-如何使用-OpenSumi-突破代码托管平台-3-大体验瓶颈？](https://toutiao.io/k/ytxvzma) ![](assets/new.png)  

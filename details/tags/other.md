@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-13 07:39:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-13 08:18:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1917,6 +1917,10 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-11-13-Linux-软件安装位置](https://www.v2ex.com/t/894880) 
+- [2022-11-13-macOS-下如何快速方便的转移一个-SSD-的所有数据到另一个-SSD?](https://www.v2ex.com/t/894879) 
+- [2022-11-13-用国外-VPS-代理下载国内访问速度慢的资源，最佳实践方案有么？](https://www.v2ex.com/t/894878) 
+- [2022-11-13-国内有哪些便宜-vps-或云分配有免费可用的-ipv6](https://www.v2ex.com/t/894877) 
 - [2022-11-13-有会议软件可以替代腾讯会议吗](https://www.v2ex.com/t/894876) 
 - [2022-11-13-我已经有-A-公司的-offer，现在跟-B-公司谈薪资，我可以透露-A-公司开的薪水吗？](https://www.v2ex.com/t/894875) 
 - [2022-11-13-安卓锁屏漏洞鸿蒙受影响吗？](https://www.v2ex.com/t/894872) 
@@ -1941,8 +1945,6 @@
 - [2022-11-13-不要再说专业无用，想考证的时候才发现大学专业真的很重要](https://www.v2ex.com/t/894836) 
 - [2022-11-13-爱快-iKuai-双线如何开启-IPv6](https://www.v2ex.com/t/894834) 
 - [2022-11-13-刷-LeetCode-有什么策略吗？](https://www.v2ex.com/t/894833) 
-- [2022-11-13-今日寻求苹果客户服务的感受：三个客服，两种感受](https://www.v2ex.com/t/894829) 
-- [2022-11-13-2022-卡塔尔世界杯-比赛日历订阅](https://www.v2ex.com/t/894827) 
 - [2022-11-13-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-13-以综合指数观察和评价研发效能的趋势-link.zhihu.com](https://blogread.cn/news/go.php?idItem=15406&url=https%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttps%253A%2F%2Finsights.thoughtworks.cn%2Fobserving-evaluating-research-development-efficiency-trend%2F%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-13-DDD的哲学意味（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15405&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fddd-philosophy-entity-value-object%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1953,8 +1955,8 @@
 - [2022-11-13-失败驱动开发-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15399&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffailure-driven-development%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-13-网关系统就该这么设计（万能通用），稳的一批](https://toutiao.io/k/f4lr8a4) 
 - [2022-11-13-还不会日志异常检测？看完这篇文章就够了](https://toutiao.io/k/ee2apjn) 
-- [2022-11-13-「云原生时代的-Java-虚拟机」针对于-GraalVM-的技术知识脉络的重塑和探究](https://toutiao.io/k/asjh7gh) 
 - [2022-11-13-聊一聊责任链模式](https://toutiao.io/k/zqs36e9) 
+- [2022-11-13-「云原生时代的-Java-虚拟机」针对于-GraalVM-的技术知识脉络的重塑和探究](https://toutiao.io/k/asjh7gh) 
 - [2022-11-13-概念详解：数据仓库、数据湖、湖仓一体，究竟有什么区别](https://toutiao.io/k/qjpgmq0) 
 - [2022-11-13-小米创业思考-读后感](https://toutiao.io/k/lnkg9bi) 
 - [2022-11-13-PANAMA:-共享机器学习集群的网内聚合框架](https://toutiao.io/k/mkj6rth) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-13 12:25:43，:rocket: 更新条数: +2007， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-13 13:05:02，:rocket: 更新条数: +2004， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,19 @@
 </summary>
 
 
+- [2022-11-13-一键给-youtube/twitter/quora-等加上-Google-翻译按钮](https://www.v2ex.com/t/894945) ![](assets/new.png)  
+- [2022-11-13-vue3-<template>里用-v-for-遍历数组对象，要用两次-v-for-循环后才能输出对象。现在只想要输出对象里的属性的值应该怎么弄？可以帮忙纠正错误吗？](https://www.v2ex.com/t/894943) ![](assets/new.png)  
+- [2022-11-13-M1-MBP-用-Microsoft-Teams-对方看不到画面](https://www.v2ex.com/t/894942) ![](assets/new.png)  
+- [2022-11-13-一般-context-声明放在哪里合适](https://www.v2ex.com/t/894941) ![](assets/new.png)  
+- [2022-11-13-手机上有一张图（通常来自于微信），如何最快速简便的打上“谣言”的印章](https://www.v2ex.com/t/894940) ![](assets/new.png)  
+- [2022-11-13-越来越感觉赚不到钱了](https://www.v2ex.com/t/894939) ![](assets/new.png)  
+- [2022-11-13-给女朋友开张银行卡然后给她几千类似零花钱这样子普遍吗](https://www.v2ex.com/t/894937) ![](assets/new.png)  
+- [2022-11-13-github-显创建时间/fork-数/体积脚本](https://www.v2ex.com/t/894935) ![](assets/new.png)  
+- [2022-11-13-群晖资源监控-硬盘-位置的-写入/s代表的是什么数值？](https://www.v2ex.com/t/894934) ![](assets/new.png)  
+- [2022-11-13-iOS-开发者账号买了，苹果会提供服务器来给开发者存储数据吗？](https://www.v2ex.com/t/894932) ![](assets/new.png)  
+- [2022-11-13-如何评价广东潮州特斯拉案](https://www.v2ex.com/t/894931) ![](assets/new.png)  
+- [2022-11-13-docker-如何更便捷的更新容器](https://www.v2ex.com/t/894929) ![](assets/new.png)  
+- [2022-11-13-hugo-如何在-rss-输出中索引子目录下的内容](https://www.v2ex.com/t/894928) ![](assets/new.png)  
 - [2022-11-13-广东潮州一辆特斯拉失控造成-2-死-3-伤](https://www.v2ex.com/t/894927) ![](assets/new.png)  
 - [2022-11-13-Air780E+ESP32C3-短信转发](https://www.v2ex.com/t/894925) ![](assets/new.png)  
 - [2022-11-13-deeper-connect-mini-打折的最后一个晚上](https://www.v2ex.com/t/894924) ![](assets/new.png)  
@@ -498,19 +511,6 @@
 - [2022-11-13-双十一买了赫曼米勒-Aeron](https://www.v2ex.com/t/894921) ![](assets/new.png)  
 - [2022-11-13-有没有不喜欢-iOS16-通知系统的？](https://www.v2ex.com/t/894920) ![](assets/new.png)  
 - [2022-11-13-多邮箱用户求-Spark-替代品](https://www.v2ex.com/t/894916) ![](assets/new.png)  
-- [2022-11-13-苹果软件质量直逼微软，咖喱含量急剧升高](https://www.v2ex.com/t/894915) ![](assets/new.png)  
-- [2022-11-13-佛系背单词-App-第三弹之专注模式](https://www.v2ex.com/t/894913) ![](assets/new.png)  
-- [2022-11-13-升级-Ventura-后的几个问题各位有遇到的吗？](https://www.v2ex.com/t/894912) ![](assets/new.png)  
-- [2022-11-13-腾讯云吃相？](https://www.v2ex.com/t/894911) ![](assets/new.png)  
-- [2022-11-13-家装已经穿了七类屏蔽线，有什么补救办法？](https://www.v2ex.com/t/894910) ![](assets/new.png)  
-- [2022-11-13-iframe-标签怎么携带-token-啊？](https://www.v2ex.com/t/894909) ![](assets/new.png)  
-- [2022-11-13-如果你在火币有资产，建议提币](https://www.v2ex.com/t/894908) ![](assets/new.png)  
-- [2022-11-13-iOS-Safari---Vue3---播放音效](https://www.v2ex.com/t/894906) ![](assets/new.png)  
-- [2022-11-13-关于核酸收费问题](https://www.v2ex.com/t/894905) ![](assets/new.png)  
-- [2022-11-13-如何让-Android-应用只读某个目录?](https://www.v2ex.com/t/894904) ![](assets/new.png)  
-- [2022-11-13-国外的家庭宽带部署学科上网服务给国内亲友使用，会有什么后果？](https://www.v2ex.com/t/894903) ![](assets/new.png)  
-- [2022-11-13-如何在下拉框中根据-visible-text-快速选择一个想要的值](https://www.v2ex.com/t/894902) ![](assets/new.png)  
-- [2022-11-13-听说杭州房租堪比北京，想了解下各位在杭州的程序员一个月房租多少啊](https://www.v2ex.com/t/894900) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -549,11 +549,11 @@
 - [2022-11-13-「云原生时代的-Java-虚拟机」针对于-GraalVM-的技术知识脉络的重塑和探究](https://toutiao.io/k/asjh7gh) ![](assets/new.png)  
 - [2022-11-13-概念详解：数据仓库、数据湖、湖仓一体，究竟有什么区别](https://toutiao.io/k/qjpgmq0) ![](assets/new.png)  
 - [2022-11-13-小米创业思考-读后感](https://toutiao.io/k/lnkg9bi) ![](assets/new.png)  
-- [2022-11-13-Node.js-中的关注点分离](https://toutiao.io/k/icep1z6) ![](assets/new.png)  
 - [2022-11-13-GitLink-如何使用-OpenSumi-突破代码托管平台-3-大体验瓶颈？](https://toutiao.io/k/ytxvzma) ![](assets/new.png)  
+- [2022-11-13-Node.js-中的关注点分离](https://toutiao.io/k/icep1z6) ![](assets/new.png)  
 - [2022-11-13-PANAMA:-共享机器学习集群的网内聚合框架](https://toutiao.io/k/mkj6rth) ![](assets/new.png)  
-- [2022-11-13-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) ![](assets/new.png)  
 - [2022-11-13-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) ![](assets/new.png)  
+- [2022-11-13-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

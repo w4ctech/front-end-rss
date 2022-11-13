@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-13 13:05:02，:rocket: 更新条数: +2004， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-13 13:47:30，:rocket: 更新条数: +2004， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-11-13-插个题外话：关于车损赔偿](https://www.v2ex.com/t/894951) ![](assets/new.png)  
+- [2022-11-13-求一个-Dropbox-的最佳实践](https://www.v2ex.com/t/894950) ![](assets/new.png)  
+- [2022-11-13-一个有关服务器双路-或者-NUMA-的简单问题](https://www.v2ex.com/t/894948) ![](assets/new.png)  
+- [2022-11-13-FFmpeg-使用-qsv-加速失败](https://www.v2ex.com/t/894947) ![](assets/new.png)  
+- [2022-11-13-准备换-Windows-了，我也来出-Surge-Mac-3-序列号](https://www.v2ex.com/t/894946) ![](assets/new.png)  
 - [2022-11-13-一键给-youtube/twitter/quora-等加上-Google-翻译按钮](https://www.v2ex.com/t/894945) ![](assets/new.png)  
 - [2022-11-13-vue3-<template>里用-v-for-遍历数组对象，要用两次-v-for-循环后才能输出对象。现在只想要输出对象里的属性的值应该怎么弄？可以帮忙纠正错误吗？](https://www.v2ex.com/t/894943) ![](assets/new.png)  
 - [2022-11-13-M1-MBP-用-Microsoft-Teams-对方看不到画面](https://www.v2ex.com/t/894942) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-11-13-hugo-如何在-rss-输出中索引子目录下的内容](https://www.v2ex.com/t/894928) ![](assets/new.png)  
 - [2022-11-13-广东潮州一辆特斯拉失控造成-2-死-3-伤](https://www.v2ex.com/t/894927) ![](assets/new.png)  
 - [2022-11-13-Air780E+ESP32C3-短信转发](https://www.v2ex.com/t/894925) ![](assets/new.png)  
-- [2022-11-13-deeper-connect-mini-打折的最后一个晚上](https://www.v2ex.com/t/894924) ![](assets/new.png)  
-- [2022-11-13-上海本三-Java-求一个坑位](https://www.v2ex.com/t/894923) ![](assets/new.png)  
-- [2022-11-13-双十一买了赫曼米勒-Aeron](https://www.v2ex.com/t/894921) ![](assets/new.png)  
-- [2022-11-13-有没有不喜欢-iOS16-通知系统的？](https://www.v2ex.com/t/894920) ![](assets/new.png)  
-- [2022-11-13-多邮箱用户求-Spark-替代品](https://www.v2ex.com/t/894916) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -552,8 +552,8 @@
 - [2022-11-13-GitLink-如何使用-OpenSumi-突破代码托管平台-3-大体验瓶颈？](https://toutiao.io/k/ytxvzma) ![](assets/new.png)  
 - [2022-11-13-Node.js-中的关注点分离](https://toutiao.io/k/icep1z6) ![](assets/new.png)  
 - [2022-11-13-PANAMA:-共享机器学习集群的网内聚合框架](https://toutiao.io/k/mkj6rth) ![](assets/new.png)  
-- [2022-11-13-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) ![](assets/new.png)  
 - [2022-11-13-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) ![](assets/new.png)  
+- [2022-11-13-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

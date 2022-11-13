@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-13 13:05:02。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-13 13:47:30。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,11 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-13-插个题外话：关于车损赔偿](https://www.v2ex.com/t/894951) 
+- [【V2EX】2022-11-13-求一个-Dropbox-的最佳实践](https://www.v2ex.com/t/894950) 
+- [【V2EX】2022-11-13-一个有关服务器双路-或者-NUMA-的简单问题](https://www.v2ex.com/t/894948) 
+- [【V2EX】2022-11-13-FFmpeg-使用-qsv-加速失败](https://www.v2ex.com/t/894947) 
+- [【V2EX】2022-11-13-准备换-Windows-了，我也来出-Surge-Mac-3-序列号](https://www.v2ex.com/t/894946) 
 - [【V2EX】2022-11-13-一键给-youtube/twitter/quora-等加上-Google-翻译按钮](https://www.v2ex.com/t/894945) 
 - [【V2EX】2022-11-13-vue3-<template>里用-v-for-遍历数组对象，要用两次-v-for-循环后才能输出对象。现在只想要输出对象里的属性的值应该怎么弄？可以帮忙纠正错误吗？](https://www.v2ex.com/t/894943) 
 - [【V2EX】2022-11-13-M1-MBP-用-Microsoft-Teams-对方看不到画面](https://www.v2ex.com/t/894942) 
@@ -102,11 +107,6 @@
 - [【V2EX】2022-11-13-如何让-Android-应用只读某个目录?](https://www.v2ex.com/t/894904) 
 - [【V2EX】2022-11-13-国外的家庭宽带部署学科上网服务给国内亲友使用，会有什么后果？](https://www.v2ex.com/t/894903) 
 - [【V2EX】2022-11-13-如何在下拉框中根据-visible-text-快速选择一个想要的值](https://www.v2ex.com/t/894902) 
-- [【V2EX】2022-11-13-听说杭州房租堪比北京，想了解下各位在杭州的程序员一个月房租多少啊](https://www.v2ex.com/t/894900) 
-- [【V2EX】2022-11-13-北京/上海/杭州/成都-字节跳动生活服务-急招前后端研发工程师及-2024-届实习生](https://www.v2ex.com/t/894899) 
-- [【V2EX】2022-11-13-Chrome-无法定位，求助](https://www.v2ex.com/t/894898) 
-- [【V2EX】2022-11-13-M1-版-Mac-上使用-Clion-源码启动-Redis，出现断点不生效问题，求解决方法](https://www.v2ex.com/t/894897) 
-- [【V2EX】2022-11-13-有没有讲的比较好的有关于-Active-Directory-的文章或者书籍？](https://www.v2ex.com/t/894896) 
 - [【技术头条】2022-11-13-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-13-以综合指数观察和评价研发效能的趋势-link.zhihu.com](https://blogread.cn/news/go.php?idItem=15406&url=https%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttps%253A%2F%2Finsights.thoughtworks.cn%2Fobserving-evaluating-research-development-efficiency-trend%2F%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-13-DDD的哲学意味（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15405&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fddd-philosophy-entity-value-object%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -126,8 +126,8 @@
 - [【开发者头条】2022-11-13-GitLink-如何使用-OpenSumi-突破代码托管平台-3-大体验瓶颈？](https://toutiao.io/k/ytxvzma) 
 - [【开发者头条】2022-11-13-Node.js-中的关注点分离](https://toutiao.io/k/icep1z6) 
 - [【开发者头条】2022-11-13-PANAMA:-共享机器学习集群的网内聚合框架](https://toutiao.io/k/mkj6rth) 
-- [【开发者头条】2022-11-13-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) 
 - [【开发者头条】2022-11-13-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) 
+- [【开发者头条】2022-11-13-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

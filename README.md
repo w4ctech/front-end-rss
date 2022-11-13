@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-13 01:07:43，:rocket: 更新条数: +2004， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-13 03:14:11，:rocket: 更新条数: +2003， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,26 +491,26 @@
 </summary>
 
 
+- [2022-11-13-今日寻求苹果客户服务的感受：三个客服，两种感受](https://www.v2ex.com/t/894829) ![](assets/new.png)  
+- [2022-11-13-2022-卡塔尔世界杯-比赛日历订阅](https://www.v2ex.com/t/894827) ![](assets/new.png)  
+- [2022-11-13-家庭共享下有成员被-ban，如何踢出家庭组](https://www.v2ex.com/t/894826) ![](assets/new.png)  
+- [2022-11-13-Surge-for-Mac-5-缺-3](https://www.v2ex.com/t/894825) ![](assets/new.png)  
+- [2022-11-13-拼多多补贴真狠，-2022atv-只要-1300](https://www.v2ex.com/t/894824) ![](assets/new.png)  
+- [2022-11-13-windows-桌面应用开发：使用-react](https://www.v2ex.com/t/894822) ![](assets/new.png)  
+- [2022-11-13-M2-Macbook-Air-现在可以-90W-充电了？](https://www.v2ex.com/t/894820) ![](assets/new.png)  
+- [2022-11-13-使用-c++为嵌入式-Linux-开发应用程序](https://www.v2ex.com/t/894819) ![](assets/new.png)  
+- [2022-11-13-QQ-邮箱扩容包开始收费了，￥-15/月](https://www.v2ex.com/t/894818) ![](assets/new.png)  
+- [2022-11-13-yt-dlp-you-get-下载-B-站视频，现在只有-480p-了？](https://www.v2ex.com/t/894817) ![](assets/new.png)  
+- [2022-11-13-请教，-1，关于新-V2EX-账号访问主题的问题。2-平常大家在哪个网站下载安卓-app-的？](https://www.v2ex.com/t/894815) ![](assets/new.png)  
+- [2022-11-13-远程-全职-C++-软件工程师](https://www.v2ex.com/t/894814) ![](assets/new.png)  
+- [2022-11-13-求好用好玩的安卓-app](https://www.v2ex.com/t/894812) ![](assets/new.png)  
+- [2022-11-13-求一个-hdsky-邀请码](https://www.v2ex.com/t/894811) ![](assets/new.png)  
+- [2022-11-13-三四线城市办了一个建行卡。确限额-300，-3-年期限。这个如何有效投诉。](https://www.v2ex.com/t/894810) ![](assets/new.png)  
+- [2022-11-13-杭州裁员或者换工作后社保断了对买房有影响吗？](https://www.v2ex.com/t/894809) ![](assets/new.png)  
 - [2022-11-13-求推荐支持键盘快捷键的轻量-golang-gui（仅需要-Linux-平台）](https://www.v2ex.com/t/894805) ![](assets/new.png)  
 - [2022-11-13-《FFmpeg-原理》第一版完成了](https://www.v2ex.com/t/894803) ![](assets/new.png)  
 - [2022-11-12-开启-Stage-manager-后一些网页的浏览器最小化检测就无效了](https://www.v2ex.com/t/894801) ![](assets/new.png)  
 - [2022-11-12-一直流鼻涕](https://www.v2ex.com/t/894800) ![](assets/new.png)  
-- [2022-11-12-Monterey-以来-Safari-的一个非常令人困扰的-bug，不知道各位遇到过吗？](https://www.v2ex.com/t/894799) ![](assets/new.png)  
-- [2022-11-12-我不理解这-bug-果子居然能一直留到现在](https://www.v2ex.com/t/894798) ![](assets/new.png)  
-- [2022-11-12-iOS-有没有办法只禁止单个-App-自动更新？](https://www.v2ex.com/t/894797) ![](assets/new.png)  
-- [2022-11-12-搞了台刀片发现不会玩，有懂的同学吗？](https://www.v2ex.com/t/894796) ![](assets/new.png)  
-- [2022-11-12-08-年-macbookpro-开机启动问题](https://www.v2ex.com/t/894794) ![](assets/new.png)  
-- [2022-11-12-有什么办法可以让谷歌搜索结果居中?](https://www.v2ex.com/t/894793) ![](assets/new.png)  
-- [2022-11-12-一直觉得-Apple-Music-杜比全景声设置选项设计的挺智障的](https://www.v2ex.com/t/894792) ![](assets/new.png)  
-- [2022-11-12-好奇一个问题，“欢迎使用中国移动”这种弹窗是为了什么弄出来的？](https://www.v2ex.com/t/894791) ![](assets/new.png)  
-- [2022-11-12-原神和哈利波特魔法觉醒为啥要在-icloud-备份里放这么多玩意](https://www.v2ex.com/t/894790) ![](assets/new.png)  
-- [2022-11-12-win11-有遇到过电脑无法自动熄屏或睡眠的吗？](https://www.v2ex.com/t/894789) ![](assets/new.png)  
-- [2022-11-12-做一个无广告，不接受捐赠的纯公益日文歌歌词分享社区有版权风险吗？](https://www.v2ex.com/t/894787) ![](assets/new.png)  
-- [2022-11-12-求助，-iPhone-YouTube-出错，无法播放](https://www.v2ex.com/t/894786) ![](assets/new.png)  
-- [2022-11-12-如果注册邮局服务的邮箱丢失了。。。](https://www.v2ex.com/t/894785) ![](assets/new.png)  
-- [2022-11-12-北京有人没出京但反复弹窗的吗？](https://www.v2ex.com/t/894784) ![](assets/new.png)  
-- [2022-11-12-如何在-react-条件渲染时加上动画](https://www.v2ex.com/t/894783) ![](assets/new.png)  
-- [2022-11-12-undetected_chromedriver-模块打开谷歌浏览器无法使用代理问题](https://www.v2ex.com/t/894782) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -547,12 +547,12 @@
 - [2022-11-13-「云原生时代的-Java-虚拟机」针对于-GraalVM-的技术知识脉络的重塑和探究](https://toutiao.io/k/asjh7gh) ![](assets/new.png)  
 - [2022-11-13-记一次跨域配置引发的思考](https://toutiao.io/k/91gckgl) ![](assets/new.png)  
 - [2022-11-13-概念详解：数据仓库、数据湖、湖仓一体，究竟有什么区别](https://toutiao.io/k/qjpgmq0) ![](assets/new.png)  
-- [2022-11-13-小米创业思考-读后感](https://toutiao.io/k/lnkg9bi) ![](assets/new.png)  
 - [2022-11-13-聊一聊责任链模式](https://toutiao.io/k/zqs36e9) ![](assets/new.png)  
-- [2022-11-13-GitLink-如何使用-OpenSumi-突破代码托管平台-3-大体验瓶颈？](https://toutiao.io/k/ytxvzma) ![](assets/new.png)  
+- [2022-11-13-小米创业思考-读后感](https://toutiao.io/k/lnkg9bi) ![](assets/new.png)  
 - [2022-11-13-Node.js-中的关注点分离](https://toutiao.io/k/icep1z6) ![](assets/new.png)  
-- [2022-11-13-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) ![](assets/new.png)  
+- [2022-11-13-GitLink-如何使用-OpenSumi-突破代码托管平台-3-大体验瓶颈？](https://toutiao.io/k/ytxvzma) ![](assets/new.png)  
 - [2022-11-13-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) ![](assets/new.png)  
+- [2022-11-13-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

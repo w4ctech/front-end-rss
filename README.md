@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-13 05:15:56，:rocket: 更新条数: +2000， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-13 05:41:01，:rocket: 更新条数: +1999， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,10 +491,10 @@
 </summary>
 
 
+- [2022-11-13-safari-里直接复制图片中的文字，但是不支持日文？](https://www.v2ex.com/t/894855) ![](assets/new.png)  
+- [2022-11-13-Gotech-Inc-直聘-「海外」SEO/-PHP-/前端/运维/测试等技术岗位「-20-k--80-k-RMB」](https://www.v2ex.com/t/894854) ![](assets/new.png)  
 - [2022-11-13-是否有今年阿里云-ECS-续费的最佳实践](https://www.v2ex.com/t/894853) ![](assets/new.png)  
-- [2022-11-13-为啥在网上劝别人不婚不育的都喊那么大声](https://www.v2ex.com/t/894852) ![](assets/new.png)  
 - [2022-11-13-我又来了，-android-第三方相册，-时隔-3-月，-再次来到-v2ex.](https://www.v2ex.com/t/894851) ![](assets/new.png)  
-- [2022-11-13-开大会以后，又可以不用梯子直接上-v2-了](https://www.v2ex.com/t/894850) ![](assets/new.png)  
 - [2022-11-13-请问下大佬们-鸡场节点可以看到用户的-Google-搜索内容吗？](https://www.v2ex.com/t/894849) ![](assets/new.png)  
 - [2022-11-13-App-提交新版本被-App-Store-拒了，问了我一个问题](https://www.v2ex.com/t/894848) ![](assets/new.png)  
 - [2022-11-13-个人开发盈利性质-APP-就违法了吗？](https://www.v2ex.com/t/894845) ![](assets/new.png)  
@@ -551,8 +551,8 @@
 - [2022-11-13-小米创业思考-读后感](https://toutiao.io/k/lnkg9bi) ![](assets/new.png)  
 - [2022-11-13-GitLink-如何使用-OpenSumi-突破代码托管平台-3-大体验瓶颈？](https://toutiao.io/k/ytxvzma) ![](assets/new.png)  
 - [2022-11-13-Node.js-中的关注点分离](https://toutiao.io/k/icep1z6) ![](assets/new.png)  
-- [2022-11-13-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) ![](assets/new.png)  
 - [2022-11-13-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) ![](assets/new.png)  
+- [2022-11-13-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

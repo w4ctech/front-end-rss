@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-11-13 11:37:43。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-13 12:25:43。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -180,7 +180,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】港府回应一63岁患者死亡事件-暂无法确定与疫苗相关](https://m.caixin.com/m/2021-03-03/101670052.html)
 - [【张鑫旭-鑫空间-鑫生活】2022年新出了哪些form表单新特性？](https://www.zhangxinxu.com/wordpress/2022/10/2022-new-form-property/)
 - [【V2EX】华三-NX5400、红米-5400-/-3600-WIFI6-路由器选哪个？路由器选购求助](https://www.v2ex.com/t/894892)
-- [【V2EX】求助-Netflix-和软路由相关](https://www.v2ex.com/t/894873)
 - [......【查看更多】......](./details/tags/javascript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -250,7 +249,6 @@
 
 
 
-- [【V2EX】手表的磁吸式充电座不用时长时间吸附在金属上会不会影响充电性能](https://www.v2ex.com/t/894868)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -274,7 +272,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
 - [【V2EX】Chrome-无法定位，求助](https://www.v2ex.com/t/894898)
-- [【V2EX】关于-Chrome-翻译修复](https://www.v2ex.com/t/894871)
 - [【开发者头条】记一次跨域配置引发的思考](https://toutiao.io/k/91gckgl)
 - [......【查看更多】......](./details/tags/browser.md)
 

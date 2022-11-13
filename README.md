@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-13 11:37:43，:rocket: 更新条数: +2009， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-13 12:25:43，:rocket: 更新条数: +2007， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-11-13-广东潮州一辆特斯拉失控造成-2-死-3-伤](https://www.v2ex.com/t/894927) ![](assets/new.png)  
+- [2022-11-13-Air780E+ESP32C3-短信转发](https://www.v2ex.com/t/894925) ![](assets/new.png)  
+- [2022-11-13-deeper-connect-mini-打折的最后一个晚上](https://www.v2ex.com/t/894924) ![](assets/new.png)  
+- [2022-11-13-上海本三-Java-求一个坑位](https://www.v2ex.com/t/894923) ![](assets/new.png)  
+- [2022-11-13-双十一买了赫曼米勒-Aeron](https://www.v2ex.com/t/894921) ![](assets/new.png)  
+- [2022-11-13-有没有不喜欢-iOS16-通知系统的？](https://www.v2ex.com/t/894920) ![](assets/new.png)  
 - [2022-11-13-多邮箱用户求-Spark-替代品](https://www.v2ex.com/t/894916) ![](assets/new.png)  
 - [2022-11-13-苹果软件质量直逼微软，咖喱含量急剧升高](https://www.v2ex.com/t/894915) ![](assets/new.png)  
 - [2022-11-13-佛系背单词-App-第三弹之专注模式](https://www.v2ex.com/t/894913) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-11-13-国外的家庭宽带部署学科上网服务给国内亲友使用，会有什么后果？](https://www.v2ex.com/t/894903) ![](assets/new.png)  
 - [2022-11-13-如何在下拉框中根据-visible-text-快速选择一个想要的值](https://www.v2ex.com/t/894902) ![](assets/new.png)  
 - [2022-11-13-听说杭州房租堪比北京，想了解下各位在杭州的程序员一个月房租多少啊](https://www.v2ex.com/t/894900) ![](assets/new.png)  
-- [2022-11-13-北京/上海/杭州/成都-字节跳动生活服务-急招前后端研发工程师及-2024-届实习生](https://www.v2ex.com/t/894899) ![](assets/new.png)  
-- [2022-11-13-Chrome-无法定位，求助](https://www.v2ex.com/t/894898) ![](assets/new.png)  
-- [2022-11-13-M1-版-Mac-上使用-Clion-源码启动-Redis，出现断点不生效问题，求解决方法](https://www.v2ex.com/t/894897) ![](assets/new.png)  
-- [2022-11-13-有没有讲的比较好的有关于-Active-Directory-的文章或者书籍？](https://www.v2ex.com/t/894896) ![](assets/new.png)  
-- [2022-11-13-好久没来，素材管理看图软件-Picsee-更新，欢迎来下载！](https://www.v2ex.com/t/894895) ![](assets/new.png)  
-- [2022-11-13-为什么国外人做事会有一种传承感?-还是国内的太浮躁了?](https://www.v2ex.com/t/894894) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -549,11 +549,11 @@
 - [2022-11-13-「云原生时代的-Java-虚拟机」针对于-GraalVM-的技术知识脉络的重塑和探究](https://toutiao.io/k/asjh7gh) ![](assets/new.png)  
 - [2022-11-13-概念详解：数据仓库、数据湖、湖仓一体，究竟有什么区别](https://toutiao.io/k/qjpgmq0) ![](assets/new.png)  
 - [2022-11-13-小米创业思考-读后感](https://toutiao.io/k/lnkg9bi) ![](assets/new.png)  
-- [2022-11-13-GitLink-如何使用-OpenSumi-突破代码托管平台-3-大体验瓶颈？](https://toutiao.io/k/ytxvzma) ![](assets/new.png)  
 - [2022-11-13-Node.js-中的关注点分离](https://toutiao.io/k/icep1z6) ![](assets/new.png)  
+- [2022-11-13-GitLink-如何使用-OpenSumi-突破代码托管平台-3-大体验瓶颈？](https://toutiao.io/k/ytxvzma) ![](assets/new.png)  
 - [2022-11-13-PANAMA:-共享机器学习集群的网内聚合框架](https://toutiao.io/k/mkj6rth) ![](assets/new.png)  
-- [2022-11-13-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) ![](assets/new.png)  
 - [2022-11-13-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) ![](assets/new.png)  
+- [2022-11-13-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

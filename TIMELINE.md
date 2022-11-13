@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-13 11:37:43。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-13 12:25:43。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,12 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-13-广东潮州一辆特斯拉失控造成-2-死-3-伤](https://www.v2ex.com/t/894927) 
+- [【V2EX】2022-11-13-Air780E+ESP32C3-短信转发](https://www.v2ex.com/t/894925) 
+- [【V2EX】2022-11-13-deeper-connect-mini-打折的最后一个晚上](https://www.v2ex.com/t/894924) 
+- [【V2EX】2022-11-13-上海本三-Java-求一个坑位](https://www.v2ex.com/t/894923) 
+- [【V2EX】2022-11-13-双十一买了赫曼米勒-Aeron](https://www.v2ex.com/t/894921) 
+- [【V2EX】2022-11-13-有没有不喜欢-iOS16-通知系统的？](https://www.v2ex.com/t/894920) 
 - [【V2EX】2022-11-13-多邮箱用户求-Spark-替代品](https://www.v2ex.com/t/894916) 
 - [【V2EX】2022-11-13-苹果软件质量直逼微软，咖喱含量急剧升高](https://www.v2ex.com/t/894915) 
 - [【V2EX】2022-11-13-佛系背单词-App-第三弹之专注模式](https://www.v2ex.com/t/894913) 
@@ -104,14 +110,6 @@
 - [【V2EX】2022-11-13-Linux-软件安装位置](https://www.v2ex.com/t/894880) 
 - [【V2EX】2022-11-13-macOS-下如何快速方便的转移一个-SSD-的所有数据到另一个-SSD?](https://www.v2ex.com/t/894879) 
 - [【V2EX】2022-11-13-用国外-VPS-代理下载国内访问速度慢的资源，最佳实践方案有么？](https://www.v2ex.com/t/894878) 
-- [【V2EX】2022-11-13-国内有哪些便宜-vps-或云分配有免费可用的-ipv6](https://www.v2ex.com/t/894877) 
-- [【V2EX】2022-11-13-有会议软件可以替代腾讯会议吗](https://www.v2ex.com/t/894876) 
-- [【V2EX】2022-11-13-我已经有-A-公司的-offer，现在跟-B-公司谈薪资，我可以透露-A-公司开的薪水吗？](https://www.v2ex.com/t/894875) 
-- [【V2EX】2022-11-13-求助-Netflix-和软路由相关](https://www.v2ex.com/t/894873) 
-- [【V2EX】2022-11-13-安卓锁屏漏洞鸿蒙受影响吗？](https://www.v2ex.com/t/894872) 
-- [【V2EX】2022-11-13-关于-Chrome-翻译修复](https://www.v2ex.com/t/894871) 
-- [【V2EX】2022-11-13-semantic-ui-终于更新了](https://www.v2ex.com/t/894870) 
-- [【V2EX】2022-11-13-手表的磁吸式充电座不用时长时间吸附在金属上会不会影响充电性能](https://www.v2ex.com/t/894868) 
 - [【技术头条】2022-11-13-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-13-以综合指数观察和评价研发效能的趋势-link.zhihu.com](https://blogread.cn/news/go.php?idItem=15406&url=https%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttps%253A%2F%2Finsights.thoughtworks.cn%2Fobserving-evaluating-research-development-efficiency-trend%2F%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-13-DDD的哲学意味（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15405&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fddd-philosophy-entity-value-object%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -128,11 +126,11 @@
 - [【开发者头条】2022-11-13-「云原生时代的-Java-虚拟机」针对于-GraalVM-的技术知识脉络的重塑和探究](https://toutiao.io/k/asjh7gh) 
 - [【开发者头条】2022-11-13-概念详解：数据仓库、数据湖、湖仓一体，究竟有什么区别](https://toutiao.io/k/qjpgmq0) 
 - [【开发者头条】2022-11-13-小米创业思考-读后感](https://toutiao.io/k/lnkg9bi) 
-- [【开发者头条】2022-11-13-GitLink-如何使用-OpenSumi-突破代码托管平台-3-大体验瓶颈？](https://toutiao.io/k/ytxvzma) 
 - [【开发者头条】2022-11-13-Node.js-中的关注点分离](https://toutiao.io/k/icep1z6) 
+- [【开发者头条】2022-11-13-GitLink-如何使用-OpenSumi-突破代码托管平台-3-大体验瓶颈？](https://toutiao.io/k/ytxvzma) 
 - [【开发者头条】2022-11-13-PANAMA:-共享机器学习集群的网内聚合框架](https://toutiao.io/k/mkj6rth) 
-- [【开发者头条】2022-11-13-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) 
 - [【开发者头条】2022-11-13-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) 
+- [【开发者头条】2022-11-13-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

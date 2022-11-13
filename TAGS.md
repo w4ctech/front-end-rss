@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-11-13 15:14:40。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-13 15:41:58。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -289,6 +289,7 @@
 
 
 
+- [【V2EX】耗时-3~20-分钟不等的-API，长-HTTP-链接和每-0.5-秒轮询的资源占用差别有多大？](https://www.v2ex.com/t/894967)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

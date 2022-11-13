@@ -9953,6 +9953,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "耗时 3~20 分钟不等的 API，长 HTTP 链接和每 0.5 秒轮询的资源占用差别有多大？",
+        "link": "https://www.v2ex.com/t/894967",
+        "date": "2022-11-13"
+      },
+      {
         "title": "什么时候都说大环境不好，咋滴你是破坏大环境的人啊？",
         "link": "https://www.v2ex.com/t/894965",
         "date": "2022-11-13"
@@ -10136,11 +10141,6 @@
         "title": "有没有不喜欢 iOS16 通知系统的？",
         "link": "https://www.v2ex.com/t/894920",
         "date": "2022-11-13"
-      },
-      {
-        "title": "多邮箱用户求 Spark 替代品",
-        "link": "https://www.v2ex.com/t/894916",
-        "date": "2022-11-13"
       }
     ]
   },
@@ -10252,13 +10252,13 @@
         "date": "2022-11-13"
       },
       {
-        "title": "[推荐] 如何画出一张优秀的架构图？（老鸟必备）",
-        "link": "https://toutiao.io/k/xiqybrh",
+        "title": "[推荐] 新来个技术总监，仅花 2 小时，撸出一个多线程永动任务，看完直接跪了，真牛逼",
+        "link": "https://toutiao.io/k/6u3q7ke",
         "date": "2022-11-13"
       },
       {
-        "title": "[推荐] 新来个技术总监，仅花 2 小时，撸出一个多线程永动任务，看完直接跪了，真牛逼",
-        "link": "https://toutiao.io/k/6u3q7ke",
+        "title": "[推荐] 如何画出一张优秀的架构图？（老鸟必备）",
+        "link": "https://toutiao.io/k/xiqybrh",
         "date": "2022-11-13"
       }
     ]

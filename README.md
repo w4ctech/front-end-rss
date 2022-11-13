@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-13 05:41:01，:rocket: 更新条数: +1999， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-13 06:18:12，:rocket: 更新条数: +2002， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-11-13-观帖“玩游戏如-GTA5-是否会极大影响电脑寿命？”有感？](https://www.v2ex.com/t/894861) ![](assets/new.png)  
+- [2022-11-13-企业家好累，天天拼刺刀](https://www.v2ex.com/t/894860) ![](assets/new.png)  
+- [2022-11-13-光猫通过-DHCPv6-PD-派发的地址为何与-PD-前缀不同呢](https://www.v2ex.com/t/894859) ![](assets/new.png)  
+- [2022-11-13-关于-XBOXS-上的-BesTV-无法正常打开的问题](https://www.v2ex.com/t/894857) ![](assets/new.png)  
+- [2022-11-13-XGPU-快到期了，不知道黑周五有没有活动](https://www.v2ex.com/t/894856) ![](assets/new.png)  
 - [2022-11-13-safari-里直接复制图片中的文字，但是不支持日文？](https://www.v2ex.com/t/894855) ![](assets/new.png)  
 - [2022-11-13-Gotech-Inc-直聘-「海外」SEO/-PHP-/前端/运维/测试等技术岗位「-20-k--80-k-RMB」](https://www.v2ex.com/t/894854) ![](assets/new.png)  
 - [2022-11-13-是否有今年阿里云-ECS-续费的最佳实践](https://www.v2ex.com/t/894853) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-11-13-iphone11-的拍照功能相当于多少钱的数码相机?](https://www.v2ex.com/t/894837) ![](assets/new.png)  
 - [2022-11-13-不要再说专业无用，想考证的时候才发现大学专业真的很重要](https://www.v2ex.com/t/894836) ![](assets/new.png)  
 - [2022-11-13-爱快-iKuai-双线如何开启-IPv6](https://www.v2ex.com/t/894834) ![](assets/new.png)  
-- [2022-11-13-刷-LeetCode-有什么策略吗？](https://www.v2ex.com/t/894833) ![](assets/new.png)  
-- [2022-11-13-edge-不能正常访问一些网站提示-当前无法使用此页面](https://www.v2ex.com/t/894832) ![](assets/new.png)  
-- [2022-11-13-IDEA-有一个调试插件忘记叫什么名字了](https://www.v2ex.com/t/894831) ![](assets/new.png)  
-- [2022-11-13-今日寻求苹果客户服务的感受：三个客服，两种感受](https://www.v2ex.com/t/894829) ![](assets/new.png)  
-- [2022-11-13-2022-卡塔尔世界杯-比赛日历订阅](https://www.v2ex.com/t/894827) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -544,15 +544,16 @@
 
 - [2022-11-13-网关系统就该这么设计（万能通用），稳的一批](https://toutiao.io/k/f4lr8a4) ![](assets/new.png)  
 - [2022-11-13-还不会日志异常检测？看完这篇文章就够了](https://toutiao.io/k/ee2apjn) ![](assets/new.png)  
-- [2022-11-13-「云原生时代的-Java-虚拟机」针对于-GraalVM-的技术知识脉络的重塑和探究](https://toutiao.io/k/asjh7gh) ![](assets/new.png)  
 - [2022-11-13-记一次跨域配置引发的思考](https://toutiao.io/k/91gckgl) ![](assets/new.png)  
+- [2022-11-13-「云原生时代的-Java-虚拟机」针对于-GraalVM-的技术知识脉络的重塑和探究](https://toutiao.io/k/asjh7gh) ![](assets/new.png)  
 - [2022-11-13-聊一聊责任链模式](https://toutiao.io/k/zqs36e9) ![](assets/new.png)  
 - [2022-11-13-概念详解：数据仓库、数据湖、湖仓一体，究竟有什么区别](https://toutiao.io/k/qjpgmq0) ![](assets/new.png)  
 - [2022-11-13-小米创业思考-读后感](https://toutiao.io/k/lnkg9bi) ![](assets/new.png)  
 - [2022-11-13-GitLink-如何使用-OpenSumi-突破代码托管平台-3-大体验瓶颈？](https://toutiao.io/k/ytxvzma) ![](assets/new.png)  
 - [2022-11-13-Node.js-中的关注点分离](https://toutiao.io/k/icep1z6) ![](assets/new.png)  
-- [2022-11-13-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) ![](assets/new.png)  
+- [2022-11-13-PANAMA:-共享机器学习集群的网内聚合框架](https://toutiao.io/k/mkj6rth) ![](assets/new.png)  
 - [2022-11-13-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) ![](assets/new.png)  
+- [2022-11-13-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

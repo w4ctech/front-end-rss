@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-13 05:41:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-13 06:18:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1917,6 +1917,9 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-11-13-企业家好累，天天拼刺刀](https://www.v2ex.com/t/894860) 
+- [2022-11-13-光猫通过-DHCPv6-PD-派发的地址为何与-PD-前缀不同呢](https://www.v2ex.com/t/894859) 
+- [2022-11-13-关于-XBOXS-上的-BesTV-无法正常打开的问题](https://www.v2ex.com/t/894857) 
 - [2022-11-13-是否有今年阿里云-ECS-续费的最佳实践](https://www.v2ex.com/t/894853) 
 - [2022-11-13-我又来了，-android-第三方相册，-时隔-3-月，-再次来到-v2ex.](https://www.v2ex.com/t/894851) 
 - [2022-11-13-请问下大佬们-鸡场节点可以看到用户的-Google-搜索内容吗？](https://www.v2ex.com/t/894849) 
@@ -1940,9 +1943,6 @@
 - [2022-11-13-请教，-1，关于新-V2EX-账号访问主题的问题。2-平常大家在哪个网站下载安卓-app-的？](https://www.v2ex.com/t/894815) 
 - [2022-11-13-远程-全职-C++-软件工程师](https://www.v2ex.com/t/894814) 
 - [2022-11-13-求好用好玩的安卓-app](https://www.v2ex.com/t/894812) 
-- [2022-11-13-求一个-hdsky-邀请码](https://www.v2ex.com/t/894811) 
-- [2022-11-13-三四线城市办了一个建行卡。确限额-300，-3-年期限。这个如何有效投诉。](https://www.v2ex.com/t/894810) 
-- [2022-11-13-杭州裁员或者换工作后社保断了对买房有影响吗？](https://www.v2ex.com/t/894809) 
 - [2022-11-13-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-13-以综合指数观察和评价研发效能的趋势-link.zhihu.com](https://blogread.cn/news/go.php?idItem=15406&url=https%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttps%253A%2F%2Finsights.thoughtworks.cn%2Fobserving-evaluating-research-development-efficiency-trend%2F%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-13-DDD的哲学意味（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15405&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fddd-philosophy-entity-value-object%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1957,5 +1957,6 @@
 - [2022-11-13-聊一聊责任链模式](https://toutiao.io/k/zqs36e9) 
 - [2022-11-13-概念详解：数据仓库、数据湖、湖仓一体，究竟有什么区别](https://toutiao.io/k/qjpgmq0) 
 - [2022-11-13-小米创业思考-读后感](https://toutiao.io/k/lnkg9bi) 
-- [2022-11-13-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) 
+- [2022-11-13-PANAMA:-共享机器学习集群的网内聚合框架](https://toutiao.io/k/mkj6rth) 
 - [2022-11-13-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) 
+- [2022-11-13-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-13 08:18:12，:rocket: 更新条数: +2005， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-13 08:45:11，:rocket: 更新条数: +2004， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-11-13-求职前端三年经验，前端开发工程师](https://www.v2ex.com/t/894886) ![](assets/new.png)  
+- [2022-11-13-阿里云老用户活动上新！轻量机-360/年-新购服务器-3.6-折-新老用户免费领云电脑](https://www.v2ex.com/t/894883) ![](assets/new.png)  
+- [2022-11-13-ai-作画](https://www.v2ex.com/t/894882) ![](assets/new.png)  
 - [2022-11-13-有什么游戏-modding-向中文社区推荐么？](https://www.v2ex.com/t/894881) ![](assets/new.png)  
 - [2022-11-13-Linux-软件安装位置](https://www.v2ex.com/t/894880) ![](assets/new.png)  
 - [2022-11-13-macOS-下如何快速方便的转移一个-SSD-的所有数据到另一个-SSD?](https://www.v2ex.com/t/894879) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-11-13-如何借助代理实现服务器的低延迟访问](https://www.v2ex.com/t/894865) ![](assets/new.png)  
 - [2022-11-13-请推荐-OCR-app，扫描文字的](https://www.v2ex.com/t/894862) ![](assets/new.png)  
 - [2022-11-13-观帖“玩游戏如-GTA5-是否会极大影响电脑寿命？”有感？](https://www.v2ex.com/t/894861) ![](assets/new.png)  
-- [2022-11-13-企业家好累，天天拼刺刀](https://www.v2ex.com/t/894860) ![](assets/new.png)  
-- [2022-11-13-光猫通过-DHCPv6-PD-派发的地址为何与-PD-前缀不同呢](https://www.v2ex.com/t/894859) ![](assets/new.png)  
-- [2022-11-13-关于-XBOXS-上的-BesTV-无法正常打开的问题](https://www.v2ex.com/t/894857) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -552,8 +552,8 @@
 - [2022-11-13-GitLink-如何使用-OpenSumi-突破代码托管平台-3-大体验瓶颈？](https://toutiao.io/k/ytxvzma) ![](assets/new.png)  
 - [2022-11-13-Node.js-中的关注点分离](https://toutiao.io/k/icep1z6) ![](assets/new.png)  
 - [2022-11-13-PANAMA:-共享机器学习集群的网内聚合框架](https://toutiao.io/k/mkj6rth) ![](assets/new.png)  
-- [2022-11-13-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) ![](assets/new.png)  
 - [2022-11-13-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) ![](assets/new.png)  
+- [2022-11-13-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

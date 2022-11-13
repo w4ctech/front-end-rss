@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-13 21:38:45，:rocket: 更新条数: +2009， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-13 22:14:58，:rocket: 更新条数: +2010， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-11-13-求推荐-Macbook-双肩包](https://www.v2ex.com/t/894986) ![](assets/new.png)  
 - [2022-11-13-印象笔记-迁移至-Evernote](https://www.v2ex.com/t/894985) ![](assets/new.png)  
 - [2022-11-13-感情出现分歧，请求各位大佬指点](https://www.v2ex.com/t/894984) ![](assets/new.png)  
 - [2022-11-13-为什么我的移动硬盘ssd格式化后速度会变快？不格式化有办法变快吗？](https://www.v2ex.com/t/894982) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-11-13-什么时候都说大环境不好，咋滴你是破坏大环境的人啊？](https://www.v2ex.com/t/894965) ![](assets/new.png)  
 - [2022-11-13-iPad-Pro-2020-传输速率请教](https://www.v2ex.com/t/894964) ![](assets/new.png)  
 - [2022-11-13-记录-当你感到失望、孤独、落魄的时候,看看《出租车司机》](https://www.v2ex.com/t/894963) ![](assets/new.png)  
-- [2022-11-13-北京-内推北京默契破冰公司-平台业务招聘-Java-高级工程师](https://www.v2ex.com/t/894962) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -552,9 +552,9 @@
 - [2022-11-13-GitLink-如何使用-OpenSumi-突破代码托管平台-3-大体验瓶颈？](https://toutiao.io/k/ytxvzma) ![](assets/new.png)  
 - [2022-11-13-Node.js-中的关注点分离](https://toutiao.io/k/icep1z6) ![](assets/new.png)  
 - [2022-11-13-PANAMA:-共享机器学习集群的网内聚合框架](https://toutiao.io/k/mkj6rth) ![](assets/new.png)  
-- [2022-11-13-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) ![](assets/new.png)  
 - [2022-11-13-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) ![](assets/new.png)  
 - [2022-11-13-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) ![](assets/new.png)  
+- [2022-11-13-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

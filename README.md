@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-13 09:14:30，:rocket: 更新条数: +2005， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-13 09:39:57，:rocket: 更新条数: +2008， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,13 @@
 </summary>
 
 
+- [2022-11-13-M1-版-Mac-上使用-Clion-源码启动-Redis，出现断点不生效问题，求解决方法](https://www.v2ex.com/t/894897) ![](assets/new.png)  
+- [2022-11-13-有没有讲的比较好的有关于-Active-Directory-的文章或者书籍？](https://www.v2ex.com/t/894896) ![](assets/new.png)  
+- [2022-11-13-好久没来，素材管理看图软件-Picsee-更新，欢迎来下载！](https://www.v2ex.com/t/894895) ![](assets/new.png)  
+- [2022-11-13-为什么国外人做事会有一种传承感?-还是国内的太浮躁了?](https://www.v2ex.com/t/894894) ![](assets/new.png)  
+- [2022-11-13-发生了什么？好像各大平台-APP-都没有开屏摇一摇跳转广告了](https://www.v2ex.com/t/894893) ![](assets/new.png)  
+- [2022-11-13-华三-NX5400、红米-5400-/-3600-WIFI6-路由器选哪个？路由器选购求助](https://www.v2ex.com/t/894892) ![](assets/new.png)  
+- [2022-11-13-关于国内域名和国外服务器](https://www.v2ex.com/t/894891) ![](assets/new.png)  
 - [2022-11-13-上海电信，原本是-SDN-光猫，可以自行更换光猫吗？](https://www.v2ex.com/t/894890) ![](assets/new.png)  
 - [2022-11-13-摸鱼开发纯-C-协程框架的后续和心得](https://www.v2ex.com/t/894889) ![](assets/new.png)  
 - [2022-11-13-请大家推荐-Android-手机给爸妈用](https://www.v2ex.com/t/894888) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-11-13-用国外-VPS-代理下载国内访问速度慢的资源，最佳实践方案有么？](https://www.v2ex.com/t/894878) ![](assets/new.png)  
 - [2022-11-13-国内有哪些便宜-vps-或云分配有免费可用的-ipv6](https://www.v2ex.com/t/894877) ![](assets/new.png)  
 - [2022-11-13-有会议软件可以替代腾讯会议吗](https://www.v2ex.com/t/894876) ![](assets/new.png)  
-- [2022-11-13-我已经有-A-公司的-offer，现在跟-B-公司谈薪资，我可以透露-A-公司开的薪水吗？](https://www.v2ex.com/t/894875) ![](assets/new.png)  
-- [2022-11-13-求助-Netflix-和软路由相关](https://www.v2ex.com/t/894873) ![](assets/new.png)  
-- [2022-11-13-安卓锁屏漏洞鸿蒙受影响吗？](https://www.v2ex.com/t/894872) ![](assets/new.png)  
-- [2022-11-13-关于-Chrome-翻译修复](https://www.v2ex.com/t/894871) ![](assets/new.png)  
-- [2022-11-13-semantic-ui-终于更新了](https://www.v2ex.com/t/894870) ![](assets/new.png)  
-- [2022-11-13-手表的磁吸式充电座不用时长时间吸附在金属上会不会影响充电性能](https://www.v2ex.com/t/894868) ![](assets/new.png)  
-- [2022-11-13-京东-plus-年费激活码，全新雀巢胶囊咖啡机](https://www.v2ex.com/t/894867) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -552,8 +552,8 @@
 - [2022-11-13-GitLink-如何使用-OpenSumi-突破代码托管平台-3-大体验瓶颈？](https://toutiao.io/k/ytxvzma) ![](assets/new.png)  
 - [2022-11-13-Node.js-中的关注点分离](https://toutiao.io/k/icep1z6) ![](assets/new.png)  
 - [2022-11-13-PANAMA:-共享机器学习集群的网内聚合框架](https://toutiao.io/k/mkj6rth) ![](assets/new.png)  
-- [2022-11-13-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) ![](assets/new.png)  
 - [2022-11-13-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) ![](assets/new.png)  
+- [2022-11-13-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

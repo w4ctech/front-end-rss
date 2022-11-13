@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-13 14:39:41。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-13 15:14:40。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,10 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-13-什么时候都说大环境不好，咋滴你是破坏大环境的人啊？](https://www.v2ex.com/t/894965) 
+- [【V2EX】2022-11-13-iPad-Pro-2020-传输速率请教](https://www.v2ex.com/t/894964) 
+- [【V2EX】2022-11-13-记录-当你感到失望、孤独、落魄的时候,看看《出租车司机》](https://www.v2ex.com/t/894963) 
+- [【V2EX】2022-11-13-北京-内推北京默契破冰公司-平台业务招聘-Java-高级工程师](https://www.v2ex.com/t/894962) 
 - [【V2EX】2022-11-13-Windows-快捷方式高级属性-以管理员权限运行-是什么东西](https://www.v2ex.com/t/894961) 
 - [【V2EX】2022-11-13-学习-threejs-的好的教程](https://www.v2ex.com/t/894960) 
 - [【V2EX】2022-11-13-android-手机浏览器里，有什么浏览器和-IOS-ALOOK-浏览器一样可以识别视频链接，并且可以弹窗播放的。](https://www.v2ex.com/t/894958) 
@@ -104,9 +108,6 @@
 - [【V2EX】2022-11-13-双十一买了赫曼米勒-Aeron](https://www.v2ex.com/t/894921) 
 - [【V2EX】2022-11-13-有没有不喜欢-iOS16-通知系统的？](https://www.v2ex.com/t/894920) 
 - [【V2EX】2022-11-13-多邮箱用户求-Spark-替代品](https://www.v2ex.com/t/894916) 
-- [【V2EX】2022-11-13-苹果软件质量直逼微软，咖喱含量急剧升高](https://www.v2ex.com/t/894915) 
-- [【V2EX】2022-11-13-佛系背单词-App-第三弹之专注模式](https://www.v2ex.com/t/894913) 
-- [【V2EX】2022-11-13-升级-Ventura-后的几个问题各位有遇到的吗？](https://www.v2ex.com/t/894912) 
 - [【技术头条】2022-11-13-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-13-以综合指数观察和评价研发效能的趋势-link.zhihu.com](https://blogread.cn/news/go.php?idItem=15406&url=https%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttps%253A%2F%2Finsights.thoughtworks.cn%2Fobserving-evaluating-research-development-efficiency-trend%2F%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-13-DDD的哲学意味（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15405&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fddd-philosophy-entity-value-object%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

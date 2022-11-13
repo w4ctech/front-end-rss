@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-13 03:14:11，:rocket: 更新条数: +2003， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-13 04:09:15，:rocket: 更新条数: +2000， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,10 +491,19 @@
 </summary>
 
 
+- [2022-11-13-你们有-ios-主屏通知动画的问题么？](https://www.v2ex.com/t/894843) ![](assets/new.png)  
+- [2022-11-13-求问五年内最稳的-4%收益方案](https://www.v2ex.com/t/894842) ![](assets/new.png)  
+- [2022-11-13-请教-esp8266-怎么清理-flash](https://www.v2ex.com/t/894840) ![](assets/new.png)  
+- [2022-11-13-Goravel-让微服务间通讯如此简单，省出来的时间想干点啥干点啥吧](https://www.v2ex.com/t/894838) ![](assets/new.png)  
+- [2022-11-13-iphone11-的拍照功能相当于多少钱的数码相机?](https://www.v2ex.com/t/894837) ![](assets/new.png)  
+- [2022-11-13-不要再说专业无用，想考证的时候才发现大学专业真的很重要](https://www.v2ex.com/t/894836) ![](assets/new.png)  
+- [2022-11-13-爱快-iKuai-双线如何开启-IPv6](https://www.v2ex.com/t/894834) ![](assets/new.png)  
+- [2022-11-13-刷-LeetCode-有什么策略吗？](https://www.v2ex.com/t/894833) ![](assets/new.png)  
+- [2022-11-13-edge-不能正常访问一些网站提示-当前无法使用此页面](https://www.v2ex.com/t/894832) ![](assets/new.png)  
+- [2022-11-13-IDEA-有一个调试插件忘记叫什么名字了](https://www.v2ex.com/t/894831) ![](assets/new.png)  
 - [2022-11-13-今日寻求苹果客户服务的感受：三个客服，两种感受](https://www.v2ex.com/t/894829) ![](assets/new.png)  
 - [2022-11-13-2022-卡塔尔世界杯-比赛日历订阅](https://www.v2ex.com/t/894827) ![](assets/new.png)  
 - [2022-11-13-家庭共享下有成员被-ban，如何踢出家庭组](https://www.v2ex.com/t/894826) ![](assets/new.png)  
-- [2022-11-13-Surge-for-Mac-5-缺-3](https://www.v2ex.com/t/894825) ![](assets/new.png)  
 - [2022-11-13-拼多多补贴真狠，-2022atv-只要-1300](https://www.v2ex.com/t/894824) ![](assets/new.png)  
 - [2022-11-13-windows-桌面应用开发：使用-react](https://www.v2ex.com/t/894822) ![](assets/new.png)  
 - [2022-11-13-M2-Macbook-Air-现在可以-90W-充电了？](https://www.v2ex.com/t/894820) ![](assets/new.png)  
@@ -502,15 +511,6 @@
 - [2022-11-13-QQ-邮箱扩容包开始收费了，￥-15/月](https://www.v2ex.com/t/894818) ![](assets/new.png)  
 - [2022-11-13-yt-dlp-you-get-下载-B-站视频，现在只有-480p-了？](https://www.v2ex.com/t/894817) ![](assets/new.png)  
 - [2022-11-13-请教，-1，关于新-V2EX-账号访问主题的问题。2-平常大家在哪个网站下载安卓-app-的？](https://www.v2ex.com/t/894815) ![](assets/new.png)  
-- [2022-11-13-远程-全职-C++-软件工程师](https://www.v2ex.com/t/894814) ![](assets/new.png)  
-- [2022-11-13-求好用好玩的安卓-app](https://www.v2ex.com/t/894812) ![](assets/new.png)  
-- [2022-11-13-求一个-hdsky-邀请码](https://www.v2ex.com/t/894811) ![](assets/new.png)  
-- [2022-11-13-三四线城市办了一个建行卡。确限额-300，-3-年期限。这个如何有效投诉。](https://www.v2ex.com/t/894810) ![](assets/new.png)  
-- [2022-11-13-杭州裁员或者换工作后社保断了对买房有影响吗？](https://www.v2ex.com/t/894809) ![](assets/new.png)  
-- [2022-11-13-求推荐支持键盘快捷键的轻量-golang-gui（仅需要-Linux-平台）](https://www.v2ex.com/t/894805) ![](assets/new.png)  
-- [2022-11-13-《FFmpeg-原理》第一版完成了](https://www.v2ex.com/t/894803) ![](assets/new.png)  
-- [2022-11-12-开启-Stage-manager-后一些网页的浏览器最小化检测就无效了](https://www.v2ex.com/t/894801) ![](assets/new.png)  
-- [2022-11-12-一直流鼻涕](https://www.v2ex.com/t/894800) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -549,8 +549,8 @@
 - [2022-11-13-概念详解：数据仓库、数据湖、湖仓一体，究竟有什么区别](https://toutiao.io/k/qjpgmq0) ![](assets/new.png)  
 - [2022-11-13-聊一聊责任链模式](https://toutiao.io/k/zqs36e9) ![](assets/new.png)  
 - [2022-11-13-小米创业思考-读后感](https://toutiao.io/k/lnkg9bi) ![](assets/new.png)  
-- [2022-11-13-Node.js-中的关注点分离](https://toutiao.io/k/icep1z6) ![](assets/new.png)  
 - [2022-11-13-GitLink-如何使用-OpenSumi-突破代码托管平台-3-大体验瓶颈？](https://toutiao.io/k/ytxvzma) ![](assets/new.png)  
+- [2022-11-13-Node.js-中的关注点分离](https://toutiao.io/k/icep1z6) ![](assets/new.png)  
 - [2022-11-13-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) ![](assets/new.png)  
 - [2022-11-13-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)

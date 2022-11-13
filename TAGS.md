@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-11-13 10:14:58。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-13 10:42:43。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -56,6 +56,7 @@
 
 
 
+- [【V2EX】iOS-Safari---Vue3---播放音效](https://www.v2ex.com/t/894906)
 - [......【查看更多】......](./details/tags/vue.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -251,7 +252,6 @@
 
 
 - [【V2EX】手表的磁吸式充电座不用时长时间吸附在金属上会不会影响充电性能](https://www.v2ex.com/t/894868)
-- [【V2EX】Gotech-Inc-直聘-「海外」SEO/-PHP-/前端/运维/测试等技术岗位「-20-k--80-k-RMB」](https://www.v2ex.com/t/894854)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -276,7 +276,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
 - [【V2EX】Chrome-无法定位，求助](https://www.v2ex.com/t/894898)
 - [【V2EX】关于-Chrome-翻译修复](https://www.v2ex.com/t/894871)
-- [【V2EX】safari-里直接复制图片中的文字，但是不支持日文？](https://www.v2ex.com/t/894855)
 - [【开发者头条】记一次跨域配置引发的思考](https://toutiao.io/k/91gckgl)
 - [......【查看更多】......](./details/tags/browser.md)
 
@@ -294,7 +293,6 @@
 
 
 
-- [【V2EX】XGPU-快到期了，不知道黑周五有没有活动](https://www.v2ex.com/t/894856)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

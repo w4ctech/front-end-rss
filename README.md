@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-13 10:14:58，:rocket: 更新条数: +2009， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-13 10:42:43，:rocket: 更新条数: +2009， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-11-13-iOS-Safari---Vue3---播放音效](https://www.v2ex.com/t/894906) ![](assets/new.png)  
+- [2022-11-13-关于核酸收费问题](https://www.v2ex.com/t/894905) ![](assets/new.png)  
+- [2022-11-13-如何让-Android-应用只读某个目录?](https://www.v2ex.com/t/894904) ![](assets/new.png)  
+- [2022-11-13-国外的家庭宽带部署学科上网服务给国内亲友使用，会有什么后果？](https://www.v2ex.com/t/894903) ![](assets/new.png)  
+- [2022-11-13-如何在下拉框中根据-visible-text-快速选择一个想要的值](https://www.v2ex.com/t/894902) ![](assets/new.png)  
 - [2022-11-13-听说杭州房租堪比北京，想了解下各位在杭州的程序员一个月房租多少啊](https://www.v2ex.com/t/894900) ![](assets/new.png)  
 - [2022-11-13-北京/上海/杭州/成都-字节跳动生活服务-急招前后端研发工程师及-2024-届实习生](https://www.v2ex.com/t/894899) ![](assets/new.png)  
 - [2022-11-13-Chrome-无法定位，求助](https://www.v2ex.com/t/894898) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-11-13-请大家推荐-Android-手机给爸妈用](https://www.v2ex.com/t/894888) ![](assets/new.png)  
 - [2022-11-13-中国亚马逊-app-不能切换到国外了…](https://www.v2ex.com/t/894887) ![](assets/new.png)  
 - [2022-11-13-求职前端三年经验，前端开发工程师](https://www.v2ex.com/t/894886) ![](assets/new.png)  
-- [2022-11-13-阿里云老用户活动上新！轻量机-360/年-新购服务器-3.6-折-新老用户免费领云电脑](https://www.v2ex.com/t/894883) ![](assets/new.png)  
-- [2022-11-13-ai-作画](https://www.v2ex.com/t/894882) ![](assets/new.png)  
-- [2022-11-13-有什么游戏-modding-向中文社区推荐么？](https://www.v2ex.com/t/894881) ![](assets/new.png)  
-- [2022-11-13-Linux-软件安装位置](https://www.v2ex.com/t/894880) ![](assets/new.png)  
-- [2022-11-13-macOS-下如何快速方便的转移一个-SSD-的所有数据到另一个-SSD?](https://www.v2ex.com/t/894879) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

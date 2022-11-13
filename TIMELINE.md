@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-13 10:14:58。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-13 10:42:43。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,11 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-13-iOS-Safari---Vue3---播放音效](https://www.v2ex.com/t/894906) 
+- [【V2EX】2022-11-13-关于核酸收费问题](https://www.v2ex.com/t/894905) 
+- [【V2EX】2022-11-13-如何让-Android-应用只读某个目录?](https://www.v2ex.com/t/894904) 
+- [【V2EX】2022-11-13-国外的家庭宽带部署学科上网服务给国内亲友使用，会有什么后果？](https://www.v2ex.com/t/894903) 
+- [【V2EX】2022-11-13-如何在下拉框中根据-visible-text-快速选择一个想要的值](https://www.v2ex.com/t/894902) 
 - [【V2EX】2022-11-13-听说杭州房租堪比北京，想了解下各位在杭州的程序员一个月房租多少啊](https://www.v2ex.com/t/894900) 
 - [【V2EX】2022-11-13-北京/上海/杭州/成都-字节跳动生活服务-急招前后端研发工程师及-2024-届实习生](https://www.v2ex.com/t/894899) 
 - [【V2EX】2022-11-13-Chrome-无法定位，求助](https://www.v2ex.com/t/894898) 
@@ -107,11 +112,6 @@
 - [【V2EX】2022-11-13-企业家好累，天天拼刺刀](https://www.v2ex.com/t/894860) 
 - [【V2EX】2022-11-13-光猫通过-DHCPv6-PD-派发的地址为何与-PD-前缀不同呢](https://www.v2ex.com/t/894859) 
 - [【V2EX】2022-11-13-关于-XBOXS-上的-BesTV-无法正常打开的问题](https://www.v2ex.com/t/894857) 
-- [【V2EX】2022-11-13-XGPU-快到期了，不知道黑周五有没有活动](https://www.v2ex.com/t/894856) 
-- [【V2EX】2022-11-13-safari-里直接复制图片中的文字，但是不支持日文？](https://www.v2ex.com/t/894855) 
-- [【V2EX】2022-11-13-Gotech-Inc-直聘-「海外」SEO/-PHP-/前端/运维/测试等技术岗位「-20-k--80-k-RMB」](https://www.v2ex.com/t/894854) 
-- [【V2EX】2022-11-13-是否有今年阿里云-ECS-续费的最佳实践](https://www.v2ex.com/t/894853) 
-- [【V2EX】2022-11-13-我又来了，-android-第三方相册，-时隔-3-月，-再次来到-v2ex.](https://www.v2ex.com/t/894851) 
 - [【技术头条】2022-11-13-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-13-以综合指数观察和评价研发效能的趋势-link.zhihu.com](https://blogread.cn/news/go.php?idItem=15406&url=https%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttps%253A%2F%2Finsights.thoughtworks.cn%2Fobserving-evaluating-research-development-efficiency-trend%2F%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-13-DDD的哲学意味（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15405&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fddd-philosophy-entity-value-object%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

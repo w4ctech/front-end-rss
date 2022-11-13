@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-13 08:45:11。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-13 09:14:30。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,10 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-13-上海电信，原本是-SDN-光猫，可以自行更换光猫吗？](https://www.v2ex.com/t/894890) 
+- [【V2EX】2022-11-13-摸鱼开发纯-C-协程框架的后续和心得](https://www.v2ex.com/t/894889) 
+- [【V2EX】2022-11-13-请大家推荐-Android-手机给爸妈用](https://www.v2ex.com/t/894888) 
+- [【V2EX】2022-11-13-中国亚马逊-app-不能切换到国外了…](https://www.v2ex.com/t/894887) 
 - [【V2EX】2022-11-13-求职前端三年经验，前端开发工程师](https://www.v2ex.com/t/894886) 
 - [【V2EX】2022-11-13-阿里云老用户活动上新！轻量机-360/年-新购服务器-3.6-折-新老用户免费领云电脑](https://www.v2ex.com/t/894883) 
 - [【V2EX】2022-11-13-ai-作画](https://www.v2ex.com/t/894882) 
@@ -104,9 +108,6 @@
 - [【V2EX】2022-11-13-杭州-招初中级前端](https://www.v2ex.com/t/894844) 
 - [【V2EX】2022-11-13-你们有-ios-主屏通知动画的问题么？](https://www.v2ex.com/t/894843) 
 - [【V2EX】2022-11-13-求问五年内最稳的-4%收益方案](https://www.v2ex.com/t/894842) 
-- [【V2EX】2022-11-13-请教-esp8266-怎么清理-flash](https://www.v2ex.com/t/894840) 
-- [【V2EX】2022-11-13-Goravel-让微服务间通讯如此简单，省出来的时间想干点啥干点啥吧](https://www.v2ex.com/t/894838) 
-- [【V2EX】2022-11-13-iphone11-的拍照功能相当于多少钱的数码相机?](https://www.v2ex.com/t/894837) 
 - [【技术头条】2022-11-13-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-13-以综合指数观察和评价研发效能的趋势-link.zhihu.com](https://blogread.cn/news/go.php?idItem=15406&url=https%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttps%253A%2F%2Finsights.thoughtworks.cn%2Fobserving-evaluating-research-development-efficiency-trend%2F%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-13-DDD的哲学意味（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15405&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fddd-philosophy-entity-value-object%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

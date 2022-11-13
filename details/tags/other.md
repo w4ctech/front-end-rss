@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-13 14:13:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-13 14:39:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1917,6 +1917,8 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-11-13-Windows-快捷方式高级属性-以管理员权限运行-是什么东西](https://www.v2ex.com/t/894961) 
+- [2022-11-13-Azure-怎么查看剩余免费流量？](https://www.v2ex.com/t/894957) 
 - [2022-11-13-尝试屏蔽-rarbg-的广告,-勉强成功](https://www.v2ex.com/t/894956) 
 - [2022-11-13-20221113](https://www.v2ex.com/t/894955) 
 - [2022-11-13-想问下这里能不能找到-简时-伪装成时钟的隐私相册-的开发者呢？](https://www.v2ex.com/t/894954) 
@@ -1946,10 +1948,6 @@
 - [2022-11-13-苹果软件质量直逼微软，咖喱含量急剧升高](https://www.v2ex.com/t/894915) 
 - [2022-11-13-佛系背单词-App-第三弹之专注模式](https://www.v2ex.com/t/894913) 
 - [2022-11-13-升级-Ventura-后的几个问题各位有遇到的吗？](https://www.v2ex.com/t/894912) 
-- [2022-11-13-腾讯云吃相？](https://www.v2ex.com/t/894911) 
-- [2022-11-13-家装已经穿了七类屏蔽线，有什么补救办法？](https://www.v2ex.com/t/894910) 
-- [2022-11-13-iframe-标签怎么携带-token-啊？](https://www.v2ex.com/t/894909) 
-- [2022-11-13-如果你在火币有资产，建议提币](https://www.v2ex.com/t/894908) 
 - [2022-11-13-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-13-以综合指数观察和评价研发效能的趋势-link.zhihu.com](https://blogread.cn/news/go.php?idItem=15406&url=https%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttps%253A%2F%2Finsights.thoughtworks.cn%2Fobserving-evaluating-research-development-efficiency-trend%2F%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-13-DDD的哲学意味（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15405&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fddd-philosophy-entity-value-object%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

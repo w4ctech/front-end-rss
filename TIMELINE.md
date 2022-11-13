@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-13 06:18:12。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-13 06:46:30。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,10 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-13-如何在通过代理的同时使用-dnsmasq-的解析？](https://www.v2ex.com/t/894866) 
+- [【V2EX】2022-11-13-如何借助代理实现服务器的低延迟访问](https://www.v2ex.com/t/894865) 
+- [【V2EX】2022-11-13-Netflix-土耳其区招-3-个人😂](https://www.v2ex.com/t/894863) 
+- [【V2EX】2022-11-13-请推荐-OCR-app，扫描文字的](https://www.v2ex.com/t/894862) 
 - [【V2EX】2022-11-13-观帖“玩游戏如-GTA5-是否会极大影响电脑寿命？”有感？](https://www.v2ex.com/t/894861) 
 - [【V2EX】2022-11-13-企业家好累，天天拼刺刀](https://www.v2ex.com/t/894860) 
 - [【V2EX】2022-11-13-光猫通过-DHCPv6-PD-派发的地址为何与-PD-前缀不同呢](https://www.v2ex.com/t/894859) 
@@ -102,9 +106,6 @@
 - [【V2EX】2022-11-13-使用-c++为嵌入式-Linux-开发应用程序](https://www.v2ex.com/t/894819) 
 - [【V2EX】2022-11-13-QQ-邮箱扩容包开始收费了，￥-15/月](https://www.v2ex.com/t/894818) 
 - [【V2EX】2022-11-13-yt-dlp-you-get-下载-B-站视频，现在只有-480p-了？](https://www.v2ex.com/t/894817) 
-- [【V2EX】2022-11-13-请教，-1，关于新-V2EX-账号访问主题的问题。2-平常大家在哪个网站下载安卓-app-的？](https://www.v2ex.com/t/894815) 
-- [【V2EX】2022-11-13-远程-全职-C++-软件工程师](https://www.v2ex.com/t/894814) 
-- [【V2EX】2022-11-13-求好用好玩的安卓-app](https://www.v2ex.com/t/894812) 
 - [【技术头条】2022-11-13-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-13-以综合指数观察和评价研发效能的趋势-link.zhihu.com](https://blogread.cn/news/go.php?idItem=15406&url=https%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttps%253A%2F%2Finsights.thoughtworks.cn%2Fobserving-evaluating-research-development-efficiency-trend%2F%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-13-DDD的哲学意味（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15405&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fddd-philosophy-entity-value-object%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -124,8 +125,8 @@
 - [【开发者头条】2022-11-13-GitLink-如何使用-OpenSumi-突破代码托管平台-3-大体验瓶颈？](https://toutiao.io/k/ytxvzma) 
 - [【开发者头条】2022-11-13-Node.js-中的关注点分离](https://toutiao.io/k/icep1z6) 
 - [【开发者头条】2022-11-13-PANAMA:-共享机器学习集群的网内聚合框架](https://toutiao.io/k/mkj6rth) 
-- [【开发者头条】2022-11-13-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) 
 - [【开发者头条】2022-11-13-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) 
+- [【开发者头条】2022-11-13-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

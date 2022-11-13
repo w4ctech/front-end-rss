@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-13 17:15:05，:rocket: 更新条数: +2008， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-13 17:41:05，:rocket: 更新条数: +2008， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-11-13-一个便于开发-telescope-extension-的工具](https://www.v2ex.com/t/894977) ![](assets/new.png)  
 - [2022-11-13-无解的垃圾邮件？](https://www.v2ex.com/t/894976) ![](assets/new.png)  
 - [2022-11-13-自荐一套-nvim-配置-one.nvim](https://www.v2ex.com/t/894975) ![](assets/new.png)  
 - [2022-11-13-是的-无追-登录-iOS-支持苹果手机用户了](https://www.v2ex.com/t/894974) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-11-13-尝试屏蔽-rarbg-的广告,-勉强成功](https://www.v2ex.com/t/894956) ![](assets/new.png)  
 - [2022-11-13-20221113](https://www.v2ex.com/t/894955) ![](assets/new.png)  
 - [2022-11-13-想问下这里能不能找到-简时-伪装成时钟的隐私相册-的开发者呢？](https://www.v2ex.com/t/894954) ![](assets/new.png)  
-- [2022-11-13-Android-上有没有类似-iOS-Shortcuts-的软件？可以自定义弹出菜单什么的？](https://www.v2ex.com/t/894953) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -552,8 +552,8 @@
 - [2022-11-13-GitLink-如何使用-OpenSumi-突破代码托管平台-3-大体验瓶颈？](https://toutiao.io/k/ytxvzma) ![](assets/new.png)  
 - [2022-11-13-Node.js-中的关注点分离](https://toutiao.io/k/icep1z6) ![](assets/new.png)  
 - [2022-11-13-PANAMA:-共享机器学习集群的网内聚合框架](https://toutiao.io/k/mkj6rth) ![](assets/new.png)  
-- [2022-11-13-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) ![](assets/new.png)  
 - [2022-11-13-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) ![](assets/new.png)  
+- [2022-11-13-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) ![](assets/new.png)  
 - [2022-11-13-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-13 16:18:19。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-13 16:54:13。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,9 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-13-自荐一套-nvim-配置-one.nvim](https://www.v2ex.com/t/894975) 
+- [【V2EX】2022-11-13-是的-无追-登录-iOS-支持苹果手机用户了](https://www.v2ex.com/t/894974) 
+- [【V2EX】2022-11-13-时间机器能使用内部硬盘或分区吗？](https://www.v2ex.com/t/894973) 
 - [【V2EX】2022-11-13-广州软件开发工作讨论](https://www.v2ex.com/t/894971) 
 - [【V2EX】2022-11-13-求救求救，群晖要怎么恢复存储池呀](https://www.v2ex.com/t/894969) 
 - [【V2EX】2022-11-13-为啥国产显示器都用-ACDC-电源，没有更优雅一点的方案吗](https://www.v2ex.com/t/894968) 
@@ -106,9 +109,6 @@
 - [【V2EX】2022-11-13-docker-如何更便捷的更新容器](https://www.v2ex.com/t/894929) 
 - [【V2EX】2022-11-13-hugo-如何在-rss-输出中索引子目录下的内容](https://www.v2ex.com/t/894928) 
 - [【V2EX】2022-11-13-广东潮州一辆特斯拉失控造成-2-死-3-伤](https://www.v2ex.com/t/894927) 
-- [【V2EX】2022-11-13-Air780E+ESP32C3-短信转发](https://www.v2ex.com/t/894925) 
-- [【V2EX】2022-11-13-deeper-connect-mini-打折的最后一个晚上](https://www.v2ex.com/t/894924) 
-- [【V2EX】2022-11-13-上海本三-Java-求一个坑位](https://www.v2ex.com/t/894923) 
 - [【技术头条】2022-11-13-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-13-以综合指数观察和评价研发效能的趋势-link.zhihu.com](https://blogread.cn/news/go.php?idItem=15406&url=https%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttps%253A%2F%2Finsights.thoughtworks.cn%2Fobserving-evaluating-research-development-efficiency-trend%2F%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-13-DDD的哲学意味（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15405&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fddd-philosophy-entity-value-object%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -128,8 +128,8 @@
 - [【开发者头条】2022-11-13-GitLink-如何使用-OpenSumi-突破代码托管平台-3-大体验瓶颈？](https://toutiao.io/k/ytxvzma) 
 - [【开发者头条】2022-11-13-Node.js-中的关注点分离](https://toutiao.io/k/icep1z6) 
 - [【开发者头条】2022-11-13-PANAMA:-共享机器学习集群的网内聚合框架](https://toutiao.io/k/mkj6rth) 
-- [【开发者头条】2022-11-13-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) 
 - [【开发者头条】2022-11-13-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) 
+- [【开发者头条】2022-11-13-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) 
 - [【开发者头条】2022-11-13-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>

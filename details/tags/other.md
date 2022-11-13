@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-13 21:13:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-13 21:38:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1917,6 +1917,7 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-11-13-印象笔记-迁移至-Evernote](https://www.v2ex.com/t/894985) 
 - [2022-11-13-为什么我的移动硬盘ssd格式化后速度会变快？不格式化有办法变快吗？](https://www.v2ex.com/t/894982) 
 - [2022-11-13-远程文件共享有什么好用的工具吗？](https://www.v2ex.com/t/894981) 
 - [2022-11-13-20221114-午夜俱乐部](https://www.v2ex.com/t/894980) 
@@ -1948,7 +1949,6 @@
 - [2022-11-13-手机上有一张图（通常来自于微信），如何最快速简便的打上“谣言”的印章](https://www.v2ex.com/t/894940) 
 - [2022-11-13-越来越感觉赚不到钱了](https://www.v2ex.com/t/894939) 
 - [2022-11-13-给女朋友开张银行卡然后给她几千类似零花钱这样子普遍吗](https://www.v2ex.com/t/894937) 
-- [2022-11-13-群晖资源监控-硬盘-位置的-写入/s代表的是什么数值？](https://www.v2ex.com/t/894934) 
 - [2022-11-13-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-13-以综合指数观察和评价研发效能的趋势-link.zhihu.com](https://blogread.cn/news/go.php?idItem=15406&url=https%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttps%253A%2F%2Finsights.thoughtworks.cn%2Fobserving-evaluating-research-development-efficiency-trend%2F%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-13-DDD的哲学意味（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15405&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fddd-philosophy-entity-value-object%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

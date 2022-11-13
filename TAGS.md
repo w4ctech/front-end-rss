@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-11-13 13:47:30。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-13 14:13:18。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -57,7 +57,6 @@
 
 
 - [【V2EX】vue3-<template>里用-v-for-遍历数组对象，要用两次-v-for-循环后才能输出对象。现在只想要输出对象里的属性的值应该怎么弄？可以帮忙纠正错误吗？](https://www.v2ex.com/t/894943)
-- [【V2EX】iOS-Safari---Vue3---播放音效](https://www.v2ex.com/t/894906)
 - [......【查看更多】......](./details/tags/vue.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -248,6 +247,7 @@
 
 
 
+- [【V2EX】广州/苏州/北京-高性能计算-HPC-Linux-运维-支持全球客户](https://www.v2ex.com/t/894952)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

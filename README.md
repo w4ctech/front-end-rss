@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-13 11:13:17，:rocket: 更新条数: +2009， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-13 11:37:43，:rocket: 更新条数: +2009， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-11-13-多邮箱用户求-Spark-替代品](https://www.v2ex.com/t/894916) ![](assets/new.png)  
+- [2022-11-13-苹果软件质量直逼微软，咖喱含量急剧升高](https://www.v2ex.com/t/894915) ![](assets/new.png)  
+- [2022-11-13-佛系背单词-App-第三弹之专注模式](https://www.v2ex.com/t/894913) ![](assets/new.png)  
+- [2022-11-13-升级-Ventura-后的几个问题各位有遇到的吗？](https://www.v2ex.com/t/894912) ![](assets/new.png)  
 - [2022-11-13-腾讯云吃相？](https://www.v2ex.com/t/894911) ![](assets/new.png)  
 - [2022-11-13-家装已经穿了七类屏蔽线，有什么补救办法？](https://www.v2ex.com/t/894910) ![](assets/new.png)  
 - [2022-11-13-iframe-标签怎么携带-token-啊？](https://www.v2ex.com/t/894909) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-11-13-有没有讲的比较好的有关于-Active-Directory-的文章或者书籍？](https://www.v2ex.com/t/894896) ![](assets/new.png)  
 - [2022-11-13-好久没来，素材管理看图软件-Picsee-更新，欢迎来下载！](https://www.v2ex.com/t/894895) ![](assets/new.png)  
 - [2022-11-13-为什么国外人做事会有一种传承感?-还是国内的太浮躁了?](https://www.v2ex.com/t/894894) ![](assets/new.png)  
-- [2022-11-13-发生了什么？好像各大平台-APP-都没有开屏摇一摇跳转广告了](https://www.v2ex.com/t/894893) ![](assets/new.png)  
-- [2022-11-13-华三-NX5400、红米-5400-/-3600-WIFI6-路由器选哪个？路由器选购求助](https://www.v2ex.com/t/894892) ![](assets/new.png)  
-- [2022-11-13-关于国内域名和国外服务器](https://www.v2ex.com/t/894891) ![](assets/new.png)  
-- [2022-11-13-上海电信，原本是-SDN-光猫，可以自行更换光猫吗？](https://www.v2ex.com/t/894890) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-13 04:09:15，:rocket: 更新条数: +2000， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-13 04:56:47，:rocket: 更新条数: +1999， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-11-13-我又来了，-android-第三方相册，-时隔-3-月，-再次来到-v2ex.](https://www.v2ex.com/t/894851) ![](assets/new.png)  
+- [2022-11-13-开大会以后，又可以不用梯子直接上-v2-了](https://www.v2ex.com/t/894850) ![](assets/new.png)  
+- [2022-11-13-请问下大佬们-鸡场节点可以看到用户的-Google-搜索内容吗？](https://www.v2ex.com/t/894849) ![](assets/new.png)  
+- [2022-11-13-App-提交新版本被-App-Store-拒了，问了我一个问题](https://www.v2ex.com/t/894848) ![](assets/new.png)  
+- [2022-11-13-个人开发盈利性质-APP-就违法了吗？](https://www.v2ex.com/t/894845) ![](assets/new.png)  
+- [2022-11-13-杭州-招初中级前端](https://www.v2ex.com/t/894844) ![](assets/new.png)  
 - [2022-11-13-你们有-ios-主屏通知动画的问题么？](https://www.v2ex.com/t/894843) ![](assets/new.png)  
 - [2022-11-13-求问五年内最稳的-4%收益方案](https://www.v2ex.com/t/894842) ![](assets/new.png)  
 - [2022-11-13-请教-esp8266-怎么清理-flash](https://www.v2ex.com/t/894840) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-11-13-2022-卡塔尔世界杯-比赛日历订阅](https://www.v2ex.com/t/894827) ![](assets/new.png)  
 - [2022-11-13-家庭共享下有成员被-ban，如何踢出家庭组](https://www.v2ex.com/t/894826) ![](assets/new.png)  
 - [2022-11-13-拼多多补贴真狠，-2022atv-只要-1300](https://www.v2ex.com/t/894824) ![](assets/new.png)  
-- [2022-11-13-windows-桌面应用开发：使用-react](https://www.v2ex.com/t/894822) ![](assets/new.png)  
-- [2022-11-13-M2-Macbook-Air-现在可以-90W-充电了？](https://www.v2ex.com/t/894820) ![](assets/new.png)  
-- [2022-11-13-使用-c++为嵌入式-Linux-开发应用程序](https://www.v2ex.com/t/894819) ![](assets/new.png)  
-- [2022-11-13-QQ-邮箱扩容包开始收费了，￥-15/月](https://www.v2ex.com/t/894818) ![](assets/new.png)  
-- [2022-11-13-yt-dlp-you-get-下载-B-站视频，现在只有-480p-了？](https://www.v2ex.com/t/894817) ![](assets/new.png)  
-- [2022-11-13-请教，-1，关于新-V2EX-账号访问主题的问题。2-平常大家在哪个网站下载安卓-app-的？](https://www.v2ex.com/t/894815) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -546,8 +546,8 @@
 - [2022-11-13-还不会日志异常检测？看完这篇文章就够了](https://toutiao.io/k/ee2apjn) ![](assets/new.png)  
 - [2022-11-13-「云原生时代的-Java-虚拟机」针对于-GraalVM-的技术知识脉络的重塑和探究](https://toutiao.io/k/asjh7gh) ![](assets/new.png)  
 - [2022-11-13-记一次跨域配置引发的思考](https://toutiao.io/k/91gckgl) ![](assets/new.png)  
-- [2022-11-13-概念详解：数据仓库、数据湖、湖仓一体，究竟有什么区别](https://toutiao.io/k/qjpgmq0) ![](assets/new.png)  
 - [2022-11-13-聊一聊责任链模式](https://toutiao.io/k/zqs36e9) ![](assets/new.png)  
+- [2022-11-13-概念详解：数据仓库、数据湖、湖仓一体，究竟有什么区别](https://toutiao.io/k/qjpgmq0) ![](assets/new.png)  
 - [2022-11-13-小米创业思考-读后感](https://toutiao.io/k/lnkg9bi) ![](assets/new.png)  
 - [2022-11-13-GitLink-如何使用-OpenSumi-突破代码托管平台-3-大体验瓶颈？](https://toutiao.io/k/ytxvzma) ![](assets/new.png)  
 - [2022-11-13-Node.js-中的关注点分离](https://toutiao.io/k/icep1z6) ![](assets/new.png)  

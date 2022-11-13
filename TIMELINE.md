@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-13 04:09:15。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-13 04:56:47。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,12 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-13-我又来了，-android-第三方相册，-时隔-3-月，-再次来到-v2ex.](https://www.v2ex.com/t/894851) 
+- [【V2EX】2022-11-13-开大会以后，又可以不用梯子直接上-v2-了](https://www.v2ex.com/t/894850) 
+- [【V2EX】2022-11-13-请问下大佬们-鸡场节点可以看到用户的-Google-搜索内容吗？](https://www.v2ex.com/t/894849) 
+- [【V2EX】2022-11-13-App-提交新版本被-App-Store-拒了，问了我一个问题](https://www.v2ex.com/t/894848) 
+- [【V2EX】2022-11-13-个人开发盈利性质-APP-就违法了吗？](https://www.v2ex.com/t/894845) 
+- [【V2EX】2022-11-13-杭州-招初中级前端](https://www.v2ex.com/t/894844) 
 - [【V2EX】2022-11-13-你们有-ios-主屏通知动画的问题么？](https://www.v2ex.com/t/894843) 
 - [【V2EX】2022-11-13-求问五年内最稳的-4%收益方案](https://www.v2ex.com/t/894842) 
 - [【V2EX】2022-11-13-请教-esp8266-怎么清理-flash](https://www.v2ex.com/t/894840) 
@@ -97,13 +103,6 @@
 - [【V2EX】2022-11-13-杭州裁员或者换工作后社保断了对买房有影响吗？](https://www.v2ex.com/t/894809) 
 - [【V2EX】2022-11-13-求推荐支持键盘快捷键的轻量-golang-gui（仅需要-Linux-平台）](https://www.v2ex.com/t/894805) 
 - [【V2EX】2022-11-13-《FFmpeg-原理》第一版完成了](https://www.v2ex.com/t/894803) 
-- [【V2EX】2022-11-12-开启-Stage-manager-后一些网页的浏览器最小化检测就无效了](https://www.v2ex.com/t/894801) 
-- [【V2EX】2022-11-12-一直流鼻涕](https://www.v2ex.com/t/894800) 
-- [【V2EX】2022-11-12-Monterey-以来-Safari-的一个非常令人困扰的-bug，不知道各位遇到过吗？](https://www.v2ex.com/t/894799) 
-- [【V2EX】2022-11-12-我不理解这-bug-果子居然能一直留到现在](https://www.v2ex.com/t/894798) 
-- [【V2EX】2022-11-12-iOS-有没有办法只禁止单个-App-自动更新？](https://www.v2ex.com/t/894797) 
-- [【V2EX】2022-11-12-搞了台刀片发现不会玩，有懂的同学吗？](https://www.v2ex.com/t/894796) 
-- [【V2EX】2022-11-12-08-年-macbookpro-开机启动问题](https://www.v2ex.com/t/894794) 
 - [【技术头条】2022-11-13-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-13-以综合指数观察和评价研发效能的趋势-link.zhihu.com](https://blogread.cn/news/go.php?idItem=15406&url=https%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttps%253A%2F%2Finsights.thoughtworks.cn%2Fobserving-evaluating-research-development-efficiency-trend%2F%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-13-DDD的哲学意味（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15405&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fddd-philosophy-entity-value-object%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -117,8 +116,8 @@
 - [【开发者头条】2022-11-13-还不会日志异常检测？看完这篇文章就够了](https://toutiao.io/k/ee2apjn) 
 - [【开发者头条】2022-11-13-「云原生时代的-Java-虚拟机」针对于-GraalVM-的技术知识脉络的重塑和探究](https://toutiao.io/k/asjh7gh) 
 - [【开发者头条】2022-11-13-记一次跨域配置引发的思考](https://toutiao.io/k/91gckgl) 
-- [【开发者头条】2022-11-13-概念详解：数据仓库、数据湖、湖仓一体，究竟有什么区别](https://toutiao.io/k/qjpgmq0) 
 - [【开发者头条】2022-11-13-聊一聊责任链模式](https://toutiao.io/k/zqs36e9) 
+- [【开发者头条】2022-11-13-概念详解：数据仓库、数据湖、湖仓一体，究竟有什么区别](https://toutiao.io/k/qjpgmq0) 
 - [【开发者头条】2022-11-13-小米创业思考-读后感](https://toutiao.io/k/lnkg9bi) 
 - [【开发者头条】2022-11-13-GitLink-如何使用-OpenSumi-突破代码托管平台-3-大体验瓶颈？](https://toutiao.io/k/ytxvzma) 
 - [【开发者头条】2022-11-13-Node.js-中的关注点分离](https://toutiao.io/k/icep1z6) 

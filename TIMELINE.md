@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-13 10:42:43。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-13 11:13:17。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,10 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-13-腾讯云吃相？](https://www.v2ex.com/t/894911) 
+- [【V2EX】2022-11-13-家装已经穿了七类屏蔽线，有什么补救办法？](https://www.v2ex.com/t/894910) 
+- [【V2EX】2022-11-13-iframe-标签怎么携带-token-啊？](https://www.v2ex.com/t/894909) 
+- [【V2EX】2022-11-13-如果你在火币有资产，建议提币](https://www.v2ex.com/t/894908) 
 - [【V2EX】2022-11-13-iOS-Safari---Vue3---播放音效](https://www.v2ex.com/t/894906) 
 - [【V2EX】2022-11-13-关于核酸收费问题](https://www.v2ex.com/t/894905) 
 - [【V2EX】2022-11-13-如何让-Android-应用只读某个目录?](https://www.v2ex.com/t/894904) 
@@ -108,10 +112,6 @@
 - [【V2EX】2022-11-13-如何在通过代理的同时使用-dnsmasq-的解析？](https://www.v2ex.com/t/894866) 
 - [【V2EX】2022-11-13-如何借助代理实现服务器的低延迟访问](https://www.v2ex.com/t/894865) 
 - [【V2EX】2022-11-13-请推荐-OCR-app，扫描文字的](https://www.v2ex.com/t/894862) 
-- [【V2EX】2022-11-13-观帖“玩游戏如-GTA5-是否会极大影响电脑寿命？”有感？](https://www.v2ex.com/t/894861) 
-- [【V2EX】2022-11-13-企业家好累，天天拼刺刀](https://www.v2ex.com/t/894860) 
-- [【V2EX】2022-11-13-光猫通过-DHCPv6-PD-派发的地址为何与-PD-前缀不同呢](https://www.v2ex.com/t/894859) 
-- [【V2EX】2022-11-13-关于-XBOXS-上的-BesTV-无法正常打开的问题](https://www.v2ex.com/t/894857) 
 - [【技术头条】2022-11-13-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-13-以综合指数观察和评价研发效能的趋势-link.zhihu.com](https://blogread.cn/news/go.php?idItem=15406&url=https%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttps%253A%2F%2Finsights.thoughtworks.cn%2Fobserving-evaluating-research-development-efficiency-trend%2F%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-13-DDD的哲学意味（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15405&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fddd-philosophy-entity-value-object%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

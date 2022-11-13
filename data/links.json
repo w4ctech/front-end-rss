@@ -9953,7 +9953,22 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
-        "title": "耗时 3~20 分钟不等的 API，长 HTTP 链接和每 0.5 秒轮询的资源占用差别有多大？",
+        "title": "广州软件开发工作讨论",
+        "link": "https://www.v2ex.com/t/894971",
+        "date": "2022-11-13"
+      },
+      {
+        "title": "求救求救，群晖要怎么恢复存储池呀",
+        "link": "https://www.v2ex.com/t/894969",
+        "date": "2022-11-13"
+      },
+      {
+        "title": "为啥国产显示器都用 ACDC 电源，没有更优雅一点的方案吗",
+        "link": "https://www.v2ex.com/t/894968",
+        "date": "2022-11-13"
+      },
+      {
+        "title": "耗时 3~20 分钟不等的 API，单个长 HTTP 连接和返回任务 ID 每 0.5 秒轮询一次结果的资源占用差别有多大？",
         "link": "https://www.v2ex.com/t/894967",
         "date": "2022-11-13"
       },
@@ -10131,16 +10146,6 @@
         "title": "上海本三 Java 求一个坑位",
         "link": "https://www.v2ex.com/t/894923",
         "date": "2022-11-13"
-      },
-      {
-        "title": "双十一买了赫曼米勒 Aeron",
-        "link": "https://www.v2ex.com/t/894921",
-        "date": "2022-11-13"
-      },
-      {
-        "title": "有没有不喜欢 iOS16 通知系统的？",
-        "link": "https://www.v2ex.com/t/894920",
-        "date": "2022-11-13"
       }
     ]
   },
@@ -10259,6 +10264,11 @@
       {
         "title": "[推荐] 如何画出一张优秀的架构图？（老鸟必备）",
         "link": "https://toutiao.io/k/xiqybrh",
+        "date": "2022-11-13"
+      },
+      {
+        "title": "[推荐] 最适合程序员的画图工具？",
+        "link": "https://toutiao.io/k/hlv8j4z",
         "date": "2022-11-13"
       }
     ]

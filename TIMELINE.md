@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-13 15:41:58。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-13 16:18:19。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,7 +70,10 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
-- [【V2EX】2022-11-13-耗时-3~20-分钟不等的-API，长-HTTP-链接和每-0.5-秒轮询的资源占用差别有多大？](https://www.v2ex.com/t/894967) 
+- [【V2EX】2022-11-13-广州软件开发工作讨论](https://www.v2ex.com/t/894971) 
+- [【V2EX】2022-11-13-求救求救，群晖要怎么恢复存储池呀](https://www.v2ex.com/t/894969) 
+- [【V2EX】2022-11-13-为啥国产显示器都用-ACDC-电源，没有更优雅一点的方案吗](https://www.v2ex.com/t/894968) 
+- [【V2EX】2022-11-13-耗时-3~20-分钟不等的-API，单个长-HTTP-连接和返回任务-ID-每-0.5-秒轮询一次结果的资源占用差别有多大？](https://www.v2ex.com/t/894967) 
 - [【V2EX】2022-11-13-什么时候都说大环境不好，咋滴你是破坏大环境的人啊？](https://www.v2ex.com/t/894965) 
 - [【V2EX】2022-11-13-iPad-Pro-2020-传输速率请教](https://www.v2ex.com/t/894964) 
 - [【V2EX】2022-11-13-记录-当你感到失望、孤独、落魄的时候,看看《出租车司机》](https://www.v2ex.com/t/894963) 
@@ -106,8 +109,6 @@
 - [【V2EX】2022-11-13-Air780E+ESP32C3-短信转发](https://www.v2ex.com/t/894925) 
 - [【V2EX】2022-11-13-deeper-connect-mini-打折的最后一个晚上](https://www.v2ex.com/t/894924) 
 - [【V2EX】2022-11-13-上海本三-Java-求一个坑位](https://www.v2ex.com/t/894923) 
-- [【V2EX】2022-11-13-双十一买了赫曼米勒-Aeron](https://www.v2ex.com/t/894921) 
-- [【V2EX】2022-11-13-有没有不喜欢-iOS16-通知系统的？](https://www.v2ex.com/t/894920) 
 - [【技术头条】2022-11-13-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-13-以综合指数观察和评价研发效能的趋势-link.zhihu.com](https://blogread.cn/news/go.php?idItem=15406&url=https%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttps%253A%2F%2Finsights.thoughtworks.cn%2Fobserving-evaluating-research-development-efficiency-trend%2F%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-13-DDD的哲学意味（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15405&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fddd-philosophy-entity-value-object%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -129,6 +130,7 @@
 - [【开发者头条】2022-11-13-PANAMA:-共享机器学习集群的网内聚合框架](https://toutiao.io/k/mkj6rth) 
 - [【开发者头条】2022-11-13-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) 
 - [【开发者头条】2022-11-13-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) 
+- [【开发者头条】2022-11-13-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-13 04:56:47。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-13 05:15:56。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,8 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-13-是否有今年阿里云-ECS-续费的最佳实践](https://www.v2ex.com/t/894853) 
+- [【V2EX】2022-11-13-为啥在网上劝别人不婚不育的都喊那么大声](https://www.v2ex.com/t/894852) 
 - [【V2EX】2022-11-13-我又来了，-android-第三方相册，-时隔-3-月，-再次来到-v2ex.](https://www.v2ex.com/t/894851) 
 - [【V2EX】2022-11-13-开大会以后，又可以不用梯子直接上-v2-了](https://www.v2ex.com/t/894850) 
 - [【V2EX】2022-11-13-请问下大佬们-鸡场节点可以看到用户的-Google-搜索内容吗？](https://www.v2ex.com/t/894849) 
@@ -102,7 +104,6 @@
 - [【V2EX】2022-11-13-三四线城市办了一个建行卡。确限额-300，-3-年期限。这个如何有效投诉。](https://www.v2ex.com/t/894810) 
 - [【V2EX】2022-11-13-杭州裁员或者换工作后社保断了对买房有影响吗？](https://www.v2ex.com/t/894809) 
 - [【V2EX】2022-11-13-求推荐支持键盘快捷键的轻量-golang-gui（仅需要-Linux-平台）](https://www.v2ex.com/t/894805) 
-- [【V2EX】2022-11-13-《FFmpeg-原理》第一版完成了](https://www.v2ex.com/t/894803) 
 - [【技术头条】2022-11-13-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-13-以综合指数观察和评价研发效能的趋势-link.zhihu.com](https://blogread.cn/news/go.php?idItem=15406&url=https%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttps%253A%2F%2Finsights.thoughtworks.cn%2Fobserving-evaluating-research-development-efficiency-trend%2F%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-13-DDD的哲学意味（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15405&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fddd-philosophy-entity-value-object%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -121,8 +122,8 @@
 - [【开发者头条】2022-11-13-小米创业思考-读后感](https://toutiao.io/k/lnkg9bi) 
 - [【开发者头条】2022-11-13-GitLink-如何使用-OpenSumi-突破代码托管平台-3-大体验瓶颈？](https://toutiao.io/k/ytxvzma) 
 - [【开发者头条】2022-11-13-Node.js-中的关注点分离](https://toutiao.io/k/icep1z6) 
-- [【开发者头条】2022-11-13-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) 
 - [【开发者头条】2022-11-13-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) 
+- [【开发者头条】2022-11-13-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

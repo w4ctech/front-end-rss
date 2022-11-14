@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-14 07:38:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-14 08:20:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -14,4 +14,6 @@
 - [2021-03-08-香港再现数例疫苗接种严重异常事件-专家初判与疫苗无关](https://china.caixin.com/m/2021-03-08/101672619.html) 
 - [2021-03-03-港府回应一63岁患者死亡事件-暂无法确定与疫苗相关](https://m.caixin.com/m/2021-03-03/101670052.html) 
 - [2022-10-16-2022年新出了哪些form表单新特性？](https://www.zhangxinxu.com/wordpress/2022/10/2022-new-form-property/) 
+- [2022-11-14-iKuai-主路由-出现故障：-lan1-检测到环路，这个怎么破？](https://www.v2ex.com/t/895150) 
+- [2022-11-14-如何看待吴京在金鸡奖颁奖典礼上拿苹果手机上热搜事件](https://www.v2ex.com/t/895141) 
 - [2022-11-14-了解一下-js-如何获取另一个页面的-div-样式的-id-来进行判断](https://www.v2ex.com/t/895127) 

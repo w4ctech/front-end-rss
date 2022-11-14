@@ -9953,6 +9953,21 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "出 netcup 免税号+活动机",
+        "link": "https://www.v2ex.com/t/895266",
+        "date": "2022-11-14"
+      },
+      {
+        "title": "基于 Go net/http 开发的轻量路由框架-forest",
+        "link": "https://www.v2ex.com/t/895265",
+        "date": "2022-11-14"
+      },
+      {
+        "title": "还有老哥有 bob 或者 wins 的兑换码吗？我有闲置的其他码可以换",
+        "link": "https://www.v2ex.com/t/895264",
+        "date": "2022-11-14"
+      },
+      {
         "title": "深圳温柔小姐姐相亲",
         "link": "https://www.v2ex.com/t/895263",
         "date": "2022-11-14"
@@ -10086,16 +10101,6 @@
         "title": "南方的同学冬天家庭取暖解决方案是啥？",
         "link": "https://www.v2ex.com/t/895217",
         "date": "2022-11-14"
-      },
-      {
-        "title": "独立产品怎么收费啊？求科普",
-        "link": "https://www.v2ex.com/t/895216",
-        "date": "2022-11-14"
-      },
-      {
-        "title": "具备怎样的条件才算是一个合格的架构师？",
-        "link": "https://www.v2ex.com/t/895214",
-        "date": "2022-11-14"
       }
     ]
   },
@@ -10152,88 +10157,8 @@
     "link": "https://toutiao.io",
     "items": [
       {
-        "title": "Go 语言开发的超强企业级爬虫管理平台",
-        "link": "https://toutiao.io/k/skczdmd",
-        "date": "2022-11-14"
-      },
-      {
-        "title": "Raft 算法实现原理详解（图文全解析）",
-        "link": "https://toutiao.io/k/qlow8gy",
-        "date": "2022-11-14"
-      },
-      {
-        "title": "人生架构",
-        "link": "https://toutiao.io/k/3ha5rj8",
-        "date": "2022-11-14"
-      },
-      {
-        "title": "深入浅出学习透析 Nginx 服务器的基本原理和配置指南（初级实践篇 ）",
-        "link": "https://toutiao.io/k/bl8b11a",
-        "date": "2022-11-14"
-      },
-      {
-        "title": "单点登录必知的两个著名协议：SAML、OAuth2",
-        "link": "https://toutiao.io/k/6icpcqz",
-        "date": "2022-11-14"
-      },
-      {
-        "title": "万万没想到，除了香农计划，Python3.11 竟还有这么多性能提升",
-        "link": "https://toutiao.io/k/wzsqu03",
-        "date": "2022-11-14"
-      },
-      {
-        "title": "图解：Elasticsearch 8.X 如何求解环比上升比例？",
-        "link": "https://toutiao.io/k/0t54zi8",
-        "date": "2022-11-14"
-      },
-      {
-        "title": "C#/.Net 不要再使用 Aspose 和 iTextSharp 啦！QuestPDF 操作生成 PDF 更快更高效",
-        "link": "https://toutiao.io/k/rbeclli",
-        "date": "2022-11-14"
-      },
-      {
-        "title": "关于 AI 大模型的一点思考和讨论",
-        "link": "https://toutiao.io/k/qshgvgz",
-        "date": "2022-11-14"
-      },
-      {
-        "title": ".NET 7 AOT 的使用以及 .NET 与 Go 互相调用",
-        "link": "https://toutiao.io/k/td3qdfs",
-        "date": "2022-11-14"
-      },
-      {
-        "title": "前端也能微调一个 NLP 预训练模型",
-        "link": "https://toutiao.io/k/1swfy2z",
-        "date": "2022-11-14"
-      },
-      {
-        "title": "跨端动态化模板引擎详解，看完你也能写一个（GaiaX 开源解读）",
-        "link": "https://toutiao.io/k/zzaaus3",
-        "date": "2022-11-14"
-      },
-      {
-        "title": "连接池居然这么简单？",
-        "link": "https://toutiao.io/k/cag59by",
-        "date": "2022-11-14"
-      },
-      {
-        "title": "项目估计成功的 7 个要点",
-        "link": "https://toutiao.io/k/l73yb0v",
-        "date": "2022-11-14"
-      },
-      {
-        "title": "快递单中抽取关键信息【一】：基于 BiGRU + CR + 预训练的词向量优化",
-        "link": "https://toutiao.io/k/3oowlns",
-        "date": "2022-11-14"
-      },
-      {
-        "title": "被裁员！从无赔偿拿到 N + 1 的故事",
-        "link": "https://toutiao.io/k/stwc0dz",
-        "date": "2022-11-14"
-      },
-      {
-        "title": "[推荐] 新来个技术总监，仅花 2 小时，撸出一个多线程永动任务，看完直接跪了，真牛逼",
-        "link": "https://toutiao.io/k/6u3q7ke",
+        "title": "[推荐] 最适合程序员的画图工具？",
+        "link": "https://toutiao.io/k/hlv8j4z",
         "date": "2022-11-14"
       },
       {
@@ -10242,8 +10167,8 @@
         "date": "2022-11-14"
       },
       {
-        "title": "[推荐] 最适合程序员的画图工具？",
-        "link": "https://toutiao.io/k/hlv8j4z",
+        "title": "[推荐] 新来个技术总监，仅花 2 小时，撸出一个多线程永动任务，看完直接跪了，真牛逼",
+        "link": "https://toutiao.io/k/6u3q7ke",
         "date": "2022-11-14"
       }
     ]

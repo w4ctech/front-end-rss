@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-14 08:20:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-14 08:49:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1917,6 +1917,12 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-11-14-求助。7950x-与-13900k-适合买么?买谁合适啊？-至少用个-5-至-10-年，如何考虑，网上没找到扎实的科普](https://www.v2ex.com/t/895168) 
+- [2022-11-14-望京附近想租个-2-居住，找个人合租，有需求的么](https://www.v2ex.com/t/895165) 
+- [2022-11-14-open-rec：基于开源技术栈的推荐系统](https://www.v2ex.com/t/895164) 
+- [2022-11-14-CDN-可以加速-ssh-吗？](https://www.v2ex.com/t/895163) 
+- [2022-11-14-独立产品灵感周刊-DecoHack-#037---整理你的愿望清单](https://www.v2ex.com/t/895160) 
+- [2022-11-14-猎聘上看职位，百分之九十都是本科啊](https://www.v2ex.com/t/895159) 
 - [2022-11-14-软文的标签上限最好几个?](https://www.v2ex.com/t/895157) 
 - [2022-11-14-将常规网页转换为阿拉伯文那种自右至左的排版，前端有成熟的方案吗？](https://www.v2ex.com/t/895155) 
 - [2022-11-14-各位-V-友们，有韩服的-18+认证的-appleid-可以借用一下么？](https://www.v2ex.com/t/895154) 
@@ -1942,10 +1948,6 @@
 - [2022-11-14-再次见证国产开源的下限](https://www.v2ex.com/t/895128) 
 - [2022-11-14-关于-MacBook-无法连接校园网](https://www.v2ex.com/t/895121) 
 - [2022-11-14-用微信机器人完成核酸截图收集及统计分析-核酸识别](https://www.v2ex.com/t/895120) 
-- [2022-11-14-trackpad/touchpad/触控板-双指缩放/双击-一天出问题-无数次](https://www.v2ex.com/t/895116) 
-- [2022-11-14-有-V-友用过睡眠呼吸机吗？](https://www.v2ex.com/t/895113) 
-- [2022-11-14-适用于掌机、平板等的双系统/多系统快捷切换方法](https://www.v2ex.com/t/895112) 
-- [2022-11-14-有没有熟悉腾讯-tars-框架和-probuffer-数据格式的，有个远程私活](https://www.v2ex.com/t/895110) 
 - [2022-11-14-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-14-以综合指数观察和评价研发效能的趋势-link.zhihu.com](https://blogread.cn/news/go.php?idItem=15406&url=https%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttps%253A%2F%2Finsights.thoughtworks.cn%2Fobserving-evaluating-research-development-efficiency-trend%2F%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-14-DDD的哲学意味（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15405&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fddd-philosophy-entity-value-object%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1965,6 +1967,6 @@
 - [2022-11-14-项目估计成功的-7-个要点](https://toutiao.io/k/l73yb0v) 
 - [2022-11-14-被裁员！从无赔偿拿到-N-+-1-的故事](https://toutiao.io/k/stwc0dz) 
 - [2022-11-14-连接池居然这么简单？](https://toutiao.io/k/cag59by) 
+- [2022-11-14-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) 
 - [2022-11-14-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) 
 - [2022-11-14-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) 
-- [2022-11-14-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) 

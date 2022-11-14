@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-14 10:17:06，:rocket: 更新条数: +2011， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-14 10:45:46，:rocket: 更新条数: +2012， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,13 @@
 </summary>
 
 
+- [2022-11-14-这里有没有对-category-theory-信心十足的程序员？](https://www.v2ex.com/t/895207) ![](assets/new.png)  
+- [2022-11-14-新加坡房租涨太多了](https://www.v2ex.com/t/895206) ![](assets/new.png)  
+- [2022-11-14-星空-组网:-一个异地组建虚拟局域网的解决方案](https://www.v2ex.com/t/895205) ![](assets/new.png)  
+- [2022-11-14-找了个家境比自己好的老婆,想离婚](https://www.v2ex.com/t/895204) ![](assets/new.png)  
+- [2022-11-14-Sendgird-的-Email-Address-Validation-功能检测目标地址是否存在的原理是什么？](https://www.v2ex.com/t/895203) ![](assets/new.png)  
+- [2022-11-14-国行的勇士，你们还好吗](https://www.v2ex.com/t/895201) ![](assets/new.png)  
+- [2022-11-14-pixel-6a-美版，台版，日版有啥区别？](https://www.v2ex.com/t/895200) ![](assets/new.png)  
 - [2022-11-14-如何找到一些-JVM，-MySQL-的实战案例](https://www.v2ex.com/t/895199) ![](assets/new.png)  
 - [2022-11-14-请教-rust-交叉编译（macos-x86-编译-m1-等）](https://www.v2ex.com/t/895198) ![](assets/new.png)  
 - [2022-11-14-上海-CTO-私聊降薪，不同意就解除劳动合同。](https://www.v2ex.com/t/895195) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-11-14-有没有在线工单系统？](https://www.v2ex.com/t/895184) ![](assets/new.png)  
 - [2022-11-14-微信发布-iOS8.0.30-正式版](https://www.v2ex.com/t/895183) ![](assets/new.png)  
 - [2022-11-14-有人收到这种类似消息吗?是不是骗子](https://www.v2ex.com/t/895182) ![](assets/new.png)  
-- [2022-11-14-微信读书网页版拷贝行数限制](https://www.v2ex.com/t/895181) ![](assets/new.png)  
-- [2022-11-14-请教大佬一个关于图像识别液位的问题](https://www.v2ex.com/t/895180) ![](assets/new.png)  
-- [2022-11-14-全球企业-Logo-设计感和识别度-有哪些可以和-Apple相提并论](https://www.v2ex.com/t/895179) ![](assets/new.png)  
-- [2022-11-14-https-请求通过-http-代理关于“Proxy-Authorization”头添加不上的问题](https://www.v2ex.com/t/895178) ![](assets/new.png)  
-- [2022-11-14-问一下你们第一次离职是怎么做出的决定，心路历程，感觉离职这个决定好难做](https://www.v2ex.com/t/895177) ![](assets/new.png)  
-- [2022-11-14-腾讯云-5349-端口无法打开？](https://www.v2ex.com/t/895175) ![](assets/new.png)  
-- [2022-11-14-10-万以内有什么好玩的二手车？](https://www.v2ex.com/t/895174) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -557,9 +557,9 @@
 - [2022-11-14-快递单中抽取关键信息【一】：基于-BiGRU-+-CR-+-预训练的词向量优化](https://toutiao.io/k/3oowlns) ![](assets/new.png)  
 - [2022-11-14-连接池居然这么简单？](https://toutiao.io/k/cag59by) ![](assets/new.png)  
 - [2022-11-14-被裁员！从无赔偿拿到-N-+-1-的故事](https://toutiao.io/k/stwc0dz) ![](assets/new.png)  
-- [2022-11-14-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) ![](assets/new.png)  
 - [2022-11-14-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) ![](assets/new.png)  
 - [2022-11-14-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) ![](assets/new.png)  
+- [2022-11-14-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

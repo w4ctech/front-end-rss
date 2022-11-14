@@ -1,10 +1,17 @@
-:alarm_clock: 更新时间: 2022-11-14 10:17:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-14 10:45:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-11-14-这里有没有对-category-theory-信心十足的程序员？](https://www.v2ex.com/t/895207) 
+- [2022-11-14-新加坡房租涨太多了](https://www.v2ex.com/t/895206) 
+- [2022-11-14-星空-组网:-一个异地组建虚拟局域网的解决方案](https://www.v2ex.com/t/895205) 
+- [2022-11-14-找了个家境比自己好的老婆,想离婚](https://www.v2ex.com/t/895204) 
+- [2022-11-14-Sendgird-的-Email-Address-Validation-功能检测目标地址是否存在的原理是什么？](https://www.v2ex.com/t/895203) 
+- [2022-11-14-国行的勇士，你们还好吗](https://www.v2ex.com/t/895201) 
+- [2022-11-14-pixel-6a-美版，台版，日版有啥区别？](https://www.v2ex.com/t/895200) 
 - [2022-11-14-如何找到一些-JVM，-MySQL-的实战案例](https://www.v2ex.com/t/895199) 
 - [2022-11-14-请教-rust-交叉编译（macos-x86-编译-m1-等）](https://www.v2ex.com/t/895198) 
 - [2022-11-14-上海-CTO-私聊降薪，不同意就解除劳动合同。](https://www.v2ex.com/t/895195) 
@@ -37,9 +44,3 @@
 - [2022-11-14-CDN-可以加速-ssh-吗？](https://www.v2ex.com/t/895163) 
 - [2022-11-14-独立产品灵感周刊-DecoHack-#037---整理你的愿望清单](https://www.v2ex.com/t/895160) 
 - [2022-11-14-猎聘上看职位，百分之九十都是本科啊](https://www.v2ex.com/t/895159) 
-- [2022-11-14-软文的标签上限最好几个?](https://www.v2ex.com/t/895157) 
-- [2022-11-14-将常规网页转换为阿拉伯文那种自右至左的排版，前端有成熟的方案吗？](https://www.v2ex.com/t/895155) 
-- [2022-11-14-各位-V-友们，有韩服的-18+认证的-appleid-可以借用一下么？](https://www.v2ex.com/t/895154) 
-- [2022-11-14-非公有云环境下，如何实现-svc-的-external-ip](https://www.v2ex.com/t/895153) 
-- [2022-11-14-Goland-没有高亮？](https://www.v2ex.com/t/895151) 
-- [2022-11-14-iKuai-主路由-出现故障：-lan1-检测到环路，这个怎么破？](https://www.v2ex.com/t/895150) 

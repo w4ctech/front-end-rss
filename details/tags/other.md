@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-14 04:11:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-14 05:00:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1917,6 +1917,10 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-11-14-任务管理器还有办法显示-TUN-设备的使用率吗？](https://www.v2ex.com/t/895083) 
+- [2022-11-14-特斯拉车主服务：主张车辆数据自主管控，可随时查证分析](https://www.v2ex.com/t/895082) 
+- [2022-11-14-显示器刷新率根据电源供电类型自动修改](https://www.v2ex.com/t/895079) 
+- [2022-11-14-iOS16-的隐私策略问题](https://www.v2ex.com/t/895074) 
 - [2022-11-14-应届土木的出路？](https://www.v2ex.com/t/895073) 
 - [2022-11-14-啼笑皆非](https://www.v2ex.com/t/895072) 
 - [2022-11-14-看微博感觉这次不是开玩笑是真的要放开了吗](https://www.v2ex.com/t/895070) 
@@ -1945,13 +1949,6 @@
 - [2022-11-14-有没有买-LG-27UP850N-的，想看看大家咋设置的。](https://www.v2ex.com/t/895042) 
 - [2022-11-14-给-Mojave-壁纸调了色](https://www.v2ex.com/t/895041) 
 - [2022-11-14-即时设计前端这个插件模块是怎么实现的？是用了类似-figma-的技术吗？](https://www.v2ex.com/t/895040) 
-- [2022-11-14-大家有什么好的方式练习英语口语](https://www.v2ex.com/t/895037) 
-- [2022-11-14-windows-主机有没有办法在断电后自动启动？](https://www.v2ex.com/t/895034) 
-- [2022-11-14-咨询一个群晖跟-Mac-使用-smb-和-afp-的问题](https://www.v2ex.com/t/895032) 
-- [2022-11-14-上海-8-号线-杨思地铁站附近一室一厅整租求推荐](https://www.v2ex.com/t/895027) 
-- [2022-11-14-马斯克突然开除-80%推特合同工](https://www.v2ex.com/t/895026) 
-- [2022-11-14-用-iPhone-的注意防摔，-FaceID-还是会坏的](https://www.v2ex.com/t/895025) 
-- [2022-11-14-NVIDIA-英伟达-上海-高级车载安卓开发工程师](https://www.v2ex.com/t/895024) 
 - [2022-11-14-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-14-以综合指数观察和评价研发效能的趋势-link.zhihu.com](https://blogread.cn/news/go.php?idItem=15406&url=https%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttps%253A%2F%2Finsights.thoughtworks.cn%2Fobserving-evaluating-research-development-efficiency-trend%2F%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-14-DDD的哲学意味（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15405&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fddd-philosophy-entity-value-object%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

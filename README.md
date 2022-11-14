@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-14 04:11:33，:rocket: 更新条数: +2011， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-14 05:00:54，:rocket: 更新条数: +2011， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,14 @@
 </summary>
 
 
+- [2022-11-14-httpCanary-的上传服务器插件，这个应该如何配置？](https://www.v2ex.com/t/895086) ![](assets/new.png)  
+- [2022-11-14-任务管理器还有办法显示-TUN-设备的使用率吗？](https://www.v2ex.com/t/895083) ![](assets/new.png)  
+- [2022-11-14-特斯拉车主服务：主张车辆数据自主管控，可随时查证分析](https://www.v2ex.com/t/895082) ![](assets/new.png)  
+- [2022-11-14-大家是如何管理浏览器标签的呢?-一直没找到喜欢的方式,-于是撸了个插件~](https://www.v2ex.com/t/895080) ![](assets/new.png)  
+- [2022-11-14-显示器刷新率根据电源供电类型自动修改](https://www.v2ex.com/t/895079) ![](assets/new.png)  
+- [2022-11-14-Chrome-上有无比-SwitchyOmega-更好用的扩展？](https://www.v2ex.com/t/895078) ![](assets/new.png)  
+- [2022-11-14-哪些-steam-和-app-store-上都有的游戏在-app-store-上有特殊优化呢？](https://www.v2ex.com/t/895075) ![](assets/new.png)  
+- [2022-11-14-iOS16-的隐私策略问题](https://www.v2ex.com/t/895074) ![](assets/new.png)  
 - [2022-11-14-应届土木的出路？](https://www.v2ex.com/t/895073) ![](assets/new.png)  
 - [2022-11-14-啼笑皆非](https://www.v2ex.com/t/895072) ![](assets/new.png)  
 - [2022-11-14-看微博感觉这次不是开玩笑是真的要放开了吗](https://www.v2ex.com/t/895070) ![](assets/new.png)  
@@ -503,14 +511,6 @@
 - [2022-11-14-聊聊曾经的一家公司，以及那曾被仙人跳的前同事](https://www.v2ex.com/t/895062) ![](assets/new.png)  
 - [2022-11-14-（咨询）电动车交通事故后拒不赔偿，法院起诉后能否刑事拘留他。](https://www.v2ex.com/t/895061) ![](assets/new.png)  
 - [2022-11-14-西安的互联网圈怎么样？有没有交流圈，讨论群组之类的](https://www.v2ex.com/t/895060) ![](assets/new.png)  
-- [2022-11-14-你们的开源项目都怎么起名？](https://www.v2ex.com/t/895059) ![](assets/new.png)  
-- [2022-11-14-收个-DMIT-PVM.HKG.Lite.TINY-6.9](https://www.v2ex.com/t/895058) ![](assets/new.png)  
-- [2022-11-14-一个很简单的二元回归，但是只知道趋势没有准确标签](https://www.v2ex.com/t/895057) ![](assets/new.png)  
-- [2022-11-14-AWS-EC2-为什么会自动断掉？](https://www.v2ex.com/t/895056) ![](assets/new.png)  
-- [2022-11-14-三层楼考虑成本的话怎么全覆盖网络方案？](https://www.v2ex.com/t/895054) ![](assets/new.png)  
-- [2022-11-14-不是说，已经不会再出-4-和-5-了吗](https://www.v2ex.com/t/895053) ![](assets/new.png)  
-- [2022-11-14-HSBC-HK-app-是挂了么](https://www.v2ex.com/t/895052) ![](assets/new.png)  
-- [2022-11-14-无法打开-https://v2ex.com/notifications](https://www.v2ex.com/t/895051) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -552,8 +552,8 @@
 - [2022-11-14-.NET-7-AOT-的使用以及-.NET-与-Go-互相调用](https://toutiao.io/k/td3qdfs) ![](assets/new.png)  
 - [2022-11-14-跨端动态化模板引擎详解，看完你也能写一个（GaiaX-开源解读）](https://toutiao.io/k/zzaaus3) ![](assets/new.png)  
 - [2022-11-14-前端也能微调一个-NLP-预训练模型](https://toutiao.io/k/1swfy2z) ![](assets/new.png)  
-- [2022-11-14-单点登录必知的两个著名协议：SAML、OAuth2](https://toutiao.io/k/6icpcqz) ![](assets/new.png)  
 - [2022-11-14-万万没想到，除了香农计划，Python3.11-竟还有这么多性能提升](https://toutiao.io/k/wzsqu03) ![](assets/new.png)  
+- [2022-11-14-单点登录必知的两个著名协议：SAML、OAuth2](https://toutiao.io/k/6icpcqz) ![](assets/new.png)  
 - [2022-11-14-项目估计成功的-7-个要点](https://toutiao.io/k/l73yb0v) ![](assets/new.png)  
 - [2022-11-14-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) ![](assets/new.png)  
 - [2022-11-14-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) ![](assets/new.png)  

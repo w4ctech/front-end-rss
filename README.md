@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-14 18:17:07，:rocket: 更新条数: +1990， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-14 18:47:54，:rocket: 更新条数: +1991， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-11-14-请问-AnyTrans-和-iMazing-哪个好用些](https://www.v2ex.com/t/895273) ![](assets/new.png)  
 - [2022-11-14-QQ-邮箱-的日历功能是被废掉了吗，还是-BUG-了。](https://www.v2ex.com/t/895272) ![](assets/new.png)  
 - [2022-11-14-苏南城市（不含上海），我这些要求大概刷掉多少公司？](https://www.v2ex.com/t/895271) ![](assets/new.png)  
 - [2022-11-14-Mac-Studio-外接-Dell-U2720Q-闪屏](https://www.v2ex.com/t/895270) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-11-14-求助-nginx-的-rewrite，需求是把-http-流量转到-https](https://www.v2ex.com/t/895255) ![](assets/new.png)  
 - [2022-11-14-由于-iPhone14-Pro-官网难买，写了个小工具监控线下直营店库存。](https://www.v2ex.com/t/895253) ![](assets/new.png)  
 - [2022-11-14-刷课网站，禁止了进度条拖动等功能，求编写油猴脚本覆盖思路](https://www.v2ex.com/t/895249) ![](assets/new.png)  
-- [2022-11-14-海思单片机-SPI-flash-32MB-扩容请教](https://www.v2ex.com/t/895247) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -541,9 +541,9 @@
 </summary>
 
 
-- [2022-11-14-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) ![](assets/new.png)  
-- [2022-11-14-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) ![](assets/new.png)  
 - [2022-11-14-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) ![](assets/new.png)  
+- [2022-11-14-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) ![](assets/new.png)  
+- [2022-11-14-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

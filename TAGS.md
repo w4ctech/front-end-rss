@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-11-13 23:42:34。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-14 01:05:33。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -56,7 +56,6 @@
 
 
 
-- [【V2EX】vue3-<template>里用-v-for-遍历数组对象，要用两次-v-for-循环后才能输出对象。现在只想要输出对象里的属性的值应该怎么弄？可以帮忙纠正错误吗？](https://www.v2ex.com/t/894943)
 - [......【查看更多】......](./details/tags/vue.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -106,7 +105,6 @@
 
 
 
-- [【开发者头条】Node.js-中的关注点分离](https://toutiao.io/k/icep1z6)
 - [......【查看更多】......](./details/tags/nodejs.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -233,6 +231,7 @@
 
 - [【武汉肺炎防疫全纪录(财新网)】广州17岁男生在定点医院参加高考-特殊考场视频监考](https://m.caixin.com/m/2021-06-05/101723418.html)
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
+- [【V2EX】ios16-视频播放暂停快进快退键遮挡视线](https://www.v2ex.com/t/894999)
 - [【V2EX】android-手机浏览器里，有什么浏览器和-IOS-ALOOK-浏览器一样可以识别视频链接，并且可以弹窗播放的。](https://www.v2ex.com/t/894958)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
@@ -274,7 +273,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
 - [【V2EX】感情出现分歧，请求各位大佬指点](https://www.v2ex.com/t/894984)
-- [【开发者头条】记一次跨域配置引发的思考](https://toutiao.io/k/91gckgl)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -293,6 +291,8 @@
 
 - [【V2EX】自荐一套-nvim-配置-one.nvim](https://www.v2ex.com/t/894975)
 - [【V2EX】耗时-3~20-分钟不等的-API，单个长-HTTP-连接和返回任务-ID-每-0.5-秒轮询一次结果的资源占用差别有多大？](https://www.v2ex.com/t/894967)
+- [【开发者头条】Raft-算法实现原理详解（图文全解析）](https://toutiao.io/k/qlow8gy)
+- [【开发者头条】图解：Elasticsearch-8.X-如何求解环比上升比例？](https://toutiao.io/k/0t54zi8)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -309,6 +309,7 @@
 
 
 
+- [【开发者头条】深入浅出学习透析-Nginx-服务器的基本原理和配置指南（初级实践篇-）](https://toutiao.io/k/bl8b11a)
 - [......【查看更多】......](./details/tags/server.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -325,7 +326,6 @@
 
 
 
-- [【开发者头条】GitLink-如何使用-OpenSumi-突破代码托管平台-3-大体验瓶颈？](https://toutiao.io/k/ytxvzma)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -342,6 +342,7 @@
 
 
 
+- [【V2EX】招聘赴日程序猿](https://www.v2ex.com/t/894991)
 - [【V2EX】北京-内推北京默契破冰公司-平台业务招聘-Java-高级工程师](https://www.v2ex.com/t/894962)
 - [......【查看更多】......](./details/tags/job-interview.md)
 

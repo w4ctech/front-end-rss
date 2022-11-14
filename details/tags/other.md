@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-14 05:28:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-14 05:46:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1917,6 +1917,9 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-11-14-对象存储有什么玩法教程呀？](https://www.v2ex.com/t/895103) 
+- [2022-11-14-疫情全面放开还需要多久](https://www.v2ex.com/t/895102) 
+- [2022-11-14-产品发布-2-个多月后，我接到了收购意向，然后……](https://www.v2ex.com/t/895100) 
 - [2022-11-14-TODO（待办）新功能上线啦-！-🎉🎉🎉](https://www.v2ex.com/t/895098) 
 - [2022-11-14-发现-ios16-系统最近桌面经常闪退重启](https://www.v2ex.com/t/895097) 
 - [2022-11-14-求搞机大佬能分享一下-BuzzKill-的规则](https://www.v2ex.com/t/895096) 
@@ -1941,10 +1944,6 @@
 - [2022-11-14-收个-DMIT-PVM.HKG.Lite.TINY-6.9](https://www.v2ex.com/t/895058) 
 - [2022-11-14-一个很简单的二元回归，但是只知道趋势没有准确标签](https://www.v2ex.com/t/895057) 
 - [2022-11-14-AWS-EC2-为什么会自动断掉？](https://www.v2ex.com/t/895056) 
-- [2022-11-14-三层楼考虑成本的话怎么全覆盖网络方案？](https://www.v2ex.com/t/895054) 
-- [2022-11-14-不是说，已经不会再出-4-和-5-了吗](https://www.v2ex.com/t/895053) 
-- [2022-11-14-HSBC-HK-app-是挂了么](https://www.v2ex.com/t/895052) 
-- [2022-11-14-爬虫真的有法律风险吗，个人弄了一个爬取晨星国内基金的爬取，然后对数据进行聚合，过滤，分析，输出，但是并不商用](https://www.v2ex.com/t/895050) 
 - [2022-11-14-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-14-以综合指数观察和评价研发效能的趋势-link.zhihu.com](https://blogread.cn/news/go.php?idItem=15406&url=https%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttps%253A%2F%2Finsights.thoughtworks.cn%2Fobserving-evaluating-research-development-efficiency-trend%2F%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-14-DDD的哲学意味（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15405&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fddd-philosophy-entity-value-object%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1962,6 +1961,6 @@
 - [2022-11-14-前端也能微调一个-NLP-预训练模型](https://toutiao.io/k/1swfy2z) 
 - [2022-11-14-单点登录必知的两个著名协议：SAML、OAuth2](https://toutiao.io/k/6icpcqz) 
 - [2022-11-14-项目估计成功的-7-个要点](https://toutiao.io/k/l73yb0v) 
-- [2022-11-14-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) 
-- [2022-11-14-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) 
 - [2022-11-14-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) 
+- [2022-11-14-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) 
+- [2022-11-14-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) 

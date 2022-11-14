@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-14 12:31:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-14 13:29:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1917,6 +1917,10 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-11-14-Yandex-Mail（Yandex-360）怎么样，看了价格有点心动](https://www.v2ex.com/t/895240) 
+- [2022-11-14-做了一个简单壁纸小玩具，欢迎大家体验](https://www.v2ex.com/t/895238) 
+- [2022-11-14-从今天热门话题想到的：单纯从技术上来说，-TESLA-有没有能力让北上深之类的大型城市交通彻底瘫痪？](https://www.v2ex.com/t/895236) 
+- [2022-11-14-求推荐-nas。。。](https://www.v2ex.com/t/895232) 
 - [2022-11-14-Onedrive-国内访问是变快了吗（1drv）？](https://www.v2ex.com/t/895230) 
 - [2022-11-14-无领标的长袖-T-恤，有推荐吗？](https://www.v2ex.com/t/895221) 
 - [2022-11-14-述职被问“项目是产品出的需求，取得的业绩和你有什么关系，你说你做的，换个人做不也一样”](https://www.v2ex.com/t/895218) 
@@ -1934,15 +1938,6 @@
 - [2022-11-14-请教-rust-交叉编译（macos-x86-编译-m1-等）](https://www.v2ex.com/t/895198) 
 - [2022-11-14-上海-CTO-私聊降薪，不同意就解除劳动合同。](https://www.v2ex.com/t/895195) 
 - [2022-11-14-关于杜比全景声解码器好像没有独立的解码器产品](https://www.v2ex.com/t/895194) 
-- [2022-11-14-如何实现一个-Kubernetes-CSI-Driver](https://www.v2ex.com/t/895191) 
-- [2022-11-14-关于产品灵感，在哪里可以一览查看国外的公司的融资情况，以寻找一些产品灵感？](https://www.v2ex.com/t/895190) 
-- [2022-11-14-双-11-买了个-AirPods-三代，收到之后发现没拆封过，查询序列号又没发现什么问题](https://www.v2ex.com/t/895189) 
-- [2022-11-14-MS-word-里面的页面的黑框是什么?-怎么取消](https://www.v2ex.com/t/895187) 
-- [2022-11-14-支付宝里湖北健康码打开，为什么要多一个步骤？](https://www.v2ex.com/t/895186) 
-- [2022-11-14-有没有在线工单系统？](https://www.v2ex.com/t/895184) 
-- [2022-11-14-微信发布-iOS8.0.30-正式版](https://www.v2ex.com/t/895183) 
-- [2022-11-14-有人收到这种类似消息吗?是不是骗子](https://www.v2ex.com/t/895182) 
-- [2022-11-14-微信读书网页版拷贝行数限制](https://www.v2ex.com/t/895181) 
 - [2022-11-14-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-14-以综合指数观察和评价研发效能的趋势-link.zhihu.com](https://blogread.cn/news/go.php?idItem=15406&url=https%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttps%253A%2F%2Finsights.thoughtworks.cn%2Fobserving-evaluating-research-development-efficiency-trend%2F%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-14-DDD的哲学意味（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15405&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fddd-philosophy-entity-value-object%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

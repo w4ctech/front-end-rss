@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-11-14 14:05:37。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-14 15:17:25。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -274,7 +274,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
 - [【V2EX】准备开源做一款-webview-浏览器，-模仿对象是-x-浏览器和-via-浏览器，-vivaldi-浏览器。](https://www.v2ex.com/t/895226)
-- [【V2EX】网站负载均衡-L7-转发-防-CC-攻击-选择-OpenResty-Edge-还是-HAProxy-企业版](https://www.v2ex.com/t/895208)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -291,6 +290,7 @@
 
 
 
+- [【V2EX】求助-nginx-的-rewrite，需求是把-http-流量转到-https](https://www.v2ex.com/t/895255)
 - [【开发者头条】Raft-算法实现原理详解（图文全解析）](https://toutiao.io/k/qlow8gy)
 - [【开发者头条】图解：Elasticsearch-8.X-如何求解环比上升比例？](https://toutiao.io/k/0t54zi8)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)

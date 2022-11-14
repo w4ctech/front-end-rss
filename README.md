@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-14 14:05:37，:rocket: 更新条数: +2002， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-14 15:17:24，:rocket: 更新条数: +2001， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,15 @@
 </summary>
 
 
+- [2022-11-14-174-买-giant-的公路车，-s-车架还是-m-车架舒服？](https://www.v2ex.com/t/895260) ![](assets/new.png)  
+- [2022-11-14-妈妈问我借钱去当扶弟魔，我也是无语了](https://www.v2ex.com/t/895259) ![](assets/new.png)  
+- [2022-11-14-电信的双千兆可以聚合成-2000-兆吗？](https://www.v2ex.com/t/895258) ![](assets/new.png)  
+- [2022-11-14-双十一的家庭网络设备升级与降级体验](https://www.v2ex.com/t/895257) ![](assets/new.png)  
+- [2022-11-14-坚持好难啊](https://www.v2ex.com/t/895256) ![](assets/new.png)  
+- [2022-11-14-求助-nginx-的-rewrite，需求是把-http-流量转到-https](https://www.v2ex.com/t/895255) ![](assets/new.png)  
+- [2022-11-14-由于-iPhone14-Pro-官网难买，写了个小工具监控线下直营店库存。](https://www.v2ex.com/t/895253) ![](assets/new.png)  
+- [2022-11-14-刷课网站，禁止了进度条拖动等功能，求编写油猴脚本覆盖思路](https://www.v2ex.com/t/895249) ![](assets/new.png)  
+- [2022-11-14-海思单片机-SPI-flash-32MB-扩容请教](https://www.v2ex.com/t/895247) ![](assets/new.png)  
 - [2022-11-14-不知道该分手还是结婚-请大家帮帮我](https://www.v2ex.com/t/895243) ![](assets/new.png)  
 - [2022-11-14-Yandex-Mail（Yandex-360）怎么样，看了价格有点心动](https://www.v2ex.com/t/895240) ![](assets/new.png)  
 - [2022-11-14-问下大家-CN2-机器建站-是不是只有电信用户访问有优化呀？](https://www.v2ex.com/t/895239) ![](assets/new.png)  
@@ -502,15 +511,6 @@
 - [2022-11-14-Onedrive-国内访问是变快了吗（1drv）？](https://www.v2ex.com/t/895230) ![](assets/new.png)  
 - [2022-11-14-新型冠状病毒肺炎疫情国内各主要查询信息入口](https://www.v2ex.com/t/895229) ![](assets/new.png)  
 - [2022-11-14-vscode-莫名奇妙-不用-Prettier-ESLint-格式化-vue-的函数前后空格和分号](https://www.v2ex.com/t/895227) ![](assets/new.png)  
-- [2022-11-14-准备开源做一款-webview-浏览器，-模仿对象是-x-浏览器和-via-浏览器，-vivaldi-浏览器。](https://www.v2ex.com/t/895226) ![](assets/new.png)  
-- [2022-11-14-工作一年-怎样做一个项目去完整全面的熟悉-redis+Node.js+mysql-呢](https://www.v2ex.com/t/895225) ![](assets/new.png)  
-- [2022-11-14-无领标的长袖-T-恤，有推荐吗？](https://www.v2ex.com/t/895221) ![](assets/new.png)  
-- [2022-11-14-述职被问“项目是产品出的需求，取得的业绩和你有什么关系，你说你做的，换个人做不也一样”](https://www.v2ex.com/t/895218) ![](assets/new.png)  
-- [2022-11-14-南方的同学冬天家庭取暖解决方案是啥？](https://www.v2ex.com/t/895217) ![](assets/new.png)  
-- [2022-11-14-独立产品怎么收费啊？求科普](https://www.v2ex.com/t/895216) ![](assets/new.png)  
-- [2022-11-14-具备怎样的条件才算是一个合格的架构师？](https://www.v2ex.com/t/895214) ![](assets/new.png)  
-- [2022-11-14-问一个-nginx-的问题](https://www.v2ex.com/t/895211) ![](assets/new.png)  
-- [2022-11-14-网站负载均衡-L7-转发-防-CC-攻击-选择-OpenResty-Edge-还是-HAProxy-企业版](https://www.v2ex.com/t/895208) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -551,10 +551,10 @@
 - [2022-11-14-C#/.Net-不要再使用-Aspose-和-iTextSharp-啦！QuestPDF-操作生成-PDF-更快更高效](https://toutiao.io/k/rbeclli) ![](assets/new.png)  
 - [2022-11-14-关于-AI-大模型的一点思考和讨论](https://toutiao.io/k/qshgvgz) ![](assets/new.png)  
 - [2022-11-14-.NET-7-AOT-的使用以及-.NET-与-Go-互相调用](https://toutiao.io/k/td3qdfs) ![](assets/new.png)  
-- [2022-11-14-跨端动态化模板引擎详解，看完你也能写一个（GaiaX-开源解读）](https://toutiao.io/k/zzaaus3) ![](assets/new.png)  
 - [2022-11-14-前端也能微调一个-NLP-预训练模型](https://toutiao.io/k/1swfy2z) ![](assets/new.png)  
-- [2022-11-14-项目估计成功的-7-个要点](https://toutiao.io/k/l73yb0v) ![](assets/new.png)  
+- [2022-11-14-跨端动态化模板引擎详解，看完你也能写一个（GaiaX-开源解读）](https://toutiao.io/k/zzaaus3) ![](assets/new.png)  
 - [2022-11-14-连接池居然这么简单？](https://toutiao.io/k/cag59by) ![](assets/new.png)  
+- [2022-11-14-项目估计成功的-7-个要点](https://toutiao.io/k/l73yb0v) ![](assets/new.png)  
 - [2022-11-14-快递单中抽取关键信息【一】：基于-BiGRU-+-CR-+-预训练的词向量优化](https://toutiao.io/k/3oowlns) ![](assets/new.png)  
 - [2022-11-14-被裁员！从无赔偿拿到-N-+-1-的故事](https://toutiao.io/k/stwc0dz) ![](assets/new.png)  
 - [2022-11-14-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) ![](assets/new.png)  

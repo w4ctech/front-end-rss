@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-14 09:42:22。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-14 10:17:06。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,11 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-14-如何找到一些-JVM，-MySQL-的实战案例](https://www.v2ex.com/t/895199) 
+- [【V2EX】2022-11-14-请教-rust-交叉编译（macos-x86-编译-m1-等）](https://www.v2ex.com/t/895198) 
+- [【V2EX】2022-11-14-上海-CTO-私聊降薪，不同意就解除劳动合同。](https://www.v2ex.com/t/895195) 
+- [【V2EX】2022-11-14-关于杜比全景声解码器好像没有独立的解码器产品](https://www.v2ex.com/t/895194) 
+- [【V2EX】2022-11-14-Office-365-家庭版-新车](https://www.v2ex.com/t/895193) 
 - [【V2EX】2022-11-14-如何实现一个-Kubernetes-CSI-Driver](https://www.v2ex.com/t/895191) 
 - [【V2EX】2022-11-14-关于产品灵感，在哪里可以一览查看国外的公司的融资情况，以寻找一些产品灵感？](https://www.v2ex.com/t/895190) 
 - [【V2EX】2022-11-14-双-11-买了个-AirPods-三代，收到之后发现没拆封过，查询序列号又没发现什么问题](https://www.v2ex.com/t/895189) 
@@ -103,11 +108,6 @@
 - [【V2EX】2022-11-14-非公有云环境下，如何实现-svc-的-external-ip](https://www.v2ex.com/t/895153) 
 - [【V2EX】2022-11-14-Goland-没有高亮？](https://www.v2ex.com/t/895151) 
 - [【V2EX】2022-11-14-iKuai-主路由-出现故障：-lan1-检测到环路，这个怎么破？](https://www.v2ex.com/t/895150) 
-- [【V2EX】2022-11-14-「全职远程按月付费」--React-Nextjs-前端工程师](https://www.v2ex.com/t/895149) 
-- [【V2EX】2022-11-14-现在，还有人在做自媒体副业的么，进来聊聊~](https://www.v2ex.com/t/895148) 
-- [【V2EX】2022-11-14-无法连接某个-ip-的故障](https://www.v2ex.com/t/895147) 
-- [【V2EX】2022-11-14-也说单踏板](https://www.v2ex.com/t/895145) 
-- [【V2EX】2022-11-14-使用了订阅模式续订了公司的开发者账号，后期还能使用网页续订么？](https://www.v2ex.com/t/895144) 
 - [【技术头条】2022-11-14-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-14-以综合指数观察和评价研发效能的趋势-link.zhihu.com](https://blogread.cn/news/go.php?idItem=15406&url=https%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttps%253A%2F%2Finsights.thoughtworks.cn%2Fobserving-evaluating-research-development-efficiency-trend%2F%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-14-DDD的哲学意味（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15405&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fddd-philosophy-entity-value-object%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -117,9 +117,9 @@
 - [【技术头条】2022-11-14-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-14-技术改变了什么？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15400&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fpower-of-technology%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【开发者头条】2022-11-14-Go-语言开发的超强企业级爬虫管理平台](https://toutiao.io/k/skczdmd) 
+- [【开发者头条】2022-11-14-Raft-算法实现原理详解（图文全解析）](https://toutiao.io/k/qlow8gy) 
 - [【开发者头条】2022-11-14-深入浅出学习透析-Nginx-服务器的基本原理和配置指南（初级实践篇-）](https://toutiao.io/k/bl8b11a) 
 - [【开发者头条】2022-11-14-人生架构](https://toutiao.io/k/3ha5rj8) 
-- [【开发者头条】2022-11-14-Raft-算法实现原理详解（图文全解析）](https://toutiao.io/k/qlow8gy) 
 - [【开发者头条】2022-11-14-万万没想到，除了香农计划，Python3.11-竟还有这么多性能提升](https://toutiao.io/k/wzsqu03) 
 - [【开发者头条】2022-11-14-单点登录必知的两个著名协议：SAML、OAuth2](https://toutiao.io/k/6icpcqz) 
 - [【开发者头条】2022-11-14-图解：Elasticsearch-8.X-如何求解环比上升比例？](https://toutiao.io/k/0t54zi8) 
@@ -130,11 +130,11 @@
 - [【开发者头条】2022-11-14-前端也能微调一个-NLP-预训练模型](https://toutiao.io/k/1swfy2z) 
 - [【开发者头条】2022-11-14-项目估计成功的-7-个要点](https://toutiao.io/k/l73yb0v) 
 - [【开发者头条】2022-11-14-快递单中抽取关键信息【一】：基于-BiGRU-+-CR-+-预训练的词向量优化](https://toutiao.io/k/3oowlns) 
-- [【开发者头条】2022-11-14-被裁员！从无赔偿拿到-N-+-1-的故事](https://toutiao.io/k/stwc0dz) 
 - [【开发者头条】2022-11-14-连接池居然这么简单？](https://toutiao.io/k/cag59by) 
+- [【开发者头条】2022-11-14-被裁员！从无赔偿拿到-N-+-1-的故事](https://toutiao.io/k/stwc0dz) 
 - [【开发者头条】2022-11-14-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) 
-- [【开发者头条】2022-11-14-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) 
 - [【开发者头条】2022-11-14-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) 
+- [【开发者头条】2022-11-14-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

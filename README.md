@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-14 09:42:22，:rocket: 更新条数: +2011， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-14 10:17:06，:rocket: 更新条数: +2011， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-11-14-如何找到一些-JVM，-MySQL-的实战案例](https://www.v2ex.com/t/895199) ![](assets/new.png)  
+- [2022-11-14-请教-rust-交叉编译（macos-x86-编译-m1-等）](https://www.v2ex.com/t/895198) ![](assets/new.png)  
+- [2022-11-14-上海-CTO-私聊降薪，不同意就解除劳动合同。](https://www.v2ex.com/t/895195) ![](assets/new.png)  
+- [2022-11-14-关于杜比全景声解码器好像没有独立的解码器产品](https://www.v2ex.com/t/895194) ![](assets/new.png)  
+- [2022-11-14-Office-365-家庭版-新车](https://www.v2ex.com/t/895193) ![](assets/new.png)  
 - [2022-11-14-如何实现一个-Kubernetes-CSI-Driver](https://www.v2ex.com/t/895191) ![](assets/new.png)  
 - [2022-11-14-关于产品灵感，在哪里可以一览查看国外的公司的融资情况，以寻找一些产品灵感？](https://www.v2ex.com/t/895190) ![](assets/new.png)  
 - [2022-11-14-双-11-买了个-AirPods-三代，收到之后发现没拆封过，查询序列号又没发现什么问题](https://www.v2ex.com/t/895189) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-11-14-问一下你们第一次离职是怎么做出的决定，心路历程，感觉离职这个决定好难做](https://www.v2ex.com/t/895177) ![](assets/new.png)  
 - [2022-11-14-腾讯云-5349-端口无法打开？](https://www.v2ex.com/t/895175) ![](assets/new.png)  
 - [2022-11-14-10-万以内有什么好玩的二手车？](https://www.v2ex.com/t/895174) ![](assets/new.png)  
-- [2022-11-14-可付费订阅，有什么在线观看日本-BS11-直播的正规渠道？](https://www.v2ex.com/t/895173) ![](assets/new.png)  
-- [2022-11-14-当前-11-月，-8w-上下，哪吒-v-和零跑-T03-怎么选？](https://www.v2ex.com/t/895172) ![](assets/new.png)  
-- [2022-11-14-请问有没有什么在线渠道可以查到来电电话号码的注册单位的?](https://www.v2ex.com/t/895171) ![](assets/new.png)  
-- [2022-11-14-请问下上海现在有办法打智飞的疫苗吗](https://www.v2ex.com/t/895170) ![](assets/new.png)  
-- [2022-11-14-求助。7950x-与-13900k-适合买么?买谁合适啊？-至少用个-5-至-10-年，如何考虑，网上没找到扎实的科普](https://www.v2ex.com/t/895168) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -542,9 +542,9 @@
 
 
 - [2022-11-14-Go-语言开发的超强企业级爬虫管理平台](https://toutiao.io/k/skczdmd) ![](assets/new.png)  
+- [2022-11-14-Raft-算法实现原理详解（图文全解析）](https://toutiao.io/k/qlow8gy) ![](assets/new.png)  
 - [2022-11-14-深入浅出学习透析-Nginx-服务器的基本原理和配置指南（初级实践篇-）](https://toutiao.io/k/bl8b11a) ![](assets/new.png)  
 - [2022-11-14-人生架构](https://toutiao.io/k/3ha5rj8) ![](assets/new.png)  
-- [2022-11-14-Raft-算法实现原理详解（图文全解析）](https://toutiao.io/k/qlow8gy) ![](assets/new.png)  
 - [2022-11-14-万万没想到，除了香农计划，Python3.11-竟还有这么多性能提升](https://toutiao.io/k/wzsqu03) ![](assets/new.png)  
 - [2022-11-14-单点登录必知的两个著名协议：SAML、OAuth2](https://toutiao.io/k/6icpcqz) ![](assets/new.png)  
 - [2022-11-14-图解：Elasticsearch-8.X-如何求解环比上升比例？](https://toutiao.io/k/0t54zi8) ![](assets/new.png)  
@@ -555,11 +555,11 @@
 - [2022-11-14-前端也能微调一个-NLP-预训练模型](https://toutiao.io/k/1swfy2z) ![](assets/new.png)  
 - [2022-11-14-项目估计成功的-7-个要点](https://toutiao.io/k/l73yb0v) ![](assets/new.png)  
 - [2022-11-14-快递单中抽取关键信息【一】：基于-BiGRU-+-CR-+-预训练的词向量优化](https://toutiao.io/k/3oowlns) ![](assets/new.png)  
-- [2022-11-14-被裁员！从无赔偿拿到-N-+-1-的故事](https://toutiao.io/k/stwc0dz) ![](assets/new.png)  
 - [2022-11-14-连接池居然这么简单？](https://toutiao.io/k/cag59by) ![](assets/new.png)  
+- [2022-11-14-被裁员！从无赔偿拿到-N-+-1-的故事](https://toutiao.io/k/stwc0dz) ![](assets/new.png)  
 - [2022-11-14-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) ![](assets/new.png)  
-- [2022-11-14-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) ![](assets/new.png)  
 - [2022-11-14-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) ![](assets/new.png)  
+- [2022-11-14-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

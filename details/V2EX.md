@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2022-11-14 16:20:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-14 17:03:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-11-14-Mac-Studio-外接-Dell-U2720Q-闪屏](https://www.v2ex.com/t/895270) 
+- [2022-11-14-杭州阿里云-Lindorm-多模数据库内核研发](https://www.v2ex.com/t/895269) 
+- [2022-11-14-如何用-kindle-阅读公众号文章](https://www.v2ex.com/t/895268) 
+- [2022-11-14-有没有-Java-大佬分析这是什么错误](https://www.v2ex.com/t/895267) 
 - [2022-11-14-出-netcup-免税号+活动机](https://www.v2ex.com/t/895266) 
 - [2022-11-14-基于-Go-net/http-开发的轻量路由框架-forest](https://www.v2ex.com/t/895265) 
 - [2022-11-14-还有老哥有-bob-或者-wins-的兑换码吗？我有闲置的其他码可以换](https://www.v2ex.com/t/895264) 
@@ -33,5 +37,3 @@
 - [2022-11-14-准备开源做一款-webview-浏览器，-模仿对象是-x-浏览器和-via-浏览器，-vivaldi-浏览器。](https://www.v2ex.com/t/895226) 
 - [2022-11-14-工作一年-怎样做一个项目去完整全面的熟悉-redis+Node.js+mysql-呢](https://www.v2ex.com/t/895225) 
 - [2022-11-14-无领标的长袖-T-恤，有推荐吗？](https://www.v2ex.com/t/895221) 
-- [2022-11-14-述职被问“项目是产品出的需求，取得的业绩和你有什么关系，你说你做的，换个人做不也一样”](https://www.v2ex.com/t/895218) 
-- [2022-11-14-南方的同学冬天家庭取暖解决方案是啥？](https://www.v2ex.com/t/895217) 

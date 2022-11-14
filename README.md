@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-14 16:20:07，:rocket: 更新条数: +1987， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-14 17:03:49，:rocket: 更新条数: +1989， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-11-14-Mac-Studio-外接-Dell-U2720Q-闪屏](https://www.v2ex.com/t/895270) ![](assets/new.png)  
+- [2022-11-14-杭州阿里云-Lindorm-多模数据库内核研发](https://www.v2ex.com/t/895269) ![](assets/new.png)  
+- [2022-11-14-如何用-kindle-阅读公众号文章](https://www.v2ex.com/t/895268) ![](assets/new.png)  
+- [2022-11-14-有没有-Java-大佬分析这是什么错误](https://www.v2ex.com/t/895267) ![](assets/new.png)  
 - [2022-11-14-出-netcup-免税号+活动机](https://www.v2ex.com/t/895266) ![](assets/new.png)  
 - [2022-11-14-基于-Go-net/http-开发的轻量路由框架-forest](https://www.v2ex.com/t/895265) ![](assets/new.png)  
 - [2022-11-14-还有老哥有-bob-或者-wins-的兑换码吗？我有闲置的其他码可以换](https://www.v2ex.com/t/895264) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-11-14-海思单片机-SPI-flash-32MB-扩容请教](https://www.v2ex.com/t/895247) ![](assets/new.png)  
 - [2022-11-14-不知道该分手还是结婚-请大家帮帮我](https://www.v2ex.com/t/895243) ![](assets/new.png)  
 - [2022-11-14-Yandex-Mail（Yandex-360）怎么样，看了价格有点心动](https://www.v2ex.com/t/895240) ![](assets/new.png)  
-- [2022-11-14-问下大家-CN2-机器建站-是不是只有电信用户访问有优化呀？](https://www.v2ex.com/t/895239) ![](assets/new.png)  
-- [2022-11-14-做了一个简单壁纸小玩具，欢迎大家体验](https://www.v2ex.com/t/895238) ![](assets/new.png)  
-- [2022-11-14-一部动画有几十个甚至更多画师作画，是怎么保证他们的画风统一的？](https://www.v2ex.com/t/895237) ![](assets/new.png)  
-- [2022-11-14-从今天热门话题想到的：单纯从技术上来说，-TESLA-有没有能力让北上深之类的大型城市交通彻底瘫痪？](https://www.v2ex.com/t/895236) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -541,9 +541,9 @@
 </summary>
 
 
-- [2022-11-14-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) ![](assets/new.png)  
 - [2022-11-14-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) ![](assets/new.png)  
 - [2022-11-14-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) ![](assets/new.png)  
+- [2022-11-14-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

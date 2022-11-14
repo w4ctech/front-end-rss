@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-14 10:45:46，:rocket: 更新条数: +2012， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-14 11:14:19，:rocket: 更新条数: +2010， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-11-14-具备怎样的条件才算是一个合格的架构师？](https://www.v2ex.com/t/895214) ![](assets/new.png)  
+- [2022-11-14-问一个-nginx-的问题](https://www.v2ex.com/t/895211) ![](assets/new.png)  
+- [2022-11-14-网站负载均衡-L7-转发-防-CC-攻击-选择-OpenResty-Edge-还是-HAProxy-企业版](https://www.v2ex.com/t/895208) ![](assets/new.png)  
 - [2022-11-14-这里有没有对-category-theory-信心十足的程序员？](https://www.v2ex.com/t/895207) ![](assets/new.png)  
 - [2022-11-14-新加坡房租涨太多了](https://www.v2ex.com/t/895206) ![](assets/new.png)  
 - [2022-11-14-星空-组网:-一个异地组建虚拟局域网的解决方案](https://www.v2ex.com/t/895205) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-11-14-双-11-买了个-AirPods-三代，收到之后发现没拆封过，查询序列号又没发现什么问题](https://www.v2ex.com/t/895189) ![](assets/new.png)  
 - [2022-11-14-MS-word-里面的页面的黑框是什么?-怎么取消](https://www.v2ex.com/t/895187) ![](assets/new.png)  
 - [2022-11-14-支付宝里湖北健康码打开，为什么要多一个步骤？](https://www.v2ex.com/t/895186) ![](assets/new.png)  
-- [2022-11-14-有没有在线工单系统？](https://www.v2ex.com/t/895184) ![](assets/new.png)  
-- [2022-11-14-微信发布-iOS8.0.30-正式版](https://www.v2ex.com/t/895183) ![](assets/new.png)  
-- [2022-11-14-有人收到这种类似消息吗?是不是骗子](https://www.v2ex.com/t/895182) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -543,8 +543,8 @@
 
 - [2022-11-14-Go-语言开发的超强企业级爬虫管理平台](https://toutiao.io/k/skczdmd) ![](assets/new.png)  
 - [2022-11-14-Raft-算法实现原理详解（图文全解析）](https://toutiao.io/k/qlow8gy) ![](assets/new.png)  
-- [2022-11-14-深入浅出学习透析-Nginx-服务器的基本原理和配置指南（初级实践篇-）](https://toutiao.io/k/bl8b11a) ![](assets/new.png)  
 - [2022-11-14-人生架构](https://toutiao.io/k/3ha5rj8) ![](assets/new.png)  
+- [2022-11-14-深入浅出学习透析-Nginx-服务器的基本原理和配置指南（初级实践篇-）](https://toutiao.io/k/bl8b11a) ![](assets/new.png)  
 - [2022-11-14-万万没想到，除了香农计划，Python3.11-竟还有这么多性能提升](https://toutiao.io/k/wzsqu03) ![](assets/new.png)  
 - [2022-11-14-单点登录必知的两个著名协议：SAML、OAuth2](https://toutiao.io/k/6icpcqz) ![](assets/new.png)  
 - [2022-11-14-图解：Elasticsearch-8.X-如何求解环比上升比例？](https://toutiao.io/k/0t54zi8) ![](assets/new.png)  
@@ -557,8 +557,8 @@
 - [2022-11-14-快递单中抽取关键信息【一】：基于-BiGRU-+-CR-+-预训练的词向量优化](https://toutiao.io/k/3oowlns) ![](assets/new.png)  
 - [2022-11-14-连接池居然这么简单？](https://toutiao.io/k/cag59by) ![](assets/new.png)  
 - [2022-11-14-被裁员！从无赔偿拿到-N-+-1-的故事](https://toutiao.io/k/stwc0dz) ![](assets/new.png)  
-- [2022-11-14-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) ![](assets/new.png)  
 - [2022-11-14-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) ![](assets/new.png)  
+- [2022-11-14-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) ![](assets/new.png)  
 - [2022-11-14-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

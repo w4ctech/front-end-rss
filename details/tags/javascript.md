@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-14 05:00:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-14 05:28:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -14,5 +14,5 @@
 - [2021-03-08-香港再现数例疫苗接种严重异常事件-专家初判与疫苗无关](https://china.caixin.com/m/2021-03-08/101672619.html) 
 - [2021-03-03-港府回应一63岁患者死亡事件-暂无法确定与疫苗相关](https://m.caixin.com/m/2021-03-03/101670052.html) 
 - [2022-10-16-2022年新出了哪些form表单新特性？](https://www.zhangxinxu.com/wordpress/2022/10/2022-new-form-property/) 
+- [2022-11-14-「全职远程」JavaScript-工程师/月薪-30-45K-RMB](https://www.v2ex.com/t/895091) 
 - [2022-11-14-前端-通过-JS-直接改变-input-的-value，在提交表单的时候无法通过校验：提示-input-的值不能为空，有解决办法吗](https://www.v2ex.com/t/895063) 
-- [2022-11-14-求推荐适配宁芝键盘的超薄键帽？](https://www.v2ex.com/t/895039) 

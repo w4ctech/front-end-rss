@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-14 07:14:31。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-14 07:38:55。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,12 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-14-在月子中心老婆面瘫宝宝进-NICU](https://www.v2ex.com/t/895140) 
+- [【V2EX】2022-11-14-看到一个段子，以为是搞笑的](https://www.v2ex.com/t/895139) 
+- [【V2EX】2022-11-14-Springboot-中-想要重启服务-该怎么写？](https://www.v2ex.com/t/895138) 
+- [【V2EX】2022-11-14-准备打离婚官司了，求推荐深圳靠谱的离婚律师](https://www.v2ex.com/t/895137) 
+- [【V2EX】2022-11-14-大聪明～～，领了京东的-plus-4-个月免费试用，新设备的-6-个月试用领不了了](https://www.v2ex.com/t/895136) 
+- [【V2EX】2022-11-14-有没有免费的电子保险箱？比如用来存储-SIM-卡-PUK、TOTP-密钥](https://www.v2ex.com/t/895135) 
 - [【V2EX】2022-11-14-一年一度的脐橙福利又来了哈。交个朋友。抽奖-3-箱。](https://www.v2ex.com/t/895134) 
 - [【V2EX】2022-11-14-很多人以为的单踏板](https://www.v2ex.com/t/895133) 
 - [【V2EX】2022-11-14-mac-有没有主题包下载？](https://www.v2ex.com/t/895132) 
@@ -96,9 +102,6 @@
 - [【V2EX】2022-11-14-有什么办法清理-mbp-屏幕缝隙里面的灰尘](https://www.v2ex.com/t/895095) 
 - [【V2EX】2022-11-14-Thinkpad-T14-对于-T490-的“扭曲变形的机身”有改进吗？](https://www.v2ex.com/t/895094) 
 - [【V2EX】2022-11-14-实用主义有没有可能发展成一种宗教？](https://www.v2ex.com/t/895093) 
-- [【V2EX】2022-11-14-「全职远程」JavaScript-工程师/月薪-30-45K-RMB](https://www.v2ex.com/t/895091) 
-- [【V2EX】2022-11-14-简中互联网有用信息越来越少](https://www.v2ex.com/t/895090) 
-- [【V2EX】2022-11-14-httpCanary-的上传服务器插件，这个应该如何配置？](https://www.v2ex.com/t/895086) 
 - [【技术头条】2022-11-14-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-14-以综合指数观察和评价研发效能的趋势-link.zhihu.com](https://blogread.cn/news/go.php?idItem=15406&url=https%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttps%253A%2F%2Finsights.thoughtworks.cn%2Fobserving-evaluating-research-development-efficiency-trend%2F%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-14-DDD的哲学意味（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15405&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fddd-philosophy-entity-value-object%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -113,10 +116,10 @@
 - [【开发者头条】2022-11-14-Raft-算法实现原理详解（图文全解析）](https://toutiao.io/k/qlow8gy) 
 - [【开发者头条】2022-11-14-人生架构](https://toutiao.io/k/3ha5rj8) 
 - [【开发者头条】2022-11-14-万万没想到，除了香农计划，Python3.11-竟还有这么多性能提升](https://toutiao.io/k/wzsqu03) 
+- [【开发者头条】2022-11-14-单点登录必知的两个著名协议：SAML、OAuth2](https://toutiao.io/k/6icpcqz) 
 - [【开发者头条】2022-11-14-C#/.Net-不要再使用-Aspose-和-iTextSharp-啦！QuestPDF-操作生成-PDF-更快更高效](https://toutiao.io/k/rbeclli) 
 - [【开发者头条】2022-11-14-图解：Elasticsearch-8.X-如何求解环比上升比例？](https://toutiao.io/k/0t54zi8) 
 - [【开发者头条】2022-11-14-关于-AI-大模型的一点思考和讨论](https://toutiao.io/k/qshgvgz) 
-- [【开发者头条】2022-11-14-单点登录必知的两个著名协议：SAML、OAuth2](https://toutiao.io/k/6icpcqz) 
 - [【开发者头条】2022-11-14-.NET-7-AOT-的使用以及-.NET-与-Go-互相调用](https://toutiao.io/k/td3qdfs) 
 - [【开发者头条】2022-11-14-跨端动态化模板引擎详解，看完你也能写一个（GaiaX-开源解读）](https://toutiao.io/k/zzaaus3) 
 - [【开发者头条】2022-11-14-前端也能微调一个-NLP-预训练模型](https://toutiao.io/k/1swfy2z) 
@@ -124,9 +127,9 @@
 - [【开发者头条】2022-11-14-快递单中抽取关键信息【一】：基于-BiGRU-+-CR-+-预训练的词向量优化](https://toutiao.io/k/3oowlns) 
 - [【开发者头条】2022-11-14-被裁员！从无赔偿拿到-N-+-1-的故事](https://toutiao.io/k/stwc0dz) 
 - [【开发者头条】2022-11-14-连接池居然这么简单？](https://toutiao.io/k/cag59by) 
-- [【开发者头条】2022-11-14-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) 
 - [【开发者头条】2022-11-14-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) 
 - [【开发者头条】2022-11-14-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) 
+- [【开发者头条】2022-11-14-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

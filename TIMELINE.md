@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-14 06:49:49。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-14 07:14:31。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,12 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-14-一年一度的脐橙福利又来了哈。交个朋友。抽奖-3-箱。](https://www.v2ex.com/t/895134) 
+- [【V2EX】2022-11-14-很多人以为的单踏板](https://www.v2ex.com/t/895133) 
+- [【V2EX】2022-11-14-mac-有没有主题包下载？](https://www.v2ex.com/t/895132) 
+- [【V2EX】2022-11-14-APP-没法记住密码](https://www.v2ex.com/t/895130) 
+- [【V2EX】2022-11-14-北京-猿辅导-C++-/-Web-前端开发工程师](https://www.v2ex.com/t/895129) 
+- [【V2EX】2022-11-14-再次见证国产开源的下限](https://www.v2ex.com/t/895128) 
 - [【V2EX】2022-11-14-了解一下-js-如何获取另一个页面的-div-样式的-id-来进行判断](https://www.v2ex.com/t/895127) 
 - [【V2EX】2022-11-14-关于-MacBook-无法连接校园网](https://www.v2ex.com/t/895121) 
 - [【V2EX】2022-11-14-用微信机器人完成核酸截图收集及统计分析-核酸识别](https://www.v2ex.com/t/895120) 
@@ -93,11 +99,6 @@
 - [【V2EX】2022-11-14-「全职远程」JavaScript-工程师/月薪-30-45K-RMB](https://www.v2ex.com/t/895091) 
 - [【V2EX】2022-11-14-简中互联网有用信息越来越少](https://www.v2ex.com/t/895090) 
 - [【V2EX】2022-11-14-httpCanary-的上传服务器插件，这个应该如何配置？](https://www.v2ex.com/t/895086) 
-- [【V2EX】2022-11-14-任务管理器还有办法显示-TUN-设备的使用率吗？](https://www.v2ex.com/t/895083) 
-- [【V2EX】2022-11-14-特斯拉车主服务：主张车辆数据自主管控，可随时查证分析](https://www.v2ex.com/t/895082) 
-- [【V2EX】2022-11-14-大家是如何管理浏览器标签的呢?-一直没找到喜欢的方式,-于是撸了个插件~](https://www.v2ex.com/t/895080) 
-- [【V2EX】2022-11-14-显示器刷新率根据电源供电类型自动修改](https://www.v2ex.com/t/895079) 
-- [【V2EX】2022-11-14-Chrome-上有无比-SwitchyOmega-更好用的扩展？](https://www.v2ex.com/t/895078) 
 - [【技术头条】2022-11-14-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-14-以综合指数观察和评价研发效能的趋势-link.zhihu.com](https://blogread.cn/news/go.php?idItem=15406&url=https%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttps%253A%2F%2Finsights.thoughtworks.cn%2Fobserving-evaluating-research-development-efficiency-trend%2F%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-14-DDD的哲学意味（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15405&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fddd-philosophy-entity-value-object%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -115,17 +116,17 @@
 - [【开发者头条】2022-11-14-C#/.Net-不要再使用-Aspose-和-iTextSharp-啦！QuestPDF-操作生成-PDF-更快更高效](https://toutiao.io/k/rbeclli) 
 - [【开发者头条】2022-11-14-图解：Elasticsearch-8.X-如何求解环比上升比例？](https://toutiao.io/k/0t54zi8) 
 - [【开发者头条】2022-11-14-关于-AI-大模型的一点思考和讨论](https://toutiao.io/k/qshgvgz) 
+- [【开发者头条】2022-11-14-单点登录必知的两个著名协议：SAML、OAuth2](https://toutiao.io/k/6icpcqz) 
 - [【开发者头条】2022-11-14-.NET-7-AOT-的使用以及-.NET-与-Go-互相调用](https://toutiao.io/k/td3qdfs) 
 - [【开发者头条】2022-11-14-跨端动态化模板引擎详解，看完你也能写一个（GaiaX-开源解读）](https://toutiao.io/k/zzaaus3) 
 - [【开发者头条】2022-11-14-前端也能微调一个-NLP-预训练模型](https://toutiao.io/k/1swfy2z) 
-- [【开发者头条】2022-11-14-单点登录必知的两个著名协议：SAML、OAuth2](https://toutiao.io/k/6icpcqz) 
 - [【开发者头条】2022-11-14-项目估计成功的-7-个要点](https://toutiao.io/k/l73yb0v) 
 - [【开发者头条】2022-11-14-快递单中抽取关键信息【一】：基于-BiGRU-+-CR-+-预训练的词向量优化](https://toutiao.io/k/3oowlns) 
 - [【开发者头条】2022-11-14-被裁员！从无赔偿拿到-N-+-1-的故事](https://toutiao.io/k/stwc0dz) 
 - [【开发者头条】2022-11-14-连接池居然这么简单？](https://toutiao.io/k/cag59by) 
-- [【开发者头条】2022-11-14-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) 
 - [【开发者头条】2022-11-14-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) 
 - [【开发者头条】2022-11-14-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) 
+- [【开发者头条】2022-11-14-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

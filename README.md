@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-14 11:14:19，:rocket: 更新条数: +2010， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-14 11:38:45，:rocket: 更新条数: +2009， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-11-14-述职被问“项目是产品出的需求，取得的业绩和你有什么关系，你说你做的，换个人做不也一样”](https://www.v2ex.com/t/895218) ![](assets/new.png)  
+- [2022-11-14-南方的同学冬天家庭取暖解决方案是啥？](https://www.v2ex.com/t/895217) ![](assets/new.png)  
+- [2022-11-14-独立产品怎么收费啊？求科普](https://www.v2ex.com/t/895216) ![](assets/new.png)  
 - [2022-11-14-具备怎样的条件才算是一个合格的架构师？](https://www.v2ex.com/t/895214) ![](assets/new.png)  
 - [2022-11-14-问一个-nginx-的问题](https://www.v2ex.com/t/895211) ![](assets/new.png)  
 - [2022-11-14-网站负载均衡-L7-转发-防-CC-攻击-选择-OpenResty-Edge-还是-HAProxy-企业版](https://www.v2ex.com/t/895208) ![](assets/new.png)  
@@ -505,12 +508,9 @@
 - [2022-11-14-请教-rust-交叉编译（macos-x86-编译-m1-等）](https://www.v2ex.com/t/895198) ![](assets/new.png)  
 - [2022-11-14-上海-CTO-私聊降薪，不同意就解除劳动合同。](https://www.v2ex.com/t/895195) ![](assets/new.png)  
 - [2022-11-14-关于杜比全景声解码器好像没有独立的解码器产品](https://www.v2ex.com/t/895194) ![](assets/new.png)  
-- [2022-11-14-Office-365-家庭版-新车](https://www.v2ex.com/t/895193) ![](assets/new.png)  
 - [2022-11-14-如何实现一个-Kubernetes-CSI-Driver](https://www.v2ex.com/t/895191) ![](assets/new.png)  
 - [2022-11-14-关于产品灵感，在哪里可以一览查看国外的公司的融资情况，以寻找一些产品灵感？](https://www.v2ex.com/t/895190) ![](assets/new.png)  
 - [2022-11-14-双-11-买了个-AirPods-三代，收到之后发现没拆封过，查询序列号又没发现什么问题](https://www.v2ex.com/t/895189) ![](assets/new.png)  
-- [2022-11-14-MS-word-里面的页面的黑框是什么?-怎么取消](https://www.v2ex.com/t/895187) ![](assets/new.png)  
-- [2022-11-14-支付宝里湖北健康码打开，为什么要多一个步骤？](https://www.v2ex.com/t/895186) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

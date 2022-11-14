@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-14 11:14:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-14 11:38:45。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,9 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-14-述职被问“项目是产品出的需求，取得的业绩和你有什么关系，你说你做的，换个人做不也一样”](https://www.v2ex.com/t/895218) 
+- [【V2EX】2022-11-14-南方的同学冬天家庭取暖解决方案是啥？](https://www.v2ex.com/t/895217) 
+- [【V2EX】2022-11-14-独立产品怎么收费啊？求科普](https://www.v2ex.com/t/895216) 
 - [【V2EX】2022-11-14-具备怎样的条件才算是一个合格的架构师？](https://www.v2ex.com/t/895214) 
 - [【V2EX】2022-11-14-问一个-nginx-的问题](https://www.v2ex.com/t/895211) 
 - [【V2EX】2022-11-14-网站负载均衡-L7-转发-防-CC-攻击-选择-OpenResty-Edge-还是-HAProxy-企业版](https://www.v2ex.com/t/895208) 
@@ -84,7 +87,6 @@
 - [【V2EX】2022-11-14-请教-rust-交叉编译（macos-x86-编译-m1-等）](https://www.v2ex.com/t/895198) 
 - [【V2EX】2022-11-14-上海-CTO-私聊降薪，不同意就解除劳动合同。](https://www.v2ex.com/t/895195) 
 - [【V2EX】2022-11-14-关于杜比全景声解码器好像没有独立的解码器产品](https://www.v2ex.com/t/895194) 
-- [【V2EX】2022-11-14-Office-365-家庭版-新车](https://www.v2ex.com/t/895193) 
 - [【V2EX】2022-11-14-如何实现一个-Kubernetes-CSI-Driver](https://www.v2ex.com/t/895191) 
 - [【V2EX】2022-11-14-关于产品灵感，在哪里可以一览查看国外的公司的融资情况，以寻找一些产品灵感？](https://www.v2ex.com/t/895190) 
 - [【V2EX】2022-11-14-双-11-买了个-AirPods-三代，收到之后发现没拆封过，查询序列号又没发现什么问题](https://www.v2ex.com/t/895189) 
@@ -104,9 +106,6 @@
 - [【V2EX】2022-11-14-当前-11-月，-8w-上下，哪吒-v-和零跑-T03-怎么选？](https://www.v2ex.com/t/895172) 
 - [【V2EX】2022-11-14-请问有没有什么在线渠道可以查到来电电话号码的注册单位的?](https://www.v2ex.com/t/895171) 
 - [【V2EX】2022-11-14-请问下上海现在有办法打智飞的疫苗吗](https://www.v2ex.com/t/895170) 
-- [【V2EX】2022-11-14-求助。7950x-与-13900k-适合买么?买谁合适啊？-至少用个-5-至-10-年，如何考虑，网上没找到扎实的科普](https://www.v2ex.com/t/895168) 
-- [【V2EX】2022-11-14-盖楼抽送-20-个-500GB-视频点播流量包-|-多吉云视频云点播产品介绍-|-年度优惠流量低至￥-0.028/GB](https://www.v2ex.com/t/895167) 
-- [【V2EX】2022-11-14-送码啦🎉-云开发收费后，我把我的记账小程序服务用-nestjs-重写了](https://www.v2ex.com/t/895166) 
 - [【技术头条】2022-11-14-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-14-以综合指数观察和评价研发效能的趋势-link.zhihu.com](https://blogread.cn/news/go.php?idItem=15406&url=https%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttps%253A%2F%2Finsights.thoughtworks.cn%2Fobserving-evaluating-research-development-efficiency-trend%2F%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-14-DDD的哲学意味（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15405&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fddd-philosophy-entity-value-object%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

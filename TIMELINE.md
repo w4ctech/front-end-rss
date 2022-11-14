@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-14 09:15:17。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-14 09:42:22。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,12 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-14-如何实现一个-Kubernetes-CSI-Driver](https://www.v2ex.com/t/895191) 
+- [【V2EX】2022-11-14-关于产品灵感，在哪里可以一览查看国外的公司的融资情况，以寻找一些产品灵感？](https://www.v2ex.com/t/895190) 
+- [【V2EX】2022-11-14-双-11-买了个-AirPods-三代，收到之后发现没拆封过，查询序列号又没发现什么问题](https://www.v2ex.com/t/895189) 
+- [【V2EX】2022-11-14-MS-word-里面的页面的黑框是什么?-怎么取消](https://www.v2ex.com/t/895187) 
+- [【V2EX】2022-11-14-支付宝里湖北健康码打开，为什么要多一个步骤？](https://www.v2ex.com/t/895186) 
+- [【V2EX】2022-11-14-有没有在线工单系统？](https://www.v2ex.com/t/895184) 
 - [【V2EX】2022-11-14-微信发布-iOS8.0.30-正式版](https://www.v2ex.com/t/895183) 
 - [【V2EX】2022-11-14-有人收到这种类似消息吗?是不是骗子](https://www.v2ex.com/t/895182) 
 - [【V2EX】2022-11-14-微信读书网页版拷贝行数限制](https://www.v2ex.com/t/895181) 
@@ -102,16 +108,6 @@
 - [【V2EX】2022-11-14-无法连接某个-ip-的故障](https://www.v2ex.com/t/895147) 
 - [【V2EX】2022-11-14-也说单踏板](https://www.v2ex.com/t/895145) 
 - [【V2EX】2022-11-14-使用了订阅模式续订了公司的开发者账号，后期还能使用网页续订么？](https://www.v2ex.com/t/895144) 
-- [【V2EX】2022-11-14-发个很少有人推的业务，运维服务，需要的喊我，双-11-有特价](https://www.v2ex.com/t/895143) 
-- [【V2EX】2022-11-14-工作后如何入党呢](https://www.v2ex.com/t/895142) 
-- [【V2EX】2022-11-14-如何看待吴京在金鸡奖颁奖典礼上拿苹果手机上热搜事件](https://www.v2ex.com/t/895141) 
-- [【V2EX】2022-11-14-在月子中心老婆面瘫宝宝进-NICU](https://www.v2ex.com/t/895140) 
-- [【V2EX】2022-11-14-看到一个段子，以为是搞笑的](https://www.v2ex.com/t/895139) 
-- [【V2EX】2022-11-14-Springboot-中-想要重启服务-该怎么写？](https://www.v2ex.com/t/895138) 
-- [【V2EX】2022-11-14-准备打离婚官司了，求推荐深圳靠谱的离婚律师](https://www.v2ex.com/t/895137) 
-- [【V2EX】2022-11-14-大聪明～～，领了京东的-plus-4-个月免费试用，新设备的-6-个月试用领不了了](https://www.v2ex.com/t/895136) 
-- [【V2EX】2022-11-14-有没有免费的电子保险箱？比如用来存储-SIM-卡-PUK、TOTP-密钥](https://www.v2ex.com/t/895135) 
-- [【V2EX】2022-11-14-一年一度的脐橙福利又来了哈。交个朋友。抽奖-3-箱。](https://www.v2ex.com/t/895134) 
 - [【技术头条】2022-11-14-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-14-以综合指数观察和评价研发效能的趋势-link.zhihu.com](https://blogread.cn/news/go.php?idItem=15406&url=https%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttps%253A%2F%2Finsights.thoughtworks.cn%2Fobserving-evaluating-research-development-efficiency-trend%2F%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-14-DDD的哲学意味（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15405&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fddd-philosophy-entity-value-object%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -136,9 +132,9 @@
 - [【开发者头条】2022-11-14-快递单中抽取关键信息【一】：基于-BiGRU-+-CR-+-预训练的词向量优化](https://toutiao.io/k/3oowlns) 
 - [【开发者头条】2022-11-14-被裁员！从无赔偿拿到-N-+-1-的故事](https://toutiao.io/k/stwc0dz) 
 - [【开发者头条】2022-11-14-连接池居然这么简单？](https://toutiao.io/k/cag59by) 
-- [【开发者头条】2022-11-14-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) 
-- [【开发者头条】2022-11-14-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) 
 - [【开发者头条】2022-11-14-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) 
+- [【开发者头条】2022-11-14-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) 
+- [【开发者头条】2022-11-14-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

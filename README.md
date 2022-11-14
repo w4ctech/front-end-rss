@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-14 13:29:31，:rocket: 更新条数: +2003， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-14 14:05:37，:rocket: 更新条数: +2002， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-11-14-不知道该分手还是结婚-请大家帮帮我](https://www.v2ex.com/t/895243) ![](assets/new.png)  
 - [2022-11-14-Yandex-Mail（Yandex-360）怎么样，看了价格有点心动](https://www.v2ex.com/t/895240) ![](assets/new.png)  
 - [2022-11-14-问下大家-CN2-机器建站-是不是只有电信用户访问有优化呀？](https://www.v2ex.com/t/895239) ![](assets/new.png)  
 - [2022-11-14-做了一个简单壁纸小玩具，欢迎大家体验](https://www.v2ex.com/t/895238) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-11-14-具备怎样的条件才算是一个合格的架构师？](https://www.v2ex.com/t/895214) ![](assets/new.png)  
 - [2022-11-14-问一个-nginx-的问题](https://www.v2ex.com/t/895211) ![](assets/new.png)  
 - [2022-11-14-网站负载均衡-L7-转发-防-CC-攻击-选择-OpenResty-Edge-还是-HAProxy-企业版](https://www.v2ex.com/t/895208) ![](assets/new.png)  
-- [2022-11-14-这里有没有对-category-theory-信心十足的程序员？](https://www.v2ex.com/t/895207) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -554,12 +554,12 @@
 - [2022-11-14-跨端动态化模板引擎详解，看完你也能写一个（GaiaX-开源解读）](https://toutiao.io/k/zzaaus3) ![](assets/new.png)  
 - [2022-11-14-前端也能微调一个-NLP-预训练模型](https://toutiao.io/k/1swfy2z) ![](assets/new.png)  
 - [2022-11-14-项目估计成功的-7-个要点](https://toutiao.io/k/l73yb0v) ![](assets/new.png)  
-- [2022-11-14-快递单中抽取关键信息【一】：基于-BiGRU-+-CR-+-预训练的词向量优化](https://toutiao.io/k/3oowlns) ![](assets/new.png)  
 - [2022-11-14-连接池居然这么简单？](https://toutiao.io/k/cag59by) ![](assets/new.png)  
+- [2022-11-14-快递单中抽取关键信息【一】：基于-BiGRU-+-CR-+-预训练的词向量优化](https://toutiao.io/k/3oowlns) ![](assets/new.png)  
 - [2022-11-14-被裁员！从无赔偿拿到-N-+-1-的故事](https://toutiao.io/k/stwc0dz) ![](assets/new.png)  
-- [2022-11-14-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) ![](assets/new.png)  
 - [2022-11-14-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) ![](assets/new.png)  
 - [2022-11-14-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) ![](assets/new.png)  
+- [2022-11-14-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

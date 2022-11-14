@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-14 08:49:14，:rocket: 更新条数: +2011， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-14 09:15:17，:rocket: 更新条数: +2015， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,19 @@
 </summary>
 
 
+- [2022-11-14-微信发布-iOS8.0.30-正式版](https://www.v2ex.com/t/895183) ![](assets/new.png)  
+- [2022-11-14-有人收到这种类似消息吗?是不是骗子](https://www.v2ex.com/t/895182) ![](assets/new.png)  
+- [2022-11-14-微信读书网页版拷贝行数限制](https://www.v2ex.com/t/895181) ![](assets/new.png)  
+- [2022-11-14-请教大佬一个关于图像识别液位的问题](https://www.v2ex.com/t/895180) ![](assets/new.png)  
+- [2022-11-14-全球企业-Logo-设计感和识别度-有哪些可以和-Apple相提并论](https://www.v2ex.com/t/895179) ![](assets/new.png)  
+- [2022-11-14-https-请求通过-http-代理关于“Proxy-Authorization”头添加不上的问题](https://www.v2ex.com/t/895178) ![](assets/new.png)  
+- [2022-11-14-问一下你们第一次离职是怎么做出的决定，心路历程，感觉离职这个决定好难做](https://www.v2ex.com/t/895177) ![](assets/new.png)  
+- [2022-11-14-腾讯云-5349-端口无法打开？](https://www.v2ex.com/t/895175) ![](assets/new.png)  
+- [2022-11-14-10-万以内有什么好玩的二手车？](https://www.v2ex.com/t/895174) ![](assets/new.png)  
+- [2022-11-14-可付费订阅，有什么在线观看日本-BS11-直播的正规渠道？](https://www.v2ex.com/t/895173) ![](assets/new.png)  
+- [2022-11-14-当前-11-月，-8w-上下，哪吒-v-和零跑-T03-怎么选？](https://www.v2ex.com/t/895172) ![](assets/new.png)  
+- [2022-11-14-请问有没有什么在线渠道可以查到来电电话号码的注册单位的?](https://www.v2ex.com/t/895171) ![](assets/new.png)  
+- [2022-11-14-请问下上海现在有办法打智飞的疫苗吗](https://www.v2ex.com/t/895170) ![](assets/new.png)  
 - [2022-11-14-求助。7950x-与-13900k-适合买么?买谁合适啊？-至少用个-5-至-10-年，如何考虑，网上没找到扎实的科普](https://www.v2ex.com/t/895168) ![](assets/new.png)  
 - [2022-11-14-盖楼抽送-20-个-500GB-视频点播流量包-|-多吉云视频云点播产品介绍-|-年度优惠流量低至￥-0.028/GB](https://www.v2ex.com/t/895167) ![](assets/new.png)  
 - [2022-11-14-送码啦🎉-云开发收费后，我把我的记账小程序服务用-nestjs-重写了](https://www.v2ex.com/t/895166) ![](assets/new.png)  
@@ -498,19 +511,6 @@
 - [2022-11-14-open-rec：基于开源技术栈的推荐系统](https://www.v2ex.com/t/895164) ![](assets/new.png)  
 - [2022-11-14-CDN-可以加速-ssh-吗？](https://www.v2ex.com/t/895163) ![](assets/new.png)  
 - [2022-11-14-独立产品灵感周刊-DecoHack-#037---整理你的愿望清单](https://www.v2ex.com/t/895160) ![](assets/new.png)  
-- [2022-11-14-猎聘上看职位，百分之九十都是本科啊](https://www.v2ex.com/t/895159) ![](assets/new.png)  
-- [2022-11-14-软文的标签上限最好几个?](https://www.v2ex.com/t/895157) ![](assets/new.png)  
-- [2022-11-14-将常规网页转换为阿拉伯文那种自右至左的排版，前端有成熟的方案吗？](https://www.v2ex.com/t/895155) ![](assets/new.png)  
-- [2022-11-14-各位-V-友们，有韩服的-18+认证的-appleid-可以借用一下么？](https://www.v2ex.com/t/895154) ![](assets/new.png)  
-- [2022-11-14-非公有云环境下，如何实现-svc-的-external-ip](https://www.v2ex.com/t/895153) ![](assets/new.png)  
-- [2022-11-14-Goland-没有高亮？](https://www.v2ex.com/t/895151) ![](assets/new.png)  
-- [2022-11-14-iKuai-主路由-出现故障：-lan1-检测到环路，这个怎么破？](https://www.v2ex.com/t/895150) ![](assets/new.png)  
-- [2022-11-14-「全职远程按月付费」--React-Nextjs-前端工程师](https://www.v2ex.com/t/895149) ![](assets/new.png)  
-- [2022-11-14-现在，还有人在做自媒体副业的么，进来聊聊~](https://www.v2ex.com/t/895148) ![](assets/new.png)  
-- [2022-11-14-无法连接某个-ip-的故障](https://www.v2ex.com/t/895147) ![](assets/new.png)  
-- [2022-11-14-也说单踏板](https://www.v2ex.com/t/895145) ![](assets/new.png)  
-- [2022-11-14-使用了订阅模式续订了公司的开发者账号，后期还能使用网页续订么？](https://www.v2ex.com/t/895144) ![](assets/new.png)  
-- [2022-11-14-发个很少有人推的业务，运维服务，需要的喊我，双-11-有特价](https://www.v2ex.com/t/895143) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -530,7 +530,6 @@
 - [2022-11-14-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-11-14-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-11-14-技术改变了什么？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15400&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fpower-of-technology%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-11-14-失败驱动开发-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15399&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffailure-driven-development%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -559,8 +558,8 @@
 - [2022-11-14-被裁员！从无赔偿拿到-N-+-1-的故事](https://toutiao.io/k/stwc0dz) ![](assets/new.png)  
 - [2022-11-14-连接池居然这么简单？](https://toutiao.io/k/cag59by) ![](assets/new.png)  
 - [2022-11-14-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) ![](assets/new.png)  
-- [2022-11-14-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) ![](assets/new.png)  
 - [2022-11-14-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) ![](assets/new.png)  
+- [2022-11-14-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

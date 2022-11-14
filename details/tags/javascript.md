@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-14 08:49:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-14 09:15:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -16,4 +16,3 @@
 - [2022-10-16-2022年新出了哪些form表单新特性？](https://www.zhangxinxu.com/wordpress/2022/10/2022-new-form-property/) 
 - [2022-11-14-iKuai-主路由-出现故障：-lan1-检测到环路，这个怎么破？](https://www.v2ex.com/t/895150) 
 - [2022-11-14-如何看待吴京在金鸡奖颁奖典礼上拿苹果手机上热搜事件](https://www.v2ex.com/t/895141) 
-- [2022-11-14-了解一下-js-如何获取另一个页面的-div-样式的-id-来进行判断](https://www.v2ex.com/t/895127) 

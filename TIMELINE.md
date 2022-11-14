@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-14 08:49:14。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-14 09:15:17。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,19 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-14-微信发布-iOS8.0.30-正式版](https://www.v2ex.com/t/895183) 
+- [【V2EX】2022-11-14-有人收到这种类似消息吗?是不是骗子](https://www.v2ex.com/t/895182) 
+- [【V2EX】2022-11-14-微信读书网页版拷贝行数限制](https://www.v2ex.com/t/895181) 
+- [【V2EX】2022-11-14-请教大佬一个关于图像识别液位的问题](https://www.v2ex.com/t/895180) 
+- [【V2EX】2022-11-14-全球企业-Logo-设计感和识别度-有哪些可以和-Apple相提并论](https://www.v2ex.com/t/895179) 
+- [【V2EX】2022-11-14-https-请求通过-http-代理关于“Proxy-Authorization”头添加不上的问题](https://www.v2ex.com/t/895178) 
+- [【V2EX】2022-11-14-问一下你们第一次离职是怎么做出的决定，心路历程，感觉离职这个决定好难做](https://www.v2ex.com/t/895177) 
+- [【V2EX】2022-11-14-腾讯云-5349-端口无法打开？](https://www.v2ex.com/t/895175) 
+- [【V2EX】2022-11-14-10-万以内有什么好玩的二手车？](https://www.v2ex.com/t/895174) 
+- [【V2EX】2022-11-14-可付费订阅，有什么在线观看日本-BS11-直播的正规渠道？](https://www.v2ex.com/t/895173) 
+- [【V2EX】2022-11-14-当前-11-月，-8w-上下，哪吒-v-和零跑-T03-怎么选？](https://www.v2ex.com/t/895172) 
+- [【V2EX】2022-11-14-请问有没有什么在线渠道可以查到来电电话号码的注册单位的?](https://www.v2ex.com/t/895171) 
+- [【V2EX】2022-11-14-请问下上海现在有办法打智飞的疫苗吗](https://www.v2ex.com/t/895170) 
 - [【V2EX】2022-11-14-求助。7950x-与-13900k-适合买么?买谁合适啊？-至少用个-5-至-10-年，如何考虑，网上没找到扎实的科普](https://www.v2ex.com/t/895168) 
 - [【V2EX】2022-11-14-盖楼抽送-20-个-500GB-视频点播流量包-|-多吉云视频云点播产品介绍-|-年度优惠流量低至￥-0.028/GB](https://www.v2ex.com/t/895167) 
 - [【V2EX】2022-11-14-送码啦🎉-云开发收费后，我把我的记账小程序服务用-nestjs-重写了](https://www.v2ex.com/t/895166) 
@@ -99,14 +112,6 @@
 - [【V2EX】2022-11-14-大聪明～～，领了京东的-plus-4-个月免费试用，新设备的-6-个月试用领不了了](https://www.v2ex.com/t/895136) 
 - [【V2EX】2022-11-14-有没有免费的电子保险箱？比如用来存储-SIM-卡-PUK、TOTP-密钥](https://www.v2ex.com/t/895135) 
 - [【V2EX】2022-11-14-一年一度的脐橙福利又来了哈。交个朋友。抽奖-3-箱。](https://www.v2ex.com/t/895134) 
-- [【V2EX】2022-11-14-很多人以为的单踏板](https://www.v2ex.com/t/895133) 
-- [【V2EX】2022-11-14-mac-有没有主题包下载？](https://www.v2ex.com/t/895132) 
-- [【V2EX】2022-11-14-APP-没法记住密码](https://www.v2ex.com/t/895130) 
-- [【V2EX】2022-11-14-北京-猿辅导-C++-/-Web-前端开发工程师](https://www.v2ex.com/t/895129) 
-- [【V2EX】2022-11-14-再次见证国产开源的下限](https://www.v2ex.com/t/895128) 
-- [【V2EX】2022-11-14-了解一下-js-如何获取另一个页面的-div-样式的-id-来进行判断](https://www.v2ex.com/t/895127) 
-- [【V2EX】2022-11-14-关于-MacBook-无法连接校园网](https://www.v2ex.com/t/895121) 
-- [【V2EX】2022-11-14-用微信机器人完成核酸截图收集及统计分析-核酸识别](https://www.v2ex.com/t/895120) 
 - [【技术头条】2022-11-14-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-14-以综合指数观察和评价研发效能的趋势-link.zhihu.com](https://blogread.cn/news/go.php?idItem=15406&url=https%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttps%253A%2F%2Finsights.thoughtworks.cn%2Fobserving-evaluating-research-development-efficiency-trend%2F%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-14-DDD的哲学意味（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15405&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fddd-philosophy-entity-value-object%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -115,7 +120,6 @@
 - [【技术头条】2022-11-14-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-14-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-14-技术改变了什么？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15400&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fpower-of-technology%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [【技术头条】2022-11-14-失败驱动开发-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15399&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffailure-driven-development%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【开发者头条】2022-11-14-Go-语言开发的超强企业级爬虫管理平台](https://toutiao.io/k/skczdmd) 
 - [【开发者头条】2022-11-14-深入浅出学习透析-Nginx-服务器的基本原理和配置指南（初级实践篇-）](https://toutiao.io/k/bl8b11a) 
 - [【开发者头条】2022-11-14-人生架构](https://toutiao.io/k/3ha5rj8) 
@@ -133,8 +137,8 @@
 - [【开发者头条】2022-11-14-被裁员！从无赔偿拿到-N-+-1-的故事](https://toutiao.io/k/stwc0dz) 
 - [【开发者头条】2022-11-14-连接池居然这么简单？](https://toutiao.io/k/cag59by) 
 - [【开发者头条】2022-11-14-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) 
-- [【开发者头条】2022-11-14-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) 
 - [【开发者头条】2022-11-14-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) 
+- [【开发者头条】2022-11-14-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

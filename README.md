@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-14 06:19:20，:rocket: 更新条数: +2004， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-14 06:49:49，:rocket: 更新条数: +2002， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-11-14-了解一下-js-如何获取另一个页面的-div-样式的-id-来进行判断](https://www.v2ex.com/t/895127) ![](assets/new.png)  
+- [2022-11-14-关于-MacBook-无法连接校园网](https://www.v2ex.com/t/895121) ![](assets/new.png)  
+- [2022-11-14-用微信机器人完成核酸截图收集及统计分析-核酸识别](https://www.v2ex.com/t/895120) ![](assets/new.png)  
+- [2022-11-14-一套运维面试题](https://www.v2ex.com/t/895119) ![](assets/new.png)  
+- [2022-11-14-ui-设计小白请求大佬帮忙](https://www.v2ex.com/t/895118) ![](assets/new.png)  
+- [2022-11-14-trackpad/touchpad/触控板-双指缩放/双击-一天出问题-无数次](https://www.v2ex.com/t/895116) ![](assets/new.png)  
 - [2022-11-14-有-V-友用过睡眠呼吸机吗？](https://www.v2ex.com/t/895113) ![](assets/new.png)  
 - [2022-11-14-适用于掌机、平板等的双系统/多系统快捷切换方法](https://www.v2ex.com/t/895112) ![](assets/new.png)  
 - [2022-11-14-有没有熟悉腾讯-tars-框架和-probuffer-数据格式的，有个远程私活](https://www.v2ex.com/t/895110) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-11-14-有什么办法清理-mbp-屏幕缝隙里面的灰尘](https://www.v2ex.com/t/895095) ![](assets/new.png)  
 - [2022-11-14-Thinkpad-T14-对于-T490-的“扭曲变形的机身”有改进吗？](https://www.v2ex.com/t/895094) ![](assets/new.png)  
 - [2022-11-14-实用主义有没有可能发展成一种宗教？](https://www.v2ex.com/t/895093) ![](assets/new.png)  
-- [2022-11-14-「全职远程」JavaScript-工程师/月薪-30-45K-RMB](https://www.v2ex.com/t/895091) ![](assets/new.png)  
-- [2022-11-14-简中互联网有用信息越来越少](https://www.v2ex.com/t/895090) ![](assets/new.png)  
-- [2022-11-14-httpCanary-的上传服务器插件，这个应该如何配置？](https://www.v2ex.com/t/895086) ![](assets/new.png)  
-- [2022-11-14-任务管理器还有办法显示-TUN-设备的使用率吗？](https://www.v2ex.com/t/895083) ![](assets/new.png)  
-- [2022-11-14-特斯拉车主服务：主张车辆数据自主管控，可随时查证分析](https://www.v2ex.com/t/895082) ![](assets/new.png)  
-- [2022-11-14-大家是如何管理浏览器标签的呢?-一直没找到喜欢的方式,-于是撸了个插件~](https://www.v2ex.com/t/895080) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -543,8 +543,8 @@
 
 
 - [2022-11-14-Go-语言开发的超强企业级爬虫管理平台](https://toutiao.io/k/skczdmd) ![](assets/new.png)  
-- [2022-11-14-Raft-算法实现原理详解（图文全解析）](https://toutiao.io/k/qlow8gy) ![](assets/new.png)  
 - [2022-11-14-深入浅出学习透析-Nginx-服务器的基本原理和配置指南（初级实践篇-）](https://toutiao.io/k/bl8b11a) ![](assets/new.png)  
+- [2022-11-14-Raft-算法实现原理详解（图文全解析）](https://toutiao.io/k/qlow8gy) ![](assets/new.png)  
 - [2022-11-14-人生架构](https://toutiao.io/k/3ha5rj8) ![](assets/new.png)  
 - [2022-11-14-万万没想到，除了香农计划，Python3.11-竟还有这么多性能提升](https://toutiao.io/k/wzsqu03) ![](assets/new.png)  
 - [2022-11-14-C#/.Net-不要再使用-Aspose-和-iTextSharp-啦！QuestPDF-操作生成-PDF-更快更高效](https://toutiao.io/k/rbeclli) ![](assets/new.png)  
@@ -556,8 +556,8 @@
 - [2022-11-14-单点登录必知的两个著名协议：SAML、OAuth2](https://toutiao.io/k/6icpcqz) ![](assets/new.png)  
 - [2022-11-14-项目估计成功的-7-个要点](https://toutiao.io/k/l73yb0v) ![](assets/new.png)  
 - [2022-11-14-快递单中抽取关键信息【一】：基于-BiGRU-+-CR-+-预训练的词向量优化](https://toutiao.io/k/3oowlns) ![](assets/new.png)  
-- [2022-11-14-连接池居然这么简单？](https://toutiao.io/k/cag59by) ![](assets/new.png)  
 - [2022-11-14-被裁员！从无赔偿拿到-N-+-1-的故事](https://toutiao.io/k/stwc0dz) ![](assets/new.png)  
+- [2022-11-14-连接池居然这么简单？](https://toutiao.io/k/cag59by) ![](assets/new.png)  
 - [2022-11-14-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) ![](assets/new.png)  
 - [2022-11-14-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) ![](assets/new.png)  
 - [2022-11-14-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) ![](assets/new.png)  

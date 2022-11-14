@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-14 11:38:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-14 12:31:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1917,6 +1917,8 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-11-14-Onedrive-国内访问是变快了吗（1drv）？](https://www.v2ex.com/t/895230) 
+- [2022-11-14-无领标的长袖-T-恤，有推荐吗？](https://www.v2ex.com/t/895221) 
 - [2022-11-14-述职被问“项目是产品出的需求，取得的业绩和你有什么关系，你说你做的，换个人做不也一样”](https://www.v2ex.com/t/895218) 
 - [2022-11-14-南方的同学冬天家庭取暖解决方案是啥？](https://www.v2ex.com/t/895217) 
 - [2022-11-14-独立产品怎么收费啊？求科普](https://www.v2ex.com/t/895216) 
@@ -1941,13 +1943,6 @@
 - [2022-11-14-微信发布-iOS8.0.30-正式版](https://www.v2ex.com/t/895183) 
 - [2022-11-14-有人收到这种类似消息吗?是不是骗子](https://www.v2ex.com/t/895182) 
 - [2022-11-14-微信读书网页版拷贝行数限制](https://www.v2ex.com/t/895181) 
-- [2022-11-14-全球企业-Logo-设计感和识别度-有哪些可以和-Apple相提并论](https://www.v2ex.com/t/895179) 
-- [2022-11-14-问一下你们第一次离职是怎么做出的决定，心路历程，感觉离职这个决定好难做](https://www.v2ex.com/t/895177) 
-- [2022-11-14-腾讯云-5349-端口无法打开？](https://www.v2ex.com/t/895175) 
-- [2022-11-14-10-万以内有什么好玩的二手车？](https://www.v2ex.com/t/895174) 
-- [2022-11-14-当前-11-月，-8w-上下，哪吒-v-和零跑-T03-怎么选？](https://www.v2ex.com/t/895172) 
-- [2022-11-14-请问有没有什么在线渠道可以查到来电电话号码的注册单位的?](https://www.v2ex.com/t/895171) 
-- [2022-11-14-请问下上海现在有办法打智飞的疫苗吗](https://www.v2ex.com/t/895170) 
 - [2022-11-14-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-14-以综合指数观察和评价研发效能的趋势-link.zhihu.com](https://blogread.cn/news/go.php?idItem=15406&url=https%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttps%253A%2F%2Finsights.thoughtworks.cn%2Fobserving-evaluating-research-development-efficiency-trend%2F%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-14-DDD的哲学意味（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15405&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fddd-philosophy-entity-value-object%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

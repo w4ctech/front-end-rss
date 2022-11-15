@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-15 07:37:17，:rocket: 更新条数: +2011， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-15 08:18:55，:rocket: 更新条数: +2011， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,26 +491,26 @@
 </summary>
 
 
+- [2022-11-15-开放式播客合集，以-YAML-格式来维护](https://www.v2ex.com/t/895434) ![](assets/new.png)  
+- [2022-11-15-求-apple-music-删除重复项的方法](https://www.v2ex.com/t/895433) ![](assets/new.png)  
+- [2022-11-15-上海Android/iOS美团-大众点评-UGC-业务诚招视频研发工程师/专家](https://www.v2ex.com/t/895432) ![](assets/new.png)  
+- [2022-11-15-分享一下双十一拼夕夕买书的经历](https://www.v2ex.com/t/895431) ![](assets/new.png)  
+- [2022-11-15-自定义字段的功能数据库是怎么设计的呢？](https://www.v2ex.com/t/895430) ![](assets/new.png)  
+- [2022-11-15-杭州前端找工作-兼职/远程-](https://www.v2ex.com/t/895429) ![](assets/new.png)  
+- [2022-11-15-这样的-mac-mini-m1-写入量正常吗？](https://www.v2ex.com/t/895428) ![](assets/new.png)  
+- [2022-11-15-求助-Python-程序，-debug-时候在某个地方-print-了下，找不到位置了](https://www.v2ex.com/t/895427) ![](assets/new.png)  
+- [2022-11-15-Notion-在新版-iPad-Pro-上输入中文真的是灾难，不支持-Apple-Pencil-的随写](https://www.v2ex.com/t/895426) ![](assets/new.png)  
+- [2022-11-15-vue-和-react-推荐学哪个？](https://www.v2ex.com/t/895425) ![](assets/new.png)  
+- [2022-11-15-2022-年终，有了-Clash-还需要-SSR-和-SwitchyOmega-吗？](https://www.v2ex.com/t/895423) ![](assets/new.png)  
+- [2022-11-15-来看看你今年一共做了多少次核酸了？](https://www.v2ex.com/t/895422) ![](assets/new.png)  
+- [2022-11-15-英伟达-NVIDIA-上海-高级软件系统开发工程师-云基础设施-自动驾驶业务](https://www.v2ex.com/t/895420) ![](assets/new.png)  
+- [2022-11-15-进入工业制造领域行业之后的感受，硬件的级别：家用级<企业级<工业级](https://www.v2ex.com/t/895419) ![](assets/new.png)  
+- [2022-11-15-兄弟们，碰到大问题了，如何做到混合编译](https://www.v2ex.com/t/895418) ![](assets/new.png)  
+- [2022-11-15-大概还需要多久？会有真正意义上的家用“机器人”](https://www.v2ex.com/t/895417) ![](assets/new.png)  
+- [2022-11-15-华硕-RT-AC68U-+-tplink-面板（POE-供电。胖瘦一体）可以无缝漫游吗？](https://www.v2ex.com/t/895416) ![](assets/new.png)  
 - [2022-11-15-拼多多双-11-买的-AirPods-Pro-2-代，在-iOS-中提示为-Beats-Fit-Pro](https://www.v2ex.com/t/895415) ![](assets/new.png)  
 - [2022-11-15-你们的-etesync-在最新-iOS-可用吗？](https://www.v2ex.com/t/895414) ![](assets/new.png)  
 - [2022-11-15-今天全球人口将达到-80-亿，你怎么看](https://www.v2ex.com/t/895411) ![](assets/new.png)  
-- [2022-11-15-咨询一下哪里配眼镜比较划算](https://www.v2ex.com/t/895409) ![](assets/new.png)  
-- [2022-11-15-有无一起抱团准备-24-考研的](https://www.v2ex.com/t/895408) ![](assets/new.png)  
-- [2022-11-15-付费请大佬开发一个-chrome-插件](https://www.v2ex.com/t/895407) ![](assets/new.png)  
-- [2022-11-15-Infuse-发车了](https://www.v2ex.com/t/895406) ![](assets/new.png)  
-- [2022-11-15-日经贴，老哥们帮忙看看-DIY-配置，多谢](https://www.v2ex.com/t/895405) ![](assets/new.png)  
-- [2022-11-15-有没有接受明文的-端口转发-OR-中转-商家推荐呀？大部分都是限制必须-tls-加密](https://www.v2ex.com/t/895404) ![](assets/new.png)  
-- [2022-11-15-关于大数据、人工智能和信息运维专业有什么好的培训机构和培训方案没有？](https://www.v2ex.com/t/895403) ![](assets/new.png)  
-- [2022-11-15-在上海失业两个半月了，-11-月-5-号学完了-bilibili-上黑马的-react，欢呼雀跃时，却发现是官方文档的第一章而已](https://www.v2ex.com/t/895402) ![](assets/new.png)  
-- [2022-11-15-各位大佬，谁是-PT-站-HDSKY-的注册会员，能否邀请下？](https://www.v2ex.com/t/895400) ![](assets/new.png)  
-- [2022-11-15-iPhone-什么时候开始去除了对-3G-网络的支持，为啥相关设置没了](https://www.v2ex.com/t/895399) ![](assets/new.png)  
-- [2022-11-15-兄弟们，-https-网站有办法访问-http-资源吗](https://www.v2ex.com/t/895398) ![](assets/new.png)  
-- [2022-11-15-有什么好的虚拟机录屏方案吗？](https://www.v2ex.com/t/895395) ![](assets/new.png)  
-- [2022-11-15-飞书加班打卡，管理员后台无记录](https://www.v2ex.com/t/895394) ![](assets/new.png)  
-- [2022-11-15-现在-40-岁+的你失业了，-10-年前你应该做什么？](https://www.v2ex.com/t/895392) ![](assets/new.png)  
-- [2022-11-15-沪牌入坑-求一个靠谱的代拍](https://www.v2ex.com/t/895391) ![](assets/new.png)  
-- [2022-11-15-请问如何选购服务器配件？](https://www.v2ex.com/t/895390) ![](assets/new.png)  
-- [2022-11-15-求-Java-大佬帮忙分析下这个程序](https://www.v2ex.com/t/895388) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -552,15 +552,15 @@
 - [2022-11-15-有趣的-Go-HttpClient-超时机制](https://toutiao.io/k/0gil5gi) ![](assets/new.png)  
 - [2022-11-15-前端初学-ECS-架构](https://toutiao.io/k/6xyrie5) ![](assets/new.png)  
 - [2022-11-15-合约广告投放系统平台架构演进实践](https://toutiao.io/k/fz0dk15) ![](assets/new.png)  
-- [2022-11-15-Stable-Diffusion-采样速度翻倍！仅需-10-到-25-步的扩散模型采样算法](https://toutiao.io/k/1yrtd84) ![](assets/new.png)  
 - [2022-11-15-ElasticSearch-这些坑记得避开](https://toutiao.io/k/2ztqkjl) ![](assets/new.png)  
+- [2022-11-15-Stable-Diffusion-采样速度翻倍！仅需-10-到-25-步的扩散模型采样算法](https://toutiao.io/k/1yrtd84) ![](assets/new.png)  
 - [2022-11-15-使用-C++-部署深度学习模型快速上手方案](https://toutiao.io/k/x1rgf4g) ![](assets/new.png)  
 - [2022-11-15-日常-Bug-排查：读从库没有原子性？](https://toutiao.io/k/l2k67j7) ![](assets/new.png)  
 - [2022-11-15-为什么-.NET-Web-应用推荐使用-await、async-异步编程？](https://toutiao.io/k/rd6j0aa) ![](assets/new.png)  
 - [2022-11-15-还不会用-TS-封装-Axios？我教你啊](https://toutiao.io/k/7an0tnn) ![](assets/new.png)  
 - [2022-11-15-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) ![](assets/new.png)  
-- [2022-11-15-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) ![](assets/new.png)  
 - [2022-11-15-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) ![](assets/new.png)  
+- [2022-11-15-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

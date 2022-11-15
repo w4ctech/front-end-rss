@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-15 12:25:51。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-15 13:12:45。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,13 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-15-京东真恶心，一直往电子邮箱里发垃圾邮件，还没有退订选项](https://www.v2ex.com/t/895505) 
+- [【V2EX】2022-11-15-你觉得-2023-mbp-m2-pro-会有哪些方面的提升？](https://www.v2ex.com/t/895504) 
+- [【V2EX】2022-11-15-手机屏幕坏了，怎么做数据清理和迁移？](https://www.v2ex.com/t/895503) 
+- [【V2EX】2022-11-15-请问有没有接口获取微信运动里各个好友的微信步数数据呢？每-x-分钟扫描一次。](https://www.v2ex.com/t/895502) 
+- [【V2EX】2022-11-15-Solidity-资料分享：-PancakesSwap-Farm-V1-版本-Solidity-合约代码的深度解读](https://www.v2ex.com/t/895500) 
+- [【V2EX】2022-11-15-欧洲和亚太地区发售的蜂窝版-Apple-Watch-S8/Ultra-能否开通中国大陆蜂窝套餐](https://www.v2ex.com/t/895499) 
+- [【V2EX】2022-11-15-各位程序员都自己部署了那些似有服务？](https://www.v2ex.com/t/895498) 
 - [【V2EX】2022-11-15-Apple-Watch-心率检测闪的绿灯在摘下手表后还闪-是-feature-还是-bug](https://www.v2ex.com/t/895495) 
 - [【V2EX】2022-11-15-现在安卓修改-hosts-文件有哪些方法？](https://www.v2ex.com/t/895494) 
 - [【V2EX】2022-11-15-光标下方显示当前输入法语言](https://www.v2ex.com/t/895493) 
@@ -103,17 +110,6 @@
 - [【V2EX】2022-11-15-Redmi-AC2100-有没有-Redmi-AC2100-稳定的固件推荐](https://www.v2ex.com/t/895460) 
 - [【V2EX】2022-11-15-一个算法问题，求大佬们给个思路](https://www.v2ex.com/t/895459) 
 - [【V2EX】2022-11-15-还原一下广州潮州特斯拉案事情的经过，并回复一下-at-我的人](https://www.v2ex.com/t/895458) 
-- [【V2EX】2022-11-15-哪里可以申请免费-vps](https://www.v2ex.com/t/895457) 
-- [【V2EX】2022-11-15-日亚直邮的-atv-128G-发邮件说无法清关退回了。](https://www.v2ex.com/t/895456) 
-- [【V2EX】2022-11-15-美团饿了吗，点外卖技巧？](https://www.v2ex.com/t/895455) 
-- [【V2EX】2022-11-15-两台电脑-拓展坞-Studio-Display，有这样的拓展坞吗？](https://www.v2ex.com/t/895454) 
-- [【V2EX】2022-11-15-基于微信/钉钉/飞书/EMAIL，实现了一个服务监控和消息推送服务](https://www.v2ex.com/t/895453) 
-- [【V2EX】2022-11-15-为啥发欧美岗位正常，发除我国以外的第三世界岗位挨喷](https://www.v2ex.com/t/895452) 
-- [【V2EX】2022-11-15-minio-登陆迷之报错](https://www.v2ex.com/t/895451) 
-- [【V2EX】2022-11-15-各位-V-友，如何下载阿里云盘相册](https://www.v2ex.com/t/895450) 
-- [【V2EX】2022-11-15-警惕论坛里的骗子](https://www.v2ex.com/t/895449) 
-- [【V2EX】2022-11-15-Spring-Boot-框架下实现-Excel-服务端导入导出](https://www.v2ex.com/t/895448) 
-- [【V2EX】2022-11-15-Logto-v1.0.0-beta.13:-无需代码组合你的跨平台登录体验](https://www.v2ex.com/t/895447) 
 - [【技术头条】2022-11-15-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-15-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-15-以综合指数观察和评价研发效能的趋势-link.zhihu.com](https://blogread.cn/news/go.php?idItem=15406&url=https%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttps%253A%2F%2Finsights.thoughtworks.cn%2Fobserving-evaluating-research-development-efficiency-trend%2F%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -139,8 +135,8 @@
 - [【开发者头条】2022-11-15-日常-Bug-排查：读从库没有原子性？](https://toutiao.io/k/l2k67j7) 
 - [【开发者头条】2022-11-15-为什么-.NET-Web-应用推荐使用-await、async-异步编程？](https://toutiao.io/k/rd6j0aa) 
 - [【开发者头条】2022-11-15-还不会用-TS-封装-Axios？我教你啊](https://toutiao.io/k/7an0tnn) 
-- [【开发者头条】2022-11-15-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) 
 - [【开发者头条】2022-11-15-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) 
+- [【开发者头条】2022-11-15-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) 
 - [【开发者头条】2022-11-15-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>

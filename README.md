@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-15 12:25:51，:rocket: 更新条数: +2018， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-15 13:12:45，:rocket: 更新条数: +2014， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,13 @@
 </summary>
 
 
+- [2022-11-15-京东真恶心，一直往电子邮箱里发垃圾邮件，还没有退订选项](https://www.v2ex.com/t/895505) ![](assets/new.png)  
+- [2022-11-15-你觉得-2023-mbp-m2-pro-会有哪些方面的提升？](https://www.v2ex.com/t/895504) ![](assets/new.png)  
+- [2022-11-15-手机屏幕坏了，怎么做数据清理和迁移？](https://www.v2ex.com/t/895503) ![](assets/new.png)  
+- [2022-11-15-请问有没有接口获取微信运动里各个好友的微信步数数据呢？每-x-分钟扫描一次。](https://www.v2ex.com/t/895502) ![](assets/new.png)  
+- [2022-11-15-Solidity-资料分享：-PancakesSwap-Farm-V1-版本-Solidity-合约代码的深度解读](https://www.v2ex.com/t/895500) ![](assets/new.png)  
+- [2022-11-15-欧洲和亚太地区发售的蜂窝版-Apple-Watch-S8/Ultra-能否开通中国大陆蜂窝套餐](https://www.v2ex.com/t/895499) ![](assets/new.png)  
+- [2022-11-15-各位程序员都自己部署了那些似有服务？](https://www.v2ex.com/t/895498) ![](assets/new.png)  
 - [2022-11-15-Apple-Watch-心率检测闪的绿灯在摘下手表后还闪-是-feature-还是-bug](https://www.v2ex.com/t/895495) ![](assets/new.png)  
 - [2022-11-15-现在安卓修改-hosts-文件有哪些方法？](https://www.v2ex.com/t/895494) ![](assets/new.png)  
 - [2022-11-15-光标下方显示当前输入法语言](https://www.v2ex.com/t/895493) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-11-15-分享一个我坚持了-3-年的开源项目](https://www.v2ex.com/t/895482) ![](assets/new.png)  
 - [2022-11-15-m1-air-如何从-Bigsur-到-Monterey](https://www.v2ex.com/t/895481) ![](assets/new.png)  
 - [2022-11-15-求一个多条件查询，每个条件都能查询指定数量的结果的语句](https://www.v2ex.com/t/895480) ![](assets/new.png)  
-- [2022-11-15-Twitter-员工因言获炒](https://www.v2ex.com/t/895479) ![](assets/new.png)  
-- [2022-11-15-现在-Pycharm-依旧没法打开-samba-共享文件夹吗](https://www.v2ex.com/t/895477) ![](assets/new.png)  
-- [2022-11-15-AppleCare+-如何使用国内外币卡完成美国-AppleCare+-的支付流程？](https://www.v2ex.com/t/895476) ![](assets/new.png)  
-- [2022-11-15-菜鸟来咨询一波，-JSP-怎么获取域账号呢？](https://www.v2ex.com/t/895475) ![](assets/new.png)  
-- [2022-11-15-裁员如此严重，应该如何应对](https://www.v2ex.com/t/895474) ![](assets/new.png)  
-- [2022-11-15-杭州-前端-蚂蚁数金线，总算有-HC-了，不可多得的机会~](https://www.v2ex.com/t/895473) ![](assets/new.png)  
-- [2022-11-15-BoardOS-教育优惠！](https://www.v2ex.com/t/895472) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -558,8 +558,8 @@
 - [2022-11-15-日常-Bug-排查：读从库没有原子性？](https://toutiao.io/k/l2k67j7) ![](assets/new.png)  
 - [2022-11-15-为什么-.NET-Web-应用推荐使用-await、async-异步编程？](https://toutiao.io/k/rd6j0aa) ![](assets/new.png)  
 - [2022-11-15-还不会用-TS-封装-Axios？我教你啊](https://toutiao.io/k/7an0tnn) ![](assets/new.png)  
-- [2022-11-15-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) ![](assets/new.png)  
 - [2022-11-15-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) ![](assets/new.png)  
+- [2022-11-15-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) ![](assets/new.png)  
 - [2022-11-15-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

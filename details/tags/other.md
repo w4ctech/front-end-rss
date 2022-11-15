@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-15 06:17:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-15 06:45:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1917,6 +1917,9 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-11-15-PHP-兼职开发](https://www.v2ex.com/t/895397) 
+- [2022-11-15-有什么好的虚拟机录屏方案吗？](https://www.v2ex.com/t/895395) 
+- [2022-11-15-飞书加班打卡，管理员后台无记录](https://www.v2ex.com/t/895394) 
 - [2022-11-15-现在-40-岁+的你失业了，-10-年前你应该做什么？](https://www.v2ex.com/t/895392) 
 - [2022-11-15-沪牌入坑-求一个靠谱的代拍](https://www.v2ex.com/t/895391) 
 - [2022-11-15-请问如何选购服务器配件？](https://www.v2ex.com/t/895390) 
@@ -1944,8 +1947,6 @@
 - [2022-11-15-没想到我-16G-都要用-mem-reduct-了](https://www.v2ex.com/t/895351) 
 - [2022-11-15-可远程数据库-云原生数据库公司的远程工作机会，-20-天年假哦～](https://www.v2ex.com/t/895349) 
 - [2022-11-15-这款笔记做了我想要的聚合待办任务-list-和任务汇总](https://www.v2ex.com/t/895348) 
-- [2022-11-15-大哥们，有对黄斑裂孔疾病了解的吗，想请教大家](https://www.v2ex.com/t/895347) 
-- [2022-11-15-Behance-国内有什么办法可以访问吗？](https://www.v2ex.com/t/895343) 
 - [2022-11-15-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-15-以综合指数观察和评价研发效能的趋势-link.zhihu.com](https://blogread.cn/news/go.php?idItem=15406&url=https%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttps%253A%2F%2Finsights.thoughtworks.cn%2Fobserving-evaluating-research-development-efficiency-trend%2F%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-15-DDD的哲学意味（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15405&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fddd-philosophy-entity-value-object%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

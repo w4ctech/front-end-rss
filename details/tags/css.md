@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 :alarm_clock: 更新时间: 2022-11-15 21:11:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
-=======
-:alarm_clock: 更新时间: 2022-11-15 13:12:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
->>>>>>> 6ed7b8b15f7c2322de7b3f7cc9a3761c58053d81
 
 ## CSS
 
@@ -13,8 +9,4 @@
 
 - [2022-10-12-CSS-::file-selector-button伪元素简介](https://www.zhangxinxu.com/wordpress/2022/10/css-file-selector-button/) 
 - [2022-10-12-更符合书写习惯的CSS媒体查询Range语法](https://www.zhangxinxu.com/wordpress/2022/10/css-media-range-syntax/) 
-<<<<<<< HEAD
 - [2022-09-27-介绍2022最期待且已正式支持的CSS-container容器查询](https://www.zhangxinxu.com/wordpress/2022/09/css-container-rule/) 
-=======
-- [2022-09-26-介绍2022最期待且已正式支持的CSS-container容器查询](https://www.zhangxinxu.com/wordpress/2022/09/css-container-rule/) 
->>>>>>> 6ed7b8b15f7c2322de7b3f7cc9a3761c58053d81

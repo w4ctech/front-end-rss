@@ -11,7 +11,7 @@ export default {
   data () {
     return {
       loading: false,
-      parentMessage: '拼命加载中',
+      parentMessage: '拼命加载中'
     }
   },
   created () {
@@ -24,7 +24,7 @@ export default {
   }
 }
 </script>
-<style lang="scss">
+<style>
     .sun-image{
       width: 45px;
       height: 45px;

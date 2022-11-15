@@ -168,34 +168,34 @@ export default {
       window.scrollTo(0, 0)
     },
     async initLoadData () {
-      const {data} =  await this.$axios.get(
+      const {data} = await this.$axios.get(
         'https://jsd.cdn.zzko.cn/gh/w4ctech/front-end-rss/data/links.json'
       )
-      const  templink =  await import('../../../data/links.json')
-      if(data){
-        var  links= data
-      }else{
+      const templink = await import('../../../data/links.json')
+      if (data) {
+        var links = data
+      } else {
         var links = templink
       }
       this.bus.$emit('loading', true, '正在拼命加载中')
-      const rssJson =  await this.$axios.get(
-        'https://jsd.cdn.zzko.cn/gh/w4ctech/front-end-rss/data/rss.json'
+      const rssJson = await this.$axios.get(
+        'https://gitee.com/w4ctech/front-end-rss/raw/master/data/rss.json'
       )
-      const  temprss =  await import('../../../data/rss.json')
-      if(rssJson){
-        var rss= rssJson.data
-      }else{
+      const temprss = await import('../../../data/rss.json')
+      if (rssJson) {
+        var rss = rssJson.data
+      } else {
         var rss = temprss
       }
 
-      const tagsJson =  await this.$axios.get(
+      const tagsJson = await this.$axios.get(
         'https://jsd.cdn.zzko.cn/gh/w4ctech/front-end-rss/data/tags.json'
       )
-      const  temptags =  await import('../../../data/tags.json')
-      if(tagsJson){
-        var  tags= tagsJson.data
-      }else{
-        var  tags = temptags
+      const temptags = await import('../../../data/tags.json')
+      if (tagsJson) {
+        var tags = tagsJson.data
+      } else {
+        var tags = temptags
       }
       if (links) {
         this.bus.$emit('loading', false)
@@ -295,7 +295,7 @@ export default {
           arr = tagsMap[matchValue]
         } else {
           results.forEach((item) => {
-            if(item){
+            if (item) {
               this.bus.$emit('loading', false, '正在拼命加载' + value + '字段相关的内容中')
             }
             // eslint-disable-next-line
@@ -345,286 +345,323 @@ export default {
 }
 </script>
 
-<style lang="scss">
-.container{
+<style>
+.container {
   width: 50%;
   margin: 0 auto;
 }
-.fixed-box{
+
+.fixed-box {
   position: fixed;
   bottom: 100px;
   right: 25%;
   z-index: 9;
-  .action-gitee,
-  .action-top{
-    width: 40px;
-    height: 40px;
-    line-height: 40px;
-    display: block;
-    cursor: pointer;
-    margin-top: 12px;
-    border-radius: 2px;
-    overflow: hidden;
-    position: relative;
-    left: 50px;
-  }
-  .action-gitee{
-    display:none;
-    img{
-      width: 100%;
-      height: auto;
-    }
-  }
-  .action-top{
-    background: #eee;
-    &:hover{
-      color: #fff;
-      background: #1a1515;
-    }
-    .van-icon{
-      font-weight: bold;
-      vertical-align: middle;
-    }
-  }
 }
-.search-modal{
+
+.fixed-box .action-gitee,
+.fixed-box .action-top {
+  width: 40px;
+  height: 40px;
+  line-height: 40px;
+  display: block;
+  cursor: pointer;
+  margin-top: 12px;
+  border-radius: 2px;
+  overflow: hidden;
+  position: relative;
+  left: 50px;
+}
+
+.fixed-box .action-gitee {
+  display: none;
+}
+
+.fixed-box .action-gitee img {
+  width: 100%;
+  height: auto;
+}
+
+.fixed-box .action-top {
+  background: #eee;
+}
+
+.fixed-box .action-top:hover {
+  color: #fff;
+  background: #1a1515;
+}
+
+.fixed-box .action-top .van-icon {
+  font-weight: bold;
+  vertical-align: middle;
+}
+
+.search-modal {
   width: 24%;
   height: 100%;
-  .title-box{
-    .van-icon{
-      font-size: 18px;
-      vertical-align: middle;
-      margin-right: 6px;
-      position: relative;
-      top: -2px;
-    }
-  }
-  .tag-group{
-    padding: 6px 0;
-  }
-  .van-tag{
-    background: #bbb;
-    margin: 4px;
-    cursor: pointer;
-    padding: 4px 8px;
-    font-size: 14px;
-    &:hover{
-      background: #666;
-    }
-  }
-  .van-cell-group__title{
-    font-size: 15px;
-    color: #333;
-    background: #f5f5f5;
-  }
-  .van-cell{
-    font-size: 13px;
-    color: #262626;
-    text-align: left;
-    cursor: pointer;
-    &:hover,
-    &:active{
-      background: #f7f8fa;
-    }
-  }
-  .van-cell:not(:last-child)::after{
-    border-bottom-color: #f7f8fa;
-  }
-  .van-cell__label{
-    font-size: 12px;
-    color: #999;
-    word-break: break-all;
-  }
 }
-.result-box{
+
+.search-modal .title-box .van-icon {
+  font-size: 18px;
+  vertical-align: middle;
+  margin-right: 6px;
+  position: relative;
+  top: -2px;
+}
+
+.search-modal .tag-group {
+  padding: 6px 0;
+}
+
+.search-modal .van-tag {
+  background: #bbb;
+  margin: 4px;
+  cursor: pointer;
+  padding: 4px 8px;
+  font-size: 14px;
+}
+
+.search-modal .van-tag:hover {
+  background: #666;
+}
+
+.search-modal .van-cell-group__title {
+  font-size: 15px;
+  color: #333;
+  background: #f5f5f5;
+}
+
+.search-modal .van-cell {
+  font-size: 13px;
+  color: #262626;
+  text-align: left;
+  cursor: pointer;
+}
+
+.search-modal .van-cell:hover, .search-modal .van-cell:active {
+  background: #f7f8fa;
+}
+
+.search-modal .van-cell:not(:last-child)::after {
+  border-bottom-color: #f7f8fa;
+}
+
+.search-modal .van-cell__label {
+  font-size: 12px;
+  color: #999;
+  word-break: break-all;
+}
+
+.result-box {
   padding-top: 70px;
-  .van-skeleton{
-    padding: 0 44px 0 20px;
-    margin-bottom: 30px;
-    .van-skeleton__avatar{
-      margin-top: 6px;
-      margin-right: 10px;
-      border-radius: 0;
-    }
-    .van-skeleton__row{
-      width: 40%!important;
-    }
-  }
-  .empty{
-    text-align: center;
-    padding: 50px 0;
-    .van-icon{
-      color: #666;
-      font-size: 40px;
-    }
-    .title{
-      display: block;
-      margin-top: 10px;
-      line-height: 30px;
-      color: #666;
-      font-size: 14px;
-      font-weight: normal;
-    }
-    .cate{
-      cursor: pointer;
-      color: #333;
-      text-decoration: underline;
-    }
-  }
-  .item-order{
-    color: #999;
-  }
-  .time-active{
-    color: red;
-  }
-  .item-title{
-    margin-bottom: 6px;
-  }
-  .item-from{
-    display: inline-block;
-    margin-left: 12px;
-  }
-  .red{
-    color: #f44336;
-  }
-  .van-cell{
-    font-size: 18px;
-    color: #262626;
-    text-align: left;
-    cursor: pointer;
-    &:hover,
-    &:active{
-      background: #f7f8fa;
-    }
-  }
-  .van-cell:not(:last-child)::after{
-    border-bottom-color: #f7f8fa;
-  }
-  .van-cell__label{
-    font-size: 14px;
-    color: #999;
-    word-break: break-all;
-  }
-  .van-divider{
-    margin: 20px;
-  }
 }
-.search-box{
+
+.result-box .van-skeleton {
+  padding: 0 44px 0 20px;
+  margin-bottom: 30px;
+}
+
+.result-box .van-skeleton .van-skeleton__avatar {
+  margin-top: 6px;
+  margin-right: 10px;
+  border-radius: 0;
+}
+
+.result-box .van-skeleton .van-skeleton__row {
+  width: 40% !important;
+}
+
+.result-box .empty {
+  text-align: center;
+  padding: 50px 0;
+}
+
+.result-box .empty .van-icon {
+  color: #666;
+  font-size: 40px;
+}
+
+.result-box .empty .title {
+  display: block;
+  margin-top: 10px;
+  line-height: 30px;
+  color: #666;
+  font-size: 14px;
+  font-weight: normal;
+}
+
+.result-box .empty .cate {
+  cursor: pointer;
+  color: #333;
+  text-decoration: underline;
+}
+
+.result-box .item-order {
+  color: #999;
+}
+
+.result-box .time-active {
+  color: red;
+}
+
+.result-box .item-title {
+  margin-bottom: 6px;
+}
+
+.result-box .item-from {
+  display: inline-block;
+  margin-left: 12px;
+}
+
+.result-box .red {
+  color: #f44336;
+}
+
+.result-box .van-cell {
+  font-size: 18px;
+  color: #262626;
+  text-align: left;
+  cursor: pointer;
+}
+
+.result-box .van-cell:hover, .result-box .van-cell:active {
+  background: #f7f8fa;
+}
+
+.result-box .van-cell:not(:last-child)::after {
+  border-bottom-color: #f7f8fa;
+}
+
+.result-box .van-cell__label {
+  font-size: 14px;
+  color: #999;
+  word-break: break-all;
+}
+
+.result-box .van-divider {
+  margin: 20px;
+}
+
+.search-box {
   position: fixed;
   width: 50%;
   z-index: 9;
   margin: 0 auto;
   padding: 10px 0;
+}
 
-  .van-cell{
-    padding: 10px 0;
-    .van-icon{
-      font-size: 20px;
-    }
-    .van-icon-clear{
-      cursor: pointer;
-      margin-right: 6px;
-    }
-  }
-  input{
-    font-size: 16px;
-    color: #999;
-  }
-  .van-search__action{
-    &:active{
-      background: none;
-    }
-  }
-  .van-search__content{
-    padding: 0;
-  }
-  .van-field__left-icon{
-    margin-left: 4px;
-  }
-  .van-search__label{
-    background: #f5f5f5;
-    display: flex;
-    align-items: center;
-    &:active,
-    &:hover{
-      background: #eee;
-    }
-  }
-  .action-cate{
-    cursor: pointer;
-    padding: 0 6px;
-    .van-icon{
-      vertical-align: middle;
-      margin-right: 2px;
-      font-size: 20px;
-      position: relative;
-      top: -1px;
-    }
-    .lbl{
-      vertical-align: middle;
-    }
-  }
-  .action-btn{
-    cursor: pointer;
-  }
+.search-box .van-cell {
+  padding: 10px 0;
+}
+
+.search-box .van-cell .van-icon {
+  font-size: 20px;
+}
+
+.search-box .van-cell .van-icon-clear {
+  cursor: pointer;
+  margin-right: 6px;
+}
+
+.search-box input {
+  font-size: 16px;
+  color: #999;
+}
+
+.search-box .van-search__action:active {
+  background: none;
+}
+
+.search-box .van-search__content {
+  padding: 0;
+}
+
+.search-box .van-field__left-icon {
+  margin-left: 4px;
+}
+
+.search-box .van-search__label {
+  background: #f5f5f5;
+  display: flex;
+  align-items: center;
+}
+
+.search-box .van-search__label:active, .search-box .van-search__label:hover {
+  background: #eee;
+}
+
+.search-box .action-cate {
+  cursor: pointer;
+  padding: 0 6px;
+}
+
+.search-box .action-cate .van-icon {
+  vertical-align: middle;
+  margin-right: 2px;
+  font-size: 20px;
+  position: relative;
+  top: -1px;
+}
+
+.search-box .action-cate .lbl {
+  vertical-align: middle;
+}
+
+.search-box .action-btn {
+  cursor: pointer;
 }
 
 @media screen and (max-width: 1200px) {
   .container,
-  .search-box{
+.search-box {
     width: 70%;
   }
-  .fixed-box{
+  .fixed-box {
     right: 15%;
   }
 }
 
 @media screen and (max-width: 800px) {
-  .container{
+  .container {
     width: 100%;
     margin: 0 auto;
   }
-  .fixed-box{
+  .fixed-box {
     bottom: 50px;
     right: 10px;
-    .action-gitee,
-    .action-top{
-      left: 0;
-    }
-    .action-top{
-      &:hover{
-        color: inherit;
-        background: #eee;
-      }
-    }
   }
-  .search-modal{
+  .fixed-box .action-gitee,
+.fixed-box .action-top {
+    left: 0;
+  }
+  .fixed-box .action-top:hover {
+    color: inherit;
+    background: #eee;
+  }
+  .search-modal {
     width: 70%;
   }
-  .search-box{
+  .search-box {
     width: 100%;
     padding: 10px;
-    .van-cell{
-      padding: 10px 0;
-    }
-    input{
-      font-size: 14px;
-    }
   }
-  .result-box{
-    .van-skeleton{
-      padding-right: 54px;
-      .van-skeleton__row{
-        width: 60%!important;
-      }
-    }
-    .van-cell{
-      font-size: 16px;
-    }
-    .van-cell__label{
-      font-size: 12px;
-    }
+  .search-box .van-cell {
+    padding: 10px 0;
+  }
+  .search-box input {
+    font-size: 14px;
+  }
+  .result-box .van-skeleton {
+    padding-right: 54px;
+  }
+  .result-box .van-skeleton .van-skeleton__row {
+    width: 60% !important;
+  }
+  .result-box .van-cell {
+    font-size: 16px;
+  }
+  .result-box .van-cell__label {
+    font-size: 12px;
   }
 }
-</style>
 
+</style>

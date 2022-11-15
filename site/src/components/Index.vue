@@ -179,7 +179,7 @@ export default {
       }
       this.bus.$emit('loading', true, '正在拼命加载中')
       const rssJson = await this.$axios.get(
-        'https://gitee.com/w4ctech/front-end-rss/raw/master/data/rss.json'
+        'https://raw.iqiq.io/w4ctech/front-end-rss/master/data/rss.json'
       )
       const temprss = await import('../../../data/rss.json')
       if (rssJson) {

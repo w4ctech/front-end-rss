@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-15 16:53:30。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-15 17:14:00。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,8 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-15-微软官方-Windows-2022-丑陋毛衣发布，印有“大眼夹”Clippy。](https://www.v2ex.com/t/895544) 
+- [【V2EX】2022-11-15-从动漫不同集剪辑下很多几秒钟的片段拼接成视频的二创侵权吗？-YouTube-上经常看到，大概率是没有官方授权的。](https://www.v2ex.com/t/895543) 
 - [【V2EX】2022-11-15-开源项目-如果觉得好，帮忙-star-一下吧](https://www.v2ex.com/t/895541) 
 - [【V2EX】2022-11-15-cloudflare两个域名指向同一服务器-IP](https://www.v2ex.com/t/895539) 
 - [【V2EX】2022-11-15-友链交换，有意向请联系我~](https://www.v2ex.com/t/895538) 
@@ -101,8 +103,6 @@
 - [【V2EX】2022-11-15-欧洲和亚太地区发售的蜂窝版-Apple-Watch-S8/Ultra-能否开通中国大陆蜂窝套餐](https://www.v2ex.com/t/895499) 
 - [【V2EX】2022-11-15-各位程序员都自己部署了那些似有服务？](https://www.v2ex.com/t/895498) 
 - [【V2EX】2022-11-15-Apple-Watch-心率检测闪的绿灯在摘下手表后还闪-是-feature-还是-bug](https://www.v2ex.com/t/895495) 
-- [【V2EX】2022-11-15-现在安卓修改-hosts-文件有哪些方法？](https://www.v2ex.com/t/895494) 
-- [【V2EX】2022-11-15-光标下方显示当前输入法语言](https://www.v2ex.com/t/895493) 
 - [【技术头条】2022-11-15-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-15-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-15-以综合指数观察和评价研发效能的趋势-link.zhihu.com](https://blogread.cn/news/go.php?idItem=15406&url=https%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttps%253A%2F%2Finsights.thoughtworks.cn%2Fobserving-evaluating-research-development-efficiency-trend%2F%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

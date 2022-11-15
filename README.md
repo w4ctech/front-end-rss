@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-15 16:53:29，:rocket: 更新条数: +2006， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-15 17:14:00，:rocket: 更新条数: +2006， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-11-15-微软官方-Windows-2022-丑陋毛衣发布，印有“大眼夹”Clippy。](https://www.v2ex.com/t/895544) ![](assets/new.png)  
+- [2022-11-15-从动漫不同集剪辑下很多几秒钟的片段拼接成视频的二创侵权吗？-YouTube-上经常看到，大概率是没有官方授权的。](https://www.v2ex.com/t/895543) ![](assets/new.png)  
 - [2022-11-15-开源项目-如果觉得好，帮忙-star-一下吧](https://www.v2ex.com/t/895541) ![](assets/new.png)  
 - [2022-11-15-cloudflare两个域名指向同一服务器-IP](https://www.v2ex.com/t/895539) ![](assets/new.png)  
 - [2022-11-15-友链交换，有意向请联系我~](https://www.v2ex.com/t/895538) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-11-15-迷茫的小-iOS-开发该何去何从？-32-岁程序员是继续-iOS-还是-nodejs-亦或者彻底转行呢？](https://www.v2ex.com/t/895520) ![](assets/new.png)  
 - [2022-11-15-拼多多买的-apple-watch-翻车，开盒后表盘右上角有胶，擦去后疏油层已脱落](https://www.v2ex.com/t/895518) ![](assets/new.png)  
 - [2022-11-15-吐槽两句阿里云函数计算](https://www.v2ex.com/t/895516) ![](assets/new.png)  
-- [2022-11-15-nginx-几个易混淆的术语](https://www.v2ex.com/t/895515) ![](assets/new.png)  
-- [2022-11-15-从-Windows-转到-Mac，记录一下-Mac-上的常用快捷键](https://www.v2ex.com/t/895514) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

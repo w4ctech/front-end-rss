@@ -9953,6 +9953,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "双十一至今，每天抽奖三个 iNFC Pro 或 iTelevisionPro，目标是让每一个人都中奖！欢迎参与！",
+        "link": "https://www.v2ex.com/t/895280",
+        "date": "2022-11-15"
+      },
+      {
         "title": ".tif 的图像可以直接在Ａ ndroid studio 里面显示出来吗？",
         "link": "https://www.v2ex.com/t/895278",
         "date": "2022-11-14"
@@ -10121,16 +10126,6 @@
         "title": "求推荐 nas。。。",
         "link": "https://www.v2ex.com/t/895232",
         "date": "2022-11-14"
-      },
-      {
-        "title": "Onedrive 国内访问是变快了吗（1drv）？",
-        "link": "https://www.v2ex.com/t/895230",
-        "date": "2022-11-14"
-      },
-      {
-        "title": "新型冠状病毒肺炎疫情国内各主要查询信息入口",
-        "link": "https://www.v2ex.com/t/895229",
-        "date": "2022-11-14"
       }
     ]
   },
@@ -10142,42 +10137,42 @@
       {
         "title": "前端测试体系和最佳实践 (insights.thoughtworks.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-11-14"
+        "date": "2022-11-15"
       },
       {
         "title": "以综合指数观察和评价研发效能的趋势 (link.zhihu.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15406&url=https%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttps%253A%2F%2Finsights.thoughtworks.cn%2Fobserving-evaluating-research-development-efficiency-trend%2F%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-11-14"
+        "date": "2022-11-15"
       },
       {
         "title": "DDD的哲学意味（上） (insights.thoughtworks.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=15405&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fddd-philosophy-entity-value-object%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-11-14"
+        "date": "2022-11-15"
       },
       {
         "title": "重新思考 React 项目架构 (teobler.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-11-14"
+        "date": "2022-11-15"
       },
       {
         "title": "日志记录的最佳实践 (insights.thoughtworks.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-11-14"
+        "date": "2022-11-15"
       },
       {
         "title": "一个非教条式的TDD例子 (insights.thoughtworks.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-11-14"
+        "date": "2022-11-15"
       },
       {
         "title": "我是怎么读代码的 (insights.thoughtworks.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-11-14"
+        "date": "2022-11-15"
       },
       {
         "title": "技术改变了什么？ (insights.thoughtworks.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=15400&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fpower-of-technology%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-11-14"
+        "date": "2022-11-15"
       }
     ]
   },
@@ -10187,19 +10182,69 @@
     "link": "https://toutiao.io",
     "items": [
       {
-        "title": "[推荐] 新来个技术总监，仅花 2 小时，撸出一个多线程永动任务，看完直接跪了，真牛逼",
-        "link": "https://toutiao.io/k/6u3q7ke",
-        "date": "2022-11-14"
+        "title": "IM 通讯协议专题学习（一）：Protobuf 从入门到精通，一篇就够",
+        "link": "https://toutiao.io/k/184gzpt",
+        "date": "2022-11-15"
       },
       {
-        "title": "[推荐] 如何画出一张优秀的架构图？（老鸟必备）",
-        "link": "https://toutiao.io/k/xiqybrh",
-        "date": "2022-11-14"
+        "title": "DDD 之业务系统搭建的设计思考",
+        "link": "https://toutiao.io/k/783naw9",
+        "date": "2022-11-15"
+      },
+      {
+        "title": "一年一度！GitHub 开发者大会「GitHub 热点速递 v.22.45」",
+        "link": "https://toutiao.io/k/6bl3bzh",
+        "date": "2022-11-15"
+      },
+      {
+        "title": "合约广告投放系统平台架构演进实践",
+        "link": "https://toutiao.io/k/fz0dk15",
+        "date": "2022-11-15"
+      },
+      {
+        "title": "深入浅出学习透析 Nginx 服务器的基本原理和配置指南（进阶实践篇）",
+        "link": "https://toutiao.io/k/v3n8meq",
+        "date": "2022-11-15"
+      },
+      {
+        "title": "浅谈架构：除了画架构图，架构师还需要些什么？",
+        "link": "https://toutiao.io/k/sn3qnfk",
+        "date": "2022-11-15"
+      },
+      {
+        "title": "讲讲 Redis 缓存更新一致性",
+        "link": "https://toutiao.io/k/mvrwq29",
+        "date": "2022-11-15"
+      },
+      {
+        "title": "Elasticsearch 亿级数据性能优化",
+        "link": "https://toutiao.io/k/01odw5a",
+        "date": "2022-11-15"
+      },
+      {
+        "title": "前端初学 ECS 架构",
+        "link": "https://toutiao.io/k/6xyrie5",
+        "date": "2022-11-15"
+      },
+      {
+        "title": "Stable Diffusion 采样速度翻倍！仅需 10 到 25 步的扩散模型采样算法",
+        "link": "https://toutiao.io/k/1yrtd84",
+        "date": "2022-11-15"
+      },
+      {
+        "title": "[推荐] 新来个技术总监，仅花 2 小时，撸出一个多线程永动任务，看完直接跪了，真牛逼",
+        "link": "https://toutiao.io/k/6u3q7ke",
+        "date": "2022-11-15"
       },
       {
         "title": "[推荐] 最适合程序员的画图工具？",
         "link": "https://toutiao.io/k/hlv8j4z",
-        "date": "2022-11-14"
+        "date": "2022-11-15"
+      },
+      {
+        "title": "[推荐] 如何画出一张优秀的架构图？（老鸟必备）",
+        "link": "https://toutiao.io/k/xiqybrh",
+        "date": "2022-11-15"
       }
     ]
   },

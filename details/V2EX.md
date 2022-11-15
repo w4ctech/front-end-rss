@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-11-14 23:40:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-15 01:05:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-11-15-双十一至今，每天抽奖三个-iNFC-Pro-或-iTelevisionPro，目标是让每一个人都中奖！欢迎参与！](https://www.v2ex.com/t/895280) 
 - [2022-11-14-.tif-的图像可以直接在Ａ-ndroid-studio-里面显示出来吗？](https://www.v2ex.com/t/895278) 
 - [2022-11-14-付费-100-求解一个-wordpress/-PHP-问题](https://www.v2ex.com/t/895277) 
 - [2022-11-14-20221115-午夜俱乐部](https://www.v2ex.com/t/895276) 
@@ -39,5 +40,3 @@
 - [2022-11-14-从今天热门话题想到的：单纯从技术上来说，-TESLA-有没有能力让北上深之类的大型城市交通彻底瘫痪？](https://www.v2ex.com/t/895236) 
 - [2022-11-14-日本东京！-ELESTYEL-株式会社-2022-冬招聘](https://www.v2ex.com/t/895235) 
 - [2022-11-14-求推荐-nas。。。](https://www.v2ex.com/t/895232) 
-- [2022-11-14-Onedrive-国内访问是变快了吗（1drv）？](https://www.v2ex.com/t/895230) 
-- [2022-11-14-新型冠状病毒肺炎疫情国内各主要查询信息入口](https://www.v2ex.com/t/895229) 

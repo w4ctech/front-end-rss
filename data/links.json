@@ -9953,6 +9953,51 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "拼多多双 11 买的 AirPods Pro 2 代，在 iOS 中提示为 Beats Fit Pro",
+        "link": "https://www.v2ex.com/t/895415",
+        "date": "2022-11-15"
+      },
+      {
+        "title": "你们的 etesync 在最新 iOS 可用吗？",
+        "link": "https://www.v2ex.com/t/895414",
+        "date": "2022-11-15"
+      },
+      {
+        "title": "今天全球人口将达到 80 亿，你怎么看",
+        "link": "https://www.v2ex.com/t/895411",
+        "date": "2022-11-15"
+      },
+      {
+        "title": "咨询一下哪里配眼镜比较划算",
+        "link": "https://www.v2ex.com/t/895409",
+        "date": "2022-11-15"
+      },
+      {
+        "title": "有无一起抱团准备 24 考研的",
+        "link": "https://www.v2ex.com/t/895408",
+        "date": "2022-11-15"
+      },
+      {
+        "title": "付费请大佬开发一个 chrome 插件",
+        "link": "https://www.v2ex.com/t/895407",
+        "date": "2022-11-15"
+      },
+      {
+        "title": "Infuse 发车了",
+        "link": "https://www.v2ex.com/t/895406",
+        "date": "2022-11-15"
+      },
+      {
+        "title": "日经贴，老哥们帮忙看看 DIY 配置，多谢",
+        "link": "https://www.v2ex.com/t/895405",
+        "date": "2022-11-15"
+      },
+      {
+        "title": "有没有接受明文的 端口转发 OR 中转 商家推荐呀？大部分都是限制必须 tls 加密",
+        "link": "https://www.v2ex.com/t/895404",
+        "date": "2022-11-15"
+      },
+      {
         "title": "关于大数据、人工智能和信息运维专业有什么好的培训机构和培训方案没有？",
         "link": "https://www.v2ex.com/t/895403",
         "date": "2022-11-15"
@@ -10091,66 +10136,6 @@
         "title": "关于 nodejs 对数据库操作产生重复数据的问题(幂等性)",
         "link": "https://www.v2ex.com/t/895366",
         "date": "2022-11-15"
-      },
-      {
-        "title": "疑似所有套了 cf 的网站都无法访问，怎么解决 pt 的问题呢？",
-        "link": "https://www.v2ex.com/t/895365",
-        "date": "2022-11-15"
-      },
-      {
-        "title": "有哪些支持私有化部署的文档服务",
-        "link": "https://www.v2ex.com/t/895364",
-        "date": "2022-11-15"
-      },
-      {
-        "title": "如何安全的将内网的 http 服务暴漏到公网上？",
-        "link": "https://www.v2ex.com/t/895363",
-        "date": "2022-11-15"
-      },
-      {
-        "title": "伦敦洛杉矶职场招聘",
-        "link": "https://www.v2ex.com/t/895362",
-        "date": "2022-11-15"
-      },
-      {
-        "title": "mac dns 问题",
-        "link": "https://www.v2ex.com/t/895361",
-        "date": "2022-11-15"
-      },
-      {
-        "title": "大家 10 月 28 日 美亚购买的 2022Apple TV 显示多久到",
-        "link": "https://www.v2ex.com/t/895360",
-        "date": "2022-11-15"
-      },
-      {
-        "title": "vscode 集成了 chrome，但是安装包也不大的样子？",
-        "link": "https://www.v2ex.com/t/895359",
-        "date": "2022-11-15"
-      },
-      {
-        "title": "为什么三合一类的充电器那么贵",
-        "link": "https://www.v2ex.com/t/895358",
-        "date": "2022-11-15"
-      },
-      {
-        "title": "iPhone 和 iPad 用户， App 重复通知问题。",
-        "link": "https://www.v2ex.com/t/895357",
-        "date": "2022-11-15"
-      },
-      {
-        "title": "请教 ios 环境本地运行 app 途径",
-        "link": "https://www.v2ex.com/t/895356",
-        "date": "2022-11-15"
-      },
-      {
-        "title": "请教个 sql 查询问题",
-        "link": "https://www.v2ex.com/t/895355",
-        "date": "2022-11-15"
-      },
-      {
-        "title": "Tailscale docker 自建 derp 只检测 3478/udp，有什么方法可以修改检测端口么？",
-        "link": "https://www.v2ex.com/t/895354",
-        "date": "2022-11-15"
       }
     ]
   },
@@ -10159,6 +10144,11 @@
     "title": "技术头条",
     "link": "http://blogread.cn/news/newest.php",
     "items": [
+      {
+        "title": "Tech Lead如何组建你的全明星团队 (insights.thoughtworks.cn)",
+        "link": "https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2022-11-15"
+      },
       {
         "title": "前端测试体系和最佳实践 (insights.thoughtworks.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
@@ -10292,13 +10282,13 @@
         "date": "2022-11-15"
       },
       {
-        "title": "[推荐] 如何画出一张优秀的架构图？（老鸟必备）",
-        "link": "https://toutiao.io/k/xiqybrh",
+        "title": "[推荐] 新来个技术总监，仅花 2 小时，撸出一个多线程永动任务，看完直接跪了，真牛逼",
+        "link": "https://toutiao.io/k/6u3q7ke",
         "date": "2022-11-15"
       },
       {
-        "title": "[推荐] 新来个技术总监，仅花 2 小时，撸出一个多线程永动任务，看完直接跪了，真牛逼",
-        "link": "https://toutiao.io/k/6u3q7ke",
+        "title": "[推荐] 如何画出一张优秀的架构图？（老鸟必备）",
+        "link": "https://toutiao.io/k/xiqybrh",
         "date": "2022-11-15"
       }
     ]

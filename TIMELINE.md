@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-15 11:36:59。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-15 12:25:51。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,7 +70,10 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
-- [【V2EX】2022-11-15-笑死，这几天一直在看到情感贴，结果今天就分手了，哈哈哈，-md](https://www.v2ex.com/t/895491) 
+- [【V2EX】2022-11-15-Apple-Watch-心率检测闪的绿灯在摘下手表后还闪-是-feature-还是-bug](https://www.v2ex.com/t/895495) 
+- [【V2EX】2022-11-15-现在安卓修改-hosts-文件有哪些方法？](https://www.v2ex.com/t/895494) 
+- [【V2EX】2022-11-15-光标下方显示当前输入法语言](https://www.v2ex.com/t/895493) 
+- [【V2EX】2022-11-15-笑死，这几天一直刷到情感贴，结果今天就分手了，哈哈哈，-md](https://www.v2ex.com/t/895491) 
 - [【V2EX】2022-11-15-对比了下-safari-的网页翻译,与第三方-Safari-翻译插件的使用感受](https://www.v2ex.com/t/895490) 
 - [【V2EX】2022-11-15-高估了电动车-25km/h-的速度，忍不了！](https://www.v2ex.com/t/895489) 
 - [【V2EX】2022-11-15-有没有一种比较好的方案在尽量保证网页样式不变的情况下进行剪藏的方案呢？](https://www.v2ex.com/t/895488) 
@@ -111,9 +114,6 @@
 - [【V2EX】2022-11-15-警惕论坛里的骗子](https://www.v2ex.com/t/895449) 
 - [【V2EX】2022-11-15-Spring-Boot-框架下实现-Excel-服务端导入导出](https://www.v2ex.com/t/895448) 
 - [【V2EX】2022-11-15-Logto-v1.0.0-beta.13:-无需代码组合你的跨平台登录体验](https://www.v2ex.com/t/895447) 
-- [【V2EX】2022-11-15-最近理财产品亏得有点多，是发生了肾么事情了吗？](https://www.v2ex.com/t/895446) 
-- [【V2EX】2022-11-15-有没有-30+的大佬，如果可以，你会对刚进职场的自己说点什么](https://www.v2ex.com/t/895445) 
-- [【V2EX】2022-11-15-大家看书和看视频的时候经常走神吗？](https://www.v2ex.com/t/895443) 
 - [【技术头条】2022-11-15-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-15-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-15-以综合指数观察和评价研发效能的趋势-link.zhihu.com](https://blogread.cn/news/go.php?idItem=15406&url=https%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttps%253A%2F%2Finsights.thoughtworks.cn%2Fobserving-evaluating-research-development-efficiency-trend%2F%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -127,8 +127,8 @@
 - [【开发者头条】2022-11-15-IM-通讯协议专题学习（一）：Protobuf-从入门到精通，一篇就够](https://toutiao.io/k/184gzpt) 
 - [【开发者头条】2022-11-15-Elasticsearch-亿级数据性能优化](https://toutiao.io/k/01odw5a) 
 - [【开发者头条】2022-11-15-深入浅出学习透析-Nginx-服务器的基本原理和配置指南（进阶实践篇）](https://toutiao.io/k/v3n8meq) 
-- [【开发者头条】2022-11-15-一年一度！GitHub-开发者大会「GitHub-热点速递-v.22.45」](https://toutiao.io/k/6bl3bzh) 
 - [【开发者头条】2022-11-15-浅谈架构：除了画架构图，架构师还需要些什么？](https://toutiao.io/k/sn3qnfk) 
+- [【开发者头条】2022-11-15-一年一度！GitHub-开发者大会「GitHub-热点速递-v.22.45」](https://toutiao.io/k/6bl3bzh) 
 - [【开发者头条】2022-11-15-讲讲-Redis-缓存更新一致性](https://toutiao.io/k/mvrwq29) 
 - [【开发者头条】2022-11-15-有趣的-Go-HttpClient-超时机制](https://toutiao.io/k/0gil5gi) 
 - [【开发者头条】2022-11-15-前端初学-ECS-架构](https://toutiao.io/k/6xyrie5) 
@@ -139,9 +139,9 @@
 - [【开发者头条】2022-11-15-日常-Bug-排查：读从库没有原子性？](https://toutiao.io/k/l2k67j7) 
 - [【开发者头条】2022-11-15-为什么-.NET-Web-应用推荐使用-await、async-异步编程？](https://toutiao.io/k/rd6j0aa) 
 - [【开发者头条】2022-11-15-还不会用-TS-封装-Axios？我教你啊](https://toutiao.io/k/7an0tnn) 
+- [【开发者头条】2022-11-15-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) 
 - [【开发者头条】2022-11-15-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) 
 - [【开发者头条】2022-11-15-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) 
-- [【开发者头条】2022-11-15-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-15 11:36:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-15 12:25:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1917,7 +1917,10 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
-- [2022-11-15-笑死，这几天一直在看到情感贴，结果今天就分手了，哈哈哈，-md](https://www.v2ex.com/t/895491) 
+- [2022-11-15-Apple-Watch-心率检测闪的绿灯在摘下手表后还闪-是-feature-还是-bug](https://www.v2ex.com/t/895495) 
+- [2022-11-15-现在安卓修改-hosts-文件有哪些方法？](https://www.v2ex.com/t/895494) 
+- [2022-11-15-光标下方显示当前输入法语言](https://www.v2ex.com/t/895493) 
+- [2022-11-15-笑死，这几天一直刷到情感贴，结果今天就分手了，哈哈哈，-md](https://www.v2ex.com/t/895491) 
 - [2022-11-15-高估了电动车-25km/h-的速度，忍不了！](https://www.v2ex.com/t/895489) 
 - [2022-11-15-有没有一种比较好的方案在尽量保证网页样式不变的情况下进行剪藏的方案呢？](https://www.v2ex.com/t/895488) 
 - [2022-11-15-网线两端只有交叉接法才能达到百兆以上](https://www.v2ex.com/t/895486) 
@@ -1950,8 +1953,6 @@
 - [2022-11-15-警惕论坛里的骗子](https://www.v2ex.com/t/895449) 
 - [2022-11-15-Spring-Boot-框架下实现-Excel-服务端导入导出](https://www.v2ex.com/t/895448) 
 - [2022-11-15-Logto-v1.0.0-beta.13:-无需代码组合你的跨平台登录体验](https://www.v2ex.com/t/895447) 
-- [2022-11-15-最近理财产品亏得有点多，是发生了肾么事情了吗？](https://www.v2ex.com/t/895446) 
-- [2022-11-15-有没有-30+的大佬，如果可以，你会对刚进职场的自己说点什么](https://www.v2ex.com/t/895445) 
 - [2022-11-15-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-15-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-15-以综合指数观察和评价研发效能的趋势-link.zhihu.com](https://blogread.cn/news/go.php?idItem=15406&url=https%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttps%253A%2F%2Finsights.thoughtworks.cn%2Fobserving-evaluating-research-development-efficiency-trend%2F%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1968,6 +1969,6 @@
 - [2022-11-15-使用-C++-部署深度学习模型快速上手方案](https://toutiao.io/k/x1rgf4g) 
 - [2022-11-15-日常-Bug-排查：读从库没有原子性？](https://toutiao.io/k/l2k67j7) 
 - [2022-11-15-还不会用-TS-封装-Axios？我教你啊](https://toutiao.io/k/7an0tnn) 
+- [2022-11-15-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) 
 - [2022-11-15-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) 
 - [2022-11-15-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) 
-- [2022-11-15-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) 

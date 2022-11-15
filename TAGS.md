@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-11-15 11:12:27。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-15 11:36:59。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -215,6 +215,7 @@
 
 
 
+- [【V2EX】困扰已久，专业程序员到底怎么写-GUI-程序？](https://www.v2ex.com/t/895484)
 - [......【查看更多】......](./details/tags/canvas-image.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -273,7 +274,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】腺病毒新冠疫苗引安全忧虑-康希诺称未发现血栓病例](https://m.caixin.com/m/2021-04-14/101691086.html)
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
-- [【V2EX】IOS-端能屏蔽网页广告的浏览器-APP-有推荐吗？](https://www.v2ex.com/t/895436)
+- [【V2EX】对比了下-safari-的网页翻译,与第三方-Safari-翻译插件的使用感受](https://www.v2ex.com/t/895490)
 - [【开发者头条】讲讲-Redis-缓存更新一致性](https://toutiao.io/k/mvrwq29)
 - [【开发者头条】有趣的-Go-HttpClient-超时机制](https://toutiao.io/k/0gil5gi)
 - [......【查看更多】......](./details/tags/browser.md)
@@ -294,7 +295,6 @@
 
 - [【V2EX】十年程序员难倒了一个算法上面，真的老了](https://www.v2ex.com/t/895464)
 - [【V2EX】一个算法问题，求大佬们给个思路](https://www.v2ex.com/t/895459)
-- [【V2EX】uPaste-剪贴板工具送兑换码--即是效率，又能装扮](https://www.v2ex.com/t/895435)
 - [【开发者头条】ElasticSearch-这些坑记得避开](https://toutiao.io/k/2ztqkjl)
 - [【开发者头条】Stable-Diffusion-采样速度翻倍！仅需-10-到-25-步的扩散模型采样算法](https://toutiao.io/k/1yrtd84)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
@@ -313,7 +313,6 @@
 
 
 
-- [【V2EX】debian-里的-docker-显示满了，但其实没占多少，高手帮下忙](https://www.v2ex.com/t/895439)
 - [【开发者头条】深入浅出学习透析-Nginx-服务器的基本原理和配置指南（进阶实践篇）](https://toutiao.io/k/v3n8meq)
 - [......【查看更多】......](./details/tags/server.md)
 
@@ -331,6 +330,7 @@
 
 
 
+- [【V2EX】GitHub-支持中文-branch-吗？](https://www.v2ex.com/t/895483)
 - [【开发者头条】一年一度！GitHub-开发者大会「GitHub-热点速递-v.22.45」](https://toutiao.io/k/6bl3bzh)
 - [......【查看更多】......](./details/tags/git-svn.md)
 

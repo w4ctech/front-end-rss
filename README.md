@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-15 11:12:27，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-15 11:36:59，:rocket: 更新条数: +2018， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,13 @@
 </summary>
 
 
+- [2022-11-15-笑死，这几天一直在看到情感贴，结果今天就分手了，哈哈哈，-md](https://www.v2ex.com/t/895491) ![](assets/new.png)  
+- [2022-11-15-对比了下-safari-的网页翻译,与第三方-Safari-翻译插件的使用感受](https://www.v2ex.com/t/895490) ![](assets/new.png)  
+- [2022-11-15-高估了电动车-25km/h-的速度，忍不了！](https://www.v2ex.com/t/895489) ![](assets/new.png)  
+- [2022-11-15-有没有一种比较好的方案在尽量保证网页样式不变的情况下进行剪藏的方案呢？](https://www.v2ex.com/t/895488) ![](assets/new.png)  
+- [2022-11-15-网线两端只有交叉接法才能达到百兆以上](https://www.v2ex.com/t/895486) ![](assets/new.png)  
+- [2022-11-15-困扰已久，专业程序员到底怎么写-GUI-程序？](https://www.v2ex.com/t/895484) ![](assets/new.png)  
+- [2022-11-15-GitHub-支持中文-branch-吗？](https://www.v2ex.com/t/895483) ![](assets/new.png)  
 - [2022-11-15-分享一个我坚持了-3-年的开源项目](https://www.v2ex.com/t/895482) ![](assets/new.png)  
 - [2022-11-15-m1-air-如何从-Bigsur-到-Monterey](https://www.v2ex.com/t/895481) ![](assets/new.png)  
 - [2022-11-15-求一个多条件查询，每个条件都能查询指定数量的结果的语句](https://www.v2ex.com/t/895480) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-11-15-奔驰无线充电跟手机-nfc-冲突](https://www.v2ex.com/t/895471) ![](assets/new.png)  
 - [2022-11-15-文档工具这个功能用来项目甩锅，比较不错](https://www.v2ex.com/t/895470) ![](assets/new.png)  
 - [2022-11-15-Ubuntu-Server-更换-cpu-后连不上网络，咋办？](https://www.v2ex.com/t/895469) ![](assets/new.png)  
-- [2022-11-15-AirPods-Pro-2-代延迟好高呀。](https://www.v2ex.com/t/895468) ![](assets/new.png)  
-- [2022-11-15-暴论：认为备刹是无意义的驾驶员就不要开车了](https://www.v2ex.com/t/895467) ![](assets/new.png)  
-- [2022-11-15-数据分析-er-看过来，五款工具有你需要的](https://www.v2ex.com/t/895466) ![](assets/new.png)  
-- [2022-11-15-十年程序员难倒了一个算法上面，真的老了](https://www.v2ex.com/t/895464) ![](assets/new.png)  
-- [2022-11-15-notion-客户端网络很差](https://www.v2ex.com/t/895463) ![](assets/new.png)  
-- [2022-11-15-结课作业是写个微信小程序包含支付功能-问下大家怎么能申请微信的支付接口呀](https://www.v2ex.com/t/895462) ![](assets/new.png)  
-- [2022-11-15-cloudflare-境内填-1.1.1.1-不能访问？](https://www.v2ex.com/t/895461) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -559,8 +559,8 @@
 - [2022-11-15-为什么-.NET-Web-应用推荐使用-await、async-异步编程？](https://toutiao.io/k/rd6j0aa) ![](assets/new.png)  
 - [2022-11-15-还不会用-TS-封装-Axios？我教你啊](https://toutiao.io/k/7an0tnn) ![](assets/new.png)  
 - [2022-11-15-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) ![](assets/new.png)  
-- [2022-11-15-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) ![](assets/new.png)  
 - [2022-11-15-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) ![](assets/new.png)  
+- [2022-11-15-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

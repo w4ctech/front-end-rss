@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-15 18:15:52。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-15 18:43:50。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,7 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-15-刚刚收到-GitHub-Copilot-的扣费邮件，实测可用-PayPal-绑定银联借记卡订阅该服务](https://www.v2ex.com/t/895547) 
 - [【V2EX】2022-11-15-一个前端程序员的-3-年-5-年-10-年经验应该分别达到什么样的能力](https://www.v2ex.com/t/895546) 
 - [【V2EX】2022-11-15-微软官方-Windows-2022-丑陋毛衣发布，印有“大眼夹”Clippy。](https://www.v2ex.com/t/895544) 
 - [【V2EX】2022-11-15-从动漫不同集剪辑下很多几秒钟的片段拼接成视频的二创侵权吗？-YouTube-上经常看到，大概率是没有官方授权的。](https://www.v2ex.com/t/895543) 
@@ -128,8 +129,8 @@
 - [【开发者头条】2022-11-15-日常-Bug-排查：读从库没有原子性？](https://toutiao.io/k/l2k67j7) 
 - [【开发者头条】2022-11-15-为什么-.NET-Web-应用推荐使用-await、async-异步编程？](https://toutiao.io/k/rd6j0aa) 
 - [【开发者头条】2022-11-15-还不会用-TS-封装-Axios？我教你啊](https://toutiao.io/k/7an0tnn) 
-- [【开发者头条】2022-11-15-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) 
 - [【开发者头条】2022-11-15-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) 
+- [【开发者头条】2022-11-15-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

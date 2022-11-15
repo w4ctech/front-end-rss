@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-15 18:15:52，:rocket: 更新条数: +2006， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-15 18:43:50，:rocket: 更新条数: +2007， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-11-15-刚刚收到-GitHub-Copilot-的扣费邮件，实测可用-PayPal-绑定银联借记卡订阅该服务](https://www.v2ex.com/t/895547) ![](assets/new.png)  
 - [2022-11-15-一个前端程序员的-3-年-5-年-10-年经验应该分别达到什么样的能力](https://www.v2ex.com/t/895546) ![](assets/new.png)  
 - [2022-11-15-微软官方-Windows-2022-丑陋毛衣发布，印有“大眼夹”Clippy。](https://www.v2ex.com/t/895544) ![](assets/new.png)  
 - [2022-11-15-从动漫不同集剪辑下很多几秒钟的片段拼接成视频的二创侵权吗？-YouTube-上经常看到，大概率是没有官方授权的。](https://www.v2ex.com/t/895543) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-11-15-为什么甲骨文投诉了-javaeyes-商标侵权，没投诉-javascript-商标侵权？这两个还是同一类的](https://www.v2ex.com/t/895522) ![](assets/new.png)  
 - [2022-11-15-有一个算法问题，求大佬们给个思路](https://www.v2ex.com/t/895521) ![](assets/new.png)  
 - [2022-11-15-迷茫的小-iOS-开发该何去何从？-32-岁程序员是继续-iOS-还是-nodejs-亦或者彻底转行呢？](https://www.v2ex.com/t/895520) ![](assets/new.png)  
-- [2022-11-15-拼多多买的-apple-watch-翻车，开盒后表盘右上角有胶，擦去后疏油层已脱落](https://www.v2ex.com/t/895518) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -558,8 +558,8 @@
 - [2022-11-15-日常-Bug-排查：读从库没有原子性？](https://toutiao.io/k/l2k67j7) ![](assets/new.png)  
 - [2022-11-15-为什么-.NET-Web-应用推荐使用-await、async-异步编程？](https://toutiao.io/k/rd6j0aa) ![](assets/new.png)  
 - [2022-11-15-还不会用-TS-封装-Axios？我教你啊](https://toutiao.io/k/7an0tnn) ![](assets/new.png)  
-- [2022-11-15-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) ![](assets/new.png)  
 - [2022-11-15-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) ![](assets/new.png)  
+- [2022-11-15-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

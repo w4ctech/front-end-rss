@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2022-11-15 10:15:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-15 10:42:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-11-15-Twitter-员工因言获炒](https://www.v2ex.com/t/895479) 
+- [2022-11-15-现在-Pycharm-依旧没法打开-samba-共享文件夹吗](https://www.v2ex.com/t/895477) 
+- [2022-11-15-AppleCare+-如何使用国内外币卡完成美国-AppleCare+-的支付流程？](https://www.v2ex.com/t/895476) 
+- [2022-11-15-菜鸟来咨询一波，-JSP-怎么获取域账号呢？](https://www.v2ex.com/t/895475) 
 - [2022-11-15-裁员如此严重，应该如何应对](https://www.v2ex.com/t/895474) 
 - [2022-11-15-杭州-前端-蚂蚁数金线，总算有-HC-了，不可多得的机会~](https://www.v2ex.com/t/895473) 
 - [2022-11-15-BoardOS-教育优惠！](https://www.v2ex.com/t/895472) 
@@ -46,8 +50,3 @@
 - [2022-11-15-上海Android/iOS美团-大众点评-UGC-业务诚招视频研发工程师/专家](https://www.v2ex.com/t/895432) 
 - [2022-11-15-分享一下双十一拼夕夕买书的经历](https://www.v2ex.com/t/895431) 
 - [2022-11-15-自定义字段的功能数据库是怎么设计的呢？](https://www.v2ex.com/t/895430) 
-- [2022-11-15-杭州前端找工作-兼职/远程-](https://www.v2ex.com/t/895429) 
-- [2022-11-15-这样的-mac-mini-m1-写入量正常吗？](https://www.v2ex.com/t/895428) 
-- [2022-11-15-求助-Python-程序，-debug-时候在某个地方-print-了下，找不到位置了](https://www.v2ex.com/t/895427) 
-- [2022-11-15-Notion-在新版-iPad-Pro-上输入中文真的是灾难，不支持-Apple-Pencil-的随写](https://www.v2ex.com/t/895426) 
-- [2022-11-15-vue-和-react-推荐学哪个？](https://www.v2ex.com/t/895425) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-15 10:15:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-15 10:42:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1917,6 +1917,9 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-11-15-Twitter-员工因言获炒](https://www.v2ex.com/t/895479) 
+- [2022-11-15-现在-Pycharm-依旧没法打开-samba-共享文件夹吗](https://www.v2ex.com/t/895477) 
+- [2022-11-15-AppleCare+-如何使用国内外币卡完成美国-AppleCare+-的支付流程？](https://www.v2ex.com/t/895476) 
 - [2022-11-15-裁员如此严重，应该如何应对](https://www.v2ex.com/t/895474) 
 - [2022-11-15-杭州-前端-蚂蚁数金线，总算有-HC-了，不可多得的机会~](https://www.v2ex.com/t/895473) 
 - [2022-11-15-BoardOS-教育优惠！](https://www.v2ex.com/t/895472) 
@@ -1949,10 +1952,6 @@
 - [2022-11-15-求-apple-music-删除重复项的方法](https://www.v2ex.com/t/895433) 
 - [2022-11-15-分享一下双十一拼夕夕买书的经历](https://www.v2ex.com/t/895431) 
 - [2022-11-15-自定义字段的功能数据库是怎么设计的呢？](https://www.v2ex.com/t/895430) 
-- [2022-11-15-杭州前端找工作-兼职/远程-](https://www.v2ex.com/t/895429) 
-- [2022-11-15-这样的-mac-mini-m1-写入量正常吗？](https://www.v2ex.com/t/895428) 
-- [2022-11-15-求助-Python-程序，-debug-时候在某个地方-print-了下，找不到位置了](https://www.v2ex.com/t/895427) 
-- [2022-11-15-Notion-在新版-iPad-Pro-上输入中文真的是灾难，不支持-Apple-Pencil-的随写](https://www.v2ex.com/t/895426) 
 - [2022-11-15-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-15-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-15-以综合指数观察和评价研发效能的趋势-link.zhihu.com](https://blogread.cn/news/go.php?idItem=15406&url=https%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttps%253A%2F%2Finsights.thoughtworks.cn%2Fobserving-evaluating-research-development-efficiency-trend%2F%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1970,5 +1969,5 @@
 - [2022-11-15-日常-Bug-排查：读从库没有原子性？](https://toutiao.io/k/l2k67j7) 
 - [2022-11-15-还不会用-TS-封装-Axios？我教你啊](https://toutiao.io/k/7an0tnn) 
 - [2022-11-15-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) 
-- [2022-11-15-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) 
 - [2022-11-15-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) 
+- [2022-11-15-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) 

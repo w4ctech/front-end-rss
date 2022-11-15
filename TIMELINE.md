@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-15 05:13:37。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-15 05:38:33。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,10 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-15-玩游戏升级-CPU-12100，已经足够用了。](https://www.v2ex.com/t/895381) 
+- [【V2EX】2022-11-15-有京津通勤的朋友吗？现在实操怎么做才能不居家隔离](https://www.v2ex.com/t/895380) 
+- [【V2EX】2022-11-15-后端逻辑依赖前端是否正确](https://www.v2ex.com/t/895379) 
+- [【V2EX】2022-11-15-领导结婚纪念日，要送礼物吗？](https://www.v2ex.com/t/895378) 
 - [【V2EX】2022-11-15-世界杯要到了，大家线上买体彩的话都会去哪里买啊？](https://www.v2ex.com/t/895377) 
 - [【V2EX】2022-11-15-为什么云服务商的付费策略这么流氓](https://www.v2ex.com/t/895375) 
 - [【V2EX】2022-11-15-在知乎看到日本留学生退房被索赔-50w，是真的吗？](https://www.v2ex.com/t/895374) 
@@ -106,10 +110,6 @@
 - [【V2EX】2022-11-15-怎么感觉机械键盘按键比薄膜键盘还容易出问题？](https://www.v2ex.com/t/895338) 
 - [【V2EX】2022-11-15-家用电脑升级，看看配置](https://www.v2ex.com/t/895335) 
 - [【V2EX】2022-11-15-静态页面展示有无长期免费方案](https://www.v2ex.com/t/895332) 
-- [【V2EX】2022-11-15-网站所有的-Js-文件被加入了下面的这段代码，请问是什么原因呢？该如何防御](https://www.v2ex.com/t/895331) 
-- [【V2EX】2022-11-15-做了个指导宽基投资的功能，祝大家宽基定投愉快](https://www.v2ex.com/t/895330) 
-- [【V2EX】2022-11-15-怎么没人聊世界杯的？](https://www.v2ex.com/t/895329) 
-- [【V2EX】2022-11-15-DOTA2-互联网杯又要来了。。。](https://www.v2ex.com/t/895328) 
 - [【技术头条】2022-11-15-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-15-以综合指数观察和评价研发效能的趋势-link.zhihu.com](https://blogread.cn/news/go.php?idItem=15406&url=https%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttps%253A%2F%2Finsights.thoughtworks.cn%2Fobserving-evaluating-research-development-efficiency-trend%2F%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-15-DDD的哲学意味（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15405&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fddd-philosophy-entity-value-object%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -131,11 +131,11 @@
 - [【开发者头条】2022-11-15-Stable-Diffusion-采样速度翻倍！仅需-10-到-25-步的扩散模型采样算法](https://toutiao.io/k/1yrtd84) 
 - [【开发者头条】2022-11-15-ElasticSearch-这些坑记得避开](https://toutiao.io/k/2ztqkjl) 
 - [【开发者头条】2022-11-15-使用-C++-部署深度学习模型快速上手方案](https://toutiao.io/k/x1rgf4g) 
-- [【开发者头条】2022-11-15-日常-Bug-排查：读从库没有原子性？](https://toutiao.io/k/l2k67j7) 
 - [【开发者头条】2022-11-15-为什么-.NET-Web-应用推荐使用-await、async-异步编程？](https://toutiao.io/k/rd6j0aa) 
-- [【开发者头条】2022-11-15-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) 
-- [【开发者头条】2022-11-15-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) 
+- [【开发者头条】2022-11-15-日常-Bug-排查：读从库没有原子性？](https://toutiao.io/k/l2k67j7) 
 - [【开发者头条】2022-11-15-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) 
+- [【开发者头条】2022-11-15-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) 
+- [【开发者头条】2022-11-15-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-15 05:13:37，:rocket: 更新条数: +2012， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-15 05:38:33，:rocket: 更新条数: +2012， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-11-15-玩游戏升级-CPU-12100，已经足够用了。](https://www.v2ex.com/t/895381) ![](assets/new.png)  
+- [2022-11-15-有京津通勤的朋友吗？现在实操怎么做才能不居家隔离](https://www.v2ex.com/t/895380) ![](assets/new.png)  
+- [2022-11-15-后端逻辑依赖前端是否正确](https://www.v2ex.com/t/895379) ![](assets/new.png)  
+- [2022-11-15-领导结婚纪念日，要送礼物吗？](https://www.v2ex.com/t/895378) ![](assets/new.png)  
 - [2022-11-15-世界杯要到了，大家线上买体彩的话都会去哪里买啊？](https://www.v2ex.com/t/895377) ![](assets/new.png)  
 - [2022-11-15-为什么云服务商的付费策略这么流氓](https://www.v2ex.com/t/895375) ![](assets/new.png)  
 - [2022-11-15-在知乎看到日本留学生退房被索赔-50w，是真的吗？](https://www.v2ex.com/t/895374) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-11-15-伦敦洛杉矶职场招聘](https://www.v2ex.com/t/895362) ![](assets/new.png)  
 - [2022-11-15-mac-dns-问题](https://www.v2ex.com/t/895361) ![](assets/new.png)  
 - [2022-11-15-大家-10-月-28-日-美亚购买的-2022Apple-TV-显示多久到](https://www.v2ex.com/t/895360) ![](assets/new.png)  
-- [2022-11-15-vscode-集成了-chrome，但是安装包也不大的样子？](https://www.v2ex.com/t/895359) ![](assets/new.png)  
-- [2022-11-15-为什么三合一类的充电器那么贵](https://www.v2ex.com/t/895358) ![](assets/new.png)  
-- [2022-11-15-iPhone-和-iPad-用户，-App-重复通知问题。](https://www.v2ex.com/t/895357) ![](assets/new.png)  
-- [2022-11-15-请教-ios-环境本地运行-app-途径](https://www.v2ex.com/t/895356) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -554,11 +554,11 @@
 - [2022-11-15-Stable-Diffusion-采样速度翻倍！仅需-10-到-25-步的扩散模型采样算法](https://toutiao.io/k/1yrtd84) ![](assets/new.png)  
 - [2022-11-15-ElasticSearch-这些坑记得避开](https://toutiao.io/k/2ztqkjl) ![](assets/new.png)  
 - [2022-11-15-使用-C++-部署深度学习模型快速上手方案](https://toutiao.io/k/x1rgf4g) ![](assets/new.png)  
-- [2022-11-15-日常-Bug-排查：读从库没有原子性？](https://toutiao.io/k/l2k67j7) ![](assets/new.png)  
 - [2022-11-15-为什么-.NET-Web-应用推荐使用-await、async-异步编程？](https://toutiao.io/k/rd6j0aa) ![](assets/new.png)  
-- [2022-11-15-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) ![](assets/new.png)  
-- [2022-11-15-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) ![](assets/new.png)  
+- [2022-11-15-日常-Bug-排查：读从库没有原子性？](https://toutiao.io/k/l2k67j7) ![](assets/new.png)  
 - [2022-11-15-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) ![](assets/new.png)  
+- [2022-11-15-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) ![](assets/new.png)  
+- [2022-11-15-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

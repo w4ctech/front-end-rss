@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-15 05:13:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-15 05:38:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1917,6 +1917,9 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-11-15-有京津通勤的朋友吗？现在实操怎么做才能不居家隔离](https://www.v2ex.com/t/895380) 
+- [2022-11-15-后端逻辑依赖前端是否正确](https://www.v2ex.com/t/895379) 
+- [2022-11-15-领导结婚纪念日，要送礼物吗？](https://www.v2ex.com/t/895378) 
 - [2022-11-15-世界杯要到了，大家线上买体彩的话都会去哪里买啊？](https://www.v2ex.com/t/895377) 
 - [2022-11-15-为什么云服务商的付费策略这么流氓](https://www.v2ex.com/t/895375) 
 - [2022-11-15-在知乎看到日本留学生退房被索赔-50w，是真的吗？](https://www.v2ex.com/t/895374) 
@@ -1944,9 +1947,6 @@
 - [2022-11-15-怎么感觉机械键盘按键比薄膜键盘还容易出问题？](https://www.v2ex.com/t/895338) 
 - [2022-11-15-家用电脑升级，看看配置](https://www.v2ex.com/t/895335) 
 - [2022-11-15-静态页面展示有无长期免费方案](https://www.v2ex.com/t/895332) 
-- [2022-11-15-做了个指导宽基投资的功能，祝大家宽基定投愉快](https://www.v2ex.com/t/895330) 
-- [2022-11-15-怎么没人聊世界杯的？](https://www.v2ex.com/t/895329) 
-- [2022-11-15-DOTA2-互联网杯又要来了。。。](https://www.v2ex.com/t/895328) 
 - [2022-11-15-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-15-以综合指数观察和评价研发效能的趋势-link.zhihu.com](https://blogread.cn/news/go.php?idItem=15406&url=https%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttps%253A%2F%2Finsights.thoughtworks.cn%2Fobserving-evaluating-research-development-efficiency-trend%2F%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-15-DDD的哲学意味（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15405&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fddd-philosophy-entity-value-object%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1961,6 +1961,6 @@
 - [2022-11-15-前端初学-ECS-架构](https://toutiao.io/k/6xyrie5) 
 - [2022-11-15-使用-C++-部署深度学习模型快速上手方案](https://toutiao.io/k/x1rgf4g) 
 - [2022-11-15-日常-Bug-排查：读从库没有原子性？](https://toutiao.io/k/l2k67j7) 
-- [2022-11-15-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) 
-- [2022-11-15-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) 
 - [2022-11-15-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) 
+- [2022-11-15-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) 
+- [2022-11-15-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) 

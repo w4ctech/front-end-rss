@@ -11,7 +11,11 @@
 
 ## 
 
+<<<<<<< HEAD
 :alarm_clock: 更新时间: 2022-11-15 21:11:00，:rocket: 更新条数: +13， ![](assets/dot.png) 表示有更新
+=======
+:alarm_clock: 更新时间: 2022-11-15 13:12:45，:rocket: 更新条数: +2014， ![](assets/dot.png) 表示有更新
+>>>>>>> 6ed7b8b15f7c2322de7b3f7cc9a3761c58053d81
 
 ## 来源分类
 
@@ -474,6 +478,29 @@
 </summary>
 
 
+<<<<<<< HEAD
+=======
+- [2022-11-15-京东真恶心，一直往电子邮箱里发垃圾邮件，还没有退订选项](https://www.v2ex.com/t/895505) ![](assets/new.png)  
+- [2022-11-15-你觉得-2023-mbp-m2-pro-会有哪些方面的提升？](https://www.v2ex.com/t/895504) ![](assets/new.png)  
+- [2022-11-15-手机屏幕坏了，怎么做数据清理和迁移？](https://www.v2ex.com/t/895503) ![](assets/new.png)  
+- [2022-11-15-请问有没有接口获取微信运动里各个好友的微信步数数据呢？每-x-分钟扫描一次。](https://www.v2ex.com/t/895502) ![](assets/new.png)  
+- [2022-11-15-Solidity-资料分享：-PancakesSwap-Farm-V1-版本-Solidity-合约代码的深度解读](https://www.v2ex.com/t/895500) ![](assets/new.png)  
+- [2022-11-15-欧洲和亚太地区发售的蜂窝版-Apple-Watch-S8/Ultra-能否开通中国大陆蜂窝套餐](https://www.v2ex.com/t/895499) ![](assets/new.png)  
+- [2022-11-15-各位程序员都自己部署了那些似有服务？](https://www.v2ex.com/t/895498) ![](assets/new.png)  
+- [2022-11-15-Apple-Watch-心率检测闪的绿灯在摘下手表后还闪-是-feature-还是-bug](https://www.v2ex.com/t/895495) ![](assets/new.png)  
+- [2022-11-15-现在安卓修改-hosts-文件有哪些方法？](https://www.v2ex.com/t/895494) ![](assets/new.png)  
+- [2022-11-15-光标下方显示当前输入法语言](https://www.v2ex.com/t/895493) ![](assets/new.png)  
+- [2022-11-15-笑死，这几天一直刷到情感贴，结果今天就分手了，哈哈哈，-md](https://www.v2ex.com/t/895491) ![](assets/new.png)  
+- [2022-11-15-对比了下-safari-的网页翻译,与第三方-Safari-翻译插件的使用感受](https://www.v2ex.com/t/895490) ![](assets/new.png)  
+- [2022-11-15-高估了电动车-25km/h-的速度，忍不了！](https://www.v2ex.com/t/895489) ![](assets/new.png)  
+- [2022-11-15-有没有一种比较好的方案在尽量保证网页样式不变的情况下进行剪藏的方案呢？](https://www.v2ex.com/t/895488) ![](assets/new.png)  
+- [2022-11-15-网线两端只有交叉接法才能达到百兆以上](https://www.v2ex.com/t/895486) ![](assets/new.png)  
+- [2022-11-15-困扰已久，专业程序员到底怎么写-GUI-程序？](https://www.v2ex.com/t/895484) ![](assets/new.png)  
+- [2022-11-15-GitHub-支持中文-branch-吗？](https://www.v2ex.com/t/895483) ![](assets/new.png)  
+- [2022-11-15-分享一个我坚持了-3-年的开源项目](https://www.v2ex.com/t/895482) ![](assets/new.png)  
+- [2022-11-15-m1-air-如何从-Bigsur-到-Monterey](https://www.v2ex.com/t/895481) ![](assets/new.png)  
+- [2022-11-15-求一个多条件查询，每个条件都能查询指定数量的结果的语句](https://www.v2ex.com/t/895480) ![](assets/new.png)  
+>>>>>>> 6ed7b8b15f7c2322de7b3f7cc9a3761c58053d81
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -496,6 +523,28 @@
 </summary>
 
 
+<<<<<<< HEAD
+=======
+- [2022-11-15-DDD-之业务系统搭建的设计思考](https://toutiao.io/k/783naw9) ![](assets/new.png)  
+- [2022-11-15-IM-通讯协议专题学习（一）：Protobuf-从入门到精通，一篇就够](https://toutiao.io/k/184gzpt) ![](assets/new.png)  
+- [2022-11-15-Elasticsearch-亿级数据性能优化](https://toutiao.io/k/01odw5a) ![](assets/new.png)  
+- [2022-11-15-深入浅出学习透析-Nginx-服务器的基本原理和配置指南（进阶实践篇）](https://toutiao.io/k/v3n8meq) ![](assets/new.png)  
+- [2022-11-15-浅谈架构：除了画架构图，架构师还需要些什么？](https://toutiao.io/k/sn3qnfk) ![](assets/new.png)  
+- [2022-11-15-一年一度！GitHub-开发者大会「GitHub-热点速递-v.22.45」](https://toutiao.io/k/6bl3bzh) ![](assets/new.png)  
+- [2022-11-15-讲讲-Redis-缓存更新一致性](https://toutiao.io/k/mvrwq29) ![](assets/new.png)  
+- [2022-11-15-有趣的-Go-HttpClient-超时机制](https://toutiao.io/k/0gil5gi) ![](assets/new.png)  
+- [2022-11-15-前端初学-ECS-架构](https://toutiao.io/k/6xyrie5) ![](assets/new.png)  
+- [2022-11-15-ElasticSearch-这些坑记得避开](https://toutiao.io/k/2ztqkjl) ![](assets/new.png)  
+- [2022-11-15-合约广告投放系统平台架构演进实践](https://toutiao.io/k/fz0dk15) ![](assets/new.png)  
+- [2022-11-15-Stable-Diffusion-采样速度翻倍！仅需-10-到-25-步的扩散模型采样算法](https://toutiao.io/k/1yrtd84) ![](assets/new.png)  
+- [2022-11-15-使用-C++-部署深度学习模型快速上手方案](https://toutiao.io/k/x1rgf4g) ![](assets/new.png)  
+- [2022-11-15-日常-Bug-排查：读从库没有原子性？](https://toutiao.io/k/l2k67j7) ![](assets/new.png)  
+- [2022-11-15-为什么-.NET-Web-应用推荐使用-await、async-异步编程？](https://toutiao.io/k/rd6j0aa) ![](assets/new.png)  
+- [2022-11-15-还不会用-TS-封装-Axios？我教你啊](https://toutiao.io/k/7an0tnn) ![](assets/new.png)  
+- [2022-11-15-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) ![](assets/new.png)  
+- [2022-11-15-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) ![](assets/new.png)  
+- [2022-11-15-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) ![](assets/new.png)  
+>>>>>>> 6ed7b8b15f7c2322de7b3f7cc9a3761c58053d81
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

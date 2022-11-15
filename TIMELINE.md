@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-15 04:25:23。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-15 04:49:26。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,8 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-15-PDD-上买到了后封机，假一赔十完全笑话](https://www.v2ex.com/t/895370) 
+- [【V2EX】2022-11-15-无聊统计了一下今年的-Spotify-听歌情况](https://www.v2ex.com/t/895369) 
 - [【V2EX】2022-11-15-大家的-wifi6-局域网网速能达到多少?-400Mbits/s-还有哪些优化的注意事项](https://www.v2ex.com/t/895367) 
 - [【V2EX】2022-11-15-关于-nodejs-对数据库操作产生重复数据的问题幂等性](https://www.v2ex.com/t/895366) 
 - [【V2EX】2022-11-15-疑似所有套了-cf-的网站都无法访问，怎么解决-pt-的问题呢？](https://www.v2ex.com/t/895365) 
@@ -107,8 +109,6 @@
 - [【V2EX】2022-11-15-招聘-岗位：-#招商-#推广-#市场-纸飞机：-@jy1604](https://www.v2ex.com/t/895323) 
 - [【V2EX】2022-11-15-还有类似-Bilibili「一起看」功能的视频网站/解决方案吗](https://www.v2ex.com/t/895322) 
 - [【V2EX】2022-11-15-国行的-watch-是否阉割了海拔](https://www.v2ex.com/t/895321) 
-- [【V2EX】2022-11-15-Office-365-家庭版中的-OneDrive-用不了？](https://www.v2ex.com/t/895320) 
-- [【V2EX】2022-11-15-注册公司麻烦吗？有个业务需要用到支付](https://www.v2ex.com/t/895319) 
 - [【技术头条】2022-11-15-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-15-以综合指数观察和评价研发效能的趋势-link.zhihu.com](https://blogread.cn/news/go.php?idItem=15406&url=https%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttps%253A%2F%2Finsights.thoughtworks.cn%2Fobserving-evaluating-research-development-efficiency-trend%2F%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-15-DDD的哲学意味（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15405&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fddd-philosophy-entity-value-object%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -124,17 +124,17 @@
 - [【开发者头条】2022-11-15-一年一度！GitHub-开发者大会「GitHub-热点速递-v.22.45」](https://toutiao.io/k/6bl3bzh) 
 - [【开发者头条】2022-11-15-浅谈架构：除了画架构图，架构师还需要些什么？](https://toutiao.io/k/sn3qnfk) 
 - [【开发者头条】2022-11-15-讲讲-Redis-缓存更新一致性](https://toutiao.io/k/mvrwq29) 
-- [【开发者头条】2022-11-15-合约广告投放系统平台架构演进实践](https://toutiao.io/k/fz0dk15) 
 - [【开发者头条】2022-11-15-有趣的-Go-HttpClient-超时机制](https://toutiao.io/k/0gil5gi) 
+- [【开发者头条】2022-11-15-合约广告投放系统平台架构演进实践](https://toutiao.io/k/fz0dk15) 
 - [【开发者头条】2022-11-15-前端初学-ECS-架构](https://toutiao.io/k/6xyrie5) 
 - [【开发者头条】2022-11-15-Stable-Diffusion-采样速度翻倍！仅需-10-到-25-步的扩散模型采样算法](https://toutiao.io/k/1yrtd84) 
-- [【开发者头条】2022-11-15-使用-C++-部署深度学习模型快速上手方案](https://toutiao.io/k/x1rgf4g) 
 - [【开发者头条】2022-11-15-ElasticSearch-这些坑记得避开](https://toutiao.io/k/2ztqkjl) 
+- [【开发者头条】2022-11-15-使用-C++-部署深度学习模型快速上手方案](https://toutiao.io/k/x1rgf4g) 
 - [【开发者头条】2022-11-15-日常-Bug-排查：读从库没有原子性？](https://toutiao.io/k/l2k67j7) 
 - [【开发者头条】2022-11-15-为什么-.NET-Web-应用推荐使用-await、async-异步编程？](https://toutiao.io/k/rd6j0aa) 
-- [【开发者头条】2022-11-15-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) 
 - [【开发者头条】2022-11-15-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) 
 - [【开发者头条】2022-11-15-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) 
+- [【开发者头条】2022-11-15-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

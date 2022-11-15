@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-15 04:25:23，:rocket: 更新条数: +2011， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-15 04:49:26，:rocket: 更新条数: +2011， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-11-15-PDD-上买到了后封机，假一赔十完全笑话](https://www.v2ex.com/t/895370) ![](assets/new.png)  
+- [2022-11-15-无聊统计了一下今年的-Spotify-听歌情况](https://www.v2ex.com/t/895369) ![](assets/new.png)  
 - [2022-11-15-大家的-wifi6-局域网网速能达到多少?-400Mbits/s-还有哪些优化的注意事项](https://www.v2ex.com/t/895367) ![](assets/new.png)  
 - [2022-11-15-关于-nodejs-对数据库操作产生重复数据的问题幂等性](https://www.v2ex.com/t/895366) ![](assets/new.png)  
 - [2022-11-15-疑似所有套了-cf-的网站都无法访问，怎么解决-pt-的问题呢？](https://www.v2ex.com/t/895365) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-11-15-没想到我-16G-都要用-mem-reduct-了](https://www.v2ex.com/t/895351) ![](assets/new.png)  
 - [2022-11-15-可远程数据库-云原生数据库公司的远程工作机会，-20-天年假哦～](https://www.v2ex.com/t/895349) ![](assets/new.png)  
 - [2022-11-15-这款笔记做了我想要的聚合待办任务-list-和任务汇总](https://www.v2ex.com/t/895348) ![](assets/new.png)  
-- [2022-11-15-大哥们，有对黄斑裂孔疾病了解的吗，想请教大家](https://www.v2ex.com/t/895347) ![](assets/new.png)  
-- [2022-11-15-正则表达式如何忽略子字符串中的内容](https://www.v2ex.com/t/895346) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -548,17 +548,17 @@
 - [2022-11-15-一年一度！GitHub-开发者大会「GitHub-热点速递-v.22.45」](https://toutiao.io/k/6bl3bzh) ![](assets/new.png)  
 - [2022-11-15-浅谈架构：除了画架构图，架构师还需要些什么？](https://toutiao.io/k/sn3qnfk) ![](assets/new.png)  
 - [2022-11-15-讲讲-Redis-缓存更新一致性](https://toutiao.io/k/mvrwq29) ![](assets/new.png)  
-- [2022-11-15-合约广告投放系统平台架构演进实践](https://toutiao.io/k/fz0dk15) ![](assets/new.png)  
 - [2022-11-15-有趣的-Go-HttpClient-超时机制](https://toutiao.io/k/0gil5gi) ![](assets/new.png)  
+- [2022-11-15-合约广告投放系统平台架构演进实践](https://toutiao.io/k/fz0dk15) ![](assets/new.png)  
 - [2022-11-15-前端初学-ECS-架构](https://toutiao.io/k/6xyrie5) ![](assets/new.png)  
 - [2022-11-15-Stable-Diffusion-采样速度翻倍！仅需-10-到-25-步的扩散模型采样算法](https://toutiao.io/k/1yrtd84) ![](assets/new.png)  
-- [2022-11-15-使用-C++-部署深度学习模型快速上手方案](https://toutiao.io/k/x1rgf4g) ![](assets/new.png)  
 - [2022-11-15-ElasticSearch-这些坑记得避开](https://toutiao.io/k/2ztqkjl) ![](assets/new.png)  
+- [2022-11-15-使用-C++-部署深度学习模型快速上手方案](https://toutiao.io/k/x1rgf4g) ![](assets/new.png)  
 - [2022-11-15-日常-Bug-排查：读从库没有原子性？](https://toutiao.io/k/l2k67j7) ![](assets/new.png)  
 - [2022-11-15-为什么-.NET-Web-应用推荐使用-await、async-异步编程？](https://toutiao.io/k/rd6j0aa) ![](assets/new.png)  
-- [2022-11-15-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) ![](assets/new.png)  
 - [2022-11-15-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) ![](assets/new.png)  
 - [2022-11-15-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) ![](assets/new.png)  
+- [2022-11-15-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

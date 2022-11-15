@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-11-15 05:38:33。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-15 06:17:35。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -56,6 +56,7 @@
 
 
 
+- [【V2EX】现在-Vue3-+ts-的断点是不是完全没法用了，不仅鼠标悬停在变量上不显示，而且作用域里变量值也不对](https://www.v2ex.com/t/895384)
 - [......【查看更多】......](./details/tags/vue.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -155,7 +156,6 @@
 
 
 - [【V2EX】玩游戏升级-CPU-12100，已经足够用了。](https://www.v2ex.com/t/895381)
-- [【V2EX】求单机益智小游戏合集](https://www.v2ex.com/t/895342)
 - [......【查看更多】......](./details/tags/dev-game.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -236,6 +236,7 @@
 
 - [【武汉肺炎防疫全纪录(财新网)】广州17岁男生在定点医院参加高考-特殊考场视频监考](https://m.caixin.com/m/2021-06-05/101723418.html)
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
+- [【V2EX】有没有给几段文字、照片，自动生成短视频的项目？](https://www.v2ex.com/t/895382)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

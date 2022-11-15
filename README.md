@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-15 14:37:55，:rocket: 更新条数: +2010， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-15 15:14:06，:rocket: 更新条数: +2008， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-11-15-macmini-搭载-clash-做软路由，但是遇到一个神奇的问题。](https://www.v2ex.com/t/895535) ![](assets/new.png)  
+- [2022-11-15-在-terminal-中访问-v2ex（v2erminal）](https://www.v2ex.com/t/895533) ![](assets/new.png)  
+- [2022-11-15-有没有什么-4-5-名高中生适合在线上做的事情？](https://www.v2ex.com/t/895532) ![](assets/new.png)  
+- [2022-11-15-需要一台新的-xp-系统主机，求大佬建议](https://www.v2ex.com/t/895531) ![](assets/new.png)  
 - [2022-11-15-把一个数据库-sql-语句转换成另一个数据库的框架](https://www.v2ex.com/t/895529) ![](assets/new.png)  
 - [2022-11-15-求推荐一款可以计划任务的插座？](https://www.v2ex.com/t/895528) ![](assets/new.png)  
 - [2022-11-15-求职杭州-or-远程软件测试-帮女朋友找工作-~-毕业时长两年半](https://www.v2ex.com/t/895526) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-11-15-实现了一套基于-lockfree-的并发安全的数据结构](https://www.v2ex.com/t/895512) ![](assets/new.png)  
 - [2022-11-15-Apple-TV-日亚购买被退运](https://www.v2ex.com/t/895511) ![](assets/new.png)  
 - [2022-11-15-寻合作伙伴-想找几个心理学背景的伙伴一起合作](https://www.v2ex.com/t/895509) ![](assets/new.png)  
-- [2022-11-15-京东真恶心，一直往电子邮箱里发垃圾邮件，还没有退订选项](https://www.v2ex.com/t/895505) ![](assets/new.png)  
-- [2022-11-15-你觉得-2023-mbp-m2-pro-会有哪些方面的提升？](https://www.v2ex.com/t/895504) ![](assets/new.png)  
-- [2022-11-15-手机屏幕坏了，怎么做数据清理和迁移？](https://www.v2ex.com/t/895503) ![](assets/new.png)  
-- [2022-11-15-请问有没有接口获取微信运动里各个好友的微信步数数据呢？每-x-分钟扫描一次。](https://www.v2ex.com/t/895502) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -558,8 +558,8 @@
 - [2022-11-15-日常-Bug-排查：读从库没有原子性？](https://toutiao.io/k/l2k67j7) ![](assets/new.png)  
 - [2022-11-15-为什么-.NET-Web-应用推荐使用-await、async-异步编程？](https://toutiao.io/k/rd6j0aa) ![](assets/new.png)  
 - [2022-11-15-还不会用-TS-封装-Axios？我教你啊](https://toutiao.io/k/7an0tnn) ![](assets/new.png)  
-- [2022-11-15-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) ![](assets/new.png)  
 - [2022-11-15-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) ![](assets/new.png)  
+- [2022-11-15-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) ![](assets/new.png)  
 - [2022-11-15-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

@@ -9953,6 +9953,26 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "macmini 搭载 clash 做软路由，但是遇到一个神奇的问题。",
+        "link": "https://www.v2ex.com/t/895535",
+        "date": "2022-11-15"
+      },
+      {
+        "title": "在 terminal 中访问 v2ex（v2erminal）",
+        "link": "https://www.v2ex.com/t/895533",
+        "date": "2022-11-15"
+      },
+      {
+        "title": "有没有什么 4-5 名高中生适合在线上做的事情？",
+        "link": "https://www.v2ex.com/t/895532",
+        "date": "2022-11-15"
+      },
+      {
+        "title": "需要一台新的 xp 系统主机，求大佬建议",
+        "link": "https://www.v2ex.com/t/895531",
+        "date": "2022-11-15"
+      },
+      {
         "title": "把一个数据库 sql 语句转换成另一个数据库的框架",
         "link": "https://www.v2ex.com/t/895529",
         "date": "2022-11-15"
@@ -10101,36 +10121,6 @@
         "title": "有没有一种比较好的方案在尽量保证网页样式不变的情况下进行剪藏的方案呢？",
         "link": "https://www.v2ex.com/t/895488",
         "date": "2022-11-15"
-      },
-      {
-        "title": "网线两端只有交叉接法才能达到百兆以上",
-        "link": "https://www.v2ex.com/t/895486",
-        "date": "2022-11-15"
-      },
-      {
-        "title": "困扰已久，专业程序员到底怎么写 GUI 程序？",
-        "link": "https://www.v2ex.com/t/895484",
-        "date": "2022-11-15"
-      },
-      {
-        "title": "GitHub 支持中文 branch 吗？",
-        "link": "https://www.v2ex.com/t/895483",
-        "date": "2022-11-15"
-      },
-      {
-        "title": "分享一个我坚持了 3 年的开源项目",
-        "link": "https://www.v2ex.com/t/895482",
-        "date": "2022-11-15"
-      },
-      {
-        "title": "m1 air 如何从 Bigsur 到 Monterey",
-        "link": "https://www.v2ex.com/t/895481",
-        "date": "2022-11-15"
-      },
-      {
-        "title": "求一个多条件查询，每个条件都能查询指定数量的结果的语句",
-        "link": "https://www.v2ex.com/t/895480",
-        "date": "2022-11-15"
       }
     ]
   },
@@ -10272,13 +10262,13 @@
         "date": "2022-11-15"
       },
       {
-        "title": "[推荐] 新来个技术总监，仅花 2 小时，撸出一个多线程永动任务，看完直接跪了，真牛逼",
-        "link": "https://toutiao.io/k/6u3q7ke",
+        "title": "[推荐] 如何画出一张优秀的架构图？（老鸟必备）",
+        "link": "https://toutiao.io/k/xiqybrh",
         "date": "2022-11-15"
       },
       {
-        "title": "[推荐] 如何画出一张优秀的架构图？（老鸟必备）",
-        "link": "https://toutiao.io/k/xiqybrh",
+        "title": "[推荐] 新来个技术总监，仅花 2 小时，撸出一个多线程永动任务，看完直接跪了，真牛逼",
+        "link": "https://toutiao.io/k/6u3q7ke",
         "date": "2022-11-15"
       },
       {

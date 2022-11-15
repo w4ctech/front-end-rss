@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-15 14:37:55。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-15 15:14:06。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,10 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-15-macmini-搭载-clash-做软路由，但是遇到一个神奇的问题。](https://www.v2ex.com/t/895535) 
+- [【V2EX】2022-11-15-在-terminal-中访问-v2ex（v2erminal）](https://www.v2ex.com/t/895533) 
+- [【V2EX】2022-11-15-有没有什么-4-5-名高中生适合在线上做的事情？](https://www.v2ex.com/t/895532) 
+- [【V2EX】2022-11-15-需要一台新的-xp-系统主机，求大佬建议](https://www.v2ex.com/t/895531) 
 - [【V2EX】2022-11-15-把一个数据库-sql-语句转换成另一个数据库的框架](https://www.v2ex.com/t/895529) 
 - [【V2EX】2022-11-15-求推荐一款可以计划任务的插座？](https://www.v2ex.com/t/895528) 
 - [【V2EX】2022-11-15-求职杭州-or-远程软件测试-帮女朋友找工作-~-毕业时长两年半](https://www.v2ex.com/t/895526) 
@@ -100,12 +104,6 @@
 - [【V2EX】2022-11-15-对比了下-safari-的网页翻译,与第三方-Safari-翻译插件的使用感受](https://www.v2ex.com/t/895490) 
 - [【V2EX】2022-11-15-高估了电动车-25km/h-的速度，忍不了！](https://www.v2ex.com/t/895489) 
 - [【V2EX】2022-11-15-有没有一种比较好的方案在尽量保证网页样式不变的情况下进行剪藏的方案呢？](https://www.v2ex.com/t/895488) 
-- [【V2EX】2022-11-15-网线两端只有交叉接法才能达到百兆以上](https://www.v2ex.com/t/895486) 
-- [【V2EX】2022-11-15-困扰已久，专业程序员到底怎么写-GUI-程序？](https://www.v2ex.com/t/895484) 
-- [【V2EX】2022-11-15-GitHub-支持中文-branch-吗？](https://www.v2ex.com/t/895483) 
-- [【V2EX】2022-11-15-分享一个我坚持了-3-年的开源项目](https://www.v2ex.com/t/895482) 
-- [【V2EX】2022-11-15-m1-air-如何从-Bigsur-到-Monterey](https://www.v2ex.com/t/895481) 
-- [【V2EX】2022-11-15-求一个多条件查询，每个条件都能查询指定数量的结果的语句](https://www.v2ex.com/t/895480) 
 - [【技术头条】2022-11-15-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-15-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-15-以综合指数观察和评价研发效能的趋势-link.zhihu.com](https://blogread.cn/news/go.php?idItem=15406&url=https%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttps%253A%2F%2Finsights.thoughtworks.cn%2Fobserving-evaluating-research-development-efficiency-trend%2F%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -131,8 +129,8 @@
 - [【开发者头条】2022-11-15-日常-Bug-排查：读从库没有原子性？](https://toutiao.io/k/l2k67j7) 
 - [【开发者头条】2022-11-15-为什么-.NET-Web-应用推荐使用-await、async-异步编程？](https://toutiao.io/k/rd6j0aa) 
 - [【开发者头条】2022-11-15-还不会用-TS-封装-Axios？我教你啊](https://toutiao.io/k/7an0tnn) 
-- [【开发者头条】2022-11-15-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) 
 - [【开发者头条】2022-11-15-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) 
+- [【开发者头条】2022-11-15-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) 
 - [【开发者头条】2022-11-15-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>

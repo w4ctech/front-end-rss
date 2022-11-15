@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-11-15 14:37:55。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-15 15:14:06。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -177,6 +177,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】香港再现数例疫苗接种严重异常事件-专家初判与疫苗无关](https://china.caixin.com/m/2021-03-08/101672619.html)
 - [【武汉肺炎防疫全纪录(财新网)】港府回应一63岁患者死亡事件-暂无法确定与疫苗相关](https://m.caixin.com/m/2021-03-03/101670052.html)
 - [【张鑫旭-鑫空间-鑫生活】2022年新出了哪些form表单新特性？](https://www.zhangxinxu.com/wordpress/2022/10/2022-new-form-property/)
+- [【V2EX】macmini-搭载-clash-做软路由，但是遇到一个神奇的问题。](https://www.v2ex.com/t/895535)
 - [【V2EX】为什么甲骨文投诉了-javaeyes-商标侵权，没投诉-javascript-商标侵权？这两个还是同一类的](https://www.v2ex.com/t/895522)
 - [【开发者头条】为什么-.NET-Web-应用推荐使用-await、async-异步编程？](https://toutiao.io/k/rd6j0aa)
 - [......【查看更多】......](./details/tags/javascript.md)
@@ -214,7 +215,6 @@
 
 
 
-- [【V2EX】困扰已久，专业程序员到底怎么写-GUI-程序？](https://www.v2ex.com/t/895484)
 - [......【查看更多】......](./details/tags/canvas-image.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -329,7 +329,6 @@
 
 
 
-- [【V2EX】GitHub-支持中文-branch-吗？](https://www.v2ex.com/t/895483)
 - [【开发者头条】一年一度！GitHub-开发者大会「GitHub-热点速递-v.22.45」](https://toutiao.io/k/6bl3bzh)
 - [......【查看更多】......](./details/tags/git-svn.md)
 

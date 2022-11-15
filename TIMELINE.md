@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-15 14:11:51。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-15 14:37:55。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,14 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-15-把一个数据库-sql-语句转换成另一个数据库的框架](https://www.v2ex.com/t/895529) 
+- [【V2EX】2022-11-15-求推荐一款可以计划任务的插座？](https://www.v2ex.com/t/895528) 
+- [【V2EX】2022-11-15-求职杭州-or-远程软件测试-帮女朋友找工作-~-毕业时长两年半](https://www.v2ex.com/t/895526) 
+- [【V2EX】2022-11-15-自己琢磨出的非常酷的文本编辑快捷键](https://www.v2ex.com/t/895524) 
+- [【V2EX】2022-11-15-手机外屏碎了，换外屏容易么](https://www.v2ex.com/t/895523) 
+- [【V2EX】2022-11-15-为什么甲骨文投诉了-javaeyes-商标侵权，没投诉-javascript-商标侵权？这两个还是同一类的](https://www.v2ex.com/t/895522) 
+- [【V2EX】2022-11-15-有一个算法问题，求大佬们给个思路](https://www.v2ex.com/t/895521) 
+- [【V2EX】2022-11-15-迷茫的小-iOS-开发该何去何从？-32-岁程序员是继续-iOS-还是-nodejs-亦或者彻底转行呢？](https://www.v2ex.com/t/895520) 
 - [【V2EX】2022-11-15-拼多多买的-apple-watch-翻车，开盒后表盘右上角有胶，擦去后疏油层已脱落](https://www.v2ex.com/t/895518) 
 - [【V2EX】2022-11-15-吐槽两句阿里云函数计算](https://www.v2ex.com/t/895516) 
 - [【V2EX】2022-11-15-nginx-几个易混淆的术语](https://www.v2ex.com/t/895515) 
@@ -98,16 +106,6 @@
 - [【V2EX】2022-11-15-分享一个我坚持了-3-年的开源项目](https://www.v2ex.com/t/895482) 
 - [【V2EX】2022-11-15-m1-air-如何从-Bigsur-到-Monterey](https://www.v2ex.com/t/895481) 
 - [【V2EX】2022-11-15-求一个多条件查询，每个条件都能查询指定数量的结果的语句](https://www.v2ex.com/t/895480) 
-- [【V2EX】2022-11-15-Twitter-员工因言获炒](https://www.v2ex.com/t/895479) 
-- [【V2EX】2022-11-15-现在-Pycharm-依旧没法打开-samba-共享文件夹吗](https://www.v2ex.com/t/895477) 
-- [【V2EX】2022-11-15-AppleCare+-如何使用国内外币卡完成美国-AppleCare+-的支付流程？](https://www.v2ex.com/t/895476) 
-- [【V2EX】2022-11-15-菜鸟来咨询一波，-JSP-怎么获取域账号呢？](https://www.v2ex.com/t/895475) 
-- [【V2EX】2022-11-15-裁员如此严重，应该如何应对](https://www.v2ex.com/t/895474) 
-- [【V2EX】2022-11-15-杭州-前端-蚂蚁数金线，总算有-HC-了，不可多得的机会~](https://www.v2ex.com/t/895473) 
-- [【V2EX】2022-11-15-BoardOS-教育优惠！](https://www.v2ex.com/t/895472) 
-- [【V2EX】2022-11-15-奔驰无线充电跟手机-nfc-冲突](https://www.v2ex.com/t/895471) 
-- [【V2EX】2022-11-15-文档工具这个功能用来项目甩锅，比较不错](https://www.v2ex.com/t/895470) 
-- [【V2EX】2022-11-15-Ubuntu-Server-更换-cpu-后连不上网络，咋办？](https://www.v2ex.com/t/895469) 
 - [【技术头条】2022-11-15-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-15-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-15-以综合指数观察和评价研发效能的趋势-link.zhihu.com](https://blogread.cn/news/go.php?idItem=15406&url=https%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttps%253A%2F%2Finsights.thoughtworks.cn%2Fobserving-evaluating-research-development-efficiency-trend%2F%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -133,8 +131,8 @@
 - [【开发者头条】2022-11-15-日常-Bug-排查：读从库没有原子性？](https://toutiao.io/k/l2k67j7) 
 - [【开发者头条】2022-11-15-为什么-.NET-Web-应用推荐使用-await、async-异步编程？](https://toutiao.io/k/rd6j0aa) 
 - [【开发者头条】2022-11-15-还不会用-TS-封装-Axios？我教你啊](https://toutiao.io/k/7an0tnn) 
-- [【开发者头条】2022-11-15-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) 
 - [【开发者头条】2022-11-15-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) 
+- [【开发者头条】2022-11-15-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) 
 - [【开发者头条】2022-11-15-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>

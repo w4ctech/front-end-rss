@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-15 04:49:26。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-15 05:13:37。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,12 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-15-世界杯要到了，大家线上买体彩的话都会去哪里买啊？](https://www.v2ex.com/t/895377) 
+- [【V2EX】2022-11-15-为什么云服务商的付费策略这么流氓](https://www.v2ex.com/t/895375) 
+- [【V2EX】2022-11-15-在知乎看到日本留学生退房被索赔-50w，是真的吗？](https://www.v2ex.com/t/895374) 
+- [【V2EX】2022-11-15-Mac-下设置某个-APP“阻止传入连接”后，这个-APP-还可以传出数据吗？](https://www.v2ex.com/t/895373) 
+- [【V2EX】2022-11-15-IP-库](https://www.v2ex.com/t/895372) 
+- [【V2EX】2022-11-15-海外工作机会-#前端-#HTML5-#招聘-#求职-#SEO-#渗透-#菲律宾-#马卡提-#找工作-#技术-#安卓-#工程师-#IT-#職能崗-#职能岗-#馬卡蒂-@PURRGISKAV](https://www.v2ex.com/t/895371) 
 - [【V2EX】2022-11-15-PDD-上买到了后封机，假一赔十完全笑话](https://www.v2ex.com/t/895370) 
 - [【V2EX】2022-11-15-无聊统计了一下今年的-Spotify-听歌情况](https://www.v2ex.com/t/895369) 
 - [【V2EX】2022-11-15-大家的-wifi6-局域网网速能达到多少?-400Mbits/s-还有哪些优化的注意事项](https://www.v2ex.com/t/895367) 
@@ -104,11 +110,6 @@
 - [【V2EX】2022-11-15-做了个指导宽基投资的功能，祝大家宽基定投愉快](https://www.v2ex.com/t/895330) 
 - [【V2EX】2022-11-15-怎么没人聊世界杯的？](https://www.v2ex.com/t/895329) 
 - [【V2EX】2022-11-15-DOTA2-互联网杯又要来了。。。](https://www.v2ex.com/t/895328) 
-- [【V2EX】2022-11-15-阿里云的函数计算也开始收费了](https://www.v2ex.com/t/895327) 
-- [【V2EX】2022-11-15-Shadowrocket-机场小白求赐教](https://www.v2ex.com/t/895324) 
-- [【V2EX】2022-11-15-招聘-岗位：-#招商-#推广-#市场-纸飞机：-@jy1604](https://www.v2ex.com/t/895323) 
-- [【V2EX】2022-11-15-还有类似-Bilibili「一起看」功能的视频网站/解决方案吗](https://www.v2ex.com/t/895322) 
-- [【V2EX】2022-11-15-国行的-watch-是否阉割了海拔](https://www.v2ex.com/t/895321) 
 - [【技术头条】2022-11-15-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-15-以综合指数观察和评价研发效能的趋势-link.zhihu.com](https://blogread.cn/news/go.php?idItem=15406&url=https%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttps%253A%2F%2Finsights.thoughtworks.cn%2Fobserving-evaluating-research-development-efficiency-trend%2F%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-15-DDD的哲学意味（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15405&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fddd-philosophy-entity-value-object%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -132,9 +133,9 @@
 - [【开发者头条】2022-11-15-使用-C++-部署深度学习模型快速上手方案](https://toutiao.io/k/x1rgf4g) 
 - [【开发者头条】2022-11-15-日常-Bug-排查：读从库没有原子性？](https://toutiao.io/k/l2k67j7) 
 - [【开发者头条】2022-11-15-为什么-.NET-Web-应用推荐使用-await、async-异步编程？](https://toutiao.io/k/rd6j0aa) 
+- [【开发者头条】2022-11-15-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) 
 - [【开发者头条】2022-11-15-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) 
 - [【开发者头条】2022-11-15-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) 
-- [【开发者头条】2022-11-15-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

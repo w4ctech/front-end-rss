@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-15 04:49:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-15 05:13:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1917,6 +1917,11 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-11-15-世界杯要到了，大家线上买体彩的话都会去哪里买啊？](https://www.v2ex.com/t/895377) 
+- [2022-11-15-为什么云服务商的付费策略这么流氓](https://www.v2ex.com/t/895375) 
+- [2022-11-15-在知乎看到日本留学生退房被索赔-50w，是真的吗？](https://www.v2ex.com/t/895374) 
+- [2022-11-15-Mac-下设置某个-APP“阻止传入连接”后，这个-APP-还可以传出数据吗？](https://www.v2ex.com/t/895373) 
+- [2022-11-15-IP-库](https://www.v2ex.com/t/895372) 
 - [2022-11-15-PDD-上买到了后封机，假一赔十完全笑话](https://www.v2ex.com/t/895370) 
 - [2022-11-15-无聊统计了一下今年的-Spotify-听歌情况](https://www.v2ex.com/t/895369) 
 - [2022-11-15-疑似所有套了-cf-的网站都无法访问，怎么解决-pt-的问题呢？](https://www.v2ex.com/t/895365) 
@@ -1942,9 +1947,6 @@
 - [2022-11-15-做了个指导宽基投资的功能，祝大家宽基定投愉快](https://www.v2ex.com/t/895330) 
 - [2022-11-15-怎么没人聊世界杯的？](https://www.v2ex.com/t/895329) 
 - [2022-11-15-DOTA2-互联网杯又要来了。。。](https://www.v2ex.com/t/895328) 
-- [2022-11-15-阿里云的函数计算也开始收费了](https://www.v2ex.com/t/895327) 
-- [2022-11-15-Shadowrocket-机场小白求赐教](https://www.v2ex.com/t/895324) 
-- [2022-11-15-国行的-watch-是否阉割了海拔](https://www.v2ex.com/t/895321) 
 - [2022-11-15-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-15-以综合指数观察和评价研发效能的趋势-link.zhihu.com](https://blogread.cn/news/go.php?idItem=15406&url=https%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttps%253A%2F%2Finsights.thoughtworks.cn%2Fobserving-evaluating-research-development-efficiency-trend%2F%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-15-DDD的哲学意味（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15405&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fddd-philosophy-entity-value-object%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1959,6 +1961,6 @@
 - [2022-11-15-前端初学-ECS-架构](https://toutiao.io/k/6xyrie5) 
 - [2022-11-15-使用-C++-部署深度学习模型快速上手方案](https://toutiao.io/k/x1rgf4g) 
 - [2022-11-15-日常-Bug-排查：读从库没有原子性？](https://toutiao.io/k/l2k67j7) 
+- [2022-11-15-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) 
 - [2022-11-15-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) 
 - [2022-11-15-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) 
-- [2022-11-15-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) 

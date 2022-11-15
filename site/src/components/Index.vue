@@ -169,7 +169,7 @@ export default {
     },
     async initLoadData () {
       const {data} =  await this.$axios.get(
-        'https://cdn.jsdelivr.net/gh/w4ctech/front-end-rss/data/links.json'
+        'https://jsd.cdn.zzko.cn/gh/w4ctech/front-end-rss/data/links.json'
       )
       const  templink =  await import('../../../data/links.json')
       if(data){
@@ -179,7 +179,7 @@ export default {
       }
       this.bus.$emit('loading', true, '正在拼命加载中')
       const rssJson =  await this.$axios.get(
-        'https://cdn.jsdelivr.net/gh/w4ctech/front-end-rss/data/rss.json'
+        'https://jsd.cdn.zzko.cn/gh/w4ctech/front-end-rss/data/rss.json'
       )
       const  temprss =  await import('../../../data/rss.json')
       if(rssJson){
@@ -189,7 +189,7 @@ export default {
       }
 
       const tagsJson =  await this.$axios.get(
-        'https://cdn.jsdelivr.net/gh/w4ctech/front-end-rss/data/tags.json'
+        'https://jsd.cdn.zzko.cn/gh/w4ctech/front-end-rss/data/tags.json'
       )
       const  temptags =  await import('../../../data/tags.json')
       if(tagsJson){

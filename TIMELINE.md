@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-15 09:14:58。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-15 09:39:48。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,12 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-15-notion-客户端网络很差](https://www.v2ex.com/t/895463) 
+- [【V2EX】2022-11-15-结课作业是写个微信小程序包含支付功能-问下大家怎么能申请微信的支付接口呀](https://www.v2ex.com/t/895462) 
+- [【V2EX】2022-11-15-cloudflare-境内填-1.1.1.1-不能访问？](https://www.v2ex.com/t/895461) 
+- [【V2EX】2022-11-15-Redmi-AC2100-有没有-Redmi-AC2100-稳定的固件推荐](https://www.v2ex.com/t/895460) 
+- [【V2EX】2022-11-15-一个算法问题，求大佬们给个思路](https://www.v2ex.com/t/895459) 
+- [【V2EX】2022-11-15-还原一下广州潮州特斯拉案事情的经过，并回复一下-at-我的人](https://www.v2ex.com/t/895458) 
 - [【V2EX】2022-11-15-哪里可以申请免费-vps](https://www.v2ex.com/t/895457) 
 - [【V2EX】2022-11-15-日亚直邮的-atv-128G-发邮件说无法清关退回了。](https://www.v2ex.com/t/895456) 
 - [【V2EX】2022-11-15-美团饿了吗，点外卖技巧？](https://www.v2ex.com/t/895455) 
@@ -109,9 +115,6 @@
 - [【V2EX】2022-11-15-华硕-RT-AC68U-+-tplink-面板（POE-供电。胖瘦一体）可以无缝漫游吗？](https://www.v2ex.com/t/895416) 
 - [【V2EX】2022-11-15-拼多多双-11-买的-AirPods-Pro-2-代，在-iOS-中提示为-Beats-Fit-Pro](https://www.v2ex.com/t/895415) 
 - [【V2EX】2022-11-15-你们的-etesync-在最新-iOS-可用吗？](https://www.v2ex.com/t/895414) 
-- [【V2EX】2022-11-15-今天全球人口将达到-80-亿，你怎么看](https://www.v2ex.com/t/895411) 
-- [【V2EX】2022-11-15-咨询一下哪里配眼镜比较划算](https://www.v2ex.com/t/895409) 
-- [【V2EX】2022-11-15-有无一起抱团准备-24-考研的](https://www.v2ex.com/t/895408) 
 - [【技术头条】2022-11-15-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-15-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-15-以综合指数观察和评价研发效能的趋势-link.zhihu.com](https://blogread.cn/news/go.php?idItem=15406&url=https%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttps%253A%2F%2Finsights.thoughtworks.cn%2Fobserving-evaluating-research-development-efficiency-trend%2F%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -138,8 +141,8 @@
 - [【开发者头条】2022-11-15-为什么-.NET-Web-应用推荐使用-await、async-异步编程？](https://toutiao.io/k/rd6j0aa) 
 - [【开发者头条】2022-11-15-还不会用-TS-封装-Axios？我教你啊](https://toutiao.io/k/7an0tnn) 
 - [【开发者头条】2022-11-15-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) 
-- [【开发者头条】2022-11-15-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) 
 - [【开发者头条】2022-11-15-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) 
+- [【开发者头条】2022-11-15-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

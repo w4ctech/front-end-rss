@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-15 23:12:54，:rocket: 更新条数: +2007， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-15 23:38:39，:rocket: 更新条数: +2007， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-11-15-广州人-vs-湖北人的事情，微博上都要斗疯了](https://www.v2ex.com/t/895548) ![](assets/new.png)  
 - [2022-11-15-刚刚收到-GitHub-Copilot-的扣费邮件，实测可用-PayPal-绑定银联借记卡订阅该服务](https://www.v2ex.com/t/895547) ![](assets/new.png)  
 - [2022-11-15-一个前端程序员的-3-年-5-年-10-年经验应该分别达到什么样的能力](https://www.v2ex.com/t/895546) ![](assets/new.png)  
 - [2022-11-15-微软官方-Windows-2022-丑陋毛衣发布，印有“大眼夹”Clippy。](https://www.v2ex.com/t/895544) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-11-15-手机外屏碎了，换外屏容易么](https://www.v2ex.com/t/895523) ![](assets/new.png)  
 - [2022-11-15-为什么甲骨文投诉了-javaeyes-商标侵权，没投诉-javascript-商标侵权？这两个还是同一类的](https://www.v2ex.com/t/895522) ![](assets/new.png)  
 - [2022-11-15-有一个算法问题，求大佬们给个思路](https://www.v2ex.com/t/895521) ![](assets/new.png)  
-- [2022-11-15-迷茫的小-iOS-开发该何去何从？-32-岁程序员是继续-iOS-还是-nodejs-亦或者彻底转行呢？](https://www.v2ex.com/t/895520) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

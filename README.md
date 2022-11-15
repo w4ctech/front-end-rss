@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-15 06:45:29，:rocket: 更新条数: +2013， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-15 07:13:39，:rocket: 更新条数: +2013， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,7 +491,11 @@
 </summary>
 
 
-- [2022-11-15-PHP-兼职开发](https://www.v2ex.com/t/895397) ![](assets/new.png)  
+- [2022-11-15-关于大数据、人工智能和信息运维专业有什么好的培训机构和培训方案没有？](https://www.v2ex.com/t/895403) ![](assets/new.png)  
+- [2022-11-15-在上海失业两个半月了，-11-月-5-号学完了-bilibili-上黑马的-react，欢呼雀跃时，却发现是官方文档的第一章而已](https://www.v2ex.com/t/895402) ![](assets/new.png)  
+- [2022-11-15-各位大佬，谁是-PT-站-HDSKY-的注册会员，能否邀请下？](https://www.v2ex.com/t/895400) ![](assets/new.png)  
+- [2022-11-15-iPhone-什么时候开始去除了对-3G-网络的支持，为啥相关设置没了](https://www.v2ex.com/t/895399) ![](assets/new.png)  
+- [2022-11-15-兄弟们，-https-网站有办法访问-http-资源吗](https://www.v2ex.com/t/895398) ![](assets/new.png)  
 - [2022-11-15-有什么好的虚拟机录屏方案吗？](https://www.v2ex.com/t/895395) ![](assets/new.png)  
 - [2022-11-15-飞书加班打卡，管理员后台无记录](https://www.v2ex.com/t/895394) ![](assets/new.png)  
 - [2022-11-15-现在-40-岁+的你失业了，-10-年前你应该做什么？](https://www.v2ex.com/t/895392) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-11-15-领导结婚纪念日，要送礼物吗？](https://www.v2ex.com/t/895378) ![](assets/new.png)  
 - [2022-11-15-世界杯要到了，大家线上买体彩的话都会去哪里买啊？](https://www.v2ex.com/t/895377) ![](assets/new.png)  
 - [2022-11-15-为什么云服务商的付费策略这么流氓](https://www.v2ex.com/t/895375) ![](assets/new.png)  
-- [2022-11-15-在知乎看到日本留学生退房被索赔-50w，是真的吗？](https://www.v2ex.com/t/895374) ![](assets/new.png)  
-- [2022-11-15-Mac-下设置某个-APP“阻止传入连接”后，这个-APP-还可以传出数据吗？](https://www.v2ex.com/t/895373) ![](assets/new.png)  
-- [2022-11-15-IP-库](https://www.v2ex.com/t/895372) ![](assets/new.png)  
-- [2022-11-15-海外工作机会-#前端-#HTML5-#招聘-#求职-#SEO-#渗透-#菲律宾-#马卡提-#找工作-#技术-#安卓-#工程师-#IT-#職能崗-#职能岗-#馬卡蒂-@PURRGISKAV](https://www.v2ex.com/t/895371) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -549,17 +549,17 @@
 - [2022-11-15-浅谈架构：除了画架构图，架构师还需要些什么？](https://toutiao.io/k/sn3qnfk) ![](assets/new.png)  
 - [2022-11-15-讲讲-Redis-缓存更新一致性](https://toutiao.io/k/mvrwq29) ![](assets/new.png)  
 - [2022-11-15-有趣的-Go-HttpClient-超时机制](https://toutiao.io/k/0gil5gi) ![](assets/new.png)  
-- [2022-11-15-合约广告投放系统平台架构演进实践](https://toutiao.io/k/fz0dk15) ![](assets/new.png)  
 - [2022-11-15-前端初学-ECS-架构](https://toutiao.io/k/6xyrie5) ![](assets/new.png)  
+- [2022-11-15-合约广告投放系统平台架构演进实践](https://toutiao.io/k/fz0dk15) ![](assets/new.png)  
 - [2022-11-15-Stable-Diffusion-采样速度翻倍！仅需-10-到-25-步的扩散模型采样算法](https://toutiao.io/k/1yrtd84) ![](assets/new.png)  
 - [2022-11-15-ElasticSearch-这些坑记得避开](https://toutiao.io/k/2ztqkjl) ![](assets/new.png)  
 - [2022-11-15-使用-C++-部署深度学习模型快速上手方案](https://toutiao.io/k/x1rgf4g) ![](assets/new.png)  
 - [2022-11-15-日常-Bug-排查：读从库没有原子性？](https://toutiao.io/k/l2k67j7) ![](assets/new.png)  
 - [2022-11-15-为什么-.NET-Web-应用推荐使用-await、async-异步编程？](https://toutiao.io/k/rd6j0aa) ![](assets/new.png)  
 - [2022-11-15-还不会用-TS-封装-Axios？我教你啊](https://toutiao.io/k/7an0tnn) ![](assets/new.png)  
-- [2022-11-15-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) ![](assets/new.png)  
 - [2022-11-15-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) ![](assets/new.png)  
 - [2022-11-15-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) ![](assets/new.png)  
+- [2022-11-15-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

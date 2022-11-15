@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-11-15 17:38:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-15 18:15:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-11-15-一个前端程序员的-3-年-5-年-10-年经验应该分别达到什么样的能力](https://www.v2ex.com/t/895546) 
 - [2022-11-15-微软官方-Windows-2022-丑陋毛衣发布，印有“大眼夹”Clippy。](https://www.v2ex.com/t/895544) 
 - [2022-11-15-从动漫不同集剪辑下很多几秒钟的片段拼接成视频的二创侵权吗？-YouTube-上经常看到，大概率是没有官方授权的。](https://www.v2ex.com/t/895543) 
 - [2022-11-15-开源项目-如果觉得好，帮忙-star-一下吧](https://www.v2ex.com/t/895541) 
@@ -37,4 +38,3 @@
 - [2022-11-15-Solidity-资料分享：-PancakesSwap-Farm-V1-版本-Solidity-合约代码的深度解读](https://www.v2ex.com/t/895500) 
 - [2022-11-15-欧洲和亚太地区发售的蜂窝版-Apple-Watch-S8/Ultra-能否开通中国大陆蜂窝套餐](https://www.v2ex.com/t/895499) 
 - [2022-11-15-各位程序员都自己部署了那些似有服务？](https://www.v2ex.com/t/895498) 
-- [2022-11-15-Apple-Watch-心率检测闪的绿灯在摘下手表后还闪-是-feature-还是-bug](https://www.v2ex.com/t/895495) 

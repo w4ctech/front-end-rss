@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-15 08:18:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-15 08:46:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -7,6 +7,6 @@
 
 
 
-- [2022-11-15-兄弟们，-https-网站有办法访问-http-资源吗](https://www.v2ex.com/t/895398) 
+- [2022-11-15-uPaste-剪贴板工具送兑换码--即是效率，又能装扮](https://www.v2ex.com/t/895435) 
 - [2022-11-15-ElasticSearch-这些坑记得避开](https://toutiao.io/k/2ztqkjl) 
 - [2022-11-15-Stable-Diffusion-采样速度翻倍！仅需-10-到-25-步的扩散模型采样算法](https://toutiao.io/k/1yrtd84) 

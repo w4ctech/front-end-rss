@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-15 16:18:18。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-15 16:53:30。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -90,7 +90,6 @@
 - [【V2EX】2022-11-15-吐槽两句阿里云函数计算](https://www.v2ex.com/t/895516) 
 - [【V2EX】2022-11-15-nginx-几个易混淆的术语](https://www.v2ex.com/t/895515) 
 - [【V2EX】2022-11-15-从-Windows-转到-Mac，记录一下-Mac-上的常用快捷键](https://www.v2ex.com/t/895514) 
-- [【V2EX】2022-11-15-疫情三年，你还记得第一次听说新冠的那一天你在干嘛吗？](https://www.v2ex.com/t/895513) 
 - [【V2EX】2022-11-15-实现了一套基于-lockfree-的并发安全的数据结构](https://www.v2ex.com/t/895512) 
 - [【V2EX】2022-11-15-Apple-TV-日亚购买被退运](https://www.v2ex.com/t/895511) 
 - [【V2EX】2022-11-15-寻合作伙伴-想找几个心理学背景的伙伴一起合作](https://www.v2ex.com/t/895509) 
@@ -129,8 +128,8 @@
 - [【开发者头条】2022-11-15-日常-Bug-排查：读从库没有原子性？](https://toutiao.io/k/l2k67j7) 
 - [【开发者头条】2022-11-15-为什么-.NET-Web-应用推荐使用-await、async-异步编程？](https://toutiao.io/k/rd6j0aa) 
 - [【开发者头条】2022-11-15-还不会用-TS-封装-Axios？我教你啊](https://toutiao.io/k/7an0tnn) 
-- [【开发者头条】2022-11-15-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) 
 - [【开发者头条】2022-11-15-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) 
+- [【开发者头条】2022-11-15-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

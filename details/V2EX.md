@@ -1,10 +1,20 @@
-:alarm_clock: 更新时间: 2022-11-15 09:39:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-15 10:15:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-11-15-裁员如此严重，应该如何应对](https://www.v2ex.com/t/895474) 
+- [2022-11-15-杭州-前端-蚂蚁数金线，总算有-HC-了，不可多得的机会~](https://www.v2ex.com/t/895473) 
+- [2022-11-15-BoardOS-教育优惠！](https://www.v2ex.com/t/895472) 
+- [2022-11-15-奔驰无线充电跟手机-nfc-冲突](https://www.v2ex.com/t/895471) 
+- [2022-11-15-文档工具这个功能用来项目甩锅，比较不错](https://www.v2ex.com/t/895470) 
+- [2022-11-15-Ubuntu-Server-更换-cpu-后连不上网络，咋办？](https://www.v2ex.com/t/895469) 
+- [2022-11-15-AirPods-Pro-2-代延迟好高呀。](https://www.v2ex.com/t/895468) 
+- [2022-11-15-暴论：认为备刹是无意义的驾驶员就不要开车了](https://www.v2ex.com/t/895467) 
+- [2022-11-15-数据分析-er-看过来，五款工具有你需要的](https://www.v2ex.com/t/895466) 
+- [2022-11-15-十年程序员难倒了一个算法上面，真的老了](https://www.v2ex.com/t/895464) 
 - [2022-11-15-notion-客户端网络很差](https://www.v2ex.com/t/895463) 
 - [2022-11-15-结课作业是写个微信小程序包含支付功能-问下大家怎么能申请微信的支付接口呀](https://www.v2ex.com/t/895462) 
 - [2022-11-15-cloudflare-境内填-1.1.1.1-不能访问？](https://www.v2ex.com/t/895461) 
@@ -41,12 +51,3 @@
 - [2022-11-15-求助-Python-程序，-debug-时候在某个地方-print-了下，找不到位置了](https://www.v2ex.com/t/895427) 
 - [2022-11-15-Notion-在新版-iPad-Pro-上输入中文真的是灾难，不支持-Apple-Pencil-的随写](https://www.v2ex.com/t/895426) 
 - [2022-11-15-vue-和-react-推荐学哪个？](https://www.v2ex.com/t/895425) 
-- [2022-11-15-2022-年终，有了-Clash-还需要-SSR-和-SwitchyOmega-吗？](https://www.v2ex.com/t/895423) 
-- [2022-11-15-来看看你今年一共做了多少次核酸了？](https://www.v2ex.com/t/895422) 
-- [2022-11-15-英伟达-NVIDIA-上海-高级软件系统开发工程师-云基础设施-自动驾驶业务](https://www.v2ex.com/t/895420) 
-- [2022-11-15-进入工业制造领域行业之后的感受，硬件的级别：家用级<企业级<工业级](https://www.v2ex.com/t/895419) 
-- [2022-11-15-兄弟们，碰到大问题了，如何做到混合编译](https://www.v2ex.com/t/895418) 
-- [2022-11-15-大概还需要多久？会有真正意义上的家用“机器人”](https://www.v2ex.com/t/895417) 
-- [2022-11-15-华硕-RT-AC68U-+-tplink-面板（POE-供电。胖瘦一体）可以无缝漫游吗？](https://www.v2ex.com/t/895416) 
-- [2022-11-15-拼多多双-11-买的-AirPods-Pro-2-代，在-iOS-中提示为-Beats-Fit-Pro](https://www.v2ex.com/t/895415) 
-- [2022-11-15-你们的-etesync-在最新-iOS-可用吗？](https://www.v2ex.com/t/895414) 

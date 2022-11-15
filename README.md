@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-15 08:46:57，:rocket: 更新条数: +2014， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-15 09:14:58，:rocket: 更新条数: +2016， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,15 @@
 </summary>
 
 
+- [2022-11-15-哪里可以申请免费-vps](https://www.v2ex.com/t/895457) ![](assets/new.png)  
+- [2022-11-15-日亚直邮的-atv-128G-发邮件说无法清关退回了。](https://www.v2ex.com/t/895456) ![](assets/new.png)  
+- [2022-11-15-美团饿了吗，点外卖技巧？](https://www.v2ex.com/t/895455) ![](assets/new.png)  
+- [2022-11-15-两台电脑-拓展坞-Studio-Display，有这样的拓展坞吗？](https://www.v2ex.com/t/895454) ![](assets/new.png)  
+- [2022-11-15-基于微信/钉钉/飞书/EMAIL，实现了一个服务监控和消息推送服务](https://www.v2ex.com/t/895453) ![](assets/new.png)  
+- [2022-11-15-为啥发欧美岗位正常，发除我国以外的第三世界岗位挨喷](https://www.v2ex.com/t/895452) ![](assets/new.png)  
+- [2022-11-15-minio-登陆迷之报错](https://www.v2ex.com/t/895451) ![](assets/new.png)  
+- [2022-11-15-各位-V-友，如何下载阿里云盘相册](https://www.v2ex.com/t/895450) ![](assets/new.png)  
+- [2022-11-15-警惕论坛里的骗子](https://www.v2ex.com/t/895449) ![](assets/new.png)  
 - [2022-11-15-Spring-Boot-框架下实现-Excel-服务端导入导出](https://www.v2ex.com/t/895448) ![](assets/new.png)  
 - [2022-11-15-Logto-v1.0.0-beta.13:-无需代码组合你的跨平台登录体验](https://www.v2ex.com/t/895447) ![](assets/new.png)  
 - [2022-11-15-最近理财产品亏得有点多，是发生了肾么事情了吗？](https://www.v2ex.com/t/895446) ![](assets/new.png)  
@@ -502,15 +511,6 @@
 - [2022-11-15-转帖-苹果将为小型企业购买-Mac-提供折扣-购买超-25-台可获-10%折扣](https://www.v2ex.com/t/895438) ![](assets/new.png)  
 - [2022-11-15-IOS-端能屏蔽网页广告的浏览器-APP-有推荐吗？](https://www.v2ex.com/t/895436) ![](assets/new.png)  
 - [2022-11-15-uPaste-剪贴板工具送兑换码--即是效率，又能装扮](https://www.v2ex.com/t/895435) ![](assets/new.png)  
-- [2022-11-15-开放式播客合集，以-YAML-格式来维护](https://www.v2ex.com/t/895434) ![](assets/new.png)  
-- [2022-11-15-求-apple-music-删除重复项的方法](https://www.v2ex.com/t/895433) ![](assets/new.png)  
-- [2022-11-15-上海Android/iOS美团-大众点评-UGC-业务诚招视频研发工程师/专家](https://www.v2ex.com/t/895432) ![](assets/new.png)  
-- [2022-11-15-分享一下双十一拼夕夕买书的经历](https://www.v2ex.com/t/895431) ![](assets/new.png)  
-- [2022-11-15-自定义字段的功能数据库是怎么设计的呢？](https://www.v2ex.com/t/895430) ![](assets/new.png)  
-- [2022-11-15-杭州前端找工作-兼职/远程-](https://www.v2ex.com/t/895429) ![](assets/new.png)  
-- [2022-11-15-这样的-mac-mini-m1-写入量正常吗？](https://www.v2ex.com/t/895428) ![](assets/new.png)  
-- [2022-11-15-求助-Python-程序，-debug-时候在某个地方-print-了下，找不到位置了](https://www.v2ex.com/t/895427) ![](assets/new.png)  
-- [2022-11-15-Notion-在新版-iPad-Pro-上输入中文真的是灾难，不支持-Apple-Pencil-的随写](https://www.v2ex.com/t/895426) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -551,16 +551,16 @@
 - [2022-11-15-讲讲-Redis-缓存更新一致性](https://toutiao.io/k/mvrwq29) ![](assets/new.png)  
 - [2022-11-15-有趣的-Go-HttpClient-超时机制](https://toutiao.io/k/0gil5gi) ![](assets/new.png)  
 - [2022-11-15-前端初学-ECS-架构](https://toutiao.io/k/6xyrie5) ![](assets/new.png)  
-- [2022-11-15-合约广告投放系统平台架构演进实践](https://toutiao.io/k/fz0dk15) ![](assets/new.png)  
 - [2022-11-15-ElasticSearch-这些坑记得避开](https://toutiao.io/k/2ztqkjl) ![](assets/new.png)  
+- [2022-11-15-合约广告投放系统平台架构演进实践](https://toutiao.io/k/fz0dk15) ![](assets/new.png)  
 - [2022-11-15-Stable-Diffusion-采样速度翻倍！仅需-10-到-25-步的扩散模型采样算法](https://toutiao.io/k/1yrtd84) ![](assets/new.png)  
 - [2022-11-15-使用-C++-部署深度学习模型快速上手方案](https://toutiao.io/k/x1rgf4g) ![](assets/new.png)  
 - [2022-11-15-日常-Bug-排查：读从库没有原子性？](https://toutiao.io/k/l2k67j7) ![](assets/new.png)  
 - [2022-11-15-为什么-.NET-Web-应用推荐使用-await、async-异步编程？](https://toutiao.io/k/rd6j0aa) ![](assets/new.png)  
 - [2022-11-15-还不会用-TS-封装-Axios？我教你啊](https://toutiao.io/k/7an0tnn) ![](assets/new.png)  
 - [2022-11-15-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) ![](assets/new.png)  
-- [2022-11-15-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) ![](assets/new.png)  
 - [2022-11-15-推荐-如何画出一张优秀的架构图？（老鸟必备）](https://toutiao.io/k/xiqybrh) ![](assets/new.png)  
+- [2022-11-15-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

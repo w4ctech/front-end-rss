@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-16 14:11:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-16 14:38:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1917,6 +1917,10 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-11-16-go-测试用例问题求教](https://www.v2ex.com/t/895797) 
+- [2022-11-16-有没有可以智能识别网站能否直连的方法-,-软件之类的-?](https://www.v2ex.com/t/895796) 
+- [2022-11-16-Cloudflare-推出-的-Turnstile-免费的验证码-大家用过吗？](https://www.v2ex.com/t/895795) 
+- [2022-11-16-Surge-去广告脚本推荐](https://www.v2ex.com/t/895793) 
 - [2022-11-16-奶爸问题：求推荐儿童凉鞋😁](https://www.v2ex.com/t/895791) 
 - [2022-11-16-收费咯，腾讯云公共解析-Public-DNS-专业版将于-12-月-1-日全面计费](https://www.v2ex.com/t/895789) 
 - [2022-11-16-macbook-pro-2021-16-寸，这种情况是阴阳屏吗？](https://www.v2ex.com/t/895788) 
@@ -1944,9 +1948,6 @@
 - [2022-11-16-微信好友有点多，想知道有没有办法检测出那些把我单删的好友](https://www.v2ex.com/t/895755) 
 - [2022-11-16-给图床添加了随机获取展示图片功能](https://www.v2ex.com/t/895753) 
 - [2022-11-16-我想自荐我参与的开源项目，老哥们，可以么？](https://www.v2ex.com/t/895752) 
-- [2022-11-16-YouTube-涨价了，-Google-One-有没有涨价？](https://www.v2ex.com/t/895747) 
-- [2022-11-16-数仓-OR-后端](https://www.v2ex.com/t/895745) 
-- [2022-11-16-Macos-多桌面的一个小问题](https://www.v2ex.com/t/895743) 
 - [2022-11-16-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-16-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-16-以综合指数观察和评价研发效能的趋势-link.zhihu.com](https://blogread.cn/news/go.php?idItem=15406&url=https%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttps%253A%2F%2Finsights.thoughtworks.cn%2Fobserving-evaluating-research-development-efficiency-trend%2F%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1968,5 +1969,5 @@
 - [2022-11-16-RAII：如何编写没有内存泄漏的代码-with-C++](https://toutiao.io/k/35tk8rr) 
 - [2022-11-16-宫敏把自由软件和-Linux-带回中国](https://toutiao.io/k/2986z48) 
 - [2022-11-16-分页-+-模糊查询-有坑！](https://toutiao.io/k/zemd1zf) 
-- [2022-11-16-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) 
 - [2022-11-16-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) 
+- [2022-11-16-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) 

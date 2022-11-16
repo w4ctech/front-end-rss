@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-16 10:14:17，:rocket: 更新条数: +2011， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-16 10:40:40，:rocket: 更新条数: +2014， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,7 +491,12 @@
 </summary>
 
 
-- [2022-11-16-这个新闻把我整笑了](https://www.v2ex.com/t/895750) ![](assets/new.png)  
+- [2022-11-16-我家的电信宽带应该算成都性价比最高的了](https://www.v2ex.com/t/895757) ![](assets/new.png)  
+- [2022-11-16-TrueNAS-Scale-的硬件要求这么高？](https://www.v2ex.com/t/895756) ![](assets/new.png)  
+- [2022-11-16-微信好友有点多，想知道有没有办法检测出那些把我单删的好友](https://www.v2ex.com/t/895755) ![](assets/new.png)  
+- [2022-11-16-请教下关于-git-的工作流](https://www.v2ex.com/t/895754) ![](assets/new.png)  
+- [2022-11-16-给图床添加了随机获取展示图片功能](https://www.v2ex.com/t/895753) ![](assets/new.png)  
+- [2022-11-16-我想自荐我参与的开源项目，老哥们，可以么？](https://www.v2ex.com/t/895752) ![](assets/new.png)  
 - [2022-11-16-求推荐“出国”方便快捷的路由器](https://www.v2ex.com/t/895748) ![](assets/new.png)  
 - [2022-11-16-YouTube-涨价了，-Google-One-有没有涨价？](https://www.v2ex.com/t/895747) ![](assets/new.png)  
 - [2022-11-16-数仓-OR-后端](https://www.v2ex.com/t/895745) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-11-16-机动车-刹车-的国标是-0.24g-以上制动减速度，折合百码刹停距离是？](https://www.v2ex.com/t/895735) ![](assets/new.png)  
 - [2022-11-16-TestFlight-app-测试新鲜上架：检查单小帮手，方便你的就医后生活](https://www.v2ex.com/t/895734) ![](assets/new.png)  
 - [2022-11-16-十年程序员难到了一个正则上面](https://www.v2ex.com/t/895733) ![](assets/new.png)  
-- [2022-11-16-欧洲外企（甲方）-上海招聘：-Java-Manager/-Java-Expert-，-8-年左右工作经验，英语口语流利，薪水-60-70W](https://www.v2ex.com/t/895730) ![](assets/new.png)  
-- [2022-11-16-2022-年，-AppStore-现在是否还有途径方式试用-APP？（没有-Lite-版的-APP）](https://www.v2ex.com/t/895729) ![](assets/new.png)  
-- [2022-11-16-20-款-iPad-Pro-换了-21-款-iPad-Pro，感觉提升不大](https://www.v2ex.com/t/895728) ![](assets/new.png)  
-- [2022-11-16-Wild-Chicken-University-是怎么拿到波兰的教育网域名的](https://www.v2ex.com/t/895727) ![](assets/new.png)  
-- [2022-11-16-scratch-也有硬件么？](https://www.v2ex.com/t/895726) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -547,8 +547,8 @@
 - [2022-11-16-聊聊分布式-ID](https://toutiao.io/k/daqde60) ![](assets/new.png)  
 - [2022-11-16-Python-和-Excel-的完美结合：常用操作汇总（案例详析）](https://toutiao.io/k/5xo78v5) ![](assets/new.png)  
 - [2022-11-16-直播-CDN-调度技术关键挑战与架构设计](https://toutiao.io/k/2x5rdpo) ![](assets/new.png)  
-- [2022-11-16-打脸了兄弟们，Go1.20-arena-来了！](https://toutiao.io/k/mkyiajy) ![](assets/new.png)  
 - [2022-11-16-Go-map-竟然也会发生内存泄漏？](https://toutiao.io/k/8jkv6h4) ![](assets/new.png)  
+- [2022-11-16-打脸了兄弟们，Go1.20-arena-来了！](https://toutiao.io/k/mkyiajy) ![](assets/new.png)  
 - [2022-11-16-如何设计一个优惠券系统](https://toutiao.io/k/l16cyqr) ![](assets/new.png)  
 - [2022-11-16-用-Bevy/Rust-写个小游戏](https://toutiao.io/k/vhb7ptk) ![](assets/new.png)  
 - [2022-11-16-数据治理领域最容易混淆的-16-组术语概念辨析](https://toutiao.io/k/i3o33pw) ![](assets/new.png)  
@@ -559,8 +559,8 @@
 - [2022-11-16-宫敏把自由软件和-Linux-带回中国](https://toutiao.io/k/2986z48) ![](assets/new.png)  
 - [2022-11-16-不优雅的-React-Hooks](https://toutiao.io/k/ubjl15v) ![](assets/new.png)  
 - [2022-11-16-分页-+-模糊查询-有坑！](https://toutiao.io/k/zemd1zf) ![](assets/new.png)  
-- [2022-11-16-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) ![](assets/new.png)  
 - [2022-11-16-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) ![](assets/new.png)  
+- [2022-11-16-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

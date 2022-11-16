@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-16 22:38:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-16 23:01:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1917,6 +1917,7 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-11-16-Meta-开源-Sapling-scm](https://www.v2ex.com/t/895819) 
 - [2022-11-16-今年的-O'Reilly-的-Cyber-Monday-活动已经开始了，-40off-港币-2145-即可入手！](https://www.v2ex.com/t/895818) 
 - [2022-11-16-点评一下-Notion-AI?](https://www.v2ex.com/t/895817) 
 - [2022-11-16-20221117-午夜俱乐部](https://www.v2ex.com/t/895816) 
@@ -1951,7 +1952,6 @@
 - [2022-11-16-有没有住惠南这边的朋友，求加个微信好友，想在这边租房子](https://www.v2ex.com/t/895772) 
 - [2022-11-16-请教大家一个关于命令的执行结果在-fish-和-bash-有差异的问题](https://www.v2ex.com/t/895771) 
 - [2022-11-16-openwrt-的-dns-配置无效](https://www.v2ex.com/t/895770) 
-- [2022-11-16-技术选择，求各位指条明路](https://www.v2ex.com/t/895769) 
 - [2022-11-16-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-16-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-16-以综合指数观察和评价研发效能的趋势-link.zhihu.com](https://blogread.cn/news/go.php?idItem=15406&url=https%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttps%253A%2F%2Finsights.thoughtworks.cn%2Fobserving-evaluating-research-development-efficiency-trend%2F%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

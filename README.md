@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-16 22:38:44，:rocket: 更新条数: +2013， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-16 23:01:36，:rocket: 更新条数: +2013， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-11-16-Meta-开源-Sapling-scm](https://www.v2ex.com/t/895819) ![](assets/new.png)  
 - [2022-11-16-今年的-O'Reilly-的-Cyber-Monday-活动已经开始了，-40off-港币-2145-即可入手！](https://www.v2ex.com/t/895818) ![](assets/new.png)  
 - [2022-11-16-点评一下-Notion-AI?](https://www.v2ex.com/t/895817) ![](assets/new.png)  
 - [2022-11-16-20221117-午夜俱乐部](https://www.v2ex.com/t/895816) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-11-16-go-测试用例问题求教](https://www.v2ex.com/t/895797) ![](assets/new.png)  
 - [2022-11-16-有没有可以智能识别网站能否直连的方法-,-软件之类的-?](https://www.v2ex.com/t/895796) ![](assets/new.png)  
 - [2022-11-16-Cloudflare-推出-的-Turnstile-免费的验证码-大家用过吗？](https://www.v2ex.com/t/895795) ![](assets/new.png)  
-- [2022-11-16-Surge-去广告脚本推荐](https://www.v2ex.com/t/895793) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

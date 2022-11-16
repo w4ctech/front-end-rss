@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-16 07:12:09，:rocket: 更新条数: +2012， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-16 07:35:48，:rocket: 更新条数: +2013， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-11-16-Tencent-腾讯游戏测试岗位招聘（当前已在新加坡本地工作者）](https://www.v2ex.com/t/895694) ![](assets/new.png)  
+- [2022-11-16-Aws-S3-服务被墙了吗?](https://www.v2ex.com/t/895693) ![](assets/new.png)  
+- [2022-11-16-撸羊毛补仓，年底券商为-KPI，开户返现，-200-一户，每人都可以，不限制超过-3-户也可以](https://www.v2ex.com/t/895692) ![](assets/new.png)  
+- [2022-11-16-tor-下载-Zliabrary-老是断咋办](https://www.v2ex.com/t/895690) ![](assets/new.png)  
 - [2022-11-16-我好难受-win11](https://www.v2ex.com/t/895689) ![](assets/new.png)  
 - [2022-11-16-软路由开-openclash,-iOS-上的狂野飙车-9-不能对战，显示没连上-WiFi?](https://www.v2ex.com/t/895688) ![](assets/new.png)  
 - [2022-11-16-APPSTORE-无限要求登录](https://www.v2ex.com/t/895687) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-11-16-你们有没有发现-reddit-特别慢](https://www.v2ex.com/t/895674) ![](assets/new.png)  
 - [2022-11-16-请教一个网站的加密](https://www.v2ex.com/t/895673) ![](assets/new.png)  
 - [2022-11-16-老年人平板求推荐](https://www.v2ex.com/t/895672) ![](assets/new.png)  
-- [2022-11-16-macOS-Ventura-还有办法删除自带英文所有输入法吗](https://www.v2ex.com/t/895671) ![](assets/new.png)  
-- [2022-11-16-问个困扰很久的-gradle-多模块项目的问题](https://www.v2ex.com/t/895669) ![](assets/new.png)  
-- [2022-11-16-真有人能心胸开阔-不计得失吗？怎么做到？](https://www.v2ex.com/t/895668) ![](assets/new.png)  
-- [2022-11-16-求助，如何搭建提供实时音视频通话媒体流服务的系统？](https://www.v2ex.com/t/895666) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -522,6 +522,7 @@
 </summary>
 
 
+- [2022-11-16-团队的Code-Review实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15409&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-code-review%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-11-16-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-11-16-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-11-16-以综合指数观察和评价研发效能的趋势-link.zhihu.com](https://blogread.cn/news/go.php?idItem=15406&url=https%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttps%253A%2F%2Finsights.thoughtworks.cn%2Fobserving-evaluating-research-development-efficiency-trend%2F%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
@@ -545,8 +546,8 @@
 - [2022-11-16-一条-SQL-查询语句是如何执行的？](https://toutiao.io/k/8y71vds) ![](assets/new.png)  
 - [2022-11-16-聊聊分布式-ID](https://toutiao.io/k/daqde60) ![](assets/new.png)  
 - [2022-11-16-直播-CDN-调度技术关键挑战与架构设计](https://toutiao.io/k/2x5rdpo) ![](assets/new.png)  
-- [2022-11-16-打脸了兄弟们，Go1.20-arena-来了！](https://toutiao.io/k/mkyiajy) ![](assets/new.png)  
 - [2022-11-16-Python-和-Excel-的完美结合：常用操作汇总（案例详析）](https://toutiao.io/k/5xo78v5) ![](assets/new.png)  
+- [2022-11-16-打脸了兄弟们，Go1.20-arena-来了！](https://toutiao.io/k/mkyiajy) ![](assets/new.png)  
 - [2022-11-16-Go-map-竟然也会发生内存泄漏？](https://toutiao.io/k/8jkv6h4) ![](assets/new.png)  
 - [2022-11-16-用-Bevy/Rust-写个小游戏](https://toutiao.io/k/vhb7ptk) ![](assets/new.png)  
 - [2022-11-16-数据治理领域最容易混淆的-16-组术语概念辨析](https://toutiao.io/k/i3o33pw) ![](assets/new.png)  

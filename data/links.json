@@ -9953,6 +9953,26 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "Tencent 腾讯游戏测试岗位招聘（当前已在新加坡本地工作者）",
+        "link": "https://www.v2ex.com/t/895694",
+        "date": "2022-11-16"
+      },
+      {
+        "title": "Aws S3 服务被墙了吗?",
+        "link": "https://www.v2ex.com/t/895693",
+        "date": "2022-11-16"
+      },
+      {
+        "title": "撸羊毛补仓，年底券商为 KPI，开户返现， 200 一户，每人都可以，不限制超过 3 户也可以",
+        "link": "https://www.v2ex.com/t/895692",
+        "date": "2022-11-16"
+      },
+      {
+        "title": "tor 下载 Zliabrary 老是断咋办",
+        "link": "https://www.v2ex.com/t/895690",
+        "date": "2022-11-16"
+      },
+      {
         "title": "我好难受 win11",
         "link": "https://www.v2ex.com/t/895689",
         "date": "2022-11-16"
@@ -10126,26 +10146,6 @@
         "title": "大家什么时候喝咖啡",
         "link": "https://www.v2ex.com/t/895646",
         "date": "2022-11-16"
-      },
-      {
-        "title": "那个被封的在线思维导图，还没死",
-        "link": "https://www.v2ex.com/t/895645",
-        "date": "2022-11-16"
-      },
-      {
-        "title": "自己做的 MOS 开关板，只有一个 GND 行不行",
-        "link": "https://www.v2ex.com/t/895642",
-        "date": "2022-11-16"
-      },
-      {
-        "title": "鬼才想法 issue 做 blog",
-        "link": "https://www.v2ex.com/t/895641",
-        "date": "2022-11-16"
-      },
-      {
-        "title": "如何给搬瓦工账号充值",
-        "link": "https://www.v2ex.com/t/895640",
-        "date": "2022-11-16"
       }
     ]
   },
@@ -10154,6 +10154,11 @@
     "title": "技术头条",
     "link": "http://blogread.cn/news/newest.php",
     "items": [
+      {
+        "title": "团队的Code Review实践 (insights.thoughtworks.cn)",
+        "link": "https://blogread.cn/news/go.php?idItem=15409&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-code-review%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2022-11-16"
+      },
       {
         "title": "Tech Lead如何组建你的全明星团队 (insights.thoughtworks.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
@@ -10222,13 +10227,13 @@
         "date": "2022-11-16"
       },
       {
-        "title": "打脸了兄弟们，Go1.20 arena 来了！",
-        "link": "https://toutiao.io/k/mkyiajy",
+        "title": "Python 和 Excel 的完美结合：常用操作汇总（案例详析）",
+        "link": "https://toutiao.io/k/5xo78v5",
         "date": "2022-11-16"
       },
       {
-        "title": "Python 和 Excel 的完美结合：常用操作汇总（案例详析）",
-        "link": "https://toutiao.io/k/5xo78v5",
+        "title": "打脸了兄弟们，Go1.20 arena 来了！",
+        "link": "https://toutiao.io/k/mkyiajy",
         "date": "2022-11-16"
       },
       {

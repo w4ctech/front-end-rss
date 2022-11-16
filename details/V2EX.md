@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-11-16 23:12:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-16 23:38:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-11-16-个人消费记账有什么用](https://www.v2ex.com/t/895820) 
 - [2022-11-16-Meta-开源-Sapling-scm](https://www.v2ex.com/t/895819) 
 - [2022-11-16-今年的-O'Reilly-的-Cyber-Monday-活动已经开始了，-40off-港币-2145-即可入手！](https://www.v2ex.com/t/895818) 
 - [2022-11-16-点评一下-Notion-AI?](https://www.v2ex.com/t/895817) 
@@ -43,4 +44,3 @@
 - [2022-11-16-自建-bark-server-用于安卓转发短信到-iPhone](https://www.v2ex.com/t/895773) 
 - [2022-11-16-有没有住惠南这边的朋友，求加个微信好友，想在这边租房子](https://www.v2ex.com/t/895772) 
 - [2022-11-16-请教大家一个关于命令的执行结果在-fish-和-bash-有差异的问题](https://www.v2ex.com/t/895771) 
-- [2022-11-16-openwrt-的-dns-配置无效](https://www.v2ex.com/t/895770) 

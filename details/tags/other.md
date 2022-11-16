@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-16 23:12:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-16 23:38:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1917,6 +1917,7 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-11-16-个人消费记账有什么用](https://www.v2ex.com/t/895820) 
 - [2022-11-16-Meta-开源-Sapling-scm](https://www.v2ex.com/t/895819) 
 - [2022-11-16-今年的-O'Reilly-的-Cyber-Monday-活动已经开始了，-40off-港币-2145-即可入手！](https://www.v2ex.com/t/895818) 
 - [2022-11-16-点评一下-Notion-AI?](https://www.v2ex.com/t/895817) 
@@ -1951,7 +1952,6 @@
 - [2022-11-16-自建-bark-server-用于安卓转发短信到-iPhone](https://www.v2ex.com/t/895773) 
 - [2022-11-16-有没有住惠南这边的朋友，求加个微信好友，想在这边租房子](https://www.v2ex.com/t/895772) 
 - [2022-11-16-请教大家一个关于命令的执行结果在-fish-和-bash-有差异的问题](https://www.v2ex.com/t/895771) 
-- [2022-11-16-openwrt-的-dns-配置无效](https://www.v2ex.com/t/895770) 
 - [2022-11-16-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-16-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-16-以综合指数观察和评价研发效能的趋势-link.zhihu.com](https://blogread.cn/news/go.php?idItem=15406&url=https%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttps%253A%2F%2Finsights.thoughtworks.cn%2Fobserving-evaluating-research-development-efficiency-trend%2F%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1963,8 +1963,8 @@
 - [2022-11-16-一条-SQL-查询语句是如何执行的？](https://toutiao.io/k/8y71vds) 
 - [2022-11-16-聊聊分布式-ID](https://toutiao.io/k/daqde60) 
 - [2022-11-16-Python-和-Excel-的完美结合：常用操作汇总（案例详析）](https://toutiao.io/k/5xo78v5) 
-- [2022-11-16-Go-map-竟然也会发生内存泄漏？](https://toutiao.io/k/8jkv6h4) 
 - [2022-11-16-如何设计一个优惠券系统](https://toutiao.io/k/l16cyqr) 
+- [2022-11-16-Go-map-竟然也会发生内存泄漏？](https://toutiao.io/k/8jkv6h4) 
 - [2022-11-16-打脸了兄弟们，Go1.20-arena-来了！](https://toutiao.io/k/mkyiajy) 
 - [2022-11-16-数据治理领域最容易混淆的-16-组术语概念辨析](https://toutiao.io/k/i3o33pw) 
 - [2022-11-16-前端测试体系和最佳实践](https://toutiao.io/k/lzi73y5) 
@@ -1973,5 +1973,5 @@
 - [2022-11-16-RAII：如何编写没有内存泄漏的代码-with-C++](https://toutiao.io/k/35tk8rr) 
 - [2022-11-16-分页-+-模糊查询-有坑！](https://toutiao.io/k/zemd1zf) 
 - [2022-11-16-宫敏把自由软件和-Linux-带回中国](https://toutiao.io/k/2986z48) 
-- [2022-11-16-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) 
 - [2022-11-16-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) 
+- [2022-11-16-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) 

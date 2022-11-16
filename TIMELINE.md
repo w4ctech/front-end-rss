@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-16 11:11:11。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-16 11:35:25。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,8 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-16-求推荐一款蓝牙音响](https://www.v2ex.com/t/895767) 
+- [【V2EX】2022-11-16-收搬瓦工的-vps，各种套餐都可以。](https://www.v2ex.com/t/895766) 
 - [【V2EX】2022-11-16-坐标法国-家宽给了一个公网-IP-怎么利用？](https://www.v2ex.com/t/895763) 
 - [【V2EX】2022-11-16-北京客户端/C++/-Linux-字节跳动飞书招聘客户端/C++/-Linux-开发工程师](https://www.v2ex.com/t/895762) 
 - [【V2EX】2022-11-16-Kubernetes-挂载-cephfs-二级路径问题](https://www.v2ex.com/t/895761) 
@@ -108,9 +110,6 @@
 - [【V2EX】2022-11-16-大家冬天爱吃果冻橙么？](https://www.v2ex.com/t/895721) 
 - [【V2EX】2022-11-16-请问国内-iphone13-怎么才可以玩国外-tiktok](https://www.v2ex.com/t/895719) 
 - [【V2EX】2022-11-16-Arc-浏览器-有人想体验的不,-有-macOS-的包](https://www.v2ex.com/t/895718) 
-- [【V2EX】2022-11-16-调研-|-一个关于显示器使用的小调研~](https://www.v2ex.com/t/895717) 
-- [【V2EX】2022-11-16-莆田鞋子，难道质量就不好么](https://www.v2ex.com/t/895716) 
-- [【V2EX】2022-11-16-潮州特斯拉事件，今天警方已经做完了-EDR-检测，车主不认可怎么办？](https://www.v2ex.com/t/895715) 
 - [【技术头条】2022-11-16-团队的Code-Review实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15409&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-code-review%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-16-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-16-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

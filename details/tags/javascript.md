@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-16 11:11:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-16 11:35:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -16,4 +16,3 @@
 - [2022-10-16-2022年新出了哪些form表单新特性？](https://www.zhangxinxu.com/wordpress/2022/10/2022-new-form-property/) 
 - [2022-11-16-求推荐“出国”方便快捷的路由器](https://www.v2ex.com/t/895748) 
 - [2022-11-16-十年程序员难到了一个正则上面](https://www.v2ex.com/t/895733) 
-- [2022-11-16-潮州特斯拉事件，今天警方已经做完了-EDR-检测，车主不认可怎么办？](https://www.v2ex.com/t/895715) 

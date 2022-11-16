@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-16 11:11:11，:rocket: 更新条数: +2015， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-16 11:35:25，:rocket: 更新条数: +2014， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-11-16-求推荐一款蓝牙音响](https://www.v2ex.com/t/895767) ![](assets/new.png)  
+- [2022-11-16-收搬瓦工的-vps，各种套餐都可以。](https://www.v2ex.com/t/895766) ![](assets/new.png)  
 - [2022-11-16-坐标法国-家宽给了一个公网-IP-怎么利用？](https://www.v2ex.com/t/895763) ![](assets/new.png)  
 - [2022-11-16-北京客户端/C++/-Linux-字节跳动飞书招聘客户端/C++/-Linux-开发工程师](https://www.v2ex.com/t/895762) ![](assets/new.png)  
 - [2022-11-16-Kubernetes-挂载-cephfs-二级路径问题](https://www.v2ex.com/t/895761) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-11-16-那些非顶级的高级大佬，比如马云马化腾，到底是如何保证自己的个人信息和通信安全的](https://www.v2ex.com/t/895744) ![](assets/new.png)  
 - [2022-11-16-Macos-多桌面的一个小问题](https://www.v2ex.com/t/895743) ![](assets/new.png)  
 - [2022-11-16-一起来创建讨论组吧](https://www.v2ex.com/t/895742) ![](assets/new.png)  
-- [2022-11-16-个人对游戏的理解，想知道大多数人是如何看的](https://www.v2ex.com/t/895741) ![](assets/new.png)  
-- [2022-11-16-必须说一下我曾经的垃圾老板，公司所有人都在喷他](https://www.v2ex.com/t/895740) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

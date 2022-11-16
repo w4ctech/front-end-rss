@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-16 04:27:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-16 04:49:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1917,6 +1917,8 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-11-16-大家什么时候喝咖啡](https://www.v2ex.com/t/895646) 
+- [2022-11-16-那个被封的在线思维导图，还没死](https://www.v2ex.com/t/895645) 
 - [2022-11-16-V-站不墙了？](https://www.v2ex.com/t/895643) 
 - [2022-11-16-自己做的-MOS-开关板，只有一个-GND-行不行](https://www.v2ex.com/t/895642) 
 - [2022-11-16-鬼才想法-issue-做-blog](https://www.v2ex.com/t/895641) 
@@ -1944,10 +1946,6 @@
 - [2022-11-16-关于-tsl-潮州事故，想不明白+蹭个热度](https://www.v2ex.com/t/895601) 
 - [2022-11-16-🐟平台大量-AirPods-Pro2-全新未拆封机器（1000-元）](https://www.v2ex.com/t/895600) 
 - [2022-11-16-纯小白请教一下，关于后端管理系统的逻辑与业务逻辑，是要写到一个项目里吗？](https://www.v2ex.com/t/895598) 
-- [2022-11-16-有没有股票预警监测推送的程序](https://www.v2ex.com/t/895597) 
-- [2022-11-16-求助-5G-cpe-相关](https://www.v2ex.com/t/895596) 
-- [2022-11-16-更新-macOS-Ventura-13-后，外接显示器（副屏）经常黑屏一会儿或者闪烁](https://www.v2ex.com/t/895595) 
-- [2022-11-16-当你的邻居是个-xx-是个什么样的体验？](https://www.v2ex.com/t/895594) 
 - [2022-11-16-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-16-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-16-以综合指数观察和评价研发效能的趋势-link.zhihu.com](https://blogread.cn/news/go.php?idItem=15406&url=https%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttps%253A%2F%2Finsights.thoughtworks.cn%2Fobserving-evaluating-research-development-efficiency-trend%2F%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1966,7 +1964,7 @@
 - [2022-11-16-RAII：如何编写没有内存泄漏的代码-with-C++](https://toutiao.io/k/35tk8rr) 
 - [2022-11-16-你应该知道的-LightGBM-各种操作](https://toutiao.io/k/hxvmbb4) 
 - [2022-11-16-如何设计一个优惠券系统](https://toutiao.io/k/l16cyqr) 
-- [2022-11-16-一文读懂-Linux-系统平均负载](https://toutiao.io/k/plr01rv) 
 - [2022-11-16-宫敏把自由软件和-Linux-带回中国](https://toutiao.io/k/2986z48) 
+- [2022-11-16-一文读懂-Linux-系统平均负载](https://toutiao.io/k/plr01rv) 
 - [2022-11-16-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) 
 - [2022-11-16-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) 

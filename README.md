@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-16 08:18:31，:rocket: 更新条数: +2008， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-16 08:45:38，:rocket: 更新条数: +2010， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,15 @@
 </summary>
 
 
+- [2022-11-16-18-款-MBP-13-寸-升-Ventura-的都怎么样了？](https://www.v2ex.com/t/895724) ![](assets/new.png)  
+- [2022-11-16-如何让-Openclash-直连指定国外网址时不经过内核？](https://www.v2ex.com/t/895723) ![](assets/new.png)  
+- [2022-11-16-Ventura-播放在线视频时视频内容旋转的-bug](https://www.v2ex.com/t/895722) ![](assets/new.png)  
+- [2022-11-16-大家冬天爱吃果冻橙么？](https://www.v2ex.com/t/895721) ![](assets/new.png)  
+- [2022-11-16-请问国内-iphone13-怎么才可以玩国外-tiktok](https://www.v2ex.com/t/895719) ![](assets/new.png)  
+- [2022-11-16-Arc-浏览器-有人想体验的不,-有-macOS-的包](https://www.v2ex.com/t/895718) ![](assets/new.png)  
+- [2022-11-16-调研-|-一个关于显示器使用的小调研~](https://www.v2ex.com/t/895717) ![](assets/new.png)  
+- [2022-11-16-莆田鞋子，难道质量就不好么](https://www.v2ex.com/t/895716) ![](assets/new.png)  
+- [2022-11-16-潮州特斯拉事件，今天警方已经做完了-EDR-检测，车主不认可怎么办？](https://www.v2ex.com/t/895715) ![](assets/new.png)  
 - [2022-11-16-Mac-想体验最新版的备忘录必须得更新到-Ventura-才行吗？有什么办法可以在-Monterey-上体验？](https://www.v2ex.com/t/895713) ![](assets/new.png)  
 - [2022-11-16-有世界杯玩球的选手么-目前-Fifa-世界杯招募合营伙伴](https://www.v2ex.com/t/895712) ![](assets/new.png)  
 - [2022-11-16-Windows-的线程逻辑?](https://www.v2ex.com/t/895711) ![](assets/new.png)  
@@ -502,15 +511,6 @@
 - [2022-11-16-不用关键词也能精准搜索，新-AI-搜索引擎火了](https://www.v2ex.com/t/895699) ![](assets/new.png)  
 - [2022-11-16-有什么好用的英译英的软件](https://www.v2ex.com/t/895698) ![](assets/new.png)  
 - [2022-11-16-科技偏执狂-这些计算机相关的图标你认识哪些？](https://www.v2ex.com/t/895696) ![](assets/new.png)  
-- [2022-11-16-Tencent-腾讯游戏测试岗位招聘（当前已在新加坡本地工作者）](https://www.v2ex.com/t/895694) ![](assets/new.png)  
-- [2022-11-16-撸羊毛补仓，年底券商为-KPI，开户返现，-200-一户，每人都可以，不限制超过-3-户也可以](https://www.v2ex.com/t/895692) ![](assets/new.png)  
-- [2022-11-16-tor-下载-Zliabrary-老是断咋办](https://www.v2ex.com/t/895690) ![](assets/new.png)  
-- [2022-11-16-我好难受-win11](https://www.v2ex.com/t/895689) ![](assets/new.png)  
-- [2022-11-16-软路由开-openclash,-iOS-上的狂野飙车-9-不能对战，显示没连上-WiFi?](https://www.v2ex.com/t/895688) ![](assets/new.png)  
-- [2022-11-16-APPSTORE-无限要求登录](https://www.v2ex.com/t/895687) ![](assets/new.png)  
-- [2022-11-16-JD-的交易快照原来是不对消费者开放的](https://www.v2ex.com/t/895685) ![](assets/new.png)  
-- [2022-11-16-撸了一个-OTP-两步验证码小程序，欢迎使用~](https://www.v2ex.com/t/895684) ![](assets/new.png)  
-- [2022-11-16-最近微信实时视频的时候，屏幕隔一段时间就闪一下，间隔也不固定，有点像被截屏的效果，手机问题吗？](https://www.v2ex.com/t/895683) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-16 08:18:31。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-16 08:45:38。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,15 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-16-18-款-MBP-13-寸-升-Ventura-的都怎么样了？](https://www.v2ex.com/t/895724) 
+- [【V2EX】2022-11-16-如何让-Openclash-直连指定国外网址时不经过内核？](https://www.v2ex.com/t/895723) 
+- [【V2EX】2022-11-16-Ventura-播放在线视频时视频内容旋转的-bug](https://www.v2ex.com/t/895722) 
+- [【V2EX】2022-11-16-大家冬天爱吃果冻橙么？](https://www.v2ex.com/t/895721) 
+- [【V2EX】2022-11-16-请问国内-iphone13-怎么才可以玩国外-tiktok](https://www.v2ex.com/t/895719) 
+- [【V2EX】2022-11-16-Arc-浏览器-有人想体验的不,-有-macOS-的包](https://www.v2ex.com/t/895718) 
+- [【V2EX】2022-11-16-调研-|-一个关于显示器使用的小调研~](https://www.v2ex.com/t/895717) 
+- [【V2EX】2022-11-16-莆田鞋子，难道质量就不好么](https://www.v2ex.com/t/895716) 
+- [【V2EX】2022-11-16-潮州特斯拉事件，今天警方已经做完了-EDR-检测，车主不认可怎么办？](https://www.v2ex.com/t/895715) 
 - [【V2EX】2022-11-16-Mac-想体验最新版的备忘录必须得更新到-Ventura-才行吗？有什么办法可以在-Monterey-上体验？](https://www.v2ex.com/t/895713) 
 - [【V2EX】2022-11-16-有世界杯玩球的选手么-目前-Fifa-世界杯招募合营伙伴](https://www.v2ex.com/t/895712) 
 - [【V2EX】2022-11-16-Windows-的线程逻辑?](https://www.v2ex.com/t/895711) 
@@ -97,13 +106,6 @@
 - [【V2EX】2022-11-16-血的教训，买机械硬盘千万别买叠瓦盘！](https://www.v2ex.com/t/895678) 
 - [【V2EX】2022-11-16-有没有收京东-e-卡](https://www.v2ex.com/t/895677) 
 - [【V2EX】2022-11-16-除了存定期，现在还有稳的理财方式吗？](https://www.v2ex.com/t/895676) 
-- [【V2EX】2022-11-16-你们有没有发现-reddit-特别慢](https://www.v2ex.com/t/895674) 
-- [【V2EX】2022-11-16-请教一个网站的加密](https://www.v2ex.com/t/895673) 
-- [【V2EX】2022-11-16-老年人平板求推荐](https://www.v2ex.com/t/895672) 
-- [【V2EX】2022-11-16-macOS-Ventura-还有办法删除自带英文所有输入法吗](https://www.v2ex.com/t/895671) 
-- [【V2EX】2022-11-16-问个困扰很久的-gradle-多模块项目的问题](https://www.v2ex.com/t/895669) 
-- [【V2EX】2022-11-16-真有人能心胸开阔-不计得失吗？怎么做到？](https://www.v2ex.com/t/895668) 
-- [【V2EX】2022-11-16-求助，如何搭建提供实时音视频通话媒体流服务的系统？](https://www.v2ex.com/t/895666) 
 - [【技术头条】2022-11-16-团队的Code-Review实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15409&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-code-review%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-16-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-16-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

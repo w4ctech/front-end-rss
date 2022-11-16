@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-16 08:18:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-16 08:45:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1917,6 +1917,12 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-11-16-18-款-MBP-13-寸-升-Ventura-的都怎么样了？](https://www.v2ex.com/t/895724) 
+- [2022-11-16-如何让-Openclash-直连指定国外网址时不经过内核？](https://www.v2ex.com/t/895723) 
+- [2022-11-16-大家冬天爱吃果冻橙么？](https://www.v2ex.com/t/895721) 
+- [2022-11-16-请问国内-iphone13-怎么才可以玩国外-tiktok](https://www.v2ex.com/t/895719) 
+- [2022-11-16-调研-|-一个关于显示器使用的小调研~](https://www.v2ex.com/t/895717) 
+- [2022-11-16-莆田鞋子，难道质量就不好么](https://www.v2ex.com/t/895716) 
 - [2022-11-16-Mac-想体验最新版的备忘录必须得更新到-Ventura-才行吗？有什么办法可以在-Monterey-上体验？](https://www.v2ex.com/t/895713) 
 - [2022-11-16-有世界杯玩球的选手么-目前-Fifa-世界杯招募合营伙伴](https://www.v2ex.com/t/895712) 
 - [2022-11-16-Windows-的线程逻辑?](https://www.v2ex.com/t/895711) 
@@ -1938,12 +1944,6 @@
 - [2022-11-16-血的教训，买机械硬盘千万别买叠瓦盘！](https://www.v2ex.com/t/895678) 
 - [2022-11-16-有没有收京东-e-卡](https://www.v2ex.com/t/895677) 
 - [2022-11-16-除了存定期，现在还有稳的理财方式吗？](https://www.v2ex.com/t/895676) 
-- [2022-11-16-你们有没有发现-reddit-特别慢](https://www.v2ex.com/t/895674) 
-- [2022-11-16-请教一个网站的加密](https://www.v2ex.com/t/895673) 
-- [2022-11-16-老年人平板求推荐](https://www.v2ex.com/t/895672) 
-- [2022-11-16-macOS-Ventura-还有办法删除自带英文所有输入法吗](https://www.v2ex.com/t/895671) 
-- [2022-11-16-问个困扰很久的-gradle-多模块项目的问题](https://www.v2ex.com/t/895669) 
-- [2022-11-16-真有人能心胸开阔-不计得失吗？怎么做到？](https://www.v2ex.com/t/895668) 
 - [2022-11-16-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-16-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-16-以综合指数观察和评价研发效能的趋势-link.zhihu.com](https://blogread.cn/news/go.php?idItem=15406&url=https%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttps%253A%2F%2Finsights.thoughtworks.cn%2Fobserving-evaluating-research-development-efficiency-trend%2F%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

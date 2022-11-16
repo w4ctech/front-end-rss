@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-16 01:04:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-16 03:04:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Git、SVN
 
@@ -7,4 +7,4 @@
 
 
 
-- [2022-11-15-刚刚收到-GitHub-Copilot-的扣费邮件，实测可用-PayPal-绑定银联借记卡订阅该服务](https://www.v2ex.com/t/895547) 
+- [2022-11-16-gitee-用户体验为啥这么差？不止一次想吐......吐槽](https://www.v2ex.com/t/895602) 

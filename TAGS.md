@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-11-16 05:11:45。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-16 05:37:22。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -324,7 +324,6 @@
 
 
 - [【V2EX】吐槽！-Gitlab-使用中的代码下载新方式](https://www.v2ex.com/t/895647)
-- [【V2EX】gitee-用户体验为啥这么差？不止一次想吐......吐槽](https://www.v2ex.com/t/895602)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -341,6 +340,7 @@
 
 
 
+- [【V2EX】上海Hybrid-办公WLB-带资创业项目招聘人工智能-NLP-语音处理方向技术合伙人](https://www.v2ex.com/t/895652)
 - [【V2EX】招聘-Java-方向的后端架构](https://www.v2ex.com/t/895610)
 - [......【查看更多】......](./details/tags/job-interview.md)
 

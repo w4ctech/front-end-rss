@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-16 13:08:36，:rocket: 更新条数: +2012， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-16 13:52:53，:rocket: 更新条数: +2013， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-11-16-mac-safari-16.1-经常在网络加载过程中卡死](https://www.v2ex.com/t/895790) ![](assets/new.png)  
+- [2022-11-16-收费咯，腾讯云公共解析-Public-DNS-专业版将于-12-月-1-日全面计费](https://www.v2ex.com/t/895789) ![](assets/new.png)  
+- [2022-11-16-macbook-pro-2021-16-寸，这种情况是阴阳屏吗？](https://www.v2ex.com/t/895788) ![](assets/new.png)  
+- [2022-11-16-诚意寻求-defi-合约高手，做合约解析代码开发，代码要求-nodejs-或者-Java-。](https://www.v2ex.com/t/895787) ![](assets/new.png)  
+- [2022-11-16-有办法把养老金和公积金提取出来么？](https://www.v2ex.com/t/895786) ![](assets/new.png)  
+- [2022-11-16-招一名远程安卓](https://www.v2ex.com/t/895785) ![](assets/new.png)  
 - [2022-11-16-OpenWrt-导致小米音响网络连接失败，帮忙分析下可能是什么原因](https://www.v2ex.com/t/895783) ![](assets/new.png)  
 - [2022-11-16-群晖-DS923+，这-CPU-属于反向升级吗？](https://www.v2ex.com/t/895782) ![](assets/new.png)  
 - [2022-11-16-如何优雅地同时改动多个代码仓库的一些文件？](https://www.v2ex.com/t/895781) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-11-16-技术选择，求各位指条明路](https://www.v2ex.com/t/895769) ![](assets/new.png)  
 - [2022-11-16-求推荐一款蓝牙音响](https://www.v2ex.com/t/895767) ![](assets/new.png)  
 - [2022-11-16-收搬瓦工的-vps，各种套餐都可以。](https://www.v2ex.com/t/895766) ![](assets/new.png)  
-- [2022-11-16-坐标法国-家宽给了一个公网-IP-怎么利用？](https://www.v2ex.com/t/895763) ![](assets/new.png)  
-- [2022-11-16-北京客户端/C++/-Linux-字节跳动飞书招聘客户端/C++/-Linux-开发工程师](https://www.v2ex.com/t/895762) ![](assets/new.png)  
-- [2022-11-16-Kubernetes-挂载-cephfs-二级路径问题](https://www.v2ex.com/t/895761) ![](assets/new.png)  
-- [2022-11-16-转租-2-号线地铁侨香站安侨苑-68-平大单间](https://www.v2ex.com/t/895760) ![](assets/new.png)  
-- [2022-11-16-163-邮箱和-QQ-邮箱可以使用-cookie-登录吗？](https://www.v2ex.com/t/895759) ![](assets/new.png)  
-- [2022-11-16-tsl-小寓言-我的-Shift-键被卡住了](https://www.v2ex.com/t/895758) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -547,8 +547,8 @@
 - [2022-11-16-聊聊分布式-ID](https://toutiao.io/k/daqde60) ![](assets/new.png)  
 - [2022-11-16-Python-和-Excel-的完美结合：常用操作汇总（案例详析）](https://toutiao.io/k/5xo78v5) ![](assets/new.png)  
 - [2022-11-16-Go-map-竟然也会发生内存泄漏？](https://toutiao.io/k/8jkv6h4) ![](assets/new.png)  
-- [2022-11-16-直播-CDN-调度技术关键挑战与架构设计](https://toutiao.io/k/2x5rdpo) ![](assets/new.png)  
 - [2022-11-16-如何设计一个优惠券系统](https://toutiao.io/k/l16cyqr) ![](assets/new.png)  
+- [2022-11-16-直播-CDN-调度技术关键挑战与架构设计](https://toutiao.io/k/2x5rdpo) ![](assets/new.png)  
 - [2022-11-16-打脸了兄弟们，Go1.20-arena-来了！](https://toutiao.io/k/mkyiajy) ![](assets/new.png)  
 - [2022-11-16-用-Bevy/Rust-写个小游戏](https://toutiao.io/k/vhb7ptk) ![](assets/new.png)  
 - [2022-11-16-数据治理领域最容易混淆的-16-组术语概念辨析](https://toutiao.io/k/i3o33pw) ![](assets/new.png)  
@@ -559,8 +559,8 @@
 - [2022-11-16-宫敏把自由软件和-Linux-带回中国](https://toutiao.io/k/2986z48) ![](assets/new.png)  
 - [2022-11-16-不优雅的-React-Hooks](https://toutiao.io/k/ubjl15v) ![](assets/new.png)  
 - [2022-11-16-分页-+-模糊查询-有坑！](https://toutiao.io/k/zemd1zf) ![](assets/new.png)  
-- [2022-11-16-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) ![](assets/new.png)  
 - [2022-11-16-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) ![](assets/new.png)  
+- [2022-11-16-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

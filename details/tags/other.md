@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-16 13:08:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-16 13:52:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1917,6 +1917,10 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-11-16-收费咯，腾讯云公共解析-Public-DNS-专业版将于-12-月-1-日全面计费](https://www.v2ex.com/t/895789) 
+- [2022-11-16-macbook-pro-2021-16-寸，这种情况是阴阳屏吗？](https://www.v2ex.com/t/895788) 
+- [2022-11-16-有办法把养老金和公积金提取出来么？](https://www.v2ex.com/t/895786) 
+- [2022-11-16-招一名远程安卓](https://www.v2ex.com/t/895785) 
 - [2022-11-16-OpenWrt-导致小米音响网络连接失败，帮忙分析下可能是什么原因](https://www.v2ex.com/t/895783) 
 - [2022-11-16-群晖-DS923+，这-CPU-属于反向升级吗？](https://www.v2ex.com/t/895782) 
 - [2022-11-16-如何优雅地同时改动多个代码仓库的一些文件？](https://www.v2ex.com/t/895781) 
@@ -1943,10 +1947,6 @@
 - [2022-11-16-数仓-OR-后端](https://www.v2ex.com/t/895745) 
 - [2022-11-16-Macos-多桌面的一个小问题](https://www.v2ex.com/t/895743) 
 - [2022-11-16-一起来创建讨论组吧](https://www.v2ex.com/t/895742) 
-- [2022-11-16-必须说一下我曾经的垃圾老板，公司所有人都在喷他](https://www.v2ex.com/t/895740) 
-- [2022-11-16-玩玩云电脑？阿里云无影云桌面免费领取-不限新老用户](https://www.v2ex.com/t/895739) 
-- [2022-11-16-阿里云轻量服务器被墙了](https://www.v2ex.com/t/895737) 
-- [2022-11-16-机动车-刹车-的国标是-0.24g-以上制动减速度，折合百码刹停距离是？](https://www.v2ex.com/t/895735) 
 - [2022-11-16-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-16-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-16-以综合指数观察和评价研发效能的趋势-link.zhihu.com](https://blogread.cn/news/go.php?idItem=15406&url=https%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttps%253A%2F%2Finsights.thoughtworks.cn%2Fobserving-evaluating-research-development-efficiency-trend%2F%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1968,5 +1968,5 @@
 - [2022-11-16-RAII：如何编写没有内存泄漏的代码-with-C++](https://toutiao.io/k/35tk8rr) 
 - [2022-11-16-宫敏把自由软件和-Linux-带回中国](https://toutiao.io/k/2986z48) 
 - [2022-11-16-分页-+-模糊查询-有坑！](https://toutiao.io/k/zemd1zf) 
-- [2022-11-16-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) 
 - [2022-11-16-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) 
+- [2022-11-16-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) 

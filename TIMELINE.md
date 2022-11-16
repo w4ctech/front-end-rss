@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-16 19:10:52。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-16 19:35:40。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,7 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-16-点评一下-Notion-AI?](https://www.v2ex.com/t/895817) 
 - [【V2EX】2022-11-16-20221117-午夜俱乐部](https://www.v2ex.com/t/895816) 
 - [【V2EX】2022-11-16-关于宫崎骏先生的那些情诗](https://www.v2ex.com/t/895815) 
 - [【V2EX】2022-11-16-写代码中，有个思路有问题，求解](https://www.v2ex.com/t/895814) 
@@ -107,7 +108,6 @@
 - [【V2EX】2022-11-16-请教大家一个关于命令的执行结果在-fish-和-bash-有差异的问题](https://www.v2ex.com/t/895771) 
 - [【V2EX】2022-11-16-openwrt-的-dns-配置无效](https://www.v2ex.com/t/895770) 
 - [【V2EX】2022-11-16-技术选择，求各位指条明路](https://www.v2ex.com/t/895769) 
-- [【V2EX】2022-11-16-求推荐一款蓝牙音响](https://www.v2ex.com/t/895767) 
 - [【技术头条】2022-11-16-团队的Code-Review实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15409&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-code-review%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-16-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-16-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

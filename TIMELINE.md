@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-16 06:16:27。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-16 06:44:28。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,8 +70,12 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-16-有没有收京东-e-卡](https://www.v2ex.com/t/895677) 
+- [【V2EX】2022-11-16-除了存定期，现在还有稳的理财方式吗？](https://www.v2ex.com/t/895676) 
+- [【V2EX】2022-11-16-你们有没有发现-reddit-特别慢](https://www.v2ex.com/t/895674) 
+- [【V2EX】2022-11-16-请教一个网站的加密](https://www.v2ex.com/t/895673) 
+- [【V2EX】2022-11-16-老年人平板求推荐](https://www.v2ex.com/t/895672) 
 - [【V2EX】2022-11-16-macOS-Ventura-还有办法删除自带英文所有输入法吗](https://www.v2ex.com/t/895671) 
-- [【V2EX】2022-11-16-人心隔肚皮，-别把自己太当回事，咸吃萝卜淡操心](https://www.v2ex.com/t/895670) 
 - [【V2EX】2022-11-16-问个困扰很久的-gradle-多模块项目的问题](https://www.v2ex.com/t/895669) 
 - [【V2EX】2022-11-16-真有人能心胸开阔-不计得失吗？怎么做到？](https://www.v2ex.com/t/895668) 
 - [【V2EX】2022-11-16-求助，如何搭建提供实时音视频通话媒体流服务的系统？](https://www.v2ex.com/t/895666) 
@@ -91,7 +95,6 @@
 - [【V2EX】2022-11-16-吐槽！-Gitlab-使用中的代码下载新方式](https://www.v2ex.com/t/895647) 
 - [【V2EX】2022-11-16-大家什么时候喝咖啡](https://www.v2ex.com/t/895646) 
 - [【V2EX】2022-11-16-那个被封的在线思维导图，还没死](https://www.v2ex.com/t/895645) 
-- [【V2EX】2022-11-16-V-站不墙了？](https://www.v2ex.com/t/895643) 
 - [【V2EX】2022-11-16-自己做的-MOS-开关板，只有一个-GND-行不行](https://www.v2ex.com/t/895642) 
 - [【V2EX】2022-11-16-鬼才想法-issue-做-blog](https://www.v2ex.com/t/895641) 
 - [【V2EX】2022-11-16-如何给搬瓦工账号充值](https://www.v2ex.com/t/895640) 
@@ -102,11 +105,6 @@
 - [【V2EX】2022-11-16-Python-新手语法问题，为什么用-str-split-后新建-dict-爆黄呢？](https://www.v2ex.com/t/895631) 
 - [【V2EX】2022-11-16-新购-AirPods-会送半年-Apple-Music-试用，-AirPods-退货后-AM-是否会收回？](https://www.v2ex.com/t/895629) 
 - [【V2EX】2022-11-16-2022-年末适合装机吗，求一个不超过-5K-预算的](https://www.v2ex.com/t/895628) 
-- [【V2EX】2022-11-16-脱产是什么感觉？](https://www.v2ex.com/t/895627) 
-- [【V2EX】2022-11-16-xdm，收到疑是钓鱼短信，帮忙甄别下](https://www.v2ex.com/t/895626) 
-- [【V2EX】2022-11-16-独立作品-随风天气-个性化场景天气](https://www.v2ex.com/t/895625) 
-- [【V2EX】2022-11-16-iPhone-有啥支持-SSL-FTP-的-App-客户端？](https://www.v2ex.com/t/895623) 
-- [【V2EX】2022-11-16-特别关注用户后，可以获得用户的主题列表](https://www.v2ex.com/t/895622) 
 - [【技术头条】2022-11-16-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-16-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-16-以综合指数观察和评价研发效能的趋势-link.zhihu.com](https://blogread.cn/news/go.php?idItem=15406&url=https%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttps%253A%2F%2Finsights.thoughtworks.cn%2Fobserving-evaluating-research-development-efficiency-trend%2F%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -132,8 +130,8 @@
 - [【开发者头条】2022-11-16-宫敏把自由软件和-Linux-带回中国](https://toutiao.io/k/2986z48) 
 - [【开发者头条】2022-11-16-不优雅的-React-Hooks](https://toutiao.io/k/ubjl15v) 
 - [【开发者头条】2022-11-16-分页-+-模糊查询-有坑！](https://toutiao.io/k/zemd1zf) 
-- [【开发者头条】2022-11-16-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) 
 - [【开发者头条】2022-11-16-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) 
+- [【开发者头条】2022-11-16-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

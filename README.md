@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-16 08:45:38，:rocket: 更新条数: +2010， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-16 09:12:53，:rocket: 更新条数: +2009， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,17 @@
 </summary>
 
 
+- [2022-11-16-准备当爹了，要开始学习怎么当爹，有推荐的视频或书籍吗？](https://www.v2ex.com/t/895738) ![](assets/new.png)  
+- [2022-11-16-阿里云轻量服务器被墙了](https://www.v2ex.com/t/895737) ![](assets/new.png)  
+- [2022-11-16-机动车-刹车-的国标是-0.24g-以上制动减速度，折合百码刹停距离是？](https://www.v2ex.com/t/895735) ![](assets/new.png)  
+- [2022-11-16-TestFlight-app-测试新鲜上架：检查单小帮手，方便你的就医后生活](https://www.v2ex.com/t/895734) ![](assets/new.png)  
+- [2022-11-16-十年程序员难到了一个正则上面](https://www.v2ex.com/t/895733) ![](assets/new.png)  
+- [2022-11-16-欧洲外企（甲方）-上海招聘：-Java-Manager/-Java-Expert-，-8-年左右工作经验，英语口语流利，薪水-60-70W](https://www.v2ex.com/t/895730) ![](assets/new.png)  
+- [2022-11-16-2022-年，-AppStore-现在是否还有途径方式试用-APP？（没有-Lite-版的-APP）](https://www.v2ex.com/t/895729) ![](assets/new.png)  
+- [2022-11-16-20-款-iPad-Pro-换了-21-款-iPad-Pro，感觉提升不大](https://www.v2ex.com/t/895728) ![](assets/new.png)  
+- [2022-11-16-Wild-Chicken-University-是怎么拿到波兰的教育网域名的](https://www.v2ex.com/t/895727) ![](assets/new.png)  
+- [2022-11-16-scratch-也有硬件么？](https://www.v2ex.com/t/895726) ![](assets/new.png)  
+- [2022-11-16-招个-flutter-开发](https://www.v2ex.com/t/895725) ![](assets/new.png)  
 - [2022-11-16-18-款-MBP-13-寸-升-Ventura-的都怎么样了？](https://www.v2ex.com/t/895724) ![](assets/new.png)  
 - [2022-11-16-如何让-Openclash-直连指定国外网址时不经过内核？](https://www.v2ex.com/t/895723) ![](assets/new.png)  
 - [2022-11-16-Ventura-播放在线视频时视频内容旋转的-bug](https://www.v2ex.com/t/895722) ![](assets/new.png)  
@@ -500,17 +511,6 @@
 - [2022-11-16-调研-|-一个关于显示器使用的小调研~](https://www.v2ex.com/t/895717) ![](assets/new.png)  
 - [2022-11-16-莆田鞋子，难道质量就不好么](https://www.v2ex.com/t/895716) ![](assets/new.png)  
 - [2022-11-16-潮州特斯拉事件，今天警方已经做完了-EDR-检测，车主不认可怎么办？](https://www.v2ex.com/t/895715) ![](assets/new.png)  
-- [2022-11-16-Mac-想体验最新版的备忘录必须得更新到-Ventura-才行吗？有什么办法可以在-Monterey-上体验？](https://www.v2ex.com/t/895713) ![](assets/new.png)  
-- [2022-11-16-有世界杯玩球的选手么-目前-Fifa-世界杯招募合营伙伴](https://www.v2ex.com/t/895712) ![](assets/new.png)  
-- [2022-11-16-Windows-的线程逻辑?](https://www.v2ex.com/t/895711) ![](assets/new.png)  
-- [2022-11-16-百度等其他搜寻引擎爬虫爬取的网页原始码是?](https://www.v2ex.com/t/895710) ![](assets/new.png)  
-- [2022-11-16-类似上号神器的网站功能](https://www.v2ex.com/t/895708) ![](assets/new.png)  
-- [2022-11-16-初次使用-USDT、BTC-收款，有什么要注意的？](https://www.v2ex.com/t/895704) ![](assets/new.png)  
-- [2022-11-16-北京/上海/杭州iOS/Android西瓜视频业务社招，-HC-真实](https://www.v2ex.com/t/895701) ![](assets/new.png)  
-- [2022-11-16-游戏里的发生了冲突，-v-友怎么看](https://www.v2ex.com/t/895700) ![](assets/new.png)  
-- [2022-11-16-不用关键词也能精准搜索，新-AI-搜索引擎火了](https://www.v2ex.com/t/895699) ![](assets/new.png)  
-- [2022-11-16-有什么好用的英译英的软件](https://www.v2ex.com/t/895698) ![](assets/new.png)  
-- [2022-11-16-科技偏执狂-这些计算机相关的图标你认识哪些？](https://www.v2ex.com/t/895696) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -545,8 +545,8 @@
 
 - [2022-11-16-一条-SQL-查询语句是如何执行的？](https://toutiao.io/k/8y71vds) ![](assets/new.png)  
 - [2022-11-16-聊聊分布式-ID](https://toutiao.io/k/daqde60) ![](assets/new.png)  
-- [2022-11-16-直播-CDN-调度技术关键挑战与架构设计](https://toutiao.io/k/2x5rdpo) ![](assets/new.png)  
 - [2022-11-16-Python-和-Excel-的完美结合：常用操作汇总（案例详析）](https://toutiao.io/k/5xo78v5) ![](assets/new.png)  
+- [2022-11-16-直播-CDN-调度技术关键挑战与架构设计](https://toutiao.io/k/2x5rdpo) ![](assets/new.png)  
 - [2022-11-16-打脸了兄弟们，Go1.20-arena-来了！](https://toutiao.io/k/mkyiajy) ![](assets/new.png)  
 - [2022-11-16-Go-map-竟然也会发生内存泄漏？](https://toutiao.io/k/8jkv6h4) ![](assets/new.png)  
 - [2022-11-16-用-Bevy/Rust-写个小游戏](https://toutiao.io/k/vhb7ptk) ![](assets/new.png)  

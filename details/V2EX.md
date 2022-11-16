@@ -1,10 +1,21 @@
-:alarm_clock: 更新时间: 2022-11-16 08:45:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-16 09:12:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-11-16-准备当爹了，要开始学习怎么当爹，有推荐的视频或书籍吗？](https://www.v2ex.com/t/895738) 
+- [2022-11-16-阿里云轻量服务器被墙了](https://www.v2ex.com/t/895737) 
+- [2022-11-16-机动车-刹车-的国标是-0.24g-以上制动减速度，折合百码刹停距离是？](https://www.v2ex.com/t/895735) 
+- [2022-11-16-TestFlight-app-测试新鲜上架：检查单小帮手，方便你的就医后生活](https://www.v2ex.com/t/895734) 
+- [2022-11-16-十年程序员难到了一个正则上面](https://www.v2ex.com/t/895733) 
+- [2022-11-16-欧洲外企（甲方）-上海招聘：-Java-Manager/-Java-Expert-，-8-年左右工作经验，英语口语流利，薪水-60-70W](https://www.v2ex.com/t/895730) 
+- [2022-11-16-2022-年，-AppStore-现在是否还有途径方式试用-APP？（没有-Lite-版的-APP）](https://www.v2ex.com/t/895729) 
+- [2022-11-16-20-款-iPad-Pro-换了-21-款-iPad-Pro，感觉提升不大](https://www.v2ex.com/t/895728) 
+- [2022-11-16-Wild-Chicken-University-是怎么拿到波兰的教育网域名的](https://www.v2ex.com/t/895727) 
+- [2022-11-16-scratch-也有硬件么？](https://www.v2ex.com/t/895726) 
+- [2022-11-16-招个-flutter-开发](https://www.v2ex.com/t/895725) 
 - [2022-11-16-18-款-MBP-13-寸-升-Ventura-的都怎么样了？](https://www.v2ex.com/t/895724) 
 - [2022-11-16-如何让-Openclash-直连指定国外网址时不经过内核？](https://www.v2ex.com/t/895723) 
 - [2022-11-16-Ventura-播放在线视频时视频内容旋转的-bug](https://www.v2ex.com/t/895722) 
@@ -29,15 +40,3 @@
 - [2022-11-16-撸羊毛补仓，年底券商为-KPI，开户返现，-200-一户，每人都可以，不限制超过-3-户也可以](https://www.v2ex.com/t/895692) 
 - [2022-11-16-tor-下载-Zliabrary-老是断咋办](https://www.v2ex.com/t/895690) 
 - [2022-11-16-我好难受-win11](https://www.v2ex.com/t/895689) 
-- [2022-11-16-软路由开-openclash,-iOS-上的狂野飙车-9-不能对战，显示没连上-WiFi?](https://www.v2ex.com/t/895688) 
-- [2022-11-16-APPSTORE-无限要求登录](https://www.v2ex.com/t/895687) 
-- [2022-11-16-JD-的交易快照原来是不对消费者开放的](https://www.v2ex.com/t/895685) 
-- [2022-11-16-撸了一个-OTP-两步验证码小程序，欢迎使用~](https://www.v2ex.com/t/895684) 
-- [2022-11-16-最近微信实时视频的时候，屏幕隔一段时间就闪一下，间隔也不固定，有点像被截屏的效果，手机问题吗？](https://www.v2ex.com/t/895683) 
-- [2022-11-16-更新-macOS-Ventura-后，-系统异常卡顿](https://www.v2ex.com/t/895682) 
-- [2022-11-16-挖掘-macOS-词典文件的方法](https://www.v2ex.com/t/895681) 
-- [2022-11-16-如何使用-openwrt-屏蔽-APP-开屏广告](https://www.v2ex.com/t/895680) 
-- [2022-11-16-网上立案讨债审核通过后法院叫我邮寄材料，借条的原文件需要邮寄过去吗？这里有没有律师的-v2er?](https://www.v2ex.com/t/895679) 
-- [2022-11-16-血的教训，买机械硬盘千万别买叠瓦盘！](https://www.v2ex.com/t/895678) 
-- [2022-11-16-有没有收京东-e-卡](https://www.v2ex.com/t/895677) 
-- [2022-11-16-除了存定期，现在还有稳的理财方式吗？](https://www.v2ex.com/t/895676) 

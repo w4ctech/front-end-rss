@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-16 03:59:37。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-16 04:27:10。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,11 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-16-V-站不墙了？](https://www.v2ex.com/t/895643) 
+- [【V2EX】2022-11-16-自己做的-MOS-开关板，只有一个-GND-行不行](https://www.v2ex.com/t/895642) 
+- [【V2EX】2022-11-16-鬼才想法-issue-做-blog](https://www.v2ex.com/t/895641) 
+- [【V2EX】2022-11-16-如何给搬瓦工账号充值](https://www.v2ex.com/t/895640) 
+- [【V2EX】2022-11-16-新西兰的-Tesla-车主新鲜出炉的-Model-3-故障](https://www.v2ex.com/t/895638) 
 - [【V2EX】2022-11-16-求个性价比机场](https://www.v2ex.com/t/895634) 
 - [【V2EX】2022-11-16-自己网页被-Chrome-标记欺诈，能否通过域名解析把-Google-的检测服务器屏蔽了？](https://www.v2ex.com/t/895633) 
 - [【V2EX】2022-11-16-如果想自己成立一个代理记账公司，怎么去找大量的客户源呢](https://www.v2ex.com/t/895632) 
@@ -104,12 +109,6 @@
 - [【V2EX】2022-11-16-求助-5G-cpe-相关](https://www.v2ex.com/t/895596) 
 - [【V2EX】2022-11-16-更新-macOS-Ventura-13-后，外接显示器（副屏）经常黑屏一会儿或者闪烁](https://www.v2ex.com/t/895595) 
 - [【V2EX】2022-11-16-当你的邻居是个-xx-是个什么样的体验？](https://www.v2ex.com/t/895594) 
-- [【V2EX】2022-11-16-Pixel-免费上传-Google-Photo-终极解决方案，支持苹果的-livephoto](https://www.v2ex.com/t/895593) 
-- [【V2EX】2022-11-16-helm-bitnami-kafka-配置额外-zookeeper-问题](https://www.v2ex.com/t/895592) 
-- [【V2EX】2022-11-16-什么时候有的-5G+，你们有在手机上见到嘛](https://www.v2ex.com/t/895591) 
-- [【V2EX】2022-11-16-Chrome-浏览器下-iWebPDF-用不了](https://www.v2ex.com/t/895590) 
-- [【V2EX】2022-11-16-大佬们哪里有-react-实战教程可以学习一下](https://www.v2ex.com/t/895589) 
-- [【V2EX】2022-11-16-求推荐二手备用机](https://www.v2ex.com/t/895588) 
 - [【技术头条】2022-11-16-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-16-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-16-以综合指数观察和评价研发效能的趋势-link.zhihu.com](https://blogread.cn/news/go.php?idItem=15406&url=https%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttps%253A%2F%2Finsights.thoughtworks.cn%2Fobserving-evaluating-research-development-efficiency-trend%2F%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -130,10 +129,10 @@
 - [【开发者头条】2022-11-16-前端测试体系和最佳实践](https://toutiao.io/k/lzi73y5) 
 - [【开发者头条】2022-11-16-RAII：如何编写没有内存泄漏的代码-with-C++](https://toutiao.io/k/35tk8rr) 
 - [【开发者头条】2022-11-16-你应该知道的-LightGBM-各种操作](https://toutiao.io/k/hxvmbb4) 
+- [【开发者头条】2022-11-16-如何设计一个优惠券系统](https://toutiao.io/k/l16cyqr) 
 - [【开发者头条】2022-11-16-一文读懂-Linux-系统平均负载](https://toutiao.io/k/plr01rv) 
 - [【开发者头条】2022-11-16-不优雅的-React-Hooks](https://toutiao.io/k/ubjl15v) 
 - [【开发者头条】2022-11-16-宫敏把自由软件和-Linux-带回中国](https://toutiao.io/k/2986z48) 
-- [【开发者头条】2022-11-16-如何设计一个优惠券系统](https://toutiao.io/k/l16cyqr) 
 - [【开发者头条】2022-11-16-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) 
 - [【开发者头条】2022-11-16-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) 
 

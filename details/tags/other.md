@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-16 16:17:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-16 16:50:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1917,6 +1917,7 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-11-16-如何减少-pd-虚拟机硬盘写入，每次关机休眠都有巨大的写入](https://www.v2ex.com/t/895813) 
 - [2022-11-16-你们在哪里买的-appletv-呀，推荐推荐呗](https://www.v2ex.com/t/895812) 
 - [2022-11-16-在线代码编辑器-Runcode-2.0](https://www.v2ex.com/t/895809) 
 - [2022-11-16-微信团队语文一向不大好？](https://www.v2ex.com/t/895807) 
@@ -1948,7 +1949,6 @@
 - [2022-11-16-技术选择，求各位指条明路](https://www.v2ex.com/t/895769) 
 - [2022-11-16-求推荐一款蓝牙音响](https://www.v2ex.com/t/895767) 
 - [2022-11-16-收搬瓦工的-vps，各种套餐都可以。](https://www.v2ex.com/t/895766) 
-- [2022-11-16-坐标法国-家宽给了一个公网-IP-怎么利用？](https://www.v2ex.com/t/895763) 
 - [2022-11-16-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-16-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-16-以综合指数观察和评价研发效能的趋势-link.zhihu.com](https://blogread.cn/news/go.php?idItem=15406&url=https%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttps%253A%2F%2Finsights.thoughtworks.cn%2Fobserving-evaluating-research-development-efficiency-trend%2F%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

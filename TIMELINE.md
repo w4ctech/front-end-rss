@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-16 16:17:13。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-16 16:50:04。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,7 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-16-如何减少-pd-虚拟机硬盘写入，每次关机休眠都有巨大的写入](https://www.v2ex.com/t/895813) 
 - [【V2EX】2022-11-16-你们在哪里买的-appletv-呀，推荐推荐呗](https://www.v2ex.com/t/895812) 
 - [【V2EX】2022-11-16-mbp-单指重按-search-在-Safari-里失效了](https://www.v2ex.com/t/895811) 
 - [【V2EX】2022-11-16-在线代码编辑器-Runcode-2.0](https://www.v2ex.com/t/895809) 
@@ -105,7 +106,6 @@
 - [【V2EX】2022-11-16-技术选择，求各位指条明路](https://www.v2ex.com/t/895769) 
 - [【V2EX】2022-11-16-求推荐一款蓝牙音响](https://www.v2ex.com/t/895767) 
 - [【V2EX】2022-11-16-收搬瓦工的-vps，各种套餐都可以。](https://www.v2ex.com/t/895766) 
-- [【V2EX】2022-11-16-坐标法国-家宽给了一个公网-IP-怎么利用？](https://www.v2ex.com/t/895763) 
 - [【技术头条】2022-11-16-团队的Code-Review实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15409&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-code-review%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-16-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-16-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

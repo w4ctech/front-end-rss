@@ -9953,6 +9953,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "如何减少 pd 虚拟机硬盘写入，每次关机休眠都有巨大的写入",
+        "link": "https://www.v2ex.com/t/895813",
+        "date": "2022-11-16"
+      },
+      {
         "title": "你们在哪里买的 appletv 呀，推荐推荐呗",
         "link": "https://www.v2ex.com/t/895812",
         "date": "2022-11-16"
@@ -10125,11 +10130,6 @@
       {
         "title": "收搬瓦工的 vps，各种套餐都可以。",
         "link": "https://www.v2ex.com/t/895766",
-        "date": "2022-11-16"
-      },
-      {
-        "title": "坐标法国 家宽给了一个公网 IP 怎么利用？",
-        "link": "https://www.v2ex.com/t/895763",
         "date": "2022-11-16"
       }
     ]

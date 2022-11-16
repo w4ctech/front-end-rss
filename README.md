@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-16 11:35:25，:rocket: 更新条数: +2014， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-16 12:23:47，:rocket: 更新条数: +2013， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-11-16-计算机大佬在哪里？](https://www.v2ex.com/t/895775) ![](assets/new.png)  
+- [2022-11-16-自建-bark-server-用于安卓转发短信到-iPhone](https://www.v2ex.com/t/895773) ![](assets/new.png)  
+- [2022-11-16-有没有住惠南这边的朋友，求加个微信好友，想在这边租房子](https://www.v2ex.com/t/895772) ![](assets/new.png)  
+- [2022-11-16-请教大家一个关于命令的执行结果在-fish-和-bash-有差异的问题](https://www.v2ex.com/t/895771) ![](assets/new.png)  
+- [2022-11-16-openwrt-的-dns-配置无效](https://www.v2ex.com/t/895770) ![](assets/new.png)  
+- [2022-11-16-技术选择，求各位指条明路](https://www.v2ex.com/t/895769) ![](assets/new.png)  
 - [2022-11-16-求推荐一款蓝牙音响](https://www.v2ex.com/t/895767) ![](assets/new.png)  
 - [2022-11-16-收搬瓦工的-vps，各种套餐都可以。](https://www.v2ex.com/t/895766) ![](assets/new.png)  
 - [2022-11-16-坐标法国-家宽给了一个公网-IP-怎么利用？](https://www.v2ex.com/t/895763) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-11-16-请教下关于-git-的工作流](https://www.v2ex.com/t/895754) ![](assets/new.png)  
 - [2022-11-16-给图床添加了随机获取展示图片功能](https://www.v2ex.com/t/895753) ![](assets/new.png)  
 - [2022-11-16-我想自荐我参与的开源项目，老哥们，可以么？](https://www.v2ex.com/t/895752) ![](assets/new.png)  
-- [2022-11-16-求推荐“出国”方便快捷的路由器](https://www.v2ex.com/t/895748) ![](assets/new.png)  
-- [2022-11-16-YouTube-涨价了，-Google-One-有没有涨价？](https://www.v2ex.com/t/895747) ![](assets/new.png)  
-- [2022-11-16-数仓-OR-后端](https://www.v2ex.com/t/895745) ![](assets/new.png)  
-- [2022-11-16-那些非顶级的高级大佬，比如马云马化腾，到底是如何保证自己的个人信息和通信安全的](https://www.v2ex.com/t/895744) ![](assets/new.png)  
-- [2022-11-16-Macos-多桌面的一个小问题](https://www.v2ex.com/t/895743) ![](assets/new.png)  
-- [2022-11-16-一起来创建讨论组吧](https://www.v2ex.com/t/895742) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -554,13 +554,13 @@
 - [2022-11-16-数据治理领域最容易混淆的-16-组术语概念辨析](https://toutiao.io/k/i3o33pw) ![](assets/new.png)  
 - [2022-11-16-前端测试体系和最佳实践](https://toutiao.io/k/lzi73y5) ![](assets/new.png)  
 - [2022-11-16-一文读懂-Linux-系统平均负载](https://toutiao.io/k/plr01rv) ![](assets/new.png)  
-- [2022-11-16-RAII：如何编写没有内存泄漏的代码-with-C++](https://toutiao.io/k/35tk8rr) ![](assets/new.png)  
 - [2022-11-16-你应该知道的-LightGBM-各种操作](https://toutiao.io/k/hxvmbb4) ![](assets/new.png)  
+- [2022-11-16-RAII：如何编写没有内存泄漏的代码-with-C++](https://toutiao.io/k/35tk8rr) ![](assets/new.png)  
 - [2022-11-16-宫敏把自由软件和-Linux-带回中国](https://toutiao.io/k/2986z48) ![](assets/new.png)  
 - [2022-11-16-不优雅的-React-Hooks](https://toutiao.io/k/ubjl15v) ![](assets/new.png)  
 - [2022-11-16-分页-+-模糊查询-有坑！](https://toutiao.io/k/zemd1zf) ![](assets/new.png)  
-- [2022-11-16-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) ![](assets/new.png)  
 - [2022-11-16-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) ![](assets/new.png)  
+- [2022-11-16-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

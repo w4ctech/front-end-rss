@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-16 11:35:25。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-16 12:23:47。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,12 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-16-计算机大佬在哪里？](https://www.v2ex.com/t/895775) 
+- [【V2EX】2022-11-16-自建-bark-server-用于安卓转发短信到-iPhone](https://www.v2ex.com/t/895773) 
+- [【V2EX】2022-11-16-有没有住惠南这边的朋友，求加个微信好友，想在这边租房子](https://www.v2ex.com/t/895772) 
+- [【V2EX】2022-11-16-请教大家一个关于命令的执行结果在-fish-和-bash-有差异的问题](https://www.v2ex.com/t/895771) 
+- [【V2EX】2022-11-16-openwrt-的-dns-配置无效](https://www.v2ex.com/t/895770) 
+- [【V2EX】2022-11-16-技术选择，求各位指条明路](https://www.v2ex.com/t/895769) 
 - [【V2EX】2022-11-16-求推荐一款蓝牙音响](https://www.v2ex.com/t/895767) 
 - [【V2EX】2022-11-16-收搬瓦工的-vps，各种套餐都可以。](https://www.v2ex.com/t/895766) 
 - [【V2EX】2022-11-16-坐标法国-家宽给了一个公网-IP-怎么利用？](https://www.v2ex.com/t/895763) 
@@ -103,13 +109,6 @@
 - [【V2EX】2022-11-16-20-款-iPad-Pro-换了-21-款-iPad-Pro，感觉提升不大](https://www.v2ex.com/t/895728) 
 - [【V2EX】2022-11-16-Wild-Chicken-University-是怎么拿到波兰的教育网域名的](https://www.v2ex.com/t/895727) 
 - [【V2EX】2022-11-16-scratch-也有硬件么？](https://www.v2ex.com/t/895726) 
-- [【V2EX】2022-11-16-招个-flutter-开发](https://www.v2ex.com/t/895725) 
-- [【V2EX】2022-11-16-18-款-MBP-13-寸-升-Ventura-的都怎么样了？](https://www.v2ex.com/t/895724) 
-- [【V2EX】2022-11-16-如何让-Openclash-直连指定国外网址时不经过内核？](https://www.v2ex.com/t/895723) 
-- [【V2EX】2022-11-16-Ventura-播放在线视频时视频内容旋转的-bug](https://www.v2ex.com/t/895722) 
-- [【V2EX】2022-11-16-大家冬天爱吃果冻橙么？](https://www.v2ex.com/t/895721) 
-- [【V2EX】2022-11-16-请问国内-iphone13-怎么才可以玩国外-tiktok](https://www.v2ex.com/t/895719) 
-- [【V2EX】2022-11-16-Arc-浏览器-有人想体验的不,-有-macOS-的包](https://www.v2ex.com/t/895718) 
 - [【技术头条】2022-11-16-团队的Code-Review实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15409&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-code-review%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-16-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-16-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -131,13 +130,13 @@
 - [【开发者头条】2022-11-16-数据治理领域最容易混淆的-16-组术语概念辨析](https://toutiao.io/k/i3o33pw) 
 - [【开发者头条】2022-11-16-前端测试体系和最佳实践](https://toutiao.io/k/lzi73y5) 
 - [【开发者头条】2022-11-16-一文读懂-Linux-系统平均负载](https://toutiao.io/k/plr01rv) 
-- [【开发者头条】2022-11-16-RAII：如何编写没有内存泄漏的代码-with-C++](https://toutiao.io/k/35tk8rr) 
 - [【开发者头条】2022-11-16-你应该知道的-LightGBM-各种操作](https://toutiao.io/k/hxvmbb4) 
+- [【开发者头条】2022-11-16-RAII：如何编写没有内存泄漏的代码-with-C++](https://toutiao.io/k/35tk8rr) 
 - [【开发者头条】2022-11-16-宫敏把自由软件和-Linux-带回中国](https://toutiao.io/k/2986z48) 
 - [【开发者头条】2022-11-16-不优雅的-React-Hooks](https://toutiao.io/k/ubjl15v) 
 - [【开发者头条】2022-11-16-分页-+-模糊查询-有坑！](https://toutiao.io/k/zemd1zf) 
-- [【开发者头条】2022-11-16-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) 
 - [【开发者头条】2022-11-16-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) 
+- [【开发者头条】2022-11-16-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

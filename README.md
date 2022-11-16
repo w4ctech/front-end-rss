@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-16 04:49:31，:rocket: 更新条数: +2010， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-16 05:11:45，:rocket: 更新条数: +2008， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-11-16-RSS3-is-Looking-for-a-DBA/DevOps-Developer](https://www.v2ex.com/t/895648) ![](assets/new.png)  
 - [2022-11-16-吐槽！-Gitlab-使用中的代码下载新方式](https://www.v2ex.com/t/895647) ![](assets/new.png)  
 - [2022-11-16-大家什么时候喝咖啡](https://www.v2ex.com/t/895646) ![](assets/new.png)  
 - [2022-11-16-那个被封的在线思维导图，还没死](https://www.v2ex.com/t/895645) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-11-16-独立作品-随风天气-个性化场景天气](https://www.v2ex.com/t/895625) ![](assets/new.png)  
 - [2022-11-16-iPhone-有啥支持-SSL-FTP-的-App-客户端？](https://www.v2ex.com/t/895623) ![](assets/new.png)  
 - [2022-11-16-特别关注用户后，可以获得用户的主题列表](https://www.v2ex.com/t/895622) ![](assets/new.png)  
-- [2022-11-16-求推荐一张好用的流量卡](https://www.v2ex.com/t/895621) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

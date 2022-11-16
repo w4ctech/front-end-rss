@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-16 09:38:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-16 10:14:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1917,6 +1917,11 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-11-16-这个新闻把我整笑了](https://www.v2ex.com/t/895750) 
+- [2022-11-16-YouTube-涨价了，-Google-One-有没有涨价？](https://www.v2ex.com/t/895747) 
+- [2022-11-16-数仓-OR-后端](https://www.v2ex.com/t/895745) 
+- [2022-11-16-Macos-多桌面的一个小问题](https://www.v2ex.com/t/895743) 
+- [2022-11-16-一起来创建讨论组吧](https://www.v2ex.com/t/895742) 
 - [2022-11-16-必须说一下我曾经的垃圾老板，公司所有人都在喷他](https://www.v2ex.com/t/895740) 
 - [2022-11-16-玩玩云电脑？阿里云无影云桌面免费领取-不限新老用户](https://www.v2ex.com/t/895739) 
 - [2022-11-16-阿里云轻量服务器被墙了](https://www.v2ex.com/t/895737) 
@@ -1938,10 +1943,6 @@
 - [2022-11-16-百度等其他搜寻引擎爬虫爬取的网页原始码是?](https://www.v2ex.com/t/895710) 
 - [2022-11-16-类似上号神器的网站功能](https://www.v2ex.com/t/895708) 
 - [2022-11-16-初次使用-USDT、BTC-收款，有什么要注意的？](https://www.v2ex.com/t/895704) 
-- [2022-11-16-不用关键词也能精准搜索，新-AI-搜索引擎火了](https://www.v2ex.com/t/895699) 
-- [2022-11-16-有什么好用的英译英的软件](https://www.v2ex.com/t/895698) 
-- [2022-11-16-科技偏执狂-这些计算机相关的图标你认识哪些？](https://www.v2ex.com/t/895696) 
-- [2022-11-16-撸羊毛补仓，年底券商为-KPI，开户返现，-200-一户，每人都可以，不限制超过-3-户也可以](https://www.v2ex.com/t/895692) 
 - [2022-11-16-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-16-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-16-以综合指数观察和评价研发效能的趋势-link.zhihu.com](https://blogread.cn/news/go.php?idItem=15406&url=https%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttps%253A%2F%2Finsights.thoughtworks.cn%2Fobserving-evaluating-research-development-efficiency-trend%2F%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1955,8 +1956,8 @@
 - [2022-11-16-Python-和-Excel-的完美结合：常用操作汇总（案例详析）](https://toutiao.io/k/5xo78v5) 
 - [2022-11-16-打脸了兄弟们，Go1.20-arena-来了！](https://toutiao.io/k/mkyiajy) 
 - [2022-11-16-Go-map-竟然也会发生内存泄漏？](https://toutiao.io/k/8jkv6h4) 
-- [2022-11-16-数据治理领域最容易混淆的-16-组术语概念辨析](https://toutiao.io/k/i3o33pw) 
 - [2022-11-16-如何设计一个优惠券系统](https://toutiao.io/k/l16cyqr) 
+- [2022-11-16-数据治理领域最容易混淆的-16-组术语概念辨析](https://toutiao.io/k/i3o33pw) 
 - [2022-11-16-前端测试体系和最佳实践](https://toutiao.io/k/lzi73y5) 
 - [2022-11-16-一文读懂-Linux-系统平均负载](https://toutiao.io/k/plr01rv) 
 - [2022-11-16-RAII：如何编写没有内存泄漏的代码-with-C++](https://toutiao.io/k/35tk8rr) 

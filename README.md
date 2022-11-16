@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-16 09:38:54，:rocket: 更新条数: +2010， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-16 10:14:17，:rocket: 更新条数: +2011， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,13 @@
 </summary>
 
 
+- [2022-11-16-这个新闻把我整笑了](https://www.v2ex.com/t/895750) ![](assets/new.png)  
+- [2022-11-16-求推荐“出国”方便快捷的路由器](https://www.v2ex.com/t/895748) ![](assets/new.png)  
+- [2022-11-16-YouTube-涨价了，-Google-One-有没有涨价？](https://www.v2ex.com/t/895747) ![](assets/new.png)  
+- [2022-11-16-数仓-OR-后端](https://www.v2ex.com/t/895745) ![](assets/new.png)  
+- [2022-11-16-那些非顶级的高级大佬，比如马云马化腾，到底是如何保证自己的个人信息和通信安全的](https://www.v2ex.com/t/895744) ![](assets/new.png)  
+- [2022-11-16-Macos-多桌面的一个小问题](https://www.v2ex.com/t/895743) ![](assets/new.png)  
+- [2022-11-16-一起来创建讨论组吧](https://www.v2ex.com/t/895742) ![](assets/new.png)  
 - [2022-11-16-个人对游戏的理解，想知道大多数人是如何看的](https://www.v2ex.com/t/895741) ![](assets/new.png)  
 - [2022-11-16-必须说一下我曾经的垃圾老板，公司所有人都在喷他](https://www.v2ex.com/t/895740) ![](assets/new.png)  
 - [2022-11-16-玩玩云电脑？阿里云无影云桌面免费领取-不限新老用户](https://www.v2ex.com/t/895739) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-11-16-20-款-iPad-Pro-换了-21-款-iPad-Pro，感觉提升不大](https://www.v2ex.com/t/895728) ![](assets/new.png)  
 - [2022-11-16-Wild-Chicken-University-是怎么拿到波兰的教育网域名的](https://www.v2ex.com/t/895727) ![](assets/new.png)  
 - [2022-11-16-scratch-也有硬件么？](https://www.v2ex.com/t/895726) ![](assets/new.png)  
-- [2022-11-16-招个-flutter-开发](https://www.v2ex.com/t/895725) ![](assets/new.png)  
-- [2022-11-16-18-款-MBP-13-寸-升-Ventura-的都怎么样了？](https://www.v2ex.com/t/895724) ![](assets/new.png)  
-- [2022-11-16-如何让-Openclash-直连指定国外网址时不经过内核？](https://www.v2ex.com/t/895723) ![](assets/new.png)  
-- [2022-11-16-Ventura-播放在线视频时视频内容旋转的-bug](https://www.v2ex.com/t/895722) ![](assets/new.png)  
-- [2022-11-16-大家冬天爱吃果冻橙么？](https://www.v2ex.com/t/895721) ![](assets/new.png)  
-- [2022-11-16-请问国内-iphone13-怎么才可以玩国外-tiktok](https://www.v2ex.com/t/895719) ![](assets/new.png)  
-- [2022-11-16-Arc-浏览器-有人想体验的不,-有-macOS-的包](https://www.v2ex.com/t/895718) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -549,9 +549,9 @@
 - [2022-11-16-直播-CDN-调度技术关键挑战与架构设计](https://toutiao.io/k/2x5rdpo) ![](assets/new.png)  
 - [2022-11-16-打脸了兄弟们，Go1.20-arena-来了！](https://toutiao.io/k/mkyiajy) ![](assets/new.png)  
 - [2022-11-16-Go-map-竟然也会发生内存泄漏？](https://toutiao.io/k/8jkv6h4) ![](assets/new.png)  
+- [2022-11-16-如何设计一个优惠券系统](https://toutiao.io/k/l16cyqr) ![](assets/new.png)  
 - [2022-11-16-用-Bevy/Rust-写个小游戏](https://toutiao.io/k/vhb7ptk) ![](assets/new.png)  
 - [2022-11-16-数据治理领域最容易混淆的-16-组术语概念辨析](https://toutiao.io/k/i3o33pw) ![](assets/new.png)  
-- [2022-11-16-如何设计一个优惠券系统](https://toutiao.io/k/l16cyqr) ![](assets/new.png)  
 - [2022-11-16-前端测试体系和最佳实践](https://toutiao.io/k/lzi73y5) ![](assets/new.png)  
 - [2022-11-16-一文读懂-Linux-系统平均负载](https://toutiao.io/k/plr01rv) ![](assets/new.png)  
 - [2022-11-16-RAII：如何编写没有内存泄漏的代码-with-C++](https://toutiao.io/k/35tk8rr) ![](assets/new.png)  

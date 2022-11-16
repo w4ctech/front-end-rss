@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-16 09:38:55。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-16 10:14:17。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,13 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-16-这个新闻把我整笑了](https://www.v2ex.com/t/895750) 
+- [【V2EX】2022-11-16-求推荐“出国”方便快捷的路由器](https://www.v2ex.com/t/895748) 
+- [【V2EX】2022-11-16-YouTube-涨价了，-Google-One-有没有涨价？](https://www.v2ex.com/t/895747) 
+- [【V2EX】2022-11-16-数仓-OR-后端](https://www.v2ex.com/t/895745) 
+- [【V2EX】2022-11-16-那些非顶级的高级大佬，比如马云马化腾，到底是如何保证自己的个人信息和通信安全的](https://www.v2ex.com/t/895744) 
+- [【V2EX】2022-11-16-Macos-多桌面的一个小问题](https://www.v2ex.com/t/895743) 
+- [【V2EX】2022-11-16-一起来创建讨论组吧](https://www.v2ex.com/t/895742) 
 - [【V2EX】2022-11-16-个人对游戏的理解，想知道大多数人是如何看的](https://www.v2ex.com/t/895741) 
 - [【V2EX】2022-11-16-必须说一下我曾经的垃圾老板，公司所有人都在喷他](https://www.v2ex.com/t/895740) 
 - [【V2EX】2022-11-16-玩玩云电脑？阿里云无影云桌面免费领取-不限新老用户](https://www.v2ex.com/t/895739) 
@@ -100,12 +107,6 @@
 - [【V2EX】2022-11-16-类似上号神器的网站功能](https://www.v2ex.com/t/895708) 
 - [【V2EX】2022-11-16-初次使用-USDT、BTC-收款，有什么要注意的？](https://www.v2ex.com/t/895704) 
 - [【V2EX】2022-11-16-北京/上海/杭州iOS/Android西瓜视频业务社招，-HC-真实](https://www.v2ex.com/t/895701) 
-- [【V2EX】2022-11-16-游戏里的发生了冲突，-v-友怎么看](https://www.v2ex.com/t/895700) 
-- [【V2EX】2022-11-16-不用关键词也能精准搜索，新-AI-搜索引擎火了](https://www.v2ex.com/t/895699) 
-- [【V2EX】2022-11-16-有什么好用的英译英的软件](https://www.v2ex.com/t/895698) 
-- [【V2EX】2022-11-16-科技偏执狂-这些计算机相关的图标你认识哪些？](https://www.v2ex.com/t/895696) 
-- [【V2EX】2022-11-16-Tencent-腾讯游戏测试岗位招聘（当前已在新加坡本地工作者）](https://www.v2ex.com/t/895694) 
-- [【V2EX】2022-11-16-撸羊毛补仓，年底券商为-KPI，开户返现，-200-一户，每人都可以，不限制超过-3-户也可以](https://www.v2ex.com/t/895692) 
 - [【技术头条】2022-11-16-团队的Code-Review实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15409&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-code-review%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-16-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-16-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -122,9 +123,9 @@
 - [【开发者头条】2022-11-16-直播-CDN-调度技术关键挑战与架构设计](https://toutiao.io/k/2x5rdpo) 
 - [【开发者头条】2022-11-16-打脸了兄弟们，Go1.20-arena-来了！](https://toutiao.io/k/mkyiajy) 
 - [【开发者头条】2022-11-16-Go-map-竟然也会发生内存泄漏？](https://toutiao.io/k/8jkv6h4) 
+- [【开发者头条】2022-11-16-如何设计一个优惠券系统](https://toutiao.io/k/l16cyqr) 
 - [【开发者头条】2022-11-16-用-Bevy/Rust-写个小游戏](https://toutiao.io/k/vhb7ptk) 
 - [【开发者头条】2022-11-16-数据治理领域最容易混淆的-16-组术语概念辨析](https://toutiao.io/k/i3o33pw) 
-- [【开发者头条】2022-11-16-如何设计一个优惠券系统](https://toutiao.io/k/l16cyqr) 
 - [【开发者头条】2022-11-16-前端测试体系和最佳实践](https://toutiao.io/k/lzi73y5) 
 - [【开发者头条】2022-11-16-一文读懂-Linux-系统平均负载](https://toutiao.io/k/plr01rv) 
 - [【开发者头条】2022-11-16-RAII：如何编写没有内存泄漏的代码-with-C++](https://toutiao.io/k/35tk8rr) 

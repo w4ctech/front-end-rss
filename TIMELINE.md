@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-16 12:23:47。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-16 13:08:36。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,12 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-16-OpenWrt-导致小米音响网络连接失败，帮忙分析下可能是什么原因](https://www.v2ex.com/t/895783) 
+- [【V2EX】2022-11-16-群晖-DS923+，这-CPU-属于反向升级吗？](https://www.v2ex.com/t/895782) 
+- [【V2EX】2022-11-16-如何优雅地同时改动多个代码仓库的一些文件？](https://www.v2ex.com/t/895781) 
+- [【V2EX】2022-11-16-另辟蹊径：绕开-DRM-远程串流-Netflix](https://www.v2ex.com/t/895778) 
+- [【V2EX】2022-11-16-找了一个多月的工作，只收到一个不满意的-offer](https://www.v2ex.com/t/895777) 
+- [【V2EX】2022-11-16-蔚来-ET7-刚拿到本年德国最佳车型，现在-ENCAP-成绩也出来了](https://www.v2ex.com/t/895776) 
 - [【V2EX】2022-11-16-计算机大佬在哪里？](https://www.v2ex.com/t/895775) 
 - [【V2EX】2022-11-16-自建-bark-server-用于安卓转发短信到-iPhone](https://www.v2ex.com/t/895773) 
 - [【V2EX】2022-11-16-有没有住惠南这边的朋友，求加个微信好友，想在这边租房子](https://www.v2ex.com/t/895772) 
@@ -102,13 +108,6 @@
 - [【V2EX】2022-11-16-准备当爹了，要开始学习怎么当爹，有推荐的视频或书籍吗？](https://www.v2ex.com/t/895738) 
 - [【V2EX】2022-11-16-阿里云轻量服务器被墙了](https://www.v2ex.com/t/895737) 
 - [【V2EX】2022-11-16-机动车-刹车-的国标是-0.24g-以上制动减速度，折合百码刹停距离是？](https://www.v2ex.com/t/895735) 
-- [【V2EX】2022-11-16-TestFlight-app-测试新鲜上架：检查单小帮手，方便你的就医后生活](https://www.v2ex.com/t/895734) 
-- [【V2EX】2022-11-16-十年程序员难到了一个正则上面](https://www.v2ex.com/t/895733) 
-- [【V2EX】2022-11-16-欧洲外企（甲方）-上海招聘：-Java-Manager/-Java-Expert-，-8-年左右工作经验，英语口语流利，薪水-60-70W](https://www.v2ex.com/t/895730) 
-- [【V2EX】2022-11-16-2022-年，-AppStore-现在是否还有途径方式试用-APP？（没有-Lite-版的-APP）](https://www.v2ex.com/t/895729) 
-- [【V2EX】2022-11-16-20-款-iPad-Pro-换了-21-款-iPad-Pro，感觉提升不大](https://www.v2ex.com/t/895728) 
-- [【V2EX】2022-11-16-Wild-Chicken-University-是怎么拿到波兰的教育网域名的](https://www.v2ex.com/t/895727) 
-- [【V2EX】2022-11-16-scratch-也有硬件么？](https://www.v2ex.com/t/895726) 
 - [【技术头条】2022-11-16-团队的Code-Review实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15409&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-code-review%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-16-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-16-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -122,8 +121,8 @@
 - [【开发者头条】2022-11-16-一条-SQL-查询语句是如何执行的？](https://toutiao.io/k/8y71vds) 
 - [【开发者头条】2022-11-16-聊聊分布式-ID](https://toutiao.io/k/daqde60) 
 - [【开发者头条】2022-11-16-Python-和-Excel-的完美结合：常用操作汇总（案例详析）](https://toutiao.io/k/5xo78v5) 
-- [【开发者头条】2022-11-16-直播-CDN-调度技术关键挑战与架构设计](https://toutiao.io/k/2x5rdpo) 
 - [【开发者头条】2022-11-16-Go-map-竟然也会发生内存泄漏？](https://toutiao.io/k/8jkv6h4) 
+- [【开发者头条】2022-11-16-直播-CDN-调度技术关键挑战与架构设计](https://toutiao.io/k/2x5rdpo) 
 - [【开发者头条】2022-11-16-如何设计一个优惠券系统](https://toutiao.io/k/l16cyqr) 
 - [【开发者头条】2022-11-16-打脸了兄弟们，Go1.20-arena-来了！](https://toutiao.io/k/mkyiajy) 
 - [【开发者头条】2022-11-16-用-Bevy/Rust-写个小游戏](https://toutiao.io/k/vhb7ptk) 

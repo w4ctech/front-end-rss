@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-16 09:12:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-16 09:38:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1917,6 +1917,8 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-11-16-必须说一下我曾经的垃圾老板，公司所有人都在喷他](https://www.v2ex.com/t/895740) 
+- [2022-11-16-玩玩云电脑？阿里云无影云桌面免费领取-不限新老用户](https://www.v2ex.com/t/895739) 
 - [2022-11-16-阿里云轻量服务器被墙了](https://www.v2ex.com/t/895737) 
 - [2022-11-16-机动车-刹车-的国标是-0.24g-以上制动减速度，折合百码刹停距离是？](https://www.v2ex.com/t/895735) 
 - [2022-11-16-TestFlight-app-测试新鲜上架：检查单小帮手，方便你的就医后生活](https://www.v2ex.com/t/895734) 
@@ -1940,8 +1942,6 @@
 - [2022-11-16-有什么好用的英译英的软件](https://www.v2ex.com/t/895698) 
 - [2022-11-16-科技偏执狂-这些计算机相关的图标你认识哪些？](https://www.v2ex.com/t/895696) 
 - [2022-11-16-撸羊毛补仓，年底券商为-KPI，开户返现，-200-一户，每人都可以，不限制超过-3-户也可以](https://www.v2ex.com/t/895692) 
-- [2022-11-16-tor-下载-Zliabrary-老是断咋办](https://www.v2ex.com/t/895690) 
-- [2022-11-16-我好难受-win11](https://www.v2ex.com/t/895689) 
 - [2022-11-16-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-16-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-16-以综合指数观察和评价研发效能的趋势-link.zhihu.com](https://blogread.cn/news/go.php?idItem=15406&url=https%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttps%253A%2F%2Finsights.thoughtworks.cn%2Fobserving-evaluating-research-development-efficiency-trend%2F%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

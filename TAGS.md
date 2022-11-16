@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-11-16 09:12:53。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-16 09:38:55。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -155,6 +155,7 @@
 
 
 
+- [【V2EX】个人对游戏的理解，想知道大多数人是如何看的](https://www.v2ex.com/t/895741)
 - [【V2EX】游戏里的发生了冲突，-v-友怎么看](https://www.v2ex.com/t/895700)
 - [【V2EX】Tencent-腾讯游戏测试岗位招聘（当前已在新加坡本地工作者）](https://www.v2ex.com/t/895694)
 - [【开发者头条】用-Bevy/Rust-写个小游戏](https://toutiao.io/k/vhb7ptk)

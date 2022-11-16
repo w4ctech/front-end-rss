@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-16 09:12:53。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-16 09:38:55。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,9 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-16-个人对游戏的理解，想知道大多数人是如何看的](https://www.v2ex.com/t/895741) 
+- [【V2EX】2022-11-16-必须说一下我曾经的垃圾老板，公司所有人都在喷他](https://www.v2ex.com/t/895740) 
+- [【V2EX】2022-11-16-玩玩云电脑？阿里云无影云桌面免费领取-不限新老用户](https://www.v2ex.com/t/895739) 
 - [【V2EX】2022-11-16-准备当爹了，要开始学习怎么当爹，有推荐的视频或书籍吗？](https://www.v2ex.com/t/895738) 
 - [【V2EX】2022-11-16-阿里云轻量服务器被墙了](https://www.v2ex.com/t/895737) 
 - [【V2EX】2022-11-16-机动车-刹车-的国标是-0.24g-以上制动减速度，折合百码刹停距离是？](https://www.v2ex.com/t/895735) 
@@ -103,8 +106,6 @@
 - [【V2EX】2022-11-16-科技偏执狂-这些计算机相关的图标你认识哪些？](https://www.v2ex.com/t/895696) 
 - [【V2EX】2022-11-16-Tencent-腾讯游戏测试岗位招聘（当前已在新加坡本地工作者）](https://www.v2ex.com/t/895694) 
 - [【V2EX】2022-11-16-撸羊毛补仓，年底券商为-KPI，开户返现，-200-一户，每人都可以，不限制超过-3-户也可以](https://www.v2ex.com/t/895692) 
-- [【V2EX】2022-11-16-tor-下载-Zliabrary-老是断咋办](https://www.v2ex.com/t/895690) 
-- [【V2EX】2022-11-16-我好难受-win11](https://www.v2ex.com/t/895689) 
 - [【技术头条】2022-11-16-团队的Code-Review实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15409&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-code-review%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-16-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-16-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

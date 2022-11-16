@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-11-16 20:38:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-16 21:11:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-11-16-今年的-O'Reilly-的-Cyber-Monday-活动已经开始了，-40off-港币-2145-即可入手！](https://www.v2ex.com/t/895818) 
 - [2022-11-16-点评一下-Notion-AI?](https://www.v2ex.com/t/895817) 
 - [2022-11-16-20221117-午夜俱乐部](https://www.v2ex.com/t/895816) 
 - [2022-11-16-关于宫崎骏先生的那些情诗](https://www.v2ex.com/t/895815) 

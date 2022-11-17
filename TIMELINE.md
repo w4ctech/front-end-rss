@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-17 16:17:36。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-17 16:53:45。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,9 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-17-在亚马逊中国实习快结束了，中文客服岗位](https://www.v2ex.com/t/896076) 
+- [【V2EX】2022-11-17-#-0x01-Kustz-简介和思路](https://www.v2ex.com/t/896075) 
+- [【V2EX】2022-11-17-现在有没有对-Linux-系统友好的-ARM-笔记本推荐的？](https://www.v2ex.com/t/896074) 
 - [【V2EX】2022-11-17-iOS-快捷指令中自动化和-Android-使用体验](https://www.v2ex.com/t/896073) 
 - [【V2EX】2022-11-17-询问关于外企公司对于英语证书的认可度，-托福还是雅思？](https://www.v2ex.com/t/896072) 
 - [【V2EX】2022-11-17-上海电信，居然开了-80-和-443-端口？](https://www.v2ex.com/t/896071) 
@@ -105,8 +108,6 @@
 - [【V2EX】2022-11-17-今天面试了一个低代码开发的公司，我应该去吗](https://www.v2ex.com/t/896030) 
 - [【V2EX】2022-11-17-第一次海淘，寻求建议](https://www.v2ex.com/t/896028) 
 - [【V2EX】2022-11-17-Z-library-founders-arrested-in-Argentina](https://www.v2ex.com/t/896027) 
-- [【V2EX】2022-11-17-群晖是怎么做到通过网页扫描内网所有群晖设备的？不会被浏览器同源策略拦截吗？随便一个网页都能随意访问内网是不是很不安全，-pian-用户点一个网页就能进内网扫...](https://www.v2ex.com/t/896025) 
-- [【V2EX】2022-11-17-淘宝购买的-Adobe-订阅被骗了](https://www.v2ex.com/t/896024) 
 - [【技术头条】2022-11-17-团队的Code-Review实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15409&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-code-review%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-17-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-17-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

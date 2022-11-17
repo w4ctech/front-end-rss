@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-17 16:17:36，:rocket: 更新条数: +2009， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-17 16:53:45，:rocket: 更新条数: +2010， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-11-17-在亚马逊中国实习快结束了，中文客服岗位](https://www.v2ex.com/t/896076) ![](assets/new.png)  
+- [2022-11-17-#-0x01-Kustz-简介和思路](https://www.v2ex.com/t/896075) ![](assets/new.png)  
+- [2022-11-17-现在有没有对-Linux-系统友好的-ARM-笔记本推荐的？](https://www.v2ex.com/t/896074) ![](assets/new.png)  
 - [2022-11-17-iOS-快捷指令中自动化和-Android-使用体验](https://www.v2ex.com/t/896073) ![](assets/new.png)  
 - [2022-11-17-询问关于外企公司对于英语证书的认可度，-托福还是雅思？](https://www.v2ex.com/t/896072) ![](assets/new.png)  
 - [2022-11-17-上海电信，居然开了-80-和-443-端口？](https://www.v2ex.com/t/896071) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-11-17-IINA-播放-IPTV-一直卡顿](https://www.v2ex.com/t/896055) ![](assets/new.png)  
 - [2022-11-17-做了个世界杯胜负概率预测的网站](https://www.v2ex.com/t/896054) ![](assets/new.png)  
 - [2022-11-17-国产显卡要出了,有点小心动,不知道它这个-16G-显存算什么水平](https://www.v2ex.com/t/896053) ![](assets/new.png)  
-- [2022-11-17-7-ZIP-的选项有办法在-win11-中放在右键的第一页吗?](https://www.v2ex.com/t/896052) ![](assets/new.png)  
-- [2022-11-17-为什么移动宽带开启-IPV6-后，软路由和电脑总是会获取-2-个-IPV6-地址？](https://www.v2ex.com/t/896050) ![](assets/new.png)  
-- [2022-11-17-m1-macbookpro-偶发性-wifi-掉线？](https://www.v2ex.com/t/896049) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

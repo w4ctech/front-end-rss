@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-17 11:10:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-17 11:35:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1917,6 +1917,10 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-11-17-iPhone14-微信语音通话,-有时候前-10-秒左右没有声音](https://www.v2ex.com/t/896023) 
+- [2022-11-17-类似于-iOS-app-的-piiico-？](https://www.v2ex.com/t/896021) 
+- [2022-11-17-寻能接私活，开发一个基于-IPFS-的类推特的移动客户端的大佬](https://www.v2ex.com/t/896020) 
+- [2022-11-17-有值得推荐的纯音乐摇滚专辑嘛？](https://www.v2ex.com/t/896019) 
 - [2022-11-17-new-A.new-B这个是什么-Java-语法](https://www.v2ex.com/t/896017) 
 - [2022-11-17-求大佬推荐一个可以制作应用图标的软件](https://www.v2ex.com/t/896015) 
 - [2022-11-17-1688-买的-cpu-靠谱不，大家伙帮忙分析下](https://www.v2ex.com/t/896014) 
@@ -1950,10 +1954,6 @@
 - [2022-11-17-可以正常访问-google.com.hk-但是搜索引擎使用默认的-google.com-经常不能访问](https://www.v2ex.com/t/895978) 
 - [2022-11-17-想买腾讯轻量云的注意了，今天发现两个坑](https://www.v2ex.com/t/895977) 
 - [2022-11-17-公司项目里该不该夹带自己项目的代码？](https://www.v2ex.com/t/895975) 
-- [2022-11-17-Awesome-MegEngineer-英雄招募帖，开源社区专属权益等你来领](https://www.v2ex.com/t/895973) 
-- [2022-11-17-22-届三个月前端被裁，求上海或者南京的前端工作机会](https://www.v2ex.com/t/895972) 
-- [2022-11-17-Apple-TV-4K-2022-入手，自己感受的几个问题](https://www.v2ex.com/t/895971) 
-- [2022-11-17-丢一个搬瓦工的年费-29.9-美元的-路线，自己续费](https://www.v2ex.com/t/895969) 
 - [2022-11-17-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-17-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-17-以综合指数观察和评价研发效能的趋势-link.zhihu.com](https://blogread.cn/news/go.php?idItem=15406&url=https%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttps%253A%2F%2Finsights.thoughtworks.cn%2Fobserving-evaluating-research-development-efficiency-trend%2F%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1970,8 +1970,8 @@
 - [2022-11-17-分布式人工智能，未来大有可为！](https://toutiao.io/k/avzd35a) 
 - [2022-11-17-Rust-和-Cpp-互操作](https://toutiao.io/k/qzc6anb) 
 - [2022-11-17-清华大学：元宇宙发展研究报告-3.0-发布](https://toutiao.io/k/9xu4x35) 
-- [2022-11-17-干货｜数据湖技术在抖音近实时场景的实践](https://toutiao.io/k/e7255b8) 
 - [2022-11-17-Switchquery：移动端秒级配置触达平台](https://toutiao.io/k/7he3t4u) 
+- [2022-11-17-干货｜数据湖技术在抖音近实时场景的实践](https://toutiao.io/k/e7255b8) 
 - [2022-11-17-深入认识-SaaS-产品架构](https://toutiao.io/k/aqtccnz) 
 - [2022-11-17-攻防对抗-|-RASP-技术上的命令执行攻防探索](https://toutiao.io/k/w9uveog) 
 - [2022-11-17-软件开发实践之持续集成](https://toutiao.io/k/ridn585) 

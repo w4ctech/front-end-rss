@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-17 02:59:40，:rocket: 更新条数: +2015， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-17 03:43:05，:rocket: 更新条数: +2015， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,26 +491,26 @@
 </summary>
 
 
+- [2022-11-17-请教一下大家，现在还有那种业余兼职翻译相关的平台么](https://www.v2ex.com/t/895890) ![](assets/new.png)  
+- [2022-11-17-开个坑-kustz-快速发布应用到-Kubernetes](https://www.v2ex.com/t/895889) ![](assets/new.png)  
+- [2022-11-17-如何评价华为新提出的-arkTS-语言？](https://www.v2ex.com/t/895887) ![](assets/new.png)  
+- [2022-11-17-整理了一下潮州特斯拉车主及其儿子的发言](https://www.v2ex.com/t/895886) ![](assets/new.png)  
+- [2022-11-17-重演-9C？暴雪和网易的授权将不再续期。](https://www.v2ex.com/t/895884) ![](assets/new.png)  
+- [2022-11-17-电信诈骗当受凌迟之刑](https://www.v2ex.com/t/895883) ![](assets/new.png)  
+- [2022-11-17-纯讨论：外国那边有没有那种相关部门，相关人士的说法？](https://www.v2ex.com/t/895882) ![](assets/new.png)  
+- [2022-11-17-求助：-6-岁女孩晚上入睡很慢](https://www.v2ex.com/t/895881) ![](assets/new.png)  
+- [2022-11-17-centos-机器出现这个问题，应该如何排查修复！](https://www.v2ex.com/t/895880) ![](assets/new.png)  
+- [2022-11-17-啥？-2000-亿美元关税取消了？](https://www.v2ex.com/t/895879) ![](assets/new.png)  
+- [2022-11-17-请问有没有微信小程序能用的-vue-版的音频播放器?](https://www.v2ex.com/t/895878) ![](assets/new.png)  
+- [2022-11-17-求推荐个买茶叶的店](https://www.v2ex.com/t/895876) ![](assets/new.png)  
+- [2022-11-17-被外包的能力给吓到了](https://www.v2ex.com/t/895875) ![](assets/new.png)  
+- [2022-11-17-求一个解决方案，关于记录个人数据的笔记设备](https://www.v2ex.com/t/895874) ![](assets/new.png)  
 - [2022-11-17-看到-V-友发的流量卡帖子，我也来发发牢骚，联通运营商](https://www.v2ex.com/t/895872) ![](assets/new.png)  
 - [2022-11-17-可以在-HK、SG-节点的良心云上修建机场吗？](https://www.v2ex.com/t/895871) ![](assets/new.png)  
 - [2022-11-17-MacBook-主板烧了，维修后竟然无法恢复数据](https://www.v2ex.com/t/895870) ![](assets/new.png)  
 - [2022-11-17-为什么现在行情不好，明年行情会好吗？](https://www.v2ex.com/t/895868) ![](assets/new.png)  
 - [2022-11-17-M1-pro-14-寸-steam-有问题如何解决？](https://www.v2ex.com/t/895867) ![](assets/new.png)  
 - [2022-11-17-V2-有没有护眼色的主题背景](https://www.v2ex.com/t/895866) ![](assets/new.png)  
-- [2022-11-17-这么自私的人是怎么做到的](https://www.v2ex.com/t/895864) ![](assets/new.png)  
-- [2022-11-17-华为手机在-wifi-下仅能使用微信，无法打开网页](https://www.v2ex.com/t/895863) ![](assets/new.png)  
-- [2022-11-17-现在-WLK-怀旧服怎样能快速到-70-级](https://www.v2ex.com/t/895862) ![](assets/new.png)  
-- [2022-11-17-被一家-IDC-恶心到了](https://www.v2ex.com/t/895861) ![](assets/new.png)  
-- [2022-11-17-Python-中，-A-类的成员函数的参数类型是-A-类自身的时候，有什么办法能让类型提示不报错？](https://www.v2ex.com/t/895860) ![](assets/new.png)  
-- [2022-11-17-局域网内通过公网地址访问另一个设备是否要在公网走一圈？](https://www.v2ex.com/t/895858) ![](assets/new.png)  
-- [2022-11-17-求职上海-数据开发，现在还有机会吗？](https://www.v2ex.com/t/895857) ![](assets/new.png)  
-- [2022-11-17-Adobe-Premiere-如何导出-major_brand-是-isom-的-mp4-视频](https://www.v2ex.com/t/895856) ![](assets/new.png)  
-- [2022-11-17-美区-Apple-ID-和国区-Apple-ID-的区别？](https://www.v2ex.com/t/895855) ![](assets/new.png)  
-- [2022-11-17-insert-插入-js-代码出现语法错误,求指点.](https://www.v2ex.com/t/895854) ![](assets/new.png)  
-- [2022-11-17-IOS-文案类-APP，有兴趣的欢迎来体验使用!](https://www.v2ex.com/t/895853) ![](assets/new.png)  
-- [2022-11-17-mysql-混乱的时区](https://www.v2ex.com/t/895852) ![](assets/new.png)  
-- [2022-11-17-有台服务器，被安全策略强制开启自身防火墙，并且-deny-any，如何绕过这种限制？](https://www.v2ex.com/t/895851) ![](assets/new.png)  
-- [2022-11-17-有多少想润出商都的？](https://www.v2ex.com/t/895850) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

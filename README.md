@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-17 13:50:30，:rocket: 更新条数: +2012， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-17 14:12:03，:rocket: 更新条数: +2012， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-11-17-国产显卡要出了,有点小心动,不知道它这个-16G-显存算什么水平](https://www.v2ex.com/t/896053) ![](assets/new.png)  
+- [2022-11-17-7-ZIP-的选项有办法在-win11-中放在右键的第一页吗?](https://www.v2ex.com/t/896052) ![](assets/new.png)  
 - [2022-11-17-为什么移动宽带开启-IPV6-后，软路由和电脑总是会获取-2-个-IPV6-地址？](https://www.v2ex.com/t/896050) ![](assets/new.png)  
 - [2022-11-17-m1-macbookpro-偶发性-wifi-掉线？](https://www.v2ex.com/t/896049) ![](assets/new.png)  
 - [2022-11-17-用-iOS-的文件-APP-修改-OneDrive-中的文件后，不用打开-OneDrive-也能同步诶](https://www.v2ex.com/t/896048) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-11-17-今天面试了一个低代码开发的公司，我应该去吗](https://www.v2ex.com/t/896030) ![](assets/new.png)  
 - [2022-11-17-第一次海淘，寻求建议](https://www.v2ex.com/t/896028) ![](assets/new.png)  
 - [2022-11-17-Z-library-founders-arrested-in-Argentina](https://www.v2ex.com/t/896027) ![](assets/new.png)  
-- [2022-11-17-群晖是怎么做到通过网页扫描内网所有群晖设备的？不会被浏览器同源策略拦截吗？随便一个网页都能随意访问内网是不是很不安全，-pian-用户点一个网页就能进内网扫...](https://www.v2ex.com/t/896025) ![](assets/new.png)  
-- [2022-11-17-淘宝购买的-Adobe-订阅被骗了](https://www.v2ex.com/t/896024) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -558,8 +558,8 @@
 - [2022-11-17-深入认识-SaaS-产品架构](https://toutiao.io/k/aqtccnz) ![](assets/new.png)  
 - [2022-11-17-软件开发实践之持续集成](https://toutiao.io/k/ridn585) ![](assets/new.png)  
 - [2022-11-17-攻防对抗-|-RASP-技术上的命令执行攻防探索](https://toutiao.io/k/w9uveog) ![](assets/new.png)  
-- [2022-11-17-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) ![](assets/new.png)  
 - [2022-11-17-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) ![](assets/new.png)  
+- [2022-11-17-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

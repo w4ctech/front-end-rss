@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-17 13:50:30。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-17 14:12:03。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,8 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-17-国产显卡要出了,有点小心动,不知道它这个-16G-显存算什么水平](https://www.v2ex.com/t/896053) 
+- [【V2EX】2022-11-17-7-ZIP-的选项有办法在-win11-中放在右键的第一页吗?](https://www.v2ex.com/t/896052) 
 - [【V2EX】2022-11-17-为什么移动宽带开启-IPV6-后，软路由和电脑总是会获取-2-个-IPV6-地址？](https://www.v2ex.com/t/896050) 
 - [【V2EX】2022-11-17-m1-macbookpro-偶发性-wifi-掉线？](https://www.v2ex.com/t/896049) 
 - [【V2EX】2022-11-17-用-iOS-的文件-APP-修改-OneDrive-中的文件后，不用打开-OneDrive-也能同步诶](https://www.v2ex.com/t/896048) 
@@ -107,8 +109,6 @@
 - [【V2EX】2022-11-17-老板总是问我多少天能做完](https://www.v2ex.com/t/896006) 
 - [【V2EX】2022-11-17-用-Swift-写-CLI-遇到的问题](https://www.v2ex.com/t/896005) 
 - [【V2EX】2022-11-17-有没有做-iOS-开发的朋友，-iOS-的后台刷新真的有用吗？](https://www.v2ex.com/t/896004) 
-- [【V2EX】2022-11-17-听说-macOS-能让资源库（Library-文件夹）永久显示在“前往”菜单列表内？](https://www.v2ex.com/t/896003) 
-- [【V2EX】2022-11-17-论家庭普通网络如何低成本合法的优化外网访问速度](https://www.v2ex.com/t/896002) 
 - [【技术头条】2022-11-17-团队的Code-Review实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15409&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-code-review%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-17-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-17-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -134,8 +134,8 @@
 - [【开发者头条】2022-11-17-深入认识-SaaS-产品架构](https://toutiao.io/k/aqtccnz) 
 - [【开发者头条】2022-11-17-软件开发实践之持续集成](https://toutiao.io/k/ridn585) 
 - [【开发者头条】2022-11-17-攻防对抗-|-RASP-技术上的命令执行攻防探索](https://toutiao.io/k/w9uveog) 
-- [【开发者头条】2022-11-17-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) 
 - [【开发者头条】2022-11-17-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) 
+- [【开发者头条】2022-11-17-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-17 15:13:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-17 15:40:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1917,6 +1917,9 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-11-17-谁知道淘宝卖指定电影票是怎么操作的？](https://www.v2ex.com/t/896066) 
+- [2022-11-17-国产输入法怎么都不支持滑行输入了？](https://www.v2ex.com/t/896063) 
+- [2022-11-17-VMware-Fusion-13-终于有消息了](https://www.v2ex.com/t/896062) 
 - [2022-11-17-甲骨文闲置实例将被停止](https://www.v2ex.com/t/896061) 
 - [2022-11-17-华为疑似暂缓-2023-届校招](https://www.v2ex.com/t/896059) 
 - [2022-11-17-IntelliJ-IDEA-如何找出一个方法所有的调用入口？](https://www.v2ex.com/t/896056) 
@@ -1931,7 +1934,6 @@
 - [2022-11-17-关于单点登录-CAS-票据校验的一点疑惑](https://www.v2ex.com/t/896042) 
 - [2022-11-17-iPad-air3-日版，微信等-app-语音麦克风不起作用，照相机有声音怎么回事儿呀？](https://www.v2ex.com/t/896041) 
 - [2022-11-17-AirPods-Pro-第二代在走路时有哒哒声](https://www.v2ex.com/t/896040) 
-- [2022-11-17-有-apple-one-的车么](https://www.v2ex.com/t/896038) 
 - [2022-11-17-SweetAlert2-库添加了恶意政治代码](https://www.v2ex.com/t/896036) 
 - [2022-11-17-中国联通私自判定用户异常直接停机，无法恢复。昨天吃瓜看到有个-v2er-被停了今天就轮到我了。附交流过程。怀疑是不是富强被盯了](https://www.v2ex.com/t/896035) 
 - [2022-11-17-请问-RDM-直通给群晖的硬盘如何迁移？](https://www.v2ex.com/t/896034) 
@@ -1943,10 +1945,6 @@
 - [2022-11-17-寻能接私活，开发一个基于-IPFS-的类推特的移动客户端的大佬](https://www.v2ex.com/t/896020) 
 - [2022-11-17-有值得推荐的纯音乐摇滚专辑嘛？](https://www.v2ex.com/t/896019) 
 - [2022-11-17-new-A.new-B这个是什么-Java-语法](https://www.v2ex.com/t/896017) 
-- [2022-11-17-求大佬推荐一个可以制作应用图标的软件](https://www.v2ex.com/t/896015) 
-- [2022-11-17-1688-买的-cpu-靠谱不，大家伙帮忙分析下](https://www.v2ex.com/t/896014) 
-- [2022-11-17-同样是-.com-，为什么不同国家、地区的二级域名不一样？](https://www.v2ex.com/t/896013) 
-- [2022-11-17-Android-/-Java-依赖库上传插件-For-IDEA/Android-Studio](https://www.v2ex.com/t/896012) 
 - [2022-11-17-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-17-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-17-以综合指数观察和评价研发效能的趋势-link.zhihu.com](https://blogread.cn/news/go.php?idItem=15406&url=https%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttps%253A%2F%2Finsights.thoughtworks.cn%2Fobserving-evaluating-research-development-efficiency-trend%2F%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

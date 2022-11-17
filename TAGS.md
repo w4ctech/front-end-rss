@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-11-17 15:13:08。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-17 15:40:43。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -177,6 +177,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】香港再现数例疫苗接种严重异常事件-专家初判与疫苗无关](https://china.caixin.com/m/2021-03-08/101672619.html)
 - [【武汉肺炎防疫全纪录(财新网)】港府回应一63岁患者死亡事件-暂无法确定与疫苗相关](https://m.caixin.com/m/2021-03-03/101670052.html)
 - [【张鑫旭-鑫空间-鑫生活】2022年新出了哪些form表单新特性？](https://www.zhangxinxu.com/wordpress/2022/10/2022-new-form-property/)
+- [【V2EX】潮州特斯拉事件，据说油门都踩变形了。](https://www.v2ex.com/t/896065)
 - [【V2EX】为什么移动宽带开启-IPV6-后，软路由和电脑总是会获取-2-个-IPV6-地址？](https://www.v2ex.com/t/896050)
 - [【V2EX】单网卡旁路由单线复用，双-dhcp-服务，可行吗？](https://www.v2ex.com/t/896039)
 - [......【查看更多】......](./details/tags/javascript.md)
@@ -270,6 +271,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】腺病毒新冠疫苗引安全忧虑-康希诺称未发现血栓病例](https://m.caixin.com/m/2021-04-14/101691086.html)
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
+- [【V2EX】分享我做的-iOS-Safari-扩展《布丁扩展》](https://www.v2ex.com/t/896064)
 - [【V2EX】上海/南京/北京上市公司星环科技（-Java-开发/k8s/大数据后端/数据库安全研发工程师）](https://www.v2ex.com/t/896031)
 - [【V2EX】群晖是怎么做到通过网页扫描内网所有群晖设备的？不会被浏览器同源策略拦截吗？随便一个网页都能随意访问内网是不是很不安全，-pian-用户点一个网页就能进内网扫...](https://www.v2ex.com/t/896025)
 - [【技术头条】团队的Code-Review实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15409&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-code-review%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
@@ -290,7 +292,6 @@
 
 
 
-- [【V2EX】是我没有找到用法，还是-Snipaste-不能一键截全屏？](https://www.v2ex.com/t/896016)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

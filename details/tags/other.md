@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-17 11:35:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-17 12:26:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1917,6 +1917,8 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-11-17-第一次海淘，寻求建议](https://www.v2ex.com/t/896028) 
+- [2022-11-17-淘宝购买的-Adobe-订阅被骗了](https://www.v2ex.com/t/896024) 
 - [2022-11-17-iPhone14-微信语音通话,-有时候前-10-秒左右没有声音](https://www.v2ex.com/t/896023) 
 - [2022-11-17-类似于-iOS-app-的-piiico-？](https://www.v2ex.com/t/896021) 
 - [2022-11-17-寻能接私活，开发一个基于-IPFS-的类推特的移动客户端的大佬](https://www.v2ex.com/t/896020) 
@@ -1950,10 +1952,6 @@
 - [2022-11-17-为啥这么多所谓的民教网](https://www.v2ex.com/t/895985) 
 - [2022-11-17-如何预览-PDF-里可点击的页内链接的内容？](https://www.v2ex.com/t/895984) 
 - [2022-11-17-OneBlock-的-Substrate-训练营靠谱吗？](https://www.v2ex.com/t/895982) 
-- [2022-11-17-世界杯快到了，现在还有什么买足彩的线上渠道吗](https://www.v2ex.com/t/895979) 
-- [2022-11-17-可以正常访问-google.com.hk-但是搜索引擎使用默认的-google.com-经常不能访问](https://www.v2ex.com/t/895978) 
-- [2022-11-17-想买腾讯轻量云的注意了，今天发现两个坑](https://www.v2ex.com/t/895977) 
-- [2022-11-17-公司项目里该不该夹带自己项目的代码？](https://www.v2ex.com/t/895975) 
 - [2022-11-17-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-17-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-17-以综合指数观察和评价研发效能的趋势-link.zhihu.com](https://blogread.cn/news/go.php?idItem=15406&url=https%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttps%253A%2F%2Finsights.thoughtworks.cn%2Fobserving-evaluating-research-development-efficiency-trend%2F%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1975,5 +1973,5 @@
 - [2022-11-17-深入认识-SaaS-产品架构](https://toutiao.io/k/aqtccnz) 
 - [2022-11-17-攻防对抗-|-RASP-技术上的命令执行攻防探索](https://toutiao.io/k/w9uveog) 
 - [2022-11-17-软件开发实践之持续集成](https://toutiao.io/k/ridn585) 
-- [2022-11-17-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) 
 - [2022-11-17-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) 
+- [2022-11-17-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-17 23:13:45，:rocket: 更新条数: +2011， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-17 23:39:16，:rocket: 更新条数: +2011， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -555,8 +555,8 @@
 - [2022-11-17-这样用-lerna-也太爽了吧！](https://toutiao.io/k/eb57j4o) ![](assets/new.png)  
 - [2022-11-17-解-Bug-之路：记一次线上请求偶尔变慢的排查](https://toutiao.io/k/w3iiwj3) ![](assets/new.png)  
 - [2022-11-17-深入认识-SaaS-产品架构](https://toutiao.io/k/aqtccnz) ![](assets/new.png)  
-- [2022-11-17-干货｜数据湖技术在抖音近实时场景的实践](https://toutiao.io/k/e7255b8) ![](assets/new.png)  
 - [2022-11-17-软件开发实践之持续集成](https://toutiao.io/k/ridn585) ![](assets/new.png)  
+- [2022-11-17-干货｜数据湖技术在抖音近实时场景的实践](https://toutiao.io/k/e7255b8) ![](assets/new.png)  
 - [2022-11-17-攻防对抗-|-RASP-技术上的命令执行攻防探索](https://toutiao.io/k/w9uveog) ![](assets/new.png)  
 - [2022-11-17-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-17 23:13:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-17 23:39:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1968,7 +1968,7 @@
 - [2022-11-17-Rust-和-Cpp-互操作](https://toutiao.io/k/qzc6anb) 
 - [2022-11-17-Switchquery：移动端秒级配置触达平台](https://toutiao.io/k/7he3t4u) 
 - [2022-11-17-深入认识-SaaS-产品架构](https://toutiao.io/k/aqtccnz) 
-- [2022-11-17-干货｜数据湖技术在抖音近实时场景的实践](https://toutiao.io/k/e7255b8) 
 - [2022-11-17-软件开发实践之持续集成](https://toutiao.io/k/ridn585) 
+- [2022-11-17-干货｜数据湖技术在抖音近实时场景的实践](https://toutiao.io/k/e7255b8) 
 - [2022-11-17-攻防对抗-|-RASP-技术上的命令执行攻防探索](https://toutiao.io/k/w9uveog) 
 - [2022-11-17-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) 

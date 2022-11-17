@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-11-17 10:40:37。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-17 11:10:54。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -154,7 +154,6 @@
 
 
 
-- [【V2EX】游戏加速中，怎么确定-UDP-的目标服务器是真的游戏服务器？](https://www.v2ex.com/t/895967)
 - [......【查看更多】......](./details/tags/dev-game.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -290,6 +289,7 @@
 
 
 
+- [【V2EX】是我没有找到用法，还是-Snipaste-不能一键截全屏？](https://www.v2ex.com/t/896016)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

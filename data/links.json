@@ -9953,6 +9953,31 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "new A().new B()这个是什么 Java 语法",
+        "link": "https://www.v2ex.com/t/896017",
+        "date": "2022-11-17"
+      },
+      {
+        "title": "是我没有找到用法，还是 Snipaste 不能一键截全屏？",
+        "link": "https://www.v2ex.com/t/896016",
+        "date": "2022-11-17"
+      },
+      {
+        "title": "求大佬推荐一个可以制作应用图标的软件",
+        "link": "https://www.v2ex.com/t/896015",
+        "date": "2022-11-17"
+      },
+      {
+        "title": "1688 买的 cpu 靠谱不，大家伙帮忙分析下",
+        "link": "https://www.v2ex.com/t/896014",
+        "date": "2022-11-17"
+      },
+      {
+        "title": "同样是 .com ，为什么不同国家、地区的二级域名不一样？",
+        "link": "https://www.v2ex.com/t/896013",
+        "date": "2022-11-17"
+      },
+      {
         "title": "Android / Java 依赖库上传插件 For IDEA/Android Studio",
         "link": "https://www.v2ex.com/t/896012",
         "date": "2022-11-17"
@@ -10131,31 +10156,6 @@
         "title": "丢一个搬瓦工的年费 29.9 美元的 路线，自己续费",
         "link": "https://www.v2ex.com/t/895969",
         "date": "2022-11-17"
-      },
-      {
-        "title": "游戏加速中，怎么确定 UDP 的目标服务器是真的游戏服务器？",
-        "link": "https://www.v2ex.com/t/895967",
-        "date": "2022-11-17"
-      },
-      {
-        "title": "这个地址打不开",
-        "link": "https://www.v2ex.com/t/895966",
-        "date": "2022-11-17"
-      },
-      {
-        "title": "macos 输入法快捷键问题",
-        "link": "https://www.v2ex.com/t/895965",
-        "date": "2022-11-17"
-      },
-      {
-        "title": "求一个软件给小孩子用：扫字朗读",
-        "link": "https://www.v2ex.com/t/895964",
-        "date": "2022-11-17"
-      },
-      {
-        "title": "K8S 中 Java 应用的 pod 发生 OOM，大家是如何保留 dump 文件并拿下来分析呢",
-        "link": "https://www.v2ex.com/t/895963",
-        "date": "2022-11-17"
       }
     ]
   },
@@ -10297,13 +10297,13 @@
         "date": "2022-11-17"
       },
       {
-        "title": "[推荐] 最适合程序员的画图工具？",
-        "link": "https://toutiao.io/k/hlv8j4z",
+        "title": "[推荐] 新来个技术总监，仅花 2 小时，撸出一个多线程永动任务，看完直接跪了，真牛逼",
+        "link": "https://toutiao.io/k/6u3q7ke",
         "date": "2022-11-17"
       },
       {
-        "title": "[推荐] 新来个技术总监，仅花 2 小时，撸出一个多线程永动任务，看完直接跪了，真牛逼",
-        "link": "https://toutiao.io/k/6u3q7ke",
+        "title": "[推荐] 最适合程序员的画图工具？",
+        "link": "https://toutiao.io/k/hlv8j4z",
         "date": "2022-11-17"
       }
     ]

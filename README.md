@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-17 10:40:37，:rocket: 更新条数: +2014， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-17 11:10:54，:rocket: 更新条数: +2014， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-11-17-new-A.new-B这个是什么-Java-语法](https://www.v2ex.com/t/896017) ![](assets/new.png)  
+- [2022-11-17-是我没有找到用法，还是-Snipaste-不能一键截全屏？](https://www.v2ex.com/t/896016) ![](assets/new.png)  
+- [2022-11-17-求大佬推荐一个可以制作应用图标的软件](https://www.v2ex.com/t/896015) ![](assets/new.png)  
+- [2022-11-17-1688-买的-cpu-靠谱不，大家伙帮忙分析下](https://www.v2ex.com/t/896014) ![](assets/new.png)  
+- [2022-11-17-同样是-.com-，为什么不同国家、地区的二级域名不一样？](https://www.v2ex.com/t/896013) ![](assets/new.png)  
 - [2022-11-17-Android-/-Java-依赖库上传插件-For-IDEA/Android-Studio](https://www.v2ex.com/t/896012) ![](assets/new.png)  
 - [2022-11-17-Inoreader-今年又又又涨了-20$-，现在是-89.9$一年！](https://www.v2ex.com/t/896011) ![](assets/new.png)  
 - [2022-11-17-macOS-自带的截图功能无法截取单个窗口，何解？](https://www.v2ex.com/t/896010) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-11-17-河北买车，能申请个北京的临牌用吗](https://www.v2ex.com/t/895999) ![](assets/new.png)  
 - [2022-11-17-出闲置搬瓦工-SPECIAL-10G-KVM-PROMO-V3---LOS-ANGELES-500GB/m---CN2-Annually:-$28.12](https://www.v2ex.com/t/895998) ![](assets/new.png)  
 - [2022-11-17-「海外」SEO/-PHP-/前端-H5/等技术岗位-「远程」渗透](https://www.v2ex.com/t/895997) ![](assets/new.png)  
-- [2022-11-17-请问-windwos-经常弹出计算器是中毒了吗?](https://www.v2ex.com/t/895996) ![](assets/new.png)  
-- [2022-11-17-好烦，-MacOS-13.0.1-每两天因为卡顿需重启一次](https://www.v2ex.com/t/895995) ![](assets/new.png)  
-- [2022-11-17-广州-字节-快年底了，前端大佬们再不来就要浪费了几十个-HC。。。](https://www.v2ex.com/t/895994) ![](assets/new.png)  
-- [2022-11-17-求一个抗关机方案](https://www.v2ex.com/t/895993) ![](assets/new.png)  
-- [2022-11-17-万物皆可集成系列：低代码对接-Web-Service-接口](https://www.v2ex.com/t/895992) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -558,8 +558,8 @@
 - [2022-11-17-深入认识-SaaS-产品架构](https://toutiao.io/k/aqtccnz) ![](assets/new.png)  
 - [2022-11-17-攻防对抗-|-RASP-技术上的命令执行攻防探索](https://toutiao.io/k/w9uveog) ![](assets/new.png)  
 - [2022-11-17-软件开发实践之持续集成](https://toutiao.io/k/ridn585) ![](assets/new.png)  
-- [2022-11-17-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) ![](assets/new.png)  
 - [2022-11-17-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) ![](assets/new.png)  
+- [2022-11-17-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

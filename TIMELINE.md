@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-17 10:40:37。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-17 11:10:54。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,11 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-17-new-A.new-B这个是什么-Java-语法](https://www.v2ex.com/t/896017) 
+- [【V2EX】2022-11-17-是我没有找到用法，还是-Snipaste-不能一键截全屏？](https://www.v2ex.com/t/896016) 
+- [【V2EX】2022-11-17-求大佬推荐一个可以制作应用图标的软件](https://www.v2ex.com/t/896015) 
+- [【V2EX】2022-11-17-1688-买的-cpu-靠谱不，大家伙帮忙分析下](https://www.v2ex.com/t/896014) 
+- [【V2EX】2022-11-17-同样是-.com-，为什么不同国家、地区的二级域名不一样？](https://www.v2ex.com/t/896013) 
 - [【V2EX】2022-11-17-Android-/-Java-依赖库上传插件-For-IDEA/Android-Studio](https://www.v2ex.com/t/896012) 
 - [【V2EX】2022-11-17-Inoreader-今年又又又涨了-20$-，现在是-89.9$一年！](https://www.v2ex.com/t/896011) 
 - [【V2EX】2022-11-17-macOS-自带的截图功能无法截取单个窗口，何解？](https://www.v2ex.com/t/896010) 
@@ -106,11 +111,6 @@
 - [【V2EX】2022-11-17-22-届三个月前端被裁，求上海或者南京的前端工作机会](https://www.v2ex.com/t/895972) 
 - [【V2EX】2022-11-17-Apple-TV-4K-2022-入手，自己感受的几个问题](https://www.v2ex.com/t/895971) 
 - [【V2EX】2022-11-17-丢一个搬瓦工的年费-29.9-美元的-路线，自己续费](https://www.v2ex.com/t/895969) 
-- [【V2EX】2022-11-17-游戏加速中，怎么确定-UDP-的目标服务器是真的游戏服务器？](https://www.v2ex.com/t/895967) 
-- [【V2EX】2022-11-17-这个地址打不开](https://www.v2ex.com/t/895966) 
-- [【V2EX】2022-11-17-macos-输入法快捷键问题](https://www.v2ex.com/t/895965) 
-- [【V2EX】2022-11-17-求一个软件给小孩子用：扫字朗读](https://www.v2ex.com/t/895964) 
-- [【V2EX】2022-11-17-K8S-中-Java-应用的-pod-发生-OOM，大家是如何保留-dump-文件并拿下来分析呢](https://www.v2ex.com/t/895963) 
 - [【技术头条】2022-11-17-团队的Code-Review实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15409&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-code-review%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-17-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-17-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -136,8 +136,8 @@
 - [【开发者头条】2022-11-17-深入认识-SaaS-产品架构](https://toutiao.io/k/aqtccnz) 
 - [【开发者头条】2022-11-17-攻防对抗-|-RASP-技术上的命令执行攻防探索](https://toutiao.io/k/w9uveog) 
 - [【开发者头条】2022-11-17-软件开发实践之持续集成](https://toutiao.io/k/ridn585) 
-- [【开发者头条】2022-11-17-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) 
 - [【开发者头条】2022-11-17-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) 
+- [【开发者头条】2022-11-17-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

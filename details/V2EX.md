@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2022-11-17 14:38:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-17 15:13:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-11-17-甲骨文闲置实例将被停止](https://www.v2ex.com/t/896061) 
+- [2022-11-17-最近几次面试体验](https://www.v2ex.com/t/896060) 
+- [2022-11-17-华为疑似暂缓-2023-届校招](https://www.v2ex.com/t/896059) 
 - [2022-11-17-IntelliJ-IDEA-如何找出一个方法所有的调用入口？](https://www.v2ex.com/t/896056) 
 - [2022-11-17-IINA-播放-IPTV-一直卡顿](https://www.v2ex.com/t/896055) 
 - [2022-11-17-做了个世界杯胜负概率预测的网站](https://www.v2ex.com/t/896054) 
@@ -40,6 +43,3 @@
 - [2022-11-17-1688-买的-cpu-靠谱不，大家伙帮忙分析下](https://www.v2ex.com/t/896014) 
 - [2022-11-17-同样是-.com-，为什么不同国家、地区的二级域名不一样？](https://www.v2ex.com/t/896013) 
 - [2022-11-17-Android-/-Java-依赖库上传插件-For-IDEA/Android-Studio](https://www.v2ex.com/t/896012) 
-- [2022-11-17-Inoreader-今年又又又涨了-20$-，现在是-89.9$一年！](https://www.v2ex.com/t/896011) 
-- [2022-11-17-macOS-自带的截图功能无法截取单个窗口，何解？](https://www.v2ex.com/t/896010) 
-- [2022-11-17-浏览器的网站如何关闭电脑？或者发起关机请求？-Windows10-系统](https://www.v2ex.com/t/896009) 

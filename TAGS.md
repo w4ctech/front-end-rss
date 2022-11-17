@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-11-17 14:38:05。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-17 15:13:08。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -272,7 +272,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
 - [【V2EX】上海/南京/北京上市公司星环科技（-Java-开发/k8s/大数据后端/数据库安全研发工程师）](https://www.v2ex.com/t/896031)
 - [【V2EX】群晖是怎么做到通过网页扫描内网所有群晖设备的？不会被浏览器同源策略拦截吗？随便一个网页都能随意访问内网是不是很不安全，-pian-用户点一个网页就能进内网扫...](https://www.v2ex.com/t/896025)
-- [【V2EX】浏览器的网站如何关闭电脑？或者发起关机请求？-Windows10-系统](https://www.v2ex.com/t/896009)
 - [【技术头条】团队的Code-Review实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15409&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-code-review%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】解-Bug-之路：记一次线上请求偶尔变慢的排查](https://toutiao.io/k/w3iiwj3)
 - [......【查看更多】......](./details/tags/browser.md)
@@ -341,6 +340,7 @@
 
 
 
+- [【V2EX】最近几次面试体验](https://www.v2ex.com/t/896060)
 - [【V2EX】今天面试了一个低代码开发的公司，我应该去吗](https://www.v2ex.com/t/896030)
 - [......【查看更多】......](./details/tags/job-interview.md)
 

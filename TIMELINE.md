@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-17 14:38:05。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-17 15:13:08。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,9 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-17-甲骨文闲置实例将被停止](https://www.v2ex.com/t/896061) 
+- [【V2EX】2022-11-17-最近几次面试体验](https://www.v2ex.com/t/896060) 
+- [【V2EX】2022-11-17-华为疑似暂缓-2023-届校招](https://www.v2ex.com/t/896059) 
 - [【V2EX】2022-11-17-IntelliJ-IDEA-如何找出一个方法所有的调用入口？](https://www.v2ex.com/t/896056) 
 - [【V2EX】2022-11-17-IINA-播放-IPTV-一直卡顿](https://www.v2ex.com/t/896055) 
 - [【V2EX】2022-11-17-做了个世界杯胜负概率预测的网站](https://www.v2ex.com/t/896054) 
@@ -105,9 +108,6 @@
 - [【V2EX】2022-11-17-1688-买的-cpu-靠谱不，大家伙帮忙分析下](https://www.v2ex.com/t/896014) 
 - [【V2EX】2022-11-17-同样是-.com-，为什么不同国家、地区的二级域名不一样？](https://www.v2ex.com/t/896013) 
 - [【V2EX】2022-11-17-Android-/-Java-依赖库上传插件-For-IDEA/Android-Studio](https://www.v2ex.com/t/896012) 
-- [【V2EX】2022-11-17-Inoreader-今年又又又涨了-20$-，现在是-89.9$一年！](https://www.v2ex.com/t/896011) 
-- [【V2EX】2022-11-17-macOS-自带的截图功能无法截取单个窗口，何解？](https://www.v2ex.com/t/896010) 
-- [【V2EX】2022-11-17-浏览器的网站如何关闭电脑？或者发起关机请求？-Windows10-系统](https://www.v2ex.com/t/896009) 
 - [【技术头条】2022-11-17-团队的Code-Review实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15409&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-code-review%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-17-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-17-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -124,13 +124,13 @@
 - [【开发者头条】2022-11-17-7-款殿堂级的开源-CMS（内容管理系统）](https://toutiao.io/k/lyl77sm) 
 - [【开发者头条】2022-11-17-谈谈我工作中的-23-个设计模式](https://toutiao.io/k/wpvugn5) 
 - [【开发者头条】2022-11-17-分布式人工智能，未来大有可为！](https://toutiao.io/k/avzd35a) 
-- [【开发者头条】2022-11-17-Rust-和-Cpp-互操作](https://toutiao.io/k/qzc6anb) 
 - [【开发者头条】2022-11-17-清华大学：元宇宙发展研究报告-3.0-发布](https://toutiao.io/k/9xu4x35) 
+- [【开发者头条】2022-11-17-Rust-和-Cpp-互操作](https://toutiao.io/k/qzc6anb) 
 - [【开发者头条】2022-11-17-Switchquery：移动端秒级配置触达平台](https://toutiao.io/k/7he3t4u) 
 - [【开发者头条】2022-11-17-这样用-lerna-也太爽了吧！](https://toutiao.io/k/eb57j4o) 
 - [【开发者头条】2022-11-17-解-Bug-之路：记一次线上请求偶尔变慢的排查](https://toutiao.io/k/w3iiwj3) 
-- [【开发者头条】2022-11-17-干货｜数据湖技术在抖音近实时场景的实践](https://toutiao.io/k/e7255b8) 
 - [【开发者头条】2022-11-17-深入认识-SaaS-产品架构](https://toutiao.io/k/aqtccnz) 
+- [【开发者头条】2022-11-17-干货｜数据湖技术在抖音近实时场景的实践](https://toutiao.io/k/e7255b8) 
 - [【开发者头条】2022-11-17-软件开发实践之持续集成](https://toutiao.io/k/ridn585) 
 - [【开发者头条】2022-11-17-攻防对抗-|-RASP-技术上的命令执行攻防探索](https://toutiao.io/k/w9uveog) 
 - [【开发者头条】2022-11-17-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) 

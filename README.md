@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-17 06:44:33，:rocket: 更新条数: +2014， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-17 07:11:47，:rocket: 更新条数: +2011， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-11-17-Microsoft-Edge-PDF-Reader-添加文字的-Bug](https://www.v2ex.com/t/895956) ![](assets/new.png)  
+- [2022-11-17-请教下-峰米-v10-和-海信-vidaa-c1-哪款投影仪好](https://www.v2ex.com/t/895955) ![](assets/new.png)  
+- [2022-11-17-特斯拉公关花了多少钱](https://www.v2ex.com/t/895954) ![](assets/new.png)  
+- [2022-11-17-Vue-KeepAlive-Tab-页问题](https://www.v2ex.com/t/895952) ![](assets/new.png)  
+- [2022-11-17-小众插件市场查询工具](https://www.v2ex.com/t/895950) ![](assets/new.png)  
+- [2022-11-17-ps-怎么筛选能双人以上玩的游戏](https://www.v2ex.com/t/895948) ![](assets/new.png)  
 - [2022-11-17-我写了一个-V2EX-图片灯箱油猴插件](https://www.v2ex.com/t/895946) ![](assets/new.png)  
 - [2022-11-17-发不了](https://www.v2ex.com/t/895945) ![](assets/new.png)  
 - [2022-11-17-求问-pve-的虚拟机怎么排序，强迫症想整理下](https://www.v2ex.com/t/895944) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-11-17-有没有可以加密文件的网盘双向同步工具？](https://www.v2ex.com/t/895930) ![](assets/new.png)  
 - [2022-11-17-没经验怎么做管理?](https://www.v2ex.com/t/895929) ![](assets/new.png)  
 - [2022-11-17-日志默认输出的一个疑问？](https://www.v2ex.com/t/895928) ![](assets/new.png)  
-- [2022-11-17-无聊怎么办](https://www.v2ex.com/t/895927) ![](assets/new.png)  
-- [2022-11-17-最近-Mac-息屏一段时间后总是异常重启,-有遇到的吗？-ANS2-Recoverable-Panic---assert-failed:-14512:apcie02](https://www.v2ex.com/t/895926) ![](assets/new.png)  
-- [2022-11-17-iPhone-12-Pro-Max-买的-AC+快过期了，求支招](https://www.v2ex.com/t/895925) ![](assets/new.png)  
-- [2022-11-17-edge发现一个有意思的功能](https://www.v2ex.com/t/895924) ![](assets/new.png)  
-- [2022-11-17-iOS-16.1.1-已经放出，有什么影响使用的-bug-么？](https://www.v2ex.com/t/895923) ![](assets/new.png)  
-- [2022-11-17-引战一波，我觉得-s22-比华为-p-系列好用](https://www.v2ex.com/t/895922) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -549,8 +549,8 @@
 - [2022-11-17-7-款殿堂级的开源-CMS（内容管理系统）](https://toutiao.io/k/lyl77sm) ![](assets/new.png)  
 - [2022-11-17-分布式人工智能，未来大有可为！](https://toutiao.io/k/avzd35a) ![](assets/new.png)  
 - [2022-11-17-谈谈我工作中的-23-个设计模式](https://toutiao.io/k/wpvugn5) ![](assets/new.png)  
-- [2022-11-17-清华大学：元宇宙发展研究报告-3.0-发布](https://toutiao.io/k/9xu4x35) ![](assets/new.png)  
 - [2022-11-17-Rust-和-Cpp-互操作](https://toutiao.io/k/qzc6anb) ![](assets/new.png)  
+- [2022-11-17-清华大学：元宇宙发展研究报告-3.0-发布](https://toutiao.io/k/9xu4x35) ![](assets/new.png)  
 - [2022-11-17-干货｜数据湖技术在抖音近实时场景的实践](https://toutiao.io/k/e7255b8) ![](assets/new.png)  
 - [2022-11-17-Switchquery：移动端秒级配置触达平台](https://toutiao.io/k/7he3t4u) ![](assets/new.png)  
 - [2022-11-17-深入认识-SaaS-产品架构](https://toutiao.io/k/aqtccnz) ![](assets/new.png)  

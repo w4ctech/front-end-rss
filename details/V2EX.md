@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2022-11-17 10:13:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-17 10:40:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-11-17-Android-/-Java-依赖库上传插件-For-IDEA/Android-Studio](https://www.v2ex.com/t/896012) 
+- [2022-11-17-Inoreader-今年又又又涨了-20$-，现在是-89.9$一年！](https://www.v2ex.com/t/896011) 
+- [2022-11-17-macOS-自带的截图功能无法截取单个窗口，何解？](https://www.v2ex.com/t/896010) 
+- [2022-11-17-浏览器的网站如何关闭电脑？或者发起关机请求？-Windows10-系统](https://www.v2ex.com/t/896009) 
 - [2022-11-17-请问如何自己封装-centos！](https://www.v2ex.com/t/896007) 
 - [2022-11-17-老板总是问我多少天能做完](https://www.v2ex.com/t/896006) 
 - [2022-11-17-用-Swift-写-CLI-遇到的问题](https://www.v2ex.com/t/896005) 
@@ -42,6 +46,3 @@
 - [2022-11-17-macos-输入法快捷键问题](https://www.v2ex.com/t/895965) 
 - [2022-11-17-求一个软件给小孩子用：扫字朗读](https://www.v2ex.com/t/895964) 
 - [2022-11-17-K8S-中-Java-应用的-pod-发生-OOM，大家是如何保留-dump-文件并拿下来分析呢](https://www.v2ex.com/t/895963) 
-- [2022-11-17-云服务器自动删除文件夹问题](https://www.v2ex.com/t/895962) 
-- [2022-11-17-完善一下-lua-代码，有偿](https://www.v2ex.com/t/895961) 
-- [2022-11-17-想买一辆自行车通勤，可是天热时满身大汉到公司怎么解决](https://www.v2ex.com/t/895959) 

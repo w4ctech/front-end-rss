@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-17 10:13:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-17 10:40:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1917,6 +1917,9 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-11-17-Android-/-Java-依赖库上传插件-For-IDEA/Android-Studio](https://www.v2ex.com/t/896012) 
+- [2022-11-17-Inoreader-今年又又又涨了-20$-，现在是-89.9$一年！](https://www.v2ex.com/t/896011) 
+- [2022-11-17-macOS-自带的截图功能无法截取单个窗口，何解？](https://www.v2ex.com/t/896010) 
 - [2022-11-17-请问如何自己封装-centos！](https://www.v2ex.com/t/896007) 
 - [2022-11-17-老板总是问我多少天能做完](https://www.v2ex.com/t/896006) 
 - [2022-11-17-用-Swift-写-CLI-遇到的问题](https://www.v2ex.com/t/896005) 
@@ -1951,9 +1954,6 @@
 - [2022-11-17-macos-输入法快捷键问题](https://www.v2ex.com/t/895965) 
 - [2022-11-17-求一个软件给小孩子用：扫字朗读](https://www.v2ex.com/t/895964) 
 - [2022-11-17-K8S-中-Java-应用的-pod-发生-OOM，大家是如何保留-dump-文件并拿下来分析呢](https://www.v2ex.com/t/895963) 
-- [2022-11-17-云服务器自动删除文件夹问题](https://www.v2ex.com/t/895962) 
-- [2022-11-17-完善一下-lua-代码，有偿](https://www.v2ex.com/t/895961) 
-- [2022-11-17-想买一辆自行车通勤，可是天热时满身大汉到公司怎么解决](https://www.v2ex.com/t/895959) 
 - [2022-11-17-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-17-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-17-以综合指数观察和评价研发效能的趋势-link.zhihu.com](https://blogread.cn/news/go.php?idItem=15406&url=https%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttps%253A%2F%2Finsights.thoughtworks.cn%2Fobserving-evaluating-research-development-efficiency-trend%2F%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1966,8 +1966,8 @@
 - [2022-11-17-常说的代码整洁到底是什么？](https://toutiao.io/k/4up9tv9) 
 - [2022-11-17-9-大插件，21-张配图，编码路上助你起飞](https://toutiao.io/k/i07esqr) 
 - [2022-11-17-7-款殿堂级的开源-CMS（内容管理系统）](https://toutiao.io/k/lyl77sm) 
-- [2022-11-17-分布式人工智能，未来大有可为！](https://toutiao.io/k/avzd35a) 
 - [2022-11-17-谈谈我工作中的-23-个设计模式](https://toutiao.io/k/wpvugn5) 
+- [2022-11-17-分布式人工智能，未来大有可为！](https://toutiao.io/k/avzd35a) 
 - [2022-11-17-Rust-和-Cpp-互操作](https://toutiao.io/k/qzc6anb) 
 - [2022-11-17-清华大学：元宇宙发展研究报告-3.0-发布](https://toutiao.io/k/9xu4x35) 
 - [2022-11-17-干货｜数据湖技术在抖音近实时场景的实践](https://toutiao.io/k/e7255b8) 

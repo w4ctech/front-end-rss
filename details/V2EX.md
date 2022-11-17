@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2022-11-16 23:38:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-17 01:03:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-11-17-Evernote-被收购了](https://www.v2ex.com/t/895825) 
+- [2022-11-17-有推荐开源的钱包吗？-希望可以支持主要的货币-和自己编译的。](https://www.v2ex.com/t/895823) 
+- [2022-11-17-推广：天天抽奖，欢迎参与！](https://www.v2ex.com/t/895822) 
+- [2022-11-16-老年人求电视盒](https://www.v2ex.com/t/895821) 
 - [2022-11-16-个人消费记账有什么用](https://www.v2ex.com/t/895820) 
 - [2022-11-16-Meta-开源-Sapling-scm](https://www.v2ex.com/t/895819) 
 - [2022-11-16-今年的-O'Reilly-的-Cyber-Monday-活动已经开始了，-40off-港币-2145-即可入手！](https://www.v2ex.com/t/895818) 
@@ -40,7 +44,3 @@
 - [2022-11-16-另辟蹊径：绕开-DRM-远程串流-Netflix](https://www.v2ex.com/t/895778) 
 - [2022-11-16-找了一个多月的工作，只收到一个不满意的-offer](https://www.v2ex.com/t/895777) 
 - [2022-11-16-蔚来-ET7-刚拿到本年德国最佳车型，现在-ENCAP-成绩也出来了](https://www.v2ex.com/t/895776) 
-- [2022-11-16-计算机大佬在哪里？](https://www.v2ex.com/t/895775) 
-- [2022-11-16-自建-bark-server-用于安卓转发短信到-iPhone](https://www.v2ex.com/t/895773) 
-- [2022-11-16-有没有住惠南这边的朋友，求加个微信好友，想在这边租房子](https://www.v2ex.com/t/895772) 
-- [2022-11-16-请教大家一个关于命令的执行结果在-fish-和-bash-有差异的问题](https://www.v2ex.com/t/895771) 

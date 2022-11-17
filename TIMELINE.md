@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-17 22:39:30。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-17 23:01:42。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,8 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-17-2022-新电脑装啥杀毒软件？](https://www.v2ex.com/t/896092) 
+- [【V2EX】2022-11-17-大佬们，求分享你们珍藏的全文输出的-Rss-源](https://www.v2ex.com/t/896091) 
 - [【V2EX】2022-11-17-两个-Offer-该如何抉择？](https://www.v2ex.com/t/896090) 
 - [【V2EX】2022-11-17-发现-twitter-上很多（我关注的画师里就有-8-个）日本人（100%真人）喜欢用随机无意义大小写数字组合（像密码管理器生成的密码一样）作用户名，而欧美-twitter-...](https://www.v2ex.com/t/896089) 
 - [【V2EX】2022-11-17-小型外-贸企业用阿-里云-Di-gitalOcean-还是-OVH-更好？](https://www.v2ex.com/t/896088) 
@@ -107,8 +109,6 @@
 - [【V2EX】2022-11-17-用-iOS-的文件-APP-修改-OneDrive-中的文件后，不用打开-OneDrive-也能同步诶](https://www.v2ex.com/t/896048) 
 - [【V2EX】2022-11-17-C-DLL-中初始化-Python-虚拟机问题](https://www.v2ex.com/t/896047) 
 - [【V2EX】2022-11-17-怎么才能戒掉烟呢](https://www.v2ex.com/t/896044) 
-- [【V2EX】2022-11-17-关于单点登录-CAS-票据校验的一点疑惑](https://www.v2ex.com/t/896042) 
-- [【V2EX】2022-11-17-iPad-air3-日版，微信等-app-语音麦克风不起作用，照相机有声音怎么回事儿呀？](https://www.v2ex.com/t/896041) 
 - [【技术头条】2022-11-17-团队的Code-Review实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15409&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-code-review%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-17-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-17-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-17 15:40:43，:rocket: 更新条数: +2010， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-17 16:17:36，:rocket: 更新条数: +2009， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,8 +491,13 @@
 </summary>
 
 
+- [2022-11-17-iOS-快捷指令中自动化和-Android-使用体验](https://www.v2ex.com/t/896073) ![](assets/new.png)  
+- [2022-11-17-询问关于外企公司对于英语证书的认可度，-托福还是雅思？](https://www.v2ex.com/t/896072) ![](assets/new.png)  
+- [2022-11-17-上海电信，居然开了-80-和-443-端口？](https://www.v2ex.com/t/896071) ![](assets/new.png)  
+- [2022-11-17-摩尔线程-MTT-S80-显卡评测-waste-of-sand](https://www.v2ex.com/t/896070) ![](assets/new.png)  
+- [2022-11-17-15-收喵云-hinet-tw-NAT](https://www.v2ex.com/t/896069) ![](assets/new.png)  
+- [2022-11-17-各位大佬，-Google-Workspace-商务新手版订阅到期订阅续费问题？](https://www.v2ex.com/t/896068) ![](assets/new.png)  
 - [2022-11-17-谁知道淘宝卖指定电影票是怎么操作的？](https://www.v2ex.com/t/896066) ![](assets/new.png)  
-- [2022-11-17-潮州特斯拉事件，据说油门都踩变形了。](https://www.v2ex.com/t/896065) ![](assets/new.png)  
 - [2022-11-17-分享我做的-iOS-Safari-扩展《布丁扩展》](https://www.v2ex.com/t/896064) ![](assets/new.png)  
 - [2022-11-17-国产输入法怎么都不支持滑行输入了？](https://www.v2ex.com/t/896063) ![](assets/new.png)  
 - [2022-11-17-VMware-Fusion-13-终于有消息了](https://www.v2ex.com/t/896062) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-11-17-7-ZIP-的选项有办法在-win11-中放在右键的第一页吗?](https://www.v2ex.com/t/896052) ![](assets/new.png)  
 - [2022-11-17-为什么移动宽带开启-IPV6-后，软路由和电脑总是会获取-2-个-IPV6-地址？](https://www.v2ex.com/t/896050) ![](assets/new.png)  
 - [2022-11-17-m1-macbookpro-偶发性-wifi-掉线？](https://www.v2ex.com/t/896049) ![](assets/new.png)  
-- [2022-11-17-用-iOS-的文件-APP-修改-OneDrive-中的文件后，不用打开-OneDrive-也能同步诶](https://www.v2ex.com/t/896048) ![](assets/new.png)  
-- [2022-11-17-C-DLL-中初始化-Python-虚拟机问题](https://www.v2ex.com/t/896047) ![](assets/new.png)  
-- [2022-11-17-怎么才能戒掉烟呢](https://www.v2ex.com/t/896044) ![](assets/new.png)  
-- [2022-11-17-关于单点登录-CAS-票据校验的一点疑惑](https://www.v2ex.com/t/896042) ![](assets/new.png)  
-- [2022-11-17-iPad-air3-日版，微信等-app-语音麦克风不起作用，照相机有声音怎么回事儿呀？](https://www.v2ex.com/t/896041) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -558,7 +558,6 @@
 - [2022-11-17-干货｜数据湖技术在抖音近实时场景的实践](https://toutiao.io/k/e7255b8) ![](assets/new.png)  
 - [2022-11-17-软件开发实践之持续集成](https://toutiao.io/k/ridn585) ![](assets/new.png)  
 - [2022-11-17-攻防对抗-|-RASP-技术上的命令执行攻防探索](https://toutiao.io/k/w9uveog) ![](assets/new.png)  
-- [2022-11-17-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) ![](assets/new.png)  
 - [2022-11-17-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

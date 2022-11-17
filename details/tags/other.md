@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-17 15:40:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-17 16:17:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1917,6 +1917,11 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-11-17-iOS-快捷指令中自动化和-Android-使用体验](https://www.v2ex.com/t/896073) 
+- [2022-11-17-询问关于外企公司对于英语证书的认可度，-托福还是雅思？](https://www.v2ex.com/t/896072) 
+- [2022-11-17-上海电信，居然开了-80-和-443-端口？](https://www.v2ex.com/t/896071) 
+- [2022-11-17-15-收喵云-hinet-tw-NAT](https://www.v2ex.com/t/896069) 
+- [2022-11-17-各位大佬，-Google-Workspace-商务新手版订阅到期订阅续费问题？](https://www.v2ex.com/t/896068) 
 - [2022-11-17-谁知道淘宝卖指定电影票是怎么操作的？](https://www.v2ex.com/t/896066) 
 - [2022-11-17-国产输入法怎么都不支持滑行输入了？](https://www.v2ex.com/t/896063) 
 - [2022-11-17-VMware-Fusion-13-终于有消息了](https://www.v2ex.com/t/896062) 
@@ -1940,11 +1945,6 @@
 - [2022-11-17-最新版的-ios，解决了-app-频繁弹窗要求粘贴的问题吗？](https://www.v2ex.com/t/896032) 
 - [2022-11-17-第一次海淘，寻求建议](https://www.v2ex.com/t/896028) 
 - [2022-11-17-淘宝购买的-Adobe-订阅被骗了](https://www.v2ex.com/t/896024) 
-- [2022-11-17-iPhone14-微信语音通话,-有时候前-10-秒左右没有声音](https://www.v2ex.com/t/896023) 
-- [2022-11-17-类似于-iOS-app-的-piiico-？](https://www.v2ex.com/t/896021) 
-- [2022-11-17-寻能接私活，开发一个基于-IPFS-的类推特的移动客户端的大佬](https://www.v2ex.com/t/896020) 
-- [2022-11-17-有值得推荐的纯音乐摇滚专辑嘛？](https://www.v2ex.com/t/896019) 
-- [2022-11-17-new-A.new-B这个是什么-Java-语法](https://www.v2ex.com/t/896017) 
 - [2022-11-17-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-17-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-17-以综合指数观察和评价研发效能的趋势-link.zhihu.com](https://blogread.cn/news/go.php?idItem=15406&url=https%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttps%253A%2F%2Finsights.thoughtworks.cn%2Fobserving-evaluating-research-development-efficiency-trend%2F%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1966,5 +1966,4 @@
 - [2022-11-17-干货｜数据湖技术在抖音近实时场景的实践](https://toutiao.io/k/e7255b8) 
 - [2022-11-17-软件开发实践之持续集成](https://toutiao.io/k/ridn585) 
 - [2022-11-17-攻防对抗-|-RASP-技术上的命令执行攻防探索](https://toutiao.io/k/w9uveog) 
-- [2022-11-17-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) 
 - [2022-11-17-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) 

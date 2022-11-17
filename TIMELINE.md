@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-17 04:15:44。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-17 04:44:46。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,15 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-17-infuse-如何识别原盘-cd1,cd2](https://www.v2ex.com/t/895910) 
+- [【V2EX】2022-11-17-怎么关闭安卓访客模式](https://www.v2ex.com/t/895909) 
+- [【V2EX】2022-11-17-想实现一个全国-tcpping，需要找一家支持细化到支持可选运营商的云函数](https://www.v2ex.com/t/895908) 
+- [【V2EX】2022-11-17-在子公司工伤，后转入总公司，工龄怎么计算](https://www.v2ex.com/t/895907) 
+- [【V2EX】2022-11-17-Web3.0-机会：全栈开发工程师（前端-react-等，后端-node.js/-Python-），-5-8-年，-home-base，-2B-业务非交易类](https://www.v2ex.com/t/895906) 
+- [【V2EX】2022-11-17-WLB上海/北京-外企-Coupang-内推-薪资接得住任何大厂-招-p7-Java](https://www.v2ex.com/t/895905) 
+- [【V2EX】2022-11-17-2022-创业,在杭州还能薅到羊毛吗?](https://www.v2ex.com/t/895904) 
+- [【V2EX】2022-11-17-一个极其简单的软件-SwitchGlass，私以为比“台前调度”好用。](https://www.v2ex.com/t/895903) 
+- [【V2EX】2022-11-17-奈飞合租车,-5-缺-2.](https://www.v2ex.com/t/895902) 
 - [【V2EX】2022-11-17-小团队的相关文档如果想部署成网页应该用什么方案？](https://www.v2ex.com/t/895898) 
 - [【V2EX】2022-11-17-求助-vue-和-uniapp-的-pdf，-word，预览怎么做？](https://www.v2ex.com/t/895897) 
 - [【V2EX】2022-11-17-暴雪：将暂停大部分游戏在中国大陆的服务，包括《魔兽世界》](https://www.v2ex.com/t/895895) 
@@ -101,16 +110,6 @@
 - [【V2EX】2022-11-17-华为手机在-wifi-下仅能使用微信，无法打开网页](https://www.v2ex.com/t/895863) 
 - [【V2EX】2022-11-17-现在-WLK-怀旧服怎样能快速到-70-级](https://www.v2ex.com/t/895862) 
 - [【V2EX】2022-11-17-被一家-IDC-恶心到了](https://www.v2ex.com/t/895861) 
-- [【V2EX】2022-11-17-Python-中，-A-类的成员函数的参数类型是-A-类自身的时候，有什么办法能让类型提示不报错？](https://www.v2ex.com/t/895860) 
-- [【V2EX】2022-11-17-局域网内通过公网地址访问另一个设备是否要在公网走一圈？](https://www.v2ex.com/t/895858) 
-- [【V2EX】2022-11-17-求职上海-数据开发，现在还有机会吗？](https://www.v2ex.com/t/895857) 
-- [【V2EX】2022-11-17-Adobe-Premiere-如何导出-major_brand-是-isom-的-mp4-视频](https://www.v2ex.com/t/895856) 
-- [【V2EX】2022-11-17-美区-Apple-ID-和国区-Apple-ID-的区别？](https://www.v2ex.com/t/895855) 
-- [【V2EX】2022-11-17-insert-插入-js-代码出现语法错误,求指点.](https://www.v2ex.com/t/895854) 
-- [【V2EX】2022-11-17-IOS-文案类-APP，有兴趣的欢迎来体验使用!](https://www.v2ex.com/t/895853) 
-- [【V2EX】2022-11-17-mysql-混乱的时区](https://www.v2ex.com/t/895852) 
-- [【V2EX】2022-11-17-有台服务器，被安全策略强制开启自身防火墙，并且-deny-any，如何绕过这种限制？](https://www.v2ex.com/t/895851) 
-- [【V2EX】2022-11-17-有多少想润出商都的？](https://www.v2ex.com/t/895850) 
 - [【技术头条】2022-11-17-团队的Code-Review实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15409&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-code-review%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-17-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-17-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -135,8 +134,8 @@
 - [【开发者头条】2022-11-17-解-Bug-之路：记一次线上请求偶尔变慢的排查](https://toutiao.io/k/w3iiwj3) 
 - [【开发者头条】2022-11-17-这样用-lerna-也太爽了吧！](https://toutiao.io/k/eb57j4o) 
 - [【开发者头条】2022-11-17-攻防对抗-|-RASP-技术上的命令执行攻防探索](https://toutiao.io/k/w9uveog) 
-- [【开发者头条】2022-11-17-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) 
 - [【开发者头条】2022-11-17-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) 
+- [【开发者头条】2022-11-17-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

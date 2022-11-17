@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-17 05:12:59。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-17 05:37:34。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,9 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-17-100G-8000-万条信息全文检索，-Elasticsearch-是最优选择吗？](https://www.v2ex.com/t/895917) 
+- [【V2EX】2022-11-17-Photos-同步卡住了](https://www.v2ex.com/t/895915) 
+- [【V2EX】2022-11-17-请教-RouterOS-的双线播出的设置问题](https://www.v2ex.com/t/895914) 
 - [【V2EX】2022-11-17-渗透远程-灰产感兴趣的可以联系我的飞机:-@PURRGISKAV](https://www.v2ex.com/t/895913) 
 - [【V2EX】2022-11-17-面试中遇到的一道-sql-题](https://www.v2ex.com/t/895912) 
 - [【V2EX】2022-11-17-mds_stores-高占用内存](https://www.v2ex.com/t/895911) 
@@ -107,9 +110,6 @@
 - [【V2EX】2022-11-17-可以在-HK、SG-节点的良心云上修建机场吗？](https://www.v2ex.com/t/895871) 
 - [【V2EX】2022-11-17-MacBook-主板烧了，维修后竟然无法恢复数据](https://www.v2ex.com/t/895870) 
 - [【V2EX】2022-11-17-为什么现在行情不好，明年行情会好吗？](https://www.v2ex.com/t/895868) 
-- [【V2EX】2022-11-17-M1-pro-14-寸-steam-有问题如何解决？](https://www.v2ex.com/t/895867) 
-- [【V2EX】2022-11-17-V2-有没有护眼色的主题背景](https://www.v2ex.com/t/895866) 
-- [【V2EX】2022-11-17-这么自私的人是怎么做到的](https://www.v2ex.com/t/895864) 
 - [【技术头条】2022-11-17-团队的Code-Review实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15409&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-code-review%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-17-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-17-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

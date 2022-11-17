@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-17 01:03:49，:rocket: 更新条数: +2007， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-17 02:59:40，:rocket: 更新条数: +2015， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,26 +491,26 @@
 </summary>
 
 
-- [2022-11-17-Evernote-被收购了](https://www.v2ex.com/t/895825) ![](assets/new.png)  
-- [2022-11-17-有推荐开源的钱包吗？-希望可以支持主要的货币-和自己编译的。](https://www.v2ex.com/t/895823) ![](assets/new.png)  
-- [2022-11-17-推广：天天抽奖，欢迎参与！](https://www.v2ex.com/t/895822) ![](assets/new.png)  
-- [2022-11-16-老年人求电视盒](https://www.v2ex.com/t/895821) ![](assets/new.png)  
-- [2022-11-16-个人消费记账有什么用](https://www.v2ex.com/t/895820) ![](assets/new.png)  
-- [2022-11-16-Meta-开源-Sapling-scm](https://www.v2ex.com/t/895819) ![](assets/new.png)  
-- [2022-11-16-今年的-O'Reilly-的-Cyber-Monday-活动已经开始了，-40off-港币-2145-即可入手！](https://www.v2ex.com/t/895818) ![](assets/new.png)  
-- [2022-11-16-点评一下-Notion-AI?](https://www.v2ex.com/t/895817) ![](assets/new.png)  
-- [2022-11-16-20221117-午夜俱乐部](https://www.v2ex.com/t/895816) ![](assets/new.png)  
-- [2022-11-16-关于宫崎骏先生的那些情诗](https://www.v2ex.com/t/895815) ![](assets/new.png)  
-- [2022-11-16-写代码中，有个思路有问题，求解](https://www.v2ex.com/t/895814) ![](assets/new.png)  
-- [2022-11-16-如何减少-pd-虚拟机硬盘写入，每次关机休眠都有巨大的写入](https://www.v2ex.com/t/895813) ![](assets/new.png)  
-- [2022-11-16-你们在哪里买的-appletv-呀，推荐推荐呗](https://www.v2ex.com/t/895812) ![](assets/new.png)  
-- [2022-11-16-mbp-单指重按-search-在-Safari-里失效了](https://www.v2ex.com/t/895811) ![](assets/new.png)  
-- [2022-11-16-在线代码编辑器-Runcode-2.0](https://www.v2ex.com/t/895809) ![](assets/new.png)  
-- [2022-11-16-微信团队语文一向不大好？](https://www.v2ex.com/t/895807) ![](assets/new.png)  
-- [2022-11-16-现在搞移动机械硬盘怎么选](https://www.v2ex.com/t/895806) ![](assets/new.png)  
-- [2022-11-16-算法求助](https://www.v2ex.com/t/895805) ![](assets/new.png)  
-- [2022-11-16-无法通过短信验证码登录](https://www.v2ex.com/t/895803) ![](assets/new.png)  
-- [2022-11-16-China-Mobile-IPv6-速率過於緩慢了-XD](https://www.v2ex.com/t/895801) ![](assets/new.png)  
+- [2022-11-17-看到-V-友发的流量卡帖子，我也来发发牢骚，联通运营商](https://www.v2ex.com/t/895872) ![](assets/new.png)  
+- [2022-11-17-可以在-HK、SG-节点的良心云上修建机场吗？](https://www.v2ex.com/t/895871) ![](assets/new.png)  
+- [2022-11-17-MacBook-主板烧了，维修后竟然无法恢复数据](https://www.v2ex.com/t/895870) ![](assets/new.png)  
+- [2022-11-17-为什么现在行情不好，明年行情会好吗？](https://www.v2ex.com/t/895868) ![](assets/new.png)  
+- [2022-11-17-M1-pro-14-寸-steam-有问题如何解决？](https://www.v2ex.com/t/895867) ![](assets/new.png)  
+- [2022-11-17-V2-有没有护眼色的主题背景](https://www.v2ex.com/t/895866) ![](assets/new.png)  
+- [2022-11-17-这么自私的人是怎么做到的](https://www.v2ex.com/t/895864) ![](assets/new.png)  
+- [2022-11-17-华为手机在-wifi-下仅能使用微信，无法打开网页](https://www.v2ex.com/t/895863) ![](assets/new.png)  
+- [2022-11-17-现在-WLK-怀旧服怎样能快速到-70-级](https://www.v2ex.com/t/895862) ![](assets/new.png)  
+- [2022-11-17-被一家-IDC-恶心到了](https://www.v2ex.com/t/895861) ![](assets/new.png)  
+- [2022-11-17-Python-中，-A-类的成员函数的参数类型是-A-类自身的时候，有什么办法能让类型提示不报错？](https://www.v2ex.com/t/895860) ![](assets/new.png)  
+- [2022-11-17-局域网内通过公网地址访问另一个设备是否要在公网走一圈？](https://www.v2ex.com/t/895858) ![](assets/new.png)  
+- [2022-11-17-求职上海-数据开发，现在还有机会吗？](https://www.v2ex.com/t/895857) ![](assets/new.png)  
+- [2022-11-17-Adobe-Premiere-如何导出-major_brand-是-isom-的-mp4-视频](https://www.v2ex.com/t/895856) ![](assets/new.png)  
+- [2022-11-17-美区-Apple-ID-和国区-Apple-ID-的区别？](https://www.v2ex.com/t/895855) ![](assets/new.png)  
+- [2022-11-17-insert-插入-js-代码出现语法错误,求指点.](https://www.v2ex.com/t/895854) ![](assets/new.png)  
+- [2022-11-17-IOS-文案类-APP，有兴趣的欢迎来体验使用!](https://www.v2ex.com/t/895853) ![](assets/new.png)  
+- [2022-11-17-mysql-混乱的时区](https://www.v2ex.com/t/895852) ![](assets/new.png)  
+- [2022-11-17-有台服务器，被安全策略强制开启自身防火墙，并且-deny-any，如何绕过这种限制？](https://www.v2ex.com/t/895851) ![](assets/new.png)  
+- [2022-11-17-有多少想润出商都的？](https://www.v2ex.com/t/895850) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -544,17 +544,21 @@
 
 
 - [2022-11-17-少年，你知道-tcp-kill-吗？](https://toutiao.io/k/ga3bp9a) ![](assets/new.png)  
-- [2022-11-17-9-大插件，21-张配图，编码路上助你起飞](https://toutiao.io/k/i07esqr) ![](assets/new.png)  
 - [2022-11-17-常说的代码整洁到底是什么？](https://toutiao.io/k/4up9tv9) ![](assets/new.png)  
+- [2022-11-17-9-大插件，21-张配图，编码路上助你起飞](https://toutiao.io/k/i07esqr) ![](assets/new.png)  
 - [2022-11-17-分布式人工智能，未来大有可为！](https://toutiao.io/k/avzd35a) ![](assets/new.png)  
 - [2022-11-17-7-款殿堂级的开源-CMS（内容管理系统）](https://toutiao.io/k/lyl77sm) ![](assets/new.png)  
 - [2022-11-17-谈谈我工作中的-23-个设计模式](https://toutiao.io/k/wpvugn5) ![](assets/new.png)  
-- [2022-11-17-Rust-和-Cpp-互操作](https://toutiao.io/k/qzc6anb) ![](assets/new.png)  
 - [2022-11-17-清华大学：元宇宙发展研究报告-3.0-发布](https://toutiao.io/k/9xu4x35) ![](assets/new.png)  
+- [2022-11-17-Rust-和-Cpp-互操作](https://toutiao.io/k/qzc6anb) ![](assets/new.png)  
 - [2022-11-17-干货｜数据湖技术在抖音近实时场景的实践](https://toutiao.io/k/e7255b8) ![](assets/new.png)  
 - [2022-11-17-Switchquery：移动端秒级配置触达平台](https://toutiao.io/k/7he3t4u) ![](assets/new.png)  
-- [2022-11-17-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) ![](assets/new.png)  
+- [2022-11-17-深入认识-SaaS-产品架构](https://toutiao.io/k/aqtccnz) ![](assets/new.png)  
+- [2022-11-17-解-Bug-之路：记一次线上请求偶尔变慢的排查](https://toutiao.io/k/w3iiwj3) ![](assets/new.png)  
+- [2022-11-17-这样用-lerna-也太爽了吧！](https://toutiao.io/k/eb57j4o) ![](assets/new.png)  
+- [2022-11-17-攻防对抗-|-RASP-技术上的命令执行攻防探索](https://toutiao.io/k/w9uveog) ![](assets/new.png)  
 - [2022-11-17-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) ![](assets/new.png)  
+- [2022-11-17-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-17 03:43:05，:rocket: 更新条数: +2015， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-17 04:15:44，:rocket: 更新条数: +2013， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,13 @@
 </summary>
 
 
+- [2022-11-17-小团队的相关文档如果想部署成网页应该用什么方案？](https://www.v2ex.com/t/895898) ![](assets/new.png)  
+- [2022-11-17-求助-vue-和-uniapp-的-pdf，-word，预览怎么做？](https://www.v2ex.com/t/895897) ![](assets/new.png)  
+- [2022-11-17-暴雪：将暂停大部分游戏在中国大陆的服务，包括《魔兽世界》](https://www.v2ex.com/t/895895) ![](assets/new.png)  
+- [2022-11-17-腾讯云官网产品可做额外折扣](https://www.v2ex.com/t/895894) ![](assets/new.png)  
+- [2022-11-17-你们的次卧都是用的什么桌椅？](https://www.v2ex.com/t/895893) ![](assets/new.png)  
+- [2022-11-17-苹果备忘录如何在安卓手机上使用！](https://www.v2ex.com/t/895892) ![](assets/new.png)  
+- [2022-11-17-它来了，-DS923+](https://www.v2ex.com/t/895891) ![](assets/new.png)  
 - [2022-11-17-请教一下大家，现在还有那种业余兼职翻译相关的平台么](https://www.v2ex.com/t/895890) ![](assets/new.png)  
 - [2022-11-17-开个坑-kustz-快速发布应用到-Kubernetes](https://www.v2ex.com/t/895889) ![](assets/new.png)  
 - [2022-11-17-如何评价华为新提出的-arkTS-语言？](https://www.v2ex.com/t/895887) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-11-17-请问有没有微信小程序能用的-vue-版的音频播放器?](https://www.v2ex.com/t/895878) ![](assets/new.png)  
 - [2022-11-17-求推荐个买茶叶的店](https://www.v2ex.com/t/895876) ![](assets/new.png)  
 - [2022-11-17-被外包的能力给吓到了](https://www.v2ex.com/t/895875) ![](assets/new.png)  
-- [2022-11-17-求一个解决方案，关于记录个人数据的笔记设备](https://www.v2ex.com/t/895874) ![](assets/new.png)  
-- [2022-11-17-看到-V-友发的流量卡帖子，我也来发发牢骚，联通运营商](https://www.v2ex.com/t/895872) ![](assets/new.png)  
-- [2022-11-17-可以在-HK、SG-节点的良心云上修建机场吗？](https://www.v2ex.com/t/895871) ![](assets/new.png)  
-- [2022-11-17-MacBook-主板烧了，维修后竟然无法恢复数据](https://www.v2ex.com/t/895870) ![](assets/new.png)  
-- [2022-11-17-为什么现在行情不好，明年行情会好吗？](https://www.v2ex.com/t/895868) ![](assets/new.png)  
-- [2022-11-17-M1-pro-14-寸-steam-有问题如何解决？](https://www.v2ex.com/t/895867) ![](assets/new.png)  
-- [2022-11-17-V2-有没有护眼色的主题背景](https://www.v2ex.com/t/895866) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -546,8 +546,8 @@
 - [2022-11-17-少年，你知道-tcp-kill-吗？](https://toutiao.io/k/ga3bp9a) ![](assets/new.png)  
 - [2022-11-17-常说的代码整洁到底是什么？](https://toutiao.io/k/4up9tv9) ![](assets/new.png)  
 - [2022-11-17-9-大插件，21-张配图，编码路上助你起飞](https://toutiao.io/k/i07esqr) ![](assets/new.png)  
-- [2022-11-17-分布式人工智能，未来大有可为！](https://toutiao.io/k/avzd35a) ![](assets/new.png)  
 - [2022-11-17-7-款殿堂级的开源-CMS（内容管理系统）](https://toutiao.io/k/lyl77sm) ![](assets/new.png)  
+- [2022-11-17-分布式人工智能，未来大有可为！](https://toutiao.io/k/avzd35a) ![](assets/new.png)  
 - [2022-11-17-谈谈我工作中的-23-个设计模式](https://toutiao.io/k/wpvugn5) ![](assets/new.png)  
 - [2022-11-17-清华大学：元宇宙发展研究报告-3.0-发布](https://toutiao.io/k/9xu4x35) ![](assets/new.png)  
 - [2022-11-17-Rust-和-Cpp-互操作](https://toutiao.io/k/qzc6anb) ![](assets/new.png)  
@@ -557,8 +557,8 @@
 - [2022-11-17-解-Bug-之路：记一次线上请求偶尔变慢的排查](https://toutiao.io/k/w3iiwj3) ![](assets/new.png)  
 - [2022-11-17-这样用-lerna-也太爽了吧！](https://toutiao.io/k/eb57j4o) ![](assets/new.png)  
 - [2022-11-17-攻防对抗-|-RASP-技术上的命令执行攻防探索](https://toutiao.io/k/w9uveog) ![](assets/new.png)  
-- [2022-11-17-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) ![](assets/new.png)  
 - [2022-11-17-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) ![](assets/new.png)  
+- [2022-11-17-推荐-新来个技术总监，仅花-2-小时，撸出一个多线程永动任务，看完直接跪了，真牛逼](https://toutiao.io/k/6u3q7ke) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

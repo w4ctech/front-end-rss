@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-11-17 03:43:05。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-17 04:15:44。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -56,6 +56,7 @@
 
 
 
+- [【V2EX】求助-vue-和-uniapp-的-pdf，-word，预览怎么做？](https://www.v2ex.com/t/895897)
 - [【V2EX】请问有没有微信小程序能用的-vue-版的音频播放器?](https://www.v2ex.com/t/895878)
 - [......【查看更多】......](./details/tags/vue.md)
 
@@ -155,6 +156,7 @@
 
 
 
+- [【V2EX】暴雪：将暂停大部分游戏在中国大陆的服务，包括《魔兽世界》](https://www.v2ex.com/t/895895)
 - [......【查看更多】......](./details/tags/dev-game.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -179,7 +181,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】港府回应一63岁患者死亡事件-暂无法确定与疫苗相关](https://m.caixin.com/m/2021-03-03/101670052.html)
 - [【张鑫旭-鑫空间-鑫生活】2022年新出了哪些form表单新特性？](https://www.zhangxinxu.com/wordpress/2022/10/2022-new-form-property/)
 - [【V2EX】insert-插入-js-代码出现语法错误,求指点.](https://www.v2ex.com/t/895854)
-- [【V2EX】2.5G-内网需求，-4125-工控机做软路由是否一个好选择？](https://www.v2ex.com/t/895848)
 - [......【查看更多】......](./details/tags/javascript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -291,7 +292,6 @@
 
 
 
-- [【V2EX】web3-独角兽公司招聘全栈工程师（远程工作）](https://www.v2ex.com/t/895849)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -324,7 +324,6 @@
 
 
 
-- [【V2EX】求助-Git-合并解决冲突疑问](https://www.v2ex.com/t/895847)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

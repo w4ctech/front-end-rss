@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-17 20:38:31，:rocket: 更新条数: +2011， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-17 21:11:48，:rocket: 更新条数: +2011， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-11-17-发现-twitter-上很多（我关注的画师里就有-8-个）日本人（100%真人）喜欢用随机无意义大小写数字组合（像密码管理器生成的密码一样）作用户名，而欧美-twitter-...](https://www.v2ex.com/t/896089) ![](assets/new.png)  
 - [2022-11-17-小型外-贸企业用阿-里云-Di-gitalOcean-还是-OVH-更好？](https://www.v2ex.com/t/896088) ![](assets/new.png)  
 - [2022-11-17-深夜难眠。。。干的工作远远超出了工资。。。吐槽。。。](https://www.v2ex.com/t/896087) ![](assets/new.png)  
 - [2022-11-17-随笔感悟哎](https://www.v2ex.com/t/896086) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-11-17-15-收喵云-hinet-tw-NAT](https://www.v2ex.com/t/896069) ![](assets/new.png)  
 - [2022-11-17-各位大佬，-Google-Workspace-商务新手版订阅到期订阅续费问题？](https://www.v2ex.com/t/896068) ![](assets/new.png)  
 - [2022-11-17-谁知道淘宝卖指定电影票是怎么操作的？](https://www.v2ex.com/t/896066) ![](assets/new.png)  
-- [2022-11-17-分享我做的-iOS-Safari-扩展《布丁扩展》](https://www.v2ex.com/t/896064) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

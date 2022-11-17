@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-17 20:38:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-17 21:11:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1917,6 +1917,7 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-11-17-发现-twitter-上很多（我关注的画师里就有-8-个）日本人（100%真人）喜欢用随机无意义大小写数字组合（像密码管理器生成的密码一样）作用户名，而欧美-twitter-...](https://www.v2ex.com/t/896089) 
 - [2022-11-17-深夜难眠。。。干的工作远远超出了工资。。。吐槽。。。](https://www.v2ex.com/t/896087) 
 - [2022-11-17-随笔感悟哎](https://www.v2ex.com/t/896086) 
 - [2022-11-17-cnbeta-怎么突然关闭了？](https://www.v2ex.com/t/896082) 

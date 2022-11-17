@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-17 17:39:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-17 18:15:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1949,7 +1949,6 @@
 - [2022-11-17-AirPods-Pro-第二代在走路时有哒哒声](https://www.v2ex.com/t/896040) 
 - [2022-11-17-SweetAlert2-库添加了恶意政治代码](https://www.v2ex.com/t/896036) 
 - [2022-11-17-中国联通私自判定用户异常直接停机，无法恢复。昨天吃瓜看到有个-v2er-被停了今天就轮到我了。附交流过程。怀疑是不是富强被盯了](https://www.v2ex.com/t/896035) 
-- [2022-11-17-请问-RDM-直通给群晖的硬盘如何迁移？](https://www.v2ex.com/t/896034) 
 - [2022-11-17-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-17-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-17-以综合指数观察和评价研发效能的趋势-link.zhihu.com](https://blogread.cn/news/go.php?idItem=15406&url=https%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttps%253A%2F%2Finsights.thoughtworks.cn%2Fobserving-evaluating-research-development-efficiency-trend%2F%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

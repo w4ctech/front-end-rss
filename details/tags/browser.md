@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-17 07:35:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-17 08:18:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -14,7 +14,5 @@
 - [2021-01-08-解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html) 
 - [2021-01-01-大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html) 
 - [2022-11-17-Microsoft-Edge-PDF-Reader-添加文字的-Bug](https://www.v2ex.com/t/895956) 
-- [2022-11-17-最近-Mac-息屏一段时间后总是异常重启,-有遇到的吗？-ANS2-Recoverable-Panic---assert-failed:-14512:apcie02](https://www.v2ex.com/t/895926) 
-- [2022-11-17-edge发现一个有意思的功能](https://www.v2ex.com/t/895924) 
 - [2022-11-17-团队的Code-Review实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15409&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-code-review%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-17-解-Bug-之路：记一次线上请求偶尔变慢的排查](https://toutiao.io/k/w3iiwj3) 

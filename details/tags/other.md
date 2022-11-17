@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-17 16:53:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-17 17:14:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1917,6 +1917,11 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-11-17-cnbeta-怎么突然关闭了？](https://www.v2ex.com/t/896082) 
+- [2022-11-17-能读会看不会用，请问有侧重应用写作的英语学习软件工具-app-吗？](https://www.v2ex.com/t/896081) 
+- [2022-11-17-系统架构设计求解惑](https://www.v2ex.com/t/896080) 
+- [2022-11-17-请问下深圳户口现在好入吗](https://www.v2ex.com/t/896079) 
+- [2022-11-17-pdd-chatbot-Java-后端快到碗里来](https://www.v2ex.com/t/896078) 
 - [2022-11-17-在亚马逊中国实习快结束了，中文客服岗位](https://www.v2ex.com/t/896076) 
 - [2022-11-17-#-0x01-Kustz-简介和思路](https://www.v2ex.com/t/896075) 
 - [2022-11-17-现在有没有对-Linux-系统友好的-ARM-笔记本推荐的？](https://www.v2ex.com/t/896074) 
@@ -1945,8 +1950,6 @@
 - [2022-11-17-SweetAlert2-库添加了恶意政治代码](https://www.v2ex.com/t/896036) 
 - [2022-11-17-中国联通私自判定用户异常直接停机，无法恢复。昨天吃瓜看到有个-v2er-被停了今天就轮到我了。附交流过程。怀疑是不是富强被盯了](https://www.v2ex.com/t/896035) 
 - [2022-11-17-请问-RDM-直通给群晖的硬盘如何迁移？](https://www.v2ex.com/t/896034) 
-- [2022-11-17-最新版的-ios，解决了-app-频繁弹窗要求粘贴的问题吗？](https://www.v2ex.com/t/896032) 
-- [2022-11-17-第一次海淘，寻求建议](https://www.v2ex.com/t/896028) 
 - [2022-11-17-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-17-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-17-以综合指数观察和评价研发效能的趋势-link.zhihu.com](https://blogread.cn/news/go.php?idItem=15406&url=https%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttps%253A%2F%2Finsights.thoughtworks.cn%2Fobserving-evaluating-research-development-efficiency-trend%2F%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

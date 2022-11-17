@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-17 09:38:17，:rocket: 更新条数: +2010， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-17 10:13:19，:rocket: 更新条数: +2013， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-11-17-请问如何自己封装-centos！](https://www.v2ex.com/t/896007) ![](assets/new.png)  
+- [2022-11-17-老板总是问我多少天能做完](https://www.v2ex.com/t/896006) ![](assets/new.png)  
+- [2022-11-17-用-Swift-写-CLI-遇到的问题](https://www.v2ex.com/t/896005) ![](assets/new.png)  
+- [2022-11-17-有没有做-iOS-开发的朋友，-iOS-的后台刷新真的有用吗？](https://www.v2ex.com/t/896004) ![](assets/new.png)  
+- [2022-11-17-听说-macOS-能让资源库（Library-文件夹）永久显示在“前往”菜单列表内？](https://www.v2ex.com/t/896003) ![](assets/new.png)  
+- [2022-11-17-论家庭普通网络如何低成本合法的优化外网访问速度](https://www.v2ex.com/t/896002) ![](assets/new.png)  
 - [2022-11-17-大家有什么富文本编辑器在后台发了可以在-app-显示的呀](https://www.v2ex.com/t/896001) ![](assets/new.png)  
 - [2022-11-17-为什么这段代码会报错](https://www.v2ex.com/t/896000) ![](assets/new.png)  
 - [2022-11-17-河北买车，能申请个北京的临牌用吗](https://www.v2ex.com/t/895999) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-11-17-没有苹果设备，如何管理-icloud-中的照片？](https://www.v2ex.com/t/895990) ![](assets/new.png)  
 - [2022-11-17-你们会用到-win/cmd-R-alt-R-ctrl-R-吗？](https://www.v2ex.com/t/895988) ![](assets/new.png)  
 - [2022-11-17-2022-年了，-mSATA-SSD-怎么还有厂商在做](https://www.v2ex.com/t/895987) ![](assets/new.png)  
-- [2022-11-17-关于分库分表的查询思考](https://www.v2ex.com/t/895986) ![](assets/new.png)  
-- [2022-11-17-为啥这么多所谓的民教网](https://www.v2ex.com/t/895985) ![](assets/new.png)  
-- [2022-11-17-如何预览-PDF-里可点击的页内链接的内容？](https://www.v2ex.com/t/895984) ![](assets/new.png)  
-- [2022-11-17-OneBlock-的-Substrate-训练营靠谱吗？](https://www.v2ex.com/t/895982) ![](assets/new.png)  
-- [2022-11-17-世界杯快到了，现在还有什么买足彩的线上渠道吗](https://www.v2ex.com/t/895979) ![](assets/new.png)  
-- [2022-11-17-可以正常访问-google.com.hk-但是搜索引擎使用默认的-google.com-经常不能访问](https://www.v2ex.com/t/895978) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

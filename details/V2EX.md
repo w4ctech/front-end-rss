@@ -1,10 +1,16 @@
-:alarm_clock: 更新时间: 2022-11-17 09:38:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-17 10:13:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-11-17-请问如何自己封装-centos！](https://www.v2ex.com/t/896007) 
+- [2022-11-17-老板总是问我多少天能做完](https://www.v2ex.com/t/896006) 
+- [2022-11-17-用-Swift-写-CLI-遇到的问题](https://www.v2ex.com/t/896005) 
+- [2022-11-17-有没有做-iOS-开发的朋友，-iOS-的后台刷新真的有用吗？](https://www.v2ex.com/t/896004) 
+- [2022-11-17-听说-macOS-能让资源库（Library-文件夹）永久显示在“前往”菜单列表内？](https://www.v2ex.com/t/896003) 
+- [2022-11-17-论家庭普通网络如何低成本合法的优化外网访问速度](https://www.v2ex.com/t/896002) 
 - [2022-11-17-大家有什么富文本编辑器在后台发了可以在-app-显示的呀](https://www.v2ex.com/t/896001) 
 - [2022-11-17-为什么这段代码会报错](https://www.v2ex.com/t/896000) 
 - [2022-11-17-河北买车，能申请个北京的临牌用吗](https://www.v2ex.com/t/895999) 
@@ -39,6 +45,3 @@
 - [2022-11-17-云服务器自动删除文件夹问题](https://www.v2ex.com/t/895962) 
 - [2022-11-17-完善一下-lua-代码，有偿](https://www.v2ex.com/t/895961) 
 - [2022-11-17-想买一辆自行车通勤，可是天热时满身大汉到公司怎么解决](https://www.v2ex.com/t/895959) 
-- [2022-11-17-Microsoft-Edge-PDF-Reader-添加文字的-Bug](https://www.v2ex.com/t/895956) 
-- [2022-11-17-请教下-峰米-v10-和-海信-vidaa-c1-哪款投影仪好](https://www.v2ex.com/t/895955) 
-- [2022-11-17-Vue-KeepAlive-Tab-页问题](https://www.v2ex.com/t/895952) 

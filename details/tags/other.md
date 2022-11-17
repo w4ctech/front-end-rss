@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-17 22:13:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-17 22:39:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1917,6 +1917,7 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-11-17-两个-Offer-该如何抉择？](https://www.v2ex.com/t/896090) 
 - [2022-11-17-发现-twitter-上很多（我关注的画师里就有-8-个）日本人（100%真人）喜欢用随机无意义大小写数字组合（像密码管理器生成的密码一样）作用户名，而欧美-twitter-...](https://www.v2ex.com/t/896089) 
 - [2022-11-17-深夜难眠。。。干的工作远远超出了工资。。。吐槽。。。](https://www.v2ex.com/t/896087) 
 - [2022-11-17-随笔感悟哎](https://www.v2ex.com/t/896086) 
@@ -1949,7 +1950,6 @@
 - [2022-11-17-怎么才能戒掉烟呢](https://www.v2ex.com/t/896044) 
 - [2022-11-17-关于单点登录-CAS-票据校验的一点疑惑](https://www.v2ex.com/t/896042) 
 - [2022-11-17-iPad-air3-日版，微信等-app-语音麦克风不起作用，照相机有声音怎么回事儿呀？](https://www.v2ex.com/t/896041) 
-- [2022-11-17-AirPods-Pro-第二代在走路时有哒哒声](https://www.v2ex.com/t/896040) 
 - [2022-11-17-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-17-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-17-以综合指数观察和评价研发效能的趋势-link.zhihu.com](https://blogread.cn/news/go.php?idItem=15406&url=https%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttps%253A%2F%2Finsights.thoughtworks.cn%2Fobserving-evaluating-research-development-efficiency-trend%2F%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

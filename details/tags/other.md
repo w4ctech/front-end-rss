@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-18 09:12:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-18 09:38:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1917,6 +1917,9 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-11-18-求-Mac-便携显示器推荐](https://www.v2ex.com/t/896267) 
+- [2022-11-18-使用-Apple-Watch-跑步和自我量化](https://www.v2ex.com/t/896265) 
+- [2022-11-18-C++-中的-enum-可以强制要求使用命名前缀吗？](https://www.v2ex.com/t/896264) 
 - [2022-11-18-中环转运的-YubiKey，大佬们商品信息怎么填的？](https://www.v2ex.com/t/896263) 
 - [2022-11-18-APPLE-京东自营亲戚买了-2-台-14-已经拆封没激活现在不给退货有办法解决吗？](https://www.v2ex.com/t/896262) 
 - [2022-11-18-有没有支持中文-epub-比较好的-app](https://www.v2ex.com/t/896259) 
@@ -1944,7 +1947,6 @@
 - [2022-11-18-妙记多（接力+语音通话+视角跟随的文档笔记工具）上线大纲目录和表格页面浮窗预览，更多新功能预告中](https://www.v2ex.com/t/896224) 
 - [2022-11-18-工信部投诉是真好使](https://www.v2ex.com/t/896222) 
 - [2022-11-18-来说说-cloudflare-有什么好用的功能](https://www.v2ex.com/t/896218) 
-- [2022-11-18-gt1030-带一个-4k-和-1080-的屏幕会吃力吗](https://www.v2ex.com/t/896214) 
 - [2022-11-18-敏捷团队的质量保障赋能-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15410&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fquality-assurance-enablement-in-agile-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-18-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-18-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1960,11 +1962,11 @@
 - [2022-11-18-系统崩了，竟然是不规范打印日志的锅？](https://toutiao.io/k/rumhxhr) 
 - [2022-11-18-保姆级教程！2-万字-+-30-张图搞懂-MySQL-是怎么加行级锁的？](https://toutiao.io/k/ajp0uzy) 
 - [2022-11-18-多指标时序预测方式及时序特征工程总结](https://toutiao.io/k/1bjdqo0) 
-- [2022-11-18-Go1.20-中两个关于-Time-的更新，终于不用背-2006-01-02-15:04:05-了](https://toutiao.io/k/85u9xt9) 
 - [2022-11-18-包管理工具的演进](https://toutiao.io/k/pwpda9w) 
+- [2022-11-18-Go1.20-中两个关于-Time-的更新，终于不用背-2006-01-02-15:04:05-了](https://toutiao.io/k/85u9xt9) 
 - [2022-11-18-Rust-使用-MySQL-数据库（一）](https://toutiao.io/k/rgc2b51) 
-- [2022-11-18-对比-Pandas，学习-PySpark-大数据处理](https://toutiao.io/k/fbuwzvg) 
 - [2022-11-18-你不得不学的Linux，让它助你轻松入门！](https://toutiao.io/k/zqnfh3w) 
-- [2022-11-18-教育大数据之数据资产管理系统](https://toutiao.io/k/95iyg4q) 
+- [2022-11-18-对比-Pandas，学习-PySpark-大数据处理](https://toutiao.io/k/fbuwzvg) 
 - [2022-11-18-2022-稳居-C-位的-AIGC，到底有什么用？](https://toutiao.io/k/601lrla) 
+- [2022-11-18-教育大数据之数据资产管理系统](https://toutiao.io/k/95iyg4q) 
 - [2022-11-18-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-18 09:12:50。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-18 09:38:18。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,9 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-18-求-Mac-便携显示器推荐](https://www.v2ex.com/t/896267) 
+- [【V2EX】2022-11-18-使用-Apple-Watch-跑步和自我量化](https://www.v2ex.com/t/896265) 
+- [【V2EX】2022-11-18-C++-中的-enum-可以强制要求使用命名前缀吗？](https://www.v2ex.com/t/896264) 
 - [【V2EX】2022-11-18-中环转运的-YubiKey，大佬们商品信息怎么填的？](https://www.v2ex.com/t/896263) 
 - [【V2EX】2022-11-18-APPLE-京东自营亲戚买了-2-台-14-已经拆封没激活现在不给退货有办法解决吗？](https://www.v2ex.com/t/896262) 
 - [【V2EX】2022-11-18-现在程序员真的供过于求了吗？招聘都开始问什么星座、是不是党员了。。。](https://www.v2ex.com/t/896261) 
@@ -106,8 +109,6 @@
 - [【V2EX】2022-11-18-请教一个视频压缩的问题。](https://www.v2ex.com/t/896221) 
 - [【V2EX】2022-11-18-最近小程序被抽到去往信半接受整改](https://www.v2ex.com/t/896220) 
 - [【V2EX】2022-11-18-来说说-cloudflare-有什么好用的功能](https://www.v2ex.com/t/896218) 
-- [【V2EX】2022-11-18-刷-Pixel-Experience-还是-买-pixel](https://www.v2ex.com/t/896215) 
-- [【V2EX】2022-11-18-gt1030-带一个-4k-和-1080-的屏幕会吃力吗](https://www.v2ex.com/t/896214) 
 - [【技术头条】2022-11-18-敏捷团队的质量保障赋能-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15410&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fquality-assurance-enablement-in-agile-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-18-团队的Code-Review实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15409&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-code-review%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-18-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -125,15 +126,15 @@
 - [【开发者头条】2022-11-18-系统崩了，竟然是不规范打印日志的锅？](https://toutiao.io/k/rumhxhr) 
 - [【开发者头条】2022-11-18-保姆级教程！2-万字-+-30-张图搞懂-MySQL-是怎么加行级锁的？](https://toutiao.io/k/ajp0uzy) 
 - [【开发者头条】2022-11-18-多指标时序预测方式及时序特征工程总结](https://toutiao.io/k/1bjdqo0) 
-- [【开发者头条】2022-11-18-Go1.20-中两个关于-Time-的更新，终于不用背-2006-01-02-15:04:05-了](https://toutiao.io/k/85u9xt9) 
 - [【开发者头条】2022-11-18-包管理工具的演进](https://toutiao.io/k/pwpda9w) 
+- [【开发者头条】2022-11-18-Go1.20-中两个关于-Time-的更新，终于不用背-2006-01-02-15:04:05-了](https://toutiao.io/k/85u9xt9) 
 - [【开发者头条】2022-11-18-Rust-使用-MySQL-数据库（一）](https://toutiao.io/k/rgc2b51) 
-- [【开发者头条】2022-11-18-对比-Pandas，学习-PySpark-大数据处理](https://toutiao.io/k/fbuwzvg) 
 - [【开发者头条】2022-11-18-你不得不学的Linux，让它助你轻松入门！](https://toutiao.io/k/zqnfh3w) 
+- [【开发者头条】2022-11-18-对比-Pandas，学习-PySpark-大数据处理](https://toutiao.io/k/fbuwzvg) 
 - [【开发者头条】2022-11-18-专为实时而生：GreptimeDB-现已在-GitHub-正式开源](https://toutiao.io/k/phsjngz) 
+- [【开发者头条】2022-11-18-2022-稳居-C-位的-AIGC，到底有什么用？](https://toutiao.io/k/601lrla) 
 - [【开发者头条】2022-11-18-教育大数据之数据资产管理系统](https://toutiao.io/k/95iyg4q) 
 - [【开发者头条】2022-11-18-发现一个宝藏-Python-库，玩社区发现算法的不能错过](https://toutiao.io/k/2ur1taw) 
-- [【开发者头条】2022-11-18-2022-稳居-C-位的-AIGC，到底有什么用？](https://toutiao.io/k/601lrla) 
 - [【开发者头条】2022-11-18-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>

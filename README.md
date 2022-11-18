@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-18 13:50:12，:rocket: 更新条数: +2009， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-18 14:12:33，:rocket: 更新条数: +2010， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-11-18-vmware-fusion-13-正式发布-支持-Apple-silicon-M1](https://www.v2ex.com/t/896318) ![](assets/new.png)  
+- [2022-11-18-今年世界杯不如往年热闹感觉是故意而为之…](https://www.v2ex.com/t/896317) ![](assets/new.png)  
+- [2022-11-18-群晖-DriveApp-的在线文档编辑功能来了](https://www.v2ex.com/t/896316) ![](assets/new.png)  
 - [2022-11-18-mac-上有什么图片漂白软件？网页版也行](https://www.v2ex.com/t/896315) ![](assets/new.png)  
 - [2022-11-18-故事分享-一根能跑-100M-2500M-很多情况不能跑-1000M-的离谱网线](https://www.v2ex.com/t/896314) ![](assets/new.png)  
 - [2022-11-18-前后端分离开发,前端怎么保存没有和后端交互的纯前端界面](https://www.v2ex.com/t/896313) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-11-18-求助新房装修后除甲醛、TOCV-经验](https://www.v2ex.com/t/896295) ![](assets/new.png)  
 - [2022-11-18-ACG2vec-系列之-ACGVoc2vec——基于深度学习的二次元场景适应的文本特征抽取器](https://www.v2ex.com/t/896294) ![](assets/new.png)  
 - [2022-11-18-cloudflare-中转-ip](https://www.v2ex.com/t/896293) ![](assets/new.png)  
-- [2022-11-18-iPad-上的前台调度简直就是用电狂魔](https://www.v2ex.com/t/896292) ![](assets/new.png)  
-- [2022-11-18-想开个开源项目的坑，听听大家的意见](https://www.v2ex.com/t/896291) ![](assets/new.png)  
-- [2022-11-18-公司规章里规定要写周报，但是没写一次后要扣我一周工资](https://www.v2ex.com/t/896288) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

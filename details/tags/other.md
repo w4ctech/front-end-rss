@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-18 13:50:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-18 14:12:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1917,6 +1917,9 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-11-18-vmware-fusion-13-正式发布-支持-Apple-silicon-M1](https://www.v2ex.com/t/896318) 
+- [2022-11-18-今年世界杯不如往年热闹感觉是故意而为之…](https://www.v2ex.com/t/896317) 
+- [2022-11-18-群晖-DriveApp-的在线文档编辑功能来了](https://www.v2ex.com/t/896316) 
 - [2022-11-18-mac-上有什么图片漂白软件？网页版也行](https://www.v2ex.com/t/896315) 
 - [2022-11-18-故事分享-一根能跑-100M-2500M-很多情况不能跑-1000M-的离谱网线](https://www.v2ex.com/t/896314) 
 - [2022-11-18-前后端分离开发,前端怎么保存没有和后端交互的纯前端界面](https://www.v2ex.com/t/896313) 
@@ -1948,8 +1951,6 @@
 - [2022-11-18-pm2-出现幽灵进程](https://www.v2ex.com/t/896273) 
 - [2022-11-18-问下-v-社大佬关于浅色深色](https://www.v2ex.com/t/896270) 
 - [2022-11-18-一说国外都不好，叫回又都不回，这怎么说](https://www.v2ex.com/t/896269) 
-- [2022-11-18-Surge-Mac-5-车缺-4](https://www.v2ex.com/t/896268) 
-- [2022-11-18-求-Mac-便携显示器推荐](https://www.v2ex.com/t/896267) 
 - [2022-11-18-敏捷团队的质量保障赋能-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15410&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fquality-assurance-enablement-in-agile-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-18-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-18-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

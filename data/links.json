@@ -9953,6 +9953,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "请教我碰到的一个电脑故障问题，有偿。",
+        "link": "https://www.v2ex.com/t/896179",
+        "date": "2022-11-18"
+      },
+      {
         "title": "最近职场话题不少，我也来谈谈我司的办公室政治（给鱼塘里贡献鱼）。",
         "link": "https://www.v2ex.com/t/896176",
         "date": "2022-11-18"
@@ -10098,11 +10103,6 @@
         "date": "2022-11-18"
       },
       {
-        "title": "有 spotify 车吗，求一个",
-        "link": "https://www.v2ex.com/t/896141",
-        "date": "2022-11-18"
-      },
-      {
         "title": "在哪里可以买到这种形状的电脑桌？",
         "link": "https://www.v2ex.com/t/896140",
         "date": "2022-11-18"
@@ -10140,11 +10140,6 @@
       {
         "title": "jsdelivr 能被正常解析出来了？？",
         "link": "https://www.v2ex.com/t/896130",
-        "date": "2022-11-18"
-      },
-      {
-        "title": "甲骨文实例无故消失了",
-        "link": "https://www.v2ex.com/t/896128",
         "date": "2022-11-18"
       }
     ]
@@ -10267,23 +10262,23 @@
         "date": "2022-11-18"
       },
       {
-        "title": "你不得不学的Linux，让它助你轻松入门！",
-        "link": "https://toutiao.io/k/zqnfh3w",
-        "date": "2022-11-18"
-      },
-      {
         "title": "专为实时而生：GreptimeDB 现已在 GitHub 正式开源",
         "link": "https://toutiao.io/k/phsjngz",
         "date": "2022-11-18"
       },
       {
-        "title": "2022 稳居 C 位的 AIGC，到底有什么用？",
-        "link": "https://toutiao.io/k/601lrla",
+        "title": "你不得不学的Linux，让它助你轻松入门！",
+        "link": "https://toutiao.io/k/zqnfh3w",
         "date": "2022-11-18"
       },
       {
         "title": "发现一个宝藏 Python 库，玩社区发现算法的不能错过",
         "link": "https://toutiao.io/k/2ur1taw",
+        "date": "2022-11-18"
+      },
+      {
+        "title": "2022 稳居 C 位的 AIGC，到底有什么用？",
+        "link": "https://toutiao.io/k/601lrla",
         "date": "2022-11-18"
       },
       {

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-18 03:54:47，:rocket: 更新条数: +2012， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-18 04:16:27，:rocket: 更新条数: +2011， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-11-18-请教我碰到的一个电脑故障问题，有偿。](https://www.v2ex.com/t/896179) ![](assets/new.png)  
 - [2022-11-18-最近职场话题不少，我也来谈谈我司的办公室政治（给鱼塘里贡献鱼）。](https://www.v2ex.com/t/896176) ![](assets/new.png)  
 - [2022-11-18-chrome-出啥问题了？](https://www.v2ex.com/t/896175) ![](assets/new.png)  
 - [2022-11-18-笔记本如何开机让外接显示屏作为默认显示屏？](https://www.v2ex.com/t/896174) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-11-18-iPhone-信号真的这么拉嚒？](https://www.v2ex.com/t/896159) ![](assets/new.png)  
 - [2022-11-18-有-angular-大神吗，-cdk-virtual-scroll-viewport-和-formArray-一起用滚动中间顺序乱了](https://www.v2ex.com/t/896158) ![](assets/new.png)  
 - [2022-11-18-博纳院线在环球中心开了个新影院](https://www.v2ex.com/t/896157) ![](assets/new.png)  
-- [2022-11-18-招-remote-working-运维，-2-3-个-HC，全职，-web3-赛道](https://www.v2ex.com/t/896156) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -554,10 +554,10 @@
 - [2022-11-18-Rust-使用-MySQL-数据库（一）](https://toutiao.io/k/rgc2b51) ![](assets/new.png)  
 - [2022-11-18-包管理工具的演进](https://toutiao.io/k/pwpda9w) ![](assets/new.png)  
 - [2022-11-18-对比-Pandas，学习-PySpark-大数据处理](https://toutiao.io/k/fbuwzvg) ![](assets/new.png)  
-- [2022-11-18-你不得不学的Linux，让它助你轻松入门！](https://toutiao.io/k/zqnfh3w) ![](assets/new.png)  
 - [2022-11-18-专为实时而生：GreptimeDB-现已在-GitHub-正式开源](https://toutiao.io/k/phsjngz) ![](assets/new.png)  
-- [2022-11-18-2022-稳居-C-位的-AIGC，到底有什么用？](https://toutiao.io/k/601lrla) ![](assets/new.png)  
+- [2022-11-18-你不得不学的Linux，让它助你轻松入门！](https://toutiao.io/k/zqnfh3w) ![](assets/new.png)  
 - [2022-11-18-发现一个宝藏-Python-库，玩社区发现算法的不能错过](https://toutiao.io/k/2ur1taw) ![](assets/new.png)  
+- [2022-11-18-2022-稳居-C-位的-AIGC，到底有什么用？](https://toutiao.io/k/601lrla) ![](assets/new.png)  
 - [2022-11-18-教育大数据之数据资产管理系统](https://toutiao.io/k/95iyg4q) ![](assets/new.png)  
 - [2022-11-18-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)

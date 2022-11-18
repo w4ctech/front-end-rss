@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-18 15:12:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-18 15:40:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1917,6 +1917,7 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-11-18-请问配置域名邮箱的时候，一个域名指向多个邮件服务商会发生什么事？这种配置方式有什么实际用途？](https://www.v2ex.com/t/896333) 
 - [2022-11-18-对于想进入投资市场股票币圈等或者量化等，有必要深入学-K-线图吗？](https://www.v2ex.com/t/896330) 
 - [2022-11-18-是否该接受-offer](https://www.v2ex.com/t/896328) 
 - [2022-11-18-这种-1688-买的安卓手机可以-root-吗-？](https://www.v2ex.com/t/896327) 
@@ -1947,10 +1948,6 @@
 - [2022-11-18-iPad-上的前台调度简直就是用电狂魔](https://www.v2ex.com/t/896292) 
 - [2022-11-18-想开个开源项目的坑，听听大家的意见](https://www.v2ex.com/t/896291) 
 - [2022-11-18-公司规章里规定要写周报，但是没写一次后要扣我一周工资](https://www.v2ex.com/t/896288) 
-- [2022-11-18-即将进入黑五周，大家有什么好物推荐吗](https://www.v2ex.com/t/896285) 
-- [2022-11-18-做了一个实物图书管理的小网站，想问问你们有没有需求，具体需要什么功能](https://www.v2ex.com/t/896284) 
-- [2022-11-18-求幫小白建造一台黑蘋果電腦-pc](https://www.v2ex.com/t/896283) 
-- [2022-11-18-请教各位-v-友，之前在甲骨文搭建的-SSR-一直正常使用。但是今天无法用了。](https://www.v2ex.com/t/896282) 
 - [2022-11-18-敏捷团队的质量保障赋能-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15410&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fquality-assurance-enablement-in-agile-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-18-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-18-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1966,9 +1963,9 @@
 - [2022-11-18-系统崩了，竟然是不规范打印日志的锅？](https://toutiao.io/k/rumhxhr) 
 - [2022-11-18-保姆级教程！2-万字-+-30-张图搞懂-MySQL-是怎么加行级锁的？](https://toutiao.io/k/ajp0uzy) 
 - [2022-11-18-包管理工具的演进](https://toutiao.io/k/pwpda9w) 
-- [2022-11-18-多指标时序预测方式及时序特征工程总结](https://toutiao.io/k/1bjdqo0) 
 - [2022-11-18-Rust-使用-MySQL-数据库（一）](https://toutiao.io/k/rgc2b51) 
 - [2022-11-18-你不得不学的Linux，让它助你轻松入门！](https://toutiao.io/k/zqnfh3w) 
+- [2022-11-18-多指标时序预测方式及时序特征工程总结](https://toutiao.io/k/1bjdqo0) 
 - [2022-11-18-2022-稳居-C-位的-AIGC，到底有什么用？](https://toutiao.io/k/601lrla) 
 - [2022-11-18-Go1.20-中两个关于-Time-的更新，终于不用背-2006-01-02-15:04:05-了](https://toutiao.io/k/85u9xt9) 
 - [2022-11-18-对比-Pandas，学习-PySpark-大数据处理](https://toutiao.io/k/fbuwzvg) 

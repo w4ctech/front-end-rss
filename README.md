@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-18 15:12:57，:rocket: 更新条数: +2010， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-18 15:40:00，:rocket: 更新条数: +2010， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-11-18-Vue-表单问题](https://www.v2ex.com/t/896335) ![](assets/new.png)  
+- [2022-11-18-感觉-3D-打印快入坑了](https://www.v2ex.com/t/896334) ![](assets/new.png)  
+- [2022-11-18-请问配置域名邮箱的时候，一个域名指向多个邮件服务商会发生什么事？这种配置方式有什么实际用途？](https://www.v2ex.com/t/896333) ![](assets/new.png)  
+- [2022-11-18-nginx-配置迁移遇到的一个奇怪问题](https://www.v2ex.com/t/896332) ![](assets/new.png)  
 - [2022-11-18-对于想进入投资市场股票币圈等或者量化等，有必要深入学-K-线图吗？](https://www.v2ex.com/t/896330) ![](assets/new.png)  
 - [2022-11-18-是否该接受-offer](https://www.v2ex.com/t/896328) ![](assets/new.png)  
 - [2022-11-18-这种-1688-买的安卓手机可以-root-吗-？](https://www.v2ex.com/t/896327) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-11-18-mac-上有什么图片漂白软件？网页版也行](https://www.v2ex.com/t/896315) ![](assets/new.png)  
 - [2022-11-18-故事分享-一根能跑-100M-2500M-很多情况不能跑-1000M-的离谱网线](https://www.v2ex.com/t/896314) ![](assets/new.png)  
 - [2022-11-18-前后端分离开发,前端怎么保存没有和后端交互的纯前端界面](https://www.v2ex.com/t/896313) ![](assets/new.png)  
-- [2022-11-18-喜欢原生安卓手机的为什么不尝试一下摩托罗拉。](https://www.v2ex.com/t/896311) ![](assets/new.png)  
-- [2022-11-18-土区-apple-store-如何充值？](https://www.v2ex.com/t/896310) ![](assets/new.png)  
-- [2022-11-18-如果想创作一部日本动画的同人作品，应该向制作委员会还是-Aniplex-这样的动画公司申请授权？（看贩售的周边包装上贴的都是-Aniplex-授权的标志）](https://www.v2ex.com/t/896309) ![](assets/new.png)  
-- [2022-11-18-上海新房贷款，能不能自己选银行？](https://www.v2ex.com/t/896307) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -550,9 +550,9 @@
 - [2022-11-18-系统崩了，竟然是不规范打印日志的锅？](https://toutiao.io/k/rumhxhr) ![](assets/new.png)  
 - [2022-11-18-保姆级教程！2-万字-+-30-张图搞懂-MySQL-是怎么加行级锁的？](https://toutiao.io/k/ajp0uzy) ![](assets/new.png)  
 - [2022-11-18-包管理工具的演进](https://toutiao.io/k/pwpda9w) ![](assets/new.png)  
-- [2022-11-18-多指标时序预测方式及时序特征工程总结](https://toutiao.io/k/1bjdqo0) ![](assets/new.png)  
 - [2022-11-18-Rust-使用-MySQL-数据库（一）](https://toutiao.io/k/rgc2b51) ![](assets/new.png)  
 - [2022-11-18-你不得不学的Linux，让它助你轻松入门！](https://toutiao.io/k/zqnfh3w) ![](assets/new.png)  
+- [2022-11-18-多指标时序预测方式及时序特征工程总结](https://toutiao.io/k/1bjdqo0) ![](assets/new.png)  
 - [2022-11-18-2022-稳居-C-位的-AIGC，到底有什么用？](https://toutiao.io/k/601lrla) ![](assets/new.png)  
 - [2022-11-18-专为实时而生：GreptimeDB-现已在-GitHub-正式开源](https://toutiao.io/k/phsjngz) ![](assets/new.png)  
 - [2022-11-18-Go1.20-中两个关于-Time-的更新，终于不用背-2006-01-02-15:04:05-了](https://toutiao.io/k/85u9xt9) ![](assets/new.png)  

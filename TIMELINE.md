@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-18 10:14:02。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-18 10:41:22。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,7 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-18-请教各位-v-友，之前在甲骨文搭建的-SSR-一直正常使用。但是今天无法用了。](https://www.v2ex.com/t/896282) 
 - [【V2EX】2022-11-18-有朋友最近买过-14-寸-MacBook-Pro-吗，帮忙指指路](https://www.v2ex.com/t/896280) 
 - [【V2EX】2022-11-18-Apple-Store-日服-充值](https://www.v2ex.com/t/896279) 
 - [【V2EX】2022-11-18-关于容器化部署-vue-项目思路讨论](https://www.v2ex.com/t/896278) 
@@ -108,8 +109,6 @@
 - [【V2EX】2022-11-18-为什么有女孩喜欢烟味](https://www.v2ex.com/t/896236) 
 - [【V2EX】2022-11-18-法亚-Kindle-能否去除待机广告](https://www.v2ex.com/t/896235) 
 - [【V2EX】2022-11-18-卸载得应用还在获取位置？](https://www.v2ex.com/t/896234) 
-- [【V2EX】2022-11-18-坐标上海大虹桥，头部外资医疗，科创超算平台（AI-&机器学习相关）算法高级工程师](https://www.v2ex.com/t/896232) 
-- [【V2EX】2022-11-18-Springboot-如何捕获启动过程中出现的异常](https://www.v2ex.com/t/896231) 
 - [【技术头条】2022-11-18-敏捷团队的质量保障赋能-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15410&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fquality-assurance-enablement-in-agile-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-18-团队的Code-Review实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15409&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-code-review%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-18-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

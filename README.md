@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-18 01:07:54，:rocket: 更新条数: +2007， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-18 03:03:14，:rocket: 更新条数: +2008， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,26 +491,26 @@
 </summary>
 
 
-- [2022-11-18-变现周刊#80:-一个-Notion-页面转成网站客服小部件](https://www.v2ex.com/t/896098) ![](assets/new.png)  
-- [2022-11-18-推荐《她和她的她》](https://www.v2ex.com/t/896096) ![](assets/new.png)  
-- [2022-11-18-电视端支持-webdav-的播放器](https://www.v2ex.com/t/896095) ![](assets/new.png)  
-- [2022-11-18-天天抽奖，非你莫属！](https://www.v2ex.com/t/896094) ![](assets/new.png)  
-- [2022-11-17-2022-新电脑装啥杀毒软件？](https://www.v2ex.com/t/896092) ![](assets/new.png)  
-- [2022-11-17-大佬们，求分享你们珍藏的全文输出的-Rss-源](https://www.v2ex.com/t/896091) ![](assets/new.png)  
-- [2022-11-17-两个-Offer-该如何抉择？](https://www.v2ex.com/t/896090) ![](assets/new.png)  
-- [2022-11-17-发现-twitter-上很多（我关注的画师里就有-8-个）日本人（100%真人）喜欢用随机无意义大小写数字组合（像密码管理器生成的密码一样）作用户名，而欧美-twitter-...](https://www.v2ex.com/t/896089) ![](assets/new.png)  
-- [2022-11-17-小型外-贸企业用阿-里云-Di-gitalOcean-还是-OVH-更好？](https://www.v2ex.com/t/896088) ![](assets/new.png)  
-- [2022-11-17-深夜难眠。。。干的工作远远超出了工资。。。吐槽。。。](https://www.v2ex.com/t/896087) ![](assets/new.png)  
-- [2022-11-17-随笔感悟哎](https://www.v2ex.com/t/896086) ![](assets/new.png)  
-- [2022-11-17-iPhone-应该搭配什么路由器](https://www.v2ex.com/t/896085) ![](assets/new.png)  
-- [2022-11-17-cnbeta-怎么突然关闭了？](https://www.v2ex.com/t/896082) ![](assets/new.png)  
-- [2022-11-17-能读会看不会用，请问有侧重应用写作的英语学习软件工具-app-吗？](https://www.v2ex.com/t/896081) ![](assets/new.png)  
-- [2022-11-17-系统架构设计求解惑](https://www.v2ex.com/t/896080) ![](assets/new.png)  
-- [2022-11-17-请问下深圳户口现在好入吗](https://www.v2ex.com/t/896079) ![](assets/new.png)  
-- [2022-11-17-pdd-chatbot-Java-后端快到碗里来](https://www.v2ex.com/t/896078) ![](assets/new.png)  
-- [2022-11-17-在亚马逊中国实习快结束了，中文客服岗位](https://www.v2ex.com/t/896076) ![](assets/new.png)  
-- [2022-11-17-#-0x01-Kustz-简介和思路](https://www.v2ex.com/t/896075) ![](assets/new.png)  
-- [2022-11-17-现在有没有对-Linux-系统友好的-ARM-笔记本推荐的？](https://www.v2ex.com/t/896074) ![](assets/new.png)  
+- [2022-11-18-求推荐一款能本地部署的人事档案管理系统](https://www.v2ex.com/t/896153) ![](assets/new.png)  
+- [2022-11-18-分享一款-AppleTV-直播软件-—-tv+](https://www.v2ex.com/t/896152) ![](assets/new.png)  
+- [2022-11-18-刚入职场，工作了半年现在很迷茫，想问问前辈们一些问题。](https://www.v2ex.com/t/896149) ![](assets/new.png)  
+- [2022-11-18-求解-bash-zsh-fish-的区别以及会有的影响](https://www.v2ex.com/t/896148) ![](assets/new.png)  
+- [2022-11-18-Win11-22H2-如何禁止-IE-打开跳转?](https://www.v2ex.com/t/896147) ![](assets/new.png)  
+- [2022-11-18-买耳机好像是个玄学的东西，没实际试听之前，都不知道自己喜不喜欢。](https://www.v2ex.com/t/896146) ![](assets/new.png)  
+- [2022-11-18-请教一个-PCDN-节点是如何向客户端分发流量的问题](https://www.v2ex.com/t/896145) ![](assets/new.png)  
+- [2022-11-18-如何将一个-docker-镜像的所有-cpu-架构变体移动到其他仓库](https://www.v2ex.com/t/896144) ![](assets/new.png)  
+- [2022-11-18-寻一个-old-school-的-table-组件-vue2](https://www.v2ex.com/t/896142) ![](assets/new.png)  
+- [2022-11-18-有-spotify-车吗，求一个](https://www.v2ex.com/t/896141) ![](assets/new.png)  
+- [2022-11-18-在哪里可以买到这种形状的电脑桌？](https://www.v2ex.com/t/896140) ![](assets/new.png)  
+- [2022-11-18-北京-招一名前端/可视化工程师](https://www.v2ex.com/t/896139) ![](assets/new.png)  
+- [2022-11-18-Airpods-断连太严重了吧](https://www.v2ex.com/t/896138) ![](assets/new.png)  
+- [2022-11-18-竹白专栏检索工具](https://www.v2ex.com/t/896136) ![](assets/new.png)  
+- [2022-11-18-怎么才能让公司开除我，而且不扣钱](https://www.v2ex.com/t/896133) ![](assets/new.png)  
+- [2022-11-18-不会真的是-49-年入国军吧？😭-iPhone14-系列-对比前几代性价比高吗？如果想当钉子户机子来用的话值得入吗？](https://www.v2ex.com/t/896132) ![](assets/new.png)  
+- [2022-11-18-请教一行代码，-use-cargo_modules](https://www.v2ex.com/t/896131) ![](assets/new.png)  
+- [2022-11-18-jsdelivr-能被正常解析出来了？？](https://www.v2ex.com/t/896130) ![](assets/new.png)  
+- [2022-11-18-甲骨文实例无故消失了](https://www.v2ex.com/t/896128) ![](assets/new.png)  
+- [2022-11-18-Docker-各个域名的作用？](https://www.v2ex.com/t/896125) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -522,6 +522,7 @@
 </summary>
 
 
+- [2022-11-18-敏捷团队的质量保障赋能-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15410&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fquality-assurance-enablement-in-agile-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-11-18-团队的Code-Review实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15409&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-code-review%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-11-18-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-11-18-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
@@ -543,16 +544,21 @@
 </summary>
 
 
-- [2022-11-18-初步探索-GraalVM：云原生时代-JVM-黑科技](https://toutiao.io/k/reuf2rd) ![](assets/new.png)  
-- [2022-11-18-多指标时序预测方式及时序特征工程总结](https://toutiao.io/k/1bjdqo0) ![](assets/new.png)  
 - [2022-11-18-2022下半年《软考-系统架构设计师》备考经验分享](https://toutiao.io/k/x5wunvt) ![](assets/new.png)  
+- [2022-11-18-初步探索-GraalVM：云原生时代-JVM-黑科技](https://toutiao.io/k/reuf2rd) ![](assets/new.png)  
 - [2022-11-18-互联网都在说降本增效，小红书技术团队是怎么做的？](https://toutiao.io/k/jo2jht5) ![](assets/new.png)  
 - [2022-11-18-系统崩了，竟然是不规范打印日志的锅？](https://toutiao.io/k/rumhxhr) ![](assets/new.png)  
+- [2022-11-18-多指标时序预测方式及时序特征工程总结](https://toutiao.io/k/1bjdqo0) ![](assets/new.png)  
 - [2022-11-18-保姆级教程！2-万字-+-30-张图搞懂-MySQL-是怎么加行级锁的？](https://toutiao.io/k/ajp0uzy) ![](assets/new.png)  
 - [2022-11-18-Go1.20-中两个关于-Time-的更新，终于不用背-2006-01-02-15:04:05-了](https://toutiao.io/k/85u9xt9) ![](assets/new.png)  
-- [2022-11-18-对比-Pandas，学习-PySpark-大数据处理](https://toutiao.io/k/fbuwzvg) ![](assets/new.png)  
 - [2022-11-18-Rust-使用-MySQL-数据库（一）](https://toutiao.io/k/rgc2b51) ![](assets/new.png)  
 - [2022-11-18-包管理工具的演进](https://toutiao.io/k/pwpda9w) ![](assets/new.png)  
+- [2022-11-18-对比-Pandas，学习-PySpark-大数据处理](https://toutiao.io/k/fbuwzvg) ![](assets/new.png)  
+- [2022-11-18-你不得不学的Linux，让它助你轻松入门！](https://toutiao.io/k/zqnfh3w) ![](assets/new.png)  
+- [2022-11-18-专为实时而生：GreptimeDB-现已在-GitHub-正式开源](https://toutiao.io/k/phsjngz) ![](assets/new.png)  
+- [2022-11-18-2022-稳居-C-位的-AIGC，到底有什么用？](https://toutiao.io/k/601lrla) ![](assets/new.png)  
+- [2022-11-18-教育大数据之数据资产管理系统](https://toutiao.io/k/95iyg4q) ![](assets/new.png)  
+- [2022-11-18-发现一个宝藏-Python-库，玩社区发现算法的不能错过](https://toutiao.io/k/2ur1taw) ![](assets/new.png)  
 - [2022-11-18-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-18 05:12:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-18 05:37:31。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,11 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-18-Apple-TV-上可否美区下载应用，用国区账号恢复内购？](https://www.v2ex.com/t/896193) 
+- [【V2EX】2022-11-18-node-ffi-如何处理-char-*-,int-*-参数](https://www.v2ex.com/t/896192) 
+- [【V2EX】2022-11-18-XGPU-云游戏如何稳定-1080p-画质？](https://www.v2ex.com/t/896191) 
+- [【V2EX】2022-11-18-Chrome-异常](https://www.v2ex.com/t/896190) 
+- [【V2EX】2022-11-18-Angular-15-发布](https://www.v2ex.com/t/896188) 
 - [【V2EX】2022-11-18-Magician-Web3-1.0.2-发布，支持配置代理](https://www.v2ex.com/t/896187) 
 - [【V2EX】2022-11-18-北京+上海+杭州-|-社招｜字节｜-iOS-开发｜也有-Android、Windows](https://www.v2ex.com/t/896186) 
 - [【V2EX】2022-11-18-mbp-屏幕好脏，有-ac，可以去天才吧让清理吗？](https://www.v2ex.com/t/896185) 
@@ -104,11 +109,6 @@
 - [【V2EX】2022-11-18-Win11-22H2-如何禁止-IE-打开跳转?](https://www.v2ex.com/t/896147) 
 - [【V2EX】2022-11-18-买耳机好像是个玄学的东西，没实际试听之前，都不知道自己喜不喜欢。](https://www.v2ex.com/t/896146) 
 - [【V2EX】2022-11-18-请教一个-PCDN-节点是如何向客户端分发流量的问题](https://www.v2ex.com/t/896145) 
-- [【V2EX】2022-11-18-如何将一个-docker-镜像的所有-cpu-架构变体移动到其他仓库](https://www.v2ex.com/t/896144) 
-- [【V2EX】2022-11-18-寻一个-old-school-的-table-组件-vue2](https://www.v2ex.com/t/896142) 
-- [【V2EX】2022-11-18-在哪里可以买到这种形状的电脑桌？](https://www.v2ex.com/t/896140) 
-- [【V2EX】2022-11-18-北京-招一名前端/可视化工程师](https://www.v2ex.com/t/896139) 
-- [【V2EX】2022-11-18-Airpods-断连太严重了吧](https://www.v2ex.com/t/896138) 
 - [【技术头条】2022-11-18-敏捷团队的质量保障赋能-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15410&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fquality-assurance-enablement-in-agile-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-18-团队的Code-Review实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15409&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-code-review%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-18-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

@@ -9953,6 +9953,26 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "变现周刊#80: 一个 Notion 页面转成网站客服小部件",
+        "link": "https://www.v2ex.com/t/896098",
+        "date": "2022-11-18"
+      },
+      {
+        "title": "推荐《她和她的她》",
+        "link": "https://www.v2ex.com/t/896096",
+        "date": "2022-11-18"
+      },
+      {
+        "title": "电视端支持 webdav 的播放器",
+        "link": "https://www.v2ex.com/t/896095",
+        "date": "2022-11-18"
+      },
+      {
+        "title": "天天抽奖，非你莫属！",
+        "link": "https://www.v2ex.com/t/896094",
+        "date": "2022-11-18"
+      },
+      {
         "title": "2022 新电脑装啥杀毒软件？",
         "link": "https://www.v2ex.com/t/896092",
         "date": "2022-11-17"
@@ -10131,21 +10151,6 @@
         "title": "m1 macbookpro 偶发性 wifi 掉线？",
         "link": "https://www.v2ex.com/t/896049",
         "date": "2022-11-17"
-      },
-      {
-        "title": "用 iOS 的文件 APP 修改 OneDrive 中的文件后，不用打开 OneDrive 也能同步诶",
-        "link": "https://www.v2ex.com/t/896048",
-        "date": "2022-11-17"
-      },
-      {
-        "title": "C DLL 中初始化 Python 虚拟机问题",
-        "link": "https://www.v2ex.com/t/896047",
-        "date": "2022-11-17"
-      },
-      {
-        "title": "怎么才能戒掉烟呢",
-        "link": "https://www.v2ex.com/t/896044",
-        "date": "2022-11-17"
       }
     ]
   },
@@ -10157,52 +10162,52 @@
       {
         "title": "团队的Code Review实践 (insights.thoughtworks.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=15409&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-code-review%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-11-17"
+        "date": "2022-11-18"
       },
       {
         "title": "Tech Lead如何组建你的全明星团队 (insights.thoughtworks.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-11-17"
+        "date": "2022-11-18"
       },
       {
         "title": "前端测试体系和最佳实践 (insights.thoughtworks.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-11-17"
+        "date": "2022-11-18"
       },
       {
         "title": "以综合指数观察和评价研发效能的趋势 (link.zhihu.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15406&url=https%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttps%253A%2F%2Finsights.thoughtworks.cn%2Fobserving-evaluating-research-development-efficiency-trend%2F%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-11-17"
+        "date": "2022-11-18"
       },
       {
         "title": "DDD的哲学意味（上） (insights.thoughtworks.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=15405&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fddd-philosophy-entity-value-object%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-11-17"
+        "date": "2022-11-18"
       },
       {
         "title": "重新思考 React 项目架构 (teobler.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-11-17"
+        "date": "2022-11-18"
       },
       {
         "title": "日志记录的最佳实践 (insights.thoughtworks.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-11-17"
+        "date": "2022-11-18"
       },
       {
         "title": "一个非教条式的TDD例子 (insights.thoughtworks.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-11-17"
+        "date": "2022-11-18"
       },
       {
         "title": "我是怎么读代码的 (insights.thoughtworks.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-11-17"
+        "date": "2022-11-18"
       },
       {
         "title": "技术改变了什么？ (insights.thoughtworks.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=15400&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fpower-of-technology%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-11-17"
+        "date": "2022-11-18"
       }
     ]
   },
@@ -10212,84 +10217,59 @@
     "link": "https://toutiao.io",
     "items": [
       {
-        "title": "少年，你知道 tcp kill 吗？",
-        "link": "https://toutiao.io/k/ga3bp9a",
-        "date": "2022-11-17"
+        "title": "初步探索 GraalVM：云原生时代 JVM 黑科技",
+        "link": "https://toutiao.io/k/reuf2rd",
+        "date": "2022-11-18"
       },
       {
-        "title": "常说的代码整洁到底是什么？",
-        "link": "https://toutiao.io/k/4up9tv9",
-        "date": "2022-11-17"
+        "title": "多指标时序预测方式及时序特征工程总结",
+        "link": "https://toutiao.io/k/1bjdqo0",
+        "date": "2022-11-18"
       },
       {
-        "title": "9 大插件，21 张配图，编码路上助你起飞",
-        "link": "https://toutiao.io/k/i07esqr",
-        "date": "2022-11-17"
+        "title": "2022下半年《软考-系统架构设计师》备考经验分享",
+        "link": "https://toutiao.io/k/x5wunvt",
+        "date": "2022-11-18"
       },
       {
-        "title": "7 款殿堂级的开源 CMS（内容管理系统）",
-        "link": "https://toutiao.io/k/lyl77sm",
-        "date": "2022-11-17"
+        "title": "互联网都在说降本增效，小红书技术团队是怎么做的？",
+        "link": "https://toutiao.io/k/jo2jht5",
+        "date": "2022-11-18"
       },
       {
-        "title": "谈谈我工作中的 23 个设计模式",
-        "link": "https://toutiao.io/k/wpvugn5",
-        "date": "2022-11-17"
+        "title": "系统崩了，竟然是不规范打印日志的锅？",
+        "link": "https://toutiao.io/k/rumhxhr",
+        "date": "2022-11-18"
       },
       {
-        "title": "分布式人工智能，未来大有可为！",
-        "link": "https://toutiao.io/k/avzd35a",
-        "date": "2022-11-17"
+        "title": "保姆级教程！2 万字 + 30 张图搞懂 MySQL 是怎么加行级锁的？",
+        "link": "https://toutiao.io/k/ajp0uzy",
+        "date": "2022-11-18"
       },
       {
-        "title": "清华大学：元宇宙发展研究报告 3.0 发布",
-        "link": "https://toutiao.io/k/9xu4x35",
-        "date": "2022-11-17"
+        "title": "Go1.20 中两个关于 Time 的更新，终于不用背 2006-01-02 15:04:05 了",
+        "link": "https://toutiao.io/k/85u9xt9",
+        "date": "2022-11-18"
       },
       {
-        "title": "Rust 和 Cpp 互操作",
-        "link": "https://toutiao.io/k/qzc6anb",
-        "date": "2022-11-17"
+        "title": "对比 Pandas，学习 PySpark 大数据处理",
+        "link": "https://toutiao.io/k/fbuwzvg",
+        "date": "2022-11-18"
       },
       {
-        "title": "Switchquery：移动端秒级配置触达平台",
-        "link": "https://toutiao.io/k/7he3t4u",
-        "date": "2022-11-17"
+        "title": "Rust 使用 MySQL 数据库（一）",
+        "link": "https://toutiao.io/k/rgc2b51",
+        "date": "2022-11-18"
       },
       {
-        "title": "这样用 lerna 也太爽了吧！",
-        "link": "https://toutiao.io/k/eb57j4o",
-        "date": "2022-11-17"
-      },
-      {
-        "title": "解 Bug 之路：记一次线上请求偶尔变慢的排查",
-        "link": "https://toutiao.io/k/w3iiwj3",
-        "date": "2022-11-17"
-      },
-      {
-        "title": "深入认识 SaaS 产品架构",
-        "link": "https://toutiao.io/k/aqtccnz",
-        "date": "2022-11-17"
-      },
-      {
-        "title": "软件开发实践之持续集成",
-        "link": "https://toutiao.io/k/ridn585",
-        "date": "2022-11-17"
-      },
-      {
-        "title": "干货｜数据湖技术在抖音近实时场景的实践",
-        "link": "https://toutiao.io/k/e7255b8",
-        "date": "2022-11-17"
-      },
-      {
-        "title": "攻防对抗 | RASP 技术上的命令执行攻防探索",
-        "link": "https://toutiao.io/k/w9uveog",
-        "date": "2022-11-17"
+        "title": "包管理工具的演进",
+        "link": "https://toutiao.io/k/pwpda9w",
+        "date": "2022-11-18"
       },
       {
         "title": "[推荐] 最适合程序员的画图工具？",
         "link": "https://toutiao.io/k/hlv8j4z",
-        "date": "2022-11-17"
+        "date": "2022-11-18"
       }
     ]
   },

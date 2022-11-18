@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2022-11-17 23:39:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-18 01:07:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-11-18-变现周刊#80:-一个-Notion-页面转成网站客服小部件](https://www.v2ex.com/t/896098) 
+- [2022-11-18-推荐《她和她的她》](https://www.v2ex.com/t/896096) 
+- [2022-11-18-电视端支持-webdav-的播放器](https://www.v2ex.com/t/896095) 
+- [2022-11-18-天天抽奖，非你莫属！](https://www.v2ex.com/t/896094) 
 - [2022-11-17-2022-新电脑装啥杀毒软件？](https://www.v2ex.com/t/896092) 
 - [2022-11-17-大佬们，求分享你们珍藏的全文输出的-Rss-源](https://www.v2ex.com/t/896091) 
 - [2022-11-17-两个-Offer-该如何抉择？](https://www.v2ex.com/t/896090) 
@@ -41,6 +45,3 @@
 - [2022-11-17-7-ZIP-的选项有办法在-win11-中放在右键的第一页吗?](https://www.v2ex.com/t/896052) 
 - [2022-11-17-为什么移动宽带开启-IPV6-后，软路由和电脑总是会获取-2-个-IPV6-地址？](https://www.v2ex.com/t/896050) 
 - [2022-11-17-m1-macbookpro-偶发性-wifi-掉线？](https://www.v2ex.com/t/896049) 
-- [2022-11-17-用-iOS-的文件-APP-修改-OneDrive-中的文件后，不用打开-OneDrive-也能同步诶](https://www.v2ex.com/t/896048) 
-- [2022-11-17-C-DLL-中初始化-Python-虚拟机问题](https://www.v2ex.com/t/896047) 
-- [2022-11-17-怎么才能戒掉烟呢](https://www.v2ex.com/t/896044) 

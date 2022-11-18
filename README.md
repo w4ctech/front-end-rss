@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-18 13:03:07，:rocket: 更新条数: +2011， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-18 13:50:12，:rocket: 更新条数: +2009， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,18 @@
 </summary>
 
 
+- [2022-11-18-mac-上有什么图片漂白软件？网页版也行](https://www.v2ex.com/t/896315) ![](assets/new.png)  
+- [2022-11-18-故事分享-一根能跑-100M-2500M-很多情况不能跑-1000M-的离谱网线](https://www.v2ex.com/t/896314) ![](assets/new.png)  
+- [2022-11-18-前后端分离开发,前端怎么保存没有和后端交互的纯前端界面](https://www.v2ex.com/t/896313) ![](assets/new.png)  
+- [2022-11-18-喜欢原生安卓手机的为什么不尝试一下摩托罗拉。](https://www.v2ex.com/t/896311) ![](assets/new.png)  
+- [2022-11-18-土区-apple-store-如何充值？](https://www.v2ex.com/t/896310) ![](assets/new.png)  
+- [2022-11-18-如果想创作一部日本动画的同人作品，应该向制作委员会还是-Aniplex-这样的动画公司申请授权？（看贩售的周边包装上贴的都是-Aniplex-授权的标志）](https://www.v2ex.com/t/896309) ![](assets/new.png)  
+- [2022-11-18-上海新房贷款，能不能自己选银行？](https://www.v2ex.com/t/896307) ![](assets/new.png)  
+- [2022-11-18-凹语言、图灵机和-BF-语言](https://www.v2ex.com/t/896306) ![](assets/new.png)  
+- [2022-11-18-中国人如何在-qwert-键盘上输入汉字](https://www.v2ex.com/t/896305) ![](assets/new.png)  
+- [2022-11-18-吐槽一个合租室友](https://www.v2ex.com/t/896304) ![](assets/new.png)  
+- [2022-11-18-AI-卡的工作原理](https://www.v2ex.com/t/896302) ![](assets/new.png)  
+- [2022-11-18-寻找打造属于自己的流媒体库方案？](https://www.v2ex.com/t/896301) ![](assets/new.png)  
 - [2022-11-18-nuxt3-发布稳定版了，我也分享一下写了很久的博客，白嫖的最高境界](https://www.v2ex.com/t/896297) ![](assets/new.png)  
 - [2022-11-18-现在大家都在做场景宽带，为什么没有一家运营商直接做-NAS-宽带呢？](https://www.v2ex.com/t/896296) ![](assets/new.png)  
 - [2022-11-18-求助新房装修后除甲醛、TOCV-经验](https://www.v2ex.com/t/896295) ![](assets/new.png)  
@@ -499,18 +511,6 @@
 - [2022-11-18-iPad-上的前台调度简直就是用电狂魔](https://www.v2ex.com/t/896292) ![](assets/new.png)  
 - [2022-11-18-想开个开源项目的坑，听听大家的意见](https://www.v2ex.com/t/896291) ![](assets/new.png)  
 - [2022-11-18-公司规章里规定要写周报，但是没写一次后要扣我一周工资](https://www.v2ex.com/t/896288) ![](assets/new.png)  
-- [2022-11-18-有普通会员车嘛](https://www.v2ex.com/t/896287) ![](assets/new.png)  
-- [2022-11-18-即将进入黑五周，大家有什么好物推荐吗](https://www.v2ex.com/t/896285) ![](assets/new.png)  
-- [2022-11-18-做了一个实物图书管理的小网站，想问问你们有没有需求，具体需要什么功能](https://www.v2ex.com/t/896284) ![](assets/new.png)  
-- [2022-11-18-求幫小白建造一台黑蘋果電腦-pc](https://www.v2ex.com/t/896283) ![](assets/new.png)  
-- [2022-11-18-请教各位-v-友，之前在甲骨文搭建的-SSR-一直正常使用。但是今天无法用了。](https://www.v2ex.com/t/896282) ![](assets/new.png)  
-- [2022-11-18-有朋友最近买过-14-寸-MacBook-Pro-吗，帮忙指指路](https://www.v2ex.com/t/896280) ![](assets/new.png)  
-- [2022-11-18-Apple-Store-日服-充值](https://www.v2ex.com/t/896279) ![](assets/new.png)  
-- [2022-11-18-关于容器化部署-vue-项目思路讨论](https://www.v2ex.com/t/896278) ![](assets/new.png)  
-- [2022-11-18-react-使用-hooks，遇到问题，没有想到好的解决办法](https://www.v2ex.com/t/896276) ![](assets/new.png)  
-- [2022-11-18-杭州有便宜实惠的眼镜店吗？](https://www.v2ex.com/t/896275) ![](assets/new.png)  
-- [2022-11-18-RackNerd，美国便宜-VPS-低至-$10-/-年](https://www.v2ex.com/t/896274) ![](assets/new.png)  
-- [2022-11-18-pm2-出现幽灵进程](https://www.v2ex.com/t/896273) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -549,8 +549,8 @@
 - [2022-11-18-互联网都在说降本增效，小红书技术团队是怎么做的？](https://toutiao.io/k/jo2jht5) ![](assets/new.png)  
 - [2022-11-18-系统崩了，竟然是不规范打印日志的锅？](https://toutiao.io/k/rumhxhr) ![](assets/new.png)  
 - [2022-11-18-保姆级教程！2-万字-+-30-张图搞懂-MySQL-是怎么加行级锁的？](https://toutiao.io/k/ajp0uzy) ![](assets/new.png)  
-- [2022-11-18-多指标时序预测方式及时序特征工程总结](https://toutiao.io/k/1bjdqo0) ![](assets/new.png)  
 - [2022-11-18-包管理工具的演进](https://toutiao.io/k/pwpda9w) ![](assets/new.png)  
+- [2022-11-18-多指标时序预测方式及时序特征工程总结](https://toutiao.io/k/1bjdqo0) ![](assets/new.png)  
 - [2022-11-18-Rust-使用-MySQL-数据库（一）](https://toutiao.io/k/rgc2b51) ![](assets/new.png)  
 - [2022-11-18-你不得不学的Linux，让它助你轻松入门！](https://toutiao.io/k/zqnfh3w) ![](assets/new.png)  
 - [2022-11-18-2022-稳居-C-位的-AIGC，到底有什么用？](https://toutiao.io/k/601lrla) ![](assets/new.png)  

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-18 04:45:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-18 05:12:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -14,6 +14,5 @@
 - [2021-03-08-香港再现数例疫苗接种严重异常事件-专家初判与疫苗无关](https://china.caixin.com/m/2021-03-08/101672619.html) 
 - [2021-03-03-港府回应一63岁患者死亡事件-暂无法确定与疫苗相关](https://m.caixin.com/m/2021-03-03/101670052.html) 
 - [2022-10-16-2022年新出了哪些form表单新特性？](https://www.zhangxinxu.com/wordpress/2022/10/2022-new-form-property/) 
+- [2022-11-18-CF-workers-支持数据库了这下可玩性更大了](https://www.v2ex.com/t/896184) 
 - [2022-11-18-有-angular-大神吗，-cdk-virtual-scroll-viewport-和-formArray-一起用滚动中间顺序乱了](https://www.v2ex.com/t/896158) 
-- [2022-11-18-请教一行代码，-use-cargo_modules](https://www.v2ex.com/t/896131) 
-- [2022-11-18-jsdelivr-能被正常解析出来了？？](https://www.v2ex.com/t/896130) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-18 04:45:16。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-18 05:12:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,12 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-18-Magician-Web3-1.0.2-发布，支持配置代理](https://www.v2ex.com/t/896187) 
+- [【V2EX】2022-11-18-北京+上海+杭州-|-社招｜字节｜-iOS-开发｜也有-Android、Windows](https://www.v2ex.com/t/896186) 
+- [【V2EX】2022-11-18-mbp-屏幕好脏，有-ac，可以去天才吧让清理吗？](https://www.v2ex.com/t/896185) 
+- [【V2EX】2022-11-18-CF-workers-支持数据库了这下可玩性更大了](https://www.v2ex.com/t/896184) 
+- [【V2EX】2022-11-18-求教：装机的乐趣在哪里？](https://www.v2ex.com/t/896181) 
+- [【V2EX】2022-11-18-请问各位有搭建本地网站的吗？都有哪些方式？](https://www.v2ex.com/t/896180) 
 - [【V2EX】2022-11-18-请教我碰到的一个电脑故障问题，有偿。](https://www.v2ex.com/t/896179) 
 - [【V2EX】2022-11-18-最近职场话题不少，我也来谈谈我司的办公室政治（给鱼塘里贡献鱼）。](https://www.v2ex.com/t/896176) 
 - [【V2EX】2022-11-18-chrome-出啥问题了？](https://www.v2ex.com/t/896175) 
@@ -103,11 +109,6 @@
 - [【V2EX】2022-11-18-在哪里可以买到这种形状的电脑桌？](https://www.v2ex.com/t/896140) 
 - [【V2EX】2022-11-18-北京-招一名前端/可视化工程师](https://www.v2ex.com/t/896139) 
 - [【V2EX】2022-11-18-Airpods-断连太严重了吧](https://www.v2ex.com/t/896138) 
-- [【V2EX】2022-11-18-竹白专栏检索工具](https://www.v2ex.com/t/896136) 
-- [【V2EX】2022-11-18-怎么才能让公司开除我，而且不扣钱](https://www.v2ex.com/t/896133) 
-- [【V2EX】2022-11-18-不会真的是-49-年入国军吧？😭-iPhone14-系列-对比前几代性价比高吗？如果想当钉子户机子来用的话值得入吗？](https://www.v2ex.com/t/896132) 
-- [【V2EX】2022-11-18-请教一行代码，-use-cargo_modules](https://www.v2ex.com/t/896131) 
-- [【V2EX】2022-11-18-jsdelivr-能被正常解析出来了？？](https://www.v2ex.com/t/896130) 
 - [【技术头条】2022-11-18-敏捷团队的质量保障赋能-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15410&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fquality-assurance-enablement-in-agile-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-18-团队的Code-Review实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15409&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-code-review%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-18-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -131,8 +132,8 @@
 - [【开发者头条】2022-11-18-对比-Pandas，学习-PySpark-大数据处理](https://toutiao.io/k/fbuwzvg) 
 - [【开发者头条】2022-11-18-专为实时而生：GreptimeDB-现已在-GitHub-正式开源](https://toutiao.io/k/phsjngz) 
 - [【开发者头条】2022-11-18-你不得不学的Linux，让它助你轻松入门！](https://toutiao.io/k/zqnfh3w) 
-- [【开发者头条】2022-11-18-2022-稳居-C-位的-AIGC，到底有什么用？](https://toutiao.io/k/601lrla) 
 - [【开发者头条】2022-11-18-发现一个宝藏-Python-库，玩社区发现算法的不能错过](https://toutiao.io/k/2ur1taw) 
+- [【开发者头条】2022-11-18-2022-稳居-C-位的-AIGC，到底有什么用？](https://toutiao.io/k/601lrla) 
 - [【开发者头条】2022-11-18-教育大数据之数据资产管理系统](https://toutiao.io/k/95iyg4q) 
 - [【开发者头条】2022-11-18-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) 
 

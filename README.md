@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-18 06:16:36，:rocket: 更新条数: +2010， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-18 06:44:55，:rocket: 更新条数: +2007， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-11-18-刷-Pixel-Experience-还是-买-pixel](https://www.v2ex.com/t/896215) ![](assets/new.png)  
+- [2022-11-18-gt1030-带一个-4k-和-1080-的屏幕会吃力吗](https://www.v2ex.com/t/896214) ![](assets/new.png)  
+- [2022-11-18-有没有因为一直要学新的东西，所以感到疲惫？](https://www.v2ex.com/t/896212) ![](assets/new.png)  
+- [2022-11-18-哪些套-Chrome-的-app，不能只把用到的部分打包进去吗？](https://www.v2ex.com/t/896211) ![](assets/new.png)  
 - [2022-11-18-有个任意网页弹窗搜索的-idea，但好像不大可行？](https://www.v2ex.com/t/896210) ![](assets/new.png)  
 - [2022-11-18-用-8k-hdr-视频在-m1-顶配测试了几款播放器](https://www.v2ex.com/t/896208) ![](assets/new.png)  
 - [2022-11-18-关于路由器-mesh-的问题](https://www.v2ex.com/t/896205) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-11-18-Angular-15-发布](https://www.v2ex.com/t/896188) ![](assets/new.png)  
 - [2022-11-18-Magician-Web3-1.0.2-发布，支持配置代理](https://www.v2ex.com/t/896187) ![](assets/new.png)  
 - [2022-11-18-北京+上海+杭州-|-社招｜字节｜-iOS-开发｜也有-Android、Windows](https://www.v2ex.com/t/896186) ![](assets/new.png)  
-- [2022-11-18-mbp-屏幕好脏，有-ac，可以去天才吧让清理吗？](https://www.v2ex.com/t/896185) ![](assets/new.png)  
-- [2022-11-18-CF-workers-支持数据库了这下可玩性更大了](https://www.v2ex.com/t/896184) ![](assets/new.png)  
-- [2022-11-18-求教：装机的乐趣在哪里？](https://www.v2ex.com/t/896181) ![](assets/new.png)  
-- [2022-11-18-请问各位有搭建本地网站的吗？都有哪些方式？](https://www.v2ex.com/t/896180) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -551,8 +551,8 @@
 - [2022-11-18-保姆级教程！2-万字-+-30-张图搞懂-MySQL-是怎么加行级锁的？](https://toutiao.io/k/ajp0uzy) ![](assets/new.png)  
 - [2022-11-18-多指标时序预测方式及时序特征工程总结](https://toutiao.io/k/1bjdqo0) ![](assets/new.png)  
 - [2022-11-18-Go1.20-中两个关于-Time-的更新，终于不用背-2006-01-02-15:04:05-了](https://toutiao.io/k/85u9xt9) ![](assets/new.png)  
-- [2022-11-18-Rust-使用-MySQL-数据库（一）](https://toutiao.io/k/rgc2b51) ![](assets/new.png)  
 - [2022-11-18-包管理工具的演进](https://toutiao.io/k/pwpda9w) ![](assets/new.png)  
+- [2022-11-18-Rust-使用-MySQL-数据库（一）](https://toutiao.io/k/rgc2b51) ![](assets/new.png)  
 - [2022-11-18-对比-Pandas，学习-PySpark-大数据处理](https://toutiao.io/k/fbuwzvg) ![](assets/new.png)  
 - [2022-11-18-专为实时而生：GreptimeDB-现已在-GitHub-正式开源](https://toutiao.io/k/phsjngz) ![](assets/new.png)  
 - [2022-11-18-你不得不学的Linux，让它助你轻松入门！](https://toutiao.io/k/zqnfh3w) ![](assets/new.png)  

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-11-18 12:23:32。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-18 13:03:07。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -58,7 +58,6 @@
 
 
 - [【V2EX】关于容器化部署-vue-项目思路讨论](https://www.v2ex.com/t/896278)
-- [【V2EX】问：-angular-切-vue-的一些选型问题](https://www.v2ex.com/t/896246)
 - [......【查看更多】......](./details/tags/vue.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

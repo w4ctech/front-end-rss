@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2022-11-18 17:38:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-18 18:16:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-11-18-如何让视频带声音的自动播放?](https://www.v2ex.com/t/896341) 
+- [2022-11-18-想从一个-Unity-写的-iOS-游戏中提取-Live2D-模型，最简单的方法是什么？](https://www.v2ex.com/t/896340) 
 - [2022-11-18-写了个给-gin-项目生成-swagger.json-并自动上传到-yapi-的小工具](https://www.v2ex.com/t/896339) 
 - [2022-11-18-Surge-Mac-3-车缺-2](https://www.v2ex.com/t/896338) 
 - [2022-11-18-Vue-表单问题](https://www.v2ex.com/t/896335) 
@@ -42,4 +44,3 @@
 - [2022-11-18-ACG2vec-系列之-ACGVoc2vec——基于深度学习的二次元场景适应的文本特征抽取器](https://www.v2ex.com/t/896294) 
 - [2022-11-18-cloudflare-中转-ip](https://www.v2ex.com/t/896293) 
 - [2022-11-18-iPad-上的前台调度简直就是用电狂魔](https://www.v2ex.com/t/896292) 
-- [2022-11-18-想开个开源项目的坑，听听大家的意见](https://www.v2ex.com/t/896291) 

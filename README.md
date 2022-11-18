@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-18 14:38:37，:rocket: 更新条数: +2010， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-18 15:12:57，:rocket: 更新条数: +2010， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-11-18-对于想进入投资市场股票币圈等或者量化等，有必要深入学-K-线图吗？](https://www.v2ex.com/t/896330) ![](assets/new.png)  
+- [2022-11-18-是否该接受-offer](https://www.v2ex.com/t/896328) ![](assets/new.png)  
+- [2022-11-18-这种-1688-买的安卓手机可以-root-吗-？](https://www.v2ex.com/t/896327) ![](assets/new.png)  
+- [2022-11-18-有必要为了公网-IP-而整改网络线路吗？](https://www.v2ex.com/t/896326) ![](assets/new.png)  
+- [2022-11-18-如果你的真实姓名-.com-域名未被注册，你会注册并一直续费吗？](https://www.v2ex.com/t/896325) ![](assets/new.png)  
+- [2022-11-18-做了一个方便大家边搜边预览结果的浏览器扩展，请大家体验-吐槽-拍砖](https://www.v2ex.com/t/896324) ![](assets/new.png)  
 - [2022-11-18-win-下转发-3000-端口，为何-localhost-可以访问而-ipv6-地址不可访问？](https://www.v2ex.com/t/896323) ![](assets/new.png)  
 - [2022-11-18-现在哪里可以购买便宜域名](https://www.v2ex.com/t/896322) ![](assets/new.png)  
 - [2022-11-18-乔思伯发布了一个新的-5-盘位-NAS-机箱-N2](https://www.v2ex.com/t/896321) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-11-18-土区-apple-store-如何充值？](https://www.v2ex.com/t/896310) ![](assets/new.png)  
 - [2022-11-18-如果想创作一部日本动画的同人作品，应该向制作委员会还是-Aniplex-这样的动画公司申请授权？（看贩售的周边包装上贴的都是-Aniplex-授权的标志）](https://www.v2ex.com/t/896309) ![](assets/new.png)  
 - [2022-11-18-上海新房贷款，能不能自己选银行？](https://www.v2ex.com/t/896307) ![](assets/new.png)  
-- [2022-11-18-凹语言、图灵机和-BF-语言](https://www.v2ex.com/t/896306) ![](assets/new.png)  
-- [2022-11-18-中国人如何在-qwert-键盘上输入汉字](https://www.v2ex.com/t/896305) ![](assets/new.png)  
-- [2022-11-18-吐槽一个合租室友](https://www.v2ex.com/t/896304) ![](assets/new.png)  
-- [2022-11-18-AI-卡的工作原理](https://www.v2ex.com/t/896302) ![](assets/new.png)  
-- [2022-11-18-寻找打造属于自己的流媒体库方案？](https://www.v2ex.com/t/896301) ![](assets/new.png)  
-- [2022-11-18-nuxt3-发布稳定版了，我也分享一下写了很久的博客，白嫖的最高境界](https://www.v2ex.com/t/896297) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

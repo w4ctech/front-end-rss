@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-18 14:38:37。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-18 15:12:57。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,12 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-18-对于想进入投资市场股票币圈等或者量化等，有必要深入学-K-线图吗？](https://www.v2ex.com/t/896330) 
+- [【V2EX】2022-11-18-是否该接受-offer](https://www.v2ex.com/t/896328) 
+- [【V2EX】2022-11-18-这种-1688-买的安卓手机可以-root-吗-？](https://www.v2ex.com/t/896327) 
+- [【V2EX】2022-11-18-有必要为了公网-IP-而整改网络线路吗？](https://www.v2ex.com/t/896326) 
+- [【V2EX】2022-11-18-如果你的真实姓名-.com-域名未被注册，你会注册并一直续费吗？](https://www.v2ex.com/t/896325) 
+- [【V2EX】2022-11-18-做了一个方便大家边搜边预览结果的浏览器扩展，请大家体验-吐槽-拍砖](https://www.v2ex.com/t/896324) 
 - [【V2EX】2022-11-18-win-下转发-3000-端口，为何-localhost-可以访问而-ipv6-地址不可访问？](https://www.v2ex.com/t/896323) 
 - [【V2EX】2022-11-18-现在哪里可以购买便宜域名](https://www.v2ex.com/t/896322) 
 - [【V2EX】2022-11-18-乔思伯发布了一个新的-5-盘位-NAS-机箱-N2](https://www.v2ex.com/t/896321) 
@@ -101,12 +107,6 @@
 - [【V2EX】2022-11-18-做了一个实物图书管理的小网站，想问问你们有没有需求，具体需要什么功能](https://www.v2ex.com/t/896284) 
 - [【V2EX】2022-11-18-求幫小白建造一台黑蘋果電腦-pc](https://www.v2ex.com/t/896283) 
 - [【V2EX】2022-11-18-请教各位-v-友，之前在甲骨文搭建的-SSR-一直正常使用。但是今天无法用了。](https://www.v2ex.com/t/896282) 
-- [【V2EX】2022-11-18-有朋友最近买过-14-寸-MacBook-Pro-吗，帮忙指指路](https://www.v2ex.com/t/896280) 
-- [【V2EX】2022-11-18-Apple-Store-日服-充值](https://www.v2ex.com/t/896279) 
-- [【V2EX】2022-11-18-关于容器化部署-vue-项目思路讨论](https://www.v2ex.com/t/896278) 
-- [【V2EX】2022-11-18-react-使用-hooks，遇到问题，没有想到好的解决办法](https://www.v2ex.com/t/896276) 
-- [【V2EX】2022-11-18-杭州有便宜实惠的眼镜店吗？](https://www.v2ex.com/t/896275) 
-- [【V2EX】2022-11-18-RackNerd，美国便宜-VPS-低至-$10-/-年](https://www.v2ex.com/t/896274) 
 - [【技术头条】2022-11-18-敏捷团队的质量保障赋能-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15410&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fquality-assurance-enablement-in-agile-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-18-团队的Code-Review实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15409&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-code-review%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-18-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

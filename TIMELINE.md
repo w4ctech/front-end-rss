@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-18 11:35:34。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-18 12:23:32。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,10 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-18-ACG2vec-系列之-ACGVoc2vec——基于深度学习的二次元场景适应的文本特征抽取器](https://www.v2ex.com/t/896294) 
+- [【V2EX】2022-11-18-cloudflare-中转-ip](https://www.v2ex.com/t/896293) 
+- [【V2EX】2022-11-18-iPad-上的前台调度简直就是用电狂魔](https://www.v2ex.com/t/896292) 
+- [【V2EX】2022-11-18-想开个开源项目的坑，听听大家的意见](https://www.v2ex.com/t/896291) 
 - [【V2EX】2022-11-18-公司规章里规定要写周报，但是没写一次后要扣我一周工资](https://www.v2ex.com/t/896288) 
 - [【V2EX】2022-11-18-有普通会员车嘛](https://www.v2ex.com/t/896287) 
 - [【V2EX】2022-11-18-即将进入黑五周，大家有什么好物推荐吗](https://www.v2ex.com/t/896285) 
@@ -104,11 +108,6 @@
 - [【V2EX】2022-11-18-你们遇到过这样的同事吗?](https://www.v2ex.com/t/896248) 
 - [【V2EX】2022-11-18-012304-的电话是哪家的？](https://www.v2ex.com/t/896247) 
 - [【V2EX】2022-11-18-问：-angular-切-vue-的一些选型问题](https://www.v2ex.com/t/896246) 
-- [【V2EX】2022-11-18-闲鱼上很多卖自己"定制"的-macbook，是有什么门道吗？](https://www.v2ex.com/t/896244) 
-- [【V2EX】2022-11-18-询问香港怎么网购，而且现急需一个插线板](https://www.v2ex.com/t/896243) 
-- [【V2EX】2022-11-18-2022-年年底，推荐六千左右电脑](https://www.v2ex.com/t/896241) 
-- [【V2EX】2022-11-18-Mac-版-Spotify-去广告](https://www.v2ex.com/t/896240) 
-- [【V2EX】2022-11-18-求耳机推荐！](https://www.v2ex.com/t/896239) 
 - [【技术头条】2022-11-18-敏捷团队的质量保障赋能-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15410&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fquality-assurance-enablement-in-agile-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-18-团队的Code-Review实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15409&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-code-review%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-18-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -133,8 +132,8 @@
 - [【开发者头条】2022-11-18-2022-稳居-C-位的-AIGC，到底有什么用？](https://toutiao.io/k/601lrla) 
 - [【开发者头条】2022-11-18-专为实时而生：GreptimeDB-现已在-GitHub-正式开源](https://toutiao.io/k/phsjngz) 
 - [【开发者头条】2022-11-18-对比-Pandas，学习-PySpark-大数据处理](https://toutiao.io/k/fbuwzvg) 
-- [【开发者头条】2022-11-18-教育大数据之数据资产管理系统](https://toutiao.io/k/95iyg4q) 
 - [【开发者头条】2022-11-18-发现一个宝藏-Python-库，玩社区发现算法的不能错过](https://toutiao.io/k/2ur1taw) 
+- [【开发者头条】2022-11-18-教育大数据之数据资产管理系统](https://toutiao.io/k/95iyg4q) 
 - [【开发者头条】2022-11-18-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>

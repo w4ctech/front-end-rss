@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-18 11:35:34，:rocket: 更新条数: +2012， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-18 12:23:32，:rocket: 更新条数: +2011， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-11-18-ACG2vec-系列之-ACGVoc2vec——基于深度学习的二次元场景适应的文本特征抽取器](https://www.v2ex.com/t/896294) ![](assets/new.png)  
+- [2022-11-18-cloudflare-中转-ip](https://www.v2ex.com/t/896293) ![](assets/new.png)  
+- [2022-11-18-iPad-上的前台调度简直就是用电狂魔](https://www.v2ex.com/t/896292) ![](assets/new.png)  
+- [2022-11-18-想开个开源项目的坑，听听大家的意见](https://www.v2ex.com/t/896291) ![](assets/new.png)  
 - [2022-11-18-公司规章里规定要写周报，但是没写一次后要扣我一周工资](https://www.v2ex.com/t/896288) ![](assets/new.png)  
 - [2022-11-18-有普通会员车嘛](https://www.v2ex.com/t/896287) ![](assets/new.png)  
 - [2022-11-18-即将进入黑五周，大家有什么好物推荐吗](https://www.v2ex.com/t/896285) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-11-18-问下-v-社大佬关于浅色深色](https://www.v2ex.com/t/896270) ![](assets/new.png)  
 - [2022-11-18-一说国外都不好，叫回又都不回，这怎么说](https://www.v2ex.com/t/896269) ![](assets/new.png)  
 - [2022-11-18-Surge-Mac-5-车缺-4](https://www.v2ex.com/t/896268) ![](assets/new.png)  
-- [2022-11-18-求-Mac-便携显示器推荐](https://www.v2ex.com/t/896267) ![](assets/new.png)  
-- [2022-11-18-使用-Apple-Watch-跑步和自我量化](https://www.v2ex.com/t/896265) ![](assets/new.png)  
-- [2022-11-18-C++-中的-enum-可以强制要求使用命名前缀吗？](https://www.v2ex.com/t/896264) ![](assets/new.png)  
-- [2022-11-18-中环转运的-YubiKey，大佬们商品信息怎么填的？](https://www.v2ex.com/t/896263) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -557,8 +557,8 @@
 - [2022-11-18-2022-稳居-C-位的-AIGC，到底有什么用？](https://toutiao.io/k/601lrla) ![](assets/new.png)  
 - [2022-11-18-专为实时而生：GreptimeDB-现已在-GitHub-正式开源](https://toutiao.io/k/phsjngz) ![](assets/new.png)  
 - [2022-11-18-对比-Pandas，学习-PySpark-大数据处理](https://toutiao.io/k/fbuwzvg) ![](assets/new.png)  
-- [2022-11-18-教育大数据之数据资产管理系统](https://toutiao.io/k/95iyg4q) ![](assets/new.png)  
 - [2022-11-18-发现一个宝藏-Python-库，玩社区发现算法的不能错过](https://toutiao.io/k/2ur1taw) ![](assets/new.png)  
+- [2022-11-18-教育大数据之数据资产管理系统](https://toutiao.io/k/95iyg4q) ![](assets/new.png)  
 - [2022-11-18-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

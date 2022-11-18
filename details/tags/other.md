@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-18 22:13:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-18 22:39:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1917,6 +1917,7 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-11-18-MySQL-全文搜索，如何才能连同中文标点一起搜？](https://www.v2ex.com/t/896345) 
 - [2022-11-18-iPhone-屏幕脏了怎么打理？](https://www.v2ex.com/t/896343) 
 - [2022-11-18-20221119-午夜俱乐部](https://www.v2ex.com/t/896342) 
 - [2022-11-18-Surge-Mac-3-车缺-2](https://www.v2ex.com/t/896338) 
@@ -1945,7 +1946,6 @@
 - [2022-11-18-寻找打造属于自己的流媒体库方案？](https://www.v2ex.com/t/896301) 
 - [2022-11-18-nuxt3-发布稳定版了，我也分享一下写了很久的博客，白嫖的最高境界](https://www.v2ex.com/t/896297) 
 - [2022-11-18-现在大家都在做场景宽带，为什么没有一家运营商直接做-NAS-宽带呢？](https://www.v2ex.com/t/896296) 
-- [2022-11-18-求助新房装修后除甲醛、TOCV-经验](https://www.v2ex.com/t/896295) 
 - [2022-11-18-敏捷团队的质量保障赋能-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15410&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fquality-assurance-enablement-in-agile-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-18-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-18-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

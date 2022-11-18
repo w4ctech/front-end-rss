@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-18 18:16:30。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-18 18:44:38。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,7 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-18-20221119-午夜俱乐部](https://www.v2ex.com/t/896342) 
 - [【V2EX】2022-11-18-如何让视频带声音的自动播放?](https://www.v2ex.com/t/896341) 
 - [【V2EX】2022-11-18-想从一个-Unity-写的-iOS-游戏中提取-Live2D-模型，最简单的方法是什么？](https://www.v2ex.com/t/896340) 
 - [【V2EX】2022-11-18-写了个给-gin-项目生成-swagger.json-并自动上传到-yapi-的小工具](https://www.v2ex.com/t/896339) 
@@ -108,7 +109,6 @@
 - [【V2EX】2022-11-18-求助新房装修后除甲醛、TOCV-经验](https://www.v2ex.com/t/896295) 
 - [【V2EX】2022-11-18-ACG2vec-系列之-ACGVoc2vec——基于深度学习的二次元场景适应的文本特征抽取器](https://www.v2ex.com/t/896294) 
 - [【V2EX】2022-11-18-cloudflare-中转-ip](https://www.v2ex.com/t/896293) 
-- [【V2EX】2022-11-18-iPad-上的前台调度简直就是用电狂魔](https://www.v2ex.com/t/896292) 
 - [【技术头条】2022-11-18-敏捷团队的质量保障赋能-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15410&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fquality-assurance-enablement-in-agile-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-18-团队的Code-Review实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15409&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-code-review%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-18-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-18 11:10:54，:rocket: 更新条数: +2013， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-18 11:35:34，:rocket: 更新条数: +2012， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-11-18-公司规章里规定要写周报，但是没写一次后要扣我一周工资](https://www.v2ex.com/t/896288) ![](assets/new.png)  
+- [2022-11-18-有普通会员车嘛](https://www.v2ex.com/t/896287) ![](assets/new.png)  
 - [2022-11-18-即将进入黑五周，大家有什么好物推荐吗](https://www.v2ex.com/t/896285) ![](assets/new.png)  
 - [2022-11-18-做了一个实物图书管理的小网站，想问问你们有没有需求，具体需要什么功能](https://www.v2ex.com/t/896284) ![](assets/new.png)  
 - [2022-11-18-求幫小白建造一台黑蘋果電腦-pc](https://www.v2ex.com/t/896283) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-11-18-使用-Apple-Watch-跑步和自我量化](https://www.v2ex.com/t/896265) ![](assets/new.png)  
 - [2022-11-18-C++-中的-enum-可以强制要求使用命名前缀吗？](https://www.v2ex.com/t/896264) ![](assets/new.png)  
 - [2022-11-18-中环转运的-YubiKey，大佬们商品信息怎么填的？](https://www.v2ex.com/t/896263) ![](assets/new.png)  
-- [2022-11-18-APPLE-京东自营亲戚买了-2-台-14-已经拆封没激活现在不给退货有办法解决吗？](https://www.v2ex.com/t/896262) ![](assets/new.png)  
-- [2022-11-18-现在程序员真的供过于求了吗？招聘都开始问什么星座、是不是党员了。。。](https://www.v2ex.com/t/896261) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -555,8 +555,8 @@
 - [2022-11-18-你不得不学的Linux，让它助你轻松入门！](https://toutiao.io/k/zqnfh3w) ![](assets/new.png)  
 - [2022-11-18-Go1.20-中两个关于-Time-的更新，终于不用背-2006-01-02-15:04:05-了](https://toutiao.io/k/85u9xt9) ![](assets/new.png)  
 - [2022-11-18-2022-稳居-C-位的-AIGC，到底有什么用？](https://toutiao.io/k/601lrla) ![](assets/new.png)  
-- [2022-11-18-对比-Pandas，学习-PySpark-大数据处理](https://toutiao.io/k/fbuwzvg) ![](assets/new.png)  
 - [2022-11-18-专为实时而生：GreptimeDB-现已在-GitHub-正式开源](https://toutiao.io/k/phsjngz) ![](assets/new.png)  
+- [2022-11-18-对比-Pandas，学习-PySpark-大数据处理](https://toutiao.io/k/fbuwzvg) ![](assets/new.png)  
 - [2022-11-18-教育大数据之数据资产管理系统](https://toutiao.io/k/95iyg4q) ![](assets/new.png)  
 - [2022-11-18-发现一个宝藏-Python-库，玩社区发现算法的不能错过](https://toutiao.io/k/2ur1taw) ![](assets/new.png)  
 - [2022-11-18-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) ![](assets/new.png)  

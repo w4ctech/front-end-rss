@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-18 16:17:23。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-18 16:51:04。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,7 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-18-Surge-Mac-3-车缺-2](https://www.v2ex.com/t/896338) 
 - [【V2EX】2022-11-18-Vue-表单问题](https://www.v2ex.com/t/896335) 
 - [【V2EX】2022-11-18-感觉-3D-打印快入坑了](https://www.v2ex.com/t/896334) 
 - [【V2EX】2022-11-18-请问配置域名邮箱的时候，一个域名指向多个邮件服务商会发生什么事？这种配置方式有什么实际用途？](https://www.v2ex.com/t/896333) 
@@ -106,7 +107,6 @@
 - [【V2EX】2022-11-18-cloudflare-中转-ip](https://www.v2ex.com/t/896293) 
 - [【V2EX】2022-11-18-iPad-上的前台调度简直就是用电狂魔](https://www.v2ex.com/t/896292) 
 - [【V2EX】2022-11-18-想开个开源项目的坑，听听大家的意见](https://www.v2ex.com/t/896291) 
-- [【V2EX】2022-11-18-公司规章里规定要写周报，但是没写一次后要扣我一周工资](https://www.v2ex.com/t/896288) 
 - [【技术头条】2022-11-18-敏捷团队的质量保障赋能-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15410&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fquality-assurance-enablement-in-agile-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-18-团队的Code-Review实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15409&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-code-review%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-18-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

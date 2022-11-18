@@ -9953,6 +9953,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "写了个给 gin 项目生成 swagger.json 并自动上传到 yapi 的小工具",
+        "link": "https://www.v2ex.com/t/896339",
+        "date": "2022-11-18"
+      },
+      {
         "title": "Surge Mac 3 车缺 2",
         "link": "https://www.v2ex.com/t/896338",
         "date": "2022-11-18"

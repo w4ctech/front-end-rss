@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-18 10:41:22。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-18 11:10:54。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,9 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-18-即将进入黑五周，大家有什么好物推荐吗](https://www.v2ex.com/t/896285) 
+- [【V2EX】2022-11-18-做了一个实物图书管理的小网站，想问问你们有没有需求，具体需要什么功能](https://www.v2ex.com/t/896284) 
+- [【V2EX】2022-11-18-求幫小白建造一台黑蘋果電腦-pc](https://www.v2ex.com/t/896283) 
 - [【V2EX】2022-11-18-请教各位-v-友，之前在甲骨文搭建的-SSR-一直正常使用。但是今天无法用了。](https://www.v2ex.com/t/896282) 
 - [【V2EX】2022-11-18-有朋友最近买过-14-寸-MacBook-Pro-吗，帮忙指指路](https://www.v2ex.com/t/896280) 
 - [【V2EX】2022-11-18-Apple-Store-日服-充值](https://www.v2ex.com/t/896279) 
@@ -107,8 +110,6 @@
 - [【V2EX】2022-11-18-矿卡历险记，终于破案了](https://www.v2ex.com/t/896238) 
 - [【V2EX】2022-11-18-现在从哪个渠道入手性价比最高？](https://www.v2ex.com/t/896237) 
 - [【V2EX】2022-11-18-为什么有女孩喜欢烟味](https://www.v2ex.com/t/896236) 
-- [【V2EX】2022-11-18-法亚-Kindle-能否去除待机广告](https://www.v2ex.com/t/896235) 
-- [【V2EX】2022-11-18-卸载得应用还在获取位置？](https://www.v2ex.com/t/896234) 
 - [【技术头条】2022-11-18-敏捷团队的质量保障赋能-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15410&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fquality-assurance-enablement-in-agile-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-18-团队的Code-Review实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15409&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-code-review%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-18-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -127,11 +128,11 @@
 - [【开发者头条】2022-11-18-保姆级教程！2-万字-+-30-张图搞懂-MySQL-是怎么加行级锁的？](https://toutiao.io/k/ajp0uzy) 
 - [【开发者头条】2022-11-18-多指标时序预测方式及时序特征工程总结](https://toutiao.io/k/1bjdqo0) 
 - [【开发者头条】2022-11-18-包管理工具的演进](https://toutiao.io/k/pwpda9w) 
-- [【开发者头条】2022-11-18-Go1.20-中两个关于-Time-的更新，终于不用背-2006-01-02-15:04:05-了](https://toutiao.io/k/85u9xt9) 
 - [【开发者头条】2022-11-18-Rust-使用-MySQL-数据库（一）](https://toutiao.io/k/rgc2b51) 
 - [【开发者头条】2022-11-18-你不得不学的Linux，让它助你轻松入门！](https://toutiao.io/k/zqnfh3w) 
-- [【开发者头条】2022-11-18-对比-Pandas，学习-PySpark-大数据处理](https://toutiao.io/k/fbuwzvg) 
+- [【开发者头条】2022-11-18-Go1.20-中两个关于-Time-的更新，终于不用背-2006-01-02-15:04:05-了](https://toutiao.io/k/85u9xt9) 
 - [【开发者头条】2022-11-18-2022-稳居-C-位的-AIGC，到底有什么用？](https://toutiao.io/k/601lrla) 
+- [【开发者头条】2022-11-18-对比-Pandas，学习-PySpark-大数据处理](https://toutiao.io/k/fbuwzvg) 
 - [【开发者头条】2022-11-18-专为实时而生：GreptimeDB-现已在-GitHub-正式开源](https://toutiao.io/k/phsjngz) 
 - [【开发者头条】2022-11-18-教育大数据之数据资产管理系统](https://toutiao.io/k/95iyg4q) 
 - [【开发者头条】2022-11-18-发现一个宝藏-Python-库，玩社区发现算法的不能错过](https://toutiao.io/k/2ur1taw) 

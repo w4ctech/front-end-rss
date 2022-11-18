@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-18 14:12:33，:rocket: 更新条数: +2010， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-18 14:38:37，:rocket: 更新条数: +2010， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,8 +491,12 @@
 </summary>
 
 
+- [2022-11-18-win-下转发-3000-端口，为何-localhost-可以访问而-ipv6-地址不可访问？](https://www.v2ex.com/t/896323) ![](assets/new.png)  
+- [2022-11-18-现在哪里可以购买便宜域名](https://www.v2ex.com/t/896322) ![](assets/new.png)  
+- [2022-11-18-乔思伯发布了一个新的-5-盘位-NAS-机箱-N2](https://www.v2ex.com/t/896321) ![](assets/new.png)  
+- [2022-11-18-有用-vivo-S15-手机的吗？](https://www.v2ex.com/t/896320) ![](assets/new.png)  
+- [2022-11-18-iPad-Chrome-桌面模式打开网页缩放功能](https://www.v2ex.com/t/896319) ![](assets/new.png)  
 - [2022-11-18-vmware-fusion-13-正式发布-支持-Apple-silicon-M1](https://www.v2ex.com/t/896318) ![](assets/new.png)  
-- [2022-11-18-今年世界杯不如往年热闹感觉是故意而为之…](https://www.v2ex.com/t/896317) ![](assets/new.png)  
 - [2022-11-18-群晖-DriveApp-的在线文档编辑功能来了](https://www.v2ex.com/t/896316) ![](assets/new.png)  
 - [2022-11-18-mac-上有什么图片漂白软件？网页版也行](https://www.v2ex.com/t/896315) ![](assets/new.png)  
 - [2022-11-18-故事分享-一根能跑-100M-2500M-很多情况不能跑-1000M-的离谱网线](https://www.v2ex.com/t/896314) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-11-18-AI-卡的工作原理](https://www.v2ex.com/t/896302) ![](assets/new.png)  
 - [2022-11-18-寻找打造属于自己的流媒体库方案？](https://www.v2ex.com/t/896301) ![](assets/new.png)  
 - [2022-11-18-nuxt3-发布稳定版了，我也分享一下写了很久的博客，白嫖的最高境界](https://www.v2ex.com/t/896297) ![](assets/new.png)  
-- [2022-11-18-现在大家都在做场景宽带，为什么没有一家运营商直接做-NAS-宽带呢？](https://www.v2ex.com/t/896296) ![](assets/new.png)  
-- [2022-11-18-求助新房装修后除甲醛、TOCV-经验](https://www.v2ex.com/t/896295) ![](assets/new.png)  
-- [2022-11-18-ACG2vec-系列之-ACGVoc2vec——基于深度学习的二次元场景适应的文本特征抽取器](https://www.v2ex.com/t/896294) ![](assets/new.png)  
-- [2022-11-18-cloudflare-中转-ip](https://www.v2ex.com/t/896293) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

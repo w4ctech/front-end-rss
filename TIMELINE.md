@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-18 14:12:33。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-18 14:38:37。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,8 +70,12 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-18-win-下转发-3000-端口，为何-localhost-可以访问而-ipv6-地址不可访问？](https://www.v2ex.com/t/896323) 
+- [【V2EX】2022-11-18-现在哪里可以购买便宜域名](https://www.v2ex.com/t/896322) 
+- [【V2EX】2022-11-18-乔思伯发布了一个新的-5-盘位-NAS-机箱-N2](https://www.v2ex.com/t/896321) 
+- [【V2EX】2022-11-18-有用-vivo-S15-手机的吗？](https://www.v2ex.com/t/896320) 
+- [【V2EX】2022-11-18-iPad-Chrome-桌面模式打开网页缩放功能](https://www.v2ex.com/t/896319) 
 - [【V2EX】2022-11-18-vmware-fusion-13-正式发布-支持-Apple-silicon-M1](https://www.v2ex.com/t/896318) 
-- [【V2EX】2022-11-18-今年世界杯不如往年热闹感觉是故意而为之…](https://www.v2ex.com/t/896317) 
 - [【V2EX】2022-11-18-群晖-DriveApp-的在线文档编辑功能来了](https://www.v2ex.com/t/896316) 
 - [【V2EX】2022-11-18-mac-上有什么图片漂白软件？网页版也行](https://www.v2ex.com/t/896315) 
 - [【V2EX】2022-11-18-故事分享-一根能跑-100M-2500M-很多情况不能跑-1000M-的离谱网线](https://www.v2ex.com/t/896314) 
@@ -93,7 +97,6 @@
 - [【V2EX】2022-11-18-iPad-上的前台调度简直就是用电狂魔](https://www.v2ex.com/t/896292) 
 - [【V2EX】2022-11-18-想开个开源项目的坑，听听大家的意见](https://www.v2ex.com/t/896291) 
 - [【V2EX】2022-11-18-公司规章里规定要写周报，但是没写一次后要扣我一周工资](https://www.v2ex.com/t/896288) 
-- [【V2EX】2022-11-18-有普通会员车嘛](https://www.v2ex.com/t/896287) 
 - [【V2EX】2022-11-18-即将进入黑五周，大家有什么好物推荐吗](https://www.v2ex.com/t/896285) 
 - [【V2EX】2022-11-18-做了一个实物图书管理的小网站，想问问你们有没有需求，具体需要什么功能](https://www.v2ex.com/t/896284) 
 - [【V2EX】2022-11-18-求幫小白建造一台黑蘋果電腦-pc](https://www.v2ex.com/t/896283) 
@@ -104,9 +107,6 @@
 - [【V2EX】2022-11-18-react-使用-hooks，遇到问题，没有想到好的解决办法](https://www.v2ex.com/t/896276) 
 - [【V2EX】2022-11-18-杭州有便宜实惠的眼镜店吗？](https://www.v2ex.com/t/896275) 
 - [【V2EX】2022-11-18-RackNerd，美国便宜-VPS-低至-$10-/-年](https://www.v2ex.com/t/896274) 
-- [【V2EX】2022-11-18-pm2-出现幽灵进程](https://www.v2ex.com/t/896273) 
-- [【V2EX】2022-11-18-问下-v-社大佬关于浅色深色](https://www.v2ex.com/t/896270) 
-- [【V2EX】2022-11-18-一说国外都不好，叫回又都不回，这怎么说](https://www.v2ex.com/t/896269) 
 - [【技术头条】2022-11-18-敏捷团队的质量保障赋能-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15410&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fquality-assurance-enablement-in-agile-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-18-团队的Code-Review实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15409&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-code-review%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-18-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

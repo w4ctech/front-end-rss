@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-18 07:12:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-18 07:35:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -16,5 +16,4 @@
 - [2022-11-18-刷-Pixel-Experience-还是-买-pixel](https://www.v2ex.com/t/896215) 
 - [2022-11-18-哪些套-Chrome-的-app，不能只把用到的部分打包进去吗？](https://www.v2ex.com/t/896211) 
 - [2022-11-18-Chrome-异常](https://www.v2ex.com/t/896190) 
-- [2022-11-18-chrome-出啥问题了？](https://www.v2ex.com/t/896175) 
 - [2022-11-18-团队的Code-Review实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15409&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-code-review%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

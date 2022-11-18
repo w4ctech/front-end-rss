@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-18 06:44:55，:rocket: 更新条数: +2007， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-18 07:12:02，:rocket: 更新条数: +2005， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-11-18-妙记多（接力+语音通话+视角跟随的文档笔记工具）上线大纲目录和表格页面浮窗预览，更多新功能预告中](https://www.v2ex.com/t/896224) ![](assets/new.png)  
+- [2022-11-18-工信部投诉是真好使](https://www.v2ex.com/t/896222) ![](assets/new.png)  
+- [2022-11-18-请教一个视频压缩的问题。](https://www.v2ex.com/t/896221) ![](assets/new.png)  
+- [2022-11-18-最近小程序被抽到去往信半接受整改](https://www.v2ex.com/t/896220) ![](assets/new.png)  
+- [2022-11-18-来说说-cloudflare-有什么好用的功能](https://www.v2ex.com/t/896218) ![](assets/new.png)  
 - [2022-11-18-刷-Pixel-Experience-还是-买-pixel](https://www.v2ex.com/t/896215) ![](assets/new.png)  
 - [2022-11-18-gt1030-带一个-4k-和-1080-的屏幕会吃力吗](https://www.v2ex.com/t/896214) ![](assets/new.png)  
 - [2022-11-18-有没有因为一直要学新的东西，所以感到疲惫？](https://www.v2ex.com/t/896212) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-11-18-为什么我的-twitter-web-版没了翻译按钮？](https://www.v2ex.com/t/896196) ![](assets/new.png)  
 - [2022-11-18-Apple-TV-上可否美区下载应用，用国区账号恢复内购？](https://www.v2ex.com/t/896193) ![](assets/new.png)  
 - [2022-11-18-node-ffi-如何处理-char-*-,int-*-参数](https://www.v2ex.com/t/896192) ![](assets/new.png)  
-- [2022-11-18-XGPU-云游戏如何稳定-1080p-画质？](https://www.v2ex.com/t/896191) ![](assets/new.png)  
-- [2022-11-18-Chrome-异常](https://www.v2ex.com/t/896190) ![](assets/new.png)  
-- [2022-11-18-Angular-15-发布](https://www.v2ex.com/t/896188) ![](assets/new.png)  
-- [2022-11-18-Magician-Web3-1.0.2-发布，支持配置代理](https://www.v2ex.com/t/896187) ![](assets/new.png)  
-- [2022-11-18-北京+上海+杭州-|-社招｜字节｜-iOS-开发｜也有-Android、Windows](https://www.v2ex.com/t/896186) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -557,8 +557,8 @@
 - [2022-11-18-专为实时而生：GreptimeDB-现已在-GitHub-正式开源](https://toutiao.io/k/phsjngz) ![](assets/new.png)  
 - [2022-11-18-你不得不学的Linux，让它助你轻松入门！](https://toutiao.io/k/zqnfh3w) ![](assets/new.png)  
 - [2022-11-18-发现一个宝藏-Python-库，玩社区发现算法的不能错过](https://toutiao.io/k/2ur1taw) ![](assets/new.png)  
-- [2022-11-18-2022-稳居-C-位的-AIGC，到底有什么用？](https://toutiao.io/k/601lrla) ![](assets/new.png)  
 - [2022-11-18-教育大数据之数据资产管理系统](https://toutiao.io/k/95iyg4q) ![](assets/new.png)  
+- [2022-11-18-2022-稳居-C-位的-AIGC，到底有什么用？](https://toutiao.io/k/601lrla) ![](assets/new.png)  
 - [2022-11-18-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

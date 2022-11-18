@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-18 06:44:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-18 07:12:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1917,6 +1917,9 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-11-18-妙记多（接力+语音通话+视角跟随的文档笔记工具）上线大纲目录和表格页面浮窗预览，更多新功能预告中](https://www.v2ex.com/t/896224) 
+- [2022-11-18-工信部投诉是真好使](https://www.v2ex.com/t/896222) 
+- [2022-11-18-来说说-cloudflare-有什么好用的功能](https://www.v2ex.com/t/896218) 
 - [2022-11-18-gt1030-带一个-4k-和-1080-的屏幕会吃力吗](https://www.v2ex.com/t/896214) 
 - [2022-11-18-有没有因为一直要学新的东西，所以感到疲惫？](https://www.v2ex.com/t/896212) 
 - [2022-11-18-有个任意网页弹窗搜索的-idea，但好像不大可行？](https://www.v2ex.com/t/896210) 
@@ -1934,13 +1937,6 @@
 - [2022-11-18-请问各位有搭建本地网站的吗？都有哪些方式？](https://www.v2ex.com/t/896180) 
 - [2022-11-18-请教我碰到的一个电脑故障问题，有偿。](https://www.v2ex.com/t/896179) 
 - [2022-11-18-最近职场话题不少，我也来谈谈我司的办公室政治（给鱼塘里贡献鱼）。](https://www.v2ex.com/t/896176) 
-- [2022-11-18-笔记本如何开机让外接显示屏作为默认显示屏？](https://www.v2ex.com/t/896174) 
-- [2022-11-18-为什么我抹老婆的水乳就容易嘴角起疱疹呀](https://www.v2ex.com/t/896173) 
-- [2022-11-18-有没有传授数据库设计经验的资料?](https://www.v2ex.com/t/896172) 
-- [2022-11-18-nature-文章，维-D-一定程度上可有效降低新冠重症风险](https://www.v2ex.com/t/896171) 
-- [2022-11-18-新买的小米-K50-至尊版一天三充，快疯了](https://www.v2ex.com/t/896170) 
-- [2022-11-18-现在微信群过滤消息都过滤成筛子了](https://www.v2ex.com/t/896169) 
-- [2022-11-18-想聊聊大家的工作状态](https://www.v2ex.com/t/896168) 
 - [2022-11-18-敏捷团队的质量保障赋能-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15410&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fquality-assurance-enablement-in-agile-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-18-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-18-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1961,6 +1957,6 @@
 - [2022-11-18-Rust-使用-MySQL-数据库（一）](https://toutiao.io/k/rgc2b51) 
 - [2022-11-18-对比-Pandas，学习-PySpark-大数据处理](https://toutiao.io/k/fbuwzvg) 
 - [2022-11-18-你不得不学的Linux，让它助你轻松入门！](https://toutiao.io/k/zqnfh3w) 
-- [2022-11-18-2022-稳居-C-位的-AIGC，到底有什么用？](https://toutiao.io/k/601lrla) 
 - [2022-11-18-教育大数据之数据资产管理系统](https://toutiao.io/k/95iyg4q) 
+- [2022-11-18-2022-稳居-C-位的-AIGC，到底有什么用？](https://toutiao.io/k/601lrla) 
 - [2022-11-18-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) 

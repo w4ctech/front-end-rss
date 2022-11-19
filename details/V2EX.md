@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-11-19 22:38:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-19 23:01:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-11-19-有-IPv4-公网，还需要开通-IPv6-吗？会有什么兼容问题吗？](https://www.v2ex.com/t/896513) 
 - [2022-11-19-m1-mba-无法充电可能是什么原因](https://www.v2ex.com/t/896512) 
 - [2022-11-19-macbook-pro-又有新的"谣言"了](https://www.v2ex.com/t/896511) 
 - [2022-11-19-React-的-onclick-事件函数中:执行语句外面包了一层-setTimeout...,-0是啥意思?-谢谢](https://www.v2ex.com/t/896510) 

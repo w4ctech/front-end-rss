@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-19 10:39:39，:rocket: 更新条数: +2005， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-19 11:10:02，:rocket: 更新条数: +2006， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-11-19-为什么开通微博会员还是能刷到广告？](https://www.v2ex.com/t/896466) ![](assets/new.png)  
+- [2022-11-19-软路由-or-mac-surege](https://www.v2ex.com/t/896464) ![](assets/new.png)  
+- [2022-11-19-有-youtube-premium-的车可以上吗？](https://www.v2ex.com/t/896462) ![](assets/new.png)  
+- [2022-11-19-似乎最近从-Twitter-迁移到-Mastodon（长毛象）的人数激增，那么大家一般会选择哪个实例呢](https://www.v2ex.com/t/896461) ![](assets/new.png)  
+- [2022-11-19-新人程序员如何选择职业方向？（前端/后端）求指点](https://www.v2ex.com/t/896460) ![](assets/new.png)  
+- [2022-11-19-思想钢印，社交病，你不一定非要上网](https://www.v2ex.com/t/896459) ![](assets/new.png)  
 - [2022-11-19-拼多多买的蟹也太香了吧](https://www.v2ex.com/t/896458) ![](assets/new.png)  
 - [2022-11-19-想请问-v-友们知道哪些可以同时连两台设备的入耳式耳机呢](https://www.v2ex.com/t/896457) ![](assets/new.png)  
 - [2022-11-19-作为一个男孩子,-跳起了广场舞](https://www.v2ex.com/t/896456) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-11-19-获取-Mac-上-App-的菜单选项（menu-item）](https://www.v2ex.com/t/896445) ![](assets/new.png)  
 - [2022-11-19-大家来分享一下黑五有什么值得购买的软件～](https://www.v2ex.com/t/896444) ![](assets/new.png)  
 - [2022-11-19-这几天咋了，-30-系高端卡京东淘宝大品牌专卖店都断货](https://www.v2ex.com/t/896443) ![](assets/new.png)  
-- [2022-11-19-Bitwarden-for-Mac,-Safari-插件,-Chrome-插件抽风（An-error-has-occurred+乱码）](https://www.v2ex.com/t/896442) ![](assets/new.png)  
-- [2022-11-19-保研过后，是实习还是跟老师科研？](https://www.v2ex.com/t/896440) ![](assets/new.png)  
-- [2022-11-19-索尼-Xperia-1-III-换到-Moto-X30-Pro-的使用感受记录](https://www.v2ex.com/t/896439) ![](assets/new.png)  
-- [2022-11-19-北京市内去公共场所（如商超）及上班楼宇到底是要-24-小时核酸检测阴-X-证明还是-72-小时核酸检测阴-X-证明？](https://www.v2ex.com/t/896438) ![](assets/new.png)  
-- [2022-11-19-预备程序员的出路？想听大伙指点指点](https://www.v2ex.com/t/896437) ![](assets/new.png)  
-- [2022-11-19-macOS-上运行的-iOS-App-能否进入后台？](https://www.v2ex.com/t/896436) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -550,8 +550,8 @@
 - [2022-11-19-实现全面生态化的全链路日志追踪系统服务插件（Logback-MDC-篇）](https://toutiao.io/k/b2c8bpz) ![](assets/new.png)  
 - [2022-11-19-打造一款强大成熟的数据库有多难](https://toutiao.io/k/296iyzl) ![](assets/new.png)  
 - [2022-11-19-是什么影响了-MySQL-索引-B+树的高度？](https://toutiao.io/k/58cos95) ![](assets/new.png)  
-- [2022-11-19-凹语言、图灵机和-BF-语言](https://toutiao.io/k/55uaof0) ![](assets/new.png)  
 - [2022-11-19-5-个编写技巧，有效提高单元测试实践](https://toutiao.io/k/rw80kvf) ![](assets/new.png)  
+- [2022-11-19-凹语言、图灵机和-BF-语言](https://toutiao.io/k/55uaof0) ![](assets/new.png)  
 - [2022-11-19-React-中的重新渲染](https://toutiao.io/k/opu6qck) ![](assets/new.png)  
 - [2022-11-19-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)

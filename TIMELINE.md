@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-19 10:39:39。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-19 11:10:02。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,12 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-19-为什么开通微博会员还是能刷到广告？](https://www.v2ex.com/t/896466) 
+- [【V2EX】2022-11-19-软路由-or-mac-surege](https://www.v2ex.com/t/896464) 
+- [【V2EX】2022-11-19-有-youtube-premium-的车可以上吗？](https://www.v2ex.com/t/896462) 
+- [【V2EX】2022-11-19-似乎最近从-Twitter-迁移到-Mastodon（长毛象）的人数激增，那么大家一般会选择哪个实例呢](https://www.v2ex.com/t/896461) 
+- [【V2EX】2022-11-19-新人程序员如何选择职业方向？（前端/后端）求指点](https://www.v2ex.com/t/896460) 
+- [【V2EX】2022-11-19-思想钢印，社交病，你不一定非要上网](https://www.v2ex.com/t/896459) 
 - [【V2EX】2022-11-19-拼多多买的蟹也太香了吧](https://www.v2ex.com/t/896458) 
 - [【V2EX】2022-11-19-想请问-v-友们知道哪些可以同时连两台设备的入耳式耳机呢](https://www.v2ex.com/t/896457) 
 - [【V2EX】2022-11-19-作为一个男孩子,-跳起了广场舞](https://www.v2ex.com/t/896456) 
@@ -103,11 +109,6 @@
 - [【V2EX】2022-11-19-为啥今天-youtube-的首页总有个"for-the-love-of-sneakers"的-banner？](https://www.v2ex.com/t/896419) 
 - [【V2EX】2022-11-19-现在上海电信还会以开设-Web-的名义封宽带账号吗？](https://www.v2ex.com/t/896418) 
 - [【V2EX】2022-11-19-虽然-iPhone-14-数字版销量平平，但是有一点相比-13-数字版-提升巨大](https://www.v2ex.com/t/896417) 
-- [【V2EX】2022-11-19-英国主机-14-英镑/年-实测：不限流量，流媒体解锁好，联通直连速度好](https://www.v2ex.com/t/896416) 
-- [【V2EX】2022-11-19-起点这个书籍轮播效果是咋做的？有大佬会不？](https://www.v2ex.com/t/896415) 
-- [【V2EX】2022-11-19-我得了圆锥角膜，感觉人生完了，不知道朋友们能不能够给点建议。谢谢各位](https://www.v2ex.com/t/896412) 
-- [【V2EX】2022-11-19-明年年底开始-Microsoft-365-个人版/家庭版将无法添加新的域名邮箱](https://www.v2ex.com/t/896411) 
-- [【V2EX】2022-11-19-GitLab-Docker-升级问题](https://www.v2ex.com/t/896409) 
 - [【技术头条】2022-11-19-敏捷团队的质量保障赋能-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15410&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fquality-assurance-enablement-in-agile-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-19-团队的Code-Review实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15409&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-code-review%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-19-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -125,8 +126,8 @@
 - [【开发者头条】2022-11-19-实现全面生态化的全链路日志追踪系统服务插件（Logback-MDC-篇）](https://toutiao.io/k/b2c8bpz) 
 - [【开发者头条】2022-11-19-打造一款强大成熟的数据库有多难](https://toutiao.io/k/296iyzl) 
 - [【开发者头条】2022-11-19-是什么影响了-MySQL-索引-B+树的高度？](https://toutiao.io/k/58cos95) 
-- [【开发者头条】2022-11-19-凹语言、图灵机和-BF-语言](https://toutiao.io/k/55uaof0) 
 - [【开发者头条】2022-11-19-5-个编写技巧，有效提高单元测试实践](https://toutiao.io/k/rw80kvf) 
+- [【开发者头条】2022-11-19-凹语言、图灵机和-BF-语言](https://toutiao.io/k/55uaof0) 
 - [【开发者头条】2022-11-19-React-中的重新渲染](https://toutiao.io/k/opu6qck) 
 - [【开发者头条】2022-11-19-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) 
 

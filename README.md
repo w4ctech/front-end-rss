@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-19 09:12:12，:rocket: 更新条数: +2005， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-19 09:37:01，:rocket: 更新条数: +2003， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-11-19-关于黑苹果的硬件配置选择问题](https://www.v2ex.com/t/896451) ![](assets/new.png)  
 - [2022-11-19-锂电池有什么可靠的国产品牌吗](https://www.v2ex.com/t/896449) ![](assets/new.png)  
 - [2022-11-19-纸质书推荐](https://www.v2ex.com/t/896448) ![](assets/new.png)  
 - [2022-11-19-问一道数学题解法](https://www.v2ex.com/t/896446) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-11-19-当你边走路边看手机时一般是在看什么？](https://www.v2ex.com/t/896428) ![](assets/new.png)  
 - [2022-11-19-三星-990pro-2T-版测试数据](https://www.v2ex.com/t/896427) ![](assets/new.png)  
 - [2022-11-19-namecheap-用工行运通卡（无实体卡）支付被要求验证信用卡照片如何通过验证？](https://www.v2ex.com/t/896426) ![](assets/new.png)  
-- [2022-11-19-想写个-kernel-玩,-买树莓派,单片机,还是?](https://www.v2ex.com/t/896424) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

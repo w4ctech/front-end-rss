@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-19 05:36:52。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-19 06:15:31。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,7 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-19-求-YouTube-premium-车](https://www.v2ex.com/t/896413) 
 - [【V2EX】2022-11-19-我得了圆锥角膜，感觉人生完了，不知道朋友们能不能够给点建议。谢谢各位](https://www.v2ex.com/t/896412) 
 - [【V2EX】2022-11-19-明年年底开始-Microsoft-365-个人版/家庭版将无法添加新的域名邮箱](https://www.v2ex.com/t/896411) 
 - [【V2EX】2022-11-19-GitLab-Docker-升级问题](https://www.v2ex.com/t/896409) 
@@ -101,7 +102,6 @@
 - [【V2EX】2022-11-19-外部设备能采集-iPhone-哪些用户数据？](https://www.v2ex.com/t/896371) 
 - [【V2EX】2022-11-19-大家有没有什么跟进热点的知识-up-主推荐呀？](https://www.v2ex.com/t/896370) 
 - [【V2EX】2022-11-19-AirPods-Pro-2-续航](https://www.v2ex.com/t/896366) 
-- [【V2EX】2022-11-19-请教下-nas-用-windows-有啥坑](https://www.v2ex.com/t/896363) 
 - [【技术头条】2022-11-19-敏捷团队的质量保障赋能-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15410&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fquality-assurance-enablement-in-agile-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-19-团队的Code-Review实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15409&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-code-review%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-19-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

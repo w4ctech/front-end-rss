@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-19 17:37:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-19 18:15:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -40,4 +40,3 @@
 - [2022-11-19-软路由-or-mac-surege](https://www.v2ex.com/t/896464) 
 - [2022-11-19-似乎最近从-Twitter-迁移到-Mastodon（长毛象）的人数激增，那么大家一般会选择哪个实例呢](https://www.v2ex.com/t/896461) 
 - [2022-11-19-新人程序员如何选择职业方向？（前端/后端）求指点](https://www.v2ex.com/t/896460) 
-- [2022-11-19-思想钢印，社交病，你不一定非要上网](https://www.v2ex.com/t/896459) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-19 21:35:54，:rocket: 更新条数: +2002， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-19 22:12:34，:rocket: 更新条数: +2003， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-11-19-m1-mba-无法充电可能是什么原因](https://www.v2ex.com/t/896512) ![](assets/new.png)  
 - [2022-11-19-macbook-pro-又有新的"谣言"了](https://www.v2ex.com/t/896511) ![](assets/new.png)  
 - [2022-11-19-React-的-onclick-事件函数中:执行语句外面包了一层-setTimeout...,-0是啥意思?-谢谢](https://www.v2ex.com/t/896510) ![](assets/new.png)  
 - [2022-11-19-可能是全网最好用的学习型词典,-不确定](https://www.v2ex.com/t/896508) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-11-19-自学-Java-后端,-请推荐教训视频和书籍,-最好配笔记的那种,-谢谢](https://www.v2ex.com/t/896491) ![](assets/new.png)  
 - [2022-11-19-请问-openwrt-有插件能直接进行-http-转发吗？](https://www.v2ex.com/t/896489) ![](assets/new.png)  
 - [2022-11-19-上海户口好拿到吗？非应届双一流本](https://www.v2ex.com/t/896487) ![](assets/new.png)  
-- [2022-11-19-各位大佬，有谁知道哪个团购小程序有自动识别附近小区的功能吗？](https://www.v2ex.com/t/896485) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

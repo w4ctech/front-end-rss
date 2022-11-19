@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-19 11:35:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-19 12:21:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1917,6 +1917,11 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-11-19-为嘛市售常见-NAS-的硬盘都侧着放？](https://www.v2ex.com/t/896474) 
+- [2022-11-19-测速频道推荐](https://www.v2ex.com/t/896473) 
+- [2022-11-19-超六类线能压进六类水晶头吗？](https://www.v2ex.com/t/896471) 
+- [2022-11-19-关于微信号修改后重新注册的问题](https://www.v2ex.com/t/896470) 
+- [2022-11-19-唉，-Apple-store-上买的美区礼品卡填错电子邮箱了...](https://www.v2ex.com/t/896469) 
 - [2022-11-19-想开个程序员宾馆，这主意怎么样？](https://www.v2ex.com/t/896467) 
 - [2022-11-19-为什么开通微博会员还是能刷到广告？](https://www.v2ex.com/t/896466) 
 - [2022-11-19-有-youtube-premium-的车可以上吗？](https://www.v2ex.com/t/896462) 
@@ -1948,10 +1953,6 @@
 - [2022-11-19-当你边走路边看手机时一般是在看什么？](https://www.v2ex.com/t/896428) 
 - [2022-11-19-三星-990pro-2T-版测试数据](https://www.v2ex.com/t/896427) 
 - [2022-11-19-namecheap-用工行运通卡（无实体卡）支付被要求验证信用卡照片如何通过验证？](https://www.v2ex.com/t/896426) 
-- [2022-11-19-想写个-kernel-玩,-买树莓派,单片机,还是?](https://www.v2ex.com/t/896424) 
-- [2022-11-19-macOS-升级-13-后，好像无法自动睡眠了。](https://www.v2ex.com/t/896422) 
-- [2022-11-19-为啥今天-youtube-的首页总有个"for-the-love-of-sneakers"的-banner？](https://www.v2ex.com/t/896419) 
-- [2022-11-19-现在上海电信还会以开设-Web-的名义封宽带账号吗？](https://www.v2ex.com/t/896418) 
 - [2022-11-19-敏捷团队的质量保障赋能-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15410&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fquality-assurance-enablement-in-agile-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-19-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-19-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

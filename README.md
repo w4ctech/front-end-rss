@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-19 11:35:24，:rocket: 更新条数: +2006， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-19 12:21:37，:rocket: 更新条数: +2007， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-11-19-为嘛市售常见-NAS-的硬盘都侧着放？](https://www.v2ex.com/t/896474) ![](assets/new.png)  
+- [2022-11-19-测速频道推荐](https://www.v2ex.com/t/896473) ![](assets/new.png)  
+- [2022-11-19-想问一道-Java-面试题，关于数据处理](https://www.v2ex.com/t/896472) ![](assets/new.png)  
+- [2022-11-19-超六类线能压进六类水晶头吗？](https://www.v2ex.com/t/896471) ![](assets/new.png)  
+- [2022-11-19-关于微信号修改后重新注册的问题](https://www.v2ex.com/t/896470) ![](assets/new.png)  
+- [2022-11-19-唉，-Apple-store-上买的美区礼品卡填错电子邮箱了...](https://www.v2ex.com/t/896469) ![](assets/new.png)  
 - [2022-11-19-想开个程序员宾馆，这主意怎么样？](https://www.v2ex.com/t/896467) ![](assets/new.png)  
 - [2022-11-19-为什么开通微博会员还是能刷到广告？](https://www.v2ex.com/t/896466) ![](assets/new.png)  
 - [2022-11-19-软路由-or-mac-surege](https://www.v2ex.com/t/896464) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-11-19-苹果的-ac+会延长-1-年保修吗？](https://www.v2ex.com/t/896454) ![](assets/new.png)  
 - [2022-11-19-求一份-lua-入门教程](https://www.v2ex.com/t/896453) ![](assets/new.png)  
 - [2022-11-19-resilio-sync-如何双向同步](https://www.v2ex.com/t/896452) ![](assets/new.png)  
-- [2022-11-19-关于黑苹果的硬件配置选择问题](https://www.v2ex.com/t/896451) ![](assets/new.png)  
-- [2022-11-19-锂电池有什么可靠的国产品牌吗](https://www.v2ex.com/t/896449) ![](assets/new.png)  
-- [2022-11-19-纸质书推荐](https://www.v2ex.com/t/896448) ![](assets/new.png)  
-- [2022-11-19-问一道数学题解法](https://www.v2ex.com/t/896446) ![](assets/new.png)  
-- [2022-11-19-获取-Mac-上-App-的菜单选项（menu-item）](https://www.v2ex.com/t/896445) ![](assets/new.png)  
-- [2022-11-19-大家来分享一下黑五有什么值得购买的软件～](https://www.v2ex.com/t/896444) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

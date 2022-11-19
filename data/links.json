@@ -9953,6 +9953,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "macbook pro 又有新的\"谣言\"了",
+        "link": "https://www.v2ex.com/t/896511",
+        "date": "2022-11-19"
+      },
+      {
         "title": "[React 的 onclick 事件函数中:执行语句外面包了一层 setTimeout((...), 0)是啥意思? 谢谢]",
         "link": "https://www.v2ex.com/t/896510",
         "date": "2022-11-19"
@@ -10120,11 +10125,6 @@
       {
         "title": "软路由 or mac surege",
         "link": "https://www.v2ex.com/t/896464",
-        "date": "2022-11-19"
-      },
-      {
-        "title": "似乎最近从 Twitter 迁移到 Mastodon（长毛象）的人数激增，那么大家一般会选择哪个实例呢",
-        "link": "https://www.v2ex.com/t/896461",
         "date": "2022-11-19"
       }
     ]

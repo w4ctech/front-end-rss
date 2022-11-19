@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-19 02:58:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-19 03:40:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1917,11 +1917,12 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-11-19-给父母换一台什么手机好](https://www.v2ex.com/t/896385) 
+- [2022-11-19-请教个-rclone-的问题。](https://www.v2ex.com/t/896381) 
 - [2022-11-19-自己搭建了-RSSHUB，有没有客户端-APP-推荐](https://www.v2ex.com/t/896379) 
 - [2022-11-19-iPhone-7-plus-麦克风出问题了。。。](https://www.v2ex.com/t/896378) 
 - [2022-11-19-m1-air，佳能-1dx2-連結-capture-one-無反應](https://www.v2ex.com/t/896377) 
 - [2022-11-19-时隔-2-年多，-CashWarden-推出全新的-2.0-版本](https://www.v2ex.com/t/896376) 
-- [2022-11-19-美帝亡我之心不死，居然试图通过造假来对我国防疫的大好形势不利](https://www.v2ex.com/t/896374) 
 - [2022-11-19-有没有能屏蔽-Twitter-广告的-Quantumult-规则？](https://www.v2ex.com/t/896373) 
 - [2022-11-19-外部设备能采集-iPhone-哪些用户数据？](https://www.v2ex.com/t/896371) 
 - [2022-11-19-大家有没有什么跟进热点的知识-up-主推荐呀？](https://www.v2ex.com/t/896370) 
@@ -1943,8 +1944,6 @@
 - [2022-11-18-MySQL-全文搜索，如何才能连同中文标点一起搜？](https://www.v2ex.com/t/896345) 
 - [2022-11-18-iPhone-屏幕脏了怎么打理？](https://www.v2ex.com/t/896343) 
 - [2022-11-18-20221119-午夜俱乐部](https://www.v2ex.com/t/896342) 
-- [2022-11-18-Surge-Mac-3-车缺-2](https://www.v2ex.com/t/896338) 
-- [2022-11-18-请问配置域名邮箱的时候，一个域名指向多个邮件服务商会发生什么事？这种配置方式有什么实际用途？](https://www.v2ex.com/t/896333) 
 - [2022-11-19-敏捷团队的质量保障赋能-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15410&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fquality-assurance-enablement-in-agile-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-19-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-19-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1955,8 +1954,8 @@
 - [2022-11-19-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-19-技术改变了什么？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15400&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fpower-of-technology%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-19-优质网站同好者周刊（第-092-期）](https://toutiao.io/k/v320ogz) 
-- [2022-11-19-实现全面生态化的全链路日志追踪系统服务插件（Logback-MDC-篇）](https://toutiao.io/k/b2c8bpz) 
 - [2022-11-19-JUnit-5-单元测试教程](https://toutiao.io/k/2xwukbk) 
+- [2022-11-19-实现全面生态化的全链路日志追踪系统服务插件（Logback-MDC-篇）](https://toutiao.io/k/b2c8bpz) 
 - [2022-11-19-凹语言、图灵机和-BF-语言](https://toutiao.io/k/55uaof0) 
 - [2022-11-19-打造一款强大成熟的数据库有多难](https://toutiao.io/k/296iyzl) 
 - [2022-11-19-是什么影响了-MySQL-索引-B+树的高度？](https://toutiao.io/k/58cos95) 

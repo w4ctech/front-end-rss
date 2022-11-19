@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-19 11:10:02。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-19 11:35:25。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,7 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-19-想开个程序员宾馆，这主意怎么样？](https://www.v2ex.com/t/896467) 
 - [【V2EX】2022-11-19-为什么开通微博会员还是能刷到广告？](https://www.v2ex.com/t/896466) 
 - [【V2EX】2022-11-19-软路由-or-mac-surege](https://www.v2ex.com/t/896464) 
 - [【V2EX】2022-11-19-有-youtube-premium-的车可以上吗？](https://www.v2ex.com/t/896462) 
@@ -108,7 +109,6 @@
 - [【V2EX】2022-11-19-请教如何安全隔离-atrust，让-mac-能连接内网？](https://www.v2ex.com/t/896421) 
 - [【V2EX】2022-11-19-为啥今天-youtube-的首页总有个"for-the-love-of-sneakers"的-banner？](https://www.v2ex.com/t/896419) 
 - [【V2EX】2022-11-19-现在上海电信还会以开设-Web-的名义封宽带账号吗？](https://www.v2ex.com/t/896418) 
-- [【V2EX】2022-11-19-虽然-iPhone-14-数字版销量平平，但是有一点相比-13-数字版-提升巨大](https://www.v2ex.com/t/896417) 
 - [【技术头条】2022-11-19-敏捷团队的质量保障赋能-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15410&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fquality-assurance-enablement-in-agile-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-19-团队的Code-Review实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15409&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-code-review%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-19-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-11-19 11:10:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-19 11:35:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-11-19-想开个程序员宾馆，这主意怎么样？](https://www.v2ex.com/t/896467) 
 - [2022-11-19-为什么开通微博会员还是能刷到广告？](https://www.v2ex.com/t/896466) 
 - [2022-11-19-软路由-or-mac-surege](https://www.v2ex.com/t/896464) 
 - [2022-11-19-有-youtube-premium-的车可以上吗？](https://www.v2ex.com/t/896462) 
@@ -43,4 +44,3 @@
 - [2022-11-19-请教如何安全隔离-atrust，让-mac-能连接内网？](https://www.v2ex.com/t/896421) 
 - [2022-11-19-为啥今天-youtube-的首页总有个"for-the-love-of-sneakers"的-banner？](https://www.v2ex.com/t/896419) 
 - [2022-11-19-现在上海电信还会以开设-Web-的名义封宽带账号吗？](https://www.v2ex.com/t/896418) 
-- [2022-11-19-虽然-iPhone-14-数字版销量平平，但是有一点相比-13-数字版-提升巨大](https://www.v2ex.com/t/896417) 

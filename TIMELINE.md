@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-19 13:42:01。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-19 14:10:54。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,8 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-19-各位大佬，有谁知道哪个团购小程序有自动识别附近小区的功能吗？](https://www.v2ex.com/t/896485) 
+- [【V2EX】2022-11-19-关于-iPad-上精简-macOS-的思考](https://www.v2ex.com/t/896484) 
 - [【V2EX】2022-11-19-在硬路由后面接个软路由的方案好吗？](https://www.v2ex.com/t/896483) 
 - [【V2EX】2022-11-19-大家有没有购买-Boox-Leaf2-的](https://www.v2ex.com/t/896481) 
 - [【V2EX】2022-11-19-关于小区快递和外卖问题](https://www.v2ex.com/t/896479) 
@@ -107,8 +109,6 @@
 - [【V2EX】2022-11-19-索尼-Xperia-1-III-换到-Moto-X30-Pro-的使用感受记录](https://www.v2ex.com/t/896439) 
 - [【V2EX】2022-11-19-北京市内去公共场所（如商超）及上班楼宇到底是要-24-小时核酸检测阴-X-证明还是-72-小时核酸检测阴-X-证明？](https://www.v2ex.com/t/896438) 
 - [【V2EX】2022-11-19-预备程序员的出路？想听大伙指点指点](https://www.v2ex.com/t/896437) 
-- [【V2EX】2022-11-19-macOS-上运行的-iOS-App-能否进入后台？](https://www.v2ex.com/t/896436) 
-- [【V2EX】2022-11-19-局域网使用-ipv6-链路本地地址相互通讯的问题](https://www.v2ex.com/t/896435) 
 - [【技术头条】2022-11-19-敏捷团队的质量保障赋能-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15410&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fquality-assurance-enablement-in-agile-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-19-团队的Code-Review实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15409&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-code-review%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-19-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

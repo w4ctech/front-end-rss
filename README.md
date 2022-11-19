@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-19 16:16:05，:rocket: 更新条数: +2003， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-19 16:49:28，:rocket: 更新条数: +2003， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-11-19-两个-Windows-平台还算实用的平铺式窗口管理器](https://www.v2ex.com/t/896507) ![](assets/new.png)  
 - [2022-11-19-刚更新了-win11，难顶](https://www.v2ex.com/t/896506) ![](assets/new.png)  
 - [2022-11-19-更新-macOS-13-后-无像无法睡眠了](https://www.v2ex.com/t/896505) ![](assets/new.png)  
 - [2022-11-19-请问-macbook-插电源，-iPhone-插-mac-充电有什么问题吗？以及-m2-mba-好像不能把系统装在外置硬盘了？](https://www.v2ex.com/t/896502) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-11-19-关于-iPad-上精简-macOS-的思考](https://www.v2ex.com/t/896484) ![](assets/new.png)  
 - [2022-11-19-在硬路由后面接个软路由的方案好吗？](https://www.v2ex.com/t/896483) ![](assets/new.png)  
 - [2022-11-19-大家有没有购买-Boox-Leaf2-的](https://www.v2ex.com/t/896481) ![](assets/new.png)  
-- [2022-11-19-关于小区快递和外卖问题](https://www.v2ex.com/t/896479) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

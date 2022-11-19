@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-19 06:15:30，:rocket: 更新条数: +1999， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-19 06:43:02，:rocket: 更新条数: +2001， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,13 @@
 </summary>
 
 
+- [2022-11-19-macOS-升级-13-后，好像无法自动睡眠了。](https://www.v2ex.com/t/896422) ![](assets/new.png)  
+- [2022-11-19-请教如何安全隔离-atrust，让-mac-能连接内网？](https://www.v2ex.com/t/896421) ![](assets/new.png)  
+- [2022-11-19-为啥今天-youtube-的首页总有个"for-the-love-of-sneakers"的-banner？](https://www.v2ex.com/t/896419) ![](assets/new.png)  
+- [2022-11-19-现在上海电信还会以开设-Web-的名义封宽带账号吗？](https://www.v2ex.com/t/896418) ![](assets/new.png)  
+- [2022-11-19-虽然-iPhone-14-数字版销量平平，但是有一点相比-13-数字版-提升巨大](https://www.v2ex.com/t/896417) ![](assets/new.png)  
+- [2022-11-19-英国主机-14-英镑/年-实测：不限流量，流媒体解锁好，联通直连速度好](https://www.v2ex.com/t/896416) ![](assets/new.png)  
+- [2022-11-19-起点这个书籍轮播效果是咋做的？有大佬会不？](https://www.v2ex.com/t/896415) ![](assets/new.png)  
 - [2022-11-19-求-YouTube-premium-车](https://www.v2ex.com/t/896413) ![](assets/new.png)  
 - [2022-11-19-我得了圆锥角膜，感觉人生完了，不知道朋友们能不能够给点建议。谢谢各位](https://www.v2ex.com/t/896412) ![](assets/new.png)  
 - [2022-11-19-明年年底开始-Microsoft-365-个人版/家庭版将无法添加新的域名邮箱](https://www.v2ex.com/t/896411) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-11-19-北京联通老用户换什么套餐做主力卡](https://www.v2ex.com/t/896400) ![](assets/new.png)  
 - [2022-11-19-公司领导礼拜六打电话过来要求所有人到公司过项目进度，这是不是一个合格的领导？](https://www.v2ex.com/t/896399) ![](assets/new.png)  
 - [2022-11-19-极空间-z4s-和群晖-ds920+的选择](https://www.v2ex.com/t/896397) ![](assets/new.png)  
-- [2022-11-19-求-6-寸电纸书推荐](https://www.v2ex.com/t/896396) ![](assets/new.png)  
-- [2022-11-19-有什么邮件-App-是自带翻译功能的？](https://www.v2ex.com/t/896395) ![](assets/new.png)  
-- [2022-11-19-CodeGalaxy-让每个开发者都可以享受到云原生和无服务器（ServerLess）技术带来的高效与便捷](https://www.v2ex.com/t/896394) ![](assets/new.png)  
-- [2022-11-19-公司要求写-Linux-故障一天一个，我只能想到几个](https://www.v2ex.com/t/896393) ![](assets/new.png)  
-- [2022-11-19-搬瓦工要不要续费呢](https://www.v2ex.com/t/896392) ![](assets/new.png)  
-- [2022-11-19-求推荐：-Chrome-上对网页进行批注的插件](https://www.v2ex.com/t/896391) ![](assets/new.png)  
-- [2022-11-19-这就是大家吹爆了的-M-series-Chiip](https://www.v2ex.com/t/896386) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

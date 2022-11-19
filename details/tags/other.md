@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-19 06:15:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-19 06:43:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1917,6 +1917,12 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-11-19-macOS-升级-13-后，好像无法自动睡眠了。](https://www.v2ex.com/t/896422) 
+- [2022-11-19-为啥今天-youtube-的首页总有个"for-the-love-of-sneakers"的-banner？](https://www.v2ex.com/t/896419) 
+- [2022-11-19-现在上海电信还会以开设-Web-的名义封宽带账号吗？](https://www.v2ex.com/t/896418) 
+- [2022-11-19-虽然-iPhone-14-数字版销量平平，但是有一点相比-13-数字版-提升巨大](https://www.v2ex.com/t/896417) 
+- [2022-11-19-英国主机-14-英镑/年-实测：不限流量，流媒体解锁好，联通直连速度好](https://www.v2ex.com/t/896416) 
+- [2022-11-19-起点这个书籍轮播效果是咋做的？有大佬会不？](https://www.v2ex.com/t/896415) 
 - [2022-11-19-求-YouTube-premium-车](https://www.v2ex.com/t/896413) 
 - [2022-11-19-我得了圆锥角膜，感觉人生完了，不知道朋友们能不能够给点建议。谢谢各位](https://www.v2ex.com/t/896412) 
 - [2022-11-19-明年年底开始-Microsoft-365-个人版/家庭版将无法添加新的域名邮箱](https://www.v2ex.com/t/896411) 
@@ -1939,10 +1945,6 @@
 - [2022-11-19-iPhone-7-plus-麦克风出问题了。。。](https://www.v2ex.com/t/896378) 
 - [2022-11-19-m1-air，佳能-1dx2-連結-capture-one-無反應](https://www.v2ex.com/t/896377) 
 - [2022-11-19-时隔-2-年多，-CashWarden-推出全新的-2.0-版本](https://www.v2ex.com/t/896376) 
-- [2022-11-19-有没有能屏蔽-Twitter-广告的-Quantumult-规则？](https://www.v2ex.com/t/896373) 
-- [2022-11-19-外部设备能采集-iPhone-哪些用户数据？](https://www.v2ex.com/t/896371) 
-- [2022-11-19-大家有没有什么跟进热点的知识-up-主推荐呀？](https://www.v2ex.com/t/896370) 
-- [2022-11-19-AirPods-Pro-2-续航](https://www.v2ex.com/t/896366) 
 - [2022-11-19-敏捷团队的质量保障赋能-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15410&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fquality-assurance-enablement-in-agile-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-19-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-19-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-19 04:14:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-19 04:44:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1917,6 +1917,11 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-11-19-腾讯会议共享电脑声音时失真](https://www.v2ex.com/t/896403) 
+- [2022-11-19-为什么那么多想润的人不润呢？](https://www.v2ex.com/t/896402) 
+- [2022-11-19-高新南地铁周边有没有出租房子/找室友的](https://www.v2ex.com/t/896401) 
+- [2022-11-19-北京联通老用户换什么套餐做主力卡](https://www.v2ex.com/t/896400) 
+- [2022-11-19-公司领导礼拜六打电话过来要求所有人到公司过项目进度，这是不是一个合格的领导？](https://www.v2ex.com/t/896399) 
 - [2022-11-19-极空间-z4s-和群晖-ds920+的选择](https://www.v2ex.com/t/896397) 
 - [2022-11-19-求-6-寸电纸书推荐](https://www.v2ex.com/t/896396) 
 - [2022-11-19-有什么邮件-App-是自带翻译功能的？](https://www.v2ex.com/t/896395) 
@@ -1940,9 +1945,6 @@
 - [2022-11-19-关于-apple-arcade-的一些疑问](https://www.v2ex.com/t/896357) 
 - [2022-11-19-询问：-iPad-mini6-64g，官网售价-3899，为啥其他店铺能卖到-3378？官换机？翻新机？](https://www.v2ex.com/t/896355) 
 - [2022-11-19-求推荐现在好用的流量卡](https://www.v2ex.com/t/896354) 
-- [2022-11-19-一个神奇的现象](https://www.v2ex.com/t/896352) 
-- [2022-11-19-群晖为啥不支持独立系统盘](https://www.v2ex.com/t/896351) 
-- [2022-11-19-macOS-虚拟机软件-VMware-Fusion-13-正式发布：支持-TPM-2.0、-Apple-Silicon-Mac](https://www.v2ex.com/t/896350) 
 - [2022-11-19-敏捷团队的质量保障赋能-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15410&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fquality-assurance-enablement-in-agile-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-19-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-19-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

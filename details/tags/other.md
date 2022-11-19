@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-19 19:10:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-19 19:35:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1941,7 +1941,6 @@
 - [2022-11-19-唉，-Apple-store-上买的美区礼品卡填错电子邮箱了...](https://www.v2ex.com/t/896469) 
 - [2022-11-19-想开个程序员宾馆，这主意怎么样？](https://www.v2ex.com/t/896467) 
 - [2022-11-19-为什么开通微博会员还是能刷到广告？](https://www.v2ex.com/t/896466) 
-- [2022-11-19-新人程序员如何选择职业方向？（前端/后端）求指点](https://www.v2ex.com/t/896460) 
 - [2022-11-19-敏捷团队的质量保障赋能-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15410&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fquality-assurance-enablement-in-agile-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-19-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-19-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

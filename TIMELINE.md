@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-19 05:11:29。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-19 05:36:52。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,10 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-19-我得了圆锥角膜，感觉人生完了，不知道朋友们能不能够给点建议。谢谢各位](https://www.v2ex.com/t/896412) 
+- [【V2EX】2022-11-19-明年年底开始-Microsoft-365-个人版/家庭版将无法添加新的域名邮箱](https://www.v2ex.com/t/896411) 
+- [【V2EX】2022-11-19-GitLab-Docker-升级问题](https://www.v2ex.com/t/896409) 
+- [【V2EX】2022-11-19-余额里的这条记录什么意思？](https://www.v2ex.com/t/896407) 
 - [【V2EX】2022-11-19-团队私有化网盘选择困难症-求打醒](https://www.v2ex.com/t/896405) 
 - [【V2EX】2022-11-19-问下各位对国产操作系统的看法](https://www.v2ex.com/t/896404) 
 - [【V2EX】2022-11-19-腾讯会议共享电脑声音时失真](https://www.v2ex.com/t/896403) 
@@ -98,12 +102,6 @@
 - [【V2EX】2022-11-19-大家有没有什么跟进热点的知识-up-主推荐呀？](https://www.v2ex.com/t/896370) 
 - [【V2EX】2022-11-19-AirPods-Pro-2-续航](https://www.v2ex.com/t/896366) 
 - [【V2EX】2022-11-19-请教下-nas-用-windows-有啥坑](https://www.v2ex.com/t/896363) 
-- [【V2EX】2022-11-19-有没有类似-ServerCat-但是网页版的软件](https://www.v2ex.com/t/896362) 
-- [【V2EX】2022-11-19-ADHD-求专注当前任务的应用程序/插件](https://www.v2ex.com/t/896361) 
-- [【V2EX】2022-11-19-有什么办法可以用搜索引擎搜索标点符号内容？](https://www.v2ex.com/t/896360) 
-- [【V2EX】2022-11-19-光大银行是不是推销骚扰最频繁的银行？](https://www.v2ex.com/t/896358) 
-- [【V2EX】2022-11-19-关于-apple-arcade-的一些疑问](https://www.v2ex.com/t/896357) 
-- [【V2EX】2022-11-19-打印机的-WiFi-打印太慢了。可以将打印机的数据线直接连到路由器-usb-口上实现-WiFi-打印吗](https://www.v2ex.com/t/896356) 
 - [【技术头条】2022-11-19-敏捷团队的质量保障赋能-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15410&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fquality-assurance-enablement-in-agile-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-19-团队的Code-Review实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15409&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-code-review%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-19-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-19 08:42:22。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-19 09:12:12。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,11 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-19-锂电池有什么可靠的国产品牌吗](https://www.v2ex.com/t/896449) 
+- [【V2EX】2022-11-19-纸质书推荐](https://www.v2ex.com/t/896448) 
+- [【V2EX】2022-11-19-问一道数学题解法](https://www.v2ex.com/t/896446) 
+- [【V2EX】2022-11-19-获取-Mac-上-App-的菜单选项（menu-item）](https://www.v2ex.com/t/896445) 
+- [【V2EX】2022-11-19-大家来分享一下黑五有什么值得购买的软件～](https://www.v2ex.com/t/896444) 
 - [【V2EX】2022-11-19-这几天咋了，-30-系高端卡京东淘宝大品牌专卖店都断货](https://www.v2ex.com/t/896443) 
 - [【V2EX】2022-11-19-Bitwarden-for-Mac,-Safari-插件,-Chrome-插件抽风（An-error-has-occurred+乱码）](https://www.v2ex.com/t/896442) 
 - [【V2EX】2022-11-19-保研过后，是实习还是跟老师科研？](https://www.v2ex.com/t/896440) 
@@ -103,11 +108,6 @@
 - [【V2EX】2022-11-19-为什么那么多想润的人不润呢？](https://www.v2ex.com/t/896402) 
 - [【V2EX】2022-11-19-高新南地铁周边有没有出租房子/找室友的](https://www.v2ex.com/t/896401) 
 - [【V2EX】2022-11-19-北京联通老用户换什么套餐做主力卡](https://www.v2ex.com/t/896400) 
-- [【V2EX】2022-11-19-公司领导礼拜六打电话过来要求所有人到公司过项目进度，这是不是一个合格的领导？](https://www.v2ex.com/t/896399) 
-- [【V2EX】2022-11-19-极空间-z4s-和群晖-ds920+的选择](https://www.v2ex.com/t/896397) 
-- [【V2EX】2022-11-19-求-6-寸电纸书推荐](https://www.v2ex.com/t/896396) 
-- [【V2EX】2022-11-19-有什么邮件-App-是自带翻译功能的？](https://www.v2ex.com/t/896395) 
-- [【V2EX】2022-11-19-CodeGalaxy-让每个开发者都可以享受到云原生和无服务器（ServerLess）技术带来的高效与便捷](https://www.v2ex.com/t/896394) 
 - [【技术头条】2022-11-19-敏捷团队的质量保障赋能-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15410&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fquality-assurance-enablement-in-agile-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-19-团队的Code-Review实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15409&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-code-review%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-19-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -123,9 +123,9 @@
 - [【开发者头条】2022-11-19-美团外卖搜索基于-Elasticsearch-的优化实践](https://toutiao.io/k/i6oh5e0) 
 - [【开发者头条】2022-11-19-JUnit-5-单元测试教程](https://toutiao.io/k/2xwukbk) 
 - [【开发者头条】2022-11-19-实现全面生态化的全链路日志追踪系统服务插件（Logback-MDC-篇）](https://toutiao.io/k/b2c8bpz) 
-- [【开发者头条】2022-11-19-凹语言、图灵机和-BF-语言](https://toutiao.io/k/55uaof0) 
 - [【开发者头条】2022-11-19-打造一款强大成熟的数据库有多难](https://toutiao.io/k/296iyzl) 
 - [【开发者头条】2022-11-19-是什么影响了-MySQL-索引-B+树的高度？](https://toutiao.io/k/58cos95) 
+- [【开发者头条】2022-11-19-凹语言、图灵机和-BF-语言](https://toutiao.io/k/55uaof0) 
 - [【开发者头条】2022-11-19-5-个编写技巧，有效提高单元测试实践](https://toutiao.io/k/rw80kvf) 
 - [【开发者头条】2022-11-19-React-中的重新渲染](https://toutiao.io/k/opu6qck) 
 - [【开发者头条】2022-11-19-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) 

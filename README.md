@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-19 08:42:22，:rocket: 更新条数: +2005， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-19 09:12:12，:rocket: 更新条数: +2005， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-11-19-锂电池有什么可靠的国产品牌吗](https://www.v2ex.com/t/896449) ![](assets/new.png)  
+- [2022-11-19-纸质书推荐](https://www.v2ex.com/t/896448) ![](assets/new.png)  
+- [2022-11-19-问一道数学题解法](https://www.v2ex.com/t/896446) ![](assets/new.png)  
+- [2022-11-19-获取-Mac-上-App-的菜单选项（menu-item）](https://www.v2ex.com/t/896445) ![](assets/new.png)  
+- [2022-11-19-大家来分享一下黑五有什么值得购买的软件～](https://www.v2ex.com/t/896444) ![](assets/new.png)  
 - [2022-11-19-这几天咋了，-30-系高端卡京东淘宝大品牌专卖店都断货](https://www.v2ex.com/t/896443) ![](assets/new.png)  
 - [2022-11-19-Bitwarden-for-Mac,-Safari-插件,-Chrome-插件抽风（An-error-has-occurred+乱码）](https://www.v2ex.com/t/896442) ![](assets/new.png)  
 - [2022-11-19-保研过后，是实习还是跟老师科研？](https://www.v2ex.com/t/896440) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-11-19-三星-990pro-2T-版测试数据](https://www.v2ex.com/t/896427) ![](assets/new.png)  
 - [2022-11-19-namecheap-用工行运通卡（无实体卡）支付被要求验证信用卡照片如何通过验证？](https://www.v2ex.com/t/896426) ![](assets/new.png)  
 - [2022-11-19-想写个-kernel-玩,-买树莓派,单片机,还是?](https://www.v2ex.com/t/896424) ![](assets/new.png)  
-- [2022-11-19-macOS-升级-13-后，好像无法自动睡眠了。](https://www.v2ex.com/t/896422) ![](assets/new.png)  
-- [2022-11-19-请教如何安全隔离-atrust，让-mac-能连接内网？](https://www.v2ex.com/t/896421) ![](assets/new.png)  
-- [2022-11-19-为啥今天-youtube-的首页总有个"for-the-love-of-sneakers"的-banner？](https://www.v2ex.com/t/896419) ![](assets/new.png)  
-- [2022-11-19-现在上海电信还会以开设-Web-的名义封宽带账号吗？](https://www.v2ex.com/t/896418) ![](assets/new.png)  
-- [2022-11-19-虽然-iPhone-14-数字版销量平平，但是有一点相比-13-数字版-提升巨大](https://www.v2ex.com/t/896417) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -548,9 +548,9 @@
 - [2022-11-19-美团外卖搜索基于-Elasticsearch-的优化实践](https://toutiao.io/k/i6oh5e0) ![](assets/new.png)  
 - [2022-11-19-JUnit-5-单元测试教程](https://toutiao.io/k/2xwukbk) ![](assets/new.png)  
 - [2022-11-19-实现全面生态化的全链路日志追踪系统服务插件（Logback-MDC-篇）](https://toutiao.io/k/b2c8bpz) ![](assets/new.png)  
-- [2022-11-19-凹语言、图灵机和-BF-语言](https://toutiao.io/k/55uaof0) ![](assets/new.png)  
 - [2022-11-19-打造一款强大成熟的数据库有多难](https://toutiao.io/k/296iyzl) ![](assets/new.png)  
 - [2022-11-19-是什么影响了-MySQL-索引-B+树的高度？](https://toutiao.io/k/58cos95) ![](assets/new.png)  
+- [2022-11-19-凹语言、图灵机和-BF-语言](https://toutiao.io/k/55uaof0) ![](assets/new.png)  
 - [2022-11-19-5-个编写技巧，有效提高单元测试实践](https://toutiao.io/k/rw80kvf) ![](assets/new.png)  
 - [2022-11-19-React-中的重新渲染](https://toutiao.io/k/opu6qck) ![](assets/new.png)  
 - [2022-11-19-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) ![](assets/new.png)  

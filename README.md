@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-19 03:40:05，:rocket: 更新条数: +2002， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-19 04:14:42，:rocket: 更新条数: +1999， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,13 @@
 </summary>
 
 
+- [2022-11-19-极空间-z4s-和群晖-ds920+的选择](https://www.v2ex.com/t/896397) ![](assets/new.png)  
+- [2022-11-19-求-6-寸电纸书推荐](https://www.v2ex.com/t/896396) ![](assets/new.png)  
+- [2022-11-19-有什么邮件-App-是自带翻译功能的？](https://www.v2ex.com/t/896395) ![](assets/new.png)  
+- [2022-11-19-CodeGalaxy-让每个开发者都可以享受到云原生和无服务器（ServerLess）技术带来的高效与便捷](https://www.v2ex.com/t/896394) ![](assets/new.png)  
+- [2022-11-19-公司要求写-Linux-故障一天一个，我只能想到几个](https://www.v2ex.com/t/896393) ![](assets/new.png)  
+- [2022-11-19-搬瓦工要不要续费呢](https://www.v2ex.com/t/896392) ![](assets/new.png)  
+- [2022-11-19-求推荐：-Chrome-上对网页进行批注的插件](https://www.v2ex.com/t/896391) ![](assets/new.png)  
 - [2022-11-19-这就是大家吹爆了的-M-series-Chiip](https://www.v2ex.com/t/896386) ![](assets/new.png)  
 - [2022-11-19-给父母换一台什么手机好](https://www.v2ex.com/t/896385) ![](assets/new.png)  
 - [2022-11-19-请教个-rclone-的问题。](https://www.v2ex.com/t/896381) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-11-19-外部设备能采集-iPhone-哪些用户数据？](https://www.v2ex.com/t/896371) ![](assets/new.png)  
 - [2022-11-19-大家有没有什么跟进热点的知识-up-主推荐呀？](https://www.v2ex.com/t/896370) ![](assets/new.png)  
 - [2022-11-19-AirPods-Pro-2-续航](https://www.v2ex.com/t/896366) ![](assets/new.png)  
-- [2022-11-19-请教下-nas-用-windows-有啥坑](https://www.v2ex.com/t/896363) ![](assets/new.png)  
-- [2022-11-19-有没有类似-ServerCat-但是网页版的软件](https://www.v2ex.com/t/896362) ![](assets/new.png)  
-- [2022-11-19-ADHD-求专注当前任务的应用程序/插件](https://www.v2ex.com/t/896361) ![](assets/new.png)  
-- [2022-11-19-有什么办法可以用搜索引擎搜索标点符号内容？](https://www.v2ex.com/t/896360) ![](assets/new.png)  
-- [2022-11-19-光大银行是不是推销骚扰最频繁的银行？](https://www.v2ex.com/t/896358) ![](assets/new.png)  
-- [2022-11-19-关于-apple-arcade-的一些疑问](https://www.v2ex.com/t/896357) ![](assets/new.png)  
-- [2022-11-19-打印机的-WiFi-打印太慢了。可以将打印机的数据线直接连到路由器-usb-口上实现-WiFi-打印吗](https://www.v2ex.com/t/896356) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -532,7 +532,6 @@
 - [2022-11-19-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-11-19-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-11-19-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-11-19-技术改变了什么？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15400&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fpower-of-technology%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -552,8 +551,8 @@
 - [2022-11-19-凹语言、图灵机和-BF-语言](https://toutiao.io/k/55uaof0) ![](assets/new.png)  
 - [2022-11-19-打造一款强大成熟的数据库有多难](https://toutiao.io/k/296iyzl) ![](assets/new.png)  
 - [2022-11-19-是什么影响了-MySQL-索引-B+树的高度？](https://toutiao.io/k/58cos95) ![](assets/new.png)  
-- [2022-11-19-React-中的重新渲染](https://toutiao.io/k/opu6qck) ![](assets/new.png)  
 - [2022-11-19-5-个编写技巧，有效提高单元测试实践](https://toutiao.io/k/rw80kvf) ![](assets/new.png)  
+- [2022-11-19-React-中的重新渲染](https://toutiao.io/k/opu6qck) ![](assets/new.png)  
 - [2022-11-19-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

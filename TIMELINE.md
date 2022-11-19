@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-19 03:40:05。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-19 04:14:42。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,13 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-19-极空间-z4s-和群晖-ds920+的选择](https://www.v2ex.com/t/896397) 
+- [【V2EX】2022-11-19-求-6-寸电纸书推荐](https://www.v2ex.com/t/896396) 
+- [【V2EX】2022-11-19-有什么邮件-App-是自带翻译功能的？](https://www.v2ex.com/t/896395) 
+- [【V2EX】2022-11-19-CodeGalaxy-让每个开发者都可以享受到云原生和无服务器（ServerLess）技术带来的高效与便捷](https://www.v2ex.com/t/896394) 
+- [【V2EX】2022-11-19-公司要求写-Linux-故障一天一个，我只能想到几个](https://www.v2ex.com/t/896393) 
+- [【V2EX】2022-11-19-搬瓦工要不要续费呢](https://www.v2ex.com/t/896392) 
+- [【V2EX】2022-11-19-求推荐：-Chrome-上对网页进行批注的插件](https://www.v2ex.com/t/896391) 
 - [【V2EX】2022-11-19-这就是大家吹爆了的-M-series-Chiip](https://www.v2ex.com/t/896386) 
 - [【V2EX】2022-11-19-给父母换一台什么手机好](https://www.v2ex.com/t/896385) 
 - [【V2EX】2022-11-19-请教个-rclone-的问题。](https://www.v2ex.com/t/896381) 
@@ -95,15 +102,6 @@
 - [【V2EX】2022-11-19-一个神奇的现象](https://www.v2ex.com/t/896352) 
 - [【V2EX】2022-11-19-群晖为啥不支持独立系统盘](https://www.v2ex.com/t/896351) 
 - [【V2EX】2022-11-19-macOS-虚拟机软件-VMware-Fusion-13-正式发布：支持-TPM-2.0、-Apple-Silicon-Mac](https://www.v2ex.com/t/896350) 
-- [【V2EX】2022-11-19-apple-tv-2022-款-a15-是否有带来流畅度上的提升](https://www.v2ex.com/t/896348) 
-- [【V2EX】2022-11-19-有个朋友问我，公司倒闭了是接受公司提出的协议还是直接走仲裁？](https://www.v2ex.com/t/896347) 
-- [【V2EX】2022-11-19-天天抽奖，舍你其谁！围观即中！](https://www.v2ex.com/t/896346) 
-- [【V2EX】2022-11-18-MySQL-全文搜索，如何才能连同中文标点一起搜？](https://www.v2ex.com/t/896345) 
-- [【V2EX】2022-11-18-招聘-全职远程-加拿大游戏公司，-Unreal-Engine-4/5-做开发](https://www.v2ex.com/t/896344) 
-- [【V2EX】2022-11-18-iPhone-屏幕脏了怎么打理？](https://www.v2ex.com/t/896343) 
-- [【V2EX】2022-11-18-20221119-午夜俱乐部](https://www.v2ex.com/t/896342) 
-- [【V2EX】2022-11-18-如何让视频带声音的自动播放?](https://www.v2ex.com/t/896341) 
-- [【V2EX】2022-11-18-想从一个-Unity-写的-iOS-游戏中提取-Live2D-模型，最简单的方法是什么？](https://www.v2ex.com/t/896340) 
 - [【技术头条】2022-11-19-敏捷团队的质量保障赋能-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15410&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fquality-assurance-enablement-in-agile-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-19-团队的Code-Review实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15409&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-code-review%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-19-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -114,7 +112,6 @@
 - [【技术头条】2022-11-19-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-19-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-19-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [【技术头条】2022-11-19-技术改变了什么？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15400&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fpower-of-technology%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【开发者头条】2022-11-19-优质网站同好者周刊（第-092-期）](https://toutiao.io/k/v320ogz) 
 - [【开发者头条】2022-11-19-成为-Go-高手的-8-个-GitHub-开源项目](https://toutiao.io/k/rpkv0pk) 
 - [【开发者头条】2022-11-19-美团外卖搜索基于-Elasticsearch-的优化实践](https://toutiao.io/k/i6oh5e0) 
@@ -123,8 +120,8 @@
 - [【开发者头条】2022-11-19-凹语言、图灵机和-BF-语言](https://toutiao.io/k/55uaof0) 
 - [【开发者头条】2022-11-19-打造一款强大成熟的数据库有多难](https://toutiao.io/k/296iyzl) 
 - [【开发者头条】2022-11-19-是什么影响了-MySQL-索引-B+树的高度？](https://toutiao.io/k/58cos95) 
-- [【开发者头条】2022-11-19-React-中的重新渲染](https://toutiao.io/k/opu6qck) 
 - [【开发者头条】2022-11-19-5-个编写技巧，有效提高单元测试实践](https://toutiao.io/k/rw80kvf) 
+- [【开发者头条】2022-11-19-React-中的重新渲染](https://toutiao.io/k/opu6qck) 
 - [【开发者头条】2022-11-19-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>

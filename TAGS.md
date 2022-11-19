@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-11-19 03:40:05。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-19 04:14:42。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -154,8 +154,6 @@
 
 
 
-- [【V2EX】招聘-全职远程-加拿大游戏公司，-Unreal-Engine-4/5-做开发](https://www.v2ex.com/t/896344)
-- [【V2EX】想从一个-Unity-写的-iOS-游戏中提取-Live2D-模型，最简单的方法是什么？](https://www.v2ex.com/t/896340)
 - [......【查看更多】......](./details/tags/dev-game.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -200,6 +198,7 @@
 - [【张鑫旭-鑫空间-鑫生活】CSS-::file-selector-button伪元素简介](https://www.zhangxinxu.com/wordpress/2022/10/css-file-selector-button/)
 - [【张鑫旭-鑫空间-鑫生活】更符合书写习惯的CSS媒体查询Range语法](https://www.zhangxinxu.com/wordpress/2022/10/css-media-range-syntax/)
 - [【张鑫旭-鑫空间-鑫生活】介绍2022最期待且已正式支持的CSS-container容器查询](https://www.zhangxinxu.com/wordpress/2022/09/css-container-rule/)
+- [【V2EX】CodeGalaxy-让每个开发者都可以享受到云原生和无服务器（ServerLess）技术带来的高效与便捷](https://www.v2ex.com/t/896394)
 - [......【查看更多】......](./details/tags/css.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -234,7 +233,6 @@
 
 - [【武汉肺炎防疫全纪录(财新网)】广州17岁男生在定点医院参加高考-特殊考场视频监考](https://m.caixin.com/m/2021-06-05/101723418.html)
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
-- [【V2EX】如何让视频带声音的自动播放?](https://www.v2ex.com/t/896341)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -274,6 +272,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】腺病毒新冠疫苗引安全忧虑-康希诺称未发现血栓病例](https://m.caixin.com/m/2021-04-14/101691086.html)
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
+- [【V2EX】求推荐：-Chrome-上对网页进行批注的插件](https://www.v2ex.com/t/896391)
 - [【V2EX】这就是大家吹爆了的-M-series-Chiip](https://www.v2ex.com/t/896386)
 - [【V2EX】移动端-safari-有值得推荐的广告拦截插件或软件吗](https://www.v2ex.com/t/896380)
 - [【技术头条】团队的Code-Review实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15409&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-code-review%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-19 08:15:51，:rocket: 更新条数: +2005， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-19 08:42:22，:rocket: 更新条数: +2005， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-11-19-这几天咋了，-30-系高端卡京东淘宝大品牌专卖店都断货](https://www.v2ex.com/t/896443) ![](assets/new.png)  
+- [2022-11-19-Bitwarden-for-Mac,-Safari-插件,-Chrome-插件抽风（An-error-has-occurred+乱码）](https://www.v2ex.com/t/896442) ![](assets/new.png)  
 - [2022-11-19-保研过后，是实习还是跟老师科研？](https://www.v2ex.com/t/896440) ![](assets/new.png)  
 - [2022-11-19-索尼-Xperia-1-III-换到-Moto-X30-Pro-的使用感受记录](https://www.v2ex.com/t/896439) ![](assets/new.png)  
 - [2022-11-19-北京市内去公共场所（如商超）及上班楼宇到底是要-24-小时核酸检测阴-X-证明还是-72-小时核酸检测阴-X-证明？](https://www.v2ex.com/t/896438) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-11-19-为啥今天-youtube-的首页总有个"for-the-love-of-sneakers"的-banner？](https://www.v2ex.com/t/896419) ![](assets/new.png)  
 - [2022-11-19-现在上海电信还会以开设-Web-的名义封宽带账号吗？](https://www.v2ex.com/t/896418) ![](assets/new.png)  
 - [2022-11-19-虽然-iPhone-14-数字版销量平平，但是有一点相比-13-数字版-提升巨大](https://www.v2ex.com/t/896417) ![](assets/new.png)  
-- [2022-11-19-英国主机-14-英镑/年-实测：不限流量，流媒体解锁好，联通直连速度好](https://www.v2ex.com/t/896416) ![](assets/new.png)  
-- [2022-11-19-起点这个书籍轮播效果是咋做的？有大佬会不？](https://www.v2ex.com/t/896415) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

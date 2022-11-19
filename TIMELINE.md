@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-19 08:15:51。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-19 08:42:22。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,8 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-19-这几天咋了，-30-系高端卡京东淘宝大品牌专卖店都断货](https://www.v2ex.com/t/896443) 
+- [【V2EX】2022-11-19-Bitwarden-for-Mac,-Safari-插件,-Chrome-插件抽风（An-error-has-occurred+乱码）](https://www.v2ex.com/t/896442) 
 - [【V2EX】2022-11-19-保研过后，是实习还是跟老师科研？](https://www.v2ex.com/t/896440) 
 - [【V2EX】2022-11-19-索尼-Xperia-1-III-换到-Moto-X30-Pro-的使用感受记录](https://www.v2ex.com/t/896439) 
 - [【V2EX】2022-11-19-北京市内去公共场所（如商超）及上班楼宇到底是要-24-小时核酸检测阴-X-证明还是-72-小时核酸检测阴-X-证明？](https://www.v2ex.com/t/896438) 
@@ -106,8 +108,6 @@
 - [【V2EX】2022-11-19-求-6-寸电纸书推荐](https://www.v2ex.com/t/896396) 
 - [【V2EX】2022-11-19-有什么邮件-App-是自带翻译功能的？](https://www.v2ex.com/t/896395) 
 - [【V2EX】2022-11-19-CodeGalaxy-让每个开发者都可以享受到云原生和无服务器（ServerLess）技术带来的高效与便捷](https://www.v2ex.com/t/896394) 
-- [【V2EX】2022-11-19-公司要求写-Linux-故障一天一个，我只能想到几个](https://www.v2ex.com/t/896393) 
-- [【V2EX】2022-11-19-搬瓦工要不要续费呢](https://www.v2ex.com/t/896392) 
 - [【技术头条】2022-11-19-敏捷团队的质量保障赋能-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15410&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fquality-assurance-enablement-in-agile-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-19-团队的Code-Review实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15409&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-code-review%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-19-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

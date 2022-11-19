@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-19 15:38:51。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-19 16:16:05。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,8 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-19-刚更新了-win11，难顶](https://www.v2ex.com/t/896506) 
+- [【V2EX】2022-11-19-更新-macOS-13-后-无像无法睡眠了](https://www.v2ex.com/t/896505) 
 - [【V2EX】2022-11-19-请问-macbook-插电源，-iPhone-插-mac-充电有什么问题吗？以及-m2-mba-好像不能把系统装在外置硬盘了？](https://www.v2ex.com/t/896502) 
 - [【V2EX】2022-11-19-求推荐个-MacBook-用的有线耳机](https://www.v2ex.com/t/896501) 
 - [【V2EX】2022-11-19-全职远程目前还需要一位-flutter-移动端开发、中高级运维、IOS-构架、中高级-golang、安全测试](https://www.v2ex.com/t/896500) 
@@ -104,8 +106,6 @@
 - [【V2EX】2022-11-19-思想钢印，社交病，你不一定非要上网](https://www.v2ex.com/t/896459) 
 - [【V2EX】2022-11-19-拼多多买的蟹也太香了吧](https://www.v2ex.com/t/896458) 
 - [【V2EX】2022-11-19-想请问-v-友们知道哪些可以同时连两台设备的入耳式耳机呢](https://www.v2ex.com/t/896457) 
-- [【V2EX】2022-11-19-作为一个男孩子,-跳起了广场舞](https://www.v2ex.com/t/896456) 
-- [【V2EX】2022-11-19-NopeCHA-这款插件判断代理的方式是什么](https://www.v2ex.com/t/896455) 
 - [【技术头条】2022-11-19-敏捷团队的质量保障赋能-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15410&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fquality-assurance-enablement-in-agile-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-19-团队的Code-Review实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15409&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-code-review%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-19-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

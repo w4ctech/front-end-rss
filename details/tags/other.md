@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-19 15:38:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-19 16:16:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1917,6 +1917,8 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-11-19-刚更新了-win11，难顶](https://www.v2ex.com/t/896506) 
+- [2022-11-19-更新-macOS-13-后-无像无法睡眠了](https://www.v2ex.com/t/896505) 
 - [2022-11-19-请问-macbook-插电源，-iPhone-插-mac-充电有什么问题吗？以及-m2-mba-好像不能把系统装在外置硬盘了？](https://www.v2ex.com/t/896502) 
 - [2022-11-19-求推荐个-MacBook-用的有线耳机](https://www.v2ex.com/t/896501) 
 - [2022-11-19-「讨论」程序员如何做好一个副业呢？](https://www.v2ex.com/t/896499) 
@@ -1941,8 +1943,6 @@
 - [2022-11-19-思想钢印，社交病，你不一定非要上网](https://www.v2ex.com/t/896459) 
 - [2022-11-19-拼多多买的蟹也太香了吧](https://www.v2ex.com/t/896458) 
 - [2022-11-19-想请问-v-友们知道哪些可以同时连两台设备的入耳式耳机呢](https://www.v2ex.com/t/896457) 
-- [2022-11-19-作为一个男孩子,-跳起了广场舞](https://www.v2ex.com/t/896456) 
-- [2022-11-19-NopeCHA-这款插件判断代理的方式是什么](https://www.v2ex.com/t/896455) 
 - [2022-11-19-敏捷团队的质量保障赋能-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15410&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fquality-assurance-enablement-in-agile-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-19-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-19-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

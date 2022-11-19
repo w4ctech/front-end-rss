@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-19 01:05:19，:rocket: 更新条数: +2009， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-19 02:58:26，:rocket: 更新条数: +2006， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,26 +491,26 @@
 </summary>
 
 
+- [2022-11-19-移动端-safari-有值得推荐的广告拦截插件或软件吗](https://www.v2ex.com/t/896380) ![](assets/new.png)  
+- [2022-11-19-自己搭建了-RSSHUB，有没有客户端-APP-推荐](https://www.v2ex.com/t/896379) ![](assets/new.png)  
+- [2022-11-19-iPhone-7-plus-麦克风出问题了。。。](https://www.v2ex.com/t/896378) ![](assets/new.png)  
+- [2022-11-19-m1-air，佳能-1dx2-連結-capture-one-無反應](https://www.v2ex.com/t/896377) ![](assets/new.png)  
+- [2022-11-19-时隔-2-年多，-CashWarden-推出全新的-2.0-版本](https://www.v2ex.com/t/896376) ![](assets/new.png)  
+- [2022-11-19-美帝亡我之心不死，居然试图通过造假来对我国防疫的大好形势不利](https://www.v2ex.com/t/896374) ![](assets/new.png)  
+- [2022-11-19-有没有能屏蔽-Twitter-广告的-Quantumult-规则？](https://www.v2ex.com/t/896373) ![](assets/new.png)  
+- [2022-11-19-javacript-的-this-指向问题,-高手请进](https://www.v2ex.com/t/896372) ![](assets/new.png)  
+- [2022-11-19-外部设备能采集-iPhone-哪些用户数据？](https://www.v2ex.com/t/896371) ![](assets/new.png)  
+- [2022-11-19-大家有没有什么跟进热点的知识-up-主推荐呀？](https://www.v2ex.com/t/896370) ![](assets/new.png)  
+- [2022-11-19-AirPods-Pro-2-续航](https://www.v2ex.com/t/896366) ![](assets/new.png)  
+- [2022-11-19-请教下-nas-用-windows-有啥坑](https://www.v2ex.com/t/896363) ![](assets/new.png)  
+- [2022-11-19-有没有类似-ServerCat-但是网页版的软件](https://www.v2ex.com/t/896362) ![](assets/new.png)  
+- [2022-11-19-ADHD-求专注当前任务的应用程序/插件](https://www.v2ex.com/t/896361) ![](assets/new.png)  
+- [2022-11-19-有什么办法可以用搜索引擎搜索标点符号内容？](https://www.v2ex.com/t/896360) ![](assets/new.png)  
+- [2022-11-19-光大银行是不是推销骚扰最频繁的银行？](https://www.v2ex.com/t/896358) ![](assets/new.png)  
+- [2022-11-19-关于-apple-arcade-的一些疑问](https://www.v2ex.com/t/896357) ![](assets/new.png)  
+- [2022-11-19-打印机的-WiFi-打印太慢了。可以将打印机的数据线直接连到路由器-usb-口上实现-WiFi-打印吗](https://www.v2ex.com/t/896356) ![](assets/new.png)  
 - [2022-11-19-询问：-iPad-mini6-64g，官网售价-3899，为啥其他店铺能卖到-3378？官换机？翻新机？](https://www.v2ex.com/t/896355) ![](assets/new.png)  
 - [2022-11-19-求推荐现在好用的流量卡](https://www.v2ex.com/t/896354) ![](assets/new.png)  
-- [2022-11-19-一个神奇的现象](https://www.v2ex.com/t/896352) ![](assets/new.png)  
-- [2022-11-19-群晖为啥不支持独立系统盘](https://www.v2ex.com/t/896351) ![](assets/new.png)  
-- [2022-11-19-macOS-虚拟机软件-VMware-Fusion-13-正式发布：支持-TPM-2.0、-Apple-Silicon-Mac](https://www.v2ex.com/t/896350) ![](assets/new.png)  
-- [2022-11-19-apple-tv-2022-款-a15-是否有带来流畅度上的提升](https://www.v2ex.com/t/896348) ![](assets/new.png)  
-- [2022-11-19-有个朋友问我，公司倒闭了是接受公司提出的协议还是直接走仲裁？](https://www.v2ex.com/t/896347) ![](assets/new.png)  
-- [2022-11-19-天天抽奖，舍你其谁！围观即中！](https://www.v2ex.com/t/896346) ![](assets/new.png)  
-- [2022-11-18-MySQL-全文搜索，如何才能连同中文标点一起搜？](https://www.v2ex.com/t/896345) ![](assets/new.png)  
-- [2022-11-18-招聘-全职远程-加拿大游戏公司，-Unreal-Engine-4/5-做开发](https://www.v2ex.com/t/896344) ![](assets/new.png)  
-- [2022-11-18-iPhone-屏幕脏了怎么打理？](https://www.v2ex.com/t/896343) ![](assets/new.png)  
-- [2022-11-18-20221119-午夜俱乐部](https://www.v2ex.com/t/896342) ![](assets/new.png)  
-- [2022-11-18-如何让视频带声音的自动播放?](https://www.v2ex.com/t/896341) ![](assets/new.png)  
-- [2022-11-18-想从一个-Unity-写的-iOS-游戏中提取-Live2D-模型，最简单的方法是什么？](https://www.v2ex.com/t/896340) ![](assets/new.png)  
-- [2022-11-18-写了个给-gin-项目生成-swagger.json-并自动上传到-yapi-的小工具](https://www.v2ex.com/t/896339) ![](assets/new.png)  
-- [2022-11-18-Surge-Mac-3-车缺-2](https://www.v2ex.com/t/896338) ![](assets/new.png)  
-- [2022-11-18-Vue-表单问题](https://www.v2ex.com/t/896335) ![](assets/new.png)  
-- [2022-11-18-感觉-3D-打印快入坑了](https://www.v2ex.com/t/896334) ![](assets/new.png)  
-- [2022-11-18-请问配置域名邮箱的时候，一个域名指向多个邮件服务商会发生什么事？这种配置方式有什么实际用途？](https://www.v2ex.com/t/896333) ![](assets/new.png)  
-- [2022-11-18-nginx-配置迁移遇到的一个奇怪问题](https://www.v2ex.com/t/896332) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -545,13 +545,13 @@
 
 
 - [2022-11-19-优质网站同好者周刊（第-092-期）](https://toutiao.io/k/v320ogz) ![](assets/new.png)  
-- [2022-11-19-实现全面生态化的全链路日志追踪系统服务插件（Logback-MDC-篇）](https://toutiao.io/k/b2c8bpz) ![](assets/new.png)  
-- [2022-11-19-凹语言、图灵机和-BF-语言](https://toutiao.io/k/55uaof0) ![](assets/new.png)  
-- [2022-11-19-JUnit-5-单元测试教程](https://toutiao.io/k/2xwukbk) ![](assets/new.png)  
-- [2022-11-19-打造一款强大成熟的数据库有多难](https://toutiao.io/k/296iyzl) ![](assets/new.png)  
-- [2022-11-19-美团外卖搜索基于-Elasticsearch-的优化实践](https://toutiao.io/k/i6oh5e0) ![](assets/new.png)  
-- [2022-11-19-是什么影响了-MySQL-索引-B+树的高度？](https://toutiao.io/k/58cos95) ![](assets/new.png)  
 - [2022-11-19-成为-Go-高手的-8-个-GitHub-开源项目](https://toutiao.io/k/rpkv0pk) ![](assets/new.png)  
+- [2022-11-19-实现全面生态化的全链路日志追踪系统服务插件（Logback-MDC-篇）](https://toutiao.io/k/b2c8bpz) ![](assets/new.png)  
+- [2022-11-19-JUnit-5-单元测试教程](https://toutiao.io/k/2xwukbk) ![](assets/new.png)  
+- [2022-11-19-凹语言、图灵机和-BF-语言](https://toutiao.io/k/55uaof0) ![](assets/new.png)  
+- [2022-11-19-美团外卖搜索基于-Elasticsearch-的优化实践](https://toutiao.io/k/i6oh5e0) ![](assets/new.png)  
+- [2022-11-19-打造一款强大成熟的数据库有多难](https://toutiao.io/k/296iyzl) ![](assets/new.png)  
+- [2022-11-19-是什么影响了-MySQL-索引-B+树的高度？](https://toutiao.io/k/58cos95) ![](assets/new.png)  
 - [2022-11-19-React-中的重新渲染](https://toutiao.io/k/opu6qck) ![](assets/new.png)  
 - [2022-11-19-5-个编写技巧，有效提高单元测试实践](https://toutiao.io/k/rw80kvf) ![](assets/new.png)  
 - [2022-11-19-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) ![](assets/new.png)  

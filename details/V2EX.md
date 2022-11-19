@@ -1,10 +1,17 @@
-:alarm_clock: 更新时间: 2022-11-19 14:36:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-19 15:11:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-11-19-「讨论」程序员如何做好一个副业呢？](https://www.v2ex.com/t/896499) 
+- [2022-11-19-宿主机固态硬盘与-hyper-v-虚拟机相比，-4k-读写速度相差很大](https://www.v2ex.com/t/896498) 
+- [2022-11-19-求助！网站打不开，提示-Error-405？](https://www.v2ex.com/t/896497) 
+- [2022-11-19-切换地区后已经安装的软件也无法更新了？](https://www.v2ex.com/t/896496) 
+- [2022-11-19-软路由最佳散热硅脂是不是相变硅脂](https://www.v2ex.com/t/896495) 
+- [2022-11-19-分享一个用于高效管理多个-gitlab-golang-项目通用-CI/CD-的轻量级开源框架](https://www.v2ex.com/t/896493) 
+- [2022-11-19-请教-discord-机器人开发问题，登录总是失败](https://www.v2ex.com/t/896492) 
 - [2022-11-19-自学-Java-后端,-请推荐教训视频和书籍,-最好配笔记的那种,-谢谢](https://www.v2ex.com/t/896491) 
 - [2022-11-19-请问-openwrt-有插件能直接进行-http-转发吗？](https://www.v2ex.com/t/896489) 
 - [2022-11-19-上海户口好拿到吗？非应届双一流本](https://www.v2ex.com/t/896487) 
@@ -36,10 +43,3 @@
 - [2022-11-19-求一份-lua-入门教程](https://www.v2ex.com/t/896453) 
 - [2022-11-19-resilio-sync-如何双向同步](https://www.v2ex.com/t/896452) 
 - [2022-11-19-关于黑苹果的硬件配置选择问题](https://www.v2ex.com/t/896451) 
-- [2022-11-19-锂电池有什么可靠的国产品牌吗](https://www.v2ex.com/t/896449) 
-- [2022-11-19-纸质书推荐](https://www.v2ex.com/t/896448) 
-- [2022-11-19-问一道数学题解法](https://www.v2ex.com/t/896446) 
-- [2022-11-19-获取-Mac-上-App-的菜单选项（menu-item）](https://www.v2ex.com/t/896445) 
-- [2022-11-19-大家来分享一下黑五有什么值得购买的软件～](https://www.v2ex.com/t/896444) 
-- [2022-11-19-这几天咋了，-30-系高端卡京东淘宝大品牌专卖店都断货](https://www.v2ex.com/t/896443) 
-- [2022-11-19-Bitwarden-for-Mac,-Safari-插件,-Chrome-插件抽风（An-error-has-occurred+乱码）](https://www.v2ex.com/t/896442) 

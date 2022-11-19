@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-19 12:21:37。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-19 12:59:15。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,9 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-19-关于小区快递和外卖问题](https://www.v2ex.com/t/896479) 
+- [【V2EX】2022-11-19-想给女朋友买个手表！](https://www.v2ex.com/t/896478) 
+- [【V2EX】2022-11-19-华为二层交换机如何实现部分-VLAN-二层隔离且-VLAN-内用户互访](https://www.v2ex.com/t/896475) 
 - [【V2EX】2022-11-19-为嘛市售常见-NAS-的硬盘都侧着放？](https://www.v2ex.com/t/896474) 
 - [【V2EX】2022-11-19-测速频道推荐](https://www.v2ex.com/t/896473) 
 - [【V2EX】2022-11-19-想问一道-Java-面试题，关于数据处理](https://www.v2ex.com/t/896472) 
@@ -106,10 +109,6 @@
 - [【V2EX】2022-11-19-局域网使用-ipv6-链路本地地址相互通讯的问题](https://www.v2ex.com/t/896435) 
 - [【V2EX】2022-11-19-坪洲一号线附近-300-米轻铁花园转租。月租-1500+100-管理，大单间，阳光充裕。](https://www.v2ex.com/t/896432) 
 - [【V2EX】2022-11-19-发现俄罗斯商家-just.ru-喀山的机器-可以发送电子邮件](https://www.v2ex.com/t/896431) 
-- [【V2EX】2022-11-19-微信-Windows-版的-ocr-功能非常恶心](https://www.v2ex.com/t/896429) 
-- [【V2EX】2022-11-19-当你边走路边看手机时一般是在看什么？](https://www.v2ex.com/t/896428) 
-- [【V2EX】2022-11-19-三星-990pro-2T-版测试数据](https://www.v2ex.com/t/896427) 
-- [【V2EX】2022-11-19-namecheap-用工行运通卡（无实体卡）支付被要求验证信用卡照片如何通过验证？](https://www.v2ex.com/t/896426) 
 - [【技术头条】2022-11-19-敏捷团队的质量保障赋能-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15410&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fquality-assurance-enablement-in-agile-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-19-团队的Code-Review实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15409&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-code-review%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-19-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

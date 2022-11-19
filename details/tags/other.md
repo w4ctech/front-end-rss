@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-19 14:10:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-19 14:36:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1917,6 +1917,7 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-11-19-上海户口好拿到吗？非应届双一流本](https://www.v2ex.com/t/896487) 
 - [2022-11-19-关于-iPad-上精简-macOS-的思考](https://www.v2ex.com/t/896484) 
 - [2022-11-19-大家有没有购买-Boox-Leaf2-的](https://www.v2ex.com/t/896481) 
 - [2022-11-19-关于小区快递和外卖问题](https://www.v2ex.com/t/896479) 
@@ -1946,10 +1947,6 @@
 - [2022-11-19-获取-Mac-上-App-的菜单选项（menu-item）](https://www.v2ex.com/t/896445) 
 - [2022-11-19-大家来分享一下黑五有什么值得购买的软件～](https://www.v2ex.com/t/896444) 
 - [2022-11-19-这几天咋了，-30-系高端卡京东淘宝大品牌专卖店都断货](https://www.v2ex.com/t/896443) 
-- [2022-11-19-保研过后，是实习还是跟老师科研？](https://www.v2ex.com/t/896440) 
-- [2022-11-19-索尼-Xperia-1-III-换到-Moto-X30-Pro-的使用感受记录](https://www.v2ex.com/t/896439) 
-- [2022-11-19-北京市内去公共场所（如商超）及上班楼宇到底是要-24-小时核酸检测阴-X-证明还是-72-小时核酸检测阴-X-证明？](https://www.v2ex.com/t/896438) 
-- [2022-11-19-预备程序员的出路？想听大伙指点指点](https://www.v2ex.com/t/896437) 
 - [2022-11-19-敏捷团队的质量保障赋能-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15410&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fquality-assurance-enablement-in-agile-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-19-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-19-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

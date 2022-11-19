@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-19 14:10:54，:rocket: 更新条数: +2006， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-19 14:36:42，:rocket: 更新条数: +2005， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-11-19-自学-Java-后端,-请推荐教训视频和书籍,-最好配笔记的那种,-谢谢](https://www.v2ex.com/t/896491) ![](assets/new.png)  
+- [2022-11-19-请问-openwrt-有插件能直接进行-http-转发吗？](https://www.v2ex.com/t/896489) ![](assets/new.png)  
+- [2022-11-19-上海户口好拿到吗？非应届双一流本](https://www.v2ex.com/t/896487) ![](assets/new.png)  
 - [2022-11-19-各位大佬，有谁知道哪个团购小程序有自动识别附近小区的功能吗？](https://www.v2ex.com/t/896485) ![](assets/new.png)  
 - [2022-11-19-关于-iPad-上精简-macOS-的思考](https://www.v2ex.com/t/896484) ![](assets/new.png)  
 - [2022-11-19-在硬路由后面接个软路由的方案好吗？](https://www.v2ex.com/t/896483) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-11-19-为什么开通微博会员还是能刷到广告？](https://www.v2ex.com/t/896466) ![](assets/new.png)  
 - [2022-11-19-软路由-or-mac-surege](https://www.v2ex.com/t/896464) ![](assets/new.png)  
 - [2022-11-19-有-youtube-premium-的车可以上吗？](https://www.v2ex.com/t/896462) ![](assets/new.png)  
-- [2022-11-19-似乎最近从-Twitter-迁移到-Mastodon（长毛象）的人数激增，那么大家一般会选择哪个实例呢](https://www.v2ex.com/t/896461) ![](assets/new.png)  
-- [2022-11-19-新人程序员如何选择职业方向？（前端/后端）求指点](https://www.v2ex.com/t/896460) ![](assets/new.png)  
-- [2022-11-19-思想钢印，社交病，你不一定非要上网](https://www.v2ex.com/t/896459) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

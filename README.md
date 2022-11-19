@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-19 16:49:28，:rocket: 更新条数: +2003， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-19 17:11:01，:rocket: 更新条数: +2003， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-11-19-可能是全网最好用的学习型词典,-不确定](https://www.v2ex.com/t/896508) ![](assets/new.png)  
 - [2022-11-19-两个-Windows-平台还算实用的平铺式窗口管理器](https://www.v2ex.com/t/896507) ![](assets/new.png)  
 - [2022-11-19-刚更新了-win11，难顶](https://www.v2ex.com/t/896506) ![](assets/new.png)  
 - [2022-11-19-更新-macOS-13-后-无像无法睡眠了](https://www.v2ex.com/t/896505) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-11-19-各位大佬，有谁知道哪个团购小程序有自动识别附近小区的功能吗？](https://www.v2ex.com/t/896485) ![](assets/new.png)  
 - [2022-11-19-关于-iPad-上精简-macOS-的思考](https://www.v2ex.com/t/896484) ![](assets/new.png)  
 - [2022-11-19-在硬路由后面接个软路由的方案好吗？](https://www.v2ex.com/t/896483) ![](assets/new.png)  
-- [2022-11-19-大家有没有购买-Boox-Leaf2-的](https://www.v2ex.com/t/896481) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -548,8 +548,8 @@
 - [2022-11-19-美团外卖搜索基于-Elasticsearch-的优化实践](https://toutiao.io/k/i6oh5e0) ![](assets/new.png)  
 - [2022-11-19-JUnit-5-单元测试教程](https://toutiao.io/k/2xwukbk) ![](assets/new.png)  
 - [2022-11-19-实现全面生态化的全链路日志追踪系统服务插件（Logback-MDC-篇）](https://toutiao.io/k/b2c8bpz) ![](assets/new.png)  
-- [2022-11-19-打造一款强大成熟的数据库有多难](https://toutiao.io/k/296iyzl) ![](assets/new.png)  
 - [2022-11-19-是什么影响了-MySQL-索引-B+树的高度？](https://toutiao.io/k/58cos95) ![](assets/new.png)  
+- [2022-11-19-打造一款强大成熟的数据库有多难](https://toutiao.io/k/296iyzl) ![](assets/new.png)  
 - [2022-11-19-5-个编写技巧，有效提高单元测试实践](https://toutiao.io/k/rw80kvf) ![](assets/new.png)  
 - [2022-11-19-凹语言、图灵机和-BF-语言](https://toutiao.io/k/55uaof0) ![](assets/new.png)  
 - [2022-11-19-React-中的重新渲染](https://toutiao.io/k/opu6qck) ![](assets/new.png)  

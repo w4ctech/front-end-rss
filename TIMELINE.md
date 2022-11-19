@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-19 16:49:28。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-19 17:11:01。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,7 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-19-可能是全网最好用的学习型词典,-不确定](https://www.v2ex.com/t/896508) 
 - [【V2EX】2022-11-19-两个-Windows-平台还算实用的平铺式窗口管理器](https://www.v2ex.com/t/896507) 
 - [【V2EX】2022-11-19-刚更新了-win11，难顶](https://www.v2ex.com/t/896506) 
 - [【V2EX】2022-11-19-更新-macOS-13-后-无像无法睡眠了](https://www.v2ex.com/t/896505) 
@@ -105,7 +106,6 @@
 - [【V2EX】2022-11-19-似乎最近从-Twitter-迁移到-Mastodon（长毛象）的人数激增，那么大家一般会选择哪个实例呢](https://www.v2ex.com/t/896461) 
 - [【V2EX】2022-11-19-新人程序员如何选择职业方向？（前端/后端）求指点](https://www.v2ex.com/t/896460) 
 - [【V2EX】2022-11-19-思想钢印，社交病，你不一定非要上网](https://www.v2ex.com/t/896459) 
-- [【V2EX】2022-11-19-拼多多买的蟹也太香了吧](https://www.v2ex.com/t/896458) 
 - [【技术头条】2022-11-19-敏捷团队的质量保障赋能-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15410&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fquality-assurance-enablement-in-agile-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-19-团队的Code-Review实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15409&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-code-review%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-19-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -121,8 +121,8 @@
 - [【开发者头条】2022-11-19-美团外卖搜索基于-Elasticsearch-的优化实践](https://toutiao.io/k/i6oh5e0) 
 - [【开发者头条】2022-11-19-JUnit-5-单元测试教程](https://toutiao.io/k/2xwukbk) 
 - [【开发者头条】2022-11-19-实现全面生态化的全链路日志追踪系统服务插件（Logback-MDC-篇）](https://toutiao.io/k/b2c8bpz) 
-- [【开发者头条】2022-11-19-打造一款强大成熟的数据库有多难](https://toutiao.io/k/296iyzl) 
 - [【开发者头条】2022-11-19-是什么影响了-MySQL-索引-B+树的高度？](https://toutiao.io/k/58cos95) 
+- [【开发者头条】2022-11-19-打造一款强大成熟的数据库有多难](https://toutiao.io/k/296iyzl) 
 - [【开发者头条】2022-11-19-5-个编写技巧，有效提高单元测试实践](https://toutiao.io/k/rw80kvf) 
 - [【开发者头条】2022-11-19-凹语言、图灵机和-BF-语言](https://toutiao.io/k/55uaof0) 
 - [【开发者头条】2022-11-19-React-中的重新渲染](https://toutiao.io/k/opu6qck) 

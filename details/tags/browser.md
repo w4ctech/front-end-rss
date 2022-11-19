@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-19 06:43:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-19 07:11:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -16,5 +16,4 @@
 - [2022-11-19-请教如何安全隔离-atrust，让-mac-能连接内网？](https://www.v2ex.com/t/896421) 
 - [2022-11-19-求推荐：-Chrome-上对网页进行批注的插件](https://www.v2ex.com/t/896391) 
 - [2022-11-19-这就是大家吹爆了的-M-series-Chiip](https://www.v2ex.com/t/896386) 
-- [2022-11-19-移动端-safari-有值得推荐的广告拦截插件或软件吗](https://www.v2ex.com/t/896380) 
 - [2022-11-19-团队的Code-Review实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15409&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-code-review%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

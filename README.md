@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-19 06:43:02，:rocket: 更新条数: +2001， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-19 07:11:16，:rocket: 更新条数: +2002， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,13 @@
 </summary>
 
 
+- [2022-11-19-坪洲一号线附近-300-米轻铁花园转租。月租-1500+100-管理，大单间，阳光充裕。](https://www.v2ex.com/t/896432) ![](assets/new.png)  
+- [2022-11-19-发现俄罗斯商家-just.ru-喀山的机器-可以发送电子邮件](https://www.v2ex.com/t/896431) ![](assets/new.png)  
+- [2022-11-19-微信-Windows-版的-ocr-功能非常恶心](https://www.v2ex.com/t/896429) ![](assets/new.png)  
+- [2022-11-19-当你边走路边看手机时一般是在看什么？](https://www.v2ex.com/t/896428) ![](assets/new.png)  
+- [2022-11-19-三星-990pro-2T-版测试数据](https://www.v2ex.com/t/896427) ![](assets/new.png)  
+- [2022-11-19-namecheap-用工行运通卡（无实体卡）支付被要求验证信用卡照片如何通过验证？](https://www.v2ex.com/t/896426) ![](assets/new.png)  
+- [2022-11-19-想写个-kernel-玩,-买树莓派,单片机,还是?](https://www.v2ex.com/t/896424) ![](assets/new.png)  
 - [2022-11-19-macOS-升级-13-后，好像无法自动睡眠了。](https://www.v2ex.com/t/896422) ![](assets/new.png)  
 - [2022-11-19-请教如何安全隔离-atrust，让-mac-能连接内网？](https://www.v2ex.com/t/896421) ![](assets/new.png)  
 - [2022-11-19-为啥今天-youtube-的首页总有个"for-the-love-of-sneakers"的-banner？](https://www.v2ex.com/t/896419) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-11-19-GitLab-Docker-升级问题](https://www.v2ex.com/t/896409) ![](assets/new.png)  
 - [2022-11-19-余额里的这条记录什么意思？](https://www.v2ex.com/t/896407) ![](assets/new.png)  
 - [2022-11-19-团队私有化网盘选择困难症-求打醒](https://www.v2ex.com/t/896405) ![](assets/new.png)  
-- [2022-11-19-问下各位对国产操作系统的看法](https://www.v2ex.com/t/896404) ![](assets/new.png)  
-- [2022-11-19-腾讯会议共享电脑声音时失真](https://www.v2ex.com/t/896403) ![](assets/new.png)  
-- [2022-11-19-为什么那么多想润的人不润呢？](https://www.v2ex.com/t/896402) ![](assets/new.png)  
-- [2022-11-19-高新南地铁周边有没有出租房子/找室友的](https://www.v2ex.com/t/896401) ![](assets/new.png)  
-- [2022-11-19-北京联通老用户换什么套餐做主力卡](https://www.v2ex.com/t/896400) ![](assets/new.png)  
-- [2022-11-19-公司领导礼拜六打电话过来要求所有人到公司过项目进度，这是不是一个合格的领导？](https://www.v2ex.com/t/896399) ![](assets/new.png)  
-- [2022-11-19-极空间-z4s-和群晖-ds920+的选择](https://www.v2ex.com/t/896397) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

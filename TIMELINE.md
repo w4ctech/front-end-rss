@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-19 09:37:02。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-19 10:13:11。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,10 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-19-NopeCHA-这款插件判断代理的方式是什么](https://www.v2ex.com/t/896455) 
+- [【V2EX】2022-11-19-苹果的-ac+会延长-1-年保修吗？](https://www.v2ex.com/t/896454) 
+- [【V2EX】2022-11-19-求一份-lua-入门教程](https://www.v2ex.com/t/896453) 
+- [【V2EX】2022-11-19-resilio-sync-如何双向同步](https://www.v2ex.com/t/896452) 
 - [【V2EX】2022-11-19-关于黑苹果的硬件配置选择问题](https://www.v2ex.com/t/896451) 
 - [【V2EX】2022-11-19-锂电池有什么可靠的国产品牌吗](https://www.v2ex.com/t/896449) 
 - [【V2EX】2022-11-19-纸质书推荐](https://www.v2ex.com/t/896448) 
@@ -102,10 +106,6 @@
 - [【V2EX】2022-11-19-明年年底开始-Microsoft-365-个人版/家庭版将无法添加新的域名邮箱](https://www.v2ex.com/t/896411) 
 - [【V2EX】2022-11-19-GitLab-Docker-升级问题](https://www.v2ex.com/t/896409) 
 - [【V2EX】2022-11-19-余额里的这条记录什么意思？](https://www.v2ex.com/t/896407) 
-- [【V2EX】2022-11-19-团队私有化网盘选择困难症-求打醒](https://www.v2ex.com/t/896405) 
-- [【V2EX】2022-11-19-问下各位对国产操作系统的看法](https://www.v2ex.com/t/896404) 
-- [【V2EX】2022-11-19-腾讯会议共享电脑声音时失真](https://www.v2ex.com/t/896403) 
-- [【V2EX】2022-11-19-为什么那么多想润的人不润呢？](https://www.v2ex.com/t/896402) 
 - [【技术头条】2022-11-19-敏捷团队的质量保障赋能-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15410&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fquality-assurance-enablement-in-agile-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-19-团队的Code-Review实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15409&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-code-review%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-19-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

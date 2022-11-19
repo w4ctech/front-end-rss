@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-19 09:37:01，:rocket: 更新条数: +2003， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-19 10:13:11，:rocket: 更新条数: +2003， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-11-19-NopeCHA-这款插件判断代理的方式是什么](https://www.v2ex.com/t/896455) ![](assets/new.png)  
+- [2022-11-19-苹果的-ac+会延长-1-年保修吗？](https://www.v2ex.com/t/896454) ![](assets/new.png)  
+- [2022-11-19-求一份-lua-入门教程](https://www.v2ex.com/t/896453) ![](assets/new.png)  
+- [2022-11-19-resilio-sync-如何双向同步](https://www.v2ex.com/t/896452) ![](assets/new.png)  
 - [2022-11-19-关于黑苹果的硬件配置选择问题](https://www.v2ex.com/t/896451) ![](assets/new.png)  
 - [2022-11-19-锂电池有什么可靠的国产品牌吗](https://www.v2ex.com/t/896449) ![](assets/new.png)  
 - [2022-11-19-纸质书推荐](https://www.v2ex.com/t/896448) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-11-19-局域网使用-ipv6-链路本地地址相互通讯的问题](https://www.v2ex.com/t/896435) ![](assets/new.png)  
 - [2022-11-19-坪洲一号线附近-300-米轻铁花园转租。月租-1500+100-管理，大单间，阳光充裕。](https://www.v2ex.com/t/896432) ![](assets/new.png)  
 - [2022-11-19-发现俄罗斯商家-just.ru-喀山的机器-可以发送电子邮件](https://www.v2ex.com/t/896431) ![](assets/new.png)  
-- [2022-11-19-微信-Windows-版的-ocr-功能非常恶心](https://www.v2ex.com/t/896429) ![](assets/new.png)  
-- [2022-11-19-当你边走路边看手机时一般是在看什么？](https://www.v2ex.com/t/896428) ![](assets/new.png)  
-- [2022-11-19-三星-990pro-2T-版测试数据](https://www.v2ex.com/t/896427) ![](assets/new.png)  
-- [2022-11-19-namecheap-用工行运通卡（无实体卡）支付被要求验证信用卡照片如何通过验证？](https://www.v2ex.com/t/896426) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

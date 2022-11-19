@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-19 12:59:15，:rocket: 更新条数: +2006， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-19 13:27:11，:rocket: 更新条数: +2006， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-11-19-大家有没有购买-Boox-Leaf2-的](https://www.v2ex.com/t/896481) ![](assets/new.png)  
 - [2022-11-19-关于小区快递和外卖问题](https://www.v2ex.com/t/896479) ![](assets/new.png)  
 - [2022-11-19-想给女朋友买个手表！](https://www.v2ex.com/t/896478) ![](assets/new.png)  
 - [2022-11-19-华为二层交换机如何实现部分-VLAN-二层隔离且-VLAN-内用户互访](https://www.v2ex.com/t/896475) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-11-19-拼多多买的蟹也太香了吧](https://www.v2ex.com/t/896458) ![](assets/new.png)  
 - [2022-11-19-想请问-v-友们知道哪些可以同时连两台设备的入耳式耳机呢](https://www.v2ex.com/t/896457) ![](assets/new.png)  
 - [2022-11-19-作为一个男孩子,-跳起了广场舞](https://www.v2ex.com/t/896456) ![](assets/new.png)  
-- [2022-11-19-NopeCHA-这款插件判断代理的方式是什么](https://www.v2ex.com/t/896455) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

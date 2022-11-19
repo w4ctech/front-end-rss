@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-19 10:13:11。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-19 10:39:39。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,9 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-19-拼多多买的蟹也太香了吧](https://www.v2ex.com/t/896458) 
+- [【V2EX】2022-11-19-想请问-v-友们知道哪些可以同时连两台设备的入耳式耳机呢](https://www.v2ex.com/t/896457) 
+- [【V2EX】2022-11-19-作为一个男孩子,-跳起了广场舞](https://www.v2ex.com/t/896456) 
 - [【V2EX】2022-11-19-NopeCHA-这款插件判断代理的方式是什么](https://www.v2ex.com/t/896455) 
 - [【V2EX】2022-11-19-苹果的-ac+会延长-1-年保修吗？](https://www.v2ex.com/t/896454) 
 - [【V2EX】2022-11-19-求一份-lua-入门教程](https://www.v2ex.com/t/896453) 
@@ -105,7 +108,6 @@
 - [【V2EX】2022-11-19-我得了圆锥角膜，感觉人生完了，不知道朋友们能不能够给点建议。谢谢各位](https://www.v2ex.com/t/896412) 
 - [【V2EX】2022-11-19-明年年底开始-Microsoft-365-个人版/家庭版将无法添加新的域名邮箱](https://www.v2ex.com/t/896411) 
 - [【V2EX】2022-11-19-GitLab-Docker-升级问题](https://www.v2ex.com/t/896409) 
-- [【V2EX】2022-11-19-余额里的这条记录什么意思？](https://www.v2ex.com/t/896407) 
 - [【技术头条】2022-11-19-敏捷团队的质量保障赋能-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15410&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fquality-assurance-enablement-in-agile-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-19-团队的Code-Review实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15409&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-code-review%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-19-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

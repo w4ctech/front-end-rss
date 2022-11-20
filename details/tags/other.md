@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-20 05:37:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-20 06:15:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1917,6 +1917,10 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-11-20-请问在国内使用云服务器，搭环境网络问题怎么解决？](https://www.v2ex.com/t/896563) 
+- [2022-11-20-求推荐国外稳定长久使用的手机卡](https://www.v2ex.com/t/896562) 
+- [2022-11-20-macOS-Airdrop-与-Proxifer-冲突](https://www.v2ex.com/t/896560) 
+- [2022-11-20-世界杯球评的分析，有人合作买吗？均摊一下](https://www.v2ex.com/t/896557) 
 - [2022-11-20-牢骚-某互联网中厂，年底又要大裁员了](https://www.v2ex.com/t/896555) 
 - [2022-11-20-iCloud-中国区官网登不上了吗](https://www.v2ex.com/t/896554) 
 - [2022-11-20-系统重装时是否有能够快速恢复之前环境的工具？](https://www.v2ex.com/t/896553) 
@@ -1937,12 +1941,6 @@
 - [2022-11-20-听说它火了](https://www.v2ex.com/t/896526) 
 - [2022-11-20-macbookair2019-版的触控板突然按不动了，之前单击或点击触摸板明显有段落的回弹感，现在按不下去，但是选字、滑动、缩放等操作都是正常的](https://www.v2ex.com/t/896518) 
 - [2022-11-20-目前的远程工作,-什么技术方向岗位比较多?](https://www.v2ex.com/t/896516) 
-- [2022-11-19--=>-X-vs-=>-{-return-X-}](https://www.v2ex.com/t/896514) 
-- [2022-11-19-有-IPv4-公网，还需要开通-IPv6-吗？会有什么兼容问题吗？](https://www.v2ex.com/t/896513) 
-- [2022-11-19-m1-mba-无法充电可能是什么原因](https://www.v2ex.com/t/896512) 
-- [2022-11-19-macbook-pro-又有新的"谣言"了](https://www.v2ex.com/t/896511) 
-- [2022-11-19-可能是全网最好用的学习型词典,-不确定](https://www.v2ex.com/t/896508) 
-- [2022-11-19-两个-Windows-平台还算实用的平铺式窗口管理器](https://www.v2ex.com/t/896507) 
 - [2022-11-20-敏捷团队的质量保障赋能-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15410&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fquality-assurance-enablement-in-agile-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-20-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-20-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1956,4 +1954,6 @@
 - [2022-11-20-Rust-生命周期](https://toutiao.io/k/o8t36hx) 
 - [2022-11-20-Bigkey-问题的解决思路与方式探索](https://toutiao.io/k/ne5syi3) 
 - [2022-11-20-独立开发变现周刊（第-80-期）：Notion-页面转成网站客服小部件，月收入-5K-美金](https://toutiao.io/k/72jynd0) 
+- [2022-11-20-【Logback+Spring-Aop】实现全面生态化的全链路日志追踪系统服务插件「SpringAOP-整合篇」_浩宇の天尚的博客-CSDN博客](https://toutiao.io/k/b3hc34e) 
+- [2022-11-20-让Python-Matplotlib使用事半功倍！](https://toutiao.io/k/jzwfqmu) 
 - [2022-11-20-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) 

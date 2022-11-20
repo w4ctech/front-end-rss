@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-20 05:37:07。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-20 06:15:35。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,11 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-20-请问在国内使用云服务器，搭环境网络问题怎么解决？](https://www.v2ex.com/t/896563) 
+- [【V2EX】2022-11-20-求推荐国外稳定长久使用的手机卡](https://www.v2ex.com/t/896562) 
+- [【V2EX】2022-11-20-macOS-Airdrop-与-Proxifer-冲突](https://www.v2ex.com/t/896560) 
+- [【V2EX】2022-11-20-安卓的火狐-firefox-nightly-能装所有-PC-的扩展，这也太爽了吧](https://www.v2ex.com/t/896558) 
+- [【V2EX】2022-11-20-世界杯球评的分析，有人合作买吗？均摊一下](https://www.v2ex.com/t/896557) 
 - [【V2EX】2022-11-20-开源的-webview-浏览器。](https://www.v2ex.com/t/896556) 
 - [【V2EX】2022-11-20-牢骚-某互联网中厂，年底又要大裁员了](https://www.v2ex.com/t/896555) 
 - [【V2EX】2022-11-20-iCloud-中国区官网登不上了吗](https://www.v2ex.com/t/896554) 
@@ -95,13 +100,6 @@
 - [【V2EX】2022-11-20-关于-nginx-做-tcp-反代的域名解析设置](https://www.v2ex.com/t/896523) 
 - [【V2EX】2022-11-20-macbookair2019-版的触控板突然按不动了，之前单击或点击触摸板明显有段落的回弹感，现在按不下去，但是选字、滑动、缩放等操作都是正常的](https://www.v2ex.com/t/896518) 
 - [【V2EX】2022-11-20-目前的远程工作,-什么技术方向岗位比较多?](https://www.v2ex.com/t/896516) 
-- [【V2EX】2022-11-19--=>-X-vs-=>-{-return-X-}](https://www.v2ex.com/t/896514) 
-- [【V2EX】2022-11-19-有-IPv4-公网，还需要开通-IPv6-吗？会有什么兼容问题吗？](https://www.v2ex.com/t/896513) 
-- [【V2EX】2022-11-19-m1-mba-无法充电可能是什么原因](https://www.v2ex.com/t/896512) 
-- [【V2EX】2022-11-19-macbook-pro-又有新的"谣言"了](https://www.v2ex.com/t/896511) 
-- [【V2EX】2022-11-19-React-的-onclick-事件函数中:执行语句外面包了一层-setTimeout...,-0是啥意思?-谢谢](https://www.v2ex.com/t/896510) 
-- [【V2EX】2022-11-19-可能是全网最好用的学习型词典,-不确定](https://www.v2ex.com/t/896508) 
-- [【V2EX】2022-11-19-两个-Windows-平台还算实用的平铺式窗口管理器](https://www.v2ex.com/t/896507) 
 - [【技术头条】2022-11-20-敏捷团队的质量保障赋能-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15410&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fquality-assurance-enablement-in-agile-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-20-团队的Code-Review实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15409&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-code-review%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-20-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -120,6 +118,8 @@
 - [【开发者头条】2022-11-20-你可能不知道的-JavaScript-APIs](https://toutiao.io/k/nq5ow3p) 
 - [【开发者头条】2022-11-20-独立开发变现周刊（第-80-期）：Notion-页面转成网站客服小部件，月收入-5K-美金](https://toutiao.io/k/72jynd0) 
 - [【开发者头条】2022-11-20-AI编译关键技术-•-高层循环编译优化---不仅仅是分块和合并](https://toutiao.io/k/8votr0x) 
+- [【开发者头条】2022-11-20-【Logback+Spring-Aop】实现全面生态化的全链路日志追踪系统服务插件「SpringAOP-整合篇」_浩宇の天尚的博客-CSDN博客](https://toutiao.io/k/b3hc34e) 
+- [【开发者头条】2022-11-20-让Python-Matplotlib使用事半功倍！](https://toutiao.io/k/jzwfqmu) 
 - [【开发者头条】2022-11-20-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>

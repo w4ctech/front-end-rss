@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-20 06:43:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-20 07:11:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 服务端相关
 
@@ -6,5 +6,3 @@
 > 关键字：`Nginx`、`Docker`、`GraphQL`、`REST`、`gRPC`
 
 
-
-- [2022-11-20-关于-nginx-做-tcp-反代的域名解析设置](https://www.v2ex.com/t/896523) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-20 06:43:07，:rocket: 更新条数: +1998， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-20 07:11:27，:rocket: 更新条数: +2001， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-11-20-Apple-TV-4k-二代和三代的-Siri-Remote-手感简直太爽了，每天老是忍不住握在手里摸几下](https://www.v2ex.com/t/896573) ![](assets/new.png)  
+- [2022-11-20-TypeScript-实验：-withtyped---类型安全的零依赖-RESTful-全栈框架，写-API-自动推导客户端类型并生成-OpenAPI-接口](https://www.v2ex.com/t/896571) ![](assets/new.png)  
+- [2022-11-20-哪个品牌的水管好?](https://www.v2ex.com/t/896570) ![](assets/new.png)  
+- [2022-11-20-前天开始，不知道为什么，墙大发神威](https://www.v2ex.com/t/896569) ![](assets/new.png)  
 - [2022-11-20-Tokendance2022-我们要举办线下活动啦！](https://www.v2ex.com/t/896568) ![](assets/new.png)  
 - [2022-11-20-iOS-通讯录突然没了，有-V-友遇到过吗？](https://www.v2ex.com/t/896567) ![](assets/new.png)  
 - [2022-11-20-2022-卡塔尔世界杯分组+网络观看地址](https://www.v2ex.com/t/896566) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-11-20-用-frp-做内网穿透，经常有陌生的-IP-出现，是啥情况？](https://www.v2ex.com/t/896551) ![](assets/new.png)  
 - [2022-11-20-MacBook-和-iPad-Pro-如何确保色准一样？](https://www.v2ex.com/t/896548) ![](assets/new.png)  
 - [2022-11-20-二本毕业生东软云科技运维-offer，要不要润？](https://www.v2ex.com/t/896547) ![](assets/new.png)  
-- [2022-11-20-如何正确配置-IPv6](https://www.v2ex.com/t/896544) ![](assets/new.png)  
-- [2022-11-20-求看世界杯的正确姿势](https://www.v2ex.com/t/896540) ![](assets/new.png)  
-- [2022-11-20-MF839-Monterey-更换固态求推荐](https://www.v2ex.com/t/896538) ![](assets/new.png)  
-- [2022-11-20-想入个-Steam-Deck，求打醒。](https://www.v2ex.com/t/896537) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

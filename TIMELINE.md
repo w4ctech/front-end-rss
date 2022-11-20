@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-20 04:45:53。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-20 05:11:25。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,9 +70,10 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-20-Publii-:一款功能强大的静态博客-CMS](https://www.v2ex.com/t/896552) 
+- [【V2EX】2022-11-20-用-frp-做内网穿透，经常有陌生的-IP-出现，是啥情况？](https://www.v2ex.com/t/896551) 
 - [【V2EX】2022-11-20-MacBook-和-iPad-Pro-如何确保色准一样？](https://www.v2ex.com/t/896548) 
 - [【V2EX】2022-11-20-二本毕业生东软云科技运维-offer，要不要润？](https://www.v2ex.com/t/896547) 
-- [【V2EX】2022-11-20-microsoft/office-365-家庭版订阅拼车，-46.5-元/15-个月](https://www.v2ex.com/t/896545) 
 - [【V2EX】2022-11-20-如何正确配置-IPv6](https://www.v2ex.com/t/896544) 
 - [【V2EX】2022-11-20-求看世界杯的正确姿势](https://www.v2ex.com/t/896540) 
 - [【V2EX】2022-11-20-MF839-Monterey-更换固态求推荐](https://www.v2ex.com/t/896538) 
@@ -89,7 +90,6 @@
 - [【V2EX】2022-11-20-听说它火了](https://www.v2ex.com/t/896526) 
 - [【V2EX】2022-11-20-关于-nginx-做-tcp-反代的域名解析设置](https://www.v2ex.com/t/896523) 
 - [【V2EX】2022-11-20-macbookair2019-版的触控板突然按不动了，之前单击或点击触摸板明显有段落的回弹感，现在按不下去，但是选字、滑动、缩放等操作都是正常的](https://www.v2ex.com/t/896518) 
-- [【V2EX】2022-11-20-Surge-Mac-五人车，-143/人](https://www.v2ex.com/t/896517) 
 - [【V2EX】2022-11-20-目前的远程工作,-什么技术方向岗位比较多?](https://www.v2ex.com/t/896516) 
 - [【V2EX】2022-11-19--=>-X-vs-=>-{-return-X-}](https://www.v2ex.com/t/896514) 
 - [【V2EX】2022-11-19-有-IPv4-公网，还需要开通-IPv6-吗？会有什么兼容问题吗？](https://www.v2ex.com/t/896513) 
@@ -100,10 +100,6 @@
 - [【V2EX】2022-11-19-两个-Windows-平台还算实用的平铺式窗口管理器](https://www.v2ex.com/t/896507) 
 - [【V2EX】2022-11-19-刚更新了-win11，难顶](https://www.v2ex.com/t/896506) 
 - [【V2EX】2022-11-19-更新-macOS-13-后-无像无法睡眠了](https://www.v2ex.com/t/896505) 
-- [【V2EX】2022-11-19-请问-macbook-插电源，-iPhone-插-mac-充电有什么问题吗？以及-m2-mba-好像不能把系统装在外置硬盘了？](https://www.v2ex.com/t/896502) 
-- [【V2EX】2022-11-19-求推荐个-MacBook-用的有线耳机](https://www.v2ex.com/t/896501) 
-- [【V2EX】2022-11-19-全职远程目前还需要一位-flutter-移动端开发、中高级运维、IOS-构架、中高级-golang、安全测试](https://www.v2ex.com/t/896500) 
-- [【V2EX】2022-11-19-「讨论」程序员如何做好一个副业呢？](https://www.v2ex.com/t/896499) 
 - [【技术头条】2022-11-20-敏捷团队的质量保障赋能-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15410&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fquality-assurance-enablement-in-agile-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-20-团队的Code-Review实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15409&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-code-review%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-20-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -119,8 +115,8 @@
 - [【开发者头条】2022-11-20-我画了-42-张图爆肝-Nacos-源码，跟着看一遍保证大家都学废了](https://toutiao.io/k/6s1twtt) 
 - [【开发者头条】2022-11-20-Rust-生命周期](https://toutiao.io/k/o8t36hx) 
 - [【开发者头条】2022-11-20-Bigkey-问题的解决思路与方式探索](https://toutiao.io/k/ne5syi3) 
-- [【开发者头条】2022-11-20-独立开发变现周刊（第-80-期）：Notion-页面转成网站客服小部件，月收入-5K-美金](https://toutiao.io/k/72jynd0) 
 - [【开发者头条】2022-11-20-你可能不知道的-JavaScript-APIs](https://toutiao.io/k/nq5ow3p) 
+- [【开发者头条】2022-11-20-独立开发变现周刊（第-80-期）：Notion-页面转成网站客服小部件，月收入-5K-美金](https://toutiao.io/k/72jynd0) 
 - [【开发者头条】2022-11-20-AI编译关键技术-•-高层循环编译优化---不仅仅是分块和合并](https://toutiao.io/k/8votr0x) 
 - [【开发者头条】2022-11-20-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) 
 

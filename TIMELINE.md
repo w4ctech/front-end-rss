@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-20 13:28:38。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-20 13:43:11。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -110,7 +110,6 @@
 - [【V2EX】2022-11-20-上海/杭州-字节-|-后端研发工程师-电商供应链跨境进口-|-Java-/Golang/-Python-/-PHP](https://www.v2ex.com/t/896604) 
 - [【V2EX】2022-11-20-App-端判断是否是大陆用户的最简洁方式，无需-IP-库](https://www.v2ex.com/t/896602) 
 - [【V2EX】2022-11-20-世界杯期间限时免费-DNS-解锁-ABEMA](https://www.v2ex.com/t/896601) 
-- [【V2EX】2022-11-20-AWS-可以创建多个免费实例么？](https://www.v2ex.com/t/896600) 
 - [【技术头条】2022-11-20-敏捷团队的质量保障赋能-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15410&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fquality-assurance-enablement-in-agile-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-20-团队的Code-Review实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15409&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-code-review%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-20-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-20 03:58:09。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-20 04:21:34。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,7 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-20-求看世界杯的正确姿势](https://www.v2ex.com/t/896540) 
 - [【V2EX】2022-11-20-MF839-Monterey-更换固态求推荐](https://www.v2ex.com/t/896538) 
 - [【V2EX】2022-11-20-想入个-Steam-Deck，求打醒。](https://www.v2ex.com/t/896537) 
 - [【V2EX】2022-11-20-刚买的主板+U-套装发现散热器转速不能自动调节，咋办](https://www.v2ex.com/t/896536) 
@@ -105,8 +106,6 @@
 - [【V2EX】2022-11-19-切换地区后已经安装的软件也无法更新了？](https://www.v2ex.com/t/896496) 
 - [【V2EX】2022-11-19-软路由最佳散热硅脂是不是相变硅脂](https://www.v2ex.com/t/896495) 
 - [【V2EX】2022-11-19-分享一个用于高效管理多个-gitlab-golang-项目通用-CI/CD-的轻量级开源框架](https://www.v2ex.com/t/896493) 
-- [【V2EX】2022-11-19-请教-discord-机器人开发问题，登录总是失败](https://www.v2ex.com/t/896492) 
-- [【V2EX】2022-11-19-自学-Java-后端,-请推荐教训视频和书籍,-最好配笔记的那种,-谢谢](https://www.v2ex.com/t/896491) 
 - [【技术头条】2022-11-20-敏捷团队的质量保障赋能-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15410&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fquality-assurance-enablement-in-agile-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-20-团队的Code-Review实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15409&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-code-review%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-20-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

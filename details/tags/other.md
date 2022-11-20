@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-20 03:58:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-20 04:21:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1917,6 +1917,7 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-11-20-求看世界杯的正确姿势](https://www.v2ex.com/t/896540) 
 - [2022-11-20-MF839-Monterey-更换固态求推荐](https://www.v2ex.com/t/896538) 
 - [2022-11-20-想入个-Steam-Deck，求打醒。](https://www.v2ex.com/t/896537) 
 - [2022-11-20-刚买的主板+U-套装发现散热器转速不能自动调节，咋办](https://www.v2ex.com/t/896536) 
@@ -1944,7 +1945,6 @@
 - [2022-11-19-宿主机固态硬盘与-hyper-v-虚拟机相比，-4k-读写速度相差很大](https://www.v2ex.com/t/896498) 
 - [2022-11-19-求助！网站打不开，提示-Error-405？](https://www.v2ex.com/t/896497) 
 - [2022-11-19-切换地区后已经安装的软件也无法更新了？](https://www.v2ex.com/t/896496) 
-- [2022-11-19-请教-discord-机器人开发问题，登录总是失败](https://www.v2ex.com/t/896492) 
 - [2022-11-20-敏捷团队的质量保障赋能-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15410&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fquality-assurance-enablement-in-agile-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-20-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-20-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

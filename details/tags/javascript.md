@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-20 03:06:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-20 03:58:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -15,5 +15,4 @@
 - [2021-03-03-港府回应一63岁患者死亡事件-暂无法确定与疫苗相关](https://m.caixin.com/m/2021-03-03/101670052.html) 
 - [2022-10-16-2022年新出了哪些form表单新特性？](https://www.zhangxinxu.com/wordpress/2022/10/2022-new-form-property/) 
 - [2022-11-19-软路由最佳散热硅脂是不是相变硅脂](https://www.v2ex.com/t/896495) 
-- [2022-11-19-在硬路由后面接个软路由的方案好吗？](https://www.v2ex.com/t/896483) 
 - [2022-11-20-你可能不知道的-JavaScript-APIs](https://toutiao.io/k/nq5ow3p) 

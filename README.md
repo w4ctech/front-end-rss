@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-20 03:06:33，:rocket: 更新条数: +2000， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-20 03:58:09，:rocket: 更新条数: +2002， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,13 @@
 </summary>
 
 
+- [2022-11-20-MF839-Monterey-更换固态求推荐](https://www.v2ex.com/t/896538) ![](assets/new.png)  
+- [2022-11-20-想入个-Steam-Deck，求打醒。](https://www.v2ex.com/t/896537) ![](assets/new.png)  
+- [2022-11-20-刚买的主板+U-套装发现散热器转速不能自动调节，咋办](https://www.v2ex.com/t/896536) ![](assets/new.png)  
+- [2022-11-20-域名设计，用二级域名还是一级域名+后缀-url-区分-有利于-SEO-？](https://www.v2ex.com/t/896535) ![](assets/new.png)  
+- [2022-11-20-关于-iPhone-安全性的思考](https://www.v2ex.com/t/896534) ![](assets/new.png)  
+- [2022-11-20-国企的信息-科技-技术岗位怎么进啊](https://www.v2ex.com/t/896533) ![](assets/new.png)  
+- [2022-11-20-我写了一个-Stable-Diffusion-GUI，纯-CPU-运行，操作简单，只需-8G-内存](https://www.v2ex.com/t/896532) ![](assets/new.png)  
 - [2022-11-20-开源了一款-VS-Code-风格的-ePub-阅读器](https://www.v2ex.com/t/896531) ![](assets/new.png)  
 - [2022-11-20-读研是真的读不下去了](https://www.v2ex.com/t/896530) ![](assets/new.png)  
 - [2022-11-20-广州-FTTR-手机宽带套餐如何？](https://www.v2ex.com/t/896529) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-11-19--=>-X-vs-=>-{-return-X-}](https://www.v2ex.com/t/896514) ![](assets/new.png)  
 - [2022-11-19-有-IPv4-公网，还需要开通-IPv6-吗？会有什么兼容问题吗？](https://www.v2ex.com/t/896513) ![](assets/new.png)  
 - [2022-11-19-m1-mba-无法充电可能是什么原因](https://www.v2ex.com/t/896512) ![](assets/new.png)  
-- [2022-11-19-macbook-pro-又有新的"谣言"了](https://www.v2ex.com/t/896511) ![](assets/new.png)  
-- [2022-11-19-React-的-onclick-事件函数中:执行语句外面包了一层-setTimeout...,-0是啥意思?-谢谢](https://www.v2ex.com/t/896510) ![](assets/new.png)  
-- [2022-11-19-可能是全网最好用的学习型词典,-不确定](https://www.v2ex.com/t/896508) ![](assets/new.png)  
-- [2022-11-19-两个-Windows-平台还算实用的平铺式窗口管理器](https://www.v2ex.com/t/896507) ![](assets/new.png)  
-- [2022-11-19-刚更新了-win11，难顶](https://www.v2ex.com/t/896506) ![](assets/new.png)  
-- [2022-11-19-更新-macOS-13-后-无像无法睡眠了](https://www.v2ex.com/t/896505) ![](assets/new.png)  
-- [2022-11-19-请问-macbook-插电源，-iPhone-插-mac-充电有什么问题吗？以及-m2-mba-好像不能把系统装在外置硬盘了？](https://www.v2ex.com/t/896502) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

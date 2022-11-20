@@ -1,10 +1,17 @@
-:alarm_clock: 更新时间: 2022-11-20 03:06:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-20 03:58:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-11-20-MF839-Monterey-更换固态求推荐](https://www.v2ex.com/t/896538) 
+- [2022-11-20-想入个-Steam-Deck，求打醒。](https://www.v2ex.com/t/896537) 
+- [2022-11-20-刚买的主板+U-套装发现散热器转速不能自动调节，咋办](https://www.v2ex.com/t/896536) 
+- [2022-11-20-域名设计，用二级域名还是一级域名+后缀-url-区分-有利于-SEO-？](https://www.v2ex.com/t/896535) 
+- [2022-11-20-关于-iPhone-安全性的思考](https://www.v2ex.com/t/896534) 
+- [2022-11-20-国企的信息-科技-技术岗位怎么进啊](https://www.v2ex.com/t/896533) 
+- [2022-11-20-我写了一个-Stable-Diffusion-GUI，纯-CPU-运行，操作简单，只需-8G-内存](https://www.v2ex.com/t/896532) 
 - [2022-11-20-开源了一款-VS-Code-风格的-ePub-阅读器](https://www.v2ex.com/t/896531) 
 - [2022-11-20-读研是真的读不下去了](https://www.v2ex.com/t/896530) 
 - [2022-11-20-广州-FTTR-手机宽带套餐如何？](https://www.v2ex.com/t/896529) 
@@ -35,8 +42,3 @@
 - [2022-11-19-分享一个用于高效管理多个-gitlab-golang-项目通用-CI/CD-的轻量级开源框架](https://www.v2ex.com/t/896493) 
 - [2022-11-19-请教-discord-机器人开发问题，登录总是失败](https://www.v2ex.com/t/896492) 
 - [2022-11-19-自学-Java-后端,-请推荐教训视频和书籍,-最好配笔记的那种,-谢谢](https://www.v2ex.com/t/896491) 
-- [2022-11-19-请问-openwrt-有插件能直接进行-http-转发吗？](https://www.v2ex.com/t/896489) 
-- [2022-11-19-上海户口好拿到吗？非应届双一流本](https://www.v2ex.com/t/896487) 
-- [2022-11-19-各位大佬，有谁知道哪个团购小程序有自动识别附近小区的功能吗？](https://www.v2ex.com/t/896485) 
-- [2022-11-19-关于-iPad-上精简-macOS-的思考](https://www.v2ex.com/t/896484) 
-- [2022-11-19-在硬路由后面接个软路由的方案好吗？](https://www.v2ex.com/t/896483) 

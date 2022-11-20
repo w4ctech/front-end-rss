@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2022-11-20 07:11:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-20 07:35:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-11-20-关于做好技术团队管理的几点心得](https://www.v2ex.com/t/896578) 
+- [2022-11-20-怎么看待，在-mtcgame-上买礼品卡被要求上传个人照片及-id-的](https://www.v2ex.com/t/896577) 
+- [2022-11-20-想在-pdd-上买个-5700xt，有无靠谱推荐](https://www.v2ex.com/t/896576) 
+- [2022-11-20-7-年前端公开求职，-9000-字长文（web3-&-remote）](https://www.v2ex.com/t/896575) 
 - [2022-11-20-Apple-TV-4k-二代和三代的-Siri-Remote-手感简直太爽了，每天老是忍不住握在手里摸几下](https://www.v2ex.com/t/896573) 
 - [2022-11-20-TypeScript-实验：-withtyped---类型安全的零依赖-RESTful-全栈框架，写-API-自动推导客户端类型并生成-OpenAPI-接口](https://www.v2ex.com/t/896571) 
 - [2022-11-20-哪个品牌的水管好?](https://www.v2ex.com/t/896570) 
@@ -37,5 +41,3 @@
 - [2022-11-20-开源了一款-VS-Code-风格的-ePub-阅读器](https://www.v2ex.com/t/896531) 
 - [2022-11-20-读研是真的读不下去了](https://www.v2ex.com/t/896530) 
 - [2022-11-20-广州-FTTR-手机宽带套餐如何？](https://www.v2ex.com/t/896529) 
-- [2022-11-20-13-年大厂后端和客户端开发经验需要找一份远程靠谱-C++开发工作](https://www.v2ex.com/t/896527) 
-- [2022-11-20-听说它火了](https://www.v2ex.com/t/896526) 

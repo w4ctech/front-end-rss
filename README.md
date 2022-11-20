@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-20 07:11:27，:rocket: 更新条数: +2001， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-20 07:35:05，:rocket: 更新条数: +2003， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-11-20-关于做好技术团队管理的几点心得](https://www.v2ex.com/t/896578) ![](assets/new.png)  
+- [2022-11-20-怎么看待，在-mtcgame-上买礼品卡被要求上传个人照片及-id-的](https://www.v2ex.com/t/896577) ![](assets/new.png)  
+- [2022-11-20-想在-pdd-上买个-5700xt，有无靠谱推荐](https://www.v2ex.com/t/896576) ![](assets/new.png)  
+- [2022-11-20-7-年前端公开求职，-9000-字长文（web3-&-remote）](https://www.v2ex.com/t/896575) ![](assets/new.png)  
 - [2022-11-20-Apple-TV-4k-二代和三代的-Siri-Remote-手感简直太爽了，每天老是忍不住握在手里摸几下](https://www.v2ex.com/t/896573) ![](assets/new.png)  
 - [2022-11-20-TypeScript-实验：-withtyped---类型安全的零依赖-RESTful-全栈框架，写-API-自动推导客户端类型并生成-OpenAPI-接口](https://www.v2ex.com/t/896571) ![](assets/new.png)  
 - [2022-11-20-哪个品牌的水管好?](https://www.v2ex.com/t/896570) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-11-20-牢骚-某互联网中厂，年底又要大裁员了](https://www.v2ex.com/t/896555) ![](assets/new.png)  
 - [2022-11-20-iCloud-中国区官网登不上了吗](https://www.v2ex.com/t/896554) ![](assets/new.png)  
 - [2022-11-20-系统重装时是否有能够快速恢复之前环境的工具？](https://www.v2ex.com/t/896553) ![](assets/new.png)  
-- [2022-11-20-Publii-:一款功能强大的静态博客-CMS](https://www.v2ex.com/t/896552) ![](assets/new.png)  
-- [2022-11-20-用-frp-做内网穿透，经常有陌生的-IP-出现，是啥情况？](https://www.v2ex.com/t/896551) ![](assets/new.png)  
-- [2022-11-20-MacBook-和-iPad-Pro-如何确保色准一样？](https://www.v2ex.com/t/896548) ![](assets/new.png)  
-- [2022-11-20-二本毕业生东软云科技运维-offer，要不要润？](https://www.v2ex.com/t/896547) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

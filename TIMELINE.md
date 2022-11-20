@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-20 09:37:01。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-20 10:13:43。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,9 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-20-客户端-app-闪退有什么告警机制](https://www.v2ex.com/t/896606) 
+- [【V2EX】2022-11-20-为什么-ios-15.4.1-导入-app-隐私报告到隐私洞见好慢，点击按钮没反应在设置里面](https://www.v2ex.com/t/896605) 
+- [【V2EX】2022-11-20-上海/杭州-字节-|-后端研发工程师-电商供应链跨境进口-|-Java-/Golang/-Python-/-PHP](https://www.v2ex.com/t/896604) 
 - [【V2EX】2022-11-20-App-端判断是否是大陆用户的最简洁方式，无需-IP-库](https://www.v2ex.com/t/896602) 
 - [【V2EX】2022-11-20-世界杯期间限时免费-DNS-解锁-ABEMA](https://www.v2ex.com/t/896601) 
 - [【V2EX】2022-11-20-AWS-可以创建多个免费实例么？](https://www.v2ex.com/t/896600) 
@@ -100,10 +103,6 @@
 - [【V2EX】2022-11-20-macOS-Airdrop-与-Proxifer-冲突](https://www.v2ex.com/t/896560) 
 - [【V2EX】2022-11-20-安卓的火狐-firefox-nightly-能装所有-PC-的扩展，这也太爽了吧](https://www.v2ex.com/t/896558) 
 - [【V2EX】2022-11-20-世界杯球评的分析，有人合作买吗？均摊一下](https://www.v2ex.com/t/896557) 
-- [【V2EX】2022-11-20-开源的-webview-浏览器。](https://www.v2ex.com/t/896556) 
-- [【V2EX】2022-11-20-牢骚-某互联网中厂，年底又要大裁员了](https://www.v2ex.com/t/896555) 
-- [【V2EX】2022-11-20-iCloud-中国区官网登不上了吗](https://www.v2ex.com/t/896554) 
-- [【V2EX】2022-11-20-系统重装时是否有能够快速恢复之前环境的工具？](https://www.v2ex.com/t/896553) 
 - [【技术头条】2022-11-20-敏捷团队的质量保障赋能-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15410&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fquality-assurance-enablement-in-agile-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-20-团队的Code-Review实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15409&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-code-review%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-20-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

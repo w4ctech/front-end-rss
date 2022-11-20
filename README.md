@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-20 09:37:01，:rocket: 更新条数: +2001， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-20 10:13:43，:rocket: 更新条数: +2000， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-11-20-客户端-app-闪退有什么告警机制](https://www.v2ex.com/t/896606) ![](assets/new.png)  
+- [2022-11-20-为什么-ios-15.4.1-导入-app-隐私报告到隐私洞见好慢，点击按钮没反应在设置里面](https://www.v2ex.com/t/896605) ![](assets/new.png)  
+- [2022-11-20-上海/杭州-字节-|-后端研发工程师-电商供应链跨境进口-|-Java-/Golang/-Python-/-PHP](https://www.v2ex.com/t/896604) ![](assets/new.png)  
 - [2022-11-20-App-端判断是否是大陆用户的最简洁方式，无需-IP-库](https://www.v2ex.com/t/896602) ![](assets/new.png)  
 - [2022-11-20-世界杯期间限时免费-DNS-解锁-ABEMA](https://www.v2ex.com/t/896601) ![](assets/new.png)  
 - [2022-11-20-AWS-可以创建多个免费实例么？](https://www.v2ex.com/t/896600) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-11-20-到目前为止你认为你最大的成就是什么？](https://www.v2ex.com/t/896580) ![](assets/new.png)  
 - [2022-11-20-关于做好技术团队管理的几点心得](https://www.v2ex.com/t/896578) ![](assets/new.png)  
 - [2022-11-20-怎么看待，在-mtcgame-上买礼品卡被要求上传个人照片及-id-的](https://www.v2ex.com/t/896577) ![](assets/new.png)  
-- [2022-11-20-想在-pdd-上买个-5700xt，有无靠谱推荐](https://www.v2ex.com/t/896576) ![](assets/new.png)  
-- [2022-11-20-7-年前端公开求职，-9000-字长文（web3-&-remote）](https://www.v2ex.com/t/896575) ![](assets/new.png)  
-- [2022-11-20-Apple-TV-4k-二代和三代的-Siri-Remote-手感简直太爽了，每天老是忍不住握在手里摸几下](https://www.v2ex.com/t/896573) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

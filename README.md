@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-20 14:36:33，:rocket: 更新条数: +2006， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-20 15:12:30，:rocket: 更新条数: +2005， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-11-20-airpods-pro2-充电盒弹窗电量和电池小组件电量不一致](https://www.v2ex.com/t/896666) ![](assets/new.png)  
+- [2022-11-20-buyvm-成功购买后还会审核吗？](https://www.v2ex.com/t/896664) ![](assets/new.png)  
+- [2022-11-20-关于批量存储掉照片问题](https://www.v2ex.com/t/896663) ![](assets/new.png)  
 - [2022-11-20-区块链开发需要掌握什么语言?-学习什么技术?](https://www.v2ex.com/t/896662) ![](assets/new.png)  
 - [2022-11-20-又来捞人了...](https://www.v2ex.com/t/896661) ![](assets/new.png)  
 - [2022-11-20-公司做了个-APP,蹭世界杯热点但是没软著怎么上抖音推广?](https://www.v2ex.com/t/896660) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-11-20-PastePal-折扣，之前-98-元，现在-50-元，有需要可以入](https://www.v2ex.com/t/896641) ![](assets/new.png)  
 - [2022-11-20-上海-不加班-外企-招-中级前端3-年经验起，高级安卓（5-年起，要求懂-Java-），中级-devOps（3-年起）](https://www.v2ex.com/t/896640) ![](assets/new.png)  
 - [2022-11-20-一个-JS-变量的问题](https://www.v2ex.com/t/896639) ![](assets/new.png)  
-- [2022-11-20-买哪个型号的-MacBook-合适？](https://www.v2ex.com/t/896638) ![](assets/new.png)  
-- [2022-11-20-怎么备份微信通讯录](https://www.v2ex.com/t/896637) ![](assets/new.png)  
-- [2022-11-20-macos12-编译-openjdk8-'JavaVM/jni.h'-file-not-found](https://www.v2ex.com/t/896636) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

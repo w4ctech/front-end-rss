@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-20 12:59:54。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-20 13:28:38。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -71,7 +71,12 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-11-20-JS之我用单img元素实现了图像resize拉伸效果](https://www.zhangxinxu.com/wordpress/2022/11/js-image-resize/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
-- [【V2EX】2022-11-20-上海-不加班-混合办公-外企-招-中高级-Java-，中高级测试，高级安卓，中级-devOps，初级-UI/UX](https://www.v2ex.com/t/896640) 
+- [【V2EX】2022-11-20-一个帮助合并-state-的自定义-hook`-大家看看有啥问题·](https://www.v2ex.com/t/896645) 
+- [【V2EX】2022-11-20-要是用路由器在校园网翻墙，会被抓吗?](https://www.v2ex.com/t/896644) 
+- [【V2EX】2022-11-20-求一款-win-平台的计算器](https://www.v2ex.com/t/896643) 
+- [【V2EX】2022-11-20-多多上超级秒杀神券-14xx-入-HC550-16T-硬盘靠谱吗？店铺是所谓“坤心电子”](https://www.v2ex.com/t/896642) 
+- [【V2EX】2022-11-20-PastePal-折扣，之前-98-元，现在-50-元，有需要可以入](https://www.v2ex.com/t/896641) 
+- [【V2EX】2022-11-20-上海-不加班-外企-招-中级前端3-年经验起，高级安卓（5-年起，要求懂-Java-），中级-devOps（3-年起）](https://www.v2ex.com/t/896640) 
 - [【V2EX】2022-11-20-一个-JS-变量的问题](https://www.v2ex.com/t/896639) 
 - [【V2EX】2022-11-20-买哪个型号的-MacBook-合适？](https://www.v2ex.com/t/896638) 
 - [【V2EX】2022-11-20-怎么备份微信通讯录](https://www.v2ex.com/t/896637) 
@@ -106,11 +111,6 @@
 - [【V2EX】2022-11-20-App-端判断是否是大陆用户的最简洁方式，无需-IP-库](https://www.v2ex.com/t/896602) 
 - [【V2EX】2022-11-20-世界杯期间限时免费-DNS-解锁-ABEMA](https://www.v2ex.com/t/896601) 
 - [【V2EX】2022-11-20-AWS-可以创建多个免费实例么？](https://www.v2ex.com/t/896600) 
-- [【V2EX】2022-11-20-问问还有人玩-EVE-吗](https://www.v2ex.com/t/896598) 
-- [【V2EX】2022-11-20-是否可以一个光猫里面做两个电信账号的宽带？](https://www.v2ex.com/t/896597) 
-- [【V2EX】2022-11-20-用一个自研的编程语言能做什么？系列文章-1-KCL---让-Kubernetes-资源清单管理更容易](https://www.v2ex.com/t/896593) 
-- [【V2EX】2022-11-20-FTX-暴雷，我在一周内损失-17W](https://www.v2ex.com/t/896592) 
-- [【V2EX】2022-11-20-自用上了-Nas-的-Time-Machine，这系统备份任务就没闲过！](https://www.v2ex.com/t/896591) 
 - [【技术头条】2022-11-20-敏捷团队的质量保障赋能-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15410&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fquality-assurance-enablement-in-agile-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-20-团队的Code-Review实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15409&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-code-review%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-20-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-20 19:35:32，:rocket: 更新条数: +2003， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-20 20:13:06，:rocket: 更新条数: +2003， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-11-20-想用-K8S-管理-WSL2-的-NV-GPU-资源怎么搞?](https://www.v2ex.com/t/896683) ![](assets/new.png)  
 - [2022-11-20-watching-you---让你的-DOM-能够像眼睛一样关注东西的-JS-简易动画库](https://www.v2ex.com/t/896681) ![](assets/new.png)  
 - [2022-11-20-2022-黑五-有哪些优惠的软件和服务?](https://www.v2ex.com/t/896679) ![](assets/new.png)  
 - [2022-11-20-USB-2.5GRTL8156B速度只有-1.4G](https://www.v2ex.com/t/896674) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-11-20-IP-地址被-403，麻烦站长处理一下](https://www.v2ex.com/t/896659) ![](assets/new.png)  
 - [2022-11-20-这个返厂进度是合理的嘛,杭州授权店返厂的，授权店说查不了进度，还得自己打-400-报序列号查维修进度](https://www.v2ex.com/t/896658) ![](assets/new.png)  
 - [2022-11-20-想买了个-N5105-路由请问哪个商家比较靠谱？](https://www.v2ex.com/t/896656) ![](assets/new.png)  
-- [2022-11-20-Youtube-个人会员可以直接转为家庭方案吗？](https://www.v2ex.com/t/896655) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

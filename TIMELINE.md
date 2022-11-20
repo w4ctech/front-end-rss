@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-20 19:35:32。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-20 20:13:06。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -71,6 +71,7 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-11-20-JS之我用单img元素实现了图像resize拉伸效果](https://www.zhangxinxu.com/wordpress/2022/11/js-image-resize/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-20-想用-K8S-管理-WSL2-的-NV-GPU-资源怎么搞?](https://www.v2ex.com/t/896683) 
 - [【V2EX】2022-11-20-watching-you---让你的-DOM-能够像眼睛一样关注东西的-JS-简易动画库](https://www.v2ex.com/t/896681) 
 - [【V2EX】2022-11-20-2022-黑五-有哪些优惠的软件和服务?](https://www.v2ex.com/t/896679) 
 - [【V2EX】2022-11-20-USB-2.5GRTL8156B速度只有-1.4G](https://www.v2ex.com/t/896674) 
@@ -106,7 +107,6 @@
 - [【V2EX】2022-11-20-macos12-编译-openjdk8-'JavaVM/jni.h'-file-not-found](https://www.v2ex.com/t/896636) 
 - [【V2EX】2022-11-20-求推薦支援-IPv6-的-wifi-mesh-產品](https://www.v2ex.com/t/896635) 
 - [【V2EX】2022-11-20-东北大米选购指北（二）](https://www.v2ex.com/t/896634) 
-- [【V2EX】2022-11-20-开自助洗衣店收益率怎么样？](https://www.v2ex.com/t/896633) 
 - [【技术头条】2022-11-20-敏捷团队的质量保障赋能-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15410&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fquality-assurance-enablement-in-agile-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-20-团队的Code-Review实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15409&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-code-review%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-20-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

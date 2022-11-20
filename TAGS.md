@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-11-20 19:35:32。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-20 20:13:06。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -294,6 +294,7 @@
 
 
 
+- [【V2EX】想用-K8S-管理-WSL2-的-NV-GPU-资源怎么搞?](https://www.v2ex.com/t/896683)
 - [【V2EX】PastePal-折扣，之前-98-元，现在-50-元，有需要可以入](https://www.v2ex.com/t/896641)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 

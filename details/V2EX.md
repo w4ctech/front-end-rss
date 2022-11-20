@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-11-20 19:35:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-20 20:13:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-11-20-想用-K8S-管理-WSL2-的-NV-GPU-资源怎么搞?](https://www.v2ex.com/t/896683) 
 - [2022-11-20-watching-you---让你的-DOM-能够像眼睛一样关注东西的-JS-简易动画库](https://www.v2ex.com/t/896681) 
 - [2022-11-20-2022-黑五-有哪些优惠的软件和服务?](https://www.v2ex.com/t/896679) 
 - [2022-11-20-USB-2.5GRTL8156B速度只有-1.4G](https://www.v2ex.com/t/896674) 
@@ -40,4 +41,3 @@
 - [2022-11-20-macos12-编译-openjdk8-'JavaVM/jni.h'-file-not-found](https://www.v2ex.com/t/896636) 
 - [2022-11-20-求推薦支援-IPv6-的-wifi-mesh-產品](https://www.v2ex.com/t/896635) 
 - [2022-11-20-东北大米选购指北（二）](https://www.v2ex.com/t/896634) 
-- [2022-11-20-开自助洗衣店收益率怎么样？](https://www.v2ex.com/t/896633) 

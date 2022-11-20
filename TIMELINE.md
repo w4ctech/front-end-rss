@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-20 15:38:42。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-20 16:16:12。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -71,6 +71,12 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-11-20-JS之我用单img元素实现了图像resize拉伸效果](https://www.zhangxinxu.com/wordpress/2022/11/js-image-resize/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-20-USB-2.5GRTL8156B速度只有-1.4G](https://www.v2ex.com/t/896674) 
+- [【V2EX】2022-11-20-给大家推荐一个纯粹的音乐网站，没有干扰，聚合资源，歌曲丰富，听歌方便](https://www.v2ex.com/t/896673) 
+- [【V2EX】2022-11-20-2022-年快结束了，苹果还是不支持-HDMI-2.1，唉，到底在想啥呢](https://www.v2ex.com/t/896672) 
+- [【V2EX】2022-11-20-限免-iOS-倒计时提醒](https://www.v2ex.com/t/896671) 
+- [【V2EX】2022-11-20-求-macOS-和-iPad-OS-的磁链和-BT-下载软件](https://www.v2ex.com/t/896670) 
+- [【V2EX】2022-11-20-国内使用-openwrt-通过-IPoE-获取运营商-IPTV-机顶盒-IP-指北](https://www.v2ex.com/t/896669) 
 - [【V2EX】2022-11-20-20221120-午夜俱乐部](https://www.v2ex.com/t/896668) 
 - [【V2EX】2022-11-20-对使用落地-IP-识别为为-Warp-的代理节点无法开启-ECH，而裸连-Warp-却可以开启-ECH-衍生而来的对开启-ECH-的前置条件的疑惑](https://www.v2ex.com/t/896667) 
 - [【V2EX】2022-11-20-airpods-pro2-充电盒弹窗电量和电池小组件电量不一致](https://www.v2ex.com/t/896666) 
@@ -103,12 +109,6 @@
 - [【V2EX】2022-11-20-macOS13-分配给“所有桌面”不好使了？](https://www.v2ex.com/t/896630) 
 - [【V2EX】2022-11-20-你们在使用新苹果手机时或者在还原所有设置时，会不会收到这条或多条奇怪短信？](https://www.v2ex.com/t/896629) 
 - [【V2EX】2022-11-20-ios16-无法关闭打电话键盘拨号音了吗。。。](https://www.v2ex.com/t/896628) 
-- [【V2EX】2022-11-20-突然想到-AI-相比生物和人来说输出的带宽好像高很多，这会是人工智能相比人产生质变的因素之一吗？](https://www.v2ex.com/t/896626) 
-- [【V2EX】2022-11-20-用官方指定的方法-erase-掉-iMac-的数据，再恢复的可能性是否为-0？](https://www.v2ex.com/t/896625) 
-- [【V2EX】2022-11-20-真诚交友#1-by-小天狼星解忧杂货铺](https://www.v2ex.com/t/896624) 
-- [【V2EX】2022-11-20-记一次光猫-bug](https://www.v2ex.com/t/896623) 
-- [【V2EX】2022-11-20-隐订阅-yinrss-是哪个站友的,证书过期了..](https://www.v2ex.com/t/896622) 
-- [【V2EX】2022-11-20-正在读专硕，-CV-方向导师明示不用发论文，毕业的话该何去何从？](https://www.v2ex.com/t/896620) 
 - [【技术头条】2022-11-20-敏捷团队的质量保障赋能-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15410&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fquality-assurance-enablement-in-agile-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-20-团队的Code-Review实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15409&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-code-review%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-20-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

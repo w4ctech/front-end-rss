@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-20 10:39:38。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-20 11:10:11。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,10 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-20-移动做的真的绝，直接屏蔽到-HK-Cloudflare-IP](https://www.v2ex.com/t/896616) 
+- [【V2EX】2022-11-20-送码-抠图猫-macOS-和-iOS-版本送码啦！](https://www.v2ex.com/t/896615) 
+- [【V2EX】2022-11-20-Edge-浏览器稳定性是真的不行](https://www.v2ex.com/t/896614) 
+- [【V2EX】2022-11-20-提高手机安全性的想法](https://www.v2ex.com/t/896613) 
 - [【V2EX】2022-11-20-iOS-相册如何彻底关闭人物识别](https://www.v2ex.com/t/896612) 
 - [【V2EX】2022-11-20-如果不想子女卷高考这条路独木舟，性价比比较高的出国留学有哪些呢。](https://www.v2ex.com/t/896611) 
 - [【V2EX】2022-11-20-iPhone-通过-samba-共享给-windows-传文件，为什么每过一段时间-iPhone-上要重新输一次访问-win-的用户和密码？可以长时间保持登陆状态吗？](https://www.v2ex.com/t/896610) 
@@ -102,8 +106,6 @@
 - [【V2EX】2022-11-20-哪个品牌的水管好?](https://www.v2ex.com/t/896570) 
 - [【V2EX】2022-11-20-Tokendance2022-我们要举办线下活动啦！](https://www.v2ex.com/t/896568) 
 - [【V2EX】2022-11-20-iOS-通讯录突然没了，有-V-友遇到过吗？](https://www.v2ex.com/t/896567) 
-- [【V2EX】2022-11-20-2022-卡塔尔世界杯分组+网络观看地址](https://www.v2ex.com/t/896566) 
-- [【V2EX】2022-11-20-请问在国内使用云服务器，搭环境网络问题怎么解决？](https://www.v2ex.com/t/896563) 
 - [【技术头条】2022-11-20-敏捷团队的质量保障赋能-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15410&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fquality-assurance-enablement-in-agile-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-20-团队的Code-Review实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15409&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-code-review%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-20-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

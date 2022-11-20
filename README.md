@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-20 10:39:38，:rocket: 更新条数: +2001， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-20 11:10:10，:rocket: 更新条数: +2003， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-11-20-移动做的真的绝，直接屏蔽到-HK-Cloudflare-IP](https://www.v2ex.com/t/896616) ![](assets/new.png)  
+- [2022-11-20-送码-抠图猫-macOS-和-iOS-版本送码啦！](https://www.v2ex.com/t/896615) ![](assets/new.png)  
+- [2022-11-20-Edge-浏览器稳定性是真的不行](https://www.v2ex.com/t/896614) ![](assets/new.png)  
+- [2022-11-20-提高手机安全性的想法](https://www.v2ex.com/t/896613) ![](assets/new.png)  
 - [2022-11-20-iOS-相册如何彻底关闭人物识别](https://www.v2ex.com/t/896612) ![](assets/new.png)  
 - [2022-11-20-如果不想子女卷高考这条路独木舟，性价比比较高的出国留学有哪些呢。](https://www.v2ex.com/t/896611) ![](assets/new.png)  
 - [2022-11-20-iPhone-通过-samba-共享给-windows-传文件，为什么每过一段时间-iPhone-上要重新输一次访问-win-的用户和密码？可以长时间保持登陆状态吗？](https://www.v2ex.com/t/896610) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-11-20-用一个自研的编程语言能做什么？系列文章-1-KCL---让-Kubernetes-资源清单管理更容易](https://www.v2ex.com/t/896593) ![](assets/new.png)  
 - [2022-11-20-FTX-暴雷，我在一周内损失-17W](https://www.v2ex.com/t/896592) ![](assets/new.png)  
 - [2022-11-20-自用上了-Nas-的-Time-Machine，这系统备份任务就没闲过！](https://www.v2ex.com/t/896591) ![](assets/new.png)  
-- [2022-11-20-汽车延保值得买吗](https://www.v2ex.com/t/896590) ![](assets/new.png)  
-- [2022-11-20-在广州做视觉设计的月薪平均在多少？](https://www.v2ex.com/t/896588) ![](assets/new.png)  
-- [2022-11-20-之前-macOS-12-的时候用测试版升级了-13，现在不知道怎么回到正式版](https://www.v2ex.com/t/896586) ![](assets/new.png)  
-- [2022-11-20-联想小新怎么全新安装纯净版系统。](https://www.v2ex.com/t/896584) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

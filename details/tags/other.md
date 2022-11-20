@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-20 08:15:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-20 08:41:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1917,6 +1917,9 @@
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
 - [2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
+- [2022-11-20-用一个自研的编程语言能做什么？系列文章-1-KCL---让-Kubernetes-资源清单管理更容易](https://www.v2ex.com/t/896593) 
+- [2022-11-20-FTX-暴雷，我在一周内损失-17W](https://www.v2ex.com/t/896592) 
+- [2022-11-20-自用上了-Nas-的-Time-Machine，这系统备份任务就没闲过！](https://www.v2ex.com/t/896591) 
 - [2022-11-20-汽车延保值得买吗](https://www.v2ex.com/t/896590) 
 - [2022-11-20-在广州做视觉设计的月薪平均在多少？](https://www.v2ex.com/t/896588) 
 - [2022-11-20-之前-macOS-12-的时候用测试版升级了-13，现在不知道怎么回到正式版](https://www.v2ex.com/t/896586) 

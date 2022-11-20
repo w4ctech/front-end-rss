@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-20 21:35:50，:rocket: 更新条数: +2003， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-20 22:11:47，:rocket: 更新条数: +2003， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-11-20-14-寸笔记本推荐](https://www.v2ex.com/t/896685) ![](assets/new.png)  
 - [2022-11-20-分享一个普通码农是如何移民加拿大的](https://www.v2ex.com/t/896684) ![](assets/new.png)  
 - [2022-11-20-想用-K8S-管理-WSL2-的-NV-GPU-资源怎么搞?](https://www.v2ex.com/t/896683) ![](assets/new.png)  
 - [2022-11-20-watching-you---让你的-DOM-能够像眼睛一样关注东西的-JS-简易动画库](https://www.v2ex.com/t/896681) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-11-20-又来捞人了...](https://www.v2ex.com/t/896661) ![](assets/new.png)  
 - [2022-11-20-公司做了个-APP,蹭世界杯热点但是没软著怎么上抖音推广?](https://www.v2ex.com/t/896660) ![](assets/new.png)  
 - [2022-11-20-IP-地址被-403，麻烦站长处理一下](https://www.v2ex.com/t/896659) ![](assets/new.png)  
-- [2022-11-20-这个返厂进度是合理的嘛,杭州授权店返厂的，授权店说查不了进度，还得自己打-400-报序列号查维修进度](https://www.v2ex.com/t/896658) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

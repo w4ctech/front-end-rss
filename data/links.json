@@ -9953,6 +9953,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "14 寸笔记本推荐",
+        "link": "https://www.v2ex.com/t/896685",
+        "date": "2022-11-20"
+      },
+      {
         "title": "分享一个普通码农是如何移民加拿大的",
         "link": "https://www.v2ex.com/t/896684",
         "date": "2022-11-20"
@@ -10125,11 +10130,6 @@
       {
         "title": "macos12 编译 openjdk8 'JavaVM/jni.h' file not found",
         "link": "https://www.v2ex.com/t/896636",
-        "date": "2022-11-20"
-      },
-      {
-        "title": "求推薦支援 IPv6 的 wifi mesh 產品",
-        "link": "https://www.v2ex.com/t/896635",
         "date": "2022-11-20"
       }
     ]

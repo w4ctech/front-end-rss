@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-20 12:21:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-20 12:59:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1916,6 +1916,13 @@
 - [2022-10-20-告别pointer-events:none使用HTML-inert属性真正禁用](https://www.zhangxinxu.com/wordpress/2022/10/html-inert-disabled-attribute/) 
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
+- [2022-11-20-上海-不加班-混合办公-外企-招-中高级-Java-，中高级测试，高级安卓，中级-devOps，初级-UI/UX](https://www.v2ex.com/t/896640) 
+- [2022-11-20-买哪个型号的-MacBook-合适？](https://www.v2ex.com/t/896638) 
+- [2022-11-20-怎么备份微信通讯录](https://www.v2ex.com/t/896637) 
+- [2022-11-20-macos12-编译-openjdk8-'JavaVM/jni.h'-file-not-found](https://www.v2ex.com/t/896636) 
+- [2022-11-20-求推薦支援-IPv6-的-wifi-mesh-產品](https://www.v2ex.com/t/896635) 
+- [2022-11-20-东北大米选购指北（二）](https://www.v2ex.com/t/896634) 
+- [2022-11-20-开自助洗衣店收益率怎么样？](https://www.v2ex.com/t/896633) 
 - [2022-11-20-广东移动-app-提升打开了代理然后关闭](https://www.v2ex.com/t/896631) 
 - [2022-11-20-macOS13-分配给“所有桌面”不好使了？](https://www.v2ex.com/t/896630) 
 - [2022-11-20-你们在使用新苹果手机时或者在还原所有设置时，会不会收到这条或多条奇怪短信？](https://www.v2ex.com/t/896629) 
@@ -1945,11 +1952,6 @@
 - [2022-11-20-用一个自研的编程语言能做什么？系列文章-1-KCL---让-Kubernetes-资源清单管理更容易](https://www.v2ex.com/t/896593) 
 - [2022-11-20-FTX-暴雷，我在一周内损失-17W](https://www.v2ex.com/t/896592) 
 - [2022-11-20-自用上了-Nas-的-Time-Machine，这系统备份任务就没闲过！](https://www.v2ex.com/t/896591) 
-- [2022-11-20-汽车延保值得买吗](https://www.v2ex.com/t/896590) 
-- [2022-11-20-在广州做视觉设计的月薪平均在多少？](https://www.v2ex.com/t/896588) 
-- [2022-11-20-之前-macOS-12-的时候用测试版升级了-13，现在不知道怎么回到正式版](https://www.v2ex.com/t/896586) 
-- [2022-11-20-联想小新怎么全新安装纯净版系统。](https://www.v2ex.com/t/896584) 
-- [2022-11-20-QQ-邮箱改变规则，免费提供最大可达-16G-的邮箱容量，寻找相对的替代品](https://www.v2ex.com/t/896583) 
 - [2022-11-20-敏捷团队的质量保障赋能-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15410&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fquality-assurance-enablement-in-agile-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-20-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-20-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

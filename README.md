@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-20 07:35:05，:rocket: 更新条数: +2003， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-20 08:15:39，:rocket: 更新条数: +1998， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,13 @@
 </summary>
 
 
+- [2022-11-20-汽车延保值得买吗](https://www.v2ex.com/t/896590) ![](assets/new.png)  
+- [2022-11-20-在广州做视觉设计的月薪平均在多少？](https://www.v2ex.com/t/896588) ![](assets/new.png)  
+- [2022-11-20-之前-macOS-12-的时候用测试版升级了-13，现在不知道怎么回到正式版](https://www.v2ex.com/t/896586) ![](assets/new.png)  
+- [2022-11-20-联想小新怎么全新安装纯净版系统。](https://www.v2ex.com/t/896584) ![](assets/new.png)  
+- [2022-11-20-QQ-邮箱改变规则，免费提供最大可达-16G-的邮箱容量，寻找相对的替代品](https://www.v2ex.com/t/896583) ![](assets/new.png)  
+- [2022-11-20-求职-远程/兼/工作](https://www.v2ex.com/t/896581) ![](assets/new.png)  
+- [2022-11-20-到目前为止你认为你最大的成就是什么？](https://www.v2ex.com/t/896580) ![](assets/new.png)  
 - [2022-11-20-关于做好技术团队管理的几点心得](https://www.v2ex.com/t/896578) ![](assets/new.png)  
 - [2022-11-20-怎么看待，在-mtcgame-上买礼品卡被要求上传个人照片及-id-的](https://www.v2ex.com/t/896577) ![](assets/new.png)  
 - [2022-11-20-想在-pdd-上买个-5700xt，有无靠谱推荐](https://www.v2ex.com/t/896576) ![](assets/new.png)  
@@ -498,19 +505,12 @@
 - [2022-11-20-Apple-TV-4k-二代和三代的-Siri-Remote-手感简直太爽了，每天老是忍不住握在手里摸几下](https://www.v2ex.com/t/896573) ![](assets/new.png)  
 - [2022-11-20-TypeScript-实验：-withtyped---类型安全的零依赖-RESTful-全栈框架，写-API-自动推导客户端类型并生成-OpenAPI-接口](https://www.v2ex.com/t/896571) ![](assets/new.png)  
 - [2022-11-20-哪个品牌的水管好?](https://www.v2ex.com/t/896570) ![](assets/new.png)  
-- [2022-11-20-前天开始，不知道为什么，墙大发神威](https://www.v2ex.com/t/896569) ![](assets/new.png)  
 - [2022-11-20-Tokendance2022-我们要举办线下活动啦！](https://www.v2ex.com/t/896568) ![](assets/new.png)  
 - [2022-11-20-iOS-通讯录突然没了，有-V-友遇到过吗？](https://www.v2ex.com/t/896567) ![](assets/new.png)  
 - [2022-11-20-2022-卡塔尔世界杯分组+网络观看地址](https://www.v2ex.com/t/896566) ![](assets/new.png)  
 - [2022-11-20-请问在国内使用云服务器，搭环境网络问题怎么解决？](https://www.v2ex.com/t/896563) ![](assets/new.png)  
 - [2022-11-20-求推荐国外稳定长久使用的手机卡](https://www.v2ex.com/t/896562) ![](assets/new.png)  
 - [2022-11-20-macOS-Airdrop-与-Proxifer-冲突](https://www.v2ex.com/t/896560) ![](assets/new.png)  
-- [2022-11-20-安卓的火狐-firefox-nightly-能装所有-PC-的扩展，这也太爽了吧](https://www.v2ex.com/t/896558) ![](assets/new.png)  
-- [2022-11-20-世界杯球评的分析，有人合作买吗？均摊一下](https://www.v2ex.com/t/896557) ![](assets/new.png)  
-- [2022-11-20-开源的-webview-浏览器。](https://www.v2ex.com/t/896556) ![](assets/new.png)  
-- [2022-11-20-牢骚-某互联网中厂，年底又要大裁员了](https://www.v2ex.com/t/896555) ![](assets/new.png)  
-- [2022-11-20-iCloud-中国区官网登不上了吗](https://www.v2ex.com/t/896554) ![](assets/new.png)  
-- [2022-11-20-系统重装时是否有能够快速恢复之前环境的工具？](https://www.v2ex.com/t/896553) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

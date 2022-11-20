@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-20 17:37:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-20 18:14:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1916,6 +1916,7 @@
 - [2022-10-20-告别pointer-events:none使用HTML-inert属性真正禁用](https://www.zhangxinxu.com/wordpress/2022/10/html-inert-disabled-attribute/) 
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
+- [2022-11-20-2022-黑五-有哪些优惠的软件和服务?](https://www.v2ex.com/t/896679) 
 - [2022-11-20-USB-2.5GRTL8156B速度只有-1.4G](https://www.v2ex.com/t/896674) 
 - [2022-11-20-给大家推荐一个纯粹的音乐网站，没有干扰，聚合资源，歌曲丰富，听歌方便](https://www.v2ex.com/t/896673) 
 - [2022-11-20-2022-年快结束了，苹果还是不支持-HDMI-2.1，唉，到底在想啥呢](https://www.v2ex.com/t/896672) 
@@ -1944,9 +1945,6 @@
 - [2022-11-20-求推薦支援-IPv6-的-wifi-mesh-產品](https://www.v2ex.com/t/896635) 
 - [2022-11-20-东北大米选购指北（二）](https://www.v2ex.com/t/896634) 
 - [2022-11-20-开自助洗衣店收益率怎么样？](https://www.v2ex.com/t/896633) 
-- [2022-11-20-广东移动-app-提升打开了代理然后关闭](https://www.v2ex.com/t/896631) 
-- [2022-11-20-macOS13-分配给“所有桌面”不好使了？](https://www.v2ex.com/t/896630) 
-- [2022-11-20-你们在使用新苹果手机时或者在还原所有设置时，会不会收到这条或多条奇怪短信？](https://www.v2ex.com/t/896629) 
 - [2022-11-20-敏捷团队的质量保障赋能-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15410&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fquality-assurance-enablement-in-agile-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-20-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-20-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-20 01:07:38。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-20 03:06:33。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,12 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-20-开源了一款-VS-Code-风格的-ePub-阅读器](https://www.v2ex.com/t/896531) 
+- [【V2EX】2022-11-20-读研是真的读不下去了](https://www.v2ex.com/t/896530) 
+- [【V2EX】2022-11-20-广州-FTTR-手机宽带套餐如何？](https://www.v2ex.com/t/896529) 
+- [【V2EX】2022-11-20-13-年大厂后端和客户端开发经验需要找一份远程靠谱-C++开发工作](https://www.v2ex.com/t/896527) 
+- [【V2EX】2022-11-20-听说它火了](https://www.v2ex.com/t/896526) 
+- [【V2EX】2022-11-20-关于-nginx-做-tcp-反代的域名解析设置](https://www.v2ex.com/t/896523) 
 - [【V2EX】2022-11-20-Surge-iOS-三人车，-135/人](https://www.v2ex.com/t/896519) 
 - [【V2EX】2022-11-20-macbookair2019-版的触控板突然按不动了，之前单击或点击触摸板明显有段落的回弹感，现在按不下去，但是选字、滑动、缩放等操作都是正常的](https://www.v2ex.com/t/896518) 
 - [【V2EX】2022-11-20-Surge-Mac-五人车，-143/人](https://www.v2ex.com/t/896517) 
@@ -99,15 +105,6 @@
 - [【V2EX】2022-11-19-各位大佬，有谁知道哪个团购小程序有自动识别附近小区的功能吗？](https://www.v2ex.com/t/896485) 
 - [【V2EX】2022-11-19-关于-iPad-上精简-macOS-的思考](https://www.v2ex.com/t/896484) 
 - [【V2EX】2022-11-19-在硬路由后面接个软路由的方案好吗？](https://www.v2ex.com/t/896483) 
-- [【V2EX】2022-11-19-大家有没有购买-Boox-Leaf2-的](https://www.v2ex.com/t/896481) 
-- [【V2EX】2022-11-19-关于小区快递和外卖问题](https://www.v2ex.com/t/896479) 
-- [【V2EX】2022-11-19-想给女朋友买个手表！](https://www.v2ex.com/t/896478) 
-- [【V2EX】2022-11-19-华为二层交换机如何实现部分-VLAN-二层隔离且-VLAN-内用户互访](https://www.v2ex.com/t/896475) 
-- [【V2EX】2022-11-19-为嘛市售常见-NAS-的硬盘都侧着放？](https://www.v2ex.com/t/896474) 
-- [【V2EX】2022-11-19-测速频道推荐](https://www.v2ex.com/t/896473) 
-- [【V2EX】2022-11-19-想问一道-Java-面试题，关于数据处理](https://www.v2ex.com/t/896472) 
-- [【V2EX】2022-11-19-超六类线能压进六类水晶头吗？](https://www.v2ex.com/t/896471) 
-- [【V2EX】2022-11-19-关于微信号修改后重新注册的问题](https://www.v2ex.com/t/896470) 
 - [【技术头条】2022-11-20-敏捷团队的质量保障赋能-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15410&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fquality-assurance-enablement-in-agile-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-20-团队的Code-Review实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15409&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-code-review%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-20-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -118,13 +115,14 @@
 - [【技术头条】2022-11-20-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-20-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-20-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [【开发者头条】2022-11-20-重磅出击，20-张图带你彻底了解-ReentrantLock-加锁解锁的原理](https://toutiao.io/k/jyfkfs8) 
 - [【开发者头条】2022-11-20-万字图文讲透数据库缓存一致性问题](https://toutiao.io/k/1exlsmh) 
+- [【开发者头条】2022-11-20-重磅出击，20-张图带你彻底了解-ReentrantLock-加锁解锁的原理](https://toutiao.io/k/jyfkfs8) 
 - [【开发者头条】2022-11-20-我画了-42-张图爆肝-Nacos-源码，跟着看一遍保证大家都学废了](https://toutiao.io/k/6s1twtt) 
+- [【开发者头条】2022-11-20-Rust-生命周期](https://toutiao.io/k/o8t36hx) 
+- [【开发者头条】2022-11-20-Bigkey-问题的解决思路与方式探索](https://toutiao.io/k/ne5syi3) 
 - [【开发者头条】2022-11-20-独立开发变现周刊（第-80-期）：Notion-页面转成网站客服小部件，月收入-5K-美金](https://toutiao.io/k/72jynd0) 
 - [【开发者头条】2022-11-20-你可能不知道的-JavaScript-APIs](https://toutiao.io/k/nq5ow3p) 
-- [【开发者头条】2022-11-20-Bigkey-问题的解决思路与方式探索](https://toutiao.io/k/ne5syi3) 
-- [【开发者头条】2022-11-20-Rust-生命周期](https://toutiao.io/k/o8t36hx) 
+- [【开发者头条】2022-11-20-AI编译关键技术-•-高层循环编译优化---不仅仅是分块和合并](https://toutiao.io/k/8votr0x) 
 - [【开发者头条】2022-11-20-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>

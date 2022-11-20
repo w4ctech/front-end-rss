@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-20 01:07:38，:rocket: 更新条数: +2002， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-20 03:06:33，:rocket: 更新条数: +2000， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-11-20-开源了一款-VS-Code-风格的-ePub-阅读器](https://www.v2ex.com/t/896531) ![](assets/new.png)  
+- [2022-11-20-读研是真的读不下去了](https://www.v2ex.com/t/896530) ![](assets/new.png)  
+- [2022-11-20-广州-FTTR-手机宽带套餐如何？](https://www.v2ex.com/t/896529) ![](assets/new.png)  
+- [2022-11-20-13-年大厂后端和客户端开发经验需要找一份远程靠谱-C++开发工作](https://www.v2ex.com/t/896527) ![](assets/new.png)  
+- [2022-11-20-听说它火了](https://www.v2ex.com/t/896526) ![](assets/new.png)  
+- [2022-11-20-关于-nginx-做-tcp-反代的域名解析设置](https://www.v2ex.com/t/896523) ![](assets/new.png)  
 - [2022-11-20-Surge-iOS-三人车，-135/人](https://www.v2ex.com/t/896519) ![](assets/new.png)  
 - [2022-11-20-macbookair2019-版的触控板突然按不动了，之前单击或点击触摸板明显有段落的回弹感，现在按不下去，但是选字、滑动、缩放等操作都是正常的](https://www.v2ex.com/t/896518) ![](assets/new.png)  
 - [2022-11-20-Surge-Mac-五人车，-143/人](https://www.v2ex.com/t/896517) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-11-19-刚更新了-win11，难顶](https://www.v2ex.com/t/896506) ![](assets/new.png)  
 - [2022-11-19-更新-macOS-13-后-无像无法睡眠了](https://www.v2ex.com/t/896505) ![](assets/new.png)  
 - [2022-11-19-请问-macbook-插电源，-iPhone-插-mac-充电有什么问题吗？以及-m2-mba-好像不能把系统装在外置硬盘了？](https://www.v2ex.com/t/896502) ![](assets/new.png)  
-- [2022-11-19-求推荐个-MacBook-用的有线耳机](https://www.v2ex.com/t/896501) ![](assets/new.png)  
-- [2022-11-19-全职远程目前还需要一位-flutter-移动端开发、中高级运维、IOS-构架、中高级-golang、安全测试](https://www.v2ex.com/t/896500) ![](assets/new.png)  
-- [2022-11-19-「讨论」程序员如何做好一个副业呢？](https://www.v2ex.com/t/896499) ![](assets/new.png)  
-- [2022-11-19-宿主机固态硬盘与-hyper-v-虚拟机相比，-4k-读写速度相差很大](https://www.v2ex.com/t/896498) ![](assets/new.png)  
-- [2022-11-19-求助！网站打不开，提示-Error-405？](https://www.v2ex.com/t/896497) ![](assets/new.png)  
-- [2022-11-19-切换地区后已经安装的软件也无法更新了？](https://www.v2ex.com/t/896496) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -543,13 +543,14 @@
 </summary>
 
 
-- [2022-11-20-重磅出击，20-张图带你彻底了解-ReentrantLock-加锁解锁的原理](https://toutiao.io/k/jyfkfs8) ![](assets/new.png)  
 - [2022-11-20-万字图文讲透数据库缓存一致性问题](https://toutiao.io/k/1exlsmh) ![](assets/new.png)  
+- [2022-11-20-重磅出击，20-张图带你彻底了解-ReentrantLock-加锁解锁的原理](https://toutiao.io/k/jyfkfs8) ![](assets/new.png)  
 - [2022-11-20-我画了-42-张图爆肝-Nacos-源码，跟着看一遍保证大家都学废了](https://toutiao.io/k/6s1twtt) ![](assets/new.png)  
+- [2022-11-20-Rust-生命周期](https://toutiao.io/k/o8t36hx) ![](assets/new.png)  
+- [2022-11-20-Bigkey-问题的解决思路与方式探索](https://toutiao.io/k/ne5syi3) ![](assets/new.png)  
 - [2022-11-20-独立开发变现周刊（第-80-期）：Notion-页面转成网站客服小部件，月收入-5K-美金](https://toutiao.io/k/72jynd0) ![](assets/new.png)  
 - [2022-11-20-你可能不知道的-JavaScript-APIs](https://toutiao.io/k/nq5ow3p) ![](assets/new.png)  
-- [2022-11-20-Bigkey-问题的解决思路与方式探索](https://toutiao.io/k/ne5syi3) ![](assets/new.png)  
-- [2022-11-20-Rust-生命周期](https://toutiao.io/k/o8t36hx) ![](assets/new.png)  
+- [2022-11-20-AI编译关键技术-•-高层循环编译优化---不仅仅是分块和合并](https://toutiao.io/k/8votr0x) ![](assets/new.png)  
 - [2022-11-20-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

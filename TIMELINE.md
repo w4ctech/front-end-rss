@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-20 11:10:11。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-20 11:35:15。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,8 +68,13 @@
 </summary>
 
 
+- [【张鑫旭-鑫空间-鑫生活】2022-11-20-JS之我用单img元素实现了图像resize拉伸效果](https://www.zhangxinxu.com/wordpress/2022/11/js-image-resize/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-20-隐订阅-yinrss-是哪个站友的,证书过期了..](https://www.v2ex.com/t/896622) 
+- [【V2EX】2022-11-20-正在读专硕，-CV-方向导师明示不用发论文，毕业的话该何去何从？](https://www.v2ex.com/t/896620) 
+- [【V2EX】2022-11-20-晒伤后如何抢救！](https://www.v2ex.com/t/896618) 
+- [【V2EX】2022-11-20-求推荐-iOS-上你感觉最适合的阅读-app，最好是美区-ID-可以下载的](https://www.v2ex.com/t/896617) 
 - [【V2EX】2022-11-20-移动做的真的绝，直接屏蔽到-HK-Cloudflare-IP](https://www.v2ex.com/t/896616) 
 - [【V2EX】2022-11-20-送码-抠图猫-macOS-和-iOS-版本送码啦！](https://www.v2ex.com/t/896615) 
 - [【V2EX】2022-11-20-Edge-浏览器稳定性是真的不行](https://www.v2ex.com/t/896614) 
@@ -102,10 +107,6 @@
 - [【V2EX】2022-11-20-想在-pdd-上买个-5700xt，有无靠谱推荐](https://www.v2ex.com/t/896576) 
 - [【V2EX】2022-11-20-7-年前端公开求职，-9000-字长文（web3-&-remote）](https://www.v2ex.com/t/896575) 
 - [【V2EX】2022-11-20-Apple-TV-4k-二代和三代的-Siri-Remote-手感简直太爽了，每天老是忍不住握在手里摸几下](https://www.v2ex.com/t/896573) 
-- [【V2EX】2022-11-20-TypeScript-实验：-withtyped---类型安全的零依赖-RESTful-全栈框架，写-API-自动推导客户端类型并生成-OpenAPI-接口](https://www.v2ex.com/t/896571) 
-- [【V2EX】2022-11-20-哪个品牌的水管好?](https://www.v2ex.com/t/896570) 
-- [【V2EX】2022-11-20-Tokendance2022-我们要举办线下活动啦！](https://www.v2ex.com/t/896568) 
-- [【V2EX】2022-11-20-iOS-通讯录突然没了，有-V-友遇到过吗？](https://www.v2ex.com/t/896567) 
 - [【技术头条】2022-11-20-敏捷团队的质量保障赋能-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15410&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fquality-assurance-enablement-in-agile-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-20-团队的Code-Review实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15409&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-code-review%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-20-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -154,7 +155,6 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-09-26-介绍2022最期待且已正式支持的CSS-container容器查询](https://www.zhangxinxu.com/wordpress/2022/09/css-container-rule/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
-- [【张鑫旭-鑫空间-鑫生活】2022-09-19-聊聊:autofill和autocomplete自动填充](https://www.zhangxinxu.com/wordpress/2022/09/css-autofill-html-autocomplete-off/) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

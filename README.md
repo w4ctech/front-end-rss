@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-20 08:41:44，:rocket: 更新条数: +2001， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-20 09:12:04，:rocket: 更新条数: +2000， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-11-20-是否可以一个光猫里面做两个电信账号的宽带？](https://www.v2ex.com/t/896597) ![](assets/new.png)  
 - [2022-11-20-用一个自研的编程语言能做什么？系列文章-1-KCL---让-Kubernetes-资源清单管理更容易](https://www.v2ex.com/t/896593) ![](assets/new.png)  
 - [2022-11-20-FTX-暴雷，我在一周内损失-17W](https://www.v2ex.com/t/896592) ![](assets/new.png)  
 - [2022-11-20-自用上了-Nas-的-Time-Machine，这系统备份任务就没闲过！](https://www.v2ex.com/t/896591) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-11-20-哪个品牌的水管好?](https://www.v2ex.com/t/896570) ![](assets/new.png)  
 - [2022-11-20-Tokendance2022-我们要举办线下活动啦！](https://www.v2ex.com/t/896568) ![](assets/new.png)  
 - [2022-11-20-iOS-通讯录突然没了，有-V-友遇到过吗？](https://www.v2ex.com/t/896567) ![](assets/new.png)  
-- [2022-11-20-2022-卡塔尔世界杯分组+网络观看地址](https://www.v2ex.com/t/896566) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

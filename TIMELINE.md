@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-20 08:41:44。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-20 09:12:04。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,7 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-20-是否可以一个光猫里面做两个电信账号的宽带？](https://www.v2ex.com/t/896597) 
 - [【V2EX】2022-11-20-用一个自研的编程语言能做什么？系列文章-1-KCL---让-Kubernetes-资源清单管理更容易](https://www.v2ex.com/t/896593) 
 - [【V2EX】2022-11-20-FTX-暴雷，我在一周内损失-17W](https://www.v2ex.com/t/896592) 
 - [【V2EX】2022-11-20-自用上了-Nas-的-Time-Machine，这系统备份任务就没闲过！](https://www.v2ex.com/t/896591) 
@@ -102,8 +103,6 @@
 - [【V2EX】2022-11-20-Publii-:一款功能强大的静态博客-CMS](https://www.v2ex.com/t/896552) 
 - [【V2EX】2022-11-20-用-frp-做内网穿透，经常有陌生的-IP-出现，是啥情况？](https://www.v2ex.com/t/896551) 
 - [【V2EX】2022-11-20-MacBook-和-iPad-Pro-如何确保色准一样？](https://www.v2ex.com/t/896548) 
-- [【V2EX】2022-11-20-二本毕业生东软云科技运维-offer，要不要润？](https://www.v2ex.com/t/896547) 
-- [【V2EX】2022-11-20-如何正确配置-IPv6](https://www.v2ex.com/t/896544) 
 - [【技术头条】2022-11-20-敏捷团队的质量保障赋能-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15410&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fquality-assurance-enablement-in-agile-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-20-团队的Code-Review实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15409&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-code-review%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-20-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

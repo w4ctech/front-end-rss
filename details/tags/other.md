@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-20 14:10:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-20 14:36:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1916,6 +1916,9 @@
 - [2022-10-20-告别pointer-events:none使用HTML-inert属性真正禁用](https://www.zhangxinxu.com/wordpress/2022/10/html-inert-disabled-attribute/) 
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
+- [2022-11-20-区块链开发需要掌握什么语言?-学习什么技术?](https://www.v2ex.com/t/896662) 
+- [2022-11-20-又来捞人了...](https://www.v2ex.com/t/896661) 
+- [2022-11-20-公司做了个-APP,蹭世界杯热点但是没软著怎么上抖音推广?](https://www.v2ex.com/t/896660) 
 - [2022-11-20-IP-地址被-403，麻烦站长处理一下](https://www.v2ex.com/t/896659) 
 - [2022-11-20-这个返厂进度是合理的嘛,杭州授权店返厂的，授权店说查不了进度，还得自己打-400-报序列号查维修进度](https://www.v2ex.com/t/896658) 
 - [2022-11-20-Youtube-个人会员可以直接转为家庭方案吗？](https://www.v2ex.com/t/896655) 
@@ -1945,9 +1948,6 @@
 - [2022-11-20-求推荐-iOS-上你感觉最适合的阅读-app，最好是美区-ID-可以下载的](https://www.v2ex.com/t/896617) 
 - [2022-11-20-移动做的真的绝，直接屏蔽到-HK-Cloudflare-IP](https://www.v2ex.com/t/896616) 
 - [2022-11-20-送码-抠图猫-macOS-和-iOS-版本送码啦！](https://www.v2ex.com/t/896615) 
-- [2022-11-20-iOS-相册如何彻底关闭人物识别](https://www.v2ex.com/t/896612) 
-- [2022-11-20-如果不想子女卷高考这条路独木舟，性价比比较高的出国留学有哪些呢。](https://www.v2ex.com/t/896611) 
-- [2022-11-20-iPhone-通过-samba-共享给-windows-传文件，为什么每过一段时间-iPhone-上要重新输一次访问-win-的用户和密码？可以长时间保持登陆状态吗？](https://www.v2ex.com/t/896610) 
 - [2022-11-20-敏捷团队的质量保障赋能-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15410&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fquality-assurance-enablement-in-agile-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-20-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-20-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

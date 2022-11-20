@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-20 15:12:30。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-20 15:38:42。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -71,6 +71,8 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-11-20-JS之我用单img元素实现了图像resize拉伸效果](https://www.zhangxinxu.com/wordpress/2022/11/js-image-resize/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-20-20221120-午夜俱乐部](https://www.v2ex.com/t/896668) 
+- [【V2EX】2022-11-20-对使用落地-IP-识别为为-Warp-的代理节点无法开启-ECH，而裸连-Warp-却可以开启-ECH-衍生而来的对开启-ECH-的前置条件的疑惑](https://www.v2ex.com/t/896667) 
 - [【V2EX】2022-11-20-airpods-pro2-充电盒弹窗电量和电池小组件电量不一致](https://www.v2ex.com/t/896666) 
 - [【V2EX】2022-11-20-buyvm-成功购买后还会审核吗？](https://www.v2ex.com/t/896664) 
 - [【V2EX】2022-11-20-关于批量存储掉照片问题](https://www.v2ex.com/t/896663) 
@@ -107,8 +109,6 @@
 - [【V2EX】2022-11-20-记一次光猫-bug](https://www.v2ex.com/t/896623) 
 - [【V2EX】2022-11-20-隐订阅-yinrss-是哪个站友的,证书过期了..](https://www.v2ex.com/t/896622) 
 - [【V2EX】2022-11-20-正在读专硕，-CV-方向导师明示不用发论文，毕业的话该何去何从？](https://www.v2ex.com/t/896620) 
-- [【V2EX】2022-11-20-晒伤后如何抢救！](https://www.v2ex.com/t/896618) 
-- [【V2EX】2022-11-20-求推荐-iOS-上你感觉最适合的阅读-app，最好是美区-ID-可以下载的](https://www.v2ex.com/t/896617) 
 - [【技术头条】2022-11-20-敏捷团队的质量保障赋能-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15410&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fquality-assurance-enablement-in-agile-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-20-团队的Code-Review实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15409&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-code-review%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-20-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

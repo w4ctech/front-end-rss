@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-20 04:21:34，:rocket: 更新条数: +2001， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-20 04:45:53，:rocket: 更新条数: +1999， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-11-20-MacBook-和-iPad-Pro-如何确保色准一样？](https://www.v2ex.com/t/896548) ![](assets/new.png)  
+- [2022-11-20-二本毕业生东软云科技运维-offer，要不要润？](https://www.v2ex.com/t/896547) ![](assets/new.png)  
+- [2022-11-20-microsoft/office-365-家庭版订阅拼车，-46.5-元/15-个月](https://www.v2ex.com/t/896545) ![](assets/new.png)  
+- [2022-11-20-如何正确配置-IPv6](https://www.v2ex.com/t/896544) ![](assets/new.png)  
 - [2022-11-20-求看世界杯的正确姿势](https://www.v2ex.com/t/896540) ![](assets/new.png)  
 - [2022-11-20-MF839-Monterey-更换固态求推荐](https://www.v2ex.com/t/896538) ![](assets/new.png)  
 - [2022-11-20-想入个-Steam-Deck，求打醒。](https://www.v2ex.com/t/896537) ![](assets/new.png)  
@@ -505,12 +509,8 @@
 - [2022-11-20-13-年大厂后端和客户端开发经验需要找一份远程靠谱-C++开发工作](https://www.v2ex.com/t/896527) ![](assets/new.png)  
 - [2022-11-20-听说它火了](https://www.v2ex.com/t/896526) ![](assets/new.png)  
 - [2022-11-20-关于-nginx-做-tcp-反代的域名解析设置](https://www.v2ex.com/t/896523) ![](assets/new.png)  
-- [2022-11-20-Surge-iOS-三人车，-135/人](https://www.v2ex.com/t/896519) ![](assets/new.png)  
 - [2022-11-20-macbookair2019-版的触控板突然按不动了，之前单击或点击触摸板明显有段落的回弹感，现在按不下去，但是选字、滑动、缩放等操作都是正常的](https://www.v2ex.com/t/896518) ![](assets/new.png)  
 - [2022-11-20-Surge-Mac-五人车，-143/人](https://www.v2ex.com/t/896517) ![](assets/new.png)  
-- [2022-11-20-目前的远程工作,-什么技术方向岗位比较多?](https://www.v2ex.com/t/896516) ![](assets/new.png)  
-- [2022-11-19--=>-X-vs-=>-{-return-X-}](https://www.v2ex.com/t/896514) ![](assets/new.png)  
-- [2022-11-19-有-IPv4-公网，还需要开通-IPv6-吗？会有什么兼容问题吗？](https://www.v2ex.com/t/896513) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

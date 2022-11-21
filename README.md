@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-21 01:05:14，:rocket: 更新条数: +2002， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-21 03:03:40，:rocket: 更新条数: +2011， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,26 +491,26 @@
 </summary>
 
 
-- [2022-11-21-今早闹钟没响引发了我对闹钟的信任危机](https://www.v2ex.com/t/896693) ![](assets/new.png)  
-- [2022-11-21-寻可以赴小日本工作的设计师](https://www.v2ex.com/t/896692) ![](assets/new.png)  
-- [2022-11-21-卡诺基-2060s-涨价了，不是说矿难了吗](https://www.v2ex.com/t/896691) ![](assets/new.png)  
-- [2022-11-21-V-友做我的产品经理，我做了一个专门为开发者打造的实体硬件通知终端-HackDock](https://www.v2ex.com/t/896690) ![](assets/new.png)  
-- [2022-11-21-做了一个快速（300M+）、不贵（$1/TB）的文件下载分发服务](https://www.v2ex.com/t/896688) ![](assets/new.png)  
-- [2022-11-21-Ventura-可以放心升级了吗？还有没有其他坑？](https://www.v2ex.com/t/896687) ![](assets/new.png)  
-- [2022-11-20-朋友太能说怎么办](https://www.v2ex.com/t/896686) ![](assets/new.png)  
-- [2022-11-20-14-寸笔记本推荐](https://www.v2ex.com/t/896685) ![](assets/new.png)  
-- [2022-11-20-分享一个普通码农是如何移民加拿大的](https://www.v2ex.com/t/896684) ![](assets/new.png)  
-- [2022-11-20-想用-K8S-管理-WSL2-的-NV-GPU-资源怎么搞?](https://www.v2ex.com/t/896683) ![](assets/new.png)  
-- [2022-11-20-watching-you---让你的-DOM-能够像眼睛一样关注东西的-JS-简易动画库](https://www.v2ex.com/t/896681) ![](assets/new.png)  
-- [2022-11-20-2022-黑五-有哪些优惠的软件和服务?](https://www.v2ex.com/t/896679) ![](assets/new.png)  
-- [2022-11-20-USB-2.5GRTL8156B速度只有-1.4G](https://www.v2ex.com/t/896674) ![](assets/new.png)  
-- [2022-11-20-给大家推荐一个纯粹的音乐网站，没有干扰，聚合资源，歌曲丰富，听歌方便](https://www.v2ex.com/t/896673) ![](assets/new.png)  
-- [2022-11-20-2022-年快结束了，苹果还是不支持-HDMI-2.1，唉，到底在想啥呢](https://www.v2ex.com/t/896672) ![](assets/new.png)  
-- [2022-11-20-限免-iOS-倒计时提醒](https://www.v2ex.com/t/896671) ![](assets/new.png)  
-- [2022-11-20-求-macOS-和-iPad-OS-的磁链和-BT-下载软件](https://www.v2ex.com/t/896670) ![](assets/new.png)  
-- [2022-11-20-国内使用-openwrt-通过-IPoE-获取运营商-IPTV-机顶盒-IP-指北](https://www.v2ex.com/t/896669) ![](assets/new.png)  
-- [2022-11-20-20221120-午夜俱乐部](https://www.v2ex.com/t/896668) ![](assets/new.png)  
-- [2022-11-20-对使用落地-IP-识别为为-Warp-的代理节点无法开启-ECH，而裸连-Warp-却可以开启-ECH-衍生而来的对开启-ECH-的前置条件的疑惑](https://www.v2ex.com/t/896667) ![](assets/new.png)  
+- [2022-11-21-我的-iPhone-13-和-AirPods-Pro-有点不搭。。](https://www.v2ex.com/t/896728) ![](assets/new.png)  
+- [2022-11-21-60-岁的母亲适合买什么车？落地-15w-以下](https://www.v2ex.com/t/896727) ![](assets/new.png)  
+- [2022-11-21-米哈游的招聘是真实的吗](https://www.v2ex.com/t/896726) ![](assets/new.png)  
+- [2022-11-21-macOS-Monterey-12.6+-有好用的-NTFS-读写-App-吗？](https://www.v2ex.com/t/896725) ![](assets/new.png)  
+- [2022-11-21-Bose-Earbuds-连接-Macbook-自动播放音乐](https://www.v2ex.com/t/896724) ![](assets/new.png)  
+- [2022-11-21-用-frp-搭建代理通过代理连接远程桌面的方式-和-直接将远程桌面端口映射公网的方式，哪种安全？](https://www.v2ex.com/t/896723) ![](assets/new.png)  
+- [2022-11-21-现在买安卓有比较好的推荐嘛，还是要等明年新产品（预算-3k）](https://www.v2ex.com/t/896722) ![](assets/new.png)  
+- [2022-11-21-如何在全站中拥有唯一的个性化头像？](https://www.v2ex.com/t/896721) ![](assets/new.png)  
+- [2022-11-21-13p-的-Face-ID-突然坏掉了](https://www.v2ex.com/t/896717) ![](assets/new.png)  
+- [2022-11-21-观国产操作系统贴有感](https://www.v2ex.com/t/896716) ![](assets/new.png)  
+- [2022-11-21-好用的-Redis、Kafka、ZooKeeper-GUI-工具，-Windows、macOS、-Linux-全平台支持](https://www.v2ex.com/t/896715) ![](assets/new.png)  
+- [2022-11-21-深圳百度国际化寻求高级-Android-研发](https://www.v2ex.com/t/896714) ![](assets/new.png)  
+- [2022-11-21-iOS-16-相册序号归零](https://www.v2ex.com/t/896713) ![](assets/new.png)  
+- [2022-11-21-存在这样的工作吗？](https://www.v2ex.com/t/896711) ![](assets/new.png)  
+- [2022-11-21-红米-K40-能正常打开-Google-Play-以及下载-APP，但是-APP-内点击内购显示无法连接到-Google-Play，怎么解决？](https://www.v2ex.com/t/896710) ![](assets/new.png)  
+- [2022-11-21-早上用淘宝真的被恶心到了](https://www.v2ex.com/t/896709) ![](assets/new.png)  
+- [2022-11-21-有没有世界杯聊天讨论的群组啊，-TG，微信都可以？](https://www.v2ex.com/t/896708) ![](assets/new.png)  
+- [2022-11-21-出租套-1，塔子山公园地铁，-1550](https://www.v2ex.com/t/896706) ![](assets/new.png)  
+- [2022-11-21-想给家里老人华为手机，弄个每天凌晨后台备份照片和微信聊天记录，大家有好的方案么？](https://www.v2ex.com/t/896705) ![](assets/new.png)  
+- [2022-11-21-项目中的专用调试器如何实现？分享一些来自项目中的思考](https://www.v2ex.com/t/896704) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -545,14 +545,19 @@
 
 - [2022-11-21-专项测试系列：缓存击穿、穿透、雪崩专项测试](https://toutiao.io/k/lv6coxq) ![](assets/new.png)  
 - [2022-11-21-万字长文细说-Code-Review-的正确姿势](https://toutiao.io/k/cxf9ver) ![](assets/new.png)  
-- [2022-11-21-深度解读「隐语」密态计算设备-SPU](https://toutiao.io/k/j3jjhen) ![](assets/new.png)  
 - [2022-11-21-分布式系统设计模式，你用过哪些？](https://toutiao.io/k/8eyyeev) ![](assets/new.png)  
-- [2022-11-21-什么时候你第一次读懂了「云技术」？](https://toutiao.io/k/ons4njx) ![](assets/new.png)  
+- [2022-11-21-深度解读「隐语」密态计算设备-SPU](https://toutiao.io/k/j3jjhen) ![](assets/new.png)  
 - [2022-11-21-深入浅出学习透析-Nginx-服务器的基本原理和配置指南（负载均衡篇）](https://toutiao.io/k/kzt04re) ![](assets/new.png)  
+- [2022-11-21-什么时候你第一次读懂了「云技术」？](https://toutiao.io/k/ons4njx) ![](assets/new.png)  
 - [2022-11-21-全新的-React-组件设计理念-Headless-UI](https://toutiao.io/k/r3bxt2g) ![](assets/new.png)  
 - [2022-11-21-万亿数据秒级响应，Apache-Doris-在-360-数科实时数仓中的应用](https://toutiao.io/k/neto82h) ![](assets/new.png)  
 - [2022-11-21-内核调试之-Kdump-的原理及配置](https://toutiao.io/k/7ad9sah) ![](assets/new.png)  
 - [2022-11-21-Hybrid-远程调试的前世今生](https://toutiao.io/k/klufzba) ![](assets/new.png)  
+- [2022-11-21-鹅厂后台大佬教你-Go-内存管理](https://toutiao.io/k/glsxmhr) ![](assets/new.png)  
+- [2022-11-21-Ant-Design-5.0-正式发布](https://toutiao.io/k/71ebrh7) ![](assets/new.png)  
+- [2022-11-21-腾讯会议后台研发效能提升之路](https://toutiao.io/k/ahr34bg) ![](assets/new.png)  
+- [2022-11-21-ACM-MM-&-ECCV-2022-|-美团视觉-8-篇论文揭秘内容领域的智能科技](https://toutiao.io/k/zkgjjqu) ![](assets/new.png)  
+- [2022-11-21-Python-冷知识：如何找出新版本增加或删除了哪些标准库？](https://toutiao.io/k/auojlx3) ![](assets/new.png)  
 - [2022-11-21-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

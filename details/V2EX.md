@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-11-21 19:10:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-21 19:35:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-11-21-蛤？-Edge-浏览器这么智能的吗，背后真相是否令人暖心](https://www.v2ex.com/t/896946) 
 - [2022-11-21-tradingview-黑五](https://www.v2ex.com/t/896945) 
 - [2022-11-21-请问各位安卓用户是从哪里下载-APP-的？](https://www.v2ex.com/t/896944) 
 - [2022-11-21-Plex-终生版折扣开始，有老哥有更优惠的办法吗](https://www.v2ex.com/t/896943) 
@@ -40,4 +41,3 @@
 - [2022-11-21-1Password-8-在-iPad-上无法使用-FaceID-的问题已修复](https://www.v2ex.com/t/896901) 
 - [2022-11-21-求推荐个低配的-NAS-系统](https://www.v2ex.com/t/896900) 
 - [2022-11-21-人在广州，年底了，想家了，北方人](https://www.v2ex.com/t/896897) 
-- [2022-11-21-matebook-e-go-2022，-是兼容性问题还是质量问题](https://www.v2ex.com/t/896896) 

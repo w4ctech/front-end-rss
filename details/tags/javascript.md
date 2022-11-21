@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-20 23:38:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-21 01:05:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -19,5 +19,3 @@
 - [2022-11-20-airpods-pro2-充电盒弹窗电量和电池小组件电量不一致](https://www.v2ex.com/t/896666) 
 - [2022-11-20-想买了个-N5105-路由请问哪个商家比较靠谱？](https://www.v2ex.com/t/896656) 
 - [2022-11-20-要是用路由器在校园网翻墙，会被抓吗?](https://www.v2ex.com/t/896644) 
-- [2022-11-20-一个-JS-变量的问题](https://www.v2ex.com/t/896639) 
-- [2022-11-20-你可能不知道的-JavaScript-APIs](https://toutiao.io/k/nq5ow3p) 

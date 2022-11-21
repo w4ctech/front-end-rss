@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-21 09:13:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-21 09:38:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1916,13 +1916,15 @@
 - [2022-10-20-告别pointer-events:none使用HTML-inert属性真正禁用](https://www.zhangxinxu.com/wordpress/2022/10/html-inert-disabled-attribute/) 
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
+- [2022-11-21-感觉社交值过低，有什么靠谱的志愿者平台吗？](https://www.v2ex.com/t/896856) 
+- [2022-11-21-iOS-总是杀第三方输入法咋办?换手机吗?](https://www.v2ex.com/t/896855) 
+- [2022-11-21-土区礼品卡购买-oyunfor-一直要验证电话](https://www.v2ex.com/t/896852) 
 - [2022-11-21-原创歌曲《下辈子还和你在一起》](https://www.v2ex.com/t/896849) 
 - [2022-11-21-独立产品灵感周刊-DecoHack-#038---纽约市-90-年代的街景长什么样](https://www.v2ex.com/t/896845) 
 - [2022-11-21-Celery+Django-如何动态修改已被接收或已在队列中的任务？](https://www.v2ex.com/t/896844) 
 - [2022-11-21-试用期如何委婉的向老板说-"离职"](https://www.v2ex.com/t/896843) 
 - [2022-11-21-Apple-Watch-自动检测运动，能否自动确认？](https://www.v2ex.com/t/896838) 
 - [2022-11-21-硬盘坏了为啥格式化后还能重新用](https://www.v2ex.com/t/896837) 
-- [2022-11-21-求一个-apple-one-日本的车](https://www.v2ex.com/t/896835) 
 - [2022-11-21-RaiDrive-非盈利版有什么办法上车吗？](https://www.v2ex.com/t/896834) 
 - [2022-11-21-莫名一大堆-facetime-拨入](https://www.v2ex.com/t/896833) 
 - [2022-11-21-你们世界杯在哪里下单](https://www.v2ex.com/t/896832) 
@@ -1939,10 +1941,6 @@
 - [2022-11-21-如何监控家里的网络情况？](https://www.v2ex.com/t/896809) 
 - [2022-11-21-2022-年末了，-Windows-有什么值得推荐的工具类软件？](https://www.v2ex.com/t/896808) 
 - [2022-11-21-最近在吃红景天，有了解的朋友吗？](https://www.v2ex.com/t/896807) 
-- [2022-11-21-0x02-kustz-从一个简单的-Deployment-开始](https://www.v2ex.com/t/896805) 
-- [2022-11-21-杭州转塘家园一室一厨一卫一阳台总计-30-平转租💰2200](https://www.v2ex.com/t/896803) 
-- [2022-11-21-移动宽带分配的出网-IP-能-ping-通，怎么根据这个-IP-访问到家里的设备](https://www.v2ex.com/t/896802) 
-- [2022-11-21-Windows-系统有没有类似飞书多维表格的离线数据管理软件？](https://www.v2ex.com/t/896800) 
 - [2022-11-21-敏捷团队的质量保障赋能-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15410&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fquality-assurance-enablement-in-agile-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-21-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-21-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

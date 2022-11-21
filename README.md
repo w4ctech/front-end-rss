@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-21 15:14:03，:rocket: 更新条数: +2007， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-21 15:40:47，:rocket: 更新条数: +2006， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-11-21-youtube-新的播放页面真让人抓狂](https://www.v2ex.com/t/896936) ![](assets/new.png)  
+- [2022-11-21-2.2.-kustz-定义字符串创建-Service](https://www.v2ex.com/t/896935) ![](assets/new.png)  
+- [2022-11-21-在设计表的时候，库存表和商品表是推荐库存是放到-sku-字段里，还是单独拆两个表呢-？](https://www.v2ex.com/t/896932) ![](assets/new.png)  
 - [2022-11-21-软福利-keychron-v4-键盘用户请进](https://www.v2ex.com/t/896931) ![](assets/new.png)  
 - [2022-11-21-ios-怎么关闭通知推送的震动,-但是保留打进来电话的震动啊](https://www.v2ex.com/t/896930) ![](assets/new.png)  
 - [2022-11-21-市面有哪些好用的-AI-智能回复平台？](https://www.v2ex.com/t/896929) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-11-21-大家能帮我看看我的简历有什么问题吗?-为什么投了好几个月了也没人表示愿意雇佣我?](https://www.v2ex.com/t/896911) ![](assets/new.png)  
 - [2022-11-21-magsafe-的原理是啥？为啥二三十的手机壳也能有动画？](https://www.v2ex.com/t/896910) ![](assets/new.png)  
 - [2022-11-21-有在数字化转型里开发过的老哥们吗？想问下平时都是写的什么方面的代码](https://www.v2ex.com/t/896907) ![](assets/new.png)  
-- [2022-11-21-请大家推荐一款-mac-上最好的-chm-阅读器（付费也没事）](https://www.v2ex.com/t/896906) ![](assets/new.png)  
-- [2022-11-21-有人在线吗？请教个问题](https://www.v2ex.com/t/896904) ![](assets/new.png)  
-- [2022-11-21-有没有这样的软件：记录家里有哪些菜、我经常吃的食谱、做一道菜自动减去菜的库存、定期提醒要购买缺少的菜](https://www.v2ex.com/t/896903) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -550,8 +550,8 @@
 - [2022-11-21-深入浅出学习透析-Nginx-服务器的基本原理和配置指南（负载均衡篇）](https://toutiao.io/k/kzt04re) ![](assets/new.png)  
 - [2022-11-21-万亿数据秒级响应，Apache-Doris-在-360-数科实时数仓中的应用](https://toutiao.io/k/neto82h) ![](assets/new.png)  
 - [2022-11-21-什么时候你第一次读懂了「云技术」？](https://toutiao.io/k/ons4njx) ![](assets/new.png)  
-- [2022-11-21-深度解读「隐语」密态计算设备-SPU](https://toutiao.io/k/j3jjhen) ![](assets/new.png)  
 - [2022-11-21-腾讯会议后台研发效能提升之路](https://toutiao.io/k/ahr34bg) ![](assets/new.png)  
+- [2022-11-21-深度解读「隐语」密态计算设备-SPU](https://toutiao.io/k/j3jjhen) ![](assets/new.png)  
 - [2022-11-21-全新的-React-组件设计理念-Headless-UI](https://toutiao.io/k/r3bxt2g) ![](assets/new.png)  
 - [2022-11-21-ACM-MM-&-ECCV-2022-|-美团视觉-8-篇论文揭秘内容领域的智能科技](https://toutiao.io/k/zkgjjqu) ![](assets/new.png)  
 - [2022-11-21-内核调试之-Kdump-的原理及配置](https://toutiao.io/k/7ad9sah) ![](assets/new.png)  

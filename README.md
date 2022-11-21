@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-21 16:17:40，:rocket: 更新条数: +2007， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-21 16:53:58，:rocket: 更新条数: +2007， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-11-21-咨询一下-V-友们都在用什么路由器？](https://www.v2ex.com/t/896942) ![](assets/new.png)  
+- [2022-11-21-dnf-安装-rpm-包时怎么同步接受-gpgkey-呢？](https://www.v2ex.com/t/896941) ![](assets/new.png)  
 - [2022-11-21-Bundlehunt-黑五优惠有人一起拼包吗](https://www.v2ex.com/t/896939) ![](assets/new.png)  
 - [2022-11-21-emmet2-mode，强化-Emmet，提升前端编码效率](https://www.v2ex.com/t/896938) ![](assets/new.png)  
 - [2022-11-21-Magician-Route-发布啦，去除反射，性能得到有效提升](https://www.v2ex.com/t/896937) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-11-21-国企搞什么岗位双向选择是不是就说明要变相裁员了？](https://www.v2ex.com/t/896921) ![](assets/new.png)  
 - [2022-11-21-接上一个帖子，起诉中国联通诉状书已经提交，可是还是太慢了，还有其他的渠道吗。](https://www.v2ex.com/t/896920) ![](assets/new.png)  
 - [2022-11-21-有没有那种一个网页可以显示自己制定文件夹里的电视剧的，点击播放是比如说-PotPlayer-的，然后又可以帮你记住看到哪的，嗯，在网页中的显示的。](https://www.v2ex.com/t/896919) ![](assets/new.png)  
-- [2022-11-21-windows-最近经常突然卡住黑屏，有什么排查的方法么](https://www.v2ex.com/t/896917) ![](assets/new.png)  
-- [2022-11-21-tiktok-直播-推流-灵异事件](https://www.v2ex.com/t/896916) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

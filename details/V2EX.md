@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2022-11-21 16:17:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-21 16:53:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-11-21-咨询一下-V-友们都在用什么路由器？](https://www.v2ex.com/t/896942) 
+- [2022-11-21-dnf-安装-rpm-包时怎么同步接受-gpgkey-呢？](https://www.v2ex.com/t/896941) 
 - [2022-11-21-Bundlehunt-黑五优惠有人一起拼包吗](https://www.v2ex.com/t/896939) 
 - [2022-11-21-emmet2-mode，强化-Emmet，提升前端编码效率](https://www.v2ex.com/t/896938) 
 - [2022-11-21-Magician-Route-发布啦，去除反射，性能得到有效提升](https://www.v2ex.com/t/896937) 
@@ -38,5 +40,3 @@
 - [2022-11-21-matebook-e-go-2022，-是兼容性问题还是质量问题](https://www.v2ex.com/t/896896) 
 - [2022-11-21-Markdown-博客元数据格式问题](https://www.v2ex.com/t/896894) 
 - [2022-11-21-HTTP-协议-HEAD-请求，会有查询字符串吗？](https://www.v2ex.com/t/896893) 
-- [2022-11-21-語音文件轉文字的-Mac-app（限免-10-位）](https://www.v2ex.com/t/896892) 
-- [2022-11-21-K8s-高可用数据持久化方案](https://www.v2ex.com/t/896891) 

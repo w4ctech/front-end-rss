@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-21 16:17:40。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-21 16:53:58。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -71,6 +71,8 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-11-20-JS之我用单img元素实现了图像resize拉伸效果](https://www.zhangxinxu.com/wordpress/2022/11/js-image-resize/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-21-咨询一下-V-友们都在用什么路由器？](https://www.v2ex.com/t/896942) 
+- [【V2EX】2022-11-21-dnf-安装-rpm-包时怎么同步接受-gpgkey-呢？](https://www.v2ex.com/t/896941) 
 - [【V2EX】2022-11-21-Bundlehunt-黑五优惠有人一起拼包吗](https://www.v2ex.com/t/896939) 
 - [【V2EX】2022-11-21-emmet2-mode，强化-Emmet，提升前端编码效率](https://www.v2ex.com/t/896938) 
 - [【V2EX】2022-11-21-Magician-Route-发布啦，去除反射，性能得到有效提升](https://www.v2ex.com/t/896937) 
@@ -104,8 +106,6 @@
 - [【V2EX】2022-11-21-matebook-e-go-2022，-是兼容性问题还是质量问题](https://www.v2ex.com/t/896896) 
 - [【V2EX】2022-11-21-Markdown-博客元数据格式问题](https://www.v2ex.com/t/896894) 
 - [【V2EX】2022-11-21-HTTP-协议-HEAD-请求，会有查询字符串吗？](https://www.v2ex.com/t/896893) 
-- [【V2EX】2022-11-21-語音文件轉文字的-Mac-app（限免-10-位）](https://www.v2ex.com/t/896892) 
-- [【V2EX】2022-11-21-K8s-高可用数据持久化方案](https://www.v2ex.com/t/896891) 
 - [【技术头条】2022-11-21-敏捷团队的质量保障赋能-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15410&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fquality-assurance-enablement-in-agile-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-21-团队的Code-Review实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15409&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-code-review%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-21-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

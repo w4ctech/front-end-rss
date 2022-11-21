@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-21 07:12:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-21 07:36:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1916,6 +1916,14 @@
 - [2022-10-20-告别pointer-events:none使用HTML-inert属性真正禁用](https://www.zhangxinxu.com/wordpress/2022/10/html-inert-disabled-attribute/) 
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
+- [2022-11-21-关于前段时间听大家讨论机场的疑问](https://www.v2ex.com/t/896812) 
+- [2022-11-21-写小说副业经验分享和吐槽](https://www.v2ex.com/t/896811) 
+- [2022-11-21-云计算-openstack](https://www.v2ex.com/t/896810) 
+- [2022-11-21-如何监控家里的网络情况？](https://www.v2ex.com/t/896809) 
+- [2022-11-21-2022-年末了，-Windows-有什么值得推荐的工具类软件？](https://www.v2ex.com/t/896808) 
+- [2022-11-21-最近在吃红景天，有了解的朋友吗？](https://www.v2ex.com/t/896807) 
+- [2022-11-21-0x02-kustz-从一个简单的-Deployment-开始](https://www.v2ex.com/t/896805) 
+- [2022-11-21-杭州转塘家园一室一厨一卫一阳台总计-30-平转租💰2200](https://www.v2ex.com/t/896803) 
 - [2022-11-21-移动宽带分配的出网-IP-能-ping-通，怎么根据这个-IP-访问到家里的设备](https://www.v2ex.com/t/896802) 
 - [2022-11-21-Windows-系统有没有类似飞书多维表格的离线数据管理软件？](https://www.v2ex.com/t/896800) 
 - [2022-11-21-上海闵行一室户，-10-号线紫藤路附近，步行-10-分钟到地铁站](https://www.v2ex.com/t/896797) 
@@ -1935,10 +1943,6 @@
 - [2022-11-21-出一个-iphone12-红色-128G，国行，个人自用手机，电池健康-83-2020-年-10-月购于官网](https://www.v2ex.com/t/896771) 
 - [2022-11-21-国内有类似-novelai-的产品吗？](https://www.v2ex.com/t/896770) 
 - [2022-11-21-最近电信是出国线路拥塞，还是搞墙中墙了](https://www.v2ex.com/t/896767) 
-- [2022-11-21-快年底了，工作以来第一次调薪，大家帮忙参考参考我这个情况要多少合适？](https://www.v2ex.com/t/896764) 
-- [2022-11-21-请问在欧美或英语好的老哥，「我了解前端工程化」用英语怎么表达？](https://www.v2ex.com/t/896759) 
-- [2022-11-21-怎样的程度才是-ajax、ts-的最好封装状态](https://www.v2ex.com/t/896756) 
-- [2022-11-21-今年黑五有什么值得买的-VPS-吗？](https://www.v2ex.com/t/896753) 
 - [2022-11-21-敏捷团队的质量保障赋能-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15410&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fquality-assurance-enablement-in-agile-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-21-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-21-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

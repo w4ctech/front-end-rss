@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-11-21 07:12:26。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-21 07:36:24。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -275,8 +275,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】腺病毒新冠疫苗引安全忧虑-康希诺称未发现血栓病例](https://m.caixin.com/m/2021-04-14/101691086.html)
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
-- [【V2EX】一个非常奇怪的问题，-supervisord-启动的用-aiohttp-发请求的爬虫同时发-10-万请求的情况下有大约-30%的请求会无法解析域名，而在-bash-中手动运行则没有这个问...](https://www.v2ex.com/t/896755)
-- [【V2EX】你们的服务请求比是多少？](https://www.v2ex.com/t/896754)
+- [【V2EX】chrome-插件调用下载时弹窗被遮住](https://www.v2ex.com/t/896814)
 - [【技术头条】团队的Code-Review实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15409&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-code-review%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】万字长文细说-Code-Review-的正确姿势](https://toutiao.io/k/cxf9ver)
 - [【开发者头条】专项测试系列：缓存击穿、穿透、雪崩专项测试](https://toutiao.io/k/lv6coxq)
@@ -298,6 +297,7 @@
 
 
 
+- [【V2EX】已开源，一起敲木鱼、积功德-https://github.com/caidukai/mp-muyu](https://www.v2ex.com/t/896806)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

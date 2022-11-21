@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-21 03:03:40，:rocket: 更新条数: +2011， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-21 04:01:24，:rocket: 更新条数: +2008， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,26 +491,26 @@
 </summary>
 
 
+- [2022-11-21-搞嵌入式，想了解一下硬件相关的知识，求推荐一下教材。](https://www.v2ex.com/t/896751) ![](assets/new.png)  
+- [2022-11-21-推荐一下，-Mac-下面窗口管理-yabai-，类似-Linux-的-i3](https://www.v2ex.com/t/896750) ![](assets/new.png)  
+- [2022-11-21-给戴尔整笑了](https://www.v2ex.com/t/896749) ![](assets/new.png)  
+- [2022-11-21-请教个-ELK-中,-logstash-根据不同主机的-`tags`-来指定索引的问题](https://www.v2ex.com/t/896746) ![](assets/new.png)  
+- [2022-11-21-前端学习后端，语言选择](https://www.v2ex.com/t/896745) ![](assets/new.png)  
+- [2022-11-21-想知道大家的常用浏览器](https://www.v2ex.com/t/896743) ![](assets/new.png)  
+- [2022-11-21-有没有办法在-iPhone-上实现类似-Time-Machine-的功能](https://www.v2ex.com/t/896741) ![](assets/new.png)  
+- [2022-11-21-求推荐提供-gpu-计算租赁的平台](https://www.v2ex.com/t/896737) ![](assets/new.png)  
+- [2022-11-21-第一次关注到工资怎么结算](https://www.v2ex.com/t/896736) ![](assets/new.png)  
+- [2022-11-21-webdock.io-免费-1-年的-VPS-芬兰+美国区](https://www.v2ex.com/t/896734) ![](assets/new.png)  
+- [2022-11-21-听说-HK-上下对等很久了，个别地区也推出了-3000-下-1000-上的带宽，请问你那边的大宽带网是哪家还有费用是怎样子的呢？](https://www.v2ex.com/t/896733) ![](assets/new.png)  
+- [2022-11-21-求推荐价格质优价廉的-ac+ap](https://www.v2ex.com/t/896732) ![](assets/new.png)  
+- [2022-11-21-jupyter-notebook-内置环境变量问题](https://www.v2ex.com/t/896731) ![](assets/new.png)  
+- [2022-11-21-求推荐深圳南山福田定做蛋糕的店](https://www.v2ex.com/t/896730) ![](assets/new.png)  
 - [2022-11-21-我的-iPhone-13-和-AirPods-Pro-有点不搭。。](https://www.v2ex.com/t/896728) ![](assets/new.png)  
 - [2022-11-21-60-岁的母亲适合买什么车？落地-15w-以下](https://www.v2ex.com/t/896727) ![](assets/new.png)  
 - [2022-11-21-米哈游的招聘是真实的吗](https://www.v2ex.com/t/896726) ![](assets/new.png)  
 - [2022-11-21-macOS-Monterey-12.6+-有好用的-NTFS-读写-App-吗？](https://www.v2ex.com/t/896725) ![](assets/new.png)  
 - [2022-11-21-Bose-Earbuds-连接-Macbook-自动播放音乐](https://www.v2ex.com/t/896724) ![](assets/new.png)  
 - [2022-11-21-用-frp-搭建代理通过代理连接远程桌面的方式-和-直接将远程桌面端口映射公网的方式，哪种安全？](https://www.v2ex.com/t/896723) ![](assets/new.png)  
-- [2022-11-21-现在买安卓有比较好的推荐嘛，还是要等明年新产品（预算-3k）](https://www.v2ex.com/t/896722) ![](assets/new.png)  
-- [2022-11-21-如何在全站中拥有唯一的个性化头像？](https://www.v2ex.com/t/896721) ![](assets/new.png)  
-- [2022-11-21-13p-的-Face-ID-突然坏掉了](https://www.v2ex.com/t/896717) ![](assets/new.png)  
-- [2022-11-21-观国产操作系统贴有感](https://www.v2ex.com/t/896716) ![](assets/new.png)  
-- [2022-11-21-好用的-Redis、Kafka、ZooKeeper-GUI-工具，-Windows、macOS、-Linux-全平台支持](https://www.v2ex.com/t/896715) ![](assets/new.png)  
-- [2022-11-21-深圳百度国际化寻求高级-Android-研发](https://www.v2ex.com/t/896714) ![](assets/new.png)  
-- [2022-11-21-iOS-16-相册序号归零](https://www.v2ex.com/t/896713) ![](assets/new.png)  
-- [2022-11-21-存在这样的工作吗？](https://www.v2ex.com/t/896711) ![](assets/new.png)  
-- [2022-11-21-红米-K40-能正常打开-Google-Play-以及下载-APP，但是-APP-内点击内购显示无法连接到-Google-Play，怎么解决？](https://www.v2ex.com/t/896710) ![](assets/new.png)  
-- [2022-11-21-早上用淘宝真的被恶心到了](https://www.v2ex.com/t/896709) ![](assets/new.png)  
-- [2022-11-21-有没有世界杯聊天讨论的群组啊，-TG，微信都可以？](https://www.v2ex.com/t/896708) ![](assets/new.png)  
-- [2022-11-21-出租套-1，塔子山公园地铁，-1550](https://www.v2ex.com/t/896706) ![](assets/new.png)  
-- [2022-11-21-想给家里老人华为手机，弄个每天凌晨后台备份照片和微信聊天记录，大家有好的方案么？](https://www.v2ex.com/t/896705) ![](assets/new.png)  
-- [2022-11-21-项目中的专用调试器如何实现？分享一些来自项目中的思考](https://www.v2ex.com/t/896704) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -551,11 +551,11 @@
 - [2022-11-21-什么时候你第一次读懂了「云技术」？](https://toutiao.io/k/ons4njx) ![](assets/new.png)  
 - [2022-11-21-全新的-React-组件设计理念-Headless-UI](https://toutiao.io/k/r3bxt2g) ![](assets/new.png)  
 - [2022-11-21-万亿数据秒级响应，Apache-Doris-在-360-数科实时数仓中的应用](https://toutiao.io/k/neto82h) ![](assets/new.png)  
+- [2022-11-21-鹅厂后台大佬教你-Go-内存管理](https://toutiao.io/k/glsxmhr) ![](assets/new.png)  
 - [2022-11-21-内核调试之-Kdump-的原理及配置](https://toutiao.io/k/7ad9sah) ![](assets/new.png)  
 - [2022-11-21-Hybrid-远程调试的前世今生](https://toutiao.io/k/klufzba) ![](assets/new.png)  
-- [2022-11-21-鹅厂后台大佬教你-Go-内存管理](https://toutiao.io/k/glsxmhr) ![](assets/new.png)  
-- [2022-11-21-Ant-Design-5.0-正式发布](https://toutiao.io/k/71ebrh7) ![](assets/new.png)  
 - [2022-11-21-腾讯会议后台研发效能提升之路](https://toutiao.io/k/ahr34bg) ![](assets/new.png)  
+- [2022-11-21-Ant-Design-5.0-正式发布](https://toutiao.io/k/71ebrh7) ![](assets/new.png)  
 - [2022-11-21-ACM-MM-&-ECCV-2022-|-美团视觉-8-篇论文揭秘内容领域的智能科技](https://toutiao.io/k/zkgjjqu) ![](assets/new.png)  
 - [2022-11-21-Python-冷知识：如何找出新版本增加或删除了哪些标准库？](https://toutiao.io/k/auojlx3) ![](assets/new.png)  
 - [2022-11-21-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) ![](assets/new.png)  

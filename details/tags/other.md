@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-21 04:31:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-21 05:12:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1916,6 +1916,9 @@
 - [2022-10-20-告别pointer-events:none使用HTML-inert属性真正禁用](https://www.zhangxinxu.com/wordpress/2022/10/html-inert-disabled-attribute/) 
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
+- [2022-11-21-最近电信是出国线路拥塞，还是搞墙中墙了](https://www.v2ex.com/t/896767) 
+- [2022-11-21-快年底了，工作以来第一次调薪，大家帮忙参考参考我这个情况要多少合适？](https://www.v2ex.com/t/896764) 
+- [2022-11-21-请问在欧美或英语好的老哥，「我了解前端工程化」用英语怎么表达？](https://www.v2ex.com/t/896759) 
 - [2022-11-21-怎样的程度才是-ajax、ts-的最好封装状态](https://www.v2ex.com/t/896756) 
 - [2022-11-21-今年黑五有什么值得买的-VPS-吗？](https://www.v2ex.com/t/896753) 
 - [2022-11-21-搞嵌入式，想了解一下硬件相关的知识，求推荐一下教材。](https://www.v2ex.com/t/896751) 
@@ -1935,14 +1938,6 @@
 - [2022-11-21-Bose-Earbuds-连接-Macbook-自动播放音乐](https://www.v2ex.com/t/896724) 
 - [2022-11-21-现在买安卓有比较好的推荐嘛，还是要等明年新产品（预算-3k）](https://www.v2ex.com/t/896722) 
 - [2022-11-21-如何在全站中拥有唯一的个性化头像？](https://www.v2ex.com/t/896721) 
-- [2022-11-21-13p-的-Face-ID-突然坏掉了](https://www.v2ex.com/t/896717) 
-- [2022-11-21-观国产操作系统贴有感](https://www.v2ex.com/t/896716) 
-- [2022-11-21-深圳百度国际化寻求高级-Android-研发](https://www.v2ex.com/t/896714) 
-- [2022-11-21-iOS-16-相册序号归零](https://www.v2ex.com/t/896713) 
-- [2022-11-21-存在这样的工作吗？](https://www.v2ex.com/t/896711) 
-- [2022-11-21-红米-K40-能正常打开-Google-Play-以及下载-APP，但是-APP-内点击内购显示无法连接到-Google-Play，怎么解决？](https://www.v2ex.com/t/896710) 
-- [2022-11-21-早上用淘宝真的被恶心到了](https://www.v2ex.com/t/896709) 
-- [2022-11-21-有没有世界杯聊天讨论的群组啊，-TG，微信都可以？](https://www.v2ex.com/t/896708) 
 - [2022-11-21-敏捷团队的质量保障赋能-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15410&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fquality-assurance-enablement-in-agile-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-21-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-21-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

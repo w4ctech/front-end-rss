@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-21 12:24:29，:rocket: 更新条数: +2013， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-21 13:10:10，:rocket: 更新条数: +2014， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,7 +491,12 @@
 </summary>
 
 
-- [2022-11-21-語音文件轉文字的-Mac-app](https://www.v2ex.com/t/896892) ![](assets/new.png)  
+- [2022-11-21-求推荐个低配的-NAS-系统](https://www.v2ex.com/t/896900) ![](assets/new.png)  
+- [2022-11-21-人在广州，年底了，想家了，北方人](https://www.v2ex.com/t/896897) ![](assets/new.png)  
+- [2022-11-21-matebook-e-go-2022，-是兼容性问题还是质量问题](https://www.v2ex.com/t/896896) ![](assets/new.png)  
+- [2022-11-21-Markdown-博客元数据格式问题](https://www.v2ex.com/t/896894) ![](assets/new.png)  
+- [2022-11-21-HTTP-协议-HEAD-请求，会有查询字符串吗？](https://www.v2ex.com/t/896893) ![](assets/new.png)  
+- [2022-11-21-語音文件轉文字的-Mac-app（限免-10-位）](https://www.v2ex.com/t/896892) ![](assets/new.png)  
 - [2022-11-21-K8s-高可用数据持久化方案](https://www.v2ex.com/t/896891) ![](assets/new.png)  
 - [2022-11-21-上海-米哈游-miHoYo-2022.11.21-最新招聘信息来啦！（可内推哦）](https://www.v2ex.com/t/896888) ![](assets/new.png)  
 - [2022-11-21-希望添加-SteamDeck-节点](https://www.v2ex.com/t/896887) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-11-21-个人小作品](https://www.v2ex.com/t/896877) ![](assets/new.png)  
 - [2022-11-21-iOS-16.1.1-遇到的问题](https://www.v2ex.com/t/896876) ![](assets/new.png)  
 - [2022-11-21-移动宽带屏蔽代理-IP？](https://www.v2ex.com/t/896875) ![](assets/new.png)  
-- [2022-11-21-Linux-有什么参数限制-nat-session-数目吗？](https://www.v2ex.com/t/896874) ![](assets/new.png)  
-- [2022-11-21-被同事的一个小小的细节给整无语了](https://www.v2ex.com/t/896873) ![](assets/new.png)  
-- [2022-11-21-求租地铁白石桥南附近一居](https://www.v2ex.com/t/896872) ![](assets/new.png)  
-- [2022-11-21-Mac-端如何查看外接硬盘读写、时长数据？](https://www.v2ex.com/t/896871) ![](assets/new.png)  
-- [2022-11-21-求教，-m1-mac-在执行-minikube-start-时卡在-Preparing-Kubernetes-v1.22.3-on-Docker-20.10.8-怎么办](https://www.v2ex.com/t/896870) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -549,8 +549,8 @@
 - [2022-11-21-鹅厂后台大佬教你-Go-内存管理](https://toutiao.io/k/glsxmhr) ![](assets/new.png)  
 - [2022-11-21-深入浅出学习透析-Nginx-服务器的基本原理和配置指南（负载均衡篇）](https://toutiao.io/k/kzt04re) ![](assets/new.png)  
 - [2022-11-21-什么时候你第一次读懂了「云技术」？](https://toutiao.io/k/ons4njx) ![](assets/new.png)  
-- [2022-11-21-深度解读「隐语」密态计算设备-SPU](https://toutiao.io/k/j3jjhen) ![](assets/new.png)  
 - [2022-11-21-万亿数据秒级响应，Apache-Doris-在-360-数科实时数仓中的应用](https://toutiao.io/k/neto82h) ![](assets/new.png)  
+- [2022-11-21-深度解读「隐语」密态计算设备-SPU](https://toutiao.io/k/j3jjhen) ![](assets/new.png)  
 - [2022-11-21-全新的-React-组件设计理念-Headless-UI](https://toutiao.io/k/r3bxt2g) ![](assets/new.png)  
 - [2022-11-21-腾讯会议后台研发效能提升之路](https://toutiao.io/k/ahr34bg) ![](assets/new.png)  
 - [2022-11-21-ACM-MM-&-ECCV-2022-|-美团视觉-8-篇论文揭秘内容领域的智能科技](https://toutiao.io/k/zkgjjqu) ![](assets/new.png)  

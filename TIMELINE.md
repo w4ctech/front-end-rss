@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-21 10:14:07。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-21 10:41:55。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -71,6 +71,14 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-11-20-JS之我用单img元素实现了图像resize拉伸效果](https://www.zhangxinxu.com/wordpress/2022/11/js-image-resize/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-21-2-个完全不同类型的-AP，设置相同的-SSID-会有冲突吗？](https://www.v2ex.com/t/896869) 
+- [【V2EX】2022-11-21-有无杭州靠谱-MacBook-维修店推荐](https://www.v2ex.com/t/896868) 
+- [【V2EX】2022-11-21-招一位-IOS-高级开发处理收尾-bug，预算-1w-1.4w](https://www.v2ex.com/t/896867) 
+- [【V2EX】2022-11-21-想用-AssetStudio-从一个日本手游提取想要的语音文件，发现大部分语音大小都为-4660-字节，文件头有-ACB-Format/PC-标识，和-Google-找到的教程情况都不一样，-V...](https://www.v2ex.com/t/896866) 
+- [【V2EX】2022-11-21-全国移动到天津联通绕路](https://www.v2ex.com/t/896865) 
+- [【V2EX】2022-11-21-红米-AX6-安装-shellclash-后，-Windows-下-chrome-经常提示您的连接不是私密连接](https://www.v2ex.com/t/896864) 
+- [【V2EX】2022-11-21-有没有可以用于食品级的电钻头？](https://www.v2ex.com/t/896863) 
+- [【V2EX】2022-11-21-广州-大专非科班有机会找到苦力实习吗](https://www.v2ex.com/t/896862) 
 - [【V2EX】2022-11-21-求教：客厅只有一个网口，如何兼顾-nas-和-iptv？](https://www.v2ex.com/t/896861) 
 - [【V2EX】2022-11-21-买了把海沃氏二手-look,没有后仰锁定,人有点晕了](https://www.v2ex.com/t/896860) 
 - [【V2EX】2022-11-21-Nuc8-i5-厚版-换主板大概多少钱啊？](https://www.v2ex.com/t/896859) 
@@ -98,10 +106,6 @@
 - [【V2EX】2022-11-21-手机自带的“找回手机”功能就从来没有派上用场过。真的。。](https://www.v2ex.com/t/896824) 
 - [【V2EX】2022-11-21-Dash-有替代品吗？](https://www.v2ex.com/t/896823) 
 - [【V2EX】2022-11-21-广电客服说国际短信业务已开通，但-iMessage-还是无法激活](https://www.v2ex.com/t/896820) 
-- [【V2EX】2022-11-21-大家做报表一般都用啥](https://www.v2ex.com/t/896818) 
-- [【V2EX】2022-11-21-分享一个自己改浏览器内核从而实现支持-Chrome-拓展的-Android-浏览器](https://www.v2ex.com/t/896817) 
-- [【V2EX】2022-11-21-chrome-插件调用下载时弹窗被遮住](https://www.v2ex.com/t/896814) 
-- [【V2EX】2022-11-21-关于前段时间听大家讨论机场的疑问](https://www.v2ex.com/t/896812) 
 - [【技术头条】2022-11-21-敏捷团队的质量保障赋能-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15410&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fquality-assurance-enablement-in-agile-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-21-团队的Code-Review实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15409&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-code-review%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-21-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-21 10:14:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-21 10:41:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1916,6 +1916,13 @@
 - [2022-10-20-告别pointer-events:none使用HTML-inert属性真正禁用](https://www.zhangxinxu.com/wordpress/2022/10/html-inert-disabled-attribute/) 
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
+- [2022-11-21-2-个完全不同类型的-AP，设置相同的-SSID-会有冲突吗？](https://www.v2ex.com/t/896869) 
+- [2022-11-21-有无杭州靠谱-MacBook-维修店推荐](https://www.v2ex.com/t/896868) 
+- [2022-11-21-招一位-IOS-高级开发处理收尾-bug，预算-1w-1.4w](https://www.v2ex.com/t/896867) 
+- [2022-11-21-想用-AssetStudio-从一个日本手游提取想要的语音文件，发现大部分语音大小都为-4660-字节，文件头有-ACB-Format/PC-标识，和-Google-找到的教程情况都不一样，-V...](https://www.v2ex.com/t/896866) 
+- [2022-11-21-全国移动到天津联通绕路](https://www.v2ex.com/t/896865) 
+- [2022-11-21-有没有可以用于食品级的电钻头？](https://www.v2ex.com/t/896863) 
+- [2022-11-21-广州-大专非科班有机会找到苦力实习吗](https://www.v2ex.com/t/896862) 
 - [2022-11-21-求教：客厅只有一个网口，如何兼顾-nas-和-iptv？](https://www.v2ex.com/t/896861) 
 - [2022-11-21-买了把海沃氏二手-look,没有后仰锁定,人有点晕了](https://www.v2ex.com/t/896860) 
 - [2022-11-21-Nuc8-i5-厚版-换主板大概多少钱啊？](https://www.v2ex.com/t/896859) 
@@ -1939,8 +1946,6 @@
 - [2022-11-21-手机自带的“找回手机”功能就从来没有派上用场过。真的。。](https://www.v2ex.com/t/896824) 
 - [2022-11-21-Dash-有替代品吗？](https://www.v2ex.com/t/896823) 
 - [2022-11-21-广电客服说国际短信业务已开通，但-iMessage-还是无法激活](https://www.v2ex.com/t/896820) 
-- [2022-11-21-大家做报表一般都用啥](https://www.v2ex.com/t/896818) 
-- [2022-11-21-关于前段时间听大家讨论机场的疑问](https://www.v2ex.com/t/896812) 
 - [2022-11-21-敏捷团队的质量保障赋能-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15410&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fquality-assurance-enablement-in-agile-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-21-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-21-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

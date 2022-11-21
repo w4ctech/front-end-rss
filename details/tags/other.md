@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-21 19:35:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-21 20:13:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1916,6 +1916,7 @@
 - [2022-10-20-告别pointer-events:none使用HTML-inert属性真正禁用](https://www.zhangxinxu.com/wordpress/2022/10/html-inert-disabled-attribute/) 
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
+- [2022-11-21-分享一下收藏过的极好的-cheatsheet？](https://www.v2ex.com/t/896947) 
 - [2022-11-21-请问各位安卓用户是从哪里下载-APP-的？](https://www.v2ex.com/t/896944) 
 - [2022-11-21-Plex-终生版折扣开始，有老哥有更优惠的办法吗](https://www.v2ex.com/t/896943) 
 - [2022-11-21-dnf-安装-rpm-包时怎么同步接受-gpgkey-呢？](https://www.v2ex.com/t/896941) 
@@ -1943,7 +1944,6 @@
 - [2022-11-21-有没有这样的软件：记录家里有哪些菜、我经常吃的食谱、做一道菜自动减去菜的库存、定期提醒要购买缺少的菜](https://www.v2ex.com/t/896903) 
 - [2022-11-21-1Password-8-在-iPad-上无法使用-FaceID-的问题已修复](https://www.v2ex.com/t/896901) 
 - [2022-11-21-求推荐个低配的-NAS-系统](https://www.v2ex.com/t/896900) 
-- [2022-11-21-人在广州，年底了，想家了，北方人](https://www.v2ex.com/t/896897) 
 - [2022-11-21-敏捷团队的质量保障赋能-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15410&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fquality-assurance-enablement-in-agile-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-21-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-21-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

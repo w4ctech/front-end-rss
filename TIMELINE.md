@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-21 06:46:01。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-21 07:12:26。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -71,6 +71,11 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-11-20-JS之我用单img元素实现了图像resize拉伸效果](https://www.zhangxinxu.com/wordpress/2022/11/js-image-resize/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-21-移动宽带分配的出网-IP-能-ping-通，怎么根据这个-IP-访问到家里的设备](https://www.v2ex.com/t/896802) 
+- [【V2EX】2022-11-21-Windows-系统有没有类似飞书多维表格的离线数据管理软件？](https://www.v2ex.com/t/896800) 
+- [【V2EX】2022-11-21-上海闵行一室户，-10-号线紫藤路附近，步行-10-分钟到地铁站](https://www.v2ex.com/t/896797) 
+- [【V2EX】2022-11-21-Java-引用对象导致-jackson-反序列化结果不正确](https://www.v2ex.com/t/896796) 
+- [【V2EX】2022-11-21-为什么-markdown-的代码块大多数都没有自动软换行？](https://www.v2ex.com/t/896795) 
 - [【V2EX】2022-11-21-请教下使用-flutter+h5-的混合开发可行性](https://www.v2ex.com/t/896794) 
 - [【V2EX】2022-11-21-请教一个域名转入-cloudflare-的问题](https://www.v2ex.com/t/896792) 
 - [【V2EX】2022-11-21-直播中常见的-AI-换脸是什么方案实现的？](https://www.v2ex.com/t/896791) 
@@ -97,12 +102,6 @@
 - [【V2EX】2022-11-21-一个非常奇怪的问题，-supervisord-启动的用-aiohttp-发请求的爬虫同时发-10-万请求的情况下有大约-30%的请求会无法解析域名，而在-bash-中手动运行则没有这个问...](https://www.v2ex.com/t/896755) 
 - [【V2EX】2022-11-21-你们的服务请求比是多少？](https://www.v2ex.com/t/896754) 
 - [【V2EX】2022-11-21-今年黑五有什么值得买的-VPS-吗？](https://www.v2ex.com/t/896753) 
-- [【V2EX】2022-11-21-电信也太坏了，默认-DNS-直接遮蔽-github](https://www.v2ex.com/t/896752) 
-- [【V2EX】2022-11-21-搞嵌入式，想了解一下硬件相关的知识，求推荐一下教材。](https://www.v2ex.com/t/896751) 
-- [【V2EX】2022-11-21-推荐一下，-Mac-下面窗口管理-yabai-，类似-Linux-的-i3](https://www.v2ex.com/t/896750) 
-- [【V2EX】2022-11-21-给戴尔整笑了](https://www.v2ex.com/t/896749) 
-- [【V2EX】2022-11-21-请教个-ELK-中,-logstash-根据不同主机的-`tags`-来指定索引的问题](https://www.v2ex.com/t/896746) 
-- [【V2EX】2022-11-21-前端学习后端，语言选择](https://www.v2ex.com/t/896745) 
 - [【技术头条】2022-11-21-敏捷团队的质量保障赋能-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15410&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fquality-assurance-enablement-in-agile-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-21-团队的Code-Review实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15409&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-code-review%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-21-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

@@ -9953,6 +9953,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "ppp 协议、电路交换 和 点对点信道 这三者是什么关系？",
+        "link": "https://www.v2ex.com/t/896951",
+        "date": "2022-11-21"
+      },
+      {
         "title": "工作中遇到的数学/算法问题，求教怎么解决",
         "link": "https://www.v2ex.com/t/896949",
         "date": "2022-11-21"
@@ -10130,11 +10135,6 @@
       {
         "title": "「远程工作」数字资产管理 SaaS 招聘架构师/月薪 40K-55K RMB",
         "link": "https://www.v2ex.com/t/896902",
-        "date": "2022-11-21"
-      },
-      {
-        "title": "1Password 8 在 iPad 上无法使用 FaceID 的问题已修复",
-        "link": "https://www.v2ex.com/t/896901",
         "date": "2022-11-21"
       }
     ]

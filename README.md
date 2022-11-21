@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-21 21:12:28，:rocket: 更新条数: +2009， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-21 21:38:11，:rocket: 更新条数: +2009， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-11-21-ppp-协议、电路交换-和-点对点信道-这三者是什么关系？](https://www.v2ex.com/t/896951) ![](assets/new.png)  
 - [2022-11-21-工作中遇到的数学/算法问题，求教怎么解决](https://www.v2ex.com/t/896949) ![](assets/new.png)  
 - [2022-11-21-吉隆坡-招聘-Flutter/Node.js/运维/VUE/自动测试/系统运维/高级-UI-等](https://www.v2ex.com/t/896948) ![](assets/new.png)  
 - [2022-11-21-分享一下收藏过的极好的-cheatsheet？](https://www.v2ex.com/t/896947) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-11-21-ios-怎么关闭通知推送的震动,-但是保留打进来电话的震动啊](https://www.v2ex.com/t/896930) ![](assets/new.png)  
 - [2022-11-21-市面有哪些好用的-AI-智能回复平台？](https://www.v2ex.com/t/896929) ![](assets/new.png)  
 - [2022-11-21-有哪些软件看上去是开源的，但实际上不是？](https://www.v2ex.com/t/896928) ![](assets/new.png)  
-- [2022-11-21-daisyui-的-modal-实现原理是啥](https://www.v2ex.com/t/896927) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

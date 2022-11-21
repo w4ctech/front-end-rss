@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-21 15:40:47，:rocket: 更新条数: +2006， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-21 16:17:40，:rocket: 更新条数: +2007， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-11-21-Bundlehunt-黑五优惠有人一起拼包吗](https://www.v2ex.com/t/896939) ![](assets/new.png)  
+- [2022-11-21-emmet2-mode，强化-Emmet，提升前端编码效率](https://www.v2ex.com/t/896938) ![](assets/new.png)  
+- [2022-11-21-Magician-Route-发布啦，去除反射，性能得到有效提升](https://www.v2ex.com/t/896937) ![](assets/new.png)  
 - [2022-11-21-youtube-新的播放页面真让人抓狂](https://www.v2ex.com/t/896936) ![](assets/new.png)  
 - [2022-11-21-2.2.-kustz-定义字符串创建-Service](https://www.v2ex.com/t/896935) ![](assets/new.png)  
 - [2022-11-21-在设计表的时候，库存表和商品表是推荐库存是放到-sku-字段里，还是单独拆两个表呢-？](https://www.v2ex.com/t/896932) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-11-21-有没有那种一个网页可以显示自己制定文件夹里的电视剧的，点击播放是比如说-PotPlayer-的，然后又可以帮你记住看到哪的，嗯，在网页中的显示的。](https://www.v2ex.com/t/896919) ![](assets/new.png)  
 - [2022-11-21-windows-最近经常突然卡住黑屏，有什么排查的方法么](https://www.v2ex.com/t/896917) ![](assets/new.png)  
 - [2022-11-21-tiktok-直播-推流-灵异事件](https://www.v2ex.com/t/896916) ![](assets/new.png)  
-- [2022-11-21-大家能帮我看看我的简历有什么问题吗?-为什么投了好几个月了也没人表示愿意雇佣我?](https://www.v2ex.com/t/896911) ![](assets/new.png)  
-- [2022-11-21-magsafe-的原理是啥？为啥二三十的手机壳也能有动画？](https://www.v2ex.com/t/896910) ![](assets/new.png)  
-- [2022-11-21-有在数字化转型里开发过的老哥们吗？想问下平时都是写的什么方面的代码](https://www.v2ex.com/t/896907) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

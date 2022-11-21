@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-21 15:40:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-21 16:17:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1916,6 +1916,8 @@
 - [2022-10-20-告别pointer-events:none使用HTML-inert属性真正禁用](https://www.zhangxinxu.com/wordpress/2022/10/html-inert-disabled-attribute/) 
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
+- [2022-11-21-Bundlehunt-黑五优惠有人一起拼包吗](https://www.v2ex.com/t/896939) 
+- [2022-11-21-emmet2-mode，强化-Emmet，提升前端编码效率](https://www.v2ex.com/t/896938) 
 - [2022-11-21-youtube-新的播放页面真让人抓狂](https://www.v2ex.com/t/896936) 
 - [2022-11-21-2.2.-kustz-定义字符串创建-Service](https://www.v2ex.com/t/896935) 
 - [2022-11-21-在设计表的时候，库存表和商品表是推荐库存是放到-sku-字段里，还是单独拆两个表呢-？](https://www.v2ex.com/t/896932) 
@@ -1943,7 +1945,6 @@
 - [2022-11-21-Markdown-博客元数据格式问题](https://www.v2ex.com/t/896894) 
 - [2022-11-21-語音文件轉文字的-Mac-app（限免-10-位）](https://www.v2ex.com/t/896892) 
 - [2022-11-21-K8s-高可用数据持久化方案](https://www.v2ex.com/t/896891) 
-- [2022-11-21-希望添加-SteamDeck-节点](https://www.v2ex.com/t/896887) 
 - [2022-11-21-敏捷团队的质量保障赋能-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15410&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fquality-assurance-enablement-in-agile-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-21-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-21-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

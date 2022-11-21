@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-11-21 18:43:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-21 19:10:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-11-21-tradingview-黑五](https://www.v2ex.com/t/896945) 
 - [2022-11-21-请问各位安卓用户是从哪里下载-APP-的？](https://www.v2ex.com/t/896944) 
 - [2022-11-21-Plex-终生版折扣开始，有老哥有更优惠的办法吗](https://www.v2ex.com/t/896943) 
 - [2022-11-21-咨询一下-V-友们都在用什么路由器？](https://www.v2ex.com/t/896942) 

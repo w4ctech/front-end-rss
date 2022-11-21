@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-21 18:43:47，:rocket: 更新条数: +2007， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-21 19:10:44，:rocket: 更新条数: +2008， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-11-21-tradingview-黑五](https://www.v2ex.com/t/896945) ![](assets/new.png)  
 - [2022-11-21-请问各位安卓用户是从哪里下载-APP-的？](https://www.v2ex.com/t/896944) ![](assets/new.png)  
 - [2022-11-21-Plex-终生版折扣开始，有老哥有更优惠的办法吗](https://www.v2ex.com/t/896943) ![](assets/new.png)  
 - [2022-11-21-咨询一下-V-友们都在用什么路由器？](https://www.v2ex.com/t/896942) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-11-21-互联网上第一个-docker-镜像怎么诞生的](https://www.v2ex.com/t/896925) ![](assets/new.png)  
 - [2022-11-21-Rust-编译-Wasm-文本格式的问题](https://www.v2ex.com/t/896924) ![](assets/new.png)  
 - [2022-11-21-MIRACLE-Linux-～-CentOSに替わる日本製の-Linux](https://www.v2ex.com/t/896922) ![](assets/new.png)  
-- [2022-11-21-国企搞什么岗位双向选择是不是就说明要变相裁员了？](https://www.v2ex.com/t/896921) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

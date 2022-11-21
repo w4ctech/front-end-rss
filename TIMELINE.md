@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-21 18:43:47。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-21 19:10:44。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -71,6 +71,7 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-11-20-JS之我用单img元素实现了图像resize拉伸效果](https://www.zhangxinxu.com/wordpress/2022/11/js-image-resize/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-21-tradingview-黑五](https://www.v2ex.com/t/896945) 
 - [【V2EX】2022-11-21-请问各位安卓用户是从哪里下载-APP-的？](https://www.v2ex.com/t/896944) 
 - [【V2EX】2022-11-21-Plex-终生版折扣开始，有老哥有更优惠的办法吗](https://www.v2ex.com/t/896943) 
 - [【V2EX】2022-11-21-咨询一下-V-友们都在用什么路由器？](https://www.v2ex.com/t/896942) 

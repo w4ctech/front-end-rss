@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-21 22:39:15，:rocket: 更新条数: +2009， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-21 23:01:40，:rocket: 更新条数: +2009， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-11-21-Cloudflare-测速更新了，多出了丢包率测试-speed.cloudflare.com](https://www.v2ex.com/t/896954) ![](assets/new.png)  
+- [2022-11-21-问下大家，在-function-里定义的-type-和在-function-外定义有区别嘛？-Typescript](https://www.v2ex.com/t/896953) ![](assets/new.png)  
 - [2022-11-21-如何清除-Markdown-的-media-目录下的多余图片？](https://www.v2ex.com/t/896952) ![](assets/new.png)  
 - [2022-11-21-ppp-协议、电路交换-和-点对点信道-这三者是什么关系？](https://www.v2ex.com/t/896951) ![](assets/new.png)  
 - [2022-11-21-工作中遇到的数学/算法问题，求教怎么解决](https://www.v2ex.com/t/896949) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-11-21-2.2.-kustz-定义字符串创建-Service](https://www.v2ex.com/t/896935) ![](assets/new.png)  
 - [2022-11-21-在设计表的时候，库存表和商品表是推荐库存是放到-sku-字段里，还是单独拆两个表呢-？](https://www.v2ex.com/t/896932) ![](assets/new.png)  
 - [2022-11-21-软福利-keychron-v4-键盘用户请进](https://www.v2ex.com/t/896931) ![](assets/new.png)  
-- [2022-11-21-ios-怎么关闭通知推送的震动,-但是保留打进来电话的震动啊](https://www.v2ex.com/t/896930) ![](assets/new.png)  
-- [2022-11-21-市面有哪些好用的-AI-智能回复平台？](https://www.v2ex.com/t/896929) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

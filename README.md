@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-21 13:55:30，:rocket: 更新条数: +2013， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-21 14:11:24，:rocket: 更新条数: +2012， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-11-21-大家能帮我看看我的简历有什么问题吗?-为什么投了好几个月了也没人表示愿意雇佣我?](https://www.v2ex.com/t/896911) ![](assets/new.png)  
 - [2022-11-21-magsafe-的原理是啥？为啥二三十的手机壳也能有动画？](https://www.v2ex.com/t/896910) ![](assets/new.png)  
 - [2022-11-21-有在数字化转型里开发过的老哥们吗？想问下平时都是写的什么方面的代码](https://www.v2ex.com/t/896907) ![](assets/new.png)  
 - [2022-11-21-请大家推荐一款-mac-上最好的-chm-阅读器（付费也没事）](https://www.v2ex.com/t/896906) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-11-21-找个-Android-高手，熟悉图表相关的](https://www.v2ex.com/t/896886) ![](assets/new.png)  
 - [2022-11-21-马上-2023-年了，我却因为流量超额-147MB，花了-42-元话费](https://www.v2ex.com/t/896884) ![](assets/new.png)  
 - [2022-11-21-慢收一台威联通-TS-464c-N5105-可扩展内存，谢谢~](https://www.v2ex.com/t/896883) ![](assets/new.png)  
-- [2022-11-21-字节跳动搜索团队招人啦，社招，经验-3-年+及以上，优秀者可放宽条件（岗位地点：北京+上海+杭州）](https://www.v2ex.com/t/896882) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

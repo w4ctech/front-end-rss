@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-21 13:10:10，:rocket: 更新条数: +2014， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-21 13:55:30，:rocket: 更新条数: +2013， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,13 @@
 </summary>
 
 
+- [2022-11-21-magsafe-的原理是啥？为啥二三十的手机壳也能有动画？](https://www.v2ex.com/t/896910) ![](assets/new.png)  
+- [2022-11-21-有在数字化转型里开发过的老哥们吗？想问下平时都是写的什么方面的代码](https://www.v2ex.com/t/896907) ![](assets/new.png)  
+- [2022-11-21-请大家推荐一款-mac-上最好的-chm-阅读器（付费也没事）](https://www.v2ex.com/t/896906) ![](assets/new.png)  
+- [2022-11-21-有人在线吗？请教个问题](https://www.v2ex.com/t/896904) ![](assets/new.png)  
+- [2022-11-21-有没有这样的软件：记录家里有哪些菜、我经常吃的食谱、做一道菜自动减去菜的库存、定期提醒要购买缺少的菜](https://www.v2ex.com/t/896903) ![](assets/new.png)  
+- [2022-11-21-「远程工作」数字资产管理-SaaS-招聘架构师/月薪-40K-55K-RMB](https://www.v2ex.com/t/896902) ![](assets/new.png)  
+- [2022-11-21-1Password-8-在-iPad-上无法使用-FaceID-的问题已修复](https://www.v2ex.com/t/896901) ![](assets/new.png)  
 - [2022-11-21-求推荐个低配的-NAS-系统](https://www.v2ex.com/t/896900) ![](assets/new.png)  
 - [2022-11-21-人在广州，年底了，想家了，北方人](https://www.v2ex.com/t/896897) ![](assets/new.png)  
 - [2022-11-21-matebook-e-go-2022，-是兼容性问题还是质量问题](https://www.v2ex.com/t/896896) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-11-21-马上-2023-年了，我却因为流量超额-147MB，花了-42-元话费](https://www.v2ex.com/t/896884) ![](assets/new.png)  
 - [2022-11-21-慢收一台威联通-TS-464c-N5105-可扩展内存，谢谢~](https://www.v2ex.com/t/896883) ![](assets/new.png)  
 - [2022-11-21-字节跳动搜索团队招人啦，社招，经验-3-年+及以上，优秀者可放宽条件（岗位地点：北京+上海+杭州）](https://www.v2ex.com/t/896882) ![](assets/new.png)  
-- [2022-11-21-比特大陆内推，硬件，芯片，服务端，嵌入式，产品，-Android-急招等,持续招人～](https://www.v2ex.com/t/896881) ![](assets/new.png)  
-- [2022-11-21-从程序员的岗位上离开三个多月了](https://www.v2ex.com/t/896880) ![](assets/new.png)  
-- [2022-11-21-windows-11-快捷方式图标的两个箭头](https://www.v2ex.com/t/896879) ![](assets/new.png)  
-- [2022-11-21-有没有好看一点的，支持权限管理的博客、文档或者-wiki-框架](https://www.v2ex.com/t/896878) ![](assets/new.png)  
-- [2022-11-21-个人小作品](https://www.v2ex.com/t/896877) ![](assets/new.png)  
-- [2022-11-21-iOS-16.1.1-遇到的问题](https://www.v2ex.com/t/896876) ![](assets/new.png)  
-- [2022-11-21-移动宽带屏蔽代理-IP？](https://www.v2ex.com/t/896875) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -548,8 +548,8 @@
 - [2022-11-21-分布式系统设计模式，你用过哪些？](https://toutiao.io/k/8eyyeev) ![](assets/new.png)  
 - [2022-11-21-鹅厂后台大佬教你-Go-内存管理](https://toutiao.io/k/glsxmhr) ![](assets/new.png)  
 - [2022-11-21-深入浅出学习透析-Nginx-服务器的基本原理和配置指南（负载均衡篇）](https://toutiao.io/k/kzt04re) ![](assets/new.png)  
-- [2022-11-21-什么时候你第一次读懂了「云技术」？](https://toutiao.io/k/ons4njx) ![](assets/new.png)  
 - [2022-11-21-万亿数据秒级响应，Apache-Doris-在-360-数科实时数仓中的应用](https://toutiao.io/k/neto82h) ![](assets/new.png)  
+- [2022-11-21-什么时候你第一次读懂了「云技术」？](https://toutiao.io/k/ons4njx) ![](assets/new.png)  
 - [2022-11-21-深度解读「隐语」密态计算设备-SPU](https://toutiao.io/k/j3jjhen) ![](assets/new.png)  
 - [2022-11-21-全新的-React-组件设计理念-Headless-UI](https://toutiao.io/k/r3bxt2g) ![](assets/new.png)  
 - [2022-11-21-腾讯会议后台研发效能提升之路](https://toutiao.io/k/ahr34bg) ![](assets/new.png)  

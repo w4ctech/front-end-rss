@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-11-21 07:36:24。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-21 08:17:23。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -39,8 +39,6 @@
 
 
 
-- [【V2EX】远程工作：招聘全职-React-前端开发工程师](https://www.v2ex.com/t/896781)
-- [【V2EX】「全职远程-20k」--React-Nextjs-前端工程师](https://www.v2ex.com/t/896780)
 - [【技术头条】重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】全新的-React-组件设计理念-Headless-UI](https://toutiao.io/k/r3bxt2g)
 - [......【查看更多】......](./details/tags/react.md)
@@ -124,7 +122,6 @@
 
 
 
-- [【V2EX】上海初创公司招小程序实习（300/天）](https://www.v2ex.com/t/896768)
 - [......【查看更多】......](./details/tags/miniprogram.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -158,7 +155,6 @@
 
 
 
-- [【V2EX】玩游戏，买投影仪还是电视？](https://www.v2ex.com/t/896774)
 - [......【查看更多】......](./details/tags/dev-game.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -183,6 +179,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】港府回应一63岁患者死亡事件-暂无法确定与疫苗相关](https://m.caixin.com/m/2021-03-03/101670052.html)
 - [【张鑫旭-鑫空间-鑫生活】JS之我用单img元素实现了图像resize拉伸效果](https://www.zhangxinxu.com/wordpress/2022/11/js-image-resize/)
 - [【张鑫旭-鑫空间-鑫生活】2022年新出了哪些form表单新特性？](https://www.zhangxinxu.com/wordpress/2022/10/2022-new-form-property/)
+- [【V2EX】iPhone-毛玻璃背景吓人事件](https://www.v2ex.com/t/896830)
 - [......【查看更多】......](./details/tags/javascript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -275,6 +272,8 @@
 - [【武汉肺炎防疫全纪录(财新网)】腺病毒新冠疫苗引安全忧虑-康希诺称未发现血栓病例](https://m.caixin.com/m/2021-04-14/101691086.html)
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
+- [【V2EX】闲来无事，摸鱼收集了一些网站，想问下-Chrome-或者-edge-能给书签打标签，然后搜索的插件吗](https://www.v2ex.com/t/896828)
+- [【V2EX】分享一个自己改浏览器内核从而实现支持-Chrome-拓展的-Android-浏览器](https://www.v2ex.com/t/896817)
 - [【V2EX】chrome-插件调用下载时弹窗被遮住](https://www.v2ex.com/t/896814)
 - [【技术头条】团队的Code-Review实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15409&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-code-review%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】万字长文细说-Code-Review-的正确姿势](https://toutiao.io/k/cxf9ver)

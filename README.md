@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-21 04:01:24，:rocket: 更新条数: +2008， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-21 04:31:55，:rocket: 更新条数: +2008， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-11-21-怎样的程度才是-ajax、ts-的最好封装状态](https://www.v2ex.com/t/896756) ![](assets/new.png)  
+- [2022-11-21-一个非常奇怪的问题，-supervisord-启动的用-aiohttp-发请求的爬虫同时发-10-万请求的情况下有大约-30%的请求会无法解析域名，而在-bash-中手动运行则没有这个问...](https://www.v2ex.com/t/896755) ![](assets/new.png)  
+- [2022-11-21-你们的服务请求比是多少？](https://www.v2ex.com/t/896754) ![](assets/new.png)  
+- [2022-11-21-今年黑五有什么值得买的-VPS-吗？](https://www.v2ex.com/t/896753) ![](assets/new.png)  
+- [2022-11-21-电信也太坏了，默认-DNS-直接遮蔽-github](https://www.v2ex.com/t/896752) ![](assets/new.png)  
 - [2022-11-21-搞嵌入式，想了解一下硬件相关的知识，求推荐一下教材。](https://www.v2ex.com/t/896751) ![](assets/new.png)  
 - [2022-11-21-推荐一下，-Mac-下面窗口管理-yabai-，类似-Linux-的-i3](https://www.v2ex.com/t/896750) ![](assets/new.png)  
 - [2022-11-21-给戴尔整笑了](https://www.v2ex.com/t/896749) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-11-21-jupyter-notebook-内置环境变量问题](https://www.v2ex.com/t/896731) ![](assets/new.png)  
 - [2022-11-21-求推荐深圳南山福田定做蛋糕的店](https://www.v2ex.com/t/896730) ![](assets/new.png)  
 - [2022-11-21-我的-iPhone-13-和-AirPods-Pro-有点不搭。。](https://www.v2ex.com/t/896728) ![](assets/new.png)  
-- [2022-11-21-60-岁的母亲适合买什么车？落地-15w-以下](https://www.v2ex.com/t/896727) ![](assets/new.png)  
-- [2022-11-21-米哈游的招聘是真实的吗](https://www.v2ex.com/t/896726) ![](assets/new.png)  
-- [2022-11-21-macOS-Monterey-12.6+-有好用的-NTFS-读写-App-吗？](https://www.v2ex.com/t/896725) ![](assets/new.png)  
-- [2022-11-21-Bose-Earbuds-连接-Macbook-自动播放音乐](https://www.v2ex.com/t/896724) ![](assets/new.png)  
-- [2022-11-21-用-frp-搭建代理通过代理连接远程桌面的方式-和-直接将远程桌面端口映射公网的方式，哪种安全？](https://www.v2ex.com/t/896723) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -543,8 +543,8 @@
 </summary>
 
 
-- [2022-11-21-专项测试系列：缓存击穿、穿透、雪崩专项测试](https://toutiao.io/k/lv6coxq) ![](assets/new.png)  
 - [2022-11-21-万字长文细说-Code-Review-的正确姿势](https://toutiao.io/k/cxf9ver) ![](assets/new.png)  
+- [2022-11-21-专项测试系列：缓存击穿、穿透、雪崩专项测试](https://toutiao.io/k/lv6coxq) ![](assets/new.png)  
 - [2022-11-21-分布式系统设计模式，你用过哪些？](https://toutiao.io/k/8eyyeev) ![](assets/new.png)  
 - [2022-11-21-深度解读「隐语」密态计算设备-SPU](https://toutiao.io/k/j3jjhen) ![](assets/new.png)  
 - [2022-11-21-深入浅出学习透析-Nginx-服务器的基本原理和配置指南（负载均衡篇）](https://toutiao.io/k/kzt04re) ![](assets/new.png)  

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-21 04:01:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-21 04:31:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1916,6 +1916,8 @@
 - [2022-10-20-告别pointer-events:none使用HTML-inert属性真正禁用](https://www.zhangxinxu.com/wordpress/2022/10/html-inert-disabled-attribute/) 
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
+- [2022-11-21-怎样的程度才是-ajax、ts-的最好封装状态](https://www.v2ex.com/t/896756) 
+- [2022-11-21-今年黑五有什么值得买的-VPS-吗？](https://www.v2ex.com/t/896753) 
 - [2022-11-21-搞嵌入式，想了解一下硬件相关的知识，求推荐一下教材。](https://www.v2ex.com/t/896751) 
 - [2022-11-21-推荐一下，-Mac-下面窗口管理-yabai-，类似-Linux-的-i3](https://www.v2ex.com/t/896750) 
 - [2022-11-21-给戴尔整笑了](https://www.v2ex.com/t/896749) 
@@ -1941,10 +1943,6 @@
 - [2022-11-21-红米-K40-能正常打开-Google-Play-以及下载-APP，但是-APP-内点击内购显示无法连接到-Google-Play，怎么解决？](https://www.v2ex.com/t/896710) 
 - [2022-11-21-早上用淘宝真的被恶心到了](https://www.v2ex.com/t/896709) 
 - [2022-11-21-有没有世界杯聊天讨论的群组啊，-TG，微信都可以？](https://www.v2ex.com/t/896708) 
-- [2022-11-21-出租套-1，塔子山公园地铁，-1550](https://www.v2ex.com/t/896706) 
-- [2022-11-21-想给家里老人华为手机，弄个每天凌晨后台备份照片和微信聊天记录，大家有好的方案么？](https://www.v2ex.com/t/896705) 
-- [2022-11-21-好兄弟-推荐几个收费好用的短信平台-国内外能都发送](https://www.v2ex.com/t/896703) 
-- [2022-11-21-一条-sql-问题，实在不知道如何解？](https://www.v2ex.com/t/896702) 
 - [2022-11-21-敏捷团队的质量保障赋能-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15410&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fquality-assurance-enablement-in-agile-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-21-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-21-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

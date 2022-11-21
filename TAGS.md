@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-11-21 05:12:43。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-21 05:37:32。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -155,6 +155,7 @@
 
 
 
+- [【V2EX】玩游戏，买投影仪还是电视？](https://www.v2ex.com/t/896774)
 - [......【查看更多】......](./details/tags/dev-game.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -274,7 +275,6 @@
 - [【V2EX】一个非常奇怪的问题，-supervisord-启动的用-aiohttp-发请求的爬虫同时发-10-万请求的情况下有大约-30%的请求会无法解析域名，而在-bash-中手动运行则没有这个问...](https://www.v2ex.com/t/896755)
 - [【V2EX】你们的服务请求比是多少？](https://www.v2ex.com/t/896754)
 - [【V2EX】想知道大家的常用浏览器](https://www.v2ex.com/t/896743)
-- [【V2EX】用-frp-搭建代理通过代理连接远程桌面的方式-和-直接将远程桌面端口映射公网的方式，哪种安全？](https://www.v2ex.com/t/896723)
 - [【技术头条】团队的Code-Review实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15409&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-code-review%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】万字长文细说-Code-Review-的正确姿势](https://toutiao.io/k/cxf9ver)
 - [【开发者头条】专项测试系列：缓存击穿、穿透、雪崩专项测试](https://toutiao.io/k/lv6coxq)
@@ -347,7 +347,6 @@
 
 
 
-- [【V2EX】米哈游的招聘是真实的吗](https://www.v2ex.com/t/896726)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

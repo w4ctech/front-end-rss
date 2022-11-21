@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-21 14:11:24，:rocket: 更新条数: +2012， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-21 14:37:55，:rocket: 更新条数: +2008， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-11-21-MIRACLE-Linux-～-CentOSに替わる日本製の-Linux](https://www.v2ex.com/t/896922) ![](assets/new.png)  
+- [2022-11-21-国企搞什么岗位双向选择是不是就说明要变相裁员了？](https://www.v2ex.com/t/896921) ![](assets/new.png)  
+- [2022-11-21-接上一个帖子，起诉中国联通诉状书已经提交，可是还是太慢了，还有其他的渠道吗。](https://www.v2ex.com/t/896920) ![](assets/new.png)  
+- [2022-11-21-有没有那种一个网页可以显示自己制定文件夹里的电视剧的，点击播放是比如说-PotPlayer-的，然后又可以帮你记住看到哪的，嗯，在网页中的显示的。](https://www.v2ex.com/t/896919) ![](assets/new.png)  
+- [2022-11-21-windows-最近经常突然卡住黑屏，有什么排查的方法么](https://www.v2ex.com/t/896917) ![](assets/new.png)  
+- [2022-11-21-tiktok-直播-推流-灵异事件](https://www.v2ex.com/t/896916) ![](assets/new.png)  
 - [2022-11-21-大家能帮我看看我的简历有什么问题吗?-为什么投了好几个月了也没人表示愿意雇佣我?](https://www.v2ex.com/t/896911) ![](assets/new.png)  
 - [2022-11-21-magsafe-的原理是啥？为啥二三十的手机壳也能有动画？](https://www.v2ex.com/t/896910) ![](assets/new.png)  
 - [2022-11-21-有在数字化转型里开发过的老哥们吗？想问下平时都是写的什么方面的代码](https://www.v2ex.com/t/896907) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-11-21-Markdown-博客元数据格式问题](https://www.v2ex.com/t/896894) ![](assets/new.png)  
 - [2022-11-21-HTTP-协议-HEAD-请求，会有查询字符串吗？](https://www.v2ex.com/t/896893) ![](assets/new.png)  
 - [2022-11-21-語音文件轉文字的-Mac-app（限免-10-位）](https://www.v2ex.com/t/896892) ![](assets/new.png)  
-- [2022-11-21-K8s-高可用数据持久化方案](https://www.v2ex.com/t/896891) ![](assets/new.png)  
-- [2022-11-21-上海-米哈游-miHoYo-2022.11.21-最新招聘信息来啦！（可内推哦）](https://www.v2ex.com/t/896888) ![](assets/new.png)  
-- [2022-11-21-希望添加-SteamDeck-节点](https://www.v2ex.com/t/896887) ![](assets/new.png)  
-- [2022-11-21-找个-Android-高手，熟悉图表相关的](https://www.v2ex.com/t/896886) ![](assets/new.png)  
-- [2022-11-21-马上-2023-年了，我却因为流量超额-147MB，花了-42-元话费](https://www.v2ex.com/t/896884) ![](assets/new.png)  
-- [2022-11-21-慢收一台威联通-TS-464c-N5105-可扩展内存，谢谢~](https://www.v2ex.com/t/896883) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -551,8 +551,8 @@
 - [2022-11-21-万亿数据秒级响应，Apache-Doris-在-360-数科实时数仓中的应用](https://toutiao.io/k/neto82h) ![](assets/new.png)  
 - [2022-11-21-什么时候你第一次读懂了「云技术」？](https://toutiao.io/k/ons4njx) ![](assets/new.png)  
 - [2022-11-21-深度解读「隐语」密态计算设备-SPU](https://toutiao.io/k/j3jjhen) ![](assets/new.png)  
-- [2022-11-21-全新的-React-组件设计理念-Headless-UI](https://toutiao.io/k/r3bxt2g) ![](assets/new.png)  
 - [2022-11-21-腾讯会议后台研发效能提升之路](https://toutiao.io/k/ahr34bg) ![](assets/new.png)  
+- [2022-11-21-全新的-React-组件设计理念-Headless-UI](https://toutiao.io/k/r3bxt2g) ![](assets/new.png)  
 - [2022-11-21-ACM-MM-&-ECCV-2022-|-美团视觉-8-篇论文揭秘内容领域的智能科技](https://toutiao.io/k/zkgjjqu) ![](assets/new.png)  
 - [2022-11-21-内核调试之-Kdump-的原理及配置](https://toutiao.io/k/7ad9sah) ![](assets/new.png)  
 - [2022-11-21-Hybrid-远程调试的前世今生](https://toutiao.io/k/klufzba) ![](assets/new.png)  

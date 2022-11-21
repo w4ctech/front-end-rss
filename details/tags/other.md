@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-21 14:11:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-21 14:37:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1916,6 +1916,11 @@
 - [2022-10-20-告别pointer-events:none使用HTML-inert属性真正禁用](https://www.zhangxinxu.com/wordpress/2022/10/html-inert-disabled-attribute/) 
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
+- [2022-11-21-MIRACLE-Linux-～-CentOSに替わる日本製の-Linux](https://www.v2ex.com/t/896922) 
+- [2022-11-21-国企搞什么岗位双向选择是不是就说明要变相裁员了？](https://www.v2ex.com/t/896921) 
+- [2022-11-21-接上一个帖子，起诉中国联通诉状书已经提交，可是还是太慢了，还有其他的渠道吗。](https://www.v2ex.com/t/896920) 
+- [2022-11-21-有没有那种一个网页可以显示自己制定文件夹里的电视剧的，点击播放是比如说-PotPlayer-的，然后又可以帮你记住看到哪的，嗯，在网页中的显示的。](https://www.v2ex.com/t/896919) 
+- [2022-11-21-windows-最近经常突然卡住黑屏，有什么排查的方法么](https://www.v2ex.com/t/896917) 
 - [2022-11-21-大家能帮我看看我的简历有什么问题吗?-为什么投了好几个月了也没人表示愿意雇佣我?](https://www.v2ex.com/t/896911) 
 - [2022-11-21-有在数字化转型里开发过的老哥们吗？想问下平时都是写的什么方面的代码](https://www.v2ex.com/t/896907) 
 - [2022-11-21-请大家推荐一款-mac-上最好的-chm-阅读器（付费也没事）](https://www.v2ex.com/t/896906) 
@@ -1942,14 +1947,6 @@
 - [2022-11-21-移动宽带屏蔽代理-IP？](https://www.v2ex.com/t/896875) 
 - [2022-11-21-Linux-有什么参数限制-nat-session-数目吗？](https://www.v2ex.com/t/896874) 
 - [2022-11-21-被同事的一个小小的细节给整无语了](https://www.v2ex.com/t/896873) 
-- [2022-11-21-求租地铁白石桥南附近一居](https://www.v2ex.com/t/896872) 
-- [2022-11-21-Mac-端如何查看外接硬盘读写、时长数据？](https://www.v2ex.com/t/896871) 
-- [2022-11-21-2-个完全不同类型的-AP，设置相同的-SSID-会有冲突吗？](https://www.v2ex.com/t/896869) 
-- [2022-11-21-有无杭州靠谱-MacBook-维修店推荐](https://www.v2ex.com/t/896868) 
-- [2022-11-21-招一位-IOS-高级开发处理收尾-bug，预算-1w-1.4w](https://www.v2ex.com/t/896867) 
-- [2022-11-21-想用-AssetStudio-从一个日本手游提取想要的语音文件，发现大部分语音大小都为-4660-字节，文件头有-ACB-Format/PC-标识，和-Google-找到的教程情况都不一样，-V...](https://www.v2ex.com/t/896866) 
-- [2022-11-21-全国移动到天津联通绕路](https://www.v2ex.com/t/896865) 
-- [2022-11-21-有没有可以用于食品级的电钻头？](https://www.v2ex.com/t/896863) 
 - [2022-11-21-敏捷团队的质量保障赋能-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15410&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fquality-assurance-enablement-in-agile-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-21-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-21-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

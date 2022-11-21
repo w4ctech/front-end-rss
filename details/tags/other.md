@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-21 06:17:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-21 06:46:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1916,6 +1916,11 @@
 - [2022-10-20-告别pointer-events:none使用HTML-inert属性真正禁用](https://www.zhangxinxu.com/wordpress/2022/10/html-inert-disabled-attribute/) 
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
+- [2022-11-21-请教一个域名转入-cloudflare-的问题](https://www.v2ex.com/t/896792) 
+- [2022-11-21-MacOS13，进入电池选项只有这些设置算正常吗？](https://www.v2ex.com/t/896790) 
+- [2022-11-21-可以在运动中，关闭屏幕触控吗？](https://www.v2ex.com/t/896788) 
+- [2022-11-21-昨晚上网冲浪的时候，没事干看世界杯要开了，上了-3000ustd-主队赢记得还是-1.X-低赔，以为稳了，上半场没看完就直接睡了，现在一上午做什么都提不起精神来。如...](https://www.v2ex.com/t/896787) 
+- [2022-11-21-漫步者-LolliPods-Pro-刚-1-年-5-个月（去年-7-月份买的）右耳就充不进电+掉电快，现在很多一年质保的产品都是过了没多久就坏，单纯运气不好？](https://www.v2ex.com/t/896786) 
 - [2022-11-21-怎么克制想跷二郎腿的欲望？](https://www.v2ex.com/t/896784) 
 - [2022-11-21-不懂就请教，-每种币-在发行前，数量是否就固定死的了？](https://www.v2ex.com/t/896779) 
 - [2022-11-21-前面刚刚互联网平台投诉回来没多久，-wechat-又被封号了](https://www.v2ex.com/t/896778) 
@@ -1934,8 +1939,6 @@
 - [2022-11-21-给戴尔整笑了](https://www.v2ex.com/t/896749) 
 - [2022-11-21-请教个-ELK-中,-logstash-根据不同主机的-`tags`-来指定索引的问题](https://www.v2ex.com/t/896746) 
 - [2022-11-21-前端学习后端，语言选择](https://www.v2ex.com/t/896745) 
-- [2022-11-21-有没有办法在-iPhone-上实现类似-Time-Machine-的功能](https://www.v2ex.com/t/896741) 
-- [2022-11-21-第一次关注到工资怎么结算](https://www.v2ex.com/t/896736) 
 - [2022-11-21-敏捷团队的质量保障赋能-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15410&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fquality-assurance-enablement-in-agile-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-21-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-21-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

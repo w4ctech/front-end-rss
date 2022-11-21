@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-21 08:17:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-21 08:44:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1916,6 +1916,11 @@
 - [2022-10-20-告别pointer-events:none使用HTML-inert属性真正禁用](https://www.zhangxinxu.com/wordpress/2022/10/html-inert-disabled-attribute/) 
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
+- [2022-11-21-试用期如何委婉的向老板说-"离职"](https://www.v2ex.com/t/896843) 
+- [2022-11-21-Apple-Watch-自动检测运动，能否自动确认？](https://www.v2ex.com/t/896838) 
+- [2022-11-21-硬盘坏了为啥格式化后还能重新用](https://www.v2ex.com/t/896837) 
+- [2022-11-21-求一个-apple-one-日本的车](https://www.v2ex.com/t/896835) 
+- [2022-11-21-RaiDrive-非盈利版有什么办法上车吗？](https://www.v2ex.com/t/896834) 
 - [2022-11-21-莫名一大堆-facetime-拨入](https://www.v2ex.com/t/896833) 
 - [2022-11-21-你们世界杯在哪里下单](https://www.v2ex.com/t/896832) 
 - [2022-11-21-Mac-16G-内存这种程度，下次换机需要上-32G-吗](https://www.v2ex.com/t/896831) 
@@ -1938,12 +1943,6 @@
 - [2022-11-21-上海闵行一室户，-10-号线紫藤路附近，步行-10-分钟到地铁站](https://www.v2ex.com/t/896797) 
 - [2022-11-21-Java-引用对象导致-jackson-反序列化结果不正确](https://www.v2ex.com/t/896796) 
 - [2022-11-21-为什么-markdown-的代码块大多数都没有自动软换行？](https://www.v2ex.com/t/896795) 
-- [2022-11-21-请教一个域名转入-cloudflare-的问题](https://www.v2ex.com/t/896792) 
-- [2022-11-21-MacOS13，进入电池选项只有这些设置算正常吗？](https://www.v2ex.com/t/896790) 
-- [2022-11-21-可以在运动中，关闭屏幕触控吗？](https://www.v2ex.com/t/896788) 
-- [2022-11-21-昨晚上网冲浪的时候，没事干看世界杯要开了，上了-3000ustd-主队赢记得还是-1.X-低赔，以为稳了，上半场没看完就直接睡了，现在一上午做什么都提不起精神来。如...](https://www.v2ex.com/t/896787) 
-- [2022-11-21-漫步者-LolliPods-Pro-刚-1-年-5-个月（去年-7-月份买的）右耳就充不进电+掉电快，现在很多一年质保的产品都是过了没多久就坏，单纯运气不好？](https://www.v2ex.com/t/896786) 
-- [2022-11-21-怎么克制想跷二郎腿的欲望？](https://www.v2ex.com/t/896784) 
 - [2022-11-21-敏捷团队的质量保障赋能-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15410&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fquality-assurance-enablement-in-agile-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-21-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-21-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

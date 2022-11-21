@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-21 08:17:23。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-21 08:44:11。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -71,6 +71,12 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-11-20-JS之我用单img元素实现了图像resize拉伸效果](https://www.zhangxinxu.com/wordpress/2022/11/js-image-resize/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-21-试用期如何委婉的向老板说-"离职"](https://www.v2ex.com/t/896843) 
+- [【V2EX】2022-11-21-Apple-Watch-自动检测运动，能否自动确认？](https://www.v2ex.com/t/896838) 
+- [【V2EX】2022-11-21-硬盘坏了为啥格式化后还能重新用](https://www.v2ex.com/t/896837) 
+- [【V2EX】2022-11-21-npm-命令没有任何输出,-重装也还是一样的](https://www.v2ex.com/t/896836) 
+- [【V2EX】2022-11-21-求一个-apple-one-日本的车](https://www.v2ex.com/t/896835) 
+- [【V2EX】2022-11-21-RaiDrive-非盈利版有什么办法上车吗？](https://www.v2ex.com/t/896834) 
 - [【V2EX】2022-11-21-莫名一大堆-facetime-拨入](https://www.v2ex.com/t/896833) 
 - [【V2EX】2022-11-21-你们世界杯在哪里下单](https://www.v2ex.com/t/896832) 
 - [【V2EX】2022-11-21-Mac-16G-内存这种程度，下次换机需要上-32G-吗](https://www.v2ex.com/t/896831) 
@@ -99,13 +105,6 @@
 - [【V2EX】2022-11-21-Java-引用对象导致-jackson-反序列化结果不正确](https://www.v2ex.com/t/896796) 
 - [【V2EX】2022-11-21-为什么-markdown-的代码块大多数都没有自动软换行？](https://www.v2ex.com/t/896795) 
 - [【V2EX】2022-11-21-请教下使用-flutter+h5-的混合开发可行性](https://www.v2ex.com/t/896794) 
-- [【V2EX】2022-11-21-请教一个域名转入-cloudflare-的问题](https://www.v2ex.com/t/896792) 
-- [【V2EX】2022-11-21-直播中常见的-AI-换脸是什么方案实现的？](https://www.v2ex.com/t/896791) 
-- [【V2EX】2022-11-21-MacOS13，进入电池选项只有这些设置算正常吗？](https://www.v2ex.com/t/896790) 
-- [【V2EX】2022-11-21-可以在运动中，关闭屏幕触控吗？](https://www.v2ex.com/t/896788) 
-- [【V2EX】2022-11-21-昨晚上网冲浪的时候，没事干看世界杯要开了，上了-3000ustd-主队赢记得还是-1.X-低赔，以为稳了，上半场没看完就直接睡了，现在一上午做什么都提不起精神来。如...](https://www.v2ex.com/t/896787) 
-- [【V2EX】2022-11-21-漫步者-LolliPods-Pro-刚-1-年-5-个月（去年-7-月份买的）右耳就充不进电+掉电快，现在很多一年质保的产品都是过了没多久就坏，单纯运气不好？](https://www.v2ex.com/t/896786) 
-- [【V2EX】2022-11-21-怎么克制想跷二郎腿的欲望？](https://www.v2ex.com/t/896784) 
 - [【技术头条】2022-11-21-敏捷团队的质量保障赋能-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15410&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fquality-assurance-enablement-in-agile-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-21-团队的Code-Review实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15409&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-code-review%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-21-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

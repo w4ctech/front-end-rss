@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-21 09:38:45。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-21 10:14:07。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -71,6 +71,11 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-11-20-JS之我用单img元素实现了图像resize拉伸效果](https://www.zhangxinxu.com/wordpress/2022/11/js-image-resize/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-21-求教：客厅只有一个网口，如何兼顾-nas-和-iptv？](https://www.v2ex.com/t/896861) 
+- [【V2EX】2022-11-21-买了把海沃氏二手-look,没有后仰锁定,人有点晕了](https://www.v2ex.com/t/896860) 
+- [【V2EX】2022-11-21-Nuc8-i5-厚版-换主板大概多少钱啊？](https://www.v2ex.com/t/896859) 
+- [【V2EX】2022-11-21-我有个大胆的想法](https://www.v2ex.com/t/896858) 
+- [【V2EX】2022-11-21-老铁门，我又来了，这次我带来了新的作品！](https://www.v2ex.com/t/896857) 
 - [【V2EX】2022-11-21-感觉社交值过低，有什么靠谱的志愿者平台吗？](https://www.v2ex.com/t/896856) 
 - [【V2EX】2022-11-21-iOS-总是杀第三方输入法咋办?换手机吗?](https://www.v2ex.com/t/896855) 
 - [【V2EX】2022-11-21-抖音电商-商品中心招聘](https://www.v2ex.com/t/896853) 
@@ -97,11 +102,6 @@
 - [【V2EX】2022-11-21-分享一个自己改浏览器内核从而实现支持-Chrome-拓展的-Android-浏览器](https://www.v2ex.com/t/896817) 
 - [【V2EX】2022-11-21-chrome-插件调用下载时弹窗被遮住](https://www.v2ex.com/t/896814) 
 - [【V2EX】2022-11-21-关于前段时间听大家讨论机场的疑问](https://www.v2ex.com/t/896812) 
-- [【V2EX】2022-11-21-写小说副业经验分享和吐槽](https://www.v2ex.com/t/896811) 
-- [【V2EX】2022-11-21-云计算-openstack](https://www.v2ex.com/t/896810) 
-- [【V2EX】2022-11-21-如何监控家里的网络情况？](https://www.v2ex.com/t/896809) 
-- [【V2EX】2022-11-21-2022-年末了，-Windows-有什么值得推荐的工具类软件？](https://www.v2ex.com/t/896808) 
-- [【V2EX】2022-11-21-最近在吃红景天，有了解的朋友吗？](https://www.v2ex.com/t/896807) 
 - [【技术头条】2022-11-21-敏捷团队的质量保障赋能-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15410&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fquality-assurance-enablement-in-agile-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-21-团队的Code-Review实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15409&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-code-review%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-21-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

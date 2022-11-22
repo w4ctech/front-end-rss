@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-22 14:38:29，:rocket: 更新条数: +2015， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-22 15:13:31，:rocket: 更新条数: +2004， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -52,7 +52,7 @@
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)![](assets/dot.png)   
-- [技术头条](#技术头条)![](assets/dot.png)   
+- [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)  
 - [物联网智库](#物联网智库)  
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-11-22-求助如何去水印](https://www.v2ex.com/t/897203) ![](assets/new.png)  
+- [2022-11-22-cctv-网页版看球，为什么上传速度那么多是什么原理](https://www.v2ex.com/t/897201) ![](assets/new.png)  
+- [2022-11-22-为啥在-Safari-的搜索右下角会变成小喇叭](https://www.v2ex.com/t/897200) ![](assets/new.png)  
 - [2022-11-22-有懂法律的吗？](https://www.v2ex.com/t/897199) ![](assets/new.png)  
 - [2022-11-22-大家的发际线危险了吗？](https://www.v2ex.com/t/897198) ![](assets/new.png)  
 - [2022-11-22-Hackintosh-开机启动后黑屏，无法进入解锁界面](https://www.v2ex.com/t/897197) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-11-22-易客满配送的日亚-Apple-TV-被通知无法清关自动退款了](https://www.v2ex.com/t/897182) ![](assets/new.png)  
 - [2022-11-22-微信拍照延迟很高？](https://www.v2ex.com/t/897181) ![](assets/new.png)  
 - [2022-11-22-现在的技术网站都喜欢这么恰饭的吗？-如果讨厌的话给你支招](https://www.v2ex.com/t/897180) ![](assets/new.png)  
-- [2022-11-22-求“家人”！-Spotfy-美区长期稳定家庭年付](https://www.v2ex.com/t/897178) ![](assets/new.png)  
-- [2022-11-22-职场败犬面试吐槽](https://www.v2ex.com/t/897177) ![](assets/new.png)  
-- [2022-11-22-cnbeta-啥时候恢复啊？有人有啥消息没](https://www.v2ex.com/t/897175) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -522,16 +522,6 @@
 </summary>
 
 
-- [2022-11-22-使用CDC模式改造遗留系统-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15411&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fchange-data-capture-legacy-system%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-11-22-敏捷团队的质量保障赋能-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15410&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fquality-assurance-enablement-in-agile-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-11-22-团队的Code-Review实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15409&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-code-review%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-11-22-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-11-22-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-11-22-以综合指数观察和评价研发效能的趋势-link.zhihu.com](https://blogread.cn/news/go.php?idItem=15406&url=https%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttps%253A%2F%2Finsights.thoughtworks.cn%2Fobserving-evaluating-research-development-efficiency-trend%2F%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-11-22-DDD的哲学意味（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15405&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fddd-philosophy-entity-value-object%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-11-22-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-11-22-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-11-22-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -547,8 +537,8 @@
 - [2022-11-22-面试官：MySQL-上亿大表，如何深度优化？](https://toutiao.io/k/e7gmc5b) ![](assets/new.png)  
 - [2022-11-22-《程序员数学：素数》：你真的了解-RSA-加密算法吗？](https://toutiao.io/k/e6wsl14) ![](assets/new.png)  
 - [2022-11-22-阿里大数据之路：数据模型篇大总结](https://toutiao.io/k/nksk5uj) ![](assets/new.png)  
-- [2022-11-22-这些“电脑常识”竟然不是常识？](https://toutiao.io/k/wrvewu8) ![](assets/new.png)  
 - [2022-11-22-ElasticSearch-深度分页详解](https://toutiao.io/k/u7obl5s) ![](assets/new.png)  
+- [2022-11-22-这些“电脑常识”竟然不是常识？](https://toutiao.io/k/wrvewu8) ![](assets/new.png)  
 - [2022-11-22-WebRTC-在-Google-Meet-中应用的新发现](https://toutiao.io/k/ean5kp9) ![](assets/new.png)  
 - [2022-11-22-深入浅出学习透析-Nginx-服务器的基本原理和配置指南（Https-安全控制篇）](https://toutiao.io/k/tgifok8) ![](assets/new.png)  
 - [2022-11-22-从程序员到百万高管：寒冬之下的技术人修炼路径](https://toutiao.io/k/iv4ykeu) ![](assets/new.png)  

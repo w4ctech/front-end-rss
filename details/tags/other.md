@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-22 14:38:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-22 15:13:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1916,6 +1916,8 @@
 - [2022-10-20-告别pointer-events:none使用HTML-inert属性真正禁用](https://www.zhangxinxu.com/wordpress/2022/10/html-inert-disabled-attribute/) 
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
+- [2022-11-22-求助如何去水印](https://www.v2ex.com/t/897203) 
+- [2022-11-22-cctv-网页版看球，为什么上传速度那么多是什么原理](https://www.v2ex.com/t/897201) 
 - [2022-11-22-有懂法律的吗？](https://www.v2ex.com/t/897199) 
 - [2022-11-22-大家的发际线危险了吗？](https://www.v2ex.com/t/897198) 
 - [2022-11-22-Hackintosh-开机启动后黑屏，无法进入解锁界面](https://www.v2ex.com/t/897197) 
@@ -1945,17 +1947,6 @@
 - [2022-11-22-使用黑名单-iPhone-在入境国外的时候会有什么问题吗？在国外生活呢？](https://www.v2ex.com/t/897160) 
 - [2022-11-22-西安鱼化寨-出租个人-3-房](https://www.v2ex.com/t/897155) 
 - [2022-11-22-阿里网盘资源怎么采集的](https://www.v2ex.com/t/897154) 
-- [2022-11-22-抖音可以看-4K-60-帧的世界怀-不用登账号-不用开会员](https://www.v2ex.com/t/897152) 
-- [2022-11-22-分享一本理查德·斯托曼的书吧！](https://www.v2ex.com/t/897151) 
-- [2022-11-22-求高质量-LES-蕾丝边社交平台推荐](https://www.v2ex.com/t/897150) 
-- [2022-11-22-使用CDC模式改造遗留系统-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15411&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fchange-data-capture-legacy-system%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [2022-11-22-敏捷团队的质量保障赋能-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15410&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fquality-assurance-enablement-in-agile-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [2022-11-22-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [2022-11-22-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [2022-11-22-以综合指数观察和评价研发效能的趋势-link.zhihu.com](https://blogread.cn/news/go.php?idItem=15406&url=https%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttps%253A%2F%2Finsights.thoughtworks.cn%2Fobserving-evaluating-research-development-efficiency-trend%2F%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [2022-11-22-DDD的哲学意味（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15405&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fddd-philosophy-entity-value-object%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [2022-11-22-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [2022-11-22-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-22-这是我见过最好的微服务-SaaS-快速开发平台，功能完整，代码结构清晰](https://toutiao.io/k/rz9qoa6) 
 - [2022-11-22-阿里大数据之路：数据模型篇大总结](https://toutiao.io/k/nksk5uj) 
 - [2022-11-22-这些“电脑常识”竟然不是常识？](https://toutiao.io/k/wrvewu8) 

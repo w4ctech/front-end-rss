@@ -9953,6 +9953,21 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "求助如何去水印",
+        "link": "https://www.v2ex.com/t/897203",
+        "date": "2022-11-22"
+      },
+      {
+        "title": "cctv 网页版看球，为什么上传速度那么多是什么原理",
+        "link": "https://www.v2ex.com/t/897201",
+        "date": "2022-11-22"
+      },
+      {
+        "title": "为啥在 Safari 的搜索右下角会变成小喇叭",
+        "link": "https://www.v2ex.com/t/897200",
+        "date": "2022-11-22"
+      },
+      {
         "title": "有懂法律的吗？",
         "link": "https://www.v2ex.com/t/897199",
         "date": "2022-11-22"
@@ -10146,26 +10161,6 @@
         "title": "阿里网盘资源怎么采集的",
         "link": "https://www.v2ex.com/t/897154",
         "date": "2022-11-22"
-      },
-      {
-        "title": "[开源]大家快拥有自己的短信拦截器吧 https://github.com/caidukai/sms-interception",
-        "link": "https://www.v2ex.com/t/897153",
-        "date": "2022-11-22"
-      },
-      {
-        "title": "抖音可以看 4K 60 帧的世界怀 不用登账号 不用开会员",
-        "link": "https://www.v2ex.com/t/897152",
-        "date": "2022-11-22"
-      },
-      {
-        "title": "分享一本理查德·斯托曼的书吧！",
-        "link": "https://www.v2ex.com/t/897151",
-        "date": "2022-11-22"
-      },
-      {
-        "title": "求高质量 LES 蕾丝边社交平台推荐",
-        "link": "https://www.v2ex.com/t/897150",
-        "date": "2022-11-22"
       }
     ]
   },
@@ -10173,58 +10168,7 @@
     "rss": "https://front-rss.herokuapp.com/blogread/newest",
     "title": "技术头条",
     "link": "http://blogread.cn/news/newest.php",
-    "items": [
-      {
-        "title": "使用CDC模式改造遗留系统 (insights.thoughtworks.cn)",
-        "link": "https://blogread.cn/news/go.php?idItem=15411&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fchange-data-capture-legacy-system%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-11-22"
-      },
-      {
-        "title": "敏捷团队的质量保障赋能 (insights.thoughtworks.cn)",
-        "link": "https://blogread.cn/news/go.php?idItem=15410&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fquality-assurance-enablement-in-agile-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-11-22"
-      },
-      {
-        "title": "团队的Code Review实践 (insights.thoughtworks.cn)",
-        "link": "https://blogread.cn/news/go.php?idItem=15409&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-code-review%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-11-22"
-      },
-      {
-        "title": "Tech Lead如何组建你的全明星团队 (insights.thoughtworks.cn)",
-        "link": "https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-11-22"
-      },
-      {
-        "title": "前端测试体系和最佳实践 (insights.thoughtworks.cn)",
-        "link": "https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-11-22"
-      },
-      {
-        "title": "以综合指数观察和评价研发效能的趋势 (link.zhihu.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=15406&url=https%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttps%253A%2F%2Finsights.thoughtworks.cn%2Fobserving-evaluating-research-development-efficiency-trend%2F%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-11-22"
-      },
-      {
-        "title": "DDD的哲学意味（上） (insights.thoughtworks.cn)",
-        "link": "https://blogread.cn/news/go.php?idItem=15405&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fddd-philosophy-entity-value-object%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-11-22"
-      },
-      {
-        "title": "重新思考 React 项目架构 (teobler.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-11-22"
-      },
-      {
-        "title": "日志记录的最佳实践 (insights.thoughtworks.cn)",
-        "link": "https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-11-22"
-      },
-      {
-        "title": "一个非教条式的TDD例子 (insights.thoughtworks.cn)",
-        "link": "https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-11-22"
-      }
-    ]
+    "items": []
   },
   {
     "rss": "https://front-rss.herokuapp.com/toutiao/today",
@@ -10252,13 +10196,13 @@
         "date": "2022-11-22"
       },
       {
-        "title": "这些“电脑常识”竟然不是常识？",
-        "link": "https://toutiao.io/k/wrvewu8",
+        "title": "ElasticSearch 深度分页详解",
+        "link": "https://toutiao.io/k/u7obl5s",
         "date": "2022-11-22"
       },
       {
-        "title": "ElasticSearch 深度分页详解",
-        "link": "https://toutiao.io/k/u7obl5s",
+        "title": "这些“电脑常识”竟然不是常识？",
+        "link": "https://toutiao.io/k/wrvewu8",
         "date": "2022-11-22"
       },
       {

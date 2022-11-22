@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-22 11:35:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-22 12:26:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1916,6 +1916,10 @@
 - [2022-10-20-告别pointer-events:none使用HTML-inert属性真正禁用](https://www.zhangxinxu.com/wordpress/2022/10/html-inert-disabled-attribute/) 
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
+- [2022-11-22-作为一个在学校的合同工，怎么提离职-能保证自己不被拖离职时间？](https://www.v2ex.com/t/897173) 
+- [2022-11-22-Mac-有没有办法连接到-Windows-进行.NET-开发](https://www.v2ex.com/t/897171) 
+- [2022-11-22-哎，国内的-BT-完蛋了](https://www.v2ex.com/t/897168) 
+- [2022-11-22-Clicknium-大更新，支持结构化数据抓取](https://www.v2ex.com/t/897167) 
 - [2022-11-22-有一批复购客户，拉他们进群，这样的外包怎么找](https://www.v2ex.com/t/897166) 
 - [2022-11-22-大家有没有-50-元左右安卓设备推荐](https://www.v2ex.com/t/897165) 
 - [2022-11-22-跟同事介绍了一下国内-35-岁的问题，同事们都很惊讶](https://www.v2ex.com/t/897164) 
@@ -1947,10 +1951,6 @@
 - [2022-11-22-教育行业数据可视化应用方案与实践](https://www.v2ex.com/t/897128) 
 - [2022-11-22-TG-突然被封禁,是巧合还是搜狗输入法的问题](https://www.v2ex.com/t/897125) 
 - [2022-11-22-朋友们，有用过-opengl-glsl-去水印的么？](https://www.v2ex.com/t/897124) 
-- [2022-11-22-杭州/上海-字节-|-国际化-|-后端专家/高级专家（极速通道）](https://www.v2ex.com/t/897123) 
-- [2022-11-22-Python-列表推导式的新手问题](https://www.v2ex.com/t/897122) 
-- [2022-11-22-服务器上跑的数据盘，感觉-sn750-可能质保内寿命会被吃干净](https://www.v2ex.com/t/897121) 
-- [2022-11-22-找一首英文歌，水声太大，音乐识别软件识别不出来](https://www.v2ex.com/t/897120) 
 - [2022-11-22-使用CDC模式改造遗留系统-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15411&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fchange-data-capture-legacy-system%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-22-敏捷团队的质量保障赋能-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15410&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fquality-assurance-enablement-in-agile-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-22-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

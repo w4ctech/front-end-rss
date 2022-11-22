@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-22 11:11:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-22 11:35:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1916,6 +1916,12 @@
 - [2022-10-20-告别pointer-events:none使用HTML-inert属性真正禁用](https://www.zhangxinxu.com/wordpress/2022/10/html-inert-disabled-attribute/) 
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
+- [2022-11-22-有一批复购客户，拉他们进群，这样的外包怎么找](https://www.v2ex.com/t/897166) 
+- [2022-11-22-大家有没有-50-元左右安卓设备推荐](https://www.v2ex.com/t/897165) 
+- [2022-11-22-跟同事介绍了一下国内-35-岁的问题，同事们都很惊讶](https://www.v2ex.com/t/897164) 
+- [2022-11-22-跨城市购买深圳社保有什么风险吗？](https://www.v2ex.com/t/897163) 
+- [2022-11-22-车被人撞了，修好以后的折旧不能赔，只能自认倒霉吗？](https://www.v2ex.com/t/897162) 
+- [2022-11-22-如何看待微信的工信部投诉中无法投诉教育网和校园网？](https://www.v2ex.com/t/897161) 
 - [2022-11-22-使用黑名单-iPhone-在入境国外的时候会有什么问题吗？在国外生活呢？](https://www.v2ex.com/t/897160) 
 - [2022-11-22-西安鱼化寨-出租个人-3-房](https://www.v2ex.com/t/897155) 
 - [2022-11-22-阿里网盘资源怎么采集的](https://www.v2ex.com/t/897154) 
@@ -1945,9 +1951,6 @@
 - [2022-11-22-Python-列表推导式的新手问题](https://www.v2ex.com/t/897122) 
 - [2022-11-22-服务器上跑的数据盘，感觉-sn750-可能质保内寿命会被吃干净](https://www.v2ex.com/t/897121) 
 - [2022-11-22-找一首英文歌，水声太大，音乐识别软件识别不出来](https://www.v2ex.com/t/897120) 
-- [2022-11-22-iPhone-的电池质量变差了，同样的使用习惯-13pm-一年掉-10%，-11-一年掉-5%](https://www.v2ex.com/t/897115) 
-- [2022-11-22-甲骨文升级付费账户后有什么要注意的事](https://www.v2ex.com/t/897114) 
-- [2022-11-22-想学习一些关于买卖股票基金的知识，想问一下各位老哥，有哪些学习渠道呢？](https://www.v2ex.com/t/897113) 
 - [2022-11-22-使用CDC模式改造遗留系统-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15411&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fchange-data-capture-legacy-system%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-22-敏捷团队的质量保障赋能-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15410&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fquality-assurance-enablement-in-agile-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-22-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

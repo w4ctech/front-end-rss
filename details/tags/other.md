@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-22 21:35:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-22 22:12:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1916,6 +1916,7 @@
 - [2022-10-20-告别pointer-events:none使用HTML-inert属性真正禁用](https://www.zhangxinxu.com/wordpress/2022/10/html-inert-disabled-attribute/) 
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
+- [2022-11-22-MacBook-2021-pro-电池健康](https://www.v2ex.com/t/897222) 
 - [2022-11-22-可以把日本动漫中虚构的店名、队名一类（有一定独特性的名字）注册成商标用于自己做的个人商业项目吗？](https://www.v2ex.com/t/897220) 
 - [2022-11-22-一个没人关注的小现象，关于-DTMB](https://www.v2ex.com/t/897219) 
 - [2022-11-22-想问一下这种字符串是-base64-吧？为何解码后乱码啊？是我解的有问题还是这个不是-base64](https://www.v2ex.com/t/897218) 
@@ -1948,7 +1949,6 @@
 - [2022-11-22-求“家人”！-Spotfy-美区长期稳定家庭年付](https://www.v2ex.com/t/897178) 
 - [2022-11-22-cnbeta-啥时候恢复啊？有人有啥消息没](https://www.v2ex.com/t/897175) 
 - [2022-11-22-作为一个在学校的合同工，怎么提离职-能保证自己不被拖离职时间？](https://www.v2ex.com/t/897173) 
-- [2022-11-22-Mac-有没有办法连接到-Windows-进行.NET-开发](https://www.v2ex.com/t/897171) 
 - [2022-11-22-使用CDC模式改造遗留系统-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15411&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fchange-data-capture-legacy-system%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-22-敏捷团队的质量保障赋能-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15410&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fquality-assurance-enablement-in-agile-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-22-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

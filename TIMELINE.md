@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-22 21:35:15。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-22 22:12:40。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -71,6 +71,7 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-11-20-JS之我用单img元素实现了图像resize拉伸效果](https://www.zhangxinxu.com/wordpress/2022/11/js-image-resize/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-22-MacBook-2021-pro-电池健康](https://www.v2ex.com/t/897222) 
 - [【V2EX】2022-11-22-可以把日本动漫中虚构的店名、队名一类（有一定独特性的名字）注册成商标用于自己做的个人商业项目吗？](https://www.v2ex.com/t/897220) 
 - [【V2EX】2022-11-22-一个没人关注的小现象，关于-DTMB](https://www.v2ex.com/t/897219) 
 - [【V2EX】2022-11-22-想问一下这种字符串是-base64-吧？为何解码后乱码啊？是我解的有问题还是这个不是-base64](https://www.v2ex.com/t/897218) 
@@ -111,8 +112,6 @@
 - [【V2EX】2022-11-22-职场败犬面试吐槽](https://www.v2ex.com/t/897177) 
 - [【V2EX】2022-11-22-cnbeta-啥时候恢复啊？有人有啥消息没](https://www.v2ex.com/t/897175) 
 - [【V2EX】2022-11-22-作为一个在学校的合同工，怎么提离职-能保证自己不被拖离职时间？](https://www.v2ex.com/t/897173) 
-- [【V2EX】2022-11-22-有没有在局域网-wifi-环境下视频通话的开源软件](https://www.v2ex.com/t/897172) 
-- [【V2EX】2022-11-22-Mac-有没有办法连接到-Windows-进行.NET-开发](https://www.v2ex.com/t/897171) 
 - [【技术头条】2022-11-22-使用CDC模式改造遗留系统-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15411&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fchange-data-capture-legacy-system%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-22-敏捷团队的质量保障赋能-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15410&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fquality-assurance-enablement-in-agile-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-22-团队的Code-Review实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15409&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-code-review%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-22 01:05:49，:rocket: 更新条数: +2011， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-22 02:59:42，:rocket: 更新条数: +2008， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,26 +491,26 @@
 </summary>
 
 
-- [2022-11-22-Plex-怎么买便宜一些？](https://www.v2ex.com/t/896965) ![](assets/new.png)  
-- [2022-11-22-当用户首次打开-Edge-浏览器，就必定会同意的一件事](https://www.v2ex.com/t/896964) ![](assets/new.png)  
-- [2022-11-22-请假一个问题-关于视频网站的存储](https://www.v2ex.com/t/896963) ![](assets/new.png)  
-- [2022-11-22-Pixelmator-Pro-应用商店半价，可以考虑入了](https://www.v2ex.com/t/896962) ![](assets/new.png)  
-- [2022-11-22-稳定的-ipv6-外网出口](https://www.v2ex.com/t/896961) ![](assets/new.png)  
-- [2022-11-22-现阶段换机的纠结](https://www.v2ex.com/t/896960) ![](assets/new.png)  
-- [2022-11-22-求助，作为证据的短信被删除，有没有办法还原恢复？](https://www.v2ex.com/t/896959) ![](assets/new.png)  
-- [2022-11-22-美股-etf-热门股票加密币网页监控](https://www.v2ex.com/t/896958) ![](assets/new.png)  
-- [2022-11-22-有没有一些靠谱的渠道可以买到海外的美妆产品呀？](https://www.v2ex.com/t/896957) ![](assets/new.png)  
-- [2022-11-21-有没有人比较深入了解-1.1.1.1-warp-手机版？](https://www.v2ex.com/t/896956) ![](assets/new.png)  
-- [2022-11-21-上海-不加班-外企-招-中级前端3-年经验起，高级安卓（5-年起，要求懂-Java-），中级-devOps（3-年起）](https://www.v2ex.com/t/896955) ![](assets/new.png)  
-- [2022-11-21-Cloudflare-测速更新了，多出了丢包率测试-speed.cloudflare.com](https://www.v2ex.com/t/896954) ![](assets/new.png)  
-- [2022-11-21-问下大家，在-function-里定义的-type-和在-function-外定义有区别嘛？-Typescript](https://www.v2ex.com/t/896953) ![](assets/new.png)  
-- [2022-11-21-如何清除-Markdown-的-media-目录下的多余图片？](https://www.v2ex.com/t/896952) ![](assets/new.png)  
-- [2022-11-21-ppp-协议、电路交换-和-点对点信道-这三者是什么关系？](https://www.v2ex.com/t/896951) ![](assets/new.png)  
-- [2022-11-21-工作中遇到的数学/算法问题，求教怎么解决](https://www.v2ex.com/t/896949) ![](assets/new.png)  
-- [2022-11-21-吉隆坡-招聘-Flutter/Node.js/运维/VUE/自动测试/系统运维/高级-UI-等](https://www.v2ex.com/t/896948) ![](assets/new.png)  
-- [2022-11-21-分享一下收藏过的极好的-cheatsheet？](https://www.v2ex.com/t/896947) ![](assets/new.png)  
-- [2022-11-21-蛤？-Edge-浏览器这么智能的吗，背后真相是否令人暖心](https://www.v2ex.com/t/896946) ![](assets/new.png)  
-- [2022-11-21-tradingview-黑五](https://www.v2ex.com/t/896945) ![](assets/new.png)  
+- [2022-11-22-Vscode-插件能否捕获到-terminal-中输入内容？](https://www.v2ex.com/t/897012) ![](assets/new.png)  
+- [2022-11-22-上海/北京/杭州/远程-Bitjob-Web3-岗位招聘---CTO/后端/前端/投研/..../大量-HC](https://www.v2ex.com/t/897010) ![](assets/new.png)  
+- [2022-11-22-各位大哥都在用啥面霜](https://www.v2ex.com/t/897009) ![](assets/new.png)  
+- [2022-11-22-有没有自建答题训练的开源项目？](https://www.v2ex.com/t/897008) ![](assets/new.png)  
+- [2022-11-22-Python-web-UI-也来了](https://www.v2ex.com/t/897007) ![](assets/new.png)  
+- [2022-11-22-程序员白头发问题，有人解决了吗](https://www.v2ex.com/t/897005) ![](assets/new.png)  
+- [2022-11-22-Greptime（格睿云）招聘-Go-实习生](https://www.v2ex.com/t/897004) ![](assets/new.png)  
+- [2022-11-22-求推荐学习基于-serverless,-最好是腾讯云的-cloudbase-开发的开源项目](https://www.v2ex.com/t/897003) ![](assets/new.png)  
+- [2022-11-22-关于-infuse-无法访问-Nas-IPV6-的问题](https://www.v2ex.com/t/897002) ![](assets/new.png)  
+- [2022-11-22-微信读书的英文排版一言难尽](https://www.v2ex.com/t/897001) ![](assets/new.png)  
+- [2022-11-22-应届生就业后第一次准备跳槽，看了牛客网应届生面经，感觉自己就是一坨屎](https://www.v2ex.com/t/897000) ![](assets/new.png)  
+- [2022-11-22-2022-卡塔尔世界杯赛事直播地址/源](https://www.v2ex.com/t/896999) ![](assets/new.png)  
+- [2022-11-22-需要带父亲去北京做手术，但是北京健康宝一直弹窗-3，已经申诉多次无果。有什么办法吗？](https://www.v2ex.com/t/896998) ![](assets/new.png)  
+- [2022-11-22-ps4-还是-xbox？](https://www.v2ex.com/t/896997) ![](assets/new.png)  
+- [2022-11-22-Rancher-RKE2-给每个-worker-node-都装一个-Ingress-Controller-是为什么呢?](https://www.v2ex.com/t/896996) ![](assets/new.png)  
+- [2022-11-22-中国广播电视运营商手机卡信号可以吗？](https://www.v2ex.com/t/896995) ![](assets/new.png)  
+- [2022-11-22-qq-企业邮箱接收邮件是不是有要先-ai-审核再接收？换了-icloud-绑定域名邮箱，收发老快了](https://www.v2ex.com/t/896989) ![](assets/new.png)  
+- [2022-11-22-Edge-浏览器没有下限](https://www.v2ex.com/t/896986) ![](assets/new.png)  
+- [2022-11-22-使用-CN-IP-注册外区-Apple-ID-会有什么限制？](https://www.v2ex.com/t/896985) ![](assets/new.png)  
+- [2022-11-22-13-pro-max-用了一年了，电池掉到-91%了](https://www.v2ex.com/t/896984) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -531,7 +531,6 @@
 - [2022-11-22-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-11-22-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-11-22-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-11-22-我是怎么读代码的-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15401&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-read-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -544,15 +543,20 @@
 
 
 - [2022-11-22-这是我见过最好的微服务-SaaS-快速开发平台，功能完整，代码结构清晰](https://toutiao.io/k/rz9qoa6) ![](assets/new.png)  
+- [2022-11-22-面试官：MySQL-上亿大表，如何深度优化？](https://toutiao.io/k/e7gmc5b) ![](assets/new.png)  
 - [2022-11-22-WebRTC-在-Google-Meet-中应用的新发现](https://toutiao.io/k/ean5kp9) ![](assets/new.png)  
+- [2022-11-22-这些“电脑常识”竟然不是常识？](https://toutiao.io/k/wrvewu8) ![](assets/new.png)  
 - [2022-11-22-深入浅出学习透析-Nginx-服务器的基本原理和配置指南（Https-安全控制篇）](https://toutiao.io/k/tgifok8) ![](assets/new.png)  
 - [2022-11-22-《程序员数学：素数》：你真的了解-RSA-加密算法吗？](https://toutiao.io/k/e6wsl14) ![](assets/new.png)  
-- [2022-11-22-这些“电脑常识”竟然不是常识？](https://toutiao.io/k/wrvewu8) ![](assets/new.png)  
-- [2022-11-22-面试官：MySQL-上亿大表，如何深度优化？](https://toutiao.io/k/e7gmc5b) ![](assets/new.png)  
 - [2022-11-22-阿里大数据之路：数据模型篇大总结](https://toutiao.io/k/nksk5uj) ![](assets/new.png)  
+- [2022-11-22-前端图形学实战:-100-行代码实现几何画板的撤销重做等功能（vue3-+-vite-版）](https://toutiao.io/k/d7fd8c3) ![](assets/new.png)  
 - [2022-11-22-【白话科普】从“熊猫烧香”聊聊计算机病毒](https://toutiao.io/k/mww0xkc) ![](assets/new.png)  
 - [2022-11-22-首个目标检测扩散模型，比-Faster-R-CNN、DETR-好，从随机框中直接检测](https://toutiao.io/k/pjjikzh) ![](assets/new.png)  
-- [2022-11-22-前端图形学实战:-100-行代码实现几何画板的撤销重做等功能（vue3-+-vite-版）](https://toutiao.io/k/d7fd8c3) ![](assets/new.png)  
+- [2022-11-22-ElasticSearch-深度分页详解](https://toutiao.io/k/u7obl5s) ![](assets/new.png)  
+- [2022-11-22-从程序员到百万高管：寒冬之下的技术人修炼路径](https://toutiao.io/k/iv4ykeu) ![](assets/new.png)  
+- [2022-11-22-谷歌、微软、Meta？谁才是-Python-最大的金主？](https://toutiao.io/k/5re96v9) ![](assets/new.png)  
+- [2022-11-22-视觉享受，兼顾人文观感和几何特征的字体「GitHub-热点速览-v.22.46」](https://toutiao.io/k/v8m49h6) ![](assets/new.png)  
+- [2022-11-22-Islands-Architecture（孤岛架构）在携程新版首页的实践](https://toutiao.io/k/kkwlat4) ![](assets/new.png)  
 - [2022-11-22-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

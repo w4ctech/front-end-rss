@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-22 16:52:51。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-22 17:14:00。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -71,6 +71,7 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-11-20-JS之我用单img元素实现了图像resize拉伸效果](https://www.zhangxinxu.com/wordpress/2022/11/js-image-resize/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-22-www.clickbank.com](https://www.v2ex.com/t/897216) 
 - [【V2EX】2022-11-22-苹果官网退货签收一周多不更新状态怎么办？](https://www.v2ex.com/t/897215) 
 - [【V2EX】2022-11-22-刚入手-TS-464C，大家都在用什么内存条、固态、硬盘啊，交流一下](https://www.v2ex.com/t/897214) 
 - [【V2EX】2022-11-22-idea-里面总有一个-maven2-的-repo-如何去掉？](https://www.v2ex.com/t/897213) 
@@ -113,7 +114,6 @@
 - [【V2EX】2022-11-22-学剪辑视频，哪边有好的教程](https://www.v2ex.com/t/897169) 
 - [【V2EX】2022-11-22-哎，国内的-BT-完蛋了](https://www.v2ex.com/t/897168) 
 - [【V2EX】2022-11-22-Clicknium-大更新，支持结构化数据抓取](https://www.v2ex.com/t/897167) 
-- [【V2EX】2022-11-22-有一批复购客户，拉他们进群，这样的外包怎么找](https://www.v2ex.com/t/897166) 
 - [【技术头条】2022-11-22-使用CDC模式改造遗留系统-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15411&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fchange-data-capture-legacy-system%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-22-敏捷团队的质量保障赋能-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15410&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fquality-assurance-enablement-in-agile-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-22-团队的Code-Review实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15409&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-code-review%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

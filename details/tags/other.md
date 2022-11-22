@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-22 16:52:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-22 17:14:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1916,6 +1916,7 @@
 - [2022-10-20-告别pointer-events:none使用HTML-inert属性真正禁用](https://www.zhangxinxu.com/wordpress/2022/10/html-inert-disabled-attribute/) 
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
+- [2022-11-22-www.clickbank.com](https://www.v2ex.com/t/897216) 
 - [2022-11-22-苹果官网退货签收一周多不更新状态怎么办？](https://www.v2ex.com/t/897215) 
 - [2022-11-22-刚入手-TS-464C，大家都在用什么内存条、固态、硬盘啊，交流一下](https://www.v2ex.com/t/897214) 
 - [2022-11-22-idea-里面总有一个-maven2-的-repo-如何去掉？](https://www.v2ex.com/t/897213) 
@@ -1947,7 +1948,6 @@
 - [2022-11-22-Mac-有没有办法连接到-Windows-进行.NET-开发](https://www.v2ex.com/t/897171) 
 - [2022-11-22-哎，国内的-BT-完蛋了](https://www.v2ex.com/t/897168) 
 - [2022-11-22-Clicknium-大更新，支持结构化数据抓取](https://www.v2ex.com/t/897167) 
-- [2022-11-22-有一批复购客户，拉他们进群，这样的外包怎么找](https://www.v2ex.com/t/897166) 
 - [2022-11-22-使用CDC模式改造遗留系统-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15411&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fchange-data-capture-legacy-system%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-22-敏捷团队的质量保障赋能-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15410&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fquality-assurance-enablement-in-agile-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-22-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

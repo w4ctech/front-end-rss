@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-11-22 12:26:04。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-22 13:06:27。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -333,7 +333,6 @@
 
 - [【V2EX】git-如何自动合并-PR](https://www.v2ex.com/t/897158)
 - [【V2EX】空窗两个月，有-Gitee-推荐项目貌似也妹有用](https://www.v2ex.com/t/897156)
-- [【V2EX】为什么我们不用-git-当数据库呢?](https://www.v2ex.com/t/897127)
 - [【开发者头条】视觉享受，兼顾人文观感和几何特征的字体「GitHub-热点速览-v.22.46」](https://toutiao.io/k/v8m49h6)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
@@ -351,7 +350,7 @@
 
 
 
-- [【V2EX】问问大家，你们入职之后，招聘网站上的简历还会公开吗？](https://www.v2ex.com/t/897133)
+- [【V2EX】职场败犬面试吐槽](https://www.v2ex.com/t/897177)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

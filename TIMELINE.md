@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-22 12:26:04。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-22 13:06:27。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -71,6 +71,13 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-11-20-JS之我用单img元素实现了图像resize拉伸效果](https://www.zhangxinxu.com/wordpress/2022/11/js-image-resize/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-22-广州有同学捞一下吗，-5-年.net](https://www.v2ex.com/t/897183) 
+- [【V2EX】2022-11-22-易客满配送的日亚-Apple-TV-被通知无法清关自动退款了](https://www.v2ex.com/t/897182) 
+- [【V2EX】2022-11-22-微信拍照延迟很高？](https://www.v2ex.com/t/897181) 
+- [【V2EX】2022-11-22-现在的技术网站都喜欢这么恰饭的吗？-如果讨厌的话给你支招](https://www.v2ex.com/t/897180) 
+- [【V2EX】2022-11-22-求“家人”！-Spotfy-美区长期稳定家庭年付](https://www.v2ex.com/t/897178) 
+- [【V2EX】2022-11-22-职场败犬面试吐槽](https://www.v2ex.com/t/897177) 
+- [【V2EX】2022-11-22-cnbeta-啥时候恢复啊？有人有啥消息没](https://www.v2ex.com/t/897175) 
 - [【V2EX】2022-11-22-作为一个在学校的合同工，怎么提离职-能保证自己不被拖离职时间？](https://www.v2ex.com/t/897173) 
 - [【V2EX】2022-11-22-有没有在局域网-wifi-环境下视频通话的开源软件](https://www.v2ex.com/t/897172) 
 - [【V2EX】2022-11-22-Mac-有没有办法连接到-Windows-进行.NET-开发](https://www.v2ex.com/t/897171) 
@@ -110,13 +117,6 @@
 - [【V2EX】2022-11-22-如何锻炼语言能力、人际交往能力](https://www.v2ex.com/t/897136) 
 - [【V2EX】2022-11-22-咨询一下-V-友们都在用什么显示器？](https://www.v2ex.com/t/897135) 
 - [【V2EX】2022-11-22-关于这此深圳医保的变化](https://www.v2ex.com/t/897134) 
-- [【V2EX】2022-11-22-问问大家，你们入职之后，招聘网站上的简历还会公开吗？](https://www.v2ex.com/t/897133) 
-- [【V2EX】2022-11-22-在一家公司做-15-年+以上是什么感受？](https://www.v2ex.com/t/897132) 
-- [【V2EX】2022-11-22-出搬瓦工-SPECIAL-20G-KVM-PROMO-V5---LOS-ANGELES---CN2-GIA-ECOMMERCE](https://www.v2ex.com/t/897129) 
-- [【V2EX】2022-11-22-教育行业数据可视化应用方案与实践](https://www.v2ex.com/t/897128) 
-- [【V2EX】2022-11-22-为什么我们不用-git-当数据库呢?](https://www.v2ex.com/t/897127) 
-- [【V2EX】2022-11-22-TG-突然被封禁,是巧合还是搜狗输入法的问题](https://www.v2ex.com/t/897125) 
-- [【V2EX】2022-11-22-朋友们，有用过-opengl-glsl-去水印的么？](https://www.v2ex.com/t/897124) 
 - [【技术头条】2022-11-22-使用CDC模式改造遗留系统-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15411&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fchange-data-capture-legacy-system%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-22-敏捷团队的质量保障赋能-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15410&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fquality-assurance-enablement-in-agile-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-22-团队的Code-Review实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15409&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-code-review%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

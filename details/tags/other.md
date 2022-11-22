@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-22 07:12:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-22 07:36:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1916,6 +1916,12 @@
 - [2022-10-20-告别pointer-events:none使用HTML-inert属性真正禁用](https://www.zhangxinxu.com/wordpress/2022/10/html-inert-disabled-attribute/) 
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
+- [2022-11-22-分享一个-py-写的中国象棋-ai，实力可以爆杀我](https://www.v2ex.com/t/897110) 
+- [2022-11-22-求求建议](https://www.v2ex.com/t/897109) 
+- [2022-11-22-解决-MBP-外接-AOC-显示器睡眠唤醒延迟问题](https://www.v2ex.com/t/897107) 
+- [2022-11-22-兄弟们，来吹爆东哥](https://www.v2ex.com/t/897106) 
+- [2022-11-22-yq-封控与三体黑域](https://www.v2ex.com/t/897104) 
+- [2022-11-22-windows-有类似-netdata-这种工具吗？](https://www.v2ex.com/t/897102) 
 - [2022-11-22-这段时间写了几个自用的应用分享一下](https://www.v2ex.com/t/897101) 
 - [2022-11-22-AI-模型编译器-MegCC-开源，解决推理引擎体积问题](https://www.v2ex.com/t/897100) 
 - [2022-11-22-米家人体感应器有没有不用电池的插电款？](https://www.v2ex.com/t/897098) 
@@ -1948,13 +1954,6 @@
 - [2022-11-22-手贱把-C-盘用户下的文档指给了-D-盘，求教如何恢复？](https://www.v2ex.com/t/897063) 
 - [2022-11-22-不懂就问，新的手机卡可以薅什么羊毛](https://www.v2ex.com/t/897062) 
 - [2022-11-22-转-图个明白-|-信创未来发展怎么看？](https://www.v2ex.com/t/897061) 
-- [2022-11-22-请问今年黑五有什么折扣推荐不？](https://www.v2ex.com/t/897060) 
-- [2022-11-22-初中物理忘光了，大家帮看看我这么算对不对](https://www.v2ex.com/t/897058) 
-- [2022-11-22-做了个阿里云盘搜索工具-YaPan](https://www.v2ex.com/t/897057) 
-- [2022-11-22-国外开源项目远程外包的美元收入，如何汇款到国内？](https://www.v2ex.com/t/897056) 
-- [2022-11-22-Macbook-air-有必要上-16G-吗？](https://www.v2ex.com/t/897054) 
-- [2022-11-22-mac-或-pc-有办法预览-photoshop-上的-笔刷，样式，渐变，图样-文件的缩略图吗？](https://www.v2ex.com/t/897053) 
-- [2022-11-22-像-Telegram,-Discord-之类的机器人后台是怎么实现的的？](https://www.v2ex.com/t/897052) 
 - [2022-11-22-使用CDC模式改造遗留系统-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15411&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fchange-data-capture-legacy-system%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-22-敏捷团队的质量保障赋能-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15410&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fquality-assurance-enablement-in-agile-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-22-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

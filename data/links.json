@@ -9953,6 +9953,61 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "这段时间写了几个自用的应用分享一下",
+        "link": "https://www.v2ex.com/t/897101",
+        "date": "2022-11-22"
+      },
+      {
+        "title": "AI 模型编译器 MegCC 开源，解决推理引擎体积问题",
+        "link": "https://www.v2ex.com/t/897100",
+        "date": "2022-11-22"
+      },
+      {
+        "title": "米家人体感应器有没有不用电池的插电款？",
+        "link": "https://www.v2ex.com/t/897098",
+        "date": "2022-11-22"
+      },
+      {
+        "title": "公网域名能否不带端口访问家庭网络应用",
+        "link": "https://www.v2ex.com/t/897097",
+        "date": "2022-11-22"
+      },
+      {
+        "title": "找伙伴一起搞一些好玩的 App，有人要一起玩吗？",
+        "link": "https://www.v2ex.com/t/897096",
+        "date": "2022-11-22"
+      },
+      {
+        "title": "这年头的创业出路",
+        "link": "https://www.v2ex.com/t/897095",
+        "date": "2022-11-22"
+      },
+      {
+        "title": "最近婚姻比较烦",
+        "link": "https://www.v2ex.com/t/897094",
+        "date": "2022-11-22"
+      },
+      {
+        "title": "最近换了个新工作，吐槽下新的 leader",
+        "link": "https://www.v2ex.com/t/897092",
+        "date": "2022-11-22"
+      },
+      {
+        "title": "坪山 14 号线附近富士锦园的地下停车有出租的吗？",
+        "link": "https://www.v2ex.com/t/897091",
+        "date": "2022-11-22"
+      },
+      {
+        "title": "最近有人提“国产”，我也说说我的感受，抛砖引玉",
+        "link": "https://www.v2ex.com/t/897090",
+        "date": "2022-11-22"
+      },
+      {
+        "title": "HoloISO、Chimera OS、Winesap OS 和 Steam Deck 自带的 Steam OS，哪个比较好？",
+        "link": "https://www.v2ex.com/t/897089",
+        "date": "2022-11-22"
+      },
+      {
         "title": "求推荐云函数和云服务器平台？",
         "link": "https://www.v2ex.com/t/897088",
         "date": "2022-11-22"
@@ -10121,56 +10176,6 @@
         "title": "像 Telegram, Discord 之类的机器人后台是怎么实现的的？",
         "link": "https://www.v2ex.com/t/897052",
         "date": "2022-11-22"
-      },
-      {
-        "title": "有什么方便的桌面端 pdf 文件加密工具推荐",
-        "link": "https://www.v2ex.com/t/897051",
-        "date": "2022-11-22"
-      },
-      {
-        "title": "「求助」sublime4 一直弹 safe mode",
-        "link": "https://www.v2ex.com/t/897050",
-        "date": "2022-11-22"
-      },
-      {
-        "title": "求全职/兼职 远程 UX/UI 设计师职位",
-        "link": "https://www.v2ex.com/t/897049",
-        "date": "2022-11-22"
-      },
-      {
-        "title": "55 出圣何塞 RN(racknerd) 一年期 vps（ip 已被墙）",
-        "link": "https://www.v2ex.com/t/897048",
-        "date": "2022-11-22"
-      },
-      {
-        "title": "普通的 android 电视盒子有什么办法安装使用 android TV 的 apk 应用",
-        "link": "https://www.v2ex.com/t/897046",
-        "date": "2022-11-22"
-      },
-      {
-        "title": "中国驾照转新加坡驾照流程和 BTT 考试经验分享",
-        "link": "https://www.v2ex.com/t/897045",
-        "date": "2022-11-22"
-      },
-      {
-        "title": "被直接领导 pua 怎么解决？",
-        "link": "https://www.v2ex.com/t/897043",
-        "date": "2022-11-22"
-      },
-      {
-        "title": "关于 miniconda 的问题",
-        "link": "https://www.v2ex.com/t/897041",
-        "date": "2022-11-22"
-      },
-      {
-        "title": "珍爱生命，远离 ToDesk",
-        "link": "https://www.v2ex.com/t/897040",
-        "date": "2022-11-22"
-      },
-      {
-        "title": "都在墙外了本站还自我审查这么厉害。。。",
-        "link": "https://www.v2ex.com/t/897039",
-        "date": "2022-11-22"
       }
     ]
   },
@@ -10179,6 +10184,11 @@
     "title": "技术头条",
     "link": "http://blogread.cn/news/newest.php",
     "items": [
+      {
+        "title": "使用CDC模式改造遗留系统 (insights.thoughtworks.cn)",
+        "link": "https://blogread.cn/news/go.php?idItem=15411&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fchange-data-capture-legacy-system%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2022-11-22"
+      },
       {
         "title": "敏捷团队的质量保障赋能 (insights.thoughtworks.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=15410&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fquality-assurance-enablement-in-agile-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
@@ -10277,6 +10287,11 @@
         "date": "2022-11-22"
       },
       {
+        "title": "视觉享受，兼顾人文观感和几何特征的字体「GitHub 热点速览 v.22.46」",
+        "link": "https://toutiao.io/k/v8m49h6",
+        "date": "2022-11-22"
+      },
+      {
         "title": "前端图形学实战: 100 行代码实现几何画板的撤销重做等功能（vue3 + vite 版）",
         "link": "https://toutiao.io/k/d7fd8c3",
         "date": "2022-11-22"
@@ -10284,11 +10299,6 @@
       {
         "title": "【白话科普】从“熊猫烧香”聊聊计算机病毒",
         "link": "https://toutiao.io/k/mww0xkc",
-        "date": "2022-11-22"
-      },
-      {
-        "title": "视觉享受，兼顾人文观感和几何特征的字体「GitHub 热点速览 v.22.46」",
-        "link": "https://toutiao.io/k/v8m49h6",
         "date": "2022-11-22"
       },
       {

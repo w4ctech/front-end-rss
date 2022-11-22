@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-22 15:40:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-22 16:17:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1916,6 +1916,8 @@
 - [2022-10-20-告别pointer-events:none使用HTML-inert属性真正禁用](https://www.zhangxinxu.com/wordpress/2022/10/html-inert-disabled-attribute/) 
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
+- [2022-11-22-快装修弱电了、想看大家的机柜都装了啥](https://www.v2ex.com/t/897212) 
+- [2022-11-22-有个-Golang-写的类似-Rclone-的网盘传文件工具，但是支持多种加密方式，忘记叫什么了](https://www.v2ex.com/t/897210) 
 - [2022-11-22-也谈“国产”](https://www.v2ex.com/t/897209) 
 - [2022-11-22-在重庆和女朋友因为疫情的原因吵架了，感觉很失望](https://www.v2ex.com/t/897208) 
 - [2022-11-22-杭州互联网技术岗为什么-80%都是-Java-的职位？](https://www.v2ex.com/t/897205) 
@@ -1946,9 +1948,6 @@
 - [2022-11-22-大家有没有-50-元左右安卓设备推荐](https://www.v2ex.com/t/897165) 
 - [2022-11-22-跟同事介绍了一下国内-35-岁的问题，同事们都很惊讶](https://www.v2ex.com/t/897164) 
 - [2022-11-22-跨城市购买深圳社保有什么风险吗？](https://www.v2ex.com/t/897163) 
-- [2022-11-22-车被人撞了，修好以后的折旧不能赔，只能自认倒霉吗？](https://www.v2ex.com/t/897162) 
-- [2022-11-22-如何看待微信的工信部投诉中无法投诉教育网和校园网？](https://www.v2ex.com/t/897161) 
-- [2022-11-22-使用黑名单-iPhone-在入境国外的时候会有什么问题吗？在国外生活呢？](https://www.v2ex.com/t/897160) 
 - [2022-11-22-使用CDC模式改造遗留系统-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15411&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fchange-data-capture-legacy-system%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-22-敏捷团队的质量保障赋能-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15410&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fquality-assurance-enablement-in-agile-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-22-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-22 15:40:51。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-22 16:17:41。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -71,6 +71,9 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-11-20-JS之我用单img元素实现了图像resize拉伸效果](https://www.zhangxinxu.com/wordpress/2022/11/js-image-resize/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-22-快装修弱电了、想看大家的机柜都装了啥](https://www.v2ex.com/t/897212) 
+- [【V2EX】2022-11-22-订餐小程序方案咨询](https://www.v2ex.com/t/897211) 
+- [【V2EX】2022-11-22-有个-Golang-写的类似-Rclone-的网盘传文件工具，但是支持多种加密方式，忘记叫什么了](https://www.v2ex.com/t/897210) 
 - [【V2EX】2022-11-22-也谈“国产”](https://www.v2ex.com/t/897209) 
 - [【V2EX】2022-11-22-在重庆和女朋友因为疫情的原因吵架了，感觉很失望](https://www.v2ex.com/t/897208) 
 - [【V2EX】2022-11-22-黑五优惠整理汇总的-GitHub-repo---Awesome-Black-Friday](https://www.v2ex.com/t/897207) 
@@ -111,9 +114,6 @@
 - [【V2EX】2022-11-22-大家有没有-50-元左右安卓设备推荐](https://www.v2ex.com/t/897165) 
 - [【V2EX】2022-11-22-跟同事介绍了一下国内-35-岁的问题，同事们都很惊讶](https://www.v2ex.com/t/897164) 
 - [【V2EX】2022-11-22-跨城市购买深圳社保有什么风险吗？](https://www.v2ex.com/t/897163) 
-- [【V2EX】2022-11-22-车被人撞了，修好以后的折旧不能赔，只能自认倒霉吗？](https://www.v2ex.com/t/897162) 
-- [【V2EX】2022-11-22-如何看待微信的工信部投诉中无法投诉教育网和校园网？](https://www.v2ex.com/t/897161) 
-- [【V2EX】2022-11-22-使用黑名单-iPhone-在入境国外的时候会有什么问题吗？在国外生活呢？](https://www.v2ex.com/t/897160) 
 - [【技术头条】2022-11-22-使用CDC模式改造遗留系统-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15411&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fchange-data-capture-legacy-system%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-22-敏捷团队的质量保障赋能-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15410&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fquality-assurance-enablement-in-agile-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-22-团队的Code-Review实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15409&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-code-review%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

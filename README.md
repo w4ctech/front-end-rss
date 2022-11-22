@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-22 15:40:51，:rocket: 更新条数: +2015， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-22 16:17:41，:rocket: 更新条数: +2015， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-11-22-快装修弱电了、想看大家的机柜都装了啥](https://www.v2ex.com/t/897212) ![](assets/new.png)  
+- [2022-11-22-订餐小程序方案咨询](https://www.v2ex.com/t/897211) ![](assets/new.png)  
+- [2022-11-22-有个-Golang-写的类似-Rclone-的网盘传文件工具，但是支持多种加密方式，忘记叫什么了](https://www.v2ex.com/t/897210) ![](assets/new.png)  
 - [2022-11-22-也谈“国产”](https://www.v2ex.com/t/897209) ![](assets/new.png)  
 - [2022-11-22-在重庆和女朋友因为疫情的原因吵架了，感觉很失望](https://www.v2ex.com/t/897208) ![](assets/new.png)  
 - [2022-11-22-黑五优惠整理汇总的-GitHub-repo---Awesome-Black-Friday](https://www.v2ex.com/t/897207) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-11-22-阿根廷竟然输了，梅西还希望吗？](https://www.v2ex.com/t/897194) ![](assets/new.png)  
 - [2022-11-22-「Ubuntu」Package-mysql-server-8.0-is-not-configured-yet](https://www.v2ex.com/t/897193) ![](assets/new.png)  
 - [2022-11-22-Surge-Mac-端怎么查看已安装远程模块的链接？](https://www.v2ex.com/t/897192) ![](assets/new.png)  
-- [2022-11-22-创建一个商业性的订阅-Nature-或者-Scientics-杂志目录的产品是否可行？](https://www.v2ex.com/t/897190) ![](assets/new.png)  
-- [2022-11-22-uPaste---Mac-上不只要功能，还要颜值的剪贴板工具，继续送兑换码。](https://www.v2ex.com/t/897188) ![](assets/new.png)  
-- [2022-11-22-这两天捣鼓-openwrt，意外发现-wifi-智能插座不停的请求-dhcp](https://www.v2ex.com/t/897186) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

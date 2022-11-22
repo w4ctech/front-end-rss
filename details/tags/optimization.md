@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-21 23:39:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-22 01:05:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -8,3 +8,4 @@
 
 
 - [2022-11-21-Magician-Route-发布啦，去除反射，性能得到有效提升](https://www.v2ex.com/t/896937) 
+- [2022-11-22-面试官：MySQL-上亿大表，如何深度优化？](https://toutiao.io/k/e7gmc5b) 

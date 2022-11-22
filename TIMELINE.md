@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-22 14:11:54。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-22 14:38:29。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -71,6 +71,9 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-11-20-JS之我用单img元素实现了图像resize拉伸效果](https://www.zhangxinxu.com/wordpress/2022/11/js-image-resize/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-22-有懂法律的吗？](https://www.v2ex.com/t/897199) 
+- [【V2EX】2022-11-22-大家的发际线危险了吗？](https://www.v2ex.com/t/897198) 
+- [【V2EX】2022-11-22-Hackintosh-开机启动后黑屏，无法进入解锁界面](https://www.v2ex.com/t/897197) 
 - [【V2EX】2022-11-22-求推荐一款十一二万的车](https://www.v2ex.com/t/897196) 
 - [【V2EX】2022-11-22-请教一下，永久免费甲骨文如何更换-ip](https://www.v2ex.com/t/897195) 
 - [【V2EX】2022-11-22-阿根廷竟然输了，梅西还希望吗？](https://www.v2ex.com/t/897194) 
@@ -111,9 +114,6 @@
 - [【V2EX】2022-11-22-抖音可以看-4K-60-帧的世界怀-不用登账号-不用开会员](https://www.v2ex.com/t/897152) 
 - [【V2EX】2022-11-22-分享一本理查德·斯托曼的书吧！](https://www.v2ex.com/t/897151) 
 - [【V2EX】2022-11-22-求高质量-LES-蕾丝边社交平台推荐](https://www.v2ex.com/t/897150) 
-- [【V2EX】2022-11-22-毛子某网站上的-ADOBE-全家桶靠谱吗？一年才-50-刀。](https://www.v2ex.com/t/897149) 
-- [【V2EX】2022-11-22-换头像时的拍照选项是多余的嘛，为什么？](https://www.v2ex.com/t/897148) 
-- [【V2EX】2022-11-22-有没有一瞬间-想回家了](https://www.v2ex.com/t/897147) 
 - [【技术头条】2022-11-22-使用CDC模式改造遗留系统-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15411&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fchange-data-capture-legacy-system%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-22-敏捷团队的质量保障赋能-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15410&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fquality-assurance-enablement-in-agile-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-22-团队的Code-Review实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15409&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-code-review%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

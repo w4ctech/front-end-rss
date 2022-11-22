@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-22 15:13:31，:rocket: 更新条数: +2004， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-22 15:40:51，:rocket: 更新条数: +2015， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -52,7 +52,7 @@
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)![](assets/dot.png)   
-- [技术头条](#技术头条)  
+- [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)  
 - [物联网智库](#物联网智库)  
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-11-22-也谈“国产”](https://www.v2ex.com/t/897209) ![](assets/new.png)  
+- [2022-11-22-在重庆和女朋友因为疫情的原因吵架了，感觉很失望](https://www.v2ex.com/t/897208) ![](assets/new.png)  
+- [2022-11-22-黑五优惠整理汇总的-GitHub-repo---Awesome-Black-Friday](https://www.v2ex.com/t/897207) ![](assets/new.png)  
+- [2022-11-22-做个一款浏览器新标签页-NiceTab](https://www.v2ex.com/t/897206) ![](assets/new.png)  
+- [2022-11-22-杭州互联网技术岗为什么-80%都是-Java-的职位？](https://www.v2ex.com/t/897205) ![](assets/new.png)  
+- [2022-11-22-为什么跟友人打电话前要先微信发消息问下有没有空？](https://www.v2ex.com/t/897204) ![](assets/new.png)  
 - [2022-11-22-求助如何去水印](https://www.v2ex.com/t/897203) ![](assets/new.png)  
 - [2022-11-22-cctv-网页版看球，为什么上传速度那么多是什么原理](https://www.v2ex.com/t/897201) ![](assets/new.png)  
 - [2022-11-22-为啥在-Safari-的搜索右下角会变成小喇叭](https://www.v2ex.com/t/897200) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-11-22-创建一个商业性的订阅-Nature-或者-Scientics-杂志目录的产品是否可行？](https://www.v2ex.com/t/897190) ![](assets/new.png)  
 - [2022-11-22-uPaste---Mac-上不只要功能，还要颜值的剪贴板工具，继续送兑换码。](https://www.v2ex.com/t/897188) ![](assets/new.png)  
 - [2022-11-22-这两天捣鼓-openwrt，意外发现-wifi-智能插座不停的请求-dhcp](https://www.v2ex.com/t/897186) ![](assets/new.png)  
-- [2022-11-22-请问大家有遇到-K8S-中-pod-一直在-pending，也没有-event-的情况吗？](https://www.v2ex.com/t/897185) ![](assets/new.png)  
-- [2022-11-22-三星-S22，-Pixel-7-Pro-选哪个？](https://www.v2ex.com/t/897184) ![](assets/new.png)  
-- [2022-11-22-广州有同学捞一下吗，-5-年.net](https://www.v2ex.com/t/897183) ![](assets/new.png)  
-- [2022-11-22-易客满配送的日亚-Apple-TV-被通知无法清关自动退款了](https://www.v2ex.com/t/897182) ![](assets/new.png)  
-- [2022-11-22-微信拍照延迟很高？](https://www.v2ex.com/t/897181) ![](assets/new.png)  
-- [2022-11-22-现在的技术网站都喜欢这么恰饭的吗？-如果讨厌的话给你支招](https://www.v2ex.com/t/897180) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -522,6 +522,16 @@
 </summary>
 
 
+- [2022-11-22-使用CDC模式改造遗留系统-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15411&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fchange-data-capture-legacy-system%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-11-22-敏捷团队的质量保障赋能-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15410&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fquality-assurance-enablement-in-agile-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-11-22-团队的Code-Review实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15409&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-code-review%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-11-22-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-11-22-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-11-22-以综合指数观察和评价研发效能的趋势-link.zhihu.com](https://blogread.cn/news/go.php?idItem=15406&url=https%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttps%253A%2F%2Finsights.thoughtworks.cn%2Fobserving-evaluating-research-development-efficiency-trend%2F%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-11-22-DDD的哲学意味（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15405&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fddd-philosophy-entity-value-object%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-11-22-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-11-22-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-11-22-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

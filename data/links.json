@@ -9953,6 +9953,36 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "也谈“国产”",
+        "link": "https://www.v2ex.com/t/897209",
+        "date": "2022-11-22"
+      },
+      {
+        "title": "在重庆和女朋友因为疫情的原因吵架了，感觉很失望",
+        "link": "https://www.v2ex.com/t/897208",
+        "date": "2022-11-22"
+      },
+      {
+        "title": "黑五优惠整理汇总的 GitHub repo - Awesome Black Friday",
+        "link": "https://www.v2ex.com/t/897207",
+        "date": "2022-11-22"
+      },
+      {
+        "title": "做个一款浏览器新标签页 NiceTab",
+        "link": "https://www.v2ex.com/t/897206",
+        "date": "2022-11-22"
+      },
+      {
+        "title": "杭州互联网技术岗为什么 80%都是 Java 的职位？",
+        "link": "https://www.v2ex.com/t/897205",
+        "date": "2022-11-22"
+      },
+      {
+        "title": "为什么跟友人打电话前要先微信发消息问下有没有空？",
+        "link": "https://www.v2ex.com/t/897204",
+        "date": "2022-11-22"
+      },
+      {
         "title": "求助如何去水印",
         "link": "https://www.v2ex.com/t/897203",
         "date": "2022-11-22"
@@ -10136,31 +10166,6 @@
         "title": "使用黑名单 iPhone 在入境国外的时候会有什么问题吗？在国外生活呢？",
         "link": "https://www.v2ex.com/t/897160",
         "date": "2022-11-22"
-      },
-      {
-        "title": "git 如何自动合并 PR",
-        "link": "https://www.v2ex.com/t/897158",
-        "date": "2022-11-22"
-      },
-      {
-        "title": "想做一个保存自己游戏数据的 APP",
-        "link": "https://www.v2ex.com/t/897157",
-        "date": "2022-11-22"
-      },
-      {
-        "title": "空窗两个月，有 Gitee 推荐项目貌似也妹有用",
-        "link": "https://www.v2ex.com/t/897156",
-        "date": "2022-11-22"
-      },
-      {
-        "title": "[西安鱼化寨] 出租个人 3 房",
-        "link": "https://www.v2ex.com/t/897155",
-        "date": "2022-11-22"
-      },
-      {
-        "title": "阿里网盘资源怎么采集的",
-        "link": "https://www.v2ex.com/t/897154",
-        "date": "2022-11-22"
       }
     ]
   },
@@ -10168,7 +10173,58 @@
     "rss": "https://front-rss.herokuapp.com/blogread/newest",
     "title": "技术头条",
     "link": "http://blogread.cn/news/newest.php",
-    "items": []
+    "items": [
+      {
+        "title": "使用CDC模式改造遗留系统 (insights.thoughtworks.cn)",
+        "link": "https://blogread.cn/news/go.php?idItem=15411&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fchange-data-capture-legacy-system%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2022-11-22"
+      },
+      {
+        "title": "敏捷团队的质量保障赋能 (insights.thoughtworks.cn)",
+        "link": "https://blogread.cn/news/go.php?idItem=15410&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fquality-assurance-enablement-in-agile-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2022-11-22"
+      },
+      {
+        "title": "团队的Code Review实践 (insights.thoughtworks.cn)",
+        "link": "https://blogread.cn/news/go.php?idItem=15409&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-code-review%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2022-11-22"
+      },
+      {
+        "title": "Tech Lead如何组建你的全明星团队 (insights.thoughtworks.cn)",
+        "link": "https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2022-11-22"
+      },
+      {
+        "title": "前端测试体系和最佳实践 (insights.thoughtworks.cn)",
+        "link": "https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2022-11-22"
+      },
+      {
+        "title": "以综合指数观察和评价研发效能的趋势 (link.zhihu.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=15406&url=https%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttps%253A%2F%2Finsights.thoughtworks.cn%2Fobserving-evaluating-research-development-efficiency-trend%2F%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2022-11-22"
+      },
+      {
+        "title": "DDD的哲学意味（上） (insights.thoughtworks.cn)",
+        "link": "https://blogread.cn/news/go.php?idItem=15405&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fddd-philosophy-entity-value-object%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2022-11-22"
+      },
+      {
+        "title": "重新思考 React 项目架构 (teobler.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2022-11-22"
+      },
+      {
+        "title": "日志记录的最佳实践 (insights.thoughtworks.cn)",
+        "link": "https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2022-11-22"
+      },
+      {
+        "title": "一个非教条式的TDD例子 (insights.thoughtworks.cn)",
+        "link": "https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2022-11-22"
+      }
+    ]
   },
   {
     "rss": "https://front-rss.herokuapp.com/toutiao/today",

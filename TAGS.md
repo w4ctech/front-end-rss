@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-11-22 10:41:16。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-22 11:11:02。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -155,6 +155,7 @@
 
 
 
+- [【V2EX】想做一个保存自己游戏数据的-APP](https://www.v2ex.com/t/897157)
 - [【V2EX】因为公司某游戏代理续约谈崩，即将失业](https://www.v2ex.com/t/897111)
 - [......【查看更多】......](./details/tags/dev-game.md)
 
@@ -294,7 +295,6 @@
 
 - [【V2EX】开源大家快拥有自己的短信拦截器吧-https://github.com/caidukai/sms-interception](https://www.v2ex.com/t/897153)
 - [【V2EX】想请一位-K8S-和虚拟机专家来帮帮我,-虚拟机-GPU-容器的问题](https://www.v2ex.com/t/897137)
-- [【V2EX】IM-有可能像-mastodon-那样去中心化吗？](https://www.v2ex.com/t/897108)
 - [【开发者头条】《程序员数学：素数》：你真的了解-RSA-加密算法吗？](https://toutiao.io/k/e6wsl14)
 - [【开发者头条】ElasticSearch-深度分页详解](https://toutiao.io/k/u7obl5s)
 - [【开发者头条】首个目标检测扩散模型，比-Faster-R-CNN、DETR-好，从随机框中直接检测](https://toutiao.io/k/pjjikzh)
@@ -330,6 +330,8 @@
 
 
 
+- [【V2EX】git-如何自动合并-PR](https://www.v2ex.com/t/897158)
+- [【V2EX】空窗两个月，有-Gitee-推荐项目貌似也妹有用](https://www.v2ex.com/t/897156)
 - [【V2EX】为什么我们不用-git-当数据库呢?](https://www.v2ex.com/t/897127)
 - [【开发者头条】视觉享受，兼顾人文观感和几何特征的字体「GitHub-热点速览-v.22.46」](https://toutiao.io/k/v8m49h6)
 - [......【查看更多】......](./details/tags/git-svn.md)

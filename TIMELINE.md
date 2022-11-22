@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-22 07:36:22。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-22 08:17:22。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -71,6 +71,11 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-11-20-JS之我用单img元素实现了图像resize拉伸效果](https://www.zhangxinxu.com/wordpress/2022/11/js-image-resize/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-22-React-native-ios-上架](https://www.v2ex.com/t/897116) 
+- [【V2EX】2022-11-22-iPhone-的电池质量变差了，同样的使用习惯-13pm-一年掉-10%，-11-一年掉-5%](https://www.v2ex.com/t/897115) 
+- [【V2EX】2022-11-22-甲骨文升级付费账户后有什么要注意的事](https://www.v2ex.com/t/897114) 
+- [【V2EX】2022-11-22-想学习一些关于买卖股票基金的知识，想问一下各位老哥，有哪些学习渠道呢？](https://www.v2ex.com/t/897113) 
+- [【V2EX】2022-11-22-因为公司某游戏代理续约谈崩，即将失业](https://www.v2ex.com/t/897111) 
 - [【V2EX】2022-11-22-分享一个-py-写的中国象棋-ai，实力可以爆杀我](https://www.v2ex.com/t/897110) 
 - [【V2EX】2022-11-22-求求建议](https://www.v2ex.com/t/897109) 
 - [【V2EX】2022-11-22-IM-有可能像-mastodon-那样去中心化吗？](https://www.v2ex.com/t/897108) 
@@ -108,14 +113,6 @@
 - [【V2EX】2022-11-22-2022-年-11-月，苹果快充方案如何选择？](https://www.v2ex.com/t/897073) 
 - [【V2EX】2022-11-22-安卓端有没有类似-nicegram-的破解版-TG](https://www.v2ex.com/t/897071) 
 - [【V2EX】2022-11-22-小火箭更新失败？原来这样就能更新成功了。](https://www.v2ex.com/t/897070) 
-- [【V2EX】2022-11-22-一个流式操作数据库的开源框架-stream-query，从此告别-stream-流和-Optional](https://www.v2ex.com/t/897068) 
-- [【V2EX】2022-11-22-前段时间看到-v-友理财产品亏钱，现在有几万闲钱，朝朝宝能放吗？](https://www.v2ex.com/t/897067) 
-- [【V2EX】2022-11-22-有没有可以给游戏加速的鸡儿场](https://www.v2ex.com/t/897066) 
-- [【V2EX】2022-11-22-mbp-2019-type-c-口充电经常断断续续或失效](https://www.v2ex.com/t/897065) 
-- [【V2EX】2022-11-22-求人求人！-UI/UX-设计师招聘！（远程办公模式）](https://www.v2ex.com/t/897064) 
-- [【V2EX】2022-11-22-手贱把-C-盘用户下的文档指给了-D-盘，求教如何恢复？](https://www.v2ex.com/t/897063) 
-- [【V2EX】2022-11-22-不懂就问，新的手机卡可以薅什么羊毛](https://www.v2ex.com/t/897062) 
-- [【V2EX】2022-11-22-转-图个明白-|-信创未来发展怎么看？](https://www.v2ex.com/t/897061) 
 - [【技术头条】2022-11-22-使用CDC模式改造遗留系统-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15411&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fchange-data-capture-legacy-system%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-22-敏捷团队的质量保障赋能-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15410&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fquality-assurance-enablement-in-agile-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-22-团队的Code-Review实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15409&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-code-review%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

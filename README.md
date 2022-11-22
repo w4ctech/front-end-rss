@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-22 05:37:45，:rocket: 更新条数: +2014， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-22 06:16:49，:rocket: 更新条数: +2014， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,18 @@
 </summary>
 
 
+- [2022-11-22-降落伞模式的飞机物流](https://www.v2ex.com/t/897077) ![](assets/new.png)  
+- [2022-11-22-咪咕视频提示“切换至海外版”](https://www.v2ex.com/t/897076) ![](assets/new.png)  
+- [2022-11-22-余杭区美短小猫蹲家长](https://www.v2ex.com/t/897075) ![](assets/new.png)  
+- [2022-11-22-2023-PHPer-路在何方？](https://www.v2ex.com/t/897074) ![](assets/new.png)  
+- [2022-11-22-2022-年-11-月，苹果快充方案如何选择？](https://www.v2ex.com/t/897073) ![](assets/new.png)  
+- [2022-11-22-安卓端有没有类似-nicegram-的破解版-TG](https://www.v2ex.com/t/897071) ![](assets/new.png)  
+- [2022-11-22-小火箭更新失败？原来这样就能更新成功了。](https://www.v2ex.com/t/897070) ![](assets/new.png)  
+- [2022-11-22-一个流式操作数据库的开源框架-stream-query，从此告别-stream-流和-Optional](https://www.v2ex.com/t/897068) ![](assets/new.png)  
+- [2022-11-22-前段时间看到-v-友理财产品亏钱，现在有几万闲钱，朝朝宝能放吗？](https://www.v2ex.com/t/897067) ![](assets/new.png)  
+- [2022-11-22-有没有可以给游戏加速的鸡儿场](https://www.v2ex.com/t/897066) ![](assets/new.png)  
+- [2022-11-22-mbp-2019-type-c-口充电经常断断续续或失效](https://www.v2ex.com/t/897065) ![](assets/new.png)  
+- [2022-11-22-求人求人！-UI/UX-设计师招聘！（远程办公模式）](https://www.v2ex.com/t/897064) ![](assets/new.png)  
 - [2022-11-22-手贱把-C-盘用户下的文档指给了-D-盘，求教如何恢复？](https://www.v2ex.com/t/897063) ![](assets/new.png)  
 - [2022-11-22-不懂就问，新的手机卡可以薅什么羊毛](https://www.v2ex.com/t/897062) ![](assets/new.png)  
 - [2022-11-22-转-图个明白-|-信创未来发展怎么看？](https://www.v2ex.com/t/897061) ![](assets/new.png)  
@@ -499,18 +511,6 @@
 - [2022-11-22-做了个阿里云盘搜索工具-YaPan](https://www.v2ex.com/t/897057) ![](assets/new.png)  
 - [2022-11-22-国外开源项目远程外包的美元收入，如何汇款到国内？](https://www.v2ex.com/t/897056) ![](assets/new.png)  
 - [2022-11-22-在-Android-设备上怎么实现-URL-Rewrite](https://www.v2ex.com/t/897055) ![](assets/new.png)  
-- [2022-11-22-Macbook-air-有必要上-16G-吗？](https://www.v2ex.com/t/897054) ![](assets/new.png)  
-- [2022-11-22-mac-或-pc-有办法预览-photoshop-上的-笔刷，样式，渐变，图样-文件的缩略图吗？](https://www.v2ex.com/t/897053) ![](assets/new.png)  
-- [2022-11-22-像-Telegram,-Discord-之类的机器人后台是怎么实现的的？](https://www.v2ex.com/t/897052) ![](assets/new.png)  
-- [2022-11-22-有什么方便的桌面端-pdf-文件加密工具推荐](https://www.v2ex.com/t/897051) ![](assets/new.png)  
-- [2022-11-22-「求助」sublime4-一直弹-safe-mode](https://www.v2ex.com/t/897050) ![](assets/new.png)  
-- [2022-11-22-求全职/兼职-远程-UX/UI-设计师职位](https://www.v2ex.com/t/897049) ![](assets/new.png)  
-- [2022-11-22-55-出圣何塞-RNracknerd-一年期-vps（ip-已被墙）](https://www.v2ex.com/t/897048) ![](assets/new.png)  
-- [2022-11-22-普通的-android-电视盒子有什么办法安装使用-android-TV-的-apk-应用](https://www.v2ex.com/t/897046) ![](assets/new.png)  
-- [2022-11-22-中国驾照转新加坡驾照流程和-BTT-考试经验分享](https://www.v2ex.com/t/897045) ![](assets/new.png)  
-- [2022-11-22-被直接领导-pua-怎么解决？](https://www.v2ex.com/t/897043) ![](assets/new.png)  
-- [2022-11-22-关于-miniconda-的问题](https://www.v2ex.com/t/897041) ![](assets/new.png)  
-- [2022-11-22-珍爱生命，远离-ToDesk](https://www.v2ex.com/t/897040) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -546,9 +546,9 @@
 - [2022-11-22-面试官：MySQL-上亿大表，如何深度优化？](https://toutiao.io/k/e7gmc5b) ![](assets/new.png)  
 - [2022-11-22-《程序员数学：素数》：你真的了解-RSA-加密算法吗？](https://toutiao.io/k/e6wsl14) ![](assets/new.png)  
 - [2022-11-22-这些“电脑常识”竟然不是常识？](https://toutiao.io/k/wrvewu8) ![](assets/new.png)  
+- [2022-11-22-阿里大数据之路：数据模型篇大总结](https://toutiao.io/k/nksk5uj) ![](assets/new.png)  
 - [2022-11-22-WebRTC-在-Google-Meet-中应用的新发现](https://toutiao.io/k/ean5kp9) ![](assets/new.png)  
 - [2022-11-22-深入浅出学习透析-Nginx-服务器的基本原理和配置指南（Https-安全控制篇）](https://toutiao.io/k/tgifok8) ![](assets/new.png)  
-- [2022-11-22-阿里大数据之路：数据模型篇大总结](https://toutiao.io/k/nksk5uj) ![](assets/new.png)  
 - [2022-11-22-ElasticSearch-深度分页详解](https://toutiao.io/k/u7obl5s) ![](assets/new.png)  
 - [2022-11-22-从程序员到百万高管：寒冬之下的技术人修炼路径](https://toutiao.io/k/iv4ykeu) ![](assets/new.png)  
 - [2022-11-22-前端图形学实战:-100-行代码实现几何画板的撤销重做等功能（vue3-+-vite-版）](https://toutiao.io/k/d7fd8c3) ![](assets/new.png)  

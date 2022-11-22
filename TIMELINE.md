@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-22 13:47:04。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-22 14:11:54。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -71,6 +71,10 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-11-20-JS之我用单img元素实现了图像resize拉伸效果](https://www.zhangxinxu.com/wordpress/2022/11/js-image-resize/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-22-求推荐一款十一二万的车](https://www.v2ex.com/t/897196) 
+- [【V2EX】2022-11-22-请教一下，永久免费甲骨文如何更换-ip](https://www.v2ex.com/t/897195) 
+- [【V2EX】2022-11-22-阿根廷竟然输了，梅西还希望吗？](https://www.v2ex.com/t/897194) 
+- [【V2EX】2022-11-22-「Ubuntu」Package-mysql-server-8.0-is-not-configured-yet](https://www.v2ex.com/t/897193) 
 - [【V2EX】2022-11-22-Surge-Mac-端怎么查看已安装远程模块的链接？](https://www.v2ex.com/t/897192) 
 - [【V2EX】2022-11-22-创建一个商业性的订阅-Nature-或者-Scientics-杂志目录的产品是否可行？](https://www.v2ex.com/t/897190) 
 - [【V2EX】2022-11-22-uPaste---Mac-上不只要功能，还要颜值的剪贴板工具，继续送兑换码。](https://www.v2ex.com/t/897188) 
@@ -110,10 +114,6 @@
 - [【V2EX】2022-11-22-毛子某网站上的-ADOBE-全家桶靠谱吗？一年才-50-刀。](https://www.v2ex.com/t/897149) 
 - [【V2EX】2022-11-22-换头像时的拍照选项是多余的嘛，为什么？](https://www.v2ex.com/t/897148) 
 - [【V2EX】2022-11-22-有没有一瞬间-想回家了](https://www.v2ex.com/t/897147) 
-- [【V2EX】2022-11-22-兄弟们，我来做个小调研。](https://www.v2ex.com/t/897146) 
-- [【V2EX】2022-11-22-效率神器-Alfred-和-utools-大家用的哪款](https://www.v2ex.com/t/897145) 
-- [【V2EX】2022-11-22-求推荐-87-键、正常键位、尽可能便宜的薄膜键盘](https://www.v2ex.com/t/897144) 
-- [【V2EX】2022-11-22-大家在防拆/保密上有什么设计的感悟么](https://www.v2ex.com/t/897143) 
 - [【技术头条】2022-11-22-使用CDC模式改造遗留系统-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15411&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fchange-data-capture-legacy-system%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-22-敏捷团队的质量保障赋能-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15410&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fquality-assurance-enablement-in-agile-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-22-团队的Code-Review实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15409&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-code-review%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -129,9 +129,9 @@
 - [【开发者头条】2022-11-22-《程序员数学：素数》：你真的了解-RSA-加密算法吗？](https://toutiao.io/k/e6wsl14) 
 - [【开发者头条】2022-11-22-阿里大数据之路：数据模型篇大总结](https://toutiao.io/k/nksk5uj) 
 - [【开发者头条】2022-11-22-这些“电脑常识”竟然不是常识？](https://toutiao.io/k/wrvewu8) 
+- [【开发者头条】2022-11-22-ElasticSearch-深度分页详解](https://toutiao.io/k/u7obl5s) 
 - [【开发者头条】2022-11-22-WebRTC-在-Google-Meet-中应用的新发现](https://toutiao.io/k/ean5kp9) 
 - [【开发者头条】2022-11-22-深入浅出学习透析-Nginx-服务器的基本原理和配置指南（Https-安全控制篇）](https://toutiao.io/k/tgifok8) 
-- [【开发者头条】2022-11-22-ElasticSearch-深度分页详解](https://toutiao.io/k/u7obl5s) 
 - [【开发者头条】2022-11-22-从程序员到百万高管：寒冬之下的技术人修炼路径](https://toutiao.io/k/iv4ykeu) 
 - [【开发者头条】2022-11-22-视觉享受，兼顾人文观感和几何特征的字体「GitHub-热点速览-v.22.46」](https://toutiao.io/k/v8m49h6) 
 - [【开发者头条】2022-11-22-前端图形学实战:-100-行代码实现几何画板的撤销重做等功能（vue3-+-vite-版）](https://toutiao.io/k/d7fd8c3) 

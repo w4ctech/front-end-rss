@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-22 13:47:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-22 14:11:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1916,6 +1916,10 @@
 - [2022-10-20-告别pointer-events:none使用HTML-inert属性真正禁用](https://www.zhangxinxu.com/wordpress/2022/10/html-inert-disabled-attribute/) 
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
+- [2022-11-22-求推荐一款十一二万的车](https://www.v2ex.com/t/897196) 
+- [2022-11-22-请教一下，永久免费甲骨文如何更换-ip](https://www.v2ex.com/t/897195) 
+- [2022-11-22-阿根廷竟然输了，梅西还希望吗？](https://www.v2ex.com/t/897194) 
+- [2022-11-22-「Ubuntu」Package-mysql-server-8.0-is-not-configured-yet](https://www.v2ex.com/t/897193) 
 - [2022-11-22-Surge-Mac-端怎么查看已安装远程模块的链接？](https://www.v2ex.com/t/897192) 
 - [2022-11-22-请问大家有遇到-K8S-中-pod-一直在-pending，也没有-event-的情况吗？](https://www.v2ex.com/t/897185) 
 - [2022-11-22-三星-S22，-Pixel-7-Pro-选哪个？](https://www.v2ex.com/t/897184) 
@@ -1944,10 +1948,6 @@
 - [2022-11-22-毛子某网站上的-ADOBE-全家桶靠谱吗？一年才-50-刀。](https://www.v2ex.com/t/897149) 
 - [2022-11-22-换头像时的拍照选项是多余的嘛，为什么？](https://www.v2ex.com/t/897148) 
 - [2022-11-22-有没有一瞬间-想回家了](https://www.v2ex.com/t/897147) 
-- [2022-11-22-兄弟们，我来做个小调研。](https://www.v2ex.com/t/897146) 
-- [2022-11-22-效率神器-Alfred-和-utools-大家用的哪款](https://www.v2ex.com/t/897145) 
-- [2022-11-22-求推荐-87-键、正常键位、尽可能便宜的薄膜键盘](https://www.v2ex.com/t/897144) 
-- [2022-11-22-大家在防拆/保密上有什么设计的感悟么](https://www.v2ex.com/t/897143) 
 - [2022-11-22-使用CDC模式改造遗留系统-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15411&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fchange-data-capture-legacy-system%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-22-敏捷团队的质量保障赋能-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15410&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fquality-assurance-enablement-in-agile-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-22-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

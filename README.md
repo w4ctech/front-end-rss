@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-22 08:46:26，:rocket: 更新条数: +2011， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-22 09:13:05，:rocket: 更新条数: +2011， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,15 @@
 </summary>
 
 
+- [2022-11-22-想请一位-K8S-和虚拟机专家来帮帮我,-虚拟机-GPU-容器的问题](https://www.v2ex.com/t/897137) ![](assets/new.png)  
+- [2022-11-22-如何锻炼语言能力、人际交往能力](https://www.v2ex.com/t/897136) ![](assets/new.png)  
+- [2022-11-22-咨询一下-V-友们都在用什么显示器？](https://www.v2ex.com/t/897135) ![](assets/new.png)  
+- [2022-11-22-关于这此深圳医保的变化](https://www.v2ex.com/t/897134) ![](assets/new.png)  
+- [2022-11-22-问问大家，你们入职之后，招聘网站上的简历还会公开吗？](https://www.v2ex.com/t/897133) ![](assets/new.png)  
+- [2022-11-22-在一家公司做-15-年+以上是什么感受？](https://www.v2ex.com/t/897132) ![](assets/new.png)  
+- [2022-11-22-出搬瓦工-SPECIAL-20G-KVM-PROMO-V5---LOS-ANGELES---CN2-GIA-ECOMMERCE](https://www.v2ex.com/t/897129) ![](assets/new.png)  
+- [2022-11-22-教育行业数据可视化应用方案与实践](https://www.v2ex.com/t/897128) ![](assets/new.png)  
+- [2022-11-22-为什么我们不用-git-当数据库呢?](https://www.v2ex.com/t/897127) ![](assets/new.png)  
 - [2022-11-22-TG-突然被封禁,是巧合还是搜狗输入法的问题](https://www.v2ex.com/t/897125) ![](assets/new.png)  
 - [2022-11-22-朋友们，有用过-opengl-glsl-去水印的么？](https://www.v2ex.com/t/897124) ![](assets/new.png)  
 - [2022-11-22-杭州/上海-字节-|-国际化-|-后端专家/高级专家（极速通道）](https://www.v2ex.com/t/897123) ![](assets/new.png)  
@@ -502,15 +511,6 @@
 - [2022-11-22-甲骨文升级付费账户后有什么要注意的事](https://www.v2ex.com/t/897114) ![](assets/new.png)  
 - [2022-11-22-想学习一些关于买卖股票基金的知识，想问一下各位老哥，有哪些学习渠道呢？](https://www.v2ex.com/t/897113) ![](assets/new.png)  
 - [2022-11-22-因为公司某游戏代理续约谈崩，即将失业](https://www.v2ex.com/t/897111) ![](assets/new.png)  
-- [2022-11-22-分享一个-py-写的中国象棋-ai，实力可以爆杀我](https://www.v2ex.com/t/897110) ![](assets/new.png)  
-- [2022-11-22-求求建议](https://www.v2ex.com/t/897109) ![](assets/new.png)  
-- [2022-11-22-IM-有可能像-mastodon-那样去中心化吗？](https://www.v2ex.com/t/897108) ![](assets/new.png)  
-- [2022-11-22-解决-MBP-外接-AOC-显示器睡眠唤醒延迟问题](https://www.v2ex.com/t/897107) ![](assets/new.png)  
-- [2022-11-22-兄弟们，来吹爆东哥](https://www.v2ex.com/t/897106) ![](assets/new.png)  
-- [2022-11-22-浏览器扩展，油猴插件，-uTools-的区别？](https://www.v2ex.com/t/897105) ![](assets/new.png)  
-- [2022-11-22-windows-有类似-netdata-这种工具吗？](https://www.v2ex.com/t/897102) ![](assets/new.png)  
-- [2022-11-22-这段时间写了几个自用的应用分享一下](https://www.v2ex.com/t/897101) ![](assets/new.png)  
-- [2022-11-22-AI-模型编译器-MegCC-开源，解决推理引擎体积问题](https://www.v2ex.com/t/897100) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

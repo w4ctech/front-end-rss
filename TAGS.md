@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-11-22 08:46:26。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-22 09:13:05。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -233,7 +233,6 @@
 
 - [【武汉肺炎防疫全纪录(财新网)】广州17岁男生在定点医院参加高考-特殊考场视频监考](https://m.caixin.com/m/2021-06-05/101723418.html)
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
-- [【V2EX】macOS-下，能用快捷键切换音频输出设备么？](https://www.v2ex.com/t/897085)
 - [【开发者头条】WebRTC-在-Google-Meet-中应用的新发现](https://toutiao.io/k/ean5kp9)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
@@ -293,6 +292,7 @@
 
 
 
+- [【V2EX】想请一位-K8S-和虚拟机专家来帮帮我,-虚拟机-GPU-容器的问题](https://www.v2ex.com/t/897137)
 - [【V2EX】IM-有可能像-mastodon-那样去中心化吗？](https://www.v2ex.com/t/897108)
 - [【开发者头条】《程序员数学：素数》：你真的了解-RSA-加密算法吗？](https://toutiao.io/k/e6wsl14)
 - [【开发者头条】ElasticSearch-深度分页详解](https://toutiao.io/k/u7obl5s)
@@ -329,6 +329,7 @@
 
 
 
+- [【V2EX】为什么我们不用-git-当数据库呢?](https://www.v2ex.com/t/897127)
 - [【开发者头条】视觉享受，兼顾人文观感和几何特征的字体「GitHub-热点速览-v.22.46」](https://toutiao.io/k/v8m49h6)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
@@ -346,7 +347,7 @@
 
 
 
-- [【V2EX】求人求人！开发工程师/UI/UX-设计师招聘！（远程办公模式）](https://www.v2ex.com/t/897086)
+- [【V2EX】问问大家，你们入职之后，招聘网站上的简历还会公开吗？](https://www.v2ex.com/t/897133)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

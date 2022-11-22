@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-22 08:46:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-22 09:13:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1916,6 +1916,12 @@
 - [2022-10-20-告别pointer-events:none使用HTML-inert属性真正禁用](https://www.zhangxinxu.com/wordpress/2022/10/html-inert-disabled-attribute/) 
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
+- [2022-11-22-如何锻炼语言能力、人际交往能力](https://www.v2ex.com/t/897136) 
+- [2022-11-22-咨询一下-V-友们都在用什么显示器？](https://www.v2ex.com/t/897135) 
+- [2022-11-22-关于这此深圳医保的变化](https://www.v2ex.com/t/897134) 
+- [2022-11-22-在一家公司做-15-年+以上是什么感受？](https://www.v2ex.com/t/897132) 
+- [2022-11-22-出搬瓦工-SPECIAL-20G-KVM-PROMO-V5---LOS-ANGELES---CN2-GIA-ECOMMERCE](https://www.v2ex.com/t/897129) 
+- [2022-11-22-教育行业数据可视化应用方案与实践](https://www.v2ex.com/t/897128) 
 - [2022-11-22-TG-突然被封禁,是巧合还是搜狗输入法的问题](https://www.v2ex.com/t/897125) 
 - [2022-11-22-朋友们，有用过-opengl-glsl-去水印的么？](https://www.v2ex.com/t/897124) 
 - [2022-11-22-杭州/上海-字节-|-国际化-|-后端专家/高级专家（极速通道）](https://www.v2ex.com/t/897123) 
@@ -1942,13 +1948,6 @@
 - [2022-11-22-最近有人提“国产”，我也说说我的感受，抛砖引玉](https://www.v2ex.com/t/897090) 
 - [2022-11-22-HoloISO、Chimera-OS、Winesap-OS-和-Steam-Deck-自带的-Steam-OS，哪个比较好？](https://www.v2ex.com/t/897089) 
 - [2022-11-22-求推荐云函数和云服务器平台？](https://www.v2ex.com/t/897088) 
-- [2022-11-22-搬瓦工$18.74-年付-VPS-不续费了，谁要拿去](https://www.v2ex.com/t/897087) 
-- [2022-11-22-请问一下,nutUI-支持-app-端吗?](https://www.v2ex.com/t/897084) 
-- [2022-11-22-接着转租一号线富锦路地铁口商铺公寓一室户，押一付一，房东直租，-1900-一个月，欢迎咨询](https://www.v2ex.com/t/897083) 
-- [2022-11-22-宝塔按了数据库备份按钮，一直显示：正在备份，请稍后...](https://www.v2ex.com/t/897082) 
-- [2022-11-22-龙岗布吉附近停车位包月推荐](https://www.v2ex.com/t/897080) 
-- [2022-11-22-请问选-Unity-还是-Godot](https://www.v2ex.com/t/897079) 
-- [2022-11-22-降落伞模式的飞机物流](https://www.v2ex.com/t/897077) 
 - [2022-11-22-使用CDC模式改造遗留系统-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15411&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fchange-data-capture-legacy-system%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-22-敏捷团队的质量保障赋能-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15410&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fquality-assurance-enablement-in-agile-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-22-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

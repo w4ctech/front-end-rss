@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-22 20:36:51，:rocket: 更新条数: +2015， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-22 21:10:52，:rocket: 更新条数: +2015， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-11-22-可以把日本动漫中虚构的店名、队名一类（有一定独特性的名字）注册成商标用于自己做的个人商业项目吗？](https://www.v2ex.com/t/897220) ![](assets/new.png)  
 - [2022-11-22-一个没人关注的小现象，关于-DTMB](https://www.v2ex.com/t/897219) ![](assets/new.png)  
 - [2022-11-22-想问一下这种字符串是-base64-吧？为何解码后乱码啊？是我解的有问题还是这个不是-base64](https://www.v2ex.com/t/897218) ![](assets/new.png)  
 - [2022-11-22-内存-512MB-的-VPS-做代理够用不，大家有用的吗？感受怎么样](https://www.v2ex.com/t/897217) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-11-22-求助如何去水印](https://www.v2ex.com/t/897203) ![](assets/new.png)  
 - [2022-11-22-cctv-网页版看球，为什么上传速度那么多是什么原理](https://www.v2ex.com/t/897201) ![](assets/new.png)  
 - [2022-11-22-为啥在-Safari-的搜索右下角会变成小喇叭](https://www.v2ex.com/t/897200) ![](assets/new.png)  
-- [2022-11-22-有懂法律的吗？](https://www.v2ex.com/t/897199) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

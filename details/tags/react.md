@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-23 02:40:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-23 03:31:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## React
 
@@ -8,5 +8,4 @@
 
 
 - [2022-11-23-谷歌是怎么爬-React-网站的？](https://www.v2ex.com/t/897251) 
-- [2022-11-22-美国初创，面向开发者的产品-|-招前端-Typescript/React-和后端-Go/K8S-时薪-$30+-全职兼职](https://www.v2ex.com/t/897224) 
 - [2022-11-23-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

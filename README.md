@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-23 17:10:36，:rocket: 更新条数: +2016， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-23 17:35:36，:rocket: 更新条数: +2016， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-11-23-lobash-发布-v0.5.0-版本](https://www.v2ex.com/t/897478) ![](assets/new.png)  
 - [2022-11-23-职业认知课，是增长见识还是另外的割韭菜](https://www.v2ex.com/t/897477) ![](assets/new.png)  
 - [2022-11-23-有什么推荐的音乐/FM-app-支持云端同步自定义音频上传的啊](https://www.v2ex.com/t/897475) ![](assets/new.png)  
 - [2022-11-23-关于-nas-的-ups-是必需品吗？入-APC-是不是可以](https://www.v2ex.com/t/897474) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-11-23-你们想要的-Gen12-虚拟化实验结果图来了](https://www.v2ex.com/t/897456) ![](assets/new.png)  
 - [2022-11-23-请教-V-友推荐一款-Zygisk-版的-LocationReportEnabler](https://www.v2ex.com/t/897455) ![](assets/new.png)  
 - [2022-11-23-HEIC-图片-Preview-预览-卡顿问题](https://www.v2ex.com/t/897452) ![](assets/new.png)  
-- [2022-11-23-国内有无类似美剧里-Alcoholics-Anonymous-这样的互助小组](https://www.v2ex.com/t/897451) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-23 07:11:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-23 07:35:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1916,6 +1916,12 @@
 - [2022-10-20-告别pointer-events:none使用HTML-inert属性真正禁用](https://www.zhangxinxu.com/wordpress/2022/10/html-inert-disabled-attribute/) 
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
+- [2022-11-23-为什么-apple-watch-不赠送贴纸呢](https://www.v2ex.com/t/897371) 
+- [2022-11-23-ios-邮件绑定的-outlook-账户问题求解答](https://www.v2ex.com/t/897370) 
+- [2022-11-23-不得不佩服咱的造词能力，自从不让判定次密接后改判定“核心密接”和“一般密接”了](https://www.v2ex.com/t/897369) 
+- [2022-11-23-我们把「待办清单+日程安排+文档内容三合一」做了个待办聚合功能](https://www.v2ex.com/t/897368) 
+- [2022-11-23-京东的大流量卡靠谱吗](https://www.v2ex.com/t/897367) 
+- [2022-11-23-34-岁在武汉准备去外包躺平](https://www.v2ex.com/t/897365) 
 - [2022-11-23-外星人黑五打特价，值得入手吗？](https://www.v2ex.com/t/897364) 
 - [2022-11-23-使用-Kmonad-低成本改造“人体工程学”键盘](https://www.v2ex.com/t/897363) 
 - [2022-11-23-xbox-XPGU-充值问题](https://www.v2ex.com/t/897362) 
@@ -1941,11 +1947,6 @@
 - [2022-11-23-电信单位宽带-没有拨号的情况下-为什么公网-IP-会变化](https://www.v2ex.com/t/897326) 
 - [2022-11-23-代朋友发贴:-坐标北美,应该去还是不去呢?](https://www.v2ex.com/t/897325) 
 - [2022-11-23-杭州技术的薪资的中位数或平均数和北京差不多哇](https://www.v2ex.com/t/897324) 
-- [2022-11-23-各位，请问下-AppleTV-如何获取-IPv6](https://www.v2ex.com/t/897321) 
-- [2022-11-23-请教买阿里云开票的方案](https://www.v2ex.com/t/897320) 
-- [2022-11-23-凉心云越来越凉心了](https://www.v2ex.com/t/897319) 
-- [2022-11-23-Magic-Keyboard-的中/英切换有问题](https://www.v2ex.com/t/897316) 
-- [2022-11-23-喜欢吃各种烤的脆脆香香的东西，买烤箱合适还是空气炸锅合适](https://www.v2ex.com/t/897315) 
 - [2022-11-23-使用CDC模式改造遗留系统-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15411&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fchange-data-capture-legacy-system%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-23-敏捷团队的质量保障赋能-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15410&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fquality-assurance-enablement-in-agile-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-23-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

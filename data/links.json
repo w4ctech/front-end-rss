@@ -9953,6 +9953,41 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "Apple Watch + Airpods + iPhone 组合耳机声音问题。",
+        "link": "https://www.v2ex.com/t/897382",
+        "date": "2022-11-23"
+      },
+      {
+        "title": "ss、vmess、 还是 trojan?",
+        "link": "https://www.v2ex.com/t/897380",
+        "date": "2022-11-23"
+      },
+      {
+        "title": "产品经理做的第三方插件：然后官方发布了该功能",
+        "link": "https://www.v2ex.com/t/897378",
+        "date": "2022-11-23"
+      },
+      {
+        "title": "一文讲透 CabloyJS 全栈框架的来龙去脉",
+        "link": "https://www.v2ex.com/t/897377",
+        "date": "2022-11-23"
+      },
+      {
+        "title": "广东电信升级 1000M 宽带有点坑",
+        "link": "https://www.v2ex.com/t/897376",
+        "date": "2022-11-23"
+      },
+      {
+        "title": "微信这是奔着办公软件去了？",
+        "link": "https://www.v2ex.com/t/897375",
+        "date": "2022-11-23"
+      },
+      {
+        "title": "sony 电视机配什么电视盒子",
+        "link": "https://www.v2ex.com/t/897372",
+        "date": "2022-11-23"
+      },
+      {
         "title": "为什么 apple watch 不赠送贴纸呢",
         "link": "https://www.v2ex.com/t/897371",
         "date": "2022-11-23"
@@ -10076,51 +10111,6 @@
         "title": "大佬们来分享下你觉得很受益匪浅的书籍吧",
         "link": "https://www.v2ex.com/t/897336",
         "date": "2022-11-23"
-      },
-      {
-        "title": "Material Motion 的最完整实现 - Material Studies 示例应用 Reply 的 Angular 实现现已公开",
-        "link": "https://www.v2ex.com/t/897332",
-        "date": "2022-11-23"
-      },
-      {
-        "title": "有没有随机派书的订阅服务？",
-        "link": "https://www.v2ex.com/t/897331",
-        "date": "2022-11-23"
-      },
-      {
-        "title": "浙江电信 光路（OLT）认证 认证失败",
-        "link": "https://www.v2ex.com/t/897330",
-        "date": "2022-11-23"
-      },
-      {
-        "title": "甲骨文升级了这么看流量",
-        "link": "https://www.v2ex.com/t/897329",
-        "date": "2022-11-23"
-      },
-      {
-        "title": "有没有使用华硕 RT-AC86U 的同学，想知道能不能跑满千兆，或者接近也行",
-        "link": "https://www.v2ex.com/t/897328",
-        "date": "2022-11-23"
-      },
-      {
-        "title": "日亚 APPLE TV 已到",
-        "link": "https://www.v2ex.com/t/897327",
-        "date": "2022-11-23"
-      },
-      {
-        "title": "电信单位宽带 没有拨号的情况下 为什么公网 IP 会变化",
-        "link": "https://www.v2ex.com/t/897326",
-        "date": "2022-11-23"
-      },
-      {
-        "title": "代朋友发贴: 坐标北美,应该去还是不去呢?",
-        "link": "https://www.v2ex.com/t/897325",
-        "date": "2022-11-23"
-      },
-      {
-        "title": "杭州技术的薪资的中位数或平均数和北京差不多哇",
-        "link": "https://www.v2ex.com/t/897324",
-        "date": "2022-11-23"
       }
     ]
   },
@@ -10129,6 +10119,11 @@
     "title": "技术头条",
     "link": "http://blogread.cn/news/newest.php",
     "items": [
+      {
+        "title": "浅谈数据和人工智能项目的管理 (insights.thoughtworks.cn)",
+        "link": "https://blogread.cn/news/go.php?idItem=15412&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fproject-management-big-data-artificial-intelligence%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2022-11-23"
+      },
       {
         "title": "使用CDC模式改造遗留系统 (insights.thoughtworks.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=15411&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fchange-data-capture-legacy-system%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
@@ -10207,23 +10202,23 @@
         "date": "2022-11-23"
       },
       {
-        "title": "运维自动化之任务系统分享",
-        "link": "https://toutiao.io/k/lngrzap",
-        "date": "2022-11-23"
-      },
-      {
-        "title": "Rust 交叉编译——Windows To Linux",
-        "link": "https://toutiao.io/k/ywb7olc",
-        "date": "2022-11-23"
-      },
-      {
         "title": "分布式 ID 生成方案总结整理",
         "link": "https://toutiao.io/k/o41cn6o",
         "date": "2022-11-23"
       },
       {
+        "title": "运维自动化之任务系统分享",
+        "link": "https://toutiao.io/k/lngrzap",
+        "date": "2022-11-23"
+      },
+      {
         "title": "重塑认识 Java 编译器的执行过程（常量优化机制）",
         "link": "https://toutiao.io/k/pmbarr3",
+        "date": "2022-11-23"
+      },
+      {
+        "title": "Rust 交叉编译——Windows To Linux",
+        "link": "https://toutiao.io/k/ywb7olc",
         "date": "2022-11-23"
       },
       {

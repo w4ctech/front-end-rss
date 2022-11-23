@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-23 07:35:17，:rocket: 更新条数: +2006， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-23 08:15:51，:rocket: 更新条数: +2005， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,13 @@
 </summary>
 
 
+- [2022-11-23-Apple-Watch-+-Airpods-+-iPhone-组合耳机声音问题。](https://www.v2ex.com/t/897382) ![](assets/new.png)  
+- [2022-11-23-ss、vmess、-还是-trojan?](https://www.v2ex.com/t/897380) ![](assets/new.png)  
+- [2022-11-23-产品经理做的第三方插件：然后官方发布了该功能](https://www.v2ex.com/t/897378) ![](assets/new.png)  
+- [2022-11-23-一文讲透-CabloyJS-全栈框架的来龙去脉](https://www.v2ex.com/t/897377) ![](assets/new.png)  
+- [2022-11-23-广东电信升级-1000M-宽带有点坑](https://www.v2ex.com/t/897376) ![](assets/new.png)  
+- [2022-11-23-微信这是奔着办公软件去了？](https://www.v2ex.com/t/897375) ![](assets/new.png)  
+- [2022-11-23-sony-电视机配什么电视盒子](https://www.v2ex.com/t/897372) ![](assets/new.png)  
 - [2022-11-23-为什么-apple-watch-不赠送贴纸呢](https://www.v2ex.com/t/897371) ![](assets/new.png)  
 - [2022-11-23-ios-邮件绑定的-outlook-账户问题求解答](https://www.v2ex.com/t/897370) ![](assets/new.png)  
 - [2022-11-23-不得不佩服咱的造词能力，自从不让判定次密接后改判定“核心密接”和“一般密接”了](https://www.v2ex.com/t/897369) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-11-23-2.3.-kustz-解析-URL-为-Ingress](https://www.v2ex.com/t/897358) ![](assets/new.png)  
 - [2022-11-23-ibook-阅读-pdf-同步进度的问题](https://www.v2ex.com/t/897356) ![](assets/new.png)  
 - [2022-11-23-为什么只有小屏旗舰，没有小屏中端](https://www.v2ex.com/t/897355) ![](assets/new.png)  
-- [2022-11-23-手机浏览器一个容器设置了-overflow:-scroll-后，有没有相关设置可以让内容不足以显示滚动条时也有橡皮弹性效果？](https://www.v2ex.com/t/897354) ![](assets/new.png)  
-- [2022-11-23-年底急招-杭州后端-🔥🔥🔥🔥🔥](https://www.v2ex.com/t/897353) ![](assets/new.png)  
-- [2022-11-23-苏州电信宽带好贵啊](https://www.v2ex.com/t/897352) ![](assets/new.png)  
-- [2022-11-23-移动的手机数据网络分配的-ipv6](https://www.v2ex.com/t/897351) ![](assets/new.png)  
-- [2022-11-23-很迷茫，不知道如何选择。](https://www.v2ex.com/t/897350) ![](assets/new.png)  
-- [2022-11-23-RockyLinux-vsftpd-虚拟用户问题](https://www.v2ex.com/t/897349) ![](assets/new.png)  
-- [2022-11-23-录制白噪音的设备需要多少成本？](https://www.v2ex.com/t/897345) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -522,6 +522,7 @@
 </summary>
 
 
+- [2022-11-23-浅谈数据和人工智能项目的管理-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15412&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fproject-management-big-data-artificial-intelligence%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-11-23-使用CDC模式改造遗留系统-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15411&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fchange-data-capture-legacy-system%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-11-23-敏捷团队的质量保障赋能-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15410&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fquality-assurance-enablement-in-agile-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-11-23-团队的Code-Review实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15409&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-code-review%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
@@ -547,10 +548,10 @@
 - [2022-11-23-聊聊-Spring-中最常用的-11-个扩展点](https://toutiao.io/k/7m8gu5r) ![](assets/new.png)  
 - [2022-11-23-Go-编码规范](https://toutiao.io/k/n79dj1x) ![](assets/new.png)  
 - [2022-11-23-我的建议是：给想出这个方案并落地的大佬，绩效拉满，连升两级，附加-20-个月年终奖！](https://toutiao.io/k/hbcavwf) ![](assets/new.png)  
-- [2022-11-23-运维自动化之任务系统分享](https://toutiao.io/k/lngrzap) ![](assets/new.png)  
-- [2022-11-23-Rust-交叉编译——Windows-To-Linux](https://toutiao.io/k/ywb7olc) ![](assets/new.png)  
 - [2022-11-23-分布式-ID-生成方案总结整理](https://toutiao.io/k/o41cn6o) ![](assets/new.png)  
+- [2022-11-23-运维自动化之任务系统分享](https://toutiao.io/k/lngrzap) ![](assets/new.png)  
 - [2022-11-23-重塑认识-Java-编译器的执行过程（常量优化机制）](https://toutiao.io/k/pmbarr3) ![](assets/new.png)  
+- [2022-11-23-Rust-交叉编译——Windows-To-Linux](https://toutiao.io/k/ywb7olc) ![](assets/new.png)  
 - [2022-11-23-细说｜Linux-内存泄漏检测实现原理与实现](https://toutiao.io/k/gi85gbf) ![](assets/new.png)  
 - [2022-11-23-PGO-是啥，咋就让-Go-更快更猛了？](https://toutiao.io/k/3naat8v) ![](assets/new.png)  
 - [2022-11-23-Vagrant-搭建虚拟机环境](https://toutiao.io/k/sidw2vj) ![](assets/new.png)  

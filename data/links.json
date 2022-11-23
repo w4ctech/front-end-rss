@@ -9953,6 +9953,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "职业认知课，是增长见识还是另外的割韭菜",
+        "link": "https://www.v2ex.com/t/897477",
+        "date": "2022-11-23"
+      },
+      {
         "title": "有什么推荐的音乐/FM app 支持云端同步自定义音频上传的啊",
         "link": "https://www.v2ex.com/t/897475",
         "date": "2022-11-23"
@@ -10150,16 +10155,6 @@
       {
         "title": "有没有懂哥说下 docker 在容器内部怎么看自身资源啊？",
         "link": "https://www.v2ex.com/t/897428",
-        "date": "2022-11-23"
-      },
-      {
-        "title": "用 Tauri+egui 做了一款开源 Rust 远程桌面： MirrorX",
-        "link": "https://www.v2ex.com/t/897427",
-        "date": "2022-11-23"
-      },
-      {
-        "title": "2022 年 11 月 23 日-国内还能使用 OneDrive 吗？",
-        "link": "https://www.v2ex.com/t/897426",
         "date": "2022-11-23"
       }
     ]

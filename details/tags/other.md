@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-23 16:48:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-23 17:10:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1916,6 +1916,7 @@
 - [2022-10-20-告别pointer-events:none使用HTML-inert属性真正禁用](https://www.zhangxinxu.com/wordpress/2022/10/html-inert-disabled-attribute/) 
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
+- [2022-11-23-职业认知课，是增长见识还是另外的割韭菜](https://www.v2ex.com/t/897477) 
 - [2022-11-23-关于-nas-的-ups-是必需品吗？入-APC-是不是可以](https://www.v2ex.com/t/897474) 
 - [2022-11-23-Apple-Watch-能不能设置微信来消息时的震动方式？](https://www.v2ex.com/t/897473) 
 - [2022-11-23-有没有人在-Windows-下把-Caps-Lock-和-Ctrl-互换的？](https://www.v2ex.com/t/897472) 
@@ -1946,7 +1947,6 @@
 - [2022-11-23-有没有懂-springcloud-的兄弟，请教个问题](https://www.v2ex.com/t/897432) 
 - [2022-11-23-大家有试过在京东给差评提示网络异常吗？给好评就评价成功](https://www.v2ex.com/t/897431) 
 - [2022-11-23-应届生求问：第一份工作该看重什么/前辈们是如何选择-offer-的？](https://www.v2ex.com/t/897429) 
-- [2022-11-23-2022-年-11-月-23-日-国内还能使用-OneDrive-吗？](https://www.v2ex.com/t/897426) 
 - [2022-11-23-2022，「倾城之链」运营第-6-年感记-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=15413&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fnicelinks-site-in-2022%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-23-浅谈数据和人工智能项目的管理-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15412&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fproject-management-big-data-artificial-intelligence%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-23-使用CDC模式改造遗留系统-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15411&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fchange-data-capture-legacy-system%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

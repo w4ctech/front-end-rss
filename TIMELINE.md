@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-23 16:48:51。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-23 17:10:36。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -71,6 +71,7 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-11-20-JS之我用单img元素实现了图像resize拉伸效果](https://www.zhangxinxu.com/wordpress/2022/11/js-image-resize/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-23-职业认知课，是增长见识还是另外的割韭菜](https://www.v2ex.com/t/897477) 
 - [【V2EX】2022-11-23-有什么推荐的音乐/FM-app-支持云端同步自定义音频上传的啊](https://www.v2ex.com/t/897475) 
 - [【V2EX】2022-11-23-关于-nas-的-ups-是必需品吗？入-APC-是不是可以](https://www.v2ex.com/t/897474) 
 - [【V2EX】2022-11-23-Apple-Watch-能不能设置微信来消息时的震动方式？](https://www.v2ex.com/t/897473) 
@@ -111,8 +112,6 @@
 - [【V2EX】2022-11-23-每月-10-刀上下，能否拥有亚太地区延迟稳定性能够用流量划算的省心服务器](https://www.v2ex.com/t/897430) 
 - [【V2EX】2022-11-23-应届生求问：第一份工作该看重什么/前辈们是如何选择-offer-的？](https://www.v2ex.com/t/897429) 
 - [【V2EX】2022-11-23-有没有懂哥说下-docker-在容器内部怎么看自身资源啊？](https://www.v2ex.com/t/897428) 
-- [【V2EX】2022-11-23-用-Tauri+egui-做了一款开源-Rust-远程桌面：-MirrorX](https://www.v2ex.com/t/897427) 
-- [【V2EX】2022-11-23-2022-年-11-月-23-日-国内还能使用-OneDrive-吗？](https://www.v2ex.com/t/897426) 
 - [【技术头条】2022-11-23-如何基于-Prerender-为-SPA-做-SEO-优化-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=15414&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fhow-to-optimize-seo-for-spa-based-on-prerender%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-23-2022，「倾城之链」运营第-6-年感记-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=15413&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fnicelinks-site-in-2022%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-23-浅谈数据和人工智能项目的管理-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15412&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fproject-management-big-data-artificial-intelligence%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

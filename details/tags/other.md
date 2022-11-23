@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-23 10:39:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-23 11:10:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1916,6 +1916,8 @@
 - [2022-10-20-告别pointer-events:none使用HTML-inert属性真正禁用](https://www.zhangxinxu.com/wordpress/2022/10/html-inert-disabled-attribute/) 
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
+- [2022-11-23-为啥北京的手机卡月租都这么贵](https://www.v2ex.com/t/897419) 
+- [2022-11-23-大佬们都看报纸📰吗,都看什么报纸,国外的很多不用说,有看国内的报纸吗？国内的都看什么,看微博吗?](https://www.v2ex.com/t/897418) 
 - [2022-11-23-23-秋招-offer-选择求建议](https://www.v2ex.com/t/897417) 
 - [2022-11-23-忍不住吐槽两句](https://www.v2ex.com/t/897415) 
 - [2022-11-23-如题，副业探索](https://www.v2ex.com/t/897414) 
@@ -1945,10 +1947,6 @@
 - [2022-11-23-产品经理做的第三方插件：然后官方发布了该功能](https://www.v2ex.com/t/897378) 
 - [2022-11-23-广东电信升级-1000M-宽带有点坑](https://www.v2ex.com/t/897376) 
 - [2022-11-23-微信这是奔着办公软件去了？](https://www.v2ex.com/t/897375) 
-- [2022-11-23-sony-电视机配什么电视盒子](https://www.v2ex.com/t/897372) 
-- [2022-11-23-为什么-apple-watch-不赠送贴纸呢](https://www.v2ex.com/t/897371) 
-- [2022-11-23-ios-邮件绑定的-outlook-账户问题求解答](https://www.v2ex.com/t/897370) 
-- [2022-11-23-我们把「待办清单+日程安排+文档内容三合一」做了个待办聚合功能](https://www.v2ex.com/t/897368) 
 - [2022-11-23-浅谈数据和人工智能项目的管理-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15412&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fproject-management-big-data-artificial-intelligence%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-23-使用CDC模式改造遗留系统-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15411&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fchange-data-capture-legacy-system%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-23-敏捷团队的质量保障赋能-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15410&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fquality-assurance-enablement-in-agile-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-23 10:39:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-23 11:10:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -7,4 +7,5 @@
 
 
 
+- [2022-11-23-海外：-Keyform-Tech-Limited-招聘](https://www.v2ex.com/t/897421) 
 - [2022-11-23-「远程工作」物业管理系统招聘后端高级工程师/月薪-40-60K-RMB](https://www.v2ex.com/t/897406) 

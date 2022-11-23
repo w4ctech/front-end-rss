@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-23 18:14:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-23 18:40:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1916,6 +1916,7 @@
 - [2022-10-20-告别pointer-events:none使用HTML-inert属性真正禁用](https://www.zhangxinxu.com/wordpress/2022/10/html-inert-disabled-attribute/) 
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
+- [2022-11-23-黑五&Cyber-Monday-限时特惠：-MenubarX-Pro-优惠码](https://www.v2ex.com/t/897480) 
 - [2022-11-23-SSH-免密钥登录，-Mac-登录-VPSUbuntu可以,登录另一个-Mac-始终失败](https://www.v2ex.com/t/897479) 
 - [2022-11-23-lobash-发布-v0.5.0-版本](https://www.v2ex.com/t/897478) 
 - [2022-11-23-职业认知课，是增长见识还是另外的割韭菜](https://www.v2ex.com/t/897477) 

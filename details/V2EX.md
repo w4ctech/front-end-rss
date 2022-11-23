@@ -1,10 +1,15 @@
-:alarm_clock: 更新时间: 2022-11-23 16:16:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-23 16:48:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-11-23-有什么推荐的音乐/FM-app-支持云端同步自定义音频上传的啊](https://www.v2ex.com/t/897475) 
+- [2022-11-23-关于-nas-的-ups-是必需品吗？入-APC-是不是可以](https://www.v2ex.com/t/897474) 
+- [2022-11-23-Apple-Watch-能不能设置微信来消息时的震动方式？](https://www.v2ex.com/t/897473) 
+- [2022-11-23-有没有人在-Windows-下把-Caps-Lock-和-Ctrl-互换的？](https://www.v2ex.com/t/897472) 
+- [2022-11-23-欢迎加入北美软件测试群-Whatsapp](https://www.v2ex.com/t/897471) 
 - [2022-11-23-Mail-连接-163-总提示无法连接，需要输入密码](https://www.v2ex.com/t/897470) 
 - [2022-11-23-抛弃黑苹果，重回-Windows-怀抱](https://www.v2ex.com/t/897469) 
 - [2022-11-23-预激综合征-会影响阿里的体检吗](https://www.v2ex.com/t/897468) 
@@ -42,7 +47,3 @@
 - [2022-11-23-有没有懂哥说下-docker-在容器内部怎么看自身资源啊？](https://www.v2ex.com/t/897428) 
 - [2022-11-23-用-Tauri+egui-做了一款开源-Rust-远程桌面：-MirrorX](https://www.v2ex.com/t/897427) 
 - [2022-11-23-2022-年-11-月-23-日-国内还能使用-OneDrive-吗？](https://www.v2ex.com/t/897426) 
-- [2022-11-23-收Oracle-免费云服务-vps，德国-Euserv-免费小鸡-vps，价格可谈！](https://www.v2ex.com/t/897425) 
-- [2022-11-23-国外有什么便宜的存储方案呢-大佬们？大佬们国外都用什么做存储呢？-Google-drive-Dropbox-都太贵了，有便宜的方案吗？数据放国内感觉被监控，不想存国内？](https://www.v2ex.com/t/897424) 
-- [2022-11-23-有没有浏览器的请求头是-Accept-Encoding:-deflate,-gzip,-br](https://www.v2ex.com/t/897423) 
-- [2022-11-23-海外：-Keyform-Tech-Limited-招聘](https://www.v2ex.com/t/897421) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-23 03:31:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-23 03:50:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1916,6 +1916,12 @@
 - [2022-10-20-告别pointer-events:none使用HTML-inert属性真正禁用](https://www.zhangxinxu.com/wordpress/2022/10/html-inert-disabled-attribute/) 
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
+- [2022-11-23-有没有类似-Bearblog-的开源项目？](https://www.v2ex.com/t/897296) 
+- [2022-11-23-北京联通，是墙又升级了吗？](https://www.v2ex.com/t/897295) 
+- [2022-11-23-Jitouch-导致-Mac-卡死](https://www.v2ex.com/t/897294) 
+- [2022-11-23-7P-换到-14-怎么样？](https://www.v2ex.com/t/897293) 
+- [2022-11-23-老铁们，我又来了，易待办-1.0.6-版本发布](https://www.v2ex.com/t/897292) 
+- [2022-11-23-由于博客域名更换,打算再换一下友链](https://www.v2ex.com/t/897291) 
 - [2022-11-23-Tech-Lead-的-干系人管理](https://www.v2ex.com/t/897288) 
 - [2022-11-23-阿凡达-2-内地定档了终于](https://www.v2ex.com/t/897287) 
 - [2022-11-23-不懂就问：-Pixel-7-开启全屏模式下微信按住说话很容易跳掉，怎么破？](https://www.v2ex.com/t/897284) 
@@ -1939,10 +1945,6 @@
 - [2022-11-23-抖音让我觉得我的平板该换了](https://www.v2ex.com/t/897253) 
 - [2022-11-23-最近套-cf-是不是也不稳啊](https://www.v2ex.com/t/897249) 
 - [2022-11-23-M1-电脑无法安装-centos7，大家知道是什么原因吗？](https://www.v2ex.com/t/897248) 
-- [2022-11-23-zlibrary-.onion-正式下线了](https://www.v2ex.com/t/897247) 
-- [2022-11-23-蜂窝数据的-ipv6-端口还能公网正常使用的吗？](https://www.v2ex.com/t/897246) 
-- [2022-11-23-和同事吃饭，获得了不同的“人生观”，请大家指教](https://www.v2ex.com/t/897245) 
-- [2022-11-23-最后的-macbook-无刘海是哪一款?](https://www.v2ex.com/t/897244) 
 - [2022-11-23-使用CDC模式改造遗留系统-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15411&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fchange-data-capture-legacy-system%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-23-敏捷团队的质量保障赋能-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15410&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fquality-assurance-enablement-in-agile-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-23-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

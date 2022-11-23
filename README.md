@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-23 04:42:37，:rocket: 更新条数: +2011， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-23 05:11:24，:rocket: 更新条数: +2011， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-11-23-家长群老师天天发报名统计类的东西，我在想，他们就不能用个小程序吗](https://www.v2ex.com/t/897318) ![](assets/new.png)  
+- [2022-11-23-iPhone-视频-APP-经常绿屏或黑屏，有什么解决办法嘛？](https://www.v2ex.com/t/897317) ![](assets/new.png)  
+- [2022-11-23-Magic-Keyboard-的中/英切换有问题](https://www.v2ex.com/t/897316) ![](assets/new.png)  
+- [2022-11-23-喜欢吃各种烤的脆脆香香的东西，买烤箱合适还是空气炸锅合适](https://www.v2ex.com/t/897315) ![](assets/new.png)  
+- [2022-11-23-赫夫曼树的生成中，“左小右大”“左-0-右-1”这一规则能否颠倒成“左大右小”“左-1-右-0”？](https://www.v2ex.com/t/897314) ![](assets/new.png)  
 - [2022-11-23-playcover-上安装的-ipa-上下滑动滚动不顺畅-卡顿-没有加速](https://www.v2ex.com/t/897312) ![](assets/new.png)  
 - [2022-11-23-有什么比较稳的-vps-服务商推荐吗，用来搭代理和内网穿透](https://www.v2ex.com/t/897311) ![](assets/new.png)  
 - [2022-11-23-国产机-debug-特别卡顿的根本原因是什么？](https://www.v2ex.com/t/897308) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-11-23-只有一个人用的-Windows，安装软件时选“为所有用户安装”和“仅为我安装”有什么区别吗？](https://www.v2ex.com/t/897298) ![](assets/new.png)  
 - [2022-11-23-有没有类似-Bearblog-的开源项目？](https://www.v2ex.com/t/897296) ![](assets/new.png)  
 - [2022-11-23-北京联通，是墙又升级了吗？](https://www.v2ex.com/t/897295) ![](assets/new.png)  
-- [2022-11-23-Jitouch-导致-Mac-卡死](https://www.v2ex.com/t/897294) ![](assets/new.png)  
-- [2022-11-23-7P-换到-14-怎么样？](https://www.v2ex.com/t/897293) ![](assets/new.png)  
-- [2022-11-23-老铁们，我又来了，易待办-1.0.6-版本发布](https://www.v2ex.com/t/897292) ![](assets/new.png)  
-- [2022-11-23-由于博客域名更换,打算再换一下友链](https://www.v2ex.com/t/897291) ![](assets/new.png)  
-- [2022-11-23-HTML5-单文件网页版-ACME-客户端，方便在线申请-Let's-Encrypt、ZeroSSL-免费-HTTPS-多域名通配符-SSL/TLS-证书，操作丝滑](https://www.v2ex.com/t/897290) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

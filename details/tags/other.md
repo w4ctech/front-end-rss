@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-23 04:42:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-23 05:11:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1916,6 +1916,9 @@
 - [2022-10-20-告别pointer-events:none使用HTML-inert属性真正禁用](https://www.zhangxinxu.com/wordpress/2022/10/html-inert-disabled-attribute/) 
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
+- [2022-11-23-Magic-Keyboard-的中/英切换有问题](https://www.v2ex.com/t/897316) 
+- [2022-11-23-喜欢吃各种烤的脆脆香香的东西，买烤箱合适还是空气炸锅合适](https://www.v2ex.com/t/897315) 
+- [2022-11-23-赫夫曼树的生成中，“左小右大”“左-0-右-1”这一规则能否颠倒成“左大右小”“左-1-右-0”？](https://www.v2ex.com/t/897314) 
 - [2022-11-23-有什么比较稳的-vps-服务商推荐吗，用来搭代理和内网穿透](https://www.v2ex.com/t/897311) 
 - [2022-11-23-国产机-debug-特别卡顿的根本原因是什么？](https://www.v2ex.com/t/897308) 
 - [2022-11-23-Apple-watch-版微信不能收听语音](https://www.v2ex.com/t/897307) 
@@ -1944,10 +1947,6 @@
 - [2022-11-23-2022-黑五打折季，-100-多个打骨折产品、SaaS-服务、教程](https://www.v2ex.com/t/897272) 
 - [2022-11-23-各位-iPhone-是两年一换还是一年一换？](https://www.v2ex.com/t/897270) 
 - [2022-11-23-解惑-请问-mbp14-支持-160Mhz-的千兆-WiFi-吗？](https://www.v2ex.com/t/897269) 
-- [2022-11-23-求大神推荐几个个人-WIKI](https://www.v2ex.com/t/897268) 
-- [2022-11-23-有没有什么比较厉害的模拟器，不被检测到的](https://www.v2ex.com/t/897265) 
-- [2022-11-23-Spotify-connect-公司内网代理登录的电脑，不能和手机同步](https://www.v2ex.com/t/897264) 
-- [2022-11-23-关于职业方向的请教？](https://www.v2ex.com/t/897263) 
 - [2022-11-23-使用CDC模式改造遗留系统-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15411&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fchange-data-capture-legacy-system%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-23-敏捷团队的质量保障赋能-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15410&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fquality-assurance-enablement-in-agile-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-23-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

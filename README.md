@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-23 08:15:51，:rocket: 更新条数: +2005， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-23 08:41:19，:rocket: 更新条数: +2007， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-11-23-移动这种推荐业务目的是什么？](https://www.v2ex.com/t/897385) ![](assets/new.png)  
+- [2022-11-23-小而美富而肥的公司招人了](https://www.v2ex.com/t/897383) ![](assets/new.png)  
 - [2022-11-23-Apple-Watch-+-Airpods-+-iPhone-组合耳机声音问题。](https://www.v2ex.com/t/897382) ![](assets/new.png)  
 - [2022-11-23-ss、vmess、-还是-trojan?](https://www.v2ex.com/t/897380) ![](assets/new.png)  
 - [2022-11-23-产品经理做的第三方插件：然后官方发布了该功能](https://www.v2ex.com/t/897378) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-11-23-xbox-XPGU-充值问题](https://www.v2ex.com/t/897362) ![](assets/new.png)  
 - [2022-11-23-YouTube-Premium-有车吗,-年付长期稳定](https://www.v2ex.com/t/897360) ![](assets/new.png)  
 - [2022-11-23-2.3.-kustz-解析-URL-为-Ingress](https://www.v2ex.com/t/897358) ![](assets/new.png)  
-- [2022-11-23-ibook-阅读-pdf-同步进度的问题](https://www.v2ex.com/t/897356) ![](assets/new.png)  
-- [2022-11-23-为什么只有小屏旗舰，没有小屏中端](https://www.v2ex.com/t/897355) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -549,8 +549,8 @@
 - [2022-11-23-Go-编码规范](https://toutiao.io/k/n79dj1x) ![](assets/new.png)  
 - [2022-11-23-我的建议是：给想出这个方案并落地的大佬，绩效拉满，连升两级，附加-20-个月年终奖！](https://toutiao.io/k/hbcavwf) ![](assets/new.png)  
 - [2022-11-23-分布式-ID-生成方案总结整理](https://toutiao.io/k/o41cn6o) ![](assets/new.png)  
-- [2022-11-23-运维自动化之任务系统分享](https://toutiao.io/k/lngrzap) ![](assets/new.png)  
 - [2022-11-23-重塑认识-Java-编译器的执行过程（常量优化机制）](https://toutiao.io/k/pmbarr3) ![](assets/new.png)  
+- [2022-11-23-运维自动化之任务系统分享](https://toutiao.io/k/lngrzap) ![](assets/new.png)  
 - [2022-11-23-Rust-交叉编译——Windows-To-Linux](https://toutiao.io/k/ywb7olc) ![](assets/new.png)  
 - [2022-11-23-细说｜Linux-内存泄漏检测实现原理与实现](https://toutiao.io/k/gi85gbf) ![](assets/new.png)  
 - [2022-11-23-PGO-是啥，咋就让-Go-更快更猛了？](https://toutiao.io/k/3naat8v) ![](assets/new.png)  

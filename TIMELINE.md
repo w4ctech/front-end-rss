@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-23 14:11:34。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-23 14:36:49。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -71,6 +71,9 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-11-20-JS之我用单img元素实现了图像resize拉伸效果](https://www.zhangxinxu.com/wordpress/2022/11/js-image-resize/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-23-经常戴耳机的大家听力还好吗？](https://www.v2ex.com/t/897457) 
+- [【V2EX】2022-11-23-你们想要的-Gen12-虚拟化实验结果图来了](https://www.v2ex.com/t/897456) 
+- [【V2EX】2022-11-23-请教-V-友推荐一款-Zygisk-版的-LocationReportEnabler](https://www.v2ex.com/t/897455) 
 - [【V2EX】2022-11-23-HEIC-图片-Preview-预览-卡顿问题](https://www.v2ex.com/t/897452) 
 - [【V2EX】2022-11-23-国内有无类似美剧里-Alcoholics-Anonymous-这样的互助小组](https://www.v2ex.com/t/897451) 
 - [【V2EX】2022-11-23-kernel_task-离谱的磁盘读写](https://www.v2ex.com/t/897450) 
@@ -112,9 +115,6 @@
 - [【V2EX】2022-11-23-List<Apple>不能赋值给-List<object>吗?](https://www.v2ex.com/t/897411) 
 - [【V2EX】2022-11-23-wine-有没有其他更好的替代软件](https://www.v2ex.com/t/897410) 
 - [【V2EX】2022-11-23-Resilio-Sync-备份-iOS-相册时照片总数不全](https://www.v2ex.com/t/897409) 
-- [【V2EX】2022-11-23-Keyform-Tech-Limited](https://www.v2ex.com/t/897407) 
-- [【V2EX】2022-11-23-「远程工作」物业管理系统招聘后端高级工程师/月薪-40-60K-RMB](https://www.v2ex.com/t/897406) 
-- [【V2EX】2022-11-23-休息两三月了，有没武汉-it-运维类工作](https://www.v2ex.com/t/897405) 
 - [【技术头条】2022-11-23-浅谈数据和人工智能项目的管理-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15412&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fproject-management-big-data-artificial-intelligence%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-23-使用CDC模式改造遗留系统-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15411&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fchange-data-capture-legacy-system%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-23-敏捷团队的质量保障赋能-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15410&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fquality-assurance-enablement-in-agile-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

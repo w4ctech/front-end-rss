@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-22 23:37:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-23 00:57:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -17,5 +17,4 @@
 - [2022-11-22-为啥在-Safari-的搜索右下角会变成小喇叭](https://www.v2ex.com/t/897200) 
 - [2022-11-22-创建一个商业性的订阅-Nature-或者-Scientics-杂志目录的产品是否可行？](https://www.v2ex.com/t/897190) 
 - [2022-11-22-这两天捣鼓-openwrt，意外发现-wifi-智能插座不停的请求-dhcp](https://www.v2ex.com/t/897186) 
-- [2022-11-22-团队的Code-Review实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15409&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-code-review%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [2022-11-22-深入浅出学习透析-Nginx-服务器的基本原理和配置指南（Https-安全控制篇）](https://toutiao.io/k/tgifok8) 
+- [2022-11-23-团队的Code-Review实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15409&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-code-review%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

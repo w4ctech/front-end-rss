@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-23 12:23:33。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-23 13:03:46。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -71,6 +71,10 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-11-20-JS之我用单img元素实现了图像resize拉伸效果](https://www.zhangxinxu.com/wordpress/2022/11/js-image-resize/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-23-世界杯抖音直播无法投屏？还是我设置不对？](https://www.v2ex.com/t/897441) 
+- [【V2EX】2022-11-23-可否将自有域名的-Mastodon-实例，挂靠在其他大型-Mastodon-实例上？](https://www.v2ex.com/t/897440) 
+- [【V2EX】2022-11-23-YouTube-直播聊天内容抓取](https://www.v2ex.com/t/897439) 
+- [【V2EX】2022-11-23-记账的图片是刚性需求吗？](https://www.v2ex.com/t/897438) 
 - [【V2EX】2022-11-23-web3-项目共创-去中心化小说及-IP-孵化项目寻小伙伴一起交流共创](https://www.v2ex.com/t/897437) 
 - [【V2EX】2022-11-23-一套-A-股提醒系统](https://www.v2ex.com/t/897435) 
 - [【V2EX】2022-11-23-wifi-5G-无法使用-48-以上的信道](https://www.v2ex.com/t/897434) 
@@ -110,10 +114,6 @@
 - [【V2EX】2022-11-23-什么时候有个完美技术，不用升级迭代的……](https://www.v2ex.com/t/897395) 
 - [【V2EX】2022-11-23-上海前端-初创公司前端-leader，-30~60k*15-薪+期权，双休弹性工作](https://www.v2ex.com/t/897394) 
 - [【V2EX】2022-11-23-Magician-Web3-1.0.3-发布啦，可以根据-inputData-里的数据-进行监控了](https://www.v2ex.com/t/897393) 
-- [【V2EX】2022-11-23-搭建公司内部的-IP-电话系统，-大家有厂家和方案推荐么？](https://www.v2ex.com/t/897391) 
-- [【V2EX】2022-11-23-远程会议的时候如何把-iPad-当作白板使用？](https://www.v2ex.com/t/897390) 
-- [【V2EX】2022-11-23-关于”小龙云盘”的一些疑问？](https://www.v2ex.com/t/897389) 
-- [【V2EX】2022-11-23-ubuntu18-如何升级到-openssh9.x，-openssl3.x](https://www.v2ex.com/t/897388) 
 - [【技术头条】2022-11-23-浅谈数据和人工智能项目的管理-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15412&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fproject-management-big-data-artificial-intelligence%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-23-使用CDC模式改造遗留系统-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15411&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fchange-data-capture-legacy-system%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-23-敏捷团队的质量保障赋能-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15410&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fquality-assurance-enablement-in-agile-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

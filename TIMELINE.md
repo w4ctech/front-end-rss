@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-23 14:36:49。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-23 15:12:26。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -71,6 +71,11 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-11-20-JS之我用单img元素实现了图像resize拉伸效果](https://www.zhangxinxu.com/wordpress/2022/11/js-image-resize/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-23-有网站点评类浏览器扩展吗？会不会有市场？](https://www.v2ex.com/t/897465) 
+- [【V2EX】2022-11-23-能否获取到微信小程序页面的-web-链接地址，从而在浏览器访问？](https://www.v2ex.com/t/897463) 
+- [【V2EX】2022-11-23-深圳联通体验如何？](https://www.v2ex.com/t/897462) 
+- [【V2EX】2022-11-23-这是-google-one-的-bug-还是-feature](https://www.v2ex.com/t/897461) 
+- [【V2EX】2022-11-23-steam-挂代理都打不开，奇怪-其他网站都正常](https://www.v2ex.com/t/897460) 
 - [【V2EX】2022-11-23-经常戴耳机的大家听力还好吗？](https://www.v2ex.com/t/897457) 
 - [【V2EX】2022-11-23-你们想要的-Gen12-虚拟化实验结果图来了](https://www.v2ex.com/t/897456) 
 - [【V2EX】2022-11-23-请教-V-友推荐一款-Zygisk-版的-LocationReportEnabler](https://www.v2ex.com/t/897455) 
@@ -108,13 +113,6 @@
 - [【V2EX】2022-11-23-大佬们都看报纸📰吗,都看什么报纸,国外的很多不用说,有看国内的报纸吗？国内的都看什么,看微博吗?](https://www.v2ex.com/t/897418) 
 - [【V2EX】2022-11-23-23-秋招-offer-选择求建议](https://www.v2ex.com/t/897417) 
 - [【V2EX】2022-11-23-请教：-nest.js-如何优雅做接口鉴权和转发](https://www.v2ex.com/t/897416) 
-- [【V2EX】2022-11-23-忍不住吐槽两句](https://www.v2ex.com/t/897415) 
-- [【V2EX】2022-11-23-如题，副业探索](https://www.v2ex.com/t/897414) 
-- [【V2EX】2022-11-23-开发一个原生的-macOS-SQLite-GUI-应用会有人用吗](https://www.v2ex.com/t/897413) 
-- [【V2EX】2022-11-23-开源分享一个适用-Cocos-导出多渠道试玩广告的项目](https://www.v2ex.com/t/897412) 
-- [【V2EX】2022-11-23-List<Apple>不能赋值给-List<object>吗?](https://www.v2ex.com/t/897411) 
-- [【V2EX】2022-11-23-wine-有没有其他更好的替代软件](https://www.v2ex.com/t/897410) 
-- [【V2EX】2022-11-23-Resilio-Sync-备份-iOS-相册时照片总数不全](https://www.v2ex.com/t/897409) 
 - [【技术头条】2022-11-23-浅谈数据和人工智能项目的管理-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15412&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fproject-management-big-data-artificial-intelligence%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-23-使用CDC模式改造遗留系统-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15411&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fchange-data-capture-legacy-system%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-23-敏捷团队的质量保障赋能-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15410&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fquality-assurance-enablement-in-agile-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

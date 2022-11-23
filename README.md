@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-23 14:36:49，:rocket: 更新条数: +2017， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-23 15:12:26，:rocket: 更新条数: +2015， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-11-23-有网站点评类浏览器扩展吗？会不会有市场？](https://www.v2ex.com/t/897465) ![](assets/new.png)  
+- [2022-11-23-能否获取到微信小程序页面的-web-链接地址，从而在浏览器访问？](https://www.v2ex.com/t/897463) ![](assets/new.png)  
+- [2022-11-23-深圳联通体验如何？](https://www.v2ex.com/t/897462) ![](assets/new.png)  
+- [2022-11-23-这是-google-one-的-bug-还是-feature](https://www.v2ex.com/t/897461) ![](assets/new.png)  
+- [2022-11-23-steam-挂代理都打不开，奇怪-其他网站都正常](https://www.v2ex.com/t/897460) ![](assets/new.png)  
 - [2022-11-23-经常戴耳机的大家听力还好吗？](https://www.v2ex.com/t/897457) ![](assets/new.png)  
 - [2022-11-23-你们想要的-Gen12-虚拟化实验结果图来了](https://www.v2ex.com/t/897456) ![](assets/new.png)  
 - [2022-11-23-请教-V-友推荐一款-Zygisk-版的-LocationReportEnabler](https://www.v2ex.com/t/897455) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-11-23-在-macOS-上如何实现类似-Windows-“Shift-+-单击”新建应用程序窗口的效果？](https://www.v2ex.com/t/897442) ![](assets/new.png)  
 - [2022-11-23-世界杯抖音直播无法投屏？还是我设置不对？](https://www.v2ex.com/t/897441) ![](assets/new.png)  
 - [2022-11-23-可否将自有域名的-Mastodon-实例，挂靠在其他大型-Mastodon-实例上？](https://www.v2ex.com/t/897440) ![](assets/new.png)  
-- [2022-11-23-YouTube-直播聊天内容抓取](https://www.v2ex.com/t/897439) ![](assets/new.png)  
-- [2022-11-23-记账的图片是刚性需求吗？](https://www.v2ex.com/t/897438) ![](assets/new.png)  
-- [2022-11-23-web3-项目共创-去中心化小说及-IP-孵化项目寻小伙伴一起交流共创](https://www.v2ex.com/t/897437) ![](assets/new.png)  
-- [2022-11-23-一套-A-股提醒系统](https://www.v2ex.com/t/897435) ![](assets/new.png)  
-- [2022-11-23-wifi-5G-无法使用-48-以上的信道](https://www.v2ex.com/t/897434) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

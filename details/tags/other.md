@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-23 15:38:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-23 16:16:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1916,6 +1916,8 @@
 - [2022-10-20-告别pointer-events:none使用HTML-inert属性真正禁用](https://www.zhangxinxu.com/wordpress/2022/10/html-inert-disabled-attribute/) 
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
+- [2022-11-23-Mail-连接-163-总提示无法连接，需要输入密码](https://www.v2ex.com/t/897470) 
+- [2022-11-23-抛弃黑苹果，重回-Windows-怀抱](https://www.v2ex.com/t/897469) 
 - [2022-11-23-预激综合征-会影响阿里的体检吗](https://www.v2ex.com/t/897468) 
 - [2022-11-23-centos-有什么软件或者自己写脚本,实现网速推送呢](https://www.v2ex.com/t/897467) 
 - [2022-11-23-深圳联通体验如何？](https://www.v2ex.com/t/897462) 
@@ -1943,7 +1945,6 @@
 - [2022-11-23-2022-年-11-月-23-日-国内还能使用-OneDrive-吗？](https://www.v2ex.com/t/897426) 
 - [2022-11-23-收Oracle-免费云服务-vps，德国-Euserv-免费小鸡-vps，价格可谈！](https://www.v2ex.com/t/897425) 
 - [2022-11-23-国外有什么便宜的存储方案呢-大佬们？大佬们国外都用什么做存储呢？-Google-drive-Dropbox-都太贵了，有便宜的方案吗？数据放国内感觉被监控，不想存国内？](https://www.v2ex.com/t/897424) 
-- [2022-11-23-为啥北京的手机卡月租都这么贵](https://www.v2ex.com/t/897419) 
 - [2022-11-23-2022，「倾城之链」运营第-6-年感记-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=15413&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fnicelinks-site-in-2022%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-23-浅谈数据和人工智能项目的管理-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15412&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fproject-management-big-data-artificial-intelligence%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-23-使用CDC模式改造遗留系统-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15411&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fchange-data-capture-legacy-system%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

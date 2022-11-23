@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-23 15:38:42。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-23 16:16:01。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -71,6 +71,8 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-11-20-JS之我用单img元素实现了图像resize拉伸效果](https://www.zhangxinxu.com/wordpress/2022/11/js-image-resize/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-23-Mail-连接-163-总提示无法连接，需要输入密码](https://www.v2ex.com/t/897470) 
+- [【V2EX】2022-11-23-抛弃黑苹果，重回-Windows-怀抱](https://www.v2ex.com/t/897469) 
 - [【V2EX】2022-11-23-预激综合征-会影响阿里的体检吗](https://www.v2ex.com/t/897468) 
 - [【V2EX】2022-11-23-centos-有什么软件或者自己写脚本,实现网速推送呢](https://www.v2ex.com/t/897467) 
 - [【V2EX】2022-11-23-有网站点评类浏览器扩展吗？会不会有市场？](https://www.v2ex.com/t/897465) 
@@ -110,8 +112,6 @@
 - [【V2EX】2022-11-23-国外有什么便宜的存储方案呢-大佬们？大佬们国外都用什么做存储呢？-Google-drive-Dropbox-都太贵了，有便宜的方案吗？数据放国内感觉被监控，不想存国内？](https://www.v2ex.com/t/897424) 
 - [【V2EX】2022-11-23-有没有浏览器的请求头是-Accept-Encoding:-deflate,-gzip,-br](https://www.v2ex.com/t/897423) 
 - [【V2EX】2022-11-23-海外：-Keyform-Tech-Limited-招聘](https://www.v2ex.com/t/897421) 
-- [【V2EX】2022-11-23-有什么视频压缩软件可以调用-GPU-的](https://www.v2ex.com/t/897420) 
-- [【V2EX】2022-11-23-为啥北京的手机卡月租都这么贵](https://www.v2ex.com/t/897419) 
 - [【技术头条】2022-11-23-如何基于-Prerender-为-SPA-做-SEO-优化-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=15414&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fhow-to-optimize-seo-for-spa-based-on-prerender%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-23-2022，「倾城之链」运营第-6-年感记-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=15413&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fnicelinks-site-in-2022%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-23-浅谈数据和人工智能项目的管理-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15412&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fproject-management-big-data-artificial-intelligence%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

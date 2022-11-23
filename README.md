@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-23 05:11:24，:rocket: 更新条数: +2011， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-23 05:36:01，:rocket: 更新条数: +2011， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-11-23-代朋友发贴:-坐标北美,应该去还是不去呢?](https://www.v2ex.com/t/897325) ![](assets/new.png)  
+- [2022-11-23-杭州技术的薪资的中位数或平均数和北京差不多哇](https://www.v2ex.com/t/897324) ![](assets/new.png)  
+- [2022-11-23-各位，请问下-AppleTV-如何获取-IPv6](https://www.v2ex.com/t/897321) ![](assets/new.png)  
+- [2022-11-23-请教买阿里云开票的方案](https://www.v2ex.com/t/897320) ![](assets/new.png)  
+- [2022-11-23-凉心云越来越凉心了](https://www.v2ex.com/t/897319) ![](assets/new.png)  
 - [2022-11-23-家长群老师天天发报名统计类的东西，我在想，他们就不能用个小程序吗](https://www.v2ex.com/t/897318) ![](assets/new.png)  
 - [2022-11-23-iPhone-视频-APP-经常绿屏或黑屏，有什么解决办法嘛？](https://www.v2ex.com/t/897317) ![](assets/new.png)  
 - [2022-11-23-Magic-Keyboard-的中/英切换有问题](https://www.v2ex.com/t/897316) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-11-23-全职远程-flutter-工程师-2-名](https://www.v2ex.com/t/897303) ![](assets/new.png)  
 - [2022-11-23-请教-V-友，很多年同学想让我帮忙股权代持，这个有什么风险和需要注意的地方？](https://www.v2ex.com/t/897302) ![](assets/new.png)  
 - [2022-11-23-谷歌在安卓上的密码自动填充是不是藏了一手？](https://www.v2ex.com/t/897301) ![](assets/new.png)  
-- [2022-11-23-求-mysql-数据同步-mongo-的工具或者方案](https://www.v2ex.com/t/897300) ![](assets/new.png)  
-- [2022-11-23-有从技术转软件销售成功从销售工作的-V-友麽](https://www.v2ex.com/t/897299) ![](assets/new.png)  
-- [2022-11-23-只有一个人用的-Windows，安装软件时选“为所有用户安装”和“仅为我安装”有什么区别吗？](https://www.v2ex.com/t/897298) ![](assets/new.png)  
-- [2022-11-23-有没有类似-Bearblog-的开源项目？](https://www.v2ex.com/t/897296) ![](assets/new.png)  
-- [2022-11-23-北京联通，是墙又升级了吗？](https://www.v2ex.com/t/897295) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-23 15:12:26，:rocket: 更新条数: +2015， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-23 15:38:42，:rocket: 更新条数: +2016， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-11-23-预激综合征-会影响阿里的体检吗](https://www.v2ex.com/t/897468) ![](assets/new.png)  
+- [2022-11-23-centos-有什么软件或者自己写脚本,实现网速推送呢](https://www.v2ex.com/t/897467) ![](assets/new.png)  
 - [2022-11-23-有网站点评类浏览器扩展吗？会不会有市场？](https://www.v2ex.com/t/897465) ![](assets/new.png)  
 - [2022-11-23-能否获取到微信小程序页面的-web-链接地址，从而在浏览器访问？](https://www.v2ex.com/t/897463) ![](assets/new.png)  
 - [2022-11-23-深圳联通体验如何？](https://www.v2ex.com/t/897462) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-11-23-预算-7w-以内，如何购买服务器](https://www.v2ex.com/t/897444) ![](assets/new.png)  
 - [2022-11-23-家庭万兆内网有什么好的选择吗](https://www.v2ex.com/t/897443) ![](assets/new.png)  
 - [2022-11-23-在-macOS-上如何实现类似-Windows-“Shift-+-单击”新建应用程序窗口的效果？](https://www.v2ex.com/t/897442) ![](assets/new.png)  
-- [2022-11-23-世界杯抖音直播无法投屏？还是我设置不对？](https://www.v2ex.com/t/897441) ![](assets/new.png)  
-- [2022-11-23-可否将自有域名的-Mastodon-实例，挂靠在其他大型-Mastodon-实例上？](https://www.v2ex.com/t/897440) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -522,6 +522,8 @@
 </summary>
 
 
+- [2022-11-23-如何基于-Prerender-为-SPA-做-SEO-优化-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=15414&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fhow-to-optimize-seo-for-spa-based-on-prerender%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-11-23-2022，「倾城之链」运营第-6-年感记-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=15413&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fnicelinks-site-in-2022%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-11-23-浅谈数据和人工智能项目的管理-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15412&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fproject-management-big-data-artificial-intelligence%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-11-23-使用CDC模式改造遗留系统-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15411&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fchange-data-capture-legacy-system%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-11-23-敏捷团队的质量保障赋能-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15410&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fquality-assurance-enablement-in-agile-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  

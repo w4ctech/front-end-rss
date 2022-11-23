@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-23 09:37:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-23 10:13:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1916,6 +1916,11 @@
 - [2022-10-20-告别pointer-events:none使用HTML-inert属性真正禁用](https://www.zhangxinxu.com/wordpress/2022/10/html-inert-disabled-attribute/) 
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
+- [2022-11-23-wine-有没有其他更好的替代软件](https://www.v2ex.com/t/897410) 
+- [2022-11-23-Resilio-Sync-备份-iOS-相册时照片总数不全](https://www.v2ex.com/t/897409) 
+- [2022-11-23-Keyform-Tech-Limited](https://www.v2ex.com/t/897407) 
+- [2022-11-23-休息两三月了，有没武汉-it-运维类工作](https://www.v2ex.com/t/897405) 
+- [2022-11-23-求教低成本组-ALL-IN-ONE-NAS-主机](https://www.v2ex.com/t/897403) 
 - [2022-11-23-以前的解压方式，是否现在已经达不到解压的效果？](https://www.v2ex.com/t/897400) 
 - [2022-11-23-通过澳大利亚的打工度假签证能润成功吗？](https://www.v2ex.com/t/897399) 
 - [2022-11-23-像这种网站，是用什么模板开发的吗，感觉挺炫酷的](https://www.v2ex.com/t/897398) 
@@ -1944,10 +1949,6 @@
 - [2022-11-23-外星人黑五打特价，值得入手吗？](https://www.v2ex.com/t/897364) 
 - [2022-11-23-使用-Kmonad-低成本改造“人体工程学”键盘](https://www.v2ex.com/t/897363) 
 - [2022-11-23-xbox-XPGU-充值问题](https://www.v2ex.com/t/897362) 
-- [2022-11-23-YouTube-Premium-有车吗,-年付长期稳定](https://www.v2ex.com/t/897360) 
-- [2022-11-23-ibook-阅读-pdf-同步进度的问题](https://www.v2ex.com/t/897356) 
-- [2022-11-23-为什么只有小屏旗舰，没有小屏中端](https://www.v2ex.com/t/897355) 
-- [2022-11-23-年底急招-杭州后端-🔥🔥🔥🔥🔥](https://www.v2ex.com/t/897353) 
 - [2022-11-23-浅谈数据和人工智能项目的管理-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15412&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fproject-management-big-data-artificial-intelligence%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-23-使用CDC模式改造遗留系统-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15411&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fchange-data-capture-legacy-system%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-23-敏捷团队的质量保障赋能-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15410&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fquality-assurance-enablement-in-agile-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1963,8 +1964,8 @@
 - [2022-11-23-我的建议是：给想出这个方案并落地的大佬，绩效拉满，连升两级，附加-20-个月年终奖！](https://toutiao.io/k/hbcavwf) 
 - [2022-11-23-分布式-ID-生成方案总结整理](https://toutiao.io/k/o41cn6o) 
 - [2022-11-23-运维自动化之任务系统分享](https://toutiao.io/k/lngrzap) 
-- [2022-11-23-Rust-交叉编译——Windows-To-Linux](https://toutiao.io/k/ywb7olc) 
 - [2022-11-23-PGO-是啥，咋就让-Go-更快更猛了？](https://toutiao.io/k/3naat8v) 
+- [2022-11-23-Rust-交叉编译——Windows-To-Linux](https://toutiao.io/k/ywb7olc) 
 - [2022-11-23-细说｜Linux-内存泄漏检测实现原理与实现](https://toutiao.io/k/gi85gbf) 
 - [2022-11-23-Vagrant-搭建虚拟机环境](https://toutiao.io/k/sidw2vj) 
 - [2022-11-23-快收藏！最全-GO-语言实现设计模式](https://toutiao.io/k/mhefsbi) 

@@ -9953,6 +9953,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "如何实现在切换到某个 application 的时候不要让这个 application 的其他 window 也被带出来",
+        "link": "https://www.v2ex.com/t/897483",
+        "date": "2022-11-23"
+      },
+      {
         "title": "森林徒步、爬山，有好用的穿戴式摄像机吗？",
         "link": "https://www.v2ex.com/t/897482",
         "date": "2022-11-23"
@@ -10150,11 +10155,6 @@
       {
         "title": "wifi 5G 无法使用 48 以上的信道",
         "link": "https://www.v2ex.com/t/897434",
-        "date": "2022-11-23"
-      },
-      {
-        "title": "今年哪家 vps 到国内速度快点，价格便宜点，以及不会疯狂超售的。。。",
-        "link": "https://www.v2ex.com/t/897433",
         "date": "2022-11-23"
       }
     ]

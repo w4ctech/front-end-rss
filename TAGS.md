@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-11-23 04:14:44。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-23 04:42:37。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -178,6 +178,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】港府回应一63岁患者死亡事件-暂无法确定与疫苗相关](https://m.caixin.com/m/2021-03-03/101670052.html)
 - [【张鑫旭-鑫空间-鑫生活】JS之我用单img元素实现了图像resize拉伸效果](https://www.zhangxinxu.com/wordpress/2022/11/js-image-resize/)
 - [【张鑫旭-鑫空间-鑫生活】2022年新出了哪些form表单新特性？](https://www.zhangxinxu.com/wordpress/2022/10/2022-new-form-property/)
+- [【V2EX】playcover-上安装的-ipa-上下滑动滚动不顺畅-卡顿-没有加速](https://www.v2ex.com/t/897312)
 - [【V2EX】HTML5-单文件网页版-ACME-客户端，方便在线申请-Let's-Encrypt、ZeroSSL-免费-HTTPS-多域名通配符-SSL/TLS-证书，操作丝滑](https://www.v2ex.com/t/897290)
 - [【V2EX】🧧MAKATI~钻石大厦~🧧-岗位：-#-PHP-，#H5-，#安卓-，#产品经理-，#SEO-学徒-，#招商-，#财务-，#客服-，#电维-，#推广-不禁足，可外宿🧧放弃休假补贴-2...](https://www.v2ex.com/t/897278)
 - [......【查看更多】......](./details/tags/javascript.md)
@@ -340,7 +341,6 @@
 
 
 
-- [【V2EX】新加坡知名自动驾驶智能公司，现招聘资深开发工程师-C++（有嵌入式经验），-base-新加坡，国际化团队，要求中英文良好，国际化办公环境。](https://www.v2ex.com/t/897257)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

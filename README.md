@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-24 01:03:37，:rocket: 更新条数: +2009， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-24 02:42:58，:rocket: 更新条数: +2016， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,26 +491,26 @@
 </summary>
 
 
-- [2022-11-24-出一个-CC-VPS](https://www.v2ex.com/t/897493) ![](assets/new.png)  
-- [2022-11-24-请教：联想威-6-PRO-14IWL-能支持单条-32G-内存吗？](https://www.v2ex.com/t/897491) ![](assets/new.png)  
-- [2022-11-24-有没有快捷搜索框类的浏览器扩展](https://www.v2ex.com/t/897490) ![](assets/new.png)  
-- [2022-11-24-Cloudflare-一些百思不得其解的问题](https://www.v2ex.com/t/897489) ![](assets/new.png)  
-- [2022-11-24-再次认真的探讨-IT-行业的其它盈利方式，以及我做出的一次尝试](https://www.v2ex.com/t/897487) ![](assets/new.png)  
-- [2022-11-23-上海-不加班-外企-招-中级前端3-年经验起，高级安卓（5-年起，要求懂-Java-），中级-devOps（3-年起）](https://www.v2ex.com/t/897485) ![](assets/new.png)  
-- [2022-11-23-求推荐香港的-ipv6-直连-vps](https://www.v2ex.com/t/897484) ![](assets/new.png)  
-- [2022-11-23-如何实现在切换到某个-application-的时候不要让这个-application-的其他-window-也被带出来](https://www.v2ex.com/t/897483) ![](assets/new.png)  
-- [2022-11-23-森林徒步、爬山，有好用的穿戴式摄像机吗？](https://www.v2ex.com/t/897482) ![](assets/new.png)  
-- [2022-11-23-兄弟们，关于-sql-优化的问题想请教一下](https://www.v2ex.com/t/897481) ![](assets/new.png)  
-- [2022-11-23-黑五&Cyber-Monday-限时特惠：-MenubarX-Pro-优惠码](https://www.v2ex.com/t/897480) ![](assets/new.png)  
-- [2022-11-23-SSH-免密钥登录，-Mac-登录-VPSUbuntu可以,登录另一个-Mac-始终失败](https://www.v2ex.com/t/897479) ![](assets/new.png)  
-- [2022-11-23-lobash-发布-v0.5.0-版本](https://www.v2ex.com/t/897478) ![](assets/new.png)  
-- [2022-11-23-职业认知课，是增长见识还是另外的割韭菜](https://www.v2ex.com/t/897477) ![](assets/new.png)  
-- [2022-11-23-有什么推荐的音乐/FM-app-支持云端同步自定义音频上传的啊](https://www.v2ex.com/t/897475) ![](assets/new.png)  
-- [2022-11-23-关于-nas-的-ups-是必需品吗？入-APC-是不是可以](https://www.v2ex.com/t/897474) ![](assets/new.png)  
-- [2022-11-23-Apple-Watch-能不能设置微信来消息时的震动方式？](https://www.v2ex.com/t/897473) ![](assets/new.png)  
-- [2022-11-23-有没有人在-Windows-下把-Caps-Lock-和-Ctrl-互换的？](https://www.v2ex.com/t/897472) ![](assets/new.png)  
-- [2022-11-23-欢迎加入北美软件测试群-Whatsapp](https://www.v2ex.com/t/897471) ![](assets/new.png)  
-- [2022-11-23-Mail-连接-163-总提示无法连接，需要输入密码](https://www.v2ex.com/t/897470) ![](assets/new.png)  
+- [2022-11-24-请教一下，金粉与雏黄](https://www.v2ex.com/t/897529) ![](assets/new.png)  
+- [2022-11-24-前后端结合解决-Excel-海量公式计算的性能问题](https://www.v2ex.com/t/897528) ![](assets/new.png)  
+- [2022-11-24-两室一厅标户，吸顶-ap-效果如何？](https://www.v2ex.com/t/897527) ![](assets/new.png)  
+- [2022-11-24-流媒体黑五优惠汇总，-AMC-Plus：$1.99-得两个月，-Disney-涨价](https://www.v2ex.com/t/897526) ![](assets/new.png)  
+- [2022-11-24-安装-vmware-fusion-13-启动闪退的问题，可以看下这个方法](https://www.v2ex.com/t/897524) ![](assets/new.png)  
+- [2022-11-24-分享一个简单的提高工作效率的方法](https://www.v2ex.com/t/897523) ![](assets/new.png)  
+- [2022-11-24-Outlook-网页版-转发设置无法保存，有大佬能分析下是啥原因么](https://www.v2ex.com/t/897522) ![](assets/new.png)  
+- [2022-11-24-你们-M1-有没有碰到更新-macOS13-后电脑给手机/pad-充电速率很慢](https://www.v2ex.com/t/897521) ![](assets/new.png)  
+- [2022-11-24-2022-年了，有什么好用的记录笔记的软件？](https://www.v2ex.com/t/897520) ![](assets/new.png)  
+- [2022-11-24-昨夜复古-emo——哥，咱家有钱了](https://www.v2ex.com/t/897519) ![](assets/new.png)  
+- [2022-11-24-idea-2022.2.4-正式版发布](https://www.v2ex.com/t/897518) ![](assets/new.png)  
+- [2022-11-24-更换蜗牛星际的主板并重装-Ubuntu20.04-，-zfs-硬盘需要重新-rebuild-吗？](https://www.v2ex.com/t/897517) ![](assets/new.png)  
+- [2022-11-24-字节跳动-基础架构团队-服务端研发工程师](https://www.v2ex.com/t/897515) ![](assets/new.png)  
+- [2022-11-24-请问：-Typora-和-Total-Commander-不注册也不影响使用？](https://www.v2ex.com/t/897514) ![](assets/new.png)  
+- [2022-11-24-关于-Paypal-的账户问题](https://www.v2ex.com/t/897513) ![](assets/new.png)  
+- [2022-11-24-『咨询』大家-apple.com.cn-能正常打开吗](https://www.v2ex.com/t/897512) ![](assets/new.png)  
+- [2022-11-24-招兼职,-来一个能帮忙改写-html](https://www.v2ex.com/t/897511) ![](assets/new.png)  
+- [2022-11-24-微信小程序接口-302-错误](https://www.v2ex.com/t/897510) ![](assets/new.png)  
+- [2022-11-24-Apple-TV-128GB-初体验](https://www.v2ex.com/t/897508) ![](assets/new.png)  
+- [2022-11-24-faceid-解锁手机后一定要划一下吗](https://www.v2ex.com/t/897506) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -550,12 +550,17 @@
 - [2022-11-24-异常检测算法分类总结（含常用开源数据集）](https://toutiao.io/k/klv044a) ![](assets/new.png)  
 - [2022-11-24-现代化-C-使用体验](https://toutiao.io/k/nz0xzfo) ![](assets/new.png)  
 - [2022-11-24-判断线程池是否全部完成的-5-种方法，还有谁不会？？](https://toutiao.io/k/w4f2muf) ![](assets/new.png)  
-- [2022-11-24-Rust-在前端：环境配置](https://toutiao.io/k/7lzi5zt) ![](assets/new.png)  
 - [2022-11-24-零拷贝技术第二篇：Go-语言中的应用](https://toutiao.io/k/6bnvoqn) ![](assets/new.png)  
 - [2022-11-24-零信任实战架构总结](https://toutiao.io/k/u9v4cma) ![](assets/new.png)  
-- [2022-11-24-总结一些-Spark-处理小-trick](https://toutiao.io/k/fbsn4e5) ![](assets/new.png)  
 - [2022-11-24-vivo-大数据日志采集-Agent-设计实践](https://toutiao.io/k/mvjlbxe) ![](assets/new.png)  
+- [2022-11-24-Rust-在前端：环境配置](https://toutiao.io/k/7lzi5zt) ![](assets/new.png)  
+- [2022-11-24-总结一些-Spark-处理小-trick](https://toutiao.io/k/fbsn4e5) ![](assets/new.png)  
 - [2022-11-24-读《Understanding-Real-World-Concurrency-Bugs-in-Go》](https://toutiao.io/k/6fcoxmx) ![](assets/new.png)  
+- [2022-11-24-领域驱动设计四论](https://toutiao.io/k/h2v5bdk) ![](assets/new.png)  
+- [2022-11-24-图解-|-监控系统-Prometheus-的原理](https://toutiao.io/k/n83tqk7) ![](assets/new.png)  
+- [2022-11-24-就这？Redis-持久化策略：RDB](https://toutiao.io/k/ztfwgr1) ![](assets/new.png)  
+- [2022-11-24-浅谈数据和人工智能项目的管理](https://toutiao.io/k/oplz96z) ![](assets/new.png)  
+- [2022-11-24-推荐-10个非常好用的-JavaScript-动画库](https://toutiao.io/k/04l2hu7) ![](assets/new.png)  
 - [2022-11-24-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

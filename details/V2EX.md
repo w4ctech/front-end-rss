@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-11-24 03:44:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-24 04:14:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-11-24-笔记软件-Craft-1-年订阅价-5-折优惠](https://www.v2ex.com/t/897557) 
 - [2022-11-24-为什么分应用代理-Google-翻译不生效](https://www.v2ex.com/t/897554) 
 - [2022-11-24-因为工作原因要去北京入职，目前在深圳，求推荐解弹窗-3-路线。](https://www.v2ex.com/t/897553) 
 - [2022-11-24-用-chrome-浏览-twitter-时的简体字特别细，大佬们有没有解决的办法。](https://www.v2ex.com/t/897552) 
@@ -41,5 +42,3 @@
 - [2022-11-24-招兼职,-来一个能帮忙改写-html](https://www.v2ex.com/t/897511) 
 - [2022-11-24-微信小程序接口-302-错误](https://www.v2ex.com/t/897510) 
 - [2022-11-24-Apple-TV-128GB-初体验](https://www.v2ex.com/t/897508) 
-- [2022-11-24-faceid-解锁手机后一定要划一下吗](https://www.v2ex.com/t/897506) 
-- [2022-11-24-Surge-Mac-5-人车，人齐发车🚗](https://www.v2ex.com/t/897505) 

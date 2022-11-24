@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-24 03:44:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-24 04:14:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1916,6 +1916,7 @@
 - [2022-10-20-告别pointer-events:none使用HTML-inert属性真正禁用](https://www.zhangxinxu.com/wordpress/2022/10/html-inert-disabled-attribute/) 
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
+- [2022-11-24-笔记软件-Craft-1-年订阅价-5-折优惠](https://www.v2ex.com/t/897557) 
 - [2022-11-24-为什么分应用代理-Google-翻译不生效](https://www.v2ex.com/t/897554) 
 - [2022-11-24-因为工作原因要去北京入职，目前在深圳，求推荐解弹窗-3-路线。](https://www.v2ex.com/t/897553) 
 - [2022-11-24-Apple-One-美区超大杯开车-五缺一](https://www.v2ex.com/t/897550) 
@@ -1947,8 +1948,6 @@
 - [2022-11-24-『咨询』大家-apple.com.cn-能正常打开吗](https://www.v2ex.com/t/897512) 
 - [2022-11-24-招兼职,-来一个能帮忙改写-html](https://www.v2ex.com/t/897511) 
 - [2022-11-24-Apple-TV-128GB-初体验](https://www.v2ex.com/t/897508) 
-- [2022-11-24-faceid-解锁手机后一定要划一下吗](https://www.v2ex.com/t/897506) 
-- [2022-11-24-Surge-Mac-5-人车，人齐发车🚗](https://www.v2ex.com/t/897505) 
 - [2022-11-24-2022，「倾城之链」运营第-6-年感记-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=15413&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fnicelinks-site-in-2022%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-24-浅谈数据和人工智能项目的管理-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15412&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fproject-management-big-data-artificial-intelligence%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-24-使用CDC模式改造遗留系统-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15411&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fchange-data-capture-legacy-system%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1961,8 +1960,8 @@
 - [2022-11-24-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-24-想要做好代码质量，如何破局？](https://toutiao.io/k/s9s8hub) 
 - [2022-11-24-零拷贝技术第二篇：Go-语言中的应用](https://toutiao.io/k/6bnvoqn) 
-- [2022-11-24-判断线程池是否全部完成的-5-种方法，还有谁不会？？](https://toutiao.io/k/w4f2muf) 
 - [2022-11-24-现代化-C-使用体验](https://toutiao.io/k/nz0xzfo) 
+- [2022-11-24-判断线程池是否全部完成的-5-种方法，还有谁不会？？](https://toutiao.io/k/w4f2muf) 
 - [2022-11-24-Rust-在前端：环境配置](https://toutiao.io/k/7lzi5zt) 
 - [2022-11-24-零信任实战架构总结](https://toutiao.io/k/u9v4cma) 
 - [2022-11-24-vivo-大数据日志采集-Agent-设计实践](https://toutiao.io/k/mvjlbxe) 

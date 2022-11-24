@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-11-24 19:10:13。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-24 19:35:22。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -295,7 +295,6 @@
 
 
 
-- [【V2EX】做为一个后端开发,-至今为止依然愿意百分百选择的事物:-vim/shell/hhkb/google.-你呢?](https://www.v2ex.com/t/897698)
 - [【开发者头条】异常检测算法分类总结（含常用开源数据集）](https://toutiao.io/k/klv044a)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 

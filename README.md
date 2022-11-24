@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-24 10:38:55，:rocket: 更新条数: +2016， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-24 11:10:05，:rocket: 更新条数: +2017， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-11-24-求推荐一个性能比树莓派强点，但是价格不要太高的小主机做-terraria-服务器](https://www.v2ex.com/t/897661) ![](assets/new.png)  
+- [2022-11-24-FY-技术中心官方总部直招：-GO-后端副总监，-GO-资深专家，后端开发转-GO](https://www.v2ex.com/t/897660) ![](assets/new.png)  
+- [2022-11-24-怎么在-M1-Air-Ventura-及-iPhone-上开启实时字幕？找不到实时字幕入口](https://www.v2ex.com/t/897659) ![](assets/new.png)  
 - [2022-11-24-随缘卖些家里的脐橙，回复抽奖三箱！](https://www.v2ex.com/t/897658) ![](assets/new.png)  
 - [2022-11-24-河北三家运营商资费比较，不对比-22-年之前资费](https://www.v2ex.com/t/897657) ![](assets/new.png)  
 - [2022-11-24-ipv6-环境访问-V2EX-的奇怪问题](https://www.v2ex.com/t/897656) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-11-24-谷歌要废掉-Street-View-的独立应用了，求可替代的-360-拍照软件](https://www.v2ex.com/t/897642) ![](assets/new.png)  
 - [2022-11-24-请教个-du-df-ls-磁盘满的问题](https://www.v2ex.com/t/897641) ![](assets/new.png)  
 - [2022-11-24-macos-系统的主题色（强调色）可以自定义吗](https://www.v2ex.com/t/897640) ![](assets/new.png)  
-- [2022-11-24-如何低成本搞一个视频会议系统和视频监控系统](https://www.v2ex.com/t/897639) ![](assets/new.png)  
-- [2022-11-24-有没有免费的云服务器](https://www.v2ex.com/t/897637) ![](assets/new.png)  
-- [2022-11-24-远程类软件一段时间后就打不开。](https://www.v2ex.com/t/897636) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -555,15 +555,15 @@
 - [2022-11-24-异常检测算法分类总结（含常用开源数据集）](https://toutiao.io/k/klv044a) ![](assets/new.png)  
 - [2022-11-24-Rust-在前端：环境配置](https://toutiao.io/k/7lzi5zt) ![](assets/new.png)  
 - [2022-11-24-零信任实战架构总结](https://toutiao.io/k/u9v4cma) ![](assets/new.png)  
-- [2022-11-24-vivo-大数据日志采集-Agent-设计实践](https://toutiao.io/k/mvjlbxe) ![](assets/new.png)  
 - [2022-11-24-领域驱动设计四论](https://toutiao.io/k/h2v5bdk) ![](assets/new.png)  
+- [2022-11-24-vivo-大数据日志采集-Agent-设计实践](https://toutiao.io/k/mvjlbxe) ![](assets/new.png)  
 - [2022-11-24-总结一些-Spark-处理小-trick](https://toutiao.io/k/fbsn4e5) ![](assets/new.png)  
 - [2022-11-24-图解-|-监控系统-Prometheus-的原理](https://toutiao.io/k/n83tqk7) ![](assets/new.png)  
 - [2022-11-24-就这？Redis-持久化策略：RDB](https://toutiao.io/k/ztfwgr1) ![](assets/new.png)  
 - [2022-11-24-浅谈数据和人工智能项目的管理](https://toutiao.io/k/oplz96z) ![](assets/new.png)  
 - [2022-11-24-推荐-10个非常好用的-JavaScript-动画库](https://toutiao.io/k/04l2hu7) ![](assets/new.png)  
-- [2022-11-24-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) ![](assets/new.png)  
 - [2022-11-24-推荐-一条-SQL-查询语句是如何执行的？](https://toutiao.io/k/8y71vds) ![](assets/new.png)  
+- [2022-11-24-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

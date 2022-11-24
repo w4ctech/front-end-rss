@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-24 04:42:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-24 05:11:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1916,6 +1916,8 @@
 - [2022-10-20-告别pointer-events:none使用HTML-inert属性真正禁用](https://www.zhangxinxu.com/wordpress/2022/10/html-inert-disabled-attribute/) 
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
+- [2022-11-24-有偿收个-tana-账号。可共享可购买。](https://www.v2ex.com/t/897567) 
+- [2022-11-24-为什么-navicat-连接某个-mysql-库很慢，程序中连接很快](https://www.v2ex.com/t/897565) 
 - [2022-11-24-找远程后端工作,求介绍](https://www.v2ex.com/t/897563) 
 - [2022-11-24-有个上位机软件开发私活需求](https://www.v2ex.com/t/897562) 
 - [2022-11-24-Fav:-命令行收藏夹,-主要用于收藏文件/文件夹路径](https://www.v2ex.com/t/897561) 
@@ -1944,9 +1946,6 @@
 - [2022-11-24-2022-年了，有什么好用的记录笔记的软件？](https://www.v2ex.com/t/897520) 
 - [2022-11-24-昨夜复古-emo——哥，咱家有钱了](https://www.v2ex.com/t/897519) 
 - [2022-11-24-idea-2022.2.4-正式版发布](https://www.v2ex.com/t/897518) 
-- [2022-11-24-更换蜗牛星际的主板并重装-Ubuntu20.04-，-zfs-硬盘需要重新-rebuild-吗？](https://www.v2ex.com/t/897517) 
-- [2022-11-24-字节跳动-基础架构团队-服务端研发工程师](https://www.v2ex.com/t/897515) 
-- [2022-11-24-请问：-Typora-和-Total-Commander-不注册也不影响使用？](https://www.v2ex.com/t/897514) 
 - [2022-11-24-2022，「倾城之链」运营第-6-年感记-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=15413&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fnicelinks-site-in-2022%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-24-浅谈数据和人工智能项目的管理-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15412&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fproject-management-big-data-artificial-intelligence%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-24-使用CDC模式改造遗留系统-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15411&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fchange-data-capture-legacy-system%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1958,8 +1957,8 @@
 - [2022-11-24-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-24-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-24-想要做好代码质量，如何破局？](https://toutiao.io/k/s9s8hub) 
-- [2022-11-24-零拷贝技术第二篇：Go-语言中的应用](https://toutiao.io/k/6bnvoqn) 
 - [2022-11-24-现代化-C-使用体验](https://toutiao.io/k/nz0xzfo) 
+- [2022-11-24-零拷贝技术第二篇：Go-语言中的应用](https://toutiao.io/k/6bnvoqn) 
 - [2022-11-24-判断线程池是否全部完成的-5-种方法，还有谁不会？？](https://toutiao.io/k/w4f2muf) 
 - [2022-11-24-Rust-在前端：环境配置](https://toutiao.io/k/7lzi5zt) 
 - [2022-11-24-零信任实战架构总结](https://toutiao.io/k/u9v4cma) 

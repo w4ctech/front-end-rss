@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2022-11-24 04:42:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-24 05:11:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-11-24-有偿收个-tana-账号。可共享可购买。](https://www.v2ex.com/t/897567) 
+- [2022-11-24-用完即走的-pastebin-支持-txt,html-markdown](https://www.v2ex.com/t/897566) 
+- [2022-11-24-为什么-navicat-连接某个-mysql-库很慢，程序中连接很快](https://www.v2ex.com/t/897565) 
 - [2022-11-24-找远程后端工作,求介绍](https://www.v2ex.com/t/897563) 
 - [2022-11-24-有个上位机软件开发私活需求](https://www.v2ex.com/t/897562) 
 - [2022-11-24-Fav:-命令行收藏夹,-主要用于收藏文件/文件夹路径](https://www.v2ex.com/t/897561) 
@@ -39,6 +42,3 @@
 - [2022-11-24-2022-年了，有什么好用的记录笔记的软件？](https://www.v2ex.com/t/897520) 
 - [2022-11-24-昨夜复古-emo——哥，咱家有钱了](https://www.v2ex.com/t/897519) 
 - [2022-11-24-idea-2022.2.4-正式版发布](https://www.v2ex.com/t/897518) 
-- [2022-11-24-更换蜗牛星际的主板并重装-Ubuntu20.04-，-zfs-硬盘需要重新-rebuild-吗？](https://www.v2ex.com/t/897517) 
-- [2022-11-24-字节跳动-基础架构团队-服务端研发工程师](https://www.v2ex.com/t/897515) 
-- [2022-11-24-请问：-Typora-和-Total-Commander-不注册也不影响使用？](https://www.v2ex.com/t/897514) 

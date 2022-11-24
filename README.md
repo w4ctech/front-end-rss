@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-24 12:23:44，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-24 13:02:33，:rocket: 更新条数: +2017， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,14 @@
 </summary>
 
 
+- [2022-11-24-准备购买一台新笔记本电脑，预算-9000-左右](https://www.v2ex.com/t/897690) ![](assets/new.png)  
+- [2022-11-24-求推荐便宜的联通套餐卡，给小孩电话手表用的](https://www.v2ex.com/t/897689) ![](assets/new.png)  
+- [2022-11-24-git-怎么-revert-一个-merge-commit](https://www.v2ex.com/t/897687) ![](assets/new.png)  
+- [2022-11-24-“送码”，海克斯词典，科技与狠活手册](https://www.v2ex.com/t/897686) ![](assets/new.png)  
+- [2022-11-24-Apple-会复刻垃圾桶吗？把-M-系列芯片塞进垃圾桶](https://www.v2ex.com/t/897685) ![](assets/new.png)  
+- [2022-11-24-Apple-News+-Audio-没声音](https://www.v2ex.com/t/897684) ![](assets/new.png)  
+- [2022-11-24-有没有办法能让-AppleTV-通过-iPhone-更合理的联网呢？](https://www.v2ex.com/t/897683) ![](assets/new.png)  
+- [2022-11-24-我的-11-寸-pro-黑屏没反应了](https://www.v2ex.com/t/897681) ![](assets/new.png)  
 - [2022-11-24-FY-技术中心官方总部直招：急需各种管理，技术架构/专家，远程！](https://www.v2ex.com/t/897679) ![](assets/new.png)  
 - [2022-11-24-「Goravel-上新」同时支持-Local,-OSS,-COS,-S3-的文件储存模块，还支持自定义，想存哪里存哪里！](https://www.v2ex.com/t/897677) ![](assets/new.png)  
 - [2022-11-24-公司交给我几个新的-Java-源码-没有文档-请问各位怎么可以快速入门能](https://www.v2ex.com/t/897676) ![](assets/new.png)  
@@ -500,17 +508,9 @@
 - [2022-11-24-一个开关怎么分别控制两个灯？](https://www.v2ex.com/t/897671) ![](assets/new.png)  
 - [2022-11-24-一年前在北京办的联通宽带，现在人在广东，怎么办理宽带销户~](https://www.v2ex.com/t/897669) ![](assets/new.png)  
 - [2022-11-24-B-站用户群体是不是真的都是校内学生呢？一个营销视频有感](https://www.v2ex.com/t/897668) ![](assets/new.png)  
-- [2022-11-24-office365-家庭版发车了,还有一个位](https://www.v2ex.com/t/897667) ![](assets/new.png)  
 - [2022-11-24-厦门前端，有捞一下的吗](https://www.v2ex.com/t/897666) ![](assets/new.png)  
 - [2022-11-24-关于“不理智”和“调解”，要是别的孩子欺负人，对方家长还要打你和你的孩子怎么办？](https://www.v2ex.com/t/897665) ![](assets/new.png)  
 - [2022-11-24-送码！锁屏启动-分组-，一款分组管理锁屏启动设置项。一键快速打开-app，支持图标-AI-美化、支持图标相册选择并裁剪、支持打开任意-app（Appstore-搜索）](https://www.v2ex.com/t/897663) ![](assets/new.png)  
-- [2022-11-24-Hosthatch-大存储-VPS（1T-以上）黑五预售](https://www.v2ex.com/t/897662) ![](assets/new.png)  
-- [2022-11-24-求推荐一个性能比树莓派强点，但是价格不要太高的小主机做-terraria-服务器](https://www.v2ex.com/t/897661) ![](assets/new.png)  
-- [2022-11-24-FY-技术中心官方总部直招：-GO-后端副总监，-GO-资深专家，后端开发转-GO](https://www.v2ex.com/t/897660) ![](assets/new.png)  
-- [2022-11-24-怎么在-M1-Air-Ventura-及-iPhone-上开启实时字幕？找不到实时字幕入口](https://www.v2ex.com/t/897659) ![](assets/new.png)  
-- [2022-11-24-随缘卖些家里的脐橙，回复抽奖三箱！](https://www.v2ex.com/t/897658) ![](assets/new.png)  
-- [2022-11-24-河北三家运营商资费比较，不对比-22-年之前资费](https://www.v2ex.com/t/897657) ![](assets/new.png)  
-- [2022-11-24-ipv6-环境访问-V2EX-的奇怪问题](https://www.v2ex.com/t/897656) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -562,8 +562,8 @@
 - [2022-11-24-就这？Redis-持久化策略：RDB](https://toutiao.io/k/ztfwgr1) ![](assets/new.png)  
 - [2022-11-24-推荐-10个非常好用的-JavaScript-动画库](https://toutiao.io/k/04l2hu7) ![](assets/new.png)  
 - [2022-11-24-浅谈数据和人工智能项目的管理](https://toutiao.io/k/oplz96z) ![](assets/new.png)  
-- [2022-11-24-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) ![](assets/new.png)  
 - [2022-11-24-推荐-一条-SQL-查询语句是如何执行的？](https://toutiao.io/k/8y71vds) ![](assets/new.png)  
+- [2022-11-24-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

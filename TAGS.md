@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-11-24 12:23:44。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-24 13:02:34。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -234,9 +234,9 @@
 
 - [【武汉肺炎防疫全纪录(财新网)】广州17岁男生在定点医院参加高考-特殊考场视频监考](https://m.caixin.com/m/2021-06-05/101723418.html)
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
+- [【V2EX】Apple-News+-Audio-没声音](https://www.v2ex.com/t/897684)
 - [【V2EX】B-站用户群体是不是真的都是校内学生呢？一个营销视频有感](https://www.v2ex.com/t/897668)
 - [【V2EX】个人作品-轻下载：一个解析各大平台音频，图片，视频的效率工具-APP](https://www.v2ex.com/t/897643)
-- [【V2EX】如何低成本搞一个视频会议系统和视频监控系统](https://www.v2ex.com/t/897639)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -254,7 +254,6 @@
 
 
 - [【V2EX】求推荐一个性能比树莓派强点，但是价格不要太高的小主机做-terraria-服务器](https://www.v2ex.com/t/897661)
-- [【V2EX】Chrome-103-支持使用本地字体，纯前端导出-PDF-优化](https://www.v2ex.com/t/897634)
 - [【技术头条】如何基于-Prerender-为-SPA-做-SEO-优化-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=15414&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fhow-to-optimize-seo-for-spa-based-on-prerender%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/optimization.md)
 
@@ -279,7 +278,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
 - [【V2EX】谷歌要废掉-Street-View-的独立应用了，求可替代的-360-拍照软件](https://www.v2ex.com/t/897642)
-- [【V2EX】求教，对于一些本身不支持-baseurl/prefix-的-Web-应用来说，如何简单地配置反向代理？](https://www.v2ex.com/t/897631)
 - [【技术头条】团队的Code-Review实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15409&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-code-review%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/browser.md)
 
@@ -331,6 +329,7 @@
 
 
 
+- [【V2EX】git-怎么-revert-一个-merge-commit](https://www.v2ex.com/t/897687)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

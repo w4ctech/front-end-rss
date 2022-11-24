@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-24 13:02:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-24 13:43:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -17,5 +17,4 @@
 - [2022-10-16-2022年新出了哪些form表单新特性？](https://www.zhangxinxu.com/wordpress/2022/10/2022-new-form-property/) 
 - [2022-11-24-做-App-+-H5-混合应用的请进，想听听看看](https://www.v2ex.com/t/897674) 
 - [2022-11-24-如何用-JavaScripte-和-HTML-实现一整套的考试答题卡和成绩表](https://www.v2ex.com/t/897654) 
-- [2022-11-24-光猫的拨号和-iptv-是不同的网口，如何单路由双网线配置局域网播-iptv-呢？](https://www.v2ex.com/t/897649) 
 - [2022-11-24-推荐-10个非常好用的-JavaScript-动画库](https://toutiao.io/k/04l2hu7) 

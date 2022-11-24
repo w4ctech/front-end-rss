@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-24 15:38:17。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-24 16:16:13。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -71,6 +71,8 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-11-20-JS之我用单img元素实现了图像resize拉伸效果](https://www.zhangxinxu.com/wordpress/2022/11/js-image-resize/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-24-最新的立法法修正草案删去了“以经济建设为中心”。](https://www.v2ex.com/t/897732) 
+- [【V2EX】2022-11-24-继周六临时喊去加班，公司开始-996-了](https://www.v2ex.com/t/897731) 
 - [【V2EX】2022-11-24-如何-检查电脑上存在多少个-chromium](https://www.v2ex.com/t/897730) 
 - [【V2EX】2022-11-24-想研究国内转移资产（老赖）的实际案例，求学习材料](https://www.v2ex.com/t/897729) 
 - [【V2EX】2022-11-24-有啥性价比高的国外-VPS，要能装-WIN-SERVER-的](https://www.v2ex.com/t/897728) 
@@ -111,7 +113,6 @@
 - [【V2EX】2022-11-24-Apple-会复刻垃圾桶吗？把-M-系列芯片塞进垃圾桶](https://www.v2ex.com/t/897685) 
 - [【V2EX】2022-11-24-Apple-News+-Audio-没声音](https://www.v2ex.com/t/897684) 
 - [【V2EX】2022-11-24-有没有办法能让-AppleTV-通过-iPhone-更合理的联网呢？](https://www.v2ex.com/t/897683) 
-- [【V2EX】2022-11-24-我的-11-寸-pro-黑屏没反应了](https://www.v2ex.com/t/897681) 
 - [【技术头条】2022-11-24-当我们谈论DDD时我们在谈论什么-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15415&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fstrategy-and-tactical-design-of-ddd%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-24-如何基于-Prerender-为-SPA-做-SEO-优化-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=15414&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fhow-to-optimize-seo-for-spa-based-on-prerender%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-24-2022，「倾城之链」运营第-6-年感记-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=15413&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fnicelinks-site-in-2022%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -141,7 +142,7 @@
 - [【开发者头条】2022-11-24-总结一些-Spark-处理小-trick](https://toutiao.io/k/fbsn4e5) 
 - [【开发者头条】2022-11-24-就这？Redis-持久化策略：RDB](https://toutiao.io/k/ztfwgr1) 
 - [【开发者头条】2022-11-24-浅谈数据和人工智能项目的管理](https://toutiao.io/k/oplz96z) 
-- [【开发者头条】2022-11-24-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) 
+- [【开发者头条】2022-11-24-推荐-万字长文细说-Code-Review-的正确姿势](https://toutiao.io/k/cxf9ver) 
 - [【开发者头条】2022-11-24-推荐-一条-SQL-查询语句是如何执行的？](https://toutiao.io/k/8y71vds) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>

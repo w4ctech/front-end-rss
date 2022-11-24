@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-24 16:16:13，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-24 16:47:44，:rocket: 更新条数: +2016， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-11-24-20221125-午夜俱乐部](https://www.v2ex.com/t/897736) ![](assets/new.png)  
+- [2022-11-24-adguard-macOS-loading-太卡了，卸载了](https://www.v2ex.com/t/897734) ![](assets/new.png)  
 - [2022-11-24-最新的立法法修正草案删去了“以经济建设为中心”。](https://www.v2ex.com/t/897732) ![](assets/new.png)  
 - [2022-11-24-继周六临时喊去加班，公司开始-996-了](https://www.v2ex.com/t/897731) ![](assets/new.png)  
 - [2022-11-24-如何-检查电脑上存在多少个-chromium](https://www.v2ex.com/t/897730) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-11-24-mail.app-设置里的扩展是什么意思?](https://www.v2ex.com/t/897715) ![](assets/new.png)  
 - [2022-11-24-除了花生壳还有免费/收费的内网穿透服务吗？](https://www.v2ex.com/t/897714) ![](assets/new.png)  
 - [2022-11-24-高通中国内推Qualcomm工作与生活的平衡，-Android-软件开发工程师招聘](https://www.v2ex.com/t/897713) ![](assets/new.png)  
-- [2022-11-24-macbookpro14-屏幕问题](https://www.v2ex.com/t/897711) ![](assets/new.png)  
-- [2022-11-24-Jump-Desktop-使用触控板滚动特别快,如何解决](https://www.v2ex.com/t/897710) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -562,8 +562,8 @@
 - [2022-11-24-总结一些-Spark-处理小-trick](https://toutiao.io/k/fbsn4e5) ![](assets/new.png)  
 - [2022-11-24-就这？Redis-持久化策略：RDB](https://toutiao.io/k/ztfwgr1) ![](assets/new.png)  
 - [2022-11-24-浅谈数据和人工智能项目的管理](https://toutiao.io/k/oplz96z) ![](assets/new.png)  
-- [2022-11-24-推荐-万字长文细说-Code-Review-的正确姿势](https://toutiao.io/k/cxf9ver) ![](assets/new.png)  
 - [2022-11-24-推荐-一条-SQL-查询语句是如何执行的？](https://toutiao.io/k/8y71vds) ![](assets/new.png)  
+- [2022-11-24-推荐-万字长文细说-Code-Review-的正确姿势](https://toutiao.io/k/cxf9ver) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

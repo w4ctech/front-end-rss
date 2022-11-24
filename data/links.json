@@ -9953,6 +9953,51 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "FY 技术中心官方总部直招：急需各种管理，技术架构/专家，远程！",
+        "link": "https://www.v2ex.com/t/897679",
+        "date": "2022-11-24"
+      },
+      {
+        "title": "「Goravel 上新」同时支持 Local, OSS, COS, S3 的文件储存模块，还支持自定义，想存哪里存哪里！",
+        "link": "https://www.v2ex.com/t/897677",
+        "date": "2022-11-24"
+      },
+      {
+        "title": "公司交给我几个新的 Java 源码 没有文档 请问各位怎么可以快速入门能",
+        "link": "https://www.v2ex.com/t/897676",
+        "date": "2022-11-24"
+      },
+      {
+        "title": "微信检测到 ocr 功能被篡改后自动修复，更恶心了",
+        "link": "https://www.v2ex.com/t/897675",
+        "date": "2022-11-24"
+      },
+      {
+        "title": "做 App + H5 混合应用的请进，想听听看看",
+        "link": "https://www.v2ex.com/t/897674",
+        "date": "2022-11-24"
+      },
+      {
+        "title": "各位大佬 求一个能流畅运行 Linux +2 个虚拟机的硬件配置",
+        "link": "https://www.v2ex.com/t/897672",
+        "date": "2022-11-24"
+      },
+      {
+        "title": "一个开关怎么分别控制两个灯？",
+        "link": "https://www.v2ex.com/t/897671",
+        "date": "2022-11-24"
+      },
+      {
+        "title": "一年前在北京办的联通宽带，现在人在广东，怎么办理宽带销户~",
+        "link": "https://www.v2ex.com/t/897669",
+        "date": "2022-11-24"
+      },
+      {
+        "title": "B 站用户群体是不是真的都是校内学生呢？一个营销视频有感",
+        "link": "https://www.v2ex.com/t/897668",
+        "date": "2022-11-24"
+      },
+      {
         "title": "office365 家庭版发车了,还有一个位",
         "link": "https://www.v2ex.com/t/897667",
         "date": "2022-11-24"
@@ -10116,46 +10161,6 @@
         "title": "求教，对于一些本身不支持 baseurl/prefix 的 Web 应用来说，如何简单地配置反向代理？",
         "link": "https://www.v2ex.com/t/897631",
         "date": "2022-11-24"
-      },
-      {
-        "title": "想问一下有没有用于解决 NAT 问题的国内 VPS 推荐",
-        "link": "https://www.v2ex.com/t/897629",
-        "date": "2022-11-24"
-      },
-      {
-        "title": "全球头部量化 base 上海一个 SDM（算法工程化实现方向）岗位， 10 年左右经验起（coding 和 team 管理双在线）， 985 本硕起，非量化背景出身也 ok",
-        "link": "https://www.v2ex.com/t/897628",
-        "date": "2022-11-24"
-      },
-      {
-        "title": "PHP 编译器 BPC 6.0 发布,支持 namespace,支持 closure,成功编译 workerman",
-        "link": "https://www.v2ex.com/t/897626",
-        "date": "2022-11-24"
-      },
-      {
-        "title": "比较好奇，各个级别的医生都是怎么 \"debug\" 的？",
-        "link": "https://www.v2ex.com/t/897625",
-        "date": "2022-11-24"
-      },
-      {
-        "title": "明天黑五了，有什么值得推荐买的",
-        "link": "https://www.v2ex.com/t/897624",
-        "date": "2022-11-24"
-      },
-      {
-        "title": "斗胆推荐一款 win 平板",
-        "link": "https://www.v2ex.com/t/897621",
-        "date": "2022-11-24"
-      },
-      {
-        "title": "无论哪个公司换了 CTO 或者架构师，系统必然迎来一波重构",
-        "link": "https://www.v2ex.com/t/897620",
-        "date": "2022-11-24"
-      },
-      {
-        "title": "显示器吧怎么了",
-        "link": "https://www.v2ex.com/t/897618",
-        "date": "2022-11-24"
       }
     ]
   },
@@ -10267,13 +10272,13 @@
         "date": "2022-11-24"
       },
       {
-        "title": "异常检测算法分类总结（含常用开源数据集）",
-        "link": "https://toutiao.io/k/klv044a",
+        "title": "Rust 在前端：环境配置",
+        "link": "https://toutiao.io/k/7lzi5zt",
         "date": "2022-11-24"
       },
       {
-        "title": "Rust 在前端：环境配置",
-        "link": "https://toutiao.io/k/7lzi5zt",
+        "title": "异常检测算法分类总结（含常用开源数据集）",
+        "link": "https://toutiao.io/k/klv044a",
         "date": "2022-11-24"
       },
       {
@@ -10307,23 +10312,23 @@
         "date": "2022-11-24"
       },
       {
-        "title": "浅谈数据和人工智能项目的管理",
-        "link": "https://toutiao.io/k/oplz96z",
-        "date": "2022-11-24"
-      },
-      {
         "title": "推荐 10个非常好用的 JavaScript 动画库",
         "link": "https://toutiao.io/k/04l2hu7",
         "date": "2022-11-24"
       },
       {
-        "title": "[推荐] 一条 SQL 查询语句是如何执行的？",
-        "link": "https://toutiao.io/k/8y71vds",
+        "title": "浅谈数据和人工智能项目的管理",
+        "link": "https://toutiao.io/k/oplz96z",
         "date": "2022-11-24"
       },
       {
         "title": "[推荐] 最适合程序员的画图工具？",
         "link": "https://toutiao.io/k/hlv8j4z",
+        "date": "2022-11-24"
+      },
+      {
+        "title": "[推荐] 一条 SQL 查询语句是如何执行的？",
+        "link": "https://toutiao.io/k/8y71vds",
         "date": "2022-11-24"
       }
     ]

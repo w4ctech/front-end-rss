@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-23 23:37:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-24 01:03:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -7,4 +7,4 @@
 
 
 
-- [2022-11-23-可否将自有域名的-Mastodon-实例，挂靠在其他大型-Mastodon-实例上？](https://www.v2ex.com/t/897440) 
+- [2022-11-24-异常检测算法分类总结（含常用开源数据集）](https://toutiao.io/k/klv044a) 

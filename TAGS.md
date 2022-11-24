@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-11-23 23:37:13。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-24 01:03:37。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -233,8 +233,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】广州17岁男生在定点医院参加高考-特殊考场视频监考](https://m.caixin.com/m/2021-06-05/101723418.html)
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
 - [【V2EX】有什么推荐的音乐/FM-app-支持云端同步自定义音频上传的啊](https://www.v2ex.com/t/897475)
-- [【V2EX】世界杯抖音直播无法投屏？还是我设置不对？](https://www.v2ex.com/t/897441)
-- [【V2EX】YouTube-直播聊天内容抓取](https://www.v2ex.com/t/897439)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -253,7 +251,6 @@
 
 - [【V2EX】兄弟们，关于-sql-优化的问题想请教一下](https://www.v2ex.com/t/897481)
 - [【技术头条】如何基于-Prerender-为-SPA-做-SEO-优化-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=15414&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fhow-to-optimize-seo-for-spa-based-on-prerender%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
-- [【开发者头条】重塑认识-Java-编译器的执行过程（常量优化机制）](https://toutiao.io/k/pmbarr3)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -276,6 +273,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】腺病毒新冠疫苗引安全忧虑-康希诺称未发现血栓病例](https://m.caixin.com/m/2021-04-14/101691086.html)
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
+- [【V2EX】有没有快捷搜索框类的浏览器扩展](https://www.v2ex.com/t/897490)
 - [【V2EX】有网站点评类浏览器扩展吗？会不会有市场？](https://www.v2ex.com/t/897465)
 - [【V2EX】HEIC-图片-Preview-预览-卡顿问题](https://www.v2ex.com/t/897452)
 - [【技术头条】团队的Code-Review实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15409&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-code-review%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
@@ -295,7 +293,7 @@
 
 
 
-- [【V2EX】可否将自有域名的-Mastodon-实例，挂靠在其他大型-Mastodon-实例上？](https://www.v2ex.com/t/897440)
+- [【开发者头条】异常检测算法分类总结（含常用开源数据集）](https://toutiao.io/k/klv044a)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

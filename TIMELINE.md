@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-24 06:15:25。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-24 06:41:58。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -71,6 +71,8 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-11-20-JS之我用单img元素实现了图像resize拉伸效果](https://www.zhangxinxu.com/wordpress/2022/11/js-image-resize/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-24-Copilot-登录完成后没有代码提示](https://www.v2ex.com/t/897587) 
+- [【V2EX】2022-11-24-「远程工作」游戏档案系统招聘后端工程师/月薪-20-30K-RMB](https://www.v2ex.com/t/897586) 
 - [【V2EX】2022-11-24-C++代码问题咨询](https://www.v2ex.com/t/897584) 
 - [【V2EX】2022-11-24-关于-WhatsApp](https://www.v2ex.com/t/897583) 
 - [【V2EX】2022-11-24-给你们说一下美国亚马逊的价格政策，是怎样坑老用户的](https://www.v2ex.com/t/897581) 
@@ -83,7 +85,6 @@
 - [【V2EX】2022-11-24-出搬瓦工-2018-双十一-vps](https://www.v2ex.com/t/897572) 
 - [【V2EX】2022-11-24-改了-pnbf-键位到-hjkl，发现体验挺割裂的。。。](https://www.v2ex.com/t/897570) 
 - [【V2EX】2022-11-24-System-Design-学习路径](https://www.v2ex.com/t/897568) 
-- [【V2EX】2022-11-24-有偿收个-tana-账号。可共享可购买。](https://www.v2ex.com/t/897567) 
 - [【V2EX】2022-11-24-用完即走的-pastebin-支持-txt,html-markdown](https://www.v2ex.com/t/897566) 
 - [【V2EX】2022-11-24-为什么-navicat-连接某个-mysql-库很慢，程序中连接很快](https://www.v2ex.com/t/897565) 
 - [【V2EX】2022-11-24-找远程后端工作,求介绍](https://www.v2ex.com/t/897563) 
@@ -101,7 +102,6 @@
 - [【V2EX】2022-11-24-微信提示文件存在安全风险](https://www.v2ex.com/t/897543) 
 - [【V2EX】2022-11-24-阿里云双-11-是开始搞歧视了吗？](https://www.v2ex.com/t/897542) 
 - [【V2EX】2022-11-24-检查单小帮手-TestFlight-周更新。支持图片微调，自定义识别指标](https://www.v2ex.com/t/897541) 
-- [【V2EX】2022-11-24-杭州-E-类人才认定有无大佬指点一二](https://www.v2ex.com/t/897538) 
 - [【技术头条】2022-11-24-如何基于-Prerender-为-SPA-做-SEO-优化-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=15414&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fhow-to-optimize-seo-for-spa-based-on-prerender%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-24-2022，「倾城之链」运营第-6-年感记-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=15413&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fnicelinks-site-in-2022%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-24-浅谈数据和人工智能项目的管理-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15412&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fproject-management-big-data-artificial-intelligence%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -130,6 +130,7 @@
 - [【开发者头条】2022-11-24-就这？Redis-持久化策略：RDB](https://toutiao.io/k/ztfwgr1) 
 - [【开发者头条】2022-11-24-浅谈数据和人工智能项目的管理](https://toutiao.io/k/oplz96z) 
 - [【开发者头条】2022-11-24-推荐-10个非常好用的-JavaScript-动画库](https://toutiao.io/k/04l2hu7) 
+- [【开发者头条】2022-11-24-推荐-一条-SQL-查询语句是如何执行的？](https://toutiao.io/k/8y71vds) 
 - [【开发者头条】2022-11-24-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>

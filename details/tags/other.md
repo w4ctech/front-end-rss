@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-24 06:15:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-24 06:41:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1916,6 +1916,7 @@
 - [2022-10-20-告别pointer-events:none使用HTML-inert属性真正禁用](https://www.zhangxinxu.com/wordpress/2022/10/html-inert-disabled-attribute/) 
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
+- [2022-11-24-Copilot-登录完成后没有代码提示](https://www.v2ex.com/t/897587) 
 - [2022-11-24-C++代码问题咨询](https://www.v2ex.com/t/897584) 
 - [2022-11-24-关于-WhatsApp](https://www.v2ex.com/t/897583) 
 - [2022-11-24-给你们说一下美国亚马逊的价格政策，是怎样坑老用户的](https://www.v2ex.com/t/897581) 
@@ -1928,7 +1929,6 @@
 - [2022-11-24-出搬瓦工-2018-双十一-vps](https://www.v2ex.com/t/897572) 
 - [2022-11-24-改了-pnbf-键位到-hjkl，发现体验挺割裂的。。。](https://www.v2ex.com/t/897570) 
 - [2022-11-24-System-Design-学习路径](https://www.v2ex.com/t/897568) 
-- [2022-11-24-有偿收个-tana-账号。可共享可购买。](https://www.v2ex.com/t/897567) 
 - [2022-11-24-为什么-navicat-连接某个-mysql-库很慢，程序中连接很快](https://www.v2ex.com/t/897565) 
 - [2022-11-24-找远程后端工作,求介绍](https://www.v2ex.com/t/897563) 
 - [2022-11-24-有个上位机软件开发私活需求](https://www.v2ex.com/t/897562) 
@@ -1940,7 +1940,6 @@
 - [2022-11-24-国足为啥这么烂?](https://www.v2ex.com/t/897544) 
 - [2022-11-24-阿里云双-11-是开始搞歧视了吗？](https://www.v2ex.com/t/897542) 
 - [2022-11-24-检查单小帮手-TestFlight-周更新。支持图片微调，自定义识别指标](https://www.v2ex.com/t/897541) 
-- [2022-11-24-杭州-E-类人才认定有无大佬指点一二](https://www.v2ex.com/t/897538) 
 - [2022-11-24-2022，「倾城之链」运营第-6-年感记-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=15413&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fnicelinks-site-in-2022%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-24-浅谈数据和人工智能项目的管理-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15412&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fproject-management-big-data-artificial-intelligence%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-24-使用CDC模式改造遗留系统-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15411&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fchange-data-capture-legacy-system%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1964,4 +1963,5 @@
 - [2022-11-24-图解-|-监控系统-Prometheus-的原理](https://toutiao.io/k/n83tqk7) 
 - [2022-11-24-就这？Redis-持久化策略：RDB](https://toutiao.io/k/ztfwgr1) 
 - [2022-11-24-浅谈数据和人工智能项目的管理](https://toutiao.io/k/oplz96z) 
+- [2022-11-24-推荐-一条-SQL-查询语句是如何执行的？](https://toutiao.io/k/8y71vds) 
 - [2022-11-24-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) 

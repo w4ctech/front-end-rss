@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-24 06:15:25，:rocket: 更新条数: +2006， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-24 06:41:58，:rocket: 更新条数: +2007， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-11-24-Copilot-登录完成后没有代码提示](https://www.v2ex.com/t/897587) ![](assets/new.png)  
+- [2022-11-24-「远程工作」游戏档案系统招聘后端工程师/月薪-20-30K-RMB](https://www.v2ex.com/t/897586) ![](assets/new.png)  
 - [2022-11-24-C++代码问题咨询](https://www.v2ex.com/t/897584) ![](assets/new.png)  
 - [2022-11-24-关于-WhatsApp](https://www.v2ex.com/t/897583) ![](assets/new.png)  
 - [2022-11-24-给你们说一下美国亚马逊的价格政策，是怎样坑老用户的](https://www.v2ex.com/t/897581) ![](assets/new.png)  
@@ -503,14 +505,12 @@
 - [2022-11-24-出搬瓦工-2018-双十一-vps](https://www.v2ex.com/t/897572) ![](assets/new.png)  
 - [2022-11-24-改了-pnbf-键位到-hjkl，发现体验挺割裂的。。。](https://www.v2ex.com/t/897570) ![](assets/new.png)  
 - [2022-11-24-System-Design-学习路径](https://www.v2ex.com/t/897568) ![](assets/new.png)  
-- [2022-11-24-有偿收个-tana-账号。可共享可购买。](https://www.v2ex.com/t/897567) ![](assets/new.png)  
 - [2022-11-24-用完即走的-pastebin-支持-txt,html-markdown](https://www.v2ex.com/t/897566) ![](assets/new.png)  
 - [2022-11-24-为什么-navicat-连接某个-mysql-库很慢，程序中连接很快](https://www.v2ex.com/t/897565) ![](assets/new.png)  
 - [2022-11-24-找远程后端工作,求介绍](https://www.v2ex.com/t/897563) ![](assets/new.png)  
 - [2022-11-24-有个上位机软件开发私活需求](https://www.v2ex.com/t/897562) ![](assets/new.png)  
 - [2022-11-24-Fav:-命令行收藏夹,-主要用于收藏文件/文件夹路径](https://www.v2ex.com/t/897561) ![](assets/new.png)  
 - [2022-11-24-北京-海外业务公司招聘，目前是线上面试，看机会的可以来试试](https://www.v2ex.com/t/897559) ![](assets/new.png)  
-- [2022-11-24-通过视频标题分析国人-xp](https://www.v2ex.com/t/897558) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -561,6 +561,7 @@
 - [2022-11-24-就这？Redis-持久化策略：RDB](https://toutiao.io/k/ztfwgr1) ![](assets/new.png)  
 - [2022-11-24-浅谈数据和人工智能项目的管理](https://toutiao.io/k/oplz96z) ![](assets/new.png)  
 - [2022-11-24-推荐-10个非常好用的-JavaScript-动画库](https://toutiao.io/k/04l2hu7) ![](assets/new.png)  
+- [2022-11-24-推荐-一条-SQL-查询语句是如何执行的？](https://toutiao.io/k/8y71vds) ![](assets/new.png)  
 - [2022-11-24-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

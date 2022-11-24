@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-24 07:11:43，:rocket: 更新条数: +2008， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-24 07:35:06，:rocket: 更新条数: +2011， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-11-24-明天黑五了，有什么游戏推荐？](https://www.v2ex.com/t/897601) ![](assets/new.png)  
+- [2022-11-24-苹果为什么不解决-iPhone-信号弱的问题？](https://www.v2ex.com/t/897600) ![](assets/new.png)  
+- [2022-11-24-大家怎样买虚拟货币的](https://www.v2ex.com/t/897599) ![](assets/new.png)  
+- [2022-11-24-海外看世界杯有什么好方案？](https://www.v2ex.com/t/897598) ![](assets/new.png)  
 - [2022-11-24-光猫改桥接，红米路由器拨号，可以拿到-IPV6-却无法测通](https://www.v2ex.com/t/897597) ![](assets/new.png)  
 - [2022-11-24-提供-emby-的机场推荐](https://www.v2ex.com/t/897596) ![](assets/new.png)  
 - [2022-11-24-请教一下存储过程版本管理和发布的最佳实践](https://www.v2ex.com/t/897595) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-11-24-微博：“微信-macos-版有个-log-的目录，占我了近-1GB-的空间”](https://www.v2ex.com/t/897576) ![](assets/new.png)  
 - [2022-11-24-SONY-电视小微这么卸载](https://www.v2ex.com/t/897575) ![](assets/new.png)  
 - [2022-11-24-现在这个内容年代，发现不会写标题和摘要的人越来越多了](https://www.v2ex.com/t/897574) ![](assets/new.png)  
-- [2022-11-24-macos-照片-app-里的照片怎么选取上传？](https://www.v2ex.com/t/897573) ![](assets/new.png)  
-- [2022-11-24-出搬瓦工-2018-双十一-vps](https://www.v2ex.com/t/897572) ![](assets/new.png)  
-- [2022-11-24-改了-pnbf-键位到-hjkl，发现体验挺割裂的。。。](https://www.v2ex.com/t/897570) ![](assets/new.png)  
-- [2022-11-24-System-Design-学习路径](https://www.v2ex.com/t/897568) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -551,8 +551,8 @@
 - [2022-11-24-零拷贝技术第二篇：Go-语言中的应用](https://toutiao.io/k/6bnvoqn) ![](assets/new.png)  
 - [2022-11-24-判断线程池是否全部完成的-5-种方法，还有谁不会？？](https://toutiao.io/k/w4f2muf) ![](assets/new.png)  
 - [2022-11-24-异常检测算法分类总结（含常用开源数据集）](https://toutiao.io/k/klv044a) ![](assets/new.png)  
-- [2022-11-24-Rust-在前端：环境配置](https://toutiao.io/k/7lzi5zt) ![](assets/new.png)  
 - [2022-11-24-读《Understanding-Real-World-Concurrency-Bugs-in-Go》](https://toutiao.io/k/6fcoxmx) ![](assets/new.png)  
+- [2022-11-24-Rust-在前端：环境配置](https://toutiao.io/k/7lzi5zt) ![](assets/new.png)  
 - [2022-11-24-零信任实战架构总结](https://toutiao.io/k/u9v4cma) ![](assets/new.png)  
 - [2022-11-24-vivo-大数据日志采集-Agent-设计实践](https://toutiao.io/k/mvjlbxe) ![](assets/new.png)  
 - [2022-11-24-总结一些-Spark-处理小-trick](https://toutiao.io/k/fbsn4e5) ![](assets/new.png)  

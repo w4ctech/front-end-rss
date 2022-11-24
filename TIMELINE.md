@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-24 07:11:43。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-24 07:35:06。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -71,6 +71,10 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-11-20-JS之我用单img元素实现了图像resize拉伸效果](https://www.zhangxinxu.com/wordpress/2022/11/js-image-resize/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-24-明天黑五了，有什么游戏推荐？](https://www.v2ex.com/t/897601) 
+- [【V2EX】2022-11-24-苹果为什么不解决-iPhone-信号弱的问题？](https://www.v2ex.com/t/897600) 
+- [【V2EX】2022-11-24-大家怎样买虚拟货币的](https://www.v2ex.com/t/897599) 
+- [【V2EX】2022-11-24-海外看世界杯有什么好方案？](https://www.v2ex.com/t/897598) 
 - [【V2EX】2022-11-24-光猫改桥接，红米路由器拨号，可以拿到-IPV6-却无法测通](https://www.v2ex.com/t/897597) 
 - [【V2EX】2022-11-24-提供-emby-的机场推荐](https://www.v2ex.com/t/897596) 
 - [【V2EX】2022-11-24-请教一下存储过程版本管理和发布的最佳实践](https://www.v2ex.com/t/897595) 
@@ -102,7 +106,6 @@
 - [【V2EX】2022-11-24-为什么分应用代理-Google-翻译不生效](https://www.v2ex.com/t/897554) 
 - [【V2EX】2022-11-24-因为工作原因要去北京入职，目前在深圳，求推荐解弹窗-3-路线。](https://www.v2ex.com/t/897553) 
 - [【V2EX】2022-11-24-用-chrome-浏览-twitter-时的简体字特别细，大佬们有没有解决的办法。](https://www.v2ex.com/t/897552) 
-- [【V2EX】2022-11-24-关于-coturn---turn-的授权的一些疑惑](https://www.v2ex.com/t/897549) 
 - [【技术头条】2022-11-24-如何基于-Prerender-为-SPA-做-SEO-优化-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=15414&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fhow-to-optimize-seo-for-spa-based-on-prerender%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-24-2022，「倾城之链」运营第-6-年感记-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=15413&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fnicelinks-site-in-2022%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-24-浅谈数据和人工智能项目的管理-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15412&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fproject-management-big-data-artificial-intelligence%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -121,8 +124,8 @@
 - [【开发者头条】2022-11-24-零拷贝技术第二篇：Go-语言中的应用](https://toutiao.io/k/6bnvoqn) 
 - [【开发者头条】2022-11-24-判断线程池是否全部完成的-5-种方法，还有谁不会？？](https://toutiao.io/k/w4f2muf) 
 - [【开发者头条】2022-11-24-异常检测算法分类总结（含常用开源数据集）](https://toutiao.io/k/klv044a) 
-- [【开发者头条】2022-11-24-Rust-在前端：环境配置](https://toutiao.io/k/7lzi5zt) 
 - [【开发者头条】2022-11-24-读《Understanding-Real-World-Concurrency-Bugs-in-Go》](https://toutiao.io/k/6fcoxmx) 
+- [【开发者头条】2022-11-24-Rust-在前端：环境配置](https://toutiao.io/k/7lzi5zt) 
 - [【开发者头条】2022-11-24-零信任实战架构总结](https://toutiao.io/k/u9v4cma) 
 - [【开发者头条】2022-11-24-vivo-大数据日志采集-Agent-设计实践](https://toutiao.io/k/mvjlbxe) 
 - [【开发者头条】2022-11-24-总结一些-Spark-处理小-trick](https://toutiao.io/k/fbsn4e5) 

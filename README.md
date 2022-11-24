@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-24 13:43:34，:rocket: 更新条数: +2016， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-24 14:10:55，:rocket: 更新条数: +2015， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,14 @@
 </summary>
 
 
+- [2022-11-24-macbookpro14-屏幕问题](https://www.v2ex.com/t/897711) ![](assets/new.png)  
+- [2022-11-24-Jump-Desktop-使用触控板滚动特别快,如何解决](https://www.v2ex.com/t/897710) ![](assets/new.png)  
+- [2022-11-24-20221124-午夜俱乐部](https://www.v2ex.com/t/897709) ![](assets/new.png)  
+- [2022-11-24-mac-idea-快捷键冲突问题求助](https://www.v2ex.com/t/897708) ![](assets/new.png)  
+- [2022-11-24-关于下一款手机的选择](https://www.v2ex.com/t/897706) ![](assets/new.png)  
+- [2022-11-24-概率不大，但来问问-有没有「准-whver」的老哥](https://www.v2ex.com/t/897705) ![](assets/new.png)  
+- [2022-11-24-能不能出个规定时间内必须过半场](https://www.v2ex.com/t/897704) ![](assets/new.png)  
+- [2022-11-24-Mxroute-发了个声明](https://www.v2ex.com/t/897703) ![](assets/new.png)  
 - [2022-11-24-idea-2.4-内存大户](https://www.v2ex.com/t/897701) ![](assets/new.png)  
 - [2022-11-24-想问一个有关于-docker-的小白的问题。](https://www.v2ex.com/t/897700) ![](assets/new.png)  
 - [2022-11-24-现在哪个开源的-WAF-适合企业站用？主要需要防-CC-功能强，其它功能无所谓，-CDN-预算批不下来](https://www.v2ex.com/t/897699) ![](assets/new.png)  
@@ -503,14 +511,6 @@
 - [2022-11-24-准备购买一台新笔记本电脑，预算-9000-左右](https://www.v2ex.com/t/897690) ![](assets/new.png)  
 - [2022-11-24-求推荐便宜的联通套餐卡，给小孩电话手表用的](https://www.v2ex.com/t/897689) ![](assets/new.png)  
 - [2022-11-24-git-怎么-revert-一个-merge-commit](https://www.v2ex.com/t/897687) ![](assets/new.png)  
-- [2022-11-24-“送码”，海克斯词典，科技与狠活手册](https://www.v2ex.com/t/897686) ![](assets/new.png)  
-- [2022-11-24-Apple-会复刻垃圾桶吗？把-M-系列芯片塞进垃圾桶](https://www.v2ex.com/t/897685) ![](assets/new.png)  
-- [2022-11-24-Apple-News+-Audio-没声音](https://www.v2ex.com/t/897684) ![](assets/new.png)  
-- [2022-11-24-有没有办法能让-AppleTV-通过-iPhone-更合理的联网呢？](https://www.v2ex.com/t/897683) ![](assets/new.png)  
-- [2022-11-24-我的-11-寸-pro-黑屏没反应了](https://www.v2ex.com/t/897681) ![](assets/new.png)  
-- [2022-11-24-FY-技术中心官方总部直招：急需各种管理，技术架构/专家，远程！](https://www.v2ex.com/t/897679) ![](assets/new.png)  
-- [2022-11-24-「Goravel-上新」同时支持-Local,-OSS,-COS,-S3-的文件储存模块，还支持自定义，想存哪里存哪里！](https://www.v2ex.com/t/897677) ![](assets/new.png)  
-- [2022-11-24-公司交给我几个新的-Java-源码-没有文档-请问各位怎么可以快速入门能](https://www.v2ex.com/t/897676) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -562,8 +562,8 @@
 - [2022-11-24-推荐-10个非常好用的-JavaScript-动画库](https://toutiao.io/k/04l2hu7) ![](assets/new.png)  
 - [2022-11-24-就这？Redis-持久化策略：RDB](https://toutiao.io/k/ztfwgr1) ![](assets/new.png)  
 - [2022-11-24-浅谈数据和人工智能项目的管理](https://toutiao.io/k/oplz96z) ![](assets/new.png)  
-- [2022-11-24-推荐-一条-SQL-查询语句是如何执行的？](https://toutiao.io/k/8y71vds) ![](assets/new.png)  
 - [2022-11-24-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) ![](assets/new.png)  
+- [2022-11-24-推荐-一条-SQL-查询语句是如何执行的？](https://toutiao.io/k/8y71vds) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

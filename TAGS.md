@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-11-24 13:43:34。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-24 14:10:55。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -178,8 +178,8 @@
 - [【武汉肺炎防疫全纪录(财新网)】港府回应一63岁患者死亡事件-暂无法确定与疫苗相关](https://m.caixin.com/m/2021-03-03/101670052.html)
 - [【张鑫旭-鑫空间-鑫生活】JS之我用单img元素实现了图像resize拉伸效果](https://www.zhangxinxu.com/wordpress/2022/11/js-image-resize/)
 - [【张鑫旭-鑫空间-鑫生活】2022年新出了哪些form表单新特性？](https://www.zhangxinxu.com/wordpress/2022/10/2022-new-form-property/)
+- [【V2EX】Jump-Desktop-使用触控板滚动特别快,如何解决](https://www.v2ex.com/t/897710)
 - [【V2EX】做-App-+-H5-混合应用的请进，想听听看看](https://www.v2ex.com/t/897674)
-- [【V2EX】如何用-JavaScripte-和-HTML-实现一整套的考试答题卡和成绩表](https://www.v2ex.com/t/897654)
 - [【开发者头条】推荐-10个非常好用的-JavaScript-动画库](https://toutiao.io/k/04l2hu7)
 - [......【查看更多】......](./details/tags/javascript.md)
 
@@ -252,7 +252,6 @@
 
 
 
-- [【V2EX】求推荐一个性能比树莓派强点，但是价格不要太高的小主机做-terraria-服务器](https://www.v2ex.com/t/897661)
 - [【技术头条】如何基于-Prerender-为-SPA-做-SEO-优化-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=15414&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fhow-to-optimize-seo-for-spa-based-on-prerender%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/optimization.md)
 

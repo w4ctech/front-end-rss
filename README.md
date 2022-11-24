@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-24 08:16:02，:rocket: 更新条数: +2010， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-24 08:41:25，:rocket: 更新条数: +2010， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-11-24-无论哪个公司换了-CTO-或者架构师，系统必然迎来一波重构](https://www.v2ex.com/t/897620) ![](assets/new.png)  
+- [2022-11-24-显示器吧怎么了](https://www.v2ex.com/t/897618) ![](assets/new.png)  
+- [2022-11-24-请教下网盘数据安全问题](https://www.v2ex.com/t/897617) ![](assets/new.png)  
+- [2022-11-24-2022-年底了，-V-友们有啥好游戏可推荐否](https://www.v2ex.com/t/897616) ![](assets/new.png)  
+- [2022-11-24-中国天气网域名下居然会有这样的页面](https://www.v2ex.com/t/897614) ![](assets/new.png)  
+- [2022-11-24-广州/远程/佛系求职-最近更新了简历-and-一些疑问，大佬们帮忙指点一下](https://www.v2ex.com/t/897613) ![](assets/new.png)  
 - [2022-11-24-大盘鸡GreenCloud-黑五折扣](https://www.v2ex.com/t/897611) ![](assets/new.png)  
 - [2022-11-24-求助！搭梯子后如何不受影响的访问国内网站？-clash-for-windows](https://www.v2ex.com/t/897609) ![](assets/new.png)  
 - [2022-11-24-昨天晚上家里的宽带电视突然没有-cctv5-了](https://www.v2ex.com/t/897608) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-11-24-请教一下存储过程版本管理和发布的最佳实践](https://www.v2ex.com/t/897595) ![](assets/new.png)  
 - [2022-11-24-长期远程办公招资深-DBA-数据库工程师，薪资-35-52K！各类工程师远程职都在开放](https://www.v2ex.com/t/897594) ![](assets/new.png)  
 - [2022-11-24-出-yubikey-5-和-5c，-170-180-一个](https://www.v2ex.com/t/897593) ![](assets/new.png)  
-- [2022-11-24-运维穿搭指南](https://www.v2ex.com/t/897592) ![](assets/new.png)  
-- [2022-11-24-Copilot-登录完成后没有代码提示](https://www.v2ex.com/t/897587) ![](assets/new.png)  
-- [2022-11-24-「远程工作」游戏档案系统招聘后端工程师/月薪-20-30K-RMB](https://www.v2ex.com/t/897586) ![](assets/new.png)  
-- [2022-11-24-C++代码问题咨询](https://www.v2ex.com/t/897584) ![](assets/new.png)  
-- [2022-11-24-关于-WhatsApp](https://www.v2ex.com/t/897583) ![](assets/new.png)  
-- [2022-11-24-给你们说一下美国亚马逊的价格政策，是怎样坑老用户的](https://www.v2ex.com/t/897581) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

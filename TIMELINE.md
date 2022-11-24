@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-24 08:16:02。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-24 08:41:26。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -71,6 +71,12 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-11-20-JS之我用单img元素实现了图像resize拉伸效果](https://www.zhangxinxu.com/wordpress/2022/11/js-image-resize/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-24-无论哪个公司换了-CTO-或者架构师，系统必然迎来一波重构](https://www.v2ex.com/t/897620) 
+- [【V2EX】2022-11-24-显示器吧怎么了](https://www.v2ex.com/t/897618) 
+- [【V2EX】2022-11-24-请教下网盘数据安全问题](https://www.v2ex.com/t/897617) 
+- [【V2EX】2022-11-24-2022-年底了，-V-友们有啥好游戏可推荐否](https://www.v2ex.com/t/897616) 
+- [【V2EX】2022-11-24-中国天气网域名下居然会有这样的页面](https://www.v2ex.com/t/897614) 
+- [【V2EX】2022-11-24-广州/远程/佛系求职-最近更新了简历-and-一些疑问，大佬们帮忙指点一下](https://www.v2ex.com/t/897613) 
 - [【V2EX】2022-11-24-大盘鸡GreenCloud-黑五折扣](https://www.v2ex.com/t/897611) 
 - [【V2EX】2022-11-24-求助！搭梯子后如何不受影响的访问国内网站？-clash-for-windows](https://www.v2ex.com/t/897609) 
 - [【V2EX】2022-11-24-昨天晚上家里的宽带电视突然没有-cctv5-了](https://www.v2ex.com/t/897608) 
@@ -98,12 +104,6 @@
 - [【V2EX】2022-11-24-现在这个内容年代，发现不会写标题和摘要的人越来越多了](https://www.v2ex.com/t/897574) 
 - [【V2EX】2022-11-24-macos-照片-app-里的照片怎么选取上传？](https://www.v2ex.com/t/897573) 
 - [【V2EX】2022-11-24-出搬瓦工-2018-双十一-vps](https://www.v2ex.com/t/897572) 
-- [【V2EX】2022-11-24-改了-pnbf-键位到-hjkl，发现体验挺割裂的。。。](https://www.v2ex.com/t/897570) 
-- [【V2EX】2022-11-24-System-Design-学习路径](https://www.v2ex.com/t/897568) 
-- [【V2EX】2022-11-24-用完即走的-pastebin-支持-txt,html-markdown](https://www.v2ex.com/t/897566) 
-- [【V2EX】2022-11-24-为什么-navicat-连接某个-mysql-库很慢，程序中连接很快](https://www.v2ex.com/t/897565) 
-- [【V2EX】2022-11-24-找远程后端工作,求介绍](https://www.v2ex.com/t/897563) 
-- [【V2EX】2022-11-24-有个上位机软件开发私活需求](https://www.v2ex.com/t/897562) 
 - [【技术头条】2022-11-24-当我们谈论DDD时我们在谈论什么-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15415&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fstrategy-and-tactical-design-of-ddd%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-24-如何基于-Prerender-为-SPA-做-SEO-优化-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=15414&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fhow-to-optimize-seo-for-spa-based-on-prerender%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-24-2022，「倾城之链」运营第-6-年感记-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=15413&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fnicelinks-site-in-2022%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

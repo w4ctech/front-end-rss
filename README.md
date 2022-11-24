@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-24 03:23:01，:rocket: 更新条数: +2014， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-24 03:44:14，:rocket: 更新条数: +2013， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-11-24-为什么分应用代理-Google-翻译不生效](https://www.v2ex.com/t/897554) ![](assets/new.png)  
+- [2022-11-24-因为工作原因要去北京入职，目前在深圳，求推荐解弹窗-3-路线。](https://www.v2ex.com/t/897553) ![](assets/new.png)  
+- [2022-11-24-用-chrome-浏览-twitter-时的简体字特别细，大佬们有没有解决的办法。](https://www.v2ex.com/t/897552) ![](assets/new.png)  
+- [2022-11-24-Apple-One-美区超大杯开车-五缺一](https://www.v2ex.com/t/897550) ![](assets/new.png)  
+- [2022-11-24-关于-coturn---turn-的授权的一些疑惑](https://www.v2ex.com/t/897549) ![](assets/new.png)  
+- [2022-11-24-分享一款壁纸小程序，需要的朋友可以取一下，咸鱼买的](https://www.v2ex.com/t/897547) ![](assets/new.png)  
 - [2022-11-24-国足为啥这么烂?](https://www.v2ex.com/t/897544) ![](assets/new.png)  
 - [2022-11-24-微信提示文件存在安全风险](https://www.v2ex.com/t/897543) ![](assets/new.png)  
 - [2022-11-24-阿里云双-11-是开始搞歧视了吗？](https://www.v2ex.com/t/897542) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-11-24-请教一下，金粉与雏黄](https://www.v2ex.com/t/897529) ![](assets/new.png)  
 - [2022-11-24-前后端结合解决-Excel-海量公式计算的性能问题](https://www.v2ex.com/t/897528) ![](assets/new.png)  
 - [2022-11-24-两室一厅标户，吸顶-ap-效果如何？](https://www.v2ex.com/t/897527) ![](assets/new.png)  
-- [2022-11-24-流媒体黑五优惠汇总，-AMC-Plus：$1.99-得两个月，-Disney-涨价](https://www.v2ex.com/t/897526) ![](assets/new.png)  
-- [2022-11-24-安装-vmware-fusion-13-启动闪退的问题，可以看下这个方法](https://www.v2ex.com/t/897524) ![](assets/new.png)  
-- [2022-11-24-分享一个简单的提高工作效率的方法](https://www.v2ex.com/t/897523) ![](assets/new.png)  
-- [2022-11-24-Outlook-网页版-转发设置无法保存，有大佬能分析下是啥原因么](https://www.v2ex.com/t/897522) ![](assets/new.png)  
-- [2022-11-24-你们-M1-有没有碰到更新-macOS13-后电脑给手机/pad-充电速率很慢](https://www.v2ex.com/t/897521) ![](assets/new.png)  
-- [2022-11-24-2022-年了，有什么好用的记录笔记的软件？](https://www.v2ex.com/t/897520) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -549,11 +549,11 @@
 - [2022-11-24-想要做好代码质量，如何破局？](https://toutiao.io/k/s9s8hub) ![](assets/new.png)  
 - [2022-11-24-异常检测算法分类总结（含常用开源数据集）](https://toutiao.io/k/klv044a) ![](assets/new.png)  
 - [2022-11-24-零拷贝技术第二篇：Go-语言中的应用](https://toutiao.io/k/6bnvoqn) ![](assets/new.png)  
-- [2022-11-24-现代化-C-使用体验](https://toutiao.io/k/nz0xzfo) ![](assets/new.png)  
 - [2022-11-24-判断线程池是否全部完成的-5-种方法，还有谁不会？？](https://toutiao.io/k/w4f2muf) ![](assets/new.png)  
+- [2022-11-24-现代化-C-使用体验](https://toutiao.io/k/nz0xzfo) ![](assets/new.png)  
+- [2022-11-24-Rust-在前端：环境配置](https://toutiao.io/k/7lzi5zt) ![](assets/new.png)  
 - [2022-11-24-零信任实战架构总结](https://toutiao.io/k/u9v4cma) ![](assets/new.png)  
 - [2022-11-24-vivo-大数据日志采集-Agent-设计实践](https://toutiao.io/k/mvjlbxe) ![](assets/new.png)  
-- [2022-11-24-Rust-在前端：环境配置](https://toutiao.io/k/7lzi5zt) ![](assets/new.png)  
 - [2022-11-24-总结一些-Spark-处理小-trick](https://toutiao.io/k/fbsn4e5) ![](assets/new.png)  
 - [2022-11-24-读《Understanding-Real-World-Concurrency-Bugs-in-Go》](https://toutiao.io/k/6fcoxmx) ![](assets/new.png)  
 - [2022-11-24-领域驱动设计四论](https://toutiao.io/k/h2v5bdk) ![](assets/new.png)  

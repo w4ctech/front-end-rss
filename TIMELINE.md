@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-24 07:35:06。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-24 08:16:02。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -71,6 +71,11 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-11-20-JS之我用单img元素实现了图像resize拉伸效果](https://www.zhangxinxu.com/wordpress/2022/11/js-image-resize/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-24-大盘鸡GreenCloud-黑五折扣](https://www.v2ex.com/t/897611) 
+- [【V2EX】2022-11-24-求助！搭梯子后如何不受影响的访问国内网站？-clash-for-windows](https://www.v2ex.com/t/897609) 
+- [【V2EX】2022-11-24-昨天晚上家里的宽带电视突然没有-cctv5-了](https://www.v2ex.com/t/897608) 
+- [【V2EX】2022-11-24-求，适合程序员实用类小工具。mbp](https://www.v2ex.com/t/897604) 
+- [【V2EX】2022-11-24-上海外企Wiredcraft30k-40k*13-薪急招英文好的-React/Nextjs-前端开发](https://www.v2ex.com/t/897603) 
 - [【V2EX】2022-11-24-明天黑五了，有什么游戏推荐？](https://www.v2ex.com/t/897601) 
 - [【V2EX】2022-11-24-苹果为什么不解决-iPhone-信号弱的问题？](https://www.v2ex.com/t/897600) 
 - [【V2EX】2022-11-24-大家怎样买虚拟货币的](https://www.v2ex.com/t/897599) 
@@ -99,13 +104,7 @@
 - [【V2EX】2022-11-24-为什么-navicat-连接某个-mysql-库很慢，程序中连接很快](https://www.v2ex.com/t/897565) 
 - [【V2EX】2022-11-24-找远程后端工作,求介绍](https://www.v2ex.com/t/897563) 
 - [【V2EX】2022-11-24-有个上位机软件开发私活需求](https://www.v2ex.com/t/897562) 
-- [【V2EX】2022-11-24-Fav:-命令行收藏夹,-主要用于收藏文件/文件夹路径](https://www.v2ex.com/t/897561) 
-- [【V2EX】2022-11-24-北京-海外业务公司招聘，目前是线上面试，看机会的可以来试试](https://www.v2ex.com/t/897559) 
-- [【V2EX】2022-11-24-通过视频标题分析国人-xp](https://www.v2ex.com/t/897558) 
-- [【V2EX】2022-11-24-笔记软件-Craft-1-年订阅价-5-折优惠](https://www.v2ex.com/t/897557) 
-- [【V2EX】2022-11-24-为什么分应用代理-Google-翻译不生效](https://www.v2ex.com/t/897554) 
-- [【V2EX】2022-11-24-因为工作原因要去北京入职，目前在深圳，求推荐解弹窗-3-路线。](https://www.v2ex.com/t/897553) 
-- [【V2EX】2022-11-24-用-chrome-浏览-twitter-时的简体字特别细，大佬们有没有解决的办法。](https://www.v2ex.com/t/897552) 
+- [【技术头条】2022-11-24-当我们谈论DDD时我们在谈论什么-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15415&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fstrategy-and-tactical-design-of-ddd%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-24-如何基于-Prerender-为-SPA-做-SEO-优化-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=15414&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fhow-to-optimize-seo-for-spa-based-on-prerender%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-24-2022，「倾城之链」运营第-6-年感记-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=15413&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fnicelinks-site-in-2022%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-24-浅谈数据和人工智能项目的管理-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15412&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fproject-management-big-data-artificial-intelligence%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -134,8 +133,8 @@
 - [【开发者头条】2022-11-24-就这？Redis-持久化策略：RDB](https://toutiao.io/k/ztfwgr1) 
 - [【开发者头条】2022-11-24-浅谈数据和人工智能项目的管理](https://toutiao.io/k/oplz96z) 
 - [【开发者头条】2022-11-24-推荐-10个非常好用的-JavaScript-动画库](https://toutiao.io/k/04l2hu7) 
-- [【开发者头条】2022-11-24-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) 
 - [【开发者头条】2022-11-24-推荐-一条-SQL-查询语句是如何执行的？](https://toutiao.io/k/8y71vds) 
+- [【开发者头条】2022-11-24-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

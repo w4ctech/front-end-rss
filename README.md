@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-24 07:35:06，:rocket: 更新条数: +2011， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-24 08:16:02，:rocket: 更新条数: +2010， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-11-24-大盘鸡GreenCloud-黑五折扣](https://www.v2ex.com/t/897611) ![](assets/new.png)  
+- [2022-11-24-求助！搭梯子后如何不受影响的访问国内网站？-clash-for-windows](https://www.v2ex.com/t/897609) ![](assets/new.png)  
+- [2022-11-24-昨天晚上家里的宽带电视突然没有-cctv5-了](https://www.v2ex.com/t/897608) ![](assets/new.png)  
+- [2022-11-24-求，适合程序员实用类小工具。mbp](https://www.v2ex.com/t/897604) ![](assets/new.png)  
+- [2022-11-24-上海外企Wiredcraft30k-40k*13-薪急招英文好的-React/Nextjs-前端开发](https://www.v2ex.com/t/897603) ![](assets/new.png)  
 - [2022-11-24-明天黑五了，有什么游戏推荐？](https://www.v2ex.com/t/897601) ![](assets/new.png)  
 - [2022-11-24-苹果为什么不解决-iPhone-信号弱的问题？](https://www.v2ex.com/t/897600) ![](assets/new.png)  
 - [2022-11-24-大家怎样买虚拟货币的](https://www.v2ex.com/t/897599) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-11-24-C++代码问题咨询](https://www.v2ex.com/t/897584) ![](assets/new.png)  
 - [2022-11-24-关于-WhatsApp](https://www.v2ex.com/t/897583) ![](assets/new.png)  
 - [2022-11-24-给你们说一下美国亚马逊的价格政策，是怎样坑老用户的](https://www.v2ex.com/t/897581) ![](assets/new.png)  
-- [2022-11-24-存在不会被屏蔽分享也没被墙的在线表格吗？](https://www.v2ex.com/t/897580) ![](assets/new.png)  
-- [2022-11-24-黑五就在这两天,-VPS/-软件服务/-机场/-域名服务商-有哪些推荐的呢?](https://www.v2ex.com/t/897577) ![](assets/new.png)  
-- [2022-11-24-微博：“微信-macos-版有个-log-的目录，占我了近-1GB-的空间”](https://www.v2ex.com/t/897576) ![](assets/new.png)  
-- [2022-11-24-SONY-电视小微这么卸载](https://www.v2ex.com/t/897575) ![](assets/new.png)  
-- [2022-11-24-现在这个内容年代，发现不会写标题和摘要的人越来越多了](https://www.v2ex.com/t/897574) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -522,6 +522,7 @@
 </summary>
 
 
+- [2022-11-24-当我们谈论DDD时我们在谈论什么-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15415&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fstrategy-and-tactical-design-of-ddd%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-11-24-如何基于-Prerender-为-SPA-做-SEO-优化-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=15414&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fhow-to-optimize-seo-for-spa-based-on-prerender%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-11-24-2022，「倾城之链」运营第-6-年感记-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=15413&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fnicelinks-site-in-2022%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-11-24-浅谈数据和人工智能项目的管理-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15412&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fproject-management-big-data-artificial-intelligence%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
@@ -561,8 +562,8 @@
 - [2022-11-24-就这？Redis-持久化策略：RDB](https://toutiao.io/k/ztfwgr1) ![](assets/new.png)  
 - [2022-11-24-浅谈数据和人工智能项目的管理](https://toutiao.io/k/oplz96z) ![](assets/new.png)  
 - [2022-11-24-推荐-10个非常好用的-JavaScript-动画库](https://toutiao.io/k/04l2hu7) ![](assets/new.png)  
-- [2022-11-24-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) ![](assets/new.png)  
 - [2022-11-24-推荐-一条-SQL-查询语句是如何执行的？](https://toutiao.io/k/8y71vds) ![](assets/new.png)  
+- [2022-11-24-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

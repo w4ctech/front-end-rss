@@ -9953,6 +9953,31 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "[大盘鸡]GreenCloud 黑五折扣",
+        "link": "https://www.v2ex.com/t/897611",
+        "date": "2022-11-24"
+      },
+      {
+        "title": "求助！搭梯子后如何不受影响的访问国内网站？ clash for windows",
+        "link": "https://www.v2ex.com/t/897609",
+        "date": "2022-11-24"
+      },
+      {
+        "title": "昨天晚上家里的宽带电视突然没有 cctv5 了",
+        "link": "https://www.v2ex.com/t/897608",
+        "date": "2022-11-24"
+      },
+      {
+        "title": "求，适合程序员实用类小工具。mbp",
+        "link": "https://www.v2ex.com/t/897604",
+        "date": "2022-11-24"
+      },
+      {
+        "title": "[上海外企][Wiredcraft]30k-40k*13 薪急招英文好的 React/Nextjs 前端开发",
+        "link": "https://www.v2ex.com/t/897603",
+        "date": "2022-11-24"
+      },
+      {
         "title": "明天黑五了，有什么游戏推荐？",
         "link": "https://www.v2ex.com/t/897601",
         "date": "2022-11-24"
@@ -10091,41 +10116,6 @@
         "title": "有个上位机软件开发私活需求",
         "link": "https://www.v2ex.com/t/897562",
         "date": "2022-11-24"
-      },
-      {
-        "title": "Fav: 命令行收藏夹, 主要用于收藏文件/文件夹路径",
-        "link": "https://www.v2ex.com/t/897561",
-        "date": "2022-11-24"
-      },
-      {
-        "title": "[北京] 海外业务公司招聘，目前是线上面试，看机会的可以来试试",
-        "link": "https://www.v2ex.com/t/897559",
-        "date": "2022-11-24"
-      },
-      {
-        "title": "通过视频标题分析国人 xp",
-        "link": "https://www.v2ex.com/t/897558",
-        "date": "2022-11-24"
-      },
-      {
-        "title": "笔记软件 Craft 1 年订阅价 5 折优惠",
-        "link": "https://www.v2ex.com/t/897557",
-        "date": "2022-11-24"
-      },
-      {
-        "title": "为什么分应用代理 Google 翻译不生效",
-        "link": "https://www.v2ex.com/t/897554",
-        "date": "2022-11-24"
-      },
-      {
-        "title": "因为工作原因要去北京入职，目前在深圳，求推荐解弹窗 3 路线。",
-        "link": "https://www.v2ex.com/t/897553",
-        "date": "2022-11-24"
-      },
-      {
-        "title": "用 chrome 浏览 twitter 时的简体字特别细，大佬们有没有解决的办法。",
-        "link": "https://www.v2ex.com/t/897552",
-        "date": "2022-11-24"
       }
     ]
   },
@@ -10134,6 +10124,11 @@
     "title": "技术头条",
     "link": "http://blogread.cn/news/newest.php",
     "items": [
+      {
+        "title": "当我们谈论DDD时我们在谈论什么 (insights.thoughtworks.cn)",
+        "link": "https://blogread.cn/news/go.php?idItem=15415&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fstrategy-and-tactical-design-of-ddd%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2022-11-24"
+      },
       {
         "title": "如何基于 Prerender 为 SPA 做 SEO 优化 (quickapp.lovejade.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=15414&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fhow-to-optimize-seo-for-spa-based-on-prerender%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
@@ -10282,13 +10277,13 @@
         "date": "2022-11-24"
       },
       {
-        "title": "[推荐] 最适合程序员的画图工具？",
-        "link": "https://toutiao.io/k/hlv8j4z",
+        "title": "[推荐] 一条 SQL 查询语句是如何执行的？",
+        "link": "https://toutiao.io/k/8y71vds",
         "date": "2022-11-24"
       },
       {
-        "title": "[推荐] 一条 SQL 查询语句是如何执行的？",
-        "link": "https://toutiao.io/k/8y71vds",
+        "title": "[推荐] 最适合程序员的画图工具？",
+        "link": "https://toutiao.io/k/hlv8j4z",
         "date": "2022-11-24"
       }
     ]

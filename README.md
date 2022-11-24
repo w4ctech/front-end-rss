@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-24 10:12:57，:rocket: 更新条数: +2013， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-24 10:38:55，:rocket: 更新条数: +2016， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-11-24-随缘卖些家里的脐橙，回复抽奖三箱！](https://www.v2ex.com/t/897658) ![](assets/new.png)  
+- [2022-11-24-河北三家运营商资费比较，不对比-22-年之前资费](https://www.v2ex.com/t/897657) ![](assets/new.png)  
+- [2022-11-24-ipv6-环境访问-V2EX-的奇怪问题](https://www.v2ex.com/t/897656) ![](assets/new.png)  
+- [2022-11-24-国外有没有-cnbeta-类似的网站？](https://www.v2ex.com/t/897655) ![](assets/new.png)  
+- [2022-11-24-如何用-JavaScripte-和-HTML-实现一整套的考试答题卡和成绩表](https://www.v2ex.com/t/897654) ![](assets/new.png)  
+- [2022-11-24-知网出的“全球学术快报”应用，可以把-CAJ-文件另存为成-PDF](https://www.v2ex.com/t/897653) ![](assets/new.png)  
 - [2022-11-24-哪里可以看到-4K-的-CCTV5-球赛](https://www.v2ex.com/t/897652) ![](assets/new.png)  
 - [2022-11-24-求教-不限语言-排列组合-按照重复率低优先靠前-有啥好的算法么](https://www.v2ex.com/t/897650) ![](assets/new.png)  
 - [2022-11-24-光猫的拨号和-iptv-是不同的网口，如何单路由双网线配置局域网播-iptv-呢？](https://www.v2ex.com/t/897649) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-11-24-如何低成本搞一个视频会议系统和视频监控系统](https://www.v2ex.com/t/897639) ![](assets/new.png)  
 - [2022-11-24-有没有免费的云服务器](https://www.v2ex.com/t/897637) ![](assets/new.png)  
 - [2022-11-24-远程类软件一段时间后就打不开。](https://www.v2ex.com/t/897636) ![](assets/new.png)  
-- [2022-11-24-RSS3-is-Looking-for-a-DBA-Developer](https://www.v2ex.com/t/897635) ![](assets/new.png)  
-- [2022-11-24-Chrome-103-支持使用本地字体，纯前端导出-PDF-优化](https://www.v2ex.com/t/897634) ![](assets/new.png)  
-- [2022-11-24-每年一问，毕设不知道做什么](https://www.v2ex.com/t/897633) ![](assets/new.png)  
-- [2022-11-24-大家攒新电脑后是怎么装驱动的？](https://www.v2ex.com/t/897632) ![](assets/new.png)  
-- [2022-11-24-求教，对于一些本身不支持-baseurl/prefix-的-Web-应用来说，如何简单地配置反向代理？](https://www.v2ex.com/t/897631) ![](assets/new.png)  
-- [2022-11-24-想问一下有没有用于解决-NAT-问题的国内-VPS-推荐](https://www.v2ex.com/t/897629) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -556,14 +556,14 @@
 - [2022-11-24-Rust-在前端：环境配置](https://toutiao.io/k/7lzi5zt) ![](assets/new.png)  
 - [2022-11-24-零信任实战架构总结](https://toutiao.io/k/u9v4cma) ![](assets/new.png)  
 - [2022-11-24-vivo-大数据日志采集-Agent-设计实践](https://toutiao.io/k/mvjlbxe) ![](assets/new.png)  
-- [2022-11-24-总结一些-Spark-处理小-trick](https://toutiao.io/k/fbsn4e5) ![](assets/new.png)  
 - [2022-11-24-领域驱动设计四论](https://toutiao.io/k/h2v5bdk) ![](assets/new.png)  
+- [2022-11-24-总结一些-Spark-处理小-trick](https://toutiao.io/k/fbsn4e5) ![](assets/new.png)  
 - [2022-11-24-图解-|-监控系统-Prometheus-的原理](https://toutiao.io/k/n83tqk7) ![](assets/new.png)  
 - [2022-11-24-就这？Redis-持久化策略：RDB](https://toutiao.io/k/ztfwgr1) ![](assets/new.png)  
 - [2022-11-24-浅谈数据和人工智能项目的管理](https://toutiao.io/k/oplz96z) ![](assets/new.png)  
 - [2022-11-24-推荐-10个非常好用的-JavaScript-动画库](https://toutiao.io/k/04l2hu7) ![](assets/new.png)  
-- [2022-11-24-推荐-一条-SQL-查询语句是如何执行的？](https://toutiao.io/k/8y71vds) ![](assets/new.png)  
 - [2022-11-24-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) ![](assets/new.png)  
+- [2022-11-24-推荐-一条-SQL-查询语句是如何执行的？](https://toutiao.io/k/8y71vds) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

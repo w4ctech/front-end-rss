@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-24 17:10:55，:rocket: 更新条数: +2015， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-24 17:36:15，:rocket: 更新条数: +2015， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-11-24-广州电信新套餐-2000-下-100-上](https://www.v2ex.com/t/897743) ![](assets/new.png)  
+- [2022-11-24-抖音直播自动下载](https://www.v2ex.com/t/897742) ![](assets/new.png)  
 - [2022-11-24-该不该抵制-iPhone](https://www.v2ex.com/t/897741) ![](assets/new.png)  
 - [2022-11-24-记录-自己弄伤自己的瞬间](https://www.v2ex.com/t/897738) ![](assets/new.png)  
 - [2022-11-24-20221125-午夜俱乐部](https://www.v2ex.com/t/897736) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-11-24-我这个爬虫是否违法？](https://www.v2ex.com/t/897720) ![](assets/new.png)  
 - [2022-11-24-env-sort-环境变量整理工具,-强迫症一本满足](https://www.v2ex.com/t/897719) ![](assets/new.png)  
 - [2022-11-24-你上一次流泪是什么时候？](https://www.v2ex.com/t/897718) ![](assets/new.png)  
-- [2022-11-24-BUFFALO-巴法络-大号-u-盘-1tb-600](https://www.v2ex.com/t/897717) ![](assets/new.png)  
-- [2022-11-24-mail.app-设置里的扩展是什么意思?](https://www.v2ex.com/t/897715) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -562,8 +562,8 @@
 - [2022-11-24-总结一些-Spark-处理小-trick](https://toutiao.io/k/fbsn4e5) ![](assets/new.png)  
 - [2022-11-24-就这？Redis-持久化策略：RDB](https://toutiao.io/k/ztfwgr1) ![](assets/new.png)  
 - [2022-11-24-浅谈数据和人工智能项目的管理](https://toutiao.io/k/oplz96z) ![](assets/new.png)  
-- [2022-11-24-推荐-万字长文细说-Code-Review-的正确姿势](https://toutiao.io/k/cxf9ver) ![](assets/new.png)  
 - [2022-11-24-推荐-一条-SQL-查询语句是如何执行的？](https://toutiao.io/k/8y71vds) ![](assets/new.png)  
+- [2022-11-24-推荐-万字长文细说-Code-Review-的正确姿势](https://toutiao.io/k/cxf9ver) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

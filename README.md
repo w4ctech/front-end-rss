@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-24 09:36:39，:rocket: 更新条数: +2011， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-24 10:12:57，:rocket: 更新条数: +2013， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,18 @@
 </summary>
 
 
+- [2022-11-24-哪里可以看到-4K-的-CCTV5-球赛](https://www.v2ex.com/t/897652) ![](assets/new.png)  
+- [2022-11-24-求教-不限语言-排列组合-按照重复率低优先靠前-有啥好的算法么](https://www.v2ex.com/t/897650) ![](assets/new.png)  
+- [2022-11-24-光猫的拨号和-iptv-是不同的网口，如何单路由双网线配置局域网播-iptv-呢？](https://www.v2ex.com/t/897649) ![](assets/new.png)  
+- [2022-11-24-才发现微信-PC-端聊天记录不能恢复到手机啊](https://www.v2ex.com/t/897648) ![](assets/new.png)  
+- [2022-11-24-第三方-app-拍摄的-ProRaw-格式图片无法上传-icloud](https://www.v2ex.com/t/897647) ![](assets/new.png)  
+- [2022-11-24-有没有什么翻译可以完美翻译基于-typec-下的一设备多协议拓展坞以及多设备供电需求的“一线通”三个字](https://www.v2ex.com/t/897646) ![](assets/new.png)  
+- [2022-11-24-边搜边看-无需打开标签页就可以预览搜索结果，请大家体验-吐槽-拍砖，做得好就留下一个评论](https://www.v2ex.com/t/897644) ![](assets/new.png)  
+- [2022-11-24-个人作品-轻下载：一个解析各大平台音频，图片，视频的效率工具-APP](https://www.v2ex.com/t/897643) ![](assets/new.png)  
+- [2022-11-24-谷歌要废掉-Street-View-的独立应用了，求可替代的-360-拍照软件](https://www.v2ex.com/t/897642) ![](assets/new.png)  
+- [2022-11-24-请教个-du-df-ls-磁盘满的问题](https://www.v2ex.com/t/897641) ![](assets/new.png)  
+- [2022-11-24-macos-系统的主题色（强调色）可以自定义吗](https://www.v2ex.com/t/897640) ![](assets/new.png)  
+- [2022-11-24-如何低成本搞一个视频会议系统和视频监控系统](https://www.v2ex.com/t/897639) ![](assets/new.png)  
 - [2022-11-24-有没有免费的云服务器](https://www.v2ex.com/t/897637) ![](assets/new.png)  
 - [2022-11-24-远程类软件一段时间后就打不开。](https://www.v2ex.com/t/897636) ![](assets/new.png)  
 - [2022-11-24-RSS3-is-Looking-for-a-DBA-Developer](https://www.v2ex.com/t/897635) ![](assets/new.png)  
@@ -499,18 +511,6 @@
 - [2022-11-24-大家攒新电脑后是怎么装驱动的？](https://www.v2ex.com/t/897632) ![](assets/new.png)  
 - [2022-11-24-求教，对于一些本身不支持-baseurl/prefix-的-Web-应用来说，如何简单地配置反向代理？](https://www.v2ex.com/t/897631) ![](assets/new.png)  
 - [2022-11-24-想问一下有没有用于解决-NAT-问题的国内-VPS-推荐](https://www.v2ex.com/t/897629) ![](assets/new.png)  
-- [2022-11-24-全球头部量化-base-上海一个-SDM（算法工程化实现方向）岗位，-10-年左右经验起（coding-和-team-管理双在线），-985-本硕起，非量化背景出身也-ok](https://www.v2ex.com/t/897628) ![](assets/new.png)  
-- [2022-11-24-PHP-编译器-BPC-6.0-发布,支持-namespace,支持-closure,成功编译-workerman](https://www.v2ex.com/t/897626) ![](assets/new.png)  
-- [2022-11-24-比较好奇，各个级别的医生都是怎么-"debug"-的？](https://www.v2ex.com/t/897625) ![](assets/new.png)  
-- [2022-11-24-明天黑五了，有什么值得推荐买的](https://www.v2ex.com/t/897624) ![](assets/new.png)  
-- [2022-11-24-斗胆推荐一款-win-平板](https://www.v2ex.com/t/897621) ![](assets/new.png)  
-- [2022-11-24-无论哪个公司换了-CTO-或者架构师，系统必然迎来一波重构](https://www.v2ex.com/t/897620) ![](assets/new.png)  
-- [2022-11-24-显示器吧怎么了](https://www.v2ex.com/t/897618) ![](assets/new.png)  
-- [2022-11-24-请教下网盘数据安全问题](https://www.v2ex.com/t/897617) ![](assets/new.png)  
-- [2022-11-24-2022-年底了，-V-友们有啥好游戏可推荐否](https://www.v2ex.com/t/897616) ![](assets/new.png)  
-- [2022-11-24-中国天气网域名下居然会有这样的页面](https://www.v2ex.com/t/897614) ![](assets/new.png)  
-- [2022-11-24-广州/远程/佛系求职-最近更新了简历-and-一些疑问，大佬们帮忙指点一下](https://www.v2ex.com/t/897613) ![](assets/new.png)  
-- [2022-11-24-大盘鸡GreenCloud-黑五折扣](https://www.v2ex.com/t/897611) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -551,8 +551,8 @@
 - [2022-11-24-现代化-C-使用体验](https://toutiao.io/k/nz0xzfo) ![](assets/new.png)  
 - [2022-11-24-零拷贝技术第二篇：Go-语言中的应用](https://toutiao.io/k/6bnvoqn) ![](assets/new.png)  
 - [2022-11-24-判断线程池是否全部完成的-5-种方法，还有谁不会？？](https://toutiao.io/k/w4f2muf) ![](assets/new.png)  
-- [2022-11-24-异常检测算法分类总结（含常用开源数据集）](https://toutiao.io/k/klv044a) ![](assets/new.png)  
 - [2022-11-24-读《Understanding-Real-World-Concurrency-Bugs-in-Go》](https://toutiao.io/k/6fcoxmx) ![](assets/new.png)  
+- [2022-11-24-异常检测算法分类总结（含常用开源数据集）](https://toutiao.io/k/klv044a) ![](assets/new.png)  
 - [2022-11-24-Rust-在前端：环境配置](https://toutiao.io/k/7lzi5zt) ![](assets/new.png)  
 - [2022-11-24-零信任实战架构总结](https://toutiao.io/k/u9v4cma) ![](assets/new.png)  
 - [2022-11-24-vivo-大数据日志采集-Agent-设计实践](https://toutiao.io/k/mvjlbxe) ![](assets/new.png)  

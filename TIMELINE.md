@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-24 06:41:58。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-24 07:11:43。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -71,6 +71,12 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-11-20-JS之我用单img元素实现了图像resize拉伸效果](https://www.zhangxinxu.com/wordpress/2022/11/js-image-resize/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-24-光猫改桥接，红米路由器拨号，可以拿到-IPV6-却无法测通](https://www.v2ex.com/t/897597) 
+- [【V2EX】2022-11-24-提供-emby-的机场推荐](https://www.v2ex.com/t/897596) 
+- [【V2EX】2022-11-24-请教一下存储过程版本管理和发布的最佳实践](https://www.v2ex.com/t/897595) 
+- [【V2EX】2022-11-24-长期远程办公招资深-DBA-数据库工程师，薪资-35-52K！各类工程师远程职都在开放](https://www.v2ex.com/t/897594) 
+- [【V2EX】2022-11-24-出-yubikey-5-和-5c，-170-180-一个](https://www.v2ex.com/t/897593) 
+- [【V2EX】2022-11-24-运维穿搭指南](https://www.v2ex.com/t/897592) 
 - [【V2EX】2022-11-24-Copilot-登录完成后没有代码提示](https://www.v2ex.com/t/897587) 
 - [【V2EX】2022-11-24-「远程工作」游戏档案系统招聘后端工程师/月薪-20-30K-RMB](https://www.v2ex.com/t/897586) 
 - [【V2EX】2022-11-24-C++代码问题咨询](https://www.v2ex.com/t/897584) 
@@ -97,11 +103,6 @@
 - [【V2EX】2022-11-24-因为工作原因要去北京入职，目前在深圳，求推荐解弹窗-3-路线。](https://www.v2ex.com/t/897553) 
 - [【V2EX】2022-11-24-用-chrome-浏览-twitter-时的简体字特别细，大佬们有没有解决的办法。](https://www.v2ex.com/t/897552) 
 - [【V2EX】2022-11-24-关于-coturn---turn-的授权的一些疑惑](https://www.v2ex.com/t/897549) 
-- [【V2EX】2022-11-24-分享一款壁纸小程序，需要的朋友可以取一下，咸鱼买的](https://www.v2ex.com/t/897547) 
-- [【V2EX】2022-11-24-国足为啥这么烂?](https://www.v2ex.com/t/897544) 
-- [【V2EX】2022-11-24-微信提示文件存在安全风险](https://www.v2ex.com/t/897543) 
-- [【V2EX】2022-11-24-阿里云双-11-是开始搞歧视了吗？](https://www.v2ex.com/t/897542) 
-- [【V2EX】2022-11-24-检查单小帮手-TestFlight-周更新。支持图片微调，自定义识别指标](https://www.v2ex.com/t/897541) 
 - [【技术头条】2022-11-24-如何基于-Prerender-为-SPA-做-SEO-优化-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=15414&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fhow-to-optimize-seo-for-spa-based-on-prerender%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-24-2022，「倾城之链」运营第-6-年感记-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=15413&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fnicelinks-site-in-2022%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-24-浅谈数据和人工智能项目的管理-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15412&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fproject-management-big-data-artificial-intelligence%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -121,17 +122,17 @@
 - [【开发者头条】2022-11-24-判断线程池是否全部完成的-5-种方法，还有谁不会？？](https://toutiao.io/k/w4f2muf) 
 - [【开发者头条】2022-11-24-异常检测算法分类总结（含常用开源数据集）](https://toutiao.io/k/klv044a) 
 - [【开发者头条】2022-11-24-Rust-在前端：环境配置](https://toutiao.io/k/7lzi5zt) 
+- [【开发者头条】2022-11-24-读《Understanding-Real-World-Concurrency-Bugs-in-Go》](https://toutiao.io/k/6fcoxmx) 
 - [【开发者头条】2022-11-24-零信任实战架构总结](https://toutiao.io/k/u9v4cma) 
 - [【开发者头条】2022-11-24-vivo-大数据日志采集-Agent-设计实践](https://toutiao.io/k/mvjlbxe) 
 - [【开发者头条】2022-11-24-总结一些-Spark-处理小-trick](https://toutiao.io/k/fbsn4e5) 
-- [【开发者头条】2022-11-24-读《Understanding-Real-World-Concurrency-Bugs-in-Go》](https://toutiao.io/k/6fcoxmx) 
 - [【开发者头条】2022-11-24-领域驱动设计四论](https://toutiao.io/k/h2v5bdk) 
 - [【开发者头条】2022-11-24-图解-|-监控系统-Prometheus-的原理](https://toutiao.io/k/n83tqk7) 
 - [【开发者头条】2022-11-24-就这？Redis-持久化策略：RDB](https://toutiao.io/k/ztfwgr1) 
 - [【开发者头条】2022-11-24-浅谈数据和人工智能项目的管理](https://toutiao.io/k/oplz96z) 
 - [【开发者头条】2022-11-24-推荐-10个非常好用的-JavaScript-动画库](https://toutiao.io/k/04l2hu7) 
-- [【开发者头条】2022-11-24-推荐-一条-SQL-查询语句是如何执行的？](https://toutiao.io/k/8y71vds) 
 - [【开发者头条】2022-11-24-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) 
+- [【开发者头条】2022-11-24-推荐-一条-SQL-查询语句是如何执行的？](https://toutiao.io/k/8y71vds) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

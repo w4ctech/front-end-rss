@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-24 06:41:58，:rocket: 更新条数: +2007， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-24 07:11:43，:rocket: 更新条数: +2008， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-11-24-光猫改桥接，红米路由器拨号，可以拿到-IPV6-却无法测通](https://www.v2ex.com/t/897597) ![](assets/new.png)  
+- [2022-11-24-提供-emby-的机场推荐](https://www.v2ex.com/t/897596) ![](assets/new.png)  
+- [2022-11-24-请教一下存储过程版本管理和发布的最佳实践](https://www.v2ex.com/t/897595) ![](assets/new.png)  
+- [2022-11-24-长期远程办公招资深-DBA-数据库工程师，薪资-35-52K！各类工程师远程职都在开放](https://www.v2ex.com/t/897594) ![](assets/new.png)  
+- [2022-11-24-出-yubikey-5-和-5c，-170-180-一个](https://www.v2ex.com/t/897593) ![](assets/new.png)  
+- [2022-11-24-运维穿搭指南](https://www.v2ex.com/t/897592) ![](assets/new.png)  
 - [2022-11-24-Copilot-登录完成后没有代码提示](https://www.v2ex.com/t/897587) ![](assets/new.png)  
 - [2022-11-24-「远程工作」游戏档案系统招聘后端工程师/月薪-20-30K-RMB](https://www.v2ex.com/t/897586) ![](assets/new.png)  
 - [2022-11-24-C++代码问题咨询](https://www.v2ex.com/t/897584) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-11-24-出搬瓦工-2018-双十一-vps](https://www.v2ex.com/t/897572) ![](assets/new.png)  
 - [2022-11-24-改了-pnbf-键位到-hjkl，发现体验挺割裂的。。。](https://www.v2ex.com/t/897570) ![](assets/new.png)  
 - [2022-11-24-System-Design-学习路径](https://www.v2ex.com/t/897568) ![](assets/new.png)  
-- [2022-11-24-用完即走的-pastebin-支持-txt,html-markdown](https://www.v2ex.com/t/897566) ![](assets/new.png)  
-- [2022-11-24-为什么-navicat-连接某个-mysql-库很慢，程序中连接很快](https://www.v2ex.com/t/897565) ![](assets/new.png)  
-- [2022-11-24-找远程后端工作,求介绍](https://www.v2ex.com/t/897563) ![](assets/new.png)  
-- [2022-11-24-有个上位机软件开发私活需求](https://www.v2ex.com/t/897562) ![](assets/new.png)  
-- [2022-11-24-Fav:-命令行收藏夹,-主要用于收藏文件/文件夹路径](https://www.v2ex.com/t/897561) ![](assets/new.png)  
-- [2022-11-24-北京-海外业务公司招聘，目前是线上面试，看机会的可以来试试](https://www.v2ex.com/t/897559) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -552,17 +552,17 @@
 - [2022-11-24-判断线程池是否全部完成的-5-种方法，还有谁不会？？](https://toutiao.io/k/w4f2muf) ![](assets/new.png)  
 - [2022-11-24-异常检测算法分类总结（含常用开源数据集）](https://toutiao.io/k/klv044a) ![](assets/new.png)  
 - [2022-11-24-Rust-在前端：环境配置](https://toutiao.io/k/7lzi5zt) ![](assets/new.png)  
+- [2022-11-24-读《Understanding-Real-World-Concurrency-Bugs-in-Go》](https://toutiao.io/k/6fcoxmx) ![](assets/new.png)  
 - [2022-11-24-零信任实战架构总结](https://toutiao.io/k/u9v4cma) ![](assets/new.png)  
 - [2022-11-24-vivo-大数据日志采集-Agent-设计实践](https://toutiao.io/k/mvjlbxe) ![](assets/new.png)  
 - [2022-11-24-总结一些-Spark-处理小-trick](https://toutiao.io/k/fbsn4e5) ![](assets/new.png)  
-- [2022-11-24-读《Understanding-Real-World-Concurrency-Bugs-in-Go》](https://toutiao.io/k/6fcoxmx) ![](assets/new.png)  
 - [2022-11-24-领域驱动设计四论](https://toutiao.io/k/h2v5bdk) ![](assets/new.png)  
 - [2022-11-24-图解-|-监控系统-Prometheus-的原理](https://toutiao.io/k/n83tqk7) ![](assets/new.png)  
 - [2022-11-24-就这？Redis-持久化策略：RDB](https://toutiao.io/k/ztfwgr1) ![](assets/new.png)  
 - [2022-11-24-浅谈数据和人工智能项目的管理](https://toutiao.io/k/oplz96z) ![](assets/new.png)  
 - [2022-11-24-推荐-10个非常好用的-JavaScript-动画库](https://toutiao.io/k/04l2hu7) ![](assets/new.png)  
-- [2022-11-24-推荐-一条-SQL-查询语句是如何执行的？](https://toutiao.io/k/8y71vds) ![](assets/new.png)  
 - [2022-11-24-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) ![](assets/new.png)  
+- [2022-11-24-推荐-一条-SQL-查询语句是如何执行的？](https://toutiao.io/k/8y71vds) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

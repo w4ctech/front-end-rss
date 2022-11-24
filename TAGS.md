@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-11-24 08:41:26。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-24 09:12:14。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -181,6 +181,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】港府回应一63岁患者死亡事件-暂无法确定与疫苗相关](https://m.caixin.com/m/2021-03-03/101670052.html)
 - [【张鑫旭-鑫空间-鑫生活】JS之我用单img元素实现了图像resize拉伸效果](https://www.zhangxinxu.com/wordpress/2022/11/js-image-resize/)
 - [【张鑫旭-鑫空间-鑫生活】2022年新出了哪些form表单新特性？](https://www.zhangxinxu.com/wordpress/2022/10/2022-new-form-property/)
+- [【V2EX】PHP-编译器-BPC-6.0-发布,支持-namespace,支持-closure,成功编译-workerman](https://www.v2ex.com/t/897626)
 - [【V2EX】光猫改桥接，红米路由器拨号，可以拿到-IPV6-却无法测通](https://www.v2ex.com/t/897597)
 - [【开发者头条】推荐-10个非常好用的-JavaScript-动画库](https://toutiao.io/k/04l2hu7)
 - [......【查看更多】......](./details/tags/javascript.md)
@@ -252,6 +253,7 @@
 
 
 
+- [【V2EX】Chrome-103-支持使用本地字体，纯前端导出-PDF-优化](https://www.v2ex.com/t/897634)
 - [【技术头条】如何基于-Prerender-为-SPA-做-SEO-优化-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=15414&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fhow-to-optimize-seo-for-spa-based-on-prerender%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/optimization.md)
 
@@ -275,6 +277,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】腺病毒新冠疫苗引安全忧虑-康希诺称未发现血栓病例](https://m.caixin.com/m/2021-04-14/101691086.html)
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
+- [【V2EX】求教，对于一些本身不支持-baseurl/prefix-的-Web-应用来说，如何简单地配置反向代理？](https://www.v2ex.com/t/897631)
 - [【V2EX】请教下网盘数据安全问题](https://www.v2ex.com/t/897617)
 - [【技术头条】团队的Code-Review实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15409&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-code-review%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/browser.md)
@@ -293,6 +296,7 @@
 
 
 
+- [【V2EX】全球头部量化-base-上海一个-SDM（算法工程化实现方向）岗位，-10-年左右经验起（coding-和-team-管理双在线），-985-本硕起，非量化背景出身也-ok](https://www.v2ex.com/t/897628)
 - [【开发者头条】异常检测算法分类总结（含常用开源数据集）](https://toutiao.io/k/klv044a)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 

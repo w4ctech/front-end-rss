@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-24 08:41:25，:rocket: 更新条数: +2010， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-24 09:12:14，:rocket: 更新条数: +2010， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,16 @@
 </summary>
 
 
+- [2022-11-24-Chrome-103-支持使用本地字体，纯前端导出-PDF-优化](https://www.v2ex.com/t/897634) ![](assets/new.png)  
+- [2022-11-24-每年一问，毕设不知道做什么](https://www.v2ex.com/t/897633) ![](assets/new.png)  
+- [2022-11-24-大家攒新电脑后是怎么装驱动的？](https://www.v2ex.com/t/897632) ![](assets/new.png)  
+- [2022-11-24-求教，对于一些本身不支持-baseurl/prefix-的-Web-应用来说，如何简单地配置反向代理？](https://www.v2ex.com/t/897631) ![](assets/new.png)  
+- [2022-11-24-想问一下有没有用于解决-NAT-问题的国内-VPS-推荐](https://www.v2ex.com/t/897629) ![](assets/new.png)  
+- [2022-11-24-全球头部量化-base-上海一个-SDM（算法工程化实现方向）岗位，-10-年左右经验起（coding-和-team-管理双在线），-985-本硕起，非量化背景出身也-ok](https://www.v2ex.com/t/897628) ![](assets/new.png)  
+- [2022-11-24-PHP-编译器-BPC-6.0-发布,支持-namespace,支持-closure,成功编译-workerman](https://www.v2ex.com/t/897626) ![](assets/new.png)  
+- [2022-11-24-比较好奇，各个级别的医生都是怎么-"debug"-的？](https://www.v2ex.com/t/897625) ![](assets/new.png)  
+- [2022-11-24-明天黑五了，有什么值得推荐买的](https://www.v2ex.com/t/897624) ![](assets/new.png)  
+- [2022-11-24-斗胆推荐一款-win-平板](https://www.v2ex.com/t/897621) ![](assets/new.png)  
 - [2022-11-24-无论哪个公司换了-CTO-或者架构师，系统必然迎来一波重构](https://www.v2ex.com/t/897620) ![](assets/new.png)  
 - [2022-11-24-显示器吧怎么了](https://www.v2ex.com/t/897618) ![](assets/new.png)  
 - [2022-11-24-请教下网盘数据安全问题](https://www.v2ex.com/t/897617) ![](assets/new.png)  
@@ -501,16 +511,6 @@
 - [2022-11-24-求助！搭梯子后如何不受影响的访问国内网站？-clash-for-windows](https://www.v2ex.com/t/897609) ![](assets/new.png)  
 - [2022-11-24-昨天晚上家里的宽带电视突然没有-cctv5-了](https://www.v2ex.com/t/897608) ![](assets/new.png)  
 - [2022-11-24-求，适合程序员实用类小工具。mbp](https://www.v2ex.com/t/897604) ![](assets/new.png)  
-- [2022-11-24-上海外企Wiredcraft30k-40k*13-薪急招英文好的-React/Nextjs-前端开发](https://www.v2ex.com/t/897603) ![](assets/new.png)  
-- [2022-11-24-明天黑五了，有什么游戏推荐？](https://www.v2ex.com/t/897601) ![](assets/new.png)  
-- [2022-11-24-苹果为什么不解决-iPhone-信号弱的问题？](https://www.v2ex.com/t/897600) ![](assets/new.png)  
-- [2022-11-24-大家怎样买虚拟货币的](https://www.v2ex.com/t/897599) ![](assets/new.png)  
-- [2022-11-24-海外看世界杯有什么好方案？](https://www.v2ex.com/t/897598) ![](assets/new.png)  
-- [2022-11-24-光猫改桥接，红米路由器拨号，可以拿到-IPV6-却无法测通](https://www.v2ex.com/t/897597) ![](assets/new.png)  
-- [2022-11-24-提供-emby-的机场推荐](https://www.v2ex.com/t/897596) ![](assets/new.png)  
-- [2022-11-24-请教一下存储过程版本管理和发布的最佳实践](https://www.v2ex.com/t/897595) ![](assets/new.png)  
-- [2022-11-24-长期远程办公招资深-DBA-数据库工程师，薪资-35-52K！各类工程师远程职都在开放](https://www.v2ex.com/t/897594) ![](assets/new.png)  
-- [2022-11-24-出-yubikey-5-和-5c，-170-180-一个](https://www.v2ex.com/t/897593) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -562,8 +562,8 @@
 - [2022-11-24-就这？Redis-持久化策略：RDB](https://toutiao.io/k/ztfwgr1) ![](assets/new.png)  
 - [2022-11-24-浅谈数据和人工智能项目的管理](https://toutiao.io/k/oplz96z) ![](assets/new.png)  
 - [2022-11-24-推荐-10个非常好用的-JavaScript-动画库](https://toutiao.io/k/04l2hu7) ![](assets/new.png)  
-- [2022-11-24-推荐-一条-SQL-查询语句是如何执行的？](https://toutiao.io/k/8y71vds) ![](assets/new.png)  
 - [2022-11-24-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) ![](assets/new.png)  
+- [2022-11-24-推荐-一条-SQL-查询语句是如何执行的？](https://toutiao.io/k/8y71vds) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

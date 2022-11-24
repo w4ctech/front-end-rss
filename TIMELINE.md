@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-24 08:41:26。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-24 09:12:14。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -71,6 +71,16 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-11-20-JS之我用单img元素实现了图像resize拉伸效果](https://www.zhangxinxu.com/wordpress/2022/11/js-image-resize/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-24-Chrome-103-支持使用本地字体，纯前端导出-PDF-优化](https://www.v2ex.com/t/897634) 
+- [【V2EX】2022-11-24-每年一问，毕设不知道做什么](https://www.v2ex.com/t/897633) 
+- [【V2EX】2022-11-24-大家攒新电脑后是怎么装驱动的？](https://www.v2ex.com/t/897632) 
+- [【V2EX】2022-11-24-求教，对于一些本身不支持-baseurl/prefix-的-Web-应用来说，如何简单地配置反向代理？](https://www.v2ex.com/t/897631) 
+- [【V2EX】2022-11-24-想问一下有没有用于解决-NAT-问题的国内-VPS-推荐](https://www.v2ex.com/t/897629) 
+- [【V2EX】2022-11-24-全球头部量化-base-上海一个-SDM（算法工程化实现方向）岗位，-10-年左右经验起（coding-和-team-管理双在线），-985-本硕起，非量化背景出身也-ok](https://www.v2ex.com/t/897628) 
+- [【V2EX】2022-11-24-PHP-编译器-BPC-6.0-发布,支持-namespace,支持-closure,成功编译-workerman](https://www.v2ex.com/t/897626) 
+- [【V2EX】2022-11-24-比较好奇，各个级别的医生都是怎么-"debug"-的？](https://www.v2ex.com/t/897625) 
+- [【V2EX】2022-11-24-明天黑五了，有什么值得推荐买的](https://www.v2ex.com/t/897624) 
+- [【V2EX】2022-11-24-斗胆推荐一款-win-平板](https://www.v2ex.com/t/897621) 
 - [【V2EX】2022-11-24-无论哪个公司换了-CTO-或者架构师，系统必然迎来一波重构](https://www.v2ex.com/t/897620) 
 - [【V2EX】2022-11-24-显示器吧怎么了](https://www.v2ex.com/t/897618) 
 - [【V2EX】2022-11-24-请教下网盘数据安全问题](https://www.v2ex.com/t/897617) 
@@ -94,16 +104,6 @@
 - [【V2EX】2022-11-24-运维穿搭指南](https://www.v2ex.com/t/897592) 
 - [【V2EX】2022-11-24-Copilot-登录完成后没有代码提示](https://www.v2ex.com/t/897587) 
 - [【V2EX】2022-11-24-「远程工作」游戏档案系统招聘后端工程师/月薪-20-30K-RMB](https://www.v2ex.com/t/897586) 
-- [【V2EX】2022-11-24-C++代码问题咨询](https://www.v2ex.com/t/897584) 
-- [【V2EX】2022-11-24-关于-WhatsApp](https://www.v2ex.com/t/897583) 
-- [【V2EX】2022-11-24-给你们说一下美国亚马逊的价格政策，是怎样坑老用户的](https://www.v2ex.com/t/897581) 
-- [【V2EX】2022-11-24-存在不会被屏蔽分享也没被墙的在线表格吗？](https://www.v2ex.com/t/897580) 
-- [【V2EX】2022-11-24-黑五就在这两天,-VPS/-软件服务/-机场/-域名服务商-有哪些推荐的呢?](https://www.v2ex.com/t/897577) 
-- [【V2EX】2022-11-24-微博：“微信-macos-版有个-log-的目录，占我了近-1GB-的空间”](https://www.v2ex.com/t/897576) 
-- [【V2EX】2022-11-24-SONY-电视小微这么卸载](https://www.v2ex.com/t/897575) 
-- [【V2EX】2022-11-24-现在这个内容年代，发现不会写标题和摘要的人越来越多了](https://www.v2ex.com/t/897574) 
-- [【V2EX】2022-11-24-macos-照片-app-里的照片怎么选取上传？](https://www.v2ex.com/t/897573) 
-- [【V2EX】2022-11-24-出搬瓦工-2018-双十一-vps](https://www.v2ex.com/t/897572) 
 - [【技术头条】2022-11-24-当我们谈论DDD时我们在谈论什么-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15415&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fstrategy-and-tactical-design-of-ddd%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-24-如何基于-Prerender-为-SPA-做-SEO-优化-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=15414&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fhow-to-optimize-seo-for-spa-based-on-prerender%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-24-2022，「倾城之链」运营第-6-年感记-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=15413&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fnicelinks-site-in-2022%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -133,8 +133,8 @@
 - [【开发者头条】2022-11-24-就这？Redis-持久化策略：RDB](https://toutiao.io/k/ztfwgr1) 
 - [【开发者头条】2022-11-24-浅谈数据和人工智能项目的管理](https://toutiao.io/k/oplz96z) 
 - [【开发者头条】2022-11-24-推荐-10个非常好用的-JavaScript-动画库](https://toutiao.io/k/04l2hu7) 
-- [【开发者头条】2022-11-24-推荐-一条-SQL-查询语句是如何执行的？](https://toutiao.io/k/8y71vds) 
 - [【开发者头条】2022-11-24-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) 
+- [【开发者头条】2022-11-24-推荐-一条-SQL-查询语句是如何执行的？](https://toutiao.io/k/8y71vds) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

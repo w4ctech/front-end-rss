@@ -9953,6 +9953,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "WSL 在 M$ 应用商店发布正式版了",
+        "link": "https://www.v2ex.com/t/897744",
+        "date": "2022-11-24"
+      },
+      {
         "title": "广州电信新套餐 2000 下 100 上",
         "link": "https://www.v2ex.com/t/897743",
         "date": "2022-11-24"
@@ -10135,11 +10140,6 @@
       {
         "title": "Docker Desktop 在 Volume 中挂载 CIFS，中文路径不识别",
         "link": "https://www.v2ex.com/t/897697",
-        "date": "2022-11-24"
-      },
-      {
-        "title": "小录一段翻看 React 源码的视频，不知道有没有人想看？",
-        "link": "https://www.v2ex.com/t/897695",
         "date": "2022-11-24"
       }
     ]

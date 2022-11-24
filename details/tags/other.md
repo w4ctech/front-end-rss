@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-24 17:36:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-24 18:15:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1916,6 +1916,7 @@
 - [2022-10-20-告别pointer-events:none使用HTML-inert属性真正禁用](https://www.zhangxinxu.com/wordpress/2022/10/html-inert-disabled-attribute/) 
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
+- [2022-11-24-WSL-在-M$-应用商店发布正式版了](https://www.v2ex.com/t/897744) 
 - [2022-11-24-广州电信新套餐-2000-下-100-上](https://www.v2ex.com/t/897743) 
 - [2022-11-24-该不该抵制-iPhone](https://www.v2ex.com/t/897741) 
 - [2022-11-24-记录-自己弄伤自己的瞬间](https://www.v2ex.com/t/897738) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-24 17:36:15。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-24 18:15:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -71,6 +71,7 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-11-20-JS之我用单img元素实现了图像resize拉伸效果](https://www.zhangxinxu.com/wordpress/2022/11/js-image-resize/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-24-WSL-在-M$-应用商店发布正式版了](https://www.v2ex.com/t/897744) 
 - [【V2EX】2022-11-24-广州电信新套餐-2000-下-100-上](https://www.v2ex.com/t/897743) 
 - [【V2EX】2022-11-24-抖音直播自动下载](https://www.v2ex.com/t/897742) 
 - [【V2EX】2022-11-24-该不该抵制-iPhone](https://www.v2ex.com/t/897741) 
@@ -108,7 +109,6 @@
 - [【V2EX】2022-11-24-现在哪个开源的-WAF-适合企业站用？主要需要防-CC-功能强，其它功能无所谓，-CDN-预算批不下来](https://www.v2ex.com/t/897699) 
 - [【V2EX】2022-11-24-做为一个后端开发,-至今为止依然愿意百分百选择的事物:-vim/shell/hhkb/google.-你呢?](https://www.v2ex.com/t/897698) 
 - [【V2EX】2022-11-24-Docker-Desktop-在-Volume-中挂载-CIFS，中文路径不识别](https://www.v2ex.com/t/897697) 
-- [【V2EX】2022-11-24-小录一段翻看-React-源码的视频，不知道有没有人想看？](https://www.v2ex.com/t/897695) 
 - [【技术头条】2022-11-24-当我们谈论DDD时我们在谈论什么-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15415&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fstrategy-and-tactical-design-of-ddd%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-24-如何基于-Prerender-为-SPA-做-SEO-优化-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=15414&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fhow-to-optimize-seo-for-spa-based-on-prerender%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-24-2022，「倾城之链」运营第-6-年感记-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=15413&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fnicelinks-site-in-2022%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

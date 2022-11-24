@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-24 14:36:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-24 15:12:55。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -71,6 +71,14 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-11-20-JS之我用单img元素实现了图像resize拉伸效果](https://www.zhangxinxu.com/wordpress/2022/11/js-image-resize/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-24-谷歌太骚操作了，竟然搞这种操作！](https://www.v2ex.com/t/897727) 
+- [【V2EX】2022-11-24-Canvas-射线渐变问题求助-有偿](https://www.v2ex.com/t/897725) 
+- [【V2EX】2022-11-24-MacBook-Air-M1，通过-c-c-线外接显示器只有-8bit](https://www.v2ex.com/t/897724) 
+- [【V2EX】2022-11-24-Safari-上不支持向后匹配的正则表达式，请教替代方法](https://www.v2ex.com/t/897723) 
+- [【V2EX】2022-11-24-菜鸟请各位大佬再帮我指点一下在-android-studio-里如何.tiff-转换成-png](https://www.v2ex.com/t/897722) 
+- [【V2EX】2022-11-24-14promax-镜头非常突出，有必要使用镜头膜之类的保护吗？](https://www.v2ex.com/t/897721) 
+- [【V2EX】2022-11-24-我这个爬虫是否违法？](https://www.v2ex.com/t/897720) 
+- [【V2EX】2022-11-24-env-sort-环境变量整理工具,-强迫症一本满足](https://www.v2ex.com/t/897719) 
 - [【V2EX】2022-11-24-你上一次流泪是什么时候？](https://www.v2ex.com/t/897718) 
 - [【V2EX】2022-11-24-BUFFALO-巴法络-大号-u-盘-1tb-600](https://www.v2ex.com/t/897717) 
 - [【V2EX】2022-11-24-mail.app-设置里的扩展是什么意思?](https://www.v2ex.com/t/897715) 
@@ -102,13 +110,6 @@
 - [【V2EX】2022-11-24-有没有办法能让-AppleTV-通过-iPhone-更合理的联网呢？](https://www.v2ex.com/t/897683) 
 - [【V2EX】2022-11-24-我的-11-寸-pro-黑屏没反应了](https://www.v2ex.com/t/897681) 
 - [【V2EX】2022-11-24-FY-技术中心官方总部直招：急需各种管理，技术架构/专家，远程！](https://www.v2ex.com/t/897679) 
-- [【V2EX】2022-11-24-「Goravel-上新」同时支持-Local,-OSS,-COS,-S3-的文件储存模块，还支持自定义，想存哪里存哪里！](https://www.v2ex.com/t/897677) 
-- [【V2EX】2022-11-24-公司交给我几个新的-Java-源码-没有文档-请问各位怎么可以快速入门能](https://www.v2ex.com/t/897676) 
-- [【V2EX】2022-11-24-微信检测到-ocr-功能被篡改后自动修复，更恶心了](https://www.v2ex.com/t/897675) 
-- [【V2EX】2022-11-24-做-App-+-H5-混合应用的请进，想听听看看](https://www.v2ex.com/t/897674) 
-- [【V2EX】2022-11-24-各位大佬-求一个能流畅运行-Linux-+2-个虚拟机的硬件配置](https://www.v2ex.com/t/897672) 
-- [【V2EX】2022-11-24-一个开关怎么分别控制两个灯？](https://www.v2ex.com/t/897671) 
-- [【V2EX】2022-11-24-一年前在北京办的联通宽带，现在人在广东，怎么办理宽带销户~](https://www.v2ex.com/t/897669) 
 - [【技术头条】2022-11-24-当我们谈论DDD时我们在谈论什么-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15415&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fstrategy-and-tactical-design-of-ddd%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-24-如何基于-Prerender-为-SPA-做-SEO-优化-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=15414&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fhow-to-optimize-seo-for-spa-based-on-prerender%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-24-2022，「倾城之链」运营第-6-年感记-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=15413&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fnicelinks-site-in-2022%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -132,14 +133,14 @@
 - [【开发者头条】2022-11-24-领域驱动设计四论](https://toutiao.io/k/h2v5bdk) 
 - [【开发者头条】2022-11-24-异常检测算法分类总结（含常用开源数据集）](https://toutiao.io/k/klv044a) 
 - [【开发者头条】2022-11-24-vivo-大数据日志采集-Agent-设计实践](https://toutiao.io/k/mvjlbxe) 
-- [【开发者头条】2022-11-24-零信任实战架构总结](https://toutiao.io/k/u9v4cma) 
-- [【开发者头条】2022-11-24-总结一些-Spark-处理小-trick](https://toutiao.io/k/fbsn4e5) 
 - [【开发者头条】2022-11-24-图解-|-监控系统-Prometheus-的原理](https://toutiao.io/k/n83tqk7) 
+- [【开发者头条】2022-11-24-零信任实战架构总结](https://toutiao.io/k/u9v4cma) 
 - [【开发者头条】2022-11-24-推荐-10个非常好用的-JavaScript-动画库](https://toutiao.io/k/04l2hu7) 
+- [【开发者头条】2022-11-24-总结一些-Spark-处理小-trick](https://toutiao.io/k/fbsn4e5) 
 - [【开发者头条】2022-11-24-就这？Redis-持久化策略：RDB](https://toutiao.io/k/ztfwgr1) 
 - [【开发者头条】2022-11-24-浅谈数据和人工智能项目的管理](https://toutiao.io/k/oplz96z) 
-- [【开发者头条】2022-11-24-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) 
 - [【开发者头条】2022-11-24-推荐-一条-SQL-查询语句是如何执行的？](https://toutiao.io/k/8y71vds) 
+- [【开发者头条】2022-11-24-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

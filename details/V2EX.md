@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-11-24 05:11:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-24 05:35:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-11-24-System-Design-学习路径](https://www.v2ex.com/t/897568) 
 - [2022-11-24-有偿收个-tana-账号。可共享可购买。](https://www.v2ex.com/t/897567) 
 - [2022-11-24-用完即走的-pastebin-支持-txt,html-markdown](https://www.v2ex.com/t/897566) 
 - [2022-11-24-为什么-navicat-连接某个-mysql-库很慢，程序中连接很快](https://www.v2ex.com/t/897565) 
@@ -40,5 +41,3 @@
 - [2022-11-24-Outlook-网页版-转发设置无法保存，有大佬能分析下是啥原因么](https://www.v2ex.com/t/897522) 
 - [2022-11-24-你们-M1-有没有碰到更新-macOS13-后电脑给手机/pad-充电速率很慢](https://www.v2ex.com/t/897521) 
 - [2022-11-24-2022-年了，有什么好用的记录笔记的软件？](https://www.v2ex.com/t/897520) 
-- [2022-11-24-昨夜复古-emo——哥，咱家有钱了](https://www.v2ex.com/t/897519) 
-- [2022-11-24-idea-2022.2.4-正式版发布](https://www.v2ex.com/t/897518) 

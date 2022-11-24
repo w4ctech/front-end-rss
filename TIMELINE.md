@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-24 05:11:41。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-24 05:35:53。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -71,6 +71,7 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-11-20-JS之我用单img元素实现了图像resize拉伸效果](https://www.zhangxinxu.com/wordpress/2022/11/js-image-resize/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-24-System-Design-学习路径](https://www.v2ex.com/t/897568) 
 - [【V2EX】2022-11-24-有偿收个-tana-账号。可共享可购买。](https://www.v2ex.com/t/897567) 
 - [【V2EX】2022-11-24-用完即走的-pastebin-支持-txt,html-markdown](https://www.v2ex.com/t/897566) 
 - [【V2EX】2022-11-24-为什么-navicat-连接某个-mysql-库很慢，程序中连接很快](https://www.v2ex.com/t/897565) 
@@ -106,8 +107,6 @@
 - [【V2EX】2022-11-24-Outlook-网页版-转发设置无法保存，有大佬能分析下是啥原因么](https://www.v2ex.com/t/897522) 
 - [【V2EX】2022-11-24-你们-M1-有没有碰到更新-macOS13-后电脑给手机/pad-充电速率很慢](https://www.v2ex.com/t/897521) 
 - [【V2EX】2022-11-24-2022-年了，有什么好用的记录笔记的软件？](https://www.v2ex.com/t/897520) 
-- [【V2EX】2022-11-24-昨夜复古-emo——哥，咱家有钱了](https://www.v2ex.com/t/897519) 
-- [【V2EX】2022-11-24-idea-2022.2.4-正式版发布](https://www.v2ex.com/t/897518) 
 - [【技术头条】2022-11-24-如何基于-Prerender-为-SPA-做-SEO-优化-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=15414&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fhow-to-optimize-seo-for-spa-based-on-prerender%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-24-2022，「倾城之链」运营第-6-年感记-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=15413&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fnicelinks-site-in-2022%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-24-浅谈数据和人工智能项目的管理-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15412&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fproject-management-big-data-artificial-intelligence%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -122,8 +121,8 @@
 - [【技术头条】2022-11-24-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-24-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【开发者头条】2022-11-24-想要做好代码质量，如何破局？](https://toutiao.io/k/s9s8hub) 
-- [【开发者头条】2022-11-24-现代化-C-使用体验](https://toutiao.io/k/nz0xzfo) 
 - [【开发者头条】2022-11-24-零拷贝技术第二篇：Go-语言中的应用](https://toutiao.io/k/6bnvoqn) 
+- [【开发者头条】2022-11-24-现代化-C-使用体验](https://toutiao.io/k/nz0xzfo) 
 - [【开发者头条】2022-11-24-判断线程池是否全部完成的-5-种方法，还有谁不会？？](https://toutiao.io/k/w4f2muf) 
 - [【开发者头条】2022-11-24-异常检测算法分类总结（含常用开源数据集）](https://toutiao.io/k/klv044a) 
 - [【开发者头条】2022-11-24-Rust-在前端：环境配置](https://toutiao.io/k/7lzi5zt) 

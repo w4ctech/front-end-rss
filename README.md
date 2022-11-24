@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-24 05:11:41，:rocket: 更新条数: +2012， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-24 05:35:53，:rocket: 更新条数: +2011， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-11-24-System-Design-学习路径](https://www.v2ex.com/t/897568) ![](assets/new.png)  
 - [2022-11-24-有偿收个-tana-账号。可共享可购买。](https://www.v2ex.com/t/897567) ![](assets/new.png)  
 - [2022-11-24-用完即走的-pastebin-支持-txt,html-markdown](https://www.v2ex.com/t/897566) ![](assets/new.png)  
 - [2022-11-24-为什么-navicat-连接某个-mysql-库很慢，程序中连接很快](https://www.v2ex.com/t/897565) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-11-24-微信提示文件存在安全风险](https://www.v2ex.com/t/897543) ![](assets/new.png)  
 - [2022-11-24-阿里云双-11-是开始搞歧视了吗？](https://www.v2ex.com/t/897542) ![](assets/new.png)  
 - [2022-11-24-检查单小帮手-TestFlight-周更新。支持图片微调，自定义识别指标](https://www.v2ex.com/t/897541) ![](assets/new.png)  
-- [2022-11-24-杭州-E-类人才认定有无大佬指点一二](https://www.v2ex.com/t/897538) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -547,8 +547,8 @@
 
 
 - [2022-11-24-想要做好代码质量，如何破局？](https://toutiao.io/k/s9s8hub) ![](assets/new.png)  
-- [2022-11-24-现代化-C-使用体验](https://toutiao.io/k/nz0xzfo) ![](assets/new.png)  
 - [2022-11-24-零拷贝技术第二篇：Go-语言中的应用](https://toutiao.io/k/6bnvoqn) ![](assets/new.png)  
+- [2022-11-24-现代化-C-使用体验](https://toutiao.io/k/nz0xzfo) ![](assets/new.png)  
 - [2022-11-24-判断线程池是否全部完成的-5-种方法，还有谁不会？？](https://toutiao.io/k/w4f2muf) ![](assets/new.png)  
 - [2022-11-24-异常检测算法分类总结（含常用开源数据集）](https://toutiao.io/k/klv044a) ![](assets/new.png)  
 - [2022-11-24-Rust-在前端：环境配置](https://toutiao.io/k/7lzi5zt) ![](assets/new.png)  

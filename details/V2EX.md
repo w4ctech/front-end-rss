@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-24 22:11:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-24 22:36:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -12,7 +12,6 @@
 - [2022-11-24-WSL-在-M$-应用商店发布正式版了](https://www.v2ex.com/t/897744) 
 - [2022-11-24-广州电信新套餐-2000-下-100-上](https://www.v2ex.com/t/897743) 
 - [2022-11-24-抖音直播自动下载](https://www.v2ex.com/t/897742) 
-- [2022-11-24-该不该抵制-iPhone](https://www.v2ex.com/t/897741) 
 - [2022-11-24-记录-自己弄伤自己的瞬间](https://www.v2ex.com/t/897738) 
 - [2022-11-24-20221125-午夜俱乐部](https://www.v2ex.com/t/897736) 
 - [2022-11-24-adguard-macOS-loading-太卡了，卸载了](https://www.v2ex.com/t/897734) 

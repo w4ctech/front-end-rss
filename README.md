@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-24 22:11:37，:rocket: 更新条数: +2015， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-24 22:36:40，:rocket: 更新条数: +2014， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -498,7 +498,6 @@
 - [2022-11-24-WSL-在-M$-应用商店发布正式版了](https://www.v2ex.com/t/897744) ![](assets/new.png)  
 - [2022-11-24-广州电信新套餐-2000-下-100-上](https://www.v2ex.com/t/897743) ![](assets/new.png)  
 - [2022-11-24-抖音直播自动下载](https://www.v2ex.com/t/897742) ![](assets/new.png)  
-- [2022-11-24-该不该抵制-iPhone](https://www.v2ex.com/t/897741) ![](assets/new.png)  
 - [2022-11-24-记录-自己弄伤自己的瞬间](https://www.v2ex.com/t/897738) ![](assets/new.png)  
 - [2022-11-24-20221125-午夜俱乐部](https://www.v2ex.com/t/897736) ![](assets/new.png)  
 - [2022-11-24-adguard-macOS-loading-太卡了，卸载了](https://www.v2ex.com/t/897734) ![](assets/new.png)  
@@ -511,6 +510,7 @@
 - [2022-11-24-Canvas-射线渐变问题求助-有偿](https://www.v2ex.com/t/897725) ![](assets/new.png)  
 - [2022-11-24-MacBook-Air-M1，通过-c-c-线外接显示器只有-8bit](https://www.v2ex.com/t/897724) ![](assets/new.png)  
 - [2022-11-24-Safari-上不支持向后匹配的正则表达式，请教替代方法](https://www.v2ex.com/t/897723) ![](assets/new.png)  
+- [2022-11-24-菜鸟请各位大佬再帮我指点一下在-android-studio-里如何.tiff-转换成-png](https://www.v2ex.com/t/897722) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -562,8 +562,8 @@
 - [2022-11-24-总结一些-Spark-处理小-trick](https://toutiao.io/k/fbsn4e5) ![](assets/new.png)  
 - [2022-11-24-就这？Redis-持久化策略：RDB](https://toutiao.io/k/ztfwgr1) ![](assets/new.png)  
 - [2022-11-24-浅谈数据和人工智能项目的管理](https://toutiao.io/k/oplz96z) ![](assets/new.png)  
-- [2022-11-24-推荐-万字长文细说-Code-Review-的正确姿势](https://toutiao.io/k/cxf9ver) ![](assets/new.png)  
 - [2022-11-24-推荐-一条-SQL-查询语句是如何执行的？](https://toutiao.io/k/8y71vds) ![](assets/new.png)  
+- [2022-11-24-推荐-万字长文细说-Code-Review-的正确姿势](https://toutiao.io/k/cxf9ver) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

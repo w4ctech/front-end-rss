@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-24 09:12:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-24 09:36:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1916,6 +1916,9 @@
 - [2022-10-20-告别pointer-events:none使用HTML-inert属性真正禁用](https://www.zhangxinxu.com/wordpress/2022/10/html-inert-disabled-attribute/) 
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
+- [2022-11-24-有没有免费的云服务器](https://www.v2ex.com/t/897637) 
+- [2022-11-24-远程类软件一段时间后就打不开。](https://www.v2ex.com/t/897636) 
+- [2022-11-24-RSS3-is-Looking-for-a-DBA-Developer](https://www.v2ex.com/t/897635) 
 - [2022-11-24-每年一问，毕设不知道做什么](https://www.v2ex.com/t/897633) 
 - [2022-11-24-大家攒新电脑后是怎么装驱动的？](https://www.v2ex.com/t/897632) 
 - [2022-11-24-想问一下有没有用于解决-NAT-问题的国内-VPS-推荐](https://www.v2ex.com/t/897629) 
@@ -1938,7 +1941,6 @@
 - [2022-11-24-长期远程办公招资深-DBA-数据库工程师，薪资-35-52K！各类工程师远程职都在开放](https://www.v2ex.com/t/897594) 
 - [2022-11-24-出-yubikey-5-和-5c，-170-180-一个](https://www.v2ex.com/t/897593) 
 - [2022-11-24-运维穿搭指南](https://www.v2ex.com/t/897592) 
-- [2022-11-24-Copilot-登录完成后没有代码提示](https://www.v2ex.com/t/897587) 
 - [2022-11-24-当我们谈论DDD时我们在谈论什么-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15415&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fstrategy-and-tactical-design-of-ddd%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-24-2022，「倾城之链」运营第-6-年感记-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=15413&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fnicelinks-site-in-2022%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-24-浅谈数据和人工智能项目的管理-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15412&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fproject-management-big-data-artificial-intelligence%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1963,5 +1965,5 @@
 - [2022-11-24-图解-|-监控系统-Prometheus-的原理](https://toutiao.io/k/n83tqk7) 
 - [2022-11-24-就这？Redis-持久化策略：RDB](https://toutiao.io/k/ztfwgr1) 
 - [2022-11-24-浅谈数据和人工智能项目的管理](https://toutiao.io/k/oplz96z) 
-- [2022-11-24-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) 
 - [2022-11-24-推荐-一条-SQL-查询语句是如何执行的？](https://toutiao.io/k/8y71vds) 
+- [2022-11-24-推荐-最适合程序员的画图工具？](https://toutiao.io/k/hlv8j4z) 

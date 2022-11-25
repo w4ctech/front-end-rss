@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-25 04:14:54，:rocket: 更新条数: +2018， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-25 04:42:08，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-11-25-开源的在线压缩文件软件，支持-PWA](https://www.v2ex.com/t/897819) ![](assets/new.png)  
+- [2022-11-25-黑五终于撸到了网红椅](https://www.v2ex.com/t/897818) ![](assets/new.png)  
 - [2022-11-25-我超，-03-年考研英一-text-1，里面提到的一个网址被注册成黄网了。。。](https://www.v2ex.com/t/897817) ![](assets/new.png)  
 - [2022-11-25-虚拟币支付现在普及了吗](https://www.v2ex.com/t/897814) ![](assets/new.png)  
 - [2022-11-25-Python-写-qt-界面的问题](https://www.v2ex.com/t/897813) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-11-25-良心云香港最近又炸了？](https://www.v2ex.com/t/897797) ![](assets/new.png)  
 - [2022-11-25-一个奇怪的网络问题，-telnet-任意-IP-+-端口都是通的](https://www.v2ex.com/t/897796) ![](assets/new.png)  
 - [2022-11-25-温子仁的《潜伏》](https://www.v2ex.com/t/897794) ![](assets/new.png)  
-- [2022-11-25-入职第十一天,部门主管因为身体原因离职,要不要提桶跑路?](https://www.v2ex.com/t/897793) ![](assets/new.png)  
-- [2022-11-25-刚收到要被优化的通知，我该怎么办](https://www.v2ex.com/t/897792) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -557,12 +557,12 @@
 - [2022-11-25-突破-etcd-限制！字节自研-K8s-存储-KubeBrain](https://toutiao.io/k/ojgugod) ![](assets/new.png)  
 - [2022-11-25-又一个机器学习模型解释神器：LIME](https://toutiao.io/k/gds9e26) ![](assets/new.png)  
 - [2022-11-25-Flink-CDC-高频面试-13-问](https://toutiao.io/k/31ltegj) ![](assets/new.png)  
-- [2022-11-25-即时通讯技术文集（第-6-期）：移动端弱网优化文章汇总](https://toutiao.io/k/trhrgeh) ![](assets/new.png)  
 - [2022-11-25-案例分享：研发效能提升之第一性原理](https://toutiao.io/k/2amgxmb) ![](assets/new.png)  
+- [2022-11-25-即时通讯技术文集（第-6-期）：移动端弱网优化文章汇总](https://toutiao.io/k/trhrgeh) ![](assets/new.png)  
 - [2022-11-25-实战讲解美团（Leaf）分布式-ID-生成器](https://toutiao.io/k/8dg1as0) ![](assets/new.png)  
 - [2022-11-25-记一次-SpringBoot-项目结合-Arthas-排查-ClassNotFoundException-问题](https://toutiao.io/k/1a1ldd4) ![](assets/new.png)  
-- [2022-11-25-安卓？？传奇！！探寻世界最大操作系统的崛起之路](https://toutiao.io/k/bx7d6bd) ![](assets/new.png)  
 - [2022-11-25-socket是并发安全的吗](https://toutiao.io/k/xfhu938) ![](assets/new.png)  
+- [2022-11-25-安卓？？传奇！！探寻世界最大操作系统的崛起之路](https://toutiao.io/k/bx7d6bd) ![](assets/new.png)  
 - [2022-11-25-推荐-一条-SQL-查询语句是如何执行的？](https://toutiao.io/k/8y71vds) ![](assets/new.png)  
 - [2022-11-25-推荐-万字长文细说-Code-Review-的正确姿势](https://toutiao.io/k/cxf9ver) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)

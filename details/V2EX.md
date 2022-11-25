@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2022-11-25 04:14:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-25 04:42:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-11-25-开源的在线压缩文件软件，支持-PWA](https://www.v2ex.com/t/897819) 
+- [2022-11-25-黑五终于撸到了网红椅](https://www.v2ex.com/t/897818) 
 - [2022-11-25-我超，-03-年考研英一-text-1，里面提到的一个网址被注册成黄网了。。。](https://www.v2ex.com/t/897817) 
 - [2022-11-25-虚拟币支付现在普及了吗](https://www.v2ex.com/t/897814) 
 - [2022-11-25-Python-写-qt-界面的问题](https://www.v2ex.com/t/897813) 
@@ -44,4 +46,3 @@
 - [2022-11-25-好工具周刊（第-39-期）:-🎨-Color-Palette-Generator,-Gradient-Maker,-Showcode,-中科大测速网站,-FlipClocker,-Paramoji,-Fold-'N-Fly-✈️](https://www.v2ex.com/t/897772) 
 - [2022-11-25-个人作品遇见夏天🔆一个送给社恐人的树洞聊天-App](https://www.v2ex.com/t/897771) 
 - [2022-11-25-当年差一点注册-apple.com.cn](https://www.v2ex.com/t/897770) 
-- [2022-11-25-除了游戏手机，有能连显示器-120-帧的安卓手机吗？](https://www.v2ex.com/t/897769) 

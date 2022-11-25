@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-25 14:36:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-25 15:12:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1916,6 +1916,11 @@
 - [2022-10-20-告别pointer-events:none使用HTML-inert属性真正禁用](https://www.zhangxinxu.com/wordpress/2022/10/html-inert-disabled-attribute/) 
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
+- [2022-11-25-Go2.0-什么时候出来](https://www.v2ex.com/t/897987) 
+- [2022-11-25-六个月试用期最后一周被辞退了，是我的问题吗？](https://www.v2ex.com/t/897986) 
+- [2022-11-25-远程-or-郑州两年软件测试求职或者初级安服岗](https://www.v2ex.com/t/897983) 
+- [2022-11-25-Magician-Web3-1.0.5，加入了负载均衡-和-重试策略](https://www.v2ex.com/t/897982) 
+- [2022-11-25-大家有没用过京东上的电脑维修服务？](https://www.v2ex.com/t/897981) 
 - [2022-11-25-对去中心通讯和社交工具可能的屏蔽方式？](https://www.v2ex.com/t/897977) 
 - [2022-11-25-tron-波场每调用一次合约需要多少-u？](https://www.v2ex.com/t/897976) 
 - [2022-11-25-龙争虎斗苦了小张](https://www.v2ex.com/t/897975) 
@@ -1942,9 +1947,6 @@
 - [2022-11-25-个人使用的话-Mega-和-Dropbox-更推荐哪个？](https://www.v2ex.com/t/897941) 
 - [2022-11-25-请问-openwrt-上什么插件能实现透明代理-+-分流？](https://www.v2ex.com/t/897940) 
 - [2022-11-25-ssh-工具-Royal-TSX-黑五五折](https://www.v2ex.com/t/897939) 
-- [2022-11-25-哪能下载现成的-Linux-内核-RPM-包？](https://www.v2ex.com/t/897933) 
-- [2022-11-25-腾讯、爱奇艺、优酷等热门会员月卡，仅需-9.9-元/月](https://www.v2ex.com/t/897932) 
-- [2022-11-25-iOS-App-上架-App-Store-详细教程](https://www.v2ex.com/t/897930) 
 - [2022-11-25-当我们谈论DDD时我们在谈论什么-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15415&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fstrategy-and-tactical-design-of-ddd%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-25-2022，「倾城之链」运营第-6-年感记-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=15413&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fnicelinks-site-in-2022%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-25-浅谈数据和人工智能项目的管理-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15412&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fproject-management-big-data-artificial-intelligence%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

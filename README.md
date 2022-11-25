@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-25 20:36:39，:rocket: 更新条数: +2015， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-25 21:10:59，:rocket: 更新条数: +2014， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -502,7 +502,6 @@
 - [2022-11-25-今天注册了-mastodon-账号](https://www.v2ex.com/t/897999) ![](assets/new.png)  
 - [2022-11-25-黑五-AlDente-Pro-打八折](https://www.v2ex.com/t/897998) ![](assets/new.png)  
 - [2022-11-25-DSM7-安装-docker-版的-bitwarden-无法创建账户](https://www.v2ex.com/t/897997) ![](assets/new.png)  
-- [2022-11-25-little-snitch-有人上车么？](https://www.v2ex.com/t/897996) ![](assets/new.png)  
 - [2022-11-25-为知笔记-docker-版开启-https-碰到问题，折磨-3-天了，求指点](https://www.v2ex.com/t/897994) ![](assets/new.png)  
 - [2022-11-25-给路由器装个显示屏。](https://www.v2ex.com/t/897991) ![](assets/new.png)  
 - [2022-11-25-有没有觉得-3D-国漫看起来很难受](https://www.v2ex.com/t/897989) ![](assets/new.png)  
@@ -511,6 +510,7 @@
 - [2022-11-25-远程-or-郑州两年软件测试求职或者初级安服岗](https://www.v2ex.com/t/897983) ![](assets/new.png)  
 - [2022-11-25-Magician-Web3-1.0.5，加入了负载均衡-和-重试策略](https://www.v2ex.com/t/897982) ![](assets/new.png)  
 - [2022-11-25-大家有没用过京东上的电脑维修服务？](https://www.v2ex.com/t/897981) ![](assets/new.png)  
+- [2022-11-25-一个根据用户名统计-npm-下载量的-API，可用在-readme-生成徽章](https://www.v2ex.com/t/897980) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-25 20:36:39。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-25 21:10:59。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -82,7 +82,6 @@
 - [【V2EX】2022-11-25-今天注册了-mastodon-账号](https://www.v2ex.com/t/897999) 
 - [【V2EX】2022-11-25-黑五-AlDente-Pro-打八折](https://www.v2ex.com/t/897998) 
 - [【V2EX】2022-11-25-DSM7-安装-docker-版的-bitwarden-无法创建账户](https://www.v2ex.com/t/897997) 
-- [【V2EX】2022-11-25-little-snitch-有人上车么？](https://www.v2ex.com/t/897996) 
 - [【V2EX】2022-11-25-为知笔记-docker-版开启-https-碰到问题，折磨-3-天了，求指点](https://www.v2ex.com/t/897994) 
 - [【V2EX】2022-11-25-给路由器装个显示屏。](https://www.v2ex.com/t/897991) 
 - [【V2EX】2022-11-25-有没有觉得-3D-国漫看起来很难受](https://www.v2ex.com/t/897989) 

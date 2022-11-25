@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-25 16:48:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-25 17:10:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1916,6 +1916,7 @@
 - [2022-10-20-告别pointer-events:none使用HTML-inert属性真正禁用](https://www.zhangxinxu.com/wordpress/2022/10/html-inert-disabled-attribute/) 
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
+- [2022-11-25-黑五-AlDente-Pro-打八折](https://www.v2ex.com/t/897998) 
 - [2022-11-25-little-snitch-有人上车么？](https://www.v2ex.com/t/897996) 
 - [2022-11-25-真的气愤。愿天堂没有“动态清零”。](https://www.v2ex.com/t/897992) 
 - [2022-11-25-Go2.0-什么时候出来](https://www.v2ex.com/t/897987) 
@@ -1939,9 +1940,6 @@
 - [2022-11-25-黑五西数红盘-16t-价格合适吗](https://www.v2ex.com/t/897957) 
 - [2022-11-25-卖房中，房产证押在中介那里几个月会有问题吗](https://www.v2ex.com/t/897955) 
 - [2022-11-25-为什么五大联赛的意大利没进世界杯捏](https://www.v2ex.com/t/897953) 
-- [2022-11-25-打印出来做个摆件应该能卖-5-块钱？](https://www.v2ex.com/t/897949) 
-- [2022-11-25-威联通-NAS-如何通过-Rclone-挂载-GD-呢？](https://www.v2ex.com/t/897948) 
-- [2022-11-25-发现一个-v2-镜像站](https://www.v2ex.com/t/897947) 
 - [2022-11-25-当我们谈论DDD时我们在谈论什么-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15415&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fstrategy-and-tactical-design-of-ddd%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-25-2022，「倾城之链」运营第-6-年感记-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=15413&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fnicelinks-site-in-2022%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-25-浅谈数据和人工智能项目的管理-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15412&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fproject-management-big-data-artificial-intelligence%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

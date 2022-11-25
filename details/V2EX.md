@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2022-11-25 16:48:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-25 17:10:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-11-25-今天注册了-mastodon-账号](https://www.v2ex.com/t/897999) 
+- [2022-11-25-黑五-AlDente-Pro-打八折](https://www.v2ex.com/t/897998) 
+- [2022-11-25-DSM7-安装-docker-版的-bitwarden-无法创建账户](https://www.v2ex.com/t/897997) 
 - [2022-11-25-little-snitch-有人上车么？](https://www.v2ex.com/t/897996) 
 - [2022-11-25-为知笔记-docker-版开启-https-碰到问题，折磨-3-天了，求指点](https://www.v2ex.com/t/897994) 
 - [2022-11-25-真的气愤。愿天堂没有“动态清零”。](https://www.v2ex.com/t/897992) 
@@ -37,6 +40,3 @@
 - [2022-11-25-PacificA-算法没有完全解决脑裂问题？](https://www.v2ex.com/t/897956) 
 - [2022-11-25-卖房中，房产证押在中介那里几个月会有问题吗](https://www.v2ex.com/t/897955) 
 - [2022-11-25-为什么五大联赛的意大利没进世界杯捏](https://www.v2ex.com/t/897953) 
-- [2022-11-25-打印出来做个摆件应该能卖-5-块钱？](https://www.v2ex.com/t/897949) 
-- [2022-11-25-威联通-NAS-如何通过-Rclone-挂载-GD-呢？](https://www.v2ex.com/t/897948) 
-- [2022-11-25-发现一个-v2-镜像站](https://www.v2ex.com/t/897947) 

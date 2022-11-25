@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-24 23:37:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-25 00:59:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -18,4 +18,3 @@
 - [2022-11-24-Safari-上不支持向后匹配的正则表达式，请教替代方法](https://www.v2ex.com/t/897723) 
 - [2022-11-24-env-sort-环境变量整理工具,-强迫症一本满足](https://www.v2ex.com/t/897719) 
 - [2022-11-24-Jump-Desktop-使用触控板滚动特别快,如何解决](https://www.v2ex.com/t/897710) 
-- [2022-11-24-推荐-10个非常好用的-JavaScript-动画库](https://toutiao.io/k/04l2hu7) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-25 04:42:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-25 05:11:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1916,6 +1916,10 @@
 - [2022-10-20-告别pointer-events:none使用HTML-inert属性真正禁用](https://www.zhangxinxu.com/wordpress/2022/10/html-inert-disabled-attribute/) 
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
+- [2022-11-25-吐槽新的项目管理方式](https://www.v2ex.com/t/897828) 
+- [2022-11-25-求推荐网络连接监测-app](https://www.v2ex.com/t/897827) 
+- [2022-11-25-MAC-拓展屏幕的问题，大佬们帮忙看看](https://www.v2ex.com/t/897823) 
+- [2022-11-25-iPhone-真的信号不好吗？](https://www.v2ex.com/t/897821) 
 - [2022-11-25-黑五终于撸到了网红椅](https://www.v2ex.com/t/897818) 
 - [2022-11-25-我超，-03-年考研英一-text-1，里面提到的一个网址被注册成黄网了。。。](https://www.v2ex.com/t/897817) 
 - [2022-11-25-虚拟币支付现在普及了吗](https://www.v2ex.com/t/897814) 
@@ -1945,13 +1949,6 @@
 - [2022-11-25-求一个商品热度排序的解决方案](https://www.v2ex.com/t/897782) 
 - [2022-11-25-Google-Ad-Manager（Google-DFP）管理的横幅如何在多个网站显示](https://www.v2ex.com/t/897781) 
 - [2022-11-25-各位有没有用-n5105-不开虚拟化可以稳定使用的](https://www.v2ex.com/t/897779) 
-- [2022-11-25-恳求大佬一个馒头邀请……](https://www.v2ex.com/t/897778) 
-- [2022-11-25-双十一优惠腾讯云服务器购买,有资源的留言.紧急](https://www.v2ex.com/t/897777) 
-- [2022-11-25-对新出的-VIVO-X90-PRO+很心动，求打醒~](https://www.v2ex.com/t/897776) 
-- [2022-11-25-今天早上出门后家被封了，今晚下班时准备带物资回去，有什么建议吗？被封后最后悔没有买的是什么？](https://www.v2ex.com/t/897775) 
-- [2022-11-25-Casdoor-+-OAuth-实现单点登录-SSO](https://www.v2ex.com/t/897774) 
-- [2022-11-25-个人作品遇见夏天🔆一个送给社恐人的树洞聊天-App](https://www.v2ex.com/t/897771) 
-- [2022-11-25-当年差一点注册-apple.com.cn](https://www.v2ex.com/t/897770) 
 - [2022-11-25-当我们谈论DDD时我们在谈论什么-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15415&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fstrategy-and-tactical-design-of-ddd%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-25-2022，「倾城之链」运营第-6-年感记-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=15413&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fnicelinks-site-in-2022%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-25-浅谈数据和人工智能项目的管理-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15412&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fproject-management-big-data-artificial-intelligence%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

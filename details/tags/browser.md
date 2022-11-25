@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-25 00:59:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-25 02:37:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -13,6 +13,8 @@
 - [2021-04-14-腺病毒新冠疫苗引安全忧虑-康希诺称未发现血栓病例](https://m.caixin.com/m/2021-04-14/101691086.html) 
 - [2021-01-08-解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html) 
 - [2021-01-01-大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html) 
-- [2022-11-24-如何-检查电脑上存在多少个-chromium](https://www.v2ex.com/t/897730) 
+- [2022-11-25-好工具周刊（第-39-期）:-🎨-Color-Palette-Generator,-Gradient-Maker,-Showcode,-中科大测速网站,-FlipClocker,-Paramoji,-Fold-'N-Fly-✈️](https://www.v2ex.com/t/897772) 
+- [2022-11-25-chrome-如何高效的根据关键字快速查找并打开对应的标签页](https://www.v2ex.com/t/897764) 
 - [2022-11-25-团队的Code-Review实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15409&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-code-review%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2022-11-25-socket是并发安全的吗](https://toutiao.io/k/xfhu938) 
 - [2022-11-25-推荐-万字长文细说-Code-Review-的正确姿势](https://toutiao.io/k/cxf9ver) 

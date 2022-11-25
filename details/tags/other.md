@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-25 11:35:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-25 12:24:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1916,6 +1916,10 @@
 - [2022-10-20-告别pointer-events:none使用HTML-inert属性真正禁用](https://www.zhangxinxu.com/wordpress/2022/10/html-inert-disabled-attribute/) 
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
+- [2022-11-25-基于-dreambooth-的-AI-头像生成](https://www.v2ex.com/t/897958) 
+- [2022-11-25-黑五西数红盘-16t-价格合适吗](https://www.v2ex.com/t/897957) 
+- [2022-11-25-卖房中，房产证押在中介那里几个月会有问题吗](https://www.v2ex.com/t/897955) 
+- [2022-11-25-为什么五大联赛的意大利没进世界杯捏](https://www.v2ex.com/t/897953) 
 - [2022-11-25-打印出来做个摆件应该能卖-5-块钱？](https://www.v2ex.com/t/897949) 
 - [2022-11-25-威联通-NAS-如何通过-Rclone-挂载-GD-呢？](https://www.v2ex.com/t/897948) 
 - [2022-11-25-发现一个-v2-镜像站](https://www.v2ex.com/t/897947) 
@@ -1943,9 +1947,6 @@
 - [2022-11-25-请问怎么通过-blob-链接抓到原始图片资源](https://www.v2ex.com/t/897914) 
 - [2022-11-25-m1-下如何安装-python2.7-的-numpy](https://www.v2ex.com/t/897913) 
 - [2022-11-25-前端同事跟产品过需求的时候，杠上了，然后打架了](https://www.v2ex.com/t/897909) 
-- [2022-11-25-按道理今年-paw-的黑五日期不是-11-月-25-号吗，怎么-Twitter-没动静](https://www.v2ex.com/t/897908) 
-- [2022-11-25-精简全平台大纲笔记+日程管理-Twos](https://www.v2ex.com/t/897902) 
-- [2022-11-25-为什么/*!50100-*/这种注释在-MySQL-5.7-下边实际没有生效？](https://www.v2ex.com/t/897901) 
 - [2022-11-25-当我们谈论DDD时我们在谈论什么-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15415&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fstrategy-and-tactical-design-of-ddd%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-25-2022，「倾城之链」运营第-6-年感记-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=15413&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fnicelinks-site-in-2022%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-25-浅谈数据和人工智能项目的管理-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15412&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fproject-management-big-data-artificial-intelligence%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

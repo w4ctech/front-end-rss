@@ -9953,6 +9953,31 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "基于 dreambooth 的 AI 头像生成",
+        "link": "https://www.v2ex.com/t/897958",
+        "date": "2022-11-25"
+      },
+      {
+        "title": "黑五西数红盘 16t 价格合适吗",
+        "link": "https://www.v2ex.com/t/897957",
+        "date": "2022-11-25"
+      },
+      {
+        "title": "PacificA 算法没有完全解决脑裂问题？",
+        "link": "https://www.v2ex.com/t/897956",
+        "date": "2022-11-25"
+      },
+      {
+        "title": "卖房中，房产证押在中介那里几个月会有问题吗",
+        "link": "https://www.v2ex.com/t/897955",
+        "date": "2022-11-25"
+      },
+      {
+        "title": "为什么五大联赛的意大利没进世界杯捏",
+        "link": "https://www.v2ex.com/t/897953",
+        "date": "2022-11-25"
+      },
+      {
         "title": "打印出来做个摆件应该能卖 5 块钱？",
         "link": "https://www.v2ex.com/t/897949",
         "date": "2022-11-25"
@@ -10111,31 +10136,6 @@
         "title": "前端同事跟产品过需求的时候，杠上了，然后打架了",
         "link": "https://www.v2ex.com/t/897909",
         "date": "2022-11-25"
-      },
-      {
-        "title": "按道理今年 paw 的黑五日期不是 11 月 25 号吗，怎么 Twitter 没动静",
-        "link": "https://www.v2ex.com/t/897908",
-        "date": "2022-11-25"
-      },
-      {
-        "title": "请教一下，在 node 后端里面大量通过 Promise.all 来查询数据库有什么影响吗",
-        "link": "https://www.v2ex.com/t/897904",
-        "date": "2022-11-25"
-      },
-      {
-        "title": "新华网盗别人的视频，不注明来源还把别人的水印截掉了？",
-        "link": "https://www.v2ex.com/t/897903",
-        "date": "2022-11-25"
-      },
-      {
-        "title": "精简全平台大纲笔记+日程管理 Twos",
-        "link": "https://www.v2ex.com/t/897902",
-        "date": "2022-11-25"
-      },
-      {
-        "title": "为什么/*!50100 */这种注释在 MySQL 5.7 下边实际没有生效？",
-        "link": "https://www.v2ex.com/t/897901",
-        "date": "2022-11-25"
       }
     ]
   },
@@ -10272,13 +10272,13 @@
         "date": "2022-11-25"
       },
       {
-        "title": "Flink CDC 高频面试 13 问",
-        "link": "https://toutiao.io/k/31ltegj",
+        "title": "实战讲解美团（Leaf）分布式 ID 生成器",
+        "link": "https://toutiao.io/k/8dg1as0",
         "date": "2022-11-25"
       },
       {
-        "title": "实战讲解美团（Leaf）分布式 ID 生成器",
-        "link": "https://toutiao.io/k/8dg1as0",
+        "title": "Flink CDC 高频面试 13 问",
+        "link": "https://toutiao.io/k/31ltegj",
         "date": "2022-11-25"
       },
       {
@@ -10302,13 +10302,13 @@
         "date": "2022-11-25"
       },
       {
-        "title": "[推荐] 一条 SQL 查询语句是如何执行的？",
-        "link": "https://toutiao.io/k/8y71vds",
+        "title": "[推荐] 万字长文细说 Code Review 的正确姿势",
+        "link": "https://toutiao.io/k/cxf9ver",
         "date": "2022-11-25"
       },
       {
-        "title": "[推荐] 万字长文细说 Code Review 的正确姿势",
-        "link": "https://toutiao.io/k/cxf9ver",
+        "title": "[推荐] 一条 SQL 查询语句是如何执行的？",
+        "link": "https://toutiao.io/k/8y71vds",
         "date": "2022-11-25"
       }
     ]

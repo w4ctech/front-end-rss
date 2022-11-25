@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-25 03:33:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-25 04:14:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1916,6 +1916,12 @@
 - [2022-10-20-告别pointer-events:none使用HTML-inert属性真正禁用](https://www.zhangxinxu.com/wordpress/2022/10/html-inert-disabled-attribute/) 
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
+- [2022-11-25-我超，-03-年考研英一-text-1，里面提到的一个网址被注册成黄网了。。。](https://www.v2ex.com/t/897817) 
+- [2022-11-25-虚拟币支付现在普及了吗](https://www.v2ex.com/t/897814) 
+- [2022-11-25-Python-写-qt-界面的问题](https://www.v2ex.com/t/897813) 
+- [2022-11-25-如果小区即将被封-屯点啥比较好呢？](https://www.v2ex.com/t/897812) 
+- [2022-11-25-有深圳比亚迪宋-dmi-车友群么?求拉一下](https://www.v2ex.com/t/897811) 
+- [2022-11-25-下班后很累是什么情况](https://www.v2ex.com/t/897810) 
 - [2022-11-25-想买个备用机有推荐吗](https://www.v2ex.com/t/897808) 
 - [2022-11-25-dmg-磁盘异常了，付费找人修复](https://www.v2ex.com/t/897806) 
 - [2022-11-25-亚马逊海外购网件-AX206-价格不错](https://www.v2ex.com/t/897804) 
@@ -1945,9 +1951,6 @@
 - [2022-11-25-Casdoor-+-OAuth-实现单点登录-SSO](https://www.v2ex.com/t/897774) 
 - [2022-11-25-个人作品遇见夏天🔆一个送给社恐人的树洞聊天-App](https://www.v2ex.com/t/897771) 
 - [2022-11-25-当年差一点注册-apple.com.cn](https://www.v2ex.com/t/897770) 
-- [2022-11-25-不填工时就扣除当天工资，合理吗](https://www.v2ex.com/t/897767) 
-- [2022-11-25-Spring-Boot-3.0-Goes-GA](https://www.v2ex.com/t/897766) 
-- [2022-11-25-win10-状态栏的搜索功能如何彻底关闭？](https://www.v2ex.com/t/897765) 
 - [2022-11-25-当我们谈论DDD时我们在谈论什么-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15415&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fstrategy-and-tactical-design-of-ddd%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-25-2022，「倾城之链」运营第-6-年感记-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=15413&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fnicelinks-site-in-2022%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-25-浅谈数据和人工智能项目的管理-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15412&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fproject-management-big-data-artificial-intelligence%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

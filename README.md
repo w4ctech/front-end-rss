@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-25 05:11:26，:rocket: 更新条数: +2017， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-25 05:35:43，:rocket: 更新条数: +2018， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,14 @@
 </summary>
 
 
+- [2022-11-25-请教大佬关于-ESXi-的备份问题](https://www.v2ex.com/t/897836) ![](assets/new.png)  
+- [2022-11-25-分享自己写的一个-3D-动态星球新标签页-Planet-Tab，支持-Chrome-和-Safari](https://www.v2ex.com/t/897835) ![](assets/new.png)  
+- [2022-11-25-安装-vmware-fusion-13-卡在许可证输入这一步](https://www.v2ex.com/t/897834) ![](assets/new.png)  
+- [2022-11-25-出邮箱地址](https://www.v2ex.com/t/897833) ![](assets/new.png)  
+- [2022-11-25-PVE-下-openwrt，千兆网络-speedtest-只有-300-500Mbps，会是哪里问题？](https://www.v2ex.com/t/897832) ![](assets/new.png)  
+- [2022-11-25-咨询：-todesk-实用上的一些问题，想解惑或寻求解决办法](https://www.v2ex.com/t/897831) ![](assets/new.png)  
+- [2022-11-25-B-站的网页版](https://www.v2ex.com/t/897830) ![](assets/new.png)  
+- [2022-11-25-#BlackFriday-TablePlus-25%-有一起合购买的吗？](https://www.v2ex.com/t/897829) ![](assets/new.png)  
 - [2022-11-25-吐槽新的项目管理方式](https://www.v2ex.com/t/897828) ![](assets/new.png)  
 - [2022-11-25-求推荐网络连接监测-app](https://www.v2ex.com/t/897827) ![](assets/new.png)  
 - [2022-11-25-有人试过在软路由环境下在-mac-上面的-chrome-总是跳各种-ip-地址吗](https://www.v2ex.com/t/897826) ![](assets/new.png)  
@@ -503,14 +511,6 @@
 - [2022-11-25-虚拟币支付现在普及了吗](https://www.v2ex.com/t/897814) ![](assets/new.png)  
 - [2022-11-25-Python-写-qt-界面的问题](https://www.v2ex.com/t/897813) ![](assets/new.png)  
 - [2022-11-25-如果小区即将被封-屯点啥比较好呢？](https://www.v2ex.com/t/897812) ![](assets/new.png)  
-- [2022-11-25-有深圳比亚迪宋-dmi-车友群么?求拉一下](https://www.v2ex.com/t/897811) ![](assets/new.png)  
-- [2022-11-25-下班后很累是什么情况](https://www.v2ex.com/t/897810) ![](assets/new.png)  
-- [2022-11-25-想买个备用机有推荐吗](https://www.v2ex.com/t/897808) ![](assets/new.png)  
-- [2022-11-25-dmg-磁盘异常了，付费找人修复](https://www.v2ex.com/t/897806) ![](assets/new.png)  
-- [2022-11-25-亚马逊海外购网件-AX206-价格不错](https://www.v2ex.com/t/897804) ![](assets/new.png)  
-- [2022-11-25-读南华经的道友?](https://www.v2ex.com/t/897803) ![](assets/new.png)  
-- [2022-11-25-win11-有关于-HDR-视频流的问题。](https://www.v2ex.com/t/897802) ![](assets/new.png)  
-- [2022-11-25-pdd-上买不到土耳其-iTunes-礼品卡了。大家还有什么渠道？](https://www.v2ex.com/t/897801) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

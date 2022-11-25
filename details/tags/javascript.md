@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-25 09:12:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-25 09:36:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -16,4 +16,3 @@
 - [2022-11-20-JS之我用单img元素实现了图像resize拉伸效果](https://www.zhangxinxu.com/wordpress/2022/11/js-image-resize/) 
 - [2022-10-16-2022年新出了哪些form表单新特性？](https://www.zhangxinxu.com/wordpress/2022/10/2022-new-form-property/) 
 - [2022-11-25-子进程如何重新读取系统环境变量,-而不只是继承了父级的环境变量?](https://www.v2ex.com/t/897890) 
-- [2022-11-25-关于软路由的网卡选择](https://www.v2ex.com/t/897875) 

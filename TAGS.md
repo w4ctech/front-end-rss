@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-11-25 09:12:12。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-25 09:36:19。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -181,7 +181,6 @@
 - [【张鑫旭-鑫空间-鑫生活】JS之我用单img元素实现了图像resize拉伸效果](https://www.zhangxinxu.com/wordpress/2022/11/js-image-resize/)
 - [【张鑫旭-鑫空间-鑫生活】2022年新出了哪些form表单新特性？](https://www.zhangxinxu.com/wordpress/2022/10/2022-new-form-property/)
 - [【V2EX】子进程如何重新读取系统环境变量,-而不只是继承了父级的环境变量?](https://www.v2ex.com/t/897890)
-- [【V2EX】关于软路由的网卡选择](https://www.v2ex.com/t/897875)
 - [......【查看更多】......](./details/tags/javascript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -235,6 +234,7 @@
 
 - [【武汉肺炎防疫全纪录(财新网)】广州17岁男生在定点医院参加高考-特殊考场视频监考](https://m.caixin.com/m/2021-06-05/101723418.html)
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
+- [【V2EX】看过-4K-50fps-HDR-的直播，再也回不到-1080p-SDR-了](https://www.v2ex.com/t/897923)
 - [【V2EX】新华网盗别人的视频，不注明来源还把别人的水印截掉了？](https://www.v2ex.com/t/897903)
 - [【V2EX】有没有像-snipaste-这么好用的视频录制软件？](https://www.v2ex.com/t/897900)
 - [......【查看更多】......](./details/tags/audio-video.md)

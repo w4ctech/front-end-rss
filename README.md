@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-25 09:12:12，:rocket: 更新条数: +2010， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-25 09:36:19，:rocket: 更新条数: +2011， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-11-25-鼠标是不是暴利？](https://www.v2ex.com/t/897925) ![](assets/new.png)  
+- [2022-11-25-想花七八千买个小电驴，求打醒！](https://www.v2ex.com/t/897924) ![](assets/new.png)  
+- [2022-11-25-看过-4K-50fps-HDR-的直播，再也回不到-1080p-SDR-了](https://www.v2ex.com/t/897923) ![](assets/new.png)  
+- [2022-11-25-求教：-pve-中安装-windows-虚拟机特别卡](https://www.v2ex.com/t/897922) ![](assets/new.png)  
+- [2022-11-25-高并发下怎么做余额扣减？](https://www.v2ex.com/t/897920) ![](assets/new.png)  
 - [2022-11-25-关于-iPhone-的播报通知](https://www.v2ex.com/t/897918) ![](assets/new.png)  
 - [2022-11-25-吐槽一下-CF-的外挂判断机制](https://www.v2ex.com/t/897917) ![](assets/new.png)  
 - [2022-11-25-签签的一审判决下来了](https://www.v2ex.com/t/897915) ![](assets/new.png)  
@@ -500,17 +505,12 @@
 - [2022-11-25-上海/成都/远程-全职Seacows-招聘-web3-后端/全栈软件工程师（NFTxDefi-区块链加密方向](https://www.v2ex.com/t/897910) ![](assets/new.png)  
 - [2022-11-25-前端同事跟产品过需求的时候，杠上了，然后打架了](https://www.v2ex.com/t/897909) ![](assets/new.png)  
 - [2022-11-25-按道理今年-paw-的黑五日期不是-11-月-25-号吗，怎么-Twitter-没动静](https://www.v2ex.com/t/897908) ![](assets/new.png)  
-- [2022-11-25-广州疫情-1125-下午五点新闻发布会,-猜猜会不会封城](https://www.v2ex.com/t/897906) ![](assets/new.png)  
 - [2022-11-25-请教一下，在-node-后端里面大量通过-Promise.all-来查询数据库有什么影响吗](https://www.v2ex.com/t/897904) ![](assets/new.png)  
 - [2022-11-25-新华网盗别人的视频，不注明来源还把别人的水印截掉了？](https://www.v2ex.com/t/897903) ![](assets/new.png)  
 - [2022-11-25-精简全平台大纲笔记+日程管理-Twos](https://www.v2ex.com/t/897902) ![](assets/new.png)  
 - [2022-11-25-为什么/*!50100-*/这种注释在-MySQL-5.7-下边实际没有生效？](https://www.v2ex.com/t/897901) ![](assets/new.png)  
 - [2022-11-25-有没有像-snipaste-这么好用的视频录制软件？](https://www.v2ex.com/t/897900) ![](assets/new.png)  
 - [2022-11-25-有-AI-能把单声道音乐变成立体声吗？游戏里提取出来的-BGM-全是单声道的](https://www.v2ex.com/t/897897) ![](assets/new.png)  
-- [2022-11-25-发现了退出-App-Store-账户避免-Apple-Music-下载歌曲被删除的方法](https://www.v2ex.com/t/897893) ![](assets/new.png)  
-- [2022-11-25-Debian-编译安装-Git-失败](https://www.v2ex.com/t/897891) ![](assets/new.png)  
-- [2022-11-25-子进程如何重新读取系统环境变量,-而不只是继承了父级的环境变量?](https://www.v2ex.com/t/897890) ![](assets/new.png)  
-- [2022-11-25-深度学习框架新手快速上手指南](https://www.v2ex.com/t/897888) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -9953,6 +9953,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "想问下 macbook14 国行和其他国家的区别",
+        "link": "https://www.v2ex.com/t/898008",
+        "date": "2022-11-25"
+      },
+      {
         "title": "小白求助!望各位大佬帮忙!(跪谢!)",
         "link": "https://www.v2ex.com/t/898007",
         "date": "2022-11-25"
@@ -10131,11 +10136,6 @@
         "title": "mysql4G 的一个库，导入了一天还没导入完",
         "link": "https://www.v2ex.com/t/897959",
         "date": "2022-11-25"
-      },
-      {
-        "title": "基于 dreambooth 的 AI 头像生成",
-        "link": "https://www.v2ex.com/t/897958",
-        "date": "2022-11-25"
       }
     ]
   },
@@ -10302,13 +10302,13 @@
         "date": "2022-11-25"
       },
       {
-        "title": "[推荐] 万字长文细说 Code Review 的正确姿势",
-        "link": "https://toutiao.io/k/cxf9ver",
+        "title": "[推荐] 一条 SQL 查询语句是如何执行的？",
+        "link": "https://toutiao.io/k/8y71vds",
         "date": "2022-11-25"
       },
       {
-        "title": "[推荐] 一条 SQL 查询语句是如何执行的？",
-        "link": "https://toutiao.io/k/8y71vds",
+        "title": "[推荐] 万字长文细说 Code Review 的正确姿势",
+        "link": "https://toutiao.io/k/cxf9ver",
         "date": "2022-11-25"
       }
     ]

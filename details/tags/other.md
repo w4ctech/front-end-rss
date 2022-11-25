@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-25 15:12:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-25 15:37:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1944,9 +1944,6 @@
 - [2022-11-25-二合一-win-板关机状态一天掉电-25%正常吗？](https://www.v2ex.com/t/897945) 
 - [2022-11-25-hexo-分类和标签统一管理](https://www.v2ex.com/t/897944) 
 - [2022-11-25-请问一下大家，有推荐的-mysql-的备份方案吗？](https://www.v2ex.com/t/897942) 
-- [2022-11-25-个人使用的话-Mega-和-Dropbox-更推荐哪个？](https://www.v2ex.com/t/897941) 
-- [2022-11-25-请问-openwrt-上什么插件能实现透明代理-+-分流？](https://www.v2ex.com/t/897940) 
-- [2022-11-25-ssh-工具-Royal-TSX-黑五五折](https://www.v2ex.com/t/897939) 
 - [2022-11-25-当我们谈论DDD时我们在谈论什么-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15415&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fstrategy-and-tactical-design-of-ddd%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-25-2022，「倾城之链」运营第-6-年感记-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=15413&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fnicelinks-site-in-2022%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-25-浅谈数据和人工智能项目的管理-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15412&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fproject-management-big-data-artificial-intelligence%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

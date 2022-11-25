@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-25 02:37:52，:rocket: 更新条数: +2014， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-25 03:33:27，:rocket: 更新条数: +2017， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,26 +491,26 @@
 </summary>
 
 
+- [2022-11-25-想买个备用机有推荐吗](https://www.v2ex.com/t/897808) ![](assets/new.png)  
+- [2022-11-25-dmg-磁盘异常了，付费找人修复](https://www.v2ex.com/t/897806) ![](assets/new.png)  
+- [2022-11-25-亚马逊海外购网件-AX206-价格不错](https://www.v2ex.com/t/897804) ![](assets/new.png)  
+- [2022-11-25-读南华经的道友?](https://www.v2ex.com/t/897803) ![](assets/new.png)  
+- [2022-11-25-win11-有关于-HDR-视频流的问题。](https://www.v2ex.com/t/897802) ![](assets/new.png)  
+- [2022-11-25-pdd-上买不到土耳其-iTunes-礼品卡了。大家还有什么渠道？](https://www.v2ex.com/t/897801) ![](assets/new.png)  
+- [2022-11-25-猫喜欢尿床怎么办...](https://www.v2ex.com/t/897800) ![](assets/new.png)  
+- [2022-11-25-Setapp-寻车位。](https://www.v2ex.com/t/897799) ![](assets/new.png)  
+- [2022-11-25-让你的-eagle-拥有-reset-api-能力，把-eagle-变为后台管理系统](https://www.v2ex.com/t/897798) ![](assets/new.png)  
+- [2022-11-25-良心云香港最近又炸了？](https://www.v2ex.com/t/897797) ![](assets/new.png)  
+- [2022-11-25-一个奇怪的网络问题，-telnet-任意-IP-+-端口都是通的](https://www.v2ex.com/t/897796) ![](assets/new.png)  
+- [2022-11-25-温子仁的《潜伏》](https://www.v2ex.com/t/897794) ![](assets/new.png)  
+- [2022-11-25-入职第十一天,部门主管因为身体原因离职,要不要提桶跑路?](https://www.v2ex.com/t/897793) ![](assets/new.png)  
+- [2022-11-25-刚收到要被优化的通知，我该怎么办](https://www.v2ex.com/t/897792) ![](assets/new.png)  
+- [2022-11-25-Macbookpro-如何雷电菊花链](https://www.v2ex.com/t/897791) ![](assets/new.png)  
+- [2022-11-25-QiReader---全平台-RSS-阅读器-黑五大促](https://www.v2ex.com/t/897790) ![](assets/new.png)  
+- [2022-11-25-《夏洛特烦恼》](https://www.v2ex.com/t/897789) ![](assets/new.png)  
+- [2022-11-25-M1-Pro-芯片感觉没有说的那么厉害,-感觉不如-i7-12700F](https://www.v2ex.com/t/897788) ![](assets/new.png)  
+- [2022-11-25-一加手机或-color-os-系统的钱包，刷门禁卡亮屏怎么破？](https://www.v2ex.com/t/897786) ![](assets/new.png)  
 - [2022-11-25-求助大佬：上海移动-5G-网络无法访问公司服务接口。应该往那些方向排查呢](https://www.v2ex.com/t/897785) ![](assets/new.png)  
-- [2022-11-25-腾讯云官网产品可做额外折扣，短信，企业邮箱，服务器，-cnd，-cos-等均可](https://www.v2ex.com/t/897783) ![](assets/new.png)  
-- [2022-11-25-求一个商品热度排序的解决方案](https://www.v2ex.com/t/897782) ![](assets/new.png)  
-- [2022-11-25-Google-Ad-Manager（Google-DFP）管理的横幅如何在多个网站显示](https://www.v2ex.com/t/897781) ![](assets/new.png)  
-- [2022-11-25-爬虫爬-twitter-和-github-大家觉得现实不？](https://www.v2ex.com/t/897780) ![](assets/new.png)  
-- [2022-11-25-各位有没有用-n5105-不开虚拟化可以稳定使用的](https://www.v2ex.com/t/897779) ![](assets/new.png)  
-- [2022-11-25-恳求大佬一个馒头邀请……](https://www.v2ex.com/t/897778) ![](assets/new.png)  
-- [2022-11-25-双十一优惠腾讯云服务器购买,有资源的留言.紧急](https://www.v2ex.com/t/897777) ![](assets/new.png)  
-- [2022-11-25-对新出的-VIVO-X90-PRO+很心动，求打醒~](https://www.v2ex.com/t/897776) ![](assets/new.png)  
-- [2022-11-25-今天早上出门后家被封了，今晚下班时准备带物资回去，有什么建议吗？被封后最后悔没有买的是什么？](https://www.v2ex.com/t/897775) ![](assets/new.png)  
-- [2022-11-25-Casdoor-+-OAuth-实现单点登录-SSO](https://www.v2ex.com/t/897774) ![](assets/new.png)  
-- [2022-11-25-好工具周刊（第-39-期）:-🎨-Color-Palette-Generator,-Gradient-Maker,-Showcode,-中科大测速网站,-FlipClocker,-Paramoji,-Fold-'N-Fly-✈️](https://www.v2ex.com/t/897772) ![](assets/new.png)  
-- [2022-11-25-个人作品遇见夏天🔆一个送给社恐人的树洞聊天-App](https://www.v2ex.com/t/897771) ![](assets/new.png)  
-- [2022-11-25-当年差一点注册-apple.com.cn](https://www.v2ex.com/t/897770) ![](assets/new.png)  
-- [2022-11-25-除了游戏手机，有能连显示器-120-帧的安卓手机吗？](https://www.v2ex.com/t/897769) ![](assets/new.png)  
-- [2022-11-25-不填工时就扣除当天工资，合理吗](https://www.v2ex.com/t/897767) ![](assets/new.png)  
-- [2022-11-25-Spring-Boot-3.0-Goes-GA](https://www.v2ex.com/t/897766) ![](assets/new.png)  
-- [2022-11-25-win10-状态栏的搜索功能如何彻底关闭？](https://www.v2ex.com/t/897765) ![](assets/new.png)  
-- [2022-11-25-chrome-如何高效的根据关键字快速查找并打开对应的标签页](https://www.v2ex.com/t/897764) ![](assets/new.png)  
-- [2022-11-25-软路由上-ShellClash-OpenClash-ClashPremium-哪个合适呢](https://www.v2ex.com/t/897759) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -522,6 +522,7 @@
 </summary>
 
 
+- [2022-11-25-前端性能优化心法-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15416&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-performance-tuning%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-11-25-当我们谈论DDD时我们在谈论什么-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15415&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fstrategy-and-tactical-design-of-ddd%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-11-25-如何基于-Prerender-为-SPA-做-SEO-优化-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=15414&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fhow-to-optimize-seo-for-spa-based-on-prerender%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-11-25-2022，「倾城之链」运营第-6-年感记-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=15413&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fnicelinks-site-in-2022%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
@@ -548,8 +549,8 @@
 
 
 - [2022-11-25-深入浅出-RocketMQ-原理及实战：透彻剖析贯穿-RocketMQ-的存储系统的实现原理和持久化机制](https://toutiao.io/k/u7ylwyw) ![](assets/new.png)  
-- [2022-11-25-当我们谈论-DDD-时我们在谈论什么](https://toutiao.io/k/1oi6c7g) ![](assets/new.png)  
 - [2022-11-25-面试官：业务开发时，接口不能对外暴露怎么办？](https://toutiao.io/k/boygn9q) ![](assets/new.png)  
+- [2022-11-25-当我们谈论-DDD-时我们在谈论什么](https://toutiao.io/k/1oi6c7g) ![](assets/new.png)  
 - [2022-11-25-Trait-使用及原理分析](https://toutiao.io/k/yo86c7x) ![](assets/new.png)  
 - [2022-11-25-用大白话给你解释-Zookeeper-的选举机制](https://toutiao.io/k/mopu7ql) ![](assets/new.png)  
 - [2022-11-25-C++性能白皮书](https://toutiao.io/k/jyi7ynf) ![](assets/new.png)  
@@ -558,12 +559,12 @@
 - [2022-11-25-Flink-CDC-高频面试-13-问](https://toutiao.io/k/31ltegj) ![](assets/new.png)  
 - [2022-11-25-即时通讯技术文集（第-6-期）：移动端弱网优化文章汇总](https://toutiao.io/k/trhrgeh) ![](assets/new.png)  
 - [2022-11-25-案例分享：研发效能提升之第一性原理](https://toutiao.io/k/2amgxmb) ![](assets/new.png)  
+- [2022-11-25-实战讲解美团（Leaf）分布式-ID-生成器](https://toutiao.io/k/8dg1as0) ![](assets/new.png)  
 - [2022-11-25-记一次-SpringBoot-项目结合-Arthas-排查-ClassNotFoundException-问题](https://toutiao.io/k/1a1ldd4) ![](assets/new.png)  
 - [2022-11-25-安卓？？传奇！！探寻世界最大操作系统的崛起之路](https://toutiao.io/k/bx7d6bd) ![](assets/new.png)  
 - [2022-11-25-socket是并发安全的吗](https://toutiao.io/k/xfhu938) ![](assets/new.png)  
-- [2022-11-25-实战讲解美团（Leaf）分布式-ID-生成器](https://toutiao.io/k/8dg1as0) ![](assets/new.png)  
-- [2022-11-25-推荐-万字长文细说-Code-Review-的正确姿势](https://toutiao.io/k/cxf9ver) ![](assets/new.png)  
 - [2022-11-25-推荐-一条-SQL-查询语句是如何执行的？](https://toutiao.io/k/8y71vds) ![](assets/new.png)  
+- [2022-11-25-推荐-万字长文细说-Code-Review-的正确姿势](https://toutiao.io/k/cxf9ver) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

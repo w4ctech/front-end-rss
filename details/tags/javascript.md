@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-25 07:35:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-25 08:15:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -15,5 +15,6 @@
 - [2021-03-03-港府回应一63岁患者死亡事件-暂无法确定与疫苗相关](https://m.caixin.com/m/2021-03-03/101670052.html) 
 - [2022-11-20-JS之我用单img元素实现了图像resize拉伸效果](https://www.zhangxinxu.com/wordpress/2022/11/js-image-resize/) 
 - [2022-10-16-2022年新出了哪些form表单新特性？](https://www.zhangxinxu.com/wordpress/2022/10/2022-new-form-property/) 
+- [2022-11-25-子进程如何重新读取系统环境变量,-而不只是继承了父级的环境变量?](https://www.v2ex.com/t/897890) 
 - [2022-11-25-关于软路由的网卡选择](https://www.v2ex.com/t/897875) 
 - [2022-11-25-好奇有多少人在主路由上用了-clash-类插件呢，分享下感受呗](https://www.v2ex.com/t/897856) 

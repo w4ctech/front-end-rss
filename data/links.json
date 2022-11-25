@@ -9953,6 +9953,41 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "有 AI 能把单声道音乐变成立体声吗？游戏里提取出来的 BGM 全是单声道的",
+        "link": "https://www.v2ex.com/t/897897",
+        "date": "2022-11-25"
+      },
+      {
+        "title": "发现了退出 App Store 账户避免 Apple Music 下载歌曲被删除的方法",
+        "link": "https://www.v2ex.com/t/897893",
+        "date": "2022-11-25"
+      },
+      {
+        "title": "Debian 编译安装 Git 失败",
+        "link": "https://www.v2ex.com/t/897891",
+        "date": "2022-11-25"
+      },
+      {
+        "title": "子进程如何重新读取系统环境变量, 而不只是继承了父级的环境变量?",
+        "link": "https://www.v2ex.com/t/897890",
+        "date": "2022-11-25"
+      },
+      {
+        "title": "深度学习框架新手快速上手指南",
+        "link": "https://www.v2ex.com/t/897888",
+        "date": "2022-11-25"
+      },
+      {
+        "title": "#BlackFriday Little Snitch - Family License 有一起合购的吗？",
+        "link": "https://www.v2ex.com/t/897886",
+        "date": "2022-11-25"
+      },
+      {
+        "title": "苹果 iCloud(云上贵州)照片变成白色，造成丢失，请教是否可维权",
+        "link": "https://www.v2ex.com/t/897885",
+        "date": "2022-11-25"
+      },
+      {
         "title": "有没有对 Verdaccio 熟悉的？ yarn add 私有包报错了",
         "link": "https://www.v2ex.com/t/897884",
         "date": "2022-11-25"
@@ -9995,11 +10030,6 @@
       {
         "title": "现在 Inter i7 的 mbp 被 M1 M2 把市场搞乱了啊 ，当年+ac 2w 多买的 刚出保 7500 都卖不到了，，，，就离谱",
         "link": "https://www.v2ex.com/t/897872",
-        "date": "2022-11-25"
-      },
-      {
-        "title": "能不能去告张大聋非法修改计算机系统罪",
-        "link": "https://www.v2ex.com/t/897871",
         "date": "2022-11-25"
       },
       {
@@ -10080,76 +10110,6 @@
       {
         "title": "广州有骑友群吗",
         "link": "https://www.v2ex.com/t/897850",
-        "date": "2022-11-25"
-      },
-      {
-        "title": "双非工科硕的出路是什么…",
-        "link": "https://www.v2ex.com/t/897848",
-        "date": "2022-11-25"
-      },
-      {
-        "title": "4 年前的 XR 刚拿去电脑城升级了 512G 内存，爽！",
-        "link": "https://www.v2ex.com/t/897847",
-        "date": "2022-11-25"
-      },
-      {
-        "title": "各位大佬，请教一个问题，我有一个 h5 游戏的链接，如何缓存",
-        "link": "https://www.v2ex.com/t/897846",
-        "date": "2022-11-25"
-      },
-      {
-        "title": "你们的 iphone13 有遇到过这种情况吗？",
-        "link": "https://www.v2ex.com/t/897845",
-        "date": "2022-11-25"
-      },
-      {
-        "title": "在锁屏界面展示卡片笔记 APP",
-        "link": "https://www.v2ex.com/t/897844",
-        "date": "2022-11-25"
-      },
-      {
-        "title": "求 pandrabox 的软件源",
-        "link": "https://www.v2ex.com/t/897843",
-        "date": "2022-11-25"
-      },
-      {
-        "title": "想问一下 mbp 能否和 m1 mini 协同办公？",
-        "link": "https://www.v2ex.com/t/897842",
-        "date": "2022-11-25"
-      },
-      {
-        "title": "为什么 macOS 下的软件都没有提供卸载",
-        "link": "https://www.v2ex.com/t/897841",
-        "date": "2022-11-25"
-      },
-      {
-        "title": "69 出 2 个 RackNerd 的年费 VPS（已被墙）圣地亚哥和西雅图",
-        "link": "https://www.v2ex.com/t/897840",
-        "date": "2022-11-25"
-      },
-      {
-        "title": "最强安卓备用机 目前选哪个？ galaxy S22U 还是国内的那些",
-        "link": "https://www.v2ex.com/t/897839",
-        "date": "2022-11-25"
-      },
-      {
-        "title": "原来可以用快捷指令备份联系人",
-        "link": "https://www.v2ex.com/t/897838",
-        "date": "2022-11-25"
-      },
-      {
-        "title": "上海电信 SDN 网关升级了，网络管家很多功能都不能用了。",
-        "link": "https://www.v2ex.com/t/897837",
-        "date": "2022-11-25"
-      },
-      {
-        "title": "请教大佬关于 ESXi 的备份问题",
-        "link": "https://www.v2ex.com/t/897836",
-        "date": "2022-11-25"
-      },
-      {
-        "title": "分享自己写的一个 3D 动态星球新标签页 Planet Tab，支持 Chrome 和 Safari",
-        "link": "https://www.v2ex.com/t/897835",
         "date": "2022-11-25"
       }
     ]
@@ -10302,13 +10262,13 @@
         "date": "2022-11-25"
       },
       {
-        "title": "记一次 SpringBoot 项目结合 Arthas 排查 ClassNotFoundException 问题",
-        "link": "https://toutiao.io/k/1a1ldd4",
+        "title": "socket是并发安全的吗",
+        "link": "https://toutiao.io/k/xfhu938",
         "date": "2022-11-25"
       },
       {
-        "title": "socket是并发安全的吗",
-        "link": "https://toutiao.io/k/xfhu938",
+        "title": "记一次 SpringBoot 项目结合 Arthas 排查 ClassNotFoundException 问题",
+        "link": "https://toutiao.io/k/1a1ldd4",
         "date": "2022-11-25"
       },
       {
@@ -10317,13 +10277,13 @@
         "date": "2022-11-25"
       },
       {
-        "title": "[推荐] 万字长文细说 Code Review 的正确姿势",
-        "link": "https://toutiao.io/k/cxf9ver",
+        "title": "[推荐] 一条 SQL 查询语句是如何执行的？",
+        "link": "https://toutiao.io/k/8y71vds",
         "date": "2022-11-25"
       },
       {
-        "title": "[推荐] 一条 SQL 查询语句是如何执行的？",
-        "link": "https://toutiao.io/k/8y71vds",
+        "title": "[推荐] 万字长文细说 Code Review 的正确姿势",
+        "link": "https://toutiao.io/k/cxf9ver",
         "date": "2022-11-25"
       }
     ]

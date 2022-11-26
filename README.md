@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-26 11:09:43，:rocket: 更新条数: +2011， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-26 11:35:11，:rocket: 更新条数: +2012， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-11-26-Mac-下，-Chrome-网页视频通过-homepod-mini-音画不同步](https://www.v2ex.com/t/898140) ![](assets/new.png)  
+- [2022-11-26-icloudpd-目前无法进行验证了，还有别的类似的工具吗](https://www.v2ex.com/t/898139) ![](assets/new.png)  
+- [2022-11-26-老哥们-有速干衣、速干裤推荐吗？](https://www.v2ex.com/t/898138) ![](assets/new.png)  
 - [2022-11-26-野草书签](https://www.v2ex.com/t/898137) ![](assets/new.png)  
 - [2022-11-26-黑五-一万二淘了一套-3080-配置，想请大家帮忙看看](https://www.v2ex.com/t/898136) ![](assets/new.png)  
 - [2022-11-26-同样的网络环境，针对一个-websocket-链接，为啥不同浏览器反应表现不一样](https://www.v2ex.com/t/898134) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-11-26-icloud-使用中让我百思不得其解的问题](https://www.v2ex.com/t/898116) ![](assets/new.png)  
 - [2022-11-26-为业务的英语翻译挠头](https://www.v2ex.com/t/898114) ![](assets/new.png)  
 - [2022-11-26-求一个馒头-PT-邀请](https://www.v2ex.com/t/898113) ![](assets/new.png)  
-- [2022-11-26-欢迎加入北美-V-友聊天群-WhatsApp](https://www.v2ex.com/t/898112) ![](assets/new.png)  
-- [2022-11-26-E843，高效利用微信学英语、看新闻的小工具](https://www.v2ex.com/t/898110) ![](assets/new.png)  
-- [2022-11-26-怎样举报百度网盘](https://www.v2ex.com/t/898108) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -552,15 +552,15 @@
 - [2022-11-26-重塑认识-Java-编译器的执行过程（消除数组边界检查-+-公共子表达式）](https://toutiao.io/k/ixhipj5) ![](assets/new.png)  
 - [2022-11-26-干货！用大白话告诉你什么是-Mock-测试](https://toutiao.io/k/jaz776u) ![](assets/new.png)  
 - [2022-11-26-14-个-SpringBoot-优化小妙招，看完后同事说写代码像写诗](https://toutiao.io/k/ej9cqom) ![](assets/new.png)  
+- [2022-11-26-SpringBoot-整合-JWT-+-Redis-实现双Token-校验-Demo](https://toutiao.io/k/gju5suq) ![](assets/new.png)  
 - [2022-11-26-独立开发变现周刊（第81期）：开发一个应用来减少屏幕使用时间，月收入-2-万美元](https://toutiao.io/k/wzlxohy) ![](assets/new.png)  
 - [2022-11-26-深入解读-Raft-算法与-etcd-工程实现](https://toutiao.io/k/7ci5xy4) ![](assets/new.png)  
-- [2022-11-26-SpringBoot-整合-JWT-+-Redis-实现双Token-校验-Demo](https://toutiao.io/k/gju5suq) ![](assets/new.png)  
 - [2022-11-26-.NET-性能优化：使用结构体替代类](https://toutiao.io/k/p53x0mn) ![](assets/new.png)  
 - [2022-11-26-百亿数据个性化推荐：弹幕工程架构演进](https://toutiao.io/k/iuvd2pw) ![](assets/new.png)  
 - [2022-11-26-28-张图，一次性说清楚-TCP](https://toutiao.io/k/thtikrq) ![](assets/new.png)  
-- [2022-11-26-推荐-DDD-之业务系统搭建的设计思考](https://toutiao.io/k/783naw9) ![](assets/new.png)  
 - [2022-11-26-推荐-一条-SQL-查询语句是如何执行的？](https://toutiao.io/k/8y71vds) ![](assets/new.png)  
 - [2022-11-26-推荐-万字长文细说-Code-Review-的正确姿势](https://toutiao.io/k/cxf9ver) ![](assets/new.png)  
+- [2022-11-26-推荐-DDD-之业务系统搭建的设计思考](https://toutiao.io/k/783naw9) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

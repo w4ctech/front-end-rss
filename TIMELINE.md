@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-26 11:09:43。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-26 11:35:11。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -71,6 +71,9 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-11-20-JS之我用单img元素实现了图像resize拉伸效果](https://www.zhangxinxu.com/wordpress/2022/11/js-image-resize/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-26-Mac-下，-Chrome-网页视频通过-homepod-mini-音画不同步](https://www.v2ex.com/t/898140) 
+- [【V2EX】2022-11-26-icloudpd-目前无法进行验证了，还有别的类似的工具吗](https://www.v2ex.com/t/898139) 
+- [【V2EX】2022-11-26-老哥们-有速干衣、速干裤推荐吗？](https://www.v2ex.com/t/898138) 
 - [【V2EX】2022-11-26-野草书签](https://www.v2ex.com/t/898137) 
 - [【V2EX】2022-11-26-黑五-一万二淘了一套-3080-配置，想请大家帮忙看看](https://www.v2ex.com/t/898136) 
 - [【V2EX】2022-11-26-同样的网络环境，针对一个-websocket-链接，为啥不同浏览器反应表现不一样](https://www.v2ex.com/t/898134) 
@@ -106,8 +109,6 @@
 - [【V2EX】2022-11-26-高层应该如何应对火灾？我们小区存在的消防隐患。](https://www.v2ex.com/t/898093) 
 - [【V2EX】2022-11-26-垃圾-gmail-为什么加载的时候-特别慢-总是要等-3-5-秒-恶心死了-每次都是这样-有办法吗-大佬们-有没有办法让它像命令行那样-速度超快-同时又很方便使用-大佬们都...](https://www.v2ex.com/t/898092) 
 - [【V2EX】2022-11-26-macOS-重启后设置丢失的-bug](https://www.v2ex.com/t/898091) 
-- [【V2EX】2022-11-26-请教一个子集和问题/数字分区问题的衍生问题？](https://www.v2ex.com/t/898089) 
-- [【V2EX】2022-11-26-如何优雅且不突兀的描述自己加班？](https://www.v2ex.com/t/898088) 
 - [【技术头条】2022-11-26-前端性能优化心法-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15416&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-performance-tuning%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-26-当我们谈论DDD时我们在谈论什么-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15415&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fstrategy-and-tactical-design-of-ddd%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-26-如何基于-Prerender-为-SPA-做-SEO-优化-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=15414&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fhow-to-optimize-seo-for-spa-based-on-prerender%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -127,15 +128,15 @@
 - [【开发者头条】2022-11-26-重塑认识-Java-编译器的执行过程（消除数组边界检查-+-公共子表达式）](https://toutiao.io/k/ixhipj5) 
 - [【开发者头条】2022-11-26-干货！用大白话告诉你什么是-Mock-测试](https://toutiao.io/k/jaz776u) 
 - [【开发者头条】2022-11-26-14-个-SpringBoot-优化小妙招，看完后同事说写代码像写诗](https://toutiao.io/k/ej9cqom) 
+- [【开发者头条】2022-11-26-SpringBoot-整合-JWT-+-Redis-实现双Token-校验-Demo](https://toutiao.io/k/gju5suq) 
 - [【开发者头条】2022-11-26-独立开发变现周刊（第81期）：开发一个应用来减少屏幕使用时间，月收入-2-万美元](https://toutiao.io/k/wzlxohy) 
 - [【开发者头条】2022-11-26-深入解读-Raft-算法与-etcd-工程实现](https://toutiao.io/k/7ci5xy4) 
-- [【开发者头条】2022-11-26-SpringBoot-整合-JWT-+-Redis-实现双Token-校验-Demo](https://toutiao.io/k/gju5suq) 
 - [【开发者头条】2022-11-26-.NET-性能优化：使用结构体替代类](https://toutiao.io/k/p53x0mn) 
 - [【开发者头条】2022-11-26-百亿数据个性化推荐：弹幕工程架构演进](https://toutiao.io/k/iuvd2pw) 
 - [【开发者头条】2022-11-26-28-张图，一次性说清楚-TCP](https://toutiao.io/k/thtikrq) 
-- [【开发者头条】2022-11-26-推荐-DDD-之业务系统搭建的设计思考](https://toutiao.io/k/783naw9) 
 - [【开发者头条】2022-11-26-推荐-一条-SQL-查询语句是如何执行的？](https://toutiao.io/k/8y71vds) 
 - [【开发者头条】2022-11-26-推荐-万字长文细说-Code-Review-的正确姿势](https://toutiao.io/k/cxf9ver) 
+- [【开发者头条】2022-11-26-推荐-DDD-之业务系统搭建的设计思考](https://toutiao.io/k/783naw9) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

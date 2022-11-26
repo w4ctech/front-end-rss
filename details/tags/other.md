@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-26 05:35:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-26 06:14:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1916,6 +1916,8 @@
 - [2022-10-20-告别pointer-events:none使用HTML-inert属性真正禁用](https://www.zhangxinxu.com/wordpress/2022/10/html-inert-disabled-attribute/) 
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
+- [2022-11-26-外包的接的活，公司直接把钱打到我的个人账户。年底会因为这个补税吗？](https://www.v2ex.com/t/898071) 
+- [2022-11-26-是哪个始作俑者把-out-of-memory-翻译成内存溢出的？](https://www.v2ex.com/t/898069) 
 - [2022-11-26-N-问微信？你看我-桌面/下载目录/日程。。。-干吗？还有啥你不看的吗？](https://www.v2ex.com/t/898067) 
 - [2022-11-26-Mac-上的实时字幕（Beta-版）在哪些国家和地区能使用啊？](https://www.v2ex.com/t/898065) 
 - [2022-11-26-Evernote-APP-突然不能登录了，啥情况？](https://www.v2ex.com/t/898064) 
@@ -1923,7 +1925,6 @@
 - [2022-11-26-求一个馒头药](https://www.v2ex.com/t/898062) 
 - [2022-11-26-出-香港-6-核-6g66g，英国-10Gbps-无限流量](https://www.v2ex.com/t/898059) 
 - [2022-11-26-远程-招一位远程产品经理，可全日或半日，薪资-1w-2w](https://www.v2ex.com/t/898058) 
-- [2022-11-26-知道酸酸为啥这么赚钱了。。。](https://www.v2ex.com/t/898057) 
 - [2022-11-26-win11-网络启动，刚关机启动和内网启动都能网络开机，过段时间就不行。台式机、七彩虹-b460m-主板，有动态公网-ip-用-ddns-方式做了端口映射](https://www.v2ex.com/t/898055) 
 - [2022-11-26-想入手个-iPad-Pro-不知道怎么选](https://www.v2ex.com/t/898052) 
 - [2022-11-26-现在招人真难啊](https://www.v2ex.com/t/898050) 
@@ -1937,12 +1938,6 @@
 - [2022-11-26-有没有购买微星的-PRO-B650M-A-WIFI-这款主板的老哥能帮忙看一下-iommu-分组的情况](https://www.v2ex.com/t/898029) 
 - [2022-11-26-PS5/A80J-接三星回音壁开机无声和偶尔无声的问题](https://www.v2ex.com/t/898028) 
 - [2022-11-26-卡马克谈最好的编程语言](https://www.v2ex.com/t/898027) 
-- [2022-11-26-covid-以来互联网行业的震动相比于-2000-年互联网泡沫和-2008-年次贷危机有什么区别？](https://www.v2ex.com/t/898025) 
-- [2022-11-26-工行开养老金户的-50-微信立减金补了，速度](https://www.v2ex.com/t/898023) 
-- [2022-11-26-2018-至-2020-年我国有超-12-万儿童和青少年被诊断为癌症](https://www.v2ex.com/t/898022) 
-- [2022-11-26-优豆云免费云主机真好用](https://www.v2ex.com/t/898020) 
-- [2022-11-26-700-平价出-黑五斯巴达-SpartanHost-4Core-4GB-E5-VPS](https://www.v2ex.com/t/898019) 
-- [2022-11-26-问大家一个关于-tomcat-项目启动报-ClassNotFoundException:-com.mysql.jdbc.Driver-的问题](https://www.v2ex.com/t/898018) 
 - [2022-11-26-当我们谈论DDD时我们在谈论什么-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15415&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fstrategy-and-tactical-design-of-ddd%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-26-2022，「倾城之链」运营第-6-年感记-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=15413&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fnicelinks-site-in-2022%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-26-浅谈数据和人工智能项目的管理-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15412&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fproject-management-big-data-artificial-intelligence%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1958,4 +1953,6 @@
 - [2022-11-26-干货！用大白话告诉你什么是-Mock-测试](https://toutiao.io/k/jaz776u) 
 - [2022-11-26-独立开发变现周刊（第81期）：开发一个应用来减少屏幕使用时间，月收入-2-万美元](https://toutiao.io/k/wzlxohy) 
 - [2022-11-26-SpringBoot-整合-JWT-+-Redis-实现双Token-校验-Demo](https://toutiao.io/k/gju5suq) 
+- [2022-11-26-百亿数据个性化推荐：弹幕工程架构演进](https://toutiao.io/k/iuvd2pw) 
+- [2022-11-26-28-张图，一次性说清楚-TCP](https://toutiao.io/k/thtikrq) 
 - [2022-11-26-推荐-一条-SQL-查询语句是如何执行的？](https://toutiao.io/k/8y71vds) 

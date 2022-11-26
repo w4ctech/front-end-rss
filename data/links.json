@@ -9953,6 +9953,36 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "不得不说招商银行的 APP 体验真的不错，至少在同类应用里体验是比较好的",
+        "link": "https://www.v2ex.com/t/898148",
+        "date": "2022-11-26"
+      },
+      {
+        "title": "同时开 ssr+和 openclash 会串流量.",
+        "link": "https://www.v2ex.com/t/898147",
+        "date": "2022-11-26"
+      },
+      {
+        "title": "有 ai 类社区论坛吗",
+        "link": "https://www.v2ex.com/t/898146",
+        "date": "2022-11-26"
+      },
+      {
+        "title": "使用 utools 打开 vscode 出现 gcc : 无法将“gcc”项识别为 cmdlet、函数、脚本文件或可运行程序的名称。请检查名称的拼写，如果包括路径，请确保路径正确，然...",
+        "link": "https://www.v2ex.com/t/898145",
+        "date": "2022-11-26"
+      },
+      {
+        "title": "群晖系统挂载 TrueNAS 存储使用有坑吗",
+        "link": "https://www.v2ex.com/t/898144",
+        "date": "2022-11-26"
+      },
+      {
+        "title": "各位老哥，是如何保护自己的颈椎和腰椎的？麻烦推荐一下方法或者锻炼视频吧。",
+        "link": "https://www.v2ex.com/t/898142",
+        "date": "2022-11-26"
+      },
+      {
         "title": "Mac 下， Chrome 网页视频通过 homepod mini 音画不同步",
         "link": "https://www.v2ex.com/t/898140",
         "date": "2022-11-26"
@@ -10103,43 +10133,8 @@
         "date": "2022-11-26"
       },
       {
-        "title": "广州这是怎么了? 怎么突然就开始沉默了?",
-        "link": "https://www.v2ex.com/t/898100",
-        "date": "2022-11-26"
-      },
-      {
         "title": "手机翻墙上油管能投屏到电视么？",
         "link": "https://www.v2ex.com/t/898099",
-        "date": "2022-11-26"
-      },
-      {
-        "title": "遇到诡异的问题：字符串\"突变\"",
-        "link": "https://www.v2ex.com/t/898097",
-        "date": "2022-11-26"
-      },
-      {
-        "title": "学了一周 haskell 的感受",
-        "link": "https://www.v2ex.com/t/898095",
-        "date": "2022-11-26"
-      },
-      {
-        "title": "想入门一套家庭影院，大家看看这个配置咋样。",
-        "link": "https://www.v2ex.com/t/898094",
-        "date": "2022-11-26"
-      },
-      {
-        "title": "高层应该如何应对火灾？我们小区存在的消防隐患。",
-        "link": "https://www.v2ex.com/t/898093",
-        "date": "2022-11-26"
-      },
-      {
-        "title": "垃圾 gmail 为什么加载的时候 特别慢 总是要等 3-5 秒 恶心死了 每次都是这样 有办法吗 大佬们 有没有办法让它像命令行那样 速度超快 同时又很方便使用 大佬们都...",
-        "link": "https://www.v2ex.com/t/898092",
-        "date": "2022-11-26"
-      },
-      {
-        "title": "macOS 重启后设置丢失的 bug",
-        "link": "https://www.v2ex.com/t/898091",
         "date": "2022-11-26"
       }
     ]
@@ -10218,11 +10213,6 @@
         "title": "日志记录的最佳实践 (insights.thoughtworks.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
         "date": "2022-11-26"
-      },
-      {
-        "title": "一个非教条式的TDD例子 (insights.thoughtworks.cn)",
-        "link": "https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-11-26"
       }
     ]
   },
@@ -10282,8 +10272,8 @@
         "date": "2022-11-26"
       },
       {
-        "title": "[推荐] 一条 SQL 查询语句是如何执行的？",
-        "link": "https://toutiao.io/k/8y71vds",
+        "title": "[推荐] DDD 之业务系统搭建的设计思考",
+        "link": "https://toutiao.io/k/783naw9",
         "date": "2022-11-26"
       },
       {
@@ -10292,8 +10282,8 @@
         "date": "2022-11-26"
       },
       {
-        "title": "[推荐] DDD 之业务系统搭建的设计思考",
-        "link": "https://toutiao.io/k/783naw9",
+        "title": "[推荐] 一条 SQL 查询语句是如何执行的？",
+        "link": "https://toutiao.io/k/8y71vds",
         "date": "2022-11-26"
       }
     ]

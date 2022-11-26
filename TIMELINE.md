@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-26 11:35:11。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-26 12:20:08。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -71,6 +71,12 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-11-20-JS之我用单img元素实现了图像resize拉伸效果](https://www.zhangxinxu.com/wordpress/2022/11/js-image-resize/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-26-不得不说招商银行的-APP-体验真的不错，至少在同类应用里体验是比较好的](https://www.v2ex.com/t/898148) 
+- [【V2EX】2022-11-26-同时开-ssr+和-openclash-会串流量.](https://www.v2ex.com/t/898147) 
+- [【V2EX】2022-11-26-有-ai-类社区论坛吗](https://www.v2ex.com/t/898146) 
+- [【V2EX】2022-11-26-使用-utools-打开-vscode-出现-gcc-:-无法将“gcc”项识别为-cmdlet、函数、脚本文件或可运行程序的名称。请检查名称的拼写，如果包括路径，请确保路径正确，然...](https://www.v2ex.com/t/898145) 
+- [【V2EX】2022-11-26-群晖系统挂载-TrueNAS-存储使用有坑吗](https://www.v2ex.com/t/898144) 
+- [【V2EX】2022-11-26-各位老哥，是如何保护自己的颈椎和腰椎的？麻烦推荐一下方法或者锻炼视频吧。](https://www.v2ex.com/t/898142) 
 - [【V2EX】2022-11-26-Mac-下，-Chrome-网页视频通过-homepod-mini-音画不同步](https://www.v2ex.com/t/898140) 
 - [【V2EX】2022-11-26-icloudpd-目前无法进行验证了，还有别的类似的工具吗](https://www.v2ex.com/t/898139) 
 - [【V2EX】2022-11-26-老哥们-有速干衣、速干裤推荐吗？](https://www.v2ex.com/t/898138) 
@@ -101,14 +107,7 @@
 - [【V2EX】2022-11-26-steam-deck-和-ns-选哪个？](https://www.v2ex.com/t/898103) 
 - [【V2EX】2022-11-26-需求一个馒头邀请](https://www.v2ex.com/t/898102) 
 - [【V2EX】2022-11-26-iPhone-连耳机时，最小音量还是太大，有什么办法吗？](https://www.v2ex.com/t/898101) 
-- [【V2EX】2022-11-26-广州这是怎么了?-怎么突然就开始沉默了?](https://www.v2ex.com/t/898100) 
 - [【V2EX】2022-11-26-手机翻墙上油管能投屏到电视么？](https://www.v2ex.com/t/898099) 
-- [【V2EX】2022-11-26-遇到诡异的问题：字符串"突变"](https://www.v2ex.com/t/898097) 
-- [【V2EX】2022-11-26-学了一周-haskell-的感受](https://www.v2ex.com/t/898095) 
-- [【V2EX】2022-11-26-想入门一套家庭影院，大家看看这个配置咋样。](https://www.v2ex.com/t/898094) 
-- [【V2EX】2022-11-26-高层应该如何应对火灾？我们小区存在的消防隐患。](https://www.v2ex.com/t/898093) 
-- [【V2EX】2022-11-26-垃圾-gmail-为什么加载的时候-特别慢-总是要等-3-5-秒-恶心死了-每次都是这样-有办法吗-大佬们-有没有办法让它像命令行那样-速度超快-同时又很方便使用-大佬们都...](https://www.v2ex.com/t/898092) 
-- [【V2EX】2022-11-26-macOS-重启后设置丢失的-bug](https://www.v2ex.com/t/898091) 
 - [【技术头条】2022-11-26-前端性能优化心法-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15416&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-performance-tuning%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-26-当我们谈论DDD时我们在谈论什么-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15415&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fstrategy-and-tactical-design-of-ddd%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-26-如何基于-Prerender-为-SPA-做-SEO-优化-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=15414&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fhow-to-optimize-seo-for-spa-based-on-prerender%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -123,7 +122,6 @@
 - [【技术头条】2022-11-26-DDD的哲学意味（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15405&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fddd-philosophy-entity-value-object%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-26-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-26-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [【技术头条】2022-11-26-一个非教条式的TDD例子-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15402&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-by-example%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【开发者头条】2022-11-26-优质网站同好者周刊（第-093-期）](https://toutiao.io/k/lxvhagy) 
 - [【开发者头条】2022-11-26-重塑认识-Java-编译器的执行过程（消除数组边界检查-+-公共子表达式）](https://toutiao.io/k/ixhipj5) 
 - [【开发者头条】2022-11-26-干货！用大白话告诉你什么是-Mock-测试](https://toutiao.io/k/jaz776u) 
@@ -134,9 +132,9 @@
 - [【开发者头条】2022-11-26-.NET-性能优化：使用结构体替代类](https://toutiao.io/k/p53x0mn) 
 - [【开发者头条】2022-11-26-百亿数据个性化推荐：弹幕工程架构演进](https://toutiao.io/k/iuvd2pw) 
 - [【开发者头条】2022-11-26-28-张图，一次性说清楚-TCP](https://toutiao.io/k/thtikrq) 
-- [【开发者头条】2022-11-26-推荐-一条-SQL-查询语句是如何执行的？](https://toutiao.io/k/8y71vds) 
-- [【开发者头条】2022-11-26-推荐-万字长文细说-Code-Review-的正确姿势](https://toutiao.io/k/cxf9ver) 
 - [【开发者头条】2022-11-26-推荐-DDD-之业务系统搭建的设计思考](https://toutiao.io/k/783naw9) 
+- [【开发者头条】2022-11-26-推荐-万字长文细说-Code-Review-的正确姿势](https://toutiao.io/k/cxf9ver) 
+- [【开发者头条】2022-11-26-推荐-一条-SQL-查询语句是如何执行的？](https://toutiao.io/k/8y71vds) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

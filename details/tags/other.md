@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-26 05:10:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-26 05:35:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1916,6 +1916,9 @@
 - [2022-10-20-告别pointer-events:none使用HTML-inert属性真正禁用](https://www.zhangxinxu.com/wordpress/2022/10/html-inert-disabled-attribute/) 
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
+- [2022-11-26-N-问微信？你看我-桌面/下载目录/日程。。。-干吗？还有啥你不看的吗？](https://www.v2ex.com/t/898067) 
+- [2022-11-26-Mac-上的实时字幕（Beta-版）在哪些国家和地区能使用啊？](https://www.v2ex.com/t/898065) 
+- [2022-11-26-Evernote-APP-突然不能登录了，啥情况？](https://www.v2ex.com/t/898064) 
 - [2022-11-26-搞了几张-AMD-的-mi250x-专业卡，有没有练丹大佬来看看这玩意可以做什么](https://www.v2ex.com/t/898063) 
 - [2022-11-26-求一个馒头药](https://www.v2ex.com/t/898062) 
 - [2022-11-26-出-香港-6-核-6g66g，英国-10Gbps-无限流量](https://www.v2ex.com/t/898059) 
@@ -1940,8 +1943,6 @@
 - [2022-11-26-优豆云免费云主机真好用](https://www.v2ex.com/t/898020) 
 - [2022-11-26-700-平价出-黑五斯巴达-SpartanHost-4Core-4GB-E5-VPS](https://www.v2ex.com/t/898019) 
 - [2022-11-26-问大家一个关于-tomcat-项目启动报-ClassNotFoundException:-com.mysql.jdbc.Driver-的问题](https://www.v2ex.com/t/898018) 
-- [2022-11-26-请教一个-C-语言问题](https://www.v2ex.com/t/898016) 
-- [2022-11-26-关于北京移动宽带升级-1000M](https://www.v2ex.com/t/898014) 
 - [2022-11-26-当我们谈论DDD时我们在谈论什么-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15415&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fstrategy-and-tactical-design-of-ddd%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-26-2022，「倾城之链」运营第-6-年感记-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=15413&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fnicelinks-site-in-2022%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-26-浅谈数据和人工智能项目的管理-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15412&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fproject-management-big-data-artificial-intelligence%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

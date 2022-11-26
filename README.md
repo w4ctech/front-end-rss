@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-26 05:10:58，:rocket: 更新条数: +2007， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-26 05:35:22，:rocket: 更新条数: +2007， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-11-26-N-问微信？你看我-桌面/下载目录/日程。。。-干吗？还有啥你不看的吗？](https://www.v2ex.com/t/898067) ![](assets/new.png)  
+- [2022-11-26-Mac-上的实时字幕（Beta-版）在哪些国家和地区能使用啊？](https://www.v2ex.com/t/898065) ![](assets/new.png)  
+- [2022-11-26-Evernote-APP-突然不能登录了，啥情况？](https://www.v2ex.com/t/898064) ![](assets/new.png)  
 - [2022-11-26-搞了几张-AMD-的-mi250x-专业卡，有没有练丹大佬来看看这玩意可以做什么](https://www.v2ex.com/t/898063) ![](assets/new.png)  
 - [2022-11-26-求一个馒头药](https://www.v2ex.com/t/898062) ![](assets/new.png)  
 - [2022-11-26-出-香港-6-核-6g66g，英国-10Gbps-无限流量](https://www.v2ex.com/t/898059) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-11-26-咨询下国内信息审查的问题](https://www.v2ex.com/t/898041) ![](assets/new.png)  
 - [2022-11-26-远程全职前后端各一名-Python-,-vue](https://www.v2ex.com/t/898039) ![](assets/new.png)  
 - [2022-11-26-个人转租，坂田岗头地铁站-500-米一房一厅，房租-1200，天安云谷对面](https://www.v2ex.com/t/898038) ![](assets/new.png)  
-- [2022-11-26-macOS-下，-idea-不能打开，且不显示菜单栏,请问有什么办法恢复吗](https://www.v2ex.com/t/898037) ![](assets/new.png)  
-- [2022-11-26-求一个馒头邀请](https://www.v2ex.com/t/898036) ![](assets/new.png)  
-- [2022-11-26-如何检查和维护对-node_modules-内文件的本地修改？](https://www.v2ex.com/t/898035) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -556,8 +556,8 @@
 - [2022-11-26-深入解读-Raft-算法与-etcd-工程实现](https://toutiao.io/k/7ci5xy4) ![](assets/new.png)  
 - [2022-11-26-SpringBoot-整合-JWT-+-Redis-实现双Token-校验-Demo](https://toutiao.io/k/gju5suq) ![](assets/new.png)  
 - [2022-11-26-.NET-性能优化：使用结构体替代类](https://toutiao.io/k/p53x0mn) ![](assets/new.png)  
-- [2022-11-26-推荐-一条-SQL-查询语句是如何执行的？](https://toutiao.io/k/8y71vds) ![](assets/new.png)  
 - [2022-11-26-推荐-万字长文细说-Code-Review-的正确姿势](https://toutiao.io/k/cxf9ver) ![](assets/new.png)  
+- [2022-11-26-推荐-一条-SQL-查询语句是如何执行的？](https://toutiao.io/k/8y71vds) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

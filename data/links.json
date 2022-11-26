@@ -9953,6 +9953,21 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "N 问微信？你看我 桌面/下载目录/日程。。。 干吗？还有啥你不看的吗？",
+        "link": "https://www.v2ex.com/t/898067",
+        "date": "2022-11-26"
+      },
+      {
+        "title": "Mac 上的实时字幕（Beta 版）在哪些国家和地区能使用啊？",
+        "link": "https://www.v2ex.com/t/898065",
+        "date": "2022-11-26"
+      },
+      {
+        "title": "Evernote APP 突然不能登录了，啥情况？",
+        "link": "https://www.v2ex.com/t/898064",
+        "date": "2022-11-26"
+      },
+      {
         "title": "搞了几张 AMD 的 mi250x 专业卡，有没有练丹大佬来看看这玩意可以做什么",
         "link": "https://www.v2ex.com/t/898063",
         "date": "2022-11-26"
@@ -10116,21 +10131,6 @@
         "title": "问大家一个关于 tomcat 项目启动报 ClassNotFoundException: com.mysql.jdbc.Driver 的问题",
         "link": "https://www.v2ex.com/t/898018",
         "date": "2022-11-26"
-      },
-      {
-        "title": "请教一个 C 语言问题",
-        "link": "https://www.v2ex.com/t/898016",
-        "date": "2022-11-26"
-      },
-      {
-        "title": "2.5 机械盘适合做 nas 吗 读写只有 100 不到 会不会太慢 看个视频都拖不动进度条？",
-        "link": "https://www.v2ex.com/t/898015",
-        "date": "2022-11-26"
-      },
-      {
-        "title": "关于北京移动宽带升级 1000M",
-        "link": "https://www.v2ex.com/t/898014",
-        "date": "2022-11-26"
       }
     ]
   },
@@ -10262,13 +10262,13 @@
         "date": "2022-11-26"
       },
       {
-        "title": "[推荐] 一条 SQL 查询语句是如何执行的？",
-        "link": "https://toutiao.io/k/8y71vds",
+        "title": "[推荐] 万字长文细说 Code Review 的正确姿势",
+        "link": "https://toutiao.io/k/cxf9ver",
         "date": "2022-11-26"
       },
       {
-        "title": "[推荐] 万字长文细说 Code Review 的正确姿势",
-        "link": "https://toutiao.io/k/cxf9ver",
+        "title": "[推荐] 一条 SQL 查询语句是如何执行的？",
+        "link": "https://toutiao.io/k/8y71vds",
         "date": "2022-11-26"
       }
     ]

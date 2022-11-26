@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-26 12:20:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-26 12:55:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1916,6 +1916,11 @@
 - [2022-10-20-告别pointer-events:none使用HTML-inert属性真正禁用](https://www.zhangxinxu.com/wordpress/2022/10/html-inert-disabled-attribute/) 
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
+- [2022-11-26-腾讯云该不该赶快买，以后是不是会没了？](https://www.v2ex.com/t/898156) 
+- [2022-11-26-获取指定主题时能否添加收藏数](https://www.v2ex.com/t/898155) 
+- [2022-11-26-今天吃饭时和我妈闲聊，搞得我有点哭笑不得。](https://www.v2ex.com/t/898151) 
+- [2022-11-26-有知道哪些免费的反向代理服务吗](https://www.v2ex.com/t/898150) 
+- [2022-11-26-微信的收藏怎么备份，释放空间啊](https://www.v2ex.com/t/898149) 
 - [2022-11-26-不得不说招商银行的-APP-体验真的不错，至少在同类应用里体验是比较好的](https://www.v2ex.com/t/898148) 
 - [2022-11-26-同时开-ssr+和-openclash-会串流量.](https://www.v2ex.com/t/898147) 
 - [2022-11-26-有-ai-类社区论坛吗](https://www.v2ex.com/t/898146) 
@@ -1942,13 +1947,6 @@
 - [2022-11-26-E843，高效利用微信学英语、看新闻的小工具](https://www.v2ex.com/t/898110) 
 - [2022-11-26-怎样举报百度网盘](https://www.v2ex.com/t/898108) 
 - [2022-11-26-WorkWorkMe---用-RSS-订阅岗位](https://www.v2ex.com/t/898107) 
-- [2022-11-26-有哪些好的英文-IT-技术新闻网站？](https://www.v2ex.com/t/898106) 
-- [2022-11-26-更新到-13.0.1-后待机耗电速度特别快](https://www.v2ex.com/t/898105) 
-- [2022-11-26-ln--s-软链接的问题](https://www.v2ex.com/t/898104) 
-- [2022-11-26-steam-deck-和-ns-选哪个？](https://www.v2ex.com/t/898103) 
-- [2022-11-26-需求一个馒头邀请](https://www.v2ex.com/t/898102) 
-- [2022-11-26-iPhone-连耳机时，最小音量还是太大，有什么办法吗？](https://www.v2ex.com/t/898101) 
-- [2022-11-26-手机翻墙上油管能投屏到电视么？](https://www.v2ex.com/t/898099) 
 - [2022-11-26-当我们谈论DDD时我们在谈论什么-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15415&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fstrategy-and-tactical-design-of-ddd%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-26-2022，「倾城之链」运营第-6-年感记-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=15413&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fnicelinks-site-in-2022%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-26-浅谈数据和人工智能项目的管理-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15412&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fproject-management-big-data-artificial-intelligence%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1965,5 +1963,5 @@
 - [2022-11-26-独立开发变现周刊（第81期）：开发一个应用来减少屏幕使用时间，月收入-2-万美元](https://toutiao.io/k/wzlxohy) 
 - [2022-11-26-百亿数据个性化推荐：弹幕工程架构演进](https://toutiao.io/k/iuvd2pw) 
 - [2022-11-26-28-张图，一次性说清楚-TCP](https://toutiao.io/k/thtikrq) 
-- [2022-11-26-推荐-DDD-之业务系统搭建的设计思考](https://toutiao.io/k/783naw9) 
 - [2022-11-26-推荐-一条-SQL-查询语句是如何执行的？](https://toutiao.io/k/8y71vds) 
+- [2022-11-26-推荐-DDD-之业务系统搭建的设计思考](https://toutiao.io/k/783naw9) 

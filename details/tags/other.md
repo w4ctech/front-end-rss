@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-26 06:14:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-26 06:40:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1916,6 +1916,10 @@
 - [2022-10-20-告别pointer-events:none使用HTML-inert属性真正禁用](https://www.zhangxinxu.com/wordpress/2022/10/html-inert-disabled-attribute/) 
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
+- [2022-11-26-狗东售后怎么这么弱智的，我第一次在电商售后服务单里骂人](https://www.v2ex.com/t/898079) 
+- [2022-11-26-RoundedTB-on-Microsoft-Store](https://www.v2ex.com/t/898078) 
+- [2022-11-26-如何给键盘设置键盘音](https://www.v2ex.com/t/898077) 
+- [2022-11-26-劳动仲裁调解结果来了](https://www.v2ex.com/t/898076) 
 - [2022-11-26-外包的接的活，公司直接把钱打到我的个人账户。年底会因为这个补税吗？](https://www.v2ex.com/t/898071) 
 - [2022-11-26-是哪个始作俑者把-out-of-memory-翻译成内存溢出的？](https://www.v2ex.com/t/898069) 
 - [2022-11-26-N-问微信？你看我-桌面/下载目录/日程。。。-干吗？还有啥你不看的吗？](https://www.v2ex.com/t/898067) 
@@ -1927,7 +1931,6 @@
 - [2022-11-26-远程-招一位远程产品经理，可全日或半日，薪资-1w-2w](https://www.v2ex.com/t/898058) 
 - [2022-11-26-win11-网络启动，刚关机启动和内网启动都能网络开机，过段时间就不行。台式机、七彩虹-b460m-主板，有动态公网-ip-用-ddns-方式做了端口映射](https://www.v2ex.com/t/898055) 
 - [2022-11-26-想入手个-iPad-Pro-不知道怎么选](https://www.v2ex.com/t/898052) 
-- [2022-11-26-现在招人真难啊](https://www.v2ex.com/t/898050) 
 - [2022-11-26-广州静默了，下周全公司远程办公，关于-CodeWithMe-的问题](https://www.v2ex.com/t/898043) 
 - [2022-11-26-想搞个设备，求推荐](https://www.v2ex.com/t/898042) 
 - [2022-11-26-咨询下国内信息审查的问题](https://www.v2ex.com/t/898041) 
@@ -1935,9 +1938,6 @@
 - [2022-11-26-macOS-下，-idea-不能打开，且不显示菜单栏,请问有什么办法恢复吗](https://www.v2ex.com/t/898037) 
 - [2022-11-26-求一个馒头邀请](https://www.v2ex.com/t/898036) 
 - [2022-11-26-人在天河，房子还有一天到期不想续，但被封路了咋办](https://www.v2ex.com/t/898031) 
-- [2022-11-26-有没有购买微星的-PRO-B650M-A-WIFI-这款主板的老哥能帮忙看一下-iommu-分组的情况](https://www.v2ex.com/t/898029) 
-- [2022-11-26-PS5/A80J-接三星回音壁开机无声和偶尔无声的问题](https://www.v2ex.com/t/898028) 
-- [2022-11-26-卡马克谈最好的编程语言](https://www.v2ex.com/t/898027) 
 - [2022-11-26-当我们谈论DDD时我们在谈论什么-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15415&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fstrategy-and-tactical-design-of-ddd%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-26-2022，「倾城之链」运营第-6-年感记-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=15413&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fnicelinks-site-in-2022%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-26-浅谈数据和人工智能项目的管理-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15412&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fproject-management-big-data-artificial-intelligence%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

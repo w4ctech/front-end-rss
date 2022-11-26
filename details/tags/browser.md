@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-26 04:14:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-26 04:41:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -13,6 +13,7 @@
 - [2021-04-14-腺病毒新冠疫苗引安全忧虑-康希诺称未发现血栓病例](https://m.caixin.com/m/2021-04-14/101691086.html) 
 - [2021-01-08-解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html) 
 - [2021-01-01-大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html) 
+- [2022-11-26-引擎之神卡马克谈调试器、代码分析器和最好的-IDE](https://www.v2ex.com/t/898053) 
 - [2022-11-26-安卓现在有哪些代码检测工具可以推荐下吗?主要用来-review-代码的,-能一键修复常见简单问题的最好](https://www.v2ex.com/t/898045) 
 - [2022-11-26-Ventura-的-Safari，信任了使用自签名证书的网站，但是在钥匙串中并没出现对应的证书？](https://www.v2ex.com/t/898033) 
 - [2022-11-26-团队的Code-Review实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15409&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-code-review%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

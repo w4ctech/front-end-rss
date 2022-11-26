@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-26 09:35:29，:rocket: 更新条数: +2012， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-26 10:11:56，:rocket: 更新条数: +2011， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-11-26-请教一个问题，是否可以给-apple-tv-传电影](https://www.v2ex.com/t/898129) ![](assets/new.png)  
+- [2022-11-26-Photolibraryd-每天写入几十-g-有什么解决方法，我都没多少照片，都写-1-年了](https://www.v2ex.com/t/898126) ![](assets/new.png)  
+- [2022-11-26-向公司申请了一个服务器，只为了放一个爬虫脚本，却给了我这么大的，还可以干点啥？](https://www.v2ex.com/t/898124) ![](assets/new.png)  
+- [2022-11-26-农村自建房屋顶防雨方案求教](https://www.v2ex.com/t/898123) ![](assets/new.png)  
+- [2022-11-26-云函数调用第三方-API-问题](https://www.v2ex.com/t/898122) ![](assets/new.png)  
+- [2022-11-26-分享一个法律常识：法律为什么是统治阶级意志的体现?](https://www.v2ex.com/t/898121) ![](assets/new.png)  
 - [2022-11-26-有人能用编程语言讲解「税后到手工资」的计算方式吗？](https://www.v2ex.com/t/898119) ![](assets/new.png)  
 - [2022-11-26-各位对-cppfront-怎么看？](https://www.v2ex.com/t/898118) ![](assets/new.png)  
 - [2022-11-26-icloud-使用中让我百思不得其解的问题](https://www.v2ex.com/t/898116) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-11-26-ln--s-软链接的问题](https://www.v2ex.com/t/898104) ![](assets/new.png)  
 - [2022-11-26-steam-deck-和-ns-选哪个？](https://www.v2ex.com/t/898103) ![](assets/new.png)  
 - [2022-11-26-需求一个馒头邀请](https://www.v2ex.com/t/898102) ![](assets/new.png)  
-- [2022-11-26-iPhone-连耳机时，最小音量还是太大，有什么办法吗？](https://www.v2ex.com/t/898101) ![](assets/new.png)  
-- [2022-11-26-广州这是怎么了?-怎么突然就开始沉默了?](https://www.v2ex.com/t/898100) ![](assets/new.png)  
-- [2022-11-26-手机翻墙上油管能投屏到电视么？](https://www.v2ex.com/t/898099) ![](assets/new.png)  
-- [2022-11-26-遇到诡异的问题：字符串"突变"](https://www.v2ex.com/t/898097) ![](assets/new.png)  
-- [2022-11-26-学了一周-haskell-的感受](https://www.v2ex.com/t/898095) ![](assets/new.png)  
-- [2022-11-26-想入门一套家庭影院，大家看看这个配置咋样。](https://www.v2ex.com/t/898094) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -559,6 +559,7 @@
 - [2022-11-26-百亿数据个性化推荐：弹幕工程架构演进](https://toutiao.io/k/iuvd2pw) ![](assets/new.png)  
 - [2022-11-26-28-张图，一次性说清楚-TCP](https://toutiao.io/k/thtikrq) ![](assets/new.png)  
 - [2022-11-26-推荐-万字长文细说-Code-Review-的正确姿势](https://toutiao.io/k/cxf9ver) ![](assets/new.png)  
+- [2022-11-26-推荐-DDD-之业务系统搭建的设计思考](https://toutiao.io/k/783naw9) ![](assets/new.png)  
 - [2022-11-26-推荐-一条-SQL-查询语句是如何执行的？](https://toutiao.io/k/8y71vds) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

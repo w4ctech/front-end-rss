@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-26 09:35:29。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-26 10:11:56。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -71,6 +71,12 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-11-20-JS之我用单img元素实现了图像resize拉伸效果](https://www.zhangxinxu.com/wordpress/2022/11/js-image-resize/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-26-请教一个问题，是否可以给-apple-tv-传电影](https://www.v2ex.com/t/898129) 
+- [【V2EX】2022-11-26-Photolibraryd-每天写入几十-g-有什么解决方法，我都没多少照片，都写-1-年了](https://www.v2ex.com/t/898126) 
+- [【V2EX】2022-11-26-向公司申请了一个服务器，只为了放一个爬虫脚本，却给了我这么大的，还可以干点啥？](https://www.v2ex.com/t/898124) 
+- [【V2EX】2022-11-26-农村自建房屋顶防雨方案求教](https://www.v2ex.com/t/898123) 
+- [【V2EX】2022-11-26-云函数调用第三方-API-问题](https://www.v2ex.com/t/898122) 
+- [【V2EX】2022-11-26-分享一个法律常识：法律为什么是统治阶级意志的体现?](https://www.v2ex.com/t/898121) 
 - [【V2EX】2022-11-26-有人能用编程语言讲解「税后到手工资」的计算方式吗？](https://www.v2ex.com/t/898119) 
 - [【V2EX】2022-11-26-各位对-cppfront-怎么看？](https://www.v2ex.com/t/898118) 
 - [【V2EX】2022-11-26-icloud-使用中让我百思不得其解的问题](https://www.v2ex.com/t/898116) 
@@ -102,14 +108,6 @@
 - [【V2EX】2022-11-26-想尝试下国外的手卷烟丝,咋买](https://www.v2ex.com/t/898084) 
 - [【V2EX】2022-11-26-Mybatis-Plus-update-会偶发丢失-where-参数，应该怎么排查？](https://www.v2ex.com/t/898082) 
 - [【V2EX】2022-11-26-有人有安装过-NopeCHA-扩展吗?-疑似劫持浏览器](https://www.v2ex.com/t/898080) 
-- [【V2EX】2022-11-26-狗东售后怎么这么弱智的，我第一次在电商售后服务单里骂人](https://www.v2ex.com/t/898079) 
-- [【V2EX】2022-11-26-RoundedTB-on-Microsoft-Store](https://www.v2ex.com/t/898078) 
-- [【V2EX】2022-11-26-如何给键盘设置键盘音](https://www.v2ex.com/t/898077) 
-- [【V2EX】2022-11-26-劳动仲裁调解结果来了](https://www.v2ex.com/t/898076) 
-- [【V2EX】2022-11-26-所以自定义-hook-可以当函数组件来用嘛··](https://www.v2ex.com/t/898075) 
-- [【V2EX】2022-11-26-各位大佬对云游戏的前景都持什么看法](https://www.v2ex.com/t/898074) 
-- [【V2EX】2022-11-26-tailscale-打洞成功后为什么这么不稳定=-=](https://www.v2ex.com/t/898072) 
-- [【V2EX】2022-11-26-外包的接的活，公司直接把钱打到我的个人账户。年底会因为这个补税吗？](https://www.v2ex.com/t/898071) 
 - [【技术头条】2022-11-26-前端性能优化心法-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15416&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-performance-tuning%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-26-当我们谈论DDD时我们在谈论什么-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15415&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fstrategy-and-tactical-design-of-ddd%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-26-如何基于-Prerender-为-SPA-做-SEO-优化-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=15414&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fhow-to-optimize-seo-for-spa-based-on-prerender%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -136,6 +134,7 @@
 - [【开发者头条】2022-11-26-百亿数据个性化推荐：弹幕工程架构演进](https://toutiao.io/k/iuvd2pw) 
 - [【开发者头条】2022-11-26-28-张图，一次性说清楚-TCP](https://toutiao.io/k/thtikrq) 
 - [【开发者头条】2022-11-26-推荐-万字长文细说-Code-Review-的正确姿势](https://toutiao.io/k/cxf9ver) 
+- [【开发者头条】2022-11-26-推荐-DDD-之业务系统搭建的设计思考](https://toutiao.io/k/783naw9) 
 - [【开发者头条】2022-11-26-推荐-一条-SQL-查询语句是如何执行的？](https://toutiao.io/k/8y71vds) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>

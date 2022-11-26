@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-26 17:35:19，:rocket: 更新条数: +2011， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-26 18:13:38，:rocket: 更新条数: +2011， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-11-26-因工作等等，需要双卡套餐，话说有什么实惠套餐-or-乞丐版套装，基本没电话也少用流量？](https://www.v2ex.com/t/898196) ![](assets/new.png)  
+- [2022-11-26-一百年来，学生们从未改变](https://www.v2ex.com/t/898195) ![](assets/new.png)  
 - [2022-11-26-翻译微软独立研究员-Anthony-Shaw-的《CPython-Internals》-《CPython-实现原理》](https://www.v2ex.com/t/898194) ![](assets/new.png)  
 - [2022-11-26-要想在广州买房，至少得有多少钱？](https://www.v2ex.com/t/898193) ![](assets/new.png)  
 - [2022-11-26-二手-iPhone13PM-和-iPhone14-plus，价格相差不大，买哪一个](https://www.v2ex.com/t/898192) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-11-26-Apple-Watch-S3-提示空间不足之后，直接卡在开机界面。](https://www.v2ex.com/t/898173) ![](assets/new.png)  
 - [2022-11-26-360-一体水冷和一般双塔风冷的散热效果差别大吗？](https://www.v2ex.com/t/898172) ![](assets/new.png)  
 - [2022-11-26-xftp-替代品](https://www.v2ex.com/t/898171) ![](assets/new.png)  
-- [2022-11-26-v-友们，有方便查询个股北向资金持仓变化的地方吗？](https://www.v2ex.com/t/898170) ![](assets/new.png)  
-- [2022-11-26-vscode-如何设定鼠标快捷键回退位置，像-clion-一样](https://www.v2ex.com/t/898169) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -557,8 +557,8 @@
 - [2022-11-26-深入解读-Raft-算法与-etcd-工程实现](https://toutiao.io/k/7ci5xy4) ![](assets/new.png)  
 - [2022-11-26-.NET-性能优化：使用结构体替代类](https://toutiao.io/k/p53x0mn) ![](assets/new.png)  
 - [2022-11-26-28-张图，一次性说清楚-TCP](https://toutiao.io/k/thtikrq) ![](assets/new.png)  
-- [2022-11-26-推荐-一条-SQL-查询语句是如何执行的？](https://toutiao.io/k/8y71vds) ![](assets/new.png)  
 - [2022-11-26-推荐-DDD-之业务系统搭建的设计思考](https://toutiao.io/k/783naw9) ![](assets/new.png)  
+- [2022-11-26-推荐-一条-SQL-查询语句是如何执行的？](https://toutiao.io/k/8y71vds) ![](assets/new.png)  
 - [2022-11-26-推荐-SQL-常用脚本大全](https://toutiao.io/k/5nnfmun) ![](assets/new.png)  
 - [2022-11-26-推荐-万字长文细说-Code-Review-的正确姿势](https://toutiao.io/k/cxf9ver) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)

@@ -9953,6 +9953,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "因工作等等，需要双卡套餐，话说有什么实惠套餐 or 乞丐版套装，基本没电话也少用流量？",
+        "link": "https://www.v2ex.com/t/898196",
+        "date": "2022-11-26"
+      },
+      {
+        "title": "一百年来，学生们从未改变",
+        "link": "https://www.v2ex.com/t/898195",
+        "date": "2022-11-26"
+      },
+      {
         "title": "翻译微软独立研究员 Anthony Shaw 的《CPython Internals》-《CPython 实现原理》",
         "link": "https://www.v2ex.com/t/898194",
         "date": "2022-11-26"
@@ -10126,16 +10136,6 @@
         "title": "同时开 ssr+和 openclash 会串流量.",
         "link": "https://www.v2ex.com/t/898147",
         "date": "2022-11-26"
-      },
-      {
-        "title": "有 ai 类社区论坛吗",
-        "link": "https://www.v2ex.com/t/898146",
-        "date": "2022-11-26"
-      },
-      {
-        "title": "使用 utools 打开 vscode 出现 gcc : 无法将“gcc”项识别为 cmdlet、函数、脚本文件或可运行程序的名称。请检查名称的拼写，如果包括路径，请确保路径正确，然...",
-        "link": "https://www.v2ex.com/t/898145",
-        "date": "2022-11-26"
       }
     ]
   },
@@ -10272,13 +10272,13 @@
         "date": "2022-11-26"
       },
       {
-        "title": "[推荐] 一条 SQL 查询语句是如何执行的？",
-        "link": "https://toutiao.io/k/8y71vds",
+        "title": "[推荐] DDD 之业务系统搭建的设计思考",
+        "link": "https://toutiao.io/k/783naw9",
         "date": "2022-11-26"
       },
       {
-        "title": "[推荐] DDD 之业务系统搭建的设计思考",
-        "link": "https://toutiao.io/k/783naw9",
+        "title": "[推荐] 一条 SQL 查询语句是如何执行的？",
+        "link": "https://toutiao.io/k/8y71vds",
         "date": "2022-11-26"
       },
       {

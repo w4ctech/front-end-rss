@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-26 17:35:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-26 18:13:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1916,6 +1916,8 @@
 - [2022-10-20-告别pointer-events:none使用HTML-inert属性真正禁用](https://www.zhangxinxu.com/wordpress/2022/10/html-inert-disabled-attribute/) 
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
+- [2022-11-26-因工作等等，需要双卡套餐，话说有什么实惠套餐-or-乞丐版套装，基本没电话也少用流量？](https://www.v2ex.com/t/898196) 
+- [2022-11-26-一百年来，学生们从未改变](https://www.v2ex.com/t/898195) 
 - [2022-11-26-翻译微软独立研究员-Anthony-Shaw-的《CPython-Internals》-《CPython-实现原理》](https://www.v2ex.com/t/898194) 
 - [2022-11-26-要想在广州买房，至少得有多少钱？](https://www.v2ex.com/t/898193) 
 - [2022-11-26-二手-iPhone13PM-和-iPhone14-plus，价格相差不大，买哪一个](https://www.v2ex.com/t/898192) 
@@ -1947,8 +1949,6 @@
 - [2022-11-26-微信的收藏怎么备份，释放空间啊](https://www.v2ex.com/t/898149) 
 - [2022-11-26-不得不说招商银行的-APP-体验真的不错，至少在同类应用里体验是比较好的](https://www.v2ex.com/t/898148) 
 - [2022-11-26-同时开-ssr+和-openclash-会串流量.](https://www.v2ex.com/t/898147) 
-- [2022-11-26-有-ai-类社区论坛吗](https://www.v2ex.com/t/898146) 
-- [2022-11-26-使用-utools-打开-vscode-出现-gcc-:-无法将“gcc”项识别为-cmdlet、函数、脚本文件或可运行程序的名称。请检查名称的拼写，如果包括路径，请确保路径正确，然...](https://www.v2ex.com/t/898145) 
 - [2022-11-26-当我们谈论DDD时我们在谈论什么-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15415&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fstrategy-and-tactical-design-of-ddd%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-26-2022，「倾城之链」运营第-6-年感记-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=15413&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fnicelinks-site-in-2022%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-26-浅谈数据和人工智能项目的管理-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15412&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fproject-management-big-data-artificial-intelligence%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1965,6 +1965,6 @@
 - [2022-11-26-独立开发变现周刊（第81期）：开发一个应用来减少屏幕使用时间，月收入-2-万美元](https://toutiao.io/k/wzlxohy) 
 - [2022-11-26-百亿数据个性化推荐：弹幕工程架构演进](https://toutiao.io/k/iuvd2pw) 
 - [2022-11-26-28-张图，一次性说清楚-TCP](https://toutiao.io/k/thtikrq) 
-- [2022-11-26-推荐-一条-SQL-查询语句是如何执行的？](https://toutiao.io/k/8y71vds) 
 - [2022-11-26-推荐-DDD-之业务系统搭建的设计思考](https://toutiao.io/k/783naw9) 
+- [2022-11-26-推荐-一条-SQL-查询语句是如何执行的？](https://toutiao.io/k/8y71vds) 
 - [2022-11-26-推荐-SQL-常用脚本大全](https://toutiao.io/k/5nnfmun) 

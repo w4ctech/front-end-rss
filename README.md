@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-26 02:22:45，:rocket: 更新条数: +2009， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-26 03:04:03，:rocket: 更新条数: +2007， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-11-26-给重庆市民点赞](https://www.v2ex.com/t/898034) ![](assets/new.png)  
+- [2022-11-26-Ventura-的-Safari，信任了使用自签名证书的网站，但是在钥匙串中并没出现对应的证书？](https://www.v2ex.com/t/898033) ![](assets/new.png)  
+- [2022-11-26-人在天河，房子还有一天到期不想续，但被封路了咋办](https://www.v2ex.com/t/898031) ![](assets/new.png)  
+- [2022-11-26-有没有购买微星的-PRO-B650M-A-WIFI-这款主板的老哥能帮忙看一下-iommu-分组的情况](https://www.v2ex.com/t/898029) ![](assets/new.png)  
+- [2022-11-26-PS5/A80J-接三星回音壁开机无声和偶尔无声的问题](https://www.v2ex.com/t/898028) ![](assets/new.png)  
+- [2022-11-26-卡马克谈最好的编程语言](https://www.v2ex.com/t/898027) ![](assets/new.png)  
 - [2022-11-26-为何使用-inline-函数并不能达到真正-inline-写代码的性能？](https://www.v2ex.com/t/898026) ![](assets/new.png)  
 - [2022-11-26-covid-以来互联网行业的震动相比于-2000-年互联网泡沫和-2008-年次贷危机有什么区别？](https://www.v2ex.com/t/898025) ![](assets/new.png)  
 - [2022-11-26-工行开养老金户的-50-微信立减金补了，速度](https://www.v2ex.com/t/898023) ![](assets/new.png)  
@@ -499,18 +505,12 @@
 - [2022-11-26-优豆云免费云主机真好用](https://www.v2ex.com/t/898020) ![](assets/new.png)  
 - [2022-11-26-700-平价出-黑五斯巴达-SpartanHost-4Core-4GB-E5-VPS](https://www.v2ex.com/t/898019) ![](assets/new.png)  
 - [2022-11-26-问大家一个关于-tomcat-项目启动报-ClassNotFoundException:-com.mysql.jdbc.Driver-的问题](https://www.v2ex.com/t/898018) ![](assets/new.png)  
-- [2022-11-26-BuhoCleaner-家庭版-3-人车差两人，-cleanmymac-x-平替](https://www.v2ex.com/t/898017) ![](assets/new.png)  
 - [2022-11-26-请教一个-C-语言问题](https://www.v2ex.com/t/898016) ![](assets/new.png)  
 - [2022-11-26-2.5-机械盘适合做-nas-吗-读写只有-100-不到-会不会太慢-看个视频都拖不动进度条？](https://www.v2ex.com/t/898015) ![](assets/new.png)  
 - [2022-11-26-关于北京移动宽带升级-1000M](https://www.v2ex.com/t/898014) ![](assets/new.png)  
 - [2022-11-26-慎买黑色-iPhone-，竟然掉漆](https://www.v2ex.com/t/898012) ![](assets/new.png)  
 - [2022-11-26-laravel-开发扩展包，如何可以像正常开发项目中去使用-PHP-artisan-去创建模型、API-资源、中间件这样的命令呢？](https://www.v2ex.com/t/898011) ![](assets/new.png)  
 - [2022-11-25-上海-不加班-外企-招-中级前端3-年经验起，高级安卓（5-年起，要求懂-Java-），中级-devOps（3-年起）](https://www.v2ex.com/t/898009) ![](assets/new.png)  
-- [2022-11-25-想问下-macbook14-国行和其他国家的区别](https://www.v2ex.com/t/898008) ![](assets/new.png)  
-- [2022-11-25-小白求助!望各位大佬帮忙!跪谢!](https://www.v2ex.com/t/898007) ![](assets/new.png)  
-- [2022-11-25-关于-iperf3-与-speedtest-测速原理疑问](https://www.v2ex.com/t/898006) ![](assets/new.png)  
-- [2022-11-25-头像需要购买吗，该怎么买呢，虽然没有商业使用](https://www.v2ex.com/t/898005) ![](assets/new.png)  
-- [2022-11-25-RH-系-Linux-发行版怎么删除推荐包](https://www.v2ex.com/t/898004) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -556,8 +556,8 @@
 - [2022-11-26-深入解读-Raft-算法与-etcd-工程实现](https://toutiao.io/k/7ci5xy4) ![](assets/new.png)  
 - [2022-11-26-SpringBoot-整合-JWT-+-Redis-实现双Token-校验-Demo](https://toutiao.io/k/gju5suq) ![](assets/new.png)  
 - [2022-11-26-.NET-性能优化：使用结构体替代类](https://toutiao.io/k/p53x0mn) ![](assets/new.png)  
-- [2022-11-26-推荐-一条-SQL-查询语句是如何执行的？](https://toutiao.io/k/8y71vds) ![](assets/new.png)  
 - [2022-11-26-推荐-万字长文细说-Code-Review-的正确姿势](https://toutiao.io/k/cxf9ver) ![](assets/new.png)  
+- [2022-11-26-推荐-一条-SQL-查询语句是如何执行的？](https://toutiao.io/k/8y71vds) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

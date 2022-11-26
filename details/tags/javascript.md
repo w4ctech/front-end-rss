@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-26 20:35:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-26 21:10:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -15,6 +15,4 @@
 - [2021-03-03-港府回应一63岁患者死亡事件-暂无法确定与疫苗相关](https://m.caixin.com/m/2021-03-03/101670052.html) 
 - [2022-11-20-JS之我用单img元素实现了图像resize拉伸效果](https://www.zhangxinxu.com/wordpress/2022/11/js-image-resize/) 
 - [2022-10-16-2022年新出了哪些form表单新特性？](https://www.zhangxinxu.com/wordpress/2022/10/2022-new-form-property/) 
-- [2022-11-26-连接路由器的网线可以插到电脑上用吗](https://www.v2ex.com/t/898168) 
-- [2022-11-26-JS-的一个赋值问题](https://www.v2ex.com/t/898161) 
 - [2022-11-26-重塑认识-Java-编译器的执行过程（消除数组边界检查-+-公共子表达式）](https://toutiao.io/k/ixhipj5) 

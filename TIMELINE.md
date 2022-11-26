@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-26 08:15:08。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-26 08:40:04。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -71,7 +71,13 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-11-20-JS之我用单img元素实现了图像resize拉伸效果](https://www.zhangxinxu.com/wordpress/2022/11/js-image-resize/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-26-更新到-13.0.1-后待机耗电速度特别快](https://www.v2ex.com/t/898105) 
+- [【V2EX】2022-11-26-ln--s-软链接的问题](https://www.v2ex.com/t/898104) 
+- [【V2EX】2022-11-26-steam-deck-和-ns-选哪个？](https://www.v2ex.com/t/898103) 
+- [【V2EX】2022-11-26-需求一个馒头邀请](https://www.v2ex.com/t/898102) 
+- [【V2EX】2022-11-26-iPhone-连耳机时，最小音量还是太大，有什么办法吗？](https://www.v2ex.com/t/898101) 
 - [【V2EX】2022-11-26-广州这是怎么了?-怎么突然就开始沉默了?](https://www.v2ex.com/t/898100) 
+- [【V2EX】2022-11-26-手机翻墙上油管能投屏到电视么？](https://www.v2ex.com/t/898099) 
 - [【V2EX】2022-11-26-遇到诡异的问题：字符串"突变"](https://www.v2ex.com/t/898097) 
 - [【V2EX】2022-11-26-学了一周-haskell-的感受](https://www.v2ex.com/t/898095) 
 - [【V2EX】2022-11-26-想入门一套家庭影院，大家看看这个配置咋样。](https://www.v2ex.com/t/898094) 
@@ -102,9 +108,6 @@
 - [【V2EX】2022-11-26-求一个馒头药](https://www.v2ex.com/t/898062) 
 - [【V2EX】2022-11-26-出-香港-6-核-6g66g，英国-10Gbps-无限流量](https://www.v2ex.com/t/898059) 
 - [【V2EX】2022-11-26-远程-招一位远程产品经理，可全日或半日，薪资-1w-2w](https://www.v2ex.com/t/898058) 
-- [【V2EX】2022-11-26-win11-网络启动，刚关机启动和内网启动都能网络开机，过段时间就不行。台式机、七彩虹-b460m-主板，有动态公网-ip-用-ddns-方式做了端口映射](https://www.v2ex.com/t/898055) 
-- [【V2EX】2022-11-26-引擎之神卡马克谈调试器、代码分析器和最好的-IDE](https://www.v2ex.com/t/898053) 
-- [【V2EX】2022-11-26-想入手个-iPad-Pro-不知道怎么选](https://www.v2ex.com/t/898052) 
 - [【技术头条】2022-11-26-前端性能优化心法-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15416&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-performance-tuning%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-26-当我们谈论DDD时我们在谈论什么-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15415&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fstrategy-and-tactical-design-of-ddd%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-26-如何基于-Prerender-为-SPA-做-SEO-优化-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=15414&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fhow-to-optimize-seo-for-spa-based-on-prerender%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -130,8 +133,8 @@
 - [【开发者头条】2022-11-26-.NET-性能优化：使用结构体替代类](https://toutiao.io/k/p53x0mn) 
 - [【开发者头条】2022-11-26-百亿数据个性化推荐：弹幕工程架构演进](https://toutiao.io/k/iuvd2pw) 
 - [【开发者头条】2022-11-26-28-张图，一次性说清楚-TCP](https://toutiao.io/k/thtikrq) 
-- [【开发者头条】2022-11-26-推荐-万字长文细说-Code-Review-的正确姿势](https://toutiao.io/k/cxf9ver) 
 - [【开发者头条】2022-11-26-推荐-一条-SQL-查询语句是如何执行的？](https://toutiao.io/k/8y71vds) 
+- [【开发者头条】2022-11-26-推荐-万字长文细说-Code-Review-的正确姿势](https://toutiao.io/k/cxf9ver) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

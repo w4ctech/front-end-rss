@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-26 08:40:04，:rocket: 更新条数: +2010， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-26 09:11:11，:rocket: 更新条数: +2012， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,14 @@
 </summary>
 
 
+- [2022-11-26-icloud-使用中让我百思不得其解的问题](https://www.v2ex.com/t/898116) ![](assets/new.png)  
+- [2022-11-26-为业务的英语翻译挠头](https://www.v2ex.com/t/898114) ![](assets/new.png)  
+- [2022-11-26-求一个馒头-PT-邀请](https://www.v2ex.com/t/898113) ![](assets/new.png)  
+- [2022-11-26-欢迎加入北美-V-友聊天群-WhatsApp](https://www.v2ex.com/t/898112) ![](assets/new.png)  
+- [2022-11-26-E843，高效利用微信学英语、看新闻的小工具](https://www.v2ex.com/t/898110) ![](assets/new.png)  
+- [2022-11-26-怎样举报百度网盘](https://www.v2ex.com/t/898108) ![](assets/new.png)  
+- [2022-11-26-WorkWorkMe---用-RSS-订阅岗位](https://www.v2ex.com/t/898107) ![](assets/new.png)  
+- [2022-11-26-有哪些好的英文-IT-技术新闻网站？](https://www.v2ex.com/t/898106) ![](assets/new.png)  
 - [2022-11-26-更新到-13.0.1-后待机耗电速度特别快](https://www.v2ex.com/t/898105) ![](assets/new.png)  
 - [2022-11-26-ln--s-软链接的问题](https://www.v2ex.com/t/898104) ![](assets/new.png)  
 - [2022-11-26-steam-deck-和-ns-选哪个？](https://www.v2ex.com/t/898103) ![](assets/new.png)  
@@ -503,14 +511,6 @@
 - [2022-11-26-想入门一套家庭影院，大家看看这个配置咋样。](https://www.v2ex.com/t/898094) ![](assets/new.png)  
 - [2022-11-26-高层应该如何应对火灾？我们小区存在的消防隐患。](https://www.v2ex.com/t/898093) ![](assets/new.png)  
 - [2022-11-26-垃圾-gmail-为什么加载的时候-特别慢-总是要等-3-5-秒-恶心死了-每次都是这样-有办法吗-大佬们-有没有办法让它像命令行那样-速度超快-同时又很方便使用-大佬们都...](https://www.v2ex.com/t/898092) ![](assets/new.png)  
-- [2022-11-26-macOS-重启后设置丢失的-bug](https://www.v2ex.com/t/898091) ![](assets/new.png)  
-- [2022-11-26-请教一个子集和问题/数字分区问题的衍生问题？](https://www.v2ex.com/t/898089) ![](assets/new.png)  
-- [2022-11-26-如何优雅且不突兀的描述自己加班？](https://www.v2ex.com/t/898088) ![](assets/new.png)  
-- [2022-11-26-怎么正确发工资，大家有没影响？](https://www.v2ex.com/t/898087) ![](assets/new.png)  
-- [2022-11-26-Java-读取-Resource-目录下的可执行文件到新创建的目录后，可执行文件不可用](https://www.v2ex.com/t/898086) ![](assets/new.png)  
-- [2022-11-26-求推荐窗口管理工具](https://www.v2ex.com/t/898085) ![](assets/new.png)  
-- [2022-11-26-想尝试下国外的手卷烟丝,咋买](https://www.v2ex.com/t/898084) ![](assets/new.png)  
-- [2022-11-26-Mybatis-Plus-update-会偶发丢失-where-参数，应该怎么排查？](https://www.v2ex.com/t/898082) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -553,13 +553,13 @@
 - [2022-11-26-干货！用大白话告诉你什么是-Mock-测试](https://toutiao.io/k/jaz776u) ![](assets/new.png)  
 - [2022-11-26-14-个-SpringBoot-优化小妙招，看完后同事说写代码像写诗](https://toutiao.io/k/ej9cqom) ![](assets/new.png)  
 - [2022-11-26-独立开发变现周刊（第81期）：开发一个应用来减少屏幕使用时间，月收入-2-万美元](https://toutiao.io/k/wzlxohy) ![](assets/new.png)  
-- [2022-11-26-SpringBoot-整合-JWT-+-Redis-实现双Token-校验-Demo](https://toutiao.io/k/gju5suq) ![](assets/new.png)  
 - [2022-11-26-深入解读-Raft-算法与-etcd-工程实现](https://toutiao.io/k/7ci5xy4) ![](assets/new.png)  
+- [2022-11-26-SpringBoot-整合-JWT-+-Redis-实现双Token-校验-Demo](https://toutiao.io/k/gju5suq) ![](assets/new.png)  
 - [2022-11-26-.NET-性能优化：使用结构体替代类](https://toutiao.io/k/p53x0mn) ![](assets/new.png)  
 - [2022-11-26-百亿数据个性化推荐：弹幕工程架构演进](https://toutiao.io/k/iuvd2pw) ![](assets/new.png)  
 - [2022-11-26-28-张图，一次性说清楚-TCP](https://toutiao.io/k/thtikrq) ![](assets/new.png)  
-- [2022-11-26-推荐-一条-SQL-查询语句是如何执行的？](https://toutiao.io/k/8y71vds) ![](assets/new.png)  
 - [2022-11-26-推荐-万字长文细说-Code-Review-的正确姿势](https://toutiao.io/k/cxf9ver) ![](assets/new.png)  
+- [2022-11-26-推荐-一条-SQL-查询语句是如何执行的？](https://toutiao.io/k/8y71vds) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

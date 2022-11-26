@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-26 08:40:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-26 09:11:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1916,6 +1916,14 @@
 - [2022-10-20-告别pointer-events:none使用HTML-inert属性真正禁用](https://www.zhangxinxu.com/wordpress/2022/10/html-inert-disabled-attribute/) 
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
+- [2022-11-26-icloud-使用中让我百思不得其解的问题](https://www.v2ex.com/t/898116) 
+- [2022-11-26-为业务的英语翻译挠头](https://www.v2ex.com/t/898114) 
+- [2022-11-26-求一个馒头-PT-邀请](https://www.v2ex.com/t/898113) 
+- [2022-11-26-欢迎加入北美-V-友聊天群-WhatsApp](https://www.v2ex.com/t/898112) 
+- [2022-11-26-E843，高效利用微信学英语、看新闻的小工具](https://www.v2ex.com/t/898110) 
+- [2022-11-26-怎样举报百度网盘](https://www.v2ex.com/t/898108) 
+- [2022-11-26-WorkWorkMe---用-RSS-订阅岗位](https://www.v2ex.com/t/898107) 
+- [2022-11-26-有哪些好的英文-IT-技术新闻网站？](https://www.v2ex.com/t/898106) 
 - [2022-11-26-更新到-13.0.1-后待机耗电速度特别快](https://www.v2ex.com/t/898105) 
 - [2022-11-26-ln--s-软链接的问题](https://www.v2ex.com/t/898104) 
 - [2022-11-26-steam-deck-和-ns-选哪个？](https://www.v2ex.com/t/898103) 
@@ -1942,12 +1950,6 @@
 - [2022-11-26-外包的接的活，公司直接把钱打到我的个人账户。年底会因为这个补税吗？](https://www.v2ex.com/t/898071) 
 - [2022-11-26-是哪个始作俑者把-out-of-memory-翻译成内存溢出的？](https://www.v2ex.com/t/898069) 
 - [2022-11-26-N-问微信？你看我-桌面/下载目录/日程。。。-干吗？还有啥你不看的吗？](https://www.v2ex.com/t/898067) 
-- [2022-11-26-Mac-上的实时字幕（Beta-版）在哪些国家和地区能使用啊？](https://www.v2ex.com/t/898065) 
-- [2022-11-26-Evernote-APP-突然不能登录了，啥情况？](https://www.v2ex.com/t/898064) 
-- [2022-11-26-搞了几张-AMD-的-mi250x-专业卡，有没有练丹大佬来看看这玩意可以做什么](https://www.v2ex.com/t/898063) 
-- [2022-11-26-求一个馒头药](https://www.v2ex.com/t/898062) 
-- [2022-11-26-出-香港-6-核-6g66g，英国-10Gbps-无限流量](https://www.v2ex.com/t/898059) 
-- [2022-11-26-远程-招一位远程产品经理，可全日或半日，薪资-1w-2w](https://www.v2ex.com/t/898058) 
 - [2022-11-26-当我们谈论DDD时我们在谈论什么-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15415&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fstrategy-and-tactical-design-of-ddd%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-26-2022，「倾城之链」运营第-6-年感记-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=15413&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fnicelinks-site-in-2022%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-26-浅谈数据和人工智能项目的管理-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15412&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fproject-management-big-data-artificial-intelligence%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-26 13:37:27，:rocket: 更新条数: +2009， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-26 14:10:46，:rocket: 更新条数: +2011， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-11-26-xftp-替代品](https://www.v2ex.com/t/898171) ![](assets/new.png)  
+- [2022-11-26-v-友们，有方便查询个股北向资金持仓变化的地方吗？](https://www.v2ex.com/t/898170) ![](assets/new.png)  
+- [2022-11-26-vscode-如何设定鼠标快捷键回退位置，像-clion-一样](https://www.v2ex.com/t/898169) ![](assets/new.png)  
+- [2022-11-26-连接路由器的网线可以插到电脑上用吗](https://www.v2ex.com/t/898168) ![](assets/new.png)  
 - [2022-11-26-Windows-版-iCloud，登录以后生成重复的设备（名称相同、类型不同）问题该如何下手？](https://www.v2ex.com/t/898165) ![](assets/new.png)  
 - [2022-11-26-怎么把-ios-中“最近删除的”的里面以.开头的文件删掉？](https://www.v2ex.com/t/898164) ![](assets/new.png)  
 - [2022-11-26-115-又出永久-VIP-了，-8000-元。](https://www.v2ex.com/t/898163) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-11-26-不得不说招商银行的-APP-体验真的不错，至少在同类应用里体验是比较好的](https://www.v2ex.com/t/898148) ![](assets/new.png)  
 - [2022-11-26-同时开-ssr+和-openclash-会串流量.](https://www.v2ex.com/t/898147) ![](assets/new.png)  
 - [2022-11-26-有-ai-类社区论坛吗](https://www.v2ex.com/t/898146) ![](assets/new.png)  
-- [2022-11-26-使用-utools-打开-vscode-出现-gcc-:-无法将“gcc”项识别为-cmdlet、函数、脚本文件或可运行程序的名称。请检查名称的拼写，如果包括路径，请确保路径正确，然...](https://www.v2ex.com/t/898145) ![](assets/new.png)  
-- [2022-11-26-群晖系统挂载-TrueNAS-存储使用有坑吗](https://www.v2ex.com/t/898144) ![](assets/new.png)  
-- [2022-11-26-各位老哥，是如何保护自己的颈椎和腰椎的？麻烦推荐一下方法或者锻炼视频吧。](https://www.v2ex.com/t/898142) ![](assets/new.png)  
-- [2022-11-26-Mac-下，-Chrome-网页视频通过-homepod-mini-音画不同步](https://www.v2ex.com/t/898140) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -557,9 +557,9 @@
 - [2022-11-26-.NET-性能优化：使用结构体替代类](https://toutiao.io/k/p53x0mn) ![](assets/new.png)  
 - [2022-11-26-百亿数据个性化推荐：弹幕工程架构演进](https://toutiao.io/k/iuvd2pw) ![](assets/new.png)  
 - [2022-11-26-28-张图，一次性说清楚-TCP](https://toutiao.io/k/thtikrq) ![](assets/new.png)  
-- [2022-11-26-推荐-DDD-之业务系统搭建的设计思考](https://toutiao.io/k/783naw9) ![](assets/new.png)  
-- [2022-11-26-推荐-万字长文细说-Code-Review-的正确姿势](https://toutiao.io/k/cxf9ver) ![](assets/new.png)  
 - [2022-11-26-推荐-一条-SQL-查询语句是如何执行的？](https://toutiao.io/k/8y71vds) ![](assets/new.png)  
+- [2022-11-26-推荐-万字长文细说-Code-Review-的正确姿势](https://toutiao.io/k/cxf9ver) ![](assets/new.png)  
+- [2022-11-26-推荐-DDD-之业务系统搭建的设计思考](https://toutiao.io/k/783naw9) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

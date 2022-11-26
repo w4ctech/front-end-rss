@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-26 03:41:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-26 04:14:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1916,7 +1916,8 @@
 - [2022-10-20-告别pointer-events:none使用HTML-inert属性真正禁用](https://www.zhangxinxu.com/wordpress/2022/10/html-inert-disabled-attribute/) 
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
-- [2022-11-26-美区-APPLE-ONE-中杯-22.5，现缺一人](https://www.v2ex.com/t/898044) 
+- [2022-11-26-想入手个-iPad-Pro-不知道怎么选](https://www.v2ex.com/t/898052) 
+- [2022-11-26-现在招人真难啊](https://www.v2ex.com/t/898050) 
 - [2022-11-26-广州静默了，下周全公司远程办公，关于-CodeWithMe-的问题](https://www.v2ex.com/t/898043) 
 - [2022-11-26-想搞个设备，求推荐](https://www.v2ex.com/t/898042) 
 - [2022-11-26-咨询下国内信息审查的问题](https://www.v2ex.com/t/898041) 
@@ -1944,9 +1945,6 @@
 - [2022-11-25-头像需要购买吗，该怎么买呢，虽然没有商业使用](https://www.v2ex.com/t/898005) 
 - [2022-11-25-RH-系-Linux-发行版怎么删除推荐包](https://www.v2ex.com/t/898004) 
 - [2022-11-25-支付宝提示升级余额宝](https://www.v2ex.com/t/898003) 
-- [2022-11-25-人真的有时候会倒霉😂！](https://www.v2ex.com/t/898002) 
-- [2022-11-25-准备收个傲腾当系统盘，两个硬盘我该选择收哪个？来懂哥。](https://www.v2ex.com/t/898001) 
-- [2022-11-25-黑五-AlDente-Pro-打八折](https://www.v2ex.com/t/897998) 
 - [2022-11-26-当我们谈论DDD时我们在谈论什么-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15415&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fstrategy-and-tactical-design-of-ddd%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-26-2022，「倾城之链」运营第-6-年感记-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=15413&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fnicelinks-site-in-2022%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-26-浅谈数据和人工智能项目的管理-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15412&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fproject-management-big-data-artificial-intelligence%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

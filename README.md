@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-26 04:41:29，:rocket: 更新条数: +2007， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-26 05:10:58，:rocket: 更新条数: +2007， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-11-26-搞了几张-AMD-的-mi250x-专业卡，有没有练丹大佬来看看这玩意可以做什么](https://www.v2ex.com/t/898063) ![](assets/new.png)  
+- [2022-11-26-求一个馒头药](https://www.v2ex.com/t/898062) ![](assets/new.png)  
+- [2022-11-26-出-香港-6-核-6g66g，英国-10Gbps-无限流量](https://www.v2ex.com/t/898059) ![](assets/new.png)  
+- [2022-11-26-远程-招一位远程产品经理，可全日或半日，薪资-1w-2w](https://www.v2ex.com/t/898058) ![](assets/new.png)  
+- [2022-11-26-知道酸酸为啥这么赚钱了。。。](https://www.v2ex.com/t/898057) ![](assets/new.png)  
 - [2022-11-26-win11-网络启动，刚关机启动和内网启动都能网络开机，过段时间就不行。台式机、七彩虹-b460m-主板，有动态公网-ip-用-ddns-方式做了端口映射](https://www.v2ex.com/t/898055) ![](assets/new.png)  
 - [2022-11-26-引擎之神卡马克谈调试器、代码分析器和最好的-IDE](https://www.v2ex.com/t/898053) ![](assets/new.png)  
 - [2022-11-26-想入手个-iPad-Pro-不知道怎么选](https://www.v2ex.com/t/898052) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-11-26-macOS-下，-idea-不能打开，且不显示菜单栏,请问有什么办法恢复吗](https://www.v2ex.com/t/898037) ![](assets/new.png)  
 - [2022-11-26-求一个馒头邀请](https://www.v2ex.com/t/898036) ![](assets/new.png)  
 - [2022-11-26-如何检查和维护对-node_modules-内文件的本地修改？](https://www.v2ex.com/t/898035) ![](assets/new.png)  
-- [2022-11-26-Ventura-的-Safari，信任了使用自签名证书的网站，但是在钥匙串中并没出现对应的证书？](https://www.v2ex.com/t/898033) ![](assets/new.png)  
-- [2022-11-26-人在天河，房子还有一天到期不想续，但被封路了咋办](https://www.v2ex.com/t/898031) ![](assets/new.png)  
-- [2022-11-26-有没有购买微星的-PRO-B650M-A-WIFI-这款主板的老哥能帮忙看一下-iommu-分组的情况](https://www.v2ex.com/t/898029) ![](assets/new.png)  
-- [2022-11-26-PS5/A80J-接三星回音壁开机无声和偶尔无声的问题](https://www.v2ex.com/t/898028) ![](assets/new.png)  
-- [2022-11-26-卡马克谈最好的编程语言](https://www.v2ex.com/t/898027) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

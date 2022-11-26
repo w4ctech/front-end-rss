@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-26 04:41:29。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-26 05:10:58。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -71,6 +71,11 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-11-20-JS之我用单img元素实现了图像resize拉伸效果](https://www.zhangxinxu.com/wordpress/2022/11/js-image-resize/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-26-搞了几张-AMD-的-mi250x-专业卡，有没有练丹大佬来看看这玩意可以做什么](https://www.v2ex.com/t/898063) 
+- [【V2EX】2022-11-26-求一个馒头药](https://www.v2ex.com/t/898062) 
+- [【V2EX】2022-11-26-出-香港-6-核-6g66g，英国-10Gbps-无限流量](https://www.v2ex.com/t/898059) 
+- [【V2EX】2022-11-26-远程-招一位远程产品经理，可全日或半日，薪资-1w-2w](https://www.v2ex.com/t/898058) 
+- [【V2EX】2022-11-26-知道酸酸为啥这么赚钱了。。。](https://www.v2ex.com/t/898057) 
 - [【V2EX】2022-11-26-win11-网络启动，刚关机启动和内网启动都能网络开机，过段时间就不行。台式机、七彩虹-b460m-主板，有动态公网-ip-用-ddns-方式做了端口映射](https://www.v2ex.com/t/898055) 
 - [【V2EX】2022-11-26-引擎之神卡马克谈调试器、代码分析器和最好的-IDE](https://www.v2ex.com/t/898053) 
 - [【V2EX】2022-11-26-想入手个-iPad-Pro-不知道怎么选](https://www.v2ex.com/t/898052) 
@@ -102,11 +107,6 @@
 - [【V2EX】2022-11-26-请教一个-C-语言问题](https://www.v2ex.com/t/898016) 
 - [【V2EX】2022-11-26-2.5-机械盘适合做-nas-吗-读写只有-100-不到-会不会太慢-看个视频都拖不动进度条？](https://www.v2ex.com/t/898015) 
 - [【V2EX】2022-11-26-关于北京移动宽带升级-1000M](https://www.v2ex.com/t/898014) 
-- [【V2EX】2022-11-26-慎买黑色-iPhone-，竟然掉漆](https://www.v2ex.com/t/898012) 
-- [【V2EX】2022-11-26-laravel-开发扩展包，如何可以像正常开发项目中去使用-PHP-artisan-去创建模型、API-资源、中间件这样的命令呢？](https://www.v2ex.com/t/898011) 
-- [【V2EX】2022-11-25-上海-不加班-外企-招-中级前端3-年经验起，高级安卓（5-年起，要求懂-Java-），中级-devOps（3-年起）](https://www.v2ex.com/t/898009) 
-- [【V2EX】2022-11-25-想问下-macbook14-国行和其他国家的区别](https://www.v2ex.com/t/898008) 
-- [【V2EX】2022-11-25-小白求助!望各位大佬帮忙!跪谢!](https://www.v2ex.com/t/898007) 
 - [【技术头条】2022-11-26-前端性能优化心法-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15416&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-performance-tuning%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-26-当我们谈论DDD时我们在谈论什么-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15415&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fstrategy-and-tactical-design-of-ddd%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-26-如何基于-Prerender-为-SPA-做-SEO-优化-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=15414&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fhow-to-optimize-seo-for-spa-based-on-prerender%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

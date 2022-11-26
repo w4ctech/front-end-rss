@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-26 10:37:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-26 11:09:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1916,6 +1916,9 @@
 - [2022-10-20-告别pointer-events:none使用HTML-inert属性真正禁用](https://www.zhangxinxu.com/wordpress/2022/10/html-inert-disabled-attribute/) 
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
+- [2022-11-26-野草书签](https://www.v2ex.com/t/898137) 
+- [2022-11-26-黑五-一万二淘了一套-3080-配置，想请大家帮忙看看](https://www.v2ex.com/t/898136) 
+- [2022-11-26-关于-IPV6-打洞的文章](https://www.v2ex.com/t/898133) 
 - [2022-11-26-红米-6a-termux-里面的-debian-系统运行的程序老是被干掉](https://www.v2ex.com/t/898131) 
 - [2022-11-26-求推荐个-mac-上的图片管理工具](https://www.v2ex.com/t/898130) 
 - [2022-11-26-请教一个问题，是否可以给-apple-tv-传电影](https://www.v2ex.com/t/898129) 
@@ -1947,11 +1950,6 @@
 - [2022-11-26-macOS-重启后设置丢失的-bug](https://www.v2ex.com/t/898091) 
 - [2022-11-26-请教一个子集和问题/数字分区问题的衍生问题？](https://www.v2ex.com/t/898089) 
 - [2022-11-26-如何优雅且不突兀的描述自己加班？](https://www.v2ex.com/t/898088) 
-- [2022-11-26-怎么正确发工资，大家有没影响？](https://www.v2ex.com/t/898087) 
-- [2022-11-26-Java-读取-Resource-目录下的可执行文件到新创建的目录后，可执行文件不可用](https://www.v2ex.com/t/898086) 
-- [2022-11-26-求推荐窗口管理工具](https://www.v2ex.com/t/898085) 
-- [2022-11-26-想尝试下国外的手卷烟丝,咋买](https://www.v2ex.com/t/898084) 
-- [2022-11-26-Mybatis-Plus-update-会偶发丢失-where-参数，应该怎么排查？](https://www.v2ex.com/t/898082) 
 - [2022-11-26-当我们谈论DDD时我们在谈论什么-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15415&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fstrategy-and-tactical-design-of-ddd%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-26-2022，「倾城之链」运营第-6-年感记-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=15413&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fnicelinks-site-in-2022%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-26-浅谈数据和人工智能项目的管理-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15412&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fproject-management-big-data-artificial-intelligence%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

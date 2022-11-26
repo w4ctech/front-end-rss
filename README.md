@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-26 22:11:09，:rocket: 更新条数: +1974， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-26 22:36:27，:rocket: 更新条数: +2011， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)  
@@ -491,6 +491,26 @@
 </summary>
 
 
+- [2022-11-26-小米商城的手机延保类订单快照全部失效](https://www.v2ex.com/t/898201) ![](assets/new.png)  
+- [2022-11-26-有能使用-qemu-作-backend-运行-docker-镜像的程序吗](https://www.v2ex.com/t/898200) ![](assets/new.png)  
+- [2022-11-26-应该把域名设计成过期后禁止被任何人重新注册](https://www.v2ex.com/t/898199) ![](assets/new.png)  
+- [2022-11-26-Apple-TV-能安装-Safari-Chrome-等浏览器吗](https://www.v2ex.com/t/898198) ![](assets/new.png)  
+- [2022-11-26-因工作等等，需要双卡套餐，话说有什么实惠套餐-or-乞丐版套装，基本没电话也少用流量？](https://www.v2ex.com/t/898196) ![](assets/new.png)  
+- [2022-11-26-一百年来，学生们从未改变](https://www.v2ex.com/t/898195) ![](assets/new.png)  
+- [2022-11-26-翻译微软独立研究员-Anthony-Shaw-的《CPython-Internals》-《CPython-实现原理》](https://www.v2ex.com/t/898194) ![](assets/new.png)  
+- [2022-11-26-要想在广州买房，至少得有多少钱？](https://www.v2ex.com/t/898193) ![](assets/new.png)  
+- [2022-11-26-二手-iPhone13PM-和-iPhone14-plus，价格相差不大，买哪一个](https://www.v2ex.com/t/898192) ![](assets/new.png)  
+- [2022-11-26-撸了一台三年东京-vps](https://www.v2ex.com/t/898191) ![](assets/new.png)  
+- [2022-11-26-请问大佬们是怎么看待保险理财的](https://www.v2ex.com/t/898189) ![](assets/new.png)  
+- [2022-11-26-关于-V2-的一点，我还是比较好奇](https://www.v2ex.com/t/898188) ![](assets/new.png)  
+- [2022-11-26-mac-OS-多显示器识别-混乱的问题](https://www.v2ex.com/t/898187) ![](assets/new.png)  
+- [2022-11-26-南京的同学们，敬佩你们](https://www.v2ex.com/t/898186) ![](assets/new.png)  
+- [2022-11-26-App-Store-登录-bug，大家从设置界面退出媒体登录，就会出-bug，设置里面显示直接没反应诶，但是这时候点开-App-Store-还是已经退出的状态。](https://www.v2ex.com/t/898185) ![](assets/new.png)  
+- [2022-11-26-apple-tv-连三星电视遇到的问题](https://www.v2ex.com/t/898184) ![](assets/new.png)  
+- [2022-11-26-apple-tv-接三星的电视遇到的问题](https://www.v2ex.com/t/898180) ![](assets/new.png)  
+- [2022-11-26-20221126-午夜俱乐部](https://www.v2ex.com/t/898178) ![](assets/new.png)  
+- [2022-11-26-塞尔达旷野之息里面捡过零件的守护者还能被血月刷新吗？](https://www.v2ex.com/t/898177) ![](assets/new.png)  
+- [2022-11-26-喜欢上了女同事，怎么办](https://www.v2ex.com/t/898176) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -537,10 +557,10 @@
 - [2022-11-26-深入解读-Raft-算法与-etcd-工程实现](https://toutiao.io/k/7ci5xy4) ![](assets/new.png)  
 - [2022-11-26-.NET-性能优化：使用结构体替代类](https://toutiao.io/k/p53x0mn) ![](assets/new.png)  
 - [2022-11-26-28-张图，一次性说清楚-TCP](https://toutiao.io/k/thtikrq) ![](assets/new.png)  
+- [2022-11-26-推荐-SQL-常用脚本大全](https://toutiao.io/k/5nnfmun) ![](assets/new.png)  
+- [2022-11-26-推荐-一条-SQL-查询语句是如何执行的？](https://toutiao.io/k/8y71vds) ![](assets/new.png)  
 - [2022-11-26-推荐-万字长文细说-Code-Review-的正确姿势](https://toutiao.io/k/cxf9ver) ![](assets/new.png)  
 - [2022-11-26-推荐-DDD-之业务系统搭建的设计思考](https://toutiao.io/k/783naw9) ![](assets/new.png)  
-- [2022-11-26-推荐-一条-SQL-查询语句是如何执行的？](https://toutiao.io/k/8y71vds) ![](assets/new.png)  
-- [2022-11-26-推荐-SQL-常用脚本大全](https://toutiao.io/k/5nnfmun) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

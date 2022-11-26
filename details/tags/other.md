@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-26 07:10:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-26 07:35:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1916,6 +1916,9 @@
 - [2022-10-20-告别pointer-events:none使用HTML-inert属性真正禁用](https://www.zhangxinxu.com/wordpress/2022/10/html-inert-disabled-attribute/) 
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
+- [2022-11-26-怎么正确发工资，大家有没影响？](https://www.v2ex.com/t/898087) 
+- [2022-11-26-Java-读取-Resource-目录下的可执行文件到新创建的目录后，可执行文件不可用](https://www.v2ex.com/t/898086) 
+- [2022-11-26-求推荐窗口管理工具](https://www.v2ex.com/t/898085) 
 - [2022-11-26-想尝试下国外的手卷烟丝,咋买](https://www.v2ex.com/t/898084) 
 - [2022-11-26-Mybatis-Plus-update-会偶发丢失-where-参数，应该怎么排查？](https://www.v2ex.com/t/898082) 
 - [2022-11-26-狗东售后怎么这么弱智的，我第一次在电商售后服务单里骂人](https://www.v2ex.com/t/898079) 
@@ -1937,8 +1940,6 @@
 - [2022-11-26-想搞个设备，求推荐](https://www.v2ex.com/t/898042) 
 - [2022-11-26-咨询下国内信息审查的问题](https://www.v2ex.com/t/898041) 
 - [2022-11-26-个人转租，坂田岗头地铁站-500-米一房一厅，房租-1200，天安云谷对面](https://www.v2ex.com/t/898038) 
-- [2022-11-26-macOS-下，-idea-不能打开，且不显示菜单栏,请问有什么办法恢复吗](https://www.v2ex.com/t/898037) 
-- [2022-11-26-求一个馒头邀请](https://www.v2ex.com/t/898036) 
 - [2022-11-26-当我们谈论DDD时我们在谈论什么-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15415&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fstrategy-and-tactical-design-of-ddd%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-26-2022，「倾城之链」运营第-6-年感记-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=15413&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fnicelinks-site-in-2022%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-26-浅谈数据和人工智能项目的管理-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15412&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fproject-management-big-data-artificial-intelligence%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

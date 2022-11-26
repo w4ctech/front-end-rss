@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-26 14:35:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-26 15:11:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1916,6 +1916,10 @@
 - [2022-10-20-告别pointer-events:none使用HTML-inert属性真正禁用](https://www.zhangxinxu.com/wordpress/2022/10/html-inert-disabled-attribute/) 
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
+- [2022-11-26-apple-tv-接三星的电视遇到的问题](https://www.v2ex.com/t/898180) 
+- [2022-11-26-20221126-午夜俱乐部](https://www.v2ex.com/t/898178) 
+- [2022-11-26-塞尔达旷野之息里面捡过零件的守护者还能被血月刷新吗？](https://www.v2ex.com/t/898177) 
+- [2022-11-26-喜欢上了女同事，怎么办](https://www.v2ex.com/t/898176) 
 - [2022-11-26-Apple-Watch-S3-提示空间不足之后，直接卡在开机界面。](https://www.v2ex.com/t/898173) 
 - [2022-11-26-360-一体水冷和一般双塔风冷的散热效果差别大吗？](https://www.v2ex.com/t/898172) 
 - [2022-11-26-xftp-替代品](https://www.v2ex.com/t/898171) 
@@ -1943,9 +1947,6 @@
 - [2022-11-26-黑五-一万二淘了一套-3080-配置，想请大家帮忙看看](https://www.v2ex.com/t/898136) 
 - [2022-11-26-关于-IPV6-打洞的文章](https://www.v2ex.com/t/898133) 
 - [2022-11-26-红米-6a-termux-里面的-debian-系统运行的程序老是被干掉](https://www.v2ex.com/t/898131) 
-- [2022-11-26-求推荐个-mac-上的图片管理工具](https://www.v2ex.com/t/898130) 
-- [2022-11-26-请教一个问题，是否可以给-apple-tv-传电影](https://www.v2ex.com/t/898129) 
-- [2022-11-26-Photolibraryd-每天写入几十-g-有什么解决方法，我都没多少照片，都写-1-年了](https://www.v2ex.com/t/898126) 
 - [2022-11-26-当我们谈论DDD时我们在谈论什么-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15415&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fstrategy-and-tactical-design-of-ddd%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-26-2022，「倾城之链」运营第-6-年感记-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=15413&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fnicelinks-site-in-2022%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-26-浅谈数据和人工智能项目的管理-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15412&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fproject-management-big-data-artificial-intelligence%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1962,5 +1963,5 @@
 - [2022-11-26-独立开发变现周刊（第81期）：开发一个应用来减少屏幕使用时间，月收入-2-万美元](https://toutiao.io/k/wzlxohy) 
 - [2022-11-26-百亿数据个性化推荐：弹幕工程架构演进](https://toutiao.io/k/iuvd2pw) 
 - [2022-11-26-28-张图，一次性说清楚-TCP](https://toutiao.io/k/thtikrq) 
-- [2022-11-26-推荐-DDD-之业务系统搭建的设计思考](https://toutiao.io/k/783naw9) 
 - [2022-11-26-推荐-一条-SQL-查询语句是如何执行的？](https://toutiao.io/k/8y71vds) 
+- [2022-11-26-推荐-DDD-之业务系统搭建的设计思考](https://toutiao.io/k/783naw9) 

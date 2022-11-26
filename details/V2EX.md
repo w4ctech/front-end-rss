@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-26 16:15:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-26 16:46:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -40,4 +40,3 @@
 - [2022-11-26-使用-utools-打开-vscode-出现-gcc-:-无法将“gcc”项识别为-cmdlet、函数、脚本文件或可运行程序的名称。请检查名称的拼写，如果包括路径，请确保路径正确，然...](https://www.v2ex.com/t/898145) 
 - [2022-11-26-群晖系统挂载-TrueNAS-存储使用有坑吗](https://www.v2ex.com/t/898144) 
 - [2022-11-26-各位老哥，是如何保护自己的颈椎和腰椎的？麻烦推荐一下方法或者锻炼视频吧。](https://www.v2ex.com/t/898142) 
-- [2022-11-26-Mac-下，-Chrome-网页视频通过-homepod-mini-音画不同步](https://www.v2ex.com/t/898140) 

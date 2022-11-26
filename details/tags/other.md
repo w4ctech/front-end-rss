@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-26 15:36:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-26 16:15:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1916,6 +1916,12 @@
 - [2022-10-20-告别pointer-events:none使用HTML-inert属性真正禁用](https://www.zhangxinxu.com/wordpress/2022/10/html-inert-disabled-attribute/) 
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
+- [2022-11-26-请问大佬们是怎么看待保险理财的](https://www.v2ex.com/t/898189) 
+- [2022-11-26-关于-V2-的一点，我还是比较好奇](https://www.v2ex.com/t/898188) 
+- [2022-11-26-mac-OS-多显示器识别-混乱的问题](https://www.v2ex.com/t/898187) 
+- [2022-11-26-南京的同学们，敬佩你们](https://www.v2ex.com/t/898186) 
+- [2022-11-26-App-Store-登录-bug，大家从设置界面退出媒体登录，就会出-bug，设置里面显示直接没反应诶，但是这时候点开-App-Store-还是已经退出的状态。](https://www.v2ex.com/t/898185) 
+- [2022-11-26-apple-tv-连三星电视遇到的问题](https://www.v2ex.com/t/898184) 
 - [2022-11-26-apple-tv-接三星的电视遇到的问题](https://www.v2ex.com/t/898180) 
 - [2022-11-26-20221126-午夜俱乐部](https://www.v2ex.com/t/898178) 
 - [2022-11-26-塞尔达旷野之息里面捡过零件的守护者还能被血月刷新吗？](https://www.v2ex.com/t/898177) 
@@ -1940,11 +1946,6 @@
 - [2022-11-26-有-ai-类社区论坛吗](https://www.v2ex.com/t/898146) 
 - [2022-11-26-使用-utools-打开-vscode-出现-gcc-:-无法将“gcc”项识别为-cmdlet、函数、脚本文件或可运行程序的名称。请检查名称的拼写，如果包括路径，请确保路径正确，然...](https://www.v2ex.com/t/898145) 
 - [2022-11-26-群晖系统挂载-TrueNAS-存储使用有坑吗](https://www.v2ex.com/t/898144) 
-- [2022-11-26-icloudpd-目前无法进行验证了，还有别的类似的工具吗](https://www.v2ex.com/t/898139) 
-- [2022-11-26-老哥们-有速干衣、速干裤推荐吗？](https://www.v2ex.com/t/898138) 
-- [2022-11-26-野草书签](https://www.v2ex.com/t/898137) 
-- [2022-11-26-黑五-一万二淘了一套-3080-配置，想请大家帮忙看看](https://www.v2ex.com/t/898136) 
-- [2022-11-26-关于-IPV6-打洞的文章](https://www.v2ex.com/t/898133) 
 - [2022-11-26-当我们谈论DDD时我们在谈论什么-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15415&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fstrategy-and-tactical-design-of-ddd%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-26-2022，「倾城之链」运营第-6-年感记-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=15413&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fnicelinks-site-in-2022%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-26-浅谈数据和人工智能项目的管理-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15412&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fproject-management-big-data-artificial-intelligence%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1961,5 +1962,6 @@
 - [2022-11-26-独立开发变现周刊（第81期）：开发一个应用来减少屏幕使用时间，月收入-2-万美元](https://toutiao.io/k/wzlxohy) 
 - [2022-11-26-百亿数据个性化推荐：弹幕工程架构演进](https://toutiao.io/k/iuvd2pw) 
 - [2022-11-26-28-张图，一次性说清楚-TCP](https://toutiao.io/k/thtikrq) 
-- [2022-11-26-推荐-DDD-之业务系统搭建的设计思考](https://toutiao.io/k/783naw9) 
 - [2022-11-26-推荐-一条-SQL-查询语句是如何执行的？](https://toutiao.io/k/8y71vds) 
+- [2022-11-26-推荐-SQL-常用脚本大全](https://toutiao.io/k/5nnfmun) 
+- [2022-11-26-推荐-DDD-之业务系统搭建的设计思考](https://toutiao.io/k/783naw9) 

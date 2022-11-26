@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-26 15:36:23，:rocket: 更新条数: +2009， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-26 16:15:24，:rocket: 更新条数: +2010， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-11-26-请问大佬们是怎么看待保险理财的](https://www.v2ex.com/t/898189) ![](assets/new.png)  
+- [2022-11-26-关于-V2-的一点，我还是比较好奇](https://www.v2ex.com/t/898188) ![](assets/new.png)  
+- [2022-11-26-mac-OS-多显示器识别-混乱的问题](https://www.v2ex.com/t/898187) ![](assets/new.png)  
+- [2022-11-26-南京的同学们，敬佩你们](https://www.v2ex.com/t/898186) ![](assets/new.png)  
+- [2022-11-26-App-Store-登录-bug，大家从设置界面退出媒体登录，就会出-bug，设置里面显示直接没反应诶，但是这时候点开-App-Store-还是已经退出的状态。](https://www.v2ex.com/t/898185) ![](assets/new.png)  
+- [2022-11-26-apple-tv-连三星电视遇到的问题](https://www.v2ex.com/t/898184) ![](assets/new.png)  
 - [2022-11-26-apple-tv-接三星的电视遇到的问题](https://www.v2ex.com/t/898180) ![](assets/new.png)  
 - [2022-11-26-20221126-午夜俱乐部](https://www.v2ex.com/t/898178) ![](assets/new.png)  
 - [2022-11-26-塞尔达旷野之息里面捡过零件的守护者还能被血月刷新吗？](https://www.v2ex.com/t/898177) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-11-26-Windows-版-iCloud，登录以后生成重复的设备（名称相同、类型不同）问题该如何下手？](https://www.v2ex.com/t/898165) ![](assets/new.png)  
 - [2022-11-26-怎么把-ios-中“最近删除的”的里面以.开头的文件删掉？](https://www.v2ex.com/t/898164) ![](assets/new.png)  
 - [2022-11-26-115-又出永久-VIP-了，-8000-元。](https://www.v2ex.com/t/898163) ![](assets/new.png)  
-- [2022-11-26-115-永久会员重新上线](https://www.v2ex.com/t/898162) ![](assets/new.png)  
-- [2022-11-26-JS-的一个赋值问题](https://www.v2ex.com/t/898161) ![](assets/new.png)  
-- [2022-11-26-你是如何忍受椰子油那股怪味的？](https://www.v2ex.com/t/898160) ![](assets/new.png)  
-- [2022-11-26-工作选择——北京-or-香港](https://www.v2ex.com/t/898159) ![](assets/new.png)  
-- [2022-11-26-腾讯云该不该赶快买，以后是不是会没了？](https://www.v2ex.com/t/898156) ![](assets/new.png)  
-- [2022-11-26-获取指定主题时能否添加收藏数](https://www.v2ex.com/t/898155) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -557,9 +557,10 @@
 - [2022-11-26-深入解读-Raft-算法与-etcd-工程实现](https://toutiao.io/k/7ci5xy4) ![](assets/new.png)  
 - [2022-11-26-.NET-性能优化：使用结构体替代类](https://toutiao.io/k/p53x0mn) ![](assets/new.png)  
 - [2022-11-26-28-张图，一次性说清楚-TCP](https://toutiao.io/k/thtikrq) ![](assets/new.png)  
-- [2022-11-26-推荐-DDD-之业务系统搭建的设计思考](https://toutiao.io/k/783naw9) ![](assets/new.png)  
 - [2022-11-26-推荐-一条-SQL-查询语句是如何执行的？](https://toutiao.io/k/8y71vds) ![](assets/new.png)  
+- [2022-11-26-推荐-SQL-常用脚本大全](https://toutiao.io/k/5nnfmun) ![](assets/new.png)  
 - [2022-11-26-推荐-万字长文细说-Code-Review-的正确姿势](https://toutiao.io/k/cxf9ver) ![](assets/new.png)  
+- [2022-11-26-推荐-DDD-之业务系统搭建的设计思考](https://toutiao.io/k/783naw9) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

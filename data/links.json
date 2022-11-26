@@ -9953,6 +9953,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "红米 6a termux 里面的 debian 系统运行的程序老是被干掉",
+        "link": "https://www.v2ex.com/t/898131",
+        "date": "2022-11-26"
+      },
+      {
+        "title": "求推荐个 mac 上的图片管理工具",
+        "link": "https://www.v2ex.com/t/898130",
+        "date": "2022-11-26"
+      },
+      {
         "title": "请教一个问题，是否可以给 apple tv 传电影",
         "link": "https://www.v2ex.com/t/898129",
         "date": "2022-11-26"
@@ -9975,11 +9985,6 @@
       {
         "title": "云函数调用第三方 API 问题",
         "link": "https://www.v2ex.com/t/898122",
-        "date": "2022-11-26"
-      },
-      {
-        "title": "分享一个法律常识：法律为什么是统治阶级意志的体现?",
-        "link": "https://www.v2ex.com/t/898121",
         "date": "2022-11-26"
       },
       {
@@ -10131,11 +10136,6 @@
         "title": "Mybatis-Plus update 会偶发丢失 where 参数，应该怎么排查？",
         "link": "https://www.v2ex.com/t/898082",
         "date": "2022-11-26"
-      },
-      {
-        "title": "有人有安装过 NopeCHA 扩展吗? 疑似劫持浏览器",
-        "link": "https://www.v2ex.com/t/898080",
-        "date": "2022-11-26"
       }
     ]
   },
@@ -10277,11 +10277,6 @@
         "date": "2022-11-26"
       },
       {
-        "title": "[推荐] 万字长文细说 Code Review 的正确姿势",
-        "link": "https://toutiao.io/k/cxf9ver",
-        "date": "2022-11-26"
-      },
-      {
         "title": "[推荐] DDD 之业务系统搭建的设计思考",
         "link": "https://toutiao.io/k/783naw9",
         "date": "2022-11-26"
@@ -10289,6 +10284,11 @@
       {
         "title": "[推荐] 一条 SQL 查询语句是如何执行的？",
         "link": "https://toutiao.io/k/8y71vds",
+        "date": "2022-11-26"
+      },
+      {
+        "title": "[推荐] 万字长文细说 Code Review 的正确姿势",
+        "link": "https://toutiao.io/k/cxf9ver",
         "date": "2022-11-26"
       }
     ]

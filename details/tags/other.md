@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-27 09:35:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-27 10:11:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1916,6 +1916,15 @@
 - [2022-10-20-告别pointer-events:none使用HTML-inert属性真正禁用](https://www.zhangxinxu.com/wordpress/2022/10/html-inert-disabled-attribute/) 
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
+- [2022-11-27-收一个腾讯云香港轻量](https://www.v2ex.com/t/898298) 
+- [2022-11-27-第三方弹幕（本地弹幕）](https://www.v2ex.com/t/898297) 
+- [2022-11-27-Telegram-twitter-微博这类应用是如何面对无线增长的数据的啊？](https://www.v2ex.com/t/898296) 
+- [2022-11-27-微信你是要扫描我电脑里所有的文件吗？](https://www.v2ex.com/t/898295) 
+- [2022-11-27-想找一款比较好用的记账软件，来个兄弟推荐一下](https://www.v2ex.com/t/898293) 
+- [2022-11-27-请教我想用-AI-作画生成这两个场景的图片，怎么给-promts-比较好？](https://www.v2ex.com/t/898292) 
+- [2022-11-27-为啥没有描述伟大高尚人格的伟大小说](https://www.v2ex.com/t/898291) 
+- [2022-11-27-支付宝某个鉴权文档中，有段-Java-代码样例，本人-Python-写的比较多,-Java-不太熟，想转成-Python-代码](https://www.v2ex.com/t/898290) 
+- [2022-11-27-用快思助手往-iPhone-自带的音乐里面导入歌曲如何显示歌词与专辑信息？](https://www.v2ex.com/t/898289) 
 - [2022-11-27-绑了-Care-的-AirPods-长按盒子的白色键重置-影响-Care-吗？](https://www.v2ex.com/t/898288) 
 - [2022-11-27-分享下今年黑五买了啥](https://www.v2ex.com/t/898286) 
 - [2022-11-27-用筋膜枪给眼睛放松以后,-发现近视缓解了?](https://www.v2ex.com/t/898285) 
@@ -1946,11 +1955,6 @@
 - [2022-11-27-打败吉翁的不是那一台-rx78，而是千千万万的吉姆啊。推荐美剧《安多》。](https://www.v2ex.com/t/898252) 
 - [2022-11-27-迟来的书籍推荐：《100-Deadly-Skills》](https://www.v2ex.com/t/898251) 
 - [2022-11-27-求一个猫猫-PT-邀请](https://www.v2ex.com/t/898249) 
-- [2022-11-27-不懂就问，-mac-Appstore-上架的应用还在允许不支持-apple-silicon-吗？](https://www.v2ex.com/t/898246) 
-- [2022-11-27-请教两个线上问题该怎么做好](https://www.v2ex.com/t/898245) 
-- [2022-11-27-iPad-air5-附带的线材是-3a-还是-5a？](https://www.v2ex.com/t/898243) 
-- [2022-11-27-使用电信网络无法从-AppStore-下载-telegram](https://www.v2ex.com/t/898242) 
-- [2022-11-27-求推荐适合长期储存的白酒](https://www.v2ex.com/t/898239) 
 - [2022-11-27-当我们谈论DDD时我们在谈论什么-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15415&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fstrategy-and-tactical-design-of-ddd%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-27-2022，「倾城之链」运营第-6-年感记-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=15413&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fnicelinks-site-in-2022%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-27-浅谈数据和人工智能项目的管理-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15412&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fproject-management-big-data-artificial-intelligence%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

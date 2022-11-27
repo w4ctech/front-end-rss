@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-27 08:14:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-27 08:39:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -15,4 +15,5 @@
 - [2021-03-03-港府回应一63岁患者死亡事件-暂无法确定与疫苗相关](https://m.caixin.com/m/2021-03-03/101670052.html) 
 - [2022-11-20-JS之我用单img元素实现了图像resize拉伸效果](https://www.zhangxinxu.com/wordpress/2022/11/js-image-resize/) 
 - [2022-10-16-2022年新出了哪些form表单新特性？](https://www.zhangxinxu.com/wordpress/2022/10/2022-new-form-property/) 
+- [2022-11-27-Python-如何最优雅的遍历嵌套-json？](https://www.v2ex.com/t/898279) 
 - [2022-11-27-Ethers.js-非权威开发指南（4）](https://toutiao.io/k/nkodrli) 

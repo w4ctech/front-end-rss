@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-27 17:10:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-27 17:35:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1916,6 +1916,7 @@
 - [2022-10-20-告别pointer-events:none使用HTML-inert属性真正禁用](https://www.zhangxinxu.com/wordpress/2022/10/html-inert-disabled-attribute/) 
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
+- [2022-11-27-20221128-午夜俱乐部](https://www.v2ex.com/t/898379) 
 - [2022-11-27-拼车帖不能发了吗？](https://www.v2ex.com/t/898378) 
 - [2022-11-27-孤独是绝症](https://www.v2ex.com/t/898377) 
 - [2022-11-27-付费求帮忙配置-therecipe/qt-库-msvc-版本-webengine-环境](https://www.v2ex.com/t/898374) 
@@ -1947,8 +1948,6 @@
 - [2022-11-27-有了这个工具包，用-Java-调用智能合约更加简便了](https://www.v2ex.com/t/898333) 
 - [2022-11-27-有没有跟三体部分剧情有重叠或者类似的电影？](https://www.v2ex.com/t/898332) 
 - [2022-11-27-北京联通-4G-上下行都不足-10Mbps](https://www.v2ex.com/t/898331) 
-- [2022-11-27-前端：简单的实现选中内容，划线、高亮小工具](https://www.v2ex.com/t/898330) 
-- [2022-11-27-线上一旦出现了问题或者故障，你们的-leader-或者兄弟团队的领导是怎么处理并沟通的？](https://www.v2ex.com/t/898329) 
 - [2022-11-27-当我们谈论DDD时我们在谈论什么-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15415&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fstrategy-and-tactical-design-of-ddd%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-27-2022，「倾城之链」运营第-6-年感记-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=15413&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fnicelinks-site-in-2022%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-27-浅谈数据和人工智能项目的管理-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15412&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fproject-management-big-data-artificial-intelligence%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1967,6 +1966,6 @@
 - [2022-11-27-Redis事务引发的线上生产事故完整复盘，学到了！](https://toutiao.io/k/a4i8it5) 
 - [2022-11-27-基于OneData的数据仓库建设](https://toutiao.io/k/wm7gadg) 
 - [2022-11-27-百亿数据个性化推荐：弹幕工程架构演进](https://toutiao.io/k/ppq6ea8) 
-- [2022-11-27-推荐-DDD-之业务系统搭建的设计思考](https://toutiao.io/k/783naw9) 
-- [2022-11-27-推荐-SQL-常用脚本大全](https://toutiao.io/k/5nnfmun) 
 - [2022-11-27-推荐-一条-SQL-查询语句是如何执行的？](https://toutiao.io/k/8y71vds) 
+- [2022-11-27-推荐-SQL-常用脚本大全](https://toutiao.io/k/5nnfmun) 
+- [2022-11-27-推荐-DDD-之业务系统搭建的设计思考](https://toutiao.io/k/783naw9) 

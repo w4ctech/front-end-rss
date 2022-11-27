@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-27 14:10:14，:rocket: 更新条数: +2009， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-27 14:35:05，:rocket: 更新条数: +2008， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,14 @@
 </summary>
 
 
+- [2022-11-27-请问有没有国内能访问的且能自定义域名的国外短链接服务商](https://www.v2ex.com/t/898356) ![](assets/new.png)  
+- [2022-11-27-iPhone-youtube-小窗播放的方法，免费且无需第三方软件](https://www.v2ex.com/t/898355) ![](assets/new.png)  
+- [2022-11-27-谁帮我写几句批量代码](https://www.v2ex.com/t/898354) ![](assets/new.png)  
+- [2022-11-27-baidupcs-能通过链接下载吗？](https://www.v2ex.com/t/898353) ![](assets/new.png)  
+- [2022-11-27-这是什么后台系统啊，我看过好多个平台使用这种一模一样的后台](https://www.v2ex.com/t/898352) ![](assets/new.png)  
+- [2022-11-27-Spark-邮箱-app-的-Windows-版登陆不上问题](https://www.v2ex.com/t/898351) ![](assets/new.png)  
+- [2022-11-27-数组索引的时间复杂度-O1-的本质是并行二分查找](https://www.v2ex.com/t/898350) ![](assets/new.png)  
+- [2022-11-27-请教一个关于-windows-系统或者硬件相关的问题](https://www.v2ex.com/t/898349) ![](assets/new.png)  
 - [2022-11-27-支持-FIDO2-的-windows-SSH-客户端](https://www.v2ex.com/t/898346) ![](assets/new.png)  
 - [2022-11-27-iPhone-ac+到期，由第三方续费渠道吗？](https://www.v2ex.com/t/898344) ![](assets/new.png)  
 - [2022-11-27-关于-Java-后端开发规范-Or-个人习惯？谈谈你们的理解和现有项目的状况。](https://www.v2ex.com/t/898342) ![](assets/new.png)  
@@ -503,14 +511,6 @@
 - [2022-11-27-有了这个工具包，用-Java-调用智能合约更加简便了](https://www.v2ex.com/t/898333) ![](assets/new.png)  
 - [2022-11-27-有没有跟三体部分剧情有重叠或者类似的电影？](https://www.v2ex.com/t/898332) ![](assets/new.png)  
 - [2022-11-27-北京联通-4G-上下行都不足-10Mbps](https://www.v2ex.com/t/898331) ![](assets/new.png)  
-- [2022-11-27-前端：简单的实现选中内容，划线、高亮小工具](https://www.v2ex.com/t/898330) ![](assets/new.png)  
-- [2022-11-27-线上一旦出现了问题或者故障，你们的-leader-或者兄弟团队的领导是怎么处理并沟通的？](https://www.v2ex.com/t/898329) ![](assets/new.png)  
-- [2022-11-27-SSD-是否很难恢复数据？](https://www.v2ex.com/t/898327) ![](assets/new.png)  
-- [2022-11-27-二手房卖了两年半了，现在下水出问题找我们，我们需要管吗](https://www.v2ex.com/t/898326) ![](assets/new.png)  
-- [2022-11-27-苏州-姑苏主卧找室友](https://www.v2ex.com/t/898325) ![](assets/new.png)  
-- [2022-11-27-求助-v-免签（多商户版）](https://www.v2ex.com/t/898323) ![](assets/new.png)  
-- [2022-11-27-人到-30-是不是欲望都降低了？](https://www.v2ex.com/t/898321) ![](assets/new.png)  
-- [2022-11-27-编写并搭建停服网游私服和群里同好一起玩（100%不收费，不接受任何形式捐赠）有法律风险吗?](https://www.v2ex.com/t/898319) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -554,13 +554,13 @@
 - [2022-11-27-编程语言Zig有什么与众不同的](https://toutiao.io/k/c1cp2dd) ![](assets/new.png)  
 - [2022-11-27-Ethers.js-非权威开发指南（4）](https://toutiao.io/k/nkodrli) ![](assets/new.png)  
 - [2022-11-27-奇异值分解（SVD）原理总结](https://toutiao.io/k/gqwlfg4) ![](assets/new.png)  
-- [2022-11-27-基于OneData的数据仓库建设](https://toutiao.io/k/wm7gadg) ![](assets/new.png)  
 - [2022-11-27-Redis事务引发的线上生产事故完整复盘，学到了！](https://toutiao.io/k/a4i8it5) ![](assets/new.png)  
+- [2022-11-27-基于OneData的数据仓库建设](https://toutiao.io/k/wm7gadg) ![](assets/new.png)  
 - [2022-11-27-百亿数据个性化推荐：弹幕工程架构演进](https://toutiao.io/k/ppq6ea8) ![](assets/new.png)  
-- [2022-11-27-推荐-万字长文细说-Code-Review-的正确姿势](https://toutiao.io/k/cxf9ver) ![](assets/new.png)  
-- [2022-11-27-推荐-DDD-之业务系统搭建的设计思考](https://toutiao.io/k/783naw9) ![](assets/new.png)  
 - [2022-11-27-推荐-一条-SQL-查询语句是如何执行的？](https://toutiao.io/k/8y71vds) ![](assets/new.png)  
+- [2022-11-27-推荐-DDD-之业务系统搭建的设计思考](https://toutiao.io/k/783naw9) ![](assets/new.png)  
 - [2022-11-27-推荐-SQL-常用脚本大全](https://toutiao.io/k/5nnfmun) ![](assets/new.png)  
+- [2022-11-27-推荐-万字长文细说-Code-Review-的正确姿势](https://toutiao.io/k/cxf9ver) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

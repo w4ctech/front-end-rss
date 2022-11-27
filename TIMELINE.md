@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-27 15:36:53。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-27 16:15:13。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -71,6 +71,7 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-11-20-JS之我用单img元素实现了图像resize拉伸效果](https://www.zhangxinxu.com/wordpress/2022/11/js-image-resize/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-27-付费求帮忙配置-therecipe/qt-库-msvc-版本-webengine-环境](https://www.v2ex.com/t/898374) 
 - [【V2EX】2022-11-27-有没有推荐的投屏盒子](https://www.v2ex.com/t/898373) 
 - [【V2EX】2022-11-27-武汉今天的活动怎么没看见有人讨论😅](https://www.v2ex.com/t/898371) 
 - [【V2EX】2022-11-27-假如我是一只鸟](https://www.v2ex.com/t/898370) 
@@ -107,7 +108,6 @@
 - [【V2EX】2022-11-27-线上一旦出现了问题或者故障，你们的-leader-或者兄弟团队的领导是怎么处理并沟通的？](https://www.v2ex.com/t/898329) 
 - [【V2EX】2022-11-27-SSD-是否很难恢复数据？](https://www.v2ex.com/t/898327) 
 - [【V2EX】2022-11-27-二手房卖了两年半了，现在下水出问题找我们，我们需要管吗](https://www.v2ex.com/t/898326) 
-- [【V2EX】2022-11-27-苏州-姑苏主卧找室友](https://www.v2ex.com/t/898325) 
 - [【技术头条】2022-11-27-前端性能优化心法-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15416&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-performance-tuning%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-27-当我们谈论DDD时我们在谈论什么-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15415&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fstrategy-and-tactical-design-of-ddd%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-27-如何基于-Prerender-为-SPA-做-SEO-优化-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=15414&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fhow-to-optimize-seo-for-spa-based-on-prerender%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -127,15 +127,15 @@
 - [【开发者头条】2022-11-27-前后端分离的企业级微服务多租户系统架构，快速开发平台！](https://toutiao.io/k/h9jrp0q) 
 - [【开发者头条】2022-11-27-vue如何二次封装一个高频可复用的组件](https://toutiao.io/k/fzld64o) 
 - [【开发者头条】2022-11-27-Ethers.js-非权威开发指南（4）](https://toutiao.io/k/nkodrli) 
-- [【开发者头条】2022-11-27-编程语言Zig有什么与众不同的](https://toutiao.io/k/c1cp2dd) 
 - [【开发者头条】2022-11-27-奇异值分解（SVD）原理总结](https://toutiao.io/k/gqwlfg4) 
+- [【开发者头条】2022-11-27-编程语言Zig有什么与众不同的](https://toutiao.io/k/c1cp2dd) 
 - [【开发者头条】2022-11-27-Redis事务引发的线上生产事故完整复盘，学到了！](https://toutiao.io/k/a4i8it5) 
 - [【开发者头条】2022-11-27-基于OneData的数据仓库建设](https://toutiao.io/k/wm7gadg) 
 - [【开发者头条】2022-11-27-百亿数据个性化推荐：弹幕工程架构演进](https://toutiao.io/k/ppq6ea8) 
-- [【开发者头条】2022-11-27-推荐-DDD-之业务系统搭建的设计思考](https://toutiao.io/k/783naw9) 
 - [【开发者头条】2022-11-27-推荐-一条-SQL-查询语句是如何执行的？](https://toutiao.io/k/8y71vds) 
 - [【开发者头条】2022-11-27-推荐-万字长文细说-Code-Review-的正确姿势](https://toutiao.io/k/cxf9ver) 
 - [【开发者头条】2022-11-27-推荐-SQL-常用脚本大全](https://toutiao.io/k/5nnfmun) 
+- [【开发者头条】2022-11-27-推荐-DDD-之业务系统搭建的设计思考](https://toutiao.io/k/783naw9) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

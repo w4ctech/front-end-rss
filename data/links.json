@@ -9953,6 +9953,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "付费求帮忙配置 therecipe/qt 库 msvc 版本 webengine 环境",
+        "link": "https://www.v2ex.com/t/898374",
+        "date": "2022-11-27"
+      },
+      {
         "title": "有没有推荐的投屏盒子",
         "link": "https://www.v2ex.com/t/898373",
         "date": "2022-11-27"
@@ -10131,11 +10136,6 @@
         "title": "二手房卖了两年半了，现在下水出问题找我们，我们需要管吗",
         "link": "https://www.v2ex.com/t/898326",
         "date": "2022-11-27"
-      },
-      {
-        "title": "苏州-姑苏主卧找室友",
-        "link": "https://www.v2ex.com/t/898325",
-        "date": "2022-11-27"
       }
     ]
   },
@@ -10247,13 +10247,13 @@
         "date": "2022-11-27"
       },
       {
-        "title": "编程语言Zig有什么与众不同的",
-        "link": "https://toutiao.io/k/c1cp2dd",
+        "title": "奇异值分解（SVD）原理总结",
+        "link": "https://toutiao.io/k/gqwlfg4",
         "date": "2022-11-27"
       },
       {
-        "title": "奇异值分解（SVD）原理总结",
-        "link": "https://toutiao.io/k/gqwlfg4",
+        "title": "编程语言Zig有什么与众不同的",
+        "link": "https://toutiao.io/k/c1cp2dd",
         "date": "2022-11-27"
       },
       {
@@ -10272,11 +10272,6 @@
         "date": "2022-11-27"
       },
       {
-        "title": "[推荐] DDD 之业务系统搭建的设计思考",
-        "link": "https://toutiao.io/k/783naw9",
-        "date": "2022-11-27"
-      },
-      {
         "title": "[推荐] 一条 SQL 查询语句是如何执行的？",
         "link": "https://toutiao.io/k/8y71vds",
         "date": "2022-11-27"
@@ -10289,6 +10284,11 @@
       {
         "title": "[推荐] SQL 常用脚本大全",
         "link": "https://toutiao.io/k/5nnfmun",
+        "date": "2022-11-27"
+      },
+      {
+        "title": "[推荐] DDD 之业务系统搭建的设计思考",
+        "link": "https://toutiao.io/k/783naw9",
         "date": "2022-11-27"
       }
     ]

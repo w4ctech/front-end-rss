@@ -9953,6 +9953,41 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "在任意软件（微信， QQ）中使用加密通讯： oversec",
+        "link": "https://www.v2ex.com/t/898366",
+        "date": "2022-11-27"
+      },
+      {
+        "title": "有什么免费开源的 CRM 软件？能 win 系统用的？",
+        "link": "https://www.v2ex.com/t/898365",
+        "date": "2022-11-27"
+      },
+      {
+        "title": "对未来发展感到迷茫，想向各位前辈请教一下",
+        "link": "https://www.v2ex.com/t/898364",
+        "date": "2022-11-27"
+      },
+      {
+        "title": "Linux 挂载 raid 设备报未知的文件系统类型 drbd",
+        "link": "https://www.v2ex.com/t/898362",
+        "date": "2022-11-27"
+      },
+      {
+        "title": "macOS 12.6.1 删除了 CommandLineTools 后用 vscode 打开 py 文件以后一直弹窗",
+        "link": "https://www.v2ex.com/t/898360",
+        "date": "2022-11-27"
+      },
+      {
+        "title": "为什么我觉得 grpc.io 里的文档不全, 是我使用方式不对吗",
+        "link": "https://www.v2ex.com/t/898359",
+        "date": "2022-11-27"
+      },
+      {
+        "title": "Heimdall 是我用过最好看+实用的个人导航页了",
+        "link": "https://www.v2ex.com/t/898358",
+        "date": "2022-11-27"
+      },
+      {
         "title": "请问有没有国内能访问的且能自定义域名的国外短链接服务商",
         "link": "https://www.v2ex.com/t/898356",
         "date": "2022-11-27"
@@ -10096,31 +10131,6 @@
         "title": "逛推 时间线上总是很多外围广告怎么破，太烦了！怎么屏蔽啊",
         "link": "https://www.v2ex.com/t/898317",
         "date": "2022-11-27"
-      },
-      {
-        "title": "apple tv 与华为智慧屏 v75 pro 适配吗？",
-        "link": "https://www.v2ex.com/t/898314",
-        "date": "2022-11-27"
-      },
-      {
-        "title": "很久没用的罗技 mx keyboard 拿出来电量也足够在笔记本上就不到一分钟没有敲击就断开了",
-        "link": "https://www.v2ex.com/t/898313",
-        "date": "2022-11-27"
-      },
-      {
-        "title": "个人用户 的 腾讯会议 和 钉钉 在刚才突然创建不了新的会议室了",
-        "link": "https://www.v2ex.com/t/898311",
-        "date": "2022-11-27"
-      },
-      {
-        "title": "腾讯会议驾崩啦",
-        "link": "https://www.v2ex.com/t/898310",
-        "date": "2022-11-27"
-      },
-      {
-        "title": "12 代 Intel CPU 的 Thinkpad X1 Yoga 如何关闭小核开启 AVX512，以及提高性能释放",
-        "link": "https://www.v2ex.com/t/898309",
-        "date": "2022-11-27"
       }
     ]
   },
@@ -10227,13 +10237,13 @@
         "date": "2022-11-27"
       },
       {
-        "title": "编程语言Zig有什么与众不同的",
-        "link": "https://toutiao.io/k/c1cp2dd",
+        "title": "Ethers.js 非权威开发指南（4）",
+        "link": "https://toutiao.io/k/nkodrli",
         "date": "2022-11-27"
       },
       {
-        "title": "Ethers.js 非权威开发指南（4）",
-        "link": "https://toutiao.io/k/nkodrli",
+        "title": "编程语言Zig有什么与众不同的",
+        "link": "https://toutiao.io/k/c1cp2dd",
         "date": "2022-11-27"
       },
       {
@@ -10262,11 +10272,6 @@
         "date": "2022-11-27"
       },
       {
-        "title": "[推荐] DDD 之业务系统搭建的设计思考",
-        "link": "https://toutiao.io/k/783naw9",
-        "date": "2022-11-27"
-      },
-      {
         "title": "[推荐] SQL 常用脚本大全",
         "link": "https://toutiao.io/k/5nnfmun",
         "date": "2022-11-27"
@@ -10274,6 +10279,11 @@
       {
         "title": "[推荐] 万字长文细说 Code Review 的正确姿势",
         "link": "https://toutiao.io/k/cxf9ver",
+        "date": "2022-11-27"
+      },
+      {
+        "title": "[推荐] DDD 之业务系统搭建的设计思考",
+        "link": "https://toutiao.io/k/783naw9",
         "date": "2022-11-27"
       }
     ]

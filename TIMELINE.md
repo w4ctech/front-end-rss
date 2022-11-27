@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-27 14:35:05。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-27 15:11:36。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -71,6 +71,13 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-11-20-JS之我用单img元素实现了图像resize拉伸效果](https://www.zhangxinxu.com/wordpress/2022/11/js-image-resize/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-27-在任意软件（微信，-QQ）中使用加密通讯：-oversec](https://www.v2ex.com/t/898366) 
+- [【V2EX】2022-11-27-有什么免费开源的-CRM-软件？能-win-系统用的？](https://www.v2ex.com/t/898365) 
+- [【V2EX】2022-11-27-对未来发展感到迷茫，想向各位前辈请教一下](https://www.v2ex.com/t/898364) 
+- [【V2EX】2022-11-27-Linux-挂载-raid-设备报未知的文件系统类型-drbd](https://www.v2ex.com/t/898362) 
+- [【V2EX】2022-11-27-macOS-12.6.1-删除了-CommandLineTools-后用-vscode-打开-py-文件以后一直弹窗](https://www.v2ex.com/t/898360) 
+- [【V2EX】2022-11-27-为什么我觉得-grpc.io-里的文档不全,-是我使用方式不对吗](https://www.v2ex.com/t/898359) 
+- [【V2EX】2022-11-27-Heimdall-是我用过最好看+实用的个人导航页了](https://www.v2ex.com/t/898358) 
 - [【V2EX】2022-11-27-请问有没有国内能访问的且能自定义域名的国外短链接服务商](https://www.v2ex.com/t/898356) 
 - [【V2EX】2022-11-27-iPhone-youtube-小窗播放的方法，免费且无需第三方软件](https://www.v2ex.com/t/898355) 
 - [【V2EX】2022-11-27-谁帮我写几句批量代码](https://www.v2ex.com/t/898354) 
@@ -100,11 +107,6 @@
 - [【V2EX】2022-11-27-人到-30-是不是欲望都降低了？](https://www.v2ex.com/t/898321) 
 - [【V2EX】2022-11-27-编写并搭建停服网游私服和群里同好一起玩（100%不收费，不接受任何形式捐赠）有法律风险吗?](https://www.v2ex.com/t/898319) 
 - [【V2EX】2022-11-27-逛推-时间线上总是很多外围广告怎么破，太烦了！怎么屏蔽啊](https://www.v2ex.com/t/898317) 
-- [【V2EX】2022-11-27-apple-tv-与华为智慧屏-v75-pro-适配吗？](https://www.v2ex.com/t/898314) 
-- [【V2EX】2022-11-27-很久没用的罗技-mx-keyboard-拿出来电量也足够在笔记本上就不到一分钟没有敲击就断开了](https://www.v2ex.com/t/898313) 
-- [【V2EX】2022-11-27-个人用户-的-腾讯会议-和-钉钉-在刚才突然创建不了新的会议室了](https://www.v2ex.com/t/898311) 
-- [【V2EX】2022-11-27-腾讯会议驾崩啦](https://www.v2ex.com/t/898310) 
-- [【V2EX】2022-11-27-12-代-Intel-CPU-的-Thinkpad-X1-Yoga-如何关闭小核开启-AVX512，以及提高性能释放](https://www.v2ex.com/t/898309) 
 - [【技术头条】2022-11-27-前端性能优化心法-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15416&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-performance-tuning%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-27-当我们谈论DDD时我们在谈论什么-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15415&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fstrategy-and-tactical-design-of-ddd%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-27-如何基于-Prerender-为-SPA-做-SEO-优化-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=15414&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fhow-to-optimize-seo-for-spa-based-on-prerender%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -123,16 +125,16 @@
 - [【开发者头条】2022-11-27-图解Kafka消费组偏移量_consumer_offset的数据结构](https://toutiao.io/k/d2l920a) 
 - [【开发者头条】2022-11-27-前后端分离的企业级微服务多租户系统架构，快速开发平台！](https://toutiao.io/k/h9jrp0q) 
 - [【开发者头条】2022-11-27-vue如何二次封装一个高频可复用的组件](https://toutiao.io/k/fzld64o) 
-- [【开发者头条】2022-11-27-编程语言Zig有什么与众不同的](https://toutiao.io/k/c1cp2dd) 
 - [【开发者头条】2022-11-27-Ethers.js-非权威开发指南（4）](https://toutiao.io/k/nkodrli) 
+- [【开发者头条】2022-11-27-编程语言Zig有什么与众不同的](https://toutiao.io/k/c1cp2dd) 
 - [【开发者头条】2022-11-27-奇异值分解（SVD）原理总结](https://toutiao.io/k/gqwlfg4) 
 - [【开发者头条】2022-11-27-Redis事务引发的线上生产事故完整复盘，学到了！](https://toutiao.io/k/a4i8it5) 
 - [【开发者头条】2022-11-27-基于OneData的数据仓库建设](https://toutiao.io/k/wm7gadg) 
 - [【开发者头条】2022-11-27-百亿数据个性化推荐：弹幕工程架构演进](https://toutiao.io/k/ppq6ea8) 
 - [【开发者头条】2022-11-27-推荐-一条-SQL-查询语句是如何执行的？](https://toutiao.io/k/8y71vds) 
-- [【开发者头条】2022-11-27-推荐-DDD-之业务系统搭建的设计思考](https://toutiao.io/k/783naw9) 
 - [【开发者头条】2022-11-27-推荐-SQL-常用脚本大全](https://toutiao.io/k/5nnfmun) 
 - [【开发者头条】2022-11-27-推荐-万字长文细说-Code-Review-的正确姿势](https://toutiao.io/k/cxf9ver) 
+- [【开发者头条】2022-11-27-推荐-DDD-之业务系统搭建的设计思考](https://toutiao.io/k/783naw9) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

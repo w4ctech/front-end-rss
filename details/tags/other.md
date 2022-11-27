@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-27 13:37:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-27 14:10:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1916,6 +1916,8 @@
 - [2022-10-20-告别pointer-events:none使用HTML-inert属性真正禁用](https://www.zhangxinxu.com/wordpress/2022/10/html-inert-disabled-attribute/) 
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
+- [2022-11-27-支持-FIDO2-的-windows-SSH-客户端](https://www.v2ex.com/t/898346) 
+- [2022-11-27-iPhone-ac+到期，由第三方续费渠道吗？](https://www.v2ex.com/t/898344) 
 - [2022-11-27-关于-Java-后端开发规范-Or-个人习惯？谈谈你们的理解和现有项目的状况。](https://www.v2ex.com/t/898342) 
 - [2022-11-27-Wins-for-macOS-黑五有五折优惠](https://www.v2ex.com/t/898341) 
 - [2022-11-27-移动数据变成-2G-联想到的阴谋论](https://www.v2ex.com/t/898340) 
@@ -1946,9 +1948,6 @@
 - [2022-11-27-Linux-编译环境-如何更好实现全局科学?](https://www.v2ex.com/t/898300) 
 - [2022-11-27-造了个试验品，利用频繁更换端口的方式来躲避运营商的-UDP-限速](https://www.v2ex.com/t/898299) 
 - [2022-11-27-收一个腾讯云香港轻量](https://www.v2ex.com/t/898298) 
-- [2022-11-27-第三方弹幕（本地弹幕）](https://www.v2ex.com/t/898297) 
-- [2022-11-27-Telegram-twitter-微博这类应用是如何面对无线增长的数据的啊？](https://www.v2ex.com/t/898296) 
-- [2022-11-27-微信你是要扫描我电脑里所有的文件吗？](https://www.v2ex.com/t/898295) 
 - [2022-11-27-当我们谈论DDD时我们在谈论什么-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15415&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fstrategy-and-tactical-design-of-ddd%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-27-2022，「倾城之链」运营第-6-年感记-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=15413&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fnicelinks-site-in-2022%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-27-浅谈数据和人工智能项目的管理-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15412&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fproject-management-big-data-artificial-intelligence%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1965,8 +1964,8 @@
 - [2022-11-27-编程语言Zig有什么与众不同的](https://toutiao.io/k/c1cp2dd) 
 - [2022-11-27-奇异值分解（SVD）原理总结](https://toutiao.io/k/gqwlfg4) 
 - [2022-11-27-基于OneData的数据仓库建设](https://toutiao.io/k/wm7gadg) 
-- [2022-11-27-百亿数据个性化推荐：弹幕工程架构演进](https://toutiao.io/k/ppq6ea8) 
 - [2022-11-27-Redis事务引发的线上生产事故完整复盘，学到了！](https://toutiao.io/k/a4i8it5) 
+- [2022-11-27-百亿数据个性化推荐：弹幕工程架构演进](https://toutiao.io/k/ppq6ea8) 
 - [2022-11-27-推荐-DDD-之业务系统搭建的设计思考](https://toutiao.io/k/783naw9) 
-- [2022-11-27-推荐-SQL-常用脚本大全](https://toutiao.io/k/5nnfmun) 
 - [2022-11-27-推荐-一条-SQL-查询语句是如何执行的？](https://toutiao.io/k/8y71vds) 
+- [2022-11-27-推荐-SQL-常用脚本大全](https://toutiao.io/k/5nnfmun) 

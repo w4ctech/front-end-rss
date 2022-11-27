@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-27 21:35:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-27 22:11:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -17,7 +17,6 @@
 - [2022-11-27-孤独是绝症](https://www.v2ex.com/t/898377) 
 - [2022-11-27-付费求帮忙配置-therecipe/qt-库-msvc-版本-webengine-环境](https://www.v2ex.com/t/898374) 
 - [2022-11-27-有没有推荐的投屏盒子](https://www.v2ex.com/t/898373) 
-- [2022-11-27-武汉今天的活动怎么没看见有人讨论😅](https://www.v2ex.com/t/898371) 
 - [2022-11-27-假如我是一只鸟](https://www.v2ex.com/t/898370) 
 - [2022-11-27-有没有什么推荐的国内访问速度不错的建站用境外-VPS](https://www.v2ex.com/t/898368) 
 - [2022-11-27-想搞个千兆路由器，求推荐](https://www.v2ex.com/t/898367) 

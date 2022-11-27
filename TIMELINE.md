@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-27 09:11:09。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-27 09:35:05。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -71,6 +71,12 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-11-20-JS之我用单img元素实现了图像resize拉伸效果](https://www.zhangxinxu.com/wordpress/2022/11/js-image-resize/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-27-绑了-Care-的-AirPods-长按盒子的白色键重置-影响-Care-吗？](https://www.v2ex.com/t/898288) 
+- [【V2EX】2022-11-27-分享下今年黑五买了啥](https://www.v2ex.com/t/898286) 
+- [【V2EX】2022-11-27-用筋膜枪给眼睛放松以后,-发现近视缓解了?](https://www.v2ex.com/t/898285) 
+- [【V2EX】2022-11-27-Air724UG-模块实现-短信转发-来电通知-语音信箱](https://www.v2ex.com/t/898284) 
+- [【V2EX】2022-11-27-有没有专门讲动物如何冬眠的纪录片？](https://www.v2ex.com/t/898283) 
+- [【V2EX】2022-11-27-自建邮箱的-ip-被墙了，怎么在国内收邮件？](https://www.v2ex.com/t/898282) 
 - [【V2EX】2022-11-27-求解，-Python-怎么保留大数](https://www.v2ex.com/t/898281) 
 - [【V2EX】2022-11-27-腾讯云-CDN-要按请求数付费了，开始收割](https://www.v2ex.com/t/898280) 
 - [【V2EX】2022-11-27-Python-如何最优雅的遍历嵌套-json？](https://www.v2ex.com/t/898279) 
@@ -98,15 +104,11 @@
 - [【V2EX】2022-11-27-打败吉翁的不是那一台-rx78，而是千千万万的吉姆啊。推荐美剧《安多》。](https://www.v2ex.com/t/898252) 
 - [【V2EX】2022-11-27-迟来的书籍推荐：《100-Deadly-Skills》](https://www.v2ex.com/t/898251) 
 - [【V2EX】2022-11-27-求一个猫猫-PT-邀请](https://www.v2ex.com/t/898249) 
-- [【V2EX】2022-11-27-如何评价既要还要](https://www.v2ex.com/t/898247) 
 - [【V2EX】2022-11-27-不懂就问，-mac-Appstore-上架的应用还在允许不支持-apple-silicon-吗？](https://www.v2ex.com/t/898246) 
 - [【V2EX】2022-11-27-请教两个线上问题该怎么做好](https://www.v2ex.com/t/898245) 
 - [【V2EX】2022-11-27-iPad-air5-附带的线材是-3a-还是-5a？](https://www.v2ex.com/t/898243) 
 - [【V2EX】2022-11-27-使用电信网络无法从-AppStore-下载-telegram](https://www.v2ex.com/t/898242) 
 - [【V2EX】2022-11-27-求推荐适合长期储存的白酒](https://www.v2ex.com/t/898239) 
-- [【V2EX】2022-11-27-红米手机屏幕未点亮收不到微信视频提醒](https://www.v2ex.com/t/898238) 
-- [【V2EX】2022-11-27-小-tips，《乌合之众》并非圭臬，仅是作者的观念集](https://www.v2ex.com/t/898237) 
-- [【V2EX】2022-11-27-想为-sci-hub-与-zlibrary-做一点什么，除了捐款，还能干啥？](https://www.v2ex.com/t/898236) 
 - [【技术头条】2022-11-27-前端性能优化心法-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15416&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-performance-tuning%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-27-当我们谈论DDD时我们在谈论什么-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15415&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fstrategy-and-tactical-design-of-ddd%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-27-如何基于-Prerender-为-SPA-做-SEO-优化-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=15414&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fhow-to-optimize-seo-for-spa-based-on-prerender%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -126,15 +128,15 @@
 - [【开发者头条】2022-11-27-前后端分离的企业级微服务多租户系统架构，快速开发平台！](https://toutiao.io/k/h9jrp0q) 
 - [【开发者头条】2022-11-27-编程语言Zig有什么与众不同的](https://toutiao.io/k/c1cp2dd) 
 - [【开发者头条】2022-11-27-vue如何二次封装一个高频可复用的组件](https://toutiao.io/k/fzld64o) 
-- [【开发者头条】2022-11-27-奇异值分解（SVD）原理总结](https://toutiao.io/k/gqwlfg4) 
 - [【开发者头条】2022-11-27-基于OneData的数据仓库建设](https://toutiao.io/k/wm7gadg) 
+- [【开发者头条】2022-11-27-奇异值分解（SVD）原理总结](https://toutiao.io/k/gqwlfg4) 
 - [【开发者头条】2022-11-27-百亿数据个性化推荐：弹幕工程架构演进](https://toutiao.io/k/ppq6ea8) 
 - [【开发者头条】2022-11-27-Ethers.js-非权威开发指南（4）](https://toutiao.io/k/nkodrli) 
 - [【开发者头条】2022-11-27-Redis事务引发的线上生产事故完整复盘，学到了！](https://toutiao.io/k/a4i8it5) 
-- [【开发者头条】2022-11-27-推荐-万字长文细说-Code-Review-的正确姿势](https://toutiao.io/k/cxf9ver) 
-- [【开发者头条】2022-11-27-推荐-DDD-之业务系统搭建的设计思考](https://toutiao.io/k/783naw9) 
 - [【开发者头条】2022-11-27-推荐-SQL-常用脚本大全](https://toutiao.io/k/5nnfmun) 
 - [【开发者头条】2022-11-27-推荐-一条-SQL-查询语句是如何执行的？](https://toutiao.io/k/8y71vds) 
+- [【开发者头条】2022-11-27-推荐-万字长文细说-Code-Review-的正确姿势](https://toutiao.io/k/cxf9ver) 
+- [【开发者头条】2022-11-27-推荐-DDD-之业务系统搭建的设计思考](https://toutiao.io/k/783naw9) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

@@ -1,10 +1,16 @@
-:alarm_clock: 更新时间: 2022-11-27 09:11:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-27 09:35:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-11-27-绑了-Care-的-AirPods-长按盒子的白色键重置-影响-Care-吗？](https://www.v2ex.com/t/898288) 
+- [2022-11-27-分享下今年黑五买了啥](https://www.v2ex.com/t/898286) 
+- [2022-11-27-用筋膜枪给眼睛放松以后,-发现近视缓解了?](https://www.v2ex.com/t/898285) 
+- [2022-11-27-Air724UG-模块实现-短信转发-来电通知-语音信箱](https://www.v2ex.com/t/898284) 
+- [2022-11-27-有没有专门讲动物如何冬眠的纪录片？](https://www.v2ex.com/t/898283) 
+- [2022-11-27-自建邮箱的-ip-被墙了，怎么在国内收邮件？](https://www.v2ex.com/t/898282) 
 - [2022-11-27-求解，-Python-怎么保留大数](https://www.v2ex.com/t/898281) 
 - [2022-11-27-腾讯云-CDN-要按请求数付费了，开始收割](https://www.v2ex.com/t/898280) 
 - [2022-11-27-Python-如何最优雅的遍历嵌套-json？](https://www.v2ex.com/t/898279) 
@@ -32,12 +38,8 @@
 - [2022-11-27-打败吉翁的不是那一台-rx78，而是千千万万的吉姆啊。推荐美剧《安多》。](https://www.v2ex.com/t/898252) 
 - [2022-11-27-迟来的书籍推荐：《100-Deadly-Skills》](https://www.v2ex.com/t/898251) 
 - [2022-11-27-求一个猫猫-PT-邀请](https://www.v2ex.com/t/898249) 
-- [2022-11-27-如何评价既要还要](https://www.v2ex.com/t/898247) 
 - [2022-11-27-不懂就问，-mac-Appstore-上架的应用还在允许不支持-apple-silicon-吗？](https://www.v2ex.com/t/898246) 
 - [2022-11-27-请教两个线上问题该怎么做好](https://www.v2ex.com/t/898245) 
 - [2022-11-27-iPad-air5-附带的线材是-3a-还是-5a？](https://www.v2ex.com/t/898243) 
 - [2022-11-27-使用电信网络无法从-AppStore-下载-telegram](https://www.v2ex.com/t/898242) 
 - [2022-11-27-求推荐适合长期储存的白酒](https://www.v2ex.com/t/898239) 
-- [2022-11-27-红米手机屏幕未点亮收不到微信视频提醒](https://www.v2ex.com/t/898238) 
-- [2022-11-27-小-tips，《乌合之众》并非圭臬，仅是作者的观念集](https://www.v2ex.com/t/898237) 
-- [2022-11-27-想为-sci-hub-与-zlibrary-做一点什么，除了捐款，还能干啥？](https://www.v2ex.com/t/898236) 

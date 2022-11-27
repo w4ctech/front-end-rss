@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-27 04:41:30，:rocket: 更新条数: +2009， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-27 05:11:04，:rocket: 更新条数: +2000， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,7 +491,8 @@
 </summary>
 
 
-- [2022-11-27-感觉这这两个月事情背后都有利益集团在推动，-2-个月前的知乎回答完美预言今天。](https://www.v2ex.com/t/898240) ![](assets/new.png)  
+- [2022-11-27-iPad-air5-附带的线材是-3a-还是-5a？](https://www.v2ex.com/t/898243) ![](assets/new.png)  
+- [2022-11-27-使用电信网络无法从-AppStore-下载-telegram](https://www.v2ex.com/t/898242) ![](assets/new.png)  
 - [2022-11-27-求推荐适合长期储存的白酒](https://www.v2ex.com/t/898239) ![](assets/new.png)  
 - [2022-11-27-红米手机屏幕未点亮收不到微信视频提醒](https://www.v2ex.com/t/898238) ![](assets/new.png)  
 - [2022-11-27-小-tips，《乌合之众》并非圭臬，仅是作者的观念集](https://www.v2ex.com/t/898237) ![](assets/new.png)  
@@ -501,16 +502,15 @@
 - [2022-11-27-iphone11-电池-72%了！](https://www.v2ex.com/t/898229) ![](assets/new.png)  
 - [2022-11-27-寻找支持网络-ACL-的容器/虚拟化方案](https://www.v2ex.com/t/898228) ![](assets/new.png)  
 - [2022-11-27--Swift-请问为什么-Swift-Playground-打印结果会自动加上一对半角圆括号？](https://www.v2ex.com/t/898227) ![](assets/new.png)  
-- [2022-11-27-观-V2-评论有感](https://www.v2ex.com/t/898226) ![](assets/new.png)  
-- [2022-11-27-一百多年来，论辩的魂灵从未改变](https://www.v2ex.com/t/898225) ![](assets/new.png)  
-- [2022-11-27-Office-365-的车，-40-一年](https://www.v2ex.com/t/898224) ![](assets/new.png)  
 - [2022-11-27-浏览器扩展课程-Manifest-V3-升级版](https://www.v2ex.com/t/898223) ![](assets/new.png)  
 - [2022-11-27-寻一个壁纸-在-v-站看到一个老铁分享保存的-时间有点久](https://www.v2ex.com/t/898222) ![](assets/new.png)  
 - [2022-11-27-（Ctrl---a,-e,-p,-n,-b,-f）可以模拟（Cmd---左右）和方向键，那可以用什么组合键模拟（Option---左右）？](https://www.v2ex.com/t/898220) ![](assets/new.png)  
 - [2022-11-27-产品经理远程工作岗位+海外业务](https://www.v2ex.com/t/898219) ![](assets/new.png)  
 - [2022-11-27-我也想要选票](https://www.v2ex.com/t/898218) ![](assets/new.png)  
 - [2022-11-27-推广-一个根据文本生成图片情景的小程序](https://www.v2ex.com/t/898217) ![](assets/new.png)  
-- [2022-11-27-office-365-家庭五年](https://www.v2ex.com/t/898216) ![](assets/new.png)  
+- [2022-11-27-Win11-有没有什么方法能简单有效的避免-UAC-弹窗](https://www.v2ex.com/t/898213) ![](assets/new.png)  
+- [2022-11-27-荷兰-Job-Seeking-Visa-申请组队？](https://www.v2ex.com/t/898211) ![](assets/new.png)  
+- [2022-11-27-工地到设计院！？](https://www.v2ex.com/t/898204) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -555,10 +555,10 @@
 - [2022-11-27-基于OneData的数据仓库建设](https://toutiao.io/k/wm7gadg) ![](assets/new.png)  
 - [2022-11-27-百亿数据个性化推荐：弹幕工程架构演进](https://toutiao.io/k/ppq6ea8) ![](assets/new.png)  
 - [2022-11-27-奇异值分解（SVD）原理总结](https://toutiao.io/k/gqwlfg4) ![](assets/new.png)  
-- [2022-11-27-推荐-DDD-之业务系统搭建的设计思考](https://toutiao.io/k/783naw9) ![](assets/new.png)  
-- [2022-11-27-推荐-万字长文细说-Code-Review-的正确姿势](https://toutiao.io/k/cxf9ver) ![](assets/new.png)  
-- [2022-11-27-推荐-SQL-常用脚本大全](https://toutiao.io/k/5nnfmun) ![](assets/new.png)  
 - [2022-11-27-推荐-一条-SQL-查询语句是如何执行的？](https://toutiao.io/k/8y71vds) ![](assets/new.png)  
+- [2022-11-27-推荐-万字长文细说-Code-Review-的正确姿势](https://toutiao.io/k/cxf9ver) ![](assets/new.png)  
+- [2022-11-27-推荐-DDD-之业务系统搭建的设计思考](https://toutiao.io/k/783naw9) ![](assets/new.png)  
+- [2022-11-27-推荐-SQL-常用脚本大全](https://toutiao.io/k/5nnfmun) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

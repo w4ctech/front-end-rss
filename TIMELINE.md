@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-27 05:11:04。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-27 05:35:28。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -71,6 +71,9 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-11-20-JS之我用单img元素实现了图像resize拉伸效果](https://www.zhangxinxu.com/wordpress/2022/11/js-image-resize/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-27-如何评价既要还要](https://www.v2ex.com/t/898247) 
+- [【V2EX】2022-11-27-不懂就问，-mac-Appstore-上架的应用还在允许不支持-apple-silicon-吗？](https://www.v2ex.com/t/898246) 
+- [【V2EX】2022-11-27-请教两个线上问题该怎么做好](https://www.v2ex.com/t/898245) 
 - [【V2EX】2022-11-27-iPad-air5-附带的线材是-3a-还是-5a？](https://www.v2ex.com/t/898243) 
 - [【V2EX】2022-11-27-使用电信网络无法从-AppStore-下载-telegram](https://www.v2ex.com/t/898242) 
 - [【V2EX】2022-11-27-求推荐适合长期储存的白酒](https://www.v2ex.com/t/898239) 
@@ -96,9 +99,6 @@
 - [【V2EX】2022-11-26-有能使用-qemu-作-backend-运行-docker-镜像的程序吗](https://www.v2ex.com/t/898200) 
 - [【V2EX】2022-11-26-应该把域名设计成过期后禁止被任何人重新注册](https://www.v2ex.com/t/898199) 
 - [【V2EX】2022-11-26-Apple-TV-能安装-Safari-Chrome-等浏览器吗](https://www.v2ex.com/t/898198) 
-- [【V2EX】2022-11-26-因工作等等，需要双卡套餐，话说有什么实惠套餐-or-乞丐版套装，基本没电话也少用流量？](https://www.v2ex.com/t/898196) 
-- [【V2EX】2022-11-26-一百年来，学生们从未改变](https://www.v2ex.com/t/898195) 
-- [【V2EX】2022-11-26-翻译微软独立研究员-Anthony-Shaw-的《CPython-Internals》-《CPython-实现原理》](https://www.v2ex.com/t/898194) 
 - [【技术头条】2022-11-27-前端性能优化心法-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15416&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-performance-tuning%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-27-当我们谈论DDD时我们在谈论什么-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15415&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fstrategy-and-tactical-design-of-ddd%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-27-如何基于-Prerender-为-SPA-做-SEO-优化-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=15414&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fhow-to-optimize-seo-for-spa-based-on-prerender%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -121,10 +121,10 @@
 - [【开发者头条】2022-11-27-基于OneData的数据仓库建设](https://toutiao.io/k/wm7gadg) 
 - [【开发者头条】2022-11-27-百亿数据个性化推荐：弹幕工程架构演进](https://toutiao.io/k/ppq6ea8) 
 - [【开发者头条】2022-11-27-奇异值分解（SVD）原理总结](https://toutiao.io/k/gqwlfg4) 
-- [【开发者头条】2022-11-27-推荐-一条-SQL-查询语句是如何执行的？](https://toutiao.io/k/8y71vds) 
+- [【开发者头条】2022-11-27-推荐-SQL-常用脚本大全](https://toutiao.io/k/5nnfmun) 
 - [【开发者头条】2022-11-27-推荐-万字长文细说-Code-Review-的正确姿势](https://toutiao.io/k/cxf9ver) 
 - [【开发者头条】2022-11-27-推荐-DDD-之业务系统搭建的设计思考](https://toutiao.io/k/783naw9) 
-- [【开发者头条】2022-11-27-推荐-SQL-常用脚本大全](https://toutiao.io/k/5nnfmun) 
+- [【开发者头条】2022-11-27-推荐-一条-SQL-查询语句是如何执行的？](https://toutiao.io/k/8y71vds) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

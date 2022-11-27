@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-27 05:11:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-27 05:35:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1916,6 +1916,9 @@
 - [2022-10-20-告别pointer-events:none使用HTML-inert属性真正禁用](https://www.zhangxinxu.com/wordpress/2022/10/html-inert-disabled-attribute/) 
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
+- [2022-11-27-如何评价既要还要](https://www.v2ex.com/t/898247) 
+- [2022-11-27-不懂就问，-mac-Appstore-上架的应用还在允许不支持-apple-silicon-吗？](https://www.v2ex.com/t/898246) 
+- [2022-11-27-请教两个线上问题该怎么做好](https://www.v2ex.com/t/898245) 
 - [2022-11-27-iPad-air5-附带的线材是-3a-还是-5a？](https://www.v2ex.com/t/898243) 
 - [2022-11-27-使用电信网络无法从-AppStore-下载-telegram](https://www.v2ex.com/t/898242) 
 - [2022-11-27-求推荐适合长期储存的白酒](https://www.v2ex.com/t/898239) 
@@ -1935,9 +1938,6 @@
 - [2022-11-27-工地到设计院！？](https://www.v2ex.com/t/898204) 
 - [2022-11-26-小米商城的手机延保类订单快照全部失效](https://www.v2ex.com/t/898201) 
 - [2022-11-26-应该把域名设计成过期后禁止被任何人重新注册](https://www.v2ex.com/t/898199) 
-- [2022-11-26-因工作等等，需要双卡套餐，话说有什么实惠套餐-or-乞丐版套装，基本没电话也少用流量？](https://www.v2ex.com/t/898196) 
-- [2022-11-26-一百年来，学生们从未改变](https://www.v2ex.com/t/898195) 
-- [2022-11-26-翻译微软独立研究员-Anthony-Shaw-的《CPython-Internals》-《CPython-实现原理》](https://www.v2ex.com/t/898194) 
 - [2022-11-27-当我们谈论DDD时我们在谈论什么-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15415&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fstrategy-and-tactical-design-of-ddd%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-27-2022，「倾城之链」运营第-6-年感记-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=15413&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fnicelinks-site-in-2022%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-27-浅谈数据和人工智能项目的管理-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15412&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fproject-management-big-data-artificial-intelligence%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1955,6 +1955,6 @@
 - [2022-11-27-基于OneData的数据仓库建设](https://toutiao.io/k/wm7gadg) 
 - [2022-11-27-百亿数据个性化推荐：弹幕工程架构演进](https://toutiao.io/k/ppq6ea8) 
 - [2022-11-27-奇异值分解（SVD）原理总结](https://toutiao.io/k/gqwlfg4) 
-- [2022-11-27-推荐-一条-SQL-查询语句是如何执行的？](https://toutiao.io/k/8y71vds) 
-- [2022-11-27-推荐-DDD-之业务系统搭建的设计思考](https://toutiao.io/k/783naw9) 
 - [2022-11-27-推荐-SQL-常用脚本大全](https://toutiao.io/k/5nnfmun) 
+- [2022-11-27-推荐-DDD-之业务系统搭建的设计思考](https://toutiao.io/k/783naw9) 
+- [2022-11-27-推荐-一条-SQL-查询语句是如何执行的？](https://toutiao.io/k/8y71vds) 

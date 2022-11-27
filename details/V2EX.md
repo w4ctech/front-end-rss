@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2022-11-27 05:11:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-27 05:35:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-11-27-如何评价既要还要](https://www.v2ex.com/t/898247) 
+- [2022-11-27-不懂就问，-mac-Appstore-上架的应用还在允许不支持-apple-silicon-吗？](https://www.v2ex.com/t/898246) 
+- [2022-11-27-请教两个线上问题该怎么做好](https://www.v2ex.com/t/898245) 
 - [2022-11-27-iPad-air5-附带的线材是-3a-还是-5a？](https://www.v2ex.com/t/898243) 
 - [2022-11-27-使用电信网络无法从-AppStore-下载-telegram](https://www.v2ex.com/t/898242) 
 - [2022-11-27-求推荐适合长期储存的白酒](https://www.v2ex.com/t/898239) 
@@ -30,6 +33,3 @@
 - [2022-11-26-有能使用-qemu-作-backend-运行-docker-镜像的程序吗](https://www.v2ex.com/t/898200) 
 - [2022-11-26-应该把域名设计成过期后禁止被任何人重新注册](https://www.v2ex.com/t/898199) 
 - [2022-11-26-Apple-TV-能安装-Safari-Chrome-等浏览器吗](https://www.v2ex.com/t/898198) 
-- [2022-11-26-因工作等等，需要双卡套餐，话说有什么实惠套餐-or-乞丐版套装，基本没电话也少用流量？](https://www.v2ex.com/t/898196) 
-- [2022-11-26-一百年来，学生们从未改变](https://www.v2ex.com/t/898195) 
-- [2022-11-26-翻译微软独立研究员-Anthony-Shaw-的《CPython-Internals》-《CPython-实现原理》](https://www.v2ex.com/t/898194) 

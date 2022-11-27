@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-27 05:11:04，:rocket: 更新条数: +2000， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-27 05:35:28，:rocket: 更新条数: +2000， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-11-27-如何评价既要还要](https://www.v2ex.com/t/898247) ![](assets/new.png)  
+- [2022-11-27-不懂就问，-mac-Appstore-上架的应用还在允许不支持-apple-silicon-吗？](https://www.v2ex.com/t/898246) ![](assets/new.png)  
+- [2022-11-27-请教两个线上问题该怎么做好](https://www.v2ex.com/t/898245) ![](assets/new.png)  
 - [2022-11-27-iPad-air5-附带的线材是-3a-还是-5a？](https://www.v2ex.com/t/898243) ![](assets/new.png)  
 - [2022-11-27-使用电信网络无法从-AppStore-下载-telegram](https://www.v2ex.com/t/898242) ![](assets/new.png)  
 - [2022-11-27-求推荐适合长期储存的白酒](https://www.v2ex.com/t/898239) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-11-27-产品经理远程工作岗位+海外业务](https://www.v2ex.com/t/898219) ![](assets/new.png)  
 - [2022-11-27-我也想要选票](https://www.v2ex.com/t/898218) ![](assets/new.png)  
 - [2022-11-27-推广-一个根据文本生成图片情景的小程序](https://www.v2ex.com/t/898217) ![](assets/new.png)  
-- [2022-11-27-Win11-有没有什么方法能简单有效的避免-UAC-弹窗](https://www.v2ex.com/t/898213) ![](assets/new.png)  
-- [2022-11-27-荷兰-Job-Seeking-Visa-申请组队？](https://www.v2ex.com/t/898211) ![](assets/new.png)  
-- [2022-11-27-工地到设计院！？](https://www.v2ex.com/t/898204) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -555,10 +555,10 @@
 - [2022-11-27-基于OneData的数据仓库建设](https://toutiao.io/k/wm7gadg) ![](assets/new.png)  
 - [2022-11-27-百亿数据个性化推荐：弹幕工程架构演进](https://toutiao.io/k/ppq6ea8) ![](assets/new.png)  
 - [2022-11-27-奇异值分解（SVD）原理总结](https://toutiao.io/k/gqwlfg4) ![](assets/new.png)  
-- [2022-11-27-推荐-一条-SQL-查询语句是如何执行的？](https://toutiao.io/k/8y71vds) ![](assets/new.png)  
+- [2022-11-27-推荐-SQL-常用脚本大全](https://toutiao.io/k/5nnfmun) ![](assets/new.png)  
 - [2022-11-27-推荐-万字长文细说-Code-Review-的正确姿势](https://toutiao.io/k/cxf9ver) ![](assets/new.png)  
 - [2022-11-27-推荐-DDD-之业务系统搭建的设计思考](https://toutiao.io/k/783naw9) ![](assets/new.png)  
-- [2022-11-27-推荐-SQL-常用脚本大全](https://toutiao.io/k/5nnfmun) ![](assets/new.png)  
+- [2022-11-27-推荐-一条-SQL-查询语句是如何执行的？](https://toutiao.io/k/8y71vds) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

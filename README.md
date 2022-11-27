@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-27 01:02:46，:rocket: 更新条数: +2005， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-27 02:51:49，:rocket: 更新条数: +2008， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,26 +491,26 @@
 </summary>
 
 
+- [2022-11-27-一百多年来，论辩的魂灵从未改变](https://www.v2ex.com/t/898225) ![](assets/new.png)  
+- [2022-11-27-Office-365-的车，-40-一年](https://www.v2ex.com/t/898224) ![](assets/new.png)  
+- [2022-11-27-浏览器扩展课程-Manifest-V3-升级版](https://www.v2ex.com/t/898223) ![](assets/new.png)  
+- [2022-11-27-寻一个壁纸-在-v-站看到一个老铁分享保存的-时间有点久](https://www.v2ex.com/t/898222) ![](assets/new.png)  
+- [2022-11-27-（Ctrl---a,-e,-p,-n,-b,-f）可以模拟（Cmd---左右）和方向键，那可以用什么组合键模拟（Option---左右）？](https://www.v2ex.com/t/898220) ![](assets/new.png)  
+- [2022-11-27-产品经理远程工作岗位+海外业务](https://www.v2ex.com/t/898219) ![](assets/new.png)  
+- [2022-11-27-我也想要选票](https://www.v2ex.com/t/898218) ![](assets/new.png)  
+- [2022-11-27-推广-一个根据文本生成图片情景的小程序](https://www.v2ex.com/t/898217) ![](assets/new.png)  
+- [2022-11-27-office-365-家庭五年](https://www.v2ex.com/t/898216) ![](assets/new.png)  
+- [2022-11-27-早上吃了个包子，发现是黑芝麻馅儿的](https://www.v2ex.com/t/898214) ![](assets/new.png)  
+- [2022-11-27-Win11-有没有什么方法能简单有效的避免-UAC-弹窗](https://www.v2ex.com/t/898213) ![](assets/new.png)  
+- [2022-11-27-上海，见证了历史。](https://www.v2ex.com/t/898212) ![](assets/new.png)  
+- [2022-11-27-荷兰-Job-Seeking-Visa-申请组队？](https://www.v2ex.com/t/898211) ![](assets/new.png)  
+- [2022-11-27-湖南人的命不是命](https://www.v2ex.com/t/898209) ![](assets/new.png)  
 - [2022-11-27-工地到设计院！？](https://www.v2ex.com/t/898204) ![](assets/new.png)  
 - [2022-11-26-求助，打开电脑-webstrom-提示要信任小米路由器证书，我不解于是拒绝了，接下来所有的网络都无法访问了](https://www.v2ex.com/t/898203) ![](assets/new.png)  
 - [2022-11-26-小米商城的手机延保类订单快照全部失效](https://www.v2ex.com/t/898201) ![](assets/new.png)  
 - [2022-11-26-有能使用-qemu-作-backend-运行-docker-镜像的程序吗](https://www.v2ex.com/t/898200) ![](assets/new.png)  
 - [2022-11-26-应该把域名设计成过期后禁止被任何人重新注册](https://www.v2ex.com/t/898199) ![](assets/new.png)  
 - [2022-11-26-Apple-TV-能安装-Safari-Chrome-等浏览器吗](https://www.v2ex.com/t/898198) ![](assets/new.png)  
-- [2022-11-26-因工作等等，需要双卡套餐，话说有什么实惠套餐-or-乞丐版套装，基本没电话也少用流量？](https://www.v2ex.com/t/898196) ![](assets/new.png)  
-- [2022-11-26-一百年来，学生们从未改变](https://www.v2ex.com/t/898195) ![](assets/new.png)  
-- [2022-11-26-翻译微软独立研究员-Anthony-Shaw-的《CPython-Internals》-《CPython-实现原理》](https://www.v2ex.com/t/898194) ![](assets/new.png)  
-- [2022-11-26-要想在广州买房，至少得有多少钱？](https://www.v2ex.com/t/898193) ![](assets/new.png)  
-- [2022-11-26-二手-iPhone13PM-和-iPhone14-plus，价格相差不大，买哪一个](https://www.v2ex.com/t/898192) ![](assets/new.png)  
-- [2022-11-26-撸了一台三年东京-vps](https://www.v2ex.com/t/898191) ![](assets/new.png)  
-- [2022-11-26-请问大佬们是怎么看待保险理财的](https://www.v2ex.com/t/898189) ![](assets/new.png)  
-- [2022-11-26-关于-V2-的一点，我还是比较好奇](https://www.v2ex.com/t/898188) ![](assets/new.png)  
-- [2022-11-26-mac-OS-多显示器识别-混乱的问题](https://www.v2ex.com/t/898187) ![](assets/new.png)  
-- [2022-11-26-南京的同学们，敬佩你们](https://www.v2ex.com/t/898186) ![](assets/new.png)  
-- [2022-11-26-App-Store-登录-bug，大家从设置界面退出媒体登录，就会出-bug，设置里面显示直接没反应诶，但是这时候点开-App-Store-还是已经退出的状态。](https://www.v2ex.com/t/898185) ![](assets/new.png)  
-- [2022-11-26-apple-tv-连三星电视遇到的问题](https://www.v2ex.com/t/898184) ![](assets/new.png)  
-- [2022-11-26-apple-tv-接三星的电视遇到的问题](https://www.v2ex.com/t/898180) ![](assets/new.png)  
-- [2022-11-26-20221126-午夜俱乐部](https://www.v2ex.com/t/898178) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -549,13 +549,16 @@
 
 - [2022-11-27-【Java综合专栏】「引领序幕」全链路追踪原理之Java-Agent探针的技术介绍（上篇）_洛神灬殇的博客-CSDN博客](https://toutiao.io/k/mnunu2w) ![](assets/new.png)  
 - [2022-11-27-图解Kafka消费组偏移量_consumer_offset的数据结构](https://toutiao.io/k/d2l920a) ![](assets/new.png)  
-- [2022-11-27-编程语言Zig有什么与众不同的](https://toutiao.io/k/c1cp2dd) ![](assets/new.png)  
 - [2022-11-27-前后端分离的企业级微服务多租户系统架构，快速开发平台！](https://toutiao.io/k/h9jrp0q) ![](assets/new.png)  
+- [2022-11-27-编程语言Zig有什么与众不同的](https://toutiao.io/k/c1cp2dd) ![](assets/new.png)  
 - [2022-11-27-vue如何二次封装一个高频可复用的组件](https://toutiao.io/k/fzld64o) ![](assets/new.png)  
-- [2022-11-27-推荐-万字长文细说-Code-Review-的正确姿势](https://toutiao.io/k/cxf9ver) ![](assets/new.png)  
+- [2022-11-27-基于OneData的数据仓库建设](https://toutiao.io/k/wm7gadg) ![](assets/new.png)  
+- [2022-11-27-百亿数据个性化推荐：弹幕工程架构演进](https://toutiao.io/k/ppq6ea8) ![](assets/new.png)  
+- [2022-11-27-奇异值分解（SVD）原理总结](https://toutiao.io/k/gqwlfg4) ![](assets/new.png)  
 - [2022-11-27-推荐-SQL-常用脚本大全](https://toutiao.io/k/5nnfmun) ![](assets/new.png)  
-- [2022-11-27-推荐-一条-SQL-查询语句是如何执行的？](https://toutiao.io/k/8y71vds) ![](assets/new.png)  
 - [2022-11-27-推荐-DDD-之业务系统搭建的设计思考](https://toutiao.io/k/783naw9) ![](assets/new.png)  
+- [2022-11-27-推荐-一条-SQL-查询语句是如何执行的？](https://toutiao.io/k/8y71vds) ![](assets/new.png)  
+- [2022-11-27-推荐-万字长文细说-Code-Review-的正确姿势](https://toutiao.io/k/cxf9ver) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

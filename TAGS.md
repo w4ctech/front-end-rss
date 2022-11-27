@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-11-27 01:02:46。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-27 02:51:50。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -122,6 +122,7 @@
 
 
 
+- [【V2EX】推广-一个根据文本生成图片情景的小程序](https://www.v2ex.com/t/898217)
 - [......【查看更多】......](./details/tags/miniprogram.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -179,8 +180,6 @@
 - [【张鑫旭-鑫空间-鑫生活】JS之我用单img元素实现了图像resize拉伸效果](https://www.zhangxinxu.com/wordpress/2022/11/js-image-resize/)
 - [【张鑫旭-鑫空间-鑫生活】2022年新出了哪些form表单新特性？](https://www.zhangxinxu.com/wordpress/2022/10/2022-new-form-property/)
 - [【V2EX】求助，打开电脑-webstrom-提示要信任小米路由器证书，我不解于是拒绝了，接下来所有的网络都无法访问了](https://www.v2ex.com/t/898203)
-- [【V2EX】连接路由器的网线可以插到电脑上用吗](https://www.v2ex.com/t/898168)
-- [【V2EX】JS-的一个赋值问题](https://www.v2ex.com/t/898161)
 - [......【查看更多】......](./details/tags/javascript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -274,6 +273,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】腺病毒新冠疫苗引安全忧虑-康希诺称未发现血栓病例](https://m.caixin.com/m/2021-04-14/101691086.html)
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
+- [【V2EX】浏览器扩展课程-Manifest-V3-升级版](https://www.v2ex.com/t/898223)
 - [【V2EX】Apple-TV-能安装-Safari-Chrome-等浏览器吗](https://www.v2ex.com/t/898198)
 - [【技术头条】团队的Code-Review实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15409&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-code-review%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】推荐-万字长文细说-Code-Review-的正确姿势](https://toutiao.io/k/cxf9ver)
@@ -326,7 +326,6 @@
 
 
 
-- [【V2EX】我想买-digital-ocean-但是去哪里搞信用卡？](https://www.v2ex.com/t/898175)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

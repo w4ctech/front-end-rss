@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-27 03:37:27，:rocket: 更新条数: +2009， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-27 04:14:11，:rocket: 更新条数: +2008， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-11-27-想为-sci-hub-与-zlibrary-做一点什么，除了捐款，还能干啥？](https://www.v2ex.com/t/898236) ![](assets/new.png)  
+- [2022-11-27-我们能为街头前线的公民们提供哪些信息技术支援](https://www.v2ex.com/t/898231) ![](assets/new.png)  
 - [2022-11-27-世界杯-PC-在哪看高清回放](https://www.v2ex.com/t/898230) ![](assets/new.png)  
 - [2022-11-27-iphone11-电池-72%了！](https://www.v2ex.com/t/898229) ![](assets/new.png)  
 - [2022-11-27-寻找支持网络-ACL-的容器/虚拟化方案](https://www.v2ex.com/t/898228) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-11-27-Win11-有没有什么方法能简单有效的避免-UAC-弹窗](https://www.v2ex.com/t/898213) ![](assets/new.png)  
 - [2022-11-27-上海，见证了历史。](https://www.v2ex.com/t/898212) ![](assets/new.png)  
 - [2022-11-27-荷兰-Job-Seeking-Visa-申请组队？](https://www.v2ex.com/t/898211) ![](assets/new.png)  
-- [2022-11-27-湖南人的命不是命](https://www.v2ex.com/t/898209) ![](assets/new.png)  
-- [2022-11-27-工地到设计院！？](https://www.v2ex.com/t/898204) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -555,10 +555,10 @@
 - [2022-11-27-基于OneData的数据仓库建设](https://toutiao.io/k/wm7gadg) ![](assets/new.png)  
 - [2022-11-27-百亿数据个性化推荐：弹幕工程架构演进](https://toutiao.io/k/ppq6ea8) ![](assets/new.png)  
 - [2022-11-27-奇异值分解（SVD）原理总结](https://toutiao.io/k/gqwlfg4) ![](assets/new.png)  
-- [2022-11-27-推荐-DDD-之业务系统搭建的设计思考](https://toutiao.io/k/783naw9) ![](assets/new.png)  
 - [2022-11-27-推荐-万字长文细说-Code-Review-的正确姿势](https://toutiao.io/k/cxf9ver) ![](assets/new.png)  
-- [2022-11-27-推荐-一条-SQL-查询语句是如何执行的？](https://toutiao.io/k/8y71vds) ![](assets/new.png)  
 - [2022-11-27-推荐-SQL-常用脚本大全](https://toutiao.io/k/5nnfmun) ![](assets/new.png)  
+- [2022-11-27-推荐-DDD-之业务系统搭建的设计思考](https://toutiao.io/k/783naw9) ![](assets/new.png)  
+- [2022-11-27-推荐-一条-SQL-查询语句是如何执行的？](https://toutiao.io/k/8y71vds) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

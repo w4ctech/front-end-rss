@@ -9953,6 +9953,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "想为 sci-hub 与 zlibrary 做一点什么，除了捐款，还能干啥？",
+        "link": "https://www.v2ex.com/t/898236",
+        "date": "2022-11-27"
+      },
+      {
+        "title": "我们能为街头前线的公民们提供哪些信息技术支援",
+        "link": "https://www.v2ex.com/t/898231",
+        "date": "2022-11-27"
+      },
+      {
         "title": "世界杯 PC 在哪看高清回放",
         "link": "https://www.v2ex.com/t/898230",
         "date": "2022-11-27"
@@ -10121,21 +10131,6 @@
         "title": "mac OS 多显示器识别 混乱的问题",
         "link": "https://www.v2ex.com/t/898187",
         "date": "2022-11-26"
-      },
-      {
-        "title": "南京的同学们，敬佩你们",
-        "link": "https://www.v2ex.com/t/898186",
-        "date": "2022-11-26"
-      },
-      {
-        "title": "App Store 登录 bug，大家从设置界面退出媒体登录，就会出 bug，设置里面显示直接没反应诶，但是这时候点开 App Store 还是已经退出的状态。",
-        "link": "https://www.v2ex.com/t/898185",
-        "date": "2022-11-26"
-      },
-      {
-        "title": "apple tv 连三星电视遇到的问题",
-        "link": "https://www.v2ex.com/t/898184",
-        "date": "2022-11-26"
       }
     ]
   },
@@ -10262,23 +10257,23 @@
         "date": "2022-11-27"
       },
       {
-        "title": "[推荐] DDD 之业务系统搭建的设计思考",
-        "link": "https://toutiao.io/k/783naw9",
-        "date": "2022-11-27"
-      },
-      {
         "title": "[推荐] 万字长文细说 Code Review 的正确姿势",
         "link": "https://toutiao.io/k/cxf9ver",
         "date": "2022-11-27"
       },
       {
-        "title": "[推荐] 一条 SQL 查询语句是如何执行的？",
-        "link": "https://toutiao.io/k/8y71vds",
+        "title": "[推荐] SQL 常用脚本大全",
+        "link": "https://toutiao.io/k/5nnfmun",
         "date": "2022-11-27"
       },
       {
-        "title": "[推荐] SQL 常用脚本大全",
-        "link": "https://toutiao.io/k/5nnfmun",
+        "title": "[推荐] DDD 之业务系统搭建的设计思考",
+        "link": "https://toutiao.io/k/783naw9",
+        "date": "2022-11-27"
+      },
+      {
+        "title": "[推荐] 一条 SQL 查询语句是如何执行的？",
+        "link": "https://toutiao.io/k/8y71vds",
         "date": "2022-11-27"
       }
     ]

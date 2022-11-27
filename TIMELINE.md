@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-27 13:19:02。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-27 13:37:39。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -71,6 +71,8 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-11-20-JS之我用单img元素实现了图像resize拉伸效果](https://www.zhangxinxu.com/wordpress/2022/11/js-image-resize/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-27-关于-Java-后端开发规范-Or-个人习惯？谈谈你们的理解和现有项目的状况。](https://www.v2ex.com/t/898342) 
+- [【V2EX】2022-11-27-Wins-for-macOS-黑五有五折优惠](https://www.v2ex.com/t/898341) 
 - [【V2EX】2022-11-27-移动数据变成-2G-联想到的阴谋论](https://www.v2ex.com/t/898340) 
 - [【V2EX】2022-11-27-请问线上-web-项目如何自动更新？](https://www.v2ex.com/t/898339) 
 - [【V2EX】2022-11-27-只狼是我最近玩到最好的游戏，但是我不想再打开它了](https://www.v2ex.com/t/898337) 
@@ -105,9 +107,6 @@
 - [【V2EX】2022-11-27-第三方弹幕（本地弹幕）](https://www.v2ex.com/t/898297) 
 - [【V2EX】2022-11-27-Telegram-twitter-微博这类应用是如何面对无线增长的数据的啊？](https://www.v2ex.com/t/898296) 
 - [【V2EX】2022-11-27-微信你是要扫描我电脑里所有的文件吗？](https://www.v2ex.com/t/898295) 
-- [【V2EX】2022-11-27-想找一款比较好用的记账软件，来个兄弟推荐一下](https://www.v2ex.com/t/898293) 
-- [【V2EX】2022-11-27-请教我想用-AI-作画生成这两个场景的图片，怎么给-promts-比较好？](https://www.v2ex.com/t/898292) 
-- [【V2EX】2022-11-27-为啥没有描述伟大高尚人格的伟大小说](https://www.v2ex.com/t/898291) 
 - [【技术头条】2022-11-27-前端性能优化心法-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15416&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-performance-tuning%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-27-当我们谈论DDD时我们在谈论什么-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15415&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fstrategy-and-tactical-design-of-ddd%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-27-如何基于-Prerender-为-SPA-做-SEO-优化-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=15414&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fhow-to-optimize-seo-for-spa-based-on-prerender%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -132,10 +131,10 @@
 - [【开发者头条】2022-11-27-基于OneData的数据仓库建设](https://toutiao.io/k/wm7gadg) 
 - [【开发者头条】2022-11-27-百亿数据个性化推荐：弹幕工程架构演进](https://toutiao.io/k/ppq6ea8) 
 - [【开发者头条】2022-11-27-Redis事务引发的线上生产事故完整复盘，学到了！](https://toutiao.io/k/a4i8it5) 
-- [【开发者头条】2022-11-27-推荐-一条-SQL-查询语句是如何执行的？](https://toutiao.io/k/8y71vds) 
-- [【开发者头条】2022-11-27-推荐-SQL-常用脚本大全](https://toutiao.io/k/5nnfmun) 
 - [【开发者头条】2022-11-27-推荐-万字长文细说-Code-Review-的正确姿势](https://toutiao.io/k/cxf9ver) 
 - [【开发者头条】2022-11-27-推荐-DDD-之业务系统搭建的设计思考](https://toutiao.io/k/783naw9) 
+- [【开发者头条】2022-11-27-推荐-SQL-常用脚本大全](https://toutiao.io/k/5nnfmun) 
+- [【开发者头条】2022-11-27-推荐-一条-SQL-查询语句是如何执行的？](https://toutiao.io/k/8y71vds) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

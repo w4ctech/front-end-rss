@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-27 07:35:15，:rocket: 更新条数: +2005， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-27 08:14:49，:rocket: 更新条数: +2007， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-11-27-iPad-mini-6-8.3-寸屏幕不适合长时间看-PDF，横屏也不行](https://www.v2ex.com/t/898271) ![](assets/new.png)  
+- [2022-11-27-用-Go-开发了一款命令行的的数据库导入导出工具-Heimdall](https://www.v2ex.com/t/898270) ![](assets/new.png)  
+- [2022-11-27-分享一下这两年创业的感受，以及新的产品（附送福利）](https://www.v2ex.com/t/898269) ![](assets/new.png)  
+- [2022-11-27-有需要-Markdown-博客的🙋‍♂️小伙伴-，里边请~](https://www.v2ex.com/t/898268) ![](assets/new.png)  
+- [2022-11-27-请问养三只这个每年的成本大概多少？](https://www.v2ex.com/t/898267) ![](assets/new.png)  
 - [2022-11-27-北京写字楼宽带哪家价格最低](https://www.v2ex.com/t/898266) ![](assets/new.png)  
 - [2022-11-27-知乎页面不能使用-diggo-的-outliner-功能](https://www.v2ex.com/t/898265) ![](assets/new.png)  
 - [2022-11-27-Java-字符串-split-的一个反直觉陷阱](https://www.v2ex.com/t/898263) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-11-27-求一个猫猫-PT-邀请](https://www.v2ex.com/t/898249) ![](assets/new.png)  
 - [2022-11-27-如何评价既要还要](https://www.v2ex.com/t/898247) ![](assets/new.png)  
 - [2022-11-27-不懂就问，-mac-Appstore-上架的应用还在允许不支持-apple-silicon-吗？](https://www.v2ex.com/t/898246) ![](assets/new.png)  
-- [2022-11-27-请教两个线上问题该怎么做好](https://www.v2ex.com/t/898245) ![](assets/new.png)  
-- [2022-11-27-iPad-air5-附带的线材是-3a-还是-5a？](https://www.v2ex.com/t/898243) ![](assets/new.png)  
-- [2022-11-27-使用电信网络无法从-AppStore-下载-telegram](https://www.v2ex.com/t/898242) ![](assets/new.png)  
-- [2022-11-27-求推荐适合长期储存的白酒](https://www.v2ex.com/t/898239) ![](assets/new.png)  
-- [2022-11-27-红米手机屏幕未点亮收不到微信视频提醒](https://www.v2ex.com/t/898238) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -552,15 +552,15 @@
 - [2022-11-27-前后端分离的企业级微服务多租户系统架构，快速开发平台！](https://toutiao.io/k/h9jrp0q) ![](assets/new.png)  
 - [2022-11-27-编程语言Zig有什么与众不同的](https://toutiao.io/k/c1cp2dd) ![](assets/new.png)  
 - [2022-11-27-vue如何二次封装一个高频可复用的组件](https://toutiao.io/k/fzld64o) ![](assets/new.png)  
+- [2022-11-27-奇异值分解（SVD）原理总结](https://toutiao.io/k/gqwlfg4) ![](assets/new.png)  
 - [2022-11-27-基于OneData的数据仓库建设](https://toutiao.io/k/wm7gadg) ![](assets/new.png)  
 - [2022-11-27-百亿数据个性化推荐：弹幕工程架构演进](https://toutiao.io/k/ppq6ea8) ![](assets/new.png)  
-- [2022-11-27-奇异值分解（SVD）原理总结](https://toutiao.io/k/gqwlfg4) ![](assets/new.png)  
 - [2022-11-27-Ethers.js-非权威开发指南（4）](https://toutiao.io/k/nkodrli) ![](assets/new.png)  
 - [2022-11-27-Redis事务引发的线上生产事故完整复盘，学到了！](https://toutiao.io/k/a4i8it5) ![](assets/new.png)  
 - [2022-11-27-推荐-一条-SQL-查询语句是如何执行的？](https://toutiao.io/k/8y71vds) ![](assets/new.png)  
 - [2022-11-27-推荐-DDD-之业务系统搭建的设计思考](https://toutiao.io/k/783naw9) ![](assets/new.png)  
-- [2022-11-27-推荐-SQL-常用脚本大全](https://toutiao.io/k/5nnfmun) ![](assets/new.png)  
 - [2022-11-27-推荐-万字长文细说-Code-Review-的正确姿势](https://toutiao.io/k/cxf9ver) ![](assets/new.png)  
+- [2022-11-27-推荐-SQL-常用脚本大全](https://toutiao.io/k/5nnfmun) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

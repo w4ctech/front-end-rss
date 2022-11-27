@@ -9953,6 +9953,21 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "升级到 macOS13 之后想要取消 beta 更新渠道应该怎么做？",
+        "link": "https://www.v2ex.com/t/898302",
+        "date": "2022-11-27"
+      },
+      {
+        "title": "Linux 编译环境 如何更好实现全局科学?",
+        "link": "https://www.v2ex.com/t/898300",
+        "date": "2022-11-27"
+      },
+      {
+        "title": "造了个试验品，利用频繁更换端口的方式来躲避运营商的 UDP 限速",
+        "link": "https://www.v2ex.com/t/898299",
+        "date": "2022-11-27"
+      },
+      {
         "title": "收一个腾讯云香港轻量",
         "link": "https://www.v2ex.com/t/898298",
         "date": "2022-11-27"
@@ -10146,21 +10161,6 @@
         "title": "突然发现 edge 相比 chrome 占用内存更大",
         "link": "https://www.v2ex.com/t/898253",
         "date": "2022-11-27"
-      },
-      {
-        "title": "打败吉翁的不是那一台 rx78，而是千千万万的吉姆啊。推荐美剧《安多》。",
-        "link": "https://www.v2ex.com/t/898252",
-        "date": "2022-11-27"
-      },
-      {
-        "title": "迟来的书籍推荐：《100 Deadly Skills》",
-        "link": "https://www.v2ex.com/t/898251",
-        "date": "2022-11-27"
-      },
-      {
-        "title": "求一个猫猫 PT 邀请",
-        "link": "https://www.v2ex.com/t/898249",
-        "date": "2022-11-27"
       }
     ]
   },
@@ -10297,8 +10297,8 @@
         "date": "2022-11-27"
       },
       {
-        "title": "[推荐] SQL 常用脚本大全",
-        "link": "https://toutiao.io/k/5nnfmun",
+        "title": "[推荐] 一条 SQL 查询语句是如何执行的？",
+        "link": "https://toutiao.io/k/8y71vds",
         "date": "2022-11-27"
       },
       {
@@ -10307,13 +10307,13 @@
         "date": "2022-11-27"
       },
       {
-        "title": "[推荐] 一条 SQL 查询语句是如何执行的？",
-        "link": "https://toutiao.io/k/8y71vds",
+        "title": "[推荐] DDD 之业务系统搭建的设计思考",
+        "link": "https://toutiao.io/k/783naw9",
         "date": "2022-11-27"
       },
       {
-        "title": "[推荐] DDD 之业务系统搭建的设计思考",
-        "link": "https://toutiao.io/k/783naw9",
+        "title": "[推荐] SQL 常用脚本大全",
+        "link": "https://toutiao.io/k/5nnfmun",
         "date": "2022-11-27"
       }
     ]

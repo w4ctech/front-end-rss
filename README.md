@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-27 10:11:39，:rocket: 更新条数: +2016， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-27 10:37:34，:rocket: 更新条数: +2016， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-11-27-升级到-macOS13-之后想要取消-beta-更新渠道应该怎么做？](https://www.v2ex.com/t/898302) ![](assets/new.png)  
+- [2022-11-27-Linux-编译环境-如何更好实现全局科学?](https://www.v2ex.com/t/898300) ![](assets/new.png)  
+- [2022-11-27-造了个试验品，利用频繁更换端口的方式来躲避运营商的-UDP-限速](https://www.v2ex.com/t/898299) ![](assets/new.png)  
 - [2022-11-27-收一个腾讯云香港轻量](https://www.v2ex.com/t/898298) ![](assets/new.png)  
 - [2022-11-27-第三方弹幕（本地弹幕）](https://www.v2ex.com/t/898297) ![](assets/new.png)  
 - [2022-11-27-Telegram-twitter-微博这类应用是如何面对无线增长的数据的啊？](https://www.v2ex.com/t/898296) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-11-27-自建邮箱的-ip-被墙了，怎么在国内收邮件？](https://www.v2ex.com/t/898282) ![](assets/new.png)  
 - [2022-11-27-求解，-Python-怎么保留大数](https://www.v2ex.com/t/898281) ![](assets/new.png)  
 - [2022-11-27-腾讯云-CDN-要按请求数付费了，开始收割](https://www.v2ex.com/t/898280) ![](assets/new.png)  
-- [2022-11-27-Python-如何最优雅的遍历嵌套-json？](https://www.v2ex.com/t/898279) ![](assets/new.png)  
-- [2022-11-27-今天逛街，偶遇了一家做全屋智能家居的店](https://www.v2ex.com/t/898278) ![](assets/new.png)  
-- [2022-11-27-上海外企LEGO内推-Senior-Backend-Engineer-&-Frontend-Engineer](https://www.v2ex.com/t/898277) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -557,10 +557,10 @@
 - [2022-11-27-百亿数据个性化推荐：弹幕工程架构演进](https://toutiao.io/k/ppq6ea8) ![](assets/new.png)  
 - [2022-11-27-Ethers.js-非权威开发指南（4）](https://toutiao.io/k/nkodrli) ![](assets/new.png)  
 - [2022-11-27-Redis事务引发的线上生产事故完整复盘，学到了！](https://toutiao.io/k/a4i8it5) ![](assets/new.png)  
-- [2022-11-27-推荐-SQL-常用脚本大全](https://toutiao.io/k/5nnfmun) ![](assets/new.png)  
-- [2022-11-27-推荐-万字长文细说-Code-Review-的正确姿势](https://toutiao.io/k/cxf9ver) ![](assets/new.png)  
 - [2022-11-27-推荐-一条-SQL-查询语句是如何执行的？](https://toutiao.io/k/8y71vds) ![](assets/new.png)  
+- [2022-11-27-推荐-万字长文细说-Code-Review-的正确姿势](https://toutiao.io/k/cxf9ver) ![](assets/new.png)  
 - [2022-11-27-推荐-DDD-之业务系统搭建的设计思考](https://toutiao.io/k/783naw9) ![](assets/new.png)  
+- [2022-11-27-推荐-SQL-常用脚本大全](https://toutiao.io/k/5nnfmun) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

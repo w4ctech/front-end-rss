@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-27 15:11:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-27 15:36:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1916,6 +1916,10 @@
 - [2022-10-20-告别pointer-events:none使用HTML-inert属性真正禁用](https://www.zhangxinxu.com/wordpress/2022/10/html-inert-disabled-attribute/) 
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
+- [2022-11-27-有没有推荐的投屏盒子](https://www.v2ex.com/t/898373) 
+- [2022-11-27-武汉今天的活动怎么没看见有人讨论😅](https://www.v2ex.com/t/898371) 
+- [2022-11-27-假如我是一只鸟](https://www.v2ex.com/t/898370) 
+- [2022-11-27-有没有什么推荐的国内访问速度不错的建站用境外-VPS](https://www.v2ex.com/t/898368) 
 - [2022-11-27-在任意软件（微信，-QQ）中使用加密通讯：-oversec](https://www.v2ex.com/t/898366) 
 - [2022-11-27-有什么免费开源的-CRM-软件？能-win-系统用的？](https://www.v2ex.com/t/898365) 
 - [2022-11-27-对未来发展感到迷茫，想向各位前辈请教一下](https://www.v2ex.com/t/898364) 
@@ -1945,10 +1949,6 @@
 - [2022-11-27-SSD-是否很难恢复数据？](https://www.v2ex.com/t/898327) 
 - [2022-11-27-二手房卖了两年半了，现在下水出问题找我们，我们需要管吗](https://www.v2ex.com/t/898326) 
 - [2022-11-27-苏州-姑苏主卧找室友](https://www.v2ex.com/t/898325) 
-- [2022-11-27-求助-v-免签（多商户版）](https://www.v2ex.com/t/898323) 
-- [2022-11-27-人到-30-是不是欲望都降低了？](https://www.v2ex.com/t/898321) 
-- [2022-11-27-编写并搭建停服网游私服和群里同好一起玩（100%不收费，不接受任何形式捐赠）有法律风险吗?](https://www.v2ex.com/t/898319) 
-- [2022-11-27-逛推-时间线上总是很多外围广告怎么破，太烦了！怎么屏蔽啊](https://www.v2ex.com/t/898317) 
 - [2022-11-27-当我们谈论DDD时我们在谈论什么-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15415&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fstrategy-and-tactical-design-of-ddd%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-27-2022，「倾城之链」运营第-6-年感记-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=15413&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fnicelinks-site-in-2022%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-27-浅谈数据和人工智能项目的管理-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15412&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fproject-management-big-data-artificial-intelligence%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1967,6 +1967,6 @@
 - [2022-11-27-Redis事务引发的线上生产事故完整复盘，学到了！](https://toutiao.io/k/a4i8it5) 
 - [2022-11-27-基于OneData的数据仓库建设](https://toutiao.io/k/wm7gadg) 
 - [2022-11-27-百亿数据个性化推荐：弹幕工程架构演进](https://toutiao.io/k/ppq6ea8) 
+- [2022-11-27-推荐-DDD-之业务系统搭建的设计思考](https://toutiao.io/k/783naw9) 
 - [2022-11-27-推荐-一条-SQL-查询语句是如何执行的？](https://toutiao.io/k/8y71vds) 
 - [2022-11-27-推荐-SQL-常用脚本大全](https://toutiao.io/k/5nnfmun) 
-- [2022-11-27-推荐-DDD-之业务系统搭建的设计思考](https://toutiao.io/k/783naw9) 

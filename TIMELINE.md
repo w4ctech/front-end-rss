@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-27 08:39:30。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-27 09:11:09。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -71,6 +71,8 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-11-20-JS之我用单img元素实现了图像resize拉伸效果](https://www.zhangxinxu.com/wordpress/2022/11/js-image-resize/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-27-求解，-Python-怎么保留大数](https://www.v2ex.com/t/898281) 
+- [【V2EX】2022-11-27-腾讯云-CDN-要按请求数付费了，开始收割](https://www.v2ex.com/t/898280) 
 - [【V2EX】2022-11-27-Python-如何最优雅的遍历嵌套-json？](https://www.v2ex.com/t/898279) 
 - [【V2EX】2022-11-27-今天逛街，偶遇了一家做全屋智能家居的店](https://www.v2ex.com/t/898278) 
 - [【V2EX】2022-11-27-上海外企LEGO内推-Senior-Backend-Engineer-&-Frontend-Engineer](https://www.v2ex.com/t/898277) 
@@ -105,7 +107,6 @@
 - [【V2EX】2022-11-27-红米手机屏幕未点亮收不到微信视频提醒](https://www.v2ex.com/t/898238) 
 - [【V2EX】2022-11-27-小-tips，《乌合之众》并非圭臬，仅是作者的观念集](https://www.v2ex.com/t/898237) 
 - [【V2EX】2022-11-27-想为-sci-hub-与-zlibrary-做一点什么，除了捐款，还能干啥？](https://www.v2ex.com/t/898236) 
-- [【V2EX】2022-11-27-世界杯-PC-在哪看高清回放](https://www.v2ex.com/t/898230) 
 - [【技术头条】2022-11-27-前端性能优化心法-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15416&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-performance-tuning%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-27-当我们谈论DDD时我们在谈论什么-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15415&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fstrategy-and-tactical-design-of-ddd%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-27-如何基于-Prerender-为-SPA-做-SEO-优化-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=15414&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fhow-to-optimize-seo-for-spa-based-on-prerender%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -131,9 +132,9 @@
 - [【开发者头条】2022-11-27-Ethers.js-非权威开发指南（4）](https://toutiao.io/k/nkodrli) 
 - [【开发者头条】2022-11-27-Redis事务引发的线上生产事故完整复盘，学到了！](https://toutiao.io/k/a4i8it5) 
 - [【开发者头条】2022-11-27-推荐-万字长文细说-Code-Review-的正确姿势](https://toutiao.io/k/cxf9ver) 
-- [【开发者头条】2022-11-27-推荐-一条-SQL-查询语句是如何执行的？](https://toutiao.io/k/8y71vds) 
-- [【开发者头条】2022-11-27-推荐-SQL-常用脚本大全](https://toutiao.io/k/5nnfmun) 
 - [【开发者头条】2022-11-27-推荐-DDD-之业务系统搭建的设计思考](https://toutiao.io/k/783naw9) 
+- [【开发者头条】2022-11-27-推荐-SQL-常用脚本大全](https://toutiao.io/k/5nnfmun) 
+- [【开发者头条】2022-11-27-推荐-一条-SQL-查询语句是如何执行的？](https://toutiao.io/k/8y71vds) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

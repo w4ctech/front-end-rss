@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-27 02:51:49，:rocket: 更新条数: +2008， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-27 03:37:27，:rocket: 更新条数: +2009， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-11-27-世界杯-PC-在哪看高清回放](https://www.v2ex.com/t/898230) ![](assets/new.png)  
+- [2022-11-27-iphone11-电池-72%了！](https://www.v2ex.com/t/898229) ![](assets/new.png)  
+- [2022-11-27-寻找支持网络-ACL-的容器/虚拟化方案](https://www.v2ex.com/t/898228) ![](assets/new.png)  
+- [2022-11-27--Swift-请问为什么-Swift-Playground-打印结果会自动加上一对半角圆括号？](https://www.v2ex.com/t/898227) ![](assets/new.png)  
+- [2022-11-27-观-V2-评论有感](https://www.v2ex.com/t/898226) ![](assets/new.png)  
 - [2022-11-27-一百多年来，论辩的魂灵从未改变](https://www.v2ex.com/t/898225) ![](assets/new.png)  
 - [2022-11-27-Office-365-的车，-40-一年](https://www.v2ex.com/t/898224) ![](assets/new.png)  
 - [2022-11-27-浏览器扩展课程-Manifest-V3-升级版](https://www.v2ex.com/t/898223) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-11-27-荷兰-Job-Seeking-Visa-申请组队？](https://www.v2ex.com/t/898211) ![](assets/new.png)  
 - [2022-11-27-湖南人的命不是命](https://www.v2ex.com/t/898209) ![](assets/new.png)  
 - [2022-11-27-工地到设计院！？](https://www.v2ex.com/t/898204) ![](assets/new.png)  
-- [2022-11-26-求助，打开电脑-webstrom-提示要信任小米路由器证书，我不解于是拒绝了，接下来所有的网络都无法访问了](https://www.v2ex.com/t/898203) ![](assets/new.png)  
-- [2022-11-26-小米商城的手机延保类订单快照全部失效](https://www.v2ex.com/t/898201) ![](assets/new.png)  
-- [2022-11-26-有能使用-qemu-作-backend-运行-docker-镜像的程序吗](https://www.v2ex.com/t/898200) ![](assets/new.png)  
-- [2022-11-26-应该把域名设计成过期后禁止被任何人重新注册](https://www.v2ex.com/t/898199) ![](assets/new.png)  
-- [2022-11-26-Apple-TV-能安装-Safari-Chrome-等浏览器吗](https://www.v2ex.com/t/898198) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -555,10 +555,10 @@
 - [2022-11-27-基于OneData的数据仓库建设](https://toutiao.io/k/wm7gadg) ![](assets/new.png)  
 - [2022-11-27-百亿数据个性化推荐：弹幕工程架构演进](https://toutiao.io/k/ppq6ea8) ![](assets/new.png)  
 - [2022-11-27-奇异值分解（SVD）原理总结](https://toutiao.io/k/gqwlfg4) ![](assets/new.png)  
-- [2022-11-27-推荐-SQL-常用脚本大全](https://toutiao.io/k/5nnfmun) ![](assets/new.png)  
 - [2022-11-27-推荐-DDD-之业务系统搭建的设计思考](https://toutiao.io/k/783naw9) ![](assets/new.png)  
-- [2022-11-27-推荐-一条-SQL-查询语句是如何执行的？](https://toutiao.io/k/8y71vds) ![](assets/new.png)  
 - [2022-11-27-推荐-万字长文细说-Code-Review-的正确姿势](https://toutiao.io/k/cxf9ver) ![](assets/new.png)  
+- [2022-11-27-推荐-一条-SQL-查询语句是如何执行的？](https://toutiao.io/k/8y71vds) ![](assets/new.png)  
+- [2022-11-27-推荐-SQL-常用脚本大全](https://toutiao.io/k/5nnfmun) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

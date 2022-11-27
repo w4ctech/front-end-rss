@@ -9953,6 +9953,36 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "12 代 Intel CPU 的 Thinkpad X1 Yoga 如何关闭小核开启 AVX512，以及提高性能释放",
+        "link": "https://www.v2ex.com/t/898309",
+        "date": "2022-11-27"
+      },
+      {
+        "title": "新换手机登不上旧微信号？",
+        "link": "https://www.v2ex.com/t/898307",
+        "date": "2022-11-27"
+      },
+      {
+        "title": "个人作品 [轻下载] 新版本更新，以及想给轻下载用户们说的话",
+        "link": "https://www.v2ex.com/t/898306",
+        "date": "2022-11-27"
+      },
+      {
+        "title": "你们的博客运行多少年了，清理收藏夹的发现",
+        "link": "https://www.v2ex.com/t/898305",
+        "date": "2022-11-27"
+      },
+      {
+        "title": "今年 CNCF 还打折么?打算报名 CKA 考试",
+        "link": "https://www.v2ex.com/t/898304",
+        "date": "2022-11-27"
+      },
+      {
+        "title": "快捷键自定义",
+        "link": "https://www.v2ex.com/t/898303",
+        "date": "2022-11-27"
+      },
+      {
         "title": "升级到 macOS13 之后想要取消 beta 更新渠道应该怎么做？",
         "link": "https://www.v2ex.com/t/898302",
         "date": "2022-11-27"
@@ -10136,31 +10166,6 @@
         "title": "哪个 V2EX 的移动端 app 更好一点呢",
         "link": "https://www.v2ex.com/t/898261",
         "date": "2022-11-27"
-      },
-      {
-        "title": "前端小白写个 web 管理界面推荐",
-        "link": "https://www.v2ex.com/t/898259",
-        "date": "2022-11-27"
-      },
-      {
-        "title": "panda 是不是跑路了？",
-        "link": "https://www.v2ex.com/t/898256",
-        "date": "2022-11-27"
-      },
-      {
-        "title": "想问下 平时工作中， mysql 的字段长度的设定有什么固定规范吗？是喜欢用 varchar(255)还是 varchar(256)",
-        "link": "https://www.v2ex.com/t/898255",
-        "date": "2022-11-27"
-      },
-      {
-        "title": "为什么就自用的 vps 都会被墙呀？",
-        "link": "https://www.v2ex.com/t/898254",
-        "date": "2022-11-27"
-      },
-      {
-        "title": "突然发现 edge 相比 chrome 占用内存更大",
-        "link": "https://www.v2ex.com/t/898253",
-        "date": "2022-11-27"
       }
     ]
   },
@@ -10297,8 +10302,8 @@
         "date": "2022-11-27"
       },
       {
-        "title": "[推荐] 一条 SQL 查询语句是如何执行的？",
-        "link": "https://toutiao.io/k/8y71vds",
+        "title": "[推荐] DDD 之业务系统搭建的设计思考",
+        "link": "https://toutiao.io/k/783naw9",
         "date": "2022-11-27"
       },
       {
@@ -10307,8 +10312,8 @@
         "date": "2022-11-27"
       },
       {
-        "title": "[推荐] DDD 之业务系统搭建的设计思考",
-        "link": "https://toutiao.io/k/783naw9",
+        "title": "[推荐] 一条 SQL 查询语句是如何执行的？",
+        "link": "https://toutiao.io/k/8y71vds",
         "date": "2022-11-27"
       },
       {

@@ -1,10 +1,16 @@
-:alarm_clock: 更新时间: 2022-11-27 10:37:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-27 11:09:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-11-27-12-代-Intel-CPU-的-Thinkpad-X1-Yoga-如何关闭小核开启-AVX512，以及提高性能释放](https://www.v2ex.com/t/898309) 
+- [2022-11-27-新换手机登不上旧微信号？](https://www.v2ex.com/t/898307) 
+- [2022-11-27-个人作品-轻下载-新版本更新，以及想给轻下载用户们说的话](https://www.v2ex.com/t/898306) 
+- [2022-11-27-你们的博客运行多少年了，清理收藏夹的发现](https://www.v2ex.com/t/898305) 
+- [2022-11-27-今年-CNCF-还打折么?打算报名-CKA-考试](https://www.v2ex.com/t/898304) 
+- [2022-11-27-快捷键自定义](https://www.v2ex.com/t/898303) 
 - [2022-11-27-升级到-macOS13-之后想要取消-beta-更新渠道应该怎么做？](https://www.v2ex.com/t/898302) 
 - [2022-11-27-Linux-编译环境-如何更好实现全局科学?](https://www.v2ex.com/t/898300) 
 - [2022-11-27-造了个试验品，利用频繁更换端口的方式来躲避运营商的-UDP-限速](https://www.v2ex.com/t/898299) 
@@ -42,8 +48,3 @@
 - [2022-11-27-Java-字符串-split-的一个反直觉陷阱](https://www.v2ex.com/t/898263) 
 - [2022-11-27-关于开机挂载硬盘-/etc/fstab](https://www.v2ex.com/t/898262) 
 - [2022-11-27-哪个-V2EX-的移动端-app-更好一点呢](https://www.v2ex.com/t/898261) 
-- [2022-11-27-前端小白写个-web-管理界面推荐](https://www.v2ex.com/t/898259) 
-- [2022-11-27-panda-是不是跑路了？](https://www.v2ex.com/t/898256) 
-- [2022-11-27-想问下-平时工作中，-mysql-的字段长度的设定有什么固定规范吗？是喜欢用-varchar255还是-varchar256](https://www.v2ex.com/t/898255) 
-- [2022-11-27-为什么就自用的-vps-都会被墙呀？](https://www.v2ex.com/t/898254) 
-- [2022-11-27-突然发现-edge-相比-chrome-占用内存更大](https://www.v2ex.com/t/898253) 

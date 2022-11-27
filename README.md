@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-27 11:09:51，:rocket: 更新条数: +2017， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-27 11:35:21，:rocket: 更新条数: +2016， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-11-27-我问一下-我能发一张白纸吗](https://www.v2ex.com/t/898318) ![](assets/new.png)  
+- [2022-11-27-逛推-时间线上总是很多外围广告怎么破，太烦了！怎么屏蔽啊](https://www.v2ex.com/t/898317) ![](assets/new.png)  
+- [2022-11-27-apple-tv-与华为智慧屏-v75-pro-适配吗？](https://www.v2ex.com/t/898314) ![](assets/new.png)  
+- [2022-11-27-很久没用的罗技-mx-keyboard-拿出来电量也足够在笔记本上就不到一分钟没有敲击就断开了](https://www.v2ex.com/t/898313) ![](assets/new.png)  
+- [2022-11-27-个人用户-的-腾讯会议-和-钉钉-在刚才突然创建不了新的会议室了](https://www.v2ex.com/t/898311) ![](assets/new.png)  
+- [2022-11-27-腾讯会议驾崩啦](https://www.v2ex.com/t/898310) ![](assets/new.png)  
 - [2022-11-27-12-代-Intel-CPU-的-Thinkpad-X1-Yoga-如何关闭小核开启-AVX512，以及提高性能释放](https://www.v2ex.com/t/898309) ![](assets/new.png)  
 - [2022-11-27-新换手机登不上旧微信号？](https://www.v2ex.com/t/898307) ![](assets/new.png)  
 - [2022-11-27-个人作品-轻下载-新版本更新，以及想给轻下载用户们说的话](https://www.v2ex.com/t/898306) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-11-27-Telegram-twitter-微博这类应用是如何面对无线增长的数据的啊？](https://www.v2ex.com/t/898296) ![](assets/new.png)  
 - [2022-11-27-微信你是要扫描我电脑里所有的文件吗？](https://www.v2ex.com/t/898295) ![](assets/new.png)  
 - [2022-11-27-想找一款比较好用的记账软件，来个兄弟推荐一下](https://www.v2ex.com/t/898293) ![](assets/new.png)  
-- [2022-11-27-请教我想用-AI-作画生成这两个场景的图片，怎么给-promts-比较好？](https://www.v2ex.com/t/898292) ![](assets/new.png)  
-- [2022-11-27-为啥没有描述伟大高尚人格的伟大小说](https://www.v2ex.com/t/898291) ![](assets/new.png)  
-- [2022-11-27-支付宝某个鉴权文档中，有段-Java-代码样例，本人-Python-写的比较多,-Java-不太熟，想转成-Python-代码](https://www.v2ex.com/t/898290) ![](assets/new.png)  
-- [2022-11-27-用快思助手往-iPhone-自带的音乐里面导入歌曲如何显示歌词与专辑信息？](https://www.v2ex.com/t/898289) ![](assets/new.png)  
-- [2022-11-27-绑了-Care-的-AirPods-长按盒子的白色键重置-影响-Care-吗？](https://www.v2ex.com/t/898288) ![](assets/new.png)  
-- [2022-11-27-分享下今年黑五买了啥](https://www.v2ex.com/t/898286) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -557,10 +557,10 @@
 - [2022-11-27-百亿数据个性化推荐：弹幕工程架构演进](https://toutiao.io/k/ppq6ea8) ![](assets/new.png)  
 - [2022-11-27-Ethers.js-非权威开发指南（4）](https://toutiao.io/k/nkodrli) ![](assets/new.png)  
 - [2022-11-27-Redis事务引发的线上生产事故完整复盘，学到了！](https://toutiao.io/k/a4i8it5) ![](assets/new.png)  
-- [2022-11-27-推荐-DDD-之业务系统搭建的设计思考](https://toutiao.io/k/783naw9) ![](assets/new.png)  
+- [2022-11-27-推荐-SQL-常用脚本大全](https://toutiao.io/k/5nnfmun) ![](assets/new.png)  
 - [2022-11-27-推荐-万字长文细说-Code-Review-的正确姿势](https://toutiao.io/k/cxf9ver) ![](assets/new.png)  
 - [2022-11-27-推荐-一条-SQL-查询语句是如何执行的？](https://toutiao.io/k/8y71vds) ![](assets/new.png)  
-- [2022-11-27-推荐-SQL-常用脚本大全](https://toutiao.io/k/5nnfmun) ![](assets/new.png)  
+- [2022-11-27-推荐-DDD-之业务系统搭建的设计思考](https://toutiao.io/k/783naw9) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

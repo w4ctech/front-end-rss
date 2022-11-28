@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-28 04:15:00，:rocket: 更新条数: +2017， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-28 04:42:26，:rocket: 更新条数: +2016， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,19 @@
 </summary>
 
 
+- [2022-11-28-surge-for-mac-求上车](https://www.v2ex.com/t/898474) ![](assets/new.png)  
+- [2022-11-28-surge-ios-三人车有吗，带个我？](https://www.v2ex.com/t/898473) ![](assets/new.png)  
+- [2022-11-28-必须要吐槽下罗技的-flow-功能](https://www.v2ex.com/t/898472) ![](assets/new.png)  
+- [2022-11-28-vimium-快捷键的-f-和-r-按下去没反映是怎么回事？](https://www.v2ex.com/t/898470) ![](assets/new.png)  
+- [2022-11-28-全职/上海-前端开发工程师/15-30k/web3-元宇宙项目](https://www.v2ex.com/t/898469) ![](assets/new.png)  
+- [2022-11-28-v-站是否应考虑开设一个“墓园”节点？](https://www.v2ex.com/t/898468) ![](assets/new.png)  
+- [2022-11-28-预算-12000+-想买个-Linux-笔记本，目前觉得比较好的-Y9000P-2022](https://www.v2ex.com/t/898467) ![](assets/new.png)  
+- [2022-11-28-base-上海漕河泾，招个前端实习生](https://www.v2ex.com/t/898466) ![](assets/new.png)  
+- [2022-11-28-关于语言表达能力的讨论](https://www.v2ex.com/t/898465) ![](assets/new.png)  
+- [2022-11-28-（海外大厂）Keyform-Tech-Limited](https://www.v2ex.com/t/898464) ![](assets/new.png)  
+- [2022-11-28-大佬们，强类型语言，定义结构多了会有什么问题？](https://www.v2ex.com/t/898462) ![](assets/new.png)  
+- [2022-11-28-码友们有多久没用纸笔写过字了？](https://www.v2ex.com/t/898461) ![](assets/new.png)  
+- [2022-11-28-iPhone-12Pro-Max-电池健康只剩-86%，能去苹果店免费换电池吗？](https://www.v2ex.com/t/898459) ![](assets/new.png)  
 - [2022-11-28-overlay-文件系统的-lowerdir-是-nfs-时候的问题](https://www.v2ex.com/t/898457) ![](assets/new.png)  
 - [2022-11-28-警告!亲身经历国内个人站不要留任何收款码信息,否则会定为诈骗,域名会被封禁](https://www.v2ex.com/t/898456) ![](assets/new.png)  
 - [2022-11-28-Python-之父谈缩进和大括号](https://www.v2ex.com/t/898455) ![](assets/new.png)  
@@ -498,19 +511,6 @@
 - [2022-11-28-车间工厂看板还搞不定，数据可视化包教包会](https://www.v2ex.com/t/898452) ![](assets/new.png)  
 - [2022-11-28-提问普通人要不要开个人养老金账户？](https://www.v2ex.com/t/898451) ![](assets/new.png)  
 - [2022-11-28-新护照邮寄-EMS-，住朝阳，周五发的，怎么两天物流未动，-EMS-周末休吗？](https://www.v2ex.com/t/898450) ![](assets/new.png)  
-- [2022-11-28-数据应用测试实践分享](https://www.v2ex.com/t/898449) ![](assets/new.png)  
-- [2022-11-28-疫情管控，层层加码，一刀切](https://www.v2ex.com/t/898448) ![](assets/new.png)  
-- [2022-11-28-如何实现一个共同协作的文件编辑](https://www.v2ex.com/t/898447) ![](assets/new.png)  
-- [2022-11-28-有无搜狗输入法的比较好的替代产品？](https://www.v2ex.com/t/898444) ![](assets/new.png)  
-- [2022-11-28-现在入手-m1-pro-14-1TB-还是等-m2-pro-出来](https://www.v2ex.com/t/898443) ![](assets/new.png)  
-- [2022-11-28-红米-k50-至尊等待-PE-系统](https://www.v2ex.com/t/898442) ![](assets/new.png)  
-- [2022-11-28-有一些关于-dns-以及路由追踪的疑问。](https://www.v2ex.com/t/898441) ![](assets/new.png)  
-- [2022-11-28-iOS-上有囤饭饭-安卓上有类似软件么](https://www.v2ex.com/t/898439) ![](assets/new.png)  
-- [2022-11-28-最近大半年的-PC-DIY-手残记录。](https://www.v2ex.com/t/898438) ![](assets/new.png)  
-- [2022-11-28-只想用-MacOS-系统自带输入法，如果让它更好用？](https://www.v2ex.com/t/898435) ![](assets/new.png)  
-- [2022-11-28-app-store-下载和更新软件速度时快时慢是怎么一回事？](https://www.v2ex.com/t/898434) ![](assets/new.png)  
-- [2022-11-28-V2-验证邮箱失败，发邮件不回复，-2017-年注册的老号](https://www.v2ex.com/t/898433) ![](assets/new.png)  
-- [2022-11-28-收-DMIT-PVM.HKG.Lite.TINY-6.9](https://www.v2ex.com/t/898432) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -562,10 +562,10 @@
 - [2022-11-28-分布式存储之数据切片](https://toutiao.io/k/r58a12k) ![](assets/new.png)  
 - [2022-11-28-面向大规模队列，百万并发的多优先级消费系统设计](https://toutiao.io/k/yzkwrjm) ![](assets/new.png)  
 - [2022-11-28-Elasticsearch-8.X-DSL-如何优化更有助于提升检索性能？](https://toutiao.io/k/wrt8mnj) ![](assets/new.png)  
-- [2022-11-28-推荐-SQL-常用脚本大全](https://toutiao.io/k/5nnfmun) ![](assets/new.png)  
-- [2022-11-28-推荐-万字长文细说-Code-Review-的正确姿势](https://toutiao.io/k/cxf9ver) ![](assets/new.png)  
 - [2022-11-28-推荐-一条-SQL-查询语句是如何执行的？](https://toutiao.io/k/8y71vds) ![](assets/new.png)  
+- [2022-11-28-推荐-万字长文细说-Code-Review-的正确姿势](https://toutiao.io/k/cxf9ver) ![](assets/new.png)  
 - [2022-11-28-推荐-DDD-之业务系统搭建的设计思考](https://toutiao.io/k/783naw9) ![](assets/new.png)  
+- [2022-11-28-推荐-SQL-常用脚本大全](https://toutiao.io/k/5nnfmun) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

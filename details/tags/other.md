@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-28 04:42:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-28 05:11:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1916,6 +1916,9 @@
 - [2022-10-20-告别pointer-events:none使用HTML-inert属性真正禁用](https://www.zhangxinxu.com/wordpress/2022/10/html-inert-disabled-attribute/) 
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
+- [2022-11-28-A4-纸未来会实名购买吗](https://www.v2ex.com/t/898477) 
+- [2022-11-28-暴力和镇压是不能带来和平的。](https://www.v2ex.com/t/898476) 
+- [2022-11-28-菜比是不是写-Python-只写函数不写类](https://www.v2ex.com/t/898475) 
 - [2022-11-28-surge-for-mac-求上车](https://www.v2ex.com/t/898474) 
 - [2022-11-28-surge-ios-三人车有吗，带个我？](https://www.v2ex.com/t/898473) 
 - [2022-11-28-必须要吐槽下罗技的-flow-功能](https://www.v2ex.com/t/898472) 
@@ -1948,8 +1951,6 @@
 - [2022-11-28-V2-验证邮箱失败，发邮件不回复，-2017-年注册的老号](https://www.v2ex.com/t/898433) 
 - [2022-11-28-收-DMIT-PVM.HKG.Lite.TINY-6.9](https://www.v2ex.com/t/898432) 
 - [2022-11-28-分享刚发现的一个很好玩的小体验](https://www.v2ex.com/t/898431) 
-- [2022-11-28-求馒头邀，-PTTime-分享率-25.524-懂规矩，求大佬](https://www.v2ex.com/t/898426) 
-- [2022-11-28-n/l,-s/sh,-c/ch-，-in/ing-不分的人，是否应该学双拼？](https://www.v2ex.com/t/898425) 
 - [2022-11-28-当我们谈论DDD时我们在谈论什么-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15415&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fstrategy-and-tactical-design-of-ddd%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-28-2022，「倾城之链」运营第-6-年感记-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=15413&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fnicelinks-site-in-2022%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-28-浅谈数据和人工智能项目的管理-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15412&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fproject-management-big-data-artificial-intelligence%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1968,11 +1969,11 @@
 - [2022-11-28-Spring-Boot-3-的-AOT（GraalVM-Native-Image）应用开发](https://toutiao.io/k/dx4m4z4) 
 - [2022-11-28-GIF-|-超生动图解长短记忆神经网络](https://toutiao.io/k/l13vqup) 
 - [2022-11-28-流式数仓和实时分析服务的思考和实践](https://toutiao.io/k/rsxxiea) 
-- [2022-11-28-快手大数据开发平台建设实践与演进之路](https://toutiao.io/k/x05pf0i) 
 - [2022-11-28-10-分钟开发-Kubernetes-Operator](https://toutiao.io/k/4q6cto3) 
+- [2022-11-28-快手大数据开发平台建设实践与演进之路](https://toutiao.io/k/x05pf0i) 
 - [2022-11-28-快收藏！最全Go语言实现设计模式（上）](https://toutiao.io/k/67e6gyg) 
 - [2022-11-28-分布式存储之数据切片](https://toutiao.io/k/r58a12k) 
 - [2022-11-28-面向大规模队列，百万并发的多优先级消费系统设计](https://toutiao.io/k/yzkwrjm) 
-- [2022-11-28-推荐-一条-SQL-查询语句是如何执行的？](https://toutiao.io/k/8y71vds) 
 - [2022-11-28-推荐-DDD-之业务系统搭建的设计思考](https://toutiao.io/k/783naw9) 
+- [2022-11-28-推荐-一条-SQL-查询语句是如何执行的？](https://toutiao.io/k/8y71vds) 
 - [2022-11-28-推荐-SQL-常用脚本大全](https://toutiao.io/k/5nnfmun) 

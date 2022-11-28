@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-28 04:42:26，:rocket: 更新条数: +2016， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-28 05:11:50，:rocket: 更新条数: +2016， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-11-28-A4-纸未来会实名购买吗](https://www.v2ex.com/t/898477) ![](assets/new.png)  
+- [2022-11-28-暴力和镇压是不能带来和平的。](https://www.v2ex.com/t/898476) ![](assets/new.png)  
+- [2022-11-28-菜比是不是写-Python-只写函数不写类](https://www.v2ex.com/t/898475) ![](assets/new.png)  
 - [2022-11-28-surge-for-mac-求上车](https://www.v2ex.com/t/898474) ![](assets/new.png)  
 - [2022-11-28-surge-ios-三人车有吗，带个我？](https://www.v2ex.com/t/898473) ![](assets/new.png)  
 - [2022-11-28-必须要吐槽下罗技的-flow-功能](https://www.v2ex.com/t/898472) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-11-28-警告!亲身经历国内个人站不要留任何收款码信息,否则会定为诈骗,域名会被封禁](https://www.v2ex.com/t/898456) ![](assets/new.png)  
 - [2022-11-28-Python-之父谈缩进和大括号](https://www.v2ex.com/t/898455) ![](assets/new.png)  
 - [2022-11-28-求-1-个馒头邀请](https://www.v2ex.com/t/898454) ![](assets/new.png)  
-- [2022-11-28-车间工厂看板还搞不定，数据可视化包教包会](https://www.v2ex.com/t/898452) ![](assets/new.png)  
-- [2022-11-28-提问普通人要不要开个人养老金账户？](https://www.v2ex.com/t/898451) ![](assets/new.png)  
-- [2022-11-28-新护照邮寄-EMS-，住朝阳，周五发的，怎么两天物流未动，-EMS-周末休吗？](https://www.v2ex.com/t/898450) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -556,16 +556,16 @@
 - [2022-11-28-Spring-Boot-3-的-AOT（GraalVM-Native-Image）应用开发](https://toutiao.io/k/dx4m4z4) ![](assets/new.png)  
 - [2022-11-28-GIF-|-超生动图解长短记忆神经网络](https://toutiao.io/k/l13vqup) ![](assets/new.png)  
 - [2022-11-28-流式数仓和实时分析服务的思考和实践](https://toutiao.io/k/rsxxiea) ![](assets/new.png)  
-- [2022-11-28-快手大数据开发平台建设实践与演进之路](https://toutiao.io/k/x05pf0i) ![](assets/new.png)  
 - [2022-11-28-10-分钟开发-Kubernetes-Operator](https://toutiao.io/k/4q6cto3) ![](assets/new.png)  
+- [2022-11-28-快手大数据开发平台建设实践与演进之路](https://toutiao.io/k/x05pf0i) ![](assets/new.png)  
 - [2022-11-28-快收藏！最全Go语言实现设计模式（上）](https://toutiao.io/k/67e6gyg) ![](assets/new.png)  
 - [2022-11-28-分布式存储之数据切片](https://toutiao.io/k/r58a12k) ![](assets/new.png)  
 - [2022-11-28-面向大规模队列，百万并发的多优先级消费系统设计](https://toutiao.io/k/yzkwrjm) ![](assets/new.png)  
 - [2022-11-28-Elasticsearch-8.X-DSL-如何优化更有助于提升检索性能？](https://toutiao.io/k/wrt8mnj) ![](assets/new.png)  
-- [2022-11-28-推荐-一条-SQL-查询语句是如何执行的？](https://toutiao.io/k/8y71vds) ![](assets/new.png)  
-- [2022-11-28-推荐-万字长文细说-Code-Review-的正确姿势](https://toutiao.io/k/cxf9ver) ![](assets/new.png)  
 - [2022-11-28-推荐-DDD-之业务系统搭建的设计思考](https://toutiao.io/k/783naw9) ![](assets/new.png)  
+- [2022-11-28-推荐-一条-SQL-查询语句是如何执行的？](https://toutiao.io/k/8y71vds) ![](assets/new.png)  
 - [2022-11-28-推荐-SQL-常用脚本大全](https://toutiao.io/k/5nnfmun) ![](assets/new.png)  
+- [2022-11-28-推荐-万字长文细说-Code-Review-的正确姿势](https://toutiao.io/k/cxf9ver) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

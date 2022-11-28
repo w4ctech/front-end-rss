@@ -9953,6 +9953,21 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "A4 纸未来会实名购买吗",
+        "link": "https://www.v2ex.com/t/898477",
+        "date": "2022-11-28"
+      },
+      {
+        "title": "暴力和镇压是不能带来和平的。",
+        "link": "https://www.v2ex.com/t/898476",
+        "date": "2022-11-28"
+      },
+      {
+        "title": "菜比是不是写 Python 只写函数不写类",
+        "link": "https://www.v2ex.com/t/898475",
+        "date": "2022-11-28"
+      },
+      {
         "title": "surge for mac 求上车",
         "link": "https://www.v2ex.com/t/898474",
         "date": "2022-11-28"
@@ -10121,21 +10136,6 @@
         "title": "分享刚发现的一个很好玩的小体验",
         "link": "https://www.v2ex.com/t/898431",
         "date": "2022-11-28"
-      },
-      {
-        "title": "你们公司/部门 有没有遇到这种场景，你们的一个工作台，需要集成很多其他事业部/部门/小组的能力，这个能力可能是接口，组件。这种你们有没有统一的解决方案",
-        "link": "https://www.v2ex.com/t/898427",
-        "date": "2022-11-28"
-      },
-      {
-        "title": "求馒头邀， PTTime 分享率 25.524 懂规矩，求大佬",
-        "link": "https://www.v2ex.com/t/898426",
-        "date": "2022-11-28"
-      },
-      {
-        "title": "n/l, s/sh, c/ch ， in/ing 不分的人，是否应该学双拼？",
-        "link": "https://www.v2ex.com/t/898425",
-        "date": "2022-11-28"
       }
     ]
   },
@@ -10267,13 +10267,13 @@
         "date": "2022-11-28"
       },
       {
-        "title": "快手大数据开发平台建设实践与演进之路",
-        "link": "https://toutiao.io/k/x05pf0i",
+        "title": "10 分钟开发 Kubernetes Operator",
+        "link": "https://toutiao.io/k/4q6cto3",
         "date": "2022-11-28"
       },
       {
-        "title": "10 分钟开发 Kubernetes Operator",
-        "link": "https://toutiao.io/k/4q6cto3",
+        "title": "快手大数据开发平台建设实践与演进之路",
+        "link": "https://toutiao.io/k/x05pf0i",
         "date": "2022-11-28"
       },
       {
@@ -10297,23 +10297,23 @@
         "date": "2022-11-28"
       },
       {
-        "title": "[推荐] 一条 SQL 查询语句是如何执行的？",
-        "link": "https://toutiao.io/k/8y71vds",
-        "date": "2022-11-28"
-      },
-      {
-        "title": "[推荐] 万字长文细说 Code Review 的正确姿势",
-        "link": "https://toutiao.io/k/cxf9ver",
-        "date": "2022-11-28"
-      },
-      {
         "title": "[推荐] DDD 之业务系统搭建的设计思考",
         "link": "https://toutiao.io/k/783naw9",
         "date": "2022-11-28"
       },
       {
+        "title": "[推荐] 一条 SQL 查询语句是如何执行的？",
+        "link": "https://toutiao.io/k/8y71vds",
+        "date": "2022-11-28"
+      },
+      {
         "title": "[推荐] SQL 常用脚本大全",
         "link": "https://toutiao.io/k/5nnfmun",
+        "date": "2022-11-28"
+      },
+      {
+        "title": "[推荐] 万字长文细说 Code Review 的正确姿势",
+        "link": "https://toutiao.io/k/cxf9ver",
         "date": "2022-11-28"
       }
     ]

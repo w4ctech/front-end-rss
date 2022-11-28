@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2022-11-28 16:14:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-28 16:41:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-11-28-为什么有些人认为防疫只有躺平和封控两种方式](https://www.v2ex.com/t/898668) 
+- [2022-11-28-请教深圳有可以免费停车的公园吗？](https://www.v2ex.com/t/898667) 
 - [2022-11-28-关于新版本虚拟机-vm13-和-pd18-对比](https://www.v2ex.com/t/898666) 
 - [2022-11-28-能否对防火墙的-DNS-抢答服务器发起-DDOS-攻击？](https://www.v2ex.com/t/898665) 
 - [2022-11-28-如何做技术教学视频？求助有经验的高手传授流程](https://www.v2ex.com/t/898664) 
@@ -44,5 +46,3 @@
 - [2022-11-28-刻意让-iPhone-进入必须使用密码解锁，不认面容](https://www.v2ex.com/t/898621) 
 - [2022-11-28-我想告京东虚假宣传，价格欺诈，有了解法律的小伙伴嘛，](https://www.v2ex.com/t/898620) 
 - [2022-11-28-有没有大佬用-sonarr-和馒头](https://www.v2ex.com/t/898619) 
-- [2022-11-28-惊闻上海-cops-开始在地铁站查手机了，想问下-iPhone-如何隐藏部分-APP](https://www.v2ex.com/t/898618) 
-- [2022-11-28-macOS-Shortcuts-如何调用-Run-AppleScript-with-"input"？](https://www.v2ex.com/t/898617) 

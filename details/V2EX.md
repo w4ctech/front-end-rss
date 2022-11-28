@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-11-28 21:10:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-28 21:35:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-11-28-大部分人的诉求甚至不是解除封控](https://www.v2ex.com/t/898679) 
 - [2022-11-28-請問中文書籍和有聲書-PT](https://www.v2ex.com/t/898678) 
 - [2022-11-28-马斯克向-Apple-开炮了](https://www.v2ex.com/t/898677) 
 - [2022-11-28-突然发现我有腾讯云-cos-的免费额度](https://www.v2ex.com/t/898676) 

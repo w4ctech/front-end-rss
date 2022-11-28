@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-28 12:22:43，:rocket: 更新条数: +2023， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-28 13:00:35，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,15 @@
 </summary>
 
 
+- [2022-11-28-有没有运营/产品同学来讨论下相亲交友项目](https://www.v2ex.com/t/898622) ![](assets/new.png)  
+- [2022-11-28-刻意让-iPhone-进入必须使用密码解锁，不认面容](https://www.v2ex.com/t/898621) ![](assets/new.png)  
+- [2022-11-28-我想告京东虚假宣传，价格欺诈，有了解法律的小伙伴嘛，](https://www.v2ex.com/t/898620) ![](assets/new.png)  
+- [2022-11-28-有没有大佬用-sonarr-和馒头](https://www.v2ex.com/t/898619) ![](assets/new.png)  
+- [2022-11-28-惊闻上海-cops-开始在地铁站查手机了，想问下-iPhone-如何隐藏部分-APP](https://www.v2ex.com/t/898618) ![](assets/new.png)  
+- [2022-11-28-macOS-Shortcuts-如何调用-Run-AppleScript-with-"input"？](https://www.v2ex.com/t/898617) ![](assets/new.png)  
+- [2022-11-28-ePUBee-站长站出来了-愿意进行退款](https://www.v2ex.com/t/898616) ![](assets/new.png)  
+- [2022-11-28-理性讨论，直接放开确实不可](https://www.v2ex.com/t/898615) ![](assets/new.png)  
+- [2022-11-28-Auto-dark-mode](https://www.v2ex.com/t/898614) ![](assets/new.png)  
 - [2022-11-28-安卓定时强制锁定手机用哪个-app-好一点啊](https://www.v2ex.com/t/898613) ![](assets/new.png)  
 - [2022-11-28-2018-款-MacBook-Pro-《卡死、自动重启、六国语言》-维修记](https://www.v2ex.com/t/898612) ![](assets/new.png)  
 - [2022-11-28-被青光眼弄的有点头大](https://www.v2ex.com/t/898610) ![](assets/new.png)  
@@ -502,15 +511,6 @@
 - [2022-11-28-除了-iCloud，还有其他工具可以完美同步-ios-照片和相册吗？](https://www.v2ex.com/t/898603) ![](assets/new.png)  
 - [2022-11-28-跟老婆基本上天天吵架。你们的婚姻吵架吗？](https://www.v2ex.com/t/898602) ![](assets/new.png)  
 - [2022-11-28-请问有没有好用的中文转写服务，最好是离线的](https://www.v2ex.com/t/898601) ![](assets/new.png)  
-- [2022-11-28-ePUBee-站长站出来了-，愿意进行退款](https://www.v2ex.com/t/898600) ![](assets/new.png)  
-- [2022-11-28-新-MacQQ-的历史记录导入总是提示空间不够怎么办？](https://www.v2ex.com/t/898599) ![](assets/new.png)  
-- [2022-11-28-能推荐点黑五中-unity-商店中值得买的资产么？](https://www.v2ex.com/t/898598) ![](assets/new.png)  
-- [2022-11-28-ios-有什么办法隐藏已安装的-app-吗？](https://www.v2ex.com/t/898597) ![](assets/new.png)  
-- [2022-11-28-有没有大佬知道为什么微星的主板-wifi-无法使用-5g-信号](https://www.v2ex.com/t/898596) ![](assets/new.png)  
-- [2022-11-28-求-Mac-免费甘特图软件介绍](https://www.v2ex.com/t/898595) ![](assets/new.png)  
-- [2022-11-28-百度网盘会员便宜的方案](https://www.v2ex.com/t/898594) ![](assets/new.png)  
-- [2022-11-28-预装的-win11-中文版，升个级要￥-808](https://www.v2ex.com/t/898593) ![](assets/new.png)  
-- [2022-11-28-😶「防回退空白字体」a-prevent-fallback-blank-font](https://www.v2ex.com/t/898591) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -554,8 +554,8 @@
 - [2022-11-28-B站流式传输架构的前世今生](https://toutiao.io/k/q0yip4x) ![](assets/new.png)  
 - [2022-11-28-Spring-Boot-3-的-AOT（GraalVM-Native-Image）应用开发](https://toutiao.io/k/dx4m4z4) ![](assets/new.png)  
 - [2022-11-28-GIF-|-超生动图解长短记忆神经网络](https://toutiao.io/k/l13vqup) ![](assets/new.png)  
-- [2022-11-28-流式数仓和实时分析服务的思考和实践](https://toutiao.io/k/rsxxiea) ![](assets/new.png)  
 - [2022-11-28-快收藏！最全Go语言实现设计模式（上）](https://toutiao.io/k/67e6gyg) ![](assets/new.png)  
+- [2022-11-28-流式数仓和实时分析服务的思考和实践](https://toutiao.io/k/rsxxiea) ![](assets/new.png)  
 - [2022-11-28-10-分钟开发-Kubernetes-Operator](https://toutiao.io/k/4q6cto3) ![](assets/new.png)  
 - [2022-11-28-快手大数据开发平台建设实践与演进之路](https://toutiao.io/k/x05pf0i) ![](assets/new.png)  
 - [2022-11-28-面向大规模队列，百万并发的多优先级消费系统设计](https://toutiao.io/k/yzkwrjm) ![](assets/new.png)  
@@ -564,8 +564,8 @@
 - [2022-11-28-清华大学课题组联合美团研发无人机声波定位技术获ACM-SenSys顶会大奖](https://toutiao.io/k/29t6psy) ![](assets/new.png)  
 - [2022-11-28-《HelloGitHub》第-80-期](https://toutiao.io/k/hr64x46) ![](assets/new.png)  
 - [2022-11-28-推荐-一条-SQL-查询语句是如何执行的？](https://toutiao.io/k/8y71vds) ![](assets/new.png)  
+- [2022-11-28-推荐-DDD-之业务系统搭建的设计思考](https://toutiao.io/k/783naw9) ![](assets/new.png)  
 - [2022-11-28-推荐-SQL-常用脚本大全](https://toutiao.io/k/5nnfmun) ![](assets/new.png)  
-- [2022-11-28-推荐-万字长文细说-Code-Review-的正确姿势](https://toutiao.io/k/cxf9ver) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

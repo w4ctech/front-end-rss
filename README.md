@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-28 05:36:15，:rocket: 更新条数: +2018， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-28 06:16:11，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,14 @@
 </summary>
 
 
+- [2022-11-28-自荐第三方-Twitter-客户端，-FocusTwitter](https://www.v2ex.com/t/898493) ![](assets/new.png)  
+- [2022-11-28-双-11-活动马上结束，最后三天冲波福利！短信、企业邮箱、运维均有折扣](https://www.v2ex.com/t/898492) ![](assets/new.png)  
+- [2022-11-28-Adblock-Plus-开始收费了，-2022-年-adblock-哪家强？](https://www.v2ex.com/t/898491) ![](assets/new.png)  
+- [2022-11-28-过度疲劳应该如何解决?](https://www.v2ex.com/t/898489) ![](assets/new.png)  
+- [2022-11-28-安卓系统如何屏蔽彩信](https://www.v2ex.com/t/898488) ![](assets/new.png)  
+- [2022-11-28-copilot-报错-Failed-to-initiate-the-GitHub-login-process-一个可能的解决方法](https://www.v2ex.com/t/898487) ![](assets/new.png)  
+- [2022-11-28-win11-下哪个五笔输入好用？除了搜狗这种联网的，要单机版](https://www.v2ex.com/t/898486) ![](assets/new.png)  
+- [2022-11-28-观自由有感](https://www.v2ex.com/t/898485) ![](assets/new.png)  
 - [2022-11-28-有什么办法可以扫二级目录？](https://www.v2ex.com/t/898484) ![](assets/new.png)  
 - [2022-11-28-所以就没有一个好用的关闭窗口就是关闭程序的-app？](https://www.v2ex.com/t/898482) ![](assets/new.png)  
 - [2022-11-28-搜狗输入法最新版没有截图的快捷键，怎么办？](https://www.v2ex.com/t/898481) ![](assets/new.png)  
@@ -503,14 +511,6 @@
 - [2022-11-28-surge-for-mac-求上车](https://www.v2ex.com/t/898474) ![](assets/new.png)  
 - [2022-11-28-surge-ios-三人车有吗，带个我？](https://www.v2ex.com/t/898473) ![](assets/new.png)  
 - [2022-11-28-必须要吐槽下罗技的-flow-功能](https://www.v2ex.com/t/898472) ![](assets/new.png)  
-- [2022-11-28-vimium-快捷键的-f-和-r-按下去没反映是怎么回事？](https://www.v2ex.com/t/898470) ![](assets/new.png)  
-- [2022-11-28-全职/上海-前端开发工程师/15-30k/web3-元宇宙项目](https://www.v2ex.com/t/898469) ![](assets/new.png)  
-- [2022-11-28-v-站是否应考虑开设一个“墓园”节点？](https://www.v2ex.com/t/898468) ![](assets/new.png)  
-- [2022-11-28-预算-12000+-想买个-Linux-笔记本，目前觉得比较好的-Y9000P-2022](https://www.v2ex.com/t/898467) ![](assets/new.png)  
-- [2022-11-28-base-上海漕河泾，招个前端实习生](https://www.v2ex.com/t/898466) ![](assets/new.png)  
-- [2022-11-28-关于语言表达能力的讨论](https://www.v2ex.com/t/898465) ![](assets/new.png)  
-- [2022-11-28-（海外大厂）Keyform-Tech-Limited](https://www.v2ex.com/t/898464) ![](assets/new.png)  
-- [2022-11-28-大佬们，强类型语言，定义结构多了会有什么问题？](https://www.v2ex.com/t/898462) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -562,7 +562,8 @@
 - [2022-11-28-分布式存储之数据切片](https://toutiao.io/k/r58a12k) ![](assets/new.png)  
 - [2022-11-28-面向大规模队列，百万并发的多优先级消费系统设计](https://toutiao.io/k/yzkwrjm) ![](assets/new.png)  
 - [2022-11-28-Elasticsearch-8.X-DSL-如何优化更有助于提升检索性能？](https://toutiao.io/k/wrt8mnj) ![](assets/new.png)  
-- [2022-11-28-推荐-SQL-常用脚本大全](https://toutiao.io/k/5nnfmun) ![](assets/new.png)  
+- [2022-11-28-清华大学课题组联合美团研发无人机声波定位技术获ACM-SenSys顶会大奖](https://toutiao.io/k/29t6psy) ![](assets/new.png)  
+- [2022-11-28-《HelloGitHub》第-80-期](https://toutiao.io/k/hr64x46) ![](assets/new.png)  
 - [2022-11-28-推荐-一条-SQL-查询语句是如何执行的？](https://toutiao.io/k/8y71vds) ![](assets/new.png)  
 - [2022-11-28-推荐-万字长文细说-Code-Review-的正确姿势](https://toutiao.io/k/cxf9ver) ![](assets/new.png)  
 - [2022-11-28-推荐-DDD-之业务系统搭建的设计思考](https://toutiao.io/k/783naw9) ![](assets/new.png)  

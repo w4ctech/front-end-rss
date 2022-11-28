@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-28 05:11:50。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-28 05:36:15。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -71,6 +71,12 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-11-20-JS之我用单img元素实现了图像resize拉伸效果](https://www.zhangxinxu.com/wordpress/2022/11/js-image-resize/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-28-有什么办法可以扫二级目录？](https://www.v2ex.com/t/898484) 
+- [【V2EX】2022-11-28-所以就没有一个好用的关闭窗口就是关闭程序的-app？](https://www.v2ex.com/t/898482) 
+- [【V2EX】2022-11-28-搜狗输入法最新版没有截图的快捷键，怎么办？](https://www.v2ex.com/t/898481) 
+- [【V2EX】2022-11-28-请教一个问题，也想花钱得到这么一套程序](https://www.v2ex.com/t/898480) 
+- [【V2EX】2022-11-28-手机移动号码的-ipv6-默认关闭入站请问有啥办法绕一下？](https://www.v2ex.com/t/898479) 
+- [【V2EX】2022-11-28-屏蔽-APP-开屏摇一摇跳转广告](https://www.v2ex.com/t/898478) 
 - [【V2EX】2022-11-28-A4-纸未来会实名购买吗](https://www.v2ex.com/t/898477) 
 - [【V2EX】2022-11-28-暴力和镇压是不能带来和平的。](https://www.v2ex.com/t/898476) 
 - [【V2EX】2022-11-28-菜比是不是写-Python-只写函数不写类](https://www.v2ex.com/t/898475) 
@@ -104,10 +110,6 @@
 - [【V2EX】2022-11-28-iOS-上有囤饭饭-安卓上有类似软件么](https://www.v2ex.com/t/898439) 
 - [【V2EX】2022-11-28-最近大半年的-PC-DIY-手残记录。](https://www.v2ex.com/t/898438) 
 - [【V2EX】2022-11-28-只想用-MacOS-系统自带输入法，如果让它更好用？](https://www.v2ex.com/t/898435) 
-- [【V2EX】2022-11-28-app-store-下载和更新软件速度时快时慢是怎么一回事？](https://www.v2ex.com/t/898434) 
-- [【V2EX】2022-11-28-V2-验证邮箱失败，发邮件不回复，-2017-年注册的老号](https://www.v2ex.com/t/898433) 
-- [【V2EX】2022-11-28-收-DMIT-PVM.HKG.Lite.TINY-6.9](https://www.v2ex.com/t/898432) 
-- [【V2EX】2022-11-28-分享刚发现的一个很好玩的小体验](https://www.v2ex.com/t/898431) 
 - [【技术头条】2022-11-28-前端性能优化心法-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15416&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-performance-tuning%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-28-当我们谈论DDD时我们在谈论什么-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15415&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fstrategy-and-tactical-design-of-ddd%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-28-如何基于-Prerender-为-SPA-做-SEO-优化-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=15414&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fhow-to-optimize-seo-for-spa-based-on-prerender%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -137,10 +139,10 @@
 - [【开发者头条】2022-11-28-分布式存储之数据切片](https://toutiao.io/k/r58a12k) 
 - [【开发者头条】2022-11-28-面向大规模队列，百万并发的多优先级消费系统设计](https://toutiao.io/k/yzkwrjm) 
 - [【开发者头条】2022-11-28-Elasticsearch-8.X-DSL-如何优化更有助于提升检索性能？](https://toutiao.io/k/wrt8mnj) 
-- [【开发者头条】2022-11-28-推荐-DDD-之业务系统搭建的设计思考](https://toutiao.io/k/783naw9) 
-- [【开发者头条】2022-11-28-推荐-一条-SQL-查询语句是如何执行的？](https://toutiao.io/k/8y71vds) 
 - [【开发者头条】2022-11-28-推荐-SQL-常用脚本大全](https://toutiao.io/k/5nnfmun) 
+- [【开发者头条】2022-11-28-推荐-一条-SQL-查询语句是如何执行的？](https://toutiao.io/k/8y71vds) 
 - [【开发者头条】2022-11-28-推荐-万字长文细说-Code-Review-的正确姿势](https://toutiao.io/k/cxf9ver) 
+- [【开发者头条】2022-11-28-推荐-DDD-之业务系统搭建的设计思考](https://toutiao.io/k/783naw9) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

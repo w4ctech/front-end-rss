@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-28 05:11:50，:rocket: 更新条数: +2016， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-28 05:36:15，:rocket: 更新条数: +2018， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-11-28-有什么办法可以扫二级目录？](https://www.v2ex.com/t/898484) ![](assets/new.png)  
+- [2022-11-28-所以就没有一个好用的关闭窗口就是关闭程序的-app？](https://www.v2ex.com/t/898482) ![](assets/new.png)  
+- [2022-11-28-搜狗输入法最新版没有截图的快捷键，怎么办？](https://www.v2ex.com/t/898481) ![](assets/new.png)  
+- [2022-11-28-请教一个问题，也想花钱得到这么一套程序](https://www.v2ex.com/t/898480) ![](assets/new.png)  
+- [2022-11-28-手机移动号码的-ipv6-默认关闭入站请问有啥办法绕一下？](https://www.v2ex.com/t/898479) ![](assets/new.png)  
+- [2022-11-28-屏蔽-APP-开屏摇一摇跳转广告](https://www.v2ex.com/t/898478) ![](assets/new.png)  
 - [2022-11-28-A4-纸未来会实名购买吗](https://www.v2ex.com/t/898477) ![](assets/new.png)  
 - [2022-11-28-暴力和镇压是不能带来和平的。](https://www.v2ex.com/t/898476) ![](assets/new.png)  
 - [2022-11-28-菜比是不是写-Python-只写函数不写类](https://www.v2ex.com/t/898475) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-11-28-关于语言表达能力的讨论](https://www.v2ex.com/t/898465) ![](assets/new.png)  
 - [2022-11-28-（海外大厂）Keyform-Tech-Limited](https://www.v2ex.com/t/898464) ![](assets/new.png)  
 - [2022-11-28-大佬们，强类型语言，定义结构多了会有什么问题？](https://www.v2ex.com/t/898462) ![](assets/new.png)  
-- [2022-11-28-码友们有多久没用纸笔写过字了？](https://www.v2ex.com/t/898461) ![](assets/new.png)  
-- [2022-11-28-iPhone-12Pro-Max-电池健康只剩-86%，能去苹果店免费换电池吗？](https://www.v2ex.com/t/898459) ![](assets/new.png)  
-- [2022-11-28-overlay-文件系统的-lowerdir-是-nfs-时候的问题](https://www.v2ex.com/t/898457) ![](assets/new.png)  
-- [2022-11-28-警告!亲身经历国内个人站不要留任何收款码信息,否则会定为诈骗,域名会被封禁](https://www.v2ex.com/t/898456) ![](assets/new.png)  
-- [2022-11-28-Python-之父谈缩进和大括号](https://www.v2ex.com/t/898455) ![](assets/new.png)  
-- [2022-11-28-求-1-个馒头邀请](https://www.v2ex.com/t/898454) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -562,10 +562,10 @@
 - [2022-11-28-分布式存储之数据切片](https://toutiao.io/k/r58a12k) ![](assets/new.png)  
 - [2022-11-28-面向大规模队列，百万并发的多优先级消费系统设计](https://toutiao.io/k/yzkwrjm) ![](assets/new.png)  
 - [2022-11-28-Elasticsearch-8.X-DSL-如何优化更有助于提升检索性能？](https://toutiao.io/k/wrt8mnj) ![](assets/new.png)  
-- [2022-11-28-推荐-DDD-之业务系统搭建的设计思考](https://toutiao.io/k/783naw9) ![](assets/new.png)  
-- [2022-11-28-推荐-一条-SQL-查询语句是如何执行的？](https://toutiao.io/k/8y71vds) ![](assets/new.png)  
 - [2022-11-28-推荐-SQL-常用脚本大全](https://toutiao.io/k/5nnfmun) ![](assets/new.png)  
+- [2022-11-28-推荐-一条-SQL-查询语句是如何执行的？](https://toutiao.io/k/8y71vds) ![](assets/new.png)  
 - [2022-11-28-推荐-万字长文细说-Code-Review-的正确姿势](https://toutiao.io/k/cxf9ver) ![](assets/new.png)  
+- [2022-11-28-推荐-DDD-之业务系统搭建的设计思考](https://toutiao.io/k/783naw9) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

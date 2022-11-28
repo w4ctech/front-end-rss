@@ -1,10 +1,22 @@
-:alarm_clock: 更新时间: 2022-11-28 07:35:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-28 08:16:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-11-28-对于喜欢看纸质书的人而言（相对电子书-,买台打印机是否划算？](https://www.v2ex.com/t/898544) 
+- [2022-11-28-请教下各位-V-友，-TypeScript-如何扩展-React-的-ButtonHTMLAttributes-接口里面的-type-类型？](https://www.v2ex.com/t/898543) 
+- [2022-11-28-Linux-脚本请教，关于多条命令执行](https://www.v2ex.com/t/898542) 
+- [2022-11-28-昨天公司移动网络连不上海外-vps-的-ssh-端口，今天好了](https://www.v2ex.com/t/898541) 
+- [2022-11-28-上海/全职-web3-游戏项目招原画师/3D-设计/TA](https://www.v2ex.com/t/898540) 
+- [2022-11-28-ios-选择什么输入法](https://www.v2ex.com/t/898538) 
+- [2022-11-28-Dr.-Lemon-毕业找工作啦](https://www.v2ex.com/t/898535) 
+- [2022-11-28-远程/开源-Crossbell-is-Looking-for-a-React-Native-Developer](https://www.v2ex.com/t/898534) 
+- [2022-11-28-为啥那么多年过去了-Airplay-显示效果还是让人无法满意](https://www.v2ex.com/t/898533) 
+- [2022-11-28-急招北京/成都-字节跳动-基础架构-存储测试开发工程师](https://www.v2ex.com/t/898530) 
+- [2022-11-28-请问下字符串是怎么转正则的](https://www.v2ex.com/t/898529) 
+- [2022-11-28-想把常用软件都入正MacOS，有没有便宜渠道，有没有必要？](https://www.v2ex.com/t/898528) 
 - [2022-11-28-分享几个常用的剪贴板工具](https://www.v2ex.com/t/898527) 
 - [2022-11-28-昨天刚入手的-Apple-studio-display-电流声问题](https://www.v2ex.com/t/898526) 
 - [2022-11-28-麻烦推荐海外运营游戏的-vps](https://www.v2ex.com/t/898525) 
@@ -30,18 +42,3 @@
 - [2022-11-28-招聘-远程办公-区块链老牌大厂-NFT&DeFi-产品经理/前端/安卓/区块链/后端开发-15-薪](https://www.v2ex.com/t/898500) 
 - [2022-11-28-集群部署看过来，低代码-@AWS-智能集群的架构与搭建方案](https://www.v2ex.com/t/898498) 
 - [2022-11-28-一个关于-v-站回复楼层的问题](https://www.v2ex.com/t/898497) 
-- [2022-11-28-tabnine-黑五半价](https://www.v2ex.com/t/898495) 
-- [2022-11-28-用-N1-刷下载固件没搞成功](https://www.v2ex.com/t/898494) 
-- [2022-11-28-自荐第三方-Twitter-客户端，-FocusTwitter](https://www.v2ex.com/t/898493) 
-- [2022-11-28-双-11-活动马上结束，最后三天冲波福利！短信、企业邮箱、运维均有折扣](https://www.v2ex.com/t/898492) 
-- [2022-11-28-Adblock-Plus-开始收费了，-2022-年-adblock-哪家强？](https://www.v2ex.com/t/898491) 
-- [2022-11-28-过度疲劳应该如何解决?](https://www.v2ex.com/t/898489) 
-- [2022-11-28-安卓系统如何屏蔽彩信](https://www.v2ex.com/t/898488) 
-- [2022-11-28-copilot-报错-Failed-to-initiate-the-GitHub-login-process-一个可能的解决方法](https://www.v2ex.com/t/898487) 
-- [2022-11-28-win11-下哪个五笔输入好用？除了搜狗这种联网的，要单机版](https://www.v2ex.com/t/898486) 
-- [2022-11-28-有什么办法可以扫二级目录？](https://www.v2ex.com/t/898484) 
-- [2022-11-28-所以就没有一个好用的关闭窗口就是关闭程序的-app？](https://www.v2ex.com/t/898482) 
-- [2022-11-28-搜狗输入法最新版没有截图的快捷键，怎么办？](https://www.v2ex.com/t/898481) 
-- [2022-11-28-请教一个问题，也想花钱得到这么一套程序](https://www.v2ex.com/t/898480) 
-- [2022-11-28-手机移动号码的-ipv6-默认关闭入站请问有啥办法绕一下？](https://www.v2ex.com/t/898479) 
-- [2022-11-28-屏蔽-APP-开屏摇一摇跳转广告](https://www.v2ex.com/t/898478) 

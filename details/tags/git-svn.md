@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-28 07:35:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-28 08:16:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Git、SVN
 
@@ -7,5 +7,4 @@
 
 
 
-- [2022-11-28-copilot-报错-Failed-to-initiate-the-GitHub-login-process-一个可能的解决方法](https://www.v2ex.com/t/898487) 
 - [2022-11-28-《HelloGitHub》第-80-期](https://toutiao.io/k/hr64x46) 

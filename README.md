@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-28 07:11:37，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-28 07:35:26，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,13 @@
 </summary>
 
 
+- [2022-11-28-分享几个常用的剪贴板工具](https://www.v2ex.com/t/898527) ![](assets/new.png)  
+- [2022-11-28-昨天刚入手的-Apple-studio-display-电流声问题](https://www.v2ex.com/t/898526) ![](assets/new.png)  
+- [2022-11-28-麻烦推荐海外运营游戏的-vps](https://www.v2ex.com/t/898525) ![](assets/new.png)  
+- [2022-11-28-webstorm-中怎么配置可以出现-element-ui-的提示](https://www.v2ex.com/t/898523) ![](assets/new.png)  
+- [2022-11-28-仅闲聊-不考虑服务器和基础设施硬件的成本，在国内开一家正规的-IDC-的成本是多少](https://www.v2ex.com/t/898522) ![](assets/new.png)  
+- [2022-11-28-怎么成为前端大佬？](https://www.v2ex.com/t/898521) ![](assets/new.png)  
+- [2022-11-28-现在有什么便宜的流量卡套餐吗？](https://www.v2ex.com/t/898519) ![](assets/new.png)  
 - [2022-11-28-求助-1-核-1G-远程桌面-只需要显示浏览器](https://www.v2ex.com/t/898518) ![](assets/new.png)  
 - [2022-11-28-联机游戏怎么配置-openwrt-才能获得媲美加速器的体验](https://www.v2ex.com/t/898517) ![](assets/new.png)  
 - [2022-11-28-前端-saas-平台代码版本管理怎么做](https://www.v2ex.com/t/898516) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-11-28-请教一个有关-YubiKey-和-WebAuthn-的问题](https://www.v2ex.com/t/898505) ![](assets/new.png)  
 - [2022-11-28-抖音-北京/深圳—隐私合规—客户端/后端/运营/产品，大量-HC-等你来！](https://www.v2ex.com/t/898504) ![](assets/new.png)  
 - [2022-11-28-觉得-Apple-Care-越来越不值了](https://www.v2ex.com/t/898503) ![](assets/new.png)  
-- [2022-11-28-google-又又又出了一个语言：-Rune,-A-faster,-safer,-and-more-productive-systems-programming-language](https://www.v2ex.com/t/898502) ![](assets/new.png)  
-- [2022-11-28-M1-MacBook-Pro-13-使用-golang-屏幕就闪，有没有人有这种情况](https://www.v2ex.com/t/898501) ![](assets/new.png)  
-- [2022-11-28-招聘-远程办公-区块链老牌大厂-NFT&DeFi-产品经理/前端/安卓/区块链/后端开发-15-薪](https://www.v2ex.com/t/898500) ![](assets/new.png)  
-- [2022-11-28-集群部署看过来，低代码-@AWS-智能集群的架构与搭建方案](https://www.v2ex.com/t/898498) ![](assets/new.png)  
-- [2022-11-28-一个关于-v-站回复楼层的问题](https://www.v2ex.com/t/898497) ![](assets/new.png)  
-- [2022-11-28-tabnine-黑五半价](https://www.v2ex.com/t/898495) ![](assets/new.png)  
-- [2022-11-28-用-N1-刷下载固件没搞成功](https://www.v2ex.com/t/898494) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,7 +564,7 @@
 - [2022-11-28-Elasticsearch-8.X-DSL-如何优化更有助于提升检索性能？](https://toutiao.io/k/wrt8mnj) ![](assets/new.png)  
 - [2022-11-28-清华大学课题组联合美团研发无人机声波定位技术获ACM-SenSys顶会大奖](https://toutiao.io/k/29t6psy) ![](assets/new.png)  
 - [2022-11-28-《HelloGitHub》第-80-期](https://toutiao.io/k/hr64x46) ![](assets/new.png)  
-- [2022-11-28-推荐-一条-SQL-查询语句是如何执行的？](https://toutiao.io/k/8y71vds) ![](assets/new.png)  
+- [2022-11-28-推荐-万字长文细说-Code-Review-的正确姿势](https://toutiao.io/k/cxf9ver) ![](assets/new.png)  
 - [2022-11-28-推荐-SQL-常用脚本大全](https://toutiao.io/k/5nnfmun) ![](assets/new.png)  
 - [2022-11-28-推荐-DDD-之业务系统搭建的设计思考](https://toutiao.io/k/783naw9) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-28 07:11:37。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-28 07:35:26。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -71,6 +71,13 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-11-20-JS之我用单img元素实现了图像resize拉伸效果](https://www.zhangxinxu.com/wordpress/2022/11/js-image-resize/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-28-分享几个常用的剪贴板工具](https://www.v2ex.com/t/898527) 
+- [【V2EX】2022-11-28-昨天刚入手的-Apple-studio-display-电流声问题](https://www.v2ex.com/t/898526) 
+- [【V2EX】2022-11-28-麻烦推荐海外运营游戏的-vps](https://www.v2ex.com/t/898525) 
+- [【V2EX】2022-11-28-webstorm-中怎么配置可以出现-element-ui-的提示](https://www.v2ex.com/t/898523) 
+- [【V2EX】2022-11-28-仅闲聊-不考虑服务器和基础设施硬件的成本，在国内开一家正规的-IDC-的成本是多少](https://www.v2ex.com/t/898522) 
+- [【V2EX】2022-11-28-怎么成为前端大佬？](https://www.v2ex.com/t/898521) 
+- [【V2EX】2022-11-28-现在有什么便宜的流量卡套餐吗？](https://www.v2ex.com/t/898519) 
 - [【V2EX】2022-11-28-求助-1-核-1G-远程桌面-只需要显示浏览器](https://www.v2ex.com/t/898518) 
 - [【V2EX】2022-11-28-联机游戏怎么配置-openwrt-才能获得媲美加速器的体验](https://www.v2ex.com/t/898517) 
 - [【V2EX】2022-11-28-前端-saas-平台代码版本管理怎么做](https://www.v2ex.com/t/898516) 
@@ -104,11 +111,6 @@
 - [【V2EX】2022-11-28-请教一个问题，也想花钱得到这么一套程序](https://www.v2ex.com/t/898480) 
 - [【V2EX】2022-11-28-手机移动号码的-ipv6-默认关闭入站请问有啥办法绕一下？](https://www.v2ex.com/t/898479) 
 - [【V2EX】2022-11-28-屏蔽-APP-开屏摇一摇跳转广告](https://www.v2ex.com/t/898478) 
-- [【V2EX】2022-11-28-A4-纸未来会实名购买吗](https://www.v2ex.com/t/898477) 
-- [【V2EX】2022-11-28-菜比是不是写-Python-只写函数不写类](https://www.v2ex.com/t/898475) 
-- [【V2EX】2022-11-28-必须要吐槽下罗技的-flow-功能](https://www.v2ex.com/t/898472) 
-- [【V2EX】2022-11-28-vimium-快捷键的-f-和-r-按下去没反映是怎么回事？](https://www.v2ex.com/t/898470) 
-- [【V2EX】2022-11-28-全职/上海-前端开发工程师/15-30k/web3-元宇宙项目](https://www.v2ex.com/t/898469) 
 - [【技术头条】2022-11-28-前端性能优化心法-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15416&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-performance-tuning%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-28-当我们谈论DDD时我们在谈论什么-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15415&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fstrategy-and-tactical-design-of-ddd%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-28-如何基于-Prerender-为-SPA-做-SEO-优化-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=15414&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fhow-to-optimize-seo-for-spa-based-on-prerender%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -140,10 +142,10 @@
 - [【开发者头条】2022-11-28-Elasticsearch-8.X-DSL-如何优化更有助于提升检索性能？](https://toutiao.io/k/wrt8mnj) 
 - [【开发者头条】2022-11-28-清华大学课题组联合美团研发无人机声波定位技术获ACM-SenSys顶会大奖](https://toutiao.io/k/29t6psy) 
 - [【开发者头条】2022-11-28-《HelloGitHub》第-80-期](https://toutiao.io/k/hr64x46) 
-- [【开发者头条】2022-11-28-推荐-一条-SQL-查询语句是如何执行的？](https://toutiao.io/k/8y71vds) 
+- [【开发者头条】2022-11-28-推荐-万字长文细说-Code-Review-的正确姿势](https://toutiao.io/k/cxf9ver) 
 - [【开发者头条】2022-11-28-推荐-SQL-常用脚本大全](https://toutiao.io/k/5nnfmun) 
 - [【开发者头条】2022-11-28-推荐-DDD-之业务系统搭建的设计思考](https://toutiao.io/k/783naw9) 
-- [【开发者头条】2022-11-28-推荐-万字长文细说-Code-Review-的正确姿势](https://toutiao.io/k/cxf9ver) 
+- [【开发者头条】2022-11-28-推荐-一条-SQL-查询语句是如何执行的？](https://toutiao.io/k/8y71vds) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

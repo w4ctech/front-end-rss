@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-28 15:34:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-28 16:14:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1916,6 +1916,11 @@
 - [2022-10-20-告别pointer-events:none使用HTML-inert属性真正禁用](https://www.zhangxinxu.com/wordpress/2022/10/html-inert-disabled-attribute/) 
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
+- [2022-11-28-关于新版本虚拟机-vm13-和-pd18-对比](https://www.v2ex.com/t/898666) 
+- [2022-11-28-能否对防火墙的-DNS-抢答服务器发起-DDOS-攻击？](https://www.v2ex.com/t/898665) 
+- [2022-11-28-如果只考虑赚钱多和快，应该学哪种编程语言？](https://www.v2ex.com/t/898663) 
+- [2022-11-28-7-英寸无线显示屏打造-powerful-switch!](https://www.v2ex.com/t/898662) 
+- [2022-11-28-安卓机彻底关闭美颜吗？自制相机-app-能禁用美颜吗？](https://www.v2ex.com/t/898661) 
 - [2022-11-28-求教一个-Java-问题,关于-configuration-processor-配置提示](https://www.v2ex.com/t/898659) 
 - [2022-11-28-小技巧](https://www.v2ex.com/t/898657) 
 - [2022-11-28-请问各位大佬，小弟是-2019-款-MacbookPro，在用-word-时，间歇性卡顿，这怎么解决？](https://www.v2ex.com/t/898654) 
@@ -1945,11 +1950,6 @@
 - [2022-11-28-有没有大佬用-sonarr-和馒头](https://www.v2ex.com/t/898619) 
 - [2022-11-28-惊闻上海-cops-开始在地铁站查手机了，想问下-iPhone-如何隐藏部分-APP](https://www.v2ex.com/t/898618) 
 - [2022-11-28-macOS-Shortcuts-如何调用-Run-AppleScript-with-"input"？](https://www.v2ex.com/t/898617) 
-- [2022-11-28-ePUBee-站长站出来了-愿意进行退款](https://www.v2ex.com/t/898616) 
-- [2022-11-28-Auto-dark-mode](https://www.v2ex.com/t/898614) 
-- [2022-11-28-安卓定时强制锁定手机用哪个-app-好一点啊](https://www.v2ex.com/t/898613) 
-- [2022-11-28-2018-款-MacBook-Pro-《卡死、自动重启、六国语言》-维修记](https://www.v2ex.com/t/898612) 
-- [2022-11-28-被青光眼弄的有点头大](https://www.v2ex.com/t/898610) 
 - [2022-11-28-当我们谈论DDD时我们在谈论什么-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15415&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fstrategy-and-tactical-design-of-ddd%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-28-2022，「倾城之链」运营第-6-年感记-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=15413&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fnicelinks-site-in-2022%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-28-浅谈数据和人工智能项目的管理-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15412&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fproject-management-big-data-artificial-intelligence%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1974,5 +1974,5 @@
 - [2022-11-28-分布式存储之数据切片](https://toutiao.io/k/r58a12k) 
 - [2022-11-28-清华大学课题组联合美团研发无人机声波定位技术获ACM-SenSys顶会大奖](https://toutiao.io/k/29t6psy) 
 - [2022-11-28-推荐-DDD-之业务系统搭建的设计思考](https://toutiao.io/k/783naw9) 
-- [2022-11-28-推荐-一条-SQL-查询语句是如何执行的？](https://toutiao.io/k/8y71vds) 
 - [2022-11-28-推荐-SQL-常用脚本大全](https://toutiao.io/k/5nnfmun) 
+- [2022-11-28-推荐-一条-SQL-查询语句是如何执行的？](https://toutiao.io/k/8y71vds) 

@@ -9953,6 +9953,36 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "关于新版本虚拟机 vm13 和 pd18 对比",
+        "link": "https://www.v2ex.com/t/898666",
+        "date": "2022-11-28"
+      },
+      {
+        "title": "能否对防火墙的 DNS 抢答服务器发起 DDOS 攻击？",
+        "link": "https://www.v2ex.com/t/898665",
+        "date": "2022-11-28"
+      },
+      {
+        "title": "如何做技术教学视频？求助有经验的高手传授流程",
+        "link": "https://www.v2ex.com/t/898664",
+        "date": "2022-11-28"
+      },
+      {
+        "title": "如果只考虑赚钱多和快，应该学哪种编程语言？",
+        "link": "https://www.v2ex.com/t/898663",
+        "date": "2022-11-28"
+      },
+      {
+        "title": "7 英寸无线显示屏打造 powerful switch!",
+        "link": "https://www.v2ex.com/t/898662",
+        "date": "2022-11-28"
+      },
+      {
+        "title": "安卓机彻底关闭美颜吗？自制相机 app 能禁用美颜吗？",
+        "link": "https://www.v2ex.com/t/898661",
+        "date": "2022-11-28"
+      },
+      {
         "title": "求教一个 Java 问题,关于 configuration-processor 配置提示",
         "link": "https://www.v2ex.com/t/898659",
         "date": "2022-11-28"
@@ -10126,31 +10156,6 @@
         "title": "macOS Shortcuts 如何调用 Run AppleScript with \"input\"？",
         "link": "https://www.v2ex.com/t/898617",
         "date": "2022-11-28"
-      },
-      {
-        "title": "ePUBee 站长站出来了 愿意进行退款",
-        "link": "https://www.v2ex.com/t/898616",
-        "date": "2022-11-28"
-      },
-      {
-        "title": "Auto dark mode",
-        "link": "https://www.v2ex.com/t/898614",
-        "date": "2022-11-28"
-      },
-      {
-        "title": "安卓定时强制锁定手机用哪个 app 好一点啊",
-        "link": "https://www.v2ex.com/t/898613",
-        "date": "2022-11-28"
-      },
-      {
-        "title": "2018 款 MacBook Pro 《卡死、自动重启、六国语言》 维修记",
-        "link": "https://www.v2ex.com/t/898612",
-        "date": "2022-11-28"
-      },
-      {
-        "title": "被青光眼弄的有点头大",
-        "link": "https://www.v2ex.com/t/898610",
-        "date": "2022-11-28"
       }
     ]
   },
@@ -10322,8 +10327,8 @@
         "date": "2022-11-28"
       },
       {
-        "title": "[推荐] 万字长文细说 Code Review 的正确姿势",
-        "link": "https://toutiao.io/k/cxf9ver",
+        "title": "[推荐] SQL 常用脚本大全",
+        "link": "https://toutiao.io/k/5nnfmun",
         "date": "2022-11-28"
       },
       {
@@ -10332,8 +10337,8 @@
         "date": "2022-11-28"
       },
       {
-        "title": "[推荐] SQL 常用脚本大全",
-        "link": "https://toutiao.io/k/5nnfmun",
+        "title": "[推荐] 万字长文细说 Code Review 的正确姿势",
+        "link": "https://toutiao.io/k/cxf9ver",
         "date": "2022-11-28"
       }
     ]

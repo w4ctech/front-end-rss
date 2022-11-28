@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-28 13:30:51。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-28 13:44:44。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -71,6 +71,9 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-11-20-JS之我用单img元素实现了图像resize拉伸效果](https://www.zhangxinxu.com/wordpress/2022/11/js-image-resize/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-28-Macbook-的-HDR-屏幕闪烁-bug](https://www.v2ex.com/t/898628) 
+- [【V2EX】2022-11-28-你们绑定境外号码的-wechat-来电还有铃声吗？](https://www.v2ex.com/t/898627) 
+- [【V2EX】2022-11-28-你恐惧吗](https://www.v2ex.com/t/898625) 
 - [【V2EX】2022-11-28-pe-类的-aosp-如何不同密码进入不同用户](https://www.v2ex.com/t/898624) 
 - [【V2EX】2022-11-28-远程-UI，安全测试，薪资-20-50K](https://www.v2ex.com/t/898623) 
 - [【V2EX】2022-11-28-有没有运营/产品同学来讨论下相亲交友项目](https://www.v2ex.com/t/898622) 
@@ -106,10 +109,6 @@
 - [【V2EX】2022-11-28-在一款比较老的电脑上安装-Ubuntu-server-22.04,-开不了机，-BIOS-找不到安装-Ubuntu-的硬盘](https://www.v2ex.com/t/898584) 
 - [【V2EX】2022-11-28-下班开晨会-大家都是怎么看](https://www.v2ex.com/t/898580) 
 - [【V2EX】2022-11-28-求个家园和学校💊](https://www.v2ex.com/t/898579) 
-- [【V2EX】2022-11-28-使用-neovim-作为-PDE个性化开发环境](https://www.v2ex.com/t/898578) 
-- [【V2EX】2022-11-28-有本地小说库的推荐吗](https://www.v2ex.com/t/898577) 
-- [【V2EX】2022-11-28-PT-需要用单独硬盘跑吗](https://www.v2ex.com/t/898576) 
-- [【V2EX】2022-11-28-请问有那些对摄影师较为友好的卖相片平台？](https://www.v2ex.com/t/898575) 
 - [【技术头条】2022-11-28-前端性能优化心法-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15416&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-performance-tuning%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-28-当我们谈论DDD时我们在谈论什么-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15415&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fstrategy-and-tactical-design-of-ddd%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-28-如何基于-Prerender-为-SPA-做-SEO-优化-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=15414&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fhow-to-optimize-seo-for-spa-based-on-prerender%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -130,8 +129,8 @@
 - [【开发者头条】2022-11-28-运维累了：该故障自愈出场了](https://toutiao.io/k/kcex2fq) 
 - [【开发者头条】2022-11-28-B站流式传输架构的前世今生](https://toutiao.io/k/q0yip4x) 
 - [【开发者头条】2022-11-28-Spring-Boot-3-的-AOT（GraalVM-Native-Image）应用开发](https://toutiao.io/k/dx4m4z4) 
-- [【开发者头条】2022-11-28-GIF-|-超生动图解长短记忆神经网络](https://toutiao.io/k/l13vqup) 
 - [【开发者头条】2022-11-28-快收藏！最全Go语言实现设计模式（上）](https://toutiao.io/k/67e6gyg) 
+- [【开发者头条】2022-11-28-GIF-|-超生动图解长短记忆神经网络](https://toutiao.io/k/l13vqup) 
 - [【开发者头条】2022-11-28-流式数仓和实时分析服务的思考和实践](https://toutiao.io/k/rsxxiea) 
 - [【开发者头条】2022-11-28-10-分钟开发-Kubernetes-Operator](https://toutiao.io/k/4q6cto3) 
 - [【开发者头条】2022-11-28-快手大数据开发平台建设实践与演进之路](https://toutiao.io/k/x05pf0i) 
@@ -140,9 +139,9 @@
 - [【开发者头条】2022-11-28-Elasticsearch-8.X-DSL-如何优化更有助于提升检索性能？](https://toutiao.io/k/wrt8mnj) 
 - [【开发者头条】2022-11-28-清华大学课题组联合美团研发无人机声波定位技术获ACM-SenSys顶会大奖](https://toutiao.io/k/29t6psy) 
 - [【开发者头条】2022-11-28-《HelloGitHub》第-80-期](https://toutiao.io/k/hr64x46) 
-- [【开发者头条】2022-11-28-推荐-一条-SQL-查询语句是如何执行的？](https://toutiao.io/k/8y71vds) 
-- [【开发者头条】2022-11-28-推荐-万字长文细说-Code-Review-的正确姿势](https://toutiao.io/k/cxf9ver) 
 - [【开发者头条】2022-11-28-推荐-DDD-之业务系统搭建的设计思考](https://toutiao.io/k/783naw9) 
+- [【开发者头条】2022-11-28-推荐-万字长文细说-Code-Review-的正确姿势](https://toutiao.io/k/cxf9ver) 
+- [【开发者头条】2022-11-28-推荐-一条-SQL-查询语句是如何执行的？](https://toutiao.io/k/8y71vds) 
 - [【开发者头条】2022-11-28-推荐-SQL-常用脚本大全](https://toutiao.io/k/5nnfmun) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>

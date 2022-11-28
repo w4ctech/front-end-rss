@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-28 13:44:43，:rocket: 更新条数: +2018， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-28 14:11:24，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,13 @@
 </summary>
 
 
+- [2022-11-28-2022-年-11-月-28-日，厦门前埔附近，🌶️气味浓烈](https://www.v2ex.com/t/898638) ![](assets/new.png)  
+- [2022-11-28-求回音壁零部件购买途径](https://www.v2ex.com/t/898636) ![](assets/new.png)  
+- [2022-11-28-iPhone-快速按-5-下电源按钮临时禁用生物识别](https://www.v2ex.com/t/898634) ![](assets/new.png)  
+- [2022-11-28-收到诈骗短信](https://www.v2ex.com/t/898633) ![](assets/new.png)  
+- [2022-11-28-上海-急聘前端兼职,-Fabrie-前端招聘-Mac-顶配+4K-显示器&期权-13-17-薪（15k-40k](https://www.v2ex.com/t/898632) ![](assets/new.png)  
+- [2022-11-28-硬盘存储的数据发生静态错误的概率](https://www.v2ex.com/t/898631) ![](assets/new.png)  
+- [2022-11-28-谷歌云账号被风控](https://www.v2ex.com/t/898630) ![](assets/new.png)  
 - [2022-11-28-Macbook-的-HDR-屏幕闪烁-bug](https://www.v2ex.com/t/898628) ![](assets/new.png)  
 - [2022-11-28-你们绑定境外号码的-wechat-来电还有铃声吗？](https://www.v2ex.com/t/898627) ![](assets/new.png)  
 - [2022-11-28-你恐惧吗](https://www.v2ex.com/t/898625) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-11-28-macOS-Shortcuts-如何调用-Run-AppleScript-with-"input"？](https://www.v2ex.com/t/898617) ![](assets/new.png)  
 - [2022-11-28-ePUBee-站长站出来了-愿意进行退款](https://www.v2ex.com/t/898616) ![](assets/new.png)  
 - [2022-11-28-Auto-dark-mode](https://www.v2ex.com/t/898614) ![](assets/new.png)  
-- [2022-11-28-安卓定时强制锁定手机用哪个-app-好一点啊](https://www.v2ex.com/t/898613) ![](assets/new.png)  
-- [2022-11-28-2018-款-MacBook-Pro-《卡死、自动重启、六国语言》-维修记](https://www.v2ex.com/t/898612) ![](assets/new.png)  
-- [2022-11-28-被青光眼弄的有点头大](https://www.v2ex.com/t/898610) ![](assets/new.png)  
-- [2022-11-28-求新加坡看世界杯直播的正确姿势](https://www.v2ex.com/t/898607) ![](assets/new.png)  
-- [2022-11-28-👻-在-Windows-上统计软件使用时长](https://www.v2ex.com/t/898606) ![](assets/new.png)  
-- [2022-11-28-公司绩效反馈不好，心里很失落，工作没干劲怎么办](https://www.v2ex.com/t/898604) ![](assets/new.png)  
-- [2022-11-28-除了-iCloud，还有其他工具可以完美同步-ios-照片和相册吗？](https://www.v2ex.com/t/898603) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,9 +563,9 @@
 - [2022-11-28-Elasticsearch-8.X-DSL-如何优化更有助于提升检索性能？](https://toutiao.io/k/wrt8mnj) ![](assets/new.png)  
 - [2022-11-28-清华大学课题组联合美团研发无人机声波定位技术获ACM-SenSys顶会大奖](https://toutiao.io/k/29t6psy) ![](assets/new.png)  
 - [2022-11-28-《HelloGitHub》第-80-期](https://toutiao.io/k/hr64x46) ![](assets/new.png)  
-- [2022-11-28-推荐-DDD-之业务系统搭建的设计思考](https://toutiao.io/k/783naw9) ![](assets/new.png)  
-- [2022-11-28-推荐-万字长文细说-Code-Review-的正确姿势](https://toutiao.io/k/cxf9ver) ![](assets/new.png)  
 - [2022-11-28-推荐-一条-SQL-查询语句是如何执行的？](https://toutiao.io/k/8y71vds) ![](assets/new.png)  
+- [2022-11-28-推荐-万字长文细说-Code-Review-的正确姿势](https://toutiao.io/k/cxf9ver) ![](assets/new.png)  
+- [2022-11-28-推荐-SQL-常用脚本大全](https://toutiao.io/k/5nnfmun) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

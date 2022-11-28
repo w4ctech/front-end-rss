@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-27 23:36:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-28 00:56:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -17,4 +17,3 @@
 - [2022-10-16-2022年新出了哪些form表单新特性？](https://www.zhangxinxu.com/wordpress/2022/10/2022-new-form-property/) 
 - [2022-11-27-想搞个千兆路由器，求推荐](https://www.v2ex.com/t/898367) 
 - [2022-11-27-数组索引的时间复杂度-O1-的本质是并行二分查找](https://www.v2ex.com/t/898350) 
-- [2022-11-27-Ethers.js-非权威开发指南（4）](https://toutiao.io/k/nkodrli) 

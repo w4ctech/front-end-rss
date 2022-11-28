@@ -9953,6 +9953,26 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "腾讯云这是想干什么呢？",
+        "link": "https://www.v2ex.com/t/898394",
+        "date": "2022-11-28"
+      },
+      {
+        "title": "Mac IINA 使用 Home Pod mini 音画不同步",
+        "link": "https://www.v2ex.com/t/898392",
+        "date": "2022-11-28"
+      },
+      {
+        "title": "已经有安装 U 盘怎么样把他做成 ISO？",
+        "link": "https://www.v2ex.com/t/898390",
+        "date": "2022-11-28"
+      },
+      {
+        "title": "MacBook Pro 2016 睡眠就会自动重启",
+        "link": "https://www.v2ex.com/t/898389",
+        "date": "2022-11-28"
+      },
+      {
         "title": "问一下有什么好的运动鞋牌子或者休闲鞋牌子？",
         "link": "https://www.v2ex.com/t/898387",
         "date": "2022-11-27"
@@ -10106,31 +10126,6 @@
         "title": "支持 FIDO2 的 windows SSH 客户端",
         "link": "https://www.v2ex.com/t/898346",
         "date": "2022-11-27"
-      },
-      {
-        "title": "iPhone ac+到期，由第三方续费渠道吗？",
-        "link": "https://www.v2ex.com/t/898344",
-        "date": "2022-11-27"
-      },
-      {
-        "title": "关于 Java 后端开发规范 Or 个人习惯？谈谈你们的理解和现有项目的状况。",
-        "link": "https://www.v2ex.com/t/898342",
-        "date": "2022-11-27"
-      },
-      {
-        "title": "Wins for macOS 黑五有五折优惠",
-        "link": "https://www.v2ex.com/t/898341",
-        "date": "2022-11-27"
-      },
-      {
-        "title": "移动数据变成 2G 联想到的阴谋论",
-        "link": "https://www.v2ex.com/t/898340",
-        "date": "2022-11-27"
-      },
-      {
-        "title": "请问线上 web 项目如何自动更新？",
-        "link": "https://www.v2ex.com/t/898339",
-        "date": "2022-11-27"
       }
     ]
   },
@@ -10142,72 +10137,72 @@
       {
         "title": "前端性能优化心法 (insights.thoughtworks.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=15416&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-performance-tuning%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-11-27"
+        "date": "2022-11-28"
       },
       {
         "title": "当我们谈论DDD时我们在谈论什么 (insights.thoughtworks.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=15415&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fstrategy-and-tactical-design-of-ddd%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-11-27"
+        "date": "2022-11-28"
       },
       {
         "title": "如何基于 Prerender 为 SPA 做 SEO 优化 (quickapp.lovejade.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=15414&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fhow-to-optimize-seo-for-spa-based-on-prerender%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-11-27"
+        "date": "2022-11-28"
       },
       {
         "title": "2022，「倾城之链」运营第 6 年感记 (quickapp.lovejade.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=15413&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fnicelinks-site-in-2022%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-11-27"
+        "date": "2022-11-28"
       },
       {
         "title": "浅谈数据和人工智能项目的管理 (insights.thoughtworks.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=15412&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fproject-management-big-data-artificial-intelligence%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-11-27"
+        "date": "2022-11-28"
       },
       {
         "title": "使用CDC模式改造遗留系统 (insights.thoughtworks.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=15411&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fchange-data-capture-legacy-system%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-11-27"
+        "date": "2022-11-28"
       },
       {
         "title": "敏捷团队的质量保障赋能 (insights.thoughtworks.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=15410&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fquality-assurance-enablement-in-agile-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-11-27"
+        "date": "2022-11-28"
       },
       {
         "title": "团队的Code Review实践 (insights.thoughtworks.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=15409&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-code-review%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-11-27"
+        "date": "2022-11-28"
       },
       {
         "title": "Tech Lead如何组建你的全明星团队 (insights.thoughtworks.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-11-27"
+        "date": "2022-11-28"
       },
       {
         "title": "前端测试体系和最佳实践 (insights.thoughtworks.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-11-27"
+        "date": "2022-11-28"
       },
       {
         "title": "以综合指数观察和评价研发效能的趋势 (link.zhihu.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15406&url=https%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttps%253A%2F%2Finsights.thoughtworks.cn%2Fobserving-evaluating-research-development-efficiency-trend%2F%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-11-27"
+        "date": "2022-11-28"
       },
       {
         "title": "DDD的哲学意味（上） (insights.thoughtworks.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=15405&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fddd-philosophy-entity-value-object%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-11-27"
+        "date": "2022-11-28"
       },
       {
         "title": "重新思考 React 项目架构 (teobler.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-11-27"
+        "date": "2022-11-28"
       },
       {
         "title": "日志记录的最佳实践 (insights.thoughtworks.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-11-27"
+        "date": "2022-11-28"
       }
     ]
   },
@@ -10217,74 +10212,74 @@
     "link": "https://toutiao.io",
     "items": [
       {
-        "title": "【Java综合专栏】「引领序幕」全链路追踪原理之Java Agent探针的技术介绍（上篇）_洛神灬殇的博客-CSDN博客",
-        "link": "https://toutiao.io/k/mnunu2w",
-        "date": "2022-11-27"
+        "title": "有些技术原理你完全看不懂",
+        "link": "https://toutiao.io/k/rww5ta2",
+        "date": "2022-11-28"
       },
       {
-        "title": "图解Kafka消费组偏移量_consumer_offset的数据结构",
-        "link": "https://toutiao.io/k/d2l920a",
-        "date": "2022-11-27"
+        "title": "CentOS 下安装 Docker 极简教程",
+        "link": "https://toutiao.io/k/t9yi9em",
+        "date": "2022-11-28"
       },
       {
-        "title": "前后端分离的企业级微服务多租户系统架构，快速开发平台！",
-        "link": "https://toutiao.io/k/h9jrp0q",
-        "date": "2022-11-27"
+        "title": "Java 字符串 split 的一个反直觉陷阱",
+        "link": "https://toutiao.io/k/dv65u05",
+        "date": "2022-11-28"
       },
       {
-        "title": "vue如何二次封装一个高频可复用的组件",
-        "link": "https://toutiao.io/k/fzld64o",
-        "date": "2022-11-27"
+        "title": "SpringBoot 使用 Feign  无废话 All-in-one 指南",
+        "link": "https://toutiao.io/k/y5lw3yh",
+        "date": "2022-11-28"
       },
       {
-        "title": "Ethers.js 非权威开发指南（4）",
-        "link": "https://toutiao.io/k/nkodrli",
-        "date": "2022-11-27"
+        "title": "运维累了：该故障自愈出场了",
+        "link": "https://toutiao.io/k/kcex2fq",
+        "date": "2022-11-28"
       },
       {
-        "title": "奇异值分解（SVD）原理总结",
-        "link": "https://toutiao.io/k/gqwlfg4",
-        "date": "2022-11-27"
+        "title": "B站流式传输架构的前世今生",
+        "link": "https://toutiao.io/k/q0yip4x",
+        "date": "2022-11-28"
       },
       {
-        "title": "编程语言Zig有什么与众不同的",
-        "link": "https://toutiao.io/k/c1cp2dd",
-        "date": "2022-11-27"
+        "title": "Spring Boot 3 的 AOT（GraalVM Native Image）应用开发",
+        "link": "https://toutiao.io/k/dx4m4z4",
+        "date": "2022-11-28"
       },
       {
-        "title": "Redis事务引发的线上生产事故完整复盘，学到了！",
-        "link": "https://toutiao.io/k/a4i8it5",
-        "date": "2022-11-27"
+        "title": "快手大数据开发平台建设实践与演进之路",
+        "link": "https://toutiao.io/k/x05pf0i",
+        "date": "2022-11-28"
       },
       {
-        "title": "基于OneData的数据仓库建设",
-        "link": "https://toutiao.io/k/wm7gadg",
-        "date": "2022-11-27"
+        "title": "流式数仓和实时分析服务的思考和实践",
+        "link": "https://toutiao.io/k/rsxxiea",
+        "date": "2022-11-28"
       },
       {
-        "title": "百亿数据个性化推荐：弹幕工程架构演进",
-        "link": "https://toutiao.io/k/ppq6ea8",
-        "date": "2022-11-27"
-      },
-      {
-        "title": "[推荐] 万字长文细说 Code Review 的正确姿势",
-        "link": "https://toutiao.io/k/cxf9ver",
-        "date": "2022-11-27"
+        "title": "GIF | 超生动图解长短记忆神经网络",
+        "link": "https://toutiao.io/k/l13vqup",
+        "date": "2022-11-28"
       },
       {
         "title": "[推荐] DDD 之业务系统搭建的设计思考",
         "link": "https://toutiao.io/k/783naw9",
-        "date": "2022-11-27"
-      },
-      {
-        "title": "[推荐] 一条 SQL 查询语句是如何执行的？",
-        "link": "https://toutiao.io/k/8y71vds",
-        "date": "2022-11-27"
+        "date": "2022-11-28"
       },
       {
         "title": "[推荐] SQL 常用脚本大全",
         "link": "https://toutiao.io/k/5nnfmun",
-        "date": "2022-11-27"
+        "date": "2022-11-28"
+      },
+      {
+        "title": "[推荐] 一条 SQL 查询语句是如何执行的？",
+        "link": "https://toutiao.io/k/8y71vds",
+        "date": "2022-11-28"
+      },
+      {
+        "title": "[推荐] 万字长文细说 Code Review 的正确姿势",
+        "link": "https://toutiao.io/k/cxf9ver",
+        "date": "2022-11-28"
       }
     ]
   },

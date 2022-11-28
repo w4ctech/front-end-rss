@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2022-11-27 23:36:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-28 00:56:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-11-28-腾讯云这是想干什么呢？](https://www.v2ex.com/t/898394) 
+- [2022-11-28-Mac-IINA-使用-Home-Pod-mini-音画不同步](https://www.v2ex.com/t/898392) 
+- [2022-11-28-已经有安装-U-盘怎么样把他做成-ISO？](https://www.v2ex.com/t/898390) 
+- [2022-11-28-MacBook-Pro-2016-睡眠就会自动重启](https://www.v2ex.com/t/898389) 
 - [2022-11-27-问一下有什么好的运动鞋牌子或者休闲鞋牌子？](https://www.v2ex.com/t/898387) 
 - [2022-11-27-快速私搭聊天室](https://www.v2ex.com/t/898386) 
 - [2022-11-27-怎样让-macOS-的音视频编辑专业软件不独占音频输出](https://www.v2ex.com/t/898385) 
@@ -36,8 +40,3 @@
 - [2022-11-27-数组索引的时间复杂度-O1-的本质是并行二分查找](https://www.v2ex.com/t/898350) 
 - [2022-11-27-请教一个关于-windows-系统或者硬件相关的问题](https://www.v2ex.com/t/898349) 
 - [2022-11-27-支持-FIDO2-的-windows-SSH-客户端](https://www.v2ex.com/t/898346) 
-- [2022-11-27-iPhone-ac+到期，由第三方续费渠道吗？](https://www.v2ex.com/t/898344) 
-- [2022-11-27-关于-Java-后端开发规范-Or-个人习惯？谈谈你们的理解和现有项目的状况。](https://www.v2ex.com/t/898342) 
-- [2022-11-27-Wins-for-macOS-黑五有五折优惠](https://www.v2ex.com/t/898341) 
-- [2022-11-27-移动数据变成-2G-联想到的阴谋论](https://www.v2ex.com/t/898340) 
-- [2022-11-27-请问线上-web-项目如何自动更新？](https://www.v2ex.com/t/898339) 

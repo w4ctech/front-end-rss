@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-28 10:13:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-28 10:40:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1916,6 +1916,13 @@
 - [2022-10-20-告别pointer-events:none使用HTML-inert属性真正禁用](https://www.zhangxinxu.com/wordpress/2022/10/html-inert-disabled-attribute/) 
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
+- [2022-11-28-😶「防回退空白字体」a-prevent-fallback-blank-font](https://www.v2ex.com/t/898591) 
+- [2022-11-28-WeChat：不是不报，时候未到](https://www.v2ex.com/t/898590) 
+- [2022-11-28-耳机有时左右音量不一样。。](https://www.v2ex.com/t/898589) 
+- [2022-11-28-坐标上海/东京,-初创公司招一起共事的伙伴](https://www.v2ex.com/t/898587) 
+- [2022-11-28-苏州互联网交流群，](https://www.v2ex.com/t/898586) 
+- [2022-11-28-摄影老法师请进](https://www.v2ex.com/t/898585) 
+- [2022-11-28-在一款比较老的电脑上安装-Ubuntu-server-22.04,-开不了机，-BIOS-找不到安装-Ubuntu-的硬盘](https://www.v2ex.com/t/898584) 
 - [2022-11-28-艹，继续居办的第二周，这是哪里的具体条纹或红头文件龟腚？](https://www.v2ex.com/t/898581) 
 - [2022-11-28-下班开晨会-大家都是怎么看](https://www.v2ex.com/t/898580) 
 - [2022-11-28-求个家园和学校💊](https://www.v2ex.com/t/898579) 
@@ -1946,9 +1953,6 @@
 - [2022-11-28-非管理员怎么修改一个-telegram-group/channel-的显示名字，像微信的群备注一样](https://www.v2ex.com/t/898546) 
 - [2022-11-28-对于喜欢看纸质书的人而言（相对电子书-,买台打印机是否划算？](https://www.v2ex.com/t/898544) 
 - [2022-11-28-Linux-脚本请教，关于多条命令执行](https://www.v2ex.com/t/898542) 
-- [2022-11-28-昨天公司移动网络连不上海外-vps-的-ssh-端口，今天好了](https://www.v2ex.com/t/898541) 
-- [2022-11-28-ios-选择什么输入法](https://www.v2ex.com/t/898538) 
-- [2022-11-28-Dr.-Lemon-毕业找工作啦](https://www.v2ex.com/t/898535) 
 - [2022-11-28-当我们谈论DDD时我们在谈论什么-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15415&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fstrategy-and-tactical-design-of-ddd%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-28-2022，「倾城之链」运营第-6-年感记-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=15413&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fnicelinks-site-in-2022%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-28-浅谈数据和人工智能项目的管理-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15412&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fproject-management-big-data-artificial-intelligence%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1972,6 +1976,6 @@
 - [2022-11-28-面向大规模队列，百万并发的多优先级消费系统设计](https://toutiao.io/k/yzkwrjm) 
 - [2022-11-28-分布式存储之数据切片](https://toutiao.io/k/r58a12k) 
 - [2022-11-28-清华大学课题组联合美团研发无人机声波定位技术获ACM-SenSys顶会大奖](https://toutiao.io/k/29t6psy) 
+- [2022-11-28-推荐-SQL-常用脚本大全](https://toutiao.io/k/5nnfmun) 
 - [2022-11-28-推荐-一条-SQL-查询语句是如何执行的？](https://toutiao.io/k/8y71vds) 
 - [2022-11-28-推荐-DDD-之业务系统搭建的设计思考](https://toutiao.io/k/783naw9) 
-- [2022-11-28-推荐-SQL-常用脚本大全](https://toutiao.io/k/5nnfmun) 

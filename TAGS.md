@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-11-28 10:13:12。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-28 10:40:29。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -40,7 +40,6 @@
 
 
 - [【V2EX】请教下各位-V-友，-TypeScript-如何扩展-React-的-ButtonHTMLAttributes-接口里面的-type-类型？](https://www.v2ex.com/t/898543)
-- [【V2EX】远程/开源-Crossbell-is-Looking-for-a-React-Native-Developer](https://www.v2ex.com/t/898534)
 - [【技术头条】重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/react.md)
 
@@ -155,7 +154,6 @@
 
 
 
-- [【V2EX】上海/全职-web3-游戏项目招原画师/3D-设计/TA](https://www.v2ex.com/t/898540)
 - [......【查看更多】......](./details/tags/dev-game.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

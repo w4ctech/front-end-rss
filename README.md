@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-28 08:42:03，:rocket: 更新条数: +2018， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-28 09:13:44，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,13 @@
 </summary>
 
 
+- [2022-11-28-Tauri-热度那么高-因为国外一致性问题比较少吗?](https://www.v2ex.com/t/898562) ![](assets/new.png)  
+- [2022-11-28-期货量化交易实盘展示，到底能不能赚钱呢](https://www.v2ex.com/t/898561) ![](assets/new.png)  
+- [2022-11-28-做了个服务器资源监控程序](https://www.v2ex.com/t/898560) ![](assets/new.png)  
+- [2022-11-28-求助-ubuntu-22.04-用了-usb-转换器的网线，没有反应](https://www.v2ex.com/t/898559) ![](assets/new.png)  
+- [2022-11-28-iot-行业技术闲聊-收到一个-iot-行业的-offer，要会-webservice+mqtt](https://www.v2ex.com/t/898558) ![](assets/new.png)  
+- [2022-11-28-靠近漕河泾-12-号线虹梅路-二室朝南次卧出租,2400-元](https://www.v2ex.com/t/898556) ![](assets/new.png)  
+- [2022-11-28-请问一下，有哪位使用过呼吸机止鼾器吗？效果如何？](https://www.v2ex.com/t/898555) ![](assets/new.png)  
 - [2022-11-28-现在还有在研发新育苗或者特效药吗？](https://www.v2ex.com/t/898554) ![](assets/new.png)  
 - [2022-11-28-#招聘-#远程-#-Java-#C#/Dotnet-#Web-前端-#QA-#UI-#PM-#运营](https://www.v2ex.com/t/898553) ![](assets/new.png)  
 - [2022-11-28-iOS-没法常开热点吗?](https://www.v2ex.com/t/898552) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-11-28-昨天公司移动网络连不上海外-vps-的-ssh-端口，今天好了](https://www.v2ex.com/t/898541) ![](assets/new.png)  
 - [2022-11-28-上海/全职-web3-游戏项目招原画师/3D-设计/TA](https://www.v2ex.com/t/898540) ![](assets/new.png)  
 - [2022-11-28-ios-选择什么输入法](https://www.v2ex.com/t/898538) ![](assets/new.png)  
-- [2022-11-28-Dr.-Lemon-毕业找工作啦](https://www.v2ex.com/t/898535) ![](assets/new.png)  
-- [2022-11-28-远程/开源-Crossbell-is-Looking-for-a-React-Native-Developer](https://www.v2ex.com/t/898534) ![](assets/new.png)  
-- [2022-11-28-为啥那么多年过去了-Airplay-显示效果还是让人无法满意](https://www.v2ex.com/t/898533) ![](assets/new.png)  
-- [2022-11-28-急招北京/成都-字节跳动-基础架构-存储测试开发工程师](https://www.v2ex.com/t/898530) ![](assets/new.png)  
-- [2022-11-28-请问下字符串是怎么转正则的](https://www.v2ex.com/t/898529) ![](assets/new.png)  
-- [2022-11-28-想把常用软件都入正MacOS，有没有便宜渠道，有没有必要？](https://www.v2ex.com/t/898528) ![](assets/new.png)  
-- [2022-11-28-分享几个常用的剪贴板工具](https://www.v2ex.com/t/898527) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,8 +564,8 @@
 - [2022-11-28-Elasticsearch-8.X-DSL-如何优化更有助于提升检索性能？](https://toutiao.io/k/wrt8mnj) ![](assets/new.png)  
 - [2022-11-28-清华大学课题组联合美团研发无人机声波定位技术获ACM-SenSys顶会大奖](https://toutiao.io/k/29t6psy) ![](assets/new.png)  
 - [2022-11-28-《HelloGitHub》第-80-期](https://toutiao.io/k/hr64x46) ![](assets/new.png)  
-- [2022-11-28-推荐-万字长文细说-Code-Review-的正确姿势](https://toutiao.io/k/cxf9ver) ![](assets/new.png)  
 - [2022-11-28-推荐-一条-SQL-查询语句是如何执行的？](https://toutiao.io/k/8y71vds) ![](assets/new.png)  
+- [2022-11-28-推荐-SQL-常用脚本大全](https://toutiao.io/k/5nnfmun) ![](assets/new.png)  
 - [2022-11-28-推荐-DDD-之业务系统搭建的设计思考](https://toutiao.io/k/783naw9) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

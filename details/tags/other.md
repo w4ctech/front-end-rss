@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-28 08:42:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-28 09:13:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1916,6 +1916,13 @@
 - [2022-10-20-告别pointer-events:none使用HTML-inert属性真正禁用](https://www.zhangxinxu.com/wordpress/2022/10/html-inert-disabled-attribute/) 
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
+- [2022-11-28-Tauri-热度那么高-因为国外一致性问题比较少吗?](https://www.v2ex.com/t/898562) 
+- [2022-11-28-期货量化交易实盘展示，到底能不能赚钱呢](https://www.v2ex.com/t/898561) 
+- [2022-11-28-做了个服务器资源监控程序](https://www.v2ex.com/t/898560) 
+- [2022-11-28-求助-ubuntu-22.04-用了-usb-转换器的网线，没有反应](https://www.v2ex.com/t/898559) 
+- [2022-11-28-iot-行业技术闲聊-收到一个-iot-行业的-offer，要会-webservice+mqtt](https://www.v2ex.com/t/898558) 
+- [2022-11-28-靠近漕河泾-12-号线虹梅路-二室朝南次卧出租,2400-元](https://www.v2ex.com/t/898556) 
+- [2022-11-28-请问一下，有哪位使用过呼吸机止鼾器吗？效果如何？](https://www.v2ex.com/t/898555) 
 - [2022-11-28-现在还有在研发新育苗或者特效药吗？](https://www.v2ex.com/t/898554) 
 - [2022-11-28-iOS-没法常开热点吗?](https://www.v2ex.com/t/898552) 
 - [2022-11-28-如何通过技术手段过滤小粉红？](https://www.v2ex.com/t/898550) 
@@ -1938,11 +1945,6 @@
 - [2022-11-28-前端-saas-平台代码版本管理怎么做](https://www.v2ex.com/t/898516) 
 - [2022-11-28-开发累了就摸个鱼🐟，帮我修改一下中式英语](https://www.v2ex.com/t/898515) 
 - [2022-11-28-记一次被封控在公司又抗争到居家隔离的案例](https://www.v2ex.com/t/898514) 
-- [2022-11-28-ITX-装机配置求教](https://www.v2ex.com/t/898512) 
-- [2022-11-28-mysql-悲观锁-机制-请教](https://www.v2ex.com/t/898510) 
-- [2022-11-28-macbook-pro-14-2021-插电源盒盖外接显示器，显示除了鼠标能动，点击任何地方没反应，但打开盖又正常](https://www.v2ex.com/t/898507) 
-- [2022-11-28-北京/上海彩云科技-后端工程师-x2-/-SRE-x1](https://www.v2ex.com/t/898506) 
-- [2022-11-28-请教一个有关-YubiKey-和-WebAuthn-的问题](https://www.v2ex.com/t/898505) 
 - [2022-11-28-当我们谈论DDD时我们在谈论什么-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15415&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fstrategy-and-tactical-design-of-ddd%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-28-2022，「倾城之链」运营第-6-年感记-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=15413&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fnicelinks-site-in-2022%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-28-浅谈数据和人工智能项目的管理-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15412&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fproject-management-big-data-artificial-intelligence%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1968,5 +1970,5 @@
 - [2022-11-28-面向大规模队列，百万并发的多优先级消费系统设计](https://toutiao.io/k/yzkwrjm) 
 - [2022-11-28-清华大学课题组联合美团研发无人机声波定位技术获ACM-SenSys顶会大奖](https://toutiao.io/k/29t6psy) 
 - [2022-11-28-推荐-一条-SQL-查询语句是如何执行的？](https://toutiao.io/k/8y71vds) 
-- [2022-11-28-推荐-DDD-之业务系统搭建的设计思考](https://toutiao.io/k/783naw9) 
 - [2022-11-28-推荐-SQL-常用脚本大全](https://toutiao.io/k/5nnfmun) 
+- [2022-11-28-推荐-DDD-之业务系统搭建的设计思考](https://toutiao.io/k/783naw9) 

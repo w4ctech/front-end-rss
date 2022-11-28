@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-28 14:11:24，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-28 14:35:28，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-11-28-你们的-iCloud.com.cn-正常吗？](https://www.v2ex.com/t/898644) ![](assets/new.png)  
+- [2022-11-28-N1-盒子成功刷入-openwrt，但-passwall-无法使用](https://www.v2ex.com/t/898643) ![](assets/new.png)  
+- [2022-11-28-有没有一种-Docker-协议的-Saas/Faas-服务](https://www.v2ex.com/t/898641) ![](assets/new.png)  
+- [2022-11-28-AppleScript-如何模拟“选择文本”动作？](https://www.v2ex.com/t/898640) ![](assets/new.png)  
+- [2022-11-28-个人开发机服务器配置推荐](https://www.v2ex.com/t/898639) ![](assets/new.png)  
 - [2022-11-28-2022-年-11-月-28-日，厦门前埔附近，🌶️气味浓烈](https://www.v2ex.com/t/898638) ![](assets/new.png)  
 - [2022-11-28-求回音壁零部件购买途径](https://www.v2ex.com/t/898636) ![](assets/new.png)  
 - [2022-11-28-iPhone-快速按-5-下电源按钮临时禁用生物识别](https://www.v2ex.com/t/898634) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-11-28-有没有运营/产品同学来讨论下相亲交友项目](https://www.v2ex.com/t/898622) ![](assets/new.png)  
 - [2022-11-28-刻意让-iPhone-进入必须使用密码解锁，不认面容](https://www.v2ex.com/t/898621) ![](assets/new.png)  
 - [2022-11-28-我想告京东虚假宣传，价格欺诈，有了解法律的小伙伴嘛，](https://www.v2ex.com/t/898620) ![](assets/new.png)  
-- [2022-11-28-有没有大佬用-sonarr-和馒头](https://www.v2ex.com/t/898619) ![](assets/new.png)  
-- [2022-11-28-惊闻上海-cops-开始在地铁站查手机了，想问下-iPhone-如何隐藏部分-APP](https://www.v2ex.com/t/898618) ![](assets/new.png)  
-- [2022-11-28-macOS-Shortcuts-如何调用-Run-AppleScript-with-"input"？](https://www.v2ex.com/t/898617) ![](assets/new.png)  
-- [2022-11-28-ePUBee-站长站出来了-愿意进行退款](https://www.v2ex.com/t/898616) ![](assets/new.png)  
-- [2022-11-28-Auto-dark-mode](https://www.v2ex.com/t/898614) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,9 +563,9 @@
 - [2022-11-28-Elasticsearch-8.X-DSL-如何优化更有助于提升检索性能？](https://toutiao.io/k/wrt8mnj) ![](assets/new.png)  
 - [2022-11-28-清华大学课题组联合美团研发无人机声波定位技术获ACM-SenSys顶会大奖](https://toutiao.io/k/29t6psy) ![](assets/new.png)  
 - [2022-11-28-《HelloGitHub》第-80-期](https://toutiao.io/k/hr64x46) ![](assets/new.png)  
-- [2022-11-28-推荐-一条-SQL-查询语句是如何执行的？](https://toutiao.io/k/8y71vds) ![](assets/new.png)  
-- [2022-11-28-推荐-万字长文细说-Code-Review-的正确姿势](https://toutiao.io/k/cxf9ver) ![](assets/new.png)  
 - [2022-11-28-推荐-SQL-常用脚本大全](https://toutiao.io/k/5nnfmun) ![](assets/new.png)  
+- [2022-11-28-推荐-一条-SQL-查询语句是如何执行的？](https://toutiao.io/k/8y71vds) ![](assets/new.png)  
+- [2022-11-28-推荐-DDD-之业务系统搭建的设计思考](https://toutiao.io/k/783naw9) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

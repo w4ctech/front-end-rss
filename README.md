@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-28 18:42:11，:rocket: 更新条数: +2020， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-28 19:10:44，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-11-28-马斯克向-Apple-开炮了](https://www.v2ex.com/t/898677) ![](assets/new.png)  
+- [2022-11-28-突然发现我有腾讯云-cos-的免费额度](https://www.v2ex.com/t/898676) ![](assets/new.png)  
 - [2022-11-28-VMware-升级到-17-后无法启动](https://www.v2ex.com/t/898675) ![](assets/new.png)  
 - [2022-11-28-两年前的那个类-rss-网站“翻一会”咋样了？出-app-了，送福利，也有黑色星期五与双十二打折。](https://www.v2ex.com/t/898674) ![](assets/new.png)  
 - [2022-11-28-com.apple.quarantine-苹果的这个隔离属性是怎么来的？](https://www.v2ex.com/t/898673) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-11-28-求教一个-Java-问题,关于-configuration-processor-配置提示](https://www.v2ex.com/t/898659) ![](assets/new.png)  
 - [2022-11-28-鼓起勇气终于想说：真心不推荐使用-Redux](https://www.v2ex.com/t/898658) ![](assets/new.png)  
 - [2022-11-28-小技巧](https://www.v2ex.com/t/898657) ![](assets/new.png)  
-- [2022-11-28-美企招聘全职自动化测试工程师/前端工作师（在家工作）](https://www.v2ex.com/t/898656) ![](assets/new.png)  
-- [2022-11-28-请问各位大佬，小弟是-2019-款-MacbookPro，在用-word-时，间歇性卡顿，这怎么解决？](https://www.v2ex.com/t/898654) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,8 +563,8 @@
 - [2022-11-28-Elasticsearch-8.X-DSL-如何优化更有助于提升检索性能？](https://toutiao.io/k/wrt8mnj) ![](assets/new.png)  
 - [2022-11-28-清华大学课题组联合美团研发无人机声波定位技术获ACM-SenSys顶会大奖](https://toutiao.io/k/29t6psy) ![](assets/new.png)  
 - [2022-11-28-《HelloGitHub》第-80-期](https://toutiao.io/k/hr64x46) ![](assets/new.png)  
-- [2022-11-28-推荐-一条-SQL-查询语句是如何执行的？](https://toutiao.io/k/8y71vds) ![](assets/new.png)  
 - [2022-11-28-推荐-DDD-之业务系统搭建的设计思考](https://toutiao.io/k/783naw9) ![](assets/new.png)  
+- [2022-11-28-推荐-SQL-常用脚本大全](https://toutiao.io/k/5nnfmun) ![](assets/new.png)  
 - [2022-11-28-推荐-万字长文细说-Code-Review-的正确姿势](https://toutiao.io/k/cxf9ver) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

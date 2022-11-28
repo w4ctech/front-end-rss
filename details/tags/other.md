@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-28 18:42:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-28 19:10:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1916,6 +1916,8 @@
 - [2022-10-20-告别pointer-events:none使用HTML-inert属性真正禁用](https://www.zhangxinxu.com/wordpress/2022/10/html-inert-disabled-attribute/) 
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
+- [2022-11-28-马斯克向-Apple-开炮了](https://www.v2ex.com/t/898677) 
+- [2022-11-28-突然发现我有腾讯云-cos-的免费额度](https://www.v2ex.com/t/898676) 
 - [2022-11-28-VMware-升级到-17-后无法启动](https://www.v2ex.com/t/898675) 
 - [2022-11-28-两年前的那个类-rss-网站“翻一会”咋样了？出-app-了，送福利，也有黑色星期五与双十二打折。](https://www.v2ex.com/t/898674) 
 - [2022-11-28-com.apple.quarantine-苹果的这个隔离属性是怎么来的？](https://www.v2ex.com/t/898673) 
@@ -1948,7 +1950,6 @@
 - [2022-11-28-硬盘存储的数据发生静态错误的概率](https://www.v2ex.com/t/898631) 
 - [2022-11-28-谷歌云账号被风控](https://www.v2ex.com/t/898630) 
 - [2022-11-28-Macbook-的-HDR-屏幕闪烁-bug](https://www.v2ex.com/t/898628) 
-- [2022-11-28-你们绑定境外号码的-wechat-来电还有铃声吗？](https://www.v2ex.com/t/898627) 
 - [2022-11-28-当我们谈论DDD时我们在谈论什么-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15415&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fstrategy-and-tactical-design-of-ddd%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-28-2022，「倾城之链」运营第-6-年感记-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=15413&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fnicelinks-site-in-2022%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-28-浅谈数据和人工智能项目的管理-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15412&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fproject-management-big-data-artificial-intelligence%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1972,6 +1973,6 @@
 - [2022-11-28-面向大规模队列，百万并发的多优先级消费系统设计](https://toutiao.io/k/yzkwrjm) 
 - [2022-11-28-分布式存储之数据切片](https://toutiao.io/k/r58a12k) 
 - [2022-11-28-清华大学课题组联合美团研发无人机声波定位技术获ACM-SenSys顶会大奖](https://toutiao.io/k/29t6psy) 
-- [2022-11-28-推荐-一条-SQL-查询语句是如何执行的？](https://toutiao.io/k/8y71vds) 
 - [2022-11-28-推荐-DDD-之业务系统搭建的设计思考](https://toutiao.io/k/783naw9) 
 - [2022-11-28-推荐-SQL-常用脚本大全](https://toutiao.io/k/5nnfmun) 
+- [2022-11-28-推荐-一条-SQL-查询语句是如何执行的？](https://toutiao.io/k/8y71vds) 

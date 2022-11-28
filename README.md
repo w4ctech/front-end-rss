@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-28 09:13:44，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-28 09:36:43，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,16 @@
 </summary>
 
 
+- [2022-11-28-客观的来说，所谓的动态清零真的能玩下去么？](https://www.v2ex.com/t/898574) ![](assets/new.png)  
+- [2022-11-28-之前觉得智能合约是区块链最牛逼的地方，但是最近看到无数正常的发声都被夹，还是觉得去中心化和智能合约一起才行。](https://www.v2ex.com/t/898573) ![](assets/new.png)  
+- [2022-11-28-菜鸟驿站合作的快递真的是毒瘤](https://www.v2ex.com/t/898572) ![](assets/new.png)  
+- [2022-11-28-接前文，公司挺正规的，很顺利，比较满意](https://www.v2ex.com/t/898571) ![](assets/new.png)  
+- [2022-11-28-数学是上的凹图像可能和你想像的不太一样](https://www.v2ex.com/t/898570) ![](assets/new.png)  
+- [2022-11-28-请教下速腾车主几个问题](https://www.v2ex.com/t/898569) ![](assets/new.png)  
+- [2022-11-28-关于楼上噪音的讨论](https://www.v2ex.com/t/898568) ![](assets/new.png)  
+- [2022-11-28-避坑指南-Panda-VPN-七天内退款联系不到客服](https://www.v2ex.com/t/898567) ![](assets/new.png)  
+- [2022-11-28-个人转租，南山前海路鸿海大厦一房，房租-2500，近大新，南山地铁站](https://www.v2ex.com/t/898566) ![](assets/new.png)  
+- [2022-11-28-中山-14-只田园狸花猫找免费领养](https://www.v2ex.com/t/898565) ![](assets/new.png)  
 - [2022-11-28-Tauri-热度那么高-因为国外一致性问题比较少吗?](https://www.v2ex.com/t/898562) ![](assets/new.png)  
 - [2022-11-28-期货量化交易实盘展示，到底能不能赚钱呢](https://www.v2ex.com/t/898561) ![](assets/new.png)  
 - [2022-11-28-做了个服务器资源监控程序](https://www.v2ex.com/t/898560) ![](assets/new.png)  
@@ -501,16 +511,6 @@
 - [2022-11-28-现在还有在研发新育苗或者特效药吗？](https://www.v2ex.com/t/898554) ![](assets/new.png)  
 - [2022-11-28-#招聘-#远程-#-Java-#C#/Dotnet-#Web-前端-#QA-#UI-#PM-#运营](https://www.v2ex.com/t/898553) ![](assets/new.png)  
 - [2022-11-28-iOS-没法常开热点吗?](https://www.v2ex.com/t/898552) ![](assets/new.png)  
-- [2022-11-28-如何通过技术手段过滤小粉红？](https://www.v2ex.com/t/898550) ![](assets/new.png)  
-- [2022-11-28-深圳医保改革，像我这种医院常客要哭了](https://www.v2ex.com/t/898548) ![](assets/new.png)  
-- [2022-11-28-哪里有物美价廉的中药开方](https://www.v2ex.com/t/898547) ![](assets/new.png)  
-- [2022-11-28-非管理员怎么修改一个-telegram-group/channel-的显示名字，像微信的群备注一样](https://www.v2ex.com/t/898546) ![](assets/new.png)  
-- [2022-11-28-对于喜欢看纸质书的人而言（相对电子书-,买台打印机是否划算？](https://www.v2ex.com/t/898544) ![](assets/new.png)  
-- [2022-11-28-请教下各位-V-友，-TypeScript-如何扩展-React-的-ButtonHTMLAttributes-接口里面的-type-类型？](https://www.v2ex.com/t/898543) ![](assets/new.png)  
-- [2022-11-28-Linux-脚本请教，关于多条命令执行](https://www.v2ex.com/t/898542) ![](assets/new.png)  
-- [2022-11-28-昨天公司移动网络连不上海外-vps-的-ssh-端口，今天好了](https://www.v2ex.com/t/898541) ![](assets/new.png)  
-- [2022-11-28-上海/全职-web3-游戏项目招原画师/3D-设计/TA](https://www.v2ex.com/t/898540) ![](assets/new.png)  
-- [2022-11-28-ios-选择什么输入法](https://www.v2ex.com/t/898538) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -535,7 +535,6 @@
 - [2022-11-28-以综合指数观察和评价研发效能的趋势-link.zhihu.com](https://blogread.cn/news/go.php?idItem=15406&url=https%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttps%253A%2F%2Finsights.thoughtworks.cn%2Fobserving-evaluating-research-development-efficiency-trend%2F%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-11-28-DDD的哲学意味（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15405&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fddd-philosophy-entity-value-object%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-11-28-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-11-28-日志记录的最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15403&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-logging%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,9 +563,9 @@
 - [2022-11-28-Elasticsearch-8.X-DSL-如何优化更有助于提升检索性能？](https://toutiao.io/k/wrt8mnj) ![](assets/new.png)  
 - [2022-11-28-清华大学课题组联合美团研发无人机声波定位技术获ACM-SenSys顶会大奖](https://toutiao.io/k/29t6psy) ![](assets/new.png)  
 - [2022-11-28-《HelloGitHub》第-80-期](https://toutiao.io/k/hr64x46) ![](assets/new.png)  
+- [2022-11-28-推荐-万字长文细说-Code-Review-的正确姿势](https://toutiao.io/k/cxf9ver) ![](assets/new.png)  
 - [2022-11-28-推荐-一条-SQL-查询语句是如何执行的？](https://toutiao.io/k/8y71vds) ![](assets/new.png)  
 - [2022-11-28-推荐-SQL-常用脚本大全](https://toutiao.io/k/5nnfmun) ![](assets/new.png)  
-- [2022-11-28-推荐-DDD-之业务系统搭建的设计思考](https://toutiao.io/k/783naw9) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

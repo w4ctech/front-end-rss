@@ -9953,6 +9953,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "VMware 升级到 17 后无法启动",
+        "link": "https://www.v2ex.com/t/898675",
+        "date": "2022-11-28"
+      },
+      {
+        "title": "两年前的那个类 rss 网站“翻一会”咋样了？出 app 了，送福利，也有黑色星期五与双十二打折。",
+        "link": "https://www.v2ex.com/t/898674",
+        "date": "2022-11-28"
+      },
+      {
         "title": "com.apple.quarantine 苹果的这个隔离属性是怎么来的？",
         "link": "https://www.v2ex.com/t/898673",
         "date": "2022-11-28"
@@ -10146,16 +10156,6 @@
         "title": "你们绑定境外号码的 wechat 来电还有铃声吗？",
         "link": "https://www.v2ex.com/t/898627",
         "date": "2022-11-28"
-      },
-      {
-        "title": "你恐惧吗",
-        "link": "https://www.v2ex.com/t/898625",
-        "date": "2022-11-28"
-      },
-      {
-        "title": "pe 类的 aosp 如何不同密码进入不同用户",
-        "link": "https://www.v2ex.com/t/898624",
-        "date": "2022-11-28"
       }
     ]
   },
@@ -10322,8 +10322,13 @@
         "date": "2022-11-28"
       },
       {
-        "title": "[推荐] DDD 之业务系统搭建的设计思考",
-        "link": "https://toutiao.io/k/783naw9",
+        "title": "[推荐] 万字长文细说 Code Review 的正确姿势",
+        "link": "https://toutiao.io/k/cxf9ver",
+        "date": "2022-11-28"
+      },
+      {
+        "title": "[推荐] SQL 常用脚本大全",
+        "link": "https://toutiao.io/k/5nnfmun",
         "date": "2022-11-28"
       },
       {
@@ -10332,13 +10337,8 @@
         "date": "2022-11-28"
       },
       {
-        "title": "[推荐] 万字长文细说 Code Review 的正确姿势",
-        "link": "https://toutiao.io/k/cxf9ver",
-        "date": "2022-11-28"
-      },
-      {
-        "title": "[推荐] SQL 常用脚本大全",
-        "link": "https://toutiao.io/k/5nnfmun",
+        "title": "[推荐] DDD 之业务系统搭建的设计思考",
+        "link": "https://toutiao.io/k/783naw9",
         "date": "2022-11-28"
       }
     ]

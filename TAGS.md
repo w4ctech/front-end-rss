@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-11-28 02:27:28。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-28 03:11:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -179,6 +179,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】港府回应一63岁患者死亡事件-暂无法确定与疫苗相关](https://m.caixin.com/m/2021-03-03/101670052.html)
 - [【张鑫旭-鑫空间-鑫生活】JS之我用单img元素实现了图像resize拉伸效果](https://www.zhangxinxu.com/wordpress/2022/11/js-image-resize/)
 - [【张鑫旭-鑫空间-鑫生活】2022年新出了哪些form表单新特性？](https://www.zhangxinxu.com/wordpress/2022/10/2022-new-form-property/)
+- [【V2EX】你们公司/部门-有没有遇到这种场景，你们的一个工作台，需要集成很多其他事业部/部门/小组的能力，这个能力可能是接口，组件。这种你们有没有统一的解决方案](https://www.v2ex.com/t/898427)
 - [......【查看更多】......](./details/tags/javascript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -214,6 +215,7 @@
 
 
 
+- [【V2EX】北京-AI-驱动型生物医药-初创公司；急招-前端可视化工程师，-1-个-HC，-base28k-内好谈；-webgl、opengl](https://www.v2ex.com/t/898421)
 - [......【查看更多】......](./details/tags/canvas-image.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -233,8 +235,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】广州17岁男生在定点医院参加高考-特殊考场视频监考](https://m.caixin.com/m/2021-06-05/101723418.html)
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
 - [【V2EX】目前哪个照片视频保管-APP-比较安全?](https://www.v2ex.com/t/898406)
-- [【V2EX】怎样让-macOS-的音视频编辑专业软件不独占音频输出](https://www.v2ex.com/t/898385)
-- [【V2EX】iPad-Safari-播放油管-HDR-视频存在问题](https://www.v2ex.com/t/898381)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -253,6 +253,7 @@
 
 - [【技术头条】前端性能优化心法-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15416&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-performance-tuning%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【技术头条】如何基于-Prerender-为-SPA-做-SEO-优化-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=15414&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fhow-to-optimize-seo-for-spa-based-on-prerender%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
+- [【开发者头条】Elasticsearch-8.X-DSL-如何优化更有助于提升检索性能？](https://toutiao.io/k/wrt8mnj)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -330,6 +331,7 @@
 
 
 
+- [【V2EX】Smartgit-终生版国区-869，到手-1023-值得入吗？](https://www.v2ex.com/t/898423)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

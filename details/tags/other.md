@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-28 17:11:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-28 17:37:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1916,6 +1916,9 @@
 - [2022-10-20-告别pointer-events:none使用HTML-inert属性真正禁用](https://www.zhangxinxu.com/wordpress/2022/10/html-inert-disabled-attribute/) 
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/) 
+- [2022-11-28-com.apple.quarantine-苹果的这个隔离属性是怎么来的？](https://www.v2ex.com/t/898673) 
+- [2022-11-28-有没有语音学习的开源项目呢？](https://www.v2ex.com/t/898672) 
+- [2022-11-28-分享一个真正有效的-iPhone-应对检查方案](https://www.v2ex.com/t/898671) 
 - [2022-11-28-网页进入开发者模式后突然打不开](https://www.v2ex.com/t/898670) 
 - [2022-11-28-为什么有些人认为防疫只有躺平和封控两种方式](https://www.v2ex.com/t/898668) 
 - [2022-11-28-请教深圳有可以免费停车的公园吗？](https://www.v2ex.com/t/898667) 
@@ -1947,8 +1950,6 @@
 - [2022-11-28-你们绑定境外号码的-wechat-来电还有铃声吗？](https://www.v2ex.com/t/898627) 
 - [2022-11-28-你恐惧吗](https://www.v2ex.com/t/898625) 
 - [2022-11-28-pe-类的-aosp-如何不同密码进入不同用户](https://www.v2ex.com/t/898624) 
-- [2022-11-28-有没有运营/产品同学来讨论下相亲交友项目](https://www.v2ex.com/t/898622) 
-- [2022-11-28-刻意让-iPhone-进入必须使用密码解锁，不认面容](https://www.v2ex.com/t/898621) 
 - [2022-11-28-当我们谈论DDD时我们在谈论什么-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15415&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fstrategy-and-tactical-design-of-ddd%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-28-2022，「倾城之链」运营第-6-年感记-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=15413&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fnicelinks-site-in-2022%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-11-28-浅谈数据和人工智能项目的管理-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15412&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fproject-management-big-data-artificial-intelligence%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

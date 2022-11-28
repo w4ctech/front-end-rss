@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-28 09:36:43。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-11-28 10:13:12。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -71,6 +71,13 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-11-20-JS之我用单img元素实现了图像resize拉伸效果](https://www.zhangxinxu.com/wordpress/2022/11/js-image-resize/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
+- [【V2EX】2022-11-28-艹，继续居办的第二周，这是哪里的具体条纹或红头文件龟腚？](https://www.v2ex.com/t/898581) 
+- [【V2EX】2022-11-28-下班开晨会-大家都是怎么看](https://www.v2ex.com/t/898580) 
+- [【V2EX】2022-11-28-求个家园和学校💊](https://www.v2ex.com/t/898579) 
+- [【V2EX】2022-11-28-使用-neovim-作为-PDE个性化开发环境](https://www.v2ex.com/t/898578) 
+- [【V2EX】2022-11-28-有本地小说库的推荐吗](https://www.v2ex.com/t/898577) 
+- [【V2EX】2022-11-28-PT-需要用单独硬盘跑吗](https://www.v2ex.com/t/898576) 
+- [【V2EX】2022-11-28-请问有那些对摄影师较为友好的卖相片平台？](https://www.v2ex.com/t/898575) 
 - [【V2EX】2022-11-28-客观的来说，所谓的动态清零真的能玩下去么？](https://www.v2ex.com/t/898574) 
 - [【V2EX】2022-11-28-之前觉得智能合约是区块链最牛逼的地方，但是最近看到无数正常的发声都被夹，还是觉得去中心化和智能合约一起才行。](https://www.v2ex.com/t/898573) 
 - [【V2EX】2022-11-28-菜鸟驿站合作的快递真的是毒瘤](https://www.v2ex.com/t/898572) 
@@ -103,13 +110,6 @@
 - [【V2EX】2022-11-28-ios-选择什么输入法](https://www.v2ex.com/t/898538) 
 - [【V2EX】2022-11-28-Dr.-Lemon-毕业找工作啦](https://www.v2ex.com/t/898535) 
 - [【V2EX】2022-11-28-远程/开源-Crossbell-is-Looking-for-a-React-Native-Developer](https://www.v2ex.com/t/898534) 
-- [【V2EX】2022-11-28-为啥那么多年过去了-Airplay-显示效果还是让人无法满意](https://www.v2ex.com/t/898533) 
-- [【V2EX】2022-11-28-急招北京/成都-字节跳动-基础架构-存储测试开发工程师](https://www.v2ex.com/t/898530) 
-- [【V2EX】2022-11-28-请问下字符串是怎么转正则的](https://www.v2ex.com/t/898529) 
-- [【V2EX】2022-11-28-想把常用软件都入正MacOS，有没有便宜渠道，有没有必要？](https://www.v2ex.com/t/898528) 
-- [【V2EX】2022-11-28-分享几个常用的剪贴板工具](https://www.v2ex.com/t/898527) 
-- [【V2EX】2022-11-28-昨天刚入手的-Apple-studio-display-电流声问题](https://www.v2ex.com/t/898526) 
-- [【V2EX】2022-11-28-麻烦推荐海外运营游戏的-vps](https://www.v2ex.com/t/898525) 
 - [【技术头条】2022-11-28-前端性能优化心法-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15416&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-performance-tuning%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-28-当我们谈论DDD时我们在谈论什么-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15415&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fstrategy-and-tactical-design-of-ddd%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-11-28-如何基于-Prerender-为-SPA-做-SEO-优化-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=15414&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fhow-to-optimize-seo-for-spa-based-on-prerender%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -135,15 +135,15 @@
 - [【开发者头条】2022-11-28-10-分钟开发-Kubernetes-Operator](https://toutiao.io/k/4q6cto3) 
 - [【开发者头条】2022-11-28-快收藏！最全Go语言实现设计模式（上）](https://toutiao.io/k/67e6gyg) 
 - [【开发者头条】2022-11-28-快手大数据开发平台建设实践与演进之路](https://toutiao.io/k/x05pf0i) 
-- [【开发者头条】2022-11-28-分布式存储之数据切片](https://toutiao.io/k/r58a12k) 
 - [【开发者头条】2022-11-28-面向大规模队列，百万并发的多优先级消费系统设计](https://toutiao.io/k/yzkwrjm) 
+- [【开发者头条】2022-11-28-分布式存储之数据切片](https://toutiao.io/k/r58a12k) 
 - [【开发者头条】2022-11-28-Elasticsearch-8.X-DSL-如何优化更有助于提升检索性能？](https://toutiao.io/k/wrt8mnj) 
 - [【开发者头条】2022-11-28-清华大学课题组联合美团研发无人机声波定位技术获ACM-SenSys顶会大奖](https://toutiao.io/k/29t6psy) 
 - [【开发者头条】2022-11-28-《HelloGitHub》第-80-期](https://toutiao.io/k/hr64x46) 
-- [【开发者头条】2022-11-28-推荐-万字长文细说-Code-Review-的正确姿势](https://toutiao.io/k/cxf9ver) 
 - [【开发者头条】2022-11-28-推荐-一条-SQL-查询语句是如何执行的？](https://toutiao.io/k/8y71vds) 
-- [【开发者头条】2022-11-28-推荐-SQL-常用脚本大全](https://toutiao.io/k/5nnfmun) 
 - [【开发者头条】2022-11-28-推荐-DDD-之业务系统搭建的设计思考](https://toutiao.io/k/783naw9) 
+- [【开发者头条】2022-11-28-推荐-万字长文细说-Code-Review-的正确姿势](https://toutiao.io/k/cxf9ver) 
+- [【开发者头条】2022-11-28-推荐-SQL-常用脚本大全](https://toutiao.io/k/5nnfmun) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

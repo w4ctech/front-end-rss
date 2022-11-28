@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-28 19:10:44，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-28 19:35:31，:rocket: 更新条数: +2020， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -500,7 +500,6 @@
 - [2022-11-28-分享一个真正有效的-iPhone-应对检查方案](https://www.v2ex.com/t/898671) ![](assets/new.png)  
 - [2022-11-28-网页进入开发者模式后突然打不开](https://www.v2ex.com/t/898670) ![](assets/new.png)  
 - [2022-11-28-求-switch-oled-游戏推荐](https://www.v2ex.com/t/898669) ![](assets/new.png)  
-- [2022-11-28-为什么有些人认为防疫只有躺平和封控两种方式](https://www.v2ex.com/t/898668) ![](assets/new.png)  
 - [2022-11-28-请教深圳有可以免费停车的公园吗？](https://www.v2ex.com/t/898667) ![](assets/new.png)  
 - [2022-11-28-关于新版本虚拟机-vm13-和-pd18-对比](https://www.v2ex.com/t/898666) ![](assets/new.png)  
 - [2022-11-28-能否对防火墙的-DNS-抢答服务器发起-DDOS-攻击？](https://www.v2ex.com/t/898665) ![](assets/new.png)  
@@ -511,6 +510,7 @@
 - [2022-11-28-求教一个-Java-问题,关于-configuration-processor-配置提示](https://www.v2ex.com/t/898659) ![](assets/new.png)  
 - [2022-11-28-鼓起勇气终于想说：真心不推荐使用-Redux](https://www.v2ex.com/t/898658) ![](assets/new.png)  
 - [2022-11-28-小技巧](https://www.v2ex.com/t/898657) ![](assets/new.png)  
+- [2022-11-28-美企招聘全职自动化测试工程师/前端工作师（在家工作）](https://www.v2ex.com/t/898656) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

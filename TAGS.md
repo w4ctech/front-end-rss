@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-11-28 08:16:07。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-28 08:42:03。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -298,7 +298,6 @@
 
 
 
-- [【V2EX】google-又又又出了一个语言：-Rune,-A-faster,-safer,-and-more-productive-systems-programming-language](https://www.v2ex.com/t/898502)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -349,7 +348,7 @@
 
 
 
-- [【V2EX】招聘-远程办公-区块链老牌大厂-NFT&DeFi-产品经理/前端/安卓/区块链/后端开发-15-薪](https://www.v2ex.com/t/898500)
+- [【V2EX】#招聘-#远程-#-Java-#C#/Dotnet-#Web-前端-#QA-#UI-#PM-#运营](https://www.v2ex.com/t/898553)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

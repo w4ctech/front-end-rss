@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-28 08:16:07，:rocket: 更新条数: +2018， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-28 08:42:03，:rocket: 更新条数: +2018， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,13 @@
 </summary>
 
 
+- [2022-11-28-现在还有在研发新育苗或者特效药吗？](https://www.v2ex.com/t/898554) ![](assets/new.png)  
+- [2022-11-28-#招聘-#远程-#-Java-#C#/Dotnet-#Web-前端-#QA-#UI-#PM-#运营](https://www.v2ex.com/t/898553) ![](assets/new.png)  
+- [2022-11-28-iOS-没法常开热点吗?](https://www.v2ex.com/t/898552) ![](assets/new.png)  
+- [2022-11-28-如何通过技术手段过滤小粉红？](https://www.v2ex.com/t/898550) ![](assets/new.png)  
+- [2022-11-28-深圳医保改革，像我这种医院常客要哭了](https://www.v2ex.com/t/898548) ![](assets/new.png)  
+- [2022-11-28-哪里有物美价廉的中药开方](https://www.v2ex.com/t/898547) ![](assets/new.png)  
+- [2022-11-28-非管理员怎么修改一个-telegram-group/channel-的显示名字，像微信的群备注一样](https://www.v2ex.com/t/898546) ![](assets/new.png)  
 - [2022-11-28-对于喜欢看纸质书的人而言（相对电子书-,买台打印机是否划算？](https://www.v2ex.com/t/898544) ![](assets/new.png)  
 - [2022-11-28-请教下各位-V-友，-TypeScript-如何扩展-React-的-ButtonHTMLAttributes-接口里面的-type-类型？](https://www.v2ex.com/t/898543) ![](assets/new.png)  
 - [2022-11-28-Linux-脚本请教，关于多条命令执行](https://www.v2ex.com/t/898542) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-11-28-请问下字符串是怎么转正则的](https://www.v2ex.com/t/898529) ![](assets/new.png)  
 - [2022-11-28-想把常用软件都入正MacOS，有没有便宜渠道，有没有必要？](https://www.v2ex.com/t/898528) ![](assets/new.png)  
 - [2022-11-28-分享几个常用的剪贴板工具](https://www.v2ex.com/t/898527) ![](assets/new.png)  
-- [2022-11-28-昨天刚入手的-Apple-studio-display-电流声问题](https://www.v2ex.com/t/898526) ![](assets/new.png)  
-- [2022-11-28-麻烦推荐海外运营游戏的-vps](https://www.v2ex.com/t/898525) ![](assets/new.png)  
-- [2022-11-28-webstorm-中怎么配置可以出现-element-ui-的提示](https://www.v2ex.com/t/898523) ![](assets/new.png)  
-- [2022-11-28-仅闲聊-不考虑服务器和基础设施硬件的成本，在国内开一家正规的-IDC-的成本是多少](https://www.v2ex.com/t/898522) ![](assets/new.png)  
-- [2022-11-28-怎么成为前端大佬？](https://www.v2ex.com/t/898521) ![](assets/new.png)  
-- [2022-11-28-现在有什么便宜的流量卡套餐吗？](https://www.v2ex.com/t/898519) ![](assets/new.png)  
-- [2022-11-28-求助-1-核-1G-远程桌面-只需要显示浏览器](https://www.v2ex.com/t/898518) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -566,7 +566,7 @@
 - [2022-11-28-《HelloGitHub》第-80-期](https://toutiao.io/k/hr64x46) ![](assets/new.png)  
 - [2022-11-28-推荐-万字长文细说-Code-Review-的正确姿势](https://toutiao.io/k/cxf9ver) ![](assets/new.png)  
 - [2022-11-28-推荐-一条-SQL-查询语句是如何执行的？](https://toutiao.io/k/8y71vds) ![](assets/new.png)  
-- [2022-11-28-推荐-SQL-常用脚本大全](https://toutiao.io/k/5nnfmun) ![](assets/new.png)  
+- [2022-11-28-推荐-DDD-之业务系统搭建的设计思考](https://toutiao.io/k/783naw9) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-28 18:15:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-28 18:42:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1942,7 +1942,6 @@
 - [2022-11-28-N1-盒子成功刷入-openwrt，但-passwall-无法使用](https://www.v2ex.com/t/898643) 
 - [2022-11-28-AppleScript-如何模拟“选择文本”动作？](https://www.v2ex.com/t/898640) 
 - [2022-11-28-个人开发机服务器配置推荐](https://www.v2ex.com/t/898639) 
-- [2022-11-28-2022-年-11-月-28-日，厦门前埔附近，🌶️气味浓烈](https://www.v2ex.com/t/898638) 
 - [2022-11-28-求回音壁零部件购买途径](https://www.v2ex.com/t/898636) 
 - [2022-11-28-iPhone-快速按-5-下电源按钮临时禁用生物识别](https://www.v2ex.com/t/898634) 
 - [2022-11-28-收到诈骗短信](https://www.v2ex.com/t/898633) 
@@ -1973,6 +1972,6 @@
 - [2022-11-28-面向大规模队列，百万并发的多优先级消费系统设计](https://toutiao.io/k/yzkwrjm) 
 - [2022-11-28-分布式存储之数据切片](https://toutiao.io/k/r58a12k) 
 - [2022-11-28-清华大学课题组联合美团研发无人机声波定位技术获ACM-SenSys顶会大奖](https://toutiao.io/k/29t6psy) 
-- [2022-11-28-推荐-SQL-常用脚本大全](https://toutiao.io/k/5nnfmun) 
 - [2022-11-28-推荐-一条-SQL-查询语句是如何执行的？](https://toutiao.io/k/8y71vds) 
 - [2022-11-28-推荐-DDD-之业务系统搭建的设计思考](https://toutiao.io/k/783naw9) 
+- [2022-11-28-推荐-SQL-常用脚本大全](https://toutiao.io/k/5nnfmun) 

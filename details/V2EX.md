@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2022-11-28 10:40:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-11-28 11:10:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-11-28-有没有大佬知道为什么微星的主板-wifi-无法使用-5g-信号](https://www.v2ex.com/t/898596) 
+- [2022-11-28-求-Mac-免费甘特图软件介绍](https://www.v2ex.com/t/898595) 
+- [2022-11-28-百度网盘会员便宜的方案](https://www.v2ex.com/t/898594) 
+- [2022-11-28-预装的-win11-中文版，升个级要￥-808](https://www.v2ex.com/t/898593) 
 - [2022-11-28-😶「防回退空白字体」a-prevent-fallback-blank-font](https://www.v2ex.com/t/898591) 
 - [2022-11-28-WeChat：不是不报，时候未到](https://www.v2ex.com/t/898590) 
 - [2022-11-28-耳机有时左右音量不一样。。](https://www.v2ex.com/t/898589) 
@@ -42,7 +46,3 @@
 - [2022-11-28-如何通过技术手段过滤小粉红？](https://www.v2ex.com/t/898550) 
 - [2022-11-28-深圳医保改革，像我这种医院常客要哭了](https://www.v2ex.com/t/898548) 
 - [2022-11-28-哪里有物美价廉的中药开方](https://www.v2ex.com/t/898547) 
-- [2022-11-28-非管理员怎么修改一个-telegram-group/channel-的显示名字，像微信的群备注一样](https://www.v2ex.com/t/898546) 
-- [2022-11-28-对于喜欢看纸质书的人而言（相对电子书-,买台打印机是否划算？](https://www.v2ex.com/t/898544) 
-- [2022-11-28-请教下各位-V-友，-TypeScript-如何扩展-React-的-ButtonHTMLAttributes-接口里面的-type-类型？](https://www.v2ex.com/t/898543) 
-- [2022-11-28-Linux-脚本请教，关于多条命令执行](https://www.v2ex.com/t/898542) 

@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-29 00:59:02，:rocket: 更新条数: +2016， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-11-29 02:26:49，:rocket: 更新条数: +10， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
@@ -51,9 +51,9 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
-- [技术头条](#技术头条)![](assets/dot.png)   
-- [开发者头条](#开发者头条)![](assets/dot.png)   
+- [V2EX](#v2ex)  
+- [技术头条](#技术头条)  
+- [开发者头条](#开发者头条)  
 - [安全热点](#安全热点)  
 - [物联网智库](#物联网智库)  
 
@@ -65,26 +65,6 @@
 </summary>
 
 
-- [2022-03-11-新冠肺炎防疫全纪录（实时更新中）](https://mappv5.caixin.com/m_topic_detail/1696.html) ![](assets/new.png)  
-- [2022-03-10-吉林一校园现聚集性疫情-党委书记被免](https://m.caixin.com/m/2022-03-10/101853899.html) ![](assets/new.png)  
-- [2022-03-10-广州新增1例新冠确诊病例-疾控中心专家称防控形势严峻](https://m.caixin.com/m/2022-03-10/101853835.html) ![](assets/new.png)  
-- [2022-03-10-【境内疫情观察】全国新增402例本土病例、435例本土无症状感染者（3月9日）](https://database.caixin.com/m/2022-03-10/101853636.html) ![](assets/new.png)  
-- [2022-03-10-香港调整抗疫策略-辉瑞口服药确定在华合作伙伴｜大流行手记（3月9日）](https://m.caixin.com/m/2022-03-10/101853553.html) ![](assets/new.png)  
-- [2022-03-10-新加坡官员：本地奥密克戎疫情已过峰值开始消退](https://m.caixin.com/m/2022-03-10/101853827.html) ![](assets/new.png)  
-- [2022-03-09-一小学被列为中风险地区-上海加强线上教学资源](https://m.caixin.com/m/2022-03-09/101853329.html) ![](assets/new.png)  
-- [2022-03-09-香港调整抗疫策略-全民检测或将推迟](https://m.caixin.com/m/2022-03-09/101853319.html) ![](assets/new.png)  
-- [2022-03-09-字节跳动办公区现确诊病例-公司深夜组织员工回家](https://companies.caixin.com/m/2022-03-09/101852947.html) ![](assets/new.png)  
-- [2022-03-09-【境内疫情观察】全国新增322例本土无症状感染者（3月8日）](https://database.caixin.com/m/2022-03-09/101853141.html) ![](assets/new.png)  
-- [2022-03-09-研究称COVID-19或能导致脑异常-马来西亚4月将重新开放边境｜大流行手记（3月8日）](https://m.caixin.com/m/2022-03-09/101853036.html) ![](assets/new.png)  
-- [2022-03-08-北京新增7例本土确诊-一人曾赴上海团建](https://m.caixin.com/m/2022-03-08/101852668.html) ![](assets/new.png)  
-- [2022-03-08-香港日增病例呈回落趋势-港大预测5月降至两位数](https://m.caixin.com/m/2022-03-08/101852848.html) ![](assets/new.png)  
-- [2022-03-08-北京新增新冠病例涉字节跳动办公区-员工就地隔离过夜](https://m.caixin.com/m/2022-03-08/101852591.html) ![](assets/new.png)  
-- [2022-03-08-深港边境临时搭桥-内地援建香港河套应急医院](https://m.caixin.com/m/2022-03-08/101852776.html) ![](assets/new.png)  
-- [2022-03-08-【境内疫情观察】全国现有确诊病例超4000例（3月7日）](https://database.caixin.com/m/2022-03-08/101852579.html) ![](assets/new.png)  
-- [2022-03-08-研究发现新冠重症患者特殊基因-全球死亡病例超600万｜大流行手记（3月7日）](https://m.caixin.com/m/2022-03-08/101852426.html) ![](assets/new.png)  
-- [2022-03-07-广东惠州基层防疫扑杀宠物狗-街道致歉涉事者停职](https://m.caixin.com/m/2022-03-07/101851565.html) ![](assets/new.png)  
-- [2022-03-07-【境内疫情观察】全国新增214例本土病例（3月6日）](https://database.caixin.com/m/2022-03-07/101851858.html) ![](assets/new.png)  
-- [2022-03-07-苏格兰为弱势群体打第四针-印度尼西亚再放宽旅行限制｜大流行手记（3月6日）](https://m.caixin.com/m/2022-03-07/101851699.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -491,26 +471,6 @@
 </summary>
 
 
-- [2022-11-29-四年前端打算转-go-了-大佬们有啥建议吗？](https://www.v2ex.com/t/898689) ![](assets/new.png)  
-- [2022-11-29-关于-macOS-台前调度，从桌面复制文件的方法](https://www.v2ex.com/t/898688) ![](assets/new.png)  
-- [2022-11-29-Apple-TV-不显示用户头像，咋整？](https://www.v2ex.com/t/898687) ![](assets/new.png)  
-- [2022-11-28-上海-不加班-外企-招-中级前端3-年经验起，高级安卓（5-年起，要求懂-Java-），中级-devOps（3-年起）](https://www.v2ex.com/t/898685) ![](assets/new.png)  
-- [2022-11-28-上海开始查手机了，大家注意安全](https://www.v2ex.com/t/898684) ![](assets/new.png)  
-- [2022-11-28-有没有原汁原味的英文-podcast-可以推荐？](https://www.v2ex.com/t/898683) ![](assets/new.png)  
-- [2022-11-28-10-年过后还是忘不了前女友怎么办？](https://www.v2ex.com/t/898682) ![](assets/new.png)  
-- [2022-11-28-话说在国外遇到频繁的**针对国人的**诈骗电话有没有什么比较好的办法，比如说什么拦截软件比较好用？](https://www.v2ex.com/t/898681) ![](assets/new.png)  
-- [2022-11-28-好奇，原神的网页活动的页面是用什么技术制作的？有没有可能用类似的技术制作出类似风格的网页小游戏呢？](https://www.v2ex.com/t/898680) ![](assets/new.png)  
-- [2022-11-28-大部分人的诉求甚至不是解除封控](https://www.v2ex.com/t/898679) ![](assets/new.png)  
-- [2022-11-28-請問中文書籍和有聲書-PT](https://www.v2ex.com/t/898678) ![](assets/new.png)  
-- [2022-11-28-马斯克向-Apple-开炮了](https://www.v2ex.com/t/898677) ![](assets/new.png)  
-- [2022-11-28-突然发现我有腾讯云-cos-的免费额度](https://www.v2ex.com/t/898676) ![](assets/new.png)  
-- [2022-11-28-VMware-升级到-17-后无法启动](https://www.v2ex.com/t/898675) ![](assets/new.png)  
-- [2022-11-28-两年前的那个类-rss-网站“翻一会”咋样了？出-app-了，送福利，也有黑色星期五与双十二打折。](https://www.v2ex.com/t/898674) ![](assets/new.png)  
-- [2022-11-28-com.apple.quarantine-苹果的这个隔离属性是怎么来的？](https://www.v2ex.com/t/898673) ![](assets/new.png)  
-- [2022-11-28-有没有语音学习的开源项目呢？](https://www.v2ex.com/t/898672) ![](assets/new.png)  
-- [2022-11-28-分享一个真正有效的-iPhone-应对检查方案](https://www.v2ex.com/t/898671) ![](assets/new.png)  
-- [2022-11-28-网页进入开发者模式后突然打不开](https://www.v2ex.com/t/898670) ![](assets/new.png)  
-- [2022-11-28-求-switch-oled-游戏推荐](https://www.v2ex.com/t/898669) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -522,19 +482,6 @@
 </summary>
 
 
-- [2022-11-29-前端性能优化心法-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15416&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-performance-tuning%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-11-29-当我们谈论DDD时我们在谈论什么-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15415&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fstrategy-and-tactical-design-of-ddd%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-11-29-如何基于-Prerender-为-SPA-做-SEO-优化-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=15414&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fhow-to-optimize-seo-for-spa-based-on-prerender%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-11-29-2022，「倾城之链」运营第-6-年感记-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=15413&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fnicelinks-site-in-2022%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-11-29-浅谈数据和人工智能项目的管理-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15412&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fproject-management-big-data-artificial-intelligence%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-11-29-使用CDC模式改造遗留系统-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15411&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fchange-data-capture-legacy-system%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-11-29-敏捷团队的质量保障赋能-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15410&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fquality-assurance-enablement-in-agile-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-11-29-团队的Code-Review实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15409&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-code-review%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-11-29-Tech-Lead如何组建你的全明星团队-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15408&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-build-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-11-29-前端测试体系和最佳实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15407&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-11-29-以综合指数观察和评价研发效能的趋势-link.zhihu.com](https://blogread.cn/news/go.php?idItem=15406&url=https%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttps%253A%2F%2Finsights.thoughtworks.cn%2Fobserving-evaluating-research-development-efficiency-trend%2F%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-11-29-DDD的哲学意味（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15405&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fddd-philosophy-entity-value-object%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-11-29-重新思考-React-项目架构-teobler.com](https://blogread.cn/news/go.php?idItem=15404&url=https%3A%2F%2Fteobler.com%2Fposts%2F20220920-re-thinking-architecture-of-react-project%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -546,20 +493,6 @@
 </summary>
 
 
-- [2022-11-29-单体分层应用架构剖析](https://toutiao.io/k/rd927pj) ![](assets/new.png)  
-- [2022-11-29-深入浅出学习透析-Nginx-服务器的基本原理和配置指南（Keepalive-性能优化实战篇）](https://toutiao.io/k/fzspi5p) ![](assets/new.png)  
-- [2022-11-29-MySQL-数据库索引技术原理初探](https://toutiao.io/k/vwg43on) ![](assets/new.png)  
-- [2022-11-29-大规模异构图召回在美团到店推荐广告的应用](https://toutiao.io/k/p05a6cy) ![](assets/new.png)  
-- [2022-11-29-这几种神级性能优化手段，你用过几个？](https://toutiao.io/k/qgdj6f4) ![](assets/new.png)  
-- [2022-11-29-Go-凭什么搞特殊？不用-yyyy-mm-dd，非得要-2006-01-02-15:04:05](https://toutiao.io/k/nudjgh2) ![](assets/new.png)  
-- [2022-11-29-蚂蚁反入侵平台的架构与实践](https://toutiao.io/k/u3m7pjh) ![](assets/new.png)  
-- [2022-11-29-Web-开发未来会完全替代客户端开发吗？](https://toutiao.io/k/b9hx76i) ![](assets/new.png)  
-- [2022-11-29-C++-代码简化之道](https://toutiao.io/k/ahd1y4p) ![](assets/new.png)  
-- [2022-11-29-前端单元测试，更进一步](https://toutiao.io/k/aap62is) ![](assets/new.png)  
-- [2022-11-29-推荐-万字长文细说-Code-Review-的正确姿势](https://toutiao.io/k/cxf9ver) ![](assets/new.png)  
-- [2022-11-29-推荐-DDD-之业务系统搭建的设计思考](https://toutiao.io/k/783naw9) ![](assets/new.png)  
-- [2022-11-29-推荐-一条-SQL-查询语句是如何执行的？](https://toutiao.io/k/8y71vds) ![](assets/new.png)  
-- [2022-11-29-推荐-SQL-常用脚本大全](https://toutiao.io/k/5nnfmun) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

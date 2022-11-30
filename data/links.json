@@ -131,6 +131,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "从今天开始，请叫我Node文本节点处理大师",
+        "link": "https://www.zhangxinxu.com/wordpress/2022/11/js-text-node-master/",
+        "date": "2022-11-30"
+      },
+      {
         "title": "JS之我用单img元素实现了图像resize拉伸效果",
         "link": "https://www.zhangxinxu.com/wordpress/2022/11/js-image-resize/",
         "date": "2022-11-20"
@@ -174,11 +179,6 @@
         "title": "划词评论与Range开发若干经验分享",
         "link": "https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/",
         "date": "2022-09-21"
-      },
-      {
-        "title": "巧用:is()或:where()伪类让scoped的style依然全局匹配",
-        "link": "https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/",
-        "date": "2022-09-20"
       }
     ]
   },

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-12-01 04:15:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-12-01 04:43:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1915,6 +1915,9 @@
 - [2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
 - [2022-10-20-告别pointer-events:none使用HTML-inert属性真正禁用](https://www.zhangxinxu.com/wordpress/2022/10/html-inert-disabled-attribute/) 
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
+- [2022-12-01-今天各大-app-首页都变成了灰色，这个是怎么在没有版本升级的基础上实现变成灰色](https://www.v2ex.com/t/899298) 
+- [2022-12-01-有没有啥英语学习的资源推荐](https://www.v2ex.com/t/899297) 
+- [2022-12-01-如何管理-dmg-方式安装的软件？-#洁癖](https://www.v2ex.com/t/899296) 
 - [2022-12-01-有多少人还在用-Python2](https://www.v2ex.com/t/899295) 
 - [2022-12-01-刚入手了个-switch，求教大佬们个问题](https://www.v2ex.com/t/899294) 
 - [2022-12-01-又来水贴了。推荐下你们在推上-follow-了哪些好玩的？](https://www.v2ex.com/t/899293) 
@@ -1945,9 +1948,6 @@
 - [2022-12-01-手机可以用移动网络，但打不出电话，收不到电话，也收不到短信](https://www.v2ex.com/t/899254) 
 - [2022-12-01-mysql-里面会自动为没有主键的表创建聚簇索引吗？](https://www.v2ex.com/t/899253) 
 - [2022-12-01-excel-在-mac-上的使用体验是不是被人为劣化了。。](https://www.v2ex.com/t/899251) 
-- [2022-12-01-AWS-有没有类似腾讯云的-CloudBase](https://www.v2ex.com/t/899249) 
-- [2022-12-01-怎么随时分辨出哪个是预生产环境，哪个是生产环境呢？](https://www.v2ex.com/t/899247) 
-- [2022-12-01-请问都是-Android-12-的情况下，某个-APP-白屏打不开的可能原因是？](https://www.v2ex.com/t/899246) 
 - [2022-12-01-专访企业架构学者Svyatoslav-Kotusev-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15417&url=https%3A%2F%2Finsights.thoughtworks.cn%2Finterview-svyatoslav-kotusev%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-12-01-当我们谈论DDD时我们在谈论什么-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15415&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fstrategy-and-tactical-design-of-ddd%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-12-01-2022，「倾城之链」运营第-6-年感记-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=15413&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fnicelinks-site-in-2022%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1968,6 +1968,6 @@
 - [2022-12-01-安卓与串口通信（实践篇）](https://toutiao.io/k/slsveoq) 
 - [2022-12-01-探究-LightHouse-工作流程](https://toutiao.io/k/4gfeyw5) 
 - [2022-12-01-摒弃-JUnit-单元测试，带你学会使用-TestNG-测试框架（上篇）](https://toutiao.io/k/ip55w7f) 
+- [2022-12-01-推荐-2022下半年《软考-系统架构设计师》备考经验分享](https://toutiao.io/k/x5wunvt) 
 - [2022-12-01-推荐-SQL-常用脚本大全](https://toutiao.io/k/5nnfmun) 
 - [2022-12-01-推荐-这是我见过最好的微服务-SaaS-快速开发平台，功能完整，代码结构清晰](https://toutiao.io/k/rz9qoa6) 
-- [2022-12-01-推荐-2022下半年《软考-系统架构设计师》备考经验分享](https://toutiao.io/k/x5wunvt) 

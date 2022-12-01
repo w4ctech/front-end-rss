@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-12-01 04:15:25，:rocket: 更新条数: +2020， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-12-01 04:43:28，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-12-01-今天各大-app-首页都变成了灰色，这个是怎么在没有版本升级的基础上实现变成灰色](https://www.v2ex.com/t/899298) ![](assets/new.png)  
+- [2022-12-01-有没有啥英语学习的资源推荐](https://www.v2ex.com/t/899297) ![](assets/new.png)  
+- [2022-12-01-如何管理-dmg-方式安装的软件？-#洁癖](https://www.v2ex.com/t/899296) ![](assets/new.png)  
 - [2022-12-01-有多少人还在用-Python2](https://www.v2ex.com/t/899295) ![](assets/new.png)  
 - [2022-12-01-刚入手了个-switch，求教大佬们个问题](https://www.v2ex.com/t/899294) ![](assets/new.png)  
 - [2022-12-01-又来水贴了。推荐下你们在推上-follow-了哪些好玩的？](https://www.v2ex.com/t/899293) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-12-01-深圳/远程-He3-APP-校招&社招-前端开发/产品经理](https://www.v2ex.com/t/899279) ![](assets/new.png)  
 - [2022-12-01-有对-nginx-熟悉的老哥吗？请教一下-nginx-代理-tcp-的一个问题？](https://www.v2ex.com/t/899278) ![](assets/new.png)  
 - [2022-12-01-有没有-url-用于测速-telegram](https://www.v2ex.com/t/899277) ![](assets/new.png)  
-- [2022-12-01-为啥-v2-里的-rime-区这么冷清，这输入法不应该是很受程序员青睐的吗？](https://www.v2ex.com/t/899276) ![](assets/new.png)  
-- [2022-12-01-求推荐-M2-硬盘盒](https://www.v2ex.com/t/899275) ![](assets/new.png)  
-- [2022-12-01-Windows-Server-如何做-CI/CD？](https://www.v2ex.com/t/899274) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,10 +563,10 @@
 - [2022-12-01-PGL-图学习之图神经网络-ERNIESage、UniMP-进阶模型（八）](https://toutiao.io/k/c2ieo9p) ![](assets/new.png)  
 - [2022-12-01-前端页面的性能测试](https://toutiao.io/k/zzolxv7) ![](assets/new.png)  
 - [2022-12-01-从-ISO/IEC27001_2022-漫谈甲方安全治理](https://toutiao.io/k/aw2zfbg) ![](assets/new.png)  
-- [2022-12-01-推荐-SQL-常用脚本大全](https://toutiao.io/k/5nnfmun) ![](assets/new.png)  
-- [2022-12-01-推荐-这是我见过最好的微服务-SaaS-快速开发平台，功能完整，代码结构清晰](https://toutiao.io/k/rz9qoa6) ![](assets/new.png)  
 - [2022-12-01-推荐-万字长文细说-Code-Review-的正确姿势](https://toutiao.io/k/cxf9ver) ![](assets/new.png)  
 - [2022-12-01-推荐-2022下半年《软考-系统架构设计师》备考经验分享](https://toutiao.io/k/x5wunvt) ![](assets/new.png)  
+- [2022-12-01-推荐-SQL-常用脚本大全](https://toutiao.io/k/5nnfmun) ![](assets/new.png)  
+- [2022-12-01-推荐-这是我见过最好的微服务-SaaS-快速开发平台，功能完整，代码结构清晰](https://toutiao.io/k/rz9qoa6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

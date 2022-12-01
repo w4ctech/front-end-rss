@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-12-01 07:11:38。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-12-01 07:35:01。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,11 @@
 </summary>
 
 
+- [【V2EX】2022-12-01-备份-Linux-服务器有没有好用的备份工具？](https://www.v2ex.com/t/899346) 
+- [【V2EX】2022-12-01-移动-NFC-超级-sim-卡好用吗？](https://www.v2ex.com/t/899345) 
+- [【V2EX】2022-12-01-restApi-前端如何解析返回类型](https://www.v2ex.com/t/899344) 
+- [【V2EX】2022-12-01-Linux-QQ-也要开始内测了,-electron-全平台了。](https://www.v2ex.com/t/899343) 
+- [【V2EX】2022-12-01-一个人爆肝-1-年，从-24G-大小、2100-万行代码中做出的-APP-实现的-16-个功能，你知道多少？](https://www.v2ex.com/t/899342) 
 - [【V2EX】2022-12-01-小白求教，这个-docker-compose-怎么写](https://www.v2ex.com/t/899340) 
 - [【V2EX】2022-12-01-杭州有什么好的理发店推荐吗？男](https://www.v2ex.com/t/899338) 
 - [【V2EX】2022-12-01-Surge-Mac-五缺三，-满了马上发车](https://www.v2ex.com/t/899337) 
@@ -102,12 +107,6 @@
 - [【V2EX】2022-12-01-安卓手机能否投屏到-Apple-tv?](https://www.v2ex.com/t/899300) 
 - [【V2EX】2022-12-01-今天各大-app-首页都变成了灰色，这个是怎么在没有版本升级的基础上实现变成灰色](https://www.v2ex.com/t/899298) 
 - [【V2EX】2022-12-01-有没有啥英语学习的资源推荐](https://www.v2ex.com/t/899297) 
-- [【V2EX】2022-12-01-如何管理-dmg-方式安装的软件？-#洁癖](https://www.v2ex.com/t/899296) 
-- [【V2EX】2022-12-01-有多少人还在用-Python2](https://www.v2ex.com/t/899295) 
-- [【V2EX】2022-12-01-刚入手了个-switch，求教大佬们个问题](https://www.v2ex.com/t/899294) 
-- [【V2EX】2022-12-01-又来水贴了。推荐下你们在推上-follow-了哪些好玩的？](https://www.v2ex.com/t/899293) 
-- [【V2EX】2022-12-01-上海-维汤科技---招募人工智能算法-TL/技术合伙人/人工智能产品经理](https://www.v2ex.com/t/899292) 
-- [【V2EX】2022-12-01-有两份新冠的保险，不知道政策改变会不会不理赔](https://www.v2ex.com/t/899291) 
 - [【技术头条】2022-12-01-前端页面的性能测试-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15418&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-web-pages-performance-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-12-01-专访企业架构学者Svyatoslav-Kotusev-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15417&url=https%3A%2F%2Finsights.thoughtworks.cn%2Finterview-svyatoslav-kotusev%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-12-01-前端性能优化心法-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15416&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-performance-tuning%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -133,15 +132,15 @@
 - [【开发者头条】2022-12-01-安卓与串口通信（实践篇）](https://toutiao.io/k/slsveoq) 
 - [【开发者头条】2022-12-01-探究-LightHouse-工作流程](https://toutiao.io/k/4gfeyw5) 
 - [【开发者头条】2022-12-01-官方-|-使用自定义-RateLimitingStrategy-优化异步接收器的吞吐量](https://toutiao.io/k/f6fxaj1) 
-- [【开发者头条】2022-12-01-摒弃-JUnit-单元测试，带你学会使用-TestNG-测试框架（上篇）](https://toutiao.io/k/ip55w7f) 
 - [【开发者头条】2022-12-01-《菜农升职记》之-Docker-网络](https://toutiao.io/k/susz9l9) 
+- [【开发者头条】2022-12-01-摒弃-JUnit-单元测试，带你学会使用-TestNG-测试框架（上篇）](https://toutiao.io/k/ip55w7f) 
 - [【开发者头条】2022-12-01-PGL-图学习之图神经网络-ERNIESage、UniMP-进阶模型（八）](https://toutiao.io/k/c2ieo9p) 
 - [【开发者头条】2022-12-01-前端页面的性能测试](https://toutiao.io/k/zzolxv7) 
 - [【开发者头条】2022-12-01-从-ISO/IEC27001_2022-漫谈甲方安全治理](https://toutiao.io/k/aw2zfbg) 
 - [【开发者头条】2022-12-01-推荐-这是我见过最好的微服务-SaaS-快速开发平台，功能完整，代码结构清晰](https://toutiao.io/k/rz9qoa6) 
 - [【开发者头条】2022-12-01-推荐-万字长文细说-Code-Review-的正确姿势](https://toutiao.io/k/cxf9ver) 
-- [【开发者头条】2022-12-01-推荐-SQL-常用脚本大全](https://toutiao.io/k/5nnfmun) 
 - [【开发者头条】2022-12-01-推荐-2022下半年《软考-系统架构设计师》备考经验分享](https://toutiao.io/k/x5wunvt) 
+- [【开发者头条】2022-12-01-推荐-SQL-常用脚本大全](https://toutiao.io/k/5nnfmun) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

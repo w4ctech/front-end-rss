@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-12-01 07:11:38，:rocket: 更新条数: +2020， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-12-01 07:35:01，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-12-01-备份-Linux-服务器有没有好用的备份工具？](https://www.v2ex.com/t/899346) ![](assets/new.png)  
+- [2022-12-01-移动-NFC-超级-sim-卡好用吗？](https://www.v2ex.com/t/899345) ![](assets/new.png)  
+- [2022-12-01-restApi-前端如何解析返回类型](https://www.v2ex.com/t/899344) ![](assets/new.png)  
+- [2022-12-01-Linux-QQ-也要开始内测了,-electron-全平台了。](https://www.v2ex.com/t/899343) ![](assets/new.png)  
+- [2022-12-01-一个人爆肝-1-年，从-24G-大小、2100-万行代码中做出的-APP-实现的-16-个功能，你知道多少？](https://www.v2ex.com/t/899342) ![](assets/new.png)  
 - [2022-12-01-小白求教，这个-docker-compose-怎么写](https://www.v2ex.com/t/899340) ![](assets/new.png)  
 - [2022-12-01-杭州有什么好的理发店推荐吗？男](https://www.v2ex.com/t/899338) ![](assets/new.png)  
 - [2022-12-01-Surge-Mac-五缺三，-满了马上发车](https://www.v2ex.com/t/899337) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-12-01-有没有-AI-作画可以生成-3D-立体左右双目图像？](https://www.v2ex.com/t/899324) ![](assets/new.png)  
 - [2022-12-01-咸鱼上-iCloud-充值一次可以永久使用是什么操作？](https://www.v2ex.com/t/899323) ![](assets/new.png)  
 - [2022-12-01-3R-教室-TS-训练营第五期招生-远程-TS-全栈教学+远程工作求职指导与内推+远程外包渠道拓展](https://www.v2ex.com/t/899322) ![](assets/new.png)  
-- [2022-12-01-tinyMediaManager-怎么设置保留原文件名？](https://www.v2ex.com/t/899321) ![](assets/new.png)  
-- [2022-12-01-有没有能让显示器靠墙站着的支架](https://www.v2ex.com/t/899320) ![](assets/new.png)  
-- [2022-12-01-越来越人工智障的小爱同学（音箱）](https://www.v2ex.com/t/899319) ![](assets/new.png)  
-- [2022-12-01-filter:-grayscale100%-这玩意强制子元素继承？能不能让某些区域不变](https://www.v2ex.com/t/899317) ![](assets/new.png)  
-- [2022-12-01-有优秀的-Java-开源项目推荐吗](https://www.v2ex.com/t/899316) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -558,15 +558,15 @@
 - [2022-12-01-安卓与串口通信（实践篇）](https://toutiao.io/k/slsveoq) ![](assets/new.png)  
 - [2022-12-01-探究-LightHouse-工作流程](https://toutiao.io/k/4gfeyw5) ![](assets/new.png)  
 - [2022-12-01-官方-|-使用自定义-RateLimitingStrategy-优化异步接收器的吞吐量](https://toutiao.io/k/f6fxaj1) ![](assets/new.png)  
-- [2022-12-01-摒弃-JUnit-单元测试，带你学会使用-TestNG-测试框架（上篇）](https://toutiao.io/k/ip55w7f) ![](assets/new.png)  
 - [2022-12-01-《菜农升职记》之-Docker-网络](https://toutiao.io/k/susz9l9) ![](assets/new.png)  
+- [2022-12-01-摒弃-JUnit-单元测试，带你学会使用-TestNG-测试框架（上篇）](https://toutiao.io/k/ip55w7f) ![](assets/new.png)  
 - [2022-12-01-PGL-图学习之图神经网络-ERNIESage、UniMP-进阶模型（八）](https://toutiao.io/k/c2ieo9p) ![](assets/new.png)  
 - [2022-12-01-前端页面的性能测试](https://toutiao.io/k/zzolxv7) ![](assets/new.png)  
 - [2022-12-01-从-ISO/IEC27001_2022-漫谈甲方安全治理](https://toutiao.io/k/aw2zfbg) ![](assets/new.png)  
 - [2022-12-01-推荐-这是我见过最好的微服务-SaaS-快速开发平台，功能完整，代码结构清晰](https://toutiao.io/k/rz9qoa6) ![](assets/new.png)  
 - [2022-12-01-推荐-万字长文细说-Code-Review-的正确姿势](https://toutiao.io/k/cxf9ver) ![](assets/new.png)  
-- [2022-12-01-推荐-SQL-常用脚本大全](https://toutiao.io/k/5nnfmun) ![](assets/new.png)  
 - [2022-12-01-推荐-2022下半年《软考-系统架构设计师》备考经验分享](https://toutiao.io/k/x5wunvt) ![](assets/new.png)  
+- [2022-12-01-推荐-SQL-常用脚本大全](https://toutiao.io/k/5nnfmun) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

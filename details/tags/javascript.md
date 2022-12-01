@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-12-01 05:36:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-12-01 06:16:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -15,5 +15,4 @@
 - [2021-03-03-港府回应一63岁患者死亡事件-暂无法确定与疫苗相关](https://m.caixin.com/m/2021-03-03/101670052.html) 
 - [2022-11-20-JS之我用单img元素实现了图像resize拉伸效果](https://www.zhangxinxu.com/wordpress/2022/11/js-image-resize/) 
 - [2022-10-16-2022年新出了哪些form表单新特性？](https://www.zhangxinxu.com/wordpress/2022/10/2022-new-form-property/) 
-- [2022-12-01-如何约束-Promise-实例的-catch-语句的回调函数的参数的类型？](https://www.v2ex.com/t/899260) 
 - [2022-12-01-官方-|-使用自定义-RateLimitingStrategy-优化异步接收器的吞吐量](https://toutiao.io/k/f6fxaj1) 

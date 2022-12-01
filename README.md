@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-12-01 03:37:37，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-12-01 04:15:25，:rocket: 更新条数: +2020， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,15 @@
 </summary>
 
 
+- [2022-12-01-有多少人还在用-Python2](https://www.v2ex.com/t/899295) ![](assets/new.png)  
+- [2022-12-01-刚入手了个-switch，求教大佬们个问题](https://www.v2ex.com/t/899294) ![](assets/new.png)  
+- [2022-12-01-又来水贴了。推荐下你们在推上-follow-了哪些好玩的？](https://www.v2ex.com/t/899293) ![](assets/new.png)  
+- [2022-12-01-上海-维汤科技---招募人工智能算法-TL/技术合伙人/人工智能产品经理](https://www.v2ex.com/t/899292) ![](assets/new.png)  
+- [2022-12-01-有两份新冠的保险，不知道政策改变会不会不理赔](https://www.v2ex.com/t/899291) ![](assets/new.png)  
+- [2022-12-01-被永封的淘宝账户，通过互联网投诉平台解封](https://www.v2ex.com/t/899290) ![](assets/new.png)  
+- [2022-12-01-C#WebService-接口求大佬解惑](https://www.v2ex.com/t/899289) ![](assets/new.png)  
+- [2022-12-01-Java-能否-hook-hello-中发包的-JA3-指纹或修改](https://www.v2ex.com/t/899287) ![](assets/new.png)  
+- [2022-12-01-各位准备移民和已经润的老哥老弟们帮忙看下，我这辈子还能去加拿大吗？](https://www.v2ex.com/t/899286) ![](assets/new.png)  
 - [2022-12-01-16.1.2-更新后信号好了不少](https://www.v2ex.com/t/899285) ![](assets/new.png)  
 - [2022-12-01-mysql-里面-order-by-columnA-为什么能利用-columnA-的索引](https://www.v2ex.com/t/899284) ![](assets/new.png)  
 - [2022-12-01-Macbook-好冷啊](https://www.v2ex.com/t/899283) ![](assets/new.png)  
@@ -502,15 +511,6 @@
 - [2022-12-01-为啥-v2-里的-rime-区这么冷清，这输入法不应该是很受程序员青睐的吗？](https://www.v2ex.com/t/899276) ![](assets/new.png)  
 - [2022-12-01-求推荐-M2-硬盘盒](https://www.v2ex.com/t/899275) ![](assets/new.png)  
 - [2022-12-01-Windows-Server-如何做-CI/CD？](https://www.v2ex.com/t/899274) ![](assets/new.png)  
-- [2022-12-01-apple-one-的拼车逻辑？另外找一个车队](https://www.v2ex.com/t/899271) ![](assets/new.png)  
-- [2022-12-01-求个馒头的邀请](https://www.v2ex.com/t/899269) ![](assets/new.png)  
-- [2022-12-01-环球时报:-国内科研团队实验验证-奥密克戎致病力已大幅降低](https://www.v2ex.com/t/899268) ![](assets/new.png)  
-- [2022-12-01-传闻说今天起执行国务院二十条，不做全员核酸了](https://www.v2ex.com/t/899267) ![](assets/new.png)  
-- [2022-12-01-给这位开发者,点个赞](https://www.v2ex.com/t/899265) ![](assets/new.png)  
-- [2022-12-01-不幸摇到了广州燃油指标](https://www.v2ex.com/t/899262) ![](assets/new.png)  
-- [2022-12-01-大佬们选什么机型做-Android-13-测试机？](https://www.v2ex.com/t/899261) ![](assets/new.png)  
-- [2022-12-01-如何约束-Promise-实例的-catch-语句的回调函数的参数的类型？](https://www.v2ex.com/t/899260) ![](assets/new.png)  
-- [2022-12-01-Infuse-订阅一年拼车](https://www.v2ex.com/t/899259) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -552,8 +552,8 @@
 - [2022-12-01-Java-注解与原理分析](https://toutiao.io/k/03rb4y1) ![](assets/new.png)  
 - [2022-12-01-硬核-|-Kafka-如何解决消息不丢失？](https://toutiao.io/k/wc9et5u) ![](assets/new.png)  
 - [2022-12-01-K3S-+-Helm-+-NFS-最小化测试安装部署只需十分钟](https://toutiao.io/k/91iwmnw) ![](assets/new.png)  
-- [2022-12-01-提前在开发阶段暴露代码问题，携程-Alchemy-代码质量平台](https://toutiao.io/k/rh6dijf) ![](assets/new.png)  
 - [2022-12-01-盘点那些-Go-的最佳应用场景](https://toutiao.io/k/1c9kenl) ![](assets/new.png)  
+- [2022-12-01-提前在开发阶段暴露代码问题，携程-Alchemy-代码质量平台](https://toutiao.io/k/rh6dijf) ![](assets/new.png)  
 - [2022-12-01-一言不合就重构](https://toutiao.io/k/degpu57) ![](assets/new.png)  
 - [2022-12-01-安卓与串口通信（实践篇）](https://toutiao.io/k/slsveoq) ![](assets/new.png)  
 - [2022-12-01-探究-LightHouse-工作流程](https://toutiao.io/k/4gfeyw5) ![](assets/new.png)  
@@ -563,10 +563,10 @@
 - [2022-12-01-PGL-图学习之图神经网络-ERNIESage、UniMP-进阶模型（八）](https://toutiao.io/k/c2ieo9p) ![](assets/new.png)  
 - [2022-12-01-前端页面的性能测试](https://toutiao.io/k/zzolxv7) ![](assets/new.png)  
 - [2022-12-01-从-ISO/IEC27001_2022-漫谈甲方安全治理](https://toutiao.io/k/aw2zfbg) ![](assets/new.png)  
-- [2022-12-01-推荐-2022下半年《软考-系统架构设计师》备考经验分享](https://toutiao.io/k/x5wunvt) ![](assets/new.png)  
 - [2022-12-01-推荐-SQL-常用脚本大全](https://toutiao.io/k/5nnfmun) ![](assets/new.png)  
 - [2022-12-01-推荐-这是我见过最好的微服务-SaaS-快速开发平台，功能完整，代码结构清晰](https://toutiao.io/k/rz9qoa6) ![](assets/new.png)  
 - [2022-12-01-推荐-万字长文细说-Code-Review-的正确姿势](https://toutiao.io/k/cxf9ver) ![](assets/new.png)  
+- [2022-12-01-推荐-2022下半年《软考-系统架构设计师》备考经验分享](https://toutiao.io/k/x5wunvt) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

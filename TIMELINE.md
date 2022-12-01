@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-12-01 03:37:37。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-12-01 04:15:25。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,15 @@
 </summary>
 
 
+- [【V2EX】2022-12-01-有多少人还在用-Python2](https://www.v2ex.com/t/899295) 
+- [【V2EX】2022-12-01-刚入手了个-switch，求教大佬们个问题](https://www.v2ex.com/t/899294) 
+- [【V2EX】2022-12-01-又来水贴了。推荐下你们在推上-follow-了哪些好玩的？](https://www.v2ex.com/t/899293) 
+- [【V2EX】2022-12-01-上海-维汤科技---招募人工智能算法-TL/技术合伙人/人工智能产品经理](https://www.v2ex.com/t/899292) 
+- [【V2EX】2022-12-01-有两份新冠的保险，不知道政策改变会不会不理赔](https://www.v2ex.com/t/899291) 
+- [【V2EX】2022-12-01-被永封的淘宝账户，通过互联网投诉平台解封](https://www.v2ex.com/t/899290) 
+- [【V2EX】2022-12-01-C#WebService-接口求大佬解惑](https://www.v2ex.com/t/899289) 
+- [【V2EX】2022-12-01-Java-能否-hook-hello-中发包的-JA3-指纹或修改](https://www.v2ex.com/t/899287) 
+- [【V2EX】2022-12-01-各位准备移民和已经润的老哥老弟们帮忙看下，我这辈子还能去加拿大吗？](https://www.v2ex.com/t/899286) 
 - [【V2EX】2022-12-01-16.1.2-更新后信号好了不少](https://www.v2ex.com/t/899285) 
 - [【V2EX】2022-12-01-mysql-里面-order-by-columnA-为什么能利用-columnA-的索引](https://www.v2ex.com/t/899284) 
 - [【V2EX】2022-12-01-Macbook-好冷啊](https://www.v2ex.com/t/899283) 
@@ -99,16 +108,6 @@
 - [【V2EX】2022-12-01-IDEA-系列更新后关联上了很多文件的默认打开程序，比如-markdown，-json-等，怎么取消-IDEA-系不成为任何文件的默认打开程序？](https://www.v2ex.com/t/899248) 
 - [【V2EX】2022-12-01-怎么随时分辨出哪个是预生产环境，哪个是生产环境呢？](https://www.v2ex.com/t/899247) 
 - [【V2EX】2022-12-01-请问都是-Android-12-的情况下，某个-APP-白屏打不开的可能原因是？](https://www.v2ex.com/t/899246) 
-- [【V2EX】2022-12-01-500-元无线键盘求推荐](https://www.v2ex.com/t/899245) 
-- [【V2EX】2022-12-01-WireGuard-组网-两个对端服务访问异常](https://www.v2ex.com/t/899244) 
-- [【V2EX】2022-12-01-请问一般计算收货地址距离怎么实现？](https://www.v2ex.com/t/899243) 
-- [【V2EX】2022-12-01-RSS-阅读器---快捷键](https://www.v2ex.com/t/899242) 
-- [【V2EX】2022-12-01-115-推出-8000-元长期-VIP](https://www.v2ex.com/t/899241) 
-- [【V2EX】2022-12-01-十一月挑战完成了吗？十二月挑战是什么？](https://www.v2ex.com/t/899240) 
-- [【V2EX】2022-12-01-深圳噪音](https://www.v2ex.com/t/899239) 
-- [【V2EX】2022-12-01-PyScript,-Pyhon-in-HTML](https://www.v2ex.com/t/899238) 
-- [【V2EX】2022-12-01-PDF-于不同软件下的打印问题](https://www.v2ex.com/t/899237) 
-- [【V2EX】2022-12-01-macos-最新版-spotlight-打开输入几个单词后卡顿。。](https://www.v2ex.com/t/899236) 
 - [【技术头条】2022-12-01-前端页面的性能测试-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15418&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-web-pages-performance-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-12-01-专访企业架构学者Svyatoslav-Kotusev-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15417&url=https%3A%2F%2Finsights.thoughtworks.cn%2Finterview-svyatoslav-kotusev%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-12-01-前端性能优化心法-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15416&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-performance-tuning%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -128,8 +127,8 @@
 - [【开发者头条】2022-12-01-Java-注解与原理分析](https://toutiao.io/k/03rb4y1) 
 - [【开发者头条】2022-12-01-硬核-|-Kafka-如何解决消息不丢失？](https://toutiao.io/k/wc9et5u) 
 - [【开发者头条】2022-12-01-K3S-+-Helm-+-NFS-最小化测试安装部署只需十分钟](https://toutiao.io/k/91iwmnw) 
-- [【开发者头条】2022-12-01-提前在开发阶段暴露代码问题，携程-Alchemy-代码质量平台](https://toutiao.io/k/rh6dijf) 
 - [【开发者头条】2022-12-01-盘点那些-Go-的最佳应用场景](https://toutiao.io/k/1c9kenl) 
+- [【开发者头条】2022-12-01-提前在开发阶段暴露代码问题，携程-Alchemy-代码质量平台](https://toutiao.io/k/rh6dijf) 
 - [【开发者头条】2022-12-01-一言不合就重构](https://toutiao.io/k/degpu57) 
 - [【开发者头条】2022-12-01-安卓与串口通信（实践篇）](https://toutiao.io/k/slsveoq) 
 - [【开发者头条】2022-12-01-探究-LightHouse-工作流程](https://toutiao.io/k/4gfeyw5) 
@@ -139,10 +138,10 @@
 - [【开发者头条】2022-12-01-PGL-图学习之图神经网络-ERNIESage、UniMP-进阶模型（八）](https://toutiao.io/k/c2ieo9p) 
 - [【开发者头条】2022-12-01-前端页面的性能测试](https://toutiao.io/k/zzolxv7) 
 - [【开发者头条】2022-12-01-从-ISO/IEC27001_2022-漫谈甲方安全治理](https://toutiao.io/k/aw2zfbg) 
-- [【开发者头条】2022-12-01-推荐-2022下半年《软考-系统架构设计师》备考经验分享](https://toutiao.io/k/x5wunvt) 
 - [【开发者头条】2022-12-01-推荐-SQL-常用脚本大全](https://toutiao.io/k/5nnfmun) 
 - [【开发者头条】2022-12-01-推荐-这是我见过最好的微服务-SaaS-快速开发平台，功能完整，代码结构清晰](https://toutiao.io/k/rz9qoa6) 
 - [【开发者头条】2022-12-01-推荐-万字长文细说-Code-Review-的正确姿势](https://toutiao.io/k/cxf9ver) 
+- [【开发者头条】2022-12-01-推荐-2022下半年《软考-系统架构设计师》备考经验分享](https://toutiao.io/k/x5wunvt) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

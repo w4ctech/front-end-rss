@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-12-01 02:58:46。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-12-01 03:37:37。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -277,6 +277,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】腺病毒新冠疫苗引安全忧虑-康希诺称未发现血栓病例](https://m.caixin.com/m/2021-04-14/101691086.html)
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
+- [【V2EX】有没有-url-用于测速-telegram](https://www.v2ex.com/t/899277)
 - [【技术头条】团队的Code-Review实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15409&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-code-review%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】PGL-图学习之图神经网络-ERNIESage、UniMP-进阶模型（八）](https://toutiao.io/k/c2ieo9p)
 - [【开发者头条】从-ISO/IEC27001_2022-漫谈甲方安全治理](https://toutiao.io/k/aw2zfbg)
@@ -313,6 +314,7 @@
 
 
 
+- [【V2EX】有对-nginx-熟悉的老哥吗？请教一下-nginx-代理-tcp-的一个问题？](https://www.v2ex.com/t/899278)
 - [【开发者头条】《菜农升职记》之-Docker-网络](https://toutiao.io/k/susz9l9)
 - [......【查看更多】......](./details/tags/server.md)
 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-12-01 01:05:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-12-01 02:58:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -15,6 +15,6 @@
 - [2021-03-03-港府回应一63岁患者死亡事件-暂无法确定与疫苗相关](https://m.caixin.com/m/2021-03-03/101670052.html) 
 - [2022-11-20-JS之我用单img元素实现了图像resize拉伸效果](https://www.zhangxinxu.com/wordpress/2022/11/js-image-resize/) 
 - [2022-10-16-2022年新出了哪些form表单新特性？](https://www.zhangxinxu.com/wordpress/2022/10/2022-new-form-property/) 
-- [2022-11-30-请问如何通过-Python3-向-MySQL-写入-JSON-数据](https://www.v2ex.com/t/899219) 
-- [2022-11-30-软路由跑-openclash-运行-fake-ip-模式，-iPhone-上-QX-同时运行](https://www.v2ex.com/t/899193) 
+- [2022-12-01-如何约束-Promise-实例的-catch-语句的回调函数的参数的类型？](https://www.v2ex.com/t/899260) 
+- [2022-12-01-IDEA-系列更新后关联上了很多文件的默认打开程序，比如-markdown，-json-等，怎么取消-IDEA-系不成为任何文件的默认打开程序？](https://www.v2ex.com/t/899248) 
 - [2022-12-01-官方-|-使用自定义-RateLimitingStrategy-优化异步接收器的吞吐量](https://toutiao.io/k/f6fxaj1) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-12-01 06:16:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-12-01 06:43:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Canvas、SVG、图像
 
@@ -6,3 +6,5 @@
 > 关键字：`Canvas`、`SVG`、`WebGL`、`3D`、`PNG`、`WebP`、`RGB`、`GUI`
 
 
+
+- [2022-12-01-有没有-AI-作画可以生成-3D-立体左右双目图像？](https://www.v2ex.com/t/899324) 

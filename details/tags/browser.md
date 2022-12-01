@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-12-01 06:16:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-12-01 06:43:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -14,7 +14,6 @@
 - [2021-01-08-解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html) 
 - [2021-01-01-大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html) 
 - [2022-12-01-Chromecast-4K-上奈飞颜色泛黄？](https://www.v2ex.com/t/899307) 
-- [2022-12-01-有没有-url-用于测速-telegram](https://www.v2ex.com/t/899277) 
 - [2022-12-01-团队的Code-Review实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15409&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-code-review%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-12-01-PGL-图学习之图神经网络-ERNIESage、UniMP-进阶模型（八）](https://toutiao.io/k/c2ieo9p) 
 - [2022-12-01-从-ISO/IEC27001_2022-漫谈甲方安全治理](https://toutiao.io/k/aw2zfbg) 

@@ -9953,6 +9953,51 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "今天和昨天的热议主题少了几个？我错过了？",
+        "link": "https://www.v2ex.com/t/899355",
+        "date": "2022-12-01"
+      },
+      {
+        "title": "深圳电信开始停止给普通宽带分配公网 IPv4",
+        "link": "https://www.v2ex.com/t/899354",
+        "date": "2022-12-01"
+      },
+      {
+        "title": "第一个清单应用",
+        "link": "https://www.v2ex.com/t/899353",
+        "date": "2022-12-01"
+      },
+      {
+        "title": "macOS 使用问题请教",
+        "link": "https://www.v2ex.com/t/899352",
+        "date": "2022-12-01"
+      },
+      {
+        "title": "未来疫情放开，能不能做点什么挣钱？",
+        "link": "https://www.v2ex.com/t/899351",
+        "date": "2022-12-01"
+      },
+      {
+        "title": "在被墙在情况下，还有使用 Dropbox 的必要性吗？",
+        "link": "https://www.v2ex.com/t/899350",
+        "date": "2022-12-01"
+      },
+      {
+        "title": "安徽电信 199 套餐第二条宽带可升级至 500M",
+        "link": "https://www.v2ex.com/t/899349",
+        "date": "2022-12-01"
+      },
+      {
+        "title": "liteflow 这个规则引擎咋样？有在正式环境用过的没？",
+        "link": "https://www.v2ex.com/t/899348",
+        "date": "2022-12-01"
+      },
+      {
+        "title": "AirPods Pro 2 爆音问题，大家有遇到吗？",
+        "link": "https://www.v2ex.com/t/899347",
+        "date": "2022-12-01"
+      },
+      {
         "title": "备份 Linux 服务器有没有好用的备份工具？",
         "link": "https://www.v2ex.com/t/899346",
         "date": "2022-12-01"
@@ -10111,41 +10156,6 @@
         "title": "京东买的自行车退货运费问题",
         "link": "https://www.v2ex.com/t/899306",
         "date": "2022-12-01"
-      },
-      {
-        "title": "minisforum hx90 小主机可以黑苹果吗",
-        "link": "https://www.v2ex.com/t/899304",
-        "date": "2022-12-01"
-      },
-      {
-        "title": "求教大佬们个 apple tv + homepod mini + 回音壁 的问题",
-        "link": "https://www.v2ex.com/t/899303",
-        "date": "2022-12-01"
-      },
-      {
-        "title": "上海移动的 dns 是不是出故障了？",
-        "link": "https://www.v2ex.com/t/899302",
-        "date": "2022-12-01"
-      },
-      {
-        "title": "手贱升级 bios 结果导致开机卡内存自检",
-        "link": "https://www.v2ex.com/t/899301",
-        "date": "2022-12-01"
-      },
-      {
-        "title": "安卓手机能否投屏到 Apple tv?",
-        "link": "https://www.v2ex.com/t/899300",
-        "date": "2022-12-01"
-      },
-      {
-        "title": "今天各大 app 首页都变成了灰色，这个是怎么在没有版本升级的基础上实现变成灰色",
-        "link": "https://www.v2ex.com/t/899298",
-        "date": "2022-12-01"
-      },
-      {
-        "title": "有没有啥英语学习的资源推荐",
-        "link": "https://www.v2ex.com/t/899297",
-        "date": "2022-12-01"
       }
     ]
   },
@@ -10154,6 +10164,16 @@
     "title": "技术头条",
     "link": "http://blogread.cn/news/newest.php",
     "items": [
+      {
+        "title": "你的团队是王者还是青铜（上） (insights.thoughtworks.cn)",
+        "link": "https://blogread.cn/news/go.php?idItem=15420&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-efficiently-manage-a-development-team-1%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2022-12-01"
+      },
+      {
+        "title": "你的团队是王者还是青铜（上） (insights.thoughtworks.cn)",
+        "link": "https://blogread.cn/news/go.php?idItem=15419&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-efficiently-manage-a-development-team-1%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2022-12-01"
+      },
       {
         "title": "前端页面的性能测试 (insights.thoughtworks.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=15418&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-web-pages-performance-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",

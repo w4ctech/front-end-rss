@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-12-01 07:35:01。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-12-01 08:16:12。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,15 @@
 </summary>
 
 
+- [【V2EX】2022-12-01-今天和昨天的热议主题少了几个？我错过了？](https://www.v2ex.com/t/899355) 
+- [【V2EX】2022-12-01-深圳电信开始停止给普通宽带分配公网-IPv4](https://www.v2ex.com/t/899354) 
+- [【V2EX】2022-12-01-第一个清单应用](https://www.v2ex.com/t/899353) 
+- [【V2EX】2022-12-01-macOS-使用问题请教](https://www.v2ex.com/t/899352) 
+- [【V2EX】2022-12-01-未来疫情放开，能不能做点什么挣钱？](https://www.v2ex.com/t/899351) 
+- [【V2EX】2022-12-01-在被墙在情况下，还有使用-Dropbox-的必要性吗？](https://www.v2ex.com/t/899350) 
+- [【V2EX】2022-12-01-安徽电信-199-套餐第二条宽带可升级至-500M](https://www.v2ex.com/t/899349) 
+- [【V2EX】2022-12-01-liteflow-这个规则引擎咋样？有在正式环境用过的没？](https://www.v2ex.com/t/899348) 
+- [【V2EX】2022-12-01-AirPods-Pro-2-爆音问题，大家有遇到吗？](https://www.v2ex.com/t/899347) 
 - [【V2EX】2022-12-01-备份-Linux-服务器有没有好用的备份工具？](https://www.v2ex.com/t/899346) 
 - [【V2EX】2022-12-01-移动-NFC-超级-sim-卡好用吗？](https://www.v2ex.com/t/899345) 
 - [【V2EX】2022-12-01-restApi-前端如何解析返回类型](https://www.v2ex.com/t/899344) 
@@ -100,13 +109,8 @@
 - [【V2EX】2022-12-01-hxdm,-PHP-项目代码怎么实时部署许多台-ecs-服务器上呢?](https://www.v2ex.com/t/899308) 
 - [【V2EX】2022-12-01-Chromecast-4K-上奈飞颜色泛黄？](https://www.v2ex.com/t/899307) 
 - [【V2EX】2022-12-01-京东买的自行车退货运费问题](https://www.v2ex.com/t/899306) 
-- [【V2EX】2022-12-01-minisforum-hx90-小主机可以黑苹果吗](https://www.v2ex.com/t/899304) 
-- [【V2EX】2022-12-01-求教大佬们个-apple-tv-+-homepod-mini-+-回音壁-的问题](https://www.v2ex.com/t/899303) 
-- [【V2EX】2022-12-01-上海移动的-dns-是不是出故障了？](https://www.v2ex.com/t/899302) 
-- [【V2EX】2022-12-01-手贱升级-bios-结果导致开机卡内存自检](https://www.v2ex.com/t/899301) 
-- [【V2EX】2022-12-01-安卓手机能否投屏到-Apple-tv?](https://www.v2ex.com/t/899300) 
-- [【V2EX】2022-12-01-今天各大-app-首页都变成了灰色，这个是怎么在没有版本升级的基础上实现变成灰色](https://www.v2ex.com/t/899298) 
-- [【V2EX】2022-12-01-有没有啥英语学习的资源推荐](https://www.v2ex.com/t/899297) 
+- [【技术头条】2022-12-01-你的团队是王者还是青铜（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15420&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-efficiently-manage-a-development-team-1%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【技术头条】2022-12-01-你的团队是王者还是青铜（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15419&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-efficiently-manage-a-development-team-1%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-12-01-前端页面的性能测试-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15418&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-web-pages-performance-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-12-01-专访企业架构学者Svyatoslav-Kotusev-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15417&url=https%3A%2F%2Finsights.thoughtworks.cn%2Finterview-svyatoslav-kotusev%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-12-01-前端性能优化心法-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15416&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-performance-tuning%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

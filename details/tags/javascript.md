@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-12-11 15:34:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-12-11 16:13:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -7,5 +7,5 @@
 
 
 
-- [2022-11-20-JS之我用单img元素实现了图片resize拉伸效果](https://www.zhangxinxu.com/wordpress/2022/11/js-image-resize/) 
+- [2022-11-20-JS之我用单img元素实现了图像resize拉伸效果](https://www.zhangxinxu.com/wordpress/2022/11/js-image-resize/) 
 - [2022-10-16-2022年新出了哪些form表单新特性？](https://www.zhangxinxu.com/wordpress/2022/10/2022-new-form-property/) 

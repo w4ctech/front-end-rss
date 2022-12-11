@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-12-11 14:09:18。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-12-11 14:34:30。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -33,7 +33,7 @@
 
 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-30-从今天开始，请叫我Node文本节点处理大师](https://www.zhangxinxu.com/wordpress/2022/11/js-text-node-master/) 
-- [【张鑫旭-鑫空间-鑫生活】2022-11-20-JS之我用单img元素实现了图像resize拉伸效果](https://www.zhangxinxu.com/wordpress/2022/11/js-image-resize/) 
+- [【张鑫旭-鑫空间-鑫生活】2022-11-20-JS之我用单img元素实现了图片resize拉伸效果](https://www.zhangxinxu.com/wordpress/2022/11/js-image-resize/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
 

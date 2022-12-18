@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-12-18 06:12:42。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-12-18 06:36:45。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -19,12 +19,23 @@
 <td><a href="#2022-09">09月</a></td>
 <td><a href="#2022-10">10月</a></td>
 <td><a href="#2022-11">11月</a></td>
-<td>12月</td>
+<td><a href="#2022-12">12月</a></td>
 </tr>
 
 </table>
 
 ## 文章链接
+
+<details open>
+<summary id="2022-12">
+ 2022-12
+</summary>
+
+
+- [【张鑫旭-鑫空间-鑫生活】2022-12-18-Tips:-使用CSS逻辑属性简化我们的书写](https://www.zhangxinxu.com/wordpress/2022/12/css-logic-property-for-write/) 
+
+<div align="right"><a href="#时间分类">⬆返回顶部</a></div>
+</details>
 
 <details open>
 <summary id="2022-11">
@@ -61,7 +72,6 @@
 
 
 - [【张鑫旭-鑫空间-鑫生活】2022-09-26-介绍2022最期待且已正式支持的CSS-container容器查询](https://www.zhangxinxu.com/wordpress/2022/09/css-container-rule/) 
-- [【张鑫旭-鑫空间-鑫生活】2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

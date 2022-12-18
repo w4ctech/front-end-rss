@@ -131,6 +131,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "Tips: 使用CSS逻辑属性简化我们的书写",
+        "link": "https://www.zhangxinxu.com/wordpress/2022/12/css-logic-property-for-write/",
+        "date": "2022-12-18"
+      },
+      {
         "title": "从今天开始，请叫我Node文本节点处理大师",
         "link": "https://www.zhangxinxu.com/wordpress/2022/11/js-text-node-master/",
         "date": "2022-11-30"
@@ -174,11 +179,6 @@
         "title": "介绍2022最期待且已正式支持的CSS container容器查询",
         "link": "https://www.zhangxinxu.com/wordpress/2022/09/css-container-rule/",
         "date": "2022-09-26"
-      },
-      {
-        "title": "划词评论与Range开发若干经验分享",
-        "link": "https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/",
-        "date": "2022-09-21"
       }
     ]
   },

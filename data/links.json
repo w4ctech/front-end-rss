@@ -131,6 +131,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "Chrome浏览器原生支持的7种后台服务简介",
+        "link": "https://www.zhangxinxu.com/wordpress/2023/01/js-background-services/",
+        "date": "2023-01-30"
+      },
+      {
         "title": "使用AbortController abort中断原生fetch或axios请求",
         "link": "https://www.zhangxinxu.com/wordpress/2023/01/fetch-abortcontroller-abort-fetch-axios/",
         "date": "2023-01-17"
@@ -174,11 +179,6 @@
         "title": "告别pointer-events:none使用HTML inert属性真正禁用",
         "link": "https://www.zhangxinxu.com/wordpress/2022/10/html-inert-disabled-attribute/",
         "date": "2022-10-20"
-      },
-      {
-        "title": "2022年新出了哪些form表单新特性？",
-        "link": "https://www.zhangxinxu.com/wordpress/2022/10/2022-new-form-property/",
-        "date": "2022-10-16"
       }
     ]
   },

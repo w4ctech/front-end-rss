@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-01-30 15:11:33。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2023-01-30 15:35:51。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -50,6 +50,7 @@
 </summary>
 
 
+- [【张鑫旭-鑫空间-鑫生活】2023-01-30-Chrome浏览器原生支持的7种后台服务简介](https://www.zhangxinxu.com/wordpress/2023/01/js-background-services/) 
 - [【张鑫旭-鑫空间-鑫生活】2023-01-17-使用AbortController-abort中断原生fetch或axios请求](https://www.zhangxinxu.com/wordpress/2023/01/fetch-abortcontroller-abort-fetch-axios/) 
 - [【张鑫旭-鑫空间-鑫生活】2023-01-07-前端原生API实现条形码二维码的JS解析识别](https://www.zhangxinxu.com/wordpress/2023/01/js-parse-barcode-qrcode-barcodedetector/) 
 
@@ -89,7 +90,6 @@
 
 
 - [【张鑫旭-鑫空间-鑫生活】2022-10-20-告别pointer-events:none使用HTML-inert属性真正禁用](https://www.zhangxinxu.com/wordpress/2022/10/html-inert-disabled-attribute/) 
-- [【张鑫旭-鑫空间-鑫生活】2022-10-16-2022年新出了哪些form表单新特性？](https://www.zhangxinxu.com/wordpress/2022/10/2022-new-form-property/) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

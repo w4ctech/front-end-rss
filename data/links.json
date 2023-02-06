@@ -131,6 +131,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "CSS fixed固定定位transofrm失效及居中小技巧",
+        "link": "https://www.zhangxinxu.com/wordpress/2023/02/css-fixed-position-transform-center/",
+        "date": "2023-02-06"
+      },
+      {
         "title": "Chrome浏览器原生支持的7种后台服务简介",
         "link": "https://www.zhangxinxu.com/wordpress/2023/01/js-background-services/",
         "date": "2023-01-30"
@@ -174,11 +179,6 @@
         "title": "关于list-style-type项目符号你应该知道的事情",
         "link": "https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/",
         "date": "2022-11-05"
-      },
-      {
-        "title": "告别pointer-events:none使用HTML inert属性真正禁用",
-        "link": "https://www.zhangxinxu.com/wordpress/2022/10/html-inert-disabled-attribute/",
-        "date": "2022-10-20"
       }
     ]
   },

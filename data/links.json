@@ -131,6 +131,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "奇了怪了，输入法和JS Enter回车提交冲突",
+        "link": "https://www.zhangxinxu.com/wordpress/2023/02/js-enter-submit-compositionupdate/",
+        "date": "2023-02-08"
+      },
+      {
         "title": "CSS fixed固定定位transofrm失效及居中小技巧",
         "link": "https://www.zhangxinxu.com/wordpress/2023/02/css-fixed-position-transform-center/",
         "date": "2023-02-06"
@@ -174,11 +179,6 @@
         "title": "Web前端开发中的反向与倒序",
         "link": "https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/",
         "date": "2022-11-06"
-      },
-      {
-        "title": "关于list-style-type项目符号你应该知道的事情",
-        "link": "https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/",
-        "date": "2022-11-05"
       }
     ]
   },

@@ -131,6 +131,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "是时候介绍这几个全新的CSS颜色函数了",
+        "link": "https://www.zhangxinxu.com/wordpress/2023/02/css-color-function/",
+        "date": "2023-02-19"
+      },
+      {
         "title": "奇了怪了，输入法和JS Enter回车提交冲突",
         "link": "https://www.zhangxinxu.com/wordpress/2023/02/js-enter-submit-compositionupdate/",
         "date": "2023-02-08"
@@ -174,11 +179,6 @@
         "title": "JS之我用单img元素实现了图像resize拉伸效果",
         "link": "https://www.zhangxinxu.com/wordpress/2022/11/js-image-resize/",
         "date": "2022-11-20"
-      },
-      {
-        "title": "Web前端开发中的反向与倒序",
-        "link": "https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/",
-        "date": "2022-11-06"
       }
     ]
   },

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2023-02-18 23:01:03，:rocket: 更新条数: +10， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2023-02-19 23:01:07，:rocket: 更新条数: +10， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -296,6 +296,7 @@
 </summary>
 
 
+- [2023-02-19-是时候介绍这几个全新的CSS颜色函数了](https://www.zhangxinxu.com/wordpress/2023/02/css-color-function/) ![](assets/new.png)  
 - [2023-02-08-奇了怪了，输入法和JS-Enter回车提交冲突](https://www.zhangxinxu.com/wordpress/2023/02/js-enter-submit-compositionupdate/) ![](assets/new.png)  
 - [2023-02-06-CSS-fixed固定定位transofrm失效及居中小技巧](https://www.zhangxinxu.com/wordpress/2023/02/css-fixed-position-transform-center/) ![](assets/new.png)  
 - [2023-01-30-Chrome浏览器原生支持的7种后台服务简介](https://www.zhangxinxu.com/wordpress/2023/01/js-background-services/) ![](assets/new.png)  
@@ -305,7 +306,6 @@
 - [2022-12-18-Tips:-使用CSS逻辑属性简化我们的书写](https://www.zhangxinxu.com/wordpress/2022/12/css-logic-property-for-write/) ![](assets/new.png)  
 - [2022-11-30-从今天开始，请叫我Node文本节点处理大师](https://www.zhangxinxu.com/wordpress/2022/11/js-text-node-master/) ![](assets/new.png)  
 - [2022-11-20-JS之我用单img元素实现了图像resize拉伸效果](https://www.zhangxinxu.com/wordpress/2022/11/js-image-resize/) ![](assets/new.png)  
-- [2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) ![](assets/new.png)  
 - [......【查看更多】......](./details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -131,6 +131,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "任意两个点的曲线连接JS算法",
+        "link": "https://www.zhangxinxu.com/wordpress/2023/02/js-curve-two-points/",
+        "date": "2023-02-27"
+      },
+      {
         "title": "是时候介绍这几个全新的CSS颜色函数了",
         "link": "https://www.zhangxinxu.com/wordpress/2023/02/css-color-function/",
         "date": "2023-02-19"
@@ -174,11 +179,6 @@
         "title": "从今天开始，请叫我Node文本节点处理大师",
         "link": "https://www.zhangxinxu.com/wordpress/2022/11/js-text-node-master/",
         "date": "2022-11-30"
-      },
-      {
-        "title": "JS之我用单img元素实现了图像resize拉伸效果",
-        "link": "https://www.zhangxinxu.com/wordpress/2022/11/js-image-resize/",
-        "date": "2022-11-20"
       }
     ]
   },

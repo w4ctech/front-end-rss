@@ -131,6 +131,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "又发现一种无需绝对定位就可以元素重叠的CSS技巧",
+        "link": "https://www.zhangxinxu.com/wordpress/2023/03/css-container-rule-overlap/",
+        "date": "2023-03-15"
+      },
+      {
         "title": "一万年了，CSS text-align-last终于可以用了",
         "link": "https://www.zhangxinxu.com/wordpress/2023/03/css-text-align-last/",
         "date": "2023-03-12"
@@ -174,11 +179,6 @@
         "title": "JS数组的copyWithin()语法我看了好几遍才懂",
         "link": "https://www.zhangxinxu.com/wordpress/2022/12/js-array-copywithin/",
         "date": "2022-12-28"
-      },
-      {
-        "title": "Tips: 使用CSS逻辑属性简化我们的书写",
-        "link": "https://www.zhangxinxu.com/wordpress/2022/12/css-logic-property-for-write/",
-        "date": "2022-12-18"
       }
     ]
   },

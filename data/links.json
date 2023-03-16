@@ -131,6 +131,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "好奇心驱使下试验了chatGPT写CSS代码的能力",
+        "link": "https://www.zhangxinxu.com/wordpress/2023/03/chatgpt-write-css/",
+        "date": "2023-03-16"
+      },
+      {
         "title": "又发现一种无需绝对定位就可以元素重叠的CSS技巧",
         "link": "https://www.zhangxinxu.com/wordpress/2023/03/css-container-rule-overlap/",
         "date": "2023-03-15"
@@ -174,11 +179,6 @@
         "title": "前端原生API实现条形码二维码的JS解析识别",
         "link": "https://www.zhangxinxu.com/wordpress/2023/01/js-parse-barcode-qrcode-barcodedetector/",
         "date": "2023-01-07"
-      },
-      {
-        "title": "JS数组的copyWithin()语法我看了好几遍才懂",
-        "link": "https://www.zhangxinxu.com/wordpress/2022/12/js-array-copywithin/",
-        "date": "2022-12-28"
       }
     ]
   },

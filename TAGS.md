@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2023-03-15 23:01:03。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2023-03-16 23:01:10。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -171,7 +171,6 @@
 - [【张鑫旭-鑫空间-鑫生活】奇了怪了，输入法和JS-Enter回车提交冲突](https://www.zhangxinxu.com/wordpress/2023/02/js-enter-submit-compositionupdate/)
 - [【张鑫旭-鑫空间-鑫生活】使用AbortController-abort中断原生fetch或axios请求](https://www.zhangxinxu.com/wordpress/2023/01/fetch-abortcontroller-abort-fetch-axios/)
 - [【张鑫旭-鑫空间-鑫生活】前端原生API实现条形码二维码的JS解析识别](https://www.zhangxinxu.com/wordpress/2023/01/js-parse-barcode-qrcode-barcodedetector/)
-- [【张鑫旭-鑫空间-鑫生活】JS数组的copyWithin语法我看了好几遍才懂](https://www.zhangxinxu.com/wordpress/2022/12/js-array-copywithin/)
 - [......【查看更多】......](./details/tags/javascript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -188,6 +187,7 @@
 
 
 
+- [【张鑫旭-鑫空间-鑫生活】好奇心驱使下试验了chatGPT写CSS代码的能力](https://www.zhangxinxu.com/wordpress/2023/03/chatgpt-write-css/)
 - [【张鑫旭-鑫空间-鑫生活】又发现一种无需绝对定位就可以元素重叠的CSS技巧](https://www.zhangxinxu.com/wordpress/2023/03/css-container-rule-overlap/)
 - [【张鑫旭-鑫空间-鑫生活】一万年了，CSS-text-align-last终于可以用了](https://www.zhangxinxu.com/wordpress/2023/03/css-text-align-last/)
 - [【张鑫旭-鑫空间-鑫生活】是时候介绍这几个全新的CSS颜色函数了](https://www.zhangxinxu.com/wordpress/2023/02/css-color-function/)

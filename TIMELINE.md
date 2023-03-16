@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-03-15 23:01:03。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2023-03-16 23:01:10。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -22,24 +22,6 @@
 <td>12月</td>
 </tr>
 
-<tr>
-<th colspan="12">2022年</th>
-</tr>
-<tr>
-<td>01月</td>
-<td>02月</td>
-<td>03月</td>
-<td>04月</td>
-<td>05月</td>
-<td>06月</td>
-<td>07月</td>
-<td>08月</td>
-<td>09月</td>
-<td>10月</td>
-<td>11月</td>
-<td><a href="#2022-12">12月</a></td>
-</tr>
-
 </table>
 
 ## 文章链接
@@ -50,6 +32,7 @@
 </summary>
 
 
+- [【张鑫旭-鑫空间-鑫生活】2023-03-16-好奇心驱使下试验了chatGPT写CSS代码的能力](https://www.zhangxinxu.com/wordpress/2023/03/chatgpt-write-css/) 
 - [【张鑫旭-鑫空间-鑫生活】2023-03-15-又发现一种无需绝对定位就可以元素重叠的CSS技巧](https://www.zhangxinxu.com/wordpress/2023/03/css-container-rule-overlap/) 
 - [【张鑫旭-鑫空间-鑫生活】2023-03-12-一万年了，CSS-text-align-last终于可以用了](https://www.zhangxinxu.com/wordpress/2023/03/css-text-align-last/) 
 
@@ -79,17 +62,6 @@
 - [【张鑫旭-鑫空间-鑫生活】2023-01-30-Chrome浏览器原生支持的7种后台服务简介](https://www.zhangxinxu.com/wordpress/2023/01/js-background-services/) 
 - [【张鑫旭-鑫空间-鑫生活】2023-01-17-使用AbortController-abort中断原生fetch或axios请求](https://www.zhangxinxu.com/wordpress/2023/01/fetch-abortcontroller-abort-fetch-axios/) 
 - [【张鑫旭-鑫空间-鑫生活】2023-01-07-前端原生API实现条形码二维码的JS解析识别](https://www.zhangxinxu.com/wordpress/2023/01/js-parse-barcode-qrcode-barcodedetector/) 
-
-<div align="right"><a href="#时间分类">⬆返回顶部</a></div>
-</details>
-
-<details open>
-<summary id="2022-12">
- 2022-12
-</summary>
-
-
-- [【张鑫旭-鑫空间-鑫生活】2022-12-28-JS数组的copyWithin语法我看了好几遍才懂](https://www.zhangxinxu.com/wordpress/2022/12/js-array-copywithin/) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

@@ -131,6 +131,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "CSS又出了个revert-layer全局关键字😂",
+        "link": "https://www.zhangxinxu.com/wordpress/2023/03/css-revert-layer-global-keyword/",
+        "date": "2023-03-23"
+      },
+      {
         "title": "瞎折腾，使用JS让中文内容莫名其妙、狗屁不通",
         "link": "https://www.zhangxinxu.com/wordpress/2023/03/js-disorder-chinese/",
         "date": "2023-03-17"
@@ -174,11 +179,6 @@
         "title": "Chrome浏览器原生支持的7种后台服务简介",
         "link": "https://www.zhangxinxu.com/wordpress/2023/01/js-background-services/",
         "date": "2023-01-30"
-      },
-      {
-        "title": "使用AbortController abort中断原生fetch或axios请求",
-        "link": "https://www.zhangxinxu.com/wordpress/2023/01/fetch-abortcontroller-abort-fetch-axios/",
-        "date": "2023-01-17"
       }
     ]
   },

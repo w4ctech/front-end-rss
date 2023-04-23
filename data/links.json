@@ -131,6 +131,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "AI代码辅助工具codeium和copilot在前端表现对比",
+        "link": "https://www.zhangxinxu.com/wordpress/2023/04/ai-code-tool-codeium-github-copilot/",
+        "date": "2023-04-23"
+      },
+      {
         "title": "CSS又出了个revert-layer全局关键字😂",
         "link": "https://www.zhangxinxu.com/wordpress/2023/03/css-revert-layer-global-keyword/",
         "date": "2023-03-23"
@@ -174,11 +179,6 @@
         "title": "CSS fixed固定定位transofrm失效及居中小技巧",
         "link": "https://www.zhangxinxu.com/wordpress/2023/02/css-fixed-position-transform-center/",
         "date": "2023-02-06"
-      },
-      {
-        "title": "Chrome浏览器原生支持的7种后台服务简介",
-        "link": "https://www.zhangxinxu.com/wordpress/2023/01/js-background-services/",
-        "date": "2023-01-30"
       }
     ]
   },

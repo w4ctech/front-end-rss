@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-05-06 23:00:40。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2023-05-07 23:00:56。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -12,7 +12,7 @@
 <td><a href="#2023-02">02月</a></td>
 <td><a href="#2023-03">03月</a></td>
 <td><a href="#2023-04">04月</a></td>
-<td>05月</td>
+<td><a href="#2023-05">05月</a></td>
 <td>06月</td>
 <td>07月</td>
 <td>08月</td>
@@ -25,6 +25,17 @@
 </table>
 
 ## 文章链接
+
+<details open>
+<summary id="2023-05">
+ 2023-05
+</summary>
+
+
+- [【张鑫旭-鑫空间-鑫生活】2023-05-07-使用ImageDecoder-API让GIF图片暂停播放](https://www.zhangxinxu.com/wordpress/2023/05/js-imagedecoder-api-gif/) 
+
+<div align="right"><a href="#时间分类">⬆返回顶部</a></div>
+</details>
 
 <details open>
 <summary id="2023-04">
@@ -61,7 +72,6 @@
 - [【张鑫旭-鑫空间-鑫生活】2023-02-27-任意两个点的曲线连接JS算法](https://www.zhangxinxu.com/wordpress/2023/02/js-curve-two-points/) 
 - [【张鑫旭-鑫空间-鑫生活】2023-02-19-是时候介绍这几个全新的CSS颜色函数了](https://www.zhangxinxu.com/wordpress/2023/02/css-color-function/) 
 - [【张鑫旭-鑫空间-鑫生活】2023-02-08-奇了怪了，输入法和JS-Enter回车提交冲突](https://www.zhangxinxu.com/wordpress/2023/02/js-enter-submit-compositionupdate/) 
-- [【张鑫旭-鑫空间-鑫生活】2023-02-06-CSS-fixed固定定位transofrm失效及居中小技巧](https://www.zhangxinxu.com/wordpress/2023/02/css-fixed-position-transform-center/) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

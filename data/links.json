@@ -131,6 +131,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "使用ImageDecoder API让GIF图片暂停播放",
+        "link": "https://www.zhangxinxu.com/wordpress/2023/05/js-imagedecoder-api-gif/",
+        "date": "2023-05-07"
+      },
+      {
         "title": "AI代码辅助工具codeium和copilot在前端表现对比",
         "link": "https://www.zhangxinxu.com/wordpress/2023/04/ai-code-tool-codeium-github-copilot/",
         "date": "2023-04-23"
@@ -174,11 +179,6 @@
         "title": "奇了怪了，输入法和JS Enter回车提交冲突",
         "link": "https://www.zhangxinxu.com/wordpress/2023/02/js-enter-submit-compositionupdate/",
         "date": "2023-02-08"
-      },
-      {
-        "title": "CSS fixed固定定位transofrm失效及居中小技巧",
-        "link": "https://www.zhangxinxu.com/wordpress/2023/02/css-fixed-position-transform-center/",
-        "date": "2023-02-06"
       }
     ]
   },

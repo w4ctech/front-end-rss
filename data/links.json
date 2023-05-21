@@ -131,6 +131,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "JS audio加图片序列或canvas转webM/MP4的实现",
+        "link": "https://www.zhangxinxu.com/wordpress/2023/05/mp4-video-api-webcodecs-webm/",
+        "date": "2023-05-21"
+      },
+      {
         "title": "使用ImageDecoder API让GIF图片暂停播放",
         "link": "https://www.zhangxinxu.com/wordpress/2023/05/js-imagedecoder-api-gif/",
         "date": "2023-05-07"
@@ -174,11 +179,6 @@
         "title": "是时候介绍这几个全新的CSS颜色函数了",
         "link": "https://www.zhangxinxu.com/wordpress/2023/02/css-color-function/",
         "date": "2023-02-19"
-      },
-      {
-        "title": "奇了怪了，输入法和JS Enter回车提交冲突",
-        "link": "https://www.zhangxinxu.com/wordpress/2023/02/js-enter-submit-compositionupdate/",
-        "date": "2023-02-08"
       }
     ]
   },

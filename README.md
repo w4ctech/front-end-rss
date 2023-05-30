@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2023-05-29 23:00:36，:rocket: 更新条数: +10， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2023-05-30 23:00:59，:rocket: 更新条数: +10， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -296,6 +296,7 @@
 </summary>
 
 
+- [2023-05-30-CSS-margin-trim属性是做什么用的？](https://www.zhangxinxu.com/wordpress/2023/05/css-margin-trim/) ![](assets/new.png)  
 - [2023-05-21-JS-audio加图片序列或canvas转webM/MP4的实现](https://www.zhangxinxu.com/wordpress/2023/05/mp4-video-api-webcodecs-webm/) ![](assets/new.png)  
 - [2023-05-07-使用ImageDecoder-API让GIF图片暂停播放](https://www.zhangxinxu.com/wordpress/2023/05/js-imagedecoder-api-gif/) ![](assets/new.png)  
 - [2023-04-23-AI代码辅助工具codeium和copilot在前端表现对比](https://www.zhangxinxu.com/wordpress/2023/04/ai-code-tool-codeium-github-copilot/) ![](assets/new.png)  
@@ -305,7 +306,6 @@
 - [2023-03-15-又发现一种无需绝对定位就可以元素重叠的CSS技巧](https://www.zhangxinxu.com/wordpress/2023/03/css-container-rule-overlap/) ![](assets/new.png)  
 - [2023-03-12-一万年了，CSS-text-align-last终于可以用了](https://www.zhangxinxu.com/wordpress/2023/03/css-text-align-last/) ![](assets/new.png)  
 - [2023-02-27-任意两个点的曲线连接JS算法](https://www.zhangxinxu.com/wordpress/2023/02/js-curve-two-points/) ![](assets/new.png)  
-- [2023-02-19-是时候介绍这几个全新的CSS颜色函数了](https://www.zhangxinxu.com/wordpress/2023/02/css-color-function/) ![](assets/new.png)  
 - [......【查看更多】......](./details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

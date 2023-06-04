@@ -131,6 +131,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "使用jsPDF导出PDF文件实践分享",
+        "link": "https://www.zhangxinxu.com/wordpress/2023/06/js-canvas-jspdf-export-pdf/",
+        "date": "2023-06-04"
+      },
+      {
         "title": "CSS margin-trim属性是做什么用的？",
         "link": "https://www.zhangxinxu.com/wordpress/2023/05/css-margin-trim/",
         "date": "2023-05-30"
@@ -174,11 +179,6 @@
         "title": "一万年了，CSS text-align-last终于可以用了",
         "link": "https://www.zhangxinxu.com/wordpress/2023/03/css-text-align-last/",
         "date": "2023-03-12"
-      },
-      {
-        "title": "任意两个点的曲线连接JS算法",
-        "link": "https://www.zhangxinxu.com/wordpress/2023/02/js-curve-two-points/",
-        "date": "2023-02-27"
       }
     ]
   },

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-06-04 23:00:53。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2023-06-05 23:00:57。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -32,6 +32,7 @@
 </summary>
 
 
+- [【张鑫旭-鑫空间-鑫生活】2023-06-05-使用纯CSS实现噪点效果](https://www.zhangxinxu.com/wordpress/2023/06/css-noise/) 
 - [【张鑫旭-鑫空间-鑫生活】2023-06-04-使用jsPDF导出PDF文件实践分享](https://www.zhangxinxu.com/wordpress/2023/06/js-canvas-jspdf-export-pdf/) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
@@ -71,7 +72,6 @@
 - [【张鑫旭-鑫空间-鑫生活】2023-03-17-瞎折腾，使用JS让中文内容莫名其妙、狗屁不通](https://www.zhangxinxu.com/wordpress/2023/03/js-disorder-chinese/) 
 - [【张鑫旭-鑫空间-鑫生活】2023-03-16-好奇心驱使下试验了chatGPT写CSS代码的能力](https://www.zhangxinxu.com/wordpress/2023/03/chatgpt-write-css/) 
 - [【张鑫旭-鑫空间-鑫生活】2023-03-15-又发现一种无需绝对定位就可以元素重叠的CSS技巧](https://www.zhangxinxu.com/wordpress/2023/03/css-container-rule-overlap/) 
-- [【张鑫旭-鑫空间-鑫生活】2023-03-12-一万年了，CSS-text-align-last终于可以用了](https://www.zhangxinxu.com/wordpress/2023/03/css-text-align-last/) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

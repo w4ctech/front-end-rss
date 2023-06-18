@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2023-06-17 23:00:49，:rocket: 更新条数: +10， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2023-06-18 23:01:03，:rocket: 更新条数: +10， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -296,6 +296,7 @@
 </summary>
 
 
+- [2023-06-18-我使用CSS模拟个假的数字loading效果](https://www.zhangxinxu.com/wordpress/2023/06/css-text-number-loading/) ![](assets/new.png)  
 - [2023-06-05-使用纯CSS实现噪点效果](https://www.zhangxinxu.com/wordpress/2023/06/css-noise/) ![](assets/new.png)  
 - [2023-06-04-使用jsPDF导出PDF文件实践分享](https://www.zhangxinxu.com/wordpress/2023/06/js-canvas-jspdf-export-pdf/) ![](assets/new.png)  
 - [2023-05-30-CSS-margin-trim属性是做什么用的？](https://www.zhangxinxu.com/wordpress/2023/05/css-margin-trim/) ![](assets/new.png)  
@@ -305,7 +306,6 @@
 - [2023-03-23-CSS又出了个revert-layer全局关键字😂](https://www.zhangxinxu.com/wordpress/2023/03/css-revert-layer-global-keyword/) ![](assets/new.png)  
 - [2023-03-17-瞎折腾，使用JS让中文内容莫名其妙、狗屁不通](https://www.zhangxinxu.com/wordpress/2023/03/js-disorder-chinese/) ![](assets/new.png)  
 - [2023-03-16-好奇心驱使下试验了chatGPT写CSS代码的能力](https://www.zhangxinxu.com/wordpress/2023/03/chatgpt-write-css/) ![](assets/new.png)  
-- [2023-03-15-又发现一种无需绝对定位就可以元素重叠的CSS技巧](https://www.zhangxinxu.com/wordpress/2023/03/css-container-rule-overlap/) ![](assets/new.png)  
 - [......【查看更多】......](./details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

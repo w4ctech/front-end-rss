@@ -131,6 +131,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "CSS sin()/cos()等数学三角函数简介与应用",
+        "link": "https://www.zhangxinxu.com/wordpress/2023/06/css-sin-cos-tan-function/",
+        "date": "2023-06-29"
+      },
+      {
         "title": "我使用CSS模拟个假的数字loading效果",
         "link": "https://www.zhangxinxu.com/wordpress/2023/06/css-text-number-loading/",
         "date": "2023-06-18"
@@ -174,11 +179,6 @@
         "title": "瞎折腾，使用JS让中文内容莫名其妙、狗屁不通",
         "link": "https://www.zhangxinxu.com/wordpress/2023/03/js-disorder-chinese/",
         "date": "2023-03-17"
-      },
-      {
-        "title": "好奇心驱使下试验了chatGPT写CSS代码的能力",
-        "link": "https://www.zhangxinxu.com/wordpress/2023/03/chatgpt-write-css/",
-        "date": "2023-03-16"
       }
     ]
   },

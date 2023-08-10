@@ -131,6 +131,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "查漏补缺，我仍未知道的HTML nonce和popover属性",
+        "link": "https://www.zhangxinxu.com/wordpress/2023/08/html-attribute-nonce-translate/",
+        "date": "2023-08-10"
+      },
+      {
         "title": "HTML kbd、var、samp元素你使用过没？",
         "link": "https://www.zhangxinxu.com/wordpress/2023/07/html-samp-element/",
         "date": "2023-07-31"
@@ -174,11 +179,6 @@
         "title": "JS audio加图片序列或canvas转webM/MP4的实现",
         "link": "https://www.zhangxinxu.com/wordpress/2023/05/mp4-video-api-webcodecs-webm/",
         "date": "2023-05-21"
-      },
-      {
-        "title": "使用ImageDecoder API让GIF图片暂停播放",
-        "link": "https://www.zhangxinxu.com/wordpress/2023/05/js-imagedecoder-api-gif/",
-        "date": "2023-05-07"
       }
     ]
   },

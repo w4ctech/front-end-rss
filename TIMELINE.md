@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-08-09 23:00:47。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2023-08-10 23:00:58。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -15,7 +15,7 @@
 <td><a href="#2023-05">05月</a></td>
 <td><a href="#2023-06">06月</a></td>
 <td><a href="#2023-07">07月</a></td>
-<td>08月</td>
+<td><a href="#2023-08">08月</a></td>
 <td>09月</td>
 <td>10月</td>
 <td>11月</td>
@@ -25,6 +25,17 @@
 </table>
 
 ## 文章链接
+
+<details open>
+<summary id="2023-08">
+ 2023-08
+</summary>
+
+
+- [【张鑫旭-鑫空间-鑫生活】2023-08-10-查漏补缺，我仍未知道的HTML-nonce和popover属性](https://www.zhangxinxu.com/wordpress/2023/08/html-attribute-nonce-translate/) 
+
+<div align="right"><a href="#时间分类">⬆返回顶部</a></div>
+</details>
 
 <details open>
 <summary id="2023-07">
@@ -61,7 +72,6 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2023-05-30-CSS-margin-trim属性是做什么用的？](https://www.zhangxinxu.com/wordpress/2023/05/css-margin-trim/) 
 - [【张鑫旭-鑫空间-鑫生活】2023-05-21-JS-audio加图片序列或canvas转webM/MP4的实现](https://www.zhangxinxu.com/wordpress/2023/05/mp4-video-api-webcodecs-webm/) 
-- [【张鑫旭-鑫空间-鑫生活】2023-05-07-使用ImageDecoder-API让GIF图片暂停播放](https://www.zhangxinxu.com/wordpress/2023/05/js-imagedecoder-api-gif/) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

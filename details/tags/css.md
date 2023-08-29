@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-08-28 23:00:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2023-08-29 23:00:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## CSS
 
@@ -11,4 +11,3 @@
 - [2023-06-29-CSS-sin/cos等数学三角函数简介与应用](https://www.zhangxinxu.com/wordpress/2023/06/css-sin-cos-tan-function/) 
 - [2023-06-18-我使用CSS模拟个假的数字loading效果](https://www.zhangxinxu.com/wordpress/2023/06/css-text-number-loading/) 
 - [2023-06-05-使用纯CSS实现噪点效果](https://www.zhangxinxu.com/wordpress/2023/06/css-noise/) 
-- [2023-05-30-CSS-margin-trim属性是做什么用的？](https://www.zhangxinxu.com/wordpress/2023/05/css-margin-trim/) 

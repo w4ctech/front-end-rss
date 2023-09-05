@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2023-09-04 23:00:53。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2023-09-05 23:00:55。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -186,7 +186,6 @@
 - [【张鑫旭-鑫空间-鑫生活】CSS高宽不等图片固定比例布局的三重进化](https://www.zhangxinxu.com/wordpress/2023/07/css-image-aspect-ratio-layout/)
 - [【张鑫旭-鑫空间-鑫生活】CSS-sin/cos等数学三角函数简介与应用](https://www.zhangxinxu.com/wordpress/2023/06/css-sin-cos-tan-function/)
 - [【张鑫旭-鑫空间-鑫生活】我使用CSS模拟个假的数字loading效果](https://www.zhangxinxu.com/wordpress/2023/06/css-text-number-loading/)
-- [【张鑫旭-鑫空间-鑫生活】使用纯CSS实现噪点效果](https://www.zhangxinxu.com/wordpress/2023/06/css-noise/)
 - [......【查看更多】......](./details/tags/css.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -203,6 +202,7 @@
 
 
 
+- [【张鑫旭-鑫空间-鑫生活】做了个纯前端JPG/PNG尺寸缩放+压缩的在线工具](https://www.zhangxinxu.com/wordpress/2023/09/js-jpg-png-compress-tinyimg-mini/)
 - [......【查看更多】......](./details/tags/canvas-image.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

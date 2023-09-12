@@ -131,6 +131,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "Tips：form元素reset后input不触发change事件处理",
+        "link": "https://www.zhangxinxu.com/wordpress/2023/09/form-reset-input-change/",
+        "date": "2023-09-12"
+      },
+      {
         "title": "做了个纯前端JPG/PNG尺寸缩放+压缩的在线工具",
         "link": "https://www.zhangxinxu.com/wordpress/2023/09/js-jpg-png-compress-tinyimg-mini/",
         "date": "2023-09-05"
@@ -174,11 +179,6 @@
         "title": "CSS sin()/cos()等数学三角函数简介与应用",
         "link": "https://www.zhangxinxu.com/wordpress/2023/06/css-sin-cos-tan-function/",
         "date": "2023-06-29"
-      },
-      {
-        "title": "我使用CSS模拟个假的数字loading效果",
-        "link": "https://www.zhangxinxu.com/wordpress/2023/06/css-text-number-loading/",
-        "date": "2023-06-18"
       }
     ]
   },

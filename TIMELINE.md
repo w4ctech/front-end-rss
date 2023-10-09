@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-10-08 23:00:42。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2023-10-09 23:00:44。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -17,7 +17,7 @@
 <td><a href="#2023-07">07月</a></td>
 <td><a href="#2023-08">08月</a></td>
 <td><a href="#2023-09">09月</a></td>
-<td>10月</td>
+<td><a href="#2023-10">10月</a></td>
 <td>11月</td>
 <td>12月</td>
 </tr>
@@ -25,6 +25,17 @@
 </table>
 
 ## 文章链接
+
+<details open>
+<summary id="2023-10">
+ 2023-10
+</summary>
+
+
+- [【张鑫旭-鑫空间-鑫生活】2023-10-09-JS改变AudioBuffer音量并下载为新audio音频](https://www.zhangxinxu.com/wordpress/2023/10/js-web-audio-audiobuffer-volume/) 
+
+<div align="right"><a href="#时间分类">⬆返回顶部</a></div>
+</details>
 
 <details open>
 <summary id="2023-09">
@@ -61,7 +72,6 @@
 
 
 - [【张鑫旭-鑫空间-鑫生活】2023-07-31-HTML-kbd、var、samp元素你使用过没？](https://www.zhangxinxu.com/wordpress/2023/07/html-samp-element/) 
-- [【张鑫旭-鑫空间-鑫生活】2023-07-25-5分钟快速了解text-wrap:balance的作用](https://www.zhangxinxu.com/wordpress/2023/07/css-text-wrap-balance/) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

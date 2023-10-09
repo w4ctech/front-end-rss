@@ -131,6 +131,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "JS改变AudioBuffer音量并下载为新audio音频",
+        "link": "https://www.zhangxinxu.com/wordpress/2023/10/js-web-audio-audiobuffer-volume/",
+        "date": "2023-10-09"
+      },
+      {
         "title": "又get到了，JS复制图片到剪切板",
         "link": "https://www.zhangxinxu.com/wordpress/2023/09/js-copy-image-clipboard/",
         "date": "2023-09-17"
@@ -174,11 +179,6 @@
         "title": "HTML kbd、var、samp元素你使用过没？",
         "link": "https://www.zhangxinxu.com/wordpress/2023/07/html-samp-element/",
         "date": "2023-07-31"
-      },
-      {
-        "title": "5分钟快速了解text-wrap:balance的作用",
-        "link": "https://www.zhangxinxu.com/wordpress/2023/07/css-text-wrap-balance/",
-        "date": "2023-07-25"
       }
     ]
   },

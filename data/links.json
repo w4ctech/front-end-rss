@@ -131,6 +131,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "纯JS实现多个音频的拼接或者合并",
+        "link": "https://www.zhangxinxu.com/wordpress/2023/10/js-audio-audiobuffer-concat-merge/",
+        "date": "2023-10-10"
+      },
+      {
         "title": "JS改变AudioBuffer音量并下载为新audio音频",
         "link": "https://www.zhangxinxu.com/wordpress/2023/10/js-web-audio-audiobuffer-volume/",
         "date": "2023-10-09"
@@ -174,11 +179,6 @@
         "title": "查漏补缺，我仍未知道的HTML nonce和popover属性",
         "link": "https://www.zhangxinxu.com/wordpress/2023/08/html-attribute-nonce-translate/",
         "date": "2023-08-10"
-      },
-      {
-        "title": "HTML kbd、var、samp元素你使用过没？",
-        "link": "https://www.zhangxinxu.com/wordpress/2023/07/html-samp-element/",
-        "date": "2023-07-31"
       }
     ]
   },

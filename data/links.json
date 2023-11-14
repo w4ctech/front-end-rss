@@ -131,6 +131,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "mp4box.js加WebCodecs 解码MP4视频帧并渲染",
+        "link": "https://www.zhangxinxu.com/wordpress/2023/11/mp4box-js-webcodecs-mp4-canvas/",
+        "date": "2023-11-14"
+      },
+      {
         "title": "聊聊Web网页中资源加载的优先级",
         "link": "https://www.zhangxinxu.com/wordpress/2023/10/img-js-preload-fetch-priority/",
         "date": "2023-10-29"
@@ -174,11 +179,6 @@
         "title": "Web referrer策略详解与防盗链图片的显示",
         "link": "https://www.zhangxinxu.com/wordpress/2023/08/web-referer-image-policy/",
         "date": "2023-08-29"
-      },
-      {
-        "title": "狠狠地研究了下 PerformanceObserver API",
-        "link": "https://www.zhangxinxu.com/wordpress/2023/08/js-performanceobserver-api/",
-        "date": "2023-08-27"
       }
     ]
   },

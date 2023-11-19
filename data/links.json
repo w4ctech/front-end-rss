@@ -131,6 +131,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "剪映APP的视频特效如何在Web中JS实现",
+        "link": "https://www.zhangxinxu.com/wordpress/2023/11/video-effect-js-filter-pixijs-webgl-3d/",
+        "date": "2023-11-19"
+      },
+      {
         "title": "mp4box.js加WebCodecs 解码MP4视频帧并渲染",
         "link": "https://www.zhangxinxu.com/wordpress/2023/11/mp4box-js-webcodecs-mp4-canvas/",
         "date": "2023-11-14"
@@ -174,11 +179,6 @@
         "title": "一言难尽的registerProtocolHandler()方法",
         "link": "https://www.zhangxinxu.com/wordpress/2023/08/js-registerprotocolhandler/",
         "date": "2023-08-30"
-      },
-      {
-        "title": "Web referrer策略详解与防盗链图片的显示",
-        "link": "https://www.zhangxinxu.com/wordpress/2023/08/web-referer-image-policy/",
-        "date": "2023-08-29"
       }
     ]
   },

@@ -131,6 +131,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "本地MP3封面图、时长等信息的JS读取",
+        "link": "https://www.zhangxinxu.com/wordpress/2023/11/js-mp3-media-tags-metadata/",
+        "date": "2023-11-28"
+      },
+      {
         "title": "cube格式的LUT滤镜也叫ColorMapFilter在pixi中应用",
         "link": "https://www.zhangxinxu.com/wordpress/2023/11/cube-lut-colormapfilter-pixijs/",
         "date": "2023-11-21"
@@ -174,11 +179,6 @@
         "title": "Tips：form元素reset后input不触发change事件处理",
         "link": "https://www.zhangxinxu.com/wordpress/2023/09/form-reset-input-change/",
         "date": "2023-09-12"
-      },
-      {
-        "title": "做了个纯前端JPG/PNG尺寸缩放+压缩的在线工具",
-        "link": "https://www.zhangxinxu.com/wordpress/2023/09/js-jpg-png-compress-tinyimg-mini/",
-        "date": "2023-09-05"
       }
     ]
   },

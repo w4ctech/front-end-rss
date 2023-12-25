@@ -131,6 +131,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "JS实现图片相似度的判断",
+        "link": "https://www.zhangxinxu.com/wordpress/2023/12/js-img-image-similarity/",
+        "date": "2023-12-25"
+      },
+      {
         "title": "使用JS提取视频中的音频资源",
         "link": "https://www.zhangxinxu.com/wordpress/2023/12/js-fetch-video-audio-mp3-mp4-wav/",
         "date": "2023-12-24"
@@ -174,11 +179,6 @@
         "title": "又get到了，JS复制图片到剪切板",
         "link": "https://www.zhangxinxu.com/wordpress/2023/09/js-copy-image-clipboard/",
         "date": "2023-09-17"
-      },
-      {
-        "title": "HTML elementtiming属性初体验记录",
-        "link": "https://www.zhangxinxu.com/wordpress/2023/09/html-elementtiming-attribute/",
-        "date": "2023-09-15"
       }
     ]
   },

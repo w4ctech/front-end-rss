@@ -131,6 +131,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "纯JS实现图像的人脸识别功能",
+        "link": "https://www.zhangxinxu.com/wordpress/2023/12/js-image-video-face-detect/",
+        "date": "2023-12-28"
+      },
+      {
         "title": "JS实现图片相似度的判断",
         "link": "https://www.zhangxinxu.com/wordpress/2023/12/js-img-image-similarity/",
         "date": "2023-12-25"
@@ -174,11 +179,6 @@
         "title": "JS改变AudioBuffer音量并下载为新audio音频",
         "link": "https://www.zhangxinxu.com/wordpress/2023/10/js-web-audio-audiobuffer-volume/",
         "date": "2023-10-09"
-      },
-      {
-        "title": "又get到了，JS复制图片到剪切板",
-        "link": "https://www.zhangxinxu.com/wordpress/2023/09/js-copy-image-clipboard/",
-        "date": "2023-09-17"
       }
     ]
   },

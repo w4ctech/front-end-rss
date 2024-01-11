@@ -1,8 +1,26 @@
-:alarm_clock: 更新时间: 2024-01-10 23:00:31。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2024-01-11 23:00:46。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
 <table>
+
+<tr>
+<th colspan="12">2024年</th>
+</tr>
+<tr>
+<td><a href="#2024-01">01月</a></td>
+<td>02月</td>
+<td>03月</td>
+<td>04月</td>
+<td>05月</td>
+<td>06月</td>
+<td>07月</td>
+<td>08月</td>
+<td>09月</td>
+<td>10月</td>
+<td>11月</td>
+<td>12月</td>
+</tr>
 
 <tr>
 <th colspan="12">2023年</th>
@@ -25,6 +43,17 @@
 </table>
 
 ## 文章链接
+
+<details open>
+<summary id="2024-01">
+ 2024-01
+</summary>
+
+
+- [【张鑫旭-鑫空间-鑫生活】2024-01-11-时代变了，该使用原生popover属性模拟下拉了](https://www.zhangxinxu.com/wordpress/2024/01/js-html-popover-dropdown/) 
+
+<div align="right"><a href="#时间分类">⬆返回顶部</a></div>
+</details>
 
 <details open>
 <summary id="2023-12">
@@ -61,7 +90,6 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2023-10-29-聊聊Web网页中资源加载的优先级](https://www.zhangxinxu.com/wordpress/2023/10/img-js-preload-fetch-priority/) 
 - [【张鑫旭-鑫空间-鑫生活】2023-10-10-纯JS实现多个音频的拼接或者合并](https://www.zhangxinxu.com/wordpress/2023/10/js-audio-audiobuffer-concat-merge/) 
-- [【张鑫旭-鑫空间-鑫生活】2023-10-09-JS改变AudioBuffer音量并下载为新audio音频](https://www.zhangxinxu.com/wordpress/2023/10/js-web-audio-audiobuffer-volume/) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

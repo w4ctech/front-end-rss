@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-01-14 23:00:32。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2024-01-15 23:00:54。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -50,6 +50,7 @@
 </summary>
 
 
+- [【张鑫旭-鑫空间-鑫生活】2024-01-15-使用JS快速获取video视频任意位置的缩略图](https://www.zhangxinxu.com/wordpress/2024/01/js-get-video-thumb-poster/) 
 - [【张鑫旭-鑫空间-鑫生活】2024-01-11-时代变了，该使用原生popover属性模拟下拉了](https://www.zhangxinxu.com/wordpress/2024/01/js-html-popover-dropdown/) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
@@ -89,7 +90,6 @@
 
 
 - [【张鑫旭-鑫空间-鑫生活】2023-10-29-聊聊Web网页中资源加载的优先级](https://www.zhangxinxu.com/wordpress/2023/10/img-js-preload-fetch-priority/) 
-- [【张鑫旭-鑫空间-鑫生活】2023-10-10-纯JS实现多个音频的拼接或者合并](https://www.zhangxinxu.com/wordpress/2023/10/js-audio-audiobuffer-concat-merge/) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

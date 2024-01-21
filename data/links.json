@@ -131,6 +131,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "CSS @scope他来了",
+        "link": "https://www.zhangxinxu.com/wordpress/2024/01/css-at-scope/",
+        "date": "2024-01-21"
+      },
+      {
         "title": "使用JS快速获取video视频任意位置的缩略图",
         "link": "https://www.zhangxinxu.com/wordpress/2024/01/js-get-video-thumb-poster/",
         "date": "2024-01-15"
@@ -174,11 +179,6 @@
         "title": "mp4box.js加WebCodecs 解码MP4视频帧并渲染",
         "link": "https://www.zhangxinxu.com/wordpress/2023/11/mp4box-js-webcodecs-mp4-canvas/",
         "date": "2023-11-14"
-      },
-      {
-        "title": "聊聊Web网页中资源加载的优先级",
-        "link": "https://www.zhangxinxu.com/wordpress/2023/10/img-js-preload-fetch-priority/",
-        "date": "2023-10-29"
       }
     ]
   },

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-02-28 23:01:01。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2024-02-29 23:01:00。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -9,7 +9,7 @@
 </tr>
 <tr>
 <td><a href="#2024-01">01月</a></td>
-<td>02月</td>
+<td><a href="#2024-02">02月</a></td>
 <td>03月</td>
 <td>04月</td>
 <td>05月</td>
@@ -43,6 +43,17 @@
 </table>
 
 ## 文章链接
+
+<details open>
+<summary id="2024-02">
+ 2024-02
+</summary>
+
+
+- [【张鑫旭-鑫空间-鑫生活】2024-02-29-不改变音调情况下Audio音频的倍速合成JS实现](https://www.zhangxinxu.com/wordpress/2024/02/js-audioencoder-backplayrate-audiobuffer/) 
+
+<div align="right"><a href="#时间分类">⬆返回顶部</a></div>
+</details>
 
 <details open>
 <summary id="2024-01">
@@ -79,7 +90,6 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2023-11-28-本地MP3封面图、时长等信息的JS读取](https://www.zhangxinxu.com/wordpress/2023/11/js-mp3-media-tags-metadata/) 
 - [【张鑫旭-鑫空间-鑫生活】2023-11-21-cube格式的LUT滤镜也叫ColorMapFilter在pixi中应用](https://www.zhangxinxu.com/wordpress/2023/11/cube-lut-colormapfilter-pixijs/) 
-- [【张鑫旭-鑫空间-鑫生活】2023-11-19-剪映APP的视频特效如何在Web中JS实现](https://www.zhangxinxu.com/wordpress/2023/11/video-effect-js-filter-pixijs-webgl-3d/) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

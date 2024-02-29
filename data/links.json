@@ -131,6 +131,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "不改变音调情况下Audio音频的倍速合成JS实现",
+        "link": "https://www.zhangxinxu.com/wordpress/2024/02/js-audioencoder-backplayrate-audiobuffer/",
+        "date": "2024-02-29"
+      },
+      {
         "title": "HTML MicroData微数据结构简介",
         "link": "https://www.zhangxinxu.com/wordpress/2024/01/html-microdata/",
         "date": "2024-01-31"
@@ -174,11 +179,6 @@
         "title": "cube格式的LUT滤镜也叫ColorMapFilter在pixi中应用",
         "link": "https://www.zhangxinxu.com/wordpress/2023/11/cube-lut-colormapfilter-pixijs/",
         "date": "2023-11-21"
-      },
-      {
-        "title": "剪映APP的视频特效如何在Web中JS实现",
-        "link": "https://www.zhangxinxu.com/wordpress/2023/11/video-effect-js-filter-pixijs-webgl-3d/",
-        "date": "2023-11-19"
       }
     ]
   },

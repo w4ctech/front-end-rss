@@ -131,6 +131,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "今天才知道，Web网页也能阻止息屏了",
+        "link": "https://www.zhangxinxu.com/wordpress/2024/03/js-screen-wake-lock-api/",
+        "date": "2024-03-17"
+      },
+      {
         "title": "不改变音调情况下Audio音频的倍速合成JS实现",
         "link": "https://www.zhangxinxu.com/wordpress/2024/02/js-audioencoder-backplayrate-audiobuffer/",
         "date": "2024-02-29"
@@ -174,11 +179,6 @@
         "title": "本地MP3封面图、时长等信息的JS读取",
         "link": "https://www.zhangxinxu.com/wordpress/2023/11/js-mp3-media-tags-metadata/",
         "date": "2023-11-28"
-      },
-      {
-        "title": "cube格式的LUT滤镜也叫ColorMapFilter在pixi中应用",
-        "link": "https://www.zhangxinxu.com/wordpress/2023/11/cube-lut-colormapfilter-pixijs/",
-        "date": "2023-11-21"
       }
     ]
   },

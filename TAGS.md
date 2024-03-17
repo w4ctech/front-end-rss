@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2024-03-16 23:00:54。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2024-03-17 23:00:56。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -364,9 +364,9 @@
 
 
 
+- [【张鑫旭-鑫空间-鑫生活】今天才知道，Web网页也能阻止息屏了](https://www.zhangxinxu.com/wordpress/2024/03/js-screen-wake-lock-api/)
 - [【张鑫旭-鑫空间-鑫生活】HTML-MicroData微数据结构简介](https://www.zhangxinxu.com/wordpress/2024/01/html-microdata/)
 - [【张鑫旭-鑫空间-鑫生活】时代变了，该使用原生popover属性模拟下拉了](https://www.zhangxinxu.com/wordpress/2024/01/js-html-popover-dropdown/)
-- [【张鑫旭-鑫空间-鑫生活】cube格式的LUT滤镜也叫ColorMapFilter在pixi中应用](https://www.zhangxinxu.com/wordpress/2023/11/cube-lut-colormapfilter-pixijs/)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

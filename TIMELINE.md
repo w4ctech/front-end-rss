@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-03-16 23:00:54。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2024-03-17 23:00:56。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -10,7 +10,7 @@
 <tr>
 <td><a href="#2024-01">01月</a></td>
 <td><a href="#2024-02">02月</a></td>
-<td>03月</td>
+<td><a href="#2024-03">03月</a></td>
 <td>04月</td>
 <td>05月</td>
 <td>06月</td>
@@ -43,6 +43,17 @@
 </table>
 
 ## 文章链接
+
+<details open>
+<summary id="2024-03">
+ 2024-03
+</summary>
+
+
+- [【张鑫旭-鑫空间-鑫生活】2024-03-17-今天才知道，Web网页也能阻止息屏了](https://www.zhangxinxu.com/wordpress/2024/03/js-screen-wake-lock-api/) 
+
+<div align="right"><a href="#时间分类">⬆返回顶部</a></div>
+</details>
 
 <details open>
 <summary id="2024-02">
@@ -89,7 +100,6 @@
 
 
 - [【张鑫旭-鑫空间-鑫生活】2023-11-28-本地MP3封面图、时长等信息的JS读取](https://www.zhangxinxu.com/wordpress/2023/11/js-mp3-media-tags-metadata/) 
-- [【张鑫旭-鑫空间-鑫生活】2023-11-21-cube格式的LUT滤镜也叫ColorMapFilter在pixi中应用](https://www.zhangxinxu.com/wordpress/2023/11/cube-lut-colormapfilter-pixijs/) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

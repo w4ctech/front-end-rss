@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2024-03-20 23:00:30，:rocket: 更新条数: +10， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2024-03-21 23:01:27，:rocket: 更新条数: +10， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -296,6 +296,7 @@
 </summary>
 
 
+- [2024-03-21-CSS-initial-letter属性，嗯……也就这样吧](https://www.zhangxinxu.com/wordpress/2024/03/css-initial-letter/) ![](assets/new.png)  
 - [2024-03-17-今天才知道，Web网页也能阻止息屏了](https://www.zhangxinxu.com/wordpress/2024/03/js-screen-wake-lock-api/) ![](assets/new.png)  
 - [2024-02-29-不改变音调情况下Audio音频的倍速合成JS实现](https://www.zhangxinxu.com/wordpress/2024/02/js-audioencoder-backplayrate-audiobuffer/) ![](assets/new.png)  
 - [2024-01-31-HTML-MicroData微数据结构简介](https://www.zhangxinxu.com/wordpress/2024/01/html-microdata/) ![](assets/new.png)  
@@ -305,7 +306,6 @@
 - [2023-12-28-纯JS实现图像的人脸识别功能](https://www.zhangxinxu.com/wordpress/2023/12/js-image-video-face-detect/) ![](assets/new.png)  
 - [2023-12-25-JS实现图片相似度的判断](https://www.zhangxinxu.com/wordpress/2023/12/js-img-image-similarity/) ![](assets/new.png)  
 - [2023-12-24-使用JS提取视频中的音频资源](https://www.zhangxinxu.com/wordpress/2023/12/js-fetch-video-audio-mp3-mp4-wav/) ![](assets/new.png)  
-- [2023-11-28-本地MP3封面图、时长等信息的JS读取](https://www.zhangxinxu.com/wordpress/2023/11/js-mp3-media-tags-metadata/) ![](assets/new.png)  
 - [......【查看更多】......](./details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

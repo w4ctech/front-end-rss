@@ -131,6 +131,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "SVG滤镜系列之搞懂<feBlend>元素",
+        "link": "https://www.zhangxinxu.com/wordpress/2024/04/svg-filter-feblend/",
+        "date": "2024-04-11"
+      },
+      {
         "title": "CSS Nesting嵌套与@scope规则也太雷同了吧？",
         "link": "https://www.zhangxinxu.com/wordpress/2024/03/css-nesting-scope-rules/",
         "date": "2024-03-31"
@@ -174,11 +179,6 @@
         "title": "纯JS实现图像的人脸识别功能",
         "link": "https://www.zhangxinxu.com/wordpress/2023/12/js-image-video-face-detect/",
         "date": "2023-12-28"
-      },
-      {
-        "title": "JS实现图片相似度的判断",
-        "link": "https://www.zhangxinxu.com/wordpress/2023/12/js-img-image-similarity/",
-        "date": "2023-12-25"
       }
     ]
   },

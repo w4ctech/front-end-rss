@@ -131,6 +131,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "今天学习SVG滤镜feGaussianBlur和feDropShadow",
+        "link": "https://www.zhangxinxu.com/wordpress/2024/04/svg-filter-fegaussianblur-fedropshadow/",
+        "date": "2024-04-14"
+      },
+      {
         "title": "SVG滤镜系列之搞懂<feBlend>元素",
         "link": "https://www.zhangxinxu.com/wordpress/2024/04/svg-filter-feblend/",
         "date": "2024-04-11"
@@ -174,11 +179,6 @@
         "title": "时代变了，该使用原生popover属性模拟下拉了",
         "link": "https://www.zhangxinxu.com/wordpress/2024/01/js-html-popover-dropdown/",
         "date": "2024-01-11"
-      },
-      {
-        "title": "纯JS实现图像的人脸识别功能",
-        "link": "https://www.zhangxinxu.com/wordpress/2023/12/js-image-video-face-detect/",
-        "date": "2023-12-28"
       }
     ]
   },

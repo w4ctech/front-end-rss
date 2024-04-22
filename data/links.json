@@ -131,6 +131,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "node环境中使用fluent-ffmpeg每隔一秒视频截图",
+        "link": "https://www.zhangxinxu.com/wordpress/2024/04/node-fluent-ffmpeg-screenshot-every-second/",
+        "date": "2024-04-22"
+      },
+      {
         "title": "今天学习SVG滤镜feGaussianBlur和feDropShadow",
         "link": "https://www.zhangxinxu.com/wordpress/2024/04/svg-filter-fegaussianblur-fedropshadow/",
         "date": "2024-04-14"
@@ -174,11 +179,6 @@
         "title": "使用JS快速获取video视频任意位置的缩略图",
         "link": "https://www.zhangxinxu.com/wordpress/2024/01/js-get-video-thumb-poster/",
         "date": "2024-01-15"
-      },
-      {
-        "title": "时代变了，该使用原生popover属性模拟下拉了",
-        "link": "https://www.zhangxinxu.com/wordpress/2024/01/js-html-popover-dropdown/",
-        "date": "2024-01-11"
       }
     ]
   },

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-04-21 23:00:56。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2024-04-22 23:00:34。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -32,6 +32,7 @@
 </summary>
 
 
+- [【张鑫旭-鑫空间-鑫生活】2024-04-22-node环境中使用fluent-ffmpeg每隔一秒视频截图](https://www.zhangxinxu.com/wordpress/2024/04/node-fluent-ffmpeg-screenshot-every-second/) 
 - [【张鑫旭-鑫空间-鑫生活】2024-04-14-今天学习SVG滤镜feGaussianBlur和feDropShadow](https://www.zhangxinxu.com/wordpress/2024/04/svg-filter-fegaussianblur-fedropshadow/) 
 - [【张鑫旭-鑫空间-鑫生活】2024-04-11-SVG滤镜系列之搞懂<feBlend>元素](https://www.zhangxinxu.com/wordpress/2024/04/svg-filter-feblend/) 
 
@@ -71,7 +72,6 @@
 - [【张鑫旭-鑫空间-鑫生活】2024-01-31-HTML-MicroData微数据结构简介](https://www.zhangxinxu.com/wordpress/2024/01/html-microdata/) 
 - [【张鑫旭-鑫空间-鑫生活】2024-01-21-CSS-@scope他来了](https://www.zhangxinxu.com/wordpress/2024/01/css-at-scope/) 
 - [【张鑫旭-鑫空间-鑫生活】2024-01-15-使用JS快速获取video视频任意位置的缩略图](https://www.zhangxinxu.com/wordpress/2024/01/js-get-video-thumb-poster/) 
-- [【张鑫旭-鑫空间-鑫生活】2024-01-11-时代变了，该使用原生popover属性模拟下拉了](https://www.zhangxinxu.com/wordpress/2024/01/js-html-popover-dropdown/) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

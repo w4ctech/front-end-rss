@@ -131,6 +131,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "不使用font-weight等CSS实现文字变瘦或变胖效果",
+        "link": "https://www.zhangxinxu.com/wordpress/2024/05/svg-femorphology-font-weight-thin-stretch/",
+        "date": "2024-05-12"
+      },
+      {
         "title": "node环境中使用fluent-ffmpeg每隔一秒视频截图",
         "link": "https://www.zhangxinxu.com/wordpress/2024/04/node-fluent-ffmpeg-screenshot-every-second/",
         "date": "2024-04-22"
@@ -174,11 +179,6 @@
         "title": "CSS @scope他来了",
         "link": "https://www.zhangxinxu.com/wordpress/2024/01/css-at-scope/",
         "date": "2024-01-21"
-      },
-      {
-        "title": "使用JS快速获取video视频任意位置的缩略图",
-        "link": "https://www.zhangxinxu.com/wordpress/2024/01/js-get-video-thumb-poster/",
-        "date": "2024-01-15"
       }
     ]
   },

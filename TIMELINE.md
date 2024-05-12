@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-05-11 23:00:36。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2024-05-12 23:00:53。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -12,7 +12,7 @@
 <td><a href="#2024-02">02月</a></td>
 <td><a href="#2024-03">03月</a></td>
 <td><a href="#2024-04">04月</a></td>
-<td>05月</td>
+<td><a href="#2024-05">05月</a></td>
 <td>06月</td>
 <td>07月</td>
 <td>08月</td>
@@ -25,6 +25,17 @@
 </table>
 
 ## 文章链接
+
+<details open>
+<summary id="2024-05">
+ 2024-05
+</summary>
+
+
+- [【张鑫旭-鑫空间-鑫生活】2024-05-12-不使用font-weight等CSS实现文字变瘦或变胖效果](https://www.zhangxinxu.com/wordpress/2024/05/svg-femorphology-font-weight-thin-stretch/) 
+
+<div align="right"><a href="#时间分类">⬆返回顶部</a></div>
+</details>
 
 <details open>
 <summary id="2024-04">
@@ -71,7 +82,6 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2024-01-31-HTML-MicroData微数据结构简介](https://www.zhangxinxu.com/wordpress/2024/01/html-microdata/) 
 - [【张鑫旭-鑫空间-鑫生活】2024-01-21-CSS-@scope他来了](https://www.zhangxinxu.com/wordpress/2024/01/css-at-scope/) 
-- [【张鑫旭-鑫空间-鑫生活】2024-01-15-使用JS快速获取video视频任意位置的缩略图](https://www.zhangxinxu.com/wordpress/2024/01/js-get-video-thumb-poster/) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

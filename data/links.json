@@ -131,6 +131,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "如何用简单的Web方法实现图片的马赛克效果",
+        "link": "https://www.zhangxinxu.com/wordpress/2024/05/js-web-svg-canvas-image-mosaic/",
+        "date": "2024-05-19"
+      },
+      {
         "title": "不使用font-weight等CSS实现文字变瘦或变胖效果",
         "link": "https://www.zhangxinxu.com/wordpress/2024/05/svg-femorphology-font-weight-thin-stretch/",
         "date": "2024-05-12"
@@ -174,11 +179,6 @@
         "title": "HTML MicroData微数据结构简介",
         "link": "https://www.zhangxinxu.com/wordpress/2024/01/html-microdata/",
         "date": "2024-01-31"
-      },
-      {
-        "title": "CSS @scope他来了",
-        "link": "https://www.zhangxinxu.com/wordpress/2024/01/css-at-scope/",
-        "date": "2024-01-21"
       }
     ]
   },

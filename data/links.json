@@ -131,6 +131,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "聊聊Top Layer顶层特性的隐患与实践",
+        "link": "https://www.zhangxinxu.com/wordpress/2024/06/web-top-layer/",
+        "date": "2024-06-10"
+      },
+      {
         "title": "记一次技术交流，feMerge滤镜复制任意DOM元素样式",
         "link": "https://www.zhangxinxu.com/wordpress/2024/05/svg-femerge-clone-dom-css-style/",
         "date": "2024-05-30"
@@ -174,11 +179,6 @@
         "title": "今天才知道，Web网页也能阻止息屏了",
         "link": "https://www.zhangxinxu.com/wordpress/2024/03/js-screen-wake-lock-api/",
         "date": "2024-03-17"
-      },
-      {
-        "title": "不改变音调情况下Audio音频的倍速合成JS实现",
-        "link": "https://www.zhangxinxu.com/wordpress/2024/02/js-audioencoder-backplayrate-audiobuffer/",
-        "date": "2024-02-29"
       }
     ]
   },

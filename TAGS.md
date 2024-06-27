@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2024-06-26 23:00:37。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2024-06-27 23:00:43。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -168,6 +168,7 @@
 
 
 
+- [【张鑫旭-鑫空间-鑫生活】告别JS浮层，全新的CSS-Anchor-Positioning锚点定位API](https://www.zhangxinxu.com/wordpress/2024/06/css-anchor-positioning-api/)
 - [【张鑫旭-鑫空间-鑫生活】记一次技术交流，feMerge滤镜复制任意DOM元素样式](https://www.zhangxinxu.com/wordpress/2024/05/svg-femerge-clone-dom-css-style/)
 - [......【查看更多】......](./details/tags/javascript.md)
 
@@ -366,7 +367,6 @@
 
 - [【张鑫旭-鑫空间-鑫生活】聊聊Top-Layer顶层特性的隐患与实践](https://www.zhangxinxu.com/wordpress/2024/06/web-top-layer/)
 - [【张鑫旭-鑫空间-鑫生活】如何用简单的Web方法实现图片的马赛克效果](https://www.zhangxinxu.com/wordpress/2024/05/js-web-svg-canvas-image-mosaic/)
-- [【张鑫旭-鑫空间-鑫生活】今天才知道，Web网页也能阻止息屏了](https://www.zhangxinxu.com/wordpress/2024/03/js-screen-wake-lock-api/)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

@@ -131,6 +131,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "告别JS浮层，全新的CSS Anchor Positioning锚点定位API",
+        "link": "https://www.zhangxinxu.com/wordpress/2024/06/css-anchor-positioning-api/",
+        "date": "2024-06-27"
+      },
+      {
         "title": "聊聊Top Layer顶层特性的隐患与实践",
         "link": "https://www.zhangxinxu.com/wordpress/2024/06/web-top-layer/",
         "date": "2024-06-10"
@@ -174,11 +179,6 @@
         "title": "CSS initial-letter属性，嗯……也就这样吧",
         "link": "https://www.zhangxinxu.com/wordpress/2024/03/css-initial-letter/",
         "date": "2024-03-21"
-      },
-      {
-        "title": "今天才知道，Web网页也能阻止息屏了",
-        "link": "https://www.zhangxinxu.com/wordpress/2024/03/js-screen-wake-lock-api/",
-        "date": "2024-03-17"
       }
     ]
   },

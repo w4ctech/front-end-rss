@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-06-26 23:00:37。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2024-06-27 23:00:43。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -32,6 +32,7 @@
 </summary>
 
 
+- [【张鑫旭-鑫空间-鑫生活】2024-06-27-告别JS浮层，全新的CSS-Anchor-Positioning锚点定位API](https://www.zhangxinxu.com/wordpress/2024/06/css-anchor-positioning-api/) 
 - [【张鑫旭-鑫空间-鑫生活】2024-06-10-聊聊Top-Layer顶层特性的隐患与实践](https://www.zhangxinxu.com/wordpress/2024/06/web-top-layer/) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
@@ -71,7 +72,6 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2024-03-31-CSS-Nesting嵌套与@scope规则也太雷同了吧？](https://www.zhangxinxu.com/wordpress/2024/03/css-nesting-scope-rules/) 
 - [【张鑫旭-鑫空间-鑫生活】2024-03-21-CSS-initial-letter属性，嗯……也就这样吧](https://www.zhangxinxu.com/wordpress/2024/03/css-initial-letter/) 
-- [【张鑫旭-鑫空间-鑫生活】2024-03-17-今天才知道，Web网页也能阻止息屏了](https://www.zhangxinxu.com/wordpress/2024/03/js-screen-wake-lock-api/) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

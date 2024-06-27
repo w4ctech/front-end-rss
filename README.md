@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2024-06-26 23:00:37，:rocket: 更新条数: +10， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2024-06-27 23:00:43，:rocket: 更新条数: +10， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -296,6 +296,7 @@
 </summary>
 
 
+- [2024-06-27-告别JS浮层，全新的CSS-Anchor-Positioning锚点定位API](https://www.zhangxinxu.com/wordpress/2024/06/css-anchor-positioning-api/) ![](assets/new.png)  
 - [2024-06-10-聊聊Top-Layer顶层特性的隐患与实践](https://www.zhangxinxu.com/wordpress/2024/06/web-top-layer/) ![](assets/new.png)  
 - [2024-05-30-记一次技术交流，feMerge滤镜复制任意DOM元素样式](https://www.zhangxinxu.com/wordpress/2024/05/svg-femerge-clone-dom-css-style/) ![](assets/new.png)  
 - [2024-05-19-如何用简单的Web方法实现图片的马赛克效果](https://www.zhangxinxu.com/wordpress/2024/05/js-web-svg-canvas-image-mosaic/) ![](assets/new.png)  
@@ -305,7 +306,6 @@
 - [2024-04-11-SVG滤镜系列之搞懂<feBlend>元素](https://www.zhangxinxu.com/wordpress/2024/04/svg-filter-feblend/) ![](assets/new.png)  
 - [2024-03-31-CSS-Nesting嵌套与@scope规则也太雷同了吧？](https://www.zhangxinxu.com/wordpress/2024/03/css-nesting-scope-rules/) ![](assets/new.png)  
 - [2024-03-21-CSS-initial-letter属性，嗯……也就这样吧](https://www.zhangxinxu.com/wordpress/2024/03/css-initial-letter/) ![](assets/new.png)  
-- [2024-03-17-今天才知道，Web网页也能阻止息屏了](https://www.zhangxinxu.com/wordpress/2024/03/js-screen-wake-lock-api/) ![](assets/new.png)  
 - [......【查看更多】......](./details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

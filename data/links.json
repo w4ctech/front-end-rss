@@ -131,6 +131,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "CSS transition-behavior让display none也有动画效果",
+        "link": "https://www.zhangxinxu.com/wordpress/2024/06/css-transition-behavior/",
+        "date": "2024-06-29"
+      },
+      {
         "title": "告别JS浮层，全新的CSS Anchor Positioning锚点定位API",
         "link": "https://www.zhangxinxu.com/wordpress/2024/06/css-anchor-positioning-api/",
         "date": "2024-06-27"
@@ -174,11 +179,6 @@
         "title": "CSS Nesting嵌套与@scope规则也太雷同了吧？",
         "link": "https://www.zhangxinxu.com/wordpress/2024/03/css-nesting-scope-rules/",
         "date": "2024-03-31"
-      },
-      {
-        "title": "CSS initial-letter属性，嗯……也就这样吧",
-        "link": "https://www.zhangxinxu.com/wordpress/2024/03/css-initial-letter/",
-        "date": "2024-03-21"
       }
     ]
   },

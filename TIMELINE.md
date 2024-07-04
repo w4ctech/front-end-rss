@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-07-03 23:01:33。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2024-07-04 23:02:12。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -10,11 +10,11 @@
 <tr>
 <td>01月</td>
 <td>02月</td>
-<td><a href="#2024-03">03月</a></td>
+<td>03月</td>
 <td><a href="#2024-04">04月</a></td>
 <td><a href="#2024-05">05月</a></td>
 <td><a href="#2024-06">06月</a></td>
-<td>07月</td>
+<td><a href="#2024-07">07月</a></td>
 <td>08月</td>
 <td>09月</td>
 <td>10月</td>
@@ -25,6 +25,17 @@
 </table>
 
 ## 文章链接
+
+<details open>
+<summary id="2024-07">
+ 2024-07
+</summary>
+
+
+- [【张鑫旭-鑫空间-鑫生活】2024-07-04-如何使用纯CSS鉴别是不是Safari浏览器](https://www.zhangxinxu.com/wordpress/2024/07/css-safari-detect/) 
+
+<div align="right"><a href="#时间分类">⬆返回顶部</a></div>
+</details>
 
 <details open>
 <summary id="2024-06">
@@ -61,17 +72,6 @@
 - [【张鑫旭-鑫空间-鑫生活】2024-04-22-node环境中使用fluent-ffmpeg每隔一秒视频截图](https://www.zhangxinxu.com/wordpress/2024/04/node-fluent-ffmpeg-screenshot-every-second/) 
 - [【张鑫旭-鑫空间-鑫生活】2024-04-14-今天学习SVG滤镜feGaussianBlur和feDropShadow](https://www.zhangxinxu.com/wordpress/2024/04/svg-filter-fegaussianblur-fedropshadow/) 
 - [【张鑫旭-鑫空间-鑫生活】2024-04-11-SVG滤镜系列之搞懂<feBlend>元素](https://www.zhangxinxu.com/wordpress/2024/04/svg-filter-feblend/) 
-
-<div align="right"><a href="#时间分类">⬆返回顶部</a></div>
-</details>
-
-<details open>
-<summary id="2024-03">
- 2024-03
-</summary>
-
-
-- [【张鑫旭-鑫空间-鑫生活】2024-03-31-CSS-Nesting嵌套与@scope规则也太雷同了吧？](https://www.zhangxinxu.com/wordpress/2024/03/css-nesting-scope-rules/) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

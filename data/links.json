@@ -131,6 +131,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "如何使用纯CSS鉴别是不是Safari浏览器",
+        "link": "https://www.zhangxinxu.com/wordpress/2024/07/css-safari-detect/",
+        "date": "2024-07-04"
+      },
+      {
         "title": "CSS transition-behavior让display none也有动画效果",
         "link": "https://www.zhangxinxu.com/wordpress/2024/06/css-transition-behavior/",
         "date": "2024-06-29"
@@ -174,11 +179,6 @@
         "title": "SVG滤镜系列之搞懂<feBlend>元素",
         "link": "https://www.zhangxinxu.com/wordpress/2024/04/svg-filter-feblend/",
         "date": "2024-04-11"
-      },
-      {
-        "title": "CSS Nesting嵌套与@scope规则也太雷同了吧？",
-        "link": "https://www.zhangxinxu.com/wordpress/2024/03/css-nesting-scope-rules/",
-        "date": "2024-03-31"
       }
     ]
   },

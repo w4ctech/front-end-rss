@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-07-13 23:01:01。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2024-07-14 23:00:50。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -32,6 +32,7 @@
 </summary>
 
 
+- [【张鑫旭-鑫空间-鑫生活】2024-07-14-了解infinity、pi等CSS-calc计算关键字](https://www.zhangxinxu.com/wordpress/2024/07/css-calc-keyword-infinity-pi-e/) 
 - [【张鑫旭-鑫空间-鑫生活】2024-07-04-如何使用纯CSS鉴别是不是Safari浏览器](https://www.zhangxinxu.com/wordpress/2024/07/css-safari-detect/) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
@@ -71,7 +72,6 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2024-04-22-node环境中使用fluent-ffmpeg每隔一秒视频截图](https://www.zhangxinxu.com/wordpress/2024/04/node-fluent-ffmpeg-screenshot-every-second/) 
 - [【张鑫旭-鑫空间-鑫生活】2024-04-14-今天学习SVG滤镜feGaussianBlur和feDropShadow](https://www.zhangxinxu.com/wordpress/2024/04/svg-filter-fegaussianblur-fedropshadow/) 
-- [【张鑫旭-鑫空间-鑫生活】2024-04-11-SVG滤镜系列之搞懂<feBlend>元素](https://www.zhangxinxu.com/wordpress/2024/04/svg-filter-feblend/) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

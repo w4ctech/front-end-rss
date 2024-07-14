@@ -131,6 +131,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "了解infinity、pi等CSS calc()计算关键字",
+        "link": "https://www.zhangxinxu.com/wordpress/2024/07/css-calc-keyword-infinity-pi-e/",
+        "date": "2024-07-14"
+      },
+      {
         "title": "如何使用纯CSS鉴别是不是Safari浏览器",
         "link": "https://www.zhangxinxu.com/wordpress/2024/07/css-safari-detect/",
         "date": "2024-07-04"
@@ -174,11 +179,6 @@
         "title": "今天学习SVG滤镜feGaussianBlur和feDropShadow",
         "link": "https://www.zhangxinxu.com/wordpress/2024/04/svg-filter-fegaussianblur-fedropshadow/",
         "date": "2024-04-14"
-      },
-      {
-        "title": "SVG滤镜系列之搞懂<feBlend>元素",
-        "link": "https://www.zhangxinxu.com/wordpress/2024/04/svg-filter-feblend/",
-        "date": "2024-04-11"
       }
     ]
   },

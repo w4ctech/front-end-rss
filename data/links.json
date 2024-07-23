@@ -131,6 +131,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "关于《HTML并不简单》这本书",
+        "link": "https://www.zhangxinxu.com/wordpress/2024/07/html%e5%b9%b6%e4%b8%8d%e7%ae%80%e5%8d%95/",
+        "date": "2024-07-23"
+      },
+      {
         "title": "今日学习CSS文本自定义高亮API",
         "link": "https://www.zhangxinxu.com/wordpress/2024/07/css-custom-highlight-api/",
         "date": "2024-07-18"
@@ -174,11 +179,6 @@
         "title": "不使用font-weight等CSS实现文字变瘦或变胖效果",
         "link": "https://www.zhangxinxu.com/wordpress/2024/05/svg-femorphology-font-weight-thin-stretch/",
         "date": "2024-05-12"
-      },
-      {
-        "title": "node环境中使用fluent-ffmpeg每隔一秒视频截图",
-        "link": "https://www.zhangxinxu.com/wordpress/2024/04/node-fluent-ffmpeg-screenshot-every-second/",
-        "date": "2024-04-22"
       }
     ]
   },

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-07-27 23:00:50。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2024-07-28 23:00:35。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -32,6 +32,7 @@
 </summary>
 
 
+- [【张鑫旭-鑫空间-鑫生活】2024-07-28-独家，MP3音频淡入淡出播放和转换的JS实现](https://www.zhangxinxu.com/wordpress/2024/07/js-mp3-audio-fadein-fadeout-convert/) 
 - [【张鑫旭-鑫空间-鑫生活】2024-07-23-关于《HTML并不简单》这本书](https://www.zhangxinxu.com/wordpress/2024/07/html%e5%b9%b6%e4%b8%8d%e7%ae%80%e5%8d%95/) 
 - [【张鑫旭-鑫空间-鑫生活】2024-07-18-今日学习CSS文本自定义高亮API](https://www.zhangxinxu.com/wordpress/2024/07/css-custom-highlight-api/) 
 - [【张鑫旭-鑫空间-鑫生活】2024-07-14-了解infinity、pi等CSS-calc计算关键字](https://www.zhangxinxu.com/wordpress/2024/07/css-calc-keyword-infinity-pi-e/) 
@@ -61,7 +62,6 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2024-05-30-记一次技术交流，feMerge滤镜复制任意DOM元素样式](https://www.zhangxinxu.com/wordpress/2024/05/svg-femerge-clone-dom-css-style/) 
 - [【张鑫旭-鑫空间-鑫生活】2024-05-19-如何用简单的Web方法实现图片的马赛克效果](https://www.zhangxinxu.com/wordpress/2024/05/js-web-svg-canvas-image-mosaic/) 
-- [【张鑫旭-鑫空间-鑫生活】2024-05-12-不使用font-weight等CSS实现文字变瘦或变胖效果](https://www.zhangxinxu.com/wordpress/2024/05/svg-femorphology-font-weight-thin-stretch/) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

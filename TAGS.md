@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2024-07-27 23:00:50。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2024-07-28 23:00:35。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -167,6 +167,7 @@
 
 
 
+- [【张鑫旭-鑫空间-鑫生活】独家，MP3音频淡入淡出播放和转换的JS实现](https://www.zhangxinxu.com/wordpress/2024/07/js-mp3-audio-fadein-fadeout-convert/)
 - [【张鑫旭-鑫空间-鑫生活】告别JS浮层，全新的CSS-Anchor-Positioning锚点定位API](https://www.zhangxinxu.com/wordpress/2024/06/css-anchor-positioning-api/)
 - [【张鑫旭-鑫空间-鑫生活】记一次技术交流，feMerge滤镜复制任意DOM元素样式](https://www.zhangxinxu.com/wordpress/2024/05/svg-femerge-clone-dom-css-style/)
 - [......【查看更多】......](./details/tags/javascript.md)
@@ -189,7 +190,6 @@
 - [【张鑫旭-鑫空间-鑫生活】了解infinity、pi等CSS-calc计算关键字](https://www.zhangxinxu.com/wordpress/2024/07/css-calc-keyword-infinity-pi-e/)
 - [【张鑫旭-鑫空间-鑫生活】如何使用纯CSS鉴别是不是Safari浏览器](https://www.zhangxinxu.com/wordpress/2024/07/css-safari-detect/)
 - [【张鑫旭-鑫空间-鑫生活】CSS-transition-behavior让display-none也有动画效果](https://www.zhangxinxu.com/wordpress/2024/06/css-transition-behavior/)
-- [【张鑫旭-鑫空间-鑫生活】不使用font-weight等CSS实现文字变瘦或变胖效果](https://www.zhangxinxu.com/wordpress/2024/05/svg-femorphology-font-weight-thin-stretch/)
 - [......【查看更多】......](./details/tags/css.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

@@ -131,6 +131,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "独家，MP3音频淡入淡出播放和转换的JS实现",
+        "link": "https://www.zhangxinxu.com/wordpress/2024/07/js-mp3-audio-fadein-fadeout-convert/",
+        "date": "2024-07-28"
+      },
+      {
         "title": "关于《HTML并不简单》这本书",
         "link": "https://www.zhangxinxu.com/wordpress/2024/07/html%e5%b9%b6%e4%b8%8d%e7%ae%80%e5%8d%95/",
         "date": "2024-07-23"
@@ -174,11 +179,6 @@
         "title": "如何用简单的Web方法实现图片的马赛克效果",
         "link": "https://www.zhangxinxu.com/wordpress/2024/05/js-web-svg-canvas-image-mosaic/",
         "date": "2024-05-19"
-      },
-      {
-        "title": "不使用font-weight等CSS实现文字变瘦或变胖效果",
-        "link": "https://www.zhangxinxu.com/wordpress/2024/05/svg-femorphology-font-weight-thin-stretch/",
-        "date": "2024-05-12"
       }
     ]
   },

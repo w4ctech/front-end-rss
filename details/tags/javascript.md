@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-07-27 23:00:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2024-07-28 23:00:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -7,5 +7,6 @@
 
 
 
+- [2024-07-28-独家，MP3音频淡入淡出播放和转换的JS实现](https://www.zhangxinxu.com/wordpress/2024/07/js-mp3-audio-fadein-fadeout-convert/) 
 - [2024-06-27-告别JS浮层，全新的CSS-Anchor-Positioning锚点定位API](https://www.zhangxinxu.com/wordpress/2024/06/css-anchor-positioning-api/) 
 - [2024-05-30-记一次技术交流，feMerge滤镜复制任意DOM元素样式](https://www.zhangxinxu.com/wordpress/2024/05/svg-femerge-clone-dom-css-style/) 

@@ -131,6 +131,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "页面级可视动画View Transitions API初体验",
+        "link": "https://www.zhangxinxu.com/wordpress/2024/08/view-transitions-api/",
+        "date": "2024-08-10"
+      },
+      {
         "title": "独家，MP3音频淡入淡出播放和转换的JS实现",
         "link": "https://www.zhangxinxu.com/wordpress/2024/07/js-mp3-audio-fadein-fadeout-convert/",
         "date": "2024-07-28"
@@ -174,11 +179,6 @@
         "title": "记一次技术交流，feMerge滤镜复制任意DOM元素样式",
         "link": "https://www.zhangxinxu.com/wordpress/2024/05/svg-femerge-clone-dom-css-style/",
         "date": "2024-05-30"
-      },
-      {
-        "title": "如何用简单的Web方法实现图片的马赛克效果",
-        "link": "https://www.zhangxinxu.com/wordpress/2024/05/js-web-svg-canvas-image-mosaic/",
-        "date": "2024-05-19"
       }
     ]
   },

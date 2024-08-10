@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-08-09 23:00:42。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2024-08-10 23:00:53。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -15,7 +15,7 @@
 <td><a href="#2024-05">05月</a></td>
 <td><a href="#2024-06">06月</a></td>
 <td><a href="#2024-07">07月</a></td>
-<td>08月</td>
+<td><a href="#2024-08">08月</a></td>
 <td>09月</td>
 <td>10月</td>
 <td>11月</td>
@@ -25,6 +25,17 @@
 </table>
 
 ## 文章链接
+
+<details open>
+<summary id="2024-08">
+ 2024-08
+</summary>
+
+
+- [【张鑫旭-鑫空间-鑫生活】2024-08-10-页面级可视动画View-Transitions-API初体验](https://www.zhangxinxu.com/wordpress/2024/08/view-transitions-api/) 
+
+<div align="right"><a href="#时间分类">⬆返回顶部</a></div>
+</details>
 
 <details open>
 <summary id="2024-07">
@@ -61,7 +72,6 @@
 
 
 - [【张鑫旭-鑫空间-鑫生活】2024-05-30-记一次技术交流，feMerge滤镜复制任意DOM元素样式](https://www.zhangxinxu.com/wordpress/2024/05/svg-femerge-clone-dom-css-style/) 
-- [【张鑫旭-鑫空间-鑫生活】2024-05-19-如何用简单的Web方法实现图片的马赛克效果](https://www.zhangxinxu.com/wordpress/2024/05/js-web-svg-canvas-image-mosaic/) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

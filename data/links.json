@@ -131,6 +131,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "搞懂SVG中各种Light相关的光源滤镜",
+        "link": "https://www.zhangxinxu.com/wordpress/2024/09/svg-fedistantlight-fepointlight-fespotlight/",
+        "date": "2024-09-08"
+      },
+      {
         "title": "不能落后，好好缕缕CSS滚动动画",
         "link": "https://www.zhangxinxu.com/wordpress/2024/08/css-scroll-timeline/",
         "date": "2024-08-23"
@@ -174,11 +179,6 @@
         "title": "告别JS浮层，全新的CSS Anchor Positioning锚点定位API",
         "link": "https://www.zhangxinxu.com/wordpress/2024/06/css-anchor-positioning-api/",
         "date": "2024-06-27"
-      },
-      {
-        "title": "聊聊Top Layer顶层特性的隐患与实践",
-        "link": "https://www.zhangxinxu.com/wordpress/2024/06/web-top-layer/",
-        "date": "2024-06-10"
       }
     ]
   },

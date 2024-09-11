@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-09-10 23:00:49。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2024-09-11 23:06:33。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -32,6 +32,7 @@
 </summary>
 
 
+- [【张鑫旭-鑫空间-鑫生活】2024-09-11-来了来了，scrollend滚动停止事件也支持了](https://www.zhangxinxu.com/wordpress/2024/09/js-scrollend-event/) 
 - [【张鑫旭-鑫空间-鑫生活】2024-09-08-搞懂SVG中各种Light相关的光源滤镜](https://www.zhangxinxu.com/wordpress/2024/09/svg-fedistantlight-fepointlight-fespotlight/) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
@@ -71,7 +72,6 @@
 
 
 - [【张鑫旭-鑫空间-鑫生活】2024-06-29-CSS-transition-behavior让display-none也有动画效果](https://www.zhangxinxu.com/wordpress/2024/06/css-transition-behavior/) 
-- [【张鑫旭-鑫空间-鑫生活】2024-06-27-告别JS浮层，全新的CSS-Anchor-Positioning锚点定位API](https://www.zhangxinxu.com/wordpress/2024/06/css-anchor-positioning-api/) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

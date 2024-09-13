@@ -131,6 +131,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "好消息，align-content垂直居中也适用普通元素啦",
+        "link": "https://www.zhangxinxu.com/wordpress/2024/09/css-align-content/",
+        "date": "2024-09-13"
+      },
+      {
         "title": "来了来了，scrollend滚动停止事件也支持了",
         "link": "https://www.zhangxinxu.com/wordpress/2024/09/js-scrollend-event/",
         "date": "2024-09-11"
@@ -174,11 +179,6 @@
         "title": "如何使用纯CSS鉴别是不是Safari浏览器",
         "link": "https://www.zhangxinxu.com/wordpress/2024/07/css-safari-detect/",
         "date": "2024-07-04"
-      },
-      {
-        "title": "CSS transition-behavior让display none也有动画效果",
-        "link": "https://www.zhangxinxu.com/wordpress/2024/06/css-transition-behavior/",
-        "date": "2024-06-29"
       }
     ]
   },

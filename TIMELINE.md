@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-09-18 23:02:18。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2024-09-19 23:00:42。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -32,6 +32,7 @@
 </summary>
 
 
+- [【张鑫旭-鑫空间-鑫生活】2024-09-19-实用的JS对象分组静态方法Object.groupBy](https://www.zhangxinxu.com/wordpress/2024/09/js-object-groupby/) 
 - [【张鑫旭-鑫空间-鑫生活】2024-09-13-好消息，align-content垂直居中也适用普通元素啦](https://www.zhangxinxu.com/wordpress/2024/09/css-align-content/) 
 - [【张鑫旭-鑫空间-鑫生活】2024-09-11-来了来了，scrollend滚动停止事件也支持了](https://www.zhangxinxu.com/wordpress/2024/09/js-scrollend-event/) 
 - [【张鑫旭-鑫空间-鑫生活】2024-09-08-搞懂SVG中各种Light相关的光源滤镜](https://www.zhangxinxu.com/wordpress/2024/09/svg-fedistantlight-fepointlight-fespotlight/) 
@@ -61,7 +62,6 @@
 - [【张鑫旭-鑫空间-鑫生活】2024-07-23-关于《HTML并不简单》这本书](https://www.zhangxinxu.com/wordpress/2024/07/html%e5%b9%b6%e4%b8%8d%e7%ae%80%e5%8d%95/) 
 - [【张鑫旭-鑫空间-鑫生活】2024-07-18-今日学习CSS文本自定义高亮API](https://www.zhangxinxu.com/wordpress/2024/07/css-custom-highlight-api/) 
 - [【张鑫旭-鑫空间-鑫生活】2024-07-14-了解infinity、pi等CSS-calc计算关键字](https://www.zhangxinxu.com/wordpress/2024/07/css-calc-keyword-infinity-pi-e/) 
-- [【张鑫旭-鑫空间-鑫生活】2024-07-04-如何使用纯CSS鉴别是不是Safari浏览器](https://www.zhangxinxu.com/wordpress/2024/07/css-safari-detect/) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

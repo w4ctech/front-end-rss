@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-09-18 23:02:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2024-09-19 23:00:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -7,6 +7,7 @@
 
 
 
+- [2024-09-19-实用的JS对象分组静态方法Object.groupBy](https://www.zhangxinxu.com/wordpress/2024/09/js-object-groupby/) 
 - [2024-09-11-来了来了，scrollend滚动停止事件也支持了](https://www.zhangxinxu.com/wordpress/2024/09/js-scrollend-event/) 
 - [2024-08-23-不能落后，好好缕缕CSS滚动动画](https://www.zhangxinxu.com/wordpress/2024/08/css-scroll-timeline/) 
 - [2024-07-28-独家，MP3音频淡入淡出播放和转换的JS实现](https://www.zhangxinxu.com/wordpress/2024/07/js-mp3-audio-fadein-fadeout-convert/) 

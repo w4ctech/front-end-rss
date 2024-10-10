@@ -131,6 +131,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "Nice! Safari也支持CSS @perporty规则了",
+        "link": "https://www.zhangxinxu.com/wordpress/2024/10/css-at-perporty-rule/",
+        "date": "2024-10-10"
+      },
+      {
         "title": "时隔两年，Chrome也支持round等CSS数学函数了",
         "link": "https://www.zhangxinxu.com/wordpress/2024/09/css-math-round-function/",
         "date": "2024-09-25"
@@ -174,11 +179,6 @@
         "title": "关于《HTML并不简单》这本书",
         "link": "https://www.zhangxinxu.com/wordpress/2024/07/html%e5%b9%b6%e4%b8%8d%e7%ae%80%e5%8d%95/",
         "date": "2024-07-23"
-      },
-      {
-        "title": "今日学习CSS文本自定义高亮API",
-        "link": "https://www.zhangxinxu.com/wordpress/2024/07/css-custom-highlight-api/",
-        "date": "2024-07-18"
       }
     ]
   },

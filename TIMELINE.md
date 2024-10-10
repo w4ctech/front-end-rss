@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-10-09 23:07:55。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2024-10-10 23:07:04。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -17,7 +17,7 @@
 <td><a href="#2024-07">07月</a></td>
 <td><a href="#2024-08">08月</a></td>
 <td><a href="#2024-09">09月</a></td>
-<td>10月</td>
+<td><a href="#2024-10">10月</a></td>
 <td>11月</td>
 <td>12月</td>
 </tr>
@@ -25,6 +25,17 @@
 </table>
 
 ## 文章链接
+
+<details open>
+<summary id="2024-10">
+ 2024-10
+</summary>
+
+
+- [【张鑫旭-鑫空间-鑫生活】2024-10-10-Nice!-Safari也支持CSS-@perporty规则了](https://www.zhangxinxu.com/wordpress/2024/10/css-at-perporty-rule/) 
+
+<div align="right"><a href="#时间分类">⬆返回顶部</a></div>
+</details>
 
 <details open>
 <summary id="2024-09">
@@ -61,7 +72,6 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2024-07-28-独家，MP3音频淡入淡出播放和转换的JS实现](https://www.zhangxinxu.com/wordpress/2024/07/js-mp3-audio-fadein-fadeout-convert/) 
 - [【张鑫旭-鑫空间-鑫生活】2024-07-23-关于《HTML并不简单》这本书](https://www.zhangxinxu.com/wordpress/2024/07/html%e5%b9%b6%e4%b8%8d%e7%ae%80%e5%8d%95/) 
-- [【张鑫旭-鑫空间-鑫生活】2024-07-18-今日学习CSS文本自定义高亮API](https://www.zhangxinxu.com/wordpress/2024/07/css-custom-highlight-api/) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2024-10-13 23:00:35，:rocket: 更新条数: +10， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2024-10-14 23:06:30，:rocket: 更新条数: +10， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -296,7 +296,7 @@
 </summary>
 
 
-- [2024-10-10-Nice!-Safari也支持CSS-@perporty规则了](https://www.zhangxinxu.com/wordpress/2024/10/css-at-perporty-rule/) ![](assets/new.png)  
+- [2024-10-10-Nice!-Safari也支持CSS-@property规则了](https://www.zhangxinxu.com/wordpress/2024/10/css-at-perporty-rule/) ![](assets/new.png)  
 - [2024-09-25-时隔两年，Chrome也支持round等CSS数学函数了](https://www.zhangxinxu.com/wordpress/2024/09/css-math-round-function/) ![](assets/new.png)  
 - [2024-09-19-实用的JS对象分组静态方法Object.groupBy](https://www.zhangxinxu.com/wordpress/2024/09/js-object-groupby/) ![](assets/new.png)  
 - [2024-09-13-好消息，align-content垂直居中也适用普通元素啦](https://www.zhangxinxu.com/wordpress/2024/09/css-align-content/) ![](assets/new.png)  

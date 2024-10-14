@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-10-13 23:00:35。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2024-10-14 23:06:30。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -32,7 +32,7 @@
 </summary>
 
 
-- [【张鑫旭-鑫空间-鑫生活】2024-10-10-Nice!-Safari也支持CSS-@perporty规则了](https://www.zhangxinxu.com/wordpress/2024/10/css-at-perporty-rule/) 
+- [【张鑫旭-鑫空间-鑫生活】2024-10-10-Nice!-Safari也支持CSS-@property规则了](https://www.zhangxinxu.com/wordpress/2024/10/css-at-perporty-rule/) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

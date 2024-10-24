@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-10-23 23:07:03。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2024-10-24 23:07:09。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -32,6 +32,7 @@
 </summary>
 
 
+- [【张鑫旭-鑫空间-鑫生活】2024-10-24-Object.is/===、数组at/直接索引、substring/slice的区别](https://www.zhangxinxu.com/wordpress/2024/10/js-object-is-array-at-substring-slice/) 
 - [【张鑫旭-鑫空间-鑫生活】2024-10-10-Nice!-Safari也支持CSS-@property规则了](https://www.zhangxinxu.com/wordpress/2024/10/css-at-perporty-rule/) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
@@ -71,7 +72,6 @@
 
 
 - [【张鑫旭-鑫空间-鑫生活】2024-07-28-独家，MP3音频淡入淡出播放和转换的JS实现](https://www.zhangxinxu.com/wordpress/2024/07/js-mp3-audio-fadein-fadeout-convert/) 
-- [【张鑫旭-鑫空间-鑫生活】2024-07-23-关于《HTML并不简单》这本书](https://www.zhangxinxu.com/wordpress/2024/07/html%e5%b9%b6%e4%b8%8d%e7%ae%80%e5%8d%95/) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

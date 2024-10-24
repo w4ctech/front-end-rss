@@ -131,6 +131,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "Object.is/===、数组at/直接索引、substring/slice的区别",
+        "link": "https://www.zhangxinxu.com/wordpress/2024/10/js-object-is-array-at-substring-slice/",
+        "date": "2024-10-24"
+      },
+      {
         "title": "Nice! Safari也支持CSS @property规则了",
         "link": "https://www.zhangxinxu.com/wordpress/2024/10/css-at-perporty-rule/",
         "date": "2024-10-10"
@@ -174,11 +179,6 @@
         "title": "独家，MP3音频淡入淡出播放和转换的JS实现",
         "link": "https://www.zhangxinxu.com/wordpress/2024/07/js-mp3-audio-fadein-fadeout-convert/",
         "date": "2024-07-28"
-      },
-      {
-        "title": "关于《HTML并不简单》这本书",
-        "link": "https://www.zhangxinxu.com/wordpress/2024/07/html%e5%b9%b6%e4%b8%8d%e7%ae%80%e5%8d%95/",
-        "date": "2024-07-23"
       }
     ]
   },

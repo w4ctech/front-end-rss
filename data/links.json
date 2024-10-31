@@ -131,6 +131,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "Pixi.js中ColorMatrixFilter自带滤镜效果一览",
+        "link": "https://www.zhangxinxu.com/wordpress/2024/10/pixi-js-colormatrixfilter/",
+        "date": "2024-10-31"
+      },
+      {
         "title": "Object.is/===、数组at/直接索引、substring/slice的区别",
         "link": "https://www.zhangxinxu.com/wordpress/2024/10/js-object-is-array-at-substring-slice/",
         "date": "2024-10-24"
@@ -174,11 +179,6 @@
         "title": "页面级可视动画View Transitions API初体验",
         "link": "https://www.zhangxinxu.com/wordpress/2024/08/view-transitions-api/",
         "date": "2024-08-10"
-      },
-      {
-        "title": "独家，MP3音频淡入淡出播放和转换的JS实现",
-        "link": "https://www.zhangxinxu.com/wordpress/2024/07/js-mp3-audio-fadein-fadeout-convert/",
-        "date": "2024-07-28"
       }
     ]
   },

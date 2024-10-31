@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-10-30 23:00:35。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2024-10-31 23:08:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -14,7 +14,7 @@
 <td>04月</td>
 <td>05月</td>
 <td>06月</td>
-<td><a href="#2024-07">07月</a></td>
+<td>07月</td>
 <td><a href="#2024-08">08月</a></td>
 <td><a href="#2024-09">09月</a></td>
 <td><a href="#2024-10">10月</a></td>
@@ -32,6 +32,7 @@
 </summary>
 
 
+- [【张鑫旭-鑫空间-鑫生活】2024-10-31-Pixi.js中ColorMatrixFilter自带滤镜效果一览](https://www.zhangxinxu.com/wordpress/2024/10/pixi-js-colormatrixfilter/) 
 - [【张鑫旭-鑫空间-鑫生活】2024-10-24-Object.is/===、数组at/直接索引、substring/slice的区别](https://www.zhangxinxu.com/wordpress/2024/10/js-object-is-array-at-substring-slice/) 
 - [【张鑫旭-鑫空间-鑫生活】2024-10-10-Nice!-Safari也支持CSS-@property规则了](https://www.zhangxinxu.com/wordpress/2024/10/css-at-perporty-rule/) 
 
@@ -61,17 +62,6 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2024-08-23-不能落后，好好缕缕CSS滚动动画](https://www.zhangxinxu.com/wordpress/2024/08/css-scroll-timeline/) 
 - [【张鑫旭-鑫空间-鑫生活】2024-08-10-页面级可视动画View-Transitions-API初体验](https://www.zhangxinxu.com/wordpress/2024/08/view-transitions-api/) 
-
-<div align="right"><a href="#时间分类">⬆返回顶部</a></div>
-</details>
-
-<details open>
-<summary id="2024-07">
- 2024-07
-</summary>
-
-
-- [【张鑫旭-鑫空间-鑫生活】2024-07-28-独家，MP3音频淡入淡出播放和转换的JS实现](https://www.zhangxinxu.com/wordpress/2024/07/js-mp3-audio-fadein-fadeout-convert/) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

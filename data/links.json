@@ -131,6 +131,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "趁热打铁，SVG feColorMatrix滤镜gogogo!",
+        "link": "https://www.zhangxinxu.com/wordpress/2024/11/svg-fecolormatrix-filter/",
+        "date": "2024-11-10"
+      },
+      {
         "title": "Pixi.js中ColorMatrixFilter自带滤镜效果一览",
         "link": "https://www.zhangxinxu.com/wordpress/2024/10/pixi-js-colormatrixfilter/",
         "date": "2024-10-31"
@@ -174,11 +179,6 @@
         "title": "不能落后，好好缕缕CSS滚动动画",
         "link": "https://www.zhangxinxu.com/wordpress/2024/08/css-scroll-timeline/",
         "date": "2024-08-23"
-      },
-      {
-        "title": "页面级可视动画View Transitions API初体验",
-        "link": "https://www.zhangxinxu.com/wordpress/2024/08/view-transitions-api/",
-        "date": "2024-08-10"
       }
     ]
   },

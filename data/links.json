@@ -131,6 +131,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "JS文本选区变化selectionchange事件实践小记",
+        "link": "https://www.zhangxinxu.com/wordpress/2024/11/js-selectionchange-event/",
+        "date": "2024-11-17"
+      },
+      {
         "title": "这啥?CSS calc-size和interpolate-size,真学不动了",
         "link": "https://www.zhangxinxu.com/wordpress/2024/11/css-calc-interpolate-size/",
         "date": "2024-11-14"
@@ -174,11 +179,6 @@
         "title": "来了来了，scrollend滚动停止事件也支持了",
         "link": "https://www.zhangxinxu.com/wordpress/2024/09/js-scrollend-event/",
         "date": "2024-09-11"
-      },
-      {
-        "title": "搞懂SVG中各种Light相关的光源滤镜",
-        "link": "https://www.zhangxinxu.com/wordpress/2024/09/svg-fedistantlight-fepointlight-fespotlight/",
-        "date": "2024-09-08"
       }
     ]
   },

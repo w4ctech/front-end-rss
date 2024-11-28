@@ -131,6 +131,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "CSS好用的color-mix颜色函数也可以使用啦",
+        "link": "https://www.zhangxinxu.com/wordpress/2024/11/css-color-mix-function/",
+        "date": "2024-11-28"
+      },
+      {
         "title": "CSS Grid布局中的subgrid的适用场景",
         "link": "https://www.zhangxinxu.com/wordpress/2024/11/css-grid-subgrid/",
         "date": "2024-11-24"
@@ -174,11 +179,6 @@
         "title": "实用的JS对象分组静态方法Object.groupBy()",
         "link": "https://www.zhangxinxu.com/wordpress/2024/09/js-object-groupby/",
         "date": "2024-09-19"
-      },
-      {
-        "title": "好消息，align-content垂直居中也适用普通元素啦",
-        "link": "https://www.zhangxinxu.com/wordpress/2024/09/css-align-content/",
-        "date": "2024-09-13"
       }
     ]
   },

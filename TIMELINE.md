@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-12-03 23:07:10。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2024-12-04 23:07:30。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -19,12 +19,23 @@
 <td><a href="#2024-09">09月</a></td>
 <td><a href="#2024-10">10月</a></td>
 <td><a href="#2024-11">11月</a></td>
-<td>12月</td>
+<td><a href="#2024-12">12月</a></td>
 </tr>
 
 </table>
 
 ## 文章链接
+
+<details open>
+<summary id="2024-12">
+ 2024-12
+</summary>
+
+
+- [【张鑫旭-鑫空间-鑫生活】2024-12-04-哇哦，font-palette支持动画和palette-mix混合函数了](https://www.zhangxinxu.com/wordpress/2024/12/font-palette-animation-palette-mix/) 
+
+<div align="right"><a href="#时间分类">⬆返回顶部</a></div>
+</details>
 
 <details open>
 <summary id="2024-11">
@@ -61,7 +72,6 @@
 
 
 - [【张鑫旭-鑫空间-鑫生活】2024-09-25-时隔两年，Chrome也支持round等CSS数学函数了](https://www.zhangxinxu.com/wordpress/2024/09/css-math-round-function/) 
-- [【张鑫旭-鑫空间-鑫生活】2024-09-19-实用的JS对象分组静态方法Object.groupBy](https://www.zhangxinxu.com/wordpress/2024/09/js-object-groupby/) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

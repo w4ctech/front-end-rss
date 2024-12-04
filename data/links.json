@@ -131,6 +131,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "哇哦，font-palette支持动画和palette-mix()混合函数了",
+        "link": "https://www.zhangxinxu.com/wordpress/2024/12/font-palette-animation-palette-mix/",
+        "date": "2024-12-04"
+      },
+      {
         "title": "CSS好用的color-mix颜色函数也可以使用啦",
         "link": "https://www.zhangxinxu.com/wordpress/2024/11/css-color-mix-function/",
         "date": "2024-11-28"
@@ -174,11 +179,6 @@
         "title": "时隔两年，Chrome也支持round等CSS数学函数了",
         "link": "https://www.zhangxinxu.com/wordpress/2024/09/css-math-round-function/",
         "date": "2024-09-25"
-      },
-      {
-        "title": "实用的JS对象分组静态方法Object.groupBy()",
-        "link": "https://www.zhangxinxu.com/wordpress/2024/09/js-object-groupby/",
-        "date": "2024-09-19"
       }
     ]
   },

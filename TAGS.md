@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2024-12-03 23:07:10。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2024-12-04 23:07:30。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -170,7 +170,6 @@
 - [【张鑫旭-鑫空间-鑫生活】JS文本选区变化selectionchange事件实践小记](https://www.zhangxinxu.com/wordpress/2024/11/js-selectionchange-event/)
 - [【张鑫旭-鑫空间-鑫生活】Pixi.js中ColorMatrixFilter自带滤镜效果一览](https://www.zhangxinxu.com/wordpress/2024/10/pixi-js-colormatrixfilter/)
 - [【张鑫旭-鑫空间-鑫生活】Object.is/===、数组at/直接索引、substring/slice的区别](https://www.zhangxinxu.com/wordpress/2024/10/js-object-is-array-at-substring-slice/)
-- [【张鑫旭-鑫空间-鑫生活】实用的JS对象分组静态方法Object.groupBy](https://www.zhangxinxu.com/wordpress/2024/09/js-object-groupby/)
 - [......【查看更多】......](./details/tags/javascript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -187,6 +186,7 @@
 
 
 
+- [【张鑫旭-鑫空间-鑫生活】哇哦，font-palette支持动画和palette-mix混合函数了](https://www.zhangxinxu.com/wordpress/2024/12/font-palette-animation-palette-mix/)
 - [【张鑫旭-鑫空间-鑫生活】CSS好用的color-mix颜色函数也可以使用啦](https://www.zhangxinxu.com/wordpress/2024/11/css-color-mix-function/)
 - [【张鑫旭-鑫空间-鑫生活】CSS-Grid布局中的subgrid的适用场景](https://www.zhangxinxu.com/wordpress/2024/11/css-grid-subgrid/)
 - [【张鑫旭-鑫空间-鑫生活】这啥?CSS-calc-size和interpolate-size,真学不动了](https://www.zhangxinxu.com/wordpress/2024/11/css-calc-interpolate-size/)

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-12-04 23:07:30。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2024-12-05 23:00:46。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -16,7 +16,7 @@
 <td>06月</td>
 <td>07月</td>
 <td>08月</td>
-<td><a href="#2024-09">09月</a></td>
+<td>09月</td>
 <td><a href="#2024-10">10月</a></td>
 <td><a href="#2024-11">11月</a></td>
 <td><a href="#2024-12">12月</a></td>
@@ -32,6 +32,7 @@
 </summary>
 
 
+- [【张鑫旭-鑫空间-鑫生活】2024-12-05-英文单词朗读基于音素预估时长的JS算法](https://www.zhangxinxu.com/wordpress/2024/12/js-word-speach-split-time-calc/) 
 - [【张鑫旭-鑫空间-鑫生活】2024-12-04-哇哦，font-palette支持动画和palette-mix混合函数了](https://www.zhangxinxu.com/wordpress/2024/12/font-palette-animation-palette-mix/) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
@@ -61,17 +62,6 @@
 - [【张鑫旭-鑫空间-鑫生活】2024-10-31-Pixi.js中ColorMatrixFilter自带滤镜效果一览](https://www.zhangxinxu.com/wordpress/2024/10/pixi-js-colormatrixfilter/) 
 - [【张鑫旭-鑫空间-鑫生活】2024-10-24-Object.is/===、数组at/直接索引、substring/slice的区别](https://www.zhangxinxu.com/wordpress/2024/10/js-object-is-array-at-substring-slice/) 
 - [【张鑫旭-鑫空间-鑫生活】2024-10-10-Nice!-Safari也支持CSS-@property规则了](https://www.zhangxinxu.com/wordpress/2024/10/css-at-perporty-rule/) 
-
-<div align="right"><a href="#时间分类">⬆返回顶部</a></div>
-</details>
-
-<details open>
-<summary id="2024-09">
- 2024-09
-</summary>
-
-
-- [【张鑫旭-鑫空间-鑫生活】2024-09-25-时隔两年，Chrome也支持round等CSS数学函数了](https://www.zhangxinxu.com/wordpress/2024/09/css-math-round-function/) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

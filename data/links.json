@@ -131,6 +131,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "英文单词朗读基于音素预估时长的JS算法",
+        "link": "https://www.zhangxinxu.com/wordpress/2024/12/js-word-speach-split-time-calc/",
+        "date": "2024-12-05"
+      },
+      {
         "title": "哇哦，font-palette支持动画和palette-mix()混合函数了",
         "link": "https://www.zhangxinxu.com/wordpress/2024/12/font-palette-animation-palette-mix/",
         "date": "2024-12-04"
@@ -174,11 +179,6 @@
         "title": "Nice! Safari也支持CSS @property规则了",
         "link": "https://www.zhangxinxu.com/wordpress/2024/10/css-at-perporty-rule/",
         "date": "2024-10-10"
-      },
-      {
-        "title": "时隔两年，Chrome也支持round等CSS数学函数了",
-        "link": "https://www.zhangxinxu.com/wordpress/2024/09/css-math-round-function/",
-        "date": "2024-09-25"
       }
     ]
   },

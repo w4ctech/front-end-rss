@@ -131,6 +131,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "全新的CSS相对颜色语法-使用from和calc()",
+        "link": "https://www.zhangxinxu.com/wordpress/2024/12/css-relative-color-from-calc/",
+        "date": "2024-12-11"
+      },
+      {
         "title": "英文单词朗读基于音素预估时长的JS算法",
         "link": "https://www.zhangxinxu.com/wordpress/2024/12/js-word-speach-split-time-calc/",
         "date": "2024-12-05"
@@ -174,11 +179,6 @@
         "title": "Object.is/===、数组at/直接索引、substring/slice的区别",
         "link": "https://www.zhangxinxu.com/wordpress/2024/10/js-object-is-array-at-substring-slice/",
         "date": "2024-10-24"
-      },
-      {
-        "title": "Nice! Safari也支持CSS @property规则了",
-        "link": "https://www.zhangxinxu.com/wordpress/2024/10/css-at-perporty-rule/",
-        "date": "2024-10-10"
       }
     ]
   },

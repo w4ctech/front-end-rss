@@ -131,6 +131,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "如何使用JS获取系统内存、CPU/GPU、电量等信息",
+        "link": "https://www.zhangxinxu.com/wordpress/2024/12/js-get-memory-cpu-gpu-battery/",
+        "date": "2024-12-22"
+      },
+      {
         "title": "全新的CSS相对颜色语法-使用from和calc()",
         "link": "https://www.zhangxinxu.com/wordpress/2024/12/css-relative-color-from-calc/",
         "date": "2024-12-11"
@@ -174,11 +179,6 @@
         "title": "Pixi.js中ColorMatrixFilter自带滤镜效果一览",
         "link": "https://www.zhangxinxu.com/wordpress/2024/10/pixi-js-colormatrixfilter/",
         "date": "2024-10-31"
-      },
-      {
-        "title": "Object.is/===、数组at/直接索引、substring/slice的区别",
-        "link": "https://www.zhangxinxu.com/wordpress/2024/10/js-object-is-array-at-substring-slice/",
-        "date": "2024-10-24"
       }
     ]
   },

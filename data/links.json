@@ -131,6 +131,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "一个新的CSS媒体查询prefers-reduced-transparency",
+        "link": "https://www.zhangxinxu.com/wordpress/2025/01/css-media-cprefers-reduced-transparency/",
+        "date": "2025-01-02"
+      },
+      {
         "title": "HTML select下拉框支持hr元素啦",
         "link": "https://www.zhangxinxu.com/wordpress/2024/12/html-select-support-hr/",
         "date": "2024-12-29"
@@ -174,11 +179,6 @@
         "title": "这啥?CSS calc-size和interpolate-size,真学不动了",
         "link": "https://www.zhangxinxu.com/wordpress/2024/11/css-calc-interpolate-size/",
         "date": "2024-11-14"
-      },
-      {
-        "title": "趁热打铁，SVG feColorMatrix滤镜gogogo!",
-        "link": "https://www.zhangxinxu.com/wordpress/2024/11/svg-fecolormatrix-filter/",
-        "date": "2024-11-10"
       }
     ]
   },

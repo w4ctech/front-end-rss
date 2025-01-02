@@ -1,8 +1,26 @@
-:alarm_clock: 更新时间: 2025-01-01 23:00:33。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2025-01-02 23:07:00。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
 <table>
+
+<tr>
+<th colspan="12">2025年</th>
+</tr>
+<tr>
+<td><a href="#2025-01">01月</a></td>
+<td>02月</td>
+<td>03月</td>
+<td>04月</td>
+<td>05月</td>
+<td>06月</td>
+<td>07月</td>
+<td>08月</td>
+<td>09月</td>
+<td>10月</td>
+<td>11月</td>
+<td>12月</td>
+</tr>
 
 <tr>
 <th colspan="12">2024年</th>
@@ -25,6 +43,17 @@
 </table>
 
 ## 文章链接
+
+<details open>
+<summary id="2025-01">
+ 2025-01
+</summary>
+
+
+- [【张鑫旭-鑫空间-鑫生活】2025-01-02-一个新的CSS媒体查询prefers-reduced-transparency](https://www.zhangxinxu.com/wordpress/2025/01/css-media-cprefers-reduced-transparency/) 
+
+<div align="right"><a href="#时间分类">⬆返回顶部</a></div>
+</details>
 
 <details open>
 <summary id="2024-12">
@@ -51,7 +80,6 @@
 - [【张鑫旭-鑫空间-鑫生活】2024-11-24-CSS-Grid布局中的subgrid的适用场景](https://www.zhangxinxu.com/wordpress/2024/11/css-grid-subgrid/) 
 - [【张鑫旭-鑫空间-鑫生活】2024-11-17-JS文本选区变化selectionchange事件实践小记](https://www.zhangxinxu.com/wordpress/2024/11/js-selectionchange-event/) 
 - [【张鑫旭-鑫空间-鑫生活】2024-11-14-这啥?CSS-calc-size和interpolate-size,真学不动了](https://www.zhangxinxu.com/wordpress/2024/11/css-calc-interpolate-size/) 
-- [【张鑫旭-鑫空间-鑫生活】2024-11-10-趁热打铁，SVG-feColorMatrix滤镜gogogo!](https://www.zhangxinxu.com/wordpress/2024/11/svg-fecolormatrix-filter/) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

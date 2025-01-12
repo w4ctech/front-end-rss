@@ -131,6 +131,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "Broadcast Channel API简介，可实现Web页面广播通信",
+        "link": "https://www.zhangxinxu.com/wordpress/2025/01/js-broadcast-channel-api/",
+        "date": "2025-01-12"
+      },
+      {
         "title": "一个新的CSS媒体查询prefers-reduced-transparency",
         "link": "https://www.zhangxinxu.com/wordpress/2025/01/css-media-cprefers-reduced-transparency/",
         "date": "2025-01-02"
@@ -174,11 +179,6 @@
         "title": "JS文本选区变化selectionchange事件实践小记",
         "link": "https://www.zhangxinxu.com/wordpress/2024/11/js-selectionchange-event/",
         "date": "2024-11-17"
-      },
-      {
-        "title": "这啥?CSS calc-size和interpolate-size,真学不动了",
-        "link": "https://www.zhangxinxu.com/wordpress/2024/11/css-calc-interpolate-size/",
-        "date": "2024-11-14"
       }
     ]
   },

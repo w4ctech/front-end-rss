@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-01-13 23:01:01。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2025-01-14 23:02:22。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -50,6 +50,7 @@
 </summary>
 
 
+- [【张鑫旭-鑫空间-鑫生活】2025-01-14-如何手搓SVG半圆弧，手把手教程](https://www.zhangxinxu.com/wordpress/2025/01/svg-arc-path-circle/) 
 - [【张鑫旭-鑫空间-鑫生活】2025-01-12-Broadcast-Channel-API简介，可实现Web页面广播通信](https://www.zhangxinxu.com/wordpress/2025/01/js-broadcast-channel-api/) 
 - [【张鑫旭-鑫空间-鑫生活】2025-01-02-一个新的CSS媒体查询prefers-reduced-transparency](https://www.zhangxinxu.com/wordpress/2025/01/css-media-cprefers-reduced-transparency/) 
 
@@ -79,7 +80,6 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2024-11-28-CSS好用的color-mix颜色函数也可以使用啦](https://www.zhangxinxu.com/wordpress/2024/11/css-color-mix-function/) 
 - [【张鑫旭-鑫空间-鑫生活】2024-11-24-CSS-Grid布局中的subgrid的适用场景](https://www.zhangxinxu.com/wordpress/2024/11/css-grid-subgrid/) 
-- [【张鑫旭-鑫空间-鑫生活】2024-11-17-JS文本选区变化selectionchange事件实践小记](https://www.zhangxinxu.com/wordpress/2024/11/js-selectionchange-event/) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

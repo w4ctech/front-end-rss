@@ -131,6 +131,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "JS Array数组新的with方法，你知道作用吗？",
+        "link": "https://www.zhangxinxu.com/wordpress/2025/02/js-array-with/",
+        "date": "2025-02-06"
+      },
+      {
         "title": "JS原生的深拷贝API structuredClone函数简介",
         "link": "https://www.zhangxinxu.com/wordpress/2025/01/js-api-structuredclone/",
         "date": "2025-01-22"
@@ -174,11 +179,6 @@
         "title": "哇哦，font-palette支持动画和palette-mix()混合函数了",
         "link": "https://www.zhangxinxu.com/wordpress/2024/12/font-palette-animation-palette-mix/",
         "date": "2024-12-04"
-      },
-      {
-        "title": "CSS好用的color-mix颜色函数也可以使用啦",
-        "link": "https://www.zhangxinxu.com/wordpress/2024/11/css-color-mix-function/",
-        "date": "2024-11-28"
       }
     ]
   },

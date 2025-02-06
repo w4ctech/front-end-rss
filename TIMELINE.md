@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-02-05 23:07:01。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2025-02-06 23:07:26。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -9,7 +9,7 @@
 </tr>
 <tr>
 <td><a href="#2025-01">01月</a></td>
-<td>02月</td>
+<td><a href="#2025-02">02月</a></td>
 <td>03月</td>
 <td>04月</td>
 <td>05月</td>
@@ -36,13 +36,24 @@
 <td>08月</td>
 <td>09月</td>
 <td>10月</td>
-<td><a href="#2024-11">11月</a></td>
+<td>11月</td>
 <td><a href="#2024-12">12月</a></td>
 </tr>
 
 </table>
 
 ## 文章链接
+
+<details open>
+<summary id="2025-02">
+ 2025-02
+</summary>
+
+
+- [【张鑫旭-鑫空间-鑫生活】2025-02-06-JS-Array数组新的with方法，你知道作用吗？](https://www.zhangxinxu.com/wordpress/2025/02/js-array-with/) 
+
+<div align="right"><a href="#时间分类">⬆返回顶部</a></div>
+</details>
 
 <details open>
 <summary id="2025-01">
@@ -69,17 +80,6 @@
 - [【张鑫旭-鑫空间-鑫生活】2024-12-11-全新的CSS相对颜色语法-使用from和calc](https://www.zhangxinxu.com/wordpress/2024/12/css-relative-color-from-calc/) 
 - [【张鑫旭-鑫空间-鑫生活】2024-12-05-英文单词朗读基于音素预估时长的JS算法](https://www.zhangxinxu.com/wordpress/2024/12/js-word-speach-split-time-calc/) 
 - [【张鑫旭-鑫空间-鑫生活】2024-12-04-哇哦，font-palette支持动画和palette-mix混合函数了](https://www.zhangxinxu.com/wordpress/2024/12/font-palette-animation-palette-mix/) 
-
-<div align="right"><a href="#时间分类">⬆返回顶部</a></div>
-</details>
-
-<details open>
-<summary id="2024-11">
- 2024-11
-</summary>
-
-
-- [【张鑫旭-鑫空间-鑫生活】2024-11-28-CSS好用的color-mix颜色函数也可以使用啦](https://www.zhangxinxu.com/wordpress/2024/11/css-color-mix-function/) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

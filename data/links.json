@@ -131,6 +131,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "JS Set新支持了intersection, union, difference等方法",
+        "link": "https://www.zhangxinxu.com/wordpress/2025/02/js-set-intersection-union-difference/",
+        "date": "2025-02-10"
+      },
+      {
         "title": "JS Array数组新的with方法，你知道作用吗？",
         "link": "https://www.zhangxinxu.com/wordpress/2025/02/js-array-with/",
         "date": "2025-02-06"
@@ -174,11 +179,6 @@
         "title": "英文单词朗读基于音素预估时长的JS算法",
         "link": "https://www.zhangxinxu.com/wordpress/2024/12/js-word-speach-split-time-calc/",
         "date": "2024-12-05"
-      },
-      {
-        "title": "哇哦，font-palette支持动画和palette-mix()混合函数了",
-        "link": "https://www.zhangxinxu.com/wordpress/2024/12/font-palette-animation-palette-mix/",
-        "date": "2024-12-04"
       }
     ]
   },

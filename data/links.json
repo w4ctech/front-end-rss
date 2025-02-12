@@ -131,6 +131,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "不要搞混了，不是text而是CSS font-size-adjust属性",
+        "link": "https://www.zhangxinxu.com/wordpress/2025/02/css-font-size-adjust/",
+        "date": "2025-02-12"
+      },
+      {
         "title": "JS Set新支持了intersection, union, difference等方法",
         "link": "https://www.zhangxinxu.com/wordpress/2025/02/js-set-intersection-union-difference/",
         "date": "2025-02-10"
@@ -174,11 +179,6 @@
         "title": "全新的CSS相对颜色语法-使用from和calc()",
         "link": "https://www.zhangxinxu.com/wordpress/2024/12/css-relative-color-from-calc/",
         "date": "2024-12-11"
-      },
-      {
-        "title": "英文单词朗读基于音素预估时长的JS算法",
-        "link": "https://www.zhangxinxu.com/wordpress/2024/12/js-word-speach-split-time-calc/",
-        "date": "2024-12-05"
       }
     ]
   },

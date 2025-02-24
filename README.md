@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2025-02-23 23:01:22，:rocket: 更新条数: +10， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2025-02-24 23:07:00，:rocket: 更新条数: +10， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -296,6 +296,7 @@
 </summary>
 
 
+- [2025-02-24-HTML-permission元素和Permissions-API简介](https://www.zhangxinxu.com/wordpress/2025/02/html-permission-api/) ![](assets/new.png)  
 - [2025-02-12-不要搞混了，不是text而是CSS-font-size-adjust属性](https://www.zhangxinxu.com/wordpress/2025/02/css-font-size-adjust/) ![](assets/new.png)  
 - [2025-02-10-JS-Set新支持了intersection,-union,-difference等方法](https://www.zhangxinxu.com/wordpress/2025/02/js-set-intersection-union-difference/) ![](assets/new.png)  
 - [2025-02-06-JS-Array数组新的with方法，你知道作用吗？](https://www.zhangxinxu.com/wordpress/2025/02/js-array-with/) ![](assets/new.png)  
@@ -305,7 +306,6 @@
 - [2025-01-02-一个新的CSS媒体查询prefers-reduced-transparency](https://www.zhangxinxu.com/wordpress/2025/01/css-media-cprefers-reduced-transparency/) ![](assets/new.png)  
 - [2024-12-29-HTML-select下拉框支持hr元素啦](https://www.zhangxinxu.com/wordpress/2024/12/html-select-support-hr/) ![](assets/new.png)  
 - [2024-12-22-如何使用JS获取系统内存、CPU/GPU、电量等信息](https://www.zhangxinxu.com/wordpress/2024/12/js-get-memory-cpu-gpu-battery/) ![](assets/new.png)  
-- [2024-12-11-全新的CSS相对颜色语法-使用from和calc](https://www.zhangxinxu.com/wordpress/2024/12/css-relative-color-from-calc/) ![](assets/new.png)  
 - [......【查看更多】......](./details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -131,6 +131,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "终于等到了，CSS offset-path全浏览器全支持",
+        "link": "https://www.zhangxinxu.com/wordpress/2025/03/css-offset-path/",
+        "date": "2025-03-05"
+      },
+      {
         "title": "HTML permission元素和Permissions API简介",
         "link": "https://www.zhangxinxu.com/wordpress/2025/02/html-permission-api/",
         "date": "2025-02-24"
@@ -174,11 +179,6 @@
         "title": "HTML select下拉框支持hr元素啦",
         "link": "https://www.zhangxinxu.com/wordpress/2024/12/html-select-support-hr/",
         "date": "2024-12-29"
-      },
-      {
-        "title": "如何使用JS获取系统内存、CPU/GPU、电量等信息",
-        "link": "https://www.zhangxinxu.com/wordpress/2024/12/js-get-memory-cpu-gpu-battery/",
-        "date": "2024-12-22"
       }
     ]
   },

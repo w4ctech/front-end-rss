@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-03-04 23:06:48。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2025-03-05 23:07:25。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -10,7 +10,7 @@
 <tr>
 <td><a href="#2025-01">01月</a></td>
 <td><a href="#2025-02">02月</a></td>
-<td>03月</td>
+<td><a href="#2025-03">03月</a></td>
 <td>04月</td>
 <td>05月</td>
 <td>06月</td>
@@ -43,6 +43,17 @@
 </table>
 
 ## 文章链接
+
+<details open>
+<summary id="2025-03">
+ 2025-03
+</summary>
+
+
+- [【张鑫旭-鑫空间-鑫生活】2025-03-05-终于等到了，CSS-offset-path全浏览器全支持](https://www.zhangxinxu.com/wordpress/2025/03/css-offset-path/) 
+
+<div align="right"><a href="#时间分类">⬆返回顶部</a></div>
+</details>
 
 <details open>
 <summary id="2025-02">
@@ -79,7 +90,6 @@
 
 
 - [【张鑫旭-鑫空间-鑫生活】2024-12-29-HTML-select下拉框支持hr元素啦](https://www.zhangxinxu.com/wordpress/2024/12/html-select-support-hr/) 
-- [【张鑫旭-鑫空间-鑫生活】2024-12-22-如何使用JS获取系统内存、CPU/GPU、电量等信息](https://www.zhangxinxu.com/wordpress/2024/12/js-get-memory-cpu-gpu-battery/) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

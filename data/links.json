@@ -131,6 +131,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "CSS @supports规则又新增font-tech,font-format判断",
+        "link": "https://www.zhangxinxu.com/wordpress/2025/03/css-supports-font-tech-format/",
+        "date": "2025-03-09"
+      },
+      {
         "title": "终于等到了，CSS offset-path全浏览器全支持",
         "link": "https://www.zhangxinxu.com/wordpress/2025/03/css-offset-path/",
         "date": "2025-03-05"
@@ -174,11 +179,6 @@
         "title": "一个新的CSS媒体查询prefers-reduced-transparency",
         "link": "https://www.zhangxinxu.com/wordpress/2025/01/css-media-cprefers-reduced-transparency/",
         "date": "2025-01-02"
-      },
-      {
-        "title": "HTML select下拉框支持hr元素啦",
-        "link": "https://www.zhangxinxu.com/wordpress/2024/12/html-select-support-hr/",
-        "date": "2024-12-29"
       }
     ]
   },

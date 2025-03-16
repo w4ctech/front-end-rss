@@ -131,6 +131,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "一种更好的文字隐藏的方法-::first-line伪元素",
+        "link": "https://www.zhangxinxu.com/wordpress/2025/03/css-first-line-hidden-text/",
+        "date": "2025-03-16"
+      },
+      {
         "title": "CSS @supports规则又新增font-tech,font-format判断",
         "link": "https://www.zhangxinxu.com/wordpress/2025/03/css-supports-font-tech-format/",
         "date": "2025-03-09"
@@ -149,11 +154,6 @@
         "title": "不要搞混了，不是text而是CSS font-size-adjust属性",
         "link": "https://www.zhangxinxu.com/wordpress/2025/02/css-font-size-adjust/",
         "date": "2025-02-12"
-      },
-      {
-        "title": "JS Set新支持了intersection, union, difference等方法",
-        "link": "https://www.zhangxinxu.com/wordpress/2025/02/js-set-intersection-union-difference/",
-        "date": "2025-02-10"
       }
     ]
   },

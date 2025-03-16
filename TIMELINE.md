@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-03-15 23:06:28。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2025-03-16 23:00:31。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -32,6 +32,7 @@
 </summary>
 
 
+- [【张鑫旭-鑫空间-鑫生活】2025-03-16-一种更好的文字隐藏的方法-::first-line伪元素](https://www.zhangxinxu.com/wordpress/2025/03/css-first-line-hidden-text/) 
 - [【张鑫旭-鑫空间-鑫生活】2025-03-09-CSS-@supports规则又新增font-tech,font-format判断](https://www.zhangxinxu.com/wordpress/2025/03/css-supports-font-tech-format/) 
 - [【张鑫旭-鑫空间-鑫生活】2025-03-05-终于等到了，CSS-offset-path全浏览器全支持](https://www.zhangxinxu.com/wordpress/2025/03/css-offset-path/) 
 
@@ -46,7 +47,6 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2025-02-24-HTML-permission元素和Permissions-API简介](https://www.zhangxinxu.com/wordpress/2025/02/html-permission-api/) 
 - [【张鑫旭-鑫空间-鑫生活】2025-02-12-不要搞混了，不是text而是CSS-font-size-adjust属性](https://www.zhangxinxu.com/wordpress/2025/02/css-font-size-adjust/) 
-- [【张鑫旭-鑫空间-鑫生活】2025-02-10-JS-Set新支持了intersection,-union,-difference等方法](https://www.zhangxinxu.com/wordpress/2025/02/js-set-intersection-union-difference/) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

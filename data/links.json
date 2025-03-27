@@ -131,6 +131,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "光速了解script style link元素新增的blocking属性",
+        "link": "https://www.zhangxinxu.com/wordpress/2025/03/html-script-blocking/",
+        "date": "2025-03-27"
+      },
+      {
         "title": "研究下attachInternals方法，可让普通元素有表单特性",
         "link": "https://www.zhangxinxu.com/wordpress/2025/03/html-element-elementinternals-attachinternals/",
         "date": "2025-03-23"
@@ -149,11 +154,6 @@
         "title": "终于等到了，CSS offset-path全浏览器全支持",
         "link": "https://www.zhangxinxu.com/wordpress/2025/03/css-offset-path/",
         "date": "2025-03-05"
-      },
-      {
-        "title": "HTML permission元素和Permissions API简介",
-        "link": "https://www.zhangxinxu.com/wordpress/2025/02/html-permission-api/",
-        "date": "2025-02-24"
       }
     ]
   },

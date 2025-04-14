@@ -131,6 +131,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "DOM新特性之caretPositionFromPoint API",
+        "link": "https://www.zhangxinxu.com/wordpress/2025/04/dom-caretpositionfrompoint-api/",
+        "date": "2025-04-14"
+      },
+      {
         "title": "JS EditContext API 简介",
         "link": "https://www.zhangxinxu.com/wordpress/2025/04/js-editcontext-api/",
         "date": "2025-04-06"
@@ -149,11 +154,6 @@
         "title": "一种更好的文字隐藏的方法-::first-line伪元素",
         "link": "https://www.zhangxinxu.com/wordpress/2025/03/css-first-line-hidden-text/",
         "date": "2025-03-16"
-      },
-      {
-        "title": "CSS @supports规则又新增font-tech,font-format判断",
-        "link": "https://www.zhangxinxu.com/wordpress/2025/03/css-supports-font-tech-format/",
-        "date": "2025-03-09"
       }
     ]
   },

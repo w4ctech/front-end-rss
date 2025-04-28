@@ -131,6 +131,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "光速了解HTML shadowrootmode等属性的作用",
+        "link": "https://www.zhangxinxu.com/wordpress/2025/04/html-shadowrootmode-shadowrootserializable/",
+        "date": "2025-04-28"
+      },
+      {
         "title": "介绍两个DOM新方法setHTMLUnsafe和getHTML",
         "link": "https://www.zhangxinxu.com/wordpress/2025/04/dom-sethtmlunsafe-parsehtmlunsafe/",
         "date": "2025-04-24"
@@ -149,11 +154,6 @@
         "title": "光速了解script style link元素新增的blocking属性",
         "link": "https://www.zhangxinxu.com/wordpress/2025/03/html-script-blocking/",
         "date": "2025-03-27"
-      },
-      {
-        "title": "研究下attachInternals方法，可让普通元素有表单特性",
-        "link": "https://www.zhangxinxu.com/wordpress/2025/03/html-element-elementinternals-attachinternals/",
-        "date": "2025-03-23"
       }
     ]
   },

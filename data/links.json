@@ -131,6 +131,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "告别transform，是时候直接使用scale, rotate属性啦",
+        "link": "https://www.zhangxinxu.com/wordpress/2025/04/css-scale-rotate-translate/",
+        "date": "2025-04-29"
+      },
+      {
         "title": "光速了解HTML shadowrootmode等属性的作用",
         "link": "https://www.zhangxinxu.com/wordpress/2025/04/html-shadowrootmode-shadowrootserializable/",
         "date": "2025-04-28"
@@ -149,11 +154,6 @@
         "title": "JS EditContext API 简介",
         "link": "https://www.zhangxinxu.com/wordpress/2025/04/js-editcontext-api/",
         "date": "2025-04-06"
-      },
-      {
-        "title": "光速了解script style link元素新增的blocking属性",
-        "link": "https://www.zhangxinxu.com/wordpress/2025/03/html-script-blocking/",
-        "date": "2025-03-27"
       }
     ]
   },

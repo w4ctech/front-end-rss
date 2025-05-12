@@ -131,6 +131,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "CSS animation-composition可以让动画效果累加",
+        "link": "https://www.zhangxinxu.com/wordpress/2025/05/css-animation-composition/",
+        "date": "2025-05-12"
+      },
+      {
         "title": "告别transform，是时候直接使用scale, rotate属性啦",
         "link": "https://www.zhangxinxu.com/wordpress/2025/04/css-scale-rotate-translate/",
         "date": "2025-04-29"
@@ -149,11 +154,6 @@
         "title": "DOM新特性之caretPositionFromPoint API",
         "link": "https://www.zhangxinxu.com/wordpress/2025/04/dom-caretpositionfrompoint-api/",
         "date": "2025-04-14"
-      },
-      {
-        "title": "JS EditContext API 简介",
-        "link": "https://www.zhangxinxu.com/wordpress/2025/04/js-editcontext-api/",
-        "date": "2025-04-06"
       }
     ]
   },

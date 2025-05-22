@@ -131,6 +131,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "你知道吗，输入框的value值也能直接返回数值类型",
+        "link": "https://www.zhangxinxu.com/wordpress/2025/05/input-value-valueasnumber/",
+        "date": "2025-05-22"
+      },
+      {
         "title": "CSS animation-composition可以让动画效果累加",
         "link": "https://www.zhangxinxu.com/wordpress/2025/05/css-animation-composition/",
         "date": "2025-05-12"
@@ -149,11 +154,6 @@
         "title": "介绍两个DOM新方法setHTMLUnsafe和getHTML",
         "link": "https://www.zhangxinxu.com/wordpress/2025/04/dom-sethtmlunsafe-parsehtmlunsafe/",
         "date": "2025-04-24"
-      },
-      {
-        "title": "DOM新特性之caretPositionFromPoint API",
-        "link": "https://www.zhangxinxu.com/wordpress/2025/04/dom-caretpositionfrompoint-api/",
-        "date": "2025-04-14"
       }
     ]
   },

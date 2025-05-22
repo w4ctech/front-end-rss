@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-05-21 23:07:45。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2025-05-22 23:07:49。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -32,6 +32,7 @@
 </summary>
 
 
+- [【张鑫旭-鑫空间-鑫生活】2025-05-22-你知道吗，输入框的value值也能直接返回数值类型](https://www.zhangxinxu.com/wordpress/2025/05/input-value-valueasnumber/) 
 - [【张鑫旭-鑫空间-鑫生活】2025-05-12-CSS-animation-composition可以让动画效果累加](https://www.zhangxinxu.com/wordpress/2025/05/css-animation-composition/) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
@@ -46,7 +47,6 @@
 - [【张鑫旭-鑫空间-鑫生活】2025-04-29-告别transform，是时候直接使用scale,-rotate属性啦](https://www.zhangxinxu.com/wordpress/2025/04/css-scale-rotate-translate/) 
 - [【张鑫旭-鑫空间-鑫生活】2025-04-28-光速了解HTML-shadowrootmode等属性的作用](https://www.zhangxinxu.com/wordpress/2025/04/html-shadowrootmode-shadowrootserializable/) 
 - [【张鑫旭-鑫空间-鑫生活】2025-04-24-介绍两个DOM新方法setHTMLUnsafe和getHTML](https://www.zhangxinxu.com/wordpress/2025/04/dom-sethtmlunsafe-parsehtmlunsafe/) 
-- [【张鑫旭-鑫空间-鑫生活】2025-04-14-DOM新特性之caretPositionFromPoint-API](https://www.zhangxinxu.com/wordpress/2025/04/dom-caretpositionfrompoint-api/) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-05-27 23:00:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2025-05-28 23:07:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## CSS
 
@@ -7,5 +7,6 @@
 
 
 
+- [2025-05-28-震惊，有生之年居然看到CSS-attr全属性支持](https://www.zhangxinxu.com/wordpress/2025/05/css-attr-function/) 
 - [2025-05-12-CSS-animation-composition可以让动画效果累加](https://www.zhangxinxu.com/wordpress/2025/05/css-animation-composition/) 
 - [2025-04-29-告别transform，是时候直接使用scale,-rotate属性啦](https://www.zhangxinxu.com/wordpress/2025/04/css-scale-rotate-translate/) 

@@ -131,6 +131,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "震惊，有生之年居然看到CSS attr()全属性支持",
+        "link": "https://www.zhangxinxu.com/wordpress/2025/05/css-attr-function/",
+        "date": "2025-05-28"
+      },
+      {
         "title": "你知道吗，输入框的value值也能直接返回数值类型",
         "link": "https://www.zhangxinxu.com/wordpress/2025/05/input-value-valueasnumber/",
         "date": "2025-05-22"
@@ -149,11 +154,6 @@
         "title": "光速了解HTML shadowrootmode等属性的作用",
         "link": "https://www.zhangxinxu.com/wordpress/2025/04/html-shadowrootmode-shadowrootserializable/",
         "date": "2025-04-28"
-      },
-      {
-        "title": "介绍两个DOM新方法setHTMLUnsafe和getHTML",
-        "link": "https://www.zhangxinxu.com/wordpress/2025/04/dom-sethtmlunsafe-parsehtmlunsafe/",
-        "date": "2025-04-24"
       }
     ]
   },

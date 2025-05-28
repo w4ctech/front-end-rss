@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2025-05-27 23:00:38。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2025-05-28 23:07:51。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -167,7 +167,6 @@
 
 
 
-- [【张鑫旭-鑫空间-鑫生活】介绍两个DOM新方法setHTMLUnsafe和getHTML](https://www.zhangxinxu.com/wordpress/2025/04/dom-sethtmlunsafe-parsehtmlunsafe/)
 - [......【查看更多】......](./details/tags/javascript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -184,6 +183,7 @@
 
 
 
+- [【张鑫旭-鑫空间-鑫生活】震惊，有生之年居然看到CSS-attr全属性支持](https://www.zhangxinxu.com/wordpress/2025/05/css-attr-function/)
 - [【张鑫旭-鑫空间-鑫生活】CSS-animation-composition可以让动画效果累加](https://www.zhangxinxu.com/wordpress/2025/05/css-animation-composition/)
 - [【张鑫旭-鑫空间-鑫生活】告别transform，是时候直接使用scale,-rotate属性啦](https://www.zhangxinxu.com/wordpress/2025/04/css-scale-rotate-translate/)
 - [......【查看更多】......](./details/tags/css.md)

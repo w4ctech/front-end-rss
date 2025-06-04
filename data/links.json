@@ -131,6 +131,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "JS PageSwap PageReveal事件干嘛用的？",
+        "link": "https://www.zhangxinxu.com/wordpress/2025/06/js-pageswapevent/",
+        "date": "2025-06-04"
+      },
+      {
         "title": "震惊，有生之年居然看到CSS attr()全属性支持",
         "link": "https://www.zhangxinxu.com/wordpress/2025/05/css-attr-function/",
         "date": "2025-05-28"
@@ -149,11 +154,6 @@
         "title": "告别transform，是时候直接使用scale, rotate属性啦",
         "link": "https://www.zhangxinxu.com/wordpress/2025/04/css-scale-rotate-translate/",
         "date": "2025-04-29"
-      },
-      {
-        "title": "光速了解HTML shadowrootmode等属性的作用",
-        "link": "https://www.zhangxinxu.com/wordpress/2025/04/html-shadowrootmode-shadowrootserializable/",
-        "date": "2025-04-28"
       }
     ]
   },

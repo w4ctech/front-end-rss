@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-06-03 23:00:34。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2025-06-04 23:07:54。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -13,7 +13,7 @@
 <td>03月</td>
 <td><a href="#2025-04">04月</a></td>
 <td><a href="#2025-05">05月</a></td>
-<td>06月</td>
+<td><a href="#2025-06">06月</a></td>
 <td>07月</td>
 <td>08月</td>
 <td>09月</td>
@@ -25,6 +25,17 @@
 </table>
 
 ## 文章链接
+
+<details open>
+<summary id="2025-06">
+ 2025-06
+</summary>
+
+
+- [【张鑫旭-鑫空间-鑫生活】2025-06-04-JS-PageSwap-PageReveal事件干嘛用的？](https://www.zhangxinxu.com/wordpress/2025/06/js-pageswapevent/) 
+
+<div align="right"><a href="#时间分类">⬆返回顶部</a></div>
+</details>
 
 <details open>
 <summary id="2025-05">
@@ -46,7 +57,6 @@
 
 
 - [【张鑫旭-鑫空间-鑫生活】2025-04-29-告别transform，是时候直接使用scale,-rotate属性啦](https://www.zhangxinxu.com/wordpress/2025/04/css-scale-rotate-translate/) 
-- [【张鑫旭-鑫空间-鑫生活】2025-04-28-光速了解HTML-shadowrootmode等属性的作用](https://www.zhangxinxu.com/wordpress/2025/04/html-shadowrootmode-shadowrootserializable/) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

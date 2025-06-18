@@ -131,6 +131,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "text-wrap进化:支持两子属性和pretty stable新值",
+        "link": "https://www.zhangxinxu.com/wordpress/2025/06/text-wrap-pretty-stable-mode-style/",
+        "date": "2025-06-18"
+      },
+      {
         "title": "CSS ::scroll-button ::scroll-marker伪元素又是干嘛用的？",
         "link": "https://www.zhangxinxu.com/wordpress/2025/06/css-scroll-button-marker/",
         "date": "2025-06-13"
@@ -149,11 +154,6 @@
         "title": "你知道吗，输入框的value值也能直接返回数值类型",
         "link": "https://www.zhangxinxu.com/wordpress/2025/05/input-value-valueasnumber/",
         "date": "2025-05-22"
-      },
-      {
-        "title": "CSS animation-composition可以让动画效果累加",
-        "link": "https://www.zhangxinxu.com/wordpress/2025/05/css-animation-composition/",
-        "date": "2025-05-12"
       }
     ]
   },

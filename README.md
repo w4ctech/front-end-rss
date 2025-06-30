@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2025-06-29 23:07:37，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2025-06-30 23:08:00，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -296,11 +296,11 @@
 </summary>
 
 
+- [2025-06-30-CSS小图标剪裁终极解决方案clip-path-shape函数](https://www.zhangxinxu.com/wordpress/2025/06/css-clip-path-shape/) ![](assets/new.png)  
 - [2025-06-18-text-wrap进化:支持两子属性和pretty-stable新值](https://www.zhangxinxu.com/wordpress/2025/06/text-wrap-pretty-stable-mode-style/) ![](assets/new.png)  
 - [2025-06-13-CSS-::scroll-button-::scroll-marker伪元素又是干嘛用的？](https://www.zhangxinxu.com/wordpress/2025/06/css-scroll-button-marker/) ![](assets/new.png)  
 - [2025-06-04-JS-PageSwap-PageReveal事件干嘛用的？](https://www.zhangxinxu.com/wordpress/2025/06/js-pageswapevent/) ![](assets/new.png)  
 - [2025-05-28-震惊，有生之年居然看到CSS-attr全属性支持](https://www.zhangxinxu.com/wordpress/2025/05/css-attr-function/) ![](assets/new.png)  
-- [2025-05-22-你知道吗，输入框的value值也能直接返回数值类型](https://www.zhangxinxu.com/wordpress/2025/05/input-value-valueasnumber/) ![](assets/new.png)  
 - [......【查看更多】......](./details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

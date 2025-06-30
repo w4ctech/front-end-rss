@@ -131,6 +131,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "CSS小图标剪裁终极解决方案clip-path shape()函数",
+        "link": "https://www.zhangxinxu.com/wordpress/2025/06/css-clip-path-shape/",
+        "date": "2025-06-30"
+      },
+      {
         "title": "text-wrap进化:支持两子属性和pretty stable新值",
         "link": "https://www.zhangxinxu.com/wordpress/2025/06/text-wrap-pretty-stable-mode-style/",
         "date": "2025-06-18"
@@ -149,11 +154,6 @@
         "title": "震惊，有生之年居然看到CSS attr()全属性支持",
         "link": "https://www.zhangxinxu.com/wordpress/2025/05/css-attr-function/",
         "date": "2025-05-28"
-      },
-      {
-        "title": "你知道吗，输入框的value值也能直接返回数值类型",
-        "link": "https://www.zhangxinxu.com/wordpress/2025/05/input-value-valueasnumber/",
-        "date": "2025-05-22"
       }
     ]
   },

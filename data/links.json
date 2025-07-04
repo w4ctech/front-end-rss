@@ -131,6 +131,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "好诶，select下拉框元素支持样式完全自定义啦！",
+        "link": "https://www.zhangxinxu.com/wordpress/2025/07/css-checkmark-select-customizable/",
+        "date": "2025-07-04"
+      },
+      {
         "title": "CSS小图标剪裁终极解决方案clip-path shape()函数",
         "link": "https://www.zhangxinxu.com/wordpress/2025/06/css-clip-path-shape/",
         "date": "2025-06-30"
@@ -149,11 +154,6 @@
         "title": "JS PageSwap PageReveal事件干嘛用的？",
         "link": "https://www.zhangxinxu.com/wordpress/2025/06/js-pageswapevent/",
         "date": "2025-06-04"
-      },
-      {
-        "title": "震惊，有生之年居然看到CSS attr()全属性支持",
-        "link": "https://www.zhangxinxu.com/wordpress/2025/05/css-attr-function/",
-        "date": "2025-05-28"
       }
     ]
   },

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2025-07-09 23:08:28。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2025-07-10 23:08:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -167,8 +167,8 @@
 
 
 
+- [【张鑫旭-鑫空间-鑫生活】HTML新search元素,h1规则要变,声明式Shadow-DOM](https://www.zhangxinxu.com/wordpress/2025/07/html-h1-element-style/)
 - [【张鑫旭-鑫空间-鑫生活】CSS-::scroll-button-::scroll-marker伪元素又是干嘛用的？](https://www.zhangxinxu.com/wordpress/2025/06/css-scroll-button-marker/)
-- [【张鑫旭-鑫空间-鑫生活】JS-PageSwap-PageReveal事件干嘛用的？](https://www.zhangxinxu.com/wordpress/2025/06/js-pageswapevent/)
 - [......【查看更多】......](./details/tags/javascript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

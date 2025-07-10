@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-07-09 23:08:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2025-07-10 23:08:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -7,5 +7,5 @@
 
 
 
+- [2025-07-10-HTML新search元素,h1规则要变,声明式Shadow-DOM](https://www.zhangxinxu.com/wordpress/2025/07/html-h1-element-style/) 
 - [2025-06-13-CSS-::scroll-button-::scroll-marker伪元素又是干嘛用的？](https://www.zhangxinxu.com/wordpress/2025/06/css-scroll-button-marker/) 
-- [2025-06-04-JS-PageSwap-PageReveal事件干嘛用的？](https://www.zhangxinxu.com/wordpress/2025/06/js-pageswapevent/) 

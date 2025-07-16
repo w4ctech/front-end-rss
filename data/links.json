@@ -131,6 +131,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "JS正则新特性：安全过滤RegExp.escape方法",
+        "link": "https://www.zhangxinxu.com/wordpress/2025/07/js-regexp-escape/",
+        "date": "2025-07-16"
+      },
+      {
         "title": "HTML新search元素,h1规则要变,声明式Shadow DOM",
         "link": "https://www.zhangxinxu.com/wordpress/2025/07/html-h1-element-style/",
         "date": "2025-07-10"
@@ -149,11 +154,6 @@
         "title": "text-wrap进化:支持两子属性和pretty stable新值",
         "link": "https://www.zhangxinxu.com/wordpress/2025/06/text-wrap-pretty-stable-mode-style/",
         "date": "2025-06-18"
-      },
-      {
-        "title": "CSS ::scroll-button ::scroll-marker伪元素又是干嘛用的？",
-        "link": "https://www.zhangxinxu.com/wordpress/2025/06/css-scroll-button-marker/",
-        "date": "2025-06-13"
       }
     ]
   },

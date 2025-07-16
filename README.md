@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2025-07-15 23:07:40，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2025-07-16 23:08:35，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -296,11 +296,11 @@
 </summary>
 
 
+- [2025-07-16-JS正则新特性：安全过滤RegExp.escape方法](https://www.zhangxinxu.com/wordpress/2025/07/js-regexp-escape/) ![](assets/new.png)  
 - [2025-07-10-HTML新search元素,h1规则要变,声明式Shadow-DOM](https://www.zhangxinxu.com/wordpress/2025/07/html-h1-element-style/) ![](assets/new.png)  
 - [2025-07-04-好诶，select下拉框元素支持样式完全自定义啦！](https://www.zhangxinxu.com/wordpress/2025/07/css-checkmark-select-customizable/) ![](assets/new.png)  
 - [2025-06-30-CSS小图标剪裁终极解决方案clip-path-shape函数](https://www.zhangxinxu.com/wordpress/2025/06/css-clip-path-shape/) ![](assets/new.png)  
 - [2025-06-18-text-wrap进化:支持两子属性和pretty-stable新值](https://www.zhangxinxu.com/wordpress/2025/06/text-wrap-pretty-stable-mode-style/) ![](assets/new.png)  
-- [2025-06-13-CSS-::scroll-button-::scroll-marker伪元素又是干嘛用的？](https://www.zhangxinxu.com/wordpress/2025/06/css-scroll-button-marker/) ![](assets/new.png)  
 - [......【查看更多】......](./details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

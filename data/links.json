@@ -131,6 +131,16 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "HTML popover再进化 – 新增hint类型提示框",
+        "link": "https://www.zhangxinxu.com/wordpress/2025/07/html-popover-hint/",
+        "date": "2025-07-31"
+      },
+      {
+        "title": "CSS倒反天罡居然支持if()函数了",
+        "link": "https://www.zhangxinxu.com/wordpress/2025/07/css-if-function/",
+        "date": "2025-07-25"
+      },
+      {
         "title": "JS正则新特性：安全过滤RegExp.escape方法",
         "link": "https://www.zhangxinxu.com/wordpress/2025/07/js-regexp-escape/",
         "date": "2025-07-16"
@@ -144,16 +154,6 @@
         "title": "好诶，select下拉框元素支持样式完全自定义啦！",
         "link": "https://www.zhangxinxu.com/wordpress/2025/07/css-checkmark-select-customizable/",
         "date": "2025-07-04"
-      },
-      {
-        "title": "CSS小图标剪裁终极解决方案clip-path shape()函数",
-        "link": "https://www.zhangxinxu.com/wordpress/2025/06/css-clip-path-shape/",
-        "date": "2025-06-30"
-      },
-      {
-        "title": "text-wrap进化:支持两子属性和pretty stable新值",
-        "link": "https://www.zhangxinxu.com/wordpress/2025/06/text-wrap-pretty-stable-mode-style/",
-        "date": "2025-06-18"
       }
     ]
   },

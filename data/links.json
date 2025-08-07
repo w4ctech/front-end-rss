@@ -131,6 +131,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "CSS索引和数量匹配函数sibling-index sibling-count简介",
+        "link": "https://www.zhangxinxu.com/wordpress/2025/08/css-sibling-index-count/",
+        "date": "2025-08-07"
+      },
+      {
         "title": "HTML popover再进化 – 新增hint类型提示框",
         "link": "https://www.zhangxinxu.com/wordpress/2025/07/html-popover-hint/",
         "date": "2025-07-31"
@@ -149,11 +154,6 @@
         "title": "HTML新search元素,h1规则要变,声明式Shadow DOM",
         "link": "https://www.zhangxinxu.com/wordpress/2025/07/html-h1-element-style/",
         "date": "2025-07-10"
-      },
-      {
-        "title": "好诶，select下拉框元素支持样式完全自定义啦！",
-        "link": "https://www.zhangxinxu.com/wordpress/2025/07/css-checkmark-select-customizable/",
-        "date": "2025-07-04"
       }
     ]
   },

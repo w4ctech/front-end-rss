@@ -131,6 +131,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "这个有点屌CSS @container scroll-state容器滚动查询",
+        "link": "https://www.zhangxinxu.com/wordpress/2025/08/css-container-scroll-state/",
+        "date": "2025-08-15"
+      },
+      {
         "title": "CSS索引和数量匹配函数sibling-index sibling-count简介",
         "link": "https://www.zhangxinxu.com/wordpress/2025/08/css-sibling-index-count/",
         "date": "2025-08-07"
@@ -149,11 +154,6 @@
         "title": "JS正则新特性：安全过滤RegExp.escape方法",
         "link": "https://www.zhangxinxu.com/wordpress/2025/07/js-regexp-escape/",
         "date": "2025-07-16"
-      },
-      {
-        "title": "HTML新search元素,h1规则要变,声明式Shadow DOM",
-        "link": "https://www.zhangxinxu.com/wordpress/2025/07/html-h1-element-style/",
-        "date": "2025-07-10"
       }
     ]
   },

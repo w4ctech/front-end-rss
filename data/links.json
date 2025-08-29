@@ -131,6 +131,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "HTML之快速了解hidden=until-found的作用",
+        "link": "https://www.zhangxinxu.com/wordpress/2025/08/html-hidden-until-found/",
+        "date": "2025-08-29"
+      },
+      {
         "title": "抢先学习大开眼界的CSS corner-shape属性",
         "link": "https://www.zhangxinxu.com/wordpress/2025/08/css-corner-shape/",
         "date": "2025-08-26"
@@ -149,11 +154,6 @@
         "title": "HTML popover再进化 – 新增hint类型提示框",
         "link": "https://www.zhangxinxu.com/wordpress/2025/07/html-popover-hint/",
         "date": "2025-07-31"
-      },
-      {
-        "title": "CSS倒反天罡居然支持if()函数了",
-        "link": "https://www.zhangxinxu.com/wordpress/2025/07/css-if-function/",
-        "date": "2025-07-25"
       }
     ]
   },

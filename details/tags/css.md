@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-09-14 23:00:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2025-09-15 23:00:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## CSS
 
@@ -7,6 +7,6 @@
 
 
 
+- [2025-09-15-使用CSS-linear函数实现更逼真的物理动画效果](https://www.zhangxinxu.com/wordpress/2025/09/css-animation-liner-function/) 
 - [2025-09-05-@function自定义函数让CSS支持编程啦](https://www.zhangxinxu.com/wordpress/2025/09/css-function-at-rules/) 
 - [2025-08-26-抢先学习大开眼界的CSS-corner-shape属性](https://www.zhangxinxu.com/wordpress/2025/08/css-corner-shape/) 
-- [2025-08-07-CSS索引和数量匹配函数sibling-index-sibling-count简介](https://www.zhangxinxu.com/wordpress/2025/08/css-sibling-index-count/) 

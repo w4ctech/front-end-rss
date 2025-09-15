@@ -131,6 +131,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "使用CSS linear()函数实现更逼真的物理动画效果",
+        "link": "https://www.zhangxinxu.com/wordpress/2025/09/css-animation-liner-function/",
+        "date": "2025-09-15"
+      },
+      {
         "title": "@function自定义函数让CSS支持编程啦",
         "link": "https://www.zhangxinxu.com/wordpress/2025/09/css-function-at-rules/",
         "date": "2025-09-05"
@@ -149,11 +154,6 @@
         "title": "这个有点屌CSS @container scroll-state容器滚动查询",
         "link": "https://www.zhangxinxu.com/wordpress/2025/08/css-container-scroll-state/",
         "date": "2025-08-15"
-      },
-      {
-        "title": "CSS索引和数量匹配函数sibling-index sibling-count简介",
-        "link": "https://www.zhangxinxu.com/wordpress/2025/08/css-sibling-index-count/",
-        "date": "2025-08-07"
       }
     ]
   },

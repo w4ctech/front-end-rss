@@ -131,6 +131,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "CSS scroll-target-group加:target-current滚动菜单自动高亮",
+        "link": "https://www.zhangxinxu.com/wordpress/2025/09/css-scroll-target-group/",
+        "date": "2025-09-19"
+      },
+      {
         "title": "使用CSS linear()函数实现更逼真的物理动画效果",
         "link": "https://www.zhangxinxu.com/wordpress/2025/09/css-animation-liner-function/",
         "date": "2025-09-15"
@@ -149,11 +154,6 @@
         "title": "抢先学习大开眼界的CSS corner-shape属性",
         "link": "https://www.zhangxinxu.com/wordpress/2025/08/css-corner-shape/",
         "date": "2025-08-26"
-      },
-      {
-        "title": "这个有点屌CSS @container scroll-state容器滚动查询",
-        "link": "https://www.zhangxinxu.com/wordpress/2025/08/css-container-scroll-state/",
-        "date": "2025-08-15"
       }
     ]
   },

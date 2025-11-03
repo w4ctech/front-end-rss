@@ -131,6 +131,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "垃圾特性之CSS :heading伪类和:heading()函数",
+        "link": "https://www.zhangxinxu.com/wordpress/2025/11/css-heading-function/",
+        "date": "2025-11-03"
+      },
+      {
         "title": "Canvas也支持锥形渐变了createConicGradient方法",
         "link": "https://www.zhangxinxu.com/wordpress/2025/10/js-canvas-createconicgradient/",
         "date": "2025-10-27"
@@ -149,11 +154,6 @@
         "title": "使用Intl.Segmenter返回更准确的字符长度",
         "link": "https://www.zhangxinxu.com/wordpress/2025/09/js-intl-segmenter-string-length/",
         "date": "2025-09-30"
-      },
-      {
-        "title": "CSS scroll-target-group加:target-current滚动菜单自动高亮",
-        "link": "https://www.zhangxinxu.com/wordpress/2025/09/css-scroll-target-group/",
-        "date": "2025-09-19"
       }
     ]
   },

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2025-11-02 23:00:46。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2025-11-03 23:00:41。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -167,7 +167,6 @@
 
 
 
-- [【张鑫旭-鑫空间-鑫生活】CSS-scroll-target-group加:target-current滚动菜单自动高亮](https://www.zhangxinxu.com/wordpress/2025/09/css-scroll-target-group/)
 - [......【查看更多】......](./details/tags/javascript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -184,6 +183,7 @@
 
 
 
+- [【张鑫旭-鑫空间-鑫生活】垃圾特性之CSS-:heading伪类和:heading函数](https://www.zhangxinxu.com/wordpress/2025/11/css-heading-function/)
 - [【张鑫旭-鑫空间-鑫生活】CSS-reading-flow和reading-order属性简介](https://www.zhangxinxu.com/wordpress/2025/10/css-reading-flow-order/)
 - [【张鑫旭-鑫空间-鑫生活】CSS-field-sizing属性简介](https://www.zhangxinxu.com/wordpress/2025/10/css-field-sizing/)
 - [......【查看更多】......](./details/tags/css.md)

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-11-02 23:00:46。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2025-11-03 23:00:41。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -18,13 +18,24 @@
 <td>08月</td>
 <td><a href="#2025-09">09月</a></td>
 <td><a href="#2025-10">10月</a></td>
-<td>11月</td>
+<td><a href="#2025-11">11月</a></td>
 <td>12月</td>
 </tr>
 
 </table>
 
 ## 文章链接
+
+<details open>
+<summary id="2025-11">
+ 2025-11
+</summary>
+
+
+- [【张鑫旭-鑫空间-鑫生活】2025-11-03-垃圾特性之CSS-:heading伪类和:heading函数](https://www.zhangxinxu.com/wordpress/2025/11/css-heading-function/) 
+
+<div align="right"><a href="#时间分类">⬆返回顶部</a></div>
+</details>
 
 <details open>
 <summary id="2025-10">
@@ -46,7 +57,6 @@
 
 
 - [【张鑫旭-鑫空间-鑫生活】2025-09-30-使用Intl.Segmenter返回更准确的字符长度](https://www.zhangxinxu.com/wordpress/2025/09/js-intl-segmenter-string-length/) 
-- [【张鑫旭-鑫空间-鑫生活】2025-09-19-CSS-scroll-target-group加:target-current滚动菜单自动高亮](https://www.zhangxinxu.com/wordpress/2025/09/css-scroll-target-group/) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

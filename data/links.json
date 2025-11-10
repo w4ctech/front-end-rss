@@ -131,6 +131,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "CSS锚点定位实战-鼠标跟随交互效果",
+        "link": "https://www.zhangxinxu.com/wordpress/2025/11/css-anchor-position-mouse-follow/",
+        "date": "2025-11-10"
+      },
+      {
         "title": "垃圾特性之CSS :heading伪类和:heading()函数",
         "link": "https://www.zhangxinxu.com/wordpress/2025/11/css-heading-function/",
         "date": "2025-11-03"
@@ -149,11 +154,6 @@
         "title": "CSS field-sizing属性简介",
         "link": "https://www.zhangxinxu.com/wordpress/2025/10/css-field-sizing/",
         "date": "2025-10-13"
-      },
-      {
-        "title": "使用Intl.Segmenter返回更准确的字符长度",
-        "link": "https://www.zhangxinxu.com/wordpress/2025/09/js-intl-segmenter-string-length/",
-        "date": "2025-09-30"
       }
     ]
   },

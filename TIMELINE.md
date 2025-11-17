@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-11-16 23:00:43。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2025-11-17 23:00:33。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -32,6 +32,7 @@
 </summary>
 
 
+- [【张鑫旭-鑫空间-鑫生活】2025-11-17-介绍下与CSS自定义组件相关的:state函数](https://www.zhangxinxu.com/wordpress/2025/11/css-state-function/) 
 - [【张鑫旭-鑫空间-鑫生活】2025-11-10-CSS锚点定位实战-鼠标跟随交互效果](https://www.zhangxinxu.com/wordpress/2025/11/css-anchor-position-mouse-follow/) 
 - [【张鑫旭-鑫空间-鑫生活】2025-11-03-垃圾特性之CSS-:heading伪类和:heading函数](https://www.zhangxinxu.com/wordpress/2025/11/css-heading-function/) 
 
@@ -46,7 +47,6 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2025-10-27-Canvas也支持锥形渐变了createConicGradient方法](https://www.zhangxinxu.com/wordpress/2025/10/js-canvas-createconicgradient/) 
 - [【张鑫旭-鑫空间-鑫生活】2025-10-20-CSS-reading-flow和reading-order属性简介](https://www.zhangxinxu.com/wordpress/2025/10/css-reading-flow-order/) 
-- [【张鑫旭-鑫空间-鑫生活】2025-10-13-CSS-field-sizing属性简介](https://www.zhangxinxu.com/wordpress/2025/10/css-field-sizing/) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

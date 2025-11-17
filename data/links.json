@@ -131,6 +131,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "介绍下与CSS自定义组件相关的:state()函数",
+        "link": "https://www.zhangxinxu.com/wordpress/2025/11/css-state-function/",
+        "date": "2025-11-17"
+      },
+      {
         "title": "CSS锚点定位实战-鼠标跟随交互效果",
         "link": "https://www.zhangxinxu.com/wordpress/2025/11/css-anchor-position-mouse-follow/",
         "date": "2025-11-10"
@@ -149,11 +154,6 @@
         "title": "CSS reading-flow和reading-order属性简介",
         "link": "https://www.zhangxinxu.com/wordpress/2025/10/css-reading-flow-order/",
         "date": "2025-10-20"
-      },
-      {
-        "title": "CSS field-sizing属性简介",
-        "link": "https://www.zhangxinxu.com/wordpress/2025/10/css-field-sizing/",
-        "date": "2025-10-13"
       }
     ]
   },

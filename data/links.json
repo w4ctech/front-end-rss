@@ -131,6 +131,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "醒醒，该使用CookieStore新建和管理cookie了",
+        "link": "https://www.zhangxinxu.com/wordpress/2025/11/js-cookiestore-cookie/",
+        "date": "2025-11-28"
+      },
+      {
         "title": "巧用CSS ::details-content伪元素实现任意展开动画",
         "link": "https://www.zhangxinxu.com/wordpress/2025/11/css-details-target-content-open/",
         "date": "2025-11-24"
@@ -149,11 +154,6 @@
         "title": "垃圾特性之CSS :heading伪类和:heading()函数",
         "link": "https://www.zhangxinxu.com/wordpress/2025/11/css-heading-function/",
         "date": "2025-11-03"
-      },
-      {
-        "title": "Canvas也支持锥形渐变了createConicGradient方法",
-        "link": "https://www.zhangxinxu.com/wordpress/2025/10/js-canvas-createconicgradient/",
-        "date": "2025-10-27"
       }
     ]
   },

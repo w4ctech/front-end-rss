@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-12-03 23:00:33。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2025-12-04 23:00:44。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -19,12 +19,23 @@
 <td>09月</td>
 <td>10月</td>
 <td><a href="#2025-11">11月</a></td>
-<td>12月</td>
+<td><a href="#2025-12">12月</a></td>
 </tr>
 
 </table>
 
 ## 文章链接
+
+<details open>
+<summary id="2025-12">
+ 2025-12
+</summary>
+
+
+- [【张鑫旭-鑫空间-鑫生活】2025-12-04-单IMG标签的图片内阴影效果实现](https://www.zhangxinxu.com/wordpress/2025/12/img-inset-shadow/) 
+
+<div align="right"><a href="#时间分类">⬆返回顶部</a></div>
+</details>
 
 <details open>
 <summary id="2025-11">
@@ -36,7 +47,6 @@
 - [【张鑫旭-鑫空间-鑫生活】2025-11-24-巧用CSS-::details-content伪元素实现任意展开动画](https://www.zhangxinxu.com/wordpress/2025/11/css-details-target-content-open/) 
 - [【张鑫旭-鑫空间-鑫生活】2025-11-17-介绍下与CSS自定义组件相关的:state函数](https://www.zhangxinxu.com/wordpress/2025/11/css-state-function/) 
 - [【张鑫旭-鑫空间-鑫生活】2025-11-10-CSS锚点定位实战-鼠标跟随交互效果](https://www.zhangxinxu.com/wordpress/2025/11/css-anchor-position-mouse-follow/) 
-- [【张鑫旭-鑫空间-鑫生活】2025-11-03-垃圾特性之CSS-:heading伪类和:heading函数](https://www.zhangxinxu.com/wordpress/2025/11/css-heading-function/) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

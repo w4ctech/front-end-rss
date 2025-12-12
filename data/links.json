@@ -131,6 +131,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "CSS progress()函数简介",
+        "link": "https://www.zhangxinxu.com/wordpress/2025/12/css-progress-function/",
+        "date": "2025-12-12"
+      },
+      {
         "title": "单IMG标签的图片内阴影效果实现",
         "link": "https://www.zhangxinxu.com/wordpress/2025/12/img-inset-shadow/",
         "date": "2025-12-04"
@@ -149,11 +154,6 @@
         "title": "介绍下与CSS自定义组件相关的:state()函数",
         "link": "https://www.zhangxinxu.com/wordpress/2025/11/css-state-function/",
         "date": "2025-11-17"
-      },
-      {
-        "title": "CSS锚点定位实战-鼠标跟随交互效果",
-        "link": "https://www.zhangxinxu.com/wordpress/2025/11/css-anchor-position-mouse-follow/",
-        "date": "2025-11-10"
       }
     ]
   },

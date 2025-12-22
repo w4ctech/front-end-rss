@@ -131,6 +131,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "补全不足，CSS锚点定位支持锚定容器回退检测了",
+        "link": "https://www.zhangxinxu.com/wordpress/2025/12/css-anchor-container-query/",
+        "date": "2025-12-22"
+      },
+      {
         "title": "CSS progress()函数简介",
         "link": "https://www.zhangxinxu.com/wordpress/2025/12/css-progress-function/",
         "date": "2025-12-12"
@@ -149,11 +154,6 @@
         "title": "巧用CSS ::details-content伪元素实现任意展开动画",
         "link": "https://www.zhangxinxu.com/wordpress/2025/11/css-details-target-content-open/",
         "date": "2025-11-24"
-      },
-      {
-        "title": "介绍下与CSS自定义组件相关的:state()函数",
-        "link": "https://www.zhangxinxu.com/wordpress/2025/11/css-state-function/",
-        "date": "2025-11-17"
       }
     ]
   },

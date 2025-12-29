@@ -131,6 +131,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "今日学习CSS style()样式查询及其range范围语法",
+        "link": "https://www.zhangxinxu.com/wordpress/2025/12/css-style-container-range-syntax/",
+        "date": "2025-12-29"
+      },
+      {
         "title": "补全不足，CSS锚点定位支持锚定容器回退检测了",
         "link": "https://www.zhangxinxu.com/wordpress/2025/12/css-anchor-container-query/",
         "date": "2025-12-22"
@@ -149,11 +154,6 @@
         "title": "醒醒，该使用CookieStore新建和管理cookie了",
         "link": "https://www.zhangxinxu.com/wordpress/2025/11/js-cookiestore-cookie/",
         "date": "2025-11-28"
-      },
-      {
-        "title": "巧用CSS ::details-content伪元素实现任意展开动画",
-        "link": "https://www.zhangxinxu.com/wordpress/2025/11/css-details-target-content-open/",
-        "date": "2025-11-24"
       }
     ]
   },

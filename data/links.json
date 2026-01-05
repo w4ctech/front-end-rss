@@ -131,6 +131,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "学会使用CSSStyleSheet构造CSS样式",
+        "link": "https://www.zhangxinxu.com/wordpress/2026/01/dom-cssstylesheet/",
+        "date": "2026-01-05"
+      },
+      {
         "title": "今日学习CSS style()样式查询及其range范围语法",
         "link": "https://www.zhangxinxu.com/wordpress/2025/12/css-style-container-range-syntax/",
         "date": "2025-12-29"
@@ -149,11 +154,6 @@
         "title": "单IMG标签的图片内阴影效果实现",
         "link": "https://www.zhangxinxu.com/wordpress/2025/12/img-inset-shadow/",
         "date": "2025-12-04"
-      },
-      {
-        "title": "醒醒，该使用CookieStore新建和管理cookie了",
-        "link": "https://www.zhangxinxu.com/wordpress/2025/11/js-cookiestore-cookie/",
-        "date": "2025-11-28"
       }
     ]
   },

@@ -131,6 +131,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "纯CSS实现折线连接两个任意元素效果",
+        "link": "https://www.zhangxinxu.com/wordpress/2026/01/css-anchor-position-connect/",
+        "date": "2026-01-16"
+      },
+      {
         "title": "学会使用CSSStyleSheet构造CSS样式",
         "link": "https://www.zhangxinxu.com/wordpress/2026/01/dom-cssstylesheet/",
         "date": "2026-01-05"
@@ -149,11 +154,6 @@
         "title": "CSS progress()函数简介",
         "link": "https://www.zhangxinxu.com/wordpress/2025/12/css-progress-function/",
         "date": "2025-12-12"
-      },
-      {
-        "title": "单IMG标签的图片内阴影效果实现",
-        "link": "https://www.zhangxinxu.com/wordpress/2025/12/img-inset-shadow/",
-        "date": "2025-12-04"
       }
     ]
   },

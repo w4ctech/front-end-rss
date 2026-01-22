@@ -131,6 +131,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "Promise.try()和Promise.withResolvers()作用速览",
+        "link": "https://www.zhangxinxu.com/wordpress/2026/01/promise-try-withresolvers/",
+        "date": "2026-01-22"
+      },
+      {
         "title": "CSS text-decoration-inset属性首发简介",
         "link": "https://www.zhangxinxu.com/wordpress/2026/01/css-text-decoration-inset/",
         "date": "2026-01-19"
@@ -149,11 +154,6 @@
         "title": "今日学习CSS style()样式查询及其range范围语法",
         "link": "https://www.zhangxinxu.com/wordpress/2025/12/css-style-container-range-syntax/",
         "date": "2025-12-29"
-      },
-      {
-        "title": "补全不足，CSS锚点定位支持锚定容器回退检测了",
-        "link": "https://www.zhangxinxu.com/wordpress/2025/12/css-anchor-container-query/",
-        "date": "2025-12-22"
       }
     ]
   },

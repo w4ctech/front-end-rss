@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2026-01-21 23:13:04。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2026-01-22 23:01:01。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -167,6 +167,7 @@
 
 
 
+- [【张鑫旭-鑫空间-鑫生活】Promise.try和Promise.withResolvers作用速览](https://www.zhangxinxu.com/wordpress/2026/01/promise-try-withresolvers/)
 - [......【查看更多】......](./details/tags/javascript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -187,7 +188,6 @@
 - [【张鑫旭-鑫空间-鑫生活】纯CSS实现折线连接两个任意元素效果](https://www.zhangxinxu.com/wordpress/2026/01/css-anchor-position-connect/)
 - [【张鑫旭-鑫空间-鑫生活】学会使用CSSStyleSheet构造CSS样式](https://www.zhangxinxu.com/wordpress/2026/01/dom-cssstylesheet/)
 - [【张鑫旭-鑫空间-鑫生活】今日学习CSS-style样式查询及其range范围语法](https://www.zhangxinxu.com/wordpress/2025/12/css-style-container-range-syntax/)
-- [【张鑫旭-鑫空间-鑫生活】补全不足，CSS锚点定位支持锚定容器回退检测了](https://www.zhangxinxu.com/wordpress/2025/12/css-anchor-container-query/)
 - [......【查看更多】......](./details/tags/css.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

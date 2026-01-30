@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2026-01-29 23:13:47，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2026-01-30 23:13:46，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -296,11 +296,11 @@
 </summary>
 
 
+- [2026-01-30-告别insertBefore，使用moveBefore移动DOM元素](https://www.zhangxinxu.com/wordpress/2026/01/insertbefore-movebefore-dom/) ![](assets/new.png)  
 - [2026-01-22-Promise.try和Promise.withResolvers作用速览](https://www.zhangxinxu.com/wordpress/2026/01/promise-try-withresolvers/) ![](assets/new.png)  
 - [2026-01-19-CSS-text-decoration-inset属性首发简介](https://www.zhangxinxu.com/wordpress/2026/01/css-text-decoration-inset/) ![](assets/new.png)  
 - [2026-01-16-纯CSS实现折线连接两个任意元素效果](https://www.zhangxinxu.com/wordpress/2026/01/css-anchor-position-connect/) ![](assets/new.png)  
 - [2026-01-05-学会使用CSSStyleSheet构造CSS样式](https://www.zhangxinxu.com/wordpress/2026/01/dom-cssstylesheet/) ![](assets/new.png)  
-- [2025-12-29-今日学习CSS-style样式查询及其range范围语法](https://www.zhangxinxu.com/wordpress/2025/12/css-style-container-range-syntax/) ![](assets/new.png)  
 - [......【查看更多】......](./details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

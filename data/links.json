@@ -131,6 +131,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "告别insertBefore，使用moveBefore移动DOM元素",
+        "link": "https://www.zhangxinxu.com/wordpress/2026/01/insertbefore-movebefore-dom/",
+        "date": "2026-01-30"
+      },
+      {
         "title": "Promise.try()和Promise.withResolvers()作用速览",
         "link": "https://www.zhangxinxu.com/wordpress/2026/01/promise-try-withresolvers/",
         "date": "2026-01-22"
@@ -149,11 +154,6 @@
         "title": "学会使用CSSStyleSheet构造CSS样式",
         "link": "https://www.zhangxinxu.com/wordpress/2026/01/dom-cssstylesheet/",
         "date": "2026-01-05"
-      },
-      {
-        "title": "今日学习CSS style()样式查询及其range范围语法",
-        "link": "https://www.zhangxinxu.com/wordpress/2025/12/css-style-container-range-syntax/",
-        "date": "2025-12-29"
       }
     ]
   },

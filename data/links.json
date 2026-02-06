@@ -131,6 +131,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "CSS text-box属性又是干嘛用的？",
+        "link": "https://www.zhangxinxu.com/wordpress/2026/02/css-text-box/",
+        "date": "2026-02-06"
+      },
+      {
         "title": "告别insertBefore，使用moveBefore移动DOM元素",
         "link": "https://www.zhangxinxu.com/wordpress/2026/01/insertbefore-movebefore-dom/",
         "date": "2026-01-30"
@@ -149,11 +154,6 @@
         "title": "纯CSS实现折线连接两个任意元素效果",
         "link": "https://www.zhangxinxu.com/wordpress/2026/01/css-anchor-position-connect/",
         "date": "2026-01-16"
-      },
-      {
-        "title": "学会使用CSSStyleSheet构造CSS样式",
-        "link": "https://www.zhangxinxu.com/wordpress/2026/01/dom-cssstylesheet/",
-        "date": "2026-01-05"
       }
     ]
   },

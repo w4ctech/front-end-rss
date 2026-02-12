@@ -131,6 +131,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "JS正则表达式y标识符之粘性匹配",
+        "link": "https://www.zhangxinxu.com/wordpress/2026/02/js-regexp-y-sticky-flags/",
+        "date": "2026-02-12"
+      },
+      {
         "title": "CSS text-box属性又是干嘛用的？",
         "link": "https://www.zhangxinxu.com/wordpress/2026/02/css-text-box/",
         "date": "2026-02-06"
@@ -149,11 +154,6 @@
         "title": "CSS text-decoration-inset属性首发简介",
         "link": "https://www.zhangxinxu.com/wordpress/2026/01/css-text-decoration-inset/",
         "date": "2026-01-19"
-      },
-      {
-        "title": "纯CSS实现折线连接两个任意元素效果",
-        "link": "https://www.zhangxinxu.com/wordpress/2026/01/css-anchor-position-connect/",
-        "date": "2026-01-16"
       }
     ]
   },

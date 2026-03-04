@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-03-03 23:13:56。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2026-03-04 23:17:42。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -10,7 +10,7 @@
 <tr>
 <td><a href="#2026-01">01月</a></td>
 <td><a href="#2026-02">02月</a></td>
-<td>03月</td>
+<td><a href="#2026-03">03月</a></td>
 <td>04月</td>
 <td>05月</td>
 <td>06月</td>
@@ -25,6 +25,17 @@
 </table>
 
 ## 文章链接
+
+<details open>
+<summary id="2026-03">
+ 2026-03
+</summary>
+
+
+- [【张鑫旭-鑫空间-鑫生活】2026-03-04-HTML-interestfor属性与悬停popover交互效果](https://www.zhangxinxu.com/wordpress/2026/03/css-interestfor-invoker-target-source/) 
+
+<div align="right"><a href="#时间分类">⬆返回顶部</a></div>
+</details>
 
 <details open>
 <summary id="2026-02">
@@ -46,7 +57,6 @@
 
 
 - [【张鑫旭-鑫空间-鑫生活】2026-01-30-告别insertBefore，使用moveBefore移动DOM元素](https://www.zhangxinxu.com/wordpress/2026/01/insertbefore-movebefore-dom/) 
-- [【张鑫旭-鑫空间-鑫生活】2026-01-22-Promise.try和Promise.withResolvers作用速览](https://www.zhangxinxu.com/wordpress/2026/01/promise-try-withresolvers/) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

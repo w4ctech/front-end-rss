@@ -131,6 +131,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "HTML interestfor属性与悬停popover交互效果",
+        "link": "https://www.zhangxinxu.com/wordpress/2026/03/css-interestfor-invoker-target-source/",
+        "date": "2026-03-04"
+      },
+      {
         "title": "点击图片放大查看交互效果的最佳实现",
         "link": "https://www.zhangxinxu.com/wordpress/2026/02/image-preview-best-practice/",
         "date": "2026-02-25"
@@ -149,11 +154,6 @@
         "title": "告别insertBefore，使用moveBefore移动DOM元素",
         "link": "https://www.zhangxinxu.com/wordpress/2026/01/insertbefore-movebefore-dom/",
         "date": "2026-01-30"
-      },
-      {
-        "title": "Promise.try()和Promise.withResolvers()作用速览",
-        "link": "https://www.zhangxinxu.com/wordpress/2026/01/promise-try-withresolvers/",
-        "date": "2026-01-22"
       }
     ]
   },

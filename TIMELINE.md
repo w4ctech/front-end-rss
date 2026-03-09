@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-03-08 23:11:23。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2026-03-09 23:14:54。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -8,7 +8,7 @@
 <th colspan="12">2026年</th>
 </tr>
 <tr>
-<td><a href="#2026-01">01月</a></td>
+<td>01月</td>
 <td><a href="#2026-02">02月</a></td>
 <td><a href="#2026-03">03月</a></td>
 <td>04月</td>
@@ -32,6 +32,7 @@
 </summary>
 
 
+- [【张鑫旭-鑫空间-鑫生活】2026-03-09-HTML-dialog元素新支持了closedBy属性](https://www.zhangxinxu.com/wordpress/2026/03/html-dialog-closedby/) 
 - [【张鑫旭-鑫空间-鑫生活】2026-03-04-HTML-interestfor属性与悬停popover交互效果](https://www.zhangxinxu.com/wordpress/2026/03/css-interestfor-invoker-target-source/) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
@@ -46,17 +47,6 @@
 - [【张鑫旭-鑫空间-鑫生活】2026-02-25-点击图片放大查看交互效果的最佳实现](https://www.zhangxinxu.com/wordpress/2026/02/image-preview-best-practice/) 
 - [【张鑫旭-鑫空间-鑫生活】2026-02-12-JS正则表达式y标识符之粘性匹配](https://www.zhangxinxu.com/wordpress/2026/02/js-regexp-y-sticky-flags/) 
 - [【张鑫旭-鑫空间-鑫生活】2026-02-06-CSS-text-box属性又是干嘛用的？](https://www.zhangxinxu.com/wordpress/2026/02/css-text-box/) 
-
-<div align="right"><a href="#时间分类">⬆返回顶部</a></div>
-</details>
-
-<details open>
-<summary id="2026-01">
- 2026-01
-</summary>
-
-
-- [【张鑫旭-鑫空间-鑫生活】2026-01-30-告别insertBefore，使用moveBefore移动DOM元素](https://www.zhangxinxu.com/wordpress/2026/01/insertbefore-movebefore-dom/) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

@@ -131,6 +131,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "浅学WebTransport API：下一代Web双向通信技术",
+        "link": "https://www.zhangxinxu.com/wordpress/2026/03/webtransport-api/",
+        "date": "2026-03-17"
+      },
+      {
         "title": "HTML dialog元素新支持了closedBy属性",
         "link": "https://www.zhangxinxu.com/wordpress/2026/03/html-dialog-closedby/",
         "date": "2026-03-09"
@@ -149,11 +154,6 @@
         "title": "JS正则表达式y标识符之粘性匹配",
         "link": "https://www.zhangxinxu.com/wordpress/2026/02/js-regexp-y-sticky-flags/",
         "date": "2026-02-12"
-      },
-      {
-        "title": "CSS text-box属性又是干嘛用的？",
-        "link": "https://www.zhangxinxu.com/wordpress/2026/02/css-text-box/",
-        "date": "2026-02-06"
       }
     ]
   },

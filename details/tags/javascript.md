@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-03-29 23:19:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2026-03-30 23:23:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -6,5 +6,3 @@
 > 关键字：`JavaScript`、`ECMAScript`、`JS`、`ES6`、`Promise`、`document`、`await`、`async`、`decorator`、`module`、`import`、`catch`、`console`、`setInterval`、`Worker`、`fetch`、`this`、`bind`、`DataTransfer`、`ArrayBuffer`、`Component`、`DOM`、`H5`、`HTML5`、`组件`、`正则`、`数组`、`事件`、`深拷贝`、`数据代理`、`变量`、`函数式`、`声明式`、`异步`、`表单`、`滚动`、`scroll`、`防抖`、`适配`、`路由`、`模块化`
 
 
-
-- [2026-02-12-JS正则表达式y标识符之粘性匹配](https://www.zhangxinxu.com/wordpress/2026/02/js-regexp-y-sticky-flags/) 

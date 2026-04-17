@@ -131,6 +131,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "借助mediabunny纯JS实现视频水印、剪裁、合成等功能",
+        "link": "https://www.zhangxinxu.com/wordpress/2026/04/mediabunny-video-water-clip-merge/",
+        "date": "2026-04-17"
+      },
+      {
         "title": "务必谨慎使用JS WeakRef弱引用",
         "link": "https://www.zhangxinxu.com/wordpress/2026/04/js-weakref/",
         "date": "2026-04-13"
@@ -149,11 +154,6 @@
         "title": "浅学WebTransport API：下一代Web双向通信技术",
         "link": "https://www.zhangxinxu.com/wordpress/2026/03/webtransport-api/",
         "date": "2026-03-17"
-      },
-      {
-        "title": "HTML dialog元素新支持了closedBy属性",
-        "link": "https://www.zhangxinxu.com/wordpress/2026/03/html-dialog-closedby/",
-        "date": "2026-03-09"
       }
     ]
   },

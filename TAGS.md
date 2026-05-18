@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2026-05-17 23:43:22。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2026-05-18 23:52:06。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -169,7 +169,6 @@
 
 - [【张鑫旭-鑫空间-鑫生活】JSON.rawJSON方法的作用是什么？](https://www.zhangxinxu.com/wordpress/2026/05/js-json-rawjson/)
 - [【张鑫旭-鑫空间-鑫生活】借助mediabunny纯JS实现视频水印、剪裁、合成等功能](https://www.zhangxinxu.com/wordpress/2026/04/mediabunny-video-water-clip-merge/)
-- [【张鑫旭-鑫空间-鑫生活】务必谨慎使用JS-WeakRef弱引用](https://www.zhangxinxu.com/wordpress/2026/04/js-weakref/)
 - [......【查看更多】......](./details/tags/javascript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -186,6 +185,7 @@
 
 
 
+- [【张鑫旭-鑫空间-鑫生活】光标的形状也能设置了，就是CSS-caret-shape属性](https://www.zhangxinxu.com/wordpress/2026/05/css-caret-shape/)
 - [【张鑫旭-鑫空间-鑫生活】如何使用CSS判断鼠标从哪个方向进入元素？](https://www.zhangxinxu.com/wordpress/2026/04/css-hover-direction/)
 - [......【查看更多】......](./details/tags/css.md)
 

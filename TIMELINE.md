@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-05-17 23:43:22。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2026-05-18 23:52:06。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -32,6 +32,7 @@
 </summary>
 
 
+- [【张鑫旭-鑫空间-鑫生活】2026-05-18-光标的形状也能设置了，就是CSS-caret-shape属性](https://www.zhangxinxu.com/wordpress/2026/05/css-caret-shape/) 
 - [【张鑫旭-鑫空间-鑫生活】2026-05-11-pretext与文字四面环绕效果的实现](https://www.zhangxinxu.com/wordpress/2026/05/pretext-text-around/) 
 - [【张鑫旭-鑫空间-鑫生活】2026-05-06-JSON.rawJSON方法的作用是什么？](https://www.zhangxinxu.com/wordpress/2026/05/js-json-rawjson/) 
 
@@ -46,7 +47,6 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2026-04-27-如何使用CSS判断鼠标从哪个方向进入元素？](https://www.zhangxinxu.com/wordpress/2026/04/css-hover-direction/) 
 - [【张鑫旭-鑫空间-鑫生活】2026-04-17-借助mediabunny纯JS实现视频水印、剪裁、合成等功能](https://www.zhangxinxu.com/wordpress/2026/04/mediabunny-video-water-clip-merge/) 
-- [【张鑫旭-鑫空间-鑫生活】2026-04-13-务必谨慎使用JS-WeakRef弱引用](https://www.zhangxinxu.com/wordpress/2026/04/js-weakref/) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

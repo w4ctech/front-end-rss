@@ -131,6 +131,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "1分钟速度了解text-align match-parent声明",
+        "link": "https://www.zhangxinxu.com/wordpress/2026/05/css-text-align-match-parent/",
+        "date": "2026-05-25"
+      },
+      {
         "title": "光标的形状也能设置了，就是CSS caret-shape属性",
         "link": "https://www.zhangxinxu.com/wordpress/2026/05/css-caret-shape/",
         "date": "2026-05-18"
@@ -149,11 +154,6 @@
         "title": "如何使用CSS判断鼠标从哪个方向进入元素？",
         "link": "https://www.zhangxinxu.com/wordpress/2026/04/css-hover-direction/",
         "date": "2026-04-27"
-      },
-      {
-        "title": "借助mediabunny纯JS实现视频水印、剪裁、合成等功能",
-        "link": "https://www.zhangxinxu.com/wordpress/2026/04/mediabunny-video-water-clip-merge/",
-        "date": "2026-04-17"
       }
     ]
   },

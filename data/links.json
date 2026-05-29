@@ -131,6 +131,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "新特性速递：focus()行为新增focusVisible控制",
+        "link": "https://www.zhangxinxu.com/wordpress/2026/05/js-focus-focusvisible/",
+        "date": "2026-05-29"
+      },
+      {
         "title": "1分钟速度了解text-align match-parent声明",
         "link": "https://www.zhangxinxu.com/wordpress/2026/05/css-text-align-match-parent/",
         "date": "2026-05-25"
@@ -149,11 +154,6 @@
         "title": "JSON.rawJSON方法的作用是什么？",
         "link": "https://www.zhangxinxu.com/wordpress/2026/05/js-json-rawjson/",
         "date": "2026-05-06"
-      },
-      {
-        "title": "如何使用CSS判断鼠标从哪个方向进入元素？",
-        "link": "https://www.zhangxinxu.com/wordpress/2026/04/css-hover-direction/",
-        "date": "2026-04-27"
       }
     ]
   },

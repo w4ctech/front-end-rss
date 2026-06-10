@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2026-06-08 23:55:48，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2026-06-10 00:02:57，:rocket: 更新条数: +8， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -37,7 +37,7 @@
 - [程序员成长指北](#程序员成长指北)  
 - [Nodejs技术栈](#nodejs技术栈)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
@@ -312,6 +312,9 @@
 </summary>
 
 
+- [2026-06-05-科技爱好者周刊（第-399-期）：中国-AI-大厂访问记](http://www.ruanyifeng.com/blog/2026/06/weekly-issue-399.html) ![](assets/new.png)  
+- [2026-05-29-科技爱好者周刊（第-398-期）：Token-费用难以负担](http://www.ruanyifeng.com/blog/2026/05/weekly-issue-398.html) ![](assets/new.png)  
+- [2026-05-21-科技爱好者周刊（第-397-期）：财富正在向-AI-集中](http://www.ruanyifeng.com/blog/2026/05/weekly-issue-397.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

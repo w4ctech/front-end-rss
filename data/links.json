@@ -161,7 +161,23 @@
     "rss": "http://www.ruanyifeng.com/blog/atom.xml",
     "title": "阮一峰的网络日志",
     "link": "http://www.ruanyifeng.com/blog/",
-    "items": []
+    "items": [
+      {
+        "title": "科技爱好者周刊（第 399 期）：中国 AI 大厂访问记",
+        "link": "http://www.ruanyifeng.com/blog/2026/06/weekly-issue-399.html",
+        "date": "2026-06-05"
+      },
+      {
+        "title": "科技爱好者周刊（第 398 期）：Token 费用难以负担",
+        "link": "http://www.ruanyifeng.com/blog/2026/05/weekly-issue-398.html",
+        "date": "2026-05-29"
+      },
+      {
+        "title": "科技爱好者周刊（第 397 期）：财富正在向 AI 集中",
+        "link": "http://www.ruanyifeng.com/blog/2026/05/weekly-issue-397.html",
+        "date": "2026-05-21"
+      }
+    ]
   },
   {
     "rss": "http://jdc.jd.com/feed",

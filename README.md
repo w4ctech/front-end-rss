@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2026-06-10 00:02:57，:rocket: 更新条数: +8， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2026-06-11 00:05:41，:rocket: 更新条数: +8， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -296,11 +296,11 @@
 </summary>
 
 
+- [2026-06-10-全新的CSS-border-shape属性简介](https://www.zhangxinxu.com/wordpress/2026/06/css-border-shape/) ![](assets/new.png)  
 - [2026-06-01-CSS-contrast-color函数简介](https://www.zhangxinxu.com/wordpress/2026/06/css-contrast-color/) ![](assets/new.png)  
 - [2026-05-29-新特性速递：focus行为新增focusVisible控制](https://www.zhangxinxu.com/wordpress/2026/05/js-focus-focusvisible/) ![](assets/new.png)  
 - [2026-05-25-1分钟速度了解text-align-match-parent声明](https://www.zhangxinxu.com/wordpress/2026/05/css-text-align-match-parent/) ![](assets/new.png)  
 - [2026-05-18-光标的形状也能设置了，就是CSS-caret-shape属性](https://www.zhangxinxu.com/wordpress/2026/05/css-caret-shape/) ![](assets/new.png)  
-- [2026-05-11-pretext与文字四面环绕效果的实现](https://www.zhangxinxu.com/wordpress/2026/05/pretext-text-around/) ![](assets/new.png)  
 - [......【查看更多】......](./details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

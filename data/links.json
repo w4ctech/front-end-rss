@@ -131,6 +131,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "全新的CSS border-shape属性简介",
+        "link": "https://www.zhangxinxu.com/wordpress/2026/06/css-border-shape/",
+        "date": "2026-06-10"
+      },
+      {
         "title": "CSS contrast-color()函数简介",
         "link": "https://www.zhangxinxu.com/wordpress/2026/06/css-contrast-color/",
         "date": "2026-06-01"
@@ -149,11 +154,6 @@
         "title": "光标的形状也能设置了，就是CSS caret-shape属性",
         "link": "https://www.zhangxinxu.com/wordpress/2026/05/css-caret-shape/",
         "date": "2026-05-18"
-      },
-      {
-        "title": "pretext与文字四面环绕效果的实现",
-        "link": "https://www.zhangxinxu.com/wordpress/2026/05/pretext-text-around/",
-        "date": "2026-05-11"
       }
     ]
   },

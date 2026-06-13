@@ -163,6 +163,11 @@
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
       {
+        "title": "科技爱好者周刊（第 400 期）：rsync 的争论",
+        "link": "http://www.ruanyifeng.com/blog/2026/06/weekly-issue-400.html",
+        "date": "2026-06-11"
+      },
+      {
         "title": "科技爱好者周刊（第 399 期）：中国 AI 大厂访问记",
         "link": "http://www.ruanyifeng.com/blog/2026/06/weekly-issue-399.html",
         "date": "2026-06-05"
@@ -171,11 +176,6 @@
         "title": "科技爱好者周刊（第 398 期）：Token 费用难以负担",
         "link": "http://www.ruanyifeng.com/blog/2026/05/weekly-issue-398.html",
         "date": "2026-05-29"
-      },
-      {
-        "title": "科技爱好者周刊（第 397 期）：财富正在向 AI 集中",
-        "link": "http://www.ruanyifeng.com/blog/2026/05/weekly-issue-397.html",
-        "date": "2026-05-21"
       }
     ]
   },

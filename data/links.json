@@ -131,6 +131,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "全是好东西！HTML command属性和JS toggle事件",
+        "link": "https://www.zhangxinxu.com/wordpress/2026/06/html-common-toggle-beforetoggle-event/",
+        "date": "2026-06-22"
+      },
+      {
         "title": "全新的CSS border-shape属性简介",
         "link": "https://www.zhangxinxu.com/wordpress/2026/06/css-border-shape/",
         "date": "2026-06-10"
@@ -149,11 +154,6 @@
         "title": "1分钟速度了解text-align match-parent声明",
         "link": "https://www.zhangxinxu.com/wordpress/2026/05/css-text-align-match-parent/",
         "date": "2026-05-25"
-      },
-      {
-        "title": "光标的形状也能设置了，就是CSS caret-shape属性",
-        "link": "https://www.zhangxinxu.com/wordpress/2026/05/css-caret-shape/",
-        "date": "2026-05-18"
       }
     ]
   },

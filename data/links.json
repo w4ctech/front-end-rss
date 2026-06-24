@@ -131,6 +131,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "CSS color-scheme属性与light-dark()颜色函数",
+        "link": "https://www.zhangxinxu.com/wordpress/2026/06/css-color-theme-light-dark-function/",
+        "date": "2026-06-24"
+      },
+      {
         "title": "全是好东西！HTML command属性和JS toggle事件",
         "link": "https://www.zhangxinxu.com/wordpress/2026/06/html-common-toggle-beforetoggle-event/",
         "date": "2026-06-22"
@@ -149,11 +154,6 @@
         "title": "新特性速递：focus()行为新增focusVisible控制",
         "link": "https://www.zhangxinxu.com/wordpress/2026/05/js-focus-focusvisible/",
         "date": "2026-05-29"
-      },
-      {
-        "title": "1分钟速度了解text-align match-parent声明",
-        "link": "https://www.zhangxinxu.com/wordpress/2026/05/css-text-align-match-parent/",
-        "date": "2026-05-25"
       }
     ]
   },

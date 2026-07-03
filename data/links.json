@@ -163,6 +163,11 @@
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
       {
+        "title": "科技爱好者周刊（第 402 期）：我在智念 AI 的日子（小说）",
+        "link": "http://www.ruanyifeng.com/blog/2026/07/weekly-issue-402.html",
+        "date": "2026-07-02"
+      },
+      {
         "title": "Dario Amodei：AI 开源是伪命题",
         "link": "http://www.ruanyifeng.com/blog/2026/06/anthropic.html",
         "date": "2026-06-30"
@@ -171,11 +176,6 @@
         "title": "科技爱好者周刊（第 401 期）：如何赚到10亿美元",
         "link": "http://www.ruanyifeng.com/blog/2026/06/weekly-issue-401.html",
         "date": "2026-06-26"
-      },
-      {
-        "title": "科技爱好者周刊（第 400 期）：rsync 的争论",
-        "link": "http://www.ruanyifeng.com/blog/2026/06/weekly-issue-400.html",
-        "date": "2026-06-11"
       }
     ]
   },

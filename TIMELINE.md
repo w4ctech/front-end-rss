@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-07-02 23:52:45。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2026-07-03 23:52:45。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -14,7 +14,7 @@
 <td>04月</td>
 <td>05月</td>
 <td><a href="#2026-06">06月</a></td>
-<td>07月</td>
+<td><a href="#2026-07">07月</a></td>
 <td>08月</td>
 <td>09月</td>
 <td>10月</td>
@@ -25,6 +25,17 @@
 </table>
 
 ## 文章链接
+
+<details open>
+<summary id="2026-07">
+ 2026-07
+</summary>
+
+
+- [【阮一峰的网络日志】2026-07-02-科技爱好者周刊（第-402-期）：我在智念-AI-的日子（小说）](http://www.ruanyifeng.com/blog/2026/07/weekly-issue-402.html) 
+
+<div align="right"><a href="#时间分类">⬆返回顶部</a></div>
+</details>
 
 <details open>
 <summary id="2026-06">
@@ -39,7 +50,6 @@
 - [【张鑫旭-鑫空间-鑫生活】2026-06-01-CSS-contrast-color函数简介](https://www.zhangxinxu.com/wordpress/2026/06/css-contrast-color/) 
 - [【阮一峰的网络日志】2026-06-30-Dario-Amodei：AI-开源是伪命题](http://www.ruanyifeng.com/blog/2026/06/anthropic.html) 
 - [【阮一峰的网络日志】2026-06-26-科技爱好者周刊（第-401-期）：如何赚到10亿美元](http://www.ruanyifeng.com/blog/2026/06/weekly-issue-401.html) 
-- [【阮一峰的网络日志】2026-06-11-科技爱好者周刊（第-400-期）：rsync-的争论](http://www.ruanyifeng.com/blog/2026/06/weekly-issue-400.html) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

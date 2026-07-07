@@ -131,6 +131,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "AI时代网站智能体无障碍访问开发指南",
+        "link": "https://www.zhangxinxu.com/wordpress/2026/07/ai-agent-accessible-guide/",
+        "date": "2026-07-07"
+      },
+      {
         "title": "浏览器原生支持JSON模块导入与开发啦！",
         "link": "https://www.zhangxinxu.com/wordpress/2026/06/native-json-module-import/",
         "date": "2026-06-29"
@@ -149,11 +154,6 @@
         "title": "全新的CSS border-shape属性简介",
         "link": "https://www.zhangxinxu.com/wordpress/2026/06/css-border-shape/",
         "date": "2026-06-10"
-      },
-      {
-        "title": "CSS contrast-color()函数简介",
-        "link": "https://www.zhangxinxu.com/wordpress/2026/06/css-contrast-color/",
-        "date": "2026-06-01"
       }
     ]
   },

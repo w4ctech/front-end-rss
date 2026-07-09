@@ -131,6 +131,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "前端快讯：setHTML()和Element.startViewTransition已支持",
+        "link": "https://www.zhangxinxu.com/wordpress/2026/07/sethtml-element-startviewtransition/",
+        "date": "2026-07-09"
+      },
+      {
         "title": "AI时代网站智能体无障碍访问开发指南",
         "link": "https://www.zhangxinxu.com/wordpress/2026/07/ai-agent-accessible-guide/",
         "date": "2026-07-07"
@@ -149,11 +154,6 @@
         "title": "全是好东西！HTML command属性和JS toggle事件",
         "link": "https://www.zhangxinxu.com/wordpress/2026/06/html-common-toggle-beforetoggle-event/",
         "date": "2026-06-22"
-      },
-      {
-        "title": "全新的CSS border-shape属性简介",
-        "link": "https://www.zhangxinxu.com/wordpress/2026/06/css-border-shape/",
-        "date": "2026-06-10"
       }
     ]
   },

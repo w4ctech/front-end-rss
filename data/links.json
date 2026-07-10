@@ -163,6 +163,11 @@
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
       {
+        "title": "科技爱好者周刊（第 403 期）：为什么 Dropbox 不成功",
+        "link": "http://www.ruanyifeng.com/blog/2026/07/weekly-issue-403.html",
+        "date": "2026-07-10"
+      },
+      {
         "title": "科技爱好者周刊（第 402 期）：我在智念 AI 的日子（小说）",
         "link": "http://www.ruanyifeng.com/blog/2026/07/weekly-issue-402.html",
         "date": "2026-07-02"
@@ -186,11 +191,6 @@
         "title": "科技爱好者周刊（第 399 期）：中国 AI 大厂访问记",
         "link": "http://www.ruanyifeng.com/blog/2026/06/weekly-issue-399.html",
         "date": "2026-06-05"
-      },
-      {
-        "title": "科技爱好者周刊（第 398 期）：Token 费用难以负担",
-        "link": "http://www.ruanyifeng.com/blog/2026/05/weekly-issue-398.html",
-        "date": "2026-05-29"
       }
     ]
   },

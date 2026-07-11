@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-07-10 23:44:07。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2026-07-11 23:39:50。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -50,9 +50,6 @@
 - [【张鑫旭-鑫空间-鑫生活】2026-06-24-CSS-color-scheme属性与light-dark颜色函数](https://www.zhangxinxu.com/wordpress/2026/06/css-color-theme-light-dark-function/) 
 - [【张鑫旭-鑫空间-鑫生活】2026-06-22-全是好东西！HTML-command属性和JS-toggle事件](https://www.zhangxinxu.com/wordpress/2026/06/html-common-toggle-beforetoggle-event/) 
 - [【阮一峰的网络日志】2026-06-30-Dario-Amodei：AI-开源是伪命题](http://www.ruanyifeng.com/blog/2026/06/anthropic.html) 
-- [【阮一峰的网络日志】2026-06-26-科技爱好者周刊（第-401-期）：如何赚到10亿美元](http://www.ruanyifeng.com/blog/2026/06/weekly-issue-401.html) 
-- [【阮一峰的网络日志】2026-06-11-科技爱好者周刊（第-400-期）：rsync-的争论](http://www.ruanyifeng.com/blog/2026/06/weekly-issue-400.html) 
-- [【阮一峰的网络日志】2026-06-05-科技爱好者周刊（第-399-期）：中国-AI-大厂访问记](http://www.ruanyifeng.com/blog/2026/06/weekly-issue-399.html) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

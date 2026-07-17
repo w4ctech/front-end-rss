@@ -131,6 +131,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "CSS新单位dvh、lvmin、vi、cqb等初解",
+        "link": "https://www.zhangxinxu.com/wordpress/2026/07/css-dvh-vi-cqi/",
+        "date": "2026-07-17"
+      },
+      {
         "title": "前端快讯：setHTML()和Element.startViewTransition已支持",
         "link": "https://www.zhangxinxu.com/wordpress/2026/07/sethtml-element-startviewtransition/",
         "date": "2026-07-09"
@@ -149,11 +154,6 @@
         "title": "CSS color-scheme属性与light-dark()颜色函数",
         "link": "https://www.zhangxinxu.com/wordpress/2026/06/css-color-theme-light-dark-function/",
         "date": "2026-06-24"
-      },
-      {
-        "title": "全是好东西！HTML command属性和JS toggle事件",
-        "link": "https://www.zhangxinxu.com/wordpress/2026/06/html-common-toggle-beforetoggle-event/",
-        "date": "2026-06-22"
       }
     ]
   },
@@ -163,6 +163,11 @@
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
       {
+        "title": "科技爱好者周刊（第 404 期）：你需要知道的 AI 内存知识",
+        "link": "http://www.ruanyifeng.com/blog/2026/07/weekly-issue-404.html",
+        "date": "2026-07-16"
+      },
+      {
         "title": "科技爱好者周刊（第 403 期）：为什么 Dropbox 不成功",
         "link": "http://www.ruanyifeng.com/blog/2026/07/weekly-issue-403.html",
         "date": "2026-07-10"
@@ -171,11 +176,6 @@
         "title": "科技爱好者周刊（第 402 期）：我在智念 AI 的日子（小说）",
         "link": "http://www.ruanyifeng.com/blog/2026/07/weekly-issue-402.html",
         "date": "2026-07-02"
-      },
-      {
-        "title": "Dario Amodei：AI 开源是伪命题",
-        "link": "http://www.ruanyifeng.com/blog/2026/06/anthropic.html",
-        "date": "2026-06-30"
       }
     ]
   },

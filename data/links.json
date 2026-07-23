@@ -131,6 +131,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "纯CSS实现repeat(–n, anything)循环展示或相加功能",
+        "link": "https://www.zhangxinxu.com/wordpress/2026/07/css-custom-repeat-function/",
+        "date": "2026-07-23"
+      },
+      {
         "title": "CSS新单位dvh、lvmin、vi、cqb等初解",
         "link": "https://www.zhangxinxu.com/wordpress/2026/07/css-dvh-vi-cqi/",
         "date": "2026-07-17"
@@ -149,11 +154,6 @@
         "title": "浏览器原生支持JSON模块导入与开发啦！",
         "link": "https://www.zhangxinxu.com/wordpress/2026/06/native-json-module-import/",
         "date": "2026-06-29"
-      },
-      {
-        "title": "CSS color-scheme属性与light-dark()颜色函数",
-        "link": "https://www.zhangxinxu.com/wordpress/2026/06/css-color-theme-light-dark-function/",
-        "date": "2026-06-24"
       }
     ]
   },

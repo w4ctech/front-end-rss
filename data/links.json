@@ -131,6 +131,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "Screen.isExtended、getScreenDetails与多显示器开发",
+        "link": "https://www.zhangxinxu.com/wordpress/2026/07/windows-getscreendetails-isextended/",
+        "date": "2026-07-29"
+      },
+      {
         "title": "纯CSS实现repeat(–n, anything)循环展示或相加功能",
         "link": "https://www.zhangxinxu.com/wordpress/2026/07/css-custom-repeat-function/",
         "date": "2026-07-23"
@@ -149,11 +154,6 @@
         "title": "AI时代网站智能体无障碍访问开发指南",
         "link": "https://www.zhangxinxu.com/wordpress/2026/07/ai-agent-accessible-guide/",
         "date": "2026-07-07"
-      },
-      {
-        "title": "浏览器原生支持JSON模块导入与开发啦！",
-        "link": "https://www.zhangxinxu.com/wordpress/2026/06/native-json-module-import/",
-        "date": "2026-06-29"
       }
     ]
   },

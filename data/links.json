@@ -131,6 +131,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "来了来了，Flex/Grid布局的间隙装饰线它来了",
+        "link": "https://www.zhangxinxu.com/wordpress/2026/08/css-flex-grid-column-row-rule/",
+        "date": "2026-08-03"
+      },
+      {
         "title": "Screen.isExtended、getScreenDetails与多显示器开发",
         "link": "https://www.zhangxinxu.com/wordpress/2026/07/windows-getscreendetails-isextended/",
         "date": "2026-07-29"
@@ -149,11 +154,6 @@
         "title": "前端快讯：setHTML()和Element.startViewTransition已支持",
         "link": "https://www.zhangxinxu.com/wordpress/2026/07/sethtml-element-startviewtransition/",
         "date": "2026-07-09"
-      },
-      {
-        "title": "AI时代网站智能体无障碍访问开发指南",
-        "link": "https://www.zhangxinxu.com/wordpress/2026/07/ai-agent-accessible-guide/",
-        "date": "2026-07-07"
       }
     ]
   },

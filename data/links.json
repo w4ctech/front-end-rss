@@ -131,6 +131,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "卧靠，这是好东西，CSS text-fit属性简介",
+        "link": "https://www.zhangxinxu.com/wordpress/2026/08/css-text-fit/",
+        "date": "2026-08-21"
+      },
+      {
         "title": "还在reduce求和吗？该使用Math.sumPrecise()方法啦",
         "link": "https://www.zhangxinxu.com/wordpress/2026/08/js-math-sumprecise/",
         "date": "2026-08-14"
@@ -149,11 +154,6 @@
         "title": "Screen.isExtended、getScreenDetails与多显示器开发",
         "link": "https://www.zhangxinxu.com/wordpress/2026/07/windows-getscreendetails-isextended/",
         "date": "2026-07-29"
-      },
-      {
-        "title": "纯CSS实现repeat(–n, anything)循环展示或相加功能",
-        "link": "https://www.zhangxinxu.com/wordpress/2026/07/css-custom-repeat-function/",
-        "date": "2026-07-23"
       }
     ]
   },
@@ -163,6 +163,11 @@
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
       {
+        "title": "科技爱好者周刊（第 409 期）：程序员的职业未来",
+        "link": "http://www.ruanyifeng.com/blog/2026/08/weekly-issue-409.html",
+        "date": "2026-08-20"
+      },
+      {
         "title": "科技爱好者周刊（第 408 期）：你需要知道的 AI 缓存知识",
         "link": "http://www.ruanyifeng.com/blog/2026/08/weekly-issue-408.html",
         "date": "2026-08-13"
@@ -171,11 +176,6 @@
         "title": "科技爱好者周刊（第 407 期）：国家为什么需要开源软件？",
         "link": "http://www.ruanyifeng.com/blog/2026/08/weekly-issue-407.html",
         "date": "2026-08-07"
-      },
-      {
-        "title": "科技爱好者周刊（第 406 期）：道可，道非，常道",
-        "link": "http://www.ruanyifeng.com/blog/2026/07/weekly-issue-406.html",
-        "date": "2026-07-31"
       }
     ]
   },

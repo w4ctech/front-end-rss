@@ -163,6 +163,11 @@
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
       {
+        "title": "科技爱好者周刊（第 410 期）：你需要知道的 AI 三种机制",
+        "link": "http://www.ruanyifeng.com/blog/2026/08/weekly-issue-410.html",
+        "date": "2026-08-27"
+      },
+      {
         "title": "科技爱好者周刊（第 409 期）：程序员的职业未来",
         "link": "http://www.ruanyifeng.com/blog/2026/08/weekly-issue-409.html",
         "date": "2026-08-20"
@@ -171,11 +176,6 @@
         "title": "科技爱好者周刊（第 408 期）：你需要知道的 AI 缓存知识",
         "link": "http://www.ruanyifeng.com/blog/2026/08/weekly-issue-408.html",
         "date": "2026-08-13"
-      },
-      {
-        "title": "科技爱好者周刊（第 407 期）：国家为什么需要开源软件？",
-        "link": "http://www.ruanyifeng.com/blog/2026/08/weekly-issue-407.html",
-        "date": "2026-08-07"
       }
     ]
   },

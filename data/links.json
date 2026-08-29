@@ -131,6 +131,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "超级Web特性HTML-in-Canvas初体验",
+        "link": "https://www.zhangxinxu.com/wordpress/2026/08/html-in-canvas/",
+        "date": "2026-08-28"
+      },
+      {
         "title": "卧靠，这是好东西，CSS text-fit属性简介",
         "link": "https://www.zhangxinxu.com/wordpress/2026/08/css-text-fit/",
         "date": "2026-08-21"
@@ -149,11 +154,6 @@
         "title": "来了来了，Flex/Grid布局的间隙装饰线它来了",
         "link": "https://www.zhangxinxu.com/wordpress/2026/08/css-flex-grid-column-row-rule/",
         "date": "2026-08-03"
-      },
-      {
-        "title": "Screen.isExtended、getScreenDetails与多显示器开发",
-        "link": "https://www.zhangxinxu.com/wordpress/2026/07/windows-getscreendetails-isextended/",
-        "date": "2026-07-29"
       }
     ]
   },

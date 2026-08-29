@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-08-28 06:24:49。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2026-08-29 03:56:36。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -14,7 +14,7 @@
 <td>04月</td>
 <td>05月</td>
 <td>06月</td>
-<td><a href="#2026-07">07月</a></td>
+<td>07月</td>
 <td><a href="#2026-08">08月</a></td>
 <td>09月</td>
 <td>10月</td>
@@ -32,6 +32,7 @@
 </summary>
 
 
+- [【张鑫旭-鑫空间-鑫生活】2026-08-28-超级Web特性HTML-in-Canvas初体验](https://www.zhangxinxu.com/wordpress/2026/08/html-in-canvas/) 
 - [【张鑫旭-鑫空间-鑫生活】2026-08-21-卧靠，这是好东西，CSS-text-fit属性简介](https://www.zhangxinxu.com/wordpress/2026/08/css-text-fit/) 
 - [【张鑫旭-鑫空间-鑫生活】2026-08-14-还在reduce求和吗？该使用Math.sumPrecise方法啦](https://www.zhangxinxu.com/wordpress/2026/08/js-math-sumprecise/) 
 - [【张鑫旭-鑫空间-鑫生活】2026-08-06-background-clip升级，支持边框或文字应用背景](https://www.zhangxinxu.com/wordpress/2026/08/background-clip-border-area-text/) 
@@ -39,17 +40,6 @@
 - [【阮一峰的网络日志】2026-08-27-科技爱好者周刊（第-410-期）：你需要知道的-AI-三种机制](http://www.ruanyifeng.com/blog/2026/08/weekly-issue-410.html) 
 - [【阮一峰的网络日志】2026-08-20-科技爱好者周刊（第-409-期）：程序员的职业未来](http://www.ruanyifeng.com/blog/2026/08/weekly-issue-409.html) 
 - [【阮一峰的网络日志】2026-08-13-科技爱好者周刊（第-408-期）：你需要知道的-AI-缓存知识](http://www.ruanyifeng.com/blog/2026/08/weekly-issue-408.html) 
-
-<div align="right"><a href="#时间分类">⬆返回顶部</a></div>
-</details>
-
-<details open>
-<summary id="2026-07">
- 2026-07
-</summary>
-
-
-- [【张鑫旭-鑫空间-鑫生活】2026-07-29-Screen.isExtended、getScreenDetails与多显示器开发](https://www.zhangxinxu.com/wordpress/2026/07/windows-getscreendetails-isextended/) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

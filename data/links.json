@@ -131,6 +131,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "别再使用IndexedDB，大文件读写就用OPFS",
+        "link": "https://www.zhangxinxu.com/wordpress/2026/09/indexdb-navigator-storage-getdirectory/",
+        "date": "2026-09-03"
+      },
+      {
         "title": "超级Web特性HTML-in-Canvas初体验",
         "link": "https://www.zhangxinxu.com/wordpress/2026/08/html-in-canvas/",
         "date": "2026-08-28"
@@ -149,11 +154,6 @@
         "title": "background-clip升级，支持边框或文字应用背景",
         "link": "https://www.zhangxinxu.com/wordpress/2026/08/background-clip-border-area-text/",
         "date": "2026-08-06"
-      },
-      {
-        "title": "来了来了，Flex/Grid布局的间隙装饰线它来了",
-        "link": "https://www.zhangxinxu.com/wordpress/2026/08/css-flex-grid-column-row-rule/",
-        "date": "2026-08-03"
       }
     ]
   },
@@ -163,6 +163,11 @@
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
       {
+        "title": "科技爱好者周刊（第 411 期）：OpenClaw 2.0 是一个缩影",
+        "link": "http://www.ruanyifeng.com/blog/2026/09/weekly-issue-411.html",
+        "date": "2026-09-03"
+      },
+      {
         "title": "科技爱好者周刊（第 410 期）：你需要知道的 AI 三种机制",
         "link": "http://www.ruanyifeng.com/blog/2026/08/weekly-issue-410.html",
         "date": "2026-08-27"
@@ -171,11 +176,6 @@
         "title": "科技爱好者周刊（第 409 期）：程序员的职业未来",
         "link": "http://www.ruanyifeng.com/blog/2026/08/weekly-issue-409.html",
         "date": "2026-08-20"
-      },
-      {
-        "title": "科技爱好者周刊（第 408 期）：你需要知道的 AI 缓存知识",
-        "link": "http://www.ruanyifeng.com/blog/2026/08/weekly-issue-408.html",
-        "date": "2026-08-13"
       }
     ]
   },

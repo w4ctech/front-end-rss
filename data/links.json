@@ -131,6 +131,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "新时代下的tooltip提示效果的最佳实现",
+        "link": "https://www.zhangxinxu.com/wordpress/2026/09/best-tooltip-effect/",
+        "date": "2026-09-15"
+      },
+      {
         "title": "关键时刻可以救命的Web Locks API",
         "link": "https://www.zhangxinxu.com/wordpress/2026/09/web-locks-api/",
         "date": "2026-09-10"
@@ -149,11 +154,6 @@
         "title": "卧靠，这是好东西，CSS text-fit属性简介",
         "link": "https://www.zhangxinxu.com/wordpress/2026/08/css-text-fit/",
         "date": "2026-08-21"
-      },
-      {
-        "title": "还在reduce求和吗？该使用Math.sumPrecise()方法啦",
-        "link": "https://www.zhangxinxu.com/wordpress/2026/08/js-math-sumprecise/",
-        "date": "2026-08-14"
       }
     ]
   },

@@ -131,6 +131,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "CSS rex、rlh、ric等根家族单位简介",
+        "link": "https://www.zhangxinxu.com/wordpress/2026/09/css-root-units/",
+        "date": "2026-09-17"
+      },
+      {
         "title": "新时代下的tooltip提示效果的最佳实现",
         "link": "https://www.zhangxinxu.com/wordpress/2026/09/best-tooltip-effect/",
         "date": "2026-09-15"
@@ -149,11 +154,6 @@
         "title": "超级Web特性HTML-in-Canvas初体验",
         "link": "https://www.zhangxinxu.com/wordpress/2026/08/html-in-canvas/",
         "date": "2026-08-28"
-      },
-      {
-        "title": "卧靠，这是好东西，CSS text-fit属性简介",
-        "link": "https://www.zhangxinxu.com/wordpress/2026/08/css-text-fit/",
-        "date": "2026-08-21"
       }
     ]
   },
@@ -163,6 +163,11 @@
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
       {
+        "title": "科技爱好者周刊（第 413 期）：再见了，React Native",
+        "link": "http://www.ruanyifeng.com/blog/2026/09/weekly-issue-413.html",
+        "date": "2026-09-18"
+      },
+      {
         "title": "科技爱好者周刊（第 412 期）：禁止 issue，只用 PR",
         "link": "http://www.ruanyifeng.com/blog/2026/09/weekly-issue-412.html",
         "date": "2026-09-11"
@@ -171,11 +176,6 @@
         "title": "科技爱好者周刊（第 411 期）：OpenClaw 2.0 是一个缩影",
         "link": "http://www.ruanyifeng.com/blog/2026/09/weekly-issue-411.html",
         "date": "2026-09-03"
-      },
-      {
-        "title": "科技爱好者周刊（第 410 期）：你需要知道的 AI 三种机制",
-        "link": "http://www.ruanyifeng.com/blog/2026/08/weekly-issue-410.html",
-        "date": "2026-08-27"
       }
     ]
   },

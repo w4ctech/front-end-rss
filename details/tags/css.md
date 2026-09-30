@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-09-29 02:21:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2026-09-30 01:40:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## CSS
 
@@ -7,4 +7,5 @@
 
 
 
+- [2026-09-29-独家：CSS背景色单方向扩展技术](https://www.zhangxinxu.com/wordpress/2026/09/css-background-extend/) 
 - [2026-09-17-CSS-rex、rlh、ric等根家族单位简介](https://www.zhangxinxu.com/wordpress/2026/09/css-root-units/) 

@@ -131,6 +131,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "一个视频彻底看懂CSS scroll-axis-lock none的作用",
+        "link": "https://www.zhangxinxu.com/wordpress/2026/09/scroll-axis-lock-none/",
+        "date": "2026-09-30"
+      },
+      {
         "title": "独家：CSS背景色单方向扩展技术",
         "link": "https://www.zhangxinxu.com/wordpress/2026/09/css-background-extend/",
         "date": "2026-09-29"
@@ -149,11 +154,6 @@
         "title": "关键时刻可以救命的Web Locks API",
         "link": "https://www.zhangxinxu.com/wordpress/2026/09/web-locks-api/",
         "date": "2026-09-10"
-      },
-      {
-        "title": "别再使用IndexedDB，大文件读写就用OPFS",
-        "link": "https://www.zhangxinxu.com/wordpress/2026/09/indexdb-navigator-storage-getdirectory/",
-        "date": "2026-09-03"
       }
     ]
   },

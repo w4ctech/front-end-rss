@@ -161,23 +161,7 @@
     "rss": "http://www.ruanyifeng.com/blog/atom.xml",
     "title": "阮一峰的网络日志",
     "link": "http://www.ruanyifeng.com/blog/",
-    "items": [
-      {
-        "title": "科技爱好者周刊（第 413 期）：再见了，React Native",
-        "link": "http://www.ruanyifeng.com/blog/2026/09/weekly-issue-413.html",
-        "date": "2026-09-18"
-      },
-      {
-        "title": "科技爱好者周刊（第 412 期）：禁止 issue，只用 PR",
-        "link": "http://www.ruanyifeng.com/blog/2026/09/weekly-issue-412.html",
-        "date": "2026-09-11"
-      },
-      {
-        "title": "科技爱好者周刊（第 411 期）：OpenClaw 2.0 是一个缩影",
-        "link": "http://www.ruanyifeng.com/blog/2026/09/weekly-issue-411.html",
-        "date": "2026-09-03"
-      }
-    ]
+    "items": []
   },
   {
     "rss": "http://jdc.jd.com/feed",

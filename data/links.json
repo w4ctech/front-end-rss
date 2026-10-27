@@ -131,6 +131,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "算了，还是讲下named-feature() @supports规则检测吧",
+        "link": "https://www.zhangxinxu.com/wordpress/2026/10/css-supports-named-feature/",
+        "date": "2026-10-26"
+      },
+      {
         "title": "Nice！继text-wrap之后，Flex布局也支持balance排版了",
         "link": "https://www.zhangxinxu.com/wordpress/2026/10/flex-wrap-balance/",
         "date": "2026-10-14"
@@ -149,11 +154,6 @@
         "title": "独家：CSS背景色单方向扩展技术",
         "link": "https://www.zhangxinxu.com/wordpress/2026/09/css-background-extend/",
         "date": "2026-09-29"
-      },
-      {
-        "title": "CSS rex、rlh、ric等根家族单位简介",
-        "link": "https://www.zhangxinxu.com/wordpress/2026/09/css-root-units/",
-        "date": "2026-09-17"
       }
     ]
   },

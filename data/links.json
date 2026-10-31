@@ -131,6 +131,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "懒加载图片新支持了sizes=”auto”属性，其作用是？",
+        "link": "https://www.zhangxinxu.com/wordpress/2026/10/loading-lazy-img-sizes-auto/",
+        "date": "2026-10-30"
+      },
+      {
         "title": "算了，还是讲下named-feature() @supports规则检测吧",
         "link": "https://www.zhangxinxu.com/wordpress/2026/10/css-supports-named-feature/",
         "date": "2026-10-26"
@@ -149,11 +154,6 @@
         "title": "一个视频彻底看懂CSS scroll-axis-lock none的作用",
         "link": "https://www.zhangxinxu.com/wordpress/2026/09/scroll-axis-lock-none/",
         "date": "2026-09-30"
-      },
-      {
-        "title": "独家：CSS背景色单方向扩展技术",
-        "link": "https://www.zhangxinxu.com/wordpress/2026/09/css-background-extend/",
-        "date": "2026-09-29"
       }
     ]
   },

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2026-10-31 01:54:33。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2026-11-01 01:34:06。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -202,6 +202,7 @@
 
 
 
+- [【阮一峰的网络日志】科技爱好者周刊（第-415-期）：3D-版《看不见的城市》](http://www.ruanyifeng.com/blog/2026/10/weekly-issue-415.html)
 - [......【查看更多】......](./details/tags/canvas-image.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -362,6 +363,8 @@
 
 
 - [【张鑫旭-鑫空间-鑫生活】算了，还是讲下named-feature-@supports规则检测吧](https://www.zhangxinxu.com/wordpress/2026/10/css-supports-named-feature/)
+- [【阮一峰的网络日志】科技爱好者周刊（第-417-期）：不要让-AI-代表你](http://www.ruanyifeng.com/blog/2026/10/weekly-issue-417.html)
+- [【阮一峰的网络日志】科技爱好者周刊（第-416-期）：编程已经面目全非](http://www.ruanyifeng.com/blog/2026/10/weekly-issue-416.html)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

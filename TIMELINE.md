@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-11-06 02:55:43。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2026-11-07 02:25:31。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -16,7 +16,7 @@
 <td>06月</td>
 <td>07月</td>
 <td>08月</td>
-<td><a href="#2026-09">09月</a></td>
+<td>09月</td>
 <td><a href="#2026-10">10月</a></td>
 <td><a href="#2026-11">11月</a></td>
 <td>12月</td>
@@ -32,6 +32,7 @@
 </summary>
 
 
+- [【张鑫旭-鑫空间-鑫生活】2026-11-06-JS拖拽交互必用setPointerCapture方法](https://www.zhangxinxu.com/wordpress/2026/11/js-drag-set-pointer-capture/) 
 - [【阮一峰的网络日志】2026-11-05-科技爱好者周刊（第-418-期）：如果科技停止在21世纪初](http://www.ruanyifeng.com/blog/2026/11/weekly-issue-418.html) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
@@ -49,17 +50,6 @@
 - [【张鑫旭-鑫空间-鑫生活】2026-10-08-Document-Picture-in-Picture-API与任意元素画中画实现](https://www.zhangxinxu.com/wordpress/2026/10/document-picture-in-picture-api/) 
 - [【阮一峰的网络日志】2026-10-30-科技爱好者周刊（第-417-期）：不要让-AI-代表你](http://www.ruanyifeng.com/blog/2026/10/weekly-issue-417.html) 
 - [【阮一峰的网络日志】2026-10-23-科技爱好者周刊（第-416-期）：编程已经面目全非](http://www.ruanyifeng.com/blog/2026/10/weekly-issue-416.html) 
-
-<div align="right"><a href="#时间分类">⬆返回顶部</a></div>
-</details>
-
-<details open>
-<summary id="2026-09">
- 2026-09
-</summary>
-
-
-- [【张鑫旭-鑫空间-鑫生活】2026-09-30-一个视频彻底看懂CSS-scroll-axis-lock-none的作用](https://www.zhangxinxu.com/wordpress/2026/09/scroll-axis-lock-none/) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

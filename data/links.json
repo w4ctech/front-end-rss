@@ -131,6 +131,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "JS拖拽交互必用setPointerCapture方法",
+        "link": "https://www.zhangxinxu.com/wordpress/2026/11/js-drag-set-pointer-capture/",
+        "date": "2026-11-06"
+      },
+      {
         "title": "懒加载图片新支持了sizes=”auto”属性，其作用是？",
         "link": "https://www.zhangxinxu.com/wordpress/2026/10/loading-lazy-img-sizes-auto/",
         "date": "2026-10-30"
@@ -149,11 +154,6 @@
         "title": "Document Picture-in-Picture API与任意元素画中画实现",
         "link": "https://www.zhangxinxu.com/wordpress/2026/10/document-picture-in-picture-api/",
         "date": "2026-10-08"
-      },
-      {
-        "title": "一个视频彻底看懂CSS scroll-axis-lock none的作用",
-        "link": "https://www.zhangxinxu.com/wordpress/2026/09/scroll-axis-lock-none/",
-        "date": "2026-09-30"
       }
     ]
   },

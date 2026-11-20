@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2026-11-19 03:53:49。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2026-11-20 03:46:11。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -362,9 +362,9 @@
 
 
 - [【张鑫旭-鑫空间-鑫生活】算了，还是讲下named-feature-@supports规则检测吧](https://www.zhangxinxu.com/wordpress/2026/10/css-supports-named-feature/)
+- [【阮一峰的网络日志】科技爱好者周刊（第-420-期）：最分心的一年](http://www.ruanyifeng.com/blog/2026/11/weekly-issue-420.html)
 - [【阮一峰的网络日志】科技爱好者周刊（第-419-期）：机房来了，写字楼走了](http://www.ruanyifeng.com/blog/2026/11/weekly-issue-419.html)
 - [【阮一峰的网络日志】科技爱好者周刊（第-418-期）：如果科技停止在21世纪初](http://www.ruanyifeng.com/blog/2026/11/weekly-issue-418.html)
-- [【阮一峰的网络日志】科技爱好者周刊（第-417-期）：不要让-AI-代表你](http://www.ruanyifeng.com/blog/2026/10/weekly-issue-417.html)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

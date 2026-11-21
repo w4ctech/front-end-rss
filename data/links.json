@@ -131,6 +131,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "继textarea之后，iframe也自适应大小啦！",
+        "link": "https://www.zhangxinxu.com/wordpress/2026/11/ifmame-sizing-content/",
+        "date": "2026-11-20"
+      },
+      {
         "title": "CSS终于支持random()随机函数了，等死老子了",
         "link": "https://www.zhangxinxu.com/wordpress/2026/11/css-math-random/",
         "date": "2026-11-16"
@@ -149,11 +154,6 @@
         "title": "算了，还是讲下named-feature() @supports规则检测吧",
         "link": "https://www.zhangxinxu.com/wordpress/2026/10/css-supports-named-feature/",
         "date": "2026-10-26"
-      },
-      {
-        "title": "Nice！继text-wrap之后，Flex布局也支持balance排版了",
-        "link": "https://www.zhangxinxu.com/wordpress/2026/10/flex-wrap-balance/",
-        "date": "2026-10-14"
       }
     ]
   },

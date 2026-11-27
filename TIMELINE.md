@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-11-26 04:33:09。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2026-11-27 04:36:56。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -35,9 +35,9 @@
 - [【张鑫旭-鑫空间-鑫生活】2026-11-20-继textarea之后，iframe也自适应大小啦！](https://www.zhangxinxu.com/wordpress/2026/11/ifmame-sizing-content/) 
 - [【张鑫旭-鑫空间-鑫生活】2026-11-16-CSS终于支持random随机函数了，等死老子了](https://www.zhangxinxu.com/wordpress/2026/11/css-math-random/) 
 - [【张鑫旭-鑫空间-鑫生活】2026-11-06-JS拖拽交互必用setPointerCapture方法](https://www.zhangxinxu.com/wordpress/2026/11/js-drag-set-pointer-capture/) 
+- [【阮一峰的网络日志】2026-11-27-科技爱好者周刊（第-421-期）：AI-的疯狂造富](http://www.ruanyifeng.com/blog/2026/11/weekly-issue-421.html) 
 - [【阮一峰的网络日志】2026-11-20-科技爱好者周刊（第-420-期）：最分心的一年](http://www.ruanyifeng.com/blog/2026/11/weekly-issue-420.html) 
 - [【阮一峰的网络日志】2026-11-13-科技爱好者周刊（第-419-期）：机房来了，写字楼走了](http://www.ruanyifeng.com/blog/2026/11/weekly-issue-419.html) 
-- [【阮一峰的网络日志】2026-11-05-科技爱好者周刊（第-418-期）：如果科技停止在21世纪初](http://www.ruanyifeng.com/blog/2026/11/weekly-issue-418.html) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

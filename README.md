@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2026-11-26 04:33:09，:rocket: 更新条数: +8， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2026-11-27 04:36:56，:rocket: 更新条数: +8， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -312,9 +312,9 @@
 </summary>
 
 
+- [2026-11-27-科技爱好者周刊（第-421-期）：AI-的疯狂造富](http://www.ruanyifeng.com/blog/2026/11/weekly-issue-421.html) ![](assets/new.png)  
 - [2026-11-20-科技爱好者周刊（第-420-期）：最分心的一年](http://www.ruanyifeng.com/blog/2026/11/weekly-issue-420.html) ![](assets/new.png)  
 - [2026-11-13-科技爱好者周刊（第-419-期）：机房来了，写字楼走了](http://www.ruanyifeng.com/blog/2026/11/weekly-issue-419.html) ![](assets/new.png)  
-- [2026-11-05-科技爱好者周刊（第-418-期）：如果科技停止在21世纪初](http://www.ruanyifeng.com/blog/2026/11/weekly-issue-418.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
